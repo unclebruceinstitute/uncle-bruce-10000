@@ -1,446 +1,375 @@
 <!DOCTYPE html>
-<html lang="zh-Hant">
+<html lang="zh-HK">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="theme-color" content="#1a1a2e">
-<link rel="manifest" href="manifest.json">
-<title>S1 Math MC Practice</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>中一數學練習 | S1 Math Practice</title>
 <style>
-:root{--bg:#1a1a2e;--surface:#16213e;--surface2:#0f3460;--primary:#e94560;--primary-dim:#a8324a;--accent:#00b4d8;--accent2:#48cae4;--correct:#2ecc71;--wrong:#e74c3c;--text:#eee;--text2:#aaa;--text3:#777;--radius:12px;--shadow:0 4px 20px rgba(0,0,0,.3)}
 *{margin:0;padding:0;box-sizing:border-box}
-html{font-size:16px}
-body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang TC","Microsoft JhengHei",sans-serif;background:var(--bg);color:var(--text);min-height:100vh;min-height:100dvh;display:flex;flex-direction:column;overflow-x:hidden}
-.top-bar{display:flex;align-items:center;justify-content:space-between;padding:12px 16px;background:var(--surface);border-bottom:1px solid rgba(255,255,255,.06);position:sticky;top:0;z-index:100}
-.top-bar .logo{font-size:1.1rem;font-weight:700}.top-bar .logo span{color:var(--primary)}
-.top-bar-btn{background:none;border:none;color:var(--text2);font-size:1.3rem;cursor:pointer;padding:4px 8px;border-radius:8px;transition:all .2s}
-.top-bar-btn:hover{color:var(--text);background:rgba(255,255,255,.08)}
-.lang-switch{display:flex;gap:4px;background:var(--surface2);border-radius:8px;padding:3px}
-.lang-btn{background:none;border:none;color:var(--text3);padding:6px 12px;border-radius:6px;font-size:.8rem;cursor:pointer;transition:all .2s;font-weight:600}
-.lang-btn.active{background:var(--accent);color:#fff}
-.app{flex:1;display:flex;flex-direction:column;max-width:640px;width:100%;margin:0 auto;padding:16px}
-.view{display:none;animation:fadeIn .3s ease}.view.active{display:flex;flex-direction:column;gap:16px}
-@keyframes fadeIn{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
-@keyframes slideUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
-@keyframes pop{0%{transform:scale(.95);opacity:0}100%{transform:scale(1);opacity:1}}
-@keyframes shake{0%,100%{transform:translateX(0)}20%,60%{transform:translateX(-6px)}40%,80%{transform:translateX(6px)}}
-@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.05)}}
-.menu-title{text-align:center;font-size:1.5rem;font-weight:700;margin:8px 0 4px}
-.menu-subtitle{text-align:center;color:var(--text2);font-size:.9rem;margin-bottom:8px}
-.menu-card{background:var(--surface);border-radius:var(--radius);padding:20px;cursor:pointer;transition:all .25s;border:1px solid rgba(255,255,255,.05);display:flex;align-items:center;gap:16px}
-.menu-card:hover,.menu-card:active{transform:translateY(-2px);border-color:var(--primary);box-shadow:0 8px 30px rgba(233,69,96,.15)}
-.menu-card .icon{font-size:2.2rem;flex-shrink:0}
-.menu-card .info h3{font-size:1.1rem;margin-bottom:4px}
-.menu-card .info p{color:var(--text2);font-size:.85rem}
-.stats-bar{display:flex;gap:8px;flex-wrap:wrap}
-.stat-chip{background:var(--surface);border-radius:20px;padding:6px 14px;font-size:.8rem;color:var(--text2);display:flex;align-items:center;gap:6px}
-.stat-chip .num{color:var(--accent);font-weight:700}
-.topic-item{background:var(--surface);border-radius:var(--radius);padding:16px;cursor:pointer;transition:all .2s;border:1px solid rgba(255,255,255,.04);display:flex;justify-content:space-between;align-items:center}
-.topic-item:hover{border-color:var(--accent)}
-.topic-item .left h3{font-size:1rem;margin-bottom:2px}.topic-item .left p{font-size:.8rem;color:var(--text2)}
-.topic-item .count{background:var(--surface2);color:var(--accent);padding:4px 12px;border-radius:20px;font-size:.8rem;font-weight:600}
-.back-btn{display:inline-flex;align-items:center;gap:6px;background:none;border:1px solid rgba(255,255,255,.15);color:var(--text2);padding:8px 16px;border-radius:8px;font-size:.85rem;cursor:pointer;transition:all .2s;align-self:flex-start}
-.back-btn:hover{border-color:var(--text);color:var(--text)}
-.q-header{display:flex;justify-content:space-between;align-items:center;padding:8px 0}
-.q-counter{font-size:.9rem;color:var(--accent);font-weight:600}
-.q-timer{font-size:.9rem;color:var(--primary);font-weight:600}
-.q-progress-bar{height:4px;background:var(--surface2);border-radius:2px;overflow:hidden}
-.q-progress-bar .fill{height:100%;background:linear-gradient(90deg,var(--accent),var(--accent2));border-radius:2px;transition:width .4s ease}
-.q-card{background:var(--surface);border-radius:var(--radius);padding:20px;animation:pop .3s ease}
-.q-card .topic-tag{display:inline-block;background:var(--surface2);color:var(--accent);padding:3px 10px;border-radius:12px;font-size:.75rem;margin-bottom:12px}
-.q-text{font-size:1.05rem;line-height:1.7;margin-bottom:16px;white-space:pre-wrap}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK','Microsoft JhengHei',sans-serif;background:#f0f2f5;color:#333}
+.container{max-width:800px;margin:0 auto;padding:16px}
+.header{text-align:center;padding:20px 0;background:linear-gradient(135deg,#10b981,#059669);color:#fff;border-radius:16px;margin-bottom:20px}
+.header h1{font-size:24px;margin-bottom:4px}
+.header p{font-size:14px;opacity:.9}
+.stats-bar{display:flex;justify-content:space-around;background:#fff;border-radius:12px;padding:12px;margin-bottom:16px;box-shadow:0 2px 8px rgba(0,0,0,.08)}
+.stat{text-align:center}
+.stat-num{font-size:24px;font-weight:700;color:#10b981}
+.stat-label{font-size:12px;color:#888}
+.mode-select{display:flex;gap:12px;margin-bottom:16px}
+.mode-btn{flex:1;padding:16px;border:2px solid #e0e0e0;border-radius:12px;background:#fff;text-align:center;cursor:pointer;transition:.2s}
+.mode-btn:hover,.mode-btn.active{border-color:#10b981;background:#10b981;color:#fff}
+.mode-btn h3{font-size:16px;margin-bottom:4px}
+.mode-btn p{font-size:12px;opacity:.8}
+.topics-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px;margin-bottom:16px}
+.topic-card{padding:14px;background:#fff;border-radius:10px;cursor:pointer;transition:.2s;box-shadow:0 1px 4px rgba(0,0,0,.06);text-align:center}
+.topic-card:hover{transform:translateY(-2px);box-shadow:0 4px 12px rgba(0,0,0,.12)}
+.topic-card .emoji{font-size:28px;margin-bottom:6px}
+.topic-card .name{font-size:13px;font-weight:600}
+.topic-card .count{font-size:11px;color:#888}
+.quiz-area{background:#fff;border-radius:16px;padding:24px;box-shadow:0 2px 12px rgba(0,0,0,.08)}
+.question-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}
+.q-num{font-size:14px;color:#10b981;font-weight:600}
+.q-diff{font-size:12px;padding:4px 10px;border-radius:20px}
+.diff-1{background:#e8f5e9;color:#2e7d32}
+.diff-2{background:#fff3e0;color:#e65100}
+.diff-3{background:#fce4ec;color:#c62828}
+.question-text{font-size:18px;line-height:1.8;margin-bottom:20px;font-weight:500;white-space:pre-line}
+.question-text .en{font-size:14px;color:#666;margin-top:8px;border-top:1px solid #eee;padding-top:8px}
 .options{display:flex;flex-direction:column;gap:10px}
-.option-btn{background:var(--surface);border:2px solid rgba(255,255,255,.08);border-radius:var(--radius);padding:14px 16px;cursor:pointer;transition:all .2s;text-align:left;font-size:.95rem;color:var(--text);display:flex;gap:12px;align-items:flex-start}
-.option-btn:hover:not(.disabled){border-color:var(--accent);background:rgba(0,180,216,.05)}
-.option-btn .opt-letter{flex-shrink:0;width:28px;height:28px;border-radius:50%;background:var(--surface2);display:flex;align-items:center;justify-content:center;font-weight:700;font-size:.85rem;color:var(--accent)}
-.option-btn.correct{border-color:var(--correct);background:rgba(46,204,113,.1);animation:pulse .4s ease}
-.option-btn.correct .opt-letter{background:var(--correct);color:#fff}
-.option-btn.wrong{border-color:var(--wrong);background:rgba(231,76,60,.1);animation:shake .4s ease}
-.option-btn.wrong .opt-letter{background:var(--wrong);color:#fff}
-.option-btn.disabled{cursor:default;opacity:.7}
-.option-btn.disabled:hover{border-color:rgba(255,255,255,.08);background:var(--surface)}
-.option-btn.correct.disabled,.option-btn.wrong.disabled{opacity:1}
-.explanation{background:var(--surface);border-radius:var(--radius);padding:16px;border-left:4px solid var(--accent);animation:slideUp .3s ease;margin-top:8px}
-.explanation h4{color:var(--accent);margin-bottom:6px;font-size:.9rem}
-.explanation p{font-size:.9rem;line-height:1.5;color:var(--text2)}
-.next-btn{background:linear-gradient(135deg,var(--primary),var(--primary-dim));color:#fff;border:none;border-radius:var(--radius);padding:14px;font-size:1rem;font-weight:600;cursor:pointer;transition:all .2s;margin-top:4px}
-.next-btn:hover{transform:translateY(-1px);box-shadow:0 4px 16px rgba(233,69,96,.3)}
-.results-card{background:var(--surface);border-radius:var(--radius);padding:24px;text-align:center;animation:pop .4s ease}
-.results-card .score-circle{width:120px;height:120px;border-radius:50%;background:conic-gradient(var(--accent) var(--pct,0%),var(--surface2) 0);display:flex;align-items:center;justify-content:center;margin:0 auto 16px;font-size:2rem;font-weight:700}
-.results-card .score-circle .inner{width:96px;height:96px;border-radius:50%;background:var(--surface);display:flex;align-items:center;justify-content:center;flex-direction:column}
-.results-card .score-circle .inner small{font-size:.7rem;color:var(--text2)}
-.results-card h2{margin-bottom:4px}.results-card .sub{color:var(--text2);font-size:.9rem;margin-bottom:16px}
-.results-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-bottom:16px}
-.results-grid .rg-item{background:var(--bg);border-radius:8px;padding:12px 8px}
-.results-grid .rg-item .val{font-size:1.3rem;font-weight:700}.results-grid .rg-item .lbl{font-size:.7rem;color:var(--text2);margin-top:2px}
-.rg-item.green .val{color:var(--correct)}.rg-item.red .val{color:var(--wrong)}.rg-item.blue .val{color:var(--accent)}
-.loading{text-align:center;padding:40px;color:var(--text2)}
-.spinner{width:40px;height:40px;border:3px solid var(--surface2);border-top-color:var(--accent);border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 12px}
-@keyframes spin{to{transform:rotate(360deg)}}
-.count-selector{display:flex;gap:8px;flex-wrap:wrap;justify-content:center;margin:12px 0}
-.count-btn{background:var(--surface);border:2px solid rgba(255,255,255,.08);border-radius:8px;padding:10px 20px;color:var(--text);font-size:1rem;cursor:pointer;transition:all .2s}
-.count-btn:hover,.count-btn.active{border-color:var(--accent);background:rgba(0,180,216,.1)}
-.nav-row{display:flex;gap:8px;margin-top:8px}
-.nav-row .next-btn{flex:1}
-.nav-row .quit-btn{background:var(--surface2);color:var(--text2);border:none;border-radius:var(--radius);padding:14px;font-size:.9rem;font-weight:600;cursor:pointer;transition:all .2s;flex:0 0 auto}
-.nav-row .quit-btn:hover{background:rgba(255,255,255,.1);color:var(--text)}
-.install-btn{background:linear-gradient(135deg,#6c5ce7,#a29bfe);color:#fff;border:none;border-radius:var(--radius);padding:12px;font-size:.95rem;font-weight:600;cursor:pointer;margin-top:8px;display:none}
-.install-btn:hover{opacity:.9}
-@media(max-width:400px){html{font-size:14px}.app{padding:12px}}
+.option{padding:14px 16px;border:2px solid #e8e8e8;border-radius:10px;cursor:pointer;transition:.2s;font-size:16px;line-height:1.5}
+.option:hover{border-color:#10b981;background:#ecfdf5}
+.option.correct{border-color:#4caf50;background:#e8f5e9}
+.option.wrong{border-color:#f44336;background:#fce4ec}
+.option.disabled{pointer-events:none}
+.explanation{margin-top:16px;padding:16px;background:#ecfdf5;border-radius:10px;border-left:4px solid #10b981;display:none}
+.explanation.show{display:block}
+.explanation h4{color:#10b981;margin-bottom:8px}
+.explanation p{font-size:14px;line-height:1.6}
+.btn{padding:12px 24px;border:none;border-radius:10px;font-size:16px;font-weight:600;cursor:pointer;transition:.2s}
+.btn-primary{background:#10b981;color:#fff}
+.btn-primary:hover{background:#059669}
+.btn-secondary{background:#e0e0e0;color:#333}
+.btn-group{display:flex;gap:12px;margin-top:20px;justify-content:center}
+.progress{width:100%;height:6px;background:#e0e0e0;border-radius:3px;margin-bottom:16px;overflow:hidden}
+.progress-bar{height:100%;background:linear-gradient(90deg,#10b981,#059669);border-radius:3px;transition:.3s}
+.hidden{display:none}
+.lang-toggle{position:fixed;top:16px;right:16px;z-index:100}
+.lang-btn{padding:6px 12px;border:1px solid #10b981;border-radius:20px;background:#fff;cursor:pointer;font-size:12px}
+.lang-btn.active{background:#10b981;color:#fff}
+.back-btn{padding:8px 16px;border:1px solid #ddd;border-radius:8px;background:#fff;cursor:pointer;font-size:14px;margin-bottom:16px}
+.back-btn:hover{background:#f5f5f5}
+.diff-filter{display:flex;gap:8px;margin-bottom:16px;justify-content:center;flex-wrap:wrap}
+.diff-filter-btn{padding:6px 14px;border:2px solid #e0e0e0;border-radius:20px;background:#fff;cursor:pointer;font-size:13px;transition:.2s}
+.diff-filter-btn.active{border-color:#10b981;background:#10b981;color:#fff}
+.q-count-select{display:flex;gap:8px;margin-bottom:16px;justify-content:center}
+.q-count-btn{padding:8px 16px;border:2px solid #e0e0e0;border-radius:10px;background:#fff;cursor:pointer;font-size:14px;transition:.2s}
+.q-count-btn.active{border-color:#10b981;background:#10b981;color:#fff}
 </style>
 </head>
 <body>
-
-<div class="top-bar">
-  <button class="top-bar-btn" onclick="goHome()" title="主頁">🏠</button>
-  <div class="logo"><span>Math</span> MC</div>
-  <div class="lang-switch" id="lang-switch">
-    <button class="lang-btn" data-lang="zh" onclick="setLang('zh')">中文</button>
-    <button class="lang-btn" data-lang="en" onclick="setLang('en')">EN</button>
-    <button class="lang-btn" data-lang="bi" onclick="setLang('bi')">雙語</button>
-  </div>
+<div class="lang-toggle">
+<button class="lang-btn active" onclick="setLang('zh')">中文</button>
+<button class="lang-btn" onclick="setLang('en')">EN</button>
+<button class="lang-btn" onclick="setLang('bi')">雙語</button>
 </div>
 
-<div class="app">
-  <!-- MAIN MENU -->
-  <div id="view-menu" class="view active">
-    <div class="menu-title">🧮 S1 Math MC Practice</div>
-    <div class="menu-subtitle">中一數學選擇題練習</div>
-    <div class="stats-bar" id="stats-bar"></div>
+<div class="container">
+<div class="header">
+<h1>📐 中一數學練習</h1>
+<p>Secondary 1 Mathematics Practice | 10,000 Questions</p>
+</div>
 
-    <div class="menu-card" onclick="showTopicList()">
-      <div class="icon">📚</div>
-      <div class="info"><h3 data-zh="按課題練習" data-en="Practice by Topic">按課題練習</h3><p data-zh="選擇特定課題" data-en="Select specific topic">選擇特定課題</p></div>
-    </div>
+<div class="stats-bar">
+<div class="stat"><div class="stat-num" id="totalQ">10,000</div><div class="stat-label" data-zh="總題數" data-en="Total">總題數</div></div>
+<div class="stat"><div class="stat-num" id="doneQ">0</div><div class="stat-label" data-zh="已完成" data-en="Done">已完成</div></div>
+<div class="stat"><div class="stat-num" id="correctQ">0</div><div class="stat-label" data-zh="答對" data-en="Correct">答對</div></div>
+<div class="stat"><div class="stat-num" id="accuracy">0%</div><div class="stat-label" data-zh="正確率" data-en="Accuracy">正確率</div></div>
+</div>
 
-    <div class="menu-card" onclick="showRandomSetup()">
-      <div class="icon">🎲</div>
-      <div class="info"><h3 data-zh="隨機練習" data-en="Random Practice">隨機練習</h3><p data-zh="隨機抽取題目" data-en="Random questions from all topics">隨機抽取題目</p></div>
-    </div>
+<!-- HOME -->
+<div id="homeView">
+<div class="mode-select">
+<div class="mode-btn active" onclick="setMode('topic')" id="modeTopic">
+<h3 data-zh="📚 按課題" data-en="📚 By Topic">📚 按課題</h3>
+<p data-zh="選擇特定課題練習" data-en="Choose specific topic">選擇特定課題練習</p>
+</div>
+<div class="mode-btn" onclick="setMode('random')" id="modeRandom">
+<h3 data-zh="🎲 隨機練習" data-en="🎲 Random">🎲 隨機練習</h3>
+<p data-zh="隨機混合所有課題" data-en="Mix all topics randomly">隨機混合所有課題</p>
+</div>
+<div class="mode-btn" onclick="setMode('diff')" id="modeDiff">
+<h3 data-zh="⭐ 按難度" data-en="⭐ By Difficulty">⭐ 按難度</h3>
+<p data-zh="選擇難度等級" data-en="Choose difficulty level">選擇難度等級</p>
+</div>
+</div>
 
-    <div class="menu-card" onclick="startMockExam()">
-      <div class="icon">📝</div>
-      <div class="info"><h3 data-zh="模擬考試" data-en="Mock Exam">模擬考試</h3><p data-zh="50題，50分鐘計時" data-en="50 questions, 50-minute timed exam">50題，50分鐘計時</p></div>
-    </div>
+<div id="topicSection">
+<div class="topics-grid" id="topicsGrid"></div>
+</div>
 
-    <button class="install-btn" id="install-btn" onclick="installApp()">📲 安裝 App</button>
-  </div>
+<div id="randomSection" class="hidden" style="text-align:center;padding:20px">
+<p style="margin-bottom:16px;font-size:16px" data-zh="隨機抽取題目作答" data-en="Randomly pick questions">隨機抽取題目作答</p>
+<div class="q-count-select">
+<button class="q-count-btn" onclick="setQCount(10)" id="qc10">10</button>
+<button class="q-count-btn active" onclick="setQCount(20)" id="qc20">20</button>
+<button class="q-count-btn" onclick="setQCount(50)" id="qc50">50</button>
+<button class="q-count-btn" onclick="setQCount(100)" id="qc100">100</button>
+</div>
+<button class="btn btn-primary" onclick="startRandom()" data-zh="開始隨機練習" data-en="Start Random Practice">開始隨機練習</button>
+</div>
 
-  <!-- TOPIC LIST -->
-  <div id="view-topics" class="view">
-    <button class="back-btn" onclick="showMenu()">← <span data-zh="返回" data-en="Back">返回</span></button>
-    <h2 data-zh="選擇課題" data-en="Select Topic">選擇課題</h2>
-    <div id="topic-list"></div>
-  </div>
+<div id="diffSection" class="hidden" style="text-align:center;padding:20px">
+<p style="margin-bottom:16px;font-size:16px" data-zh="選擇難度等級" data-en="Choose difficulty level">選擇難度等級</p>
+<div class="diff-filter" style="margin-bottom:16px">
+<button class="diff-filter-btn active" onclick="setDiff(0)" id="diffAll" data-zh="全部" data-en="All">全部</button>
+<button class="diff-filter-btn" onclick="setDiff(1)" id="diff1" data-zh="⭐ 簡單" data-en="⭐ Easy">⭐ 簡單</button>
+<button class="diff-filter-btn" onclick="setDiff(2)" id="diff2" data-zh="⭐⭐ 中等" data-en="⭐⭐ Medium">⭐⭐ 中等</button>
+<button class="diff-filter-btn" onclick="setDiff(3)" id="diff3" data-zh="⭐⭐⭐ 困難" data-en="⭐⭐⭐ Hard">⭐⭐⭐ 困難</button>
+</div>
+<div class="q-count-select">
+<button class="q-count-btn" onclick="setQCount(10)" id="dqc10">10</button>
+<button class="q-count-btn active" onclick="setQCount(20)" id="dqc20">20</button>
+<button class="q-count-btn" onclick="setQCount(50)" id="dqc50">50</button>
+</div>
+<button class="btn btn-primary" onclick="startDiff()" data-zh="開始練習" data-en="Start Practice">開始練習</button>
+</div>
+</div>
 
-  <!-- SUBTOPIC LIST -->
-  <div id="view-subtopics" class="view">
-    <button class="back-btn" onclick="showTopicList()">← <span data-zh="返回課題" data-en="Back to Topics">返回課題</span></button>
-    <h2 id="subtopic-title"></h2>
-    <div id="subtopic-list"></div>
-  </div>
+<!-- QUIZ -->
+<div id="quizView" class="hidden">
+<button class="back-btn" onclick="goHome()" data-zh="← 返回" data-en="← Back">← 返回</button>
+<div class="progress"><div class="progress-bar" id="progressBar"></div></div>
+<div class="quiz-area">
+<div class="question-header">
+<span class="q-num" id="qNum"></span>
+<span class="q-diff" id="qDiff"></span>
+</div>
+<div class="question-text" id="qText"></div>
+<div class="options" id="qOptions"></div>
+<div class="explanation" id="qExplanation">
+<h4 data-zh="💡 解說" data-en="💡 Explanation">💡 解說</h4>
+<p id="qExpText"></p>
+</div>
+<div class="btn-group" id="qButtons">
+<button class="btn btn-primary" id="nextBtn" onclick="nextQuestion()" style="display:none" data-zh="下一題 →" data-en="Next →">下一題 →</button>
+<button class="btn btn-primary" id="finishBtn" onclick="finishQuiz()" style="display:none" data-zh="查看結果" data-en="See Results">查看結果</button>
+</div>
+</div>
+</div>
 
-  <!-- RANDOM SETUP -->
-  <div id="view-random-setup" class="view">
-    <button class="back-btn" onclick="showMenu()">← <span data-zh="返回" data-en="Back">返回</span></button>
-    <h2 data-zh="隨機練習" data-en="Random Practice">隨機練習</h2>
-    <p style="color:var(--text2);text-align:center" data-zh="選擇題目數量" data-en="Select number of questions">選擇題目數量</p>
-    <div class="count-selector">
-      <button class="count-btn" onclick="startRandom(10)">10</button>
-      <button class="count-btn" onclick="startRandom(20)">20</button>
-      <button class="count-btn" onclick="startRandom(30)">30</button>
-      <button class="count-btn" onclick="startRandom(50)">50</button>
-      <button class="count-btn" onclick="startRandom(100)">100</button>
-    </div>
-  </div>
-
-  <!-- QUIZ VIEW -->
-  <div id="view-quiz" class="view">
-    <div class="q-header">
-      <span class="q-counter" id="q-counter"></span>
-      <span class="q-timer" id="q-timer" style="display:none"></span>
-    </div>
-    <div class="q-progress-bar"><div class="fill" id="q-progress"></div></div>
-    <div id="q-area"></div>
-    <div class="nav-row">
-      <button class="quit-btn" onclick="confirmQuit()" data-zh="退出" data-en="Quit">退出</button>
-      <button class="next-btn" id="next-btn" style="display:none" onclick="nextQuestion()" data-zh="下一題 →" data-en="Next →">下一題 →</button>
-    </div>
-  </div>
-
-  <!-- CONFIRM QUIT -->
-  <div id="view-confirm-quit" class="view">
-    <div class="results-card">
-      <h2 data-zh="確認退出？" data-en="Confirm Quit?">確認退出？</h2>
-      <p class="sub" data-zh="退出後進度不會保存" data-en="Progress won't be saved if you quit">退出後進度不會保存</p>
-      <div style="display:flex;gap:12px;margin-top:16px">
-        <button class="back-btn" style="flex:1;justify-content:center" onclick="showView('view-quiz')" data-zh="繼續答題" data-en="Continue">繼續答題</button>
-        <button class="next-btn" style="flex:1" onclick="showMenu()" data-zh="確認退出" data-en="Quit">確認退出</button>
-      </div>
-    </div>
-  </div>
-
-  <!-- RESULTS VIEW -->
-  <div id="view-results" class="view">
-    <div id="results-content"></div>
-    <button class="next-btn" onclick="showMenu()" data-zh="返回主頁" data-en="Back to Main Menu">返回主頁</button>
-  </div>
-
-  <!-- LOADING -->
-  <div id="view-loading" class="view">
-    <div class="loading"><div class="spinner"></div><p data-zh="載入題目中..." data-en="Loading questions...">載入題目中...</p></div>
-  </div>
+<!-- RESULT -->
+<div id="resultView" class="hidden" style="text-align:center">
+<div class="quiz-area">
+<h2 style="margin-bottom:16px" data-zh="🎉 練習完成！" data-en="🎉 Practice Complete!">🎉 練習完成！</h2>
+<div style="font-size:60px;margin:20px 0" id="resultEmoji">🎯</div>
+<div style="font-size:36px;font-weight:700;color:#10b981;margin-bottom:8px" id="resultScore"></div>
+<div style="font-size:16px;color:#666;margin-bottom:24px" id="resultDetail"></div>
+<div id="resultBreakdown" style="margin-bottom:24px;text-align:left"></div>
+<button class="btn btn-primary" onclick="goHome()" data-zh="返回首頁" data-en="Back to Home">返回首頁</button>
+</div>
+</div>
 </div>
 
 <script>
-/* ===== STATE ===== */
-let allQuestions=[], topics={}, currentQuiz=[], currentIdx=0, correctCount=0;
-let answered=false, timerInterval=null, secondsLeft=0, isMockExam=false, quizSource='';
-let currentLang='zh'; // zh | en | bi
+let allQuestions=[];
+let currentQuiz=[];
+let currentIndex=0;
+let correctCount=0;
+let doneCount=0;
+let lang='zh';
+let mode='topic';
+let qCount=20;
+let selectedDiff=0;
 
-/* ===== LANGUAGE ===== */
-function setLang(lang){
-  currentLang=lang;
-  localStorage.setItem('s1math_lang',lang);
-  document.querySelectorAll('.lang-btn').forEach(b=>b.classList.toggle('active',b.dataset.lang===lang));
-  applyLang();
-}
-function applyLang(){
-  document.querySelectorAll('[data-zh]').forEach(el=>{
-    const txt=el.getAttribute(`data-${currentLang==='bi'?'zh':currentLang}`);
-    if(txt) el.textContent=txt;
-  });
-  // Re-render current question if in quiz
-  if(document.getElementById('view-quiz').classList.contains('active') && currentQuiz.length){
-    renderQuestion();
-  }
-}
-function getQuestionText(q){
-  if(currentLang==='en' && q.question_en) return q.question_en;
-  if(currentLang==='bi'){
-    let txt=q.question;
-    if(q.question_en) txt+='\n\n'+q.question_en;
-    return txt;
-  }
-  return q.question;
-}
-function getOptionText(opt,optEn){
-  if(currentLang==='en' && optEn) return optEn;
-  if(currentLang==='bi' && optEn) return opt+' ('+optEn+')';
-  return opt;
-}
-function getExplanationText(q){
-  if(currentLang==='en' && q.explanation_en) return q.explanation_en;
-  if(currentLang==='bi' && q.explanation_en) return q.explanation+'\n\n'+q.explanation_en;
-  return q.explanation||'';
-}
+const topicEmojis={
+'正負數':'➕','基本代數':'🔤','規律與數列':'🔍',
+'基本幾何':'📐','百分數':'💯','統計圖表':'📊',
+'面積與體積':'📦','比與比率':'⚖️','坐標':'📍',
+'綜合應用':'🧩'
+};
 
-/* ===== INIT ===== */
-window.addEventListener('DOMContentLoaded',()=>{
-  currentLang=localStorage.getItem('s1math_lang')||'zh';
-  document.querySelectorAll('.lang-btn').forEach(b=>b.classList.toggle('active',b.dataset.lang===currentLang));
-  loadQuestions();
+fetch('questions.json').then(r=>r.json()).then(d=>{
+allQuestions=Array.isArray(d)?d:d.questions||[];
+normalizeQuestions();
+renderTopics();
+updateTotalQ();
+}).catch(e=>{
+document.getElementById('topicsGrid').innerHTML='<p style="color:red;text-align:center;padding:20px">載入題目時出錯，請確保 questions.json 在同一資料夾。</p>';
 });
 
-async function loadQuestions(){
-  showView('view-loading');
-  try{
-    const resp=await fetch('questions.json');
-    allQuestions=await resp.json();
-    buildTopicIndex();
-    updateStats();
-    showView('view-menu');
-    applyLang();
-  }catch(e){
-    document.getElementById('view-loading').innerHTML='<div class="loading"><p style="color:var(--wrong)">❌ Failed to load questions.json</p></div>';
-  }
+function normalizeQuestions(){
+allQuestions.forEach(q=>{
+if(typeof q.answer==='string') q.answer_idx='ABCD'.indexOf(q.answer);
+else q.answer_idx=q.answer;
+});
 }
 
-function buildTopicIndex(){
-  topics={};
-  allQuestions.forEach(q=>{
-    if(!topics[q.topic_id]) topics[q.topic_id]={name:q.topic_name,name_en:q.topic_name_en||q.topic_name,subtopics:{},questions:[]};
-    topics[q.topic_id].questions.push(q);
-    const st=q.subtopic_id;
-    if(!topics[q.topic_id].subtopics[st]) topics[q.topic_id].subtopics[st]={name:q.subtopic_name,name_en:q.subtopic_name_en||q.subtopic_name,questions:[]};
-    topics[q.topic_id].subtopics[st].questions.push(q);
-  });
+function updateTotalQ(){
+document.getElementById('totalQ').textContent=allQuestions.length.toLocaleString();
 }
 
-/* ===== NAVIGATION ===== */
-function showView(id){
-  document.querySelectorAll('.view').forEach(v=>v.classList.remove('active'));
-  document.getElementById(id).classList.add('active');
-  if(id!=='view-quiz') clearTimer();
-}
-function showMenu(){clearTimer();updateStats();showView('view-menu');applyLang();}
-function goHome(){
-  if(document.getElementById('view-quiz').classList.contains('active')){confirmQuit();return;}
-  showMenu();
-}
-function confirmQuit(){showView('view-confirm-quit');applyLang();}
-
-function updateStats(){
-  const stored=JSON.parse(localStorage.getItem('s1math_progress')||'{}');
-  const total=stored.totalAnswered||0, correct=stored.totalCorrect||0;
-  const pct=total>0?Math.round(correct/total*100):0;
-  const t=currentLang==='en'?'Answered':'已答';
-  const a=currentLang==='en'?'Accuracy':'正確率';
-  document.getElementById('stats-bar').innerHTML=`
-    <div class="stat-chip">📊 ${t}: <span class="num">${total}</span></div>
-    <div class="stat-chip">✅ ${a}: <span class="num">${pct}%</span></div>
-    <div class="stat-chip">📝 <span class="num">${allQuestions.length}</span></div>`;
+function renderTopics(){
+const grid=document.getElementById('topicsGrid');
+const topics=[...new Set(allQuestions.map(q=>q.topic_zh))].sort();
+grid.innerHTML=topics.map(t=>{
+const count=allQuestions.filter(q=>q.topic_zh===t).length;
+const enName=allQuestions.find(q=>q.topic_zh===t)?.topic_en||t;
+return `<div class="topic-card" onclick="startTopic('${t}')">
+<div class="emoji">${topicEmojis[t]||'📝'}</div>
+<div class="name" data-zh="${t}" data-en="${enName}">${lang==='zh'?t:enName}</div>
+<div class="count">${count} ${lang==='zh'?'題':'Q'}</div>
+</div>`;
+}).join('');
 }
 
-/* ===== TOPICS ===== */
-function showTopicList(){
-  const container=document.getElementById('topic-list');
-  container.innerHTML='';
-  Object.entries(topics).sort((a,b)=>a[1].name.localeCompare(b[1].name)).forEach(([tid,info])=>{
-    const div=document.createElement('div');
-    div.className='topic-item';
-    const displayName=currentLang==='en'?info.name_en:info.name;
-    div.innerHTML=`<div class="left"><h3>${displayName}</h3><p>${info.questions.length} ${currentLang==='en'?'questions':'題'}</p></div><div class="count">→</div>`;
-    div.onclick=()=>showSubtopics(tid);
-    container.appendChild(div);
-  });
-  showView('view-topics');
-  applyLang();
+function setLang(l){
+lang=l;
+document.querySelectorAll('.lang-btn').forEach(b=>b.classList.toggle('active',
+l==='bi'?b.textContent.includes('雙語'):b.textContent.includes(l==='zh'?'中文':'EN')));
+document.querySelectorAll('[data-zh]').forEach(el=>{
+if(el.dataset.zh&&el.dataset.en)el.textContent=l==='zh'?el.dataset.zh:el.dataset.en;
+});
+renderTopics();
 }
 
-function showSubtopics(tid){
-  const info=topics[tid];
-  const displayName=currentLang==='en'?info.name_en:info.name;
-  document.getElementById('subtopic-title').textContent=displayName;
-  const container=document.getElementById('subtopic-list');
-  container.innerHTML='';
-  const allDiv=document.createElement('div');
-  allDiv.className='topic-item';
-  allDiv.innerHTML=`<div class="left"><h3>${currentLang==='en'?'All Questions':'全部題目'}</h3><p>${info.questions.length} ${currentLang==='en'?'questions':'題'}</p></div><div class="count">→</div>`;
-  allDiv.onclick=()=>startTopicQuiz(info.questions);
-  container.appendChild(allDiv);
-  Object.entries(info.subtopics).sort((a,b)=>a[1].name.localeCompare(b[1].name)).forEach(([sid,sinfo])=>{
-    const div=document.createElement('div');
-    div.className='topic-item';
-    const sName=currentLang==='en'?sinfo.name_en:sinfo.name;
-    div.innerHTML=`<div class="left"><h3>${sName}</h3><p>${sinfo.questions.length} ${currentLang==='en'?'questions':'題'}</p></div><div class="count">→</div>`;
-    div.onclick=()=>startTopicQuiz(sinfo.questions);
-    container.appendChild(div);
-  });
-  showView('view-subtopics');
-  applyLang();
+function setMode(m){
+mode=m;
+document.getElementById('modeTopic').classList.toggle('active',m==='topic');
+document.getElementById('modeRandom').classList.toggle('active',m==='random');
+document.getElementById('modeDiff').classList.toggle('active',m==='diff');
+document.getElementById('topicSection').classList.toggle('hidden',m!=='topic');
+document.getElementById('randomSection').classList.toggle('hidden',m!=='random');
+document.getElementById('diffSection').classList.toggle('hidden',m!=='diff');
 }
 
-/* ===== QUIZ ===== */
-function startTopicQuiz(qs){const s=shuffle([...qs]);currentQuiz=s.slice(0,Math.min(s.length,50));quizSource='topic';isMockExam=false;beginQuiz();}
-function showRandomSetup(){showView('view-random-setup');applyLang();}
-function startRandom(n){const s=shuffle([...allQuestions]);currentQuiz=s.slice(0,n);quizSource='random';isMockExam=false;beginQuiz();}
-function startMockExam(){const s=shuffle([...allQuestions]);currentQuiz=s.slice(0,50);quizSource='mock';isMockExam=true;secondsLeft=50*60;beginQuiz();}
-
-function beginQuiz(){currentIdx=0;correctCount=0;answered=false;showView('view-quiz');document.getElementById('q-timer').style.display=isMockExam?'inline':'none';if(isMockExam)startTimer();renderQuestion();}
-
-function renderQuestion(){
-  const q=currentQuiz[currentIdx], total=currentQuiz.length;
-  answered=false;
-  document.getElementById('next-btn').style.display='none';
-  document.getElementById('q-counter').textContent=`${currentIdx+1} / ${total}`;
-  document.getElementById('q-progress').style.width=(currentIdx/total*100)+'%';
-  const letters=['A','B','C','D'];
-  const qText=getQuestionText(q);
-  let optsHtml=q.options.map((opt,i)=>{
-    const optEn=q.options_en?q.options_en[i]:null;
-    const displayOpt=getOptionText(opt,optEn);
-    return `<button class="option-btn" data-idx="${i}" onclick="selectAnswer(${i})"><span class="opt-letter">${letters[i]}</span><span>${displayOpt}</span></button>`;
-  }).join('');
-  document.getElementById('q-area').innerHTML=`
-    <div class="q-card">
-      <div class="topic-tag">${q.topic_name}${q.subtopic_name?' › '+q.subtopic_name:''}</div>
-      <div class="q-text">${qText}</div>
-      <div class="options">${optsHtml}</div>
-      <div id="explanation-area"></div>
-    </div>`;
+function setQCount(n){
+qCount=n;
+document.querySelectorAll('.q-count-btn').forEach(b=>b.classList.remove('active'));
+const ids=['qc'+n,'dqc'+n];
+ids.forEach(id=>{const el=document.getElementById(id);if(el)el.classList.add('active');});
 }
 
-function selectAnswer(idx){
-  if(answered)return;
-  answered=true;
-  const q=currentQuiz[currentIdx];
-  const letters=['A','B','C','D'];
-  const correctIdx=letters.indexOf(q.correct);
-  const isCorrect=idx===correctIdx;
-  if(isCorrect)correctCount++;
-  document.querySelectorAll('.option-btn').forEach((btn,i)=>{
-    btn.classList.add('disabled');btn.onclick=null;
-    if(i===correctIdx)btn.classList.add('correct');
-    if(i===idx&&!isCorrect)btn.classList.add('wrong');
-  });
-  const expl=getExplanationText(q);
-  document.getElementById('explanation-area').innerHTML=`<div class="explanation"><h4>${isCorrect?'✅ '+(currentLang==='en'?'Correct!':'正確！'):'❌ '+(currentLang==='en'?'Wrong!':'錯誤！')}</h4><p>${expl}</p></div>`;
-  const nextBtn=document.getElementById('next-btn');
-  nextBtn.style.display='block';
-  if(currentIdx>=currentQuiz.length-1) nextBtn.textContent=currentLang==='en'?'View Results':'查看結果';
-  else nextBtn.textContent=currentLang==='en'?'Next →':'下一題 →';
-  saveProgress(isCorrect);
+function setDiff(d){
+selectedDiff=d;
+document.querySelectorAll('.diff-filter-btn').forEach(b=>b.classList.remove('active'));
+const ids=['diff'+(d===0?'All':d)];
+ids.forEach(id=>{const el=document.getElementById(id);if(el)el.classList.add('active');});
+}
+
+function startTopic(topic){
+currentQuiz=allQuestions.filter(q=>q.topic_zh===topic).sort(()=>Math.random()-.5).slice(0,qCount);
+startQuiz();
+}
+
+function startRandom(){
+currentQuiz=[...allQuestions].sort(()=>Math.random()-.5).slice(0,qCount);
+startQuiz();
+}
+
+function startDiff(){
+let pool=selectedDiff===0?allQuestions:allQuestions.filter(q=>q.difficulty===selectedDiff);
+currentQuiz=[...pool].sort(()=>Math.random()-.5).slice(0,qCount);
+startQuiz();
+}
+
+function startQuiz(){
+currentIndex=0;correctCount=0;
+document.getElementById('homeView').classList.add('hidden');
+document.getElementById('quizView').classList.remove('hidden');
+document.getElementById('resultView').classList.add('hidden');
+showQuestion();
+}
+
+function getQuestionText(q){
+if(lang==='en') return q.question_en||q.question_zh;
+if(lang==='bi'&&q.question_en&&q.question_en!==q.question_zh) return q.question_zh+'\n\n'+q.question_en;
+return q.question_zh;
+}
+
+function getExplanationText(q){
+if(lang==='en') return q.explanation_en||q.explanation_zh;
+if(lang==='bi'&&q.explanation_en) return q.explanation_zh+'\n\n'+q.explanation_en;
+return q.explanation_zh;
+}
+
+function showQuestion(){
+const q=currentQuiz[currentIndex];
+const total=currentQuiz.length;
+document.getElementById('progressBar').style.width=((currentIndex)/total*100)+'%';
+document.getElementById('qNum').textContent=`${currentIndex+1} / ${total}`;
+const diffLabels={1:lang==='zh'?'簡單':'Easy',2:lang==='zh'?'中等':'Medium',3:lang==='zh'?'困難':'Hard'};
+document.getElementById('qDiff').textContent=diffLabels[q.difficulty]||'';
+document.getElementById('qDiff').className='q-diff diff-'+q.difficulty;
+document.getElementById('qText').textContent=getQuestionText(q);
+const opts=lang==='en'?(q.options_en||q.options_zh):q.options_zh;
+document.getElementById('qOptions').innerHTML=opts.map((o,i)=>
+`<div class="option" onclick="checkAnswer(${i})">${'ＡＢＣＤ'[i]}. ${o}</div>`
+).join('');
+document.getElementById('qExplanation').classList.remove('show');
+document.getElementById('nextBtn').style.display='none';
+document.getElementById('finishBtn').style.display='none';
+}
+
+function checkAnswer(idx){
+const q=currentQuiz[currentIndex];
+const correctIdx=q.answer_idx;
+const opts=document.querySelectorAll('.option');
+opts.forEach((o,i)=>{
+o.classList.add('disabled');
+if(i===correctIdx)o.classList.add('correct');
+else if(i===idx)o.classList.add('wrong');
+});
+if(idx===correctIdx)correctCount++;
+doneCount++;
+updateStats();
+document.getElementById('qExpText').textContent=getExplanationText(q);
+document.getElementById('qExplanation').classList.add('show');
+if(currentIndex<currentQuiz.length-1){
+document.getElementById('nextBtn').style.display='inline-block';
+}else{
+document.getElementById('finishBtn').style.display='inline-block';
+}
 }
 
 function nextQuestion(){
-  if(currentIdx>=currentQuiz.length-1){showResults();return;}
-  currentIdx++;
-  renderQuestion();
-  document.getElementById('view-quiz').scrollIntoView({behavior:'smooth'});
+currentIndex++;
+showQuestion();
 }
 
-/* ===== TIMER ===== */
-function startTimer(){clearTimer();updateTimerDisplay();timerInterval=setInterval(()=>{secondsLeft--;updateTimerDisplay();if(secondsLeft<=0){clearTimer();showResults();}},1000);}
-function clearTimer(){if(timerInterval){clearInterval(timerInterval);timerInterval=null;}isMockExam=false;}
-function updateTimerDisplay(){const m=Math.floor(secondsLeft/60),s=secondsLeft%60;const el=document.getElementById('q-timer');if(el){el.textContent=`⏱ ${m}:${s.toString().padStart(2,'0')}`;el.style.color=secondsLeft<=300?'var(--wrong)':'var(--primary)';}}
-
-/* ===== RESULTS ===== */
-function showResults(){
-  clearTimer();
-  const total=currentQuiz.length,wrong=total-correctCount;
-  const pct=total>0?Math.round(correctCount/total*100):0;
-  let grade='',gradeColor='';
-  if(pct>=90){grade=currentLang==='en'?'Excellent!':'優秀！';gradeColor='var(--correct)';}
-  else if(pct>=70){grade=currentLang==='en'?'Good Job!':'做得好！';gradeColor='var(--accent)';}
-  else if(pct>=50){grade=currentLang==='en'?'Keep Going!':'繼續努力！';gradeColor='var(--primary)';}
-  else{grade=currentLang==='en'?'Need More Practice':'需要多練習';gradeColor='var(--wrong)';}
-  const typeLabel=quizSource==='mock'?(currentLang==='en'?'Mock Exam':'模擬考試'):quizSource==='random'?(currentLang==='en'?'Random Practice':'隨機練習'):(currentLang==='en'?'Topic Practice':'課題練習');
-  document.getElementById('results-content').innerHTML=`
-    <div class="results-card">
-      <h2>${typeLabel}</h2>
-      <div class="sub" style="color:${gradeColor};font-weight:600;font-size:1.1rem">${grade}</div>
-      <div class="score-circle" style="--pct:${pct}%"><div class="inner">${pct}%<small>${correctCount}/${total}</small></div></div>
-      <div class="results-grid">
-        <div class="rg-item green"><div class="val">${correctCount}</div><div class="lbl">${currentLang==='en'?'Correct':'正確'}</div></div>
-        <div class="rg-item red"><div class="val">${wrong}</div><div class="lbl">${currentLang==='en'?'Wrong':'錯誤'}</div></div>
-        <div class="rg-item blue"><div class="val">${total}</div><div class="lbl">${currentLang==='en'?'Total':'總數'}</div></div>
-      </div>
-    </div>`;
-  showView('view-results');
-  applyLang();
+function finishQuiz(){
+document.getElementById('quizView').classList.add('hidden');
+document.getElementById('resultView').classList.remove('hidden');
+const total=currentQuiz.length;
+const pct=Math.round(correctCount/total*100);
+document.getElementById('resultScore').textContent=`${correctCount} / ${total}`;
+document.getElementById('resultDetail').textContent=lang==='zh'
+?`正確率 ${pct}% | 共完成 ${doneCount} 題`
+:`Accuracy ${pct}% | Total done: ${doneCount}`;
+let emoji='😅';
+if(pct>=90)emoji='🏆';
+else if(pct>=70)emoji='🎉';
+else if(pct>=50)emoji='👍';
+document.getElementById('resultEmoji').textContent=emoji;
+let html='<div style="font-size:14px;color:#666">';
+html+=`<p style="font-weight:600;margin-bottom:8px">${lang==='zh'?'📊 本次練習統計':'📊 Session Stats'}</p>`;
+html+=`<p>${lang==='zh'?'題目數量':'Questions'}: ${total}</p>`;
+html+=`<p>${lang==='zh'?'答對':'Correct'}: ${correctCount}</p>`;
+html+=`<p>${lang==='zh'?'答錯':'Wrong'}: ${total-correctCount}</p>`;
+html+='</div>';
+document.getElementById('resultBreakdown').innerHTML=html;
 }
 
-/* ===== PROGRESS ===== */
-function saveProgress(isCorrect){
-  const stored=JSON.parse(localStorage.getItem('s1math_progress')||'{}');
-  stored.totalAnswered=(stored.totalAnswered||0)+1;
-  if(isCorrect)stored.totalCorrect=(stored.totalCorrect||0)+1;
-  localStorage.setItem('s1math_progress',JSON.stringify(stored));
+function goHome(){
+document.getElementById('homeView').classList.remove('hidden');
+document.getElementById('quizView').classList.add('hidden');
+document.getElementById('resultView').classList.add('hidden');
 }
 
-function shuffle(arr){for(let i=arr.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[arr[i],arr[j]]=[arr[j],arr[i]];}return arr;}
-
-/* ===== PWA INSTALL ===== */
-let deferredPrompt;
-window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();deferredPrompt=e;document.getElementById('install-btn').style.display='block';});
-async function installApp(){if(!deferredPrompt)return;deferredPrompt.prompt();const{outcome}=await deferredPrompt.userChoice;if(outcome==='accepted')document.getElementById('install-btn').style.display='none';deferredPrompt=null;}
-window.addEventListener('appinstalled',()=>{document.getElementById('install-btn').style.display='none';});
-
-/* ===== SERVICE WORKER ===== */
-if('serviceWorker'in navigator){navigator.serviceWorker.register('sw.js').catch(()=>{});}
+function updateStats(){
+document.getElementById('doneQ').textContent=doneCount;
+document.getElementById('correctQ').textContent=correctCount;
+document.getElementById('accuracy').textContent=doneCount>0?Math.round(correctCount/doneCount*100)+'%':'0%';
+}
 </script>
 </body>
 </html>
