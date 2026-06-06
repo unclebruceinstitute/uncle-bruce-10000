@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>S1 Practice</title>
+<title>HK Secondary 1 English Practice | 10,000 Questions</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK','Microsoft JhengHei',sans-serif;background:#f0f2f5;color:#333}
@@ -56,7 +56,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK
 .progress-bar{height:100%;border-radius:3px;transition:.3s}
 .hidden{display:none}
 .lang-toggle{display:flex;gap:4px}
-.lang-btn{padding:6px 12px;border:1px solid;border-radius:20px;background:#fff;cursor:pointer;font-size:12px;color:#333}
+.lang-btn{padding:6px 12px;border:1px solid;border-radius:20px;background:#fff;cursor:pointer;font-size:12px}
 .lang-btn.active{color:#fff}
 .home-link{padding:8px 16px;border:1px solid #ddd;border-radius:8px;background:#fff;cursor:pointer;font-size:14px;text-decoration:none;color:#333;display:inline-block}
 .home-link:hover{background:#f5f5f5}
@@ -66,9 +66,20 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK
 .q-count-select{display:flex;gap:8px;margin-bottom:16px;justify-content:center}
 .q-count-btn{padding:8px 16px;border:2px solid #e0e0e0;border-radius:10px;background:#fff;cursor:pointer;font-size:14px;transition:.2s}
 .q-count-btn.active{color:#fff}
+.loading-overlay{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(255,255,255,.9);display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:1000}
+.loading-spinner{width:48px;height:48px;border:4px solid #e0e0e0;border-top:4px solid #27ae60;border-radius:50%;animation:spin 1s linear infinite;margin-bottom:16px}
+@keyframes spin{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.loading-text{font-size:16px;color:#666}
+.back-btn{padding:8px 16px;border:1px solid #ddd;border-radius:8px;background:#fff;cursor:pointer;font-size:14px;text-decoration:none;color:#333;display:inline-block;margin-bottom:12px}
+.back-btn:hover{background:#f5f5f5}
 </style>
 </head>
 <body>
+
+<div class="loading-overlay" id="loadingOverlay">
+<div class="loading-spinner"></div>
+<div class="loading-text" id="loadingText">載入題目中...</div>
+</div>
 
 <div class="container">
 <div class="top-bar">
@@ -178,13 +189,9 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK
 <script>
 let allQuestions=[],currentQuiz=[],currentIndex=0,correctCount=0,doneCount=0,lang='zh',mode='topic',qCount=20,selectedDiff=0;
 const LETTERS=['Ａ','Ｂ','Ｃ','Ｄ'];
-let THEME='#e74c3c';
+let THEME='#27ae60';
 
-const IS_MATH=location.pathname.includes('/math');
-const IS_ENG=location.pathname.includes('/english');
-if(IS_MATH){THEME='#3498db';document.title='中一數學練習 | S1 Math Practice'}
-else if(IS_ENG){THEME='#27ae60';document.title='Uncle Bruce 10000 Question'}
-else{THEME='#e74c3c';document.title='中一中文練習 | S1 Chinese Practice'}
+document.title='HK Secondary 1 English Practice | 10,000 Questions';
 
 document.querySelector('.header').style.background=`linear-gradient(135deg,${THEME},${THEME}cc)`;
 document.querySelectorAll('.stat-num').forEach(e=>e.style.color=THEME);
@@ -200,7 +207,6 @@ document.querySelector('.explanation h4').style.color=THEME;
 document.getElementById('resultScore').style.color=THEME;
 document.querySelectorAll('.q-num').forEach(e=>e.style.color=THEME);
 
-// Get question text - support bilingual
 function getQ(q){
   if(lang==='en')return q.question_en||q.question||q.question_zh||'';
   return q.question_zh||q.question||'';
@@ -231,14 +237,6 @@ function getDiffLabel(d){
 }
 
 const topicEmojis={
-'字詞辨析':'📝','詞語運用':'📖','成語':'🏮','修辭手法':'✨',
-'標點符號':'❗','詞性':'🏷️','句式':'📐','句子改寫':'🔄',
-'關聯詞':'🔗','近義詞':'🤝','反義詞':'🔀','量詞':'📏',
-'文言文':'📜','古詩詞':'🌸','閱讀理解':'📚','段落大意':'💡',
-'病句修改':'🔧','歇後語':'🎭','文學常識':'🎓','寫作技巧':'✍️',
-'正負數':'🔢','代數':'📐','幾何':'📏','百分數':'💯',
-'比與比例':'⚖️','求積法':'📊','統計':'📈','坐標':'📍',
-'數列':'🔢','速率':'🏃','不等式':'⚖️','指數':'🔣',
 'Grammar':'📘','Vocabulary':'📗','Reading':'📙','Spelling':'✏️',
 'Tenses':'⏰','Articles':'📰','Prepositions':'📍','Pronouns':'👤',
 'Conjunctions':'🔗','Synonyms':'🤝','Antonyms':'🔀','Error Detection':'🔍',
@@ -248,21 +246,15 @@ const topicEmojis={
 'Collocation':'📖','Word Formation':'🔤'
 };
 
-fetch('questions.json?v='+Date.now()).then(r=>r.json()).then(d=>{
+fetch('questions.json').then(r=>r.json()).then(d=>{
   allQuestions=Array.isArray(d)?d:d.questions||[];
-  if(IS_MATH){
-    document.getElementById('pageTitle').textContent='📐 中一數學練習';
-    document.getElementById('pageSub').textContent='S1 Math Practice | '+allQuestions.length.toLocaleString()+' Questions';
-  }else if(IS_ENG){
-    document.getElementById('pageTitle').textContent='🇬🇧 Uncle Bruce 10000 Question';
-    document.getElementById('pageSub').textContent='S1 English Practice | '+allQuestions.length.toLocaleString()+' Questions';
-  }else{
-    document.getElementById('pageTitle').textContent='📖 中一中文練習';
-    document.getElementById('pageSub').textContent='S1 Chinese Practice | '+allQuestions.length.toLocaleString()+' Questions';
-  }
+  document.getElementById('pageTitle').textContent='🇬🇧 香港中一英文練習';
+  document.getElementById('pageSub').textContent='HK Secondary 1 English Practice | '+allQuestions.length.toLocaleString()+' Questions';
   renderTopics();
   document.getElementById('totalQ').textContent=allQuestions.length.toLocaleString();
+  document.getElementById('loadingOverlay').style.display='none';
 }).catch(()=>{
+  document.getElementById('loadingOverlay').style.display='none';
   document.getElementById('topicsGrid').innerHTML='<p style="color:red;text-align:center;padding:20px">載入題目時出錯。</p>';
 });
 
@@ -276,7 +268,7 @@ function renderTopics(){
     return `<div class="topic-card" onclick="startTopic('${t.replace(/'/g,"\\'")}')">
       <div class="emoji">${topicEmojis[t]||'📝'}</div>
       <div class="name" data-zh="${t}" data-en="${en}">${lang==='zh'?t:en}</div>
-      <div class="count">${count} ${lang==='zh'?'題':'Q'}</div>
+      <div class="count">${count} ${lang==='zh'?'題':'Questions'}</div>
     </div>`;
   }).join('');
 }
