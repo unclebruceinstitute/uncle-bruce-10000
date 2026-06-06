@@ -239,7 +239,7 @@ const topicEmojis={
 'Collocation':'📖','Word Formation':'🔤'
 };
 
-fetch('questions.json').then(r=>r.json()).then(d=>{
+fetch('questions.json?v='+Date.now()).then(r=>r.json()).then(d=>{
   allQuestions=Array.isArray(d)?d:d.questions||[];
   // Set title
   if(IS_MATH){
