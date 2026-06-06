@@ -3,21 +3,21 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>中一數學練習 | S1 Math Practice</title>
+<title>S1 Practice</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK','Microsoft JhengHei',sans-serif;background:#f0f2f5;color:#333}
 .container{max-width:800px;margin:0 auto;padding:16px}
-.header{text-align:center;padding:20px 0;background:linear-gradient(135deg,#10b981,#059669);color:#fff;border-radius:16px;margin-bottom:20px}
+.header{text-align:center;padding:20px 0;color:#fff;border-radius:16px;margin-bottom:20px}
 .header h1{font-size:24px;margin-bottom:4px}
 .header p{font-size:14px;opacity:.9}
 .stats-bar{display:flex;justify-content:space-around;background:#fff;border-radius:12px;padding:12px;margin-bottom:16px;box-shadow:0 2px 8px rgba(0,0,0,.08)}
 .stat{text-align:center}
-.stat-num{font-size:24px;font-weight:700;color:#10b981}
+.stat-num{font-size:24px;font-weight:700}
 .stat-label{font-size:12px;color:#888}
 .mode-select{display:flex;gap:12px;margin-bottom:16px}
 .mode-btn{flex:1;padding:16px;border:2px solid #e0e0e0;border-radius:12px;background:#fff;text-align:center;cursor:pointer;transition:.2s}
-.mode-btn:hover,.mode-btn.active{border-color:#10b981;background:#10b981;color:#fff}
+.mode-btn:hover,.mode-btn.active{color:#fff}
 .mode-btn h3{font-size:16px;margin-bottom:4px}
 .mode-btn p{font-size:12px;opacity:.8}
 .topics-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px;margin-bottom:16px}
@@ -28,68 +28,65 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK
 .topic-card .count{font-size:11px;color:#888}
 .quiz-area{background:#fff;border-radius:16px;padding:24px;box-shadow:0 2px 12px rgba(0,0,0,.08)}
 .question-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}
-.q-num{font-size:14px;color:#10b981;font-weight:600}
+.q-num{font-size:14px;font-weight:600}
 .q-diff{font-size:12px;padding:4px 10px;border-radius:20px}
 .diff-1{background:#e8f5e9;color:#2e7d32}
 .diff-2{background:#fff3e0;color:#e65100}
 .diff-3{background:#fce4ec;color:#c62828}
 .question-text{font-size:18px;line-height:1.8;margin-bottom:20px;font-weight:500;white-space:pre-line}
-.question-text .en{font-size:14px;color:#666;margin-top:8px;border-top:1px solid #eee;padding-top:8px}
 .options{display:flex;flex-direction:column;gap:10px}
 .option{padding:14px 16px;border:2px solid #e8e8e8;border-radius:10px;cursor:pointer;transition:.2s;font-size:16px;line-height:1.5}
-.option:hover{border-color:#10b981;background:#ecfdf5}
+.option:hover{background:#fef5f5}
 .option.correct{border-color:#4caf50;background:#e8f5e9}
 .option.wrong{border-color:#f44336;background:#fce4ec}
 .option.disabled{pointer-events:none}
-.explanation{margin-top:16px;padding:16px;background:#ecfdf5;border-radius:10px;border-left:4px solid #10b981;display:none}
+.explanation{margin-top:16px;padding:16px;background:#fef5f5;border-radius:10px;border-left:4px solid;display:none}
 .explanation.show{display:block}
-.explanation h4{color:#10b981;margin-bottom:8px}
+.explanation h4{margin-bottom:8px}
 .explanation p{font-size:14px;line-height:1.6}
 .btn{padding:12px 24px;border:none;border-radius:10px;font-size:16px;font-weight:600;cursor:pointer;transition:.2s}
-.btn-primary{background:#10b981;color:#fff}
-.btn-primary:hover{background:#059669}
-.btn-secondary{background:#e0e0e0;color:#333}
+.btn-primary{color:#fff}
+.btn-primary:hover{opacity:.9}
 .btn-group{display:flex;gap:12px;margin-top:20px;justify-content:center}
 .progress{width:100%;height:6px;background:#e0e0e0;border-radius:3px;margin-bottom:16px;overflow:hidden}
-.progress-bar{height:100%;background:linear-gradient(90deg,#10b981,#059669);border-radius:3px;transition:.3s}
+.progress-bar{height:100%;border-radius:3px;transition:.3s}
 .hidden{display:none}
 .lang-toggle{position:fixed;top:16px;right:16px;z-index:100}
-.lang-btn{padding:6px 12px;border:1px solid #10b981;border-radius:20px;background:#fff;cursor:pointer;font-size:12px}
-.lang-btn.active{background:#10b981;color:#fff}
+.lang-btn{padding:6px 12px;border:1px solid;border-radius:20px;background:#fff;cursor:pointer;font-size:12px}
+.lang-btn.active{color:#fff}
 .back-btn{padding:8px 16px;border:1px solid #ddd;border-radius:8px;background:#fff;cursor:pointer;font-size:14px;margin-bottom:16px}
 .back-btn:hover{background:#f5f5f5}
 .diff-filter{display:flex;gap:8px;margin-bottom:16px;justify-content:center;flex-wrap:wrap}
 .diff-filter-btn{padding:6px 14px;border:2px solid #e0e0e0;border-radius:20px;background:#fff;cursor:pointer;font-size:13px;transition:.2s}
-.diff-filter-btn.active{border-color:#10b981;background:#10b981;color:#fff}
+.diff-filter-btn.active{color:#fff}
 .q-count-select{display:flex;gap:8px;margin-bottom:16px;justify-content:center}
 .q-count-btn{padding:8px 16px;border:2px solid #e0e0e0;border-radius:10px;background:#fff;cursor:pointer;font-size:14px;transition:.2s}
-.q-count-btn.active{border-color:#10b981;background:#10b981;color:#fff}
+.q-count-btn.active{color:#fff}
 </style>
 </head>
 <body>
 <div class="lang-toggle">
 <button class="lang-btn active" onclick="setLang('zh')">中文</button>
 <button class="lang-btn" onclick="setLang('en')">EN</button>
-<button class="lang-btn" onclick="setLang('bi')">雙語</button>
 </div>
 
 <div class="container">
-<div class="header">
-<h1>📐 中一數學練習</h1>
-<p>Secondary 1 Mathematics Practice | 10,000 Questions</p>
+<div class="header" id="pageHeader">
+<h1 id="pageTitle"></h1>
+<p id="pageSub"></p>
 </div>
 
 <div class="stats-bar">
-<div class="stat"><div class="stat-num" id="totalQ">10,000</div><div class="stat-label" data-zh="總題數" data-en="Total">總題數</div></div>
+<div class="stat"><div class="stat-num" id="totalQ">0</div><div class="stat-label" data-zh="總題數" data-en="Total">總題數</div></div>
 <div class="stat"><div class="stat-num" id="doneQ">0</div><div class="stat-label" data-zh="已完成" data-en="Done">已完成</div></div>
 <div class="stat"><div class="stat-num" id="correctQ">0</div><div class="stat-label" data-zh="答對" data-en="Correct">答對</div></div>
 <div class="stat"><div class="stat-num" id="accuracy">0%</div><div class="stat-label" data-zh="正確率" data-en="Accuracy">正確率</div></div>
 </div>
 
 <!-- HOME -->
-<div id="homeView">
+<div id="homeView" class="">
 <div class="mode-select">
-<div class="mode-btn active" onclick="setMode('topic')" id="modeTopic">
+<div class="mode-btn" onclick="setMode('topic')" id="modeTopic">
 <h3 data-zh="📚 按課題" data-en="📚 By Topic">📚 按課題</h3>
 <p data-zh="選擇特定課題練習" data-en="Choose specific topic">選擇特定課題練習</p>
 </div>
@@ -97,13 +94,13 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK
 <h3 data-zh="🎲 隨機練習" data-en="🎲 Random">🎲 隨機練習</h3>
 <p data-zh="隨機混合所有課題" data-en="Mix all topics randomly">隨機混合所有課題</p>
 </div>
-<div class="mode-btn" onclick="setMode('diff')" id="modeDiff">
+<div class="mode-btn active" onclick="setMode('diff')" id="modeDiff">
 <h3 data-zh="⭐ 按難度" data-en="⭐ By Difficulty">⭐ 按難度</h3>
 <p data-zh="選擇難度等級" data-en="Choose difficulty level">選擇難度等級</p>
 </div>
 </div>
 
-<div id="topicSection">
+<div id="topicSection" class="hidden">
 <div class="topics-grid" id="topicsGrid"></div>
 </div>
 
@@ -118,7 +115,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK
 <button class="btn btn-primary" onclick="startRandom()" data-zh="開始隨機練習" data-en="Start Random Practice">開始隨機練習</button>
 </div>
 
-<div id="diffSection" class="hidden" style="text-align:center;padding:20px">
+<div id="diffSection" class="" style="text-align:center;padding:20px">
 <p style="margin-bottom:16px;font-size:16px" data-zh="選擇難度等級" data-en="Choose difficulty level">選擇難度等級</p>
 <div class="diff-filter" style="margin-bottom:16px">
 <button class="diff-filter-btn active" onclick="setDiff(0)" id="diffAll" data-zh="全部" data-en="All">全部</button>
@@ -138,11 +135,11 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK
 <!-- QUIZ -->
 <div id="quizView" class="hidden">
 <button class="back-btn" onclick="goHome()" data-zh="← 返回" data-en="← Back">← 返回</button>
-<div class="progress"><div class="progress-bar" id="progressBar"></div></div>
+<div class="progress"><div class="progress-bar" id="progressBar" style="width:0%"></div></div>
 <div class="quiz-area">
 <div class="question-header">
-<span class="q-num" id="qNum"></span>
-<span class="q-diff" id="qDiff"></span>
+<span class="q-num" id="qNum">1 / 20</span>
+<span class="q-diff diff-1" id="qDiff"></span>
 </div>
 <div class="question-text" id="qText"></div>
 <div class="options" id="qOptions"></div>
@@ -162,7 +159,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK
 <div class="quiz-area">
 <h2 style="margin-bottom:16px" data-zh="🎉 練習完成！" data-en="🎉 Practice Complete!">🎉 練習完成！</h2>
 <div style="font-size:60px;margin:20px 0" id="resultEmoji">🎯</div>
-<div style="font-size:36px;font-weight:700;color:#10b981;margin-bottom:8px" id="resultScore"></div>
+<div style="font-size:36px;font-weight:700;margin-bottom:8px" id="resultScore"></div>
 <div style="font-size:16px;color:#666;margin-bottom:24px" id="resultDetail"></div>
 <div id="resultBreakdown" style="margin-bottom:24px;text-align:left"></div>
 <button class="btn btn-primary" onclick="goHome()" data-zh="返回首頁" data-en="Back to Home">返回首頁</button>
@@ -171,204 +168,234 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK
 </div>
 
 <script>
-let allQuestions=[];
-let currentQuiz=[];
-let currentIndex=0;
-let correctCount=0;
-let doneCount=0;
-let lang='zh';
-let mode='topic';
-let qCount=20;
-let selectedDiff=0;
+let allQuestions=[],currentQuiz=[],currentIndex=0,correctCount=0,doneCount=0,lang='zh',mode='topic',qCount=20,selectedDiff=0;
+const LETTERS=['Ａ','Ｂ','Ｃ','Ｄ'];
+let THEME='#e74c3c'; // default red
+
+// Detect subject and configure
+const IS_MATH=location.pathname.includes('/math');
+const IS_ENG=location.pathname.includes('/english');
+if(IS_MATH){THEME='#3498db';document.title='中一數學練習 | S1 Math Practice'}
+else if(IS_ENG){THEME='#27ae60';document.title='中一英文練習 | S1 English Practice'}
+else{THEME='#e74c3c';document.title='中一中文練習 | S1 Chinese Practice'}
+
+// Apply theme
+document.documentElement.style.setProperty('--theme',THEME);
+document.querySelector('.header').style.background=`linear-gradient(135deg,${THEME},${THEME}cc)`;
+document.querySelectorAll('.stat-num').forEach(e=>e.style.color=THEME);
+document.querySelectorAll('.lang-btn').forEach(e=>{e.style.borderColor=THEME;e.style.color=THEME});
+document.querySelector('.lang-btn.active').style.background=THEME;
+document.querySelectorAll('.mode-btn.active').forEach(e=>{e.style.borderColor=THEME;e.style.background=THEME});
+document.querySelectorAll('.diff-filter-btn.active').forEach(e=>{e.style.borderColor=THEME;e.style.background=THEME});
+document.querySelectorAll('.q-count-btn.active').forEach(e=>{e.style.borderColor=THEME;e.style.background=THEME});
+document.querySelectorAll('.btn-primary').forEach(e=>e.style.background=THEME);
+document.querySelector('.progress-bar').style.background=`linear-gradient(90deg,${THEME},${THEME}cc)`;
+document.querySelector('.explanation').style.borderLeftColor=THEME;
+document.querySelector('.explanation h4').style.color=THEME;
+document.getElementById('resultScore').style.color=THEME;
+document.querySelectorAll('.q-num').forEach(e=>e.style.color=THEME);
+
+// Helper: get normalized fields
+function getQ(q){
+  return q.question_zh||q.question||'';
+}
+function getOpts(q){
+  return q.options_zh||q.options||[];
+}
+function getExpl(q){
+  return q.explanation_zh||q.explanation||'';
+}
+function getTopic(q){
+  return q.topic_zh||q.topic||'';
+}
+function getTopicEn(q){
+  return q.topic_en||q.topic||'';
+}
+function getAns(q){
+  const a=q.answer;
+  if(typeof a==='number')return a;
+  if(typeof a==='string'&&a.length===1&&/[A-Da-d]/.test(a))return a.toUpperCase().charCodeAt(0)-65;
+  return 0;
+}
+function getDiffLabel(d){
+  return{1:lang==='zh'?'簡單':'Easy',2:lang==='zh'?'中等':'Medium',3:lang==='zh'?'困難':'Hard'}[d]||'';
+}
 
 const topicEmojis={
-'正負數':'➕','基本代數':'🔤','規律與數列':'🔍',
-'基本幾何':'📐','百分數':'💯','統計圖表':'📊',
-'面積與體積':'📦','比與比率':'⚖️','坐標':'📍',
-'綜合應用':'🧩'
+'字詞辨析':'📝','詞語運用':'📖','成語':'🏮','修辭手法':'✨',
+'標點符號':'❗','詞性':'🏷️','句式':'📐','句子改寫':'🔄',
+'關聯詞':'🔗','近義詞':'🤝','反義詞':'🔀','量詞':'📏',
+'文言文':'📜','古詩詞':'🌸','閱讀理解':'📚','段落大意':'💡',
+'病句修改':'🔧','歇後語':'🎭','文學常識':'🎓','寫作技巧':'✍️',
+'正負數':'🔢','代數':'📐','幾何':'📏','百分數':'💯',
+'比與比例':'⚖️','求積法':'📊','統計':'📈','坐標':'📍',
+'數列':'🔢','速率':'🏃','不等式':'⚖️','指數':'🔣',
+'Grammar':'📘','Vocabulary':'📗','Reading':'📙','Spelling':'✏️',
+'Tenses':'⏰','Articles':'📰','Prepositions':'📍','Pronouns':'👤',
+'Conjunctions':'🔗','Synonyms':'🤝','Antonyms':'🔀','Error Detection':'🔍',
+'Sentence Structure':'📐','Punctuation':'❗','Cloze Test':'📝','Everyday English':'💬',
+'Tense':'⏰','Adjective':'📝','Adverb':'📝','Passive':'🔄','Speech':'🗣️',
+'Question Tag':'❓','Subject-Verb':'🔗','Phrasal Verb':'📖','Idiom':'🏮',
+'Collocation':'📖','Word Formation':'🔤'
 };
 
 fetch('questions.json').then(r=>r.json()).then(d=>{
-allQuestions=Array.isArray(d)?d:d.questions||[];
-normalizeQuestions();
-renderTopics();
-updateTotalQ();
-}).catch(e=>{
-document.getElementById('topicsGrid').innerHTML='<p style="color:red;text-align:center;padding:20px">載入題目時出錯，請確保 questions.json 在同一資料夾。</p>';
+  allQuestions=Array.isArray(d)?d:d.questions||[];
+  // Set title
+  if(IS_MATH){
+    document.getElementById('pageTitle').textContent='📐 中一數學練習';
+    document.getElementById('pageSub').textContent='S1 Math Practice | '+allQuestions.length.toLocaleString()+' Questions';
+  }else if(IS_ENG){
+    document.getElementById('pageTitle').textContent='🇬🇧 中一英文練習';
+    document.getElementById('pageSub').textContent='S1 English Practice | '+allQuestions.length.toLocaleString()+' Questions';
+  }else{
+    document.getElementById('pageTitle').textContent='📖 中一中文練習';
+    document.getElementById('pageSub').textContent='S1 Chinese Practice | '+allQuestions.length.toLocaleString()+' Questions';
+  }
+  renderTopics();
+  document.getElementById('totalQ').textContent=allQuestions.length.toLocaleString();
+}).catch(()=>{
+  document.getElementById('topicsGrid').innerHTML='<p style="color:red;text-align:center;padding:20px">載入題目時出錯。</p>';
 });
-
-function normalizeQuestions(){
-allQuestions.forEach(q=>{
-if(typeof q.answer==='string') q.answer_idx='ABCD'.indexOf(q.answer);
-else q.answer_idx=q.answer;
-});
-}
-
-function updateTotalQ(){
-document.getElementById('totalQ').textContent=allQuestions.length.toLocaleString();
-}
 
 function renderTopics(){
-const grid=document.getElementById('topicsGrid');
-const topics=[...new Set(allQuestions.map(q=>q.topic_zh))].sort();
-grid.innerHTML=topics.map(t=>{
-const count=allQuestions.filter(q=>q.topic_zh===t).length;
-const enName=allQuestions.find(q=>q.topic_zh===t)?.topic_en||t;
-return `<div class="topic-card" onclick="startTopic('${t}')">
-<div class="emoji">${topicEmojis[t]||'📝'}</div>
-<div class="name" data-zh="${t}" data-en="${enName}">${lang==='zh'?t:enName}</div>
-<div class="count">${count} ${lang==='zh'?'題':'Q'}</div>
-</div>`;
-}).join('');
+  const grid=document.getElementById('topicsGrid');
+  const topics=[...new Set(allQuestions.map(q=>getTopic(q)))].sort();
+  grid.innerHTML=topics.map(t=>{
+    const count=allQuestions.filter(q=>getTopic(q)===t).length;
+    const enName=allQuestions.find(q=>getTopic(q)===t);
+    const en=enName?getTopicEn(enName):t;
+    return `<div class="topic-card" onclick="startTopic('${t.replace(/'/g,"\\'")}')">
+      <div class="emoji">${topicEmojis[t]||'📝'}</div>
+      <div class="name" data-zh="${t}" data-en="${en}">${lang==='zh'?t:en}</div>
+      <div class="count">${count} ${lang==='zh'?'題':'Q'}</div>
+    </div>`;
+  }).join('');
 }
 
 function setLang(l){
-lang=l;
-document.querySelectorAll('.lang-btn').forEach(b=>b.classList.toggle('active',
-l==='bi'?b.textContent.includes('雙語'):b.textContent.includes(l==='zh'?'中文':'EN')));
-document.querySelectorAll('[data-zh]').forEach(el=>{
-if(el.dataset.zh&&el.dataset.en)el.textContent=l==='zh'?el.dataset.zh:el.dataset.en;
-});
-renderTopics();
+  lang=l;
+  document.querySelectorAll('.lang-btn').forEach(b=>b.classList.toggle('active',b.textContent.includes(l==='zh'?'中文':'EN')));
+  document.querySelectorAll('[data-zh]').forEach(el=>{
+    if(el.dataset.zh&&el.dataset.en)el.textContent=l==='zh'?el.dataset.zh:el.dataset.en;
+  });
+  renderTopics();
 }
 
 function setMode(m){
-mode=m;
-document.getElementById('modeTopic').classList.toggle('active',m==='topic');
-document.getElementById('modeRandom').classList.toggle('active',m==='random');
-document.getElementById('modeDiff').classList.toggle('active',m==='diff');
-document.getElementById('topicSection').classList.toggle('hidden',m!=='topic');
-document.getElementById('randomSection').classList.toggle('hidden',m!=='random');
-document.getElementById('diffSection').classList.toggle('hidden',m!=='diff');
+  mode=m;
+  document.getElementById('modeTopic').classList.toggle('active',m==='topic');
+  document.getElementById('modeRandom').classList.toggle('active',m==='random');
+  document.getElementById('modeDiff').classList.toggle('active',m==='diff');
+  document.getElementById('topicSection').classList.toggle('hidden',m!=='topic');
+  document.getElementById('randomSection').classList.toggle('hidden',m!=='random');
+  document.getElementById('diffSection').classList.toggle('hidden',m!=='diff');
+  // Re-apply active styles
+  document.querySelectorAll('.mode-btn.active').forEach(e=>{e.style.borderColor=THEME;e.style.background=THEME});
+  document.querySelectorAll('.mode-btn:not(.active)').forEach(e=>{e.style.borderColor='#e0e0e0';e.style.background='#fff'});
 }
 
 function setQCount(n){
-qCount=n;
-document.querySelectorAll('.q-count-btn').forEach(b=>b.classList.remove('active'));
-const ids=['qc'+n,'dqc'+n];
-ids.forEach(id=>{const el=document.getElementById(id);if(el)el.classList.add('active');});
+  qCount=n;
+  document.querySelectorAll('.q-count-btn').forEach(b=>b.classList.remove('active'));
+  ['qc'+n,'dqc'+n].forEach(id=>{const el=document.getElementById(id);if(el)el.classList.add('active');});
+  document.querySelectorAll('.q-count-btn.active').forEach(e=>{e.style.borderColor=THEME;e.style.background=THEME});
+  document.querySelectorAll('.q-count-btn:not(.active)').forEach(e=>{e.style.borderColor='#e0e0e0';e.style.background='#fff'});
 }
 
 function setDiff(d){
-selectedDiff=d;
-document.querySelectorAll('.diff-filter-btn').forEach(b=>b.classList.remove('active'));
-const ids=['diff'+(d===0?'All':d)];
-ids.forEach(id=>{const el=document.getElementById(id);if(el)el.classList.add('active');});
+  selectedDiff=d;
+  document.querySelectorAll('.diff-filter-btn').forEach(b=>b.classList.remove('active'));
+  const el=document.getElementById(d===0?'diffAll':'diff'+d);
+  if(el)el.classList.add('active');
+  document.querySelectorAll('.diff-filter-btn.active').forEach(e=>{e.style.borderColor=THEME;e.style.background=THEME});
+  document.querySelectorAll('.diff-filter-btn:not(.active)').forEach(e=>{e.style.borderColor='#e0e0e0';e.style.background='#fff'});
 }
 
 function startTopic(topic){
-currentQuiz=allQuestions.filter(q=>q.topic_zh===topic).sort(()=>Math.random()-.5).slice(0,qCount);
-startQuiz();
+  currentQuiz=allQuestions.filter(q=>getTopic(q)===topic).sort(()=>Math.random()-.5).slice(0,qCount);
+  startQuiz();
 }
-
 function startRandom(){
-currentQuiz=[...allQuestions].sort(()=>Math.random()-.5).slice(0,qCount);
-startQuiz();
+  currentQuiz=[...allQuestions].sort(()=>Math.random()-.5).slice(0,qCount);
+  startQuiz();
 }
-
 function startDiff(){
-let pool=selectedDiff===0?allQuestions:allQuestions.filter(q=>q.difficulty===selectedDiff);
-currentQuiz=[...pool].sort(()=>Math.random()-.5).slice(0,qCount);
-startQuiz();
+  let pool=selectedDiff===0?allQuestions:allQuestions.filter(q=>q.difficulty===selectedDiff);
+  currentQuiz=[...pool].sort(()=>Math.random()-.5).slice(0,qCount);
+  startQuiz();
 }
 
 function startQuiz(){
-currentIndex=0;correctCount=0;
-document.getElementById('homeView').classList.add('hidden');
-document.getElementById('quizView').classList.remove('hidden');
-document.getElementById('resultView').classList.add('hidden');
-showQuestion();
-}
-
-function getQuestionText(q){
-if(lang==='en') return q.question_en||q.question_zh;
-if(lang==='bi'&&q.question_en&&q.question_en!==q.question_zh) return q.question_zh+'\n\n'+q.question_en;
-return q.question_zh;
-}
-
-function getExplanationText(q){
-if(lang==='en') return q.explanation_en||q.explanation_zh;
-if(lang==='bi'&&q.explanation_en) return q.explanation_zh+'\n\n'+q.explanation_en;
-return q.explanation_zh;
+  currentIndex=0;correctCount=0;
+  document.getElementById('homeView').classList.add('hidden');
+  document.getElementById('quizView').classList.remove('hidden');
+  document.getElementById('resultView').classList.add('hidden');
+  showQuestion();
 }
 
 function showQuestion(){
-const q=currentQuiz[currentIndex];
-const total=currentQuiz.length;
-document.getElementById('progressBar').style.width=((currentIndex)/total*100)+'%';
-document.getElementById('qNum').textContent=`${currentIndex+1} / ${total}`;
-const diffLabels={1:lang==='zh'?'簡單':'Easy',2:lang==='zh'?'中等':'Medium',3:lang==='zh'?'困難':'Hard'};
-document.getElementById('qDiff').textContent=diffLabels[q.difficulty]||'';
-document.getElementById('qDiff').className='q-diff diff-'+q.difficulty;
-document.getElementById('qText').textContent=getQuestionText(q);
-const opts=lang==='en'?(q.options_en||q.options_zh):q.options_zh;
-document.getElementById('qOptions').innerHTML=opts.map((o,i)=>
-`<div class="option" onclick="checkAnswer(${i})">${'ＡＢＣＤ'[i]}. ${o}</div>`
-).join('');
-document.getElementById('qExplanation').classList.remove('show');
-document.getElementById('nextBtn').style.display='none';
-document.getElementById('finishBtn').style.display='none';
+  const q=currentQuiz[currentIndex],total=currentQuiz.length;
+  document.getElementById('progressBar').style.width=((currentIndex)/total*100)+'%';
+  document.getElementById('qNum').textContent=`${currentIndex+1} / ${total}`;
+  const dl=getDiffLabel(q.difficulty);
+  const diffEl=document.getElementById('qDiff');
+  diffEl.textContent=dl;
+  diffEl.className='q-diff diff-'+q.difficulty;
+  document.getElementById('qText').textContent=getQ(q);
+  const opts=getOpts(q);
+  document.getElementById('qOptions').innerHTML=opts.map((o,i)=>
+    `<div class="option" onclick="checkAnswer(${i})">${LETTERS[i]}. ${o}</div>`
+  ).join('');
+  document.getElementById('qExplanation').classList.remove('show');
+  document.getElementById('nextBtn').style.display='none';
+  document.getElementById('finishBtn').style.display='none';
 }
 
 function checkAnswer(idx){
-const q=currentQuiz[currentIndex];
-const correctIdx=q.answer_idx;
-const opts=document.querySelectorAll('.option');
-opts.forEach((o,i)=>{
-o.classList.add('disabled');
-if(i===correctIdx)o.classList.add('correct');
-else if(i===idx)o.classList.add('wrong');
-});
-if(idx===correctIdx)correctCount++;
-doneCount++;
-updateStats();
-document.getElementById('qExpText').textContent=getExplanationText(q);
-document.getElementById('qExplanation').classList.add('show');
-if(currentIndex<currentQuiz.length-1){
-document.getElementById('nextBtn').style.display='inline-block';
-}else{
-document.getElementById('finishBtn').style.display='inline-block';
-}
+  const q=currentQuiz[currentIndex],ans=getAns(q);
+  document.querySelectorAll('.option').forEach((o,i)=>{
+    o.classList.add('disabled');
+    if(i===ans)o.classList.add('correct');
+    else if(i===idx)o.classList.add('wrong');
+  });
+  if(idx===ans)correctCount++;
+  doneCount++;
+  updateStats();
+  document.getElementById('qExpText').textContent=getExpl(q);
+  document.getElementById('qExplanation').classList.add('show');
+  document.getElementById(currentIndex<currentQuiz.length-1?'nextBtn':'finishBtn').style.display='inline-block';
 }
 
-function nextQuestion(){
-currentIndex++;
-showQuestion();
-}
+function nextQuestion(){currentIndex++;showQuestion()}
 
 function finishQuiz(){
-document.getElementById('quizView').classList.add('hidden');
-document.getElementById('resultView').classList.remove('hidden');
-const total=currentQuiz.length;
-const pct=Math.round(correctCount/total*100);
-document.getElementById('resultScore').textContent=`${correctCount} / ${total}`;
-document.getElementById('resultDetail').textContent=lang==='zh'
-?`正確率 ${pct}% | 共完成 ${doneCount} 題`
-:`Accuracy ${pct}% | Total done: ${doneCount}`;
-let emoji='😅';
-if(pct>=90)emoji='🏆';
-else if(pct>=70)emoji='🎉';
-else if(pct>=50)emoji='👍';
-document.getElementById('resultEmoji').textContent=emoji;
-let html='<div style="font-size:14px;color:#666">';
-html+=`<p style="font-weight:600;margin-bottom:8px">${lang==='zh'?'📊 本次練習統計':'📊 Session Stats'}</p>`;
-html+=`<p>${lang==='zh'?'題目數量':'Questions'}: ${total}</p>`;
-html+=`<p>${lang==='zh'?'答對':'Correct'}: ${correctCount}</p>`;
-html+=`<p>${lang==='zh'?'答錯':'Wrong'}: ${total-correctCount}</p>`;
-html+='</div>';
-document.getElementById('resultBreakdown').innerHTML=html;
+  document.getElementById('quizView').classList.add('hidden');
+  document.getElementById('resultView').classList.remove('hidden');
+  const total=currentQuiz.length,pct=Math.round(correctCount/total*100);
+  document.getElementById('resultScore').textContent=`${correctCount} / ${total}`;
+  document.getElementById('resultDetail').textContent=lang==='zh'?`正確率 ${pct}% | 共完成 ${doneCount} 題`:`Accuracy ${pct}% | Total done: ${doneCount}`;
+  let emoji='😅';if(pct>=90)emoji='🏆';else if(pct>=70)emoji='🎉';else if(pct>=50)emoji='👍';
+  document.getElementById('resultEmoji').textContent=emoji;
+  let html='<div style="font-size:14px;color:#666">';
+  html+=`<p style="font-weight:600;margin-bottom:8px">${lang==='zh'?'📊 本次練習統計':'📊 Session Stats'}</p>`;
+  html+=`<p>${lang==='zh'?'題目數量':'Questions'}: ${total}</p>`;
+  html+=`<p>${lang==='zh'?'答對':'Correct'}: ${correctCount}</p>`;
+  html+=`<p>${lang==='zh'?'答錯':'Wrong'}: ${total-correctCount}</p>`;
+  html+='</div>';
+  document.getElementById('resultBreakdown').innerHTML=html;
 }
 
 function goHome(){
-document.getElementById('homeView').classList.remove('hidden');
-document.getElementById('quizView').classList.add('hidden');
-document.getElementById('resultView').classList.add('hidden');
+  document.getElementById('homeView').classList.remove('hidden');
+  document.getElementById('quizView').classList.add('hidden');
+  document.getElementById('resultView').classList.add('hidden');
 }
 
 function updateStats(){
-document.getElementById('doneQ').textContent=doneCount;
-document.getElementById('correctQ').textContent=correctCount;
-document.getElementById('accuracy').textContent=doneCount>0?Math.round(correctCount/doneCount*100)+'%':'0%';
+  document.getElementById('doneQ').textContent=doneCount;
+  document.getElementById('correctQ').textContent=correctCount;
+  document.getElementById('accuracy').textContent=doneCount>0?Math.round(correctCount/doneCount*100)+'%':'0%';
 }
 </script>
 </body>
