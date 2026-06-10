@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>中X數學 | S_X Math — Coming Soon</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK','Microsoft JhengHei',sans-serif;background:#f0f2f5;color:#333}
+.container{max-width:800px;margin:0 auto;padding:16px}
+.header{text-align:center;padding:24px 0;color:#fff;border-radius:16px;margin-bottom:20px;background:linear-gradient(135deg,#3498db,#3498dbcc)}
+.header h1{font-size:26px;margin-bottom:4px}
+.header p{font-size:14px;opacity:.9}
+.top-bar{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}
+.lang-toggle{display:flex;gap:4px}
+.lang-btn{padding:6px 12px;border:1px solid #3498db;border-radius:20px;background:#fff;cursor:pointer;font-size:12px;transition:.2s;color:#3498db}
+.lang-btn.active{background:#3498db;color:#fff}
+.home-link{padding:8px 16px;border:1px solid #ddd;border-radius:8px;background:#fff;cursor:pointer;font-size:14px;text-decoration:none;color:#333;display:inline-block}
+.home-link:hover{background:#f5f5f5}
+.coming-soon-box{text-align:center;padding:60px 20px;background:#fff;border-radius:16px;box-shadow:0 2px 12px rgba(0,0,0,.08)}
+.coming-soon-box .emoji{font-size:64px;margin-bottom:16px}
+.coming-soon-box h2{font-size:24px;margin-bottom:8px;color:#3498db}
+.coming-soon-box p{font-size:16px;color:#666;line-height:1.6}
+</style>
+</head>
+<body>
+<div class="container">
+<div class="top-bar">
+<a class="home-link" href="../" data-zh="← 返回選擇年級" data-en="← Back to Forms">← 返回選擇年級</a>
+<div class="lang-toggle">
+<button class="lang-btn active" onclick="setLang('zh')">中文</button>
+<button class="lang-btn" onclick="setLang('en')">EN</button>
+</div>
+</div>
+<div class="header">
+<h1 id="pageTitle"></h1>
+<p id="pageSub" data-zh="數學練習" data-en="Mathematics Practice">數學練習</p>
+</div>
+<div class="coming-soon-box">
+<div class="emoji">🚧</div>
+<h2 data-zh="即將推出" data-en="Coming Soon">即將推出</h2>
+<p data-zh="此年級嘅題目正在準備中，敬請期待！" data-en="Questions for this form are being prepared. Stay tuned!">此年級嘅題目正在準備中，敬請期待！</p>
+</div>
+</div>
+<script>
+let lang='zh';
+const FORMS={2:['中二','S2'],3:['中三','S3'],4:['中四','S4'],5:['中五','S5'],6:['中六','S6']};
+const path=location.pathname.match(/s(\d)/);
+const f=path?parseInt(path[1]):2;
+const [zh,en]=FORMS[f]||['中二','S2'];
+document.getElementById('pageTitle').textContent='📐 '+zh+' 數學練習';
+document.title=zh+' Mathematics | '+en+' — Coming Soon';
+function setLang(l){
+  lang=l;
+  document.querySelectorAll('.lang-btn').forEach(b=>{b.classList.toggle('active',b.textContent.includes(l==='zh'?'中文':'EN'));if(b.classList.contains('active')){b.style.color='#fff';b.style.background='#3498db'}else{b.style.color='#3498db';b.style.background='#fff'}});
+  document.querySelectorAll('[data-zh]').forEach(el=>{if(el.dataset.zh&&el.dataset.en)el.textContent=l==='zh'?el.dataset.zh:el.dataset.en});
+  document.getElementById('pageTitle').textContent='📐 '+(l==='zh'?zh:en)+' '+(l==='zh'?'數學練習':'Mathematics Practice');
+}
+</script>
+</body>
+</html>
