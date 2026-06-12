@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HKICPA 萬題庫 — 會計專業資格課程</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang TC","Microsoft JhengHei",sans-serif;background:#0a0e1a;color:#e0e6f0;min-height:100vh}
+.topbar{display:flex;align-items:center;justify-content:space-between;padding:12px 20px;background:#111631;border-bottom:1px solid #1e2a4a;position:sticky;top:0;z-index:100}
+.topbar .logo{font-size:1.1rem;font-weight:700;color:#f0c27f;text-decoration:none}
+.topbar .logo span{color:#e0e6f0}
+.topbar .back{color:#8892b0;text-decoration:none;font-size:.9rem}
+.topbar .back:hover{color:#f0c27f}
+.hero{text-align:center;padding:50px 20px 30px;background:linear-gradient(135deg,#0a0e1a 0%,#1a1530 50%,#0d1225 100%)}
+.hero h1{font-size:2.2rem;color:#f0c27f;margin-bottom:8px}
+.hero .subtitle{font-size:1rem;color:#8892b0}
+.stats-row{display:flex;justify-content:center;gap:30px;padding:16px;background:#0d1225;border-bottom:1px solid #1a1f3a;flex-wrap:wrap}
+.stats-row .s{text-align:center;font-size:.8rem;color:#5a6380}
+.stats-row .s b{display:block;font-size:1.2rem;color:#ccd6f6}
+.container{max-width:800px;margin:0 auto;padding:24px 20px}
+.ac-sections{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:16px;margin-bottom:24px}
+.ac-card{background:linear-gradient(145deg,#141929,#1a2040);border:1px solid #1e2a4a;border-radius:12px;padding:20px;cursor:pointer;transition:all .3s}
+.ac-card:hover{border-color:#f0c27f;transform:translateY(-2px)}
+.ac-card h3{color:#f0c27f;margin-bottom:4px;font-size:1.1rem}
+.ac-card .en{color:#5a6380;font-size:.8rem;margin-bottom:8px}
+.ac-card .count{color:#8892b0;font-size:.85rem}
+.diff-filter{display:flex;gap:8px;margin-bottom:20px}
+.diff-filter button{padding:6px 14px;border-radius:6px;border:1px solid #1e2a4a;background:#141929;color:#8892b0;cursor:pointer;font-size:.8rem}
+.diff-filter button.active{border-color:#fbbf24;color:#fbbf24;background:#2a2210}
+.question-card{background:linear-gradient(145deg,#141929,#1a2040);border:1px solid #1e2a4a;border-radius:16px;padding:28px;margin-bottom:20px}
+.q-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px;flex-wrap:wrap;gap:8px}
+.q-header .qid{font-size:.8rem;color:#5a6380}
+.q-header .topic{font-size:.8rem;padding:4px 10px;border-radius:12px;background:#2a1a10;color:#fbbf24}
+.q-header .diff{font-size:.75rem;padding:3px 8px;border-radius:10px}
+.diff-easy{background:#1b4332;color:#95d5b2}
+.diff-medium{background:#3a3520;color:#fbbf24}
+.diff-hard{background:#4a1a1a;color:#f87171}
+.q-text{font-size:1.05rem;line-height:1.8;margin-bottom:20px;color:#e6f1ff}
+.q-text .en{display:block;margin-top:8px;font-size:.9rem;color:#8892b0;font-style:italic}
+.options{display:flex;flex-direction:column;gap:10px}
+.opt{display:flex;align-items:flex-start;gap:12px;padding:14px 18px;border-radius:12px;border:1px solid #1e2a4a;cursor:pointer;transition:all .2s;background:#0f1428}
+.opt:hover:not(.disabled){border-color:#f0c27f;background:#1a1510}
+.opt.selected{border-color:#f0c27f;background:#1a1510}
+.opt.correct{border-color:#4ade80;background:#0a2a1a}
+.opt.wrong{border-color:#f87171;background:#2a0a0a}
+.opt .letter{min-width:28px;height:28px;display:flex;align-items:center;justify-content:center;border-radius:50%;background:#1a1f3a;font-size:.85rem;font-weight:700;color:#8892b0}
+.opt.correct .letter{background:#4ade80;color:#0a0e1a}
+.opt.wrong .letter{background:#f87171;color:#fff}
+.opt .text{font-size:.95rem;line-height:1.6}
+.opt .text .en{display:block;font-size:.85rem;color:#8892b0;margin-top:2px}
+.explanation{margin-top:20px;padding:20px;border-radius:12px;background:#111631;border:1px solid #1e2a4a;display:none}
+.explanation.show{display:block}
+.explanation h4{color:#f0c27f;margin-bottom:8px;font-size:.95rem}
+.explanation p{font-size:.9rem;line-height:1.7;color:#b0b8d0}
+.explanation .en{display:block;margin-top:8px;font-size:.85rem;color:#8892b0;font-style:italic}
+.nav-row{display:flex;justify-content:space-between;margin-top:24px;gap:12px}
+.nav-row button{padding:12px 24px;border-radius:10px;border:none;cursor:pointer;font-size:.95rem;font-weight:600;transition:all .2s}
+.btn-prev{background:#1a2040;color:#8892b0}
+.btn-next{background:linear-gradient(135deg,#f0c27f,#fc5c7d);color:#0a0e1a}
+.btn-prev:disabled,.btn-next:disabled{opacity:.3;cursor:not-allowed}
+.progress{width:100%;height:4px;background:#1a1f3a;border-radius:2px;margin-bottom:20px;overflow:hidden}
+.progress .bar{height:100%;background:linear-gradient(90deg,#f0c27f,#fc5c7d);border-radius:2px;transition:width .3s}
+.search-bar{margin-bottom:20px}
+.search-bar input{width:100%;padding:12px 16px;border-radius:10px;border:1px solid #1e2a4a;background:#0f1428;color:#e0e6f0;font-size:.95rem}
+.search-bar input::placeholder{color:#3a4060}
+</style>
+</head>
+<body>
+<div class="topbar">
+<a class="back" href="../index.html">← 返回首頁</a>
+<a class="logo" href="../index.html">HKICPA <span>萬題庫</span></a>
+</div>
+<div class="hero">
+<h1>📖 會計專業資格課程</h1>
+<div class="subtitle">Accounting Cycle — 全方位會計知識練習</div>
+</div>
+<div class="stats-row">
+<div class="s"><b id="totalQ">10,000</b>總題數</div>
+<div class="s"><b id="currentQ">0</b>目前</div>
+<div class="s"><b id="correctQ">0</b>答對</div>
+<div class="s"><b id="accuracyQ">0%</b>正確率</div>
+</div>
+<div class="container">
+<div class="diff-filter" id="diffFilter">
+<button class="active" data-d="all">全部難度</button>
+<button data-d="1">🟢 簡單</button>
+<button data-d="2">🟡 中等</button>
+<button data-d="3">🔴 困難</button>
+</div>
+<div class="search-bar"><input type="text" id="searchInput" placeholder="🔍 搜尋題目或關鍵字..."></div>
+<div class="progress"><div class="bar" id="progressBar"></div></div>
+<div id="questionArea"></div>
+<div class="nav-row">
+<button class="btn-prev" id="btnPrev" onclick="prevQ()">← 上一題</button>
+<button class="btn-next" id="btnNext" onclick="nextQ()">下一題 →</button>
+</div>
+</div>
+<script>
+let allQuestions=[],filtered=[],idx=0,answers={},currentDiff='all';
+async function loadQuestions(){
+try{
+const r=await fetch('data/questions.json');
+allQuestions=await r.json();
+applyFilters();
+renderQ();
+}catch(e){document.getElementById('questionArea').innerHTML='<div class="question-card"><p>載入題目中... 請稍候</p></div>';}
+}
+function applyFilters(){
+let q=[...allQuestions];
+if(currentDiff!=='all'){const d=parseInt(currentDiff);q=q.filter(x=>x.difficulty===d);}
+const s=document.getElementById('searchInput').value.trim().toLowerCase();
+if(s){q=q.filter(x=>x.question_zh.toLowerCase().includes(s)||x.question_en.toLowerCase().includes(s)||x.topic_zh.includes(s));}
+filtered=q;idx=0;answers={};
+document.getElementById('totalQ').textContent=filtered.length.toLocaleString();
+updateProgress();
+}
+document.querySelectorAll('#diffFilter button').forEach(b=>b.addEventListener('click',()=>{
+currentDiff=b.dataset.d;
+document.querySelectorAll('#diffFilter button').forEach(x=>x.classList.toggle('active',x.dataset.d===currentDiff));
+applyFilters();renderQ();
+}));
+document.getElementById('searchInput').addEventListener('input',()=>{applyFilters();renderQ();});
+function updateProgress(){
+const pct=filtered.length?((idx+1)/filtered.length*100):0;
+document.getElementById('progressBar').style.width=pct+'%';
+document.getElementById('currentQ').textContent=(idx+1)+'/'+filtered.length;
+const correct=Object.values(answers).filter(a=>a.correct).length;
+document.getElementById('correctQ').textContent=correct;
+const total=Object.keys(answers).length;
+document.getElementById('accuracyQ').textContent=total?Math.round(correct/total*100)+'%':'0%';
+}
+function renderQ(){
+const area=document.getElementById('questionArea');
+if(!filtered.length){area.innerHTML='<div class="question-card"><p style="text-align:center;color:#5a6380">沒有符合條件的題目</p></div>';return;}
+const q=filtered[idx];
+const diffClass=['','diff-easy','diff-medium','diff-hard'][q.difficulty];
+const diffLabel=['','🟢 簡單','🟡 中等','🔴 困難'][q.difficulty];
+const letters=['A','B','C','D'];
+const a=answers[q.id];
+let opts='';
+for(let i=0;i<q.options_zh.length;i++){
+let cls='opt';let disabled='';
+if(a){disabled=' disabled';cls+=' disabled';if(i===a.choice){cls+=a.correct?' correct':' wrong';}if(i===q.answer)cls+=' correct';}
+opts+='<div class="'+cls+'"'+disabled+' onclick="answer('+i+')"><span class="letter">'+letters[i]+'</span><div class="text"><span>'+q.options_zh[i]+'</span><span class="en">'+q.options_en[i]+'</span></div></div>';}
+let exp='';
+if(a){exp='<div class="explanation show"><h4>💡 解析</h4><p>'+q.explanation_zh+'</p><span class="en">'+q.explanation_en+'</span></div>';}
+area.innerHTML='<div class="question-card"><div class="q-header"><span class="qid">#'+q.id+'</span><span class="topic">'+q.topic_zh+' — '+q.subtopic_zh+'</span><span class="diff '+diffClass+'">'+diffLabel+'</span></div><div class="q-text"><span>'+q.question_zh+'</span><span class="en">'+q.question_en+'</span></div><div class="options">'+opts+'</div>'+exp+'</div>';
+document.getElementById('btnPrev').disabled=idx===0;
+document.getElementById('btnNext').disabled=idx>=filtered.length-1;
+updateProgress();
+}
+function answer(i){if(answers[filtered[idx].id])return;const q=filtered[idx];answers[q.id]={choice:i,correct:i===q.answer};renderQ();}
+function prevQ(){if(idx>0){idx--;renderQ();}}
+function nextQ(){if(idx<filtered.length-1){idx++;renderQ();}}
+document.addEventListener('keydown',e=>{if(e.key==='ArrowLeft')prevQ();if(e.key==='ArrowRight')nextQ();if(e.key>='1'&&e.key<='4')answer(parseInt(e.key)-1);});
+loadQuestions();
+</script>
+</body>
+</html>

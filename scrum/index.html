@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Scrum 考試題庫 — 10,000 題 | Scrum Exam Question Bank</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--bg:#0f172a;--card:#1e293b;--accent:#3b82f6;--accent2:#8b5cf6;--green:#22c55e;--orange:#f59e0b;--red:#ef4444;--text:#e2e8f0;--muted:#94a3b8;--border:#334155}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:var(--bg);color:var(--text);min-height:100vh;line-height:1.6}
+.container{max-width:1100px;margin:0 auto;padding:20px}
+header{text-align:center;padding:40px 0 30px}
+header h1{font-size:2.2rem;background:linear-gradient(135deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;margin-bottom:8px}
+header p{color:var(--muted);font-size:1rem}
+.stats-row{display:flex;gap:16px;justify-content:center;margin:24px 0;flex-wrap:wrap}
+.stat-card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:20px 28px;text-align:center;min-width:140px}
+.stat-card .num{font-size:1.8rem;font-weight:700}
+.stat-card .label{color:var(--muted);font-size:.85rem;margin-top:4px}
+.domain-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;margin:24px 0}
+.domain-card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:20px;cursor:pointer;transition:all .2s}
+.domain-card:hover{border-color:var(--accent);transform:translateY(-2px)}
+.domain-card .icon{font-size:2rem;margin-bottom:8px}
+.domain-card h3{font-size:1rem;margin-bottom:4px}
+.domain-card .count{color:var(--accent);font-weight:600;font-size:1.1rem}
+.domain-card .pct{color:var(--muted);font-size:.8rem}
+.controls{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:24px;margin:24px 0}
+.controls h2{font-size:1.1rem;margin-bottom:16px}
+.control-row{display:flex;gap:12px;align-items:center;margin-bottom:12px;flex-wrap:wrap}
+.control-row label{min-width:100px;color:var(--muted);font-size:.9rem}
+select,input[type=number]{background:var(--bg);border:1px solid var(--border);color:var(--text);padding:8px 12px;border-radius:8px;font-size:.9rem}
+select:focus,input:focus{outline:none;border-color:var(--accent)}
+.btn{padding:10px 24px;border:none;border-radius:8px;font-size:.95rem;font-weight:600;cursor:pointer;transition:all .15s}
+.btn-primary{background:var(--accent);color:#fff}
+.btn-primary:hover{background:#2563eb}
+.btn-secondary{background:transparent;border:1px solid var(--border);color:var(--text)}
+.btn-secondary:hover{border-color:var(--accent)}
+.btn-row{display:flex;gap:12px;margin-top:16px;flex-wrap:wrap}
+.quiz-area{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:24px;margin:24px 0;display:none}
+.quiz-area.active{display:block}
+.quiz-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px;flex-wrap:wrap;gap:8px}
+.quiz-header .progress{color:var(--muted);font-size:.9rem}
+.quiz-header .score{color:var(--green);font-weight:600}
+.badge{display:inline-block;padding:2px 10px;border-radius:20px;font-size:.75rem;font-weight:600}
+.badge-framework{background:#3b82f620;color:#60a5fa}
+.badge-roles{background:#a855f720;color:#c084fc}
+.badge-artifacts{background:#f59e0b20;color:#fbbf24}
+.badge-agile{background:#22c55e20;color:#4ade80}
+.badge-scaling{background:#ec489920;color:#f472b6}
+.badge-advanced{background:#06b6d420;color:#22d3ee}
+.badge-easy{background:#22c55e20;color:#4ade80}
+.badge-medium{background:#f59e0b20;color:#fbbf24}
+.badge-hard{background:#ef444420;color:#f87171}
+.question-text{font-size:1.05rem;line-height:1.7;margin-bottom:20px}
+.options-list{list-style:none;display:flex;flex-direction:column;gap:10px}
+.option-btn{display:flex;align-items:flex-start;gap:12px;padding:14px 16px;background:var(--bg);border:1px solid var(--border);border-radius:10px;cursor:pointer;transition:all .15s;text-align:left;font-size:.95rem;color:var(--text)}
+.option-btn:hover:not(.disabled){border-color:var(--accent);background:#1e293b80}
+.option-btn .letter{flex-shrink:0;width:28px;height:28px;display:flex;align-items:center;justify-content:center;border-radius:50%;background:var(--card);font-weight:600;font-size:.85rem}
+.option-btn.correct{border-color:var(--green);background:#22c55e15}
+.option-btn.correct .letter{background:var(--green);color:#000}
+.option-btn.wrong{border-color:var(--red);background:#ef444415}
+.option-btn.wrong .letter{background:var(--red);color:#fff}
+.option-btn.disabled{cursor:default;opacity:.7}
+.explanation{margin-top:20px;padding:16px;background:#1e293b;border-left:4px solid var(--accent);border-radius:0 8px 8px 0;display:none;font-size:.92rem;line-height:1.6}
+.explanation.show{display:block}
+.explanation h4{color:var(--accent);margin-bottom:8px;font-size:.9rem}
+.nav-row{display:flex;justify-content:space-between;align-items:center;margin-top:20px;flex-wrap:wrap;gap:8px}
+.results-area{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:24px;margin:24px 0;display:none}
+.results-area h2{margin-bottom:16px}
+.results-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:12px;margin:16px 0}
+.result-stat{text-align:center;padding:16px;background:var(--bg);border-radius:8px}
+.result-stat .big{font-size:2rem;font-weight:700}
+.result-stat .lbl{font-size:.8rem;color:var(--muted);margin-top:4px}
+.lang-toggle{display:flex;gap:4px;background:var(--bg);border-radius:8px;padding:3px}
+.lang-btn{padding:6px 14px;border:none;border-radius:6px;background:transparent;color:var(--muted);cursor:pointer;font-size:.85rem}
+.lang-btn.active{background:var(--accent);color:#fff}
+#loadingOverlay{position:fixed;top:0;left:0;width:100%;height:100%;background:var(--bg);display:flex;align-items:center;justify-content:center;z-index:999;flex-direction:column;gap:16px}
+.spinner{width:40px;height:40px;border:3px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin 1s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+</style>
+</head>
+<body>
+<div id="loadingOverlay"><div class="spinner"></div><p style="color:var(--muted)">Loading questions...</p></div>
+<div class="container">
+<header>
+<h1>🏃 Scrum 萬題庫</h1>
+<p>Scrum PSM / PSPO Exam — <span id="totalQ">10,000</span> Questions</p>
+</header>
+
+<div class="stats-row">
+<div class="stat-card"><div class="num" id="totalNum">10,000</div><div class="label">總題數 Total</div></div>
+<div class="stat-card"><div class="num" id="attemptedNum">0</div><div class="label">已答 Attempted</div></div>
+<div class="stat-card"><div class="num" id="correctNum">0</div><div class="label">正確 Correct</div></div>
+<div class="stat-card"><div class="num" id="accuracyNum">0%</div><div class="label">正確率 Accuracy</div></div>
+</div>
+
+<div class="controls">
+<h2>⚙️ 出題設定 Quiz Settings</h2>
+<div class="control-row">
+<label>語言 Language</label>
+<div class="lang-toggle">
+<button class="lang-btn active" data-lang="zh">中文</button>
+<button class="lang-btn" data-lang="en">English</button>
+<button class="lang-btn" data-lang="both">雙語</button>
+</div>
+</div>
+<div class="control-row">
+<label>主題 Topic</label>
+<select id="topicFilter"><option value="all">全部 All</option></select>
+</div>
+<div class="control-row">
+<label>難度 Difficulty</label>
+<select id="diffFilter"><option value="0">全部 All</option><option value="1">🟢 Easy</option><option value="2">🟡 Medium</option><option value="3">🔴 Hard</option></select>
+</div>
+<div class="control-row">
+<label>題數 Count</label>
+<input type="number" id="qCount" value="20" min="1" max="100" style="width:80px">
+</div>
+<div class="control-row">
+<label>模式 Mode</label>
+<select id="quizMode"><option value="practice">練習 Practice</option><option value="exam">模擬考試 Exam</option></select>
+</div>
+<div class="btn-row">
+<button class="btn btn-primary" id="startBtn">開始 Start Quiz</button>
+<button class="btn btn-secondary" id="randomBtn">隨機 Random</button>
+</div>
+</div>
+
+<div class="quiz-area" id="quizArea">
+<div class="quiz-header">
+<span class="progress" id="progText">Q 1/20</span>
+<span class="score" id="scoreText">✅ 0 / ❌ 0</span>
+</div>
+<div id="topicBadge"></div>
+<div class="question-text" id="qText"></div>
+<ul class="options-list" id="optsList"></ul>
+<div class="explanation" id="explanation"><h4>💡 Explanation</h4><div id="expText"></div></div>
+<div class="nav-row">
+<button class="btn btn-secondary" id="prevBtn">← 上一題</button>
+<button class="btn btn-secondary" id="skipBtn">跳過 Skip</button>
+<button class="btn btn-primary" id="nextBtn">下一題 →</button>
+</div>
+</div>
+
+<div class="results-area" id="resultsArea">
+<h2>📊 成績 Results</h2>
+<div class="results-grid">
+<div class="result-stat"><div class="big" id="rTotal">0</div><div class="lbl">總題 Total</div></div>
+<div class="result-stat"><div class="big" id="rCorrect" style="color:var(--green)">0</div><div class="lbl">正確 Correct</div></div>
+<div class="result-stat"><div class="big" id="rWrong" style="color:var(--red)">0</div><div class="lbl">錯誤 Wrong</div></div>
+<div class="result-stat"><div class="big" id="rAcc">0%</div><div class="lbl">正確率 Accuracy</div></div>
+</div>
+<div class="btn-row"><button class="btn btn-primary" id="retryBtn">再試一次 Retry</button><button class="btn btn-secondary" id="newBtn">新題 New Quiz</button></div>
+</div>
+</div>
+
+<script>
+let allQuestions=[],quizQs=[],idx=0,correct=0,wrong=0,answered={},lang='zh',mode='practice';
+const topicColors={framework:'badge-framework',roles:'badge-roles',artifacts:'badge-artifacts',agile:'badge-agile',scaling:'badge-scaling',advanced:'badge-advanced'};
+
+function getTopicKey(q){
+  const t=q.subtopic_id||q.topic_en||'';
+  if(/framework|sprint|backlog|retro/i.test(t))return'framework';
+  if(/role|master|owner|developer/i.test(t))return'roles';
+  if(/artifact|increment|definition|done/i.test(t))return'artifacts';
+  if(/agile|lean|kanban|empir/i.test(t))return'agile';
+  if(/scal|nexus|cross/i.test(t))return'scaling';
+  return'advanced';
+}
+
+function renderTopics(){
+  const sel=document.getElementById('topicFilter');
+  const topics=[...new Set(allQuestions.map(q=>q.topic_en||q.topic_zh||'Unknown'))];
+  topics.forEach(t=>{const o=document.createElement('option');o.value=t;o.textContent=t;sel.appendChild(o)});
+}
+
+function filterQuestions(){
+  let qs=[...allQuestions];
+  const topic=document.getElementById('topicFilter').value;
+  const diff=parseInt(document.getElementById('diffFilter').value);
+  if(topic!=='all')qs=qs.filter(q=>(q.topic_en||q.topic_zh)===topic);
+  if(diff)qs=qs.filter(q=>q.difficulty===diff);
+  return qs;
+}
+
+function startQuiz(){
+  const pool=filterQuestions();
+  const n=Math.min(parseInt(document.getElementById('qCount').value)||20,pool.length);
+  mode=document.getElementById('quizMode').value;
+  const shuffled=[...pool].sort(()=>Math.random()-.5);
+  quizQs=shuffled.slice(0,n);
+  idx=0;correct=0;wrong=0;answered={};
+  document.getElementById('quizArea').classList.add('active');
+  document.getElementById('resultsArea').style.display='none';
+  renderQ();
+}
+
+function renderQ(){
+  if(idx>=quizQs.length){showResults();return}
+  const q=quizQs[idx];
+  document.getElementById('progText').textContent=`Q ${idx+1}/${quizQs.length}`;
+  document.getElementById('scoreText').textContent=`✅ ${correct} / ❌ ${wrong}`;
+  const tk=getTopicKey(q);
+  document.getElementById('topicBadge').innerHTML=`<span class="badge ${topicColors[tk]||''}">${q.topic_en||''}</span> <span class="badge ${q.difficulty===1?'badge-easy':q.difficulty===2?'badge-medium':'badge-hard'}">${q.difficulty===1?'Easy':q.difficulty===2?'Medium':'Hard'}</span>`;
+  const isEn=lang==='en';
+  const isBoth=lang==='both';
+  let qt=isEn?q.question_en:q.question_zh;
+  if(isBoth)qt=q.question_zh+'\n'+q.question_en;
+  document.getElementById('qText').textContent=qt;
+  const opts=isEn?q.options_en:q.options_zh;
+  const letters=['A','B','C','D'];
+  const ol=document.getElementById('optsList');
+  ol.innerHTML='';
+  opts.forEach((o,i)=>{
+    const li=document.createElement('li');
+    li.className='option-btn'+(answered[idx]!==undefined?' disabled':'');
+    let txt=o;
+    if(isBoth)txt=q.options_zh[i]+'\n'+q.options_en[i];
+    li.innerHTML=`<span class="letter">${letters[i]}</span><span>${txt}</span>`;
+    if(answered[idx]!==undefined){
+      if(i===q.answer)li.classList.add('correct');
+      else if(i===answered[idx])li.classList.add('wrong');
+    }else{
+      li.addEventListener('click',()=>checkAnswer(i));
+    }
+    ol.appendChild(li);
+  });
+  const exp=document.getElementById('explanation');
+  if(answered[idx]!==undefined){
+    exp.classList.add('show');
+    const et=isEn?q.explanation_en:q.explanation_zh;
+    document.getElementById('expText').textContent=isBoth?q.explanation_zh+'\n'+q.explanation_en:et;
+  }else{
+    exp.classList.remove('show');
+  }
+  document.getElementById('prevBtn').disabled=idx===0;
+}
+
+function checkAnswer(chosen){
+  if(answered[idx]!==undefined)return;
+  const q=quizQs[idx];
+  answered[idx]=chosen;
+  if(chosen===q.answer)correct++;else wrong++;
+  renderQ();
+}
+
+function showResults(){
+  document.getElementById('quizArea').classList.remove('active');
+  document.getElementById('resultsArea').style.display='block';
+  document.getElementById('rTotal').textContent=quizQs.length;
+  document.getElementById('rCorrect').textContent=correct;
+  document.getElementById('rWrong').textContent=wrong;
+  document.getElementById('rAcc').textContent=quizQs.length?Math.round(correct/quizQs.length*100)+'%':'0%';
+  updateGlobalStats();
+}
+
+function updateGlobalStats(){
+  let att=0,cor=0;
+  for(const k in answered){att++;if(answered[k]===quizQs[k].answer)cor++}
+  document.getElementById('attemptedNum').textContent=att;
+  document.getElementById('correctNum').textContent=cor;
+  document.getElementById('accuracyNum').textContent=att?Math.round(cor/att*100)+'%':'0%';
+}
+
+document.getElementById('startBtn').addEventListener('click',startQuiz);
+document.getElementById('randomBtn').addEventListener('click',()=>{
+  document.getElementById('topicFilter').value='all';
+  document.getElementById('diffFilter').value='0';
+  startQuiz();
+});
+document.getElementById('prevBtn').addEventListener('click',()=>{if(idx>0){idx--;renderQ()}});
+document.getElementById('nextBtn').addEventListener('click',()=>{idx++;renderQ()});
+document.getElementById('skipBtn').addEventListener('click',()=>{idx++;renderQ()});
+document.getElementById('retryBtn').addEventListener('click',()=>{idx=0;correct=0;wrong=0;answered={};document.getElementById('quizArea').classList.add('active');document.getElementById('resultsArea').style.display='none';renderQ()});
+document.getElementById('newBtn').addEventListener('click',()=>{document.getElementById('resultsArea').style.display='none';document.getElementById('quizArea').classList.remove('active')});
+document.querySelectorAll('.lang-btn').forEach(b=>{b.addEventListener('click',()=>{document.querySelectorAll('.lang-btn').forEach(x=>x.classList.remove('active'));b.classList.add('active');lang=b.dataset.lang;renderQ()})});
+
+fetch('data/questions.json').then(r=>r.json()).then(d=>{
+  allQuestions=Array.isArray(d)?d:d.questions||[];
+  document.getElementById('totalNum').textContent=allQuestions.length.toLocaleString();
+  document.getElementById('totalQ').textContent=allQuestions.length.toLocaleString();
+  renderTopics();
+  document.getElementById('loadingOverlay').style.display='none';
+}).catch(()=>{
+  document.getElementById('loadingOverlay').style.display='none';
+  document.querySelector('.container').innerHTML='<p style="color:red;text-align:center;padding:40px">Error loading questions. Make sure data/questions.json exists.</p>';
+});
+</script>
+</body>
+</html>

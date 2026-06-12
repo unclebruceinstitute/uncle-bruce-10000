@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CFA Level 2 Practice | 10,000 Questions</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK','Microsoft JhengHei',sans-serif;background:#f0f2f5;color:#333}
+.container{max-width:800px;margin:0 auto;padding:16px}
+.header{text-align:center;padding:20px 0;color:#fff;border-radius:16px;margin-bottom:20px}
+.header h1{font-size:24px;margin-bottom:4px}
+.header p{font-size:14px;opacity:.9}
+.top-bar{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}
+.stats-bar{display:flex;justify-content:space-around;background:#fff;border-radius:12px;padding:12px;margin-bottom:16px;box-shadow:0 2px 8px rgba(0,0,0,.08)}
+.stat{text-align:center}
+.stat-num{font-size:24px;font-weight:700}
+.stat-label{font-size:12px;color:#888}
+.mode-select{display:flex;gap:12px;margin-bottom:16px}
+.mode-btn{flex:1;padding:16px;border:2px solid #e0e0e0;border-radius:12px;background:#fff;text-align:center;cursor:pointer;transition:.2s}
+.mode-btn:hover,.mode-btn.active{color:#fff}
+.mode-btn h3{font-size:16px;margin-bottom:4px}
+.mode-btn p{font-size:12px;opacity:.8}
+.topics-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px;margin-bottom:16px}
+.topic-card{padding:14px;background:#fff;border-radius:10px;cursor:pointer;transition:.2s;box-shadow:0 1px 4px rgba(0,0,0,.06);text-align:center}
+.topic-card:hover{transform:translateY(-2px);box-shadow:0 4px 12px rgba(0,0,0,.12)}
+.topic-card .emoji{font-size:28px;margin-bottom:6px}
+.topic-card .name{font-size:13px;font-weight:600}
+.topic-card .count{font-size:11px;color:#888}
+.quiz-area{background:#fff;border-radius:16px;padding:24px;box-shadow:0 2px 12px rgba(0,0,0,.08)}
+.question-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}
+.q-num{font-size:14px;font-weight:600}
+.q-diff{font-size:12px;padding:4px 10px;border-radius:20px}
+.diff-1{background:#e8f5e9;color:#2e7d32}
+.diff-2{background:#fff3e0;color:#e65100}
+.diff-3{background:#fce4ec;color:#c62828}
+.question-text{font-size:18px;line-height:1.8;margin-bottom:20px;font-weight:500;white-space:pre-line}
+.question-image{display:flex;justify-content:center;margin-bottom:20px}
+.question-image svg{max-width:100%;height:auto}
+.options{display:flex;flex-direction:column;gap:10px}
+.option{padding:14px 16px;border:2px solid #e8e8e8;border-radius:10px;cursor:pointer;transition:.2s;font-size:16px;line-height:1.5;display:flex;justify-content:space-between;align-items:center}
+.option:hover{background:#fef5f5}
+.option.correct{border-color:#4caf50;background:#e8f5e9}
+.option.wrong{border-color:#f44336;background:#fce4ec}
+.option.disabled{pointer-events:none}
+.option .result-tag{font-size:13px;font-weight:600;padding:2px 8px;border-radius:6px}
+.option .result-tag.correct-tag{background:#4caf50;color:#fff}
+.option .result-tag.wrong-tag{background:#f44336;color:#fff}
+.explanation{margin-top:16px;padding:16px;background:#fef5f5;border-radius:10px;border-left:4px solid;display:none}
+.explanation.show{display:block}
+.explanation h4{margin-bottom:8px}
+.explanation p{font-size:14px;line-height:1.6}
+.btn{padding:12px 24px;border:none;border-radius:10px;font-size:16px;font-weight:600;cursor:pointer;transition:.2s}
+.btn-primary{color:#fff}
+.btn-primary:hover{opacity:.9}
+.btn-group{display:flex;gap:12px;margin-top:20px;justify-content:center}
+.progress{width:100%;height:6px;background:#e0e0e0;border-radius:3px;margin-bottom:16px;overflow:hidden}
+.progress-bar{height:100%;border-radius:3px;transition:.3s}
+.hidden{display:none}
+.lang-toggle{display:flex;gap:4px}
+.lang-btn{padding:6px 12px;border:1px solid;border-radius:20px;background:#fff;cursor:pointer;font-size:12px;transition:.2s}
+.lang-btn.active{color:#fff}
+.home-link{padding:8px 16px;border:1px solid #ddd;border-radius:8px;background:#fff;cursor:pointer;font-size:14px;text-decoration:none;color:#333;display:inline-block}
+.home-link:hover{background:#f5f5f5}
+.diff-filter{display:flex;gap:8px;margin-bottom:16px;justify-content:center;flex-wrap:wrap}
+.diff-filter-btn{padding:6px 14px;border:2px solid #e0e0e0;border-radius:20px;background:#fff;cursor:pointer;font-size:13px;transition:.2s}
+.diff-filter-btn.active{color:#fff}
+.q-count-select{display:flex;gap:8px;margin-bottom:16px;justify-content:center}
+.q-count-btn{padding:8px 16px;border:2px solid #e0e0e0;border-radius:10px;background:#fff;cursor:pointer;font-size:14px;transition:.2s}
+.q-count-btn.active{color:#fff}
+.loading-overlay{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(255,255,255,.9);display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:1000}
+.loading-spinner{width:48px;height:48px;border:4px solid #e0e0e0;border-top:4px solid #3498db;border-radius:50%;animation:spin 1s linear infinite;margin-bottom:16px}
+@keyframes spin{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.loading-text{font-size:16px;color:#666}
+.back-btn{padding:8px 16px;border:1px solid #ddd;border-radius:8px;background:#fff;cursor:pointer;font-size:14px;text-decoration:none;color:#333;display:inline-block;margin-bottom:12px}
+.back-btn:hover{background:#f5f5f5}
+</style>
+<link rel="stylesheet" href="../katex/katex.min.css">
+</head>
+<body>
+
+<div class="loading-overlay" id="loadingOverlay">
+<div class="loading-spinner"></div>
+<div class="loading-text" id="loadingText">Loading Questions...</div>
+</div>
+
+<div class="container">
+<div class="top-bar">
+<a class="home-link" href="../" data-zh="← 返回主頁" data-en="← Home">← 返回主頁</a>
+<div class="lang-toggle">
+<button class="lang-btn active" onclick="setLang('zh')">中文</button>
+<button class="lang-btn" onclick="setLang('en')">EN</button>
+</div>
+</div>
+
+<div class="header" id="pageHeader">
+<h1 id="pageTitle"></h1>
+<p id="pageSub"></p>
+</div>
+
+<div class="stats-bar">
+<div class="stat"><div class="stat-num" id="totalQ">0</div><div class="stat-label" data-zh="總題數" data-en="Total">總題數</div></div>
+<div class="stat"><div class="stat-num" id="doneQ">0</div><div class="stat-label" data-zh="已完成" data-en="Done">已完成</div></div>
+<div class="stat"><div class="stat-num" id="correctQ">0</div><div class="stat-label" data-zh="答對" data-en="Correct">答對</div></div>
+<div class="stat"><div class="stat-num" id="accuracy">0%</div><div class="stat-label" data-zh="正確率" data-en="Accuracy">正確率</div></div>
+</div>
+
+<!-- HOME -->
+<div id="homeView" class="">
+<div class="mode-select">
+<div class="mode-btn" onclick="setMode('topic')" id="modeTopic">
+<h3 data-zh="📚 按課題" data-en="📚 By Topic">📚 按課題</h3>
+<p data-zh="選擇特定課題練習" data-en="Choose specific topic">選擇特定課題練習</p>
+</div>
+<div class="mode-btn" onclick="setMode('random')" id="modeRandom">
+<h3 data-zh="🎲 隨機練習" data-en="🎲 Random">🎲 隨機練習</h3>
+<p data-zh="隨機混合所有課題" data-en="Mix all topics randomly">隨機混合所有課題</p>
+</div>
+<div class="mode-btn active" onclick="setMode('diff')" id="modeDiff">
+<h3 data-zh="⭐ 按難度" data-en="⭐ By Difficulty">⭐ 按難度</h3>
+<p data-zh="選擇難度等級" data-en="Choose difficulty level">選擇難度等級</p>
+</div>
+</div>
+
+<div id="topicSection" class="hidden">
+<div class="topics-grid" id="topicsGrid"></div>
+</div>
+
+<div id="randomSection" class="hidden" style="text-align:center;padding:20px">
+<p style="margin-bottom:16px;font-size:16px" data-zh="隨機抽取題目作答" data-en="Randomly pick questions">隨機抽取題目作答</p>
+<div class="q-count-select">
+<button class="q-count-btn" onclick="setQCount(10)" id="qc10">10</button>
+<button class="q-count-btn active" onclick="setQCount(20)" id="qc20">20</button>
+<button class="q-count-btn" onclick="setQCount(50)" id="qc50">50</button>
+<button class="q-count-btn" onclick="setQCount(100)" id="qc100">100</button>
+</div>
+<button class="btn btn-primary" onclick="startRandom()" data-zh="開始隨機練習" data-en="Start Random Practice">開始隨機練習</button>
+</div>
+
+<div id="diffSection" class="" style="text-align:center;padding:20px">
+<p style="margin-bottom:16px;font-size:16px" data-zh="選擇難度等級" data-en="Choose difficulty level">選擇難度等級</p>
+<div class="diff-filter" style="margin-bottom:16px">
+<button class="diff-filter-btn active" onclick="setDiff(0)" id="diffAll" data-zh="全部" data-en="All">全部</button>
+<button class="diff-filter-btn" onclick="setDiff(1)" id="diff1" data-zh="⭐ 簡單" data-en="⭐ Easy">⭐ 簡單</button>
+<button class="diff-filter-btn" onclick="setDiff(2)" id="diff2" data-zh="⭐⭐ 中等" data-en="⭐⭐ Medium">⭐⭐ 中等</button>
+<button class="diff-filter-btn" onclick="setDiff(3)" id="diff3" data-zh="⭐⭐⭐ 困難" data-en="⭐⭐⭐ Hard">⭐⭐⭐ 困難</button>
+</div>
+<div class="q-count-select">
+<button class="q-count-btn" onclick="setQCount(10)" id="dqc10">10</button>
+<button class="q-count-btn active" onclick="setQCount(20)" id="dqc20">20</button>
+<button class="q-count-btn" onclick="setQCount(50)" id="dqc50">50</button>
+</div>
+<button class="btn btn-primary" onclick="startDiff()" data-zh="開始練習" data-en="Start Practice">開始練習</button>
+</div>
+</div>
+
+<!-- QUIZ -->
+<div id="quizView" class="hidden">
+<button class="back-btn" onclick="goHome()" data-zh="← 返回" data-en="← Back">← 返回</button>
+<div class="progress"><div class="progress-bar" id="progressBar" style="width:0%"></div></div>
+<div class="quiz-area">
+<div class="question-header">
+<span class="q-num" id="qNum">1 / 20</span>
+<span class="q-diff diff-1" id="qDiff"></span>
+</div>
+<div class="question-image" id="qImage"></div>
+<div class="question-text" id="qText"></div>
+<div class="options" id="qOptions"></div>
+<div class="explanation" id="qExplanation">
+<h4 data-zh="💡 解說" data-en="💡 Explanation">💡 解說</h4>
+<p id="qExpText"></p>
+</div>
+<div class="btn-group" id="qButtons">
+<button class="btn btn-primary" id="nextBtn" onclick="nextQuestion()" style="display:none" data-zh="下一題 →" data-en="Next →">下一題 →</button>
+<button class="btn btn-primary" id="finishBtn" onclick="finishQuiz()" style="display:none" data-zh="查看結果" data-en="See Results">查看結果</button>
+</div>
+</div>
+</div>
+
+<!-- RESULT -->
+<div id="resultView" class="hidden" style="text-align:center">
+<div class="quiz-area">
+<h2 style="margin-bottom:16px" data-zh="🎉 練習完成！" data-en="🎉 Practice Complete!">🎉 練習完成！</h2>
+<div style="font-size:60px;margin:20px 0" id="resultEmoji">🎯</div>
+<div style="font-size:36px;font-weight:700;margin-bottom:8px" id="resultScore"></div>
+<div style="font-size:16px;color:#666;margin-bottom:24px" id="resultDetail"></div>
+<div id="resultBreakdown" style="margin-bottom:24px;text-align:left"></div>
+<button class="btn btn-primary" onclick="goHome()" data-zh="返回首頁" data-en="Back to Home">返回首頁</button>
+</div>
+</div>
+</div>
+
+<script>
+let allQuestions=[],currentQuiz=[],currentIndex=0,correctCount=0,doneCount=0,lang='zh',mode='topic',qCount=20,selectedDiff=0;
+const LETTERS=['Ａ','Ｂ','Ｃ','Ｄ'];
+let THEME='#e67e22';
+
+document.title='CFA Level 2 Practice | 10,000 Questions';
+document.querySelector('.header').style.background=`linear-gradient(135deg,${THEME},${THEME}cc)`;
+document.querySelectorAll('.stat-num').forEach(e=>e.style.color=THEME);
+document.querySelectorAll('.lang-btn').forEach(e=>{e.style.borderColor=THEME;e.style.color=THEME});
+document.querySelector('.lang-btn.active').style.background=THEME;
+document.querySelector('.lang-btn.active').style.color='#fff';
+document.querySelectorAll('.mode-btn.active').forEach(e=>{e.style.borderColor=THEME;e.style.background=THEME});
+document.querySelectorAll('.diff-filter-btn.active').forEach(e=>{e.style.borderColor=THEME;e.style.background=THEME});
+document.querySelectorAll('.q-count-btn.active').forEach(e=>{e.style.borderColor=THEME;e.style.background=THEME});
+document.querySelectorAll('.btn-primary').forEach(e=>e.style.background=THEME);
+document.querySelector('.progress-bar').style.background=`linear-gradient(90deg,${THEME},${THEME}cc)`;
+document.querySelector('.explanation').style.borderLeftColor=THEME;
+document.querySelector('.explanation h4').style.color=THEME;
+document.getElementById('resultScore').style.color=THEME;
+document.querySelectorAll('.q-num').forEach(e=>e.style.color=THEME);
+
+function getQ(q){
+  if(lang==='en')return q.question_en||q.question||q.question_zh||'';
+  return q.question_zh||q.question||'';
+}
+function getOpts(q){
+  if(lang==='en'&&q.options_en)return q.options_en;
+  return q.options_zh||q.options||[];
+}
+function getExpl(q){
+  if(lang==='en')return q.explanation_en||q.explanation||q.explanation_zh||'';
+  return q.explanation_zh||q.explanation||'';
+}
+function getTopic(q){
+  if(lang==='en')return q.topic_en||q.topic||q.topic_zh||'';
+  return q.topic_zh||q.topic||'';
+}
+function getTopicEn(q){
+  return q.topic_en||q.topic||q.topic_zh||'';
+}
+function getAns(q){
+  const a=q.answer;
+  if(typeof a==='number')return a;
+  if(typeof a==='string'&&a.length===1&&/[A-Da-d]/.test(a))return a.toUpperCase().charCodeAt(0)-65;
+  return 0;
+}
+function getDiffLabel(d){
+  return{1:lang==='zh'?'簡單':'Easy',2:lang==='zh'?'中等':'Medium',3:lang==='zh'?'困難':'Hard'}[d]||'';
+}
+
+const topicEmojis={
+'Ethics':'⚖️','Quantitative Methods':'📐','Economics':'📊',
+'Financial Reporting':'📋','Corporate Issuers':'🏢','Equity':'📈',
+'Fixed Income':'💰','Derivatives':'🔄','Alternative Investments':'🏠',
+'Portfolio Management':'🎯'
+};
+
+fetch('data/questions.json').then(r=>r.json()).then(d=>{
+  allQuestions=Array.isArray(d)?d:d.questions||[];
+  document.getElementById('pageTitle').textContent='📘 CFA Level 2 Practice';
+  document.getElementById('pageSub').textContent='Application & Analysis | '+allQuestions.length.toLocaleString()+' Questions';
+  renderTopics();
+  document.getElementById('totalQ').textContent=allQuestions.length.toLocaleString();
+  document.getElementById('loadingOverlay').style.display='none';
+}).catch(()=>{
+  document.getElementById('loadingOverlay').style.display='none';
+  document.getElementById('topicsGrid').innerHTML='<p style="color:red;text-align:center;padding:20px">Error loading questions.</p>';
+});
+
+function renderTopics(){
+  const grid=document.getElementById('topicsGrid');
+  const topics=[...new Set(allQuestions.map(q=>getTopic(q)))].sort();
+  grid.innerHTML=topics.map(t=>{
+    const count=allQuestions.filter(q=>getTopic(q)===t).length;
+    const enName=allQuestions.find(q=>getTopic(q)===t);
+    const en=enName?getTopicEn(enName):t;
+    return `<div class="topic-card" onclick="startTopic('${t.replace(/'/g,"\\'")}')">
+      <div class="emoji">${topicEmojis[en]||'📝'}</div>
+      <div class="name" data-zh="${t}" data-en="${en}">${lang==='zh'?t:en}</div>
+      <div class="count">${count} ${lang==='zh'?'題':'Questions'}</div>
+    </div>`;
+  }).join('');
+}
+
+function setLang(l){
+  lang=l;
+  document.querySelectorAll('.lang-btn').forEach(b=>{b.classList.toggle('active',b.textContent.includes(l==='zh'?'中文':'EN'));if(b.classList.contains('active')){b.style.color='#fff';b.style.background=THEME}else{b.style.color=THEME;b.style.background='#fff'}});
+  document.querySelectorAll('[data-zh]').forEach(el=>{
+    if(el.dataset.zh&&el.dataset.en)el.textContent=l==='zh'?el.dataset.zh:el.dataset.en;
+  });
+  renderTopics();
+}
+
+function setMode(m){
+  mode=m;
+  document.getElementById('modeTopic').classList.toggle('active',m==='topic');
+  document.getElementById('modeRandom').classList.toggle('active',m==='random');
+  document.getElementById('modeDiff').classList.toggle('active',m==='diff');
+  document.getElementById('topicSection').classList.toggle('hidden',m!=='topic');
+  document.getElementById('randomSection').classList.toggle('hidden',m!=='random');
+  document.getElementById('diffSection').classList.toggle('hidden',m!=='diff');
+  document.querySelectorAll('.mode-btn.active').forEach(e=>{e.style.borderColor=THEME;e.style.background=THEME});
+  document.querySelectorAll('.mode-btn:not(.active)').forEach(e=>{e.style.borderColor='#e0e0e0';e.style.background='#fff'});
+}
+
+function setQCount(n){
+  qCount=n;
+  document.querySelectorAll('.q-count-btn').forEach(b=>b.classList.remove('active'));
+  ['qc'+n,'dqc'+n].forEach(id=>{const el=document.getElementById(id);if(el)el.classList.add('active');});
+  document.querySelectorAll('.q-count-btn.active').forEach(e=>{e.style.borderColor=THEME;e.style.background=THEME});
+  document.querySelectorAll('.q-count-btn:not(.active)').forEach(e=>{e.style.borderColor='#e0e0e0';e.style.background='#fff'});
+}
+
+function setDiff(d){
+  selectedDiff=d;
+  document.querySelectorAll('.diff-filter-btn').forEach(b=>b.classList.remove('active'));
+  const el=document.getElementById(d===0?'diffAll':'diff'+d);
+  if(el)el.classList.add('active');
+  document.querySelectorAll('.diff-filter-btn.active').forEach(e=>{e.style.borderColor=THEME;e.style.background=THEME});
+  document.querySelectorAll('.diff-filter-btn:not(.active)').forEach(e=>{e.style.borderColor='#e0e0e0';e.style.background='#fff'});
+}
+
+function startTopic(topic){
+  currentQuiz=allQuestions.filter(q=>getTopic(q)===topic).sort(()=>Math.random()-.5).slice(0,qCount);
+  startQuiz();
+}
+function startRandom(){
+  currentQuiz=[...allQuestions].sort(()=>Math.random()-.5).slice(0,qCount);
+  startQuiz();
+}
+function startDiff(){
+  let pool=selectedDiff===0?allQuestions:allQuestions.filter(q=>q.difficulty===selectedDiff);
+  currentQuiz=[...pool].sort(()=>Math.random()-.5).slice(0,qCount);
+  startQuiz();
+}
+
+function startQuiz(){
+  currentIndex=0;correctCount=0;
+  document.getElementById('homeView').classList.add('hidden');
+  document.getElementById('quizView').classList.remove('hidden');
+  document.getElementById('resultView').classList.add('hidden');
+  showQuestion();
+}
+
+function showQuestion(){
+  const q=currentQuiz[currentIndex],total=currentQuiz.length;
+  document.getElementById('progressBar').style.width=((currentIndex)/total*100)+'%';
+  document.getElementById('qNum').textContent=`${currentIndex+1} / ${total}`;
+  const dl=getDiffLabel(q.difficulty);
+  const diffEl=document.getElementById('qDiff');
+  diffEl.textContent=dl;
+  diffEl.className='q-diff diff-'+q.difficulty;
+  const imgEl=document.getElementById('qImage');
+  if(q.image_svg){imgEl.innerHTML=q.image_svg;imgEl.style.display='flex';}
+  else{imgEl.innerHTML='';imgEl.style.display='none';}
+  document.getElementById('qText').textContent=getQ(q);
+  const opts=getOpts(q);
+  document.getElementById('qOptions').innerHTML=opts.map((o,i)=>
+    `<div class="option" onclick="checkAnswer(${i})"><span>${LETTERS[i]}. ${o}</span><span class="result-tag" id="tag${i}"></span></div>`
+  ).join('');
+  document.getElementById('qExplanation').classList.remove('show');
+  document.getElementById('nextBtn').style.display='none';
+  document.getElementById('finishBtn').style.display='none';
+}
+
+function checkAnswer(idx){
+  const q=currentQuiz[currentIndex],ans=getAns(q);
+  const isCorrect=idx===ans;
+  document.querySelectorAll('.option').forEach((o,i)=>{
+    o.classList.add('disabled');
+    if(i===ans){
+      o.classList.add('correct');
+      document.getElementById('tag'+i).textContent=lang==='zh'?'正確':'Correct';
+      document.getElementById('tag'+i).className='result-tag correct-tag';
+    }else if(i===idx){
+      o.classList.add('wrong');
+      document.getElementById('tag'+i).textContent=lang==='zh'?'不正確':'Incorrect';
+      document.getElementById('tag'+i).className='result-tag wrong-tag';
+    }
+  });
+  if(isCorrect)correctCount++;
+  doneCount++;
+  updateStats();
+  document.getElementById('qExpText').textContent=getExpl(q);
+  document.getElementById('qExplanation').classList.add('show');
+  document.getElementById(currentIndex<currentQuiz.length-1?'nextBtn':'finishBtn').style.display='inline-block';
+}
+
+function nextQuestion(){currentIndex++;showQuestion()}
+
+function finishQuiz(){
+  document.getElementById('quizView').classList.add('hidden');
+  document.getElementById('resultView').classList.remove('hidden');
+  const total=currentQuiz.length,pct=Math.round(correctCount/total*100);
+  document.getElementById('resultScore').textContent=`${correctCount} / ${total}`;
+  document.getElementById('resultDetail').textContent=lang==='zh'?`正確率 ${pct}% | 共完成 ${doneCount} 題`:`Accuracy ${pct}% | Total done: ${doneCount}`;
+  let emoji='😅';if(pct>=90)emoji='🏆';else if(pct>=70)emoji='🎉';else if(pct>=50)emoji='👍';
+  document.getElementById('resultEmoji').textContent=emoji;
+  let html='<div style="font-size:14px;color:#666">';
+  html+=`<p style="font-weight:600;margin-bottom:8px">${lang==='zh'?'📊 本次練習統計':'📊 Session Stats'}</p>`;
+  html+=`<p>${lang==='zh'?'題目數量':'Questions'}: ${total}</p>`;
+  html+=`<p>${lang==='zh'?'答對':'Correct'}: ${correctCount}</p>`;
+  html+=`<p>${lang==='zh'?'答錯':'Wrong'}: ${total-correctCount}</p>`;
+  html+='</div>';
+  document.getElementById('resultBreakdown').innerHTML=html;
+}
+
+function goHome(){
+  document.getElementById('homeView').classList.remove('hidden');
+  document.getElementById('quizView').classList.add('hidden');
+  document.getElementById('resultView').classList.add('hidden');
+}
+
+function updateStats(){
+  document.getElementById('doneQ').textContent=doneCount;
+  document.getElementById('correctQ').textContent=correctCount;
+  document.getElementById('accuracy').textContent=doneCount>0?Math.round(correctCount/doneCount*100)+'%':'0%';
+}
+</script>
+<script src="../katex/katex.min.js"></script>
+<script src="../katex/auto-render.min.js"></script>
+<script>
+function renderMath(){
+  const expEl=document.getElementById('qExpText');
+  if(expEl&&window.renderMathInElement){
+    renderMathInElement(expEl,{
+      delimiters:[{left:'$$',right:'$$',display:true},{left:'$',right:'$',display:false},{left:'\\(',right:'\\)',display:false},{left:'\\[',right:'\\]',display:true}],
+      throwOnError:false
+    });
+  }
+}
+const observer=new MutationObserver(function(mutations){
+  mutations.forEach(function(mutation){
+    if(mutation.target.classList&&mutation.target.classList.contains('show'))renderMath();
+  });
+});
+const expDiv=document.getElementById('qExplanation');
+if(expDiv)observer.observe(expDiv,{attributes:true,attributeFilter:['class']});
+</script>
+</body>
+</html>
