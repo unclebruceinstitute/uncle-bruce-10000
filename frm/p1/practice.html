@@ -257,7 +257,7 @@ function renderTopics(){
     const count=allQuestions.filter(q=>getTopic(q)===t).length;
     const enName=allQuestions.find(q=>getTopic(q)===t);
     const en=enName?getTopicEn(enName):t;
-    return `<div class="topic-card" onclick="startTopic('${t.replace(/'/g,"\\'")})')">
+    return `<div class="topic-card" onclick="startTopic('${t.replace(/'/g,"\\'")}')">
       <div class="emoji">${TOPIC_EMOJIS[t]||'📝'}</div>
       <div class="name" data-zh="${t}" data-en="${en}">${lang==='zh'?t:en}</div>
       <div class="count">${count} ${lang==='zh'?'題':'Questions'}</div>
