@@ -75,6 +75,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK
 .back-btn{padding:8px 16px;border:1px solid #ddd;border-radius:8px;background:#fff;cursor:pointer;font-size:14px;text-decoration:none;color:#333;display:inline-block;margin-bottom:12px}
 .back-btn:hover{background:#f5f5f5}
 </style>
+<link rel="stylesheet" href="../../katex/katex.min.css">
 </head>
 <body>
 
@@ -241,11 +242,9 @@ function getDiffLabel(d){
 }
 
 const topicEmojis={
-'三角函數':'📐','坐標':'📍','基本代數':'📐',
-'基本幾何':'📏','指數函數與對數':'📈','排列與組合':'📐',
-'正負數':'🔢','比與比率':'⚖️','百分數':'💯',
-'統計圖表':'📈','綜合應用':'🏃','規律與數列':'🔢',
-'面積與體積':'📊'
+'正負數':'🔢','基本代數':'📐','基本幾何':'📏','百分數':'💯',
+'比與比率':'⚖️','面積與體積':'📊','統計圖表':'📈','坐標':'📍',
+'規律與數列':'🔢','綜合應用':'🏃'
 };
 
 fetch('questions.json').then(r=>r.json()).then(d=>{
@@ -411,5 +410,38 @@ function updateStats(){
   document.getElementById('accuracy').textContent=doneCount>0?Math.round(correctCount/doneCount*100)+'%':'0%';
 }
 </script>
+<script src="../../katex/katex.min.js"></script>
+<script src="../../katex/auto-render.min.js"></script>
+
+<script>
+// Render math notation in explanations
+function renderMath() {
+  const expEl = document.getElementById('qExpText');
+  if (expEl && window.renderMathInElement) {
+    renderMathInElement(expEl, {
+      delimiters: [
+        {left: '$$', right: '$$', display: true},
+        {left: '$', right: '$', display: false},
+        {left: '\\(', right: '\\)', display: false},
+        {left: '\\[', right: '\\]', display: true}
+      ],
+      throwOnError: false
+    });
+  }
+}
+// Re-render when explanation is shown
+const observer = new MutationObserver(function(mutations) {
+  mutations.forEach(function(mutation) {
+    if (mutation.target.classList && mutation.target.classList.contains('show')) {
+      renderMath();
+    }
+  });
+});
+const expDiv = document.getElementById('qExplanation');
+if (expDiv) {
+  observer.observe(expDiv, {attributes: true, attributeFilter: ['class']});
+}
+</script>
+
 </body>
 </html>
