@@ -327,10 +327,11 @@ function startQuiz(){
 
 function shuffleOptions(q){
   if(q._shuffled)return;
-  const opts=getOpts(q),ans=getAns(q);
+  const rawOpts=getOpts(q),ans=getAns(q);
+  const clean=rawOpts.map(o=>o.replace(/^[A-Da-d][.．、]\s*/,''));
   const indices=[0,1,2,3];
   for(let i=3;i>0;i--){const j=Math.floor(Math.random()*(i+1));[indices[i],indices[j]]=[indices[j],indices[i]];}
-  q._opts=[indices.map(i=>opts[i]),indices.map(i=>opts[i])];
+  q._opts=[indices.map(i=>clean[i]),indices.map(i=>clean[i])];
   q._ans=indices.indexOf(ans);
   q._shuffled=true;
 }

@@ -346,10 +346,11 @@ function startQuiz(){
 
 function shuffleOptions(q){
   if(q._shuffled)return;
-  var opts=getOpts(q),ans=getAns(q);
+  var rawOpts=getOpts(q),ans=getAns(q);
+  var clean=rawOpts.map(function(o){return o.replace(/^[A-Da-d][.．、]\s*/,\'\')});
   var idx=[0,1,2,3];
   for(var i=3;i>0;i--){var j=Math.floor(Math.random()*(i+1));var t=idx[i];idx[i]=idx[j];idx[j]=t;}
-  q._opts=[idx.map(function(i){return opts[i]}), idx.map(function(i){return opts[i]})];
+  q._opts=[idx.map(function(i){return clean[i]}), idx.map(function(i){return clean[i]})];
   q._ans=idx.indexOf(ans);
   q._shuffled=true;
 }
