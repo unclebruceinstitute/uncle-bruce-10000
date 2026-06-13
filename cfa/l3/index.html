@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>CFA Level 3 Practice | 10,000 Questions</title>
+<title>CFA Level 3 Practice | Uncle Bruce 10,000</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK','Microsoft JhengHei',sans-serif;background:#f0f2f5;color:#333}
@@ -36,7 +36,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK
 .diff-3{background:#fce4ec;color:#c62828}
 .question-text{font-size:18px;line-height:1.8;margin-bottom:20px;font-weight:500;white-space:pre-line}
 .question-image{display:flex;justify-content:center;margin-bottom:20px}
-.question-image svg{max-width:100%;height:auto}
 .options{display:flex;flex-direction:column;gap:10px}
 .option{padding:14px 16px;border:2px solid #e8e8e8;border-radius:10px;cursor:pointer;transition:.2s;font-size:16px;line-height:1.5;display:flex;justify-content:space-between;align-items:center}
 .option:hover{background:#fef5f5}
@@ -69,24 +68,23 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK
 .q-count-btn{padding:8px 16px;border:2px solid #e0e0e0;border-radius:10px;background:#fff;cursor:pointer;font-size:14px;transition:.2s}
 .q-count-btn.active{color:#fff}
 .loading-overlay{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(255,255,255,.9);display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:1000}
-.loading-spinner{width:48px;height:48px;border:4px solid #e0e0e0;border-top:4px solid #3498db;border-radius:50%;animation:spin 1s linear infinite;margin-bottom:16px}
+.loading-spinner{width:48px;height:48px;border:4px solid #e0e0e0;border-top:4px solid #8e44ad;border-radius:50%;animation:spin 1s linear infinite;margin-bottom:16px}
 @keyframes spin{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
 .loading-text{font-size:16px;color:#666}
 .back-btn{padding:8px 16px;border:1px solid #ddd;border-radius:8px;background:#fff;cursor:pointer;font-size:14px;text-decoration:none;color:#333;display:inline-block;margin-bottom:12px}
 .back-btn:hover{background:#f5f5f5}
 </style>
-<link rel="stylesheet" href="../katex/katex.min.css">
 </head>
 <body>
 
 <div class="loading-overlay" id="loadingOverlay">
 <div class="loading-spinner"></div>
-<div class="loading-text" id="loadingText">Loading Questions...</div>
+<div class="loading-text" id="loadingText">載入題目中...</div>
 </div>
 
 <div class="container">
 <div class="top-bar">
-<a class="home-link" href="../" data-zh="← 返回主頁" data-en="← Home">← 返回主頁</a>
+<a class="home-link" href="../../" data-zh="← 返回主頁" data-en="← Home">← 返回主頁</a>
 <div class="lang-toggle">
 <button class="lang-btn active" onclick="setLang('zh')">中文</button>
 <button class="lang-btn" onclick="setLang('en')">EN</button>
@@ -94,8 +92,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK
 </div>
 
 <div class="header" id="pageHeader">
-<h1 id="pageTitle"></h1>
-<p id="pageSub"></p>
+<h1 id="pageTitle">📈 CFA Level 3 練習</h1>
+<p id="pageSub">CFA Level 3 Practice | <span id="qCountHeader">0</span> Questions</p>
 </div>
 
 <div class="stats-bar">
@@ -193,9 +191,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK
 <script>
 let allQuestions=[],currentQuiz=[],currentIndex=0,correctCount=0,doneCount=0,lang='zh',mode='topic',qCount=20,selectedDiff=0;
 const LETTERS=['Ａ','Ｂ','Ｃ','Ｄ'];
-let THEME='#e74c3c';
+let THEME='#8e44ad';
 
-document.title='CFA Level 3 Practice | 10,000 Questions';
 document.querySelector('.header').style.background=`linear-gradient(135deg,${THEME},${THEME}cc)`;
 document.querySelectorAll('.stat-num').forEach(e=>e.style.color=THEME);
 document.querySelectorAll('.lang-btn').forEach(e=>{e.style.borderColor=THEME;e.style.color=THEME});
@@ -211,24 +208,26 @@ document.querySelector('.explanation h4').style.color=THEME;
 document.getElementById('resultScore').style.color=THEME;
 document.querySelectorAll('.q-num').forEach(e=>e.style.color=THEME);
 
+const TOPIC_EMOJIS = {"Ethics": "⚖️", "Quantitative Methods": "📐", "Economics": "📊", "Financial Reporting": "📋", "Corporate Finance": "🏢", "Equity": "📈", "Fixed Income": "💹", "Derivatives": "🔄", "Alternative Investments": "🏠", "Portfolio Management": "💼"};
+
 function getQ(q){
-  if(lang==='en')return q.question_en||q.question||q.question_zh||'';
-  return q.question_zh||q.question||'';
+  if(lang==='en')return q.question_en||q.question_zh||'';
+  return q.question_zh||q.question_en||'';
 }
 function getOpts(q){
   if(lang==='en'&&q.options_en)return q.options_en;
-  return q.options_zh||q.options||[];
+  return q.options_zh||q.options_en||[];
 }
 function getExpl(q){
-  if(lang==='en')return q.explanation_en||q.explanation||q.explanation_zh||'';
-  return q.explanation_zh||q.explanation||'';
+  if(lang==='en')return q.explanation_en||q.explanation_zh||'';
+  return q.explanation_zh||q.explanation_en||'';
 }
 function getTopic(q){
-  if(lang==='en')return q.topic_en||q.topic||q.topic_zh||'';
-  return q.topic_zh||q.topic||'';
+  if(lang==='en')return q.topic_en||q.topic_zh||'Unknown';
+  return q.topic_zh||q.topic_en||'未知';
 }
 function getTopicEn(q){
-  return q.topic_en||q.topic||q.topic_zh||'';
+  return q.topic_en||q.topic_zh||'Unknown';
 }
 function getAns(q){
   const a=q.answer;
@@ -240,23 +239,15 @@ function getDiffLabel(d){
   return{1:lang==='zh'?'簡單':'Easy',2:lang==='zh'?'中等':'Medium',3:lang==='zh'?'困難':'Hard'}[d]||'';
 }
 
-const topicEmojis={
-'Ethics':'⚖️','Quantitative Methods':'📐','Economics':'📊',
-'Financial Reporting':'📋','Corporate Issuers':'🏢','Equity':'📈',
-'Fixed Income':'💰','Derivatives':'🔄','Alternative Investments':'🏠',
-'Portfolio Management':'🎯'
-};
-
 fetch('data/questions.json').then(r=>r.json()).then(d=>{
   allQuestions=Array.isArray(d)?d:d.questions||[];
-  document.getElementById('pageTitle').textContent='📘 CFA Level 3 Practice';
-  document.getElementById('pageSub').textContent='Synthesis & Portfolio Construction | '+allQuestions.length.toLocaleString()+' Questions';
+  document.getElementById('qCountHeader').textContent=allQuestions.length.toLocaleString();
   renderTopics();
   document.getElementById('totalQ').textContent=allQuestions.length.toLocaleString();
   document.getElementById('loadingOverlay').style.display='none';
 }).catch(()=>{
   document.getElementById('loadingOverlay').style.display='none';
-  document.getElementById('topicsGrid').innerHTML='<p style="color:red;text-align:center;padding:20px">Error loading questions.</p>';
+  document.getElementById('topicsGrid').innerHTML='<p style="color:red;text-align:center;padding:20px">載入題目時出錯。</p>';
 });
 
 function renderTopics(){
@@ -266,8 +257,8 @@ function renderTopics(){
     const count=allQuestions.filter(q=>getTopic(q)===t).length;
     const enName=allQuestions.find(q=>getTopic(q)===t);
     const en=enName?getTopicEn(enName):t;
-    return `<div class="topic-card" onclick="startTopic('${t.replace(/'/g,"\\'")}')">
-      <div class="emoji">${topicEmojis[en]||'📝'}</div>
+    return `<div class="topic-card" onclick="startTopic('${t.replace(/'/g,"\\'")})')">
+      <div class="emoji">${TOPIC_EMOJIS[t]||'📝'}</div>
       <div class="name" data-zh="${t}" data-en="${en}">${lang==='zh'?t:en}</div>
       <div class="count">${count} ${lang==='zh'?'題':'Questions'}</div>
     </div>`;
@@ -327,11 +318,21 @@ function startDiff(){
 }
 
 function startQuiz(){
-  currentIndex=0;correctCount=0;
+  currentIndex=0;correctCount=0;doneCount=0;
   document.getElementById('homeView').classList.add('hidden');
   document.getElementById('quizView').classList.remove('hidden');
   document.getElementById('resultView').classList.add('hidden');
   showQuestion();
+}
+
+function shuffleOptions(q){
+  if(q._shuffled)return;
+  const opts=getOpts(q),ans=getAns(q);
+  const indices=[0,1,2,3];
+  for(let i=3;i>0;i--){const j=Math.floor(Math.random()*(i+1));[indices[i],indices[j]]=[indices[j],indices[i]];}
+  q._opts=[indices.map(i=>opts[i]),indices.map(i=>opts[i])];
+  q._ans=indices.indexOf(ans);
+  q._shuffled=true;
 }
 
 function showQuestion(){
@@ -346,7 +347,8 @@ function showQuestion(){
   if(q.image_svg){imgEl.innerHTML=q.image_svg;imgEl.style.display='flex';}
   else{imgEl.innerHTML='';imgEl.style.display='none';}
   document.getElementById('qText').textContent=getQ(q);
-  const opts=getOpts(q);
+  shuffleOptions(q);
+  const opts=q._opts[lang==='en'?1:0];
   document.getElementById('qOptions').innerHTML=opts.map((o,i)=>
     `<div class="option" onclick="checkAnswer(${i})"><span>${LETTERS[i]}. ${o}</span><span class="result-tag" id="tag${i}"></span></div>`
   ).join('');
@@ -356,7 +358,9 @@ function showQuestion(){
 }
 
 function checkAnswer(idx){
-  const q=currentQuiz[currentIndex],ans=getAns(q);
+  const q=currentQuiz[currentIndex];
+  shuffleOptions(q);
+  const ans=q._ans;
   const isCorrect=idx===ans;
   document.querySelectorAll('.option').forEach((o,i)=>{
     o.classList.add('disabled');
@@ -401,6 +405,7 @@ function goHome(){
   document.getElementById('homeView').classList.remove('hidden');
   document.getElementById('quizView').classList.add('hidden');
   document.getElementById('resultView').classList.add('hidden');
+  updateStats();
 }
 
 function updateStats(){
@@ -408,26 +413,6 @@ function updateStats(){
   document.getElementById('correctQ').textContent=correctCount;
   document.getElementById('accuracy').textContent=doneCount>0?Math.round(correctCount/doneCount*100)+'%':'0%';
 }
-</script>
-<script src="../katex/katex.min.js"></script>
-<script src="../katex/auto-render.min.js"></script>
-<script>
-function renderMath(){
-  const expEl=document.getElementById('qExpText');
-  if(expEl&&window.renderMathInElement){
-    renderMathInElement(expEl,{
-      delimiters:[{left:'$$',right:'$$',display:true},{left:'$',right:'$',display:false},{left:'\\(',right:'\\)',display:false},{left:'\\[',right:'\\]',display:true}],
-      throwOnError:false
-    });
-  }
-}
-const observer=new MutationObserver(function(mutations){
-  mutations.forEach(function(mutation){
-    if(mutation.target.classList&&mutation.target.classList.contains('show'))renderMath();
-  });
-});
-const expDiv=document.getElementById('qExplanation');
-if(expDiv)observer.observe(expDiv,{attributes:true,attributeFilter:['class']});
 </script>
 </body>
 </html>

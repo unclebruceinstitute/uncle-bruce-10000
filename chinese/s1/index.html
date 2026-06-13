@@ -332,6 +332,16 @@ function startQuiz(){
   showQuestion();
 }
 
+
+function shuffleOptions(q){
+  if(q._shuffled)return;
+  var opts=getOpts(q),ans=getAns(q);
+  var idx=[0,1,2,3];
+  for(var i=3;i>0;i--){var j=Math.floor(Math.random()*(i+1));var t=idx[i];idx[i]=idx[j];idx[j]=t;}
+  q._opts=[idx.map(function(i){return opts[i]}), idx.map(function(i){return opts[i]})];
+  q._ans=idx.indexOf(ans);
+  q._shuffled=true;
+}
 function showQuestion(){
   const q=currentQuiz[currentIndex],total=currentQuiz.length;
   document.getElementById('progressBar').style.width=((currentIndex)/total*100)+'%';
@@ -341,7 +351,8 @@ function showQuestion(){
   diffEl.textContent=dl;
   diffEl.className='q-diff diff-'+q.difficulty;
   document.getElementById('qText').textContent=getQ(q);
-  const opts=getOpts(q);
+  shuffleOptions(q);
+  const opts=q._opts[lang==='en'?1:0];
   document.getElementById('qOptions').innerHTML=opts.map((o,i)=>
     `<div class="option" onclick="checkAnswer(${i})"><span>${LETTERS[i]}. ${o}</span><span class="result-tag" id="tag${i}"></span></div>`
   ).join('');
@@ -351,7 +362,9 @@ function showQuestion(){
 }
 
 function checkAnswer(idx){
-  const q=currentQuiz[currentIndex],ans=getAns(q);
+  const q=currentQuiz[currentIndex];
+  shuffleOptions(q);
+  const ans=q._ans;
   const isCorrect=idx===ans;
   document.querySelectorAll('.option').forEach((o,i)=>{
     o.classList.add('disabled');

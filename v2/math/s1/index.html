@@ -270,6 +270,16 @@ if(lang==='bi'&&q.explanation_en) return q.explanation_zh+'\n\n'+q.explanation_e
 return q.explanation_zh;
 }
 
+
+function shuffleOptions(q){
+  if(q._shuffled)return;
+  var opts=getOpts(q),ans=getAns(q);
+  var idx=[0,1,2,3];
+  for(var i=3;i>0;i--){var j=Math.floor(Math.random()*(i+1));var t=idx[i];idx[i]=idx[j];idx[j]=t;}
+  q._opts=[idx.map(function(i){return opts[i]}), idx.map(function(i){return opts[i]})];
+  q._ans=idx.indexOf(ans);
+  q._shuffled=true;
+}
 function showQuestion(){
 const q=currentQuiz[currentIndex],total=currentQuiz.length;
 document.getElementById('progressBar').style.width=((currentIndex)/total*100)+'%';
@@ -278,7 +288,8 @@ const dl={1:lang==='en'?'Easy':'簡單',2:lang==='en'?'Medium':'中等',3:lang==
 document.getElementById('qDiff').textContent=dl[q.difficulty]||'';
 document.getElementById('qDiff').className='q-diff diff-'+q.difficulty;
 document.getElementById('qText').textContent=getQText(q);
-const opts=(lang==='en'?q.options_en:q.options_zh)||q.options_zh;
+shuffleOptions(q);
+const opts=q._opts[lang==='en'?1:0];
 document.getElementById('qOptions').innerHTML=opts.map((o,i)=>`<div class="option" onclick="checkAnswer(${i})">${'ＡＢＣＤ'[i]}. ${o}</div>`).join('');
 document.getElementById('qExplanation').classList.remove('show');
 document.getElementById('nextBtn').style.display='none';

@@ -329,6 +329,16 @@ function startQuiz(){
   showQuestion();
 }
 
+function shuffleOptions(q){
+  if(q._shuffled)return;
+  const opts=getOpts(q),ans=getAns(q);
+  const indices=[0,1,2,3];
+  for(let i=3;i>0;i--){const j=Math.floor(Math.random()*(i+1));[indices[i],indices[j]]=[indices[j],indices[i]];}
+  q._opts=[indices.map(i=>opts[i]),indices.map(i=>opts[i])];
+  q._ans=indices.indexOf(ans);
+  q._shuffled=true;
+}
+
 function showQuestion(){
   const q=currentQuiz[currentIndex],total=currentQuiz.length;
   document.getElementById('progressBar').style.width=((currentIndex)/total*100)+'%';
@@ -341,7 +351,8 @@ function showQuestion(){
   if(q.image_svg){imgEl.innerHTML=q.image_svg;imgEl.style.display='flex';}
   else{imgEl.innerHTML='';imgEl.style.display='none';}
   document.getElementById('qText').textContent=getQ(q);
-  const opts=getOpts(q);
+  shuffleOptions(q);
+  const opts=q._opts[lang==='en'?1:0];
   document.getElementById('qOptions').innerHTML=opts.map((o,i)=>
     `<div class="option" onclick="checkAnswer(${i})"><span>${LETTERS[i]}. ${o}</span><span class="result-tag" id="tag${i}"></span></div>`
   ).join('');
@@ -351,7 +362,9 @@ function showQuestion(){
 }
 
 function checkAnswer(idx){
-  const q=currentQuiz[currentIndex],ans=getAns(q);
+  const q=currentQuiz[currentIndex];
+  shuffleOptions(q);
+  const ans=q._ans;
   const isCorrect=idx===ans;
   document.querySelectorAll('.option').forEach((o,i)=>{
     o.classList.add('disabled');
@@ -497,7 +510,7 @@ subjects = [
 base = '/Users/bruce/.openclaw/workspace/projects/project_03_bruce_institute_10000/uncle-bruce-10000'
 
 for subj in subjects:
-    filepath = f"{base}/{subj['path']}/practice.html"
+    filepath = f"{base}/{subj['path']}/index.html"
     content = TEMPLATE
     content = content.replace('__TITLE_ZH__', subj['title_zh'])
     content = content.replace('__TITLE_EN__', subj['title_en'])
@@ -507,6 +520,6 @@ for subj in subjects:
     content = content.replace('__TOPIC_EMOJIS__', json.dumps(subj['topic_emojis'], ensure_ascii=False))
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write(content)
-    print(f"✅ {subj['path']}/practice.html")
+    print(f"✅ {subj['path']}/index.html")
 
 print("\nDone!")
