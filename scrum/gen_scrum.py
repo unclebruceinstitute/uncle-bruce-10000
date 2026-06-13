@@ -1744,7 +1744,9 @@ for d in sorted(diffs):
 
 # Check for any missing fields
 missing = 0
-for q_obj in all_q:\n    for field in ['id', 'topic_en', 'topic_zh', 'question_en', 'question_zh', \n                  'options_en', 'options_zh', 'answer', 'explanation_en', 'explanation_zh', 'difficulty']:
+for q_obj in all_q:
+    for field in ['id', 'topic_en', 'topic_zh', 'question_en', 'question_zh',
+                  'options_en', 'options_zh', 'answer', 'explanation_en', 'explanation_zh', 'difficulty']:
         if field not in q_obj:
             missing += 1
             break
@@ -1752,7 +1754,8 @@ print(f"\nQuestions with missing fields: {missing}")
 
 # Verify options format
 bad_opts = 0
-for q_obj in all_q:\n    for opts in [q_obj.get('options_en', []), q_obj.get('options_zh', [])]:
+for q_obj in all_q:
+    for opts in [q_obj.get('options_en', []), q_obj.get('options_zh', [])]:
         if len(opts) != 4:
             bad_opts += 1
             break
@@ -1765,4 +1768,6 @@ print(f"Questions with bad option format: {bad_opts}")
 
 print(f"\n{'='*60}")
 print(f"Writing to {OUTPUT}...")
-with open(OUTPUT, 'w', encoding='utf-8') as f:\n    json.dump(all_q, f, ensure_ascii=False, indent=None)\nprint("Done!")
+with open(OUTPUT, 'w', encoding='utf-8') as f:
+    json.dump(all_q, f, ensure_ascii=False, indent=None)
+print("Done!")
