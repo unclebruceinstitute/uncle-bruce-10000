@@ -247,17 +247,101 @@ const topicEmojis={
 '量詞':'📏','閱讀理解':'📚','關聯詞':'🔗'
 };
 
-fetch('questions.json').then(r=>r.json()).then(d=>{
-  allQuestions=Array.isArray(d)?d:d.questions||[];
-  document.getElementById('pageTitle').textContent='📖 香港中五中文練習';
-  document.getElementById('pageSub').textContent='HK Secondary 5 Chinese Practice | '+allQuestions.length.toLocaleString()+' Questions';
-  renderTopics();
-  document.getElementById('totalQ').textContent=allQuestions.length.toLocaleString();
+// Split loading: load topic index first, then load questions on demand
+let topicIndex=[],topicCache={},allLoaded=false;
+const TITLE_ZH='📖 香港中五中文練習';
+const TITLE_EN='HK Secondary 5 Chinese Practice';
+
+fetch('topics/index.json').then(r=>r.json()).then(idx=>{
+  topicIndex=idx;
+  const totalQ=idx.reduce((s,t)=>s+t.count,0);
+  document.getElementById('pageTitle').textContent=TITLE_ZH;
+  document.getElementById('pageSub').textContent=TITLE_EN+' | '+totalQ.toLocaleString()+' Questions';
+  document.getElementById('totalQ').textContent=totalQ.toLocaleString();
+  renderTopicsFromIndex(idx);
   document.getElementById('loadingOverlay').style.display='none';
 }).catch(()=>{
   document.getElementById('loadingOverlay').style.display='none';
   document.getElementById('topicsGrid').innerHTML='<p style="color:red;text-align:center;padding:20px">載入題目時出錯。</p>';
 });
+
+function renderTopicsFromIndex(idx){
+  const grid=document.getElementById('topicsGrid');
+  grid.innerHTML='';
+  idx.forEach((t,i)=>{
+    const zh=t.topic_zh,en=t.topic_en||t.topic_zh;
+    const card=document.createElement('div');
+    card.className='topic-card';
+    card.innerHTML='<div class="emoji">'+(topicEmojis[zh]||'📝')+'</div>'+
+      '<div class="name" data-zh="'+zh.replace(/"/g,'&quot;')+'" data-en="'+(en||'').replace(/"/g,'&quot;')+'">'+(lang==='zh'?zh:en)+'</div>'+
+      '<div class="count">'+t.count+' '+(lang==='zh'?'題':'Questions')+'</div>';
+    card.onclick=function(){loadTopicAndStart(t.file,zh);};
+    grid.appendChild(card);
+  });
+}
+
+function loadTopicFile(file){
+  if(topicCache[file])return Promise.resolve(topicCache[file]);
+  return fetch('topics/'+file).then(r=>r.json()).then(qs=>{
+    topicCache[file]=qs;
+    return qs;
+  });
+}
+
+function loadAllTopics(){
+  if(allLoaded)return Promise.resolve();
+  const promises=topicIndex.map(t=>loadTopicFile(t.file).then(qs=>{topicCache[t.file]=qs;}));
+  return Promise.all(promises).then(()=>{
+    allQuestions=[];
+    topicIndex.forEach(t=>{allQuestions=allQuestions.concat(topicCache[t.file]);});
+    allLoaded=true;
+  });
+}
+
+function loadTopicAndStart(file,topicName){
+  document.getElementById('loadingOverlay').style.display='flex';
+  document.getElementById('loadingText').textContent='載入題目中...';
+  loadTopicFile(file).then(qs=>{
+    currentQuiz=[...qs].sort(()=>Math.random()-.5).slice(0,qCount);
+    document.getElementById('loadingOverlay').style.display='none';
+    startQuiz();
+  });
+}
+
+function startTopic(topic){
+  const t=topicIndex.find(x=>x.topic_zh===topic);
+  if(!t)return;
+  loadTopicAndStart(t.file,topic);
+}
+
+const _origStartRandom=startRandom;
+startRandom=function(){
+  document.getElementById('loadingOverlay').style.display='flex';
+  document.getElementById('loadingText').textContent='載入全部題目中...';
+  loadAllTopics().then(()=>{
+    document.getElementById('loadingOverlay').style.display='none';
+    currentQuiz=[...allQuestions].sort(()=>Math.random()-.5).slice(0,qCount);
+    startQuiz();
+  });
+};
+const _origStartDiff=startDiff;
+startDiff=function(){
+  document.getElementById('loadingOverlay').style.display='flex';
+  document.getElementById('loadingText').textContent='載入全部題目中...';
+  loadAllTopics().then(()=>{
+    document.getElementById('loadingOverlay').style.display='none';
+    let pool=selectedDiff===0?allQuestions:allQuestions.filter(q=>q.difficulty===selectedDiff);
+    currentQuiz=[...pool].sort(()=>Math.random()-.5).slice(0,qCount);
+    startQuiz();
+  });
+};
+
+const _origRenderTopics=renderTopics;
+renderTopics=function(){
+  if(topicIndex.length>0){
+    renderTopicsFromIndex(topicIndex);
+  }
+};
 
 function renderTopics(){
   const grid=document.getElementById('topicsGrid');
