@@ -347,8 +347,10 @@ function shuffleOptions(q){
   if(q._shuffled)return;
   var rawOpts=getOpts(q),ans=getAns(q);
   var clean=rawOpts.map(function(o){return o.replace(/^[A-Da-d][.．、]\s*/,'')});
-  var idx=[0,1,2,3];
-  for(var i=3;i>0;i--){var j=Math.floor(Math.random()*(i+1));var t=idx[i];idx[i]=idx[j];idx[j]=t;}
+  var n=clean.length;
+  var idx=[];
+  for(var i=0;i<n;i++)idx.push(i);
+  for(var i=n-1;i>0;i--){var j=Math.floor(Math.random()*(i+1));var t=idx[i];idx[i]=idx[j];idx[j]=t;}
   q._opts=[idx.map(function(i){return clean[i]}), idx.map(function(i){return clean[i]})];
   q._ans=idx.indexOf(ans);
   q._shuffled=true;
@@ -364,8 +366,9 @@ function showQuestion(){
   document.getElementById('qText').textContent=getQ(q);
   shuffleOptions(q);
   const opts=q._opts[lang==='en'?1:0];
+  const letters=['Ａ','Ｂ','Ｃ','Ｄ'];
   document.getElementById('qOptions').innerHTML=opts.map((o,i)=>
-    `<div class="option" onclick="checkAnswer(${i})"><span>${LETTERS[i]}. ${o}</span><span class="result-tag" id="tag${i}"></span></div>`
+    `<div class="option" onclick="checkAnswer(${i})"><span>${letters[i]}. ${o}</span><span class="result-tag" id="tag${i}"></span></div>`
   ).join('');
   document.getElementById('qExplanation').classList.remove('show');
   document.getElementById('nextBtn').style.display='none';
