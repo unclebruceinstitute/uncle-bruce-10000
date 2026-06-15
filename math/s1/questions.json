@@ -675,33 +675,6 @@
     "id": 25
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 5/10 和 8/4 的大小",
-    "question_en": "Compare 5/10 and 8/4",
-    "options_zh": [
-      "5/10 > 8/4",
-      "0",
-      "5/10 = 8/4",
-      "無法比較"
-    ],
-    "options_en": [
-      "5/10 > 8/4",
-      "0",
-      "5/10 = 8/4",
-      ""
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\frac{5}{10} = \\frac{20}{40}$, $\\frac{8}{4} = \\frac{80}{40}$\n$\\frac{5}{10} < \\frac{8}{4}$",
-    "explanation_en": "$\\frac{5}{10} = \\frac{20}{40}$, $\\frac{8}{4} = \\frac{80}{40}$\n$\\frac{5}{10} < \\frac{8}{4}$",
-    "difficulty": 1,
-    "id": 26
-  },
-  {
     "topic_id": "percentages",
     "topic_zh": "百分數",
     "topic_en": "Percentages",
@@ -5184,33 +5157,6 @@
     "id": 192
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 8/10 和 8/9 的大小",
-    "question_en": "Compare 8/10 and 8/9",
-    "options_zh": [
-      "8/10 = 8/9",
-      "0",
-      "8/10 > 8/9",
-      "無法比較"
-    ],
-    "options_en": [
-      "8/10 = 8/9",
-      "0",
-      "8/10 > 8/9",
-      ""
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\frac{8}{10} = \\frac{72}{90}$, $\\frac{8}{9} = \\frac{80}{90}$\n$\\frac{8}{10} < \\frac{8}{9}$",
-    "explanation_en": "$\\frac{8}{10} = \\frac{72}{90}$, $\\frac{8}{9} = \\frac{80}{90}$\n$\\frac{8}{10} < \\frac{8}{9}$",
-    "difficulty": 2,
-    "id": 193
-  },
-  {
     "topic_id": "coordinates",
     "topic_zh": "坐標",
     "topic_en": "Coordinates",
@@ -8559,33 +8505,6 @@
     "id": 317
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 7/4 和 1/11 的大小",
-    "question_en": "Compare 7/4 and 1/11",
-    "options_zh": [
-      "無法比較",
-      "7/4 < 1/11",
-      "0",
-      "7/4 = 1/11"
-    ],
-    "options_en": [
-      "",
-      "7/4 < 1/11",
-      "0",
-      "7/4 = 1/11"
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\frac{7}{4} = \\frac{77}{44}$, $\\frac{1}{11} = \\frac{4}{44}$\n$\\frac{7}{4} > \\frac{1}{11}$",
-    "explanation_en": "$\\frac{7}{4} = \\frac{77}{44}$, $\\frac{1}{11} = \\frac{4}{44}$\n$\\frac{7}{4} > \\frac{1}{11}$",
-    "difficulty": 2,
-    "id": 318
-  },
-  {
     "topic_id": "area_volume",
     "topic_zh": "面積與體積",
     "topic_en": "Area & Volume",
@@ -10989,33 +10908,6 @@
     "id": 407
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 9/5 和 4/3 的大小",
-    "question_en": "Compare 9/5 and 4/3",
-    "options_zh": [
-      "9/5 = 4/3",
-      "無法比較",
-      "9/5 < 4/3",
-      "0"
-    ],
-    "options_en": [
-      "9/5 = 4/3",
-      "",
-      "9/5 < 4/3",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\frac{9}{5} = \\frac{27}{15}$, $\\frac{4}{3} = \\frac{20}{15}$\n$\\frac{9}{5} > \\frac{4}{3}$",
-    "explanation_en": "$\\frac{9}{5} = \\frac{27}{15}$, $\\frac{4}{3} = \\frac{20}{15}$\n$\\frac{9}{5} > \\frac{4}{3}$",
-    "difficulty": 2,
-    "id": 408
-  },
-  {
     "topic_id": "coordinates",
     "topic_zh": "坐標",
     "topic_en": "Coordinates",
@@ -12229,33 +12121,6 @@
     "explanation_en": "Median: the middle value when data is sorted.\nSorted: 17, 18, 54, 71, 81\n5 numbers, position 3 = 54",
     "difficulty": 1,
     "id": 453
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 4/11 和 9/5 的大小",
-    "question_en": "Compare 4/11 and 9/5",
-    "options_zh": [
-      "4/11 = 9/5",
-      "無法比較",
-      "4/11 > 9/5",
-      "0"
-    ],
-    "options_en": [
-      "4/11 = 9/5",
-      "",
-      "4/11 > 9/5",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\frac{4}{11} = \\frac{20}{55}$, $\\frac{9}{5} = \\frac{99}{55}$\n$\\frac{4}{11} < \\frac{9}{5}$",
-    "explanation_en": "$\\frac{4}{11} = \\frac{20}{55}$, $\\frac{9}{5} = \\frac{99}{55}$\n$\\frac{4}{11} < \\frac{9}{5}$",
-    "difficulty": 1,
-    "id": 454
   },
   {
     "topic_id": "coordinates",
@@ -13930,33 +13795,6 @@
     "explanation_en": "Original $= \\$2000$, increase $= 12\\%$\n$\\text{Increase} = 2000 \\times \\frac{12}{100} = 240.0$\n$\\text{New price} = 2000 + 240.0 = \\$2240.0$",
     "difficulty": 1,
     "id": 516
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 1/8 和 2/4 的大小",
-    "question_en": "Compare 1/8 and 2/4",
-    "options_zh": [
-      "0",
-      "1/8 = 2/4",
-      "無法比較",
-      "1/8 > 2/4"
-    ],
-    "options_en": [
-      "0",
-      "1/8 = 2/4",
-      "",
-      "1/8 > 2/4"
-    ],
-    "answer": 0,
-    "explanation_zh": "$\\frac{1}{8} = \\frac{4}{32}$, $\\frac{2}{4} = \\frac{16}{32}$\n$\\frac{1}{8} < \\frac{2}{4}$",
-    "explanation_en": "$\\frac{1}{8} = \\frac{4}{32}$, $\\frac{2}{4} = \\frac{16}{32}$\n$\\frac{1}{8} < \\frac{2}{4}$",
-    "difficulty": 3,
-    "id": 517
   },
   {
     "topic_id": "basic_geometry",
@@ -16605,33 +16443,6 @@
     "id": 615
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 1/4 和 8/9 的大小",
-    "question_en": "Compare 1/4 and 8/9",
-    "options_zh": [
-      "0",
-      "無法比較",
-      "1/4 > 8/9",
-      "1/4 = 8/9"
-    ],
-    "options_en": [
-      "0",
-      "",
-      "1/4 > 8/9",
-      "1/4 = 8/9"
-    ],
-    "answer": 0,
-    "explanation_zh": "$\\frac{1}{4} = \\frac{9}{36}$, $\\frac{8}{9} = \\frac{32}{36}$\n$\\frac{1}{4} < \\frac{8}{9}$",
-    "explanation_en": "$\\frac{1}{4} = \\frac{9}{36}$, $\\frac{8}{9} = \\frac{32}{36}$\n$\\frac{1}{4} < \\frac{8}{9}$",
-    "difficulty": 1,
-    "id": 616
-  },
-  {
     "topic_id": "basic_algebra",
     "topic_zh": "基本代數",
     "topic_en": "Basic Algebra",
@@ -17224,33 +17035,6 @@
     "explanation_en": "$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$\n$d = \\sqrt{(11 - 4)^2 + (19 - -5)^2}$\n$d = \\sqrt{7^2 + 24^2} = \\sqrt{49 + 576} = \\sqrt{625}$\n$d = 25$",
     "difficulty": 2,
     "id": 638
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 1/10 和 6/8 的大小",
-    "question_en": "Compare 1/10 and 6/8",
-    "options_zh": [
-      "1/10 > 6/8",
-      "0",
-      "無法比較",
-      "1/10 = 6/8"
-    ],
-    "options_en": [
-      "1/10 > 6/8",
-      "0",
-      "",
-      "1/10 = 6/8"
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\frac{1}{10} = \\frac{8}{80}$, $\\frac{6}{8} = \\frac{60}{80}$\n$\\frac{1}{10} < \\frac{6}{8}$",
-    "explanation_en": "$\\frac{1}{10} = \\frac{8}{80}$, $\\frac{6}{8} = \\frac{60}{80}$\n$\\frac{1}{10} < \\frac{6}{8}$",
-    "difficulty": 2,
-    "id": 639
   },
   {
     "topic_id": "mixed",
@@ -18520,33 +18304,6 @@
     "explanation_en": "Per person = total ÷ number of workers\nAnswer = 89.4",
     "difficulty": 1,
     "id": 686
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 1/5 和 3/2 的大小",
-    "question_en": "Compare 1/5 and 3/2",
-    "options_zh": [
-      "0",
-      "1/5 > 3/2",
-      "無法比較",
-      "1/5 = 3/2"
-    ],
-    "options_en": [
-      "0",
-      "1/5 > 3/2",
-      "",
-      "1/5 = 3/2"
-    ],
-    "answer": 0,
-    "explanation_zh": "$\\frac{1}{5} = \\frac{2}{10}$, $\\frac{3}{2} = \\frac{15}{10}$\n$\\frac{1}{5} < \\frac{3}{2}$",
-    "explanation_en": "$\\frac{1}{5} = \\frac{2}{10}$, $\\frac{3}{2} = \\frac{15}{10}$\n$\\frac{1}{5} < \\frac{3}{2}$",
-    "difficulty": 2,
-    "id": 687
   },
   {
     "topic_id": "statistics",
@@ -22599,33 +22356,6 @@
     "id": 837
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 4/2 和 9/7 的大小",
-    "question_en": "Compare 4/2 and 9/7",
-    "options_zh": [
-      "4/2 < 9/7",
-      "4/2 = 9/7",
-      "0",
-      "無法比較"
-    ],
-    "options_en": [
-      "4/2 < 9/7",
-      "4/2 = 9/7",
-      "0",
-      ""
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\frac{4}{2} = \\frac{28}{14}$, $\\frac{9}{7} = \\frac{18}{14}$\n$\\frac{4}{2} > \\frac{9}{7}$",
-    "explanation_en": "$\\frac{4}{2} = \\frac{28}{14}$, $\\frac{9}{7} = \\frac{18}{14}$\n$\\frac{4}{2} > \\frac{9}{7}$",
-    "difficulty": 2,
-    "id": 838
-  },
-  {
     "topic_id": "coordinates",
     "topic_zh": "坐標",
     "topic_en": "Coordinates",
@@ -23029,33 +22759,6 @@
     "explanation_en": "Probability = favorable outcomes ÷ total outcomes\nSimplify the fraction.\nAnswer = 4/23",
     "difficulty": 2,
     "id": 853
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 8 now. How old in 19 years?",
-    "question_en": "is 8 now. How old in 19 years?",
-    "options_zh": [
-      "28",
-      "-11",
-      "27",
-      "152"
-    ],
-    "options_en": [
-      "28",
-      "-11",
-      "27",
-      "152"
-    ],
-    "answer": 2,
-    "explanation_zh": "$8 + 19 = 27$ years old",
-    "explanation_en": "$8 + 19 = 27$ years old",
-    "difficulty": 3,
-    "id": 854
   },
   {
     "topic_id": "basic_algebra",
@@ -25488,33 +25191,6 @@
     "id": 944
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 6/8 和 6/6 的大小",
-    "question_en": "Compare 6/8 and 6/6",
-    "options_zh": [
-      "6/8 = 6/6",
-      "6/8 > 6/6",
-      "0",
-      "無法比較"
-    ],
-    "options_en": [
-      "6/8 = 6/6",
-      "6/8 > 6/6",
-      "0",
-      ""
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\frac{6}{8} = \\frac{36}{48}$, $\\frac{6}{6} = \\frac{48}{48}$\n$\\frac{6}{8} < \\frac{6}{6}$",
-    "explanation_en": "$\\frac{6}{8} = \\frac{36}{48}$, $\\frac{6}{6} = \\frac{48}{48}$\n$\\frac{6}{8} < \\frac{6}{6}$",
-    "difficulty": 1,
-    "id": 945
-  },
-  {
     "topic_id": "coordinates",
     "topic_zh": "坐標",
     "topic_en": "Coordinates",
@@ -26971,33 +26647,6 @@
     "explanation_en": "Combined rate = rate_A + rate_B\nTime = 1 ÷ combined rate\nAnswer = 9/20 hours",
     "difficulty": 3,
     "id": 999
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 4/3 和 8/6 的大小",
-    "question_en": "Compare 4/3 and 8/6",
-    "options_zh": [
-      "無法比較",
-      "4/3 > 8/6",
-      "4/3 > 8/6 (備選)",
-      "0"
-    ],
-    "options_en": [
-      "",
-      "4/3 > 8/6",
-      "4/3 > 8/6 (alt)",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\frac{4}{3} = \\frac{24}{18}$, $\\frac{8}{6} = \\frac{24}{18}$\n$\\frac{4}{3} = \\frac{8}{6}$",
-    "explanation_en": "$\\frac{4}{3} = \\frac{24}{18}$, $\\frac{8}{6} = \\frac{24}{18}$\n$\\frac{4}{3} = \\frac{8}{6}$",
-    "difficulty": 1,
-    "id": 1000
   },
   {
     "topic_id": "basic_algebra",
@@ -29752,33 +29401,6 @@
     "explanation_en": "Mean = Sum ÷ Count\nData: 82, 52, 68, 82, 74\nSum = 358\nCount = 5\nMean = 358 ÷ 5 = 71.6",
     "difficulty": 1,
     "id": 1102
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 8/11 和 6/6 的大小",
-    "question_en": "Compare 8/11 and 6/6",
-    "options_zh": [
-      "8/11 = 6/6",
-      "無法比較",
-      "8/11 > 6/6",
-      "0"
-    ],
-    "options_en": [
-      "8/11 = 6/6",
-      "",
-      "8/11 > 6/6",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\frac{8}{11} = \\frac{48}{66}$, $\\frac{6}{6} = \\frac{66}{66}$\n$\\frac{8}{11} < \\frac{6}{6}$",
-    "explanation_en": "$\\frac{8}{11} = \\frac{48}{66}$, $\\frac{6}{6} = \\frac{66}{66}$\n$\\frac{8}{11} < \\frac{6}{6}$",
-    "difficulty": 1,
-    "id": 1103
   },
   {
     "topic_id": "coordinates",
@@ -35964,33 +35586,6 @@
     "id": 1332
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 3/11 和 2/3 的大小",
-    "question_en": "Compare 3/11 and 2/3",
-    "options_zh": [
-      "3/11 = 2/3",
-      "3/11 > 2/3",
-      "0",
-      "無法比較"
-    ],
-    "options_en": [
-      "3/11 = 2/3",
-      "3/11 > 2/3",
-      "0",
-      ""
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\frac{3}{11} = \\frac{9}{33}$, $\\frac{2}{3} = \\frac{22}{33}$\n$\\frac{3}{11} < \\frac{2}{3}$",
-    "explanation_en": "$\\frac{3}{11} = \\frac{9}{33}$, $\\frac{2}{3} = \\frac{22}{33}$\n$\\frac{3}{11} < \\frac{2}{3}$",
-    "difficulty": 3,
-    "id": 1333
-  },
-  {
     "topic_id": "coordinates",
     "topic_zh": "坐標",
     "topic_en": "Coordinates",
@@ -38313,33 +37908,6 @@
     "id": 1419
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 1/3 和 10/12 的大小",
-    "question_en": "Compare 1/3 and 10/12",
-    "options_zh": [
-      "1/3 = 10/12",
-      "1/3 > 10/12",
-      "無法比較",
-      "0"
-    ],
-    "options_en": [
-      "1/3 = 10/12",
-      "1/3 > 10/12",
-      "",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\frac{1}{3} = \\frac{12}{36}$, $\\frac{10}{12} = \\frac{30}{36}$\n$\\frac{1}{3} < \\frac{10}{12}$",
-    "explanation_en": "$\\frac{1}{3} = \\frac{12}{36}$, $\\frac{10}{12} = \\frac{30}{36}$\n$\\frac{1}{3} < \\frac{10}{12}$",
-    "difficulty": 1,
-    "id": 1420
-  },
-  {
     "topic_id": "coordinates",
     "topic_zh": "坐標",
     "topic_en": "Coordinates",
@@ -39177,33 +38745,6 @@
     "id": 1451
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 4/12 和 3/9 的大小",
-    "question_en": "Compare 4/12 and 3/9",
-    "options_zh": [
-      "0",
-      "4/12 > 3/9",
-      "4/12 > 3/9 (備選)",
-      "無法比較"
-    ],
-    "options_en": [
-      "0",
-      "4/12 > 3/9",
-      "4/12 > 3/9 (alt)",
-      ""
-    ],
-    "answer": 0,
-    "explanation_zh": "$\\frac{4}{12} = \\frac{36}{108}$, $\\frac{3}{9} = \\frac{36}{108}$\n$\\frac{4}{12} = \\frac{3}{9}$",
-    "explanation_en": "$\\frac{4}{12} = \\frac{36}{108}$, $\\frac{3}{9} = \\frac{36}{108}$\n$\\frac{4}{12} = \\frac{3}{9}$",
-    "difficulty": 3,
-    "id": 1452
-  },
-  {
     "topic_id": "basic_algebra",
     "topic_zh": "基本代數",
     "topic_en": "Basic Algebra",
@@ -39931,33 +39472,6 @@
     "explanation_en": "Original $= \\$986$, discount $= 3\\%$\n$\\text{Discount} = 986 \\times \\frac{3}{100} = 29.58$\n$\\text{Sale price} = 986 - 29.58 = \\$956.42$",
     "difficulty": 2,
     "id": 1479
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 3/9 和 5/6 的大小",
-    "question_en": "Compare 3/9 and 5/6",
-    "options_zh": [
-      "無法比較",
-      "3/9 = 5/6",
-      "3/9 > 5/6",
-      "0"
-    ],
-    "options_en": [
-      "",
-      "3/9 = 5/6",
-      "3/9 > 5/6",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\frac{3}{9} = \\frac{18}{54}$, $\\frac{5}{6} = \\frac{45}{54}$\n$\\frac{3}{9} < \\frac{5}{6}$",
-    "explanation_en": "$\\frac{3}{9} = \\frac{18}{54}$, $\\frac{5}{6} = \\frac{45}{54}$\n$\\frac{3}{9} < \\frac{5}{6}$",
-    "difficulty": 1,
-    "id": 1480
   },
   {
     "topic_id": "statistics",
@@ -42388,33 +41902,6 @@
     "explanation_en": "Solve: 6x - 6 = 60\nSteps:\n1. Move constants to right side\n2. Combine like terms\n3. Find x\nx = 11",
     "difficulty": 2,
     "id": 1570
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 13 now. How old 10 years ago?",
-    "question_en": "is 13 now. How old 10 years ago?",
-    "options_zh": [
-      "3",
-      "4",
-      "130",
-      "23"
-    ],
-    "options_en": [
-      "3",
-      "4",
-      "130",
-      "23"
-    ],
-    "answer": 0,
-    "explanation_zh": "$13 - 10 = 3$ years old",
-    "explanation_en": "$13 - 10 = 3$ years old",
-    "difficulty": 1,
-    "id": 1571
   },
   {
     "topic_id": "basic_geometry",
@@ -47304,33 +46791,6 @@
     "id": 1752
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 13 now. How old 13 years ago?",
-    "question_en": "is 13 now. How old 13 years ago?",
-    "options_zh": [
-      "26",
-      "0",
-      "1",
-      "169"
-    ],
-    "options_en": [
-      "26",
-      "0",
-      "1",
-      "169"
-    ],
-    "answer": 1,
-    "explanation_zh": "$13 - 13 = 0$ years old",
-    "explanation_en": "$13 - 13 = 0$ years old",
-    "difficulty": 2,
-    "id": 1753
-  },
-  {
     "topic_id": "coordinates",
     "topic_zh": "坐標",
     "topic_en": "Coordinates",
@@ -47923,33 +47383,6 @@
     "explanation_en": "$\\frac{9}{10} + \\frac{2}{4} = 7/5$",
     "difficulty": 3,
     "id": 1775
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 12 now. How old 8 years ago?",
-    "question_en": "is 12 now. How old 8 years ago?",
-    "options_zh": [
-      "4",
-      "96",
-      "20",
-      "5"
-    ],
-    "options_en": [
-      "4",
-      "96",
-      "20",
-      "5"
-    ],
-    "answer": 0,
-    "explanation_zh": "$12 - 8 = 4$ years old",
-    "explanation_en": "$12 - 8 = 4$ years old",
-    "difficulty": 2,
-    "id": 1776
   },
   {
     "topic_id": "directed_number",
@@ -49329,33 +48762,6 @@
     "id": 1827
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 2/6 和 5/4 的大小",
-    "question_en": "Compare 2/6 and 5/4",
-    "options_zh": [
-      "0",
-      "2/6 = 5/4",
-      "2/6 > 5/4",
-      "無法比較"
-    ],
-    "options_en": [
-      "0",
-      "2/6 = 5/4",
-      "2/6 > 5/4",
-      ""
-    ],
-    "answer": 0,
-    "explanation_zh": "$\\frac{2}{6} = \\frac{8}{24}$, $\\frac{5}{4} = \\frac{30}{24}$\n$\\frac{2}{6} < \\frac{5}{4}$",
-    "explanation_en": "$\\frac{2}{6} = \\frac{8}{24}$, $\\frac{5}{4} = \\frac{30}{24}$\n$\\frac{2}{6} < \\frac{5}{4}$",
-    "difficulty": 2,
-    "id": 1828
-  },
-  {
     "topic_id": "percentages",
     "topic_zh": "百分數",
     "topic_en": "Percentages",
@@ -50326,33 +49732,6 @@
     "explanation_en": "$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$\n$d = \\sqrt{(8 - -1)^2 + (-6 - -6)^2}$\n$d = \\sqrt{9^2 + 0^2} = \\sqrt{81 + 0} = \\sqrt{81}$\n$d = 9$",
     "difficulty": 2,
     "id": 1864
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 10 now. How old 9 years ago?",
-    "question_en": "is 10 now. How old 9 years ago?",
-    "options_zh": [
-      "1",
-      "2",
-      "19",
-      "90"
-    ],
-    "options_en": [
-      "1",
-      "2",
-      "19",
-      "90"
-    ],
-    "answer": 0,
-    "explanation_zh": "$10 - 9 = 1$ years old",
-    "explanation_en": "$10 - 9 = 1$ years old",
-    "difficulty": 2,
-    "id": 1865
   },
   {
     "topic_id": "statistics",
@@ -52378,33 +51757,6 @@
     "explanation_en": "$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$\n$d = \\sqrt{(0 - 6)^2 + (-4 - 4)^2}$\n$d = \\sqrt{-6^2 + -8^2} = \\sqrt{36 + 64} = \\sqrt{100}$\n$d = 10$",
     "difficulty": 1,
     "id": 1940
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 8/2 和 3/2 的大小",
-    "question_en": "Compare 8/2 and 3/2",
-    "options_zh": [
-      "8/2 < 3/2",
-      "無法比較",
-      "8/2 = 3/2",
-      "0"
-    ],
-    "options_en": [
-      "8/2 < 3/2",
-      "",
-      "8/2 = 3/2",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\frac{8}{2} = \\frac{16}{4}$, $\\frac{3}{2} = \\frac{6}{4}$\n$\\frac{8}{2} > \\frac{3}{2}$",
-    "explanation_en": "$\\frac{8}{2} = \\frac{16}{4}$, $\\frac{3}{2} = \\frac{6}{4}$\n$\\frac{8}{2} > \\frac{3}{2}$",
-    "difficulty": 3,
-    "id": 1941
   },
   {
     "topic_id": "mixed",
@@ -54513,33 +53865,6 @@
     "id": 2019
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 6/10 和 4/4 的大小",
-    "question_en": "Compare 6/10 and 4/4",
-    "options_zh": [
-      "無法比較",
-      "6/10 > 4/4",
-      "6/10 = 4/4",
-      "0"
-    ],
-    "options_en": [
-      "",
-      "6/10 > 4/4",
-      "6/10 = 4/4",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\frac{6}{10} = \\frac{24}{40}$, $\\frac{4}{4} = \\frac{40}{40}$\n$\\frac{6}{10} < \\frac{4}{4}$",
-    "explanation_en": "$\\frac{6}{10} = \\frac{24}{40}$, $\\frac{4}{4} = \\frac{40}{40}$\n$\\frac{6}{10} < \\frac{4}{4}$",
-    "difficulty": 1,
-    "id": 2020
-  },
-  {
     "topic_id": "percentages",
     "topic_zh": "百分數",
     "topic_en": "Percentages",
@@ -55728,33 +55053,6 @@
     "id": 2064
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 7 now. How old 1 years ago?",
-    "question_en": "is 7 now. How old 1 years ago?",
-    "options_zh": [
-      "8",
-      "7",
-      "7 (alt)",
-      "6"
-    ],
-    "options_en": [
-      "8",
-      "7",
-      "7 (alt)",
-      "6"
-    ],
-    "answer": 3,
-    "explanation_zh": "$7 - 1 = 6$ years old",
-    "explanation_en": "$7 - 1 = 6$ years old",
-    "difficulty": 2,
-    "id": 2065
-  },
-  {
     "topic_id": "coordinates",
     "topic_zh": "坐標",
     "topic_en": "Coordinates",
@@ -56401,33 +55699,6 @@
     "explanation_en": "$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$\n$d = \\sqrt{(3 - -2)^2 + (0 - 0)^2}$\n$d = \\sqrt{5^2 + 0^2} = \\sqrt{25 + 0} = \\sqrt{25}$\n$d = 5$",
     "difficulty": 2,
     "id": 2089
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 3/9 和 6/7 的大小",
-    "question_en": "Compare 3/9 and 6/7",
-    "options_zh": [
-      "無法比較",
-      "0",
-      "3/9 > 6/7",
-      "3/9 = 6/7"
-    ],
-    "options_en": [
-      "",
-      "0",
-      "3/9 > 6/7",
-      "3/9 = 6/7"
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\frac{3}{9} = \\frac{21}{63}$, $\\frac{6}{7} = \\frac{54}{63}$\n$\\frac{3}{9} < \\frac{6}{7}$",
-    "explanation_en": "$\\frac{3}{9} = \\frac{21}{63}$, $\\frac{6}{7} = \\frac{54}{63}$\n$\\frac{3}{9} < \\frac{6}{7}$",
-    "difficulty": 1,
-    "id": 2090
   },
   {
     "topic_id": "percentages",
@@ -60507,33 +59778,6 @@
     "id": 2241
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 9  at $30 each, 20% off. Total?",
-    "question_en": "Buy 9  at $30 each, 20% off. Total?",
-    "options_zh": [
-      "270",
-      "216.0",
-      "217.0",
-      "54.0"
-    ],
-    "options_en": [
-      "270",
-      "216.0",
-      "217.0",
-      "54.0"
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\text{Subtotal} = 9 \\times \\$30 = \\$270$\n$\\text{Discount} = \\$270 \\times 20\\% = \\$54.0$\n$\\text{Total} = \\$270 - \\$54.0 = \\$216.0$",
-    "explanation_en": "$\\text{Subtotal} = 9 \\times \\$30 = \\$270$\n$\\text{Discount} = \\$270 \\times 20\\% = \\$54.0$\n$\\text{Total} = \\$270 - \\$54.0 = \\$216.0$",
-    "difficulty": 2,
-    "id": 2242
-  },
-  {
     "topic_id": "coordinates",
     "topic_zh": "坐標",
     "topic_en": "Coordinates",
@@ -61288,33 +60532,6 @@
     "explanation_en": "$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$\n$d = \\sqrt{(1 - -8)^2 + (-15 - -3)^2}$\n$d = \\sqrt{9^2 + -12^2} = \\sqrt{81 + 144} = \\sqrt{225}$\n$d = 15$",
     "difficulty": 2,
     "id": 2270
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 12 now. How old 8 years ago?",
-    "question_en": "is 12 now. How old 8 years ago?",
-    "options_zh": [
-      "5",
-      "4",
-      "20",
-      "96"
-    ],
-    "options_en": [
-      "5",
-      "4",
-      "20",
-      "96"
-    ],
-    "answer": 1,
-    "explanation_zh": "$12 - 8 = 4$ years old",
-    "explanation_en": "$12 - 8 = 4$ years old",
-    "difficulty": 3,
-    "id": 2271
   },
   {
     "topic_id": "statistics",
@@ -62179,33 +61396,6 @@
     "explanation_en": "$M = \\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right)$\n$M = \\left(\\frac{15 + 2}{2}, \\frac{-2 + -1}{2}\\right)$\n$M = (8.5, -1.5)$",
     "difficulty": 2,
     "id": 2303
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 5/6 和 5/2 的大小",
-    "question_en": "Compare 5/6 and 5/2",
-    "options_zh": [
-      "0",
-      "無法比較",
-      "5/6 > 5/2",
-      "5/6 = 5/2"
-    ],
-    "options_en": [
-      "0",
-      "",
-      "5/6 > 5/2",
-      "5/6 = 5/2"
-    ],
-    "answer": 0,
-    "explanation_zh": "$\\frac{5}{6} = \\frac{10}{12}$, $\\frac{5}{2} = \\frac{30}{12}$\n$\\frac{5}{6} < \\frac{5}{2}$",
-    "explanation_en": "$\\frac{5}{6} = \\frac{10}{12}$, $\\frac{5}{2} = \\frac{30}{12}$\n$\\frac{5}{6} < \\frac{5}{2}$",
-    "difficulty": 1,
-    "id": 2304
   },
   {
     "topic_id": "percentages",
@@ -63477,33 +62667,6 @@
     "id": 2351
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 4  at $25 each, 20% off. Total?",
-    "question_en": "Buy 4  at $25 each, 20% off. Total?",
-    "options_zh": [
-      "81.0",
-      "20.0",
-      "100",
-      "80.0"
-    ],
-    "options_en": [
-      "81.0",
-      "20.0",
-      "100",
-      "80.0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\text{Subtotal} = 4 \\times \\$25 = \\$100$\n$\\text{Discount} = \\$100 \\times 20\\% = \\$20.0$\n$\\text{Total} = \\$100 - \\$20.0 = \\$80.0$",
-    "explanation_en": "$\\text{Subtotal} = 4 \\times \\$25 = \\$100$\n$\\text{Discount} = \\$100 \\times 20\\% = \\$20.0$\n$\\text{Total} = \\$100 - \\$20.0 = \\$80.0$",
-    "difficulty": 2,
-    "id": 2352
-  },
-  {
     "topic_id": "area_volume",
     "topic_zh": "面積與體積",
     "topic_en": "Area & Volume",
@@ -64395,33 +63558,6 @@
     "id": 2385
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 13 now. How old 3 years ago?",
-    "question_en": "is 13 now. How old 3 years ago?",
-    "options_zh": [
-      "39",
-      "10",
-      "16",
-      "11"
-    ],
-    "options_en": [
-      "39",
-      "10",
-      "16",
-      "11"
-    ],
-    "answer": 1,
-    "explanation_zh": "$13 - 3 = 10$ years old",
-    "explanation_en": "$13 - 3 = 10$ years old",
-    "difficulty": 2,
-    "id": 2386
-  },
-  {
     "topic_id": "coordinates",
     "topic_zh": "坐標",
     "topic_en": "Coordinates",
@@ -64447,33 +63583,6 @@
     "explanation_en": "$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$\n$d = \\sqrt{(-7 - 1)^2 + (7 - -8)^2}$\n$d = \\sqrt{-8^2 + 15^2} = \\sqrt{64 + 225} = \\sqrt{289}$\n$d = 17$",
     "difficulty": 3,
     "id": 2387
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 4/11 和 10/12 的大小",
-    "question_en": "Compare 4/11 and 10/12",
-    "options_zh": [
-      "4/11 = 10/12",
-      "0",
-      "4/11 > 10/12",
-      "無法比較"
-    ],
-    "options_en": [
-      "4/11 = 10/12",
-      "0",
-      "4/11 > 10/12",
-      ""
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\frac{4}{11} = \\frac{48}{132}$, $\\frac{10}{12} = \\frac{110}{132}$\n$\\frac{4}{11} < \\frac{10}{12}$",
-    "explanation_en": "$\\frac{4}{11} = \\frac{48}{132}$, $\\frac{10}{12} = \\frac{110}{132}$\n$\\frac{4}{11} < \\frac{10}{12}$",
-    "difficulty": 3,
-    "id": 2388
   },
   {
     "topic_id": "statistics",
@@ -64746,33 +63855,6 @@
     "id": 2398
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 14 now. How old 1 years ago?",
-    "question_en": "is 14 now. How old 1 years ago?",
-    "options_zh": [
-      "14",
-      "15",
-      "14 (alt)",
-      "13"
-    ],
-    "options_en": [
-      "14",
-      "15",
-      "14 (alt)",
-      "13"
-    ],
-    "answer": 3,
-    "explanation_zh": "$14 - 1 = 13$ years old",
-    "explanation_en": "$14 - 1 = 13$ years old",
-    "difficulty": 2,
-    "id": 2399
-  },
-  {
     "topic_id": "statistics",
     "topic_zh": "統計圖表",
     "topic_en": "Statistics",
@@ -64798,33 +63880,6 @@
     "explanation_en": "Mode is the most frequently occurring value.\nCount occurrences of each number.\nAnswer = 78",
     "difficulty": 1,
     "id": 2400
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 8  at $8 each, 20% off. Total?",
-    "question_en": "Buy 8  at $8 each, 20% off. Total?",
-    "options_zh": [
-      "12.8",
-      "51.2",
-      "52.2",
-      "64"
-    ],
-    "options_en": [
-      "12.8",
-      "51.2",
-      "52.2",
-      "64"
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\text{Subtotal} = 8 \\times \\$8 = \\$64$\n$\\text{Discount} = \\$64 \\times 20\\% = \\$12.8$\n$\\text{Total} = \\$64 - \\$12.8 = \\$51.2$",
-    "explanation_en": "$\\text{Subtotal} = 8 \\times \\$8 = \\$64$\n$\\text{Discount} = \\$64 \\times 20\\% = \\$12.8$\n$\\text{Total} = \\$64 - \\$12.8 = \\$51.2$",
-    "difficulty": 3,
-    "id": 2401
   },
   {
     "topic_id": "directed_number",
@@ -66825,33 +65880,6 @@
     "id": 2475
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 7/3 和 10/7 的大小",
-    "question_en": "Compare 7/3 and 10/7",
-    "options_zh": [
-      "7/3 < 10/7",
-      "0",
-      "7/3 = 10/7",
-      "無法比較"
-    ],
-    "options_en": [
-      "7/3 < 10/7",
-      "0",
-      "7/3 = 10/7",
-      ""
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\frac{7}{3} = \\frac{49}{21}$, $\\frac{10}{7} = \\frac{30}{21}$\n$\\frac{7}{3} > \\frac{10}{7}$",
-    "explanation_en": "$\\frac{7}{3} = \\frac{49}{21}$, $\\frac{10}{7} = \\frac{30}{21}$\n$\\frac{7}{3} > \\frac{10}{7}$",
-    "difficulty": 1,
-    "id": 2476
-  },
-  {
     "topic_id": "percentages",
     "topic_zh": "百分數",
     "topic_en": "Percentages",
@@ -67768,33 +66796,6 @@
     "explanation_en": "Data: 57, 68, 70, 79, 30, 57, 94, 57\n$\\bar{x} = \\frac{57+68+70+79+30+57+94+57}{8}$\n$\\bar{x} = \\frac{512}{8} = 64.0$",
     "difficulty": 1,
     "id": 2510
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 3/9 和 7/8 的大小",
-    "question_en": "Compare 3/9 and 7/8",
-    "options_zh": [
-      "3/9 = 7/8",
-      "0",
-      "3/9 > 7/8",
-      "無法比較"
-    ],
-    "options_en": [
-      "3/9 = 7/8",
-      "0",
-      "3/9 > 7/8",
-      ""
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\frac{3}{9} = \\frac{24}{72}$, $\\frac{7}{8} = \\frac{63}{72}$\n$\\frac{3}{9} < \\frac{7}{8}$",
-    "explanation_en": "$\\frac{3}{9} = \\frac{24}{72}$, $\\frac{7}{8} = \\frac{63}{72}$\n$\\frac{3}{9} < \\frac{7}{8}$",
-    "difficulty": 1,
-    "id": 2511
   },
   {
     "topic_id": "percentages",
@@ -70659,33 +69660,6 @@
     "id": 2617
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 1/7 和 9/11 的大小",
-    "question_en": "Compare 1/7 and 9/11",
-    "options_zh": [
-      "1/7 > 9/11",
-      "無法比較",
-      "1/7 = 9/11",
-      "0"
-    ],
-    "options_en": [
-      "1/7 > 9/11",
-      "",
-      "1/7 = 9/11",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\frac{1}{7} = \\frac{11}{77}$, $\\frac{9}{11} = \\frac{63}{77}$\n$\\frac{1}{7} < \\frac{9}{11}$",
-    "explanation_en": "$\\frac{1}{7} = \\frac{11}{77}$, $\\frac{9}{11} = \\frac{63}{77}$\n$\\frac{1}{7} < \\frac{9}{11}$",
-    "difficulty": 1,
-    "id": 2618
-  },
-  {
     "topic_id": "percentages",
     "topic_zh": "百分數",
     "topic_en": "Percentages",
@@ -72655,33 +71629,6 @@
     "explanation_en": "We need to calculate: (2 + 7) × -9\n BODMAS ：，。\n。\n：(2 + 7) × -9 = -81\n：×=，×=。\nThe answer is -81.",
     "difficulty": 2,
     "id": 2691
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 9 now. How old 6 years ago?",
-    "question_en": "is 9 now. How old 6 years ago?",
-    "options_zh": [
-      "3",
-      "54",
-      "15",
-      "4"
-    ],
-    "options_en": [
-      "3",
-      "54",
-      "15",
-      "4"
-    ],
-    "answer": 0,
-    "explanation_zh": "$9 - 6 = 3$ years old",
-    "explanation_en": "$9 - 6 = 3$ years old",
-    "difficulty": 2,
-    "id": 2692
   },
   {
     "topic_id": "percentages",
@@ -75627,33 +74574,6 @@
     "id": 2801
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 11 now. How old 3 years ago?",
-    "question_en": "is 11 now. How old 3 years ago?",
-    "options_zh": [
-      "9",
-      "14",
-      "33",
-      "8"
-    ],
-    "options_en": [
-      "9",
-      "14",
-      "33",
-      "8"
-    ],
-    "answer": 3,
-    "explanation_zh": "$11 - 3 = 8$ years old",
-    "explanation_en": "$11 - 3 = 8$ years old",
-    "difficulty": 1,
-    "id": 2802
-  },
-  {
     "topic_id": "statistics",
     "topic_zh": "統計圖表",
     "topic_en": "Statistics",
@@ -76408,33 +75328,6 @@
     "explanation_en": "Mode is the most frequently occurring value.\nCount occurrences of each number.\nAnswer = 54",
     "difficulty": 2,
     "id": 2830
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 1/7 和 2/4 的大小",
-    "question_en": "Compare 1/7 and 2/4",
-    "options_zh": [
-      "無法比較",
-      "0",
-      "1/7 = 2/4",
-      "1/7 > 2/4"
-    ],
-    "options_en": [
-      "",
-      "0",
-      "1/7 = 2/4",
-      "1/7 > 2/4"
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\frac{1}{7} = \\frac{4}{28}$, $\\frac{2}{4} = \\frac{14}{28}$\n$\\frac{1}{7} < \\frac{2}{4}$",
-    "explanation_en": "$\\frac{1}{7} = \\frac{4}{28}$, $\\frac{2}{4} = \\frac{14}{28}$\n$\\frac{1}{7} < \\frac{2}{4}$",
-    "difficulty": 2,
-    "id": 2831
   },
   {
     "topic_id": "percentages",
@@ -77652,33 +76545,6 @@
     "id": 2876
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 3/12 和 8/7 的大小",
-    "question_en": "Compare 3/12 and 8/7",
-    "options_zh": [
-      "3/12 > 8/7",
-      "3/12 = 8/7",
-      "0",
-      "無法比較"
-    ],
-    "options_en": [
-      "3/12 > 8/7",
-      "3/12 = 8/7",
-      "0",
-      ""
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\frac{3}{12} = \\frac{21}{84}$, $\\frac{8}{7} = \\frac{96}{84}$\n$\\frac{3}{12} < \\frac{8}{7}$",
-    "explanation_en": "$\\frac{3}{12} = \\frac{21}{84}$, $\\frac{8}{7} = \\frac{96}{84}$\n$\\frac{3}{12} < \\frac{8}{7}$",
-    "difficulty": 1,
-    "id": 2877
-  },
-  {
     "topic_id": "mixed",
     "topic_zh": "綜合應用",
     "topic_en": "Mixed Applications",
@@ -78651,33 +77517,6 @@
     "id": 2913
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 7 now. How old 3 years ago?",
-    "question_en": "is 7 now. How old 3 years ago?",
-    "options_zh": [
-      "4",
-      "10",
-      "5",
-      "21"
-    ],
-    "options_en": [
-      "4",
-      "10",
-      "5",
-      "21"
-    ],
-    "answer": 0,
-    "explanation_zh": "$7 - 3 = 4$ years old",
-    "explanation_en": "$7 - 3 = 4$ years old",
-    "difficulty": 2,
-    "id": 2914
-  },
-  {
     "topic_id": "coordinates",
     "topic_zh": "坐標",
     "topic_en": "Coordinates",
@@ -79083,33 +77922,6 @@
     "id": 2929
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 10 now. How old 3 years ago?",
-    "question_en": "is 10 now. How old 3 years ago?",
-    "options_zh": [
-      "7",
-      "8",
-      "13",
-      "30"
-    ],
-    "options_en": [
-      "7",
-      "8",
-      "13",
-      "30"
-    ],
-    "answer": 0,
-    "explanation_zh": "$10 - 3 = 7$ years old",
-    "explanation_en": "$10 - 3 = 7$ years old",
-    "difficulty": 1,
-    "id": 2930
-  },
-  {
     "topic_id": "basic_algebra",
     "topic_zh": "基本代數",
     "topic_en": "Basic Algebra",
@@ -79216,33 +78028,6 @@
     "explanation_en": "Percentage = (part ÷ whole) × 100%\nAnswer = 40%",
     "difficulty": 3,
     "id": 2934
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 9/3 和 4/10 的大小",
-    "question_en": "Compare 9/3 and 4/10",
-    "options_zh": [
-      "0",
-      "9/3 < 4/10",
-      "9/3 = 4/10",
-      "無法比較"
-    ],
-    "options_en": [
-      "0",
-      "9/3 < 4/10",
-      "9/3 = 4/10",
-      ""
-    ],
-    "answer": 0,
-    "explanation_zh": "$\\frac{9}{3} = \\frac{90}{30}$, $\\frac{4}{10} = \\frac{12}{30}$\n$\\frac{9}{3} > \\frac{4}{10}$",
-    "explanation_en": "$\\frac{9}{3} = \\frac{90}{30}$, $\\frac{4}{10} = \\frac{12}{30}$\n$\\frac{9}{3} > \\frac{4}{10}$",
-    "difficulty": 2,
-    "id": 2935
   },
   {
     "topic_id": "area_volume",
@@ -81403,33 +80188,6 @@
     "explanation_en": "$454 \\times 3\\% = 454 \\times \\frac{3}{100} = 13.62$",
     "difficulty": 1,
     "id": 3015
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 3  at $38 each, 15% off. Total?",
-    "question_en": "Buy 3  at $38 each, 15% off. Total?",
-    "options_zh": [
-      "97.9",
-      "114",
-      "17.1",
-      "96.9"
-    ],
-    "options_en": [
-      "97.9",
-      "114",
-      "17.1",
-      "96.9"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\text{Subtotal} = 3 \\times \\$38 = \\$114$\n$\\text{Discount} = \\$114 \\times 15\\% = \\$17.1$\n$\\text{Total} = \\$114 - \\$17.1 = \\$96.9$",
-    "explanation_en": "$\\text{Subtotal} = 3 \\times \\$38 = \\$114$\n$\\text{Discount} = \\$114 \\times 15\\% = \\$17.1$\n$\\text{Total} = \\$114 - \\$17.1 = \\$96.9$",
-    "difficulty": 2,
-    "id": 3016
   },
   {
     "topic_id": "area_volume",
@@ -85050,33 +83808,6 @@
     "id": 3150
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 2/5 和 7/6 的大小",
-    "question_en": "Compare 2/5 and 7/6",
-    "options_zh": [
-      "無法比較",
-      "2/5 > 7/6",
-      "0",
-      "2/5 = 7/6"
-    ],
-    "options_en": [
-      "",
-      "2/5 > 7/6",
-      "0",
-      "2/5 = 7/6"
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\frac{2}{5} = \\frac{12}{30}$, $\\frac{7}{6} = \\frac{35}{30}$\n$\\frac{2}{5} < \\frac{7}{6}$",
-    "explanation_en": "$\\frac{2}{5} = \\frac{12}{30}$, $\\frac{7}{6} = \\frac{35}{30}$\n$\\frac{2}{5} < \\frac{7}{6}$",
-    "difficulty": 1,
-    "id": 3151
-  },
-  {
     "topic_id": "mixed",
     "topic_zh": "綜合應用",
     "topic_en": "Mixed Applications",
@@ -86913,33 +85644,6 @@
     "id": 3219
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 11 now. How old in 12 years?",
-    "question_en": "is 11 now. How old in 12 years?",
-    "options_zh": [
-      "-1",
-      "23",
-      "24",
-      "132"
-    ],
-    "options_en": [
-      "-1",
-      "23",
-      "24",
-      "132"
-    ],
-    "answer": 1,
-    "explanation_zh": "$11 + 12 = 23$ years old",
-    "explanation_en": "$11 + 12 = 23$ years old",
-    "difficulty": 1,
-    "id": 3220
-  },
-  {
     "topic_id": "percentages",
     "topic_zh": "百分數",
     "topic_en": "Percentages",
@@ -87399,33 +86103,6 @@
     "id": 3237
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 1/2 和 9/7 的大小",
-    "question_en": "Compare 1/2 and 9/7",
-    "options_zh": [
-      "無法比較",
-      "1/2 > 9/7",
-      "0",
-      "1/2 = 9/7"
-    ],
-    "options_en": [
-      "",
-      "1/2 > 9/7",
-      "0",
-      "1/2 = 9/7"
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\frac{1}{2} = \\frac{7}{14}$, $\\frac{9}{7} = \\frac{18}{14}$\n$\\frac{1}{2} < \\frac{9}{7}$",
-    "explanation_en": "$\\frac{1}{2} = \\frac{7}{14}$, $\\frac{9}{7} = \\frac{18}{14}$\n$\\frac{1}{2} < \\frac{9}{7}$",
-    "difficulty": 2,
-    "id": 3238
-  },
-  {
     "topic_id": "coordinates",
     "topic_zh": "坐標",
     "topic_en": "Coordinates",
@@ -87667,33 +86344,6 @@
     "explanation_en": "Original $= \\$1948$, discount $= 18\\%$\n$\\text{Discount} = 1948 \\times \\frac{18}{100} = 350.64$\n$\\text{Sale price} = 1948 - 350.64 = \\$1597.3600000000001$",
     "difficulty": 2,
     "id": 3247
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 11 now. How old 1 years ago?",
-    "question_en": "is 11 now. How old 1 years ago?",
-    "options_zh": [
-      "12",
-      "11",
-      "10",
-      "11 (alt)"
-    ],
-    "options_en": [
-      "12",
-      "11",
-      "10",
-      "11 (alt)"
-    ],
-    "answer": 2,
-    "explanation_zh": "$11 - 1 = 10$ years old",
-    "explanation_en": "$11 - 1 = 10$ years old",
-    "difficulty": 2,
-    "id": 3248
   },
   {
     "topic_id": "percentages",
@@ -91638,33 +90288,6 @@
     "id": 3394
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 5  at $25 each, 15% off. Total?",
-    "question_en": "Buy 5  at $25 each, 15% off. Total?",
-    "options_zh": [
-      "107.2",
-      "106.2",
-      "125",
-      "18.8"
-    ],
-    "options_en": [
-      "107.2",
-      "106.2",
-      "125",
-      "18.8"
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\text{Subtotal} = 5 \\times \\$25 = \\$125$\n$\\text{Discount} = \\$125 \\times 15\\% = \\$18.75$\n$\\text{Total} = \\$125 - \\$18.75 = \\$106.25$",
-    "explanation_en": "$\\text{Subtotal} = 5 \\times \\$25 = \\$125$\n$\\text{Discount} = \\$125 \\times 15\\% = \\$18.75$\n$\\text{Total} = \\$125 - \\$18.75 = \\$106.25$",
-    "difficulty": 2,
-    "id": 3395
-  },
-  {
     "topic_id": "statistics",
     "topic_zh": "統計圖表",
     "topic_en": "Statistics",
@@ -92068,33 +90691,6 @@
     "explanation_en": "First terms: 9, 11, 13, 15\nCommon difference $d = 11 - 9 = 2$\n$a_n = a_1 + (n-1)d$\n$a_{12} = 9 + (12-1) \\times 2 = 9 + 22 = 31$",
     "difficulty": 1,
     "id": 3410
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 10 now. How old in 2 years?",
-    "question_en": "is 10 now. How old in 2 years?",
-    "options_zh": [
-      "13",
-      "8",
-      "20",
-      "12"
-    ],
-    "options_en": [
-      "13",
-      "8",
-      "20",
-      "12"
-    ],
-    "answer": 3,
-    "explanation_zh": "$10 + 2 = 12$ years old",
-    "explanation_en": "$10 + 2 = 12$ years old",
-    "difficulty": 2,
-    "id": 3411
   },
   {
     "topic_id": "percentages",
@@ -93798,33 +92394,6 @@
     "id": 3474
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 3/3 和 8/3 的大小",
-    "question_en": "Compare 3/3 and 8/3",
-    "options_zh": [
-      "3/3 > 8/3",
-      "3/3 = 8/3",
-      "無法比較",
-      "0"
-    ],
-    "options_en": [
-      "3/3 > 8/3",
-      "3/3 = 8/3",
-      "",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\frac{3}{3} = \\frac{9}{9}$, $\\frac{8}{3} = \\frac{24}{9}$\n$\\frac{3}{3} < \\frac{8}{3}$",
-    "explanation_en": "$\\frac{3}{3} = \\frac{9}{9}$, $\\frac{8}{3} = \\frac{24}{9}$\n$\\frac{3}{3} < \\frac{8}{3}$",
-    "difficulty": 1,
-    "id": 3475
-  },
-  {
     "topic_id": "area_volume",
     "topic_zh": "面積與體積",
     "topic_en": "Area & Volume",
@@ -94525,33 +93094,6 @@
     "explanation_en": "Ratio $1:5$, total $= \\$200$\nTotal parts $= 1 + 5 = 6$\nEach part $= \\frac{200}{6} = 33$\nA's share $= 33 \\times 1 = \\$33$",
     "difficulty": 1,
     "id": 3501
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 5/7 和 5/6 的大小",
-    "question_en": "Compare 5/7 and 5/6",
-    "options_zh": [
-      "無法比較",
-      "5/7 = 5/6",
-      "5/7 > 5/6",
-      "0"
-    ],
-    "options_en": [
-      "",
-      "5/7 = 5/6",
-      "5/7 > 5/6",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\frac{5}{7} = \\frac{30}{42}$, $\\frac{5}{6} = \\frac{35}{42}$\n$\\frac{5}{7} < \\frac{5}{6}$",
-    "explanation_en": "$\\frac{5}{7} = \\frac{30}{42}$, $\\frac{5}{6} = \\frac{35}{42}$\n$\\frac{5}{7} < \\frac{5}{6}$",
-    "difficulty": 1,
-    "id": 3502
   },
   {
     "topic_id": "mixed",
@@ -95796,33 +94338,6 @@
     "id": 3548
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 5/2 和 10/8 的大小",
-    "question_en": "Compare 5/2 and 10/8",
-    "options_zh": [
-      "5/2 < 10/8",
-      "5/2 = 10/8",
-      "0",
-      "無法比較"
-    ],
-    "options_en": [
-      "5/2 < 10/8",
-      "5/2 = 10/8",
-      "0",
-      ""
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\frac{5}{2} = \\frac{40}{16}$, $\\frac{10}{8} = \\frac{20}{16}$\n$\\frac{5}{2} > \\frac{10}{8}$",
-    "explanation_en": "$\\frac{5}{2} = \\frac{40}{16}$, $\\frac{10}{8} = \\frac{20}{16}$\n$\\frac{5}{2} > \\frac{10}{8}$",
-    "difficulty": 2,
-    "id": 3549
-  },
-  {
     "topic_id": "basic_algebra",
     "topic_zh": "基本代數",
     "topic_en": "Basic Algebra",
@@ -95929,33 +94444,6 @@
     "explanation_en": "Ratio $5:4$, total $= \\$500$\nTotal parts $= 5 + 4 = 9$\nEach part $= \\frac{500}{9} = 55$\nA's share $= 55 \\times 5 = \\$277$",
     "difficulty": 1,
     "id": 3553
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 12 now. How old in 20 years?",
-    "question_en": "is 12 now. How old in 20 years?",
-    "options_zh": [
-      "32",
-      "240",
-      "33",
-      "-8"
-    ],
-    "options_en": [
-      "32",
-      "240",
-      "33",
-      "-8"
-    ],
-    "answer": 0,
-    "explanation_zh": "$12 + 20 = 32$ years old",
-    "explanation_en": "$12 + 20 = 32$ years old",
-    "difficulty": 1,
-    "id": 3554
   },
   {
     "topic_id": "statistics",
@@ -98469,33 +96957,6 @@
     "id": 3647
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 12 now. How old 1 years ago?",
-    "question_en": "is 12 now. How old 1 years ago?",
-    "options_zh": [
-      "13",
-      "12",
-      "11",
-      "12 (alt)"
-    ],
-    "options_en": [
-      "13",
-      "12",
-      "11",
-      "12 (alt)"
-    ],
-    "answer": 2,
-    "explanation_zh": "$12 - 1 = 11$ years old",
-    "explanation_en": "$12 - 1 = 11$ years old",
-    "difficulty": 2,
-    "id": 3648
-  },
-  {
     "topic_id": "area_volume",
     "topic_zh": "面積與體積",
     "topic_en": "Area & Volume",
@@ -99061,33 +97522,6 @@
     "explanation_en": "$5x + 1 < 36$\n$5x < 35$\n$x < \\frac{35}{5} = 7$",
     "difficulty": 2,
     "id": 3669
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 6 now. How old in 2 years?",
-    "question_en": "is 6 now. How old in 2 years?",
-    "options_zh": [
-      "4",
-      "12",
-      "8",
-      "9"
-    ],
-    "options_en": [
-      "4",
-      "12",
-      "8",
-      "9"
-    ],
-    "answer": 2,
-    "explanation_zh": "$6 + 2 = 8$ years old",
-    "explanation_en": "$6 + 2 = 8$ years old",
-    "difficulty": 1,
-    "id": 3670
   },
   {
     "topic_id": "statistics",
@@ -101763,33 +100197,6 @@
     "id": 3769
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 14 now. How old in 6 years?",
-    "question_en": "is 14 now. How old in 6 years?",
-    "options_zh": [
-      "8",
-      "21",
-      "84",
-      "20"
-    ],
-    "options_en": [
-      "8",
-      "21",
-      "84",
-      "20"
-    ],
-    "answer": 3,
-    "explanation_zh": "$14 + 6 = 20$ years old",
-    "explanation_en": "$14 + 6 = 20$ years old",
-    "difficulty": 1,
-    "id": 3770
-  },
-  {
     "topic_id": "area_volume",
     "topic_zh": "面積與體積",
     "topic_en": "Area & Volume",
@@ -102303,33 +100710,6 @@
     "id": 3789
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 8 now. How old in 11 years?",
-    "question_en": "is 8 now. How old in 11 years?",
-    "options_zh": [
-      "-3",
-      "88",
-      "20",
-      "19"
-    ],
-    "options_en": [
-      "-3",
-      "88",
-      "20",
-      "19"
-    ],
-    "answer": 3,
-    "explanation_zh": "$8 + 11 = 19$ years old",
-    "explanation_en": "$8 + 11 = 19$ years old",
-    "difficulty": 1,
-    "id": 3790
-  },
-  {
     "topic_id": "percentages",
     "topic_zh": "百分數",
     "topic_en": "Percentages",
@@ -102652,33 +101032,6 @@
     "explanation_en": "First terms: 8, 11, 14, 17\nCommon difference $d = 11 - 8 = 3$\n$a_n = a_1 + (n-1)d$\n$a_{18} = 8 + (18-1) \\times 3 = 8 + 51 = 59$",
     "difficulty": 2,
     "id": 3802
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 9 now. How old 6 years ago?",
-    "question_en": "is 9 now. How old 6 years ago?",
-    "options_zh": [
-      "4",
-      "54",
-      "15",
-      "3"
-    ],
-    "options_en": [
-      "4",
-      "54",
-      "15",
-      "3"
-    ],
-    "answer": 3,
-    "explanation_zh": "$9 - 6 = 3$ years old",
-    "explanation_en": "$9 - 6 = 3$ years old",
-    "difficulty": 2,
-    "id": 3803
   },
   {
     "topic_id": "directed_number",
@@ -105651,33 +104004,6 @@
     "id": 3913
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 6/2 和 2/12 的大小",
-    "question_en": "Compare 6/2 and 2/12",
-    "options_zh": [
-      "6/2 = 2/12",
-      "無法比較",
-      "6/2 < 2/12",
-      "0"
-    ],
-    "options_en": [
-      "6/2 = 2/12",
-      "",
-      "6/2 < 2/12",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\frac{6}{2} = \\frac{72}{24}$, $\\frac{2}{12} = \\frac{4}{24}$\n$\\frac{6}{2} > \\frac{2}{12}$",
-    "explanation_en": "$\\frac{6}{2} = \\frac{72}{24}$, $\\frac{2}{12} = \\frac{4}{24}$\n$\\frac{6}{2} > \\frac{2}{12}$",
-    "difficulty": 2,
-    "id": 3914
-  },
-  {
     "topic_id": "statistics",
     "topic_zh": "統計圖表",
     "topic_en": "Statistics",
@@ -105946,33 +104272,6 @@
     "explanation_en": "First terms: 7, 16, 25, 34\nCommon difference $d = 16 - 7 = 9$\n$a_n = a_1 + (n-1)d$\n$a_{7} = 7 + (7-1) \\times 9 = 7 + 54 = 61$",
     "difficulty": 2,
     "id": 3924
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 8 now. How old in 4 years?",
-    "question_en": "is 8 now. How old in 4 years?",
-    "options_zh": [
-      "12",
-      "4",
-      "32",
-      "13"
-    ],
-    "options_en": [
-      "12",
-      "4",
-      "32",
-      "13"
-    ],
-    "answer": 0,
-    "explanation_zh": "$8 + 4 = 12$ years old",
-    "explanation_en": "$8 + 4 = 12$ years old",
-    "difficulty": 2,
-    "id": 3925
   },
   {
     "topic_id": "basic_algebra",
@@ -109323,33 +107622,6 @@
     "id": 4049
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 8 now. How old in 3 years?",
-    "question_en": "is 8 now. How old in 3 years?",
-    "options_zh": [
-      "5",
-      "12",
-      "11",
-      "24"
-    ],
-    "options_en": [
-      "5",
-      "12",
-      "11",
-      "24"
-    ],
-    "answer": 2,
-    "explanation_zh": "$8 + 3 = 11$ years old",
-    "explanation_en": "$8 + 3 = 11$ years old",
-    "difficulty": 2,
-    "id": 4050
-  },
-  {
     "topic_id": "area_volume",
     "topic_zh": "面積與體積",
     "topic_en": "Area & Volume",
@@ -110808,33 +109080,6 @@
     "id": 4104
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 7 now. How old 3 years ago?",
-    "question_en": "is 7 now. How old 3 years ago?",
-    "options_zh": [
-      "21",
-      "10",
-      "4",
-      "5"
-    ],
-    "options_en": [
-      "21",
-      "10",
-      "4",
-      "5"
-    ],
-    "answer": 2,
-    "explanation_zh": "$7 - 3 = 4$ years old",
-    "explanation_en": "$7 - 3 = 4$ years old",
-    "difficulty": 1,
-    "id": 4105
-  },
-  {
     "topic_id": "area_volume",
     "topic_zh": "面積與體積",
     "topic_en": "Area & Volume",
@@ -111292,33 +109537,6 @@
     "explanation_en": "$8(x - 8) = 8x - 64$",
     "difficulty": 3,
     "id": 4122
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 2/4 和 10/10 的大小",
-    "question_en": "Compare 2/4 and 10/10",
-    "options_zh": [
-      "2/4 = 10/10",
-      "無法比較",
-      "2/4 > 10/10",
-      "0"
-    ],
-    "options_en": [
-      "2/4 = 10/10",
-      "",
-      "2/4 > 10/10",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\frac{2}{4} = \\frac{20}{40}$, $\\frac{10}{10} = \\frac{40}{40}$\n$\\frac{2}{4} < \\frac{10}{10}$",
-    "explanation_en": "$\\frac{2}{4} = \\frac{20}{40}$, $\\frac{10}{10} = \\frac{40}{40}$\n$\\frac{2}{4} < \\frac{10}{10}$",
-    "difficulty": 3,
-    "id": 4123
   },
   {
     "topic_id": "percentages",
@@ -111913,33 +110131,6 @@
     "explanation_en": "$M = \\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right)$\n$M = \\left(\\frac{-4 + 12}{2}, \\frac{-8 + 2}{2}\\right)$\n$M = (4, -3)$",
     "difficulty": 1,
     "id": 4145
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 8/5 和 6/9 的大小",
-    "question_en": "Compare 8/5 and 6/9",
-    "options_zh": [
-      "8/5 < 6/9",
-      "無法比較",
-      "8/5 = 6/9",
-      "0"
-    ],
-    "options_en": [
-      "8/5 < 6/9",
-      "",
-      "8/5 = 6/9",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\frac{8}{5} = \\frac{72}{45}$, $\\frac{6}{9} = \\frac{30}{45}$\n$\\frac{8}{5} > \\frac{6}{9}$",
-    "explanation_en": "$\\frac{8}{5} = \\frac{72}{45}$, $\\frac{6}{9} = \\frac{30}{45}$\n$\\frac{8}{5} > \\frac{6}{9}$",
-    "difficulty": 2,
-    "id": 4146
   },
   {
     "topic_id": "basic_algebra",
@@ -113265,33 +111456,6 @@
     "id": 4195
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 7/10 和 4/5 的大小",
-    "question_en": "Compare 7/10 and 4/5",
-    "options_zh": [
-      "0",
-      "7/10 > 4/5",
-      "7/10 = 4/5",
-      "無法比較"
-    ],
-    "options_en": [
-      "0",
-      "7/10 > 4/5",
-      "7/10 = 4/5",
-      ""
-    ],
-    "answer": 0,
-    "explanation_zh": "$\\frac{7}{10} = \\frac{35}{50}$, $\\frac{4}{5} = \\frac{40}{50}$\n$\\frac{7}{10} < \\frac{4}{5}$",
-    "explanation_en": "$\\frac{7}{10} = \\frac{35}{50}$, $\\frac{4}{5} = \\frac{40}{50}$\n$\\frac{7}{10} < \\frac{4}{5}$",
-    "difficulty": 1,
-    "id": 4196
-  },
-  {
     "topic_id": "sequences",
     "topic_zh": "規律與數列",
     "topic_en": "Sequences",
@@ -113670,33 +111834,6 @@
     "id": 4210
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 1/12 和 5/11 的大小",
-    "question_en": "Compare 1/12 and 5/11",
-    "options_zh": [
-      "1/12 = 5/11",
-      "1/12 > 5/11",
-      "無法比較",
-      "0"
-    ],
-    "options_en": [
-      "1/12 = 5/11",
-      "1/12 > 5/11",
-      "",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\frac{1}{12} = \\frac{11}{132}$, $\\frac{5}{11} = \\frac{60}{132}$\n$\\frac{1}{12} < \\frac{5}{11}$",
-    "explanation_en": "$\\frac{1}{12} = \\frac{11}{132}$, $\\frac{5}{11} = \\frac{60}{132}$\n$\\frac{1}{12} < \\frac{5}{11}$",
-    "difficulty": 2,
-    "id": 4211
-  },
-  {
     "topic_id": "basic_algebra",
     "topic_zh": "基本代數",
     "topic_en": "Basic Algebra",
@@ -114046,33 +112183,6 @@
     "explanation_en": "Mode is the most frequently occurring value.\nCount occurrences of each number.\nAnswer = 26",
     "difficulty": 2,
     "id": 4224
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 7  at $22 each, 25% off. Total?",
-    "question_en": "Buy 7  at $22 each, 25% off. Total?",
-    "options_zh": [
-      "154",
-      "116.5",
-      "115.5",
-      "38.5"
-    ],
-    "options_en": [
-      "154",
-      "116.5",
-      "115.5",
-      "38.5"
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\text{Subtotal} = 7 \\times \\$22 = \\$154$\n$\\text{Discount} = \\$154 \\times 25\\% = \\$38.5$\n$\\text{Total} = \\$154 - \\$38.5 = \\$115.5$",
-    "explanation_en": "$\\text{Subtotal} = 7 \\times \\$22 = \\$154$\n$\\text{Discount} = \\$154 \\times 25\\% = \\$38.5$\n$\\text{Total} = \\$154 - \\$38.5 = \\$115.5$",
-    "difficulty": 2,
-    "id": 4225
   },
   {
     "topic_id": "basic_algebra",
@@ -114640,33 +112750,6 @@
     "explanation_en": "$\\text{GCF}(8, 16) = 8$\n$8:16 = 1:2$",
     "difficulty": 2,
     "id": 4246
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 14 now. How old in 12 years?",
-    "question_en": "is 14 now. How old in 12 years?",
-    "options_zh": [
-      "27",
-      "2",
-      "168",
-      "26"
-    ],
-    "options_en": [
-      "27",
-      "2",
-      "168",
-      "26"
-    ],
-    "answer": 3,
-    "explanation_zh": "$14 + 12 = 26$ years old",
-    "explanation_en": "$14 + 12 = 26$ years old",
-    "difficulty": 1,
-    "id": 4247
   },
   {
     "topic_id": "sequences",
@@ -116937,33 +115020,6 @@
     "id": 4331
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 8 now. How old 1 years ago?",
-    "question_en": "is 8 now. How old 1 years ago?",
-    "options_zh": [
-      "7",
-      "8",
-      "8 (alt)",
-      "9"
-    ],
-    "options_en": [
-      "7",
-      "8",
-      "8 (alt)",
-      "9"
-    ],
-    "answer": 0,
-    "explanation_zh": "$8 - 1 = 7$ years old",
-    "explanation_en": "$8 - 1 = 7$ years old",
-    "difficulty": 2,
-    "id": 4332
-  },
-  {
     "topic_id": "coordinates",
     "topic_zh": "坐標",
     "topic_en": "Coordinates",
@@ -117097,33 +115153,6 @@
     "explanation_en": "Triangular prism volume = triangle area × length\n= (3×6÷2) × 9 = 81.0 cm³",
     "difficulty": 1,
     "id": 4337
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 10/4 和 2/2 的大小",
-    "question_en": "Compare 10/4 and 2/2",
-    "options_zh": [
-      "0",
-      "無法比較",
-      "10/4 < 2/2",
-      "10/4 = 2/2"
-    ],
-    "options_en": [
-      "0",
-      "",
-      "10/4 < 2/2",
-      "10/4 = 2/2"
-    ],
-    "answer": 0,
-    "explanation_zh": "$\\frac{10}{4} = \\frac{20}{8}$, $\\frac{2}{2} = \\frac{8}{8}$\n$\\frac{10}{4} > \\frac{2}{2}$",
-    "explanation_en": "$\\frac{10}{4} = \\frac{20}{8}$, $\\frac{2}{2} = \\frac{8}{8}$\n$\\frac{10}{4} > \\frac{2}{2}$",
-    "difficulty": 2,
-    "id": 4338
   },
   {
     "topic_id": "sequences",
@@ -119934,33 +117963,6 @@
     "id": 4442
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 14 now. How old 12 years ago?",
-    "question_en": "is 14 now. How old 12 years ago?",
-    "options_zh": [
-      "168",
-      "26",
-      "2",
-      "3"
-    ],
-    "options_en": [
-      "168",
-      "26",
-      "2",
-      "3"
-    ],
-    "answer": 2,
-    "explanation_zh": "$14 - 12 = 2$ years old",
-    "explanation_en": "$14 - 12 = 2$ years old",
-    "difficulty": 2,
-    "id": 4443
-  },
-  {
     "topic_id": "basic_geometry",
     "topic_zh": "基本幾何",
     "topic_en": "Basic Geometry",
@@ -120148,33 +118150,6 @@
     "explanation_en": "Original = sale price ÷ (1 - discount%)\nAnswer = $500",
     "difficulty": 3,
     "id": 4450
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 14 now. How old in 13 years?",
-    "question_en": "is 14 now. How old in 13 years?",
-    "options_zh": [
-      "182",
-      "1",
-      "28",
-      "27"
-    ],
-    "options_en": [
-      "182",
-      "1",
-      "28",
-      "27"
-    ],
-    "answer": 3,
-    "explanation_zh": "$14 + 13 = 27$ years old",
-    "explanation_en": "$14 + 13 = 27$ years old",
-    "difficulty": 1,
-    "id": 4451
   },
   {
     "topic_id": "ratio_rate",
@@ -121390,33 +119365,6 @@
     "explanation_en": "$\\frac{5}{8} + \\frac{1}{10} = 29/40$",
     "difficulty": 2,
     "id": 4496
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 7 now. How old 1 years ago?",
-    "question_en": "is 7 now. How old 1 years ago?",
-    "options_zh": [
-      "8",
-      "7",
-      "6",
-      "7 (alt)"
-    ],
-    "options_en": [
-      "8",
-      "7",
-      "6",
-      "7 (alt)"
-    ],
-    "answer": 2,
-    "explanation_zh": "$7 - 1 = 6$ years old",
-    "explanation_en": "$7 - 1 = 6$ years old",
-    "difficulty": 1,
-    "id": 4497
   },
   {
     "topic_id": "basic_algebra",
@@ -123147,33 +121095,6 @@
     "id": 4561
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 4  at $5 each, 20% off. Total?",
-    "question_en": "Buy 4  at $5 each, 20% off. Total?",
-    "options_zh": [
-      "4.0",
-      "16.0",
-      "17.0",
-      "20"
-    ],
-    "options_en": [
-      "4.0",
-      "16.0",
-      "17.0",
-      "20"
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\text{Subtotal} = 4 \\times \\$5 = \\$20$\n$\\text{Discount} = \\$20 \\times 20\\% = \\$4.0$\n$\\text{Total} = \\$20 - \\$4.0 = \\$16.0$",
-    "explanation_en": "$\\text{Subtotal} = 4 \\times \\$5 = \\$20$\n$\\text{Discount} = \\$20 \\times 20\\% = \\$4.0$\n$\\text{Total} = \\$20 - \\$4.0 = \\$16.0$",
-    "difficulty": 2,
-    "id": 4562
-  },
-  {
     "topic_id": "statistics",
     "topic_zh": "統計圖表",
     "topic_en": "Statistics",
@@ -124254,33 +122175,6 @@
     "id": 4602
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 8/7 和 6/10 的大小",
-    "question_en": "Compare 8/7 and 6/10",
-    "options_zh": [
-      "無法比較",
-      "8/7 < 6/10",
-      "0",
-      "8/7 = 6/10"
-    ],
-    "options_en": [
-      "",
-      "8/7 < 6/10",
-      "0",
-      "8/7 = 6/10"
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\frac{8}{7} = \\frac{80}{70}$, $\\frac{6}{10} = \\frac{42}{70}$\n$\\frac{8}{7} > \\frac{6}{10}$",
-    "explanation_en": "$\\frac{8}{7} = \\frac{80}{70}$, $\\frac{6}{10} = \\frac{42}{70}$\n$\\frac{8}{7} > \\frac{6}{10}$",
-    "difficulty": 1,
-    "id": 4603
-  },
-  {
     "topic_id": "coordinates",
     "topic_zh": "坐標",
     "topic_en": "Coordinates",
@@ -125170,33 +123064,6 @@
     "explanation_en": "First terms: 7, 10, 13, 16\nCommon difference $d = 10 - 7 = 3$\n$a_n = a_1 + (n-1)d$\n$a_{12} = 7 + (12-1) \\times 3 = 7 + 33 = 40$",
     "difficulty": 2,
     "id": 4636
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 3  at $15 each, 15% off. Total?",
-    "question_en": "Buy 3  at $15 each, 15% off. Total?",
-    "options_zh": [
-      "38.2",
-      "6.8",
-      "45",
-      "39.2"
-    ],
-    "options_en": [
-      "38.2",
-      "6.8",
-      "45",
-      "39.2"
-    ],
-    "answer": 0,
-    "explanation_zh": "$\\text{Subtotal} = 3 \\times \\$15 = \\$45$\n$\\text{Discount} = \\$45 \\times 15\\% = \\$6.75$\n$\\text{Total} = \\$45 - \\$6.75 = \\$38.25$",
-    "explanation_en": "$\\text{Subtotal} = 3 \\times \\$15 = \\$45$\n$\\text{Discount} = \\$45 \\times 15\\% = \\$6.75$\n$\\text{Total} = \\$45 - \\$6.75 = \\$38.25$",
-    "difficulty": 2,
-    "id": 4637
   },
   {
     "topic_id": "coordinates",
@@ -126331,33 +124198,6 @@
     "explanation_en": "Average = (78 + 76 + 85) ÷ 3\n= 239 ÷ 3 = 79.7",
     "difficulty": 1,
     "id": 4679
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 8  at $30 each, 25% off. Total?",
-    "question_en": "Buy 8  at $30 each, 25% off. Total?",
-    "options_zh": [
-      "181.0",
-      "60.0",
-      "180.0",
-      "240"
-    ],
-    "options_en": [
-      "181.0",
-      "60.0",
-      "180.0",
-      "240"
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\text{Subtotal} = 8 \\times \\$30 = \\$240$\n$\\text{Discount} = \\$240 \\times 25\\% = \\$60.0$\n$\\text{Total} = \\$240 - \\$60.0 = \\$180.0$",
-    "explanation_en": "$\\text{Subtotal} = 8 \\times \\$30 = \\$240$\n$\\text{Discount} = \\$240 \\times 25\\% = \\$60.0$\n$\\text{Total} = \\$240 - \\$60.0 = \\$180.0$",
-    "difficulty": 1,
-    "id": 4680
   },
   {
     "topic_id": "statistics",
@@ -128356,33 +126196,6 @@
     "explanation_en": "Mean = Sum ÷ Count\nData: 71, 58, 57, 45, 98\nSum = 329\nCount = 5\nMean = 329 ÷ 5 = 65.8",
     "difficulty": 2,
     "id": 4754
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 10 now. How old 3 years ago?",
-    "question_en": "is 10 now. How old 3 years ago?",
-    "options_zh": [
-      "30",
-      "13",
-      "8",
-      "7"
-    ],
-    "options_en": [
-      "30",
-      "13",
-      "8",
-      "7"
-    ],
-    "answer": 3,
-    "explanation_zh": "$10 - 3 = 7$ years old",
-    "explanation_en": "$10 - 3 = 7$ years old",
-    "difficulty": 2,
-    "id": 4755
   },
   {
     "topic_id": "basic_algebra",
@@ -133650,33 +131463,6 @@
     "id": 4950
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 15 now. How old 15 years ago?",
-    "question_en": "is 15 now. How old 15 years ago?",
-    "options_zh": [
-      "225",
-      "0",
-      "1",
-      "30"
-    ],
-    "options_en": [
-      "225",
-      "0",
-      "1",
-      "30"
-    ],
-    "answer": 1,
-    "explanation_zh": "$15 - 15 = 0$ years old",
-    "explanation_en": "$15 - 15 = 0$ years old",
-    "difficulty": 2,
-    "id": 4951
-  },
-  {
     "topic_id": "sequences",
     "topic_zh": "規律與數列",
     "topic_en": "Sequences",
@@ -134107,33 +131893,6 @@
     "explanation_en": "$10(x - 5) = 10x - 50$",
     "difficulty": 1,
     "id": 4967
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 6 now. How old 4 years ago?",
-    "question_en": "is 6 now. How old 4 years ago?",
-    "options_zh": [
-      "3",
-      "10",
-      "24",
-      "2"
-    ],
-    "options_en": [
-      "3",
-      "10",
-      "24",
-      "2"
-    ],
-    "answer": 3,
-    "explanation_zh": "$6 - 4 = 2$ years old",
-    "explanation_en": "$6 - 4 = 2$ years old",
-    "difficulty": 1,
-    "id": 4968
   },
   {
     "topic_id": "ratio_rate",
@@ -136053,33 +133812,6 @@
     "id": 5039
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 14 now. How old 12 years ago?",
-    "question_en": "is 14 now. How old 12 years ago?",
-    "options_zh": [
-      "26",
-      "3",
-      "168",
-      "2"
-    ],
-    "options_en": [
-      "26",
-      "3",
-      "168",
-      "2"
-    ],
-    "answer": 3,
-    "explanation_zh": "$14 - 12 = 2$ years old",
-    "explanation_en": "$14 - 12 = 2$ years old",
-    "difficulty": 3,
-    "id": 5040
-  },
-  {
     "topic_id": "coordinates",
     "topic_zh": "坐標",
     "topic_en": "Coordinates",
@@ -137025,33 +134757,6 @@
     "id": 5075
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 14 now. How old 3 years ago?",
-    "question_en": "is 14 now. How old 3 years ago?",
-    "options_zh": [
-      "11",
-      "12",
-      "42",
-      "17"
-    ],
-    "options_en": [
-      "11",
-      "12",
-      "42",
-      "17"
-    ],
-    "answer": 0,
-    "explanation_zh": "$14 - 3 = 11$ years old",
-    "explanation_en": "$14 - 3 = 11$ years old",
-    "difficulty": 1,
-    "id": 5076
-  },
-  {
     "topic_id": "sequences",
     "topic_zh": "規律與數列",
     "topic_en": "Sequences",
@@ -137509,33 +135214,6 @@
     "explanation_en": "Substitute the given value and calculate.\nStep by step substitution.\nAnswer = 470",
     "difficulty": 1,
     "id": 5093
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 11 now. How old in 18 years?",
-    "question_en": "is 11 now. How old in 18 years?",
-    "options_zh": [
-      "29",
-      "198",
-      "-7",
-      "30"
-    ],
-    "options_en": [
-      "29",
-      "198",
-      "-7",
-      "30"
-    ],
-    "answer": 0,
-    "explanation_zh": "$11 + 18 = 29$ years old",
-    "explanation_en": "$11 + 18 = 29$ years old",
-    "difficulty": 3,
-    "id": 5094
   },
   {
     "topic_id": "sequences",
@@ -138321,33 +135999,6 @@
     "id": 5123
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 10/6 和 10/11 的大小",
-    "question_en": "Compare 10/6 and 10/11",
-    "options_zh": [
-      "無法比較",
-      "10/6 < 10/11",
-      "10/6 = 10/11",
-      "0"
-    ],
-    "options_en": [
-      "",
-      "10/6 < 10/11",
-      "10/6 = 10/11",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\frac{10}{6} = \\frac{110}{66}$, $\\frac{10}{11} = \\frac{60}{66}$\n$\\frac{10}{6} > \\frac{10}{11}$",
-    "explanation_en": "$\\frac{10}{6} = \\frac{110}{66}$, $\\frac{10}{11} = \\frac{60}{66}$\n$\\frac{10}{6} > \\frac{10}{11}$",
-    "difficulty": 1,
-    "id": 5124
-  },
-  {
     "topic_id": "area_volume",
     "topic_zh": "面積與體積",
     "topic_en": "Area & Volume",
@@ -138940,33 +136591,6 @@
     "explanation_en": "$M = \\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right)$\n$M = \\left(\\frac{3 + -14}{2}, \\frac{0 + -6}{2}\\right)$\n$M = (-5.5, -3)$",
     "difficulty": 1,
     "id": 5146
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 11 now. How old 9 years ago?",
-    "question_en": "is 11 now. How old 9 years ago?",
-    "options_zh": [
-      "2",
-      "3",
-      "20",
-      "99"
-    ],
-    "options_en": [
-      "2",
-      "3",
-      "20",
-      "99"
-    ],
-    "answer": 0,
-    "explanation_zh": "$11 - 9 = 2$ years old",
-    "explanation_en": "$11 - 9 = 2$ years old",
-    "difficulty": 1,
-    "id": 5147
   },
   {
     "topic_id": "area_volume",
@@ -140155,33 +137779,6 @@
     "explanation_en": "Co-interior angles: sum $= 180°$\n$180° - 132° = 48°$",
     "difficulty": 2,
     "id": 5191
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 13 now. How old 13 years ago?",
-    "question_en": "is 13 now. How old 13 years ago?",
-    "options_zh": [
-      "0",
-      "1",
-      "26",
-      "169"
-    ],
-    "options_en": [
-      "0",
-      "1",
-      "26",
-      "169"
-    ],
-    "answer": 0,
-    "explanation_zh": "$13 - 13 = 0$ years old",
-    "explanation_en": "$13 - 13 = 0$ years old",
-    "difficulty": 3,
-    "id": 5192
   },
   {
     "topic_id": "area_volume",
@@ -142315,33 +139912,6 @@
     "explanation_en": "Isosceles: two base angles equal.\nSum = 180°\nVertex = 44°\nBase angle = (180° - 44°) ÷ 2 = 68°",
     "difficulty": 1,
     "id": 5271
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 10/7 和 3/11 的大小",
-    "question_en": "Compare 10/7 and 3/11",
-    "options_zh": [
-      "無法比較",
-      "10/7 = 3/11",
-      "0",
-      "10/7 < 3/11"
-    ],
-    "options_en": [
-      "",
-      "10/7 = 3/11",
-      "0",
-      "10/7 < 3/11"
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\frac{10}{7} = \\frac{110}{77}$, $\\frac{3}{11} = \\frac{21}{77}$\n$\\frac{10}{7} > \\frac{3}{11}$",
-    "explanation_en": "$\\frac{10}{7} = \\frac{110}{77}$, $\\frac{3}{11} = \\frac{21}{77}$\n$\\frac{10}{7} > \\frac{3}{11}$",
-    "difficulty": 2,
-    "id": 5272
   },
   {
     "topic_id": "statistics",
@@ -145071,33 +142641,6 @@
     "id": 5373
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 6  at $15 each, 15% off. Total?",
-    "question_en": "Buy 6  at $15 each, 15% off. Total?",
-    "options_zh": [
-      "90",
-      "77.5",
-      "76.5",
-      "13.5"
-    ],
-    "options_en": [
-      "90",
-      "77.5",
-      "76.5",
-      "13.5"
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\text{Subtotal} = 6 \\times \\$15 = \\$90$\n$\\text{Discount} = \\$90 \\times 15\\% = \\$13.5$\n$\\text{Total} = \\$90 - \\$13.5 = \\$76.5$",
-    "explanation_en": "$\\text{Subtotal} = 6 \\times \\$15 = \\$90$\n$\\text{Discount} = \\$90 \\times 15\\% = \\$13.5$\n$\\text{Total} = \\$90 - \\$13.5 = \\$76.5$",
-    "difficulty": 2,
-    "id": 5374
-  },
-  {
     "topic_id": "directed_number",
     "topic_zh": "正負數",
     "topic_en": "Directed Numbers",
@@ -146014,33 +143557,6 @@
     "explanation_en": "Expand using distributive property.\n(x + 8)(x + 6)\nMultiply outside term by each inside term.\nAnswer = x² + 14x + 48",
     "difficulty": 1,
     "id": 5408
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 11 now. How old 4 years ago?",
-    "question_en": "is 11 now. How old 4 years ago?",
-    "options_zh": [
-      "7",
-      "15",
-      "8",
-      "44"
-    ],
-    "options_en": [
-      "7",
-      "15",
-      "8",
-      "44"
-    ],
-    "answer": 0,
-    "explanation_zh": "$11 - 4 = 7$ years old",
-    "explanation_en": "$11 - 4 = 7$ years old",
-    "difficulty": 1,
-    "id": 5409
   },
   {
     "topic_id": "percentages",
@@ -147447,33 +144963,6 @@
     "id": 5461
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 10 now. How old 2 years ago?",
-    "question_en": "is 10 now. How old 2 years ago?",
-    "options_zh": [
-      "8",
-      "20",
-      "12",
-      "9"
-    ],
-    "options_en": [
-      "8",
-      "20",
-      "12",
-      "9"
-    ],
-    "answer": 0,
-    "explanation_zh": "$10 - 2 = 8$ years old",
-    "explanation_en": "$10 - 2 = 8$ years old",
-    "difficulty": 3,
-    "id": 5462
-  },
-  {
     "topic_id": "basic_geometry",
     "topic_zh": "基本幾何",
     "topic_en": "Basic Geometry",
@@ -148525,33 +146014,6 @@
     "explanation_en": "Co-interior angles: sum $= 180°$\n$180° - 79° = 101°$",
     "difficulty": 3,
     "id": 5501
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 11 now. How old 3 years ago?",
-    "question_en": "is 11 now. How old 3 years ago?",
-    "options_zh": [
-      "9",
-      "8",
-      "33",
-      "14"
-    ],
-    "options_en": [
-      "9",
-      "8",
-      "33",
-      "14"
-    ],
-    "answer": 1,
-    "explanation_zh": "$11 - 3 = 8$ years old",
-    "explanation_en": "$11 - 3 = 8$ years old",
-    "difficulty": 1,
-    "id": 5502
   },
   {
     "topic_id": "coordinates",
@@ -149850,33 +147312,6 @@
     "id": 5550
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 14 now. How old 14 years ago?",
-    "question_en": "is 14 now. How old 14 years ago?",
-    "options_zh": [
-      "28",
-      "1",
-      "196",
-      "0"
-    ],
-    "options_en": [
-      "28",
-      "1",
-      "196",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$14 - 14 = 0$ years old",
-    "explanation_en": "$14 - 14 = 0$ years old",
-    "difficulty": 1,
-    "id": 5551
-  },
-  {
     "topic_id": "basic_algebra",
     "topic_zh": "基本代數",
     "topic_en": "Basic Algebra",
@@ -150226,33 +147661,6 @@
     "explanation_en": "Average = (74 + 98 + 84) ÷ 3\n= 256 ÷ 3 = 85.3",
     "difficulty": 1,
     "id": 5564
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 8/10 和 1/2 的大小",
-    "question_en": "Compare 8/10 and 1/2",
-    "options_zh": [
-      "8/10 = 1/2",
-      "8/10 < 1/2",
-      "0",
-      "無法比較"
-    ],
-    "options_en": [
-      "8/10 = 1/2",
-      "8/10 < 1/2",
-      "0",
-      ""
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\frac{8}{10} = \\frac{16}{20}$, $\\frac{1}{2} = \\frac{10}{20}$\n$\\frac{8}{10} > \\frac{1}{2}$",
-    "explanation_en": "$\\frac{8}{10} = \\frac{16}{20}$, $\\frac{1}{2} = \\frac{10}{20}$\n$\\frac{8}{10} > \\frac{1}{2}$",
-    "difficulty": 2,
-    "id": 5565
   },
   {
     "topic_id": "sequences",
@@ -151470,33 +148878,6 @@
     "id": 5610
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 12 now. How old 7 years ago?",
-    "question_en": "is 12 now. How old 7 years ago?",
-    "options_zh": [
-      "6",
-      "5",
-      "19",
-      "84"
-    ],
-    "options_en": [
-      "6",
-      "5",
-      "19",
-      "84"
-    ],
-    "answer": 1,
-    "explanation_zh": "$12 - 7 = 5$ years old",
-    "explanation_en": "$12 - 7 = 5$ years old",
-    "difficulty": 1,
-    "id": 5611
-  },
-  {
     "topic_id": "sequences",
     "topic_zh": "規律與數列",
     "topic_en": "Sequences",
@@ -151873,33 +149254,6 @@
     "explanation_en": "$M = \\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right)$\n$M = \\left(\\frac{9 + -7}{2}, \\frac{-5 + 2}{2}\\right)$\n$M = (1, -1.5)$",
     "difficulty": 2,
     "id": 5625
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 15 now. How old in 19 years?",
-    "question_en": "is 15 now. How old in 19 years?",
-    "options_zh": [
-      "285",
-      "-4",
-      "34",
-      "35"
-    ],
-    "options_en": [
-      "285",
-      "-4",
-      "34",
-      "35"
-    ],
-    "answer": 2,
-    "explanation_zh": "$15 + 19 = 34$ years old",
-    "explanation_en": "$15 + 19 = 34$ years old",
-    "difficulty": 1,
-    "id": 5626
   },
   {
     "topic_id": "directed_number",
@@ -154251,33 +151605,6 @@
     "id": 5713
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 9 now. How old 6 years ago?",
-    "question_en": "is 9 now. How old 6 years ago?",
-    "options_zh": [
-      "4",
-      "54",
-      "3",
-      "15"
-    ],
-    "options_en": [
-      "4",
-      "54",
-      "3",
-      "15"
-    ],
-    "answer": 2,
-    "explanation_zh": "$9 - 6 = 3$ years old",
-    "explanation_en": "$9 - 6 = 3$ years old",
-    "difficulty": 2,
-    "id": 5714
-  },
-  {
     "topic_id": "statistics",
     "topic_zh": "統計圖表",
     "topic_en": "Statistics",
@@ -154573,60 +151900,6 @@
     "explanation_en": "Median: the middle value when data is sorted.\nSorted: 18, 22, 31, 87, 92, 94, 99\n7 numbers, position 4 = 87",
     "difficulty": 1,
     "id": 5725
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 13 now. How old 8 years ago?",
-    "question_en": "is 13 now. How old 8 years ago?",
-    "options_zh": [
-      "6",
-      "5",
-      "104",
-      "21"
-    ],
-    "options_en": [
-      "6",
-      "5",
-      "104",
-      "21"
-    ],
-    "answer": 1,
-    "explanation_zh": "$13 - 8 = 5$ years old",
-    "explanation_en": "$13 - 8 = 5$ years old",
-    "difficulty": 3,
-    "id": 5726
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 9/2 和 4/11 的大小",
-    "question_en": "Compare 9/2 and 4/11",
-    "options_zh": [
-      "0",
-      "9/2 = 4/11",
-      "9/2 < 4/11",
-      "無法比較"
-    ],
-    "options_en": [
-      "0",
-      "9/2 = 4/11",
-      "9/2 < 4/11",
-      ""
-    ],
-    "answer": 0,
-    "explanation_zh": "$\\frac{9}{2} = \\frac{99}{22}$, $\\frac{4}{11} = \\frac{8}{22}$\n$\\frac{9}{2} > \\frac{4}{11}$",
-    "explanation_en": "$\\frac{9}{2} = \\frac{99}{22}$, $\\frac{4}{11} = \\frac{8}{22}$\n$\\frac{9}{2} > \\frac{4}{11}$",
-    "difficulty": 1,
-    "id": 5727
   },
   {
     "topic_id": "ratio_rate",
@@ -155844,33 +153117,6 @@
     "id": 5772
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 11 now. How old 10 years ago?",
-    "question_en": "is 11 now. How old 10 years ago?",
-    "options_zh": [
-      "2",
-      "1",
-      "21",
-      "110"
-    ],
-    "options_en": [
-      "2",
-      "1",
-      "21",
-      "110"
-    ],
-    "answer": 1,
-    "explanation_zh": "$11 - 10 = 1$ years old",
-    "explanation_en": "$11 - 10 = 1$ years old",
-    "difficulty": 3,
-    "id": 5773
-  },
-  {
     "topic_id": "statistics",
     "topic_zh": "統計圖表",
     "topic_en": "Statistics",
@@ -156058,33 +153304,6 @@
     "explanation_en": "Original $= \\$804$, discount $= 21\\%$\n$\\text{Discount} = 804 \\times \\frac{21}{100} = 168.84$\n$\\text{Sale price} = 804 - 168.84 = \\$635.1600000000001$",
     "difficulty": 2,
     "id": 5780
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 3/8 和 5/11 的大小",
-    "question_en": "Compare 3/8 and 5/11",
-    "options_zh": [
-      "無法比較",
-      "0",
-      "3/8 = 5/11",
-      "3/8 > 5/11"
-    ],
-    "options_en": [
-      "",
-      "0",
-      "3/8 = 5/11",
-      "3/8 > 5/11"
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\frac{3}{8} = \\frac{33}{88}$, $\\frac{5}{11} = \\frac{40}{88}$\n$\\frac{3}{8} < \\frac{5}{11}$",
-    "explanation_en": "$\\frac{3}{8} = \\frac{33}{88}$, $\\frac{5}{11} = \\frac{40}{88}$\n$\\frac{3}{8} < \\frac{5}{11}$",
-    "difficulty": 1,
-    "id": 5781
   },
   {
     "topic_id": "ratio_rate",
@@ -157653,33 +154872,6 @@
     "id": 5839
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 8/12 和 10/8 的大小",
-    "question_en": "Compare 8/12 and 10/8",
-    "options_zh": [
-      "8/12 = 10/8",
-      "8/12 > 10/8",
-      "無法比較",
-      "0"
-    ],
-    "options_en": [
-      "8/12 = 10/8",
-      "8/12 > 10/8",
-      "",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\frac{8}{12} = \\frac{64}{96}$, $\\frac{10}{8} = \\frac{120}{96}$\n$\\frac{8}{12} < \\frac{10}{8}$",
-    "explanation_en": "$\\frac{8}{12} = \\frac{64}{96}$, $\\frac{10}{8} = \\frac{120}{96}$\n$\\frac{8}{12} < \\frac{10}{8}$",
-    "difficulty": 1,
-    "id": 5840
-  },
-  {
     "topic_id": "basic_geometry",
     "topic_zh": "基本幾何",
     "topic_en": "Basic Geometry",
@@ -158380,33 +155572,6 @@
     "explanation_en": "Expand using distributive property.\n2(5x - 9)\nMultiply outside term by each inside term.\nAnswer = 10x - 18",
     "difficulty": 3,
     "id": 5866
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 7 now. How old 5 years ago?",
-    "question_en": "is 7 now. How old 5 years ago?",
-    "options_zh": [
-      "2",
-      "3",
-      "12",
-      "35"
-    ],
-    "options_en": [
-      "2",
-      "3",
-      "12",
-      "35"
-    ],
-    "answer": 0,
-    "explanation_zh": "$7 - 5 = 2$ years old",
-    "explanation_en": "$7 - 5 = 2$ years old",
-    "difficulty": 3,
-    "id": 5867
   },
   {
     "topic_id": "percentages",
@@ -159730,33 +156895,6 @@
     "explanation_en": "$M = \\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right)$\n$M = \\left(\\frac{9 + 6}{2}, \\frac{0 + 1}{2}\\right)$\n$M = (7.5, 0.5)$",
     "difficulty": 3,
     "id": 5916
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 11 now. How old 3 years ago?",
-    "question_en": "is 11 now. How old 3 years ago?",
-    "options_zh": [
-      "14",
-      "9",
-      "8",
-      "33"
-    ],
-    "options_en": [
-      "14",
-      "9",
-      "8",
-      "33"
-    ],
-    "answer": 2,
-    "explanation_zh": "$11 - 3 = 8$ years old",
-    "explanation_en": "$11 - 3 = 8$ years old",
-    "difficulty": 1,
-    "id": 5917
   },
   {
     "topic_id": "basic_geometry",
@@ -161109,33 +158247,6 @@
     "id": 5967
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 8/4 和 4/6 的大小",
-    "question_en": "Compare 8/4 and 4/6",
-    "options_zh": [
-      "8/4 = 4/6",
-      "無法比較",
-      "0",
-      "8/4 < 4/6"
-    ],
-    "options_en": [
-      "8/4 = 4/6",
-      "",
-      "0",
-      "8/4 < 4/6"
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\frac{8}{4} = \\frac{48}{24}$, $\\frac{4}{6} = \\frac{16}{24}$\n$\\frac{8}{4} > \\frac{4}{6}$",
-    "explanation_en": "$\\frac{8}{4} = \\frac{48}{24}$, $\\frac{4}{6} = \\frac{16}{24}$\n$\\frac{8}{4} > \\frac{4}{6}$",
-    "difficulty": 1,
-    "id": 5968
-  },
-  {
     "topic_id": "statistics",
     "topic_zh": "統計圖表",
     "topic_en": "Statistics",
@@ -162403,33 +159514,6 @@
     "explanation_en": "$8x + 11 < 19$\n$8x < 8$\n$x < \\frac{8}{8} = 1$",
     "difficulty": 1,
     "id": 6015
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 13 now. How old 4 years ago?",
-    "question_en": "is 13 now. How old 4 years ago?",
-    "options_zh": [
-      "10",
-      "52",
-      "17",
-      "9"
-    ],
-    "options_en": [
-      "10",
-      "52",
-      "17",
-      "9"
-    ],
-    "answer": 3,
-    "explanation_zh": "$13 - 4 = 9$ years old",
-    "explanation_en": "$13 - 4 = 9$ years old",
-    "difficulty": 2,
-    "id": 6016
   },
   {
     "topic_id": "area_volume",
@@ -165375,33 +162459,6 @@
     "id": 6125
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 6 now. How old 3 years ago?",
-    "question_en": "is 6 now. How old 3 years ago?",
-    "options_zh": [
-      "4",
-      "3",
-      "18",
-      "9"
-    ],
-    "options_en": [
-      "4",
-      "3",
-      "18",
-      "9"
-    ],
-    "answer": 1,
-    "explanation_zh": "$6 - 3 = 3$ years old",
-    "explanation_en": "$6 - 3 = 3$ years old",
-    "difficulty": 1,
-    "id": 6126
-  },
-  {
     "topic_id": "ratio_rate",
     "topic_zh": "比與比率",
     "topic_en": "Ratio & Rate",
@@ -165616,33 +162673,6 @@
     "explanation_en": "Vertical angles are equal.\nAnswer = 49°",
     "difficulty": 1,
     "id": 6134
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 13 now. How old 2 years ago?",
-    "question_en": "is 13 now. How old 2 years ago?",
-    "options_zh": [
-      "12",
-      "11",
-      "15",
-      "26"
-    ],
-    "options_en": [
-      "12",
-      "11",
-      "15",
-      "26"
-    ],
-    "answer": 1,
-    "explanation_zh": "$13 - 2 = 11$ years old",
-    "explanation_en": "$13 - 2 = 11$ years old",
-    "difficulty": 1,
-    "id": 6135
   },
   {
     "topic_id": "area_volume",
@@ -165942,33 +162972,6 @@
     "id": 6146
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 12 now. How old 1 years ago?",
-    "question_en": "is 12 now. How old 1 years ago?",
-    "options_zh": [
-      "12",
-      "11",
-      "13",
-      "12 (alt)"
-    ],
-    "options_en": [
-      "12",
-      "11",
-      "13",
-      "12 (alt)"
-    ],
-    "answer": 1,
-    "explanation_zh": "$12 - 1 = 11$ years old",
-    "explanation_en": "$12 - 1 = 11$ years old",
-    "difficulty": 3,
-    "id": 6147
-  },
-  {
     "topic_id": "statistics",
     "topic_zh": "統計圖表",
     "topic_en": "Statistics",
@@ -166075,33 +163078,6 @@
     "explanation_en": "$M = \\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right)$\n$M = \\left(\\frac{-2 + 10}{2}, \\frac{-5 + 8}{2}\\right)$\n$M = (4, 1.5)$",
     "difficulty": 1,
     "id": 6151
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 6 now. How old 1 years ago?",
-    "question_en": "is 6 now. How old 1 years ago?",
-    "options_zh": [
-      "5",
-      "6",
-      "6 (alt)",
-      "7"
-    ],
-    "options_en": [
-      "5",
-      "6",
-      "6 (alt)",
-      "7"
-    ],
-    "answer": 0,
-    "explanation_zh": "$6 - 1 = 5$ years old",
-    "explanation_en": "$6 - 1 = 5$ years old",
-    "difficulty": 2,
-    "id": 6152
   },
   {
     "topic_id": "statistics",
@@ -166426,33 +163402,6 @@
     "explanation_en": "Ratio $1:2$, total $= \\$500$\nTotal parts $= 1 + 2 = 3$\nEach part $= \\frac{500}{3} = 166$\nB's share $= 166 \\times 2 = \\$333$",
     "difficulty": 1,
     "id": 6164
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 9  at $38 each, 10% off. Total?",
-    "question_en": "Buy 9  at $38 each, 10% off. Total?",
-    "options_zh": [
-      "307.8",
-      "308.8",
-      "342",
-      "34.2"
-    ],
-    "options_en": [
-      "307.8",
-      "308.8",
-      "342",
-      "34.2"
-    ],
-    "answer": 0,
-    "explanation_zh": "$\\text{Subtotal} = 9 \\times \\$38 = \\$342$\n$\\text{Discount} = \\$342 \\times 10\\% = \\$34.2$\n$\\text{Total} = \\$342 - \\$34.2 = \\$307.8$",
-    "explanation_en": "$\\text{Subtotal} = 9 \\times \\$38 = \\$342$\n$\\text{Discount} = \\$342 \\times 10\\% = \\$34.2$\n$\\text{Total} = \\$342 - \\$34.2 = \\$307.8$",
-    "difficulty": 3,
-    "id": 6165
   },
   {
     "topic_id": "area_volume",
@@ -166966,33 +163915,6 @@
     "explanation_en": "Co-interior angles: sum $= 180°$\n$180° - 85° = 95°$",
     "difficulty": 1,
     "id": 6184
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 8/9 和 7/9 的大小",
-    "question_en": "Compare 8/9 and 7/9",
-    "options_zh": [
-      "無法比較",
-      "0",
-      "8/9 = 7/9",
-      "8/9 < 7/9"
-    ],
-    "options_en": [
-      "",
-      "0",
-      "8/9 = 7/9",
-      "8/9 < 7/9"
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\frac{8}{9} = \\frac{72}{81}$, $\\frac{7}{9} = \\frac{63}{81}$\n$\\frac{8}{9} > \\frac{7}{9}$",
-    "explanation_en": "$\\frac{8}{9} = \\frac{72}{81}$, $\\frac{7}{9} = \\frac{63}{81}$\n$\\frac{8}{9} > \\frac{7}{9}$",
-    "difficulty": 1,
-    "id": 6185
   },
   {
     "topic_id": "sequences",
@@ -168426,33 +165348,6 @@
     "id": 6238
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 2/9 和 8/2 的大小",
-    "question_en": "Compare 2/9 and 8/2",
-    "options_zh": [
-      "無法比較",
-      "2/9 = 8/2",
-      "2/9 > 8/2",
-      "0"
-    ],
-    "options_en": [
-      "",
-      "2/9 = 8/2",
-      "2/9 > 8/2",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\frac{2}{9} = \\frac{4}{18}$, $\\frac{8}{2} = \\frac{72}{18}$\n$\\frac{2}{9} < \\frac{8}{2}$",
-    "explanation_en": "$\\frac{2}{9} = \\frac{4}{18}$, $\\frac{8}{2} = \\frac{72}{18}$\n$\\frac{2}{9} < \\frac{8}{2}$",
-    "difficulty": 2,
-    "id": 6239
-  },
-  {
     "topic_id": "sequences",
     "topic_zh": "規律與數列",
     "topic_en": "Sequences",
@@ -168910,33 +165805,6 @@
     "explanation_en": "First terms: 4, 6, 8, 10\nCommon difference $d = 6 - 4 = 2$\n$a_n = a_1 + (n-1)d$\n$a_{9} = 4 + (9-1) \\times 2 = 4 + 16 = 20$",
     "difficulty": 1,
     "id": 6256
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 10 now. How old in 17 years?",
-    "question_en": "is 10 now. How old in 17 years?",
-    "options_zh": [
-      "28",
-      "27",
-      "-7",
-      "170"
-    ],
-    "options_en": [
-      "28",
-      "27",
-      "-7",
-      "170"
-    ],
-    "answer": 1,
-    "explanation_zh": "$10 + 17 = 27$ years old",
-    "explanation_en": "$10 + 17 = 27$ years old",
-    "difficulty": 1,
-    "id": 6257
   },
   {
     "topic_id": "directed_number",
@@ -172341,33 +169209,6 @@
     "id": 6383
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 11 now. How old 9 years ago?",
-    "question_en": "is 11 now. How old 9 years ago?",
-    "options_zh": [
-      "3",
-      "20",
-      "99",
-      "2"
-    ],
-    "options_en": [
-      "3",
-      "20",
-      "99",
-      "2"
-    ],
-    "answer": 3,
-    "explanation_zh": "$11 - 9 = 2$ years old",
-    "explanation_en": "$11 - 9 = 2$ years old",
-    "difficulty": 2,
-    "id": 6384
-  },
-  {
     "topic_id": "basic_geometry",
     "topic_zh": "基本幾何",
     "topic_en": "Basic Geometry",
@@ -172582,33 +169423,6 @@
     "explanation_en": "$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$\n$d = \\sqrt{(6 - -1)^2 + (5 - 5)^2}$\n$d = \\sqrt{7^2 + 0^2} = \\sqrt{49 + 0} = \\sqrt{49}$\n$d = 7$",
     "difficulty": 2,
     "id": 6392
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 7/6 和 8/7 的大小",
-    "question_en": "Compare 7/6 and 8/7",
-    "options_zh": [
-      "7/6 = 8/7",
-      "7/6 < 8/7",
-      "無法比較",
-      "0"
-    ],
-    "options_en": [
-      "7/6 = 8/7",
-      "7/6 < 8/7",
-      "",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\frac{7}{6} = \\frac{49}{42}$, $\\frac{8}{7} = \\frac{48}{42}$\n$\\frac{7}{6} > \\frac{8}{7}$",
-    "explanation_en": "$\\frac{7}{6} = \\frac{49}{42}$, $\\frac{8}{7} = \\frac{48}{42}$\n$\\frac{7}{6} > \\frac{8}{7}$",
-    "difficulty": 3,
-    "id": 6393
   },
   {
     "topic_id": "mixed",
@@ -176067,33 +172881,6 @@
     "id": 6521
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 6 now. How old 4 years ago?",
-    "question_en": "is 6 now. How old 4 years ago?",
-    "options_zh": [
-      "10",
-      "3",
-      "2",
-      "24"
-    ],
-    "options_en": [
-      "10",
-      "3",
-      "2",
-      "24"
-    ],
-    "answer": 2,
-    "explanation_zh": "$6 - 4 = 2$ years old",
-    "explanation_en": "$6 - 4 = 2$ years old",
-    "difficulty": 2,
-    "id": 6522
-  },
-  {
     "topic_id": "area_volume",
     "topic_zh": "面積與體積",
     "topic_en": "Area & Volume",
@@ -176119,33 +172906,6 @@
     "explanation_en": "$A = l \\times w = 20 \\times 23 = 460$ cm²",
     "difficulty": 1,
     "id": 6523
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 1/10 和 3/6 的大小",
-    "question_en": "Compare 1/10 and 3/6",
-    "options_zh": [
-      "0",
-      "1/10 > 3/6",
-      "1/10 = 3/6",
-      "無法比較"
-    ],
-    "options_en": [
-      "0",
-      "1/10 > 3/6",
-      "1/10 = 3/6",
-      ""
-    ],
-    "answer": 0,
-    "explanation_zh": "$\\frac{1}{10} = \\frac{6}{60}$, $\\frac{3}{6} = \\frac{30}{60}$\n$\\frac{1}{10} < \\frac{3}{6}$",
-    "explanation_en": "$\\frac{1}{10} = \\frac{6}{60}$, $\\frac{3}{6} = \\frac{30}{60}$\n$\\frac{1}{10} < \\frac{3}{6}$",
-    "difficulty": 2,
-    "id": 6524
   },
   {
     "topic_id": "basic_geometry",
@@ -178009,33 +174769,6 @@
     "explanation_en": "Corresponding/alternate angles are equal.\nAnswer $= 102°$",
     "difficulty": 1,
     "id": 6593
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 9  at $12 each, 20% off. Total?",
-    "question_en": "Buy 9  at $12 each, 20% off. Total?",
-    "options_zh": [
-      "108",
-      "86.4",
-      "87.4",
-      "21.6"
-    ],
-    "options_en": [
-      "108",
-      "86.4",
-      "87.4",
-      "21.6"
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\text{Subtotal} = 9 \\times \\$12 = \\$108$\n$\\text{Discount} = \\$108 \\times 20\\% = \\$21.6$\n$\\text{Total} = \\$108 - \\$21.6 = \\$86.4$",
-    "explanation_en": "$\\text{Subtotal} = 9 \\times \\$12 = \\$108$\n$\\text{Discount} = \\$108 \\times 20\\% = \\$21.6$\n$\\text{Total} = \\$108 - \\$21.6 = \\$86.4$",
-    "difficulty": 1,
-    "id": 6594
   },
   {
     "topic_id": "area_volume",
@@ -179982,33 +176715,6 @@
     "id": 6666
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 8 now. How old in 3 years?",
-    "question_en": "is 8 now. How old in 3 years?",
-    "options_zh": [
-      "5",
-      "24",
-      "12",
-      "11"
-    ],
-    "options_en": [
-      "5",
-      "24",
-      "12",
-      "11"
-    ],
-    "answer": 3,
-    "explanation_zh": "$8 + 3 = 11$ years old",
-    "explanation_en": "$8 + 3 = 11$ years old",
-    "difficulty": 1,
-    "id": 6667
-  },
-  {
     "topic_id": "statistics",
     "topic_zh": "統計圖表",
     "topic_en": "Statistics",
@@ -180628,33 +177334,6 @@
     "explanation_en": "Sum of angles in a triangle $= 180°$\n$\\angle_3 = 180° - 72° - 41° = 67°$",
     "difficulty": 1,
     "id": 6690
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 15 now. How old in 14 years?",
-    "question_en": "is 15 now. How old in 14 years?",
-    "options_zh": [
-      "1",
-      "210",
-      "30",
-      "29"
-    ],
-    "options_en": [
-      "1",
-      "210",
-      "30",
-      "29"
-    ],
-    "answer": 3,
-    "explanation_zh": "$15 + 14 = 29$ years old",
-    "explanation_en": "$15 + 14 = 29$ years old",
-    "difficulty": 2,
-    "id": 6691
   },
   {
     "topic_id": "basic_algebra",
@@ -181899,33 +178578,6 @@
     "id": 6737
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 9  at $12 each, 15% off. Total?",
-    "question_en": "Buy 9  at $12 each, 15% off. Total?",
-    "options_zh": [
-      "108",
-      "92.8",
-      "91.8",
-      "16.2"
-    ],
-    "options_en": [
-      "108",
-      "92.8",
-      "91.8",
-      "16.2"
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\text{Subtotal} = 9 \\times \\$12 = \\$108$\n$\\text{Discount} = \\$108 \\times 15\\% = \\$16.2$\n$\\text{Total} = \\$108 - \\$16.2 = \\$91.8$",
-    "explanation_en": "$\\text{Subtotal} = 9 \\times \\$12 = \\$108$\n$\\text{Discount} = \\$108 \\times 15\\% = \\$16.2$\n$\\text{Total} = \\$108 - \\$16.2 = \\$91.8$",
-    "difficulty": 1,
-    "id": 6738
-  },
-  {
     "topic_id": "percentages",
     "topic_zh": "百分數",
     "topic_en": "Percentages",
@@ -181951,33 +178603,6 @@
     "explanation_en": "Count = total × percentage\nAnswer = 56.8",
     "difficulty": 1,
     "id": 6739
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 1/2 和 7/10 的大小",
-    "question_en": "Compare 1/2 and 7/10",
-    "options_zh": [
-      "1/2 > 7/10",
-      "無法比較",
-      "0",
-      "1/2 = 7/10"
-    ],
-    "options_en": [
-      "1/2 > 7/10",
-      "",
-      "0",
-      "1/2 = 7/10"
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\frac{1}{2} = \\frac{10}{20}$, $\\frac{7}{10} = \\frac{14}{20}$\n$\\frac{1}{2} < \\frac{7}{10}$",
-    "explanation_en": "$\\frac{1}{2} = \\frac{10}{20}$, $\\frac{7}{10} = \\frac{14}{20}$\n$\\frac{1}{2} < \\frac{7}{10}$",
-    "difficulty": 2,
-    "id": 6740
   },
   {
     "topic_id": "statistics",
@@ -182086,33 +178711,6 @@
     "explanation_en": "Parallelogram area = base × height\n= 20 × 12 = 240 cm²",
     "difficulty": 1,
     "id": 6744
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 13 now. How old 13 years ago?",
-    "question_en": "is 13 now. How old 13 years ago?",
-    "options_zh": [
-      "26",
-      "169",
-      "1",
-      "0"
-    ],
-    "options_en": [
-      "26",
-      "169",
-      "1",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$13 - 13 = 0$ years old",
-    "explanation_en": "$13 - 13 = 0$ years old",
-    "difficulty": 2,
-    "id": 6745
   },
   {
     "topic_id": "sequences",
@@ -182842,33 +179440,6 @@
     "explanation_en": "Complementary angles: sum $= 90°$\n$90° - 137° = -47°$",
     "difficulty": 2,
     "id": 6772
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 8/3 和 10/11 的大小",
-    "question_en": "Compare 8/3 and 10/11",
-    "options_zh": [
-      "0",
-      "無法比較",
-      "8/3 = 10/11",
-      "8/3 < 10/11"
-    ],
-    "options_en": [
-      "0",
-      "",
-      "8/3 = 10/11",
-      "8/3 < 10/11"
-    ],
-    "answer": 0,
-    "explanation_zh": "$\\frac{8}{3} = \\frac{88}{33}$, $\\frac{10}{11} = \\frac{30}{33}$\n$\\frac{8}{3} > \\frac{10}{11}$",
-    "explanation_en": "$\\frac{8}{3} = \\frac{88}{33}$, $\\frac{10}{11} = \\frac{30}{33}$\n$\\frac{8}{3} > \\frac{10}{11}$",
-    "difficulty": 2,
-    "id": 6773
   },
   {
     "topic_id": "basic_algebra",
@@ -183625,33 +180196,6 @@
     "explanation_en": "Solve: 4(x + 6) = 60\nSteps:\n1. Move constants to right side\n2. Combine like terms\n3. Find x\nx = 9",
     "difficulty": 1,
     "id": 6801
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 7 now. How old 5 years ago?",
-    "question_en": "is 7 now. How old 5 years ago?",
-    "options_zh": [
-      "35",
-      "12",
-      "3",
-      "2"
-    ],
-    "options_en": [
-      "35",
-      "12",
-      "3",
-      "2"
-    ],
-    "answer": 3,
-    "explanation_zh": "$7 - 5 = 2$ years old",
-    "explanation_en": "$7 - 5 = 2$ years old",
-    "difficulty": 3,
-    "id": 6802
   },
   {
     "topic_id": "percentages",
@@ -185679,33 +182223,6 @@
     "id": 6877
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 5/11 和 9/5 的大小",
-    "question_en": "Compare 5/11 and 9/5",
-    "options_zh": [
-      "無法比較",
-      "0",
-      "5/11 = 9/5",
-      "5/11 > 9/5"
-    ],
-    "options_en": [
-      "",
-      "0",
-      "5/11 = 9/5",
-      "5/11 > 9/5"
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\frac{5}{11} = \\frac{25}{55}$, $\\frac{9}{5} = \\frac{99}{55}$\n$\\frac{5}{11} < \\frac{9}{5}$",
-    "explanation_en": "$\\frac{5}{11} = \\frac{25}{55}$, $\\frac{9}{5} = \\frac{99}{55}$\n$\\frac{5}{11} < \\frac{9}{5}$",
-    "difficulty": 1,
-    "id": 6878
-  },
-  {
     "topic_id": "basic_geometry",
     "topic_zh": "基本幾何",
     "topic_en": "Basic Geometry",
@@ -186921,33 +183438,6 @@
     "id": 6923
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 10 now. How old 2 years ago?",
-    "question_en": "is 10 now. How old 2 years ago?",
-    "options_zh": [
-      "20",
-      "12",
-      "9",
-      "8"
-    ],
-    "options_en": [
-      "20",
-      "12",
-      "9",
-      "8"
-    ],
-    "answer": 3,
-    "explanation_zh": "$10 - 2 = 8$ years old",
-    "explanation_en": "$10 - 2 = 8$ years old",
-    "difficulty": 2,
-    "id": 6924
-  },
-  {
     "topic_id": "ratio_rate",
     "topic_zh": "比與比率",
     "topic_en": "Ratio & Rate",
@@ -186973,33 +183463,6 @@
     "explanation_en": "$\\text{GCF}(14, 14) = 14$\n$14:14 = 1:1$",
     "difficulty": 1,
     "id": 6925
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 9/6 和 6/9 的大小",
-    "question_en": "Compare 9/6 and 6/9",
-    "options_zh": [
-      "9/6 = 6/9",
-      "0",
-      "無法比較",
-      "9/6 < 6/9"
-    ],
-    "options_en": [
-      "9/6 = 6/9",
-      "0",
-      "",
-      "9/6 < 6/9"
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\frac{9}{6} = \\frac{81}{54}$, $\\frac{6}{9} = \\frac{36}{54}$\n$\\frac{9}{6} > \\frac{6}{9}$",
-    "explanation_en": "$\\frac{9}{6} = \\frac{81}{54}$, $\\frac{6}{9} = \\frac{36}{54}$\n$\\frac{9}{6} > \\frac{6}{9}$",
-    "difficulty": 1,
-    "id": 6926
   },
   {
     "topic_id": "area_volume",
@@ -187702,33 +184165,6 @@
     "explanation_en": "$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$\n$d = \\sqrt{(-11 - -6)^2 + (6 - -6)^2}$\n$d = \\sqrt{-5^2 + 12^2} = \\sqrt{25 + 144} = \\sqrt{169}$\n$d = 13$",
     "difficulty": 3,
     "id": 6952
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 11 now. How old 4 years ago?",
-    "question_en": "is 11 now. How old 4 years ago?",
-    "options_zh": [
-      "44",
-      "7",
-      "8",
-      "15"
-    ],
-    "options_en": [
-      "44",
-      "7",
-      "8",
-      "15"
-    ],
-    "answer": 1,
-    "explanation_zh": "$11 - 4 = 7$ years old",
-    "explanation_en": "$11 - 4 = 7$ years old",
-    "difficulty": 2,
-    "id": 6953
   },
   {
     "topic_id": "statistics",
@@ -190377,33 +186813,6 @@
     "id": 7051
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 11 now. How old in 18 years?",
-    "question_en": "is 11 now. How old in 18 years?",
-    "options_zh": [
-      "198",
-      "-7",
-      "30",
-      "29"
-    ],
-    "options_en": [
-      "198",
-      "-7",
-      "30",
-      "29"
-    ],
-    "answer": 3,
-    "explanation_zh": "$11 + 18 = 29$ years old",
-    "explanation_en": "$11 + 18 = 29$ years old",
-    "difficulty": 2,
-    "id": 7052
-  },
-  {
     "topic_id": "ratio_rate",
     "topic_zh": "比與比率",
     "topic_en": "Ratio & Rate",
@@ -191374,33 +187783,6 @@
     "explanation_en": "Corresponding/alternate angles are equal.\nAnswer $= 91°$",
     "difficulty": 1,
     "id": 7088
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 6  at $5 each, 30% off. Total?",
-    "question_en": "Buy 6  at $5 each, 30% off. Total?",
-    "options_zh": [
-      "30",
-      "9.0",
-      "21.0",
-      "22.0"
-    ],
-    "options_en": [
-      "30",
-      "9.0",
-      "21.0",
-      "22.0"
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\text{Subtotal} = 6 \\times \\$5 = \\$30$\n$\\text{Discount} = \\$30 \\times 30\\% = \\$9.0$\n$\\text{Total} = \\$30 - \\$9.0 = \\$21.0$",
-    "explanation_en": "$\\text{Subtotal} = 6 \\times \\$5 = \\$30$\n$\\text{Discount} = \\$30 \\times 30\\% = \\$9.0$\n$\\text{Total} = \\$30 - \\$9.0 = \\$21.0$",
-    "difficulty": 2,
-    "id": 7089
   },
   {
     "topic_id": "statistics",
@@ -194589,33 +190971,6 @@
     "id": 7207
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 14 now. How old 8 years ago?",
-    "question_en": "is 14 now. How old 8 years ago?",
-    "options_zh": [
-      "22",
-      "112",
-      "6",
-      "7"
-    ],
-    "options_en": [
-      "22",
-      "112",
-      "6",
-      "7"
-    ],
-    "answer": 2,
-    "explanation_zh": "$14 - 8 = 6$ years old",
-    "explanation_en": "$14 - 8 = 6$ years old",
-    "difficulty": 1,
-    "id": 7208
-  },
-  {
     "topic_id": "ratio_rate",
     "topic_zh": "比與比率",
     "topic_en": "Ratio & Rate",
@@ -194830,33 +191185,6 @@
     "explanation_en": "Sum of angles in a triangle $= 180°$\n$\\angle_3 = 180° - 66° - 69° = 45°$",
     "difficulty": 2,
     "id": 7216
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 6/4 和 2/3 的大小",
-    "question_en": "Compare 6/4 and 2/3",
-    "options_zh": [
-      "6/4 = 2/3",
-      "0",
-      "6/4 < 2/3",
-      "無法比較"
-    ],
-    "options_en": [
-      "6/4 = 2/3",
-      "0",
-      "6/4 < 2/3",
-      ""
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\frac{6}{4} = \\frac{18}{12}$, $\\frac{2}{3} = \\frac{8}{12}$\n$\\frac{6}{4} > \\frac{2}{3}$",
-    "explanation_en": "$\\frac{6}{4} = \\frac{18}{12}$, $\\frac{2}{3} = \\frac{8}{12}$\n$\\frac{6}{4} > \\frac{2}{3}$",
-    "difficulty": 2,
-    "id": 7217
   },
   {
     "topic_id": "mixed",
@@ -196776,33 +193104,6 @@
     "id": 7288
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 9  at $5 each, 10% off. Total?",
-    "question_en": "Buy 9  at $5 each, 10% off. Total?",
-    "options_zh": [
-      "40.5",
-      "4.5",
-      "41.5",
-      "45"
-    ],
-    "options_en": [
-      "40.5",
-      "4.5",
-      "41.5",
-      "45"
-    ],
-    "answer": 0,
-    "explanation_zh": "$\\text{Subtotal} = 9 \\times \\$5 = \\$45$\n$\\text{Discount} = \\$45 \\times 10\\% = \\$4.5$\n$\\text{Total} = \\$45 - \\$4.5 = \\$40.5$",
-    "explanation_en": "$\\text{Subtotal} = 9 \\times \\$5 = \\$45$\n$\\text{Discount} = \\$45 \\times 10\\% = \\$4.5$\n$\\text{Total} = \\$45 - \\$4.5 = \\$40.5$",
-    "difficulty": 2,
-    "id": 7289
-  },
-  {
     "topic_id": "basic_geometry",
     "topic_zh": "基本幾何",
     "topic_en": "Basic Geometry",
@@ -197503,33 +193804,6 @@
     "explanation_en": "$A = \\pi r^2 = 3.14 \\times 4^2 = 3.14 \\times 16 = 50.24$ cm²",
     "difficulty": 2,
     "id": 7315
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 5  at $5 each, 10% off. Total?",
-    "question_en": "Buy 5  at $5 each, 10% off. Total?",
-    "options_zh": [
-      "25",
-      "2.5",
-      "22.5",
-      "23.5"
-    ],
-    "options_en": [
-      "25",
-      "2.5",
-      "22.5",
-      "23.5"
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\text{Subtotal} = 5 \\times \\$5 = \\$25$\n$\\text{Discount} = \\$25 \\times 10\\% = \\$2.5$\n$\\text{Total} = \\$25 - \\$2.5 = \\$22.5$",
-    "explanation_en": "$\\text{Subtotal} = 5 \\times \\$5 = \\$25$\n$\\text{Discount} = \\$25 \\times 10\\% = \\$2.5$\n$\\text{Total} = \\$25 - \\$2.5 = \\$22.5$",
-    "difficulty": 2,
-    "id": 7316
   },
   {
     "topic_id": "ratio_rate",
@@ -200691,33 +196965,6 @@
     "id": 7433
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 8 now. How old 5 years ago?",
-    "question_en": "is 8 now. How old 5 years ago?",
-    "options_zh": [
-      "40",
-      "4",
-      "13",
-      "3"
-    ],
-    "options_en": [
-      "40",
-      "4",
-      "13",
-      "3"
-    ],
-    "answer": 3,
-    "explanation_zh": "$8 - 5 = 3$ years old",
-    "explanation_en": "$8 - 5 = 3$ years old",
-    "difficulty": 2,
-    "id": 7434
-  },
-  {
     "topic_id": "area_volume",
     "topic_zh": "面積與體積",
     "topic_en": "Area & Volume",
@@ -201121,33 +197368,6 @@
     "explanation_en": "$d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$\n$d = \\sqrt{(-3 - 5)^2 + (7 - -8)^2}$\n$d = \\sqrt{-8^2 + 15^2} = \\sqrt{64 + 225} = \\sqrt{289}$\n$d = 17$",
     "difficulty": 3,
     "id": 7449
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 10  at $8 each, 15% off. Total?",
-    "question_en": "Buy 10  at $8 each, 15% off. Total?",
-    "options_zh": [
-      "69.0",
-      "80",
-      "68.0",
-      "12.0"
-    ],
-    "options_en": [
-      "69.0",
-      "80",
-      "68.0",
-      "12.0"
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\text{Subtotal} = 10 \\times \\$8 = \\$80$\n$\\text{Discount} = \\$80 \\times 15\\% = \\$12.0$\n$\\text{Total} = \\$80 - \\$12.0 = \\$68.0$",
-    "explanation_en": "$\\text{Subtotal} = 10 \\times \\$8 = \\$80$\n$\\text{Discount} = \\$80 \\times 15\\% = \\$12.0$\n$\\text{Total} = \\$80 - \\$12.0 = \\$68.0$",
-    "difficulty": 2,
-    "id": 7450
   },
   {
     "topic_id": "coordinates",
@@ -201717,33 +197937,6 @@
     "id": 7471
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 5  at $12 each, 25% off. Total?",
-    "question_en": "Buy 5  at $12 each, 25% off. Total?",
-    "options_zh": [
-      "60",
-      "15.0",
-      "45.0",
-      "46.0"
-    ],
-    "options_en": [
-      "60",
-      "15.0",
-      "45.0",
-      "46.0"
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\text{Subtotal} = 5 \\times \\$12 = \\$60$\n$\\text{Discount} = \\$60 \\times 25\\% = \\$15.0$\n$\\text{Total} = \\$60 - \\$15.0 = \\$45.0$",
-    "explanation_en": "$\\text{Subtotal} = 5 \\times \\$12 = \\$60$\n$\\text{Discount} = \\$60 \\times 25\\% = \\$15.0$\n$\\text{Total} = \\$60 - \\$15.0 = \\$45.0$",
-    "difficulty": 3,
-    "id": 7472
-  },
-  {
     "topic_id": "statistics",
     "topic_zh": "統計圖表",
     "topic_en": "Statistics",
@@ -202093,33 +198286,6 @@
     "explanation_en": "Solve: 3(x + 3) = 33\nSteps:\n1. Move constants to right side\n2. Combine like terms\n3. Find x\nx = 8",
     "difficulty": 2,
     "id": 7485
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 14 now. How old in 1 years?",
-    "question_en": "is 14 now. How old in 1 years?",
-    "options_zh": [
-      "13",
-      "14",
-      "16",
-      "15"
-    ],
-    "options_en": [
-      "13",
-      "14",
-      "16",
-      "15"
-    ],
-    "answer": 3,
-    "explanation_zh": "$14 + 1 = 15$ years old",
-    "explanation_en": "$14 + 1 = 15$ years old",
-    "difficulty": 1,
-    "id": 7486
   },
   {
     "topic_id": "coordinates",
@@ -203229,33 +199395,6 @@
     "id": 7527
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 6/9 和 1/12 的大小",
-    "question_en": "Compare 6/9 and 1/12",
-    "options_zh": [
-      "無法比較",
-      "0",
-      "6/9 = 1/12",
-      "6/9 < 1/12"
-    ],
-    "options_en": [
-      "",
-      "0",
-      "6/9 = 1/12",
-      "6/9 < 1/12"
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\frac{6}{9} = \\frac{72}{108}$, $\\frac{1}{12} = \\frac{9}{108}$\n$\\frac{6}{9} > \\frac{1}{12}$",
-    "explanation_en": "$\\frac{6}{9} = \\frac{72}{108}$, $\\frac{1}{12} = \\frac{9}{108}$\n$\\frac{6}{9} > \\frac{1}{12}$",
-    "difficulty": 2,
-    "id": 7528
-  },
-  {
     "topic_id": "basic_algebra",
     "topic_zh": "基本代數",
     "topic_en": "Basic Algebra",
@@ -203931,33 +200070,6 @@
     "id": 7553
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 13 now. How old 4 years ago?",
-    "question_en": "is 13 now. How old 4 years ago?",
-    "options_zh": [
-      "52",
-      "9",
-      "17",
-      "10"
-    ],
-    "options_en": [
-      "52",
-      "9",
-      "17",
-      "10"
-    ],
-    "answer": 1,
-    "explanation_zh": "$13 - 4 = 9$ years old",
-    "explanation_en": "$13 - 4 = 9$ years old",
-    "difficulty": 2,
-    "id": 7554
-  },
-  {
     "topic_id": "ratio_rate",
     "topic_zh": "比與比率",
     "topic_en": "Ratio & Rate",
@@ -204388,33 +200500,6 @@
     "explanation_en": "Triangular prism volume = triangle area × length\n= (8×5÷2) × 11 = 220.0 cm³",
     "difficulty": 3,
     "id": 7570
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 12 now. How old 4 years ago?",
-    "question_en": "is 12 now. How old 4 years ago?",
-    "options_zh": [
-      "16",
-      "9",
-      "8",
-      "48"
-    ],
-    "options_en": [
-      "16",
-      "9",
-      "8",
-      "48"
-    ],
-    "answer": 2,
-    "explanation_zh": "$12 - 4 = 8$ years old",
-    "explanation_en": "$12 - 4 = 8$ years old",
-    "difficulty": 3,
-    "id": 7571
   },
   {
     "topic_id": "ratio_rate",
@@ -205578,33 +201663,6 @@
     "id": 7614
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 4  at $8 each, 25% off. Total?",
-    "question_en": "Buy 4  at $8 each, 25% off. Total?",
-    "options_zh": [
-      "8.0",
-      "24.0",
-      "25.0",
-      "32"
-    ],
-    "options_en": [
-      "8.0",
-      "24.0",
-      "25.0",
-      "32"
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\text{Subtotal} = 4 \\times \\$8 = \\$32$\n$\\text{Discount} = \\$32 \\times 25\\% = \\$8.0$\n$\\text{Total} = \\$32 - \\$8.0 = \\$24.0$",
-    "explanation_en": "$\\text{Subtotal} = 4 \\times \\$8 = \\$32$\n$\\text{Discount} = \\$32 \\times 25\\% = \\$8.0$\n$\\text{Total} = \\$32 - \\$8.0 = \\$24.0$",
-    "difficulty": 3,
-    "id": 7615
-  },
-  {
     "topic_id": "basic_algebra",
     "topic_zh": "基本代數",
     "topic_en": "Basic Algebra",
@@ -206199,33 +202257,6 @@
     "id": 7637
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 4  at $15 each, 30% off. Total?",
-    "question_en": "Buy 4  at $15 each, 30% off. Total?",
-    "options_zh": [
-      "60",
-      "42.0",
-      "43.0",
-      "18.0"
-    ],
-    "options_en": [
-      "60",
-      "42.0",
-      "43.0",
-      "18.0"
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\text{Subtotal} = 4 \\times \\$15 = \\$60$\n$\\text{Discount} = \\$60 \\times 30\\% = \\$18.0$\n$\\text{Total} = \\$60 - \\$18.0 = \\$42.0$",
-    "explanation_en": "$\\text{Subtotal} = 4 \\times \\$15 = \\$60$\n$\\text{Discount} = \\$60 \\times 30\\% = \\$18.0$\n$\\text{Total} = \\$60 - \\$18.0 = \\$42.0$",
-    "difficulty": 1,
-    "id": 7638
-  },
-  {
     "topic_id": "basic_algebra",
     "topic_zh": "基本代數",
     "topic_en": "Basic Algebra",
@@ -206737,33 +202768,6 @@
     "explanation_en": "$V = l \\times w \\times h$\n$V = 6 \\times 10 \\times 9 = 540$ cm³",
     "difficulty": 1,
     "id": 7657
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 7 now. How old 3 years ago?",
-    "question_en": "is 7 now. How old 3 years ago?",
-    "options_zh": [
-      "21",
-      "10",
-      "5",
-      "4"
-    ],
-    "options_en": [
-      "21",
-      "10",
-      "5",
-      "4"
-    ],
-    "answer": 3,
-    "explanation_zh": "$7 - 3 = 4$ years old",
-    "explanation_en": "$7 - 3 = 4$ years old",
-    "difficulty": 3,
-    "id": 7658
   },
   {
     "topic_id": "directed_number",
@@ -210006,33 +206010,6 @@
     "id": 7778
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 7 now. How old in 9 years?",
-    "question_en": "is 7 now. How old in 9 years?",
-    "options_zh": [
-      "-2",
-      "16",
-      "17",
-      "63"
-    ],
-    "options_en": [
-      "-2",
-      "16",
-      "17",
-      "63"
-    ],
-    "answer": 1,
-    "explanation_zh": "$7 + 9 = 16$ years old",
-    "explanation_en": "$7 + 9 = 16$ years old",
-    "difficulty": 2,
-    "id": 7779
-  },
-  {
     "topic_id": "ratio_rate",
     "topic_zh": "比與比率",
     "topic_en": "Ratio & Rate",
@@ -211545,33 +207522,6 @@
     "id": 7835
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 4/11 和 4/5 的大小",
-    "question_en": "Compare 4/11 and 4/5",
-    "options_zh": [
-      "4/11 = 4/5",
-      "4/11 > 4/5",
-      "0",
-      "無法比較"
-    ],
-    "options_en": [
-      "4/11 = 4/5",
-      "4/11 > 4/5",
-      "0",
-      ""
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\frac{4}{11} = \\frac{20}{55}$, $\\frac{4}{5} = \\frac{44}{55}$\n$\\frac{4}{11} < \\frac{4}{5}$",
-    "explanation_en": "$\\frac{4}{11} = \\frac{20}{55}$, $\\frac{4}{5} = \\frac{44}{55}$\n$\\frac{4}{11} < \\frac{4}{5}$",
-    "difficulty": 1,
-    "id": 7836
-  },
-  {
     "topic_id": "ratio_rate",
     "topic_zh": "比與比率",
     "topic_en": "Ratio & Rate",
@@ -212191,33 +208141,6 @@
     "explanation_en": "$M = \\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right)$\n$M = \\left(\\frac{14 + 4}{2}, \\frac{3 + 5}{2}\\right)$\n$M = (9, 4)$",
     "difficulty": 2,
     "id": 7859
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 11 now. How old 5 years ago?",
-    "question_en": "is 11 now. How old 5 years ago?",
-    "options_zh": [
-      "55",
-      "6",
-      "7",
-      "16"
-    ],
-    "options_en": [
-      "55",
-      "6",
-      "7",
-      "16"
-    ],
-    "answer": 1,
-    "explanation_zh": "$11 - 5 = 6$ years old",
-    "explanation_en": "$11 - 5 = 6$ years old",
-    "difficulty": 3,
-    "id": 7860
   },
   {
     "topic_id": "statistics",
@@ -215487,33 +211410,6 @@
     "id": 7981
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 14 now. How old 3 years ago?",
-    "question_en": "is 14 now. How old 3 years ago?",
-    "options_zh": [
-      "42",
-      "17",
-      "12",
-      "11"
-    ],
-    "options_en": [
-      "42",
-      "17",
-      "12",
-      "11"
-    ],
-    "answer": 3,
-    "explanation_zh": "$14 - 3 = 11$ years old",
-    "explanation_en": "$14 - 3 = 11$ years old",
-    "difficulty": 3,
-    "id": 7982
-  },
-  {
     "topic_id": "ratio_rate",
     "topic_zh": "比與比率",
     "topic_en": "Ratio & Rate",
@@ -215811,33 +211707,6 @@
     "id": 7993
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 5/8 和 4/11 的大小",
-    "question_en": "Compare 5/8 and 4/11",
-    "options_zh": [
-      "0",
-      "5/8 < 4/11",
-      "5/8 = 4/11",
-      "無法比較"
-    ],
-    "options_en": [
-      "0",
-      "5/8 < 4/11",
-      "5/8 = 4/11",
-      ""
-    ],
-    "answer": 0,
-    "explanation_zh": "$\\frac{5}{8} = \\frac{55}{88}$, $\\frac{4}{11} = \\frac{32}{88}$\n$\\frac{5}{8} > \\frac{4}{11}$",
-    "explanation_en": "$\\frac{5}{8} = \\frac{55}{88}$, $\\frac{4}{11} = \\frac{32}{88}$\n$\\frac{5}{8} > \\frac{4}{11}$",
-    "difficulty": 2,
-    "id": 7994
-  },
-  {
     "topic_id": "percentages",
     "topic_zh": "百分數",
     "topic_en": "Percentages",
@@ -216106,33 +211975,6 @@
     "explanation_en": "First terms: 14, 23, 32, 41\nCommon difference $d = 23 - 14 = 9$\n$a_n = a_1 + (n-1)d$\n$a_{18} = 14 + (18-1) \\times 9 = 14 + 153 = 167$",
     "difficulty": 2,
     "id": 8004
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 15 now. How old in 13 years?",
-    "question_en": "is 15 now. How old in 13 years?",
-    "options_zh": [
-      "28",
-      "195",
-      "29",
-      "2"
-    ],
-    "options_en": [
-      "28",
-      "195",
-      "29",
-      "2"
-    ],
-    "answer": 0,
-    "explanation_zh": "$15 + 13 = 28$ years old",
-    "explanation_en": "$15 + 13 = 28$ years old",
-    "difficulty": 1,
-    "id": 8005
   },
   {
     "topic_id": "basic_geometry",
@@ -216511,33 +212353,6 @@
     "explanation_en": "First terms: 15, 24, 33, 42\nCommon difference $d = 24 - 15 = 9$\n$a_n = a_1 + (n-1)d$\n$a_{12} = 15 + (12-1) \\times 9 = 15 + 99 = 114$",
     "difficulty": 2,
     "id": 8019
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 11 now. How old 9 years ago?",
-    "question_en": "is 11 now. How old 9 years ago?",
-    "options_zh": [
-      "2",
-      "20",
-      "3",
-      "99"
-    ],
-    "options_en": [
-      "2",
-      "20",
-      "3",
-      "99"
-    ],
-    "answer": 0,
-    "explanation_zh": "$11 - 9 = 2$ years old",
-    "explanation_en": "$11 - 9 = 2$ years old",
-    "difficulty": 2,
-    "id": 8020
   },
   {
     "topic_id": "area_volume",
@@ -217078,33 +212893,6 @@
     "explanation_en": "Per person = total ÷ number of workers\nAnswer = 109.33",
     "difficulty": 1,
     "id": 8040
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 2/2 和 3/4 的大小",
-    "question_en": "Compare 2/2 and 3/4",
-    "options_zh": [
-      "無法比較",
-      "0",
-      "2/2 = 3/4",
-      "2/2 < 3/4"
-    ],
-    "options_en": [
-      "",
-      "0",
-      "2/2 = 3/4",
-      "2/2 < 3/4"
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\frac{2}{2} = \\frac{8}{8}$, $\\frac{3}{4} = \\frac{6}{8}$\n$\\frac{2}{2} > \\frac{3}{4}$",
-    "explanation_en": "$\\frac{2}{2} = \\frac{8}{8}$, $\\frac{3}{4} = \\frac{6}{8}$\n$\\frac{2}{2} > \\frac{3}{4}$",
-    "difficulty": 2,
-    "id": 8041
   },
   {
     "topic_id": "basic_geometry",
@@ -217807,33 +213595,6 @@
     "explanation_en": "Substitute the given value and calculate.\nStep by step substitution.\nAnswer = 36",
     "difficulty": 2,
     "id": 8067
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 10 now. How old 3 years ago?",
-    "question_en": "is 10 now. How old 3 years ago?",
-    "options_zh": [
-      "13",
-      "7",
-      "30",
-      "8"
-    ],
-    "options_en": [
-      "13",
-      "7",
-      "30",
-      "8"
-    ],
-    "answer": 1,
-    "explanation_zh": "$10 - 3 = 7$ years old",
-    "explanation_en": "$10 - 3 = 7$ years old",
-    "difficulty": 2,
-    "id": 8068
   },
   {
     "topic_id": "basic_geometry",
@@ -219292,33 +215053,6 @@
     "explanation_en": "Count = total × percentage\nAnswer = 267.84",
     "difficulty": 3,
     "id": 8122
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 10 now. How old 2 years ago?",
-    "question_en": "is 10 now. How old 2 years ago?",
-    "options_zh": [
-      "12",
-      "20",
-      "9",
-      "8"
-    ],
-    "options_en": [
-      "12",
-      "20",
-      "9",
-      "8"
-    ],
-    "answer": 3,
-    "explanation_zh": "$10 - 2 = 8$ years old",
-    "explanation_en": "$10 - 2 = 8$ years old",
-    "difficulty": 2,
-    "id": 8123
   },
   {
     "topic_id": "sequences",
@@ -221778,33 +217512,6 @@
     "id": 8214
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 14 now. How old 10 years ago?",
-    "question_en": "is 14 now. How old 10 years ago?",
-    "options_zh": [
-      "140",
-      "24",
-      "5",
-      "4"
-    ],
-    "options_en": [
-      "140",
-      "24",
-      "5",
-      "4"
-    ],
-    "answer": 3,
-    "explanation_zh": "$14 - 10 = 4$ years old",
-    "explanation_en": "$14 - 10 = 4$ years old",
-    "difficulty": 1,
-    "id": 8215
-  },
-  {
     "topic_id": "basic_algebra",
     "topic_zh": "基本代數",
     "topic_en": "Basic Algebra",
@@ -222532,33 +218239,6 @@
     "explanation_en": "We need to calculate: (-1) × (18)\n BODMAS ：，。\n。\n：(-1) × (18) = -18\n：×=，×=。\nThe answer is -18.",
     "difficulty": 1,
     "id": 8242
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 12 now. How old in 9 years?",
-    "question_en": "is 12 now. How old in 9 years?",
-    "options_zh": [
-      "22",
-      "108",
-      "3",
-      "21"
-    ],
-    "options_en": [
-      "22",
-      "108",
-      "3",
-      "21"
-    ],
-    "answer": 3,
-    "explanation_zh": "$12 + 9 = 21$ years old",
-    "explanation_en": "$12 + 9 = 21$ years old",
-    "difficulty": 1,
-    "id": 8243
   },
   {
     "topic_id": "statistics",
@@ -223857,33 +219537,6 @@
     "id": 8291
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 15 now. How old 2 years ago?",
-    "question_en": "is 15 now. How old 2 years ago?",
-    "options_zh": [
-      "14",
-      "13",
-      "17",
-      "30"
-    ],
-    "options_en": [
-      "14",
-      "13",
-      "17",
-      "30"
-    ],
-    "answer": 1,
-    "explanation_zh": "$15 - 2 = 13$ years old",
-    "explanation_en": "$15 - 2 = 13$ years old",
-    "difficulty": 2,
-    "id": 8292
-  },
-  {
     "topic_id": "sequences",
     "topic_zh": "規律與數列",
     "topic_en": "Sequences",
@@ -224287,33 +219940,6 @@
     "explanation_en": "Original $= \\$1844$, increase $= 6\\%$\n$\\text{Increase} = 1844 \\times \\frac{6}{100} = 110.64$\n$\\text{New price} = 1844 + 110.64 = \\$1954.64$",
     "difficulty": 1,
     "id": 8307
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 6 now. How old 1 years ago?",
-    "question_en": "is 6 now. How old 1 years ago?",
-    "options_zh": [
-      "6",
-      "6 (alt)",
-      "5",
-      "7"
-    ],
-    "options_en": [
-      "6",
-      "6 (alt)",
-      "5",
-      "7"
-    ],
-    "answer": 2,
-    "explanation_zh": "$6 - 1 = 5$ years old",
-    "explanation_en": "$6 - 1 = 5$ years old",
-    "difficulty": 3,
-    "id": 8308
   },
   {
     "topic_id": "coordinates",
@@ -225396,33 +221022,6 @@
     "id": 8348
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 2/8 和 4/2 的大小",
-    "question_en": "Compare 2/8 and 4/2",
-    "options_zh": [
-      "2/8 > 4/2",
-      "2/8 = 4/2",
-      "0",
-      "無法比較"
-    ],
-    "options_en": [
-      "2/8 > 4/2",
-      "2/8 = 4/2",
-      "0",
-      ""
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\frac{2}{8} = \\frac{4}{16}$, $\\frac{4}{2} = \\frac{32}{16}$\n$\\frac{2}{8} < \\frac{4}{2}$",
-    "explanation_en": "$\\frac{2}{8} = \\frac{4}{16}$, $\\frac{4}{2} = \\frac{32}{16}$\n$\\frac{2}{8} < \\frac{4}{2}$",
-    "difficulty": 2,
-    "id": 8349
-  },
-  {
     "topic_id": "percentages",
     "topic_zh": "百分數",
     "topic_en": "Percentages",
@@ -225583,33 +221182,6 @@
     "explanation_en": "Time = Distance ÷ Speed\n= 60 h",
     "difficulty": 1,
     "id": 8355
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 10 now. How old in 9 years?",
-    "question_en": "is 10 now. How old in 9 years?",
-    "options_zh": [
-      "90",
-      "19",
-      "1",
-      "20"
-    ],
-    "options_en": [
-      "90",
-      "19",
-      "1",
-      "20"
-    ],
-    "answer": 1,
-    "explanation_zh": "$10 + 9 = 19$ years old",
-    "explanation_en": "$10 + 9 = 19$ years old",
-    "difficulty": 2,
-    "id": 8356
   },
   {
     "topic_id": "directed_number",
@@ -225853,33 +221425,6 @@
     "explanation_en": "Original $= \\$336$, discount $= 12\\%$\n$\\text{Discount} = 336 \\times \\frac{12}{100} = 40.32$\n$\\text{Sale price} = 336 - 40.32 = \\$295.68$",
     "difficulty": 2,
     "id": 8365
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 9 now. How old 7 years ago?",
-    "question_en": "is 9 now. How old 7 years ago?",
-    "options_zh": [
-      "3",
-      "63",
-      "2",
-      "16"
-    ],
-    "options_en": [
-      "3",
-      "63",
-      "2",
-      "16"
-    ],
-    "answer": 2,
-    "explanation_zh": "$9 - 7 = 2$ years old",
-    "explanation_en": "$9 - 7 = 2$ years old",
-    "difficulty": 1,
-    "id": 8366
   },
   {
     "topic_id": "ratio_rate",
@@ -226690,33 +222235,6 @@
     "explanation_en": "$A = l \\times w = 25 \\times 23 = 575$ cm²",
     "difficulty": 2,
     "id": 8396
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 9 now. How old 2 years ago?",
-    "question_en": "is 9 now. How old 2 years ago?",
-    "options_zh": [
-      "18",
-      "8",
-      "7",
-      "11"
-    ],
-    "options_en": [
-      "18",
-      "8",
-      "7",
-      "11"
-    ],
-    "answer": 2,
-    "explanation_zh": "$9 - 2 = 7$ years old",
-    "explanation_en": "$9 - 2 = 7$ years old",
-    "difficulty": 3,
-    "id": 8397
   },
   {
     "topic_id": "directed_number",
@@ -230148,33 +225666,6 @@
     "id": 8524
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 7 now. How old 3 years ago?",
-    "question_en": "is 7 now. How old 3 years ago?",
-    "options_zh": [
-      "5",
-      "4",
-      "10",
-      "21"
-    ],
-    "options_en": [
-      "5",
-      "4",
-      "10",
-      "21"
-    ],
-    "answer": 1,
-    "explanation_zh": "$7 - 3 = 4$ years old",
-    "explanation_en": "$7 - 3 = 4$ years old",
-    "difficulty": 2,
-    "id": 8525
-  },
-  {
     "topic_id": "basic_algebra",
     "topic_zh": "基本代數",
     "topic_en": "Basic Algebra",
@@ -230335,33 +225826,6 @@
     "explanation_en": "Ratio $4:1$, total $= \\$500$\nTotal parts $= 4 + 1 = 5$\nEach part $= \\frac{500}{5} = 100$\nB's share $= 100 \\times 1 = \\$100$",
     "difficulty": 2,
     "id": 8531
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 7 now. How old 5 years ago?",
-    "question_en": "is 7 now. How old 5 years ago?",
-    "options_zh": [
-      "2",
-      "3",
-      "35",
-      "12"
-    ],
-    "options_en": [
-      "2",
-      "3",
-      "35",
-      "12"
-    ],
-    "answer": 0,
-    "explanation_zh": "$7 - 5 = 2$ years old",
-    "explanation_en": "$7 - 5 = 2$ years old",
-    "difficulty": 3,
-    "id": 8532
   },
   {
     "topic_id": "area_volume",
@@ -234225,33 +229689,6 @@
     "id": 8675
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 9 now. How old 5 years ago?",
-    "question_en": "is 9 now. How old 5 years ago?",
-    "options_zh": [
-      "45",
-      "4",
-      "14",
-      "5"
-    ],
-    "options_en": [
-      "45",
-      "4",
-      "14",
-      "5"
-    ],
-    "answer": 1,
-    "explanation_zh": "$9 - 5 = 4$ years old",
-    "explanation_en": "$9 - 5 = 4$ years old",
-    "difficulty": 2,
-    "id": 8676
-  },
-  {
     "topic_id": "coordinates",
     "topic_zh": "坐標",
     "topic_en": "Coordinates",
@@ -235494,33 +230931,6 @@
     "id": 8722
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 9/3 和 3/5 的大小",
-    "question_en": "Compare 9/3 and 3/5",
-    "options_zh": [
-      "0",
-      "9/3 = 3/5",
-      "無法比較",
-      "9/3 < 3/5"
-    ],
-    "options_en": [
-      "0",
-      "9/3 = 3/5",
-      "",
-      "9/3 < 3/5"
-    ],
-    "answer": 0,
-    "explanation_zh": "$\\frac{9}{3} = \\frac{45}{15}$, $\\frac{3}{5} = \\frac{9}{15}$\n$\\frac{9}{3} > \\frac{3}{5}$",
-    "explanation_en": "$\\frac{9}{3} = \\frac{45}{15}$, $\\frac{3}{5} = \\frac{9}{15}$\n$\\frac{9}{3} > \\frac{3}{5}$",
-    "difficulty": 3,
-    "id": 8723
-  },
-  {
     "topic_id": "mixed",
     "topic_zh": "綜合應用",
     "topic_en": "Mixed Applications",
@@ -236086,33 +231496,6 @@
     "explanation_en": "Ratio $4:1$, total $= \\$300$\nTotal parts $= 4 + 1 = 5$\nEach part $= \\frac{300}{5} = 60$\nA's share $= 60 \\times 4 = \\$240$",
     "difficulty": 3,
     "id": 8744
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 10 now. How old in 2 years?",
-    "question_en": "is 10 now. How old in 2 years?",
-    "options_zh": [
-      "8",
-      "12",
-      "20",
-      "13"
-    ],
-    "options_en": [
-      "8",
-      "12",
-      "20",
-      "13"
-    ],
-    "answer": 1,
-    "explanation_zh": "$10 + 2 = 12$ years old",
-    "explanation_en": "$10 + 2 = 12$ years old",
-    "difficulty": 3,
-    "id": 8745
   },
   {
     "topic_id": "sequences",
@@ -236763,33 +232146,6 @@
     "id": 8769
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 11 now. How old in 12 years?",
-    "question_en": "is 11 now. How old in 12 years?",
-    "options_zh": [
-      "-1",
-      "23",
-      "24",
-      "132"
-    ],
-    "options_en": [
-      "-1",
-      "23",
-      "24",
-      "132"
-    ],
-    "answer": 1,
-    "explanation_zh": "$11 + 12 = 23$ years old",
-    "explanation_en": "$11 + 12 = 23$ years old",
-    "difficulty": 3,
-    "id": 8770
-  },
-  {
     "topic_id": "sequences",
     "topic_zh": "規律與數列",
     "topic_en": "Sequences",
@@ -237141,33 +232497,6 @@
     "id": 8783
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 8/12 和 6/4 的大小",
-    "question_en": "Compare 8/12 and 6/4",
-    "options_zh": [
-      "8/12 > 6/4",
-      "無法比較",
-      "0",
-      "8/12 = 6/4"
-    ],
-    "options_en": [
-      "8/12 > 6/4",
-      "",
-      "0",
-      "8/12 = 6/4"
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\frac{8}{12} = \\frac{32}{48}$, $\\frac{6}{4} = \\frac{72}{48}$\n$\\frac{8}{12} < \\frac{6}{4}$",
-    "explanation_en": "$\\frac{8}{12} = \\frac{32}{48}$, $\\frac{6}{4} = \\frac{72}{48}$\n$\\frac{8}{12} < \\frac{6}{4}$",
-    "difficulty": 1,
-    "id": 8784
-  },
-  {
     "topic_id": "statistics",
     "topic_zh": "統計圖表",
     "topic_en": "Statistics",
@@ -237220,33 +232549,6 @@
     "explanation_en": "$4x + 1 = 25$\n$4x = 25 - 1 = 24$\n$x = \\frac{24}{4} = 6$",
     "difficulty": 1,
     "id": 8786
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 13 now. How old in 12 years?",
-    "question_en": "is 13 now. How old in 12 years?",
-    "options_zh": [
-      "156",
-      "26",
-      "25",
-      "1"
-    ],
-    "options_en": [
-      "156",
-      "26",
-      "25",
-      "1"
-    ],
-    "answer": 2,
-    "explanation_zh": "$13 + 12 = 25$ years old",
-    "explanation_en": "$13 + 12 = 25$ years old",
-    "difficulty": 2,
-    "id": 8787
   },
   {
     "topic_id": "ratio_rate",
@@ -237355,33 +232657,6 @@
     "explanation_en": "Corresponding/alternate angles are equal.\nAnswer $= 158°$",
     "difficulty": 2,
     "id": 8791
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 9 now. How old in 12 years?",
-    "question_en": "is 9 now. How old in 12 years?",
-    "options_zh": [
-      "108",
-      "22",
-      "21",
-      "-3"
-    ],
-    "options_en": [
-      "108",
-      "22",
-      "21",
-      "-3"
-    ],
-    "answer": 2,
-    "explanation_zh": "$9 + 12 = 21$ years old",
-    "explanation_en": "$9 + 12 = 21$ years old",
-    "difficulty": 2,
-    "id": 8792
   },
   {
     "topic_id": "ratio_rate",
@@ -237706,33 +232981,6 @@
     "explanation_en": "First terms: 17, 27, 37, 47\nCommon difference $d = 27 - 17 = 10$\n$a_n = a_1 + (n-1)d$\n$a_{16} = 17 + (16-1) \\times 10 = 17 + 150 = 167$",
     "difficulty": 1,
     "id": 8804
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 5  at $8 each, 10% off. Total?",
-    "question_en": "Buy 5  at $8 each, 10% off. Total?",
-    "options_zh": [
-      "36.0",
-      "40",
-      "4.0",
-      "37.0"
-    ],
-    "options_en": [
-      "36.0",
-      "40",
-      "4.0",
-      "37.0"
-    ],
-    "answer": 0,
-    "explanation_zh": "$\\text{Subtotal} = 5 \\times \\$8 = \\$40$\n$\\text{Discount} = \\$40 \\times 10\\% = \\$4.0$\n$\\text{Total} = \\$40 - \\$4.0 = \\$36.0$",
-    "explanation_en": "$\\text{Subtotal} = 5 \\times \\$8 = \\$40$\n$\\text{Discount} = \\$40 \\times 10\\% = \\$4.0$\n$\\text{Total} = \\$40 - \\$4.0 = \\$36.0$",
-    "difficulty": 3,
-    "id": 8805
   },
   {
     "topic_id": "coordinates",
@@ -240165,33 +235413,6 @@
     "id": 8895
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 7 now. How old in 1 years?",
-    "question_en": "is 7 now. How old in 1 years?",
-    "options_zh": [
-      "6",
-      "7",
-      "8",
-      "9"
-    ],
-    "options_en": [
-      "6",
-      "7",
-      "8",
-      "9"
-    ],
-    "answer": 2,
-    "explanation_zh": "$7 + 1 = 8$ years old",
-    "explanation_en": "$7 + 1 = 8$ years old",
-    "difficulty": 3,
-    "id": 8896
-  },
-  {
     "topic_id": "sequences",
     "topic_zh": "規律與數列",
     "topic_en": "Sequences",
@@ -241162,33 +236383,6 @@
     "explanation_en": "$\\text{GCF}(32, 16) = 16$\n$32:16 = 2:1$",
     "difficulty": 1,
     "id": 8932
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 14 now. How old in 2 years?",
-    "question_en": "is 14 now. How old in 2 years?",
-    "options_zh": [
-      "28",
-      "17",
-      "16",
-      "12"
-    ],
-    "options_en": [
-      "28",
-      "17",
-      "16",
-      "12"
-    ],
-    "answer": 2,
-    "explanation_zh": "$14 + 2 = 16$ years old",
-    "explanation_en": "$14 + 2 = 16$ years old",
-    "difficulty": 2,
-    "id": 8933
   },
   {
     "topic_id": "statistics",
@@ -242703,33 +237897,6 @@
     "id": 8989
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 6/2 和 5/3 的大小",
-    "question_en": "Compare 6/2 and 5/3",
-    "options_zh": [
-      "6/2 < 5/3",
-      "無法比較",
-      "6/2 = 5/3",
-      "0"
-    ],
-    "options_en": [
-      "6/2 < 5/3",
-      "",
-      "6/2 = 5/3",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\frac{6}{2} = \\frac{18}{6}$, $\\frac{5}{3} = \\frac{10}{6}$\n$\\frac{6}{2} > \\frac{5}{3}$",
-    "explanation_en": "$\\frac{6}{2} = \\frac{18}{6}$, $\\frac{5}{3} = \\frac{10}{6}$\n$\\frac{6}{2} > \\frac{5}{3}$",
-    "difficulty": 1,
-    "id": 8990
-  },
-  {
     "topic_id": "coordinates",
     "topic_zh": "坐標",
     "topic_en": "Coordinates",
@@ -243189,33 +238356,6 @@
     "id": 9007
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 6 now. How old in 20 years?",
-    "question_en": "is 6 now. How old in 20 years?",
-    "options_zh": [
-      "120",
-      "27",
-      "-14",
-      "26"
-    ],
-    "options_en": [
-      "120",
-      "27",
-      "-14",
-      "26"
-    ],
-    "answer": 3,
-    "explanation_zh": "$6 + 20 = 26$ years old",
-    "explanation_en": "$6 + 20 = 26$ years old",
-    "difficulty": 3,
-    "id": 9008
-  },
-  {
     "topic_id": "basic_geometry",
     "topic_zh": "基本幾何",
     "topic_en": "Basic Geometry",
@@ -243322,33 +238462,6 @@
     "explanation_en": "Triangular prism volume = triangle area × length\n= (10×3÷2) × 8 = 120.0 cm³",
     "difficulty": 3,
     "id": 9012
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 1/6 和 4/6 的大小",
-    "question_en": "Compare 1/6 and 4/6",
-    "options_zh": [
-      "0",
-      "無法比較",
-      "1/6 > 4/6",
-      "1/6 = 4/6"
-    ],
-    "options_en": [
-      "0",
-      "",
-      "1/6 > 4/6",
-      "1/6 = 4/6"
-    ],
-    "answer": 0,
-    "explanation_zh": "$\\frac{1}{6} = \\frac{6}{36}$, $\\frac{4}{6} = \\frac{24}{36}$\n$\\frac{1}{6} < \\frac{4}{6}$",
-    "explanation_en": "$\\frac{1}{6} = \\frac{6}{36}$, $\\frac{4}{6} = \\frac{24}{36}$\n$\\frac{1}{6} < \\frac{4}{6}$",
-    "difficulty": 2,
-    "id": 9013
   },
   {
     "topic_id": "basic_algebra",
@@ -244728,33 +239841,6 @@
     "id": 9064
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 8 now. How old in 19 years?",
-    "question_en": "is 8 now. How old in 19 years?",
-    "options_zh": [
-      "28",
-      "-11",
-      "27",
-      "152"
-    ],
-    "options_en": [
-      "28",
-      "-11",
-      "27",
-      "152"
-    ],
-    "answer": 2,
-    "explanation_zh": "$8 + 19 = 27$ years old",
-    "explanation_en": "$8 + 19 = 27$ years old",
-    "difficulty": 2,
-    "id": 9065
-  },
-  {
     "topic_id": "percentages",
     "topic_zh": "百分數",
     "topic_en": "Percentages",
@@ -245320,33 +240406,6 @@
     "explanation_en": "Data: 58, 70, 58, 71, 31\n$\\bar{x} = \\frac{58+70+58+71+31}{5}$\n$\\bar{x} = \\frac{288}{5} = 57.6$",
     "difficulty": 2,
     "id": 9086
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 10 now. How old 2 years ago?",
-    "question_en": "is 10 now. How old 2 years ago?",
-    "options_zh": [
-      "9",
-      "8",
-      "20",
-      "12"
-    ],
-    "options_en": [
-      "9",
-      "8",
-      "20",
-      "12"
-    ],
-    "answer": 1,
-    "explanation_zh": "$10 - 2 = 8$ years old",
-    "explanation_en": "$10 - 2 = 8$ years old",
-    "difficulty": 2,
-    "id": 9087
   },
   {
     "topic_id": "percentages",
@@ -246292,33 +241351,6 @@
     "explanation_en": "First terms: 14, 21, 28, 35\nCommon difference $d = 21 - 14 = 7$\n$a_n = a_1 + (n-1)d$\n$a_{11} = 14 + (11-1) \\times 7 = 14 + 70 = 84$",
     "difficulty": 2,
     "id": 9122
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 10 now. How old 8 years ago?",
-    "question_en": "is 10 now. How old 8 years ago?",
-    "options_zh": [
-      "2",
-      "3",
-      "80",
-      "18"
-    ],
-    "options_en": [
-      "2",
-      "3",
-      "80",
-      "18"
-    ],
-    "answer": 0,
-    "explanation_zh": "$10 - 8 = 2$ years old",
-    "explanation_en": "$10 - 8 = 2$ years old",
-    "difficulty": 1,
-    "id": 9123
   },
   {
     "topic_id": "basic_geometry",
@@ -248103,33 +243135,6 @@
     "id": 9189
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 11 now. How old in 1 years?",
-    "question_en": "is 11 now. How old in 1 years?",
-    "options_zh": [
-      "10",
-      "12",
-      "11",
-      "13"
-    ],
-    "options_en": [
-      "10",
-      "12",
-      "11",
-      "13"
-    ],
-    "answer": 1,
-    "explanation_zh": "$11 + 1 = 12$ years old",
-    "explanation_en": "$11 + 1 = 12$ years old",
-    "difficulty": 1,
-    "id": 9190
-  },
-  {
     "topic_id": "percentages",
     "topic_zh": "百分數",
     "topic_en": "Percentages",
@@ -248832,33 +243837,6 @@
     "id": 9216
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 9 now. How old 3 years ago?",
-    "question_en": "is 9 now. How old 3 years ago?",
-    "options_zh": [
-      "12",
-      "27",
-      "7",
-      "6"
-    ],
-    "options_en": [
-      "12",
-      "27",
-      "7",
-      "6"
-    ],
-    "answer": 3,
-    "explanation_zh": "$9 - 3 = 6$ years old",
-    "explanation_en": "$9 - 3 = 6$ years old",
-    "difficulty": 2,
-    "id": 9217
-  },
-  {
     "topic_id": "basic_algebra",
     "topic_zh": "基本代數",
     "topic_en": "Basic Algebra",
@@ -248965,33 +243943,6 @@
     "explanation_en": "Ratio $4:1$, total $= \\$120$\nTotal parts $= 4 + 1 = 5$\nEach part $= \\frac{120}{5} = 24$\nA's share $= 24 \\times 4 = \\$96$",
     "difficulty": 1,
     "id": 9221
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 11 now. How old in 9 years?",
-    "question_en": "is 11 now. How old in 9 years?",
-    "options_zh": [
-      "20",
-      "21",
-      "99",
-      "2"
-    ],
-    "options_en": [
-      "20",
-      "21",
-      "99",
-      "2"
-    ],
-    "answer": 0,
-    "explanation_zh": "$11 + 9 = 20$ years old",
-    "explanation_en": "$11 + 9 = 20$ years old",
-    "difficulty": 1,
-    "id": 9222
   },
   {
     "topic_id": "directed_number",
@@ -249966,33 +244917,6 @@
     "id": 9258
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 10/8 和 2/3 的大小",
-    "question_en": "Compare 10/8 and 2/3",
-    "options_zh": [
-      "10/8 = 2/3",
-      "0",
-      "10/8 < 2/3",
-      "無法比較"
-    ],
-    "options_en": [
-      "10/8 = 2/3",
-      "0",
-      "10/8 < 2/3",
-      ""
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\frac{10}{8} = \\frac{30}{24}$, $\\frac{2}{3} = \\frac{16}{24}$\n$\\frac{10}{8} > \\frac{2}{3}$",
-    "explanation_en": "$\\frac{10}{8} = \\frac{30}{24}$, $\\frac{2}{3} = \\frac{16}{24}$\n$\\frac{10}{8} > \\frac{2}{3}$",
-    "difficulty": 2,
-    "id": 9259
-  },
-  {
     "topic_id": "basic_geometry",
     "topic_zh": "基本幾何",
     "topic_en": "Basic Geometry",
@@ -250857,33 +245781,6 @@
     "id": 9291
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 3/11 和 4/3 的大小",
-    "question_en": "Compare 3/11 and 4/3",
-    "options_zh": [
-      "3/11 = 4/3",
-      "3/11 > 4/3",
-      "無法比較",
-      "0"
-    ],
-    "options_en": [
-      "3/11 = 4/3",
-      "3/11 > 4/3",
-      "",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\frac{3}{11} = \\frac{9}{33}$, $\\frac{4}{3} = \\frac{44}{33}$\n$\\frac{3}{11} < \\frac{4}{3}$",
-    "explanation_en": "$\\frac{3}{11} = \\frac{9}{33}$, $\\frac{4}{3} = \\frac{44}{33}$\n$\\frac{3}{11} < \\frac{4}{3}$",
-    "difficulty": 2,
-    "id": 9292
-  },
-  {
     "topic_id": "statistics",
     "topic_zh": "統計圖表",
     "topic_en": "Statistics",
@@ -250963,33 +245860,6 @@
     "explanation_en": "$A = l \\times w = 17 \\times 17 = 289$ cm²",
     "difficulty": 1,
     "id": 9295
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 13 now. How old in 8 years?",
-    "question_en": "is 13 now. How old in 8 years?",
-    "options_zh": [
-      "104",
-      "21",
-      "5",
-      "22"
-    ],
-    "options_en": [
-      "104",
-      "21",
-      "5",
-      "22"
-    ],
-    "answer": 1,
-    "explanation_zh": "$13 + 8 = 21$ years old",
-    "explanation_en": "$13 + 8 = 21$ years old",
-    "difficulty": 1,
-    "id": 9296
   },
   {
     "topic_id": "coordinates",
@@ -252907,33 +247777,6 @@
     "explanation_en": "Solve: 2(x + 4) = 28\nSteps:\n1. Move constants to right side\n2. Combine like terms\n3. Find x\nx = 10",
     "difficulty": 2,
     "id": 9367
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 7  at $8 each, 15% off. Total?",
-    "question_en": "Buy 7  at $8 each, 15% off. Total?",
-    "options_zh": [
-      "56",
-      "47.6",
-      "48.6",
-      "8.4"
-    ],
-    "options_en": [
-      "56",
-      "47.6",
-      "48.6",
-      "8.4"
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\text{Subtotal} = 7 \\times \\$8 = \\$56$\n$\\text{Discount} = \\$56 \\times 15\\% = \\$8.4$\n$\\text{Total} = \\$56 - \\$8.4 = \\$47.6$",
-    "explanation_en": "$\\text{Subtotal} = 7 \\times \\$8 = \\$56$\n$\\text{Discount} = \\$56 \\times 15\\% = \\$8.4$\n$\\text{Total} = \\$56 - \\$8.4 = \\$47.6$",
-    "difficulty": 3,
-    "id": 9368
   },
   {
     "topic_id": "coordinates",
@@ -255447,33 +250290,6 @@
     "id": 9461
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 3  at $8 each, 15% off. Total?",
-    "question_en": "Buy 3  at $8 each, 15% off. Total?",
-    "options_zh": [
-      "3.6",
-      "24",
-      "21.4",
-      "20.4"
-    ],
-    "options_en": [
-      "3.6",
-      "24",
-      "21.4",
-      "20.4"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\text{Subtotal} = 3 \\times \\$8 = \\$24$\n$\\text{Discount} = \\$24 \\times 15\\% = \\$3.6$\n$\\text{Total} = \\$24 - \\$3.6 = \\$20.4$",
-    "explanation_en": "$\\text{Subtotal} = 3 \\times \\$8 = \\$24$\n$\\text{Discount} = \\$24 \\times 15\\% = \\$3.6$\n$\\text{Total} = \\$24 - \\$3.6 = \\$20.4$",
-    "difficulty": 2,
-    "id": 9462
-  },
-  {
     "topic_id": "statistics",
     "topic_zh": "統計圖表",
     "topic_en": "Statistics",
@@ -256147,33 +250963,6 @@
     "explanation_en": "Ratio $4:5$, total $= \\$600$\nTotal parts $= 4 + 5 = 9$\nEach part $= \\frac{600}{9} = 66$\nB's share $= 66 \\times 5 = \\$333$",
     "difficulty": 1,
     "id": 9487
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 4/10 和 1/3 的大小",
-    "question_en": "Compare 4/10 and 1/3",
-    "options_zh": [
-      "4/10 = 1/3",
-      "0",
-      "4/10 < 1/3",
-      "無法比較"
-    ],
-    "options_en": [
-      "4/10 = 1/3",
-      "0",
-      "4/10 < 1/3",
-      ""
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\frac{4}{10} = \\frac{12}{30}$, $\\frac{1}{3} = \\frac{10}{30}$\n$\\frac{4}{10} > \\frac{1}{3}$",
-    "explanation_en": "$\\frac{4}{10} = \\frac{12}{30}$, $\\frac{1}{3} = \\frac{10}{30}$\n$\\frac{4}{10} > \\frac{1}{3}$",
-    "difficulty": 1,
-    "id": 9488
   },
   {
     "topic_id": "sequences",
@@ -257931,33 +252720,6 @@
     "id": 9553
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 11 now. How old in 8 years?",
-    "question_en": "is 11 now. How old in 8 years?",
-    "options_zh": [
-      "88",
-      "3",
-      "20",
-      "19"
-    ],
-    "options_en": [
-      "88",
-      "3",
-      "20",
-      "19"
-    ],
-    "answer": 3,
-    "explanation_zh": "$11 + 8 = 19$ years old",
-    "explanation_en": "$11 + 8 = 19$ years old",
-    "difficulty": 1,
-    "id": 9554
-  },
-  {
     "topic_id": "statistics",
     "topic_zh": "統計圖表",
     "topic_en": "Statistics",
@@ -259578,33 +254340,6 @@
     "id": 9614
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 8/11 和 3/12 的大小",
-    "question_en": "Compare 8/11 and 3/12",
-    "options_zh": [
-      "8/11 < 3/12",
-      "無法比較",
-      "8/11 = 3/12",
-      "0"
-    ],
-    "options_en": [
-      "8/11 < 3/12",
-      "",
-      "8/11 = 3/12",
-      "0"
-    ],
-    "answer": 3,
-    "explanation_zh": "$\\frac{8}{11} = \\frac{96}{132}$, $\\frac{3}{12} = \\frac{33}{132}$\n$\\frac{8}{11} > \\frac{3}{12}$",
-    "explanation_en": "$\\frac{8}{11} = \\frac{96}{132}$, $\\frac{3}{12} = \\frac{33}{132}$\n$\\frac{8}{11} > \\frac{3}{12}$",
-    "difficulty": 1,
-    "id": 9615
-  },
-  {
     "topic_id": "statistics",
     "topic_zh": "統計圖表",
     "topic_en": "Statistics",
@@ -259686,33 +254421,6 @@
     "id": 9618
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 13 now. How old 8 years ago?",
-    "question_en": "is 13 now. How old 8 years ago?",
-    "options_zh": [
-      "6",
-      "5",
-      "104",
-      "21"
-    ],
-    "options_en": [
-      "6",
-      "5",
-      "104",
-      "21"
-    ],
-    "answer": 1,
-    "explanation_zh": "$13 - 8 = 5$ years old",
-    "explanation_en": "$13 - 8 = 5$ years old",
-    "difficulty": 2,
-    "id": 9619
-  },
-  {
     "topic_id": "basic_algebra",
     "topic_zh": "基本代數",
     "topic_en": "Basic Algebra",
@@ -259792,33 +254500,6 @@
     "explanation_en": "$\\text{LCM}(30,48) = \\frac{30 \\times 48}{6} = 240$",
     "difficulty": 2,
     "id": 9622
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 7 now. How old 2 years ago?",
-    "question_en": "is 7 now. How old 2 years ago?",
-    "options_zh": [
-      "14",
-      "5",
-      "9",
-      "6"
-    ],
-    "options_en": [
-      "14",
-      "5",
-      "9",
-      "6"
-    ],
-    "answer": 1,
-    "explanation_zh": "$7 - 2 = 5$ years old",
-    "explanation_en": "$7 - 2 = 5$ years old",
-    "difficulty": 1,
-    "id": 9623
   },
   {
     "topic_id": "basic_algebra",
@@ -261495,33 +256176,6 @@
     "id": 9685
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 10  at $38 each, 15% off. Total?",
-    "question_en": "Buy 10  at $38 each, 15% off. Total?",
-    "options_zh": [
-      "323.0",
-      "57.0",
-      "324.0",
-      "380"
-    ],
-    "options_en": [
-      "323.0",
-      "57.0",
-      "324.0",
-      "380"
-    ],
-    "answer": 0,
-    "explanation_zh": "$\\text{Subtotal} = 10 \\times \\$38 = \\$380$\n$\\text{Discount} = \\$380 \\times 15\\% = \\$57.0$\n$\\text{Total} = \\$380 - \\$57.0 = \\$323.0$",
-    "explanation_en": "$\\text{Subtotal} = 10 \\times \\$38 = \\$380$\n$\\text{Discount} = \\$380 \\times 15\\% = \\$57.0$\n$\\text{Total} = \\$380 - \\$57.0 = \\$323.0$",
-    "difficulty": 2,
-    "id": 9686
-  },
-  {
     "topic_id": "basic_algebra",
     "topic_zh": "基本代數",
     "topic_en": "Basic Algebra",
@@ -263142,33 +257796,6 @@
     "id": 9746
   },
   {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 5/7 和 2/10 的大小",
-    "question_en": "Compare 5/7 and 2/10",
-    "options_zh": [
-      "5/7 < 2/10",
-      "5/7 = 2/10",
-      "0",
-      "無法比較"
-    ],
-    "options_en": [
-      "5/7 < 2/10",
-      "5/7 = 2/10",
-      "0",
-      ""
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\frac{5}{7} = \\frac{50}{70}$, $\\frac{2}{10} = \\frac{14}{70}$\n$\\frac{5}{7} > \\frac{2}{10}$",
-    "explanation_en": "$\\frac{5}{7} = \\frac{50}{70}$, $\\frac{2}{10} = \\frac{14}{70}$\n$\\frac{5}{7} > \\frac{2}{10}$",
-    "difficulty": 2,
-    "id": 9747
-  },
-  {
     "topic_id": "sequences",
     "topic_zh": "規律與數列",
     "topic_en": "Sequences",
@@ -263275,33 +257902,6 @@
     "explanation_en": "$5x + 1 = 26$\n$5x = 26 - 1 = 25$\n$x = \\frac{25}{5} = 5$",
     "difficulty": 2,
     "id": 9751
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 7 now. How old 4 years ago?",
-    "question_en": "is 7 now. How old 4 years ago?",
-    "options_zh": [
-      "28",
-      "4",
-      "11",
-      "3"
-    ],
-    "options_en": [
-      "28",
-      "4",
-      "11",
-      "3"
-    ],
-    "answer": 3,
-    "explanation_zh": "$7 - 4 = 3$ years old",
-    "explanation_en": "$7 - 4 = 3$ years old",
-    "difficulty": 1,
-    "id": 9752
   },
   {
     "topic_id": "ratio_rate",
@@ -264031,33 +258631,6 @@
     "explanation_en": "$A = \\frac{1}{2} \\times b \\times h = \\frac{1}{2} \\times 8 \\times 12 = 48.0$ cm²",
     "difficulty": 1,
     "id": 9779
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "shopping",
-    "subtopic_zh": "購物",
-    "subtopic_en": "Shopping",
-    "question_zh": "Buy 10  at $30 each, 10% off. Total?",
-    "question_en": "Buy 10  at $30 each, 10% off. Total?",
-    "options_zh": [
-      "270.0",
-      "271.0",
-      "30.0",
-      "300"
-    ],
-    "options_en": [
-      "270.0",
-      "271.0",
-      "30.0",
-      "300"
-    ],
-    "answer": 0,
-    "explanation_zh": "$\\text{Subtotal} = 10 \\times \\$30 = \\$300$\n$\\text{Discount} = \\$300 \\times 10\\% = \\$30.0$\n$\\text{Total} = \\$300 - \\$30.0 = \\$270.0$",
-    "explanation_en": "$\\text{Subtotal} = 10 \\times \\$30 = \\$300$\n$\\text{Discount} = \\$300 \\times 10\\% = \\$30.0$\n$\\text{Total} = \\$300 - \\$30.0 = \\$270.0$",
-    "difficulty": 1,
-    "id": 9780
   },
   {
     "topic_id": "area_volume",
@@ -264816,33 +259389,6 @@
     "id": 9808
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 10 now. How old in 20 years?",
-    "question_en": "is 10 now. How old in 20 years?",
-    "options_zh": [
-      "200",
-      "-10",
-      "31",
-      "30"
-    ],
-    "options_en": [
-      "200",
-      "-10",
-      "31",
-      "30"
-    ],
-    "answer": 3,
-    "explanation_zh": "$10 + 20 = 30$ years old",
-    "explanation_en": "$10 + 20 = 30$ years old",
-    "difficulty": 2,
-    "id": 9809
-  },
-  {
     "topic_id": "statistics",
     "topic_zh": "統計圖表",
     "topic_en": "Statistics",
@@ -264868,33 +259414,6 @@
     "explanation_en": "Median: the middle value when data is sorted.\nSorted: 17, 24, 32, 71, 98\n5 numbers, position 3 = 32",
     "difficulty": 2,
     "id": 9810
-  },
-  {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 14 now. How old 2 years ago?",
-    "question_en": "is 14 now. How old 2 years ago?",
-    "options_zh": [
-      "13",
-      "12",
-      "16",
-      "28"
-    ],
-    "options_en": [
-      "13",
-      "12",
-      "16",
-      "28"
-    ],
-    "answer": 1,
-    "explanation_zh": "$14 - 2 = 12$ years old",
-    "explanation_en": "$14 - 2 = 12$ years old",
-    "difficulty": 2,
-    "id": 9811
   },
   {
     "topic_id": "basic_algebra",
@@ -267165,33 +261684,6 @@
     "id": 9895
   },
   {
-    "topic_id": "mixed",
-    "topic_zh": "綜合應用",
-    "topic_en": "Mixed Applications",
-    "subtopic_id": "age",
-    "subtopic_zh": "年齡",
-    "subtopic_en": "Age Problems",
-    "question_zh": "is 11 now. How old 9 years ago?",
-    "question_en": "is 11 now. How old 9 years ago?",
-    "options_zh": [
-      "99",
-      "20",
-      "3",
-      "2"
-    ],
-    "options_en": [
-      "99",
-      "20",
-      "3",
-      "2"
-    ],
-    "answer": 3,
-    "explanation_zh": "$11 - 9 = 2$ years old",
-    "explanation_en": "$11 - 9 = 2$ years old",
-    "difficulty": 2,
-    "id": 9896
-  },
-  {
     "topic_id": "basic_algebra",
     "topic_zh": "基本代數",
     "topic_en": "Basic Algebra",
@@ -267703,33 +262195,6 @@
     "explanation_en": "Solve: 5(x + 7) = 80\nSteps:\n1. Move constants to right side\n2. Combine like terms\n3. Find x\nx = 9",
     "difficulty": 3,
     "id": 9915
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 2/9 和 10/6 的大小",
-    "question_en": "Compare 2/9 and 10/6",
-    "options_zh": [
-      "無法比較",
-      "2/9 = 10/6",
-      "0",
-      "2/9 > 10/6"
-    ],
-    "options_en": [
-      "",
-      "2/9 = 10/6",
-      "0",
-      "2/9 > 10/6"
-    ],
-    "answer": 2,
-    "explanation_zh": "$\\frac{2}{9} = \\frac{12}{54}$, $\\frac{10}{6} = \\frac{90}{54}$\n$\\frac{2}{9} < \\frac{10}{6}$",
-    "explanation_en": "$\\frac{2}{9} = \\frac{12}{54}$, $\\frac{10}{6} = \\frac{90}{54}$\n$\\frac{2}{9} < \\frac{10}{6}$",
-    "difficulty": 3,
-    "id": 9916
   },
   {
     "topic_id": "area_volume",
@@ -269917,33 +264382,6 @@
     "explanation_en": "$\\bar{x} = \\frac{60+34+40+67+10}{5} = \\frac{211}{5} = 42.2$",
     "difficulty": 1,
     "id": 9997
-  },
-  {
-    "topic_id": "directed_number",
-    "topic_zh": "正負數",
-    "topic_en": "Directed Numbers",
-    "subtopic_id": "fractions",
-    "subtopic_zh": "分數運算",
-    "subtopic_en": "Fraction Operations",
-    "question_zh": "比較 7/10 和 1/5 的大小",
-    "question_en": "Compare 7/10 and 1/5",
-    "options_zh": [
-      "7/10 = 1/5",
-      "0",
-      "無法比較",
-      "7/10 < 1/5"
-    ],
-    "options_en": [
-      "7/10 = 1/5",
-      "0",
-      "",
-      "7/10 < 1/5"
-    ],
-    "answer": 1,
-    "explanation_zh": "$\\frac{7}{10} = \\frac{35}{50}$, $\\frac{1}{5} = \\frac{10}{50}$\n$\\frac{7}{10} > \\frac{1}{5}$",
-    "explanation_en": "$\\frac{7}{10} = \\frac{35}{50}$, $\\frac{1}{5} = \\frac{10}{50}$\n$\\frac{7}{10} > \\frac{1}{5}$",
-    "difficulty": 1,
-    "id": 9998
   },
   {
     "topic_id": "basic_algebra",
