@@ -1,302 +1,838 @@
 [
   {
-    "question_zh": "《無間道》（2002）中，劉德華飾演的角色叫什麼？",
-    "question_en": "What is Andy Laus character name in Infernal Affairs?",
+    "question_zh": "《無間道》中，劉建明在警隊的職位是什麼？",
     "options_zh": [
-      "劉建明",
-      "陳永仁",
-      "韓琛",
-      "黃志誠"
+      "見習督察",
+      "高級督察",
+      "總督察",
+      "警司"
     ],
     "options_en": [
-      "Lau Kin-ming",
-      "Chan Wing-yan",
-      "Hon Sam",
-      "Wong Chi-sing"
+      "Probationary Inspector",
+      "Senior Inspector",
+      "Chief Inspector",
+      "Superintendent"
     ],
+    "question_en": "What is Lau Kin-ming's police rank?",
     "answer": 0,
-    "explanation_zh": "劉建明是黑幫派入警隊的臥底。",
-    "explanation_en": "Lau Kin-ming is a triad mole in the police.",
+    "explanation_zh": "劉建明是見習督察。",
+    "explanation_en": "Lau Kin-ming is a Probationary Inspector.",
     "difficulty": 1
   },
   {
-    "question_zh": "《無間道》中，陳永仁由誰飾演？",
-    "question_en": "Who plays Chan Wing-yan in Infernal Affairs?",
+    "question_zh": "《無間道》中，韓琛由誰飾演？",
     "options_zh": [
-      "梁朝偉",
+      "曾志偉",
+      "黃秋生",
+      "吳鎮宇",
+      "林家棟"
+    ],
+    "options_en": [
+      "Eric Tsang",
+      "Anthony Wong",
+      "Francis Ng",
+      "Lam Ka-tung"
+    ],
+    "question_en": "Who plays Hon Sam?",
+    "answer": 0,
+    "explanation_zh": "曾志偉飾演黑幫大佬韓琛。",
+    "explanation_en": "Eric Tsang plays triad boss Hon Sam.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《無間道》的經典場景在天台，劉建明說了什麼經典對白？",
+    "options_zh": [
+      "「我想做好人」",
+      "「對唔住，我係警察」",
+      "「以前嘅事就由得佢過去」",
+      "「你有冇試過做好人？」"
+    ],
+    "options_en": [
+      "I want to be a good person",
+      "Sorry, I'm a cop",
+      "Let the past go",
+      "Have you ever tried being good?"
+    ],
+    "question_en": "What is Lau Kin-ming's classic rooftop line?",
+    "answer": 0,
+    "explanation_zh": "劉建明說「我想做好人」。",
+    "explanation_en": "Lau Kin-ming says 'I want to be a good person.'",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《無間道》的導演是誰？",
+    "options_zh": [
+      "劉偉強、麥兆輝",
+      "杜琪峰",
+      "王家衛",
+      "陳可辛"
+    ],
+    "options_en": [
+      "Andrew Lau & Alan Mak",
+      "Johnnie To",
+      "Wong Kar-wai",
+      "Peter Chan"
+    ],
+    "question_en": "Who directed 'Infernal Affairs'?",
+    "answer": 0,
+    "explanation_zh": "由劉偉強和麥兆輝聯合執導。",
+    "explanation_en": "Directed by Andrew Lau and Alan Mak.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《無間道II》（2003）中，年輕版劉建明由誰飾演？",
+    "options_zh": [
+      "陳冠希",
+      "余文樂",
+      "謝霆鋒",
+      "吳彥祖"
+    ],
+    "options_en": [
+      "Edison Chen",
+      "Shawn Yue",
+      "Nicholas Tse",
+      "Daniel Wu"
+    ],
+    "question_en": "Who plays young Lau Kin-ming in 'Infernal Affairs II'?",
+    "answer": 0,
+    "explanation_zh": "陳冠希飾演年輕版劉建明。",
+    "explanation_en": "Edison Chen plays young Lau Kin-ming.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《無間道》中，黃志誠由誰飾演？",
+    "options_zh": [
       "黃秋生",
       "曾志偉",
-      "吳鎮宇"
+      "吳鎮宇",
+      "林家棟"
+    ],
+    "options_en": [
+      "Anthony Wong",
+      "Eric Tsang",
+      "Francis Ng",
+      "Lam Ka-tung"
+    ],
+    "question_en": "Who plays Wong Chi-sing?",
+    "answer": 0,
+    "explanation_zh": "黃秋生飾演黃志誠警司。",
+    "explanation_en": "Anthony Wong plays Superintendent Wong.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《暗戰》中，劉德華的角色為什麼要犯罪？",
+    "options_zh": [
+      "報仇",
+      "為錢",
+      "好玩",
+      "被逼"
+    ],
+    "options_en": [
+      "Revenge",
+      "Money",
+      "Fun",
+      "Forced"
+    ],
+    "question_en": "Why does his character commit crimes?",
+    "answer": 0,
+    "explanation_zh": "角色為了報仇而犯罪。",
+    "explanation_en": "His character commits crimes for revenge.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《暗戰》中，劉德華與誰演對手戲？",
+    "options_zh": [
+      "劉青雲",
+      "梁朝偉",
+      "古天樂",
+      "張家輝"
+    ],
+    "options_en": [
+      "Sean Lau",
+      "Tony Leung",
+      "Louis Koo",
+      "Nick Cheung"
+    ],
+    "question_en": "Who is his co-star in 'Running Out of Time'?",
+    "answer": 0,
+    "explanation_zh": "劉德華與劉青雲演對手戲。",
+    "explanation_en": "He co-stars with Sean Lau.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《桃姐》中，桃姐由誰飾演？",
+    "options_zh": [
+      "葉德嫻",
+      "惠英紅",
+      "鮑起靜",
+      "羅蘭"
+    ],
+    "options_en": [
+      "Deannie Yip",
+      "Kara Hui",
+      "Paw Hee-ching",
+      "Law Lan"
+    ],
+    "question_en": "Who plays Sister Peach?",
+    "answer": 0,
+    "explanation_zh": "葉德嫻飾演桃姐，並獲得康城影后。",
+    "explanation_en": "Deannie Yip plays Sister Peach, winning Cannes Best Actress.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《桃姐》的導演是誰？",
+    "options_zh": [
+      "許鞍華",
+      "王家衛",
+      "陳可辛",
+      "杜琪峰"
+    ],
+    "options_en": [
+      "Ann Hui",
+      "Wong Kar-wai",
+      "Peter Chan",
+      "Johnnie To"
+    ],
+    "question_en": "Who directed 'A Simple Life'?",
+    "answer": 0,
+    "explanation_zh": "許鞍華執導《桃姐》。",
+    "explanation_en": "Directed by Ann Hui.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《桃姐》獲得什麼國際獎項？",
+    "options_zh": [
+      "康城影展最佳女主角",
+      "威尼斯影展金獅獎",
+      "柏林影展金熊獎",
+      "奧斯卡最佳外語片"
+    ],
+    "options_en": [
+      "Cannes Best Actress",
+      "Venice Golden Lion",
+      "Berlin Golden Bear",
+      "Oscar Best Foreign"
+    ],
+    "question_en": "What international award did it win?",
+    "answer": 0,
+    "explanation_zh": "葉德嫻憑《桃姐》獲得康城影后。",
+    "explanation_en": "Deannie Yip won Cannes Best Actress.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《拆彈專家》（2017）中，反派由誰飾演？",
+    "options_zh": [
+      "姜武",
+      "吳京",
+      "甄子丹",
+      "張家輝"
+    ],
+    "options_en": [
+      "Jiang Wu",
+      "Wu Jing",
+      "Donnie Yen",
+      "Nick Cheung"
+    ],
+    "question_en": "Who plays the villain in 'Shock Wave'?",
+    "answer": 0,
+    "explanation_zh": "姜武飾演反派。",
+    "explanation_en": "Jiang Wu plays the villain.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《拆彈專家2》（2020）中，劉德華的角色有什麼遭遇？",
+    "options_zh": [
+      "失去一條腿",
+      "失憶",
+      "被陷害",
+      "以上皆是"
+    ],
+    "options_en": [
+      "Loses a leg",
+      "Amnesia",
+      "Framed",
+      "All of the above"
+    ],
+    "question_en": "What happens to his character in 'Shock Wave 2'?",
+    "answer": 3,
+    "explanation_zh": "角色經歷爆炸後失去一條腿、失憶，同時被陷害。",
+    "explanation_en": "His character loses a leg, has amnesia, and is framed.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《天下無賊》中，傻根由誰飾演？",
+    "options_zh": [
+      "王寶強",
+      "黃渤",
+      "徐崢",
+      "沈騰"
+    ],
+    "options_en": [
+      "Wang Baoqiang",
+      "Huang Bo",
+      "Xu Zheng",
+      "Shen Teng"
+    ],
+    "question_en": "Who plays the naive man?",
+    "answer": 0,
+    "explanation_zh": "王寶強飾演傻根。",
+    "explanation_en": "Wang Baoqiang plays the naive man.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《瘦身男女》中，鄭秀文飾演什麼角色？",
+    "options_zh": [
+      "肥女Mini",
+      "瘦女",
+      "律師",
+      "醫生"
+    ],
+    "options_en": [
+      "Fat girl Mini",
+      "Thin girl",
+      "Lawyer",
+      "Doctor"
+    ],
+    "question_en": "What role does Sammi Cheng play?",
+    "answer": 0,
+    "explanation_zh": "鄭秀文飾演肥女Mini。",
+    "explanation_en": "Sammi Cheng plays fat girl Mini.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《孤男寡女》中，劉德華和鄭秀文飾演什麼關係？",
+    "options_zh": [
+      "同事兼戀人",
+      "夫妻",
+      "仇人",
+      "師徒"
+    ],
+    "options_en": [
+      "Colleagues & lovers",
+      "Married couple",
+      "Enemies",
+      "Master & disciple"
+    ],
+    "question_en": "What is their relationship?",
+    "answer": 0,
+    "explanation_zh": "兩人飾演同事，後來發展成戀人。",
+    "explanation_en": "They play colleagues who become lovers.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《投名狀》中，三兄弟分別是誰？",
+    "options_zh": [
+      "龐青雲、趙二虎、姜午陽",
+      "劉建明、陳永仁、韓琛",
+      "李雲龍、趙剛、楚雲飛",
+      "唐龍、陳真、霍元甲"
+    ],
+    "options_en": [
+      "Pang, Zhao, Jiang",
+      "Lau, Chan, Hon",
+      "Li, Zhao, Chu",
+      "Tang, Chen, Huo"
+    ],
+    "question_en": "Who are the three sworn brothers?",
+    "answer": 0,
+    "explanation_zh": "龐青雲（李連杰）、趙二虎（劉德華）、姜午陽（金城武）。",
+    "explanation_en": "Pang (Jet Li), Zhao (Andy Lau), Jiang (Takeshi Kaneshiro).",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《投名狀》的導演是誰？",
+    "options_zh": [
+      "陳可辛",
+      "杜琪峰",
+      "許鞍華",
+      "徐克"
+    ],
+    "options_en": [
+      "Peter Chan",
+      "Johnnie To",
+      "Ann Hui",
+      "Tsui Hark"
+    ],
+    "question_en": "Who directed 'The Warlords'?",
+    "answer": 0,
+    "explanation_zh": "陳可辛執導《投名狀》。",
+    "explanation_en": "Directed by Peter Chan.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《墨攻》中，革離代表什麼學派？",
+    "options_zh": [
+      "墨家",
+      "儒家",
+      "道家",
+      "法家"
+    ],
+    "options_en": [
+      "Mohism",
+      "Confucianism",
+      "Taoism",
+      "Legalism"
+    ],
+    "question_en": "What school does Ge Li represent?",
+    "answer": 0,
+    "explanation_zh": "革離代表墨家學派。",
+    "explanation_en": "Ge Li represents Mohism.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《失孤》中，劉德華飾演什麼角色？",
+    "options_zh": [
+      "尋找失散兒子的父親",
+      "警察",
+      "醫生",
+      "老師"
+    ],
+    "options_en": [
+      "Father searching for lost son",
+      "Police officer",
+      "Doctor",
+      "Teacher"
+    ],
+    "question_en": "What role does he play in 'Lost and Love'?",
+    "answer": 0,
+    "explanation_zh": "劉德華飾演一個尋找失散兒子14年的父親。",
+    "explanation_en": "He plays a father searching for his lost son for 14 years.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《掃毒》中，三兄弟分別由誰飾演？",
+    "options_zh": [
+      "劉德華、古天樂、張家輝",
+      "劉德華、梁朝偉、古天樂",
+      "劉德華、張家輝、吳鎮宇",
+      "劉德華、古天樂、謝霆鋒"
+    ],
+    "options_en": [
+      "Andy, Louis, Nick",
+      "Andy, Tony, Louis",
+      "Andy, Nick, Francis",
+      "Andy, Louis, Nicholas"
+    ],
+    "question_en": "Who plays the three brothers in 'The White Storm'?",
+    "answer": 0,
+    "explanation_zh": "劉德華、古天樂、張家輝飾演三兄弟。",
+    "explanation_en": "Andy Lau, Louis Koo, and Nick Cheung play the three brothers.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《門徒》中，劉德華飾演什麼角色？",
+    "options_zh": [
+      "大毒梟",
+      "卧底警察",
+      "律師",
+      "醫生"
+    ],
+    "options_en": [
+      "Drug lord",
+      "Undercover cop",
+      "Lawyer",
+      "Doctor"
+    ],
+    "question_en": "What role does he play in 'Protege'?",
+    "answer": 0,
+    "explanation_zh": "劉德華飾演大毒梟林昆。",
+    "explanation_en": "He plays drug lord Lin Kun.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《門徒》中，與劉德華合作的臥底由誰飾演？",
+    "options_zh": [
+      "吳彥祖",
+      "古天樂",
+      "張家輝",
+      "謝霆鋒"
+    ],
+    "options_en": [
+      "Daniel Wu",
+      "Louis Koo",
+      "Nick Cheung",
+      "Nicholas Tse"
+    ],
+    "question_en": "Who plays the undercover agent?",
+    "answer": 0,
+    "explanation_zh": "吳彥祖飾演卧底警察。",
+    "explanation_en": "Daniel Wu plays the undercover agent.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "劉德華的唱片銷量超過多少張？",
+    "options_zh": [
+      "1億張",
+      "5000萬張",
+      "2億張",
+      "5億張"
+    ],
+    "options_en": [
+      "100 million",
+      "50 million",
+      "200 million",
+      "500 million"
+    ],
+    "question_en": "How many records has Andy Lau sold?",
+    "answer": 0,
+    "explanation_zh": "劉德華的唱片銷量超過1億張。",
+    "explanation_en": "Andy Lau has sold over 100 million records.",
+    "difficulty": 2
+  },
+  {
+    "question_zh": "劉德華獲得過幾次香港十大勁歌金曲最受歡迎男歌星？",
+    "options_zh": [
+      "3次",
+      "5次",
+      "7次",
+      "10次"
+    ],
+    "options_en": [
+      "3",
+      "5",
+      "7",
+      "10"
+    ],
+    "question_en": "How many times has he won Most Popular Male Singer?",
+    "answer": 2,
+    "explanation_zh": "劉德華7次獲得最受歡迎男歌星。",
+    "explanation_en": "Andy Lau won Most Popular Male Singer 7 times.",
+    "difficulty": 2
+  },
+  {
+    "question_zh": "劉德華的經典歌曲《忘情水》是哪一年推出的？",
+    "options_zh": [
+      "1992年",
+      "1994年",
+      "1996年",
+      "1998年"
+    ],
+    "options_en": [
+      "1992",
+      "1994",
+      "1996",
+      "1998"
+    ],
+    "question_en": "When was 'Erta de Agua' released?",
+    "answer": 1,
+    "explanation_zh": "《忘情水》1994年推出。",
+    "explanation_en": "Released in 1994.",
+    "difficulty": 2
+  },
+  {
+    "question_zh": "劉德華與梅艷芳合演的經典電影是什麼？",
+    "options_zh": [
+      "《91神鵰俠侶》",
+      "《審死官》",
+      "《瘦身男女》",
+      "《孤男寡女》"
+    ],
+    "options_en": [
+      "Saviour of the Soul",
+      "Justice My Foot",
+      "Love on a Diet",
+      "Needing You"
+    ],
+    "question_en": "What classic film did Andy co-star with Anita Mui?",
+    "answer": 0,
+    "explanation_zh": "兩人合演《91神鵰俠侶》。",
+    "explanation_en": "They co-starred in 'Saviour of the Soul'.",
+    "difficulty": 2
+  },
+  {
+    "question_zh": "劉德華是「天幕」電影公司的創辦人嗎？",
+    "options_zh": [
+      "是",
+      "不是"
+    ],
+    "options_en": [
+      "Yes",
+      "No"
+    ],
+    "question_en": "Did Andy Lau found Teamwork Pictures?",
+    "answer": 0,
+    "explanation_zh": "劉德華創辦了天幕電影公司。",
+    "explanation_en": "Yes, Andy Lau founded Teamwork Pictures.",
+    "difficulty": 2
+  },
+  {
+    "question_zh": "劉德華在《無間道》中飾演的角色最後結局如何？",
+    "options_zh": [
+      "被捕",
+      "逃脫",
+      "死亡",
+      "成為好人"
+    ],
+    "options_en": [
+      "Arrested",
+      "Escaped",
+      "Death",
+      "Becomes good"
+    ],
+    "question_en": "What happens to Lau Kin-ming at the end?",
+    "answer": 0,
+    "explanation_zh": "劉建明最後被逮捕。",
+    "explanation_en": "Lau Kin-ming is arrested.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "劉德華的官方歌迷會叫什麼？",
+    "options_zh": [
+      "華仔天地",
+      "華迷會",
+      "Andy Club",
+      "劉德華歌迷會"
+    ],
+    "options_en": [
+      "Andy World Club",
+      "Hua Fan Club",
+      "Andy Club",
+      "Andy Lau Fan Club"
+    ],
+    "question_en": "What is his official fan club called?",
+    "answer": 0,
+    "explanation_zh": "劉德華的官方歌迷會叫「華仔天地」。",
+    "explanation_en": "His official fan club is 'Andy World Club'.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "劉德華在哪一年舉辦首場演唱會？",
+    "options_zh": [
+      "1985年",
+      "1988年",
+      "1990年",
+      "1993年"
+    ],
+    "options_en": [
+      "1985",
+      "1988",
+      "1990",
+      "1993"
+    ],
+    "question_en": "When was his first concert?",
+    "answer": 1,
+    "explanation_zh": "劉德華1988年舉辦首場個人演唱會。",
+    "explanation_en": "His first solo concert was in 1988.",
+    "difficulty": 2
+  },
+  {
+    "question_zh": "劉德華與哪位導演合作最多次？",
+    "options_zh": [
+      "杜琪峰",
+      "王家衛",
+      "劉偉強",
+      "陳可辛"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Wong Kar-wai",
+      "Andrew Lau",
+      "Peter Chan"
+    ],
+    "question_en": "Which director has he worked with most?",
+    "answer": 0,
+    "explanation_zh": "劉德華與杜琪峰合作最多次。",
+    "explanation_en": "He has worked most with Johnnie To.",
+    "difficulty": 2
+  },
+  {
+    "question_zh": "劉德華主演的《阿虎》（2000）中，他飾演什麼角色？",
+    "options_zh": [
+      "拳手",
+      "警察",
+      "商人",
+      "老師"
+    ],
+    "options_en": [
+      "Boxer",
+      "Police officer",
+      "Businessman",
+      "Teacher"
+    ],
+    "question_en": "What role does he play in 'A Fighter's Blues'?",
+    "answer": 0,
+    "explanation_zh": "劉德華飾演拳手。",
+    "explanation_en": "He plays a boxer.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "劉德華憑哪部電影首次獲得金像獎影帝？",
+    "options_zh": [
+      "《暗戰》",
+      "《大隻佬》",
+      "《桃姐》",
+      "《無間道》"
+    ],
+    "options_en": [
+      "Running Out of Time",
+      "Running on Karma",
+      "A Simple Life",
+      "Infernal Affairs"
+    ],
+    "question_en": "For which film did he first win Best Actor?",
+    "answer": 0,
+    "explanation_zh": "劉德華憑《暗戰》（1999）首次獲得金像獎影帝。",
+    "explanation_en": "He first won for 'Running Out of Time' (1999).",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "劉德華的星座是什麼？",
+    "options_zh": [
+      "天秤座",
+      "天蠍座",
+      "處女座",
+      "獅子座"
+    ],
+    "options_en": [
+      "Libra",
+      "Scorpio",
+      "Virgo",
+      "Leo"
+    ],
+    "question_en": "What is Andy Lau's zodiac sign?",
+    "answer": 0,
+    "explanation_zh": "劉德華9月27日出生，是天秤座。",
+    "explanation_en": "Born September 27, he is a Libra.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "劉德華在《全職殺手》（2001）中飾演什麼角色？",
+    "options_zh": [
+      "殺手",
+      "警察",
+      "卧底",
+      "商人"
+    ],
+    "options_en": [
+      "Hitman",
+      "Police",
+      "Undercover",
+      "Businessman"
+    ],
+    "question_en": "What role in 'Fulltime Killer'?",
+    "answer": 0,
+    "explanation_zh": "劉德華飾演殺手O。",
+    "explanation_en": "He plays hitman O.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "劉德華與周杰倫合演的電影是什麼？",
+    "options_zh": [
+      "《天下無賊》",
+      "《頭文字D》",
+      "《功夫》",
+      "《長城》"
+    ],
+    "options_en": [
+      "A World Without Thieves",
+      "Initial D",
+      "Kung Fu Hustle",
+      "The Great Wall"
+    ],
+    "question_en": "Which film did Andy star with Jay Chou?",
+    "answer": 1,
+    "explanation_zh": "兩人合演《頭文字D》（2005）。",
+    "explanation_en": "They co-starred in 'Initial D' (2005).",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "劉德華在《寒戰》（2012）中飾演什麼職業？",
+    "options_zh": [
+      "警務處副處長",
+      "廉政公署",
+      "律師",
+      "法官"
+    ],
+    "options_en": [
+      "Deputy Police Commissioner",
+      "ICAC",
+      "Lawyer",
+      "Judge"
+    ],
+    "question_en": "What is his role in 'Cold War'?",
+    "answer": 0,
+    "explanation_zh": "劉德華飾演警務處副處長。",
+    "explanation_en": "He plays the Deputy Police Commissioner.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "劉德華的歌曲《中國人》是哪一年推出的？",
+    "options_zh": [
+      "1995年",
+      "1997年",
+      "1999年",
+      "2001年"
+    ],
+    "options_en": [
+      "1995",
+      "1997",
+      "1999",
+      "2001"
+    ],
+    "question_en": "When was the song 'Chinese People' released?",
+    "answer": 1,
+    "explanation_zh": "《中國人》1997年推出，慶祝回歸。",
+    "explanation_en": "Released in 1997 to celebrate the handover.",
+    "difficulty": 2
+  },
+  {
+    "question_zh": "劉德華在《風暴》（2013）中飾演什麼角色？",
+    "options_zh": [
+      "警察",
+      "悍匪",
+      "律師",
+      "法官"
+    ],
+    "options_en": [
+      "Police officer",
+      "Gangster",
+      "Lawyer",
+      "Judge"
+    ],
+    "question_en": "What role in 'Firestorm'?",
+    "answer": 0,
+    "explanation_zh": "劉德華飾演警察。",
+    "explanation_en": "He plays a police officer.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "劉德華獲得過多少個吉尼斯世界紀錄？",
+    "options_zh": [
+      "1個",
+      "2個",
+      "3個",
+      "5個"
+    ],
+    "options_en": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "question_en": "How many Guinness World Records does he hold?",
+    "answer": 2,
+    "explanation_zh": "劉德華獲得3個吉尼斯世界紀錄。",
+    "explanation_en": "He holds 3 Guinness World Records.",
+    "difficulty": 2
+  },
+  {
+    "question_zh": "劉德華在《金手指》（2023）中與誰合演？",
+    "options_zh": [
+      "梁朝偉",
+      "古天樂",
+      "張家輝",
+      "謝霆鋒"
     ],
     "options_en": [
       "Tony Leung",
-      "Anthony Wong",
-      "Eric Tsang",
-      "Francis Ng"
+      "Louis Koo",
+      "Nick Cheung",
+      "Nicholas Tse"
     ],
+    "question_en": "Who co-stars in 'The Goldfinger'?",
     "answer": 0,
-    "explanation_zh": "梁朝偉飾演潜入黑幫的警方臥底。",
-    "explanation_en": "Tony Leung plays the undercover cop.",
-    "difficulty": 1
-  },
-  {
-    "question_zh": "劉德華被稱為四大天王之一，其他三位是？",
-    "question_en": "Who are the other Three Heavenly Kings alongside Andy Lau?",
-    "options_zh": [
-      "張學友、郭富城、黎明",
-      "譚詠麟、張國榮、陳百強",
-      "成龍、周潤發、李連杰",
-      "梁朝偉、劉青云、吳鎮宇"
-    ],
-    "options_en": [
-      "Jacky Cheung, Aaron Kwok, Leon Lai",
-      "Alan Tam, Leslie Cheung, Danny Chan",
-      "Jackie Chan, Chow Yun-fat, Jet Li",
-      "Tony Leung, Sean Lau, Francis Ng"
-    ],
-    "answer": 0,
-    "explanation_zh": "四大天王是劉德華、張學友、郭富城、黎明。",
-    "explanation_en": "The Four Heavenly Kings are Andy Lau, Jacky Cheung, Aaron Kwok, and Leon Lai.",
-    "difficulty": 1
-  },
-  {
-    "question_zh": "劉德華獲得過幾次香港電影金像獎最佳男主角？",
-    "question_en": "How many HK Film Awards for Best Actor has Andy Lau won?",
-    "options_zh": [
-      "2次",
-      "3次",
-      "4次",
-      "5次"
-    ],
-    "options_en": [
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "answer": 1,
-    "explanation_zh": "劉德華憑《暗戰》《大隻佬》《桃姐》三度獲得影帝。",
-    "explanation_en": "Andy Lau won Best Actor three times.",
-    "difficulty": 2
-  },
-  {
-    "question_zh": "《拆彈專家》系列中，劉德華飾演什麼職業？",
-    "question_en": "What is Andy Laus profession in the Shock Wave series?",
-    "options_zh": [
-      "拆彈專家",
-      "特警",
-      "消防員",
-      "卧底"
-    ],
-    "options_en": [
-      "Bomb disposal expert",
-      "SWAT officer",
-      "Firefighter",
-      "Undercover"
-    ],
-    "answer": 0,
-    "explanation_zh": "劉德華飾演警隊拆彈專家。",
-    "explanation_en": "Andy Lau plays a bomb disposal expert.",
-    "difficulty": 1
-  },
-  {
-    "question_zh": "劉德華出道時是哪間電視台的藝員？",
-    "question_en": "Which TV station did Andy Lau start his career at?",
-    "options_zh": [
-      "無綫電視（TVB）",
-      "亞洲電視（ATV）",
-      "佳藝電視",
-      "有線電視"
-    ],
-    "options_en": [
-      "TVB",
-      "ATV",
-      "RTV",
-      "Cable TV"
-    ],
-    "answer": 0,
-    "explanation_zh": "劉德華1981年從TVB藝員訓練班畢業。",
-    "explanation_en": "Andy Lau graduated from TVBs acting class in 1981.",
-    "difficulty": 1
-  },
-  {
-    "question_zh": "《桃姐》（2012）中，劉德華飾演的角色叫什麼？",
-    "question_en": "What is Andy Laus character name in A Simple Life?",
-    "options_zh": [
-      "Roger",
-      "Sam",
-      "David",
-      "Michael"
-    ],
-    "options_en": [
-      "Roger",
-      "Sam",
-      "David",
-      "Michael"
-    ],
-    "answer": 0,
-    "explanation_zh": "劉德華飾演Roger。",
-    "explanation_en": "Andy Lau plays Roger.",
-    "difficulty": 1
-  },
-  {
-    "question_zh": "劉德華出生於哪一年？",
-    "question_en": "In which year was Andy Lau born?",
-    "options_zh": [
-      "1961年",
-      "1962年",
-      "1963年",
-      "1965年"
-    ],
-    "options_en": [
-      "1961",
-      "1962",
-      "1963",
-      "1965"
-    ],
-    "answer": 0,
-    "explanation_zh": "劉德華1961年9月27日出生。",
-    "explanation_en": "Andy Lau was born on September 27, 1961.",
-    "difficulty": 1
-  },
-  {
-    "question_zh": "《孤男寡女》（2000）中，劉德華與誰合作？",
-    "question_en": "Who co-stars with Andy Lau in Needing You?",
-    "options_zh": [
-      "鄭秀文",
-      "張柏芝",
-      "李嘉欣",
-      "邱淑貞"
-    ],
-    "options_en": [
-      "Sammi Cheng",
-      "Cecilia Cheung",
-      "Michelle Reis",
-      "Chingmy Yau"
-    ],
-    "answer": 0,
-    "explanation_zh": "劉德華與鄭秀文合作。",
-    "explanation_en": "Andy Lau co-stars with Sammi Cheng.",
-    "difficulty": 1
-  },
-  {
-    "question_zh": "《投名狀》（2007）中，劉德華飾演的角色叫什麼？",
-    "question_en": "What is Andy Laus character in The Warlords?",
-    "options_zh": [
-      "趙二虎",
-      "姜午陽",
-      "龐青雲",
-      "陳玉蓮"
-    ],
-    "options_en": [
-      "Zhao Erhu",
-      "Jiang Wuyang",
-      "Pang Qingyun",
-      "Chen Yulian"
-    ],
-    "answer": 0,
-    "explanation_zh": "劉德華飾演趙二虎。",
-    "explanation_en": "Andy Lau plays Zhao Erhu.",
-    "difficulty": 1
-  },
-  {
-    "question_zh": "劉德華的歌迷統稱叫什麼？",
-    "question_en": "What are Andy Laus fans called?",
-    "options_zh": [
-      "華迷",
-      "華粉",
-      "華仔迷",
-      "劉迷"
-    ],
-    "options_en": [
-      "Hua fans",
-      "Andy fans",
-      "Lau fans",
-      "Brother fans"
-    ],
-    "answer": 0,
-    "explanation_zh": "劉德華的歌迷統稱為華迷。",
-    "explanation_en": "Andy Laus fans are called Hua fans.",
-    "difficulty": 1
-  },
-  {
-    "question_zh": "《暗戰》（1999）中，劉德華飾演什麼角色？",
-    "question_en": "What role does Andy Lau play in Running Out of Time?",
-    "options_zh": [
-      "絕症患者/高智商罪犯",
-      "警察",
-      "醫生",
-      "律師"
-    ],
-    "options_en": [
-      "Terminally ill genius criminal",
-      "Police officer",
-      "Doctor",
-      "Lawyer"
-    ],
-    "answer": 0,
-    "explanation_zh": "劉德華飾演一個只剩數天命的高智商罪犯。",
-    "explanation_en": "Andy Lau plays a genius criminal with days to live.",
-    "difficulty": 1
-  },
-  {
-    "question_zh": "劉德華是哪一年獲頒銅紫荊星章？",
-    "question_en": "When was Andy Lau awarded the Bronze Bauhinia Star?",
-    "options_zh": [
-      "2004年",
-      "2006年",
-      "2008年",
-      "2010年"
-    ],
-    "options_en": [
-      "2004",
-      "2006",
-      "2008",
-      "2010"
-    ],
-    "answer": 0,
-    "explanation_zh": "劉德華2004年獲頒銅紫荊星章。",
-    "explanation_en": "Andy Lau received the Bronze Bauhinia Star in 2004.",
-    "difficulty": 2
-  },
-  {
-    "question_zh": "《瘦身男女》（2001）中，劉德華的角色有什麼特點？",
-    "question_en": "What is special about Andy Laus character in Love on a Diet?",
-    "options_zh": [
-      "飾演肥仔",
-      "飾演瘦子",
-      "飾演殘疾人",
-      "飾演老人"
-    ],
-    "options_en": [
-      "Plays a fat person",
-      "Plays a thin person",
-      "Plays disabled",
-      "Plays elderly"
-    ],
-    "answer": 0,
-    "explanation_zh": "劉德華在片中以肥胖造型示人。",
-    "explanation_en": "Andy Lau appears in a fat suit.",
-    "difficulty": 1
-  },
-  {
-    "question_zh": "《天下無賊》（2004）中，劉德華飾演什麼職業？",
-    "question_en": "What is Andy Laus profession in A World Without Thieves?",
-    "options_zh": [
-      "小偷",
-      "警察",
-      "商人",
-      "司機"
-    ],
-    "options_en": [
-      "Thief",
-      "Police officer",
-      "Businessman",
-      "Driver"
-    ],
-    "answer": 0,
-    "explanation_zh": "劉德華飾演一個想改過自新的小偷。",
-    "explanation_en": "Andy Lau plays a thief who wants to reform.",
+    "explanation_zh": "劉德華與梁朝偉合演《金手指》。",
+    "explanation_en": "He co-stars with Tony Leung.",
     "difficulty": 1
   }
 ]

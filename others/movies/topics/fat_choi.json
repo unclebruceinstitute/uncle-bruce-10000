@@ -1,202 +1,822 @@
 [
   {
-    "question_zh": "《嚦咕嚦咕新年財》（2000）的導演是誰？",
-    "question_en": "Who directed Fat Choi Spirit?",
+    "question_zh": "《嚦咕嚦咕新年財》中，劉德華飾演的Andy有什麼身份？",
     "options_zh": [
-      "韋家輝",
-      "杜琪峰",
-      "劉偉強",
+      "退休賭神",
+      "職業賭徒",
+      "麻將教練",
+      "賭場老闆"
+    ],
+    "options_en": [
+      "Retired God of Gamblers",
+      "Pro gambler",
+      "Mahjong coach",
+      "Casino boss"
+    ],
+    "question_en": "What is Andy's identity?",
+    "answer": 0,
+    "explanation_zh": "Andy是退休的賭神。",
+    "explanation_en": "Andy is a retired God of Gamblers.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，Joker有什麼特點？",
+    "options_zh": [
+      "樂天知命",
+      "經常哭",
+      "脾氣暴躁",
+      "沉默寡言"
+    ],
+    "options_en": [
+      "Optimistic",
+      "Always crying",
+      "Hot-tempered",
+      "Quiet"
+    ],
+    "question_en": "What is Joker's personality?",
+    "answer": 0,
+    "explanation_zh": "Joker是個樂天知命的女孩。",
+    "explanation_en": "Joker is an optimistic girl.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，阿Mo的夢想是什麼？",
+    "options_zh": [
+      "成為麻將冠軍",
+      "發大財",
+      "找到真愛",
+      "環遊世界"
+    ],
+    "options_en": [
+      "Mahjong champion",
+      "Get rich",
+      "Find true love",
+      "Travel the world"
+    ],
+    "question_en": "What is Ah Mo's dream?",
+    "answer": 0,
+    "explanation_zh": "阿Mo夢想成為麻將冠軍。",
+    "explanation_en": "Ah Mo dreams of becoming a mahjong champion.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，Andy的妻子由誰飾演？",
+    "options_zh": [
+      "梁詠琪",
+      "應採兒",
+      "張柏芝",
+      "鍾欣潼"
+    ],
+    "options_en": [
+      "Gigi Leung",
+      "Cherrie Ying",
+      "Cecilia Cheung",
+      "Gillian Chung"
+    ],
+    "question_en": "Who plays Andy's wife?",
+    "answer": 1,
+    "explanation_zh": "應採兒飾演Andy的妻子。",
+    "explanation_en": "Cherrie Ying plays Andy's wife.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，Joker為什麼叫Joker？",
+    "options_zh": [
+      "因為她經常笑",
+      "因為她打牌像小丑",
+      "因為她喜歡撲克牌",
+      "因為她名字叫Joker"
+    ],
+    "options_en": [
+      "She always laughs",
+      "She plays cards like a clown",
+      "She likes poker",
+      "Her name is Joker"
+    ],
+    "question_en": "Why is she called Joker?",
+    "answer": 0,
+    "explanation_zh": "因為她經常笑，像Joker一樣。",
+    "explanation_en": "Because she always laughs, like a Joker.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，古天樂的角色有什麼口頭禪？",
+    "options_zh": [
+      "「我係麻將高手」",
+      "「新年快樂」",
+      "「恭喜發財」",
+      "「打牌要有牌品」"
+    ],
+    "options_en": [
+      "I'm a mahjong expert",
+      "Happy New Year",
+      "Congratulations",
+      "Need character to play"
+    ],
+    "question_en": "What is Ah Mo's catchphrase?",
+    "answer": 0,
+    "explanation_zh": "阿Mo經常自稱「我係麻將高手」。",
+    "explanation_en": "Ah Mo often claims 'I'm a mahjong expert.'",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，最後的大決賽在什麼地方舉行？",
+    "options_zh": [
+      "賭場",
+      "麻將館",
+      "私人會所",
+      "酒店"
+    ],
+    "options_en": [
+      "Casino",
+      "Mahjong parlor",
+      "Private club",
+      "Hotel"
+    ],
+    "question_en": "Where is the final tournament held?",
+    "answer": 2,
+    "explanation_zh": "最後決賽在私人會所舉行。",
+    "explanation_en": "The final is held at a private club.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，Andy為什麼不再打牌？",
+    "options_zh": [
+      "因為輸光了",
+      "因為妻子反對",
+      "因為受傷",
+      "因為退休"
+    ],
+    "options_en": [
+      "Lost everything",
+      "Wife反对",
+      "Injured",
+      "Retired"
+    ],
+    "question_en": "Why did Andy stop playing?",
+    "answer": 0,
+    "explanation_zh": "Andy因為輸光了而不再打牌。",
+    "explanation_en": "Andy stopped after losing everything.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，Joker打牌的風格是什麼？",
+    "options_zh": [
+      "靠運氣",
+      "靠技術",
+      "靠心理戰",
+      "靠作弊"
+    ],
+    "options_en": [
+      "Luck",
+      "Skill",
+      "Psychology",
+      "Cheating"
+    ],
+    "question_en": "What is Joker's playing style?",
+    "answer": 0,
+    "explanation_zh": "Joker打牌純靠運氣。",
+    "explanation_en": "Joker plays purely on luck.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，阿Mo最終贏了什麼？",
+    "options_zh": [
+      "麻將比賽",
+      "愛情",
+      "錢",
+      "以上皆非"
+    ],
+    "options_en": [
+      "Tournament",
+      "Love",
+      "Money",
+      "None"
+    ],
+    "question_en": "What does Ah Mo ultimately win?",
+    "answer": 3,
+    "explanation_zh": "阿Mo最終什麼都沒贏到。",
+    "explanation_en": "Ah Mo ultimately wins nothing.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，Andy為了什麼原因重新打牌？",
+    "options_zh sẵ": [
+      "為Joker籌醫藥費",
+      "報仇",
+      "贏錢",
+      "好玩"
+    ],
+    "options_en": [
+      "Pay Joker's medical bills",
+      "Revenge",
+      "Win money",
+      "Fun"
+    ],
+    "question_en": "Why does Andy return to playing?",
+    "answer": 0,
+    "explanation_zh": "Andy為了籌Joker的醫藥費而重新打牌。",
+    "explanation_en": "Andy returns to raise money for Joker's medical bills.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，Joker發生了什麼事？",
+    "options_zh": [
+      "車禍",
+      "生病",
+      "被綁架",
+      "失憶"
+    ],
+    "options_en": [
+      "Car accident",
+      "Sick",
+      "Kidnapped",
+      "Amnesia"
+    ],
+    "question_en": "What happens to Joker?",
+    "answer": 0,
+    "explanation_zh": "Joker發生車禍受傷。",
+    "explanation_en": "Joker is injured in a car accident.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，Andy在決賽中的對手是誰？",
+    "options_zh": [
+      "職業賭徒",
+      "黑幫老大",
+      "前賭神",
+      "外國高手"
+    ],
+    "options_en": [
+      "Pro gambler",
+      "Triad boss",
+      "Former champion",
+      "Foreign expert"
+    ],
+    "question_en": "Who is Andy's final opponent?",
+    "answer": 0,
+    "explanation_zh": "Andy的對手是職業賭徒。",
+    "explanation_en": "His opponent is a professional gambler.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》的主題是什麼？",
+    "options_zh": [
+      "友情、愛情、親情",
+      "金錢至上",
+      "賭博有害",
+      "復仇"
+    ],
+    "options_en": [
+      "Friendship, love, family",
+      "Money is everything",
+      "Gambling is harmful",
+      "Revenge"
+    ],
+    "question_en": "What is the film's theme?",
+    "answer": 0,
+    "explanation_zh": "電影主題是友情、愛情和親情。",
+    "explanation_en": "The theme is friendship, love, and family.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，誰是真正的「賭神」？",
+    "options_zh": [
+      "Andy",
+      "阿Mo",
+      "Joker",
+      "沒有人"
+    ],
+    "options_en": [
+      "Andy",
+      "Ah Mo",
+      "Joker",
+      "Nobody"
+    ],
+    "question_en": "Who is the real 'God of Gamblers'?",
+    "answer": 0,
+    "explanation_zh": "Andy是真正的賭神。",
+    "explanation_en": "Andy is the real God of Gamblers.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，飾演Andy母親的演員是誰？",
+    "options_zh": [
+      "羅蘭",
+      "鮑起靜",
+      "盧海鵬",
+      "夏萍"
+    ],
+    "options_en": [
+      "Law Lan",
+      "Paw Hee-ching",
+      "Lo Hoi-pang",
+      "Ha Ping"
+    ],
+    "question_en": "Who plays Andy's mother?",
+    "answer": 0,
+    "explanation_zh": "羅蘭飾演Andy的母親。",
+    "explanation_en": "Law Lan plays Andy's mother.",
+    "difficulty": 2
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，梁詠琪的角色有什麼特點？",
+    "options_zh": [
+      "樂觀開朗",
+      "經常哭",
+      "脾氣大",
+      "冷漠"
+    ],
+    "options_en": [
+      "Optimistic",
+      "Always crying",
+      "Hot-tempered",
+      "Cold"
+    ],
+    "question_en": "What is Gigi Leung's character like?",
+    "answer": 0,
+    "explanation_zh": "Joker樂觀開朗。",
+    "explanation_en": "Joker is optimistic and cheerful.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，古天樂的角色最終怎樣？",
+    "options_zh": [
+      "繼續做麻將高手",
+      "放棄打牌",
+      "結婚",
+      "出國"
+    ],
+    "options_en": [
+      "Continues as expert",
+      "Gives up mahjong",
+      "Gets married",
+      "Goes abroad"
+    ],
+    "question_en": "What happens to Ah Mo?",
+    "answer": 1,
+    "explanation_zh": "阿Mo最終放棄打牌。",
+    "explanation_en": "Ah Mo eventually gives up mahjong.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，「嚦咕嚦咕」代表麻將的什麼動作？",
+    "options_zh": [
+      "摸牌",
+      "打牌",
+      "碰牌",
+      "食糊"
+    ],
+    "options_en": [
+      "Drawing tiles",
+      "Discarding",
+      "Pong",
+      "Winning"
+    ],
+    "question_en": "What mahjong action does it represent?",
+    "answer": 0,
+    "explanation_zh": "代表摸牌的聲音。",
+    "explanation_en": "Represents the sound of drawing tiles.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，出現了哪種麻將術語？",
+    "options_zh": [
+      "十三么",
+      "大四喜",
+      "清一色",
+      "以上皆是"
+    ],
+    "options_en": [
+      "Thirteen Orphans",
+      "Big Four Winds",
+      "Pure flush",
+      "All of the above"
+    ],
+    "question_en": "Which mahjong terms appear in the film?",
+    "answer": 3,
+    "explanation_zh": "電影中出現了多種麻將術語。",
+    "explanation_en": "Multiple mahjong terms appear in the film.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，「食糊」是什麼意思？",
+    "options_zh": [
+      "贏了",
+      "輸了",
+      "碰牌",
+      "吃牌"
+    ],
+    "options_en": [
+      "Win",
+      "Lose",
+      "Pong",
+      "Chow"
+    ],
+    "question_en": "What does '食糊' mean?",
+    "answer": 0,
+    "explanation_zh": "「食糊」就是贏了這一局。",
+    "explanation_en": "'食糊' means winning the round.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》的編劇是誰？",
+    "options_zh": [
+      "韋家輝、游乃海",
+      "劉鎮偉",
+      "谷德昭",
       "陳慶嘉"
     ],
     "options_en": [
-      "Wai Ka-fai",
-      "Johnnie To",
-      "Andrew Lau",
+      "Wai Ka-fai & Yau Nai-hoi",
+      "Jeffrey Lau",
+      "Vincent Kok",
       "Chan Hing-ka"
     ],
+    "question_en": "Who wrote the screenplay?",
     "answer": 0,
-    "explanation_zh": "由韋家輝執導。",
-    "explanation_en": "Directed by Wai Ka-fai.",
+    "explanation_zh": "韋家輝和游乃海編劇。",
+    "explanation_en": "Written by Wai Ka-fai and Yau Nai-hoi.",
+    "difficulty": 2
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》的片長是多少？",
+    "options_zh": [
+      "約90分鐘",
+      "約100分鐘",
+      "約110分鐘",
+      "約120分鐘"
+    ],
+    "options_en": [
+      "About 90 min",
+      "About 100 min",
+      "About 110 min",
+      "About 120 min"
+    ],
+    "question_en": "How long is the film?",
+    "answer": 1,
+    "explanation_zh": "片長約100分鐘。",
+    "explanation_en": "About 100 minutes.",
+    "difficulty": 2
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》是什麼級別的電影？",
+    "options_zh": [
+      "I級",
+      "IIA級",
+      "IIB級",
+      "III級"
+    ],
+    "options_en": [
+      "Category I",
+      "Category IIA",
+      "Category IIB",
+      "Category III"
+    ],
+    "question_en": "What is the film's rating?",
+    "answer": 0,
+    "explanation_zh": "《嚦咕嚦咕新年財》是I級（適合所有年齡）。",
+    "explanation_en": "It's Category I (suitable for all ages).",
     "difficulty": 1
   },
   {
-    "question_zh": "《嚦咕嚦咕新年財》中，劉德華飾演的角色叫什麼？",
-    "question_en": "What is Andy Laus character in Fat Choi Spirit?",
+    "question_zh": "《嚦咕嚦咕新年財》與《賭神》系列的關係是？",
     "options_zh": [
-      "Andy",
-      "阿財",
-      "華仔",
-      "賭神"
+      "同一宇宙的衍生作品",
+      "完全無關",
+      "同一導演的系列",
+      "續集"
     ],
     "options_en": [
-      "Andy",
-      "Ah Choi",
-      "Wah Zai",
-      "God of Gamblers"
+      "Same universe spin-off",
+      "Completely unrelated",
+      "Same director's series",
+      "Sequel"
     ],
+    "question_en": "What is its relationship to 'God of Gamblers'?",
     "answer": 0,
-    "explanation_zh": "劉德華飾演的角色叫Andy。",
-    "explanation_en": "Andy Laus character is named Andy.",
-    "difficulty": 1
-  },
-  {
-    "question_zh": "《嚦咕嚦咕新年財》中，梁詠琪飾演什麼角色？",
-    "question_en": "What role does Gigi Leung play in Fat Choi Spirit?",
-    "options_zh": [
-      "Joker",
-      "Queen",
-      "阿琪",
-      "小美"
-    ],
-    "options_en": [
-      "Joker",
-      "Queen",
-      "Ah Kei",
-      "Siu Mei"
-    ],
-    "answer": 0,
-    "explanation_zh": "梁詠琪飾演Joker。",
-    "explanation_en": "Gigi Leung plays Joker.",
-    "difficulty": 1
-  },
-  {
-    "question_zh": "《嚦咕嚦咕新年財》是什麼類型的電影？",
-    "question_en": "What genre is Fat Choi Spirit?",
-    "options_zh": [
-      "賀歲喜劇",
-      "動作片",
-      "恐怖片",
-      "文藝片"
-    ],
-    "options_en": [
-      "Lunar New Year comedy",
-      "Action",
-      "Horror",
-      "Drama"
-    ],
-    "answer": 0,
-    "explanation_zh": "是一部賀歲喜劇。",
-    "explanation_en": "It is a Lunar New Year comedy.",
-    "difficulty": 1
-  },
-  {
-    "question_zh": "《嚦咕嚦咕新年財》中，古天樂飾演的角色有什麼特點？",
-    "question_en": "What is special about Louis Koos character?",
-    "options_zh": [
-      "經常輸錢的麻將高手",
-      "黑幫老大",
-      "警察",
-      "醫生"
-    ],
-    "options_en": [
-      "Mahjong expert who often loses",
-      "Triad boss",
-      "Police officer",
-      "Doctor"
-    ],
-    "answer": 0,
-    "explanation_zh": "古天樂飾演自稱高手但經常輸錢的角色。",
-    "explanation_en": "Louis Koo plays a self-proclaimed expert who keeps losing.",
-    "difficulty": 1
-  },
-  {
-    "question_zh": "片名「嚦咕嚦咕」是什麼意思？",
-    "question_en": "What does Lek Gu Lek Gu mean?",
-    "options_zh": [
-      "麻將術語，摸牌的聲音",
-      "恭喜發財",
-      "新年快樂",
-      "打牌的動作"
-    ],
-    "options_en": [
-      "Mahjong term, drawing tiles sound",
-      "Congratulations",
-      "Happy New Year",
-      "Playing action"
-    ],
-    "answer": 0,
-    "explanation_zh": "是打麻將時摸牌的象聲詞。",
-    "explanation_en": "Onomatopoeia for drawing mahjong tiles.",
-    "difficulty": 1
-  },
-  {
-    "question_zh": "《嚦咕嚦咕新年財》與哪部電影系列有關？",
-    "question_en": "Which film series is Fat Choi Spirit related to?",
-    "options_zh": [
-      "《賭神》系列",
-      "《賭聖》系列",
-      "《賭俠》系列",
-      "《千王之王》系列"
-    ],
-    "options_en": [
-      "God of Gamblers",
-      "All for the Winner",
-      "God of Gamblers II",
-      "King of Gamblers"
-    ],
-    "answer": 0,
-    "explanation_zh": "是《賭神》系列的衍生作品。",
+    "explanation_zh": "是《賭神》系列的衍生作品，劉德華飾演退休賭神。",
     "explanation_en": "A spin-off of the God of Gamblers series.",
     "difficulty": 1
   },
   {
-    "question_zh": "《嚦咕嚦咕新年財》中，哪位演員飾演賭神高進？",
-    "question_en": "Who plays God of Gamblers Ko Chun?",
+    "question_zh": "《嚦咕嚦咕新年財》中，賭神的標誌性動作是什麼？",
     "options_zh": [
-      "劉德華",
-      "周潤發",
-      "周星馳",
-      "梁朝偉"
+      "摸戒指",
+      "戴太陽眼鏡",
+      "吃巧克力",
+      "戴手套"
     ],
     "options_en": [
-      "Andy Lau",
-      "Chow Yun-fat",
-      "Stephen Chow",
-      "Tony Leung"
+      "Touch ring",
+      "Wear sunglasses",
+      "Eat chocolate",
+      "Wear gloves"
     ],
+    "question_en": "What is the God of Gamblers' signature gesture?",
     "answer": 1,
-    "explanation_zh": "周潤發飾演賭神高進。",
-    "explanation_en": "Chow Yun-fat plays Ko Chun.",
+    "explanation_zh": "賭神的標誌是戴太陽眼鏡。",
+    "explanation_en": "The signature is wearing sunglasses.",
     "difficulty": 1
   },
   {
-    "question_zh": "《嚦咕嚦咕新年財》中，Joker的職業是什麼？",
-    "question_en": "What is Jokers profession in Fat Choi Spirit?",
+    "question_zh": "《嚦咕嚦咕新年財》中，哪首歌是主題曲？",
     "options_zh": [
-      "護士",
-      "空姐",
-      "教師",
-      "秘書"
+      "《恭喜發財》",
+      "《嚦咕嚦咕》",
+      "《新年財》",
+      "《賭神》"
     ],
     "options_en": [
-      "Nurse",
-      "Flight attendant",
-      "Teacher",
-      "Secretary"
+      "Congratulations",
+      "Lek Gu Lek Gu",
+      "New Year Fortune",
+      "God of Gamblers"
     ],
+    "question_en": "What is the theme song?",
     "answer": 0,
-    "explanation_zh": "Joker的職業是護士。",
-    "explanation_en": "Joker is a nurse.",
+    "explanation_zh": "主題曲是《恭喜發財》。",
+    "explanation_en": "The theme song is 'Congratulations and Prosperity'.",
     "difficulty": 1
   },
   {
-    "question_zh": "《嚦咕嚦咕新年財》是哪一年賀歲檔上映？",
-    "question_en": "When was Fat Choi Spirit released?",
+    "question_zh": "《嚦咕嚦咕新年財》中，古天樂的角色最後輸了多少錢？",
     "options_zh": [
-      "2000年龍年",
-      "2001年蛇年",
-      "2002年馬年",
-      "2003年羊年"
+      "一百萬",
+      "五百萬",
+      "一千萬",
+      "不詳"
     ],
     "options_en": [
-      "2000 Dragon",
-      "2001 Snake",
-      "2002 Horse",
-      "2003 Goat"
+      "1 million",
+      "5 million",
+      "10 million",
+      "Unknown"
     ],
-    "answer": 1,
-    "explanation_zh": "2001年蛇年賀歲檔上映。",
-    "explanation_en": "Released in 2001 Year of Snake.",
+    "question_en": "How much does Ah Mo lose?",
+    "answer": 3,
+    "explanation_zh": "電影沒有明確交代具體金額。",
+    "explanation_en": "The film doesn't specify the exact amount.",
     "difficulty": 2
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，Joker的醫藥費由誰支付？",
+    "options_zh": [
+      "Andy",
+      "阿Mo",
+      "保險公司",
+      "政府"
+    ],
+    "options_en": [
+      "Andy",
+      "Ah Mo",
+      "Insurance",
+      "Government"
+    ],
+    "question_en": "Who pays Joker's medical bills?",
+    "answer": 0,
+    "explanation_zh": "Andy贏了比賽後支付Joker的醫藥費。",
+    "explanation_en": "Andy pays after winning the tournament.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，Andy贏得比賽後做了什麼？",
+    "options_zh": [
+      "與Joker在一起",
+      "離開香港",
+      "繼續打牌",
+      "退休"
+    ],
+    "options_en": [
+      "Gets with Joker",
+      "Leaves HK",
+      "Continues playing",
+      "Retires"
+    ],
+    "question_en": "What does Andy do after winning?",
+    "answer": 0,
+    "explanation_zh": "Andy贏得比賽後與Joker在一起。",
+    "explanation_en": "Andy gets together with Joker after winning.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，阿Mo最後的結局是？",
+    "options_zh": [
+      "繼續打牌",
+      "放棄打牌找正當工作",
+      "出國",
+      "結婚"
+    ],
+    "options_en": [
+      "Continues playing",
+      "Gives up, finds proper job",
+      "Goes abroad",
+      "Gets married"
+    ],
+    "question_en": "What is Ah Mo's ending?",
+    "answer": 1,
+    "explanation_zh": "阿Mo最終放棄打牌，找正當工作。",
+    "explanation_en": "Ah Mo gives up mahjong and finds a proper job.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，哪位角色是真正的麻將高手？",
+    "options_zh": [
+      "Andy",
+      "阿Mo",
+      "Joker",
+      "Andy的母親"
+    ],
+    "options_en": [
+      "Andy",
+      "Ah Mo",
+      "Joker",
+      "Andy's mother"
+    ],
+    "question_en": "Who is the real mahjong expert?",
+    "answer": 0,
+    "explanation_zh": "Andy是真正的麻將高手。",
+    "explanation_en": "Andy is the real mahjong expert.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》的拍攝預算是多少？",
+    "options_zh": [
+      "約500萬",
+      "約1000萬",
+      "約2000萬",
+      "不詳"
+    ],
+    "options_en": [
+      "About 5M",
+      "About 10M",
+      "About 20M",
+      "Unknown"
+    ],
+    "question_en": "What was the filming budget?",
+    "answer": 3,
+    "explanation_zh": "具體預算沒有公開。",
+    "explanation_en": "The exact budget was not publicly disclosed.",
+    "difficulty": 2
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，最感人的場面是什麼？",
+    "options_zh": [
+      "Joker車禍",
+      "Andy重新打牌",
+      "阿Mo放棄打牌",
+      "結局團聚"
+    ],
+    "options_en": [
+      "Joker's accident",
+      "Andy returns",
+      "Ah Mo quits",
+      "Reunion ending"
+    ],
+    "question_en": "What is the most touching scene?",
+    "answer": 0,
+    "explanation_zh": "Joker車禍是最感人的場面。",
+    "explanation_en": "Joker's car accident is the most touching scene.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，Andy的母親對打牌的態度是？",
+    "options_zh": [
+      "支持",
+      "反對",
+      "中立",
+      "無所謂"
+    ],
+    "options_en": [
+      "Support",
+      "Oppose",
+      "Neutral",
+      "Indifferent"
+    ],
+    "question_en": "What is Andy's mother's attitude toward mahjong?",
+    "answer": 1,
+    "explanation_zh": "Andy的母親反對他打牌。",
+    "explanation_en": "Andy's mother opposes his mahjong playing.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，誰是故事的旁白者？",
+    "options_zh": [
+      "Andy",
+      "阿Mo",
+      "Joker",
+      "沒有旁白"
+    ],
+    "options_en": [
+      "Andy",
+      "Ah Mo",
+      "Joker",
+      "No narrator"
+    ],
+    "question_en": "Who narrates the story?",
+    "answer": 3,
+    "explanation_zh": "電影沒有旁白者。",
+    "explanation_en": "The film has no narrator.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，麻將比賽的獎金是多少？",
+    "options_zh": [
+      "一百萬",
+      "五百萬",
+      "一千萬",
+      "不詳"
+    ],
+    "options_en": [
+      "1 million",
+      "5 million",
+      "10 million",
+      "Unknown"
+    ],
+    "question_en": "What is the tournament prize?",
+    "answer": 3,
+    "explanation_zh": "電影沒有明確說明獎金金額。",
+    "explanation_en": "The film doesn't specify the exact prize amount.",
+    "difficulty": 2
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，Joker在醫院時對Andy說了什麼？",
+    "options_zh": [
+      "「我愛你」",
+      "「你係我最好嘅朋友」",
+      "「新年快樂」",
+      "「唔好再打牌」"
+    ],
+    "options_en": [
+      "I love you",
+      "You're my best friend",
+      "Happy New Year",
+      "Don't play mahjong anymore"
+    ],
+    "question_en": "What does Joker say to Andy in hospital?",
+    "answer": 1,
+    "explanation_zh": "Joker說「你係我最好嘅朋友」。",
+    "explanation_en": "Joker says 'You're my best friend.'",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，古天樂的角色為什麼經常輸錢？",
+    "options_zh": [
+      "技術差",
+      "運氣差",
+      "太自信",
+      "被人騙"
+    ],
+    "options_en": [
+      "Bad skill",
+      "Bad luck",
+      "Overconfident",
+      "Being scammed"
+    ],
+    "question_en": "Why does Ah Mo keep losing?",
+    "answer": 2,
+    "explanation_zh": "阿Mo太自信，實際技術不濟。",
+    "explanation_en": "Ah Mo is overconfident but lacks actual skill.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，劉德華的角色有什麼弱點？",
+    "options_zh": [
+      "太重感情",
+      "太貪心",
+      "太衝動",
+      "太懶"
+    ],
+    "options_en": [
+      "Too emotional",
+      "Too greedy",
+      "Too impulsive",
+      "Too lazy"
+    ],
+    "question_en": "What is Andy's weakness?",
+    "answer": 0,
+    "explanation_zh": "Andy太重感情，這是他的弱點。",
+    "explanation_en": "Andy is too emotional, which is his weakness.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《嚦咕嚦咕新年財》中，最後一幕發生在哪裡？",
+    "options_zh": [
+      "麻將館",
+      "醫院",
+      "家裡",
+      "街上"
+    ],
+    "options_en": [
+      "Mahjong parlor",
+      "Hospital",
+      "Home",
+      "Street"
+    ],
+    "question_en": "Where does the final scene take place?",
+    "answer": 2,
+    "explanation_zh": "最後一幕在家裡，一家人團聚。",
+    "explanation_en": "The final scene is at home, with family reunion.",
+    "difficulty": 1
   }
 ]

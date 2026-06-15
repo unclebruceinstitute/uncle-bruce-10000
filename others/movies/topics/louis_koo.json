@@ -1,112 +1,411 @@
 [
   {
-    "question_zh": "古天樂在TVB版《神鵰俠侶》（1995）中飾演誰？",
-    "question_en": "Who does Louis Koo play in TVBs Return of the Condor Heroes?",
+    "question_zh": "《神鵰俠侶》中，楊過的義父是誰？",
     "options_zh": [
-      "楊過",
+      "歐陽鋒",
+      "黃藥師",
+      "洪七公",
+      "一燈大師"
+    ],
+    "options_en": [
+      "Ouyang Feng",
+      "Huang Yaoshi",
+      "Hong Qigong",
+      "Yideng"
+    ],
+    "question_en": "Who is Yang Guo's godfather?",
+    "answer": 0,
+    "explanation_zh": "楊過認歐陽鋒為義父。",
+    "explanation_en": "Yang Guo's godfather is Ouyang Feng.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《神鵰俠侶》中，楊過的師父是誰？",
+    "options_zh": [
+      "小龍女",
+      "黃蓉",
       "郭靖",
-      "張無忌",
-      "令狐沖"
+      "趙志敬"
     ],
     "options_en": [
-      "Yang Guo",
+      "Xiaolongnü",
+      "Huang Rong",
       "Guo Jing",
-      "Zhang Wuji",
-      "Linghu Chong"
+      "Zhao Zhijing"
     ],
+    "question_en": "Who is Yang Guo's master?",
     "answer": 0,
-    "explanation_zh": "古天樂飾演楊過。",
-    "explanation_en": "Louis Koo plays Yang Guo.",
+    "explanation_zh": "小龍女是楊過的師父兼妻子。",
+    "explanation_en": "Xiaolongnü is his master and later wife.",
     "difficulty": 1
   },
   {
-    "question_zh": "《神鵰俠侶》中，小龍女由誰飾演？",
-    "question_en": "Who plays Xiaolongnü in the TVB version?",
+    "question_zh": "《神鵰俠侶》中，楊過用什麼武器？",
     "options_zh": [
-      "李若彤",
-      "陳玉蓮",
-      "范文芳",
-      "劉亦菲"
+      "玄鐵重劍",
+      "倚天劍",
+      "屠龍刀",
+      "打狗棒"
     ],
     "options_en": [
-      "Carman Lee",
-      "Idy Chan",
-      "Fann Wong",
-      "Liu Yifei"
+      "Heavy Iron Sword",
+      "Heaven Sword",
+      "Dragon Slaying Saber",
+      "Dog Beating Staff"
     ],
+    "question_en": "What weapon does Yang Guo use?",
     "answer": 0,
-    "explanation_zh": "李若彤飾演小龍女。",
-    "explanation_en": "Carman Lee plays Xiaolongnü.",
+    "explanation_zh": "楊過使用玄鐵重劍。",
+    "explanation_en": "Yang Guo uses the Heavy Iron Sword.",
     "difficulty": 1
   },
   {
-    "question_zh": "古天樂獲得過香港電影金像獎最佳男主角嗎？",
-    "question_en": "Has Louis Koo won the HK Film Award for Best Actor?",
+    "question_zh": "《尋秦記》中，項少龍從哪個年代穿越？",
     "options_zh": [
-      "有，1次",
-      "有，2次",
-      "沒有",
-      "有，3次"
+      "21世紀",
+      "20世紀",
+      "19世紀",
+      "22世紀"
     ],
     "options_en": [
-      "Yes, once",
-      "Yes, twice",
-      "No",
-      "Yes, 3 times"
+      "21st century",
+      "20th century",
+      "19th century",
+      "22nd century"
     ],
+    "question_en": "What era does he travel from?",
     "answer": 0,
-    "explanation_zh": "古天樂憑《殺破狼·貪狼》獲得2018年金像獎影帝。",
-    "explanation_en": "Louis Koo won Best Actor in 2018 for Paradox.",
+    "explanation_zh": "項少龍從21世紀穿越到秦國。",
+    "explanation_en": "He travels from the 21st century to the Qin dynasty.",
     "difficulty": 1
   },
   {
-    "question_zh": "古天樂創辦的電影公司叫什麼？",
-    "question_en": "What is Louis Koos film company called?",
+    "question_zh": "《尋秦記》中，嬴政由誰飾演？",
     "options_zh": [
-      "天下一電影",
-      "中國星",
-      "寰亞",
-      "英皇"
+      "林峯",
+      "林文龍",
+      "馬國明",
+      "陳鍵鋒"
     ],
     "options_en": [
-      "One Cool Film",
-      "China Star",
-      "Media Asia",
-      "Emperor"
+      "Raymond Lam",
+      "Lam Man-leung",
+      "Kenneth Ma",
+      "Sammul Chan"
     ],
+    "question_en": "Who plays Ying Zheng?",
     "answer": 0,
-    "explanation_zh": "古天樂創辦了天下一電影。",
-    "explanation_en": "Louis Koo founded One Cool Film.",
+    "explanation_zh": "林峯飾演嬴政。",
+    "explanation_en": "Raymond Lam plays Ying Zheng.",
     "difficulty": 1
   },
   {
-    "question_zh": "《尋秦記》（2001）中，古天樂飾演誰？",
-    "question_en": "Who does Louis Koo play in A Step into the Past?",
+    "question_zh": "《尋秦記》中，烏廷芳由誰飾演？",
     "options_zh": [
-      "項少龍",
-      "嬴政",
-      "趙盤",
-      "嫪毐"
+      "宣萱",
+      "郭羨妮",
+      "滕麗名",
+      "胡杏兒"
     ],
     "options_en": [
-      "Hsiang Shao-lung",
-      "Ying Zheng",
-      "Zhao Pan",
-      "Lao Ai"
+      "Jessica Hsuan",
+      "Sonija Kwok",
+      "Tavia Yeung",
+      "Myolie Wu"
     ],
+    "question_en": "Who plays Wu Ting-fong?",
     "answer": 0,
-    "explanation_zh": "古天樂飾演穿越到秦國的項少龍。",
-    "explanation_en": "Louis Koo plays time-traveler Hsiang Shao-lung.",
+    "explanation_zh": "宣萱飾演烏廷芳。",
+    "explanation_en": "Jessica Hsuan plays Wu Ting-fong.",
     "difficulty": 1
   },
   {
-    "question_zh": "古天樂的慈善基金在內地捐建了多少所學校？",
-    "question_en": "How many schools has Louis Koos charity built in mainland China?",
+    "question_zh": "《明日戰記》中，故事設定在哪一年？",
     "options_zh": [
-      "超過50所",
-      "超過100所",
-      "超過200所",
-      "超過300所"
+      "2055年",
+      "2035年",
+      "2045年",
+      "2065年"
+    ],
+    "options_en": [
+      "2055",
+      "2035",
+      "2045",
+      "2065"
+    ],
+    "question_en": "What year is 'Warriors of Future' set in?",
+    "answer": 0,
+    "explanation_zh": "故事設定在2055年。",
+    "explanation_en": "Set in 2055.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《明日戰記》中，古天樂飾演什麼角色？",
+    "options_zh": [
+      "泰來",
+      "鄭重生",
+      "臭鼬",
+      "譚冰"
+    ],
+    "options_en": [
+      "Tai Loi",
+      "Cheng Chung-sing",
+      "Stinker",
+      "Tan Bing"
+    ],
+    "question_en": "What role does Louis Koo play?",
+    "answer": 0,
+    "explanation_zh": "古天樂飾演泰來。",
+    "explanation_en": "Louis Koo plays Tai Loi.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《明日戰記》的特效用了多少年製作？",
+    "options_zh": [
+      "3年",
+      "5年",
+      "7年",
+      "10年"
+    ],
+    "options_en": [
+      "3 years",
+      "5 years",
+      "7 years",
+      "10 years"
+    ],
+    "question_en": "How long did the VFX take?",
+    "answer": 2,
+    "explanation_zh": "特效用了約7年製作。",
+    "explanation_en": "The VFX took about 7 years.",
+    "difficulty": 2
+  },
+  {
+    "question_zh": "《九龍城寨之圍城》改編自什麼？",
+    "options_zh": [
+      "小說",
+      "漫畫",
+      "真實事件",
+      "遊戲"
+    ],
+    "options_en": [
+      "Novel",
+      "Comic",
+      "True story",
+      "Game"
+    ],
+    "question_en": "What is it adapted from?",
+    "answer": 1,
+    "explanation_zh": "改編自余兒的漫畫《九龍城寨》。",
+    "explanation_en": "Adapted from the comic 'Kowloon Walled City'.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《九龍城寨之圍城》中，陳洛軍由誰飾演？",
+    "options_zh": [
+      "林峯",
+      "劉俊謙",
+      "胡子彤",
+      "張文傑"
+    ],
+    "options_en": [
+      "Raymond Lam",
+      "Terrance Lau",
+      "Tony Wu",
+      "Kenny Wong"
+    ],
+    "question_en": "Who plays Chen Lo-kwan?",
+    "answer": 1,
+    "explanation_zh": "劉俊謙飾演陳洛軍。",
+    "explanation_en": "Terrance Lau plays Chen Lo-kwan.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《竊聽風雲》系列共有幾集？",
+    "options_zh": [
+      "2集",
+      "3集",
+      "4集",
+      "5集"
+    ],
+    "options_en": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "question_en": "How many films in the 'Overheard' series?",
+    "answer": 1,
+    "explanation_zh": "共有3集。",
+    "explanation_en": "3 films in the series.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《竊聽風雲》中，古天樂與哪兩位演員合演？",
+    "options_zh": [
+      "劉青雲、吳彥祖",
+      "梁朝偉、劉德華",
+      "張家輝、謝霆鋒",
+      "黃秋生、曾志偉"
+    ],
+    "options_en": [
+      "Sean Lau, Daniel Wu",
+      "Tony Leung, Andy Lau",
+      "Nick Cheung, Nicholas Tse",
+      "Anthony Wong, Eric Tsang"
+    ],
+    "question_en": "Who are his co-stars?",
+    "answer": 0,
+    "explanation_zh": "古天樂與劉青雲、吳彥祖合演。",
+    "explanation_en": "He co-stars with Sean Lau and Daniel Wu.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《殺破狼·貪狼》中，古天樂飾演什麼角色？",
+    "options_zh": [
+      "尋找失蹤女兒的父親",
+      "殺手",
+      "警察",
+      "黑幫老大"
+    ],
+    "options_en": [
+      "Father searching for missing daughter",
+      "Hitman",
+      "Police",
+      "Triad boss"
+    ],
+    "question_en": "What role in 'Paradox'?",
+    "answer": 0,
+    "explanation_zh": "古天樂飾演一個去泰國尋找失蹤女兒的父親。",
+    "explanation_en": "He plays a father searching for his missing daughter in Thailand.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《殺破狼·貪狼》的動作指導是誰？",
+    "options_zh": [
+      "甄子丹",
+      "洪金寶",
+      "成龍",
+      "袁和平"
+    ],
+    "options_en": [
+      "Donnie Yen",
+      "Sammo Hung",
+      "Jackie Chan",
+      "Yuen Woo-ping"
+    ],
+    "question_en": "Who is the action director?",
+    "answer": 0,
+    "explanation_zh": "甄子丹是動作指導。",
+    "explanation_en": "Donnie Yen is the action director.",
+    "difficulty": 2
+  },
+  {
+    "question_zh": "《掃毒》（2013）中，三兄弟最後的結局如何？",
+    "options_zh": [
+      "一死兩生",
+      "三人都死",
+      "三人都生",
+      "兩死一生"
+    ],
+    "options_en": [
+      "One dies, two live",
+      "All die",
+      "All live",
+      "Two die, one lives"
+    ],
+    "question_en": "What happens to the three brothers?",
+    "answer": 0,
+    "explanation_zh": "最後一死兩生。",
+    "explanation_en": "One dies, two survive.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《使徒行者》電影版中，古天樂飾演什麼角色？",
+    "options_zh": [
+      "卧底",
+      "黑幫",
+      "警察",
+      "商人"
+    ],
+    "options_en": [
+      "Undercover",
+      "Triad",
+      "Police",
+      "Businessman"
+    ],
+    "question_en": "What role in 'Line Walker' the movie?",
+    "answer": 0,
+    "explanation_zh": "古天樂飾演卧底。",
+    "explanation_en": "He plays an undercover agent.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《反貪風暴》系列共有幾集？",
+    "options_zh": [
+      "3集",
+      "4集",
+      "5集",
+      "6集"
+    ],
+    "options_en": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "question_en": "How many films in the 'Z Storm' series?",
+    "answer": 1,
+    "explanation_zh": "共有4集（Z Storm, S Storm, L Storm, P Storm）。",
+    "explanation_en": "4 films in the series.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《反貪風暴》中，古天樂飾演什麼機構的人員？",
+    "options_zh": [
+      "廉政公署",
+      "商業罪案調查科",
+      "保安局",
+      "律政司"
+    ],
+    "options_en": [
+      "ICAC",
+      "CCB",
+      "Security Bureau",
+      "Department of Justice"
+    ],
+    "question_en": "What agency does he work for?",
+    "answer": 0,
+    "explanation_zh": "古天樂飾演廉政公署調查主任。",
+    "explanation_en": "He plays an ICAC investigator.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "古天樂在TVB的出道作是什麼？",
+    "options_zh": [
+      "《婚姻物語》",
+      "《神鵰俠侶》",
+      "《刑事偵緝檔案》",
+      "《天地男兒》"
+    ],
+    "options_en": [
+      "Love and Marriage",
+      "Return of the Condor Heroes",
+      "Detective Investigation Files",
+      "Cold Blood Warm Heart"
+    ],
+    "question_en": "What was his TVB debut?",
+    "answer": 0,
+    "explanation_zh": "古天樂的TVB出道作是《婚姻物語》。",
+    "explanation_en": "His TVB debut was 'Love and Marriage'.",
+    "difficulty": 2
+  },
+  {
+    "question_zh": "古天樂的公司「天下一」投資了多少部電影？",
+    "options_zh": [
+      "超過50部",
+      "超過100部",
+      "超過200部",
+      "超過300部"
     ],
     "options_en": [
       "Over 50",
@@ -114,129 +413,270 @@
       "Over 200",
       "Over 300"
     ],
+    "question_en": "How many films has One Cool invested in?",
     "answer": 1,
-    "explanation_zh": "古天樂捐建了超過100所學校。",
-    "explanation_en": "Louis Koo has built over 100 schools.",
-    "difficulty": 1
-  },
-  {
-    "question_zh": "古天樂在哪一年擔任香港演藝人協會會長？",
-    "question_en": "When did Louis Koo become HKAPA president?",
-    "options_zh": [
-      "2016年",
-      "2018年",
-      "2019年",
-      "2020年"
-    ],
-    "options_en": [
-      "2016",
-      "2018",
-      "2019",
-      "2020"
-    ],
-    "answer": 2,
-    "explanation_zh": "古天樂2019年當選會長。",
-    "explanation_en": "Louis Koo became president in 2019.",
+    "explanation_zh": "天下一投資了超過100部電影。",
+    "explanation_en": "One Cool has invested in over 100 films.",
     "difficulty": 2
   },
   {
-    "question_zh": "《明日戰記》（2022）是什麼類型的電影？",
-    "question_en": "What genre is Warriors of Future (2022)?",
+    "question_zh": "古天樂在哪一年獲得金像獎影帝？",
     "options_zh": [
-      "科幻動作片",
-      "愛情片",
-      "喜劇片",
-      "文藝片"
+      "2016年",
+      "2017年",
+      "2018年",
+      "2019年"
     ],
     "options_en": [
-      "Sci-fi action",
-      "Romance",
-      "Comedy",
-      "Drama"
+      "2016",
+      "2017",
+      "2018",
+      "2019"
     ],
-    "answer": 0,
-    "explanation_zh": "《明日戰記》是香港首部大型科幻動作片。",
-    "explanation_en": "Warriors of Future is HKs first major sci-fi action film.",
+    "question_en": "When did he win Best Actor?",
+    "answer": 2,
+    "explanation_zh": "2018年憑《殺破狼·貪狼》獲得。",
+    "explanation_en": "Won in 2018 for 'Paradox'.",
     "difficulty": 1
   },
   {
-    "question_zh": "古天樂的膚色為何特別黑？",
-    "question_en": "Why is Louis Koos skin particularly dark?",
+    "question_zh": "古天樂的生日是什麼時候？",
     "options_zh": [
-      "故意曬黑",
-      "天生膚色",
-      "化妝效果",
-      "長期拍戲曬黑"
+      "10月21日",
+      "10月22日",
+      "10月23日",
+      "10月24日"
     ],
     "options_en": [
-      "Intentionally tanned",
-      "Natural",
-      "Makeup",
-      "Tanned from filming"
+      "Oct 21",
+      "Oct 22",
+      "Oct 23",
+      "Oct 24"
     ],
+    "question_en": "When is his birthday?",
     "answer": 0,
-    "explanation_zh": "古天樂為了擺脫白面書生形象而故意曬黑。",
-    "explanation_en": "Louis Koo tanned to shed his pale scholar image.",
+    "explanation_zh": "10月21日。",
+    "explanation_en": "October 21.",
     "difficulty": 1
   },
   {
-    "question_zh": "古天樂出生於哪一年？",
-    "question_en": "In which year was Louis Koo born?",
+    "question_zh": "古天樂在《刑事偵緝檔案IV》中飾演誰？",
     "options_zh": [
-      "1968年",
-      "1970年",
-      "1972年",
-      "1974年"
+      "徐飛",
+      "張大勇",
+      "李忠義",
+      "高婕"
     ],
     "options_en": [
-      "1968",
-      "1970",
-      "1972",
-      "1974"
+      "Tsui Fei",
+      "Cheung Tai-yung",
+      "Lee Chung-yi",
+      "Go Kit"
     ],
+    "question_en": "Who does he play in 'Detective Investigation Files IV'?",
+    "answer": 0,
+    "explanation_zh": "古天樂飾演徐飛。",
+    "explanation_en": "He plays Tsui Fei.",
+    "difficulty": 2
+  },
+  {
+    "question_zh": "古天樂與誰被稱為「古宣CP」？",
+    "options_zh": [
+      "宣萱",
+      "郭羨妮",
+      "胡杏兒",
+      "佘詩曼"
+    ],
+    "options_en": [
+      "Jessica Hsuan",
+      "Sonija Kwok",
+      "Myolie Wu",
+      "Charmaine Sheh"
+    ],
+    "question_en": "Who is his famous on-screen partner?",
+    "answer": 0,
+    "explanation_zh": "古天樂與宣萱被稱為「古宣CP」。",
+    "explanation_en": "He and Jessica Hsuan are known as the 'Gu-Xuan CP'.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "古天樂在哪一年成立古天樂慈善基金？",
+    "options_zh": [
+      "2006年",
+      "2008年",
+      "2009年",
+      "2010年"
+    ],
+    "options_en": [
+      "2006",
+      "2008",
+      "2009",
+      "2010"
+    ],
+    "question_en": "When was his charity founded?",
+    "answer": 2,
+    "explanation_zh": "2009年成立。",
+    "explanation_en": "Founded in 2009.",
+    "difficulty": 2
+  },
+  {
+    "question_zh": "古天樂在《犯罪現場》（2019）中飾演什麼角色？",
+    "options_zh": [
+      "盲人",
+      "聾人",
+      "殘障人士",
+      "正常人"
+    ],
+    "options_en": [
+      "Blind person",
+      "Deaf person",
+      "Disabled person",
+      "Normal person"
+    ],
+    "question_en": "What special role in 'A Witness Out of the Blue'?",
+    "answer": 0,
+    "explanation_zh": "古天樂飾演一個盲人。",
+    "explanation_en": "He plays a blind person.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "古天樂主演的《真·三國無雙》（2021）改編自什麼？",
+    "options_zh": [
+      "電子遊戲",
+      "小說",
+      "漫畫",
+      "歷史"
+    ],
+    "options_en": [
+      "Video game",
+      "Novel",
+      "Comic",
+      "History"
+    ],
+    "question_en": "What is it adapted from?",
+    "answer": 0,
+    "explanation_zh": "改編自光榮的電子遊戲《真·三國無雙》。",
+    "explanation_en": "Adapted from Koei's video game 'Dynasty Warriors'.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "古天樂在《風林火山》中飾演什麼角色？",
+    "options_zh": [
+      "卧底警察",
+      "黑幫老大",
+      "殺手",
+      "商人"
+    ],
+    "options_en": [
+      "Undercover cop",
+      "Triad boss",
+      "Hitman",
+      "Businessman"
+    ],
+    "question_en": "What role in 'Sons of the Neon Night'?",
     "answer": 1,
-    "explanation_zh": "古天樂1970年10月21日出生。",
-    "explanation_en": "Louis Koo was born October 21, 1970.",
+    "explanation_zh": "古天樂飾演黑幫老大。",
+    "explanation_en": "He plays a triad boss.",
     "difficulty": 1
   },
   {
-    "question_zh": "《九龍城寨之圍城》（2024）中，古天樂飾演誰？",
-    "question_en": "Who does Louis Koo play in Twilight of the Warriors?",
+    "question_zh": "古天樂的膚色從什麼時候開始變黑？",
     "options_zh": [
-      "龍捲風",
-      "陳洛軍",
-      "信一",
-      "四仔"
+      "1990年代中期",
+      "2000年代",
+      "天生",
+      "2010年代"
     ],
     "options_en": [
-      "Tornado",
-      "Chen Lo-kwan",
-      "Yan Yi",
-      "Four"
+      "Mid 1990s",
+      "2000s",
+      "Natural",
+      "2010s"
     ],
+    "question_en": "When did he start tanning?",
     "answer": 0,
-    "explanation_zh": "古天樂飾演龍捲風。",
-    "explanation_en": "Louis Koo plays Tornado.",
+    "explanation_zh": "1990年代中期開始故意曬黑。",
+    "explanation_en": "Started tanning intentionally in the mid-1990s.",
     "difficulty": 1
   },
   {
-    "question_zh": "《竊聽風雲》系列中，古天樂飾演什麼職業？",
-    "question_en": "What is Louis Koos profession in the Overheard series?",
+    "question_zh": "古天樂在《蜀山傳》（2001）中飾演誰？",
     "options_zh": [
-      "商業罪案調查科探員",
-      "廉政公署調查員",
-      "保安局局長",
-      "金融分析師"
+      "玄天宗",
+      "丹辰子",
+      "李英奇",
+      "廉刑"
     ],
     "options_en": [
-      "CCB officer",
-      "ICAC investigator",
-      "Security Bureau chief",
-      "Financial analyst"
+      "Xuan Tianzong",
+      "Dan Chenzi",
+      "Li Yingqi",
+      "Lian Xing"
     ],
+    "question_en": "Who does he play in 'The Legend of Zu'?",
     "answer": 0,
-    "explanation_zh": "古天樂飾演商業罪案調查科探員。",
-    "explanation_en": "Louis Koo plays a CCB officer.",
+    "explanation_zh": "古天樂飾演玄天宗。",
+    "explanation_en": "He plays Xuan Tianzong.",
+    "difficulty": 2
+  },
+  {
+    "question_zh": "古天樂與劉德華合演的電影中，最受好評的是哪部？",
+    "options_zh": [
+      "《掃毒》",
+      "《拆彈專家2》",
+      "《金手指》",
+      "《風暴》"
+    ],
+    "options_en": [
+      "The White Storm",
+      "Shock Wave 2",
+      "The Goldfinger",
+      "Firestorm"
+    ],
+    "question_en": "Which is their most acclaimed film together?",
+    "answer": 0,
+    "explanation_zh": "《掃毒》（2013）是兩人合作最受好評的電影。",
+    "explanation_en": "'The White Storm' (2013) is their most acclaimed collaboration.",
     "difficulty": 1
+  },
+  {
+    "question_zh": "古天樂在《明日戰記》中的角色有什麼特點？",
+    "options_zh": [
+      "機甲戰士",
+      "飛行員",
+      "醫生",
+      "科學家"
+    ],
+    "options_en": [
+      "Mecha warrior",
+      "Pilot",
+      "Doctor",
+      "Scientist"
+    ],
+    "question_en": "What is his character's specialty?",
+    "answer": 0,
+    "explanation_zh": "古天樂飾演機甲戰士。",
+    "explanation_en": "He plays a mecha warrior.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "古天樂在哪一年獲得香港十大傑出青年？",
+    "options_zh": [
+      "2006年",
+      "2008年",
+      "2010年",
+      "未獲得過"
+    ],
+    "options_en": [
+      "2006",
+      "2008",
+      "2010",
+      "Never"
+    ],
+    "question_en": "When did he receive the Ten Outstanding Young Persons award?",
+    "answer": 3,
+    "explanation_zh": "古天樂未獲得過此獎。",
+    "explanation_en": "He has not received this award.",
+    "difficulty": 2
   }
 ]

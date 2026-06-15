@@ -186,10 +186,13 @@ opts.forEach(o=>o.classList.add('disabled'));
 const correctIdx=q.answer;
 if(idx===correctIdx){
 opts[idx].classList.add('correct');
+opts[idx].innerHTML+=' ✅';
 correct++;
 }else{
 opts[idx].classList.add('wrong');
+opts[idx].innerHTML+=' ❌';
 opts[correctIdx].classList.add('correct');
+opts[correctIdx].innerHTML+=' ✅';
 }
 const eKey=lang==='zh'?'explanation_zh':'explanation_en';
 document.getElementById('explanationText').textContent=q[eKey]||q.explanation_zh||'';
