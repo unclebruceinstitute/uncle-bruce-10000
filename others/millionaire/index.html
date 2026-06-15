@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>💰 百萬富翁 | Millionaire Quiz — 大B舅父萬題庫</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK','Microsoft JhengHei',sans-serif;background:#f0f2f5;color:#333}
+.container{max-width:800px;margin:0 auto;padding:16px}
+.header{text-align:center;padding:24px 0;color:#fff;border-radius:16px;margin-bottom:20px;background:linear-gradient(135deg,#f39c12,#e67e22)}
+.header h1{font-size:26px;margin-bottom:4px}
+.header p{font-size:14px;opacity:.9}
+.top-bar{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}
+.lang-toggle{display:flex;gap:4px}
+.lang-btn{padding:6px 12px;border:1px solid #f39c12;border-radius:20px;background:#fff;cursor:pointer;font-size:12px;transition:.2s;color:#f39c12}
+.lang-btn.active{background:#f39c12;color:#fff}
+.home-link{padding:8px 16px;border:1px solid #ddd;border-radius:8px;background:#fff;cursor:pointer;font-size:14px;text-decoration:none;color:#333;display:inline-block}
+.home-link:hover{background:#f5f5f5}
+.quiz-area{background:#fff;border-radius:16px;padding:24px;box-shadow:0 2px 12px rgba(0,0,0,.08)}
+.question-text{font-size:18px;line-height:1.8;margin-bottom:20px;font-weight:500}
+.options{display:flex;flex-direction:column;gap:10px}
+.option{padding:14px 16px;border:2px solid #e8e8e8;border-radius:10px;cursor:pointer;transition:.2s;font-size:16px;line-height:1.5}
+.option:hover{background:#fff8e1}
+.option.correct{border-color:#4caf50;background:#e8f5e9}
+.option.wrong{border-color:#f44336;background:#fce4ec}
+.option.disabled{pointer-events:none;opacity:.7}
+.explanation{margin-top:16px;padding:16px;background:#fff8e1;border-radius:10px;border-left:4px solid #f39c12;display:none}
+.explanation.show{display:block}
+.explanation p{font-size:14px;line-height:1.6}
+.btn{padding:12px 24px;border:none;border-radius:10px;font-size:16px;font-weight:600;cursor:pointer;transition:.2s;background:#f39c12;color:#fff}
+.btn:hover{opacity:.9}
+.btn-group{display:flex;gap:12px;margin-top:20px;justify-content:center}
+.progress{width:100%;height:6px;background:#e0e0e0;border-radius:3px;margin-bottom:16px;overflow:hidden}
+.progress-bar{height:100%;background:#f39c12;border-radius:3px;transition:.3s}
+.hidden{display:none}
+.stats-bar{display:flex;justify-content:space-around;background:#fff;border-radius:12px;padding:12px;margin-bottom:16px;box-shadow:0 2px 8px rgba(0,0,0,.08)}
+.stat{text-align:center}
+.stat-num{font-size:24px;font-weight:700;color:#f39c12}
+.stat-label{font-size:12px;color:#888}
+.q-num{font-size:14px;font-weight:600;color:#888;margin-bottom:8px}
+.ft{margin-top:30px;color:#888;font-size:.75rem;text-align:center}
+.prize-ladder{position:fixed;right:16px;top:50%;transform:translateY(-50%);background:#fff;border-radius:12px;padding:12px;box-shadow:0 2px 12px rgba(0,0,0,.1);font-size:13px;display:none}
+.prize-ladder .prize{padding:4px 8px;border-radius:6px;margin:2px 0;text-align:right}
+.prize-ladder .prize.current{background:#fff3cd;font-weight:700;color:#f39c12}
+.prize-ladder .prize.safe{color:#2e7d32}
+@media(min-width:1000px){.prize-ladder{display:block}}
+</style>
+</head>
+<body>
+<div class="container">
+<div class="top-bar">
+<a class="home-link" href="../" data-zh="← 返回其他" data-en="← Others">← 返回其他</a>
+<div class="lang-toggle">
+<button class="lang-btn active" onclick="setLang('zh')">中文</button>
+<button class="lang-btn" onclick="setLang('en')">EN</button>
+</div>
+</div>
+
+<div class="header">
+<h1>💰 <span data-zh="百萬富翁" data-en="Millionaire">百萬富翁</span></h1>
+<p data-zh="Who Wants to Be a Millionaire?" data-en="Who Wants to Be a Millionaire?">Who Wants to Be a Millionaire?</p>
+</div>
+
+<div class="stats-bar">
+<div class="stat"><div class="stat-num" id="totalQ">0</div><div class="stat-label" data-zh="總題數" data-en="Total">總題數</div></div>
+<div class="stat"><div class="stat-num" id="doneQ">0</div><div class="stat-label" data-zh="已完成" data-en="Done">已完成</div></div>
+<div class="stat"><div class="stat-num" id="correctQ">0</div><div class="stat-label" data-zh="答對" data-en="Correct">答對</div></div>
+<div class="stat"><div class="stat-num" id="accuracy">0%</div><div class="stat-label" data-zh="正確率" data-en="Accuracy">正確率</div></div>
+</div>
+
+<!-- Start View -->
+<div id="startView" style="text-align:center;padding:30px 0">
+<div style="font-size:80px;margin-bottom:16px">💰</div>
+<h2 data-zh="百萬富翁問答" data-en="Millionaire Quiz">百萬富翁問答</h2>
+<p style="margin:16px 0;color:#666" data-zh="答對15條問題贏取百萬獎金！" data-en="Answer 15 questions to win a million!">答對15條問題贏取百萬獎金！</p>
+<button class="btn" onclick="startQuiz()" data-zh="開始遊戲" data-en="Start Game">開始遊戲</button>
+</div>
+
+<!-- Quiz View -->
+<div id="quizView" class="hidden">
+<div class="progress"><div class="progress-bar" id="progressBar" style="width:0%"></div></div>
+<div class="quiz-area">
+<div class="q-num" id="qNum"></div>
+<div class="question-text" id="qText"></div>
+<div class="options" id="optionsDiv"></div>
+<div class="explanation" id="explanation"><p id="explanationText"></p></div>
+<div class="btn-group" id="btnGroup" style="display:none">
+<button class="btn" onclick="nextQuestion()" data-zh="下一題" data-en="Next">下一題</button>
+</div>
+</div>
+</div>
+
+<!-- Result View -->
+<div id="resultView" class="hidden" style="text-align:center;padding:40px 0">
+<div id="resultEmoji" style="font-size:80px;margin-bottom:16px">🎉</div>
+<h2 id="resultTitle"></h2>
+<p id="resultText" style="font-size:18px;margin:16px 0;color:#666"></p>
+<div class="btn-group">
+<button class="btn" onclick="startQuiz()" style="background:#27ae60" data-zh="再玩一次" data-en="Play Again">再玩一次</button>
+</div>
+</div>
+
+<div class="ft">© 2026 Uncle Bruce Institute 大B舅父教室</div>
+</div>
+
+<div class="prize-ladder" id="prizeLadder">
+<div style="text-align:center;font-weight:700;margin-bottom:8px;color:#f39c12">💰 獎金</div>
+<div class="prize" data-q="15">$1,000,000</div>
+<div class="prize" data-q="14">$500,000</div>
+<div class="prize" data-q="13">$250,000</div>
+<div class="prize" data-q="12">$125,000</div>
+<div class="prize" data-q="11">$64,000</div>
+<div class="prize" data-q="10">$32,000</div>
+<div class="prize safe" data-q="9">$16,000</div>
+<div class="prize" data-q="8">$8,000</div>
+<div class="prize" data-q="7">$4,000</div>
+<div class="prize" data-q="6">$2,000</div>
+<div class="prize safe" data-q="5">$1,000</div>
+<div class="prize" data-q="4">$500</div>
+<div class="prize" data-q="3">$300</div>
+<div class="prize" data-q="2">$200</div>
+<div class="prize" data-q="1">$100</div>
+</div>
+
+<script>
+let questions=[],currentQ=0,correct=0,answered=0,lang='zh';
+const prizes=[0,100,200,300,500,1000,2000,4000,8000,16000,32000,64000,125000,250000,500000,1000000];
+
+async function loadQuestions(){
+try{
+const resp=await fetch('topics/millionaire.json');
+questions=await resp.json();
+document.getElementById('totalQ').textContent=questions.length;
+}catch(e){console.error('Load failed:',e)}
+}
+
+async function startQuiz(){
+await loadQuestions();
+shuffle(questions);
+currentQ=0;correct=0;answered=0;
+updateStats();
+document.getElementById('startView').classList.add('hidden');
+document.getElementById('quizView').classList.remove('hidden');
+document.getElementById('resultView').classList.add('hidden');
+document.getElementById('prizeLadder').style.display='';
+showQuestion();
+}
+
+function showQuestion(){
+if(currentQ>=questions.length||currentQ>=15){showResult();return}
+const q=questions[currentQ];
+const qKey=lang==='zh'?'question_zh':'question_en';
+const oKey=lang==='zh'?'options_zh':'options_en';
+const eKey=lang==='zh'?'explanation_zh':'explanation_en';
+document.getElementById('qNum').textContent=`第 ${currentQ+1} 題 / 獎金 $${prizes[currentQ+1].toLocaleString()}`;
+document.getElementById('qText').textContent=q[qKey]||q.question_zh||'';
+document.getElementById('progressBar').style.width=`${(currentQ/15)*100}%`;
+const opts=q[oKey]||q.options_zh||[];
+const labels=['A','B','C','D'];
+const div=document.getElementById('optionsDiv');
+div.innerHTML='';
+opts.forEach((o,i)=>{
+const el=document.createElement('div');
+el.className='option';
+el.textContent=`${labels[i]}. ${o}`;
+el.onclick=()=>checkAnswer(i,q);
+div.appendChild(el);
+});
+document.getElementById('explanation').classList.remove('show');
+document.getElementById('btnGroup').style.display='none';
+updatePrizeLadder();
+}
+
+function checkAnswer(idx,q){
+answered++;
+const opts=document.querySelectorAll('.option');
+opts.forEach(o=>o.classList.add('disabled'));
+const correctIdx=q.answer;
+if(idx===correctIdx){
+opts[correctIdx].classList.add('correct');
+correct++;
+}else{
+opts[idx].classList.add('wrong');
+opts[correctIdx].classList.add('correct');
+}
+const eKey=lang==='zh'?'explanation_zh':'explanation_en';
+document.getElementById('explanationText').textContent=q[eKey]||q.explanation_zh||'';
+document.getElementById('explanation').classList.add('show');
+document.getElementById('btnGroup').style.display='flex';
+updateStats();
+}
+
+function nextQuestion(){
+currentQ++;
+showQuestion();
+}
+
+function showResult(){
+document.getElementById('quizView').classList.add('hidden');
+document.getElementById('resultView').classList.remove('hidden');
+const prize=prizes[correct]||0;
+document.getElementById('resultTitle').textContent=`答對 ${correct} 題 — 獎金 $${prize.toLocaleString()}`;
+if(correct>=15){
+document.getElementById('resultEmoji').textContent='🏆';
+document.getElementById('resultText').textContent='恭喜！你係百萬富翁！';
+}else if(correct>=10){
+document.getElementById('resultEmoji').textContent='🎉';
+document.getElementById('resultText').textContent='好犀利！差啲就贏到百萬！';
+}else if(correct>=5){
+document.getElementById('resultEmoji').textContent='👍';
+document.getElementById('resultText').textContent='唔錯！繼續努力！';
+}else{
+document.getElementById('resultEmoji').textContent='😅';
+document.getElementById('resultText').textContent='再接再厲！';
+}
+document.getElementById('prizeLadder').style.display='none';
+}
+
+function updateStats(){
+document.getElementById('doneQ').textContent=answered;
+document.getElementById('correctQ').textContent=correct;
+document.getElementById('accuracy').textContent=answered?Math.round(correct/answered*100)+'%':'0%';
+}
+
+function updatePrizeLadder(){
+document.querySelectorAll('.prize').forEach(el=>{
+const q=parseInt(el.dataset.q);
+el.classList.toggle('current',q===currentQ+1);
+});
+}
+
+function shuffle(arr){for(let i=arr.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[arr[i],arr[j]]=[arr[j],arr[i]]}}
+
+function setLang(l){
+lang=l;
+document.querySelectorAll('[data-zh]').forEach(el=>{el.textContent=el.getAttribute('data-'+l)});
+document.querySelectorAll('.lang-btn').forEach(b=>b.classList.remove('active'));
+document.querySelector(`.lang-btn[onclick*="${l}"]`).classList.add('active');
+if(!document.getElementById('quizView').classList.contains('hidden'))showQuestion();
+}
+
+loadQuestions();
+</script>
+</body>
+</html>
