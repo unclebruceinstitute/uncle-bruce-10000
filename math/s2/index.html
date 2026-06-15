@@ -365,6 +365,7 @@ function setLang(l){
     if(el.dataset.zh&&el.dataset.en)el.textContent=l==='zh'?el.dataset.zh:el.dataset.en;
   });
   renderTopics();
+  if(currentQuiz.length>0&&currentIndex<currentQuiz.length)showQuestion();
 }
 
 function setMode(m){
@@ -421,13 +422,16 @@ function startQuiz(){
 
 function shuffleOptions(q){
   if(q._shuffled)return;
-  var rawOpts=getOpts(q),ans=getAns(q);
-  var clean=rawOpts.map(function(o){return o.replace(/^[A-Da-d][.．、]\s*/,'')});
-  var n=clean.length;
+  var ans=getAns(q);
+  var rawZh=q.options_zh||q.options||[];
+  var rawEn=q.options_en||q.options_zh||q.options||[];
+  var cleanZh=rawZh.map(function(o){return String(o).replace(/^[A-Da-d][.．、]\s*/,'')});
+  var cleanEn=rawEn.map(function(o){return String(o).replace(/^[A-Da-d][.．、]\s*/,'')});
+  var n=cleanZh.length;
   var idx=[];
   for(var i=0;i<n;i++)idx.push(i);
   for(var i=n-1;i>0;i--){var j=Math.floor(Math.random()*(i+1));var t=idx[i];idx[i]=idx[j];idx[j]=t;}
-  q._opts=[idx.map(function(i){return clean[i]}), idx.map(function(i){return clean[i]})];
+  q._opts=[idx.map(function(i){return cleanZh[i]}), idx.map(function(i){return cleanEn[i]})];
   q._ans=idx.indexOf(ans);
   q._shuffled=true;
 }
