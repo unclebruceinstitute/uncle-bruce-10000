@@ -1,0 +1,502 @@
+[
+  {
+    "question_zh": "等差數列：14, 16, 18, 20, 22, ...，求第 14 項",
+    "question_en": "AP: 14, 16, 18, 20, 22, ..., find term 14",
+    "options_zh": [
+      "40",
+      "42",
+      "38",
+      "41"
+    ],
+    "options_en": [
+      "40",
+      "42",
+      "38",
+      "41"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 2，第14項 = 14 + 2×13 = 40",
+    "explanation_en": "Common diff = 2, term 14 = 40",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：18, 23, 28, 33, 38, ...，求第 11 項",
+    "question_en": "AP: 18, 23, 28, 33, 38, ..., find term 11",
+    "options_zh": [
+      "68",
+      "73",
+      "63",
+      "69"
+    ],
+    "options_en": [
+      "68",
+      "73",
+      "63",
+      "69"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 5，第11項 = 18 + 5×10 = 68",
+    "explanation_en": "Common diff = 5, term 11 = 68",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：14, 17, 20, 23, 26, ...，求第 11 項",
+    "question_en": "AP: 14, 17, 20, 23, 26, ..., find term 11",
+    "options_zh": [
+      "44",
+      "47",
+      "41",
+      "45"
+    ],
+    "options_en": [
+      "44",
+      "47",
+      "41",
+      "45"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 3，第11項 = 14 + 3×10 = 44",
+    "explanation_en": "Common diff = 3, term 11 = 44",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：20, 27, 34, 41, 48, ...，求第 7 項",
+    "question_en": "AP: 20, 27, 34, 41, 48, ..., find term 7",
+    "options_zh": [
+      "62",
+      "69",
+      "55",
+      "63"
+    ],
+    "options_en": [
+      "62",
+      "69",
+      "55",
+      "63"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 7，第7項 = 20 + 7×6 = 62",
+    "explanation_en": "Common diff = 7, term 7 = 62",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：10, 20, 30, 40, 50, ...，求第 10 項",
+    "question_en": "AP: 10, 20, 30, 40, 50, ..., find term 10",
+    "options_zh": [
+      "100",
+      "110",
+      "90",
+      "101"
+    ],
+    "options_en": [
+      "100",
+      "110",
+      "90",
+      "101"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 10，第10項 = 10 + 10×9 = 100",
+    "explanation_en": "Common diff = 10, term 10 = 100",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：14, 21, 28, 35, 42, ...，求第 12 項",
+    "question_en": "AP: 14, 21, 28, 35, 42, ..., find term 12",
+    "options_zh": [
+      "91",
+      "98",
+      "84",
+      "92"
+    ],
+    "options_en": [
+      "91",
+      "98",
+      "84",
+      "92"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 7，第12項 = 14 + 7×11 = 91",
+    "explanation_en": "Common diff = 7, term 12 = 91",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：10, 20, 30, 40, 50, ...，求第 8 項",
+    "question_en": "AP: 10, 20, 30, 40, 50, ..., find term 8",
+    "options_zh": [
+      "80",
+      "90",
+      "70",
+      "81"
+    ],
+    "options_en": [
+      "80",
+      "90",
+      "70",
+      "81"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 10，第8項 = 10 + 10×7 = 80",
+    "explanation_en": "Common diff = 10, term 8 = 80",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：7, 15, 23, 31, 39, ...，求第 12 項",
+    "question_en": "AP: 7, 15, 23, 31, 39, ..., find term 12",
+    "options_zh": [
+      "95",
+      "103",
+      "87",
+      "96"
+    ],
+    "options_en": [
+      "95",
+      "103",
+      "87",
+      "96"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 8，第12項 = 7 + 8×11 = 95",
+    "explanation_en": "Common diff = 8, term 12 = 95",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：6, 12, 18, 24, 30, ...，求第 12 項",
+    "question_en": "AP: 6, 12, 18, 24, 30, ..., find term 12",
+    "options_zh": [
+      "72",
+      "78",
+      "66",
+      "73"
+    ],
+    "options_en": [
+      "72",
+      "78",
+      "66",
+      "73"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 6，第12項 = 6 + 6×11 = 72",
+    "explanation_en": "Common diff = 6, term 12 = 72",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：18, 20, 22, 24, 26, ...，求第 10 項",
+    "question_en": "AP: 18, 20, 22, 24, 26, ..., find term 10",
+    "options_zh": [
+      "36",
+      "38",
+      "34",
+      "37"
+    ],
+    "options_en": [
+      "36",
+      "38",
+      "34",
+      "37"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 2，第10項 = 18 + 2×9 = 36",
+    "explanation_en": "Common diff = 2, term 10 = 36",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：10, 15, 20, 25, 30, ...，求第 12 項",
+    "question_en": "AP: 10, 15, 20, 25, 30, ..., find term 12",
+    "options_zh": [
+      "65",
+      "70",
+      "60",
+      "66"
+    ],
+    "options_en": [
+      "65",
+      "70",
+      "60",
+      "66"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 5，第12項 = 10 + 5×11 = 65",
+    "explanation_en": "Common diff = 5, term 12 = 65",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：19, 26, 33, 40, 47, ...，求第 13 項",
+    "question_en": "AP: 19, 26, 33, 40, 47, ..., find term 13",
+    "options_zh": [
+      "103",
+      "110",
+      "96",
+      "104"
+    ],
+    "options_en": [
+      "103",
+      "110",
+      "96",
+      "104"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 7，第13項 = 19 + 7×12 = 103",
+    "explanation_en": "Common diff = 7, term 13 = 103",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：15, 24, 33, 42, 51, ...，求第 9 項",
+    "question_en": "AP: 15, 24, 33, 42, 51, ..., find term 9",
+    "options_zh": [
+      "87",
+      "96",
+      "78",
+      "88"
+    ],
+    "options_en": [
+      "87",
+      "96",
+      "78",
+      "88"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 9，第9項 = 15 + 9×8 = 87",
+    "explanation_en": "Common diff = 9, term 9 = 87",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：17, 26, 35, 44, 53, ...，求第 8 項",
+    "question_en": "AP: 17, 26, 35, 44, 53, ..., find term 8",
+    "options_zh": [
+      "80",
+      "89",
+      "71",
+      "81"
+    ],
+    "options_en": [
+      "80",
+      "89",
+      "71",
+      "81"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 9，第8項 = 17 + 9×7 = 80",
+    "explanation_en": "Common diff = 9, term 8 = 80",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：3, 9, 15, 21, 27, ...，求第 14 項",
+    "question_en": "AP: 3, 9, 15, 21, 27, ..., find term 14",
+    "options_zh": [
+      "81",
+      "87",
+      "75",
+      "82"
+    ],
+    "options_en": [
+      "81",
+      "87",
+      "75",
+      "82"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 6，第14項 = 3 + 6×13 = 81",
+    "explanation_en": "Common diff = 6, term 14 = 81",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：20, 27, 34, 41, 48, ...，求第 7 項",
+    "question_en": "AP: 20, 27, 34, 41, 48, ..., find term 7",
+    "options_zh": [
+      "62",
+      "69",
+      "55",
+      "63"
+    ],
+    "options_en": [
+      "62",
+      "69",
+      "55",
+      "63"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 7，第7項 = 20 + 7×6 = 62",
+    "explanation_en": "Common diff = 7, term 7 = 62",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：8, 14, 20, 26, 32, ...，求第 9 項",
+    "question_en": "AP: 8, 14, 20, 26, 32, ..., find term 9",
+    "options_zh": [
+      "56",
+      "62",
+      "50",
+      "57"
+    ],
+    "options_en": [
+      "56",
+      "62",
+      "50",
+      "57"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 6，第9項 = 8 + 6×8 = 56",
+    "explanation_en": "Common diff = 6, term 9 = 56",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：7, 11, 15, 19, 23, ...，求第 6 項",
+    "question_en": "AP: 7, 11, 15, 19, 23, ..., find term 6",
+    "options_zh": [
+      "27",
+      "31",
+      "23",
+      "28"
+    ],
+    "options_en": [
+      "27",
+      "31",
+      "23",
+      "28"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 4，第6項 = 7 + 4×5 = 27",
+    "explanation_en": "Common diff = 4, term 6 = 27",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：2, 7, 12, 17, 22, ...，求第 13 項",
+    "question_en": "AP: 2, 7, 12, 17, 22, ..., find term 13",
+    "options_zh": [
+      "62",
+      "67",
+      "57",
+      "63"
+    ],
+    "options_en": [
+      "62",
+      "67",
+      "57",
+      "63"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 5，第13項 = 2 + 5×12 = 62",
+    "explanation_en": "Common diff = 5, term 13 = 62",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：20, 23, 26, 29, 32, ...，求第 13 項",
+    "question_en": "AP: 20, 23, 26, 29, 32, ..., find term 13",
+    "options_zh": [
+      "56",
+      "59",
+      "53",
+      "57"
+    ],
+    "options_en": [
+      "56",
+      "59",
+      "53",
+      "57"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 3，第13項 = 20 + 3×12 = 56",
+    "explanation_en": "Common diff = 3, term 13 = 56",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：14, 19, 24, 29, 34, ...，求第 12 項",
+    "question_en": "AP: 14, 19, 24, 29, 34, ..., find term 12",
+    "options_zh": [
+      "69",
+      "74",
+      "64",
+      "70"
+    ],
+    "options_en": [
+      "69",
+      "74",
+      "64",
+      "70"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 5，第12項 = 14 + 5×11 = 69",
+    "explanation_en": "Common diff = 5, term 12 = 69",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：16, 24, 32, 40, 48, ...，求第 9 項",
+    "question_en": "AP: 16, 24, 32, 40, 48, ..., find term 9",
+    "options_zh": [
+      "80",
+      "88",
+      "72",
+      "81"
+    ],
+    "options_en": [
+      "80",
+      "88",
+      "72",
+      "81"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 8，第9項 = 16 + 8×8 = 80",
+    "explanation_en": "Common diff = 8, term 9 = 80",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：5, 7, 9, 11, 13, ...，求第 7 項",
+    "question_en": "AP: 5, 7, 9, 11, 13, ..., find term 7",
+    "options_zh": [
+      "17",
+      "19",
+      "15",
+      "18"
+    ],
+    "options_en": [
+      "17",
+      "19",
+      "15",
+      "18"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 2，第7項 = 5 + 2×6 = 17",
+    "explanation_en": "Common diff = 2, term 7 = 17",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：14, 19, 24, 29, 34, ...，求第 8 項",
+    "question_en": "AP: 14, 19, 24, 29, 34, ..., find term 8",
+    "options_zh": [
+      "49",
+      "54",
+      "44",
+      "50"
+    ],
+    "options_en": [
+      "49",
+      "54",
+      "44",
+      "50"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 5，第8項 = 14 + 5×7 = 49",
+    "explanation_en": "Common diff = 5, term 8 = 49",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "等差數列：17, 26, 35, 44, 53, ...，求第 6 項",
+    "question_en": "AP: 17, 26, 35, 44, 53, ..., find term 6",
+    "options_zh": [
+      "62",
+      "71",
+      "53",
+      "63"
+    ],
+    "options_en": [
+      "62",
+      "71",
+      "53",
+      "63"
+    ],
+    "answer": 0,
+    "explanation_zh": "公差 = 9，第6項 = 17 + 9×5 = 62",
+    "explanation_en": "Common diff = 9, term 6 = 62",
+    "difficulty": 1
+  }
+]

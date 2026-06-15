@@ -1,1 +1,62 @@
-[{"topic_zh": "坐標", "topic_en": "Coordinates", "file": "topic_00.json", "count": 1386, "difficulties": {"1": 915, "2": 235, "3": 236}}, {"topic_zh": "基本代數", "topic_en": "Basic Algebra", "file": "topic_01.json", "count": 1437, "difficulties": {"1": 939, "2": 259, "3": 239}}, {"topic_zh": "基本幾何", "topic_en": "Basic Geometry", "file": "topic_02.json", "count": 620, "difficulties": {"1": 609, "2": 7, "3": 4}}, {"topic_zh": "正負數", "topic_en": "Directed Numbers", "file": "topic_03.json", "count": 1018, "difficulties": {"1": 1018, "2": 0, "3": 0}}, {"topic_zh": "比與比率", "topic_en": "Ratio & Rate", "file": "topic_04.json", "count": 251, "difficulties": {"1": 251, "2": 0, "3": 0}}, {"topic_zh": "百分數", "topic_en": "Percentages", "file": "topic_05.json", "count": 149, "difficulties": {"1": 149, "2": 0, "3": 0}}, {"topic_zh": "統計圖表", "topic_en": "Statistics", "file": "topic_06.json", "count": 903, "difficulties": {"1": 903, "2": 0, "3": 0}}, {"topic_zh": "綜合應用", "topic_en": "Mixed Applications", "file": "topic_07.json", "count": 181, "difficulties": {"1": 181, "2": 0, "3": 0}}, {"topic_zh": "規律與數列", "topic_en": "Sequences", "file": "topic_08.json", "count": 124, "difficulties": {"1": 124, "2": 0, "3": 0}}, {"topic_zh": "面積與體積", "topic_en": "Area & Volume", "file": "topic_09.json", "count": 590, "difficulties": {"1": 590, "2": 0, "3": 0}}]
+[
+  {
+    "topic_zh": "一元一次方程（進階）",
+    "topic_en": "Linear Equations (Advanced)",
+    "file": "linear_equations_2.json",
+    "emoji": "📝"
+  },
+  {
+    "topic_zh": "一元一次不等式",
+    "topic_en": "Linear Inequalities",
+    "file": "inequalities.json",
+    "emoji": "⚖️"
+  },
+  {
+    "topic_zh": "直角坐標系",
+    "topic_en": "Rectangular Coordinate System",
+    "file": "coordinates.json",
+    "emoji": "📍"
+  },
+  {
+    "topic_zh": "角與多邊形",
+    "topic_en": "Angles & Polygons",
+    "file": "angles_polygons.json",
+    "emoji": "📐"
+  },
+  {
+    "topic_zh": "全等與相似",
+    "topic_en": "Congruence & Similarity",
+    "file": "congruence_similarity.json",
+    "emoji": "🔄"
+  },
+  {
+    "topic_zh": "畢氏定理",
+    "topic_en": "Pythagoras' Theorem",
+    "file": "pythagoras.json",
+    "emoji": "📏"
+  },
+  {
+    "topic_zh": "面積與體積（進階）",
+    "topic_en": "Areas & Volumes (Advanced)",
+    "file": "areas_volumes_2.json",
+    "emoji": "📦"
+  },
+  {
+    "topic_zh": "率",
+    "topic_en": "Rates",
+    "file": "rates.json",
+    "emoji": "⏱️"
+  },
+  {
+    "topic_zh": "代數運算",
+    "topic_en": "Algebraic Manipulation",
+    "file": "manipulation.json",
+    "emoji": "🔧"
+  },
+  {
+    "topic_zh": "數據處理",
+    "topic_en": "Data Handling",
+    "file": "data_handling.json",
+    "emoji": "📊"
+  }
+]
