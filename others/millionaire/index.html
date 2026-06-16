@@ -123,6 +123,12 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK
 <div style="text-align:center;margin-top:20px">
 <button class="walk-btn" id="walkBtn" onclick="walkAway()" data-zh="放棄拿獎金" data-en="Walk Away">放棄拿獎金</button>
 </div>
+<!-- Final Answer Confirmation -->
+<div id="confirmArea" style="display:none;justify-content:center;gap:16px;margin-top:20px;align-items:center">
+<span style="font-size:20px;font-weight:700;color:#f39c12" data-zh="係咪最後答案？" data-en="Final Answer?">係咪最後答案？</span>
+<button class="btn" onclick="confirmAnswer()" style="background:#4caf50;padding:12px 28px" data-zh="係！" data-en="Yes!">係！</button>
+<button class="walk-btn" onclick="cancelAnswer()" style="padding:12px 28px" data-zh="唔係" data-en="No">唔係</button>
+</div>
 <div style="text-align:center;margin-top:16px;display:none" id="nextArea">
 <button class="btn" onclick="nextQ()" data-zh="下一題" data-en="Next Question">下一題</button>
 </div>
@@ -267,14 +273,24 @@ updateLadder();
 }
 
 function lockAnswer(idx,q){
-answered++;
 SFX.tick();
-// Disable all options
-document.querySelectorAll('.opt').forEach(o=>o.classList.add('disabled'));
-document.getElementById('walkBtn').style.display='none';
-// Select animation
+// Highlight selected option
 const sel=document.getElementById('opt'+idx);
+document.querySelectorAll('.opt').forEach(o=>o.classList.remove('sel'));
 sel.classList.add('sel');
+// Show final answer confirmation
+document.getElementById('walkBtn').style.display='none';
+document.getElementById('confirmArea').style.display='flex';
+document.getElementById('confirmArea').dataset.idx=idx;
+}
+
+function confirmAnswer(){
+const idx=parseInt(document.getElementById('confirmArea').dataset.idx);
+const q=questions[curQ];
+answered++;
+document.getElementById('confirmArea').style.display='none';
+document.querySelectorAll('.opt').forEach(o=>o.classList.add('disabled'));
+const sel=document.getElementById('opt'+idx);
 // Dramatic pause then reveal
 setTimeout(()=>{
 sel.classList.remove('sel');
@@ -284,9 +300,7 @@ document.getElementById('opt'+ci).classList.add('correct');
 document.getElementById('opt'+ci).innerHTML+=' ✅';
 correct++;
 SFX.correct();
-// Safety net check
 if(safeLines.includes(correct))setTimeout(()=>SFX.safe(),600);
-// Show explanation
 const ek=lang==='zh'?'explanation_zh':'explanation_en';
 document.getElementById('explText').textContent=q[ek]||q.explanation_zh||'';
 document.getElementById('explDiv').classList.add('show');
@@ -304,6 +318,12 @@ setTimeout(()=>endGame(),1000);
 }
 updateStats();
 },800);
+}
+
+cancelAnswer(){
+document.querySelectorAll('.opt').forEach(o=>o.classList.remove('sel'));
+document.getElementById('confirmArea').style.display='none';
+document.getElementById('walkBtn').style.display='inline-block';
 }
 
 function nextQ(){
