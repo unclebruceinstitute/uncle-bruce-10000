@@ -17,7 +17,8 @@
     "question_en": "Where is it set?",
     "explanation_zh": "故事發生在虛構的豬籠城寨。",
     "explanation_en": "Set in fictional Pig Sty Alley.",
-    "difficulty": 1
+    "difficulty": 1,
+    "id": 1
   },
   {
     "question_zh": "《功夫》中，包租婆的絕招是什麼？",
@@ -37,7 +38,8 @@
     "question_en": "What is the Landlady's move?",
     "explanation_zh": "包租婆的獅吼功能產生毀滅性音波。",
     "explanation_en": "The Landlady's Lion's Roar produces devastating sonic attacks.",
-    "difficulty": 1
+    "difficulty": 1,
+    "id": 2
   },
   {
     "question_zh": "《功夫》中，星仔最後領悟了什麼功夫？",
@@ -57,7 +59,8 @@
     "question_en": "What does Sing master at the end?",
     "explanation_zh": "星仔最終領悟了如來神掌。",
     "explanation_en": "Sing ultimately masters Buddha's Palm.",
-    "difficulty": 1
+    "difficulty": 1,
+    "id": 3
   },
   {
     "question_zh": "《功夫》中，火雲邪神由誰飾演？",
@@ -77,7 +80,8 @@
     "question_en": "Who plays the Beast?",
     "explanation_zh": "梁小龍飾演火雲邪神。",
     "explanation_en": "Bruce Leung plays the Beast.",
-    "difficulty": 2
+    "difficulty": 2,
+    "id": 4
   },
   {
     "question_zh": "《功夫》中，苦力強的絕招是什麼？",
@@ -97,7 +101,8 @@
     "question_en": "What is Coolie's specialty?",
     "explanation_zh": "苦力強精通十二路譚腿。",
     "explanation_en": "Coolie masters 12 Tan Legs.",
-    "difficulty": 2
+    "difficulty": 2,
+    "id": 5
   },
   {
     "question_zh": "《功夫》中，裁縫的絕招是什麼？",
@@ -117,7 +122,8 @@
     "question_en": "What is the Tailor's specialty?",
     "explanation_zh": "裁縫精通洪家鐵線拳。",
     "explanation_en": "The Tailor masters Hung Iron Wire Fist.",
-    "difficulty": 2
+    "difficulty": 2,
+    "id": 6
   },
   {
     "question_zh": "《功夫》中，油炸鬼的絕招是什麼？",
@@ -137,7 +143,8 @@
     "question_en": "What is the Donut Maker's specialty?",
     "explanation_zh": "油炸鬼精通五郎八卦棍。",
     "explanation_en": "The Donut Maker masters 5th Brother Staff.",
-    "difficulty": 2
+    "difficulty": 2,
+    "id": 7
   },
   {
     "question_zh": "《功夫》中，星仔的夢想是加入什麼幫派？",
@@ -157,7 +164,8 @@
     "question_en": "What gang does Sing want to join?",
     "explanation_zh": "星仔夢想加入斧頭幫。",
     "explanation_en": "Sing wants to join the Axe Gang.",
-    "difficulty": 1
+    "difficulty": 1,
+    "id": 8
   },
   {
     "question_zh": "《功夫》中，天殘地缺用什麼殺人？",
@@ -177,7 +185,8 @@
     "question_en": "What do the Heavenly Twins use to kill?",
     "explanation_zh": "天殘地缺用古琴的音波殺人。",
     "explanation_en": "They use guqin sonic waves to kill.",
-    "difficulty": 1
+    "difficulty": 1,
+    "id": 9
   },
   {
     "question_zh": "《功夫》的票房超過了多少億？",
@@ -197,217 +206,8 @@
     "question_en": "How much did it earn at the box office?",
     "explanation_zh": "票房超過1億港元。",
     "explanation_en": "Earned over HK$100 million.",
-    "difficulty": 2
-  },
-  {
-    "id": 1,
-    "question_zh": "《功夫》係邊年上映？",
-    "question_en": "What year was 'Kung Fu Hustle' released?",
-    "options_zh": [
-      "2004",
-      "2002",
-      "2007",
-      "1999"
-    ],
-    "options_en": [
-      "2004",
-      "2002",
-      "2007",
-      "1999"
-    ],
-    "answer": 0,
-    "explanation_zh": "《功夫》喺2004年上映。",
-    "explanation_en": "'Kung Fu Hustle' was released in 2004.",
-    "difficulty": 1
-  },
-  {
-    "id": 2,
-    "question_zh": "《功夫》嘅導演係邊個？",
-    "question_en": "Who directed 'Kung Fu Hustle'?",
-    "options_zh": [
-      "周星馳",
-      "王晶",
-      "杜琪峯",
-      "徐克"
-    ],
-    "options_en": [
-      "周星馳",
-      "王晶",
-      "杜琪峯",
-      "徐克"
-    ],
-    "answer": 0,
-    "explanation_zh": "《功夫》由周星馳執導。",
-    "explanation_en": "'Kung Fu Hustle' was directed by 周星馳.",
-    "difficulty": 1
-  },
-  {
-    "id": 3,
-    "question_zh": "以下邊位演員出演《功夫》？",
-    "question_en": "Which actor starred in 'Kung Fu Hustle'?",
-    "options_zh": [
-      "周星馳",
-      "張國榮",
-      "梁家輝",
-      "任達華"
-    ],
-    "options_en": [
-      "周星馳",
-      "張國榮",
-      "梁家輝",
-      "任達華"
-    ],
-    "answer": 0,
-    "explanation_zh": "周星馳出演咗《功夫》。",
-    "explanation_en": "周星馳 starred in 'Kung Fu Hustle'.",
-    "difficulty": 1
-  },
-  {
-    "id": 4,
-    "question_zh": "《功夫》屬於咩類型？",
-    "question_en": "What genre is 'Kung Fu Hustle'?",
-    "options_zh": [
-      "喜劇/動作",
-      "紀錄片",
-      "動畫",
-      "恐怖"
-    ],
-    "options_en": [
-      "喜劇/動作",
-      "紀錄片",
-      "動畫",
-      "恐怖"
-    ],
-    "answer": 0,
-    "explanation_zh": "《功夫》係喜劇/動作片。",
-    "explanation_en": "'Kung Fu Hustle' is a 喜劇/動作 film.",
-    "difficulty": 2
-  },
-  {
-    "id": 5,
-    "question_zh": "《功夫》嘅故事講咩？",
-    "question_en": "What is 'Kung Fu Hustle' about?",
-    "options_zh": [
-      "豬籠城寨中嘅功夫高手對抗斧頭幫",
-      "太空探險",
-      "古羅馬戰爭",
-      "未來世界"
-    ],
-    "options_en": [
-      "豬籠城寨中嘅功夫高手對抗斧頭幫",
-      "太空探險",
-      "古羅馬戰爭",
-      "未來世界"
-    ],
-    "answer": 0,
-    "explanation_zh": "《功夫》講述：豬籠城寨中嘅功夫高手對抗斧頭幫。",
-    "explanation_en": "'Kung Fu Hustle' is about: 豬籠城寨中嘅功夫高手對抗斧頭幫.",
-    "difficulty": 2
-  },
-  {
-    "id": 6,
-    "question_zh": "《功夫》係邊個出品？",
-    "question_en": "Which company produced 'Kung Fu Hustle'?",
-    "options_zh": [
-      "香港電影公司",
-      "好萊塢片廠",
-      "日本動畫公司",
-      "韓國電視台"
-    ],
-    "options_en": [
-      "香港電影公司",
-      "好萊塢片廠",
-      "日本動畫公司",
-      "韓國電視台"
-    ],
-    "answer": 0,
-    "explanation_zh": "《功夫》係香港出品。",
-    "explanation_en": "'Kung Fu Hustle' is a Hong Kong production.",
-    "difficulty": 2
-  },
-  {
-    "id": 7,
-    "question_zh": "《功夫》嘅拍攝地點主要喺？",
-    "question_en": "Where was 'Kung Fu Hustle' mainly filmed?",
-    "options_zh": [
-      "香港",
-      "日本",
-      "美國",
-      "英國"
-    ],
-    "options_en": [
-      "香港",
-      "日本",
-      "美國",
-      "英國"
-    ],
-    "answer": 0,
-    "explanation_zh": "《功夫》主要喺香港拍攝。",
-    "explanation_en": "'Kung Fu Hustle' was mainly filmed in Hong Kong.",
-    "difficulty": 2
-  },
-  {
-    "id": 8,
-    "question_zh": "《功夫》嘅語言係？",
-    "question_en": "What language is 'Kung Fu Hustle' in?",
-    "options_zh": [
-      "粵語",
-      "英語",
-      "日語",
-      "韓語"
-    ],
-    "options_en": [
-      "粵語",
-      "英語",
-      "日語",
-      "韓語"
-    ],
-    "answer": 0,
-    "explanation_zh": "《功夫》係粵語電影。",
-    "explanation_en": "'Kung Fu Hustle' is in Cantonese.",
-    "difficulty": 3
-  },
-  {
-    "id": 9,
-    "question_zh": "《功夫》係咪有續集？",
-    "question_en": "Does 'Kung Fu Hustle' have a sequel?",
-    "options_zh": [
-      "有",
-      "冇",
-      "只有前傳",
-      "正在籌拍"
-    ],
-    "options_en": [
-      "有",
-      "冇",
-      "只有前傳",
-      "正在籌拍"
-    ],
-    "answer": 0,
-    "explanation_zh": "《功夫》有續集。",
-    "explanation_en": "'Kung Fu Hustle' has a sequel.",
-    "difficulty": 3
-  },
-  {
-    "id": 10,
-    "question_zh": "以下邊句台詞出自《功夫》？",
-    "question_en": "Which quote is from 'Kung Fu Hustle'?",
-    "options_zh": [
-      "「功夫經典台詞」",
-      "「我係你爸爸」",
-      "「生命自會找到出路」",
-      "「我要打十個」"
-    ],
-    "options_en": [
-      "「功夫經典台詞」",
-      "「我係你爸爸」",
-      "「生命自會找到出路」",
-      "「我要打十個」"
-    ],
-    "answer": 0,
-    "explanation_zh": "呢句係《功夫》嘅經典台詞。",
-    "explanation_en": "This is a classic quote from 'Kung Fu Hustle'.",
-    "difficulty": 3
+    "difficulty": 2,
+    "id": 10
   },
   {
     "id": 11,
@@ -428,7 +228,7 @@
     "answer": 0,
     "explanation_zh": "《功夫》喺2004年上映。",
     "explanation_en": "'Kung Fu Hustle' was released in 2004.",
-    "difficulty": 3
+    "difficulty": 1
   },
   {
     "id": 12,
@@ -449,7 +249,7 @@
     "answer": 0,
     "explanation_zh": "《功夫》由周星馳執導。",
     "explanation_en": "'Kung Fu Hustle' was directed by 周星馳.",
-    "difficulty": 3
+    "difficulty": 1
   },
   {
     "id": 13,
@@ -470,7 +270,7 @@
     "answer": 0,
     "explanation_zh": "周星馳出演咗《功夫》。",
     "explanation_en": "周星馳 starred in 'Kung Fu Hustle'.",
-    "difficulty": 3
+    "difficulty": 1
   },
   {
     "id": 14,
@@ -491,7 +291,7 @@
     "answer": 0,
     "explanation_zh": "《功夫》係喜劇/動作片。",
     "explanation_en": "'Kung Fu Hustle' is a 喜劇/動作 film.",
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "id": 15,
@@ -512,7 +312,7 @@
     "answer": 0,
     "explanation_zh": "《功夫》講述：豬籠城寨中嘅功夫高手對抗斧頭幫。",
     "explanation_en": "'Kung Fu Hustle' is about: 豬籠城寨中嘅功夫高手對抗斧頭幫.",
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "id": 16,
@@ -533,7 +333,7 @@
     "answer": 0,
     "explanation_zh": "《功夫》係香港出品。",
     "explanation_en": "'Kung Fu Hustle' is a Hong Kong production.",
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "id": 17,
@@ -554,7 +354,7 @@
     "answer": 0,
     "explanation_zh": "《功夫》主要喺香港拍攝。",
     "explanation_en": "'Kung Fu Hustle' was mainly filmed in Hong Kong.",
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "id": 18,
@@ -618,5 +418,215 @@
     "explanation_zh": "呢句係《功夫》嘅經典台詞。",
     "explanation_en": "This is a classic quote from 'Kung Fu Hustle'.",
     "difficulty": 3
+  },
+  {
+    "id": 21,
+    "question_zh": "《功夫》喺邊年上映？",
+    "question_en": "What year was 'Kung Fu Hustle' released?",
+    "options_zh": [
+      "2004",
+      "2001",
+      "2006",
+      "1999"
+    ],
+    "options_en": [
+      "2004",
+      "2001",
+      "2006",
+      "1999"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係2004。",
+    "explanation_en": "The correct answer is 2004.",
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question_zh": "《功夫》係咩類型嘅電影？",
+    "question_en": "What genre is 'Kung Fu Hustle'?",
+    "options_zh": [
+      "喜劇",
+      "動作",
+      "劇情",
+      "恐怖"
+    ],
+    "options_en": [
+      "喜劇",
+      "動作",
+      "劇情",
+      "恐怖"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係喜劇。",
+    "explanation_en": "The correct answer is 喜劇.",
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question_zh": "《功夫》係邊度出品？",
+    "question_en": "Where was 'Kung Fu Hustle' produced?",
+    "options_zh": [
+      "香港",
+      "內地",
+      "台灣",
+      "好萊塢"
+    ],
+    "options_en": [
+      "香港",
+      "內地",
+      "台灣",
+      "好萊塢"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係香港。",
+    "explanation_en": "The correct answer is 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question_zh": "《功夫》嘅主要語言係？",
+    "question_en": "What language is 'Kung Fu Hustle' in?",
+    "options_zh": [
+      "粵語",
+      "國語",
+      "英語",
+      "日語"
+    ],
+    "options_en": [
+      "粵語",
+      "國語",
+      "英語",
+      "日語"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係粵語。",
+    "explanation_en": "The correct answer is 粵語.",
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question_zh": "《功夫》有幾多個主要角色？",
+    "question_en": "How many main characters in 'Kung Fu Hustle'?",
+    "options_zh": [
+      "3",
+      "1",
+      "5",
+      "10"
+    ],
+    "options_en": [
+      "3",
+      "1",
+      "5",
+      "10"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係3。",
+    "explanation_en": "The correct answer is 3.",
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question_zh": "《功夫》嘅拍攝地點喺邊度？",
+    "question_en": "Where was 'Kung Fu Hustle' filmed?",
+    "options_zh": [
+      "香港",
+      "深圳",
+      "澳門",
+      "上海"
+    ],
+    "options_en": [
+      "香港",
+      "深圳",
+      "澳門",
+      "上海"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係香港。",
+    "explanation_en": "The correct answer is 香港.",
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question_zh": "《功夫》嘅續集有冇拍？",
+    "question_en": "Does 'Kung Fu Hustle' have a sequel?",
+    "options_zh": [
+      "有",
+      "冇",
+      "籌備中",
+      "取消咗"
+    ],
+    "options_en": [
+      "有",
+      "冇",
+      "籌備中",
+      "取消咗"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係有。",
+    "explanation_en": "The correct answer is 有.",
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question_zh": "《功夫》嘅海報主要用咩顏色？",
+    "question_en": "What color is 'Kung Fu Hustle' poster?",
+    "options_zh": [
+      "紅色",
+      "藍色",
+      "黑色",
+      "白色"
+    ],
+    "options_en": [
+      "紅色",
+      "藍色",
+      "黑色",
+      "白色"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係紅色。",
+    "explanation_en": "The correct answer is 紅色.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "《功夫》屬於邊個年代嘅電影？",
+    "question_en": "Which era is 'Kung Fu Hustle' from?",
+    "options_zh": [
+      "2000年代",
+      "1980年代",
+      "2010年代",
+      "2020年代"
+    ],
+    "options_en": [
+      "2000年代",
+      "1980年代",
+      "2010年代",
+      "2020年代"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係2000年代。",
+    "explanation_en": "The correct answer is 2000年代.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "《功夫》嘅配樂好唔好聽？",
+    "question_en": "Is 'Kung Fu Hustle' soundtrack good?",
+    "options_zh": [
+      "好聽",
+      "一般",
+      "差",
+      "冇配樂"
+    ],
+    "options_en": [
+      "好聽",
+      "一般",
+      "差",
+      "冇配樂"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係好聽。",
+    "explanation_en": "The correct answer is 好聽.",
+    "difficulty": 2
   }
 ]

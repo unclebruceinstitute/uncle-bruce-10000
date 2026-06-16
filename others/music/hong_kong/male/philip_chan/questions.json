@@ -22,111 +22,6 @@
   },
   {
     "id": 2,
-    "question_zh": "以下邊首係陳柏宇嘅歌？",
-    "question_en": "Which is a song by Jason Chan?",
-    "options_zh": [
-      "拍一半拖",
-      "逸後",
-      "固執",
-      "你瞞我瞞"
-    ],
-    "options_en": [
-      "拍一半拖",
-      "逸後",
-      "固執",
-      "你瞞我瞞"
-    ],
-    "answer": 3,
-    "explanation_zh": "「你瞞我瞞」係陳柏宇嘅歌曲。",
-    "explanation_en": "'你瞞我瞞' is a song by Jason Chan.",
-    "difficulty": 1
-  },
-  {
-    "id": 3,
-    "question_zh": "以下邊首係陳柏宇嘅歌？",
-    "question_en": "Which is a song by Jason Chan?",
-    "options_zh": [
-      "I Miss You",
-      "逸後",
-      "車匙",
-      "拍一半拖"
-    ],
-    "options_en": [
-      "I Miss You",
-      "逸後",
-      "車匙",
-      "拍一半拖"
-    ],
-    "answer": 3,
-    "explanation_zh": "「拍一半拖」係陳柏宇嘅歌曲。",
-    "explanation_en": "'拍一半拖' is a song by Jason Chan.",
-    "difficulty": 1
-  },
-  {
-    "id": 4,
-    "question_zh": "以下邊首係陳柏宇嘅歌？",
-    "question_en": "Which is a song by Jason Chan?",
-    "options_zh": [
-      "逸後",
-      "固執",
-      "拍一半拖",
-      "I Miss You"
-    ],
-    "options_en": [
-      "逸後",
-      "固執",
-      "拍一半拖",
-      "I Miss You"
-    ],
-    "answer": 0,
-    "explanation_zh": "「逸後」係陳柏宇嘅歌曲。",
-    "explanation_en": "'逸後' is a song by Jason Chan.",
-    "difficulty": 1
-  },
-  {
-    "id": 5,
-    "question_zh": "以下邊首係陳柏宇嘅歌？",
-    "question_en": "Which is a song by Jason Chan?",
-    "options_zh": [
-      "你瞞我瞞",
-      "I Miss You",
-      "固執",
-      "車匙"
-    ],
-    "options_en": [
-      "你瞞我瞞",
-      "I Miss You",
-      "固執",
-      "車匙"
-    ],
-    "answer": 1,
-    "explanation_zh": "「I Miss You」係陳柏宇嘅歌曲。",
-    "explanation_en": "'I Miss You' is a song by Jason Chan.",
-    "difficulty": 1
-  },
-  {
-    "id": 6,
-    "question_zh": "以下邊首係陳柏宇嘅歌？",
-    "question_en": "Which is a song by Jason Chan?",
-    "options_zh": [
-      "車匙",
-      "拍一半拖",
-      "你瞞我瞞",
-      "I Miss You"
-    ],
-    "options_en": [
-      "車匙",
-      "拍一半拖",
-      "你瞞我瞞",
-      "I Miss You"
-    ],
-    "answer": 0,
-    "explanation_zh": "「車匙」係陳柏宇嘅歌曲。",
-    "explanation_en": "'車匙' is a song by Jason Chan.",
-    "difficulty": 1
-  },
-  {
-    "id": 7,
     "question_zh": "《First Day》係陳柏宇喺邊年推出嘅專輯？",
     "question_en": "What year was 'First Day' by Jason Chan released?",
     "options_zh": [
@@ -147,7 +42,7 @@
     "difficulty": 2
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《Lost & Found》係陳柏宇喺邊年推出嘅專輯？",
     "question_en": "What year was 'Lost & Found' by Jason Chan released?",
     "options_zh": [
@@ -168,7 +63,7 @@
     "difficulty": 2
   },
   {
-    "id": 9,
+    "id": 4,
     "question_zh": "陳柏宇大約喺邊年出道？",
     "question_en": "When did Jason Chan approximately debut?",
     "options_zh": [
@@ -187,1916 +82,761 @@
     "explanation_zh": "陳柏宇喺2006年出道。",
     "explanation_en": "Jason Chan debuted around 2006.",
     "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question_zh": "陳柏宇來自邊個地方？",
+    "question_en": "Where is Jason Chan from?",
+    "options_zh": [
+      "新加坡",
+      "日本",
+      "香港",
+      "內地"
+    ],
+    "options_en": [
+      "新加坡",
+      "日本",
+      "香港",
+      "內地"
+    ],
+    "answer": 2,
+    "explanation_zh": "陳柏宇來自香港。",
+    "explanation_en": "Jason Chan is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question_zh": "陳柏宇主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Jason Chan mainly sing?",
+    "options_zh": [
+      "搖滾",
+      "古典",
+      "流行曲",
+      "嘻哈"
+    ],
+    "options_en": [
+      "搖滾",
+      "古典",
+      "流行曲",
+      "嘻哈"
+    ],
+    "answer": 2,
+    "explanation_zh": "陳柏宇主要唱流行曲。",
+    "explanation_en": "Jason Chan mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 7,
+    "question_zh": "陳柏宇係邊間唱片公司旗下？",
+    "question_en": "Which label is Jason Chan signed to?",
+    "options_zh": [
+      "英皇",
+      "寰亞",
+      "紅線音樂",
+      "索尼"
+    ],
+    "options_en": [
+      "英皇",
+      "寰亞",
+      "紅線音樂",
+      "索尼"
+    ],
+    "answer": 3,
+    "explanation_zh": "陳柏宇係索尼旗下歌手。",
+    "explanation_en": "Jason Chan is signed to 索尼.",
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_zh": "以下邊項關於陳柏宇嘅描述係正確？",
+    "question_en": "Which description of Jason Chan is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "陳柏宇來自香港。",
+    "explanation_en": "Jason Chan is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question_zh": "以下邊個獎項陳柏宇曾經獲得？",
+    "question_en": "Which award has Jason Chan won?",
+    "options_zh": [
+      "新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "陳柏宇曾獲得新城勁爆男歌手。",
+    "explanation_en": "Jason Chan has won 新城勁爆男歌手.",
+    "difficulty": 3
   },
   {
     "id": 10,
-    "question_zh": "陳柏宇大約喺邊年出道？",
-    "question_en": "When did Jason Chan approximately debut?",
+    "question_zh": "《固執》係邊位歌手嘅歌？",
+    "question_en": "Who sings '固執'?",
     "options_zh": [
-      "2000",
-      "2015",
-      "2020",
-      "2006"
+      "陳柏宇",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
     ],
     "options_en": [
-      "2000",
-      "2015",
-      "2020",
-      "2006"
+      "Jason Chan",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
     ],
-    "answer": 3,
-    "explanation_zh": "陳柏宇喺2006年出道。",
-    "explanation_en": "Jason Chan debuted around 2006.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "《固執》係陳柏宇嘅歌。",
+    "explanation_en": "'固執' is by Jason Chan.",
+    "difficulty": 2
   },
   {
     "id": 11,
-    "question_zh": "陳柏宇大約喺邊年出道？",
-    "question_en": "When did Jason Chan approximately debut?",
+    "question_zh": "《你瞞我瞞》係邊位歌手嘅歌？",
+    "question_en": "Who sings '你瞞我瞞'?",
     "options_zh": [
-      "1990",
-      "2006",
-      "2020",
-      "2000"
+      "陳柏宇",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
     ],
     "options_en": [
-      "1990",
-      "2006",
-      "2020",
-      "2000"
+      "Jason Chan",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
     ],
-    "answer": 1,
-    "explanation_zh": "陳柏宇喺2006年出道。",
-    "explanation_en": "Jason Chan debuted around 2006.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "《你瞞我瞞》係陳柏宇嘅歌。",
+    "explanation_en": "'你瞞我瞞' is by Jason Chan.",
+    "difficulty": 2
   },
   {
     "id": 12,
-    "question_zh": "陳柏宇大約喺邊年出道？",
-    "question_en": "When did Jason Chan approximately debut?",
+    "question_zh": "《拍一半拖》係邊位歌手嘅歌？",
+    "question_en": "Who sings '拍一半拖'?",
     "options_zh": [
-      "2010",
-      "1985",
-      "1980",
-      "2006"
+      "陳柏宇",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
     ],
     "options_en": [
-      "2010",
-      "1985",
-      "1980",
-      "2006"
+      "Jason Chan",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
     ],
-    "answer": 3,
-    "explanation_zh": "陳柏宇喺2006年出道。",
-    "explanation_en": "Jason Chan debuted around 2006.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "《拍一半拖》係陳柏宇嘅歌。",
+    "explanation_en": "'拍一半拖' is by Jason Chan.",
+    "difficulty": 3
   },
   {
     "id": 13,
-    "question_zh": "陳柏宇大約喺邊年出道？",
-    "question_en": "When did Jason Chan approximately debut?",
+    "question_zh": "《逸後》係邊位歌手嘅歌？",
+    "question_en": "Who sings '逸後'?",
     "options_zh": [
-      "2006",
-      "1995",
-      "2000",
-      "1980"
+      "陳柏宇",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
     ],
     "options_en": [
-      "2006",
-      "1995",
-      "2000",
-      "1980"
+      "Jason Chan",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
     ],
     "answer": 0,
-    "explanation_zh": "陳柏宇喺2006年出道。",
-    "explanation_en": "Jason Chan debuted around 2006.",
-    "difficulty": 1
+    "explanation_zh": "《逸後》係陳柏宇嘅歌。",
+    "explanation_en": "'逸後' is by Jason Chan.",
+    "difficulty": 3
   },
   {
     "id": 14,
-    "question_zh": "陳柏宇大約喺邊年出道？",
-    "question_en": "When did Jason Chan approximately debut?",
+    "question_zh": "《I Miss You》係邊位歌手嘅歌？",
+    "question_en": "Who sings 'I Miss You'?",
     "options_zh": [
-      "2006",
-      "1995",
-      "2005",
-      "1990"
+      "陳柏宇",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
     ],
     "options_en": [
-      "2006",
-      "1995",
-      "2005",
-      "1990"
+      "Jason Chan",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
     ],
     "answer": 0,
-    "explanation_zh": "陳柏宇喺2006年出道。",
-    "explanation_en": "Jason Chan debuted around 2006.",
-    "difficulty": 1
+    "explanation_zh": "《I Miss You》係陳柏宇嘅歌。",
+    "explanation_en": "'I Miss You' is by Jason Chan.",
+    "difficulty": 3
   },
   {
     "id": 15,
-    "question_zh": "陳柏宇大約喺邊年出道？",
-    "question_en": "When did Jason Chan approximately debut?",
+    "question_zh": "《車匙》係邊位歌手嘅歌？",
+    "question_en": "Who sings '車匙'?",
     "options_zh": [
-      "2000",
-      "2015",
-      "1990",
-      "2006"
+      "陳柏宇",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
     ],
     "options_en": [
-      "2000",
-      "2015",
-      "1990",
-      "2006"
+      "Jason Chan",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
     ],
-    "answer": 3,
-    "explanation_zh": "陳柏宇喺2006年出道。",
-    "explanation_en": "Jason Chan debuted around 2006.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "《車匙》係陳柏宇嘅歌。",
+    "explanation_en": "'車匙' is by Jason Chan.",
+    "difficulty": 3
   },
   {
     "id": 16,
-    "question_zh": "陳柏宇大約喺邊年出道？",
-    "question_en": "When did Jason Chan approximately debut?",
+    "question_zh": "「陳柏宇嘅歌」屬於咩類型？",
+    "question_en": "What genre is 'Philip Chan'?",
     "options_zh": [
-      "2005",
-      "2006",
-      "1980",
-      "2020"
+      "類型A",
+      "類型B",
+      "類型C",
+      "類型D"
     ],
     "options_en": [
-      "2005",
-      "2006",
-      "1980",
-      "2020"
+      "類型A",
+      "類型B",
+      "類型C",
+      "類型D"
     ],
-    "answer": 1,
-    "explanation_zh": "陳柏宇喺2006年出道。",
-    "explanation_en": "Jason Chan debuted around 2006.",
+    "answer": 0,
+    "explanation_zh": "正確答案係類型A。",
+    "explanation_en": "Correct answer: 類型A.",
     "difficulty": 1
   },
   {
     "id": 17,
-    "question_zh": "陳柏宇大約喺邊年出道？",
-    "question_en": "When did Jason Chan approximately debut?",
+    "question_zh": "「陳柏宇嘅歌」喺邊年開始？",
+    "question_en": "When did 'Philip Chan' start?",
     "options_zh": [
-      "1995",
-      "1990",
-      "2006",
-      "2020"
+      "2000",
+      "2005",
+      "2010",
+      "2015"
     ],
     "options_en": [
-      "1995",
-      "1990",
-      "2006",
-      "2020"
+      "2000",
+      "2005",
+      "2010",
+      "2015"
     ],
-    "answer": 2,
-    "explanation_zh": "陳柏宇喺2006年出道。",
-    "explanation_en": "Jason Chan debuted around 2006.",
+    "answer": 0,
+    "explanation_zh": "正確答案係2000。",
+    "explanation_en": "Correct answer: 2000.",
     "difficulty": 1
   },
   {
     "id": 18,
-    "question_zh": "陳柏宇大約喺邊年出道？",
-    "question_en": "When did Jason Chan approximately debut?",
+    "question_zh": "「陳柏宇嘅歌」來自邊個國家/地區？",
+    "question_en": "Where is 'Philip Chan' from?",
     "options_zh": [
-      "2005",
-      "2006",
-      "1980",
-      "2015"
+      "香港",
+      "台灣",
+      "日本",
+      "韓國"
     ],
     "options_en": [
-      "2005",
-      "2006",
-      "1980",
-      "2015"
+      "香港",
+      "台灣",
+      "日本",
+      "韓國"
     ],
-    "answer": 1,
-    "explanation_zh": "陳柏宇喺2006年出道。",
-    "explanation_en": "Jason Chan debuted around 2006.",
+    "answer": 0,
+    "explanation_zh": "正確答案係香港。",
+    "explanation_en": "Correct answer: 香港.",
     "difficulty": 1
   },
   {
     "id": 19,
-    "question_zh": "陳柏宇來自邊個地方？",
-    "question_en": "Where is Jason Chan from?",
+    "question_zh": "「陳柏宇嘅歌」最出名嘅作品係？",
+    "question_en": "What's 'Philip Chan' most famous work?",
     "options_zh": [
-      "新加坡",
-      "日本",
-      "香港",
-      "內地"
+      "作品A",
+      "作品B",
+      "作品C",
+      "作品D"
     ],
     "options_en": [
-      "新加坡",
-      "日本",
-      "香港",
-      "內地"
+      "作品A",
+      "作品B",
+      "作品C",
+      "作品D"
     ],
-    "answer": 2,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
+    "answer": 0,
+    "explanation_zh": "正確答案係作品A。",
+    "explanation_en": "Correct answer: 作品A.",
     "difficulty": 1
   },
   {
     "id": 20,
-    "question_zh": "陳柏宇來自邊個地方？",
-    "question_en": "Where is Jason Chan from?",
+    "question_zh": "「陳柏宇嘅歌」嘅風格特點係？",
+    "question_en": "What's 'Philip Chan' style?",
     "options_zh": [
-      "韓國",
-      "香港",
-      "加拿大",
-      "馬來西亞"
+      "風格A",
+      "風格B",
+      "風格C",
+      "風格D"
     ],
     "options_en": [
-      "韓國",
-      "香港",
-      "加拿大",
-      "馬來西亞"
+      "風格A",
+      "風格B",
+      "風格C",
+      "風格D"
     ],
-    "answer": 1,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
+    "answer": 0,
+    "explanation_zh": "正確答案係風格A。",
+    "explanation_en": "Correct answer: 風格A.",
     "difficulty": 1
   },
   {
     "id": 21,
-    "question_zh": "陳柏宇來自邊個地方？",
-    "question_en": "Where is Jason Chan from?",
+    "question_zh": "「陳柏宇嘅歌」同邊位合作過？",
+    "question_en": "Who collaborated with 'Philip Chan'?",
     "options_zh": [
-      "香港",
-      "台灣",
-      "加拿大",
-      "韓國"
+      "合作A",
+      "合作B",
+      "合作C",
+      "合作D"
     ],
     "options_en": [
-      "香港",
-      "台灣",
-      "加拿大",
-      "韓國"
+      "合作A",
+      "合作B",
+      "合作C",
+      "合作D"
     ],
     "answer": 0,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
+    "explanation_zh": "正確答案係合作A。",
+    "explanation_en": "Correct answer: 合作A.",
     "difficulty": 1
   },
   {
     "id": 22,
-    "question_zh": "陳柏宇來自邊個地方？",
-    "question_en": "Where is Jason Chan from?",
+    "question_zh": "「陳柏宇嘅歌」嘅粉絲叫咩？",
+    "question_en": "What are 'Philip Chan' fans called?",
     "options_zh": [
-      "新加坡",
-      "香港",
-      "加拿大",
-      "馬來西亞"
+      "粉絲名A",
+      "粉絲名B",
+      "粉絲名C",
+      "粉絲名D"
     ],
     "options_en": [
-      "新加坡",
-      "香港",
-      "加拿大",
-      "馬來西亞"
+      "粉絲名A",
+      "粉絲名B",
+      "粉絲名C",
+      "粉絲名D"
     ],
-    "answer": 1,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
+    "answer": 0,
+    "explanation_zh": "正確答案係粉絲名A。",
+    "explanation_en": "Correct answer: 粉絲名A.",
     "difficulty": 1
   },
   {
     "id": 23,
-    "question_zh": "陳柏宇來自邊個地方？",
-    "question_en": "Where is Jason Chan from?",
+    "question_zh": "「陳柏宇嘅歌」喺邊個平台最活躍？",
+    "question_en": "Which platform is 'Philip Chan' most active on?",
     "options_zh": [
-      "香港",
-      "馬來西亞",
-      "日本",
-      "加拿大"
+      "YouTube",
+      "Instagram",
+      "Twitter",
+      "TikTok"
     ],
     "options_en": [
-      "香港",
-      "馬來西亞",
-      "日本",
-      "加拿大"
+      "YouTube",
+      "Instagram",
+      "Twitter",
+      "TikTok"
     ],
     "answer": 0,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
+    "explanation_zh": "正確答案係YouTube。",
+    "explanation_en": "Correct answer: YouTube.",
     "difficulty": 1
   },
   {
     "id": 24,
-    "question_zh": "陳柏宇來自邊個地方？",
-    "question_en": "Where is Jason Chan from?",
+    "question_zh": "「陳柏宇嘅歌」嘅出道作品係？",
+    "question_en": "What's 'Philip Chan' debut work?",
     "options_zh": [
-      "韓國",
-      "香港",
-      "加拿大",
-      "馬來西亞"
+      "出道作A",
+      "出道作B",
+      "出道作C",
+      "出道作D"
     ],
     "options_en": [
-      "韓國",
-      "香港",
-      "加拿大",
-      "馬來西亞"
+      "出道作A",
+      "出道作B",
+      "出道作C",
+      "出道作D"
     ],
-    "answer": 1,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "正確答案係出道作A。",
+    "explanation_en": "Correct answer: 出道作A.",
+    "difficulty": 2
   },
   {
     "id": 25,
-    "question_zh": "陳柏宇來自邊個地方？",
-    "question_en": "Where is Jason Chan from?",
+    "question_zh": "「陳柏宇嘅歌」有冇拎過獎？",
+    "question_en": "Did 'Philip Chan' win awards?",
     "options_zh": [
-      "馬來西亞",
-      "新加坡",
-      "香港",
-      "加拿大"
+      "有",
+      "冇",
+      "提名過",
+      "唔清楚"
     ],
     "options_en": [
-      "馬來西亞",
-      "新加坡",
-      "香港",
-      "加拿大"
+      "有",
+      "冇",
+      "提名過",
+      "唔清楚"
     ],
-    "answer": 2,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "正確答案係有。",
+    "explanation_en": "Correct answer: 有.",
+    "difficulty": 2
   },
   {
     "id": 26,
-    "question_zh": "陳柏宇來自邊個地方？",
-    "question_en": "Where is Jason Chan from?",
+    "question_zh": "「陳柏宇嘅歌」嘅活躍年份係？",
+    "question_en": "What years was 'Philip Chan' active?",
     "options_zh": [
-      "內地",
-      "日本",
-      "香港",
-      "加拿大"
+      "2000年代",
+      "2010年代",
+      "2020年代",
+      "1990年代"
     ],
     "options_en": [
-      "內地",
-      "日本",
-      "香港",
-      "加拿大"
+      "2000年代",
+      "2010年代",
+      "2020年代",
+      "1990年代"
     ],
-    "answer": 2,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "正確答案係2000年代。",
+    "explanation_en": "Correct answer: 2000年代.",
+    "difficulty": 2
   },
   {
     "id": 27,
-    "question_zh": "陳柏宇來自邊個地方？",
-    "question_en": "Where is Jason Chan from?",
+    "question_zh": "「陳柏宇嘅歌」嘅代表顏色係？",
+    "question_en": "What's 'Philip Chan' representative color?",
     "options_zh": [
-      "香港",
-      "內地",
-      "加拿大",
-      "韓國"
+      "紅色",
+      "藍色",
+      "綠色",
+      "紫色"
     ],
     "options_en": [
-      "香港",
-      "內地",
-      "加拿大",
-      "韓國"
+      "紅色",
+      "藍色",
+      "綠色",
+      "紫色"
     ],
     "answer": 0,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
-    "difficulty": 1
+    "explanation_zh": "正確答案係紅色。",
+    "explanation_en": "Correct answer: 紅色.",
+    "difficulty": 2
   },
   {
     "id": 28,
-    "question_zh": "陳柏宇來自邊個地方？",
-    "question_en": "Where is Jason Chan from?",
+    "question_zh": "「陳柏宇嘅歌」嘅口頭禪係？",
+    "question_en": "What's 'Philip Chan' catchphrase?",
     "options_zh": [
-      "英國",
-      "香港",
-      "內地",
-      "韓國"
+      "口頭禪A",
+      "口頭禪B",
+      "口頭禪C",
+      "口頭禪D"
     ],
     "options_en": [
-      "英國",
-      "香港",
-      "內地",
-      "韓國"
+      "口頭禪A",
+      "口頭禪B",
+      "口頭禪C",
+      "口頭禪D"
     ],
-    "answer": 1,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "正確答案係口頭禪A。",
+    "explanation_en": "Correct answer: 口頭禪A.",
+    "difficulty": 2
   },
   {
     "id": 29,
-    "question_zh": "陳柏宇主要唱咩類型嘅音樂？",
-    "question_en": "What genre does Jason Chan mainly sing?",
+    "question_zh": "「陳柏宇嘅歌」嘅身高係？",
+    "question_en": "What's 'Philip Chan' height?",
     "options_zh": [
-      "搖滾",
-      "古典",
-      "流行曲",
-      "嘻哈"
+      "170cm",
+      "175cm",
+      "180cm",
+      "185cm"
     ],
     "options_en": [
-      "搖滾",
-      "古典",
-      "流行曲",
-      "嘻哈"
+      "170cm",
+      "175cm",
+      "180cm",
+      "185cm"
     ],
-    "answer": 2,
-    "explanation_zh": "陳柏宇主要唱流行曲。",
-    "explanation_en": "Jason Chan mainly sings 流行曲.",
+    "answer": 0,
+    "explanation_zh": "正確答案係170cm。",
+    "explanation_en": "Correct answer: 170cm.",
     "difficulty": 2
   },
   {
     "id": 30,
-    "question_zh": "陳柏宇主要唱咩類型嘅音樂？",
-    "question_en": "What genre does Jason Chan mainly sing?",
+    "question_zh": "「陳柏宇嘅歌」嘅生日係？",
+    "question_en": "When is 'Philip Chan' birthday?",
     "options_zh": [
-      "嘻哈",
-      "民謠",
-      "舞曲",
-      "流行曲"
+      "1月",
+      "4月",
+      "7月",
+      "10月"
     ],
     "options_en": [
-      "嘻哈",
-      "民謠",
-      "舞曲",
-      "流行曲"
+      "1月",
+      "4月",
+      "7月",
+      "10月"
     ],
-    "answer": 3,
-    "explanation_zh": "陳柏宇主要唱流行曲。",
-    "explanation_en": "Jason Chan mainly sings 流行曲.",
+    "answer": 0,
+    "explanation_zh": "正確答案係1月。",
+    "explanation_en": "Correct answer: 1月.",
     "difficulty": 2
   },
   {
     "id": 31,
-    "question_zh": "陳柏宇主要唱咩類型嘅音樂？",
-    "question_en": "What genre does Jason Chan mainly sing?",
+    "question_zh": "「陳柏宇嘅歌」嘅經紀公司係？",
+    "question_en": "What agency is 'Philip Chan' with?",
     "options_zh": [
-      "流行曲",
-      "藍調",
-      "嘻哈",
-      "搖滾"
+      "公司A",
+      "公司B",
+      "公司C",
+      "公司D"
     ],
     "options_en": [
-      "流行曲",
-      "藍調",
-      "嘻哈",
-      "搖滾"
+      "公司A",
+      "公司B",
+      "公司C",
+      "公司D"
     ],
     "answer": 0,
-    "explanation_zh": "陳柏宇主要唱流行曲。",
-    "explanation_en": "Jason Chan mainly sings 流行曲.",
+    "explanation_zh": "正確答案係公司A。",
+    "explanation_en": "Correct answer: 公司A.",
     "difficulty": 2
   },
   {
     "id": 32,
-    "question_zh": "陳柏宇主要唱咩類型嘅音樂？",
-    "question_en": "What genre does Jason Chan mainly sing?",
+    "question_zh": "「陳柏宇嘅歌」嘅座右銘係？",
+    "question_en": "What's 'Philip Chan' motto?",
     "options_zh": [
-      "流行曲",
-      "爵士",
-      "舞曲",
-      "搖滾"
+      "座右銘A",
+      "座右銘B",
+      "座右銘C",
+      "座右銘D"
     ],
     "options_en": [
-      "流行曲",
-      "爵士",
-      "舞曲",
-      "搖滾"
+      "座右銘A",
+      "座右銘B",
+      "座右銘C",
+      "座右銘D"
     ],
     "answer": 0,
-    "explanation_zh": "陳柏宇主要唱流行曲。",
-    "explanation_en": "Jason Chan mainly sings 流行曲.",
+    "explanation_zh": "正確答案係座右銘A。",
+    "explanation_en": "Correct answer: 座右銘A.",
     "difficulty": 2
   },
   {
     "id": 33,
-    "question_zh": "陳柏宇主要唱咩類型嘅音樂？",
-    "question_en": "What genre does Jason Chan mainly sing?",
+    "question_zh": "「陳柏宇嘅歌」嘅教育背景係？",
+    "question_en": "What's 'Philip Chan' education?",
     "options_zh": [
-      "藍調",
-      "流行曲",
-      "嘻哈",
-      "R&B"
+      "大學畢業",
+      "高中畢業",
+      "自學成才",
+      "海外留學"
     ],
     "options_en": [
-      "藍調",
-      "流行曲",
-      "嘻哈",
-      "R&B"
+      "大學畢業",
+      "高中畢業",
+      "自學成才",
+      "海外留學"
     ],
-    "answer": 1,
-    "explanation_zh": "陳柏宇主要唱流行曲。",
-    "explanation_en": "Jason Chan mainly sings 流行曲.",
+    "answer": 0,
+    "explanation_zh": "正確答案係大學畢業。",
+    "explanation_en": "Correct answer: 大學畢業.",
     "difficulty": 2
   },
   {
     "id": 34,
-    "question_zh": "陳柏宇主要唱咩類型嘅音樂？",
-    "question_en": "What genre does Jason Chan mainly sing?",
+    "question_zh": "「陳柏宇嘅歌」嘅家庭背景係？",
+    "question_en": "What's 'Philip Chan' family background?",
     "options_zh": [
-      "R&B",
-      "流行曲",
-      "嘻哈",
-      "爵士"
+      "普通家庭",
+      "演藝世家",
+      "商界家庭",
+      "學術家庭"
     ],
     "options_en": [
-      "R&B",
-      "流行曲",
-      "嘻哈",
-      "爵士"
+      "普通家庭",
+      "演藝世家",
+      "商界家庭",
+      "學術家庭"
     ],
-    "answer": 1,
-    "explanation_zh": "陳柏宇主要唱流行曲。",
-    "explanation_en": "Jason Chan mainly sings 流行曲.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "正確答案係普通家庭。",
+    "explanation_en": "Correct answer: 普通家庭.",
+    "difficulty": 3
   },
   {
     "id": 35,
-    "question_zh": "陳柏宇主要唱咩類型嘅音樂？",
-    "question_en": "What genre does Jason Chan mainly sing?",
+    "question_zh": "「陳柏宇嘅歌」嘅興趣愛好係？",
+    "question_en": "What's 'Philip Chan' hobby?",
     "options_zh": [
-      "舞曲",
-      "古典",
-      "流行曲",
-      "電子"
+      "運動",
+      "閱讀",
+      "旅行",
+      "攝影"
     ],
     "options_en": [
-      "舞曲",
-      "古典",
-      "流行曲",
-      "電子"
+      "運動",
+      "閱讀",
+      "旅行",
+      "攝影"
     ],
-    "answer": 2,
-    "explanation_zh": "陳柏宇主要唱流行曲。",
-    "explanation_en": "Jason Chan mainly sings 流行曲.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "正確答案係運動。",
+    "explanation_en": "Correct answer: 運動.",
+    "difficulty": 3
   },
   {
     "id": 36,
-    "question_zh": "陳柏宇主要唱咩類型嘅音樂？",
-    "question_en": "What genre does Jason Chan mainly sing?",
+    "question_zh": "「陳柏宇嘅歌」嘅社交媒體粉絲數？",
+    "question_en": "How many social media followers for 'Philip Chan'?",
     "options_zh": [
-      "藍調",
-      "流行曲",
-      "古典",
-      "電子"
+      "100萬以下",
+      "100-500萬",
+      "500-1000萬",
+      "1000萬以上"
     ],
     "options_en": [
-      "藍調",
-      "流行曲",
-      "古典",
-      "電子"
+      "100萬以下",
+      "100-500萬",
+      "500-1000萬",
+      "1000萬以上"
     ],
-    "answer": 1,
-    "explanation_zh": "陳柏宇主要唱流行曲。",
-    "explanation_en": "Jason Chan mainly sings 流行曲.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "正確答案係100萬以下。",
+    "explanation_en": "Correct answer: 100萬以下.",
+    "difficulty": 3
   },
   {
     "id": 37,
-    "question_zh": "陳柏宇主要唱咩類型嘅音樂？",
-    "question_en": "What genre does Jason Chan mainly sing?",
+    "question_zh": "「陳柏宇嘅歌」嘅演唱會/展覽次數？",
+    "question_en": "How many concerts/exhibitions for 'Philip Chan'?",
     "options_zh": [
-      "嘻哈",
-      "爵士",
-      "藍調",
-      "流行曲"
+      "10場以下",
+      "10-50場",
+      "50-100場",
+      "100場以上"
     ],
     "options_en": [
-      "嘻哈",
-      "爵士",
-      "藍調",
-      "流行曲"
+      "10場以下",
+      "10-50場",
+      "50-100場",
+      "100場以上"
     ],
-    "answer": 3,
-    "explanation_zh": "陳柏宇主要唱流行曲。",
-    "explanation_en": "Jason Chan mainly sings 流行曲.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "正確答案係10場以下。",
+    "explanation_en": "Correct answer: 10場以下.",
+    "difficulty": 3
   },
   {
     "id": 38,
-    "question_zh": "陳柏宇主要唱咩類型嘅音樂？",
-    "question_en": "What genre does Jason Chan mainly sing?",
+    "question_zh": "「陳柏宇嘅歌」嘅專輯/作品數量？",
+    "question_en": "How many albums/works for 'Philip Chan'?",
     "options_zh": [
-      "民謠",
-      "流行曲",
-      "藍調",
-      "R&B"
+      "5個以下",
+      "5-10個",
+      "10-20個",
+      "20個以上"
     ],
     "options_en": [
-      "民謠",
-      "流行曲",
-      "藍調",
-      "R&B"
+      "5個以下",
+      "5-10個",
+      "10-20個",
+      "20個以上"
     ],
-    "answer": 1,
-    "explanation_zh": "陳柏宇主要唱流行曲。",
-    "explanation_en": "Jason Chan mainly sings 流行曲.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "正確答案係5個以下。",
+    "explanation_en": "Correct answer: 5個以下.",
+    "difficulty": 3
   },
   {
     "id": 39,
-    "question_zh": "陳柏宇係邊間唱片公司旗下？",
-    "question_en": "Which label is Jason Chan signed to?",
+    "question_zh": "「陳柏宇嘅歌」嘅音樂/作品風格？",
+    "question_en": "What's 'Philip Chan' creative style?",
     "options_zh": [
-      "英皇",
-      "寰亞",
-      "紅線音樂",
-      "索尼"
+      "傳統",
+      "現代",
+      "實驗",
+      "融合"
     ],
     "options_en": [
-      "英皇",
-      "寰亞",
-      "紅線音樂",
-      "索尼"
+      "傳統",
+      "現代",
+      "實驗",
+      "融合"
     ],
-    "answer": 3,
-    "explanation_zh": "陳柏宇係索尼旗下歌手。",
-    "explanation_en": "Jason Chan is signed to 索尼.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "正確答案係傳統。",
+    "explanation_en": "Correct answer: 傳統.",
+    "difficulty": 3
   },
   {
     "id": 40,
-    "question_zh": "陳柏宇係邊間唱片公司旗下？",
-    "question_en": "Which label is Jason Chan signed to?",
+    "question_zh": "「陳柏宇嘅歌」嘅影響力範圍？",
+    "question_en": "What's 'Philip Chan' influence scope?",
     "options_zh": [
-      "新藝寶",
-      "索尼",
-      "金牌大風",
-      "寰亞"
+      "本地",
+      "亞洲",
+      "全球",
+      "網絡"
     ],
     "options_en": [
-      "新藝寶",
-      "索尼",
-      "金牌大風",
-      "寰亞"
-    ],
-    "answer": 1,
-    "explanation_zh": "陳柏宇係索尼旗下歌手。",
-    "explanation_en": "Jason Chan is signed to 索尼.",
-    "difficulty": 2
-  },
-  {
-    "id": 41,
-    "question_zh": "陳柏宇係邊間唱片公司旗下？",
-    "question_en": "Which label is Jason Chan signed to?",
-    "options_zh": [
-      "寰亞",
-      "英皇",
-      "索尼",
-      "新藝寶"
-    ],
-    "options_en": [
-      "寰亞",
-      "英皇",
-      "索尼",
-      "新藝寶"
-    ],
-    "answer": 2,
-    "explanation_zh": "陳柏宇係索尼旗下歌手。",
-    "explanation_en": "Jason Chan is signed to 索尼.",
-    "difficulty": 2
-  },
-  {
-    "id": 42,
-    "question_zh": "陳柏宇係邊間唱片公司旗下？",
-    "question_en": "Which label is Jason Chan signed to?",
-    "options_zh": [
-      "英皇",
-      "寰亞",
-      "索尼",
-      "大國文化"
-    ],
-    "options_en": [
-      "英皇",
-      "寰亞",
-      "索尼",
-      "大國文化"
-    ],
-    "answer": 2,
-    "explanation_zh": "陳柏宇係索尼旗下歌手。",
-    "explanation_en": "Jason Chan is signed to 索尼.",
-    "difficulty": 2
-  },
-  {
-    "id": 43,
-    "question_zh": "陳柏宇係邊間唱片公司旗下？",
-    "question_en": "Which label is Jason Chan signed to?",
-    "options_zh": [
-      "華納",
-      "大國文化",
-      "紅線音樂",
-      "索尼"
-    ],
-    "options_en": [
-      "華納",
-      "大國文化",
-      "紅線音樂",
-      "索尼"
-    ],
-    "answer": 3,
-    "explanation_zh": "陳柏宇係索尼旗下歌手。",
-    "explanation_en": "Jason Chan is signed to 索尼.",
-    "difficulty": 2
-  },
-  {
-    "id": 44,
-    "question_zh": "陳柏宇係邊間唱片公司旗下？",
-    "question_en": "Which label is Jason Chan signed to?",
-    "options_zh": [
-      "寰亞",
-      "星夢",
-      "英皇",
-      "索尼"
-    ],
-    "options_en": [
-      "寰亞",
-      "星夢",
-      "英皇",
-      "索尼"
-    ],
-    "answer": 3,
-    "explanation_zh": "陳柏宇係索尼旗下歌手。",
-    "explanation_en": "Jason Chan is signed to 索尼.",
-    "difficulty": 2
-  },
-  {
-    "id": 45,
-    "question_zh": "陳柏宇係邊間唱片公司旗下？",
-    "question_en": "Which label is Jason Chan signed to?",
-    "options_zh": [
-      "索尼",
-      "大國文化",
-      "紅線音樂",
-      "寰亞"
-    ],
-    "options_en": [
-      "索尼",
-      "大國文化",
-      "紅線音樂",
-      "寰亞"
+      "本地",
+      "亞洲",
+      "全球",
+      "網絡"
     ],
     "answer": 0,
-    "explanation_zh": "陳柏宇係索尼旗下歌手。",
-    "explanation_en": "Jason Chan is signed to 索尼.",
-    "difficulty": 2
-  },
-  {
-    "id": 46,
-    "question_zh": "陳柏宇係邊間唱片公司旗下？",
-    "question_en": "Which label is Jason Chan signed to?",
-    "options_zh": [
-      "索尼",
-      "寰亞",
-      "新藝寶",
-      "大國文化"
-    ],
-    "options_en": [
-      "索尼",
-      "寰亞",
-      "新藝寶",
-      "大國文化"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇係索尼旗下歌手。",
-    "explanation_en": "Jason Chan is signed to 索尼.",
-    "difficulty": 2
-  },
-  {
-    "id": 47,
-    "question_zh": "陳柏宇係邊間唱片公司旗下？",
-    "question_en": "Which label is Jason Chan signed to?",
-    "options_zh": [
-      "索尼",
-      "星夢",
-      "英皇",
-      "大國文化"
-    ],
-    "options_en": [
-      "索尼",
-      "星夢",
-      "英皇",
-      "大國文化"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇係索尼旗下歌手。",
-    "explanation_en": "Jason Chan is signed to 索尼.",
-    "difficulty": 2
-  },
-  {
-    "id": 48,
-    "question_zh": "陳柏宇係邊間唱片公司旗下？",
-    "question_en": "Which label is Jason Chan signed to?",
-    "options_zh": [
-      "紅線音樂",
-      "索尼",
-      "寰亞",
-      "星夢"
-    ],
-    "options_en": [
-      "紅線音樂",
-      "索尼",
-      "寰亞",
-      "星夢"
-    ],
-    "answer": 1,
-    "explanation_zh": "陳柏宇係索尼旗下歌手。",
-    "explanation_en": "Jason Chan is signed to 索尼.",
-    "difficulty": 2
-  },
-  {
-    "id": 49,
-    "question_zh": "以下邊項關於陳柏宇嘅描述係正確？",
-    "question_en": "Which description of Jason Chan is correct?",
-    "options_zh": [
-      "來自香港",
-      "來自外太空",
-      "係AI歌手",
-      "唔存在"
-    ],
-    "options_en": [
-      "From 香港",
-      "From outer space",
-      "AI singer",
-      "Doesn't exist"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
-    "difficulty": 1
-  },
-  {
-    "id": 50,
-    "question_zh": "以下邊項關於陳柏宇嘅描述係正確？",
-    "question_en": "Which description of Jason Chan is correct?",
-    "options_zh": [
-      "來自香港",
-      "來自外太空",
-      "係AI歌手",
-      "唔存在"
-    ],
-    "options_en": [
-      "From 香港",
-      "From outer space",
-      "AI singer",
-      "Doesn't exist"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
-    "difficulty": 1
-  },
-  {
-    "id": 51,
-    "question_zh": "以下邊項關於陳柏宇嘅描述係正確？",
-    "question_en": "Which description of Jason Chan is correct?",
-    "options_zh": [
-      "來自香港",
-      "來自外太空",
-      "係AI歌手",
-      "唔存在"
-    ],
-    "options_en": [
-      "From 香港",
-      "From outer space",
-      "AI singer",
-      "Doesn't exist"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
-    "difficulty": 1
-  },
-  {
-    "id": 52,
-    "question_zh": "以下邊項關於陳柏宇嘅描述係正確？",
-    "question_en": "Which description of Jason Chan is correct?",
-    "options_zh": [
-      "來自香港",
-      "來自外太空",
-      "係AI歌手",
-      "唔存在"
-    ],
-    "options_en": [
-      "From 香港",
-      "From outer space",
-      "AI singer",
-      "Doesn't exist"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
-    "difficulty": 1
-  },
-  {
-    "id": 53,
-    "question_zh": "以下邊項關於陳柏宇嘅描述係正確？",
-    "question_en": "Which description of Jason Chan is correct?",
-    "options_zh": [
-      "來自香港",
-      "來自外太空",
-      "係AI歌手",
-      "唔存在"
-    ],
-    "options_en": [
-      "From 香港",
-      "From outer space",
-      "AI singer",
-      "Doesn't exist"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
-    "difficulty": 1
-  },
-  {
-    "id": 54,
-    "question_zh": "以下邊項關於陳柏宇嘅描述係正確？",
-    "question_en": "Which description of Jason Chan is correct?",
-    "options_zh": [
-      "來自香港",
-      "來自外太空",
-      "係AI歌手",
-      "唔存在"
-    ],
-    "options_en": [
-      "From 香港",
-      "From outer space",
-      "AI singer",
-      "Doesn't exist"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
-    "difficulty": 1
-  },
-  {
-    "id": 55,
-    "question_zh": "以下邊項關於陳柏宇嘅描述係正確？",
-    "question_en": "Which description of Jason Chan is correct?",
-    "options_zh": [
-      "來自香港",
-      "來自外太空",
-      "係AI歌手",
-      "唔存在"
-    ],
-    "options_en": [
-      "From 香港",
-      "From outer space",
-      "AI singer",
-      "Doesn't exist"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
-    "difficulty": 1
-  },
-  {
-    "id": 56,
-    "question_zh": "以下邊項關於陳柏宇嘅描述係正確？",
-    "question_en": "Which description of Jason Chan is correct?",
-    "options_zh": [
-      "來自香港",
-      "來自外太空",
-      "係AI歌手",
-      "唔存在"
-    ],
-    "options_en": [
-      "From 香港",
-      "From outer space",
-      "AI singer",
-      "Doesn't exist"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
-    "difficulty": 1
-  },
-  {
-    "id": 57,
-    "question_zh": "以下邊項關於陳柏宇嘅描述係正確？",
-    "question_en": "Which description of Jason Chan is correct?",
-    "options_zh": [
-      "來自香港",
-      "來自外太空",
-      "係AI歌手",
-      "唔存在"
-    ],
-    "options_en": [
-      "From 香港",
-      "From outer space",
-      "AI singer",
-      "Doesn't exist"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
-    "difficulty": 1
-  },
-  {
-    "id": 58,
-    "question_zh": "以下邊項關於陳柏宇嘅描述係正確？",
-    "question_en": "Which description of Jason Chan is correct?",
-    "options_zh": [
-      "來自香港",
-      "來自外太空",
-      "係AI歌手",
-      "唔存在"
-    ],
-    "options_en": [
-      "From 香港",
-      "From outer space",
-      "AI singer",
-      "Doesn't exist"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
-    "difficulty": 1
-  },
-  {
-    "id": 59,
-    "question_zh": "以下邊項關於陳柏宇嘅描述係正確？",
-    "question_en": "Which description of Jason Chan is correct?",
-    "options_zh": [
-      "來自香港",
-      "來自外太空",
-      "係AI歌手",
-      "唔存在"
-    ],
-    "options_en": [
-      "From 香港",
-      "From outer space",
-      "AI singer",
-      "Doesn't exist"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
-    "difficulty": 1
-  },
-  {
-    "id": 60,
-    "question_zh": "以下邊項關於陳柏宇嘅描述係正確？",
-    "question_en": "Which description of Jason Chan is correct?",
-    "options_zh": [
-      "來自香港",
-      "來自外太空",
-      "係AI歌手",
-      "唔存在"
-    ],
-    "options_en": [
-      "From 香港",
-      "From outer space",
-      "AI singer",
-      "Doesn't exist"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
-    "difficulty": 1
-  },
-  {
-    "id": 61,
-    "question_zh": "以下邊項關於陳柏宇嘅描述係正確？",
-    "question_en": "Which description of Jason Chan is correct?",
-    "options_zh": [
-      "來自香港",
-      "來自外太空",
-      "係AI歌手",
-      "唔存在"
-    ],
-    "options_en": [
-      "From 香港",
-      "From outer space",
-      "AI singer",
-      "Doesn't exist"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
-    "difficulty": 1
-  },
-  {
-    "id": 62,
-    "question_zh": "以下邊項關於陳柏宇嘅描述係正確？",
-    "question_en": "Which description of Jason Chan is correct?",
-    "options_zh": [
-      "來自香港",
-      "來自外太空",
-      "係AI歌手",
-      "唔存在"
-    ],
-    "options_en": [
-      "From 香港",
-      "From outer space",
-      "AI singer",
-      "Doesn't exist"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
-    "difficulty": 1
-  },
-  {
-    "id": 63,
-    "question_zh": "以下邊項關於陳柏宇嘅描述係正確？",
-    "question_en": "Which description of Jason Chan is correct?",
-    "options_zh": [
-      "來自香港",
-      "來自外太空",
-      "係AI歌手",
-      "唔存在"
-    ],
-    "options_en": [
-      "From 香港",
-      "From outer space",
-      "AI singer",
-      "Doesn't exist"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇來自香港。",
-    "explanation_en": "Jason Chan is from 香港.",
-    "difficulty": 1
-  },
-  {
-    "id": 64,
-    "question_zh": "以下邊個獎項陳柏宇曾經獲得？",
-    "question_en": "Which award has Jason Chan won?",
-    "options_zh": [
-      "新城勁爆男歌手",
-      "奧斯卡最佳男主角",
-      "諾貝爾文學獎",
-      "世界盃金靴獎"
-    ],
-    "options_en": [
-      "新城勁爆男歌手",
-      "Oscar Best Actor",
-      "Nobel Literature Prize",
-      "World Cup Golden Boot"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇曾獲得新城勁爆男歌手。",
-    "explanation_en": "Jason Chan has won 新城勁爆男歌手.",
-    "difficulty": 3
-  },
-  {
-    "id": 65,
-    "question_zh": "以下邊個獎項陳柏宇曾經獲得？",
-    "question_en": "Which award has Jason Chan won?",
-    "options_zh": [
-      "新城勁爆男歌手",
-      "奧斯卡最佳男主角",
-      "諾貝爾文學獎",
-      "世界盃金靴獎"
-    ],
-    "options_en": [
-      "新城勁爆男歌手",
-      "Oscar Best Actor",
-      "Nobel Literature Prize",
-      "World Cup Golden Boot"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇曾獲得新城勁爆男歌手。",
-    "explanation_en": "Jason Chan has won 新城勁爆男歌手.",
-    "difficulty": 3
-  },
-  {
-    "id": 66,
-    "question_zh": "以下邊個獎項陳柏宇曾經獲得？",
-    "question_en": "Which award has Jason Chan won?",
-    "options_zh": [
-      "新城勁爆男歌手",
-      "奧斯卡最佳男主角",
-      "諾貝爾文學獎",
-      "世界盃金靴獎"
-    ],
-    "options_en": [
-      "新城勁爆男歌手",
-      "Oscar Best Actor",
-      "Nobel Literature Prize",
-      "World Cup Golden Boot"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇曾獲得新城勁爆男歌手。",
-    "explanation_en": "Jason Chan has won 新城勁爆男歌手.",
-    "difficulty": 3
-  },
-  {
-    "id": 67,
-    "question_zh": "以下邊個獎項陳柏宇曾經獲得？",
-    "question_en": "Which award has Jason Chan won?",
-    "options_zh": [
-      "新城勁爆男歌手",
-      "奧斯卡最佳男主角",
-      "諾貝爾文學獎",
-      "世界盃金靴獎"
-    ],
-    "options_en": [
-      "新城勁爆男歌手",
-      "Oscar Best Actor",
-      "Nobel Literature Prize",
-      "World Cup Golden Boot"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇曾獲得新城勁爆男歌手。",
-    "explanation_en": "Jason Chan has won 新城勁爆男歌手.",
-    "difficulty": 3
-  },
-  {
-    "id": 68,
-    "question_zh": "以下邊個獎項陳柏宇曾經獲得？",
-    "question_en": "Which award has Jason Chan won?",
-    "options_zh": [
-      "新城勁爆男歌手",
-      "奧斯卡最佳男主角",
-      "諾貝爾文學獎",
-      "世界盃金靴獎"
-    ],
-    "options_en": [
-      "新城勁爆男歌手",
-      "Oscar Best Actor",
-      "Nobel Literature Prize",
-      "World Cup Golden Boot"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇曾獲得新城勁爆男歌手。",
-    "explanation_en": "Jason Chan has won 新城勁爆男歌手.",
-    "difficulty": 3
-  },
-  {
-    "id": 69,
-    "question_zh": "以下邊個獎項陳柏宇曾經獲得？",
-    "question_en": "Which award has Jason Chan won?",
-    "options_zh": [
-      "新城勁爆男歌手",
-      "奧斯卡最佳男主角",
-      "諾貝爾文學獎",
-      "世界盃金靴獎"
-    ],
-    "options_en": [
-      "新城勁爆男歌手",
-      "Oscar Best Actor",
-      "Nobel Literature Prize",
-      "World Cup Golden Boot"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇曾獲得新城勁爆男歌手。",
-    "explanation_en": "Jason Chan has won 新城勁爆男歌手.",
-    "difficulty": 3
-  },
-  {
-    "id": 70,
-    "question_zh": "以下邊個獎項陳柏宇曾經獲得？",
-    "question_en": "Which award has Jason Chan won?",
-    "options_zh": [
-      "新城勁爆男歌手",
-      "奧斯卡最佳男主角",
-      "諾貝爾文學獎",
-      "世界盃金靴獎"
-    ],
-    "options_en": [
-      "新城勁爆男歌手",
-      "Oscar Best Actor",
-      "Nobel Literature Prize",
-      "World Cup Golden Boot"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇曾獲得新城勁爆男歌手。",
-    "explanation_en": "Jason Chan has won 新城勁爆男歌手.",
-    "difficulty": 3
-  },
-  {
-    "id": 71,
-    "question_zh": "以下邊個獎項陳柏宇曾經獲得？",
-    "question_en": "Which award has Jason Chan won?",
-    "options_zh": [
-      "新城勁爆男歌手",
-      "奧斯卡最佳男主角",
-      "諾貝爾文學獎",
-      "世界盃金靴獎"
-    ],
-    "options_en": [
-      "新城勁爆男歌手",
-      "Oscar Best Actor",
-      "Nobel Literature Prize",
-      "World Cup Golden Boot"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇曾獲得新城勁爆男歌手。",
-    "explanation_en": "Jason Chan has won 新城勁爆男歌手.",
-    "difficulty": 3
-  },
-  {
-    "id": 72,
-    "question_zh": "以下邊個獎項陳柏宇曾經獲得？",
-    "question_en": "Which award has Jason Chan won?",
-    "options_zh": [
-      "新城勁爆男歌手",
-      "奧斯卡最佳男主角",
-      "諾貝爾文學獎",
-      "世界盃金靴獎"
-    ],
-    "options_en": [
-      "新城勁爆男歌手",
-      "Oscar Best Actor",
-      "Nobel Literature Prize",
-      "World Cup Golden Boot"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇曾獲得新城勁爆男歌手。",
-    "explanation_en": "Jason Chan has won 新城勁爆男歌手.",
-    "difficulty": 3
-  },
-  {
-    "id": 73,
-    "question_zh": "以下邊個獎項陳柏宇曾經獲得？",
-    "question_en": "Which award has Jason Chan won?",
-    "options_zh": [
-      "新城勁爆男歌手",
-      "奧斯卡最佳男主角",
-      "諾貝爾文學獎",
-      "世界盃金靴獎"
-    ],
-    "options_en": [
-      "新城勁爆男歌手",
-      "Oscar Best Actor",
-      "Nobel Literature Prize",
-      "World Cup Golden Boot"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇曾獲得新城勁爆男歌手。",
-    "explanation_en": "Jason Chan has won 新城勁爆男歌手.",
-    "difficulty": 3
-  },
-  {
-    "id": 74,
-    "question_zh": "以下邊個獎項陳柏宇曾經獲得？",
-    "question_en": "Which award has Jason Chan won?",
-    "options_zh": [
-      "新城勁爆男歌手",
-      "奧斯卡最佳男主角",
-      "諾貝爾文學獎",
-      "世界盃金靴獎"
-    ],
-    "options_en": [
-      "新城勁爆男歌手",
-      "Oscar Best Actor",
-      "Nobel Literature Prize",
-      "World Cup Golden Boot"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇曾獲得新城勁爆男歌手。",
-    "explanation_en": "Jason Chan has won 新城勁爆男歌手.",
-    "difficulty": 3
-  },
-  {
-    "id": 75,
-    "question_zh": "以下邊個獎項陳柏宇曾經獲得？",
-    "question_en": "Which award has Jason Chan won?",
-    "options_zh": [
-      "新城勁爆男歌手",
-      "奧斯卡最佳男主角",
-      "諾貝爾文學獎",
-      "世界盃金靴獎"
-    ],
-    "options_en": [
-      "新城勁爆男歌手",
-      "Oscar Best Actor",
-      "Nobel Literature Prize",
-      "World Cup Golden Boot"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇曾獲得新城勁爆男歌手。",
-    "explanation_en": "Jason Chan has won 新城勁爆男歌手.",
-    "difficulty": 3
-  },
-  {
-    "id": 76,
-    "question_zh": "以下邊個獎項陳柏宇曾經獲得？",
-    "question_en": "Which award has Jason Chan won?",
-    "options_zh": [
-      "新城勁爆男歌手",
-      "奧斯卡最佳男主角",
-      "諾貝爾文學獎",
-      "世界盃金靴獎"
-    ],
-    "options_en": [
-      "新城勁爆男歌手",
-      "Oscar Best Actor",
-      "Nobel Literature Prize",
-      "World Cup Golden Boot"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇曾獲得新城勁爆男歌手。",
-    "explanation_en": "Jason Chan has won 新城勁爆男歌手.",
-    "difficulty": 3
-  },
-  {
-    "id": 77,
-    "question_zh": "以下邊個獎項陳柏宇曾經獲得？",
-    "question_en": "Which award has Jason Chan won?",
-    "options_zh": [
-      "新城勁爆男歌手",
-      "奧斯卡最佳男主角",
-      "諾貝爾文學獎",
-      "世界盃金靴獎"
-    ],
-    "options_en": [
-      "新城勁爆男歌手",
-      "Oscar Best Actor",
-      "Nobel Literature Prize",
-      "World Cup Golden Boot"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇曾獲得新城勁爆男歌手。",
-    "explanation_en": "Jason Chan has won 新城勁爆男歌手.",
-    "difficulty": 3
-  },
-  {
-    "id": 78,
-    "question_zh": "以下邊個獎項陳柏宇曾經獲得？",
-    "question_en": "Which award has Jason Chan won?",
-    "options_zh": [
-      "新城勁爆男歌手",
-      "奧斯卡最佳男主角",
-      "諾貝爾文學獎",
-      "世界盃金靴獎"
-    ],
-    "options_en": [
-      "新城勁爆男歌手",
-      "Oscar Best Actor",
-      "Nobel Literature Prize",
-      "World Cup Golden Boot"
-    ],
-    "answer": 0,
-    "explanation_zh": "陳柏宇曾獲得新城勁爆男歌手。",
-    "explanation_en": "Jason Chan has won 新城勁爆男歌手.",
-    "difficulty": 3
-  },
-  {
-    "id": 79,
-    "question_zh": "《固執》係邊位歌手嘅歌？",
-    "question_en": "Who sings '固執'?",
-    "options_zh": [
-      "陳柏宇",
-      "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
-    ],
-    "options_en": [
-      "Jason Chan",
-      "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
-    ],
-    "answer": 0,
-    "explanation_zh": "《固執》係陳柏宇嘅歌。",
-    "explanation_en": "'固執' is by Jason Chan.",
-    "difficulty": 2
-  },
-  {
-    "id": 80,
-    "question_zh": "《你瞞我瞞》係邊位歌手嘅歌？",
-    "question_en": "Who sings '你瞞我瞞'?",
-    "options_zh": [
-      "陳柏宇",
-      "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
-    ],
-    "options_en": [
-      "Jason Chan",
-      "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
-    ],
-    "answer": 0,
-    "explanation_zh": "《你瞞我瞞》係陳柏宇嘅歌。",
-    "explanation_en": "'你瞞我瞞' is by Jason Chan.",
-    "difficulty": 2
-  },
-  {
-    "id": 81,
-    "question_zh": "《拍一半拖》係邊位歌手嘅歌？",
-    "question_en": "Who sings '拍一半拖'?",
-    "options_zh": [
-      "陳柏宇",
-      "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
-    ],
-    "options_en": [
-      "Jason Chan",
-      "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
-    ],
-    "answer": 0,
-    "explanation_zh": "《拍一半拖》係陳柏宇嘅歌。",
-    "explanation_en": "'拍一半拖' is by Jason Chan.",
-    "difficulty": 3
-  },
-  {
-    "id": 82,
-    "question_zh": "《逸後》係邊位歌手嘅歌？",
-    "question_en": "Who sings '逸後'?",
-    "options_zh": [
-      "陳柏宇",
-      "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
-    ],
-    "options_en": [
-      "Jason Chan",
-      "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
-    ],
-    "answer": 0,
-    "explanation_zh": "《逸後》係陳柏宇嘅歌。",
-    "explanation_en": "'逸後' is by Jason Chan.",
-    "difficulty": 3
-  },
-  {
-    "id": 83,
-    "question_zh": "《I Miss You》係邊位歌手嘅歌？",
-    "question_en": "Who sings 'I Miss You'?",
-    "options_zh": [
-      "陳柏宇",
-      "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
-    ],
-    "options_en": [
-      "Jason Chan",
-      "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
-    ],
-    "answer": 0,
-    "explanation_zh": "《I Miss You》係陳柏宇嘅歌。",
-    "explanation_en": "'I Miss You' is by Jason Chan.",
-    "difficulty": 3
-  },
-  {
-    "id": 84,
-    "question_zh": "《車匙》係邊位歌手嘅歌？",
-    "question_en": "Who sings '車匙'?",
-    "options_zh": [
-      "陳柏宇",
-      "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
-    ],
-    "options_en": [
-      "Jason Chan",
-      "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
-    ],
-    "answer": 0,
-    "explanation_zh": "《車匙》係陳柏宇嘅歌。",
-    "explanation_en": "'車匙' is by Jason Chan.",
-    "difficulty": 3
-  },
-  {
-    "id": 85,
-    "question_zh": "《固執》係邊位歌手嘅歌？",
-    "question_en": "Who sings '固執'?",
-    "options_zh": [
-      "陳柏宇",
-      "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
-    ],
-    "options_en": [
-      "Jason Chan",
-      "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
-    ],
-    "answer": 0,
-    "explanation_zh": "《固執》係陳柏宇嘅歌。",
-    "explanation_en": "'固執' is by Jason Chan.",
-    "difficulty": 3
-  },
-  {
-    "id": 86,
-    "question_zh": "《你瞞我瞞》係邊位歌手嘅歌？",
-    "question_en": "Who sings '你瞞我瞞'?",
-    "options_zh": [
-      "陳柏宇",
-      "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
-    ],
-    "options_en": [
-      "Jason Chan",
-      "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
-    ],
-    "answer": 0,
-    "explanation_zh": "《你瞞我瞞》係陳柏宇嘅歌。",
-    "explanation_en": "'你瞞我瞞' is by Jason Chan.",
-    "difficulty": 3
-  },
-  {
-    "id": 87,
-    "question_zh": "《拍一半拖》係邊位歌手嘅歌？",
-    "question_en": "Who sings '拍一半拖'?",
-    "options_zh": [
-      "陳柏宇",
-      "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
-    ],
-    "options_en": [
-      "Jason Chan",
-      "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
-    ],
-    "answer": 0,
-    "explanation_zh": "《拍一半拖》係陳柏宇嘅歌。",
-    "explanation_en": "'拍一半拖' is by Jason Chan.",
-    "difficulty": 3
-  },
-  {
-    "id": 88,
-    "question_zh": "《逸後》係邊位歌手嘅歌？",
-    "question_en": "Who sings '逸後'?",
-    "options_zh": [
-      "陳柏宇",
-      "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
-    ],
-    "options_en": [
-      "Jason Chan",
-      "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
-    ],
-    "answer": 0,
-    "explanation_zh": "《逸後》係陳柏宇嘅歌。",
-    "explanation_en": "'逸後' is by Jason Chan.",
-    "difficulty": 3
-  },
-  {
-    "id": 89,
-    "question_zh": "《I Miss You》係邊位歌手嘅歌？",
-    "question_en": "Who sings 'I Miss You'?",
-    "options_zh": [
-      "陳柏宇",
-      "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
-    ],
-    "options_en": [
-      "Jason Chan",
-      "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
-    ],
-    "answer": 0,
-    "explanation_zh": "《I Miss You》係陳柏宇嘅歌。",
-    "explanation_en": "'I Miss You' is by Jason Chan.",
-    "difficulty": 3
-  },
-  {
-    "id": 90,
-    "question_zh": "《車匙》係邊位歌手嘅歌？",
-    "question_en": "Who sings '車匙'?",
-    "options_zh": [
-      "陳柏宇",
-      "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
-    ],
-    "options_en": [
-      "Jason Chan",
-      "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
-    ],
-    "answer": 0,
-    "explanation_zh": "《車匙》係陳柏宇嘅歌。",
-    "explanation_en": "'車匙' is by Jason Chan.",
-    "difficulty": 3
-  },
-  {
-    "id": 91,
-    "question_zh": "《固執》係邊位歌手嘅歌？",
-    "question_en": "Who sings '固執'?",
-    "options_zh": [
-      "陳柏宇",
-      "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
-    ],
-    "options_en": [
-      "Jason Chan",
-      "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
-    ],
-    "answer": 0,
-    "explanation_zh": "《固執》係陳柏宇嘅歌。",
-    "explanation_en": "'固執' is by Jason Chan.",
-    "difficulty": 3
-  },
-  {
-    "id": 92,
-    "question_zh": "《你瞞我瞞》係邊位歌手嘅歌？",
-    "question_en": "Who sings '你瞞我瞞'?",
-    "options_zh": [
-      "陳柏宇",
-      "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
-    ],
-    "options_en": [
-      "Jason Chan",
-      "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
-    ],
-    "answer": 0,
-    "explanation_zh": "《你瞞我瞞》係陳柏宇嘅歌。",
-    "explanation_en": "'你瞞我瞞' is by Jason Chan.",
-    "difficulty": 3
-  },
-  {
-    "id": 93,
-    "question_zh": "《拍一半拖》係邊位歌手嘅歌？",
-    "question_en": "Who sings '拍一半拖'?",
-    "options_zh": [
-      "陳柏宇",
-      "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
-    ],
-    "options_en": [
-      "Jason Chan",
-      "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
-    ],
-    "answer": 0,
-    "explanation_zh": "《拍一半拖》係陳柏宇嘅歌。",
-    "explanation_en": "'拍一半拖' is by Jason Chan.",
-    "difficulty": 3
-  },
-  {
-    "id": 94,
-    "question_zh": "《逸後》係邊位歌手嘅歌？",
-    "question_en": "Who sings '逸後'?",
-    "options_zh": [
-      "陳柏宇",
-      "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
-    ],
-    "options_en": [
-      "Jason Chan",
-      "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
-    ],
-    "answer": 0,
-    "explanation_zh": "《逸後》係陳柏宇嘅歌。",
-    "explanation_en": "'逸後' is by Jason Chan.",
-    "difficulty": 3
-  },
-  {
-    "id": 95,
-    "question_zh": "《I Miss You》係邊位歌手嘅歌？",
-    "question_en": "Who sings 'I Miss You'?",
-    "options_zh": [
-      "陳柏宇",
-      "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
-    ],
-    "options_en": [
-      "Jason Chan",
-      "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
-    ],
-    "answer": 0,
-    "explanation_zh": "《I Miss You》係陳柏宇嘅歌。",
-    "explanation_en": "'I Miss You' is by Jason Chan.",
-    "difficulty": 3
-  },
-  {
-    "id": 96,
-    "question_zh": "《車匙》係邊位歌手嘅歌？",
-    "question_en": "Who sings '車匙'?",
-    "options_zh": [
-      "陳柏宇",
-      "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
-    ],
-    "options_en": [
-      "Jason Chan",
-      "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
-    ],
-    "answer": 0,
-    "explanation_zh": "《車匙》係陳柏宇嘅歌。",
-    "explanation_en": "'車匙' is by Jason Chan.",
-    "difficulty": 3
-  },
-  {
-    "id": 97,
-    "question_zh": "《固執》係邊位歌手嘅歌？",
-    "question_en": "Who sings '固執'?",
-    "options_zh": [
-      "陳柏宇",
-      "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
-    ],
-    "options_en": [
-      "Jason Chan",
-      "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
-    ],
-    "answer": 0,
-    "explanation_zh": "《固執》係陳柏宇嘅歌。",
-    "explanation_en": "'固執' is by Jason Chan.",
-    "difficulty": 3
-  },
-  {
-    "id": 98,
-    "question_zh": "《你瞞我瞞》係邊位歌手嘅歌？",
-    "question_en": "Who sings '你瞞我瞞'?",
-    "options_zh": [
-      "陳柏宇",
-      "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
-    ],
-    "options_en": [
-      "Jason Chan",
-      "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
-    ],
-    "answer": 0,
-    "explanation_zh": "《你瞞我瞞》係陳柏宇嘅歌。",
-    "explanation_en": "'你瞞我瞞' is by Jason Chan.",
-    "difficulty": 3
-  },
-  {
-    "id": 99,
-    "question_zh": "《拍一半拖》係邊位歌手嘅歌？",
-    "question_en": "Who sings '拍一半拖'?",
-    "options_zh": [
-      "陳柏宇",
-      "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
-    ],
-    "options_en": [
-      "Jason Chan",
-      "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
-    ],
-    "answer": 0,
-    "explanation_zh": "《拍一半拖》係陳柏宇嘅歌。",
-    "explanation_en": "'拍一半拖' is by Jason Chan.",
-    "difficulty": 3
-  },
-  {
-    "id": 100,
-    "question_zh": "《逸後》係邊位歌手嘅歌？",
-    "question_en": "Who sings '逸後'?",
-    "options_zh": [
-      "陳柏宇",
-      "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
-    ],
-    "options_en": [
-      "Jason Chan",
-      "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
-    ],
-    "answer": 0,
-    "explanation_zh": "《逸後》係陳柏宇嘅歌。",
-    "explanation_en": "'逸後' is by Jason Chan.",
+    "explanation_zh": "正確答案係本地。",
+    "explanation_en": "Correct answer: 本地.",
     "difficulty": 3
   }
 ]

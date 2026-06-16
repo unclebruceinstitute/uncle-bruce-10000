@@ -17,7 +17,8 @@
     "question_en": "Who plays the mermaid?",
     "explanation_zh": "林允飾演美人魚珊珊。",
     "explanation_en": "Lin Yun plays the mermaid.",
-    "difficulty": 1
+    "difficulty": 1,
+    "id": 1
   },
   {
     "question_zh": "《美人魚》中，劉軒由誰飾演？",
@@ -37,7 +38,8 @@
     "question_en": "Who plays Liu Xuan?",
     "explanation_zh": "鄧超飾演富豪劉軒。",
     "explanation_en": "Deng Chao plays billionaire Liu Xuan.",
-    "difficulty": 1
+    "difficulty": 1,
+    "id": 2
   },
   {
     "question_zh": "《美人魚》中，珊珊為何接近劉軒？",
@@ -57,7 +59,8 @@
     "question_en": "Why does she approach him?",
     "explanation_zh": "珊珊最初是為了刺殺劉軒。",
     "explanation_en": "Initially to assassinate him.",
-    "difficulty": 1
+    "difficulty": 1,
+    "id": 3
   },
   {
     "question_zh": "《美人魚》的票房超過了多少億人民幣？",
@@ -77,7 +80,8 @@
     "question_en": "How much did it earn?",
     "explanation_zh": "票房超過33億人民幣。",
     "explanation_en": "Earned over 3.3 billion RMB.",
-    "difficulty": 2
+    "difficulty": 2,
+    "id": 4
   },
   {
     "question_zh": "《美人魚》中，劉軒的項目威脅了什麼？",
@@ -97,7 +101,8 @@
     "question_en": "What does his project threaten?",
     "explanation_zh": "劉軒的項目威脅美人魚族群的生存環境。",
     "explanation_en": "His project threatens the mermaid habitat.",
-    "difficulty": 1
+    "difficulty": 1,
+    "id": 5
   },
   {
     "question_zh": "《美人魚》的導演是誰？",
@@ -117,7 +122,8 @@
     "question_en": "Who directed it?",
     "explanation_zh": "周星馳執導。",
     "explanation_en": "Directed by Stephen Chow.",
-    "difficulty": 1
+    "difficulty": 1,
+    "id": 6
   },
   {
     "question_zh": "《美人魚》中，張雨綺飾演什麼角色？",
@@ -137,7 +143,8 @@
     "question_en": "What role does Zhang Yuqi play?",
     "explanation_zh": "張雨綺飾演反派李若蘭。",
     "explanation_en": "Zhang Yuqi plays villain Li Ruolan.",
-    "difficulty": 1
+    "difficulty": 1,
+    "id": 7
   },
   {
     "question_zh": "《美人魚》中，珊珊帶劉軒去了哪裡？",
@@ -157,7 +164,8 @@
     "question_en": "Where does she take him?",
     "explanation_zh": "珊珊帶劉軒去美人魚洞穴。",
     "explanation_en": "She takes him to the mermaid cave.",
-    "difficulty": 1
+    "difficulty": 1,
+    "id": 8
   },
   {
     "question_zh": "《美人魚》是什麼類型的電影？",
@@ -177,7 +185,8 @@
     "question_en": "What genre is it?",
     "explanation_zh": "《美人魚》是奇幻喜劇。",
     "explanation_en": "It's a fantasy comedy.",
-    "difficulty": 1
+    "difficulty": 1,
+    "id": 9
   },
   {
     "question_zh": "《美人魚》中，劉軒最終做了什麼決定？",
@@ -197,217 +206,8 @@
     "question_en": "What does he decide?",
     "explanation_zh": "劉軒最終停止項目，保護美人魚。",
     "explanation_en": "He stops the project to protect the mermaids.",
-    "difficulty": 1
-  },
-  {
-    "id": 1,
-    "question_zh": "《美人魚》係邊年上映？",
-    "question_en": "What year was 'The Mermaid' released?",
-    "options_zh": [
-      "2016",
-      "2014",
-      "2019",
-      "2011"
-    ],
-    "options_en": [
-      "2016",
-      "2014",
-      "2019",
-      "2011"
-    ],
-    "answer": 0,
-    "explanation_zh": "《美人魚》喺2016年上映。",
-    "explanation_en": "'The Mermaid' was released in 2016.",
-    "difficulty": 1
-  },
-  {
-    "id": 2,
-    "question_zh": "《美人魚》嘅導演係邊個？",
-    "question_en": "Who directed 'The Mermaid'?",
-    "options_zh": [
-      "周星馳",
-      "王晶",
-      "杜琪峯",
-      "徐克"
-    ],
-    "options_en": [
-      "周星馳",
-      "王晶",
-      "杜琪峯",
-      "徐克"
-    ],
-    "answer": 0,
-    "explanation_zh": "《美人魚》由周星馳執導。",
-    "explanation_en": "'The Mermaid' was directed by 周星馳.",
-    "difficulty": 1
-  },
-  {
-    "id": 3,
-    "question_zh": "以下邊位演員出演《美人魚》？",
-    "question_en": "Which actor starred in 'The Mermaid'?",
-    "options_zh": [
-      "鄧超",
-      "張國榮",
-      "梁家輝",
-      "任達華"
-    ],
-    "options_en": [
-      "鄧超",
-      "張國榮",
-      "梁家輝",
-      "任達華"
-    ],
-    "answer": 0,
-    "explanation_zh": "鄧超出演咗《美人魚》。",
-    "explanation_en": "鄧超 starred in 'The Mermaid'.",
-    "difficulty": 1
-  },
-  {
-    "id": 4,
-    "question_zh": "《美人魚》屬於咩類型？",
-    "question_en": "What genre is 'The Mermaid'?",
-    "options_zh": [
-      "喜劇/奇幻",
-      "紀錄片",
-      "動畫",
-      "恐怖"
-    ],
-    "options_en": [
-      "喜劇/奇幻",
-      "紀錄片",
-      "動畫",
-      "恐怖"
-    ],
-    "answer": 0,
-    "explanation_zh": "《美人魚》係喜劇/奇幻片。",
-    "explanation_en": "'The Mermaid' is a 喜劇/奇幻 film.",
-    "difficulty": 2
-  },
-  {
-    "id": 5,
-    "question_zh": "《美人魚》嘅故事講咩？",
-    "question_en": "What is 'The Mermaid' about?",
-    "options_zh": [
-      "美人魚潛入人類世界阻止填海工程",
-      "太空探險",
-      "古羅馬戰爭",
-      "未來世界"
-    ],
-    "options_en": [
-      "美人魚潛入人類世界阻止填海工程",
-      "太空探險",
-      "古羅馬戰爭",
-      "未來世界"
-    ],
-    "answer": 0,
-    "explanation_zh": "《美人魚》講述：美人魚潛入人類世界阻止填海工程。",
-    "explanation_en": "'The Mermaid' is about: 美人魚潛入人類世界阻止填海工程.",
-    "difficulty": 2
-  },
-  {
-    "id": 6,
-    "question_zh": "《美人魚》係邊個出品？",
-    "question_en": "Which company produced 'The Mermaid'?",
-    "options_zh": [
-      "香港電影公司",
-      "好萊塢片廠",
-      "日本動畫公司",
-      "韓國電視台"
-    ],
-    "options_en": [
-      "香港電影公司",
-      "好萊塢片廠",
-      "日本動畫公司",
-      "韓國電視台"
-    ],
-    "answer": 0,
-    "explanation_zh": "《美人魚》係香港出品。",
-    "explanation_en": "'The Mermaid' is a Hong Kong production.",
-    "difficulty": 2
-  },
-  {
-    "id": 7,
-    "question_zh": "《美人魚》嘅拍攝地點主要喺？",
-    "question_en": "Where was 'The Mermaid' mainly filmed?",
-    "options_zh": [
-      "香港",
-      "日本",
-      "美國",
-      "英國"
-    ],
-    "options_en": [
-      "香港",
-      "日本",
-      "美國",
-      "英國"
-    ],
-    "answer": 0,
-    "explanation_zh": "《美人魚》主要喺香港拍攝。",
-    "explanation_en": "'The Mermaid' was mainly filmed in Hong Kong.",
-    "difficulty": 2
-  },
-  {
-    "id": 8,
-    "question_zh": "《美人魚》嘅語言係？",
-    "question_en": "What language is 'The Mermaid' in?",
-    "options_zh": [
-      "粵語",
-      "英語",
-      "日語",
-      "韓語"
-    ],
-    "options_en": [
-      "粵語",
-      "英語",
-      "日語",
-      "韓語"
-    ],
-    "answer": 0,
-    "explanation_zh": "《美人魚》係粵語電影。",
-    "explanation_en": "'The Mermaid' is in Cantonese.",
-    "difficulty": 3
-  },
-  {
-    "id": 9,
-    "question_zh": "《美人魚》係咪有續集？",
-    "question_en": "Does 'The Mermaid' have a sequel?",
-    "options_zh": [
-      "有",
-      "冇",
-      "只有前傳",
-      "正在籌拍"
-    ],
-    "options_en": [
-      "有",
-      "冇",
-      "只有前傳",
-      "正在籌拍"
-    ],
-    "answer": 0,
-    "explanation_zh": "《美人魚》有續集。",
-    "explanation_en": "'The Mermaid' has a sequel.",
-    "difficulty": 3
-  },
-  {
-    "id": 10,
-    "question_zh": "以下邊句台詞出自《美人魚》？",
-    "question_en": "Which quote is from 'The Mermaid'?",
-    "options_zh": [
-      "「美人魚經典台詞」",
-      "「我係你爸爸」",
-      "「生命自會找到出路」",
-      "「我要打十個」"
-    ],
-    "options_en": [
-      "「美人魚經典台詞」",
-      "「我係你爸爸」",
-      "「生命自會找到出路」",
-      "「我要打十個」"
-    ],
-    "answer": 0,
-    "explanation_zh": "呢句係《美人魚》嘅經典台詞。",
-    "explanation_en": "This is a classic quote from 'The Mermaid'.",
-    "difficulty": 3
+    "difficulty": 1,
+    "id": 10
   },
   {
     "id": 11,
@@ -428,7 +228,7 @@
     "answer": 0,
     "explanation_zh": "《美人魚》喺2016年上映。",
     "explanation_en": "'The Mermaid' was released in 2016.",
-    "difficulty": 3
+    "difficulty": 1
   },
   {
     "id": 12,
@@ -449,7 +249,7 @@
     "answer": 0,
     "explanation_zh": "《美人魚》由周星馳執導。",
     "explanation_en": "'The Mermaid' was directed by 周星馳.",
-    "difficulty": 3
+    "difficulty": 1
   },
   {
     "id": 13,
@@ -470,7 +270,7 @@
     "answer": 0,
     "explanation_zh": "鄧超出演咗《美人魚》。",
     "explanation_en": "鄧超 starred in 'The Mermaid'.",
-    "difficulty": 3
+    "difficulty": 1
   },
   {
     "id": 14,
@@ -491,7 +291,7 @@
     "answer": 0,
     "explanation_zh": "《美人魚》係喜劇/奇幻片。",
     "explanation_en": "'The Mermaid' is a 喜劇/奇幻 film.",
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "id": 15,
@@ -512,7 +312,7 @@
     "answer": 0,
     "explanation_zh": "《美人魚》講述：美人魚潛入人類世界阻止填海工程。",
     "explanation_en": "'The Mermaid' is about: 美人魚潛入人類世界阻止填海工程.",
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "id": 16,
@@ -533,7 +333,7 @@
     "answer": 0,
     "explanation_zh": "《美人魚》係香港出品。",
     "explanation_en": "'The Mermaid' is a Hong Kong production.",
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "id": 17,
@@ -554,7 +354,7 @@
     "answer": 0,
     "explanation_zh": "《美人魚》主要喺香港拍攝。",
     "explanation_en": "'The Mermaid' was mainly filmed in Hong Kong.",
-    "difficulty": 3
+    "difficulty": 2
   },
   {
     "id": 18,
@@ -618,5 +418,215 @@
     "explanation_zh": "呢句係《美人魚》嘅經典台詞。",
     "explanation_en": "This is a classic quote from 'The Mermaid'.",
     "difficulty": 3
+  },
+  {
+    "id": 21,
+    "question_zh": "《美人魚》喺邊年上映？",
+    "question_en": "What year was 'The Mermaid' released?",
+    "options_zh": [
+      "2016",
+      "2013",
+      "2018",
+      "2011"
+    ],
+    "options_en": [
+      "2016",
+      "2013",
+      "2018",
+      "2011"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係2016。",
+    "explanation_en": "The correct answer is 2016.",
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question_zh": "《美人魚》係咩類型嘅電影？",
+    "question_en": "What genre is 'The Mermaid'?",
+    "options_zh": [
+      "喜劇",
+      "動作",
+      "劇情",
+      "恐怖"
+    ],
+    "options_en": [
+      "喜劇",
+      "動作",
+      "劇情",
+      "恐怖"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係喜劇。",
+    "explanation_en": "The correct answer is 喜劇.",
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question_zh": "《美人魚》係邊度出品？",
+    "question_en": "Where was 'The Mermaid' produced?",
+    "options_zh": [
+      "香港",
+      "內地",
+      "台灣",
+      "好萊塢"
+    ],
+    "options_en": [
+      "香港",
+      "內地",
+      "台灣",
+      "好萊塢"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係香港。",
+    "explanation_en": "The correct answer is 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question_zh": "《美人魚》嘅主要語言係？",
+    "question_en": "What language is 'The Mermaid' in?",
+    "options_zh": [
+      "粵語",
+      "國語",
+      "英語",
+      "日語"
+    ],
+    "options_en": [
+      "粵語",
+      "國語",
+      "英語",
+      "日語"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係粵語。",
+    "explanation_en": "The correct answer is 粵語.",
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question_zh": "《美人魚》有幾多個主要角色？",
+    "question_en": "How many main characters in 'The Mermaid'?",
+    "options_zh": [
+      "3",
+      "1",
+      "5",
+      "10"
+    ],
+    "options_en": [
+      "3",
+      "1",
+      "5",
+      "10"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係3。",
+    "explanation_en": "The correct answer is 3.",
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question_zh": "《美人魚》嘅拍攝地點喺邊度？",
+    "question_en": "Where was 'The Mermaid' filmed?",
+    "options_zh": [
+      "香港",
+      "深圳",
+      "澳門",
+      "上海"
+    ],
+    "options_en": [
+      "香港",
+      "深圳",
+      "澳門",
+      "上海"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係香港。",
+    "explanation_en": "The correct answer is 香港.",
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question_zh": "《美人魚》嘅續集有冇拍？",
+    "question_en": "Does 'The Mermaid' have a sequel?",
+    "options_zh": [
+      "有",
+      "冇",
+      "籌備中",
+      "取消咗"
+    ],
+    "options_en": [
+      "有",
+      "冇",
+      "籌備中",
+      "取消咗"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係有。",
+    "explanation_en": "The correct answer is 有.",
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question_zh": "《美人魚》嘅海報主要用咩顏色？",
+    "question_en": "What color is 'The Mermaid' poster?",
+    "options_zh": [
+      "紅色",
+      "藍色",
+      "黑色",
+      "白色"
+    ],
+    "options_en": [
+      "紅色",
+      "藍色",
+      "黑色",
+      "白色"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係紅色。",
+    "explanation_en": "The correct answer is 紅色.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "《美人魚》屬於邊個年代嘅電影？",
+    "question_en": "Which era is 'The Mermaid' from?",
+    "options_zh": [
+      "2010年代",
+      "1980年代",
+      "2010年代",
+      "2020年代"
+    ],
+    "options_en": [
+      "2010年代",
+      "1980年代",
+      "2010年代",
+      "2020年代"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係2010年代。",
+    "explanation_en": "The correct answer is 2010年代.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "《美人魚》嘅配樂好唔好聽？",
+    "question_en": "Is 'The Mermaid' soundtrack good?",
+    "options_zh": [
+      "好聽",
+      "一般",
+      "差",
+      "冇配樂"
+    ],
+    "options_en": [
+      "好聽",
+      "一般",
+      "差",
+      "冇配樂"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係好聽。",
+    "explanation_en": "The correct answer is 好聽.",
+    "difficulty": 2
   }
 ]
