@@ -213,11 +213,13 @@ document.getElementById('resultScore').style.color=THEME;
 document.querySelectorAll('.q-num').forEach(e=>e.style.color=THEME);
 
 function getQ(q){
+  if(!q)return'';
   if(lang==='en')return q.question_en||q.question||q.question_zh||'';
   return q.question_zh||q.question||'';
 }
 function getOpts(q){
-  if(lang==='en'&&q.options_en)return q.options_en;
+  if(!q)return[];
+  if(lang==='en'&&q.options_en&&q.options_en.length)return q.options_en;
   return q.options_zh||q.options||[];
 }
 function getExpl(q){
@@ -424,7 +426,7 @@ function shuffleOptions(q){
   if(q._shuffled)return;
   var ans=getAns(q);
   var rawZh=q.options_zh||q.options||[];
-  var rawEn=q.options_en||q.options_zh||q.options||[];
+  var rawEn=(q.options_en&&q.options_en.length)?q.options_en:rawZh;
   var cleanZh=rawZh.map(function(o){return String(o).replace(/^[A-Da-d][.．、]\s*/,'')});
   var cleanEn=rawEn.map(function(o){return String(o).replace(/^[A-Da-d][.．、]\s*/,'')});
   var n=cleanZh.length;
@@ -437,6 +439,7 @@ function shuffleOptions(q){
 }
 function showQuestion(){
   const q=currentQuiz[currentIndex],total=currentQuiz.length;
+  if(!q){document.getElementById('qText').textContent=lang==='zh'?'題目載入失敗':'Question load failed';return;}
   document.getElementById('progressBar').style.width=((currentIndex)/total*100)+'%';
   document.getElementById('qNum').textContent=`${currentIndex+1} / ${total}`;
   const dl=getDiffLabel(q.difficulty);
