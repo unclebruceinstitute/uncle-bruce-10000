@@ -65,6 +65,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK
 </style>
 </head>
 <body>
+<a class="home-link" href="../../" style="padding:8px 16px;border:1px solid #ddd;border-radius:8px;background:#fff;cursor:pointer;font-size:14px;text-decoration:none;color:#333;display:inline-block;margin-bottom:12px">← 返回主頁</a>
+
 <div class="lang-toggle">
 <button class="lang-btn active" onclick="setLang('zh')">中文</button>
 <button class="lang-btn" onclick="setLang('en')">EN</button>
@@ -317,5 +319,10 @@ document.getElementById('resultBreakdown').innerHTML=`<div style="font-size:14px
 function goHome(){document.getElementById('homeView').classList.remove('hidden');document.getElementById('quizView').classList.add('hidden');document.getElementById('resultView').classList.add('hidden');}
 function updateStats(){document.getElementById('doneQ').textContent=doneCount;document.getElementById('correctQ').textContent=correctCount;document.getElementById('accuracy').textContent=doneCount>0?Math.round(correctCount/doneCount*100)+'%':'0%';}
 </script>
-</body>
+
+<!-- 上一頁 button -->
+<div style="text-align:center;padding:20px 16px 40px">
+  <button onclick="window.history.back()" style="padding:12px 32px;border:2px solid #e0e0e0;border-radius:10px;background:#fff;cursor:pointer;font-size:15px;color:#555">← 上一頁</button>
+</div>
+</n</body>
 </html>
