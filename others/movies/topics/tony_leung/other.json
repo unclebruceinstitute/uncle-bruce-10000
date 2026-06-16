@@ -301,12 +301,6 @@
   },
   {
     "question_zh": "《重慶森林》中，王菲飾演什麼角色？",
-    "options_zh אימי": [
-      "快餐店店員",
-      "空姐",
-      "模特兒",
-      "學生"
-    ],
     "options_en": [
       "Fast food worker",
       "Stewardess",
@@ -318,16 +312,16 @@
     "explanation_zh": "王菲飾演快餐店店員阿菲。",
     "explanation_en": "Faye Wong plays fast food worker Faye.",
     "difficulty": 1,
-    "id": 16
+    "id": 16,
+    "options_zh": [
+      "快餐店店員",
+      "空姐",
+      "模特兒",
+      "學生"
+    ]
   },
   {
     "question_zh": "《色，戒》改編自哪位作家的小說？",
-    "options_zh אימי": [
-      "張愛玲",
-      "白先勇",
-      "金庸",
-      "余華"
-    ],
     "options_en": [
       "Eileen Chang",
       "Pai Hsien-yung",
@@ -339,16 +333,16 @@
     "explanation_zh": "改編自張愛玲的同名小說。",
     "explanation_en": "Based on Eileen Chang's novella.",
     "difficulty": 1,
-    "id": 17
+    "id": 17,
+    "options_zh": [
+      "張愛玲",
+      "白先勇",
+      "金庸",
+      "余華"
+    ]
   },
   {
     "question_zh": "《一代宗師》中，宮二由誰飾演？",
-    "options_zh אימי": [
-      "章子怡",
-      "鞏俐",
-      "湯唯",
-      "周迅"
-    ],
     "options_en": [
       "Zhang Ziyi",
       "Gong Li",
@@ -360,7 +354,13 @@
     "explanation_zh": "章子怡飾演宮二。",
     "explanation_en": "Zhang Ziyi plays Gong Er.",
     "difficulty": 1,
-    "id": 18
+    "id": 18,
+    "options_zh": [
+      "章子怡",
+      "鞏俐",
+      "湯唯",
+      "周迅"
+    ]
   },
   {
     "question_zh": "梁朝偉憑哪部電影首次獲得金像獎影帝？",
