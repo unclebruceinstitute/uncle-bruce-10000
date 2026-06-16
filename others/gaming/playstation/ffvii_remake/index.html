@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>⚔️ 最終幻想VII 重製版 | 大B舅父萬題庫</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK','Microsoft JhengHei',sans-serif;background:#f0f2f5;color:#333}
+.c{max-width:800px;margin:0 auto;padding:16px}
+.top-bar{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}
+.home-link{padding:8px 16px;border:1px solid #ddd;border-radius:8px;background:#fff;cursor:pointer;font-size:14px;text-decoration:none;color:#333;display:inline-block}
+.hdr{text-align:center;padding:24px 0;color:#fff;border-radius:16px;margin-bottom:20px;background:linear-gradient(135deg,#2196F3,#1976D2)}
+.hdr h1{font-size:24px;margin-bottom:4px}
+.stats{display:flex;justify-content:space-around;background:#fff;border-radius:12px;padding:12px;margin-bottom:16px;box-shadow:0 2px 8px rgba(0,0,0,.08)}
+.stat{text-align:center}.stat-n{font-size:24px;font-weight:700;color:#2196F3}.stat-l{font-size:12px;color:#888}
+.btn{padding:14px 36px;border:none;border-radius:12px;font-size:18px;font-weight:700;cursor:pointer;background:linear-gradient(135deg,#2196F3,#1976D2);color:#fff;transition:.2s}
+.btn:hover{opacity:.9}
+.qa{background:#fff;border-radius:16px;padding:24px;box-shadow:0 2px 12px rgba(0,0,0,.08);display:none}
+.qt{font-size:18px;line-height:1.8;margin-bottom:20px;font-weight:500}
+.opts{display:flex;flex-direction:column;gap:10px}
+.opt{padding:14px 16px;border:2px solid #e8e8e8;border-radius:10px;cursor:pointer;font-size:16px;transition:.2s}
+.opt:hover{background:#e3f2fd}.opt.ok{border-color:#4caf50;background:#e8f5e9}.opt.ng{border-color:#f44336;background:#fce4ec}.opt.d{pointer-events:none;opacity:.7}
+.ep{margin-top:16px;padding:16px;background:#e3f2fd;border-radius:10px;border-left:4px solid #2196F3;display:none}
+.ep.show{display:block}.ep p{font-size:14px;line-height:1.6}
+.prog{width:100%;height:6px;background:#e0e0e0;border-radius:3px;margin-bottom:16px;overflow:hidden}
+.pb{height:100%;background:#2196F3;border-radius:3px;transition:.3s}
+.hidden{display:none}
+.ft{margin-top:30px;color:#888;font-size:.75rem;text-align:center}
+</style>
+</head>
+<body>
+<div class="c">
+<div class="top-bar">
+<a class="home-link" href="../">← 返回</a>
+<a class="home-link" href="../../">← 返回主頁</a>
+</div>
+<div class="hdr">
+<h1>⚔️ 最終幻想VII 重製版</h1>
+<p>FF VII Remake — PlayStation</p>
+</div>
+<div class="stats">
+<div class="stat"><div class="stat-n" id="totalQ">0</div><div class="stat-l">總題數</div></div>
+<div class="stat"><div class="stat-n" id="doneQ">0</div><div class="stat-l">已完成</div></div>
+<div class="stat"><div class="stat-n" id="correctQ">0</div><div class="stat-l">答對</div></div>
+<div class="stat"><div class="stat-n" id="accuracy">0%</div><div class="stat-l">正確率</div></div>
+</div>
+<div style="text-align:center;padding:30px 0" id="startView">
+<div style="font-size:60px;margin-bottom:16px">⚔️</div>
+<button class="btn" onclick="startQuiz()">開始練習</button>
+</div>
+<div class="hidden" id="quizView">
+<div class="prog"><div class="pb" id="progBar"></div></div>
+<div class="qa" style="display:block">
+<div style="font-size:14px;color:#888;margin-bottom:8px" id="qNum"></div>
+<div class="qt" id="qText"></div>
+<div class="opts" id="optsDiv"></div>
+<div class="ep" id="expl"><p id="explText"></p></div>
+<div style="text-align:center;margin-top:16px;display:none" id="nextBtn">
+<button class="btn" onclick="nextQ()" style="font-size:14px;padding:10px 24px">下一題 →</button>
+</div>
+</div>
+</div>
+<div class="hidden" id="resultView" style="text-align:center;padding:40px 0">
+<div style="font-size:80px;margin-bottom:16px" id="resEmoji">🎉</div>
+<h2 id="resTitle"></h2>
+<p style="font-size:16px;color:#666;margin:16px 0" id="resText"></p>
+<button class="btn" onclick="startQuiz()">再玩一次</button>
+</div>
+<div class="ft">© 2026 Uncle Bruce Institute 大B舅父教室</div>
+</div>
+<script>
+let questions=[],curQ=0,correct=0,answered=0;
+async function loadQ(){try{const r=await fetch('questions.json');questions=await r.json();document.getElementById('totalQ').textContent=questions.length}catch(e){}}
+function startQuiz(){loadQ().then(()=>{if(!questions.length)return;questions=[...questions].sort(()=>Math.random()-.5).slice(0,20);curQ=0;correct=0;answered=0;document.getElementById('startView').classList.add('hidden');document.getElementById('quizView').classList.remove('hidden');document.getElementById('resultView').classList.add('hidden');showQ();});}
+function showQ(){if(curQ>=questions.length){showResult();return}const q=questions[curQ];document.getElementById('qNum').textContent=(curQ+1)+' / '+questions.length;document.getElementById('qText').textContent=q.question_zh||'';document.getElementById('progBar').style.width=(curQ/questions.length*100)+'%';document.getElementById('expl').classList.remove('show');document.getElementById('nextBtn').style.display='none';const opts=q.options_zh||[];const div=document.getElementById('optsDiv');div.innerHTML='';const labels=['A','B','C','D'];opts.forEach((o,i)=>{const el=document.createElement('div');el.className='opt';el.textContent=labels[i]+'. '+o;el.onclick=()=>checkA(i,q);div.appendChild(el);});}
+function checkA(idx,q){answered++;document.querySelectorAll('.opt').forEach(o=>o.classList.add('d'));const ci=q.answer;if(idx===ci){document.querySelectorAll('.opt')[ci].classList.add('ok');correct++;}else{document.querySelectorAll('.opt')[idx].classList.add('ng');document.querySelectorAll('.opt')[ci].classList.add('ok');}document.getElementById('explText').textContent=q.explanation_zh||'';document.getElementById('expl').classList.add('show');document.getElementById('nextBtn').style.display='block';updateStats();}
+function nextQ(){curQ++;showQ()}
+function showResult(){document.getElementById('quizView').classList.add('hidden');document.getElementById('resultView').classList.remove('hidden');const pct=Math.round(correct/answered*100);document.getElementById('resTitle').textContent='答對 '+correct+' / '+answered+' 題（'+pct+'%）';document.getElementById('resEmoji').textContent=pct>=80?'🏆':pct>=60?'👍':'😅';document.getElementById('resText').textContent=pct>=80?'好犀利！':pct>=60?'唔錯，繼續努力！':'再接再厲！';}
+function updateStats(){document.getElementById('doneQ').textContent=answered;document.getElementById('correctQ').textContent=correct;document.getElementById('accuracy').textContent=answered?Math.round(correct/answered*100)+'%':'0%';}
+loadQ();
+</script>
+</body>
+</html>
