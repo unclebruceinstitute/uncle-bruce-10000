@@ -126,13 +126,13 @@ grid.innerHTML='';
 let total=0;
 for(const[sid,sinfo]of Object.entries(SERIES)){
 try{
-const resp=await fetch(sid+'/index.json');
+const resp=await fetch('topics/'+sid+'/index.json');
 const films=await resp.json();
 seriesData[sid]=films;
 let scount=0;
 for(const f of films){
 try{
-const r2=await fetch(sid+'/'+f.file);
+const r2=await fetch('topics/'+sid+'/'+f.file);
 const d=await r2.json();
 scount+=d.length;
 }catch(e){}
@@ -170,7 +170,7 @@ document.getElementById('resultView').classList.add('h');
 async function startQuiz(sid,file){
 currentFilm=file;
 try{
-const resp=await fetch(sid+'/'+file);
+const resp=await fetch('topics/'+sid+'/'+file);
 questions=await resp.json();
 }catch(e){alert('載入失敗');return}
 shuffle(questions);
