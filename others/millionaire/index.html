@@ -231,7 +231,7 @@ shuffle(questions);
 curQ=0;correct=0;answered=0;used50=false;usedPhone=false;usedAudience=false;walkedAway=false;
 showView('quizView');
 SFX.start();
-setTimeout(()=>{showQ();document.getElementById('ladder').classList.add('on')},2800);
+setTimeout(()=>{showQ();document.getElementById('ladder').classList.add('on')},1200);
 }
 
 function showQ(){
@@ -300,10 +300,10 @@ SFX.wrong();
 const ek=lang==='zh'?'explanation_zh':'explanation_en';
 document.getElementById('explText').textContent=q[ek]||q.explanation_zh||'';
 document.getElementById('explDiv').classList.add('show');
-setTimeout(()=>endGame(),2500);
+setTimeout(()=>endGame(),1000);
 }
 updateStats();
-},2000);
+},800);
 }
 
 function nextQ(){
