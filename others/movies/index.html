@@ -123,30 +123,19 @@ fat_choi:{zh:'🀄 嚦咕嚦咕新年財',en:'🀄 Fat Choi Spirit',color:'#f39c
 async function init(){
 const grid=document.getElementById('seriesGrid');
 grid.innerHTML='';
-let total=0;
 for(const[sid,sinfo]of Object.entries(SERIES)){
 try{
 const resp=await fetch('topics/'+sid+'/index.json');
 const films=await resp.json();
 seriesData[sid]=films;
-let scount=0;
-for(const f of films){
-try{
-const r2=await fetch('topics/'+sid+'/'+f.file);
-const d=await r2.json();
-scount+=d.length;
-}catch(e){}
-}
-total+=scount;
 const card=document.createElement('div');
 card.className='tc';
 card.style.borderColor=sinfo.color;
-card.innerHTML=`<div class="e">${sinfo.zh.split(' ')[0]}</div><div class="n">${sinfo.zh.substring(2)}</div><div class="ct">${films.length} 部電影 · ${scount} 題</div>`;
+card.innerHTML=`<div class="e">${sinfo.zh.split(' ')[0]}</div><div class="n">${sinfo.zh.substring(2)}</div><div class="ct">${films.length} 部電影</div>`;
 card.onclick=()=>showFilms(sid);
 grid.appendChild(card);
 }catch(e){console.error(sid,e)}
 }
-document.getElementById('totalQ').textContent=total;
 }
 
 function showFilms(sid){
@@ -173,6 +162,7 @@ try{
 const resp=await fetch('topics/'+sid+'/'+file);
 questions=await resp.json();
 }catch(e){alert('載入失敗');return}
+document.getElementById('totalQ').textContent=questions.length;
 shuffle(questions);
 curQ=0;correct=0;answered=0;
 updateStats();
