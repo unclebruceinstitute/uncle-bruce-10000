@@ -1,102 +1,327 @@
 [
   {
-    "question_zh": "《一代宗師》（2013）中，馬三由誰飾演？",
-    "question_en": "Who plays Ma San?",
-    "options_zh אימי": [
-      "張晉",
-      "甄子丹",
-      "吳京",
-      "趙文卓"
-    ],
-    "options_en": [
-      "Zhang Jin",
-      "Donnie Yen",
-      "Wu Jing",
-      "Zhao Wenzhuo"
-    ],
+    "question_zh": "《一代宗師》（2013）中，梁朝偉飾演什麼角色？",
+    "question_en": "What role in The Grandmaster?",
+    "options_zh": ["葉問", "宮二", "一線天", "馬三"],
+    "options_en": ["Ip Man", "Gong Er", "Yi Xiantian", "Ma San"],
     "answer": 0,
-    "explanation_zh": "張晉。",
-    "explanation_en": "Zhang Jin.",
+    "explanation_zh": "飾演詠春拳宗師葉問。",
+    "explanation_en": "Plays Wing Chun grandmaster Ip Man.",
     "difficulty": 1
   },
   {
-    "question_zh": "《一代宗師》中，宮二的武術是什麼？",
-    "question_en": "What martial art does Gong Er practice?",
-    "options_zh אימי": [
-      "八卦掌",
-      "詠春拳",
-      "太極拳",
-      "形意拳"
-    ],
-    "options_en": [
-      "Bagua",
-      "Wing Chun",
-      "Tai Chi",
-      "Xingyi"
-    ],
+    "question_zh": "《一代宗師》的導演是誰？",
+    "question_en": "Who directed The Grandmaster?",
+    "options_zh": ["王家衛", "李安", "張藝謀", "陳凱歌"],
+    "options_en": ["Wong Kar-wai", "Ang Lee", "Zhang Yimou", "Chen Kaige"],
     "answer": 0,
-    "explanation_zh": "八卦掌。",
-    "explanation_en": "Bagua.",
+    "explanation_zh": "王家衛執導。",
+    "explanation_en": "Directed by Wong Kar-wai.",
     "difficulty": 1
   },
   {
-    "question_zh אימי": "《一代宗師》中，梁朝偉為角色學了多久功夫？",
-    "question_en": "How long did he train?",
-    "options_zh אימי": [
-      "1年",
-      "2年",
-      "3年",
-      "5年"
-    ],
-    "options_en": [
-      "1yr",
-      "2yr",
-      "3yr",
-      "5yr"
-    ],
+    "question_zh": "《一代宗師》中，章子怡飾演什麼角色？",
+    "question_en": "What role does Zhang Ziyi play in The Grandmaster?",
+    "options_zh": ["葉問", "宮二", "一線天", "馬三"],
+    "options_en": ["Ip Man", "Gong Er", "Yi Xiantian", "Ma San"],
+    "answer": 1,
+    "explanation_zh": "章子怡飾演宮二。",
+    "explanation_en": "Zhang Ziyi plays Gong Er.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《一代宗師》的故事背景設定在哪個時期？",
+    "question_en": "In which period is The Grandmaster set?",
+    "options_zh": ["民國時期", "清朝", "現代", "唐朝"],
+    "options_en": ["Republic era", "Qing Dynasty", "Modern", "Tang Dynasty"],
+    "answer": 0,
+    "explanation_zh": "故事背景設定在民國時期。",
+    "explanation_en": "Set during the Republic era.",
+    "difficulty": 1
+  },
+  {
+    "question_zh": "《一代宗師》中，葉問精通什麼武術？",
+    "question_en": "What martial art does Ip Man master in The Grandmaster?",
+    "options_zh": ["詠春拳", "太極拳", "八卦掌", "形意拳"],
+    "options_en": ["Wing Chun", "Tai Chi", "Bagua Zhang", "Xingyi Quan"],
+    "answer": 0,
+    "explanation_zh": "葉問精通詠春拳。",
+    "explanation_en": "Ip Man masters Wing Chun.",
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question_zh": "《一代宗師》中，宮二精通什麼武術？",
+    "question_en": "What martial art does Gong Er master in The Grandmaster?",
+    "options_zh": ["詠春拳", "八卦掌", "形意拳", "太極拳"],
+    "options_en": ["Wing Chun", "Bagua Zhang", "Xingyi Quan", "Tai Chi"],
+    "answer": 1,
+    "explanation_zh": "宮二精通八卦掌。",
+    "explanation_en": "Gong Er masters Bagua Zhang.",
+    "difficulty": 2
+  },
+  {
+    "id": 7,
+    "question_zh": "《一代宗師》中，葉問與宮二是什麼關係？",
+    "question_en": "What is the relationship between Ip Man and Gong Er in The Grandmaster?",
+    "options_zh": ["師徒", "戀人", "對手", "以上皆有"],
+    "options_en": ["Mentor-student", "Lovers", "Rivals", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "葉問與宮二有師徒、戀人和對手等多重關係。",
+    "explanation_en": "Ip Man and Gong Er have multiple relationships including mentor-student, lovers, and rivals.",
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_zh": "《一代宗師》中，馬三由誰飾演？",
+    "question_en": "Who plays Ma San in The Grandmaster?",
+    "options_zh": ["張晉", "趙本山", "王慶祥", "以上都不是"],
+    "options_en": ["Zhang Jin", "Zhao Benshan", "Wang Qingxiang", "None of the above"],
+    "answer": 0,
+    "explanation_zh": "張晉飾演馬三。",
+    "explanation_en": "Zhang Jin plays Ma San.",
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question_zh": "《一代宗師》中，馬三與宮二有什麼關係？",
+    "question_en": "What is the relationship between Ma San and Gong Er in The Grandmaster?",
+    "options_zh": ["師兄妹", "仇人", "以上皆是", "夫妻"],
+    "options_en": ["Martial siblings", "Enemies", "All of the above", "Husband and wife"],
     "answer": 2,
-    "explanation_zh": "三年詠春拳。",
-    "explanation_en": "3 years of Wing Chun.",
+    "explanation_zh": "馬三與宮二是師兄妹，後來成為仇人。",
+    "explanation_en": "Ma San and Gong Er are martial siblings who later become enemies.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《一代宗師》中，宮二為什麼要找馬三報仇？",
+    "question_en": "Why does Gong Er seek revenge against Ma San in The Grandmaster?",
+    "options_zh": ["馬三殺了她父親", "馬三背叛師門", "以上皆是", "馬三搶了她的東西"],
+    "options_en": ["Ma San killed her father", "Ma San betrayed the school", "All of the above", "Ma San stole from her"],
+    "answer": 2,
+    "explanation_zh": "宮二找馬三報仇是因為他殺了她父親並背叛師門。",
+    "explanation_en": "Gong Er seeks revenge because Ma San killed her father and betrayed the school.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《一代宗師》中，葉問最終去了哪裡？",
+    "question_en": "Where does Ip Man ultimately go in The Grandmaster?",
+    "options_zh": ["香港", "台灣", "美國", "留在大陸"],
+    "options_en": ["Hong Kong", "Taiwan", "America", "Stays in mainland"],
+    "answer": 0,
+    "explanation_zh": "葉問最終去了香港。",
+    "explanation_en": "Ip Man ultimately goes to Hong Kong.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《一代宗師》中，梁朝偉為了飾演葉問做了什麼準備？",
+    "question_en": "What preparation did Tony Leung make to play Ip Man in The Grandmaster?",
+    "options_zh": ["學習詠春拳", "研究葉問生平", "以上皆是", "減肥"],
+    "options_en": ["Learn Wing Chun", "Research Ip Man's life", "All of the above", "Lost weight"],
+    "answer": 2,
+    "explanation_zh": "梁朝偉學習了詠春拳並研究了葉問的生平。",
+    "explanation_en": "Tony Leung learned Wing Chun and researched Ip Man's life.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《一代宗師》中，王家衛用了多長時間拍攝？",
+    "question_en": "How long did Wong Kar-wai take to film The Grandmaster?",
+    "options_zh": ["1年", "2年", "3年", "5年"],
+    "options_en": ["1 year", "2 years", "3 years", "5 years"],
+    "answer": 2,
+    "explanation_zh": "王家衛用了約3年時間拍攝。",
+    "explanation_en": "Wong Kar-wai took about 3 years to film.",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_zh": "《一代宗師》的拍攝風格有什麼特點？",
+    "question_en": "What is distinctive about the filming style of The Grandmaster?",
+    "options_zh": ["視覺華麗", "動作優美", "詩意敘事", "以上皆是"],
+    "options_en": ["Visually stunning", "Beautiful action", "Poetic narrative", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "電影以視覺華麗、動作優美和詩意敘事著稱。",
+    "explanation_en": "The film is known for its stunning visuals, beautiful action, and poetic narrative.",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_zh": "《一代宗師》中，葉問有什麼人生哲學？",
+    "question_en": "What life philosophy does Ip Man have in The Grandmaster?",
+    "options_zh": ["武學精神", "見自己", "見天地", "以上皆是"],
+    "options_en": ["Martial arts spirit", "See yourself", "See heaven and earth", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "葉問有「見自己、見天地、見眾生」的人生哲學。",
+    "explanation_en": "Ip Man has the philosophy of 'see yourself, see heaven and earth, see all beings'.",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question_zh": "《一代宗師》中，宮二最終的命運如何？",
+    "question_en": "What is Gong Er's fate at the end of The Grandmaster?",
+    "options_zh": ["死亡", "隱居", "與葉問在一起", "以上都不是"],
+    "options_en": ["Dies", "Lives in seclusion", "Gets together with Ip Man", "None of the above"],
+    "answer": 0,
+    "explanation_zh": "宮二最終死亡。",
+    "explanation_en": "Gong Er ultimately dies.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《一代宗師》中，葉問和宮二最後見面時說了什麼？",
+    "question_en": "What do Ip Man and Gong Er say when they last meet in The Grandmaster?",
+    "options_zh": ["「世間所有的相遇，都是久別重逢」", "「我心裡有過你」", "以上皆是", "以上都不是"],
+    "options_en": ["'All encounters are reunions after long separation'", "'I had you in my heart'", "All of the above", "None of the above"],
+    "answer": 2,
+    "explanation_zh": "兩人最後見面時說了經典台詞。",
+    "explanation_en": "They exchange classic lines when they last meet.",
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question_zh": "《一代宗師》中，一線天由誰飾演？",
+    "question_en": "Who plays Yi Xiantian in The Grandmaster?",
+    "options_zh": ["張震", "趙本山", "王慶祥", "以上都不是"],
+    "options_en": ["Chang Chen", "Zhao Benshan", "Wang Qingxiang", "None of the above"],
+    "answer": 0,
+    "explanation_zh": "張震飾演一線天。",
+    "explanation_en": "Chang Chen plays Yi Xiantian.",
+    "difficulty": 2
+  },
+  {
+    "id": 19,
+    "question_zh": "《一代宗師》中，一線天精通什麼武術？",
+    "question_en": "What martial art does Yi Xiantian master in The Grandmaster?",
+    "options_zh": ["詠春拳", "八卦掌", "形意拳", "八極拳"],
+    "options_en": ["Wing Chun", "Bagua Zhang", "Xingyi Quan", "Bajiquan"],
+    "answer": 3,
+    "explanation_zh": "一線天精通八極拳。",
+    "explanation_en": "Yi Xiantian masters Bajiquan.",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question_zh": "《一代宗師》中，趙本山飾演什麼角色？",
+    "question_en": "What role does Zhao Benshan play in The Grandmaster?",
+    "options_zh": ["丁連山", "宮羽田", "一線天", "馬三"],
+    "options_en": ["Ding Lianshan", "Gong Yutian", "Yi Xiantian", "Ma San"],
+    "answer": 0,
+    "explanation_zh": "趙本山飾演丁連山。",
+    "explanation_en": "Zhao Benshan plays Ding Lianshan.",
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "question_zh": "《一代宗師》中，宮羽田由誰飾演？",
+    "question_en": "Who plays Gong Yutian in The Grandmaster?",
+    "options_zh": ["王慶祥", "趙本山", "張震", "以上都不是"],
+    "options_en": ["Wang Qingxiang", "Zhao Benshan", "Chang Chen", "None of the above"],
+    "answer": 0,
+    "explanation_zh": "王慶祥飾演宮羽田。",
+    "explanation_en": "Wang Qingxiang plays Gong Yutian.",
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question_zh": "《一代宗師》中，葉問與宮二的「六十四手」有什麼意義？",
+    "question_en": "What is the significance of the '64 hands' between Ip Man and Gong Er in The Grandmaster?",
+    "options_zh": ["武學交流", "愛情象徵", "以上皆是", "以上都不是"],
+    "options_en": ["Martial arts exchange", "Symbol of love", "All of the above", "None of the above"],
+    "answer": 2,
+    "explanation_zh": "「六十四手」是兩人武學交流和愛情的象徵。",
+    "explanation_en": "The '64 hands' symbolize their martial arts exchange and love.",
+    "difficulty": 3
+  },
+  {
+    "id": 23,
+    "question_zh": "《一代宗師》的票房成績如何？",
+    "question_en": "How did The Grandmaster perform at the box office?",
+    "options_zh": ["票房慘淡", "票房一般", "票房成功", "票房冠軍"],
+    "options_en": ["Poor", "Average", "Successful", "Box office champion"],
+    "answer": 2,
+    "explanation_zh": "《一代宗師》票房成績成功。",
+    "explanation_en": "The Grandmaster was a box office success.",
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question_zh": "《一代宗師》獲得什麼國際獎項？",
+    "question_en": "What international awards did The Grandmaster receive?",
+    "options_zh": ["奧斯卡提名", "金球獎提名", "以上皆是", "康城獎"],
+    "options_en": ["Oscar nomination", "Golden Globe nomination", "All of the above", "Cannes award"],
+    "answer": 2,
+    "explanation_zh": "《一代宗師》獲得奧斯卡和金球獎提名。",
+    "explanation_en": "The Grandmaster received Oscar and Golden Globe nominations.",
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question_zh": "《一代宗師》探討了什麼主題？",
+    "question_en": "What themes does The Grandmaster explore?",
+    "options_zh": ["武學精神", "愛情與遺憾", "時代變遷", "以上皆是"],
+    "options_en": ["Martial arts spirit", "Love and regret", "Changing times", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "電影探討了武學精神、愛情與遺憾、時代變遷等主題。",
+    "explanation_en": "The film explores martial arts spirit, love and regret, and changing times.",
     "difficulty": 1
   },
   {
-    "question_zh": "《一代宗師》的故事發生在哪個年代？",
-    "question_en": "What era?",
-    "options_zh אימי": [
-      "1930-40年代",
-      "1920年代",
-      "1950年代",
-      "1960年代"
-    ],
-    "options_en": [
-      "1930s-40s",
-      "1920s",
-      "1950s",
-      "1960s"
-    ],
-    "answer": 0,
-    "explanation_zh": "1930-40年代。",
-    "explanation_en": "1930s-1940s.",
-    "difficulty": 1
+    "id": 26,
+    "question_zh": "《一代宗師》中，梁朝偉飾演葉問的評價如何？",
+    "question_en": "How was Tony Leung's portrayal of Ip Man received?",
+    "options_zh": ["評價很差", "評價一般", "評價不錯", "評價極高"],
+    "options_en": ["Very poor", "Average", "Good", "Excellent"],
+    "answer": 3,
+    "explanation_zh": "梁朝偉飾演葉問獲得極高評價。",
+    "explanation_en": "Tony Leung's portrayal of Ip Man received excellent reviews.",
+    "difficulty": 2
   },
   {
-    "question_zh": "《一代宗師》的攝影風格以什麼著稱？",
-    "question_en": "Known for what style?",
-    "options_zh אימי": [
-      "唯美詩意",
-      "寫實紀錄",
-      "恐怖陰暗",
-      "搞笑誇張"
-    ],
-    "options_en": [
-      "Poetic",
-      "Realistic",
-      "Dark",
-      "Funny"
-    ],
-    "answer": 0,
-    "explanation_zh": "唯美詩意。",
-    "explanation_en": "Poetic cinematography.",
+    "id": 27,
+    "question_zh": "《一代宗師》中，章子怡飾演宮二的評價如何？",
+    "question_en": "How was Zhang Ziyi's portrayal of Gong Er received?",
+    "options_zh": ["評價很差", "評價一般", "評價不錯", "評價極高"],
+    "options_en": ["Very poor", "Average", "Good", "Excellent"],
+    "answer": 3,
+    "explanation_zh": "章子怡飾演宮二獲得極高評價。",
+    "explanation_en": "Zhang Ziyi's portrayal of Gong Er received excellent reviews.",
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question_zh": "《一代宗師》中，電影的動作場面有什麼風格？",
+    "question_en": "What style are the action scenes in The Grandmaster?",
+    "options_zh": ["寫實", "優美", "以上皆是", "誇張"],
+    "options_en": ["Realistic", "Beautiful", "All of the above", "Exaggerated"],
+    "answer": 2,
+    "explanation_zh": "動作場面既寫實又優美。",
+    "explanation_en": "The action scenes are both realistic and beautiful.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "《一代宗師》中，葉問的故事反映了什麼歷史？",
+    "question_en": "What history does Ip Man's story reflect in The Grandmaster?",
+    "options_zh": ["民國武術界", "抗日戰爭", "香港移民潮", "以上皆是"],
+    "options_en": ["Republic era martial arts world", "Anti-Japanese War", "Hong Kong immigration wave", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "葉問的故事反映了民國武術界、抗日戰爭和香港移民潮等歷史。",
+    "explanation_en": "Ip Man's story reflects the Republic era martial arts world, Anti-Japanese War, and Hong Kong immigration.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "《一代宗師》是哪一年上映的？",
+    "question_en": "What year was The Grandmaster released?",
+    "options_zh": ["2011年", "2012年", "2013年", "2014年"],
+    "options_en": ["2011", "2012", "2013", "2014"],
+    "answer": 2,
+    "explanation_zh": "《一代宗師》於2013年上映。",
+    "explanation_en": "The Grandmaster was released in 2013.",
     "difficulty": 1
   }
 ]

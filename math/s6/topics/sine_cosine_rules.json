@@ -1,0 +1,1588 @@
+[
+  {
+    "question_zh": "a/sinA = b/sinB = ?",
+    "question_en": "a/sinA = b/sinB = ?",
+    "options_zh": [
+      "2R",
+      "abc",
+      "c/sinC",
+      "a+b+c"
+    ],
+    "options_en": [
+      "2R",
+      "abc",
+      "c/sinC",
+      "a+b+c"
+    ],
+    "answer": 2,
+    "explanation_zh": "正弦定理：a/sinA = b/sinB = c/sinC",
+    "explanation_en": "正弦定理：a/sinA = b/sinB = c/sinC",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "正弦定理",
+    "subtopic_en": "Sine Rule",
+    "difficulty": 1,
+    "form": 6,
+    "id": 1
+  },
+  {
+    "question_zh": "正弦定理中，a/sinA 等於什麼？",
+    "question_en": "正弦定理中，a/sinA 等於什麼？",
+    "options_zh": [
+      "R",
+      "πR",
+      "R²",
+      "2R"
+    ],
+    "options_en": [
+      "R",
+      "πR",
+      "R²",
+      "2R"
+    ],
+    "answer": 3,
+    "explanation_zh": "正弦定理：a/sinA = 2R（R 為外接圓半徑）",
+    "explanation_en": "正弦定理：a/sinA = 2R（R 為外接圓半徑）",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "正弦定理",
+    "subtopic_en": "Sine Rule",
+    "difficulty": 1,
+    "form": 6,
+    "id": 2
+  },
+  {
+    "question_zh": "餘弦定理：c² = ?",
+    "question_en": "餘弦定理：c² = ?",
+    "options_zh": [
+      "(a+b)² - 2ab·cosC",
+      "a² + b² - 2ab·cosC",
+      "a² + b² + 2ab·cosC",
+      "a² - b² - 2ab·cosC"
+    ],
+    "options_en": [
+      "(a+b)² - 2ab·cosC",
+      "a² + b² - 2ab·cosC",
+      "a² + b² + 2ab·cosC",
+      "a² - b² - 2ab·cosC"
+    ],
+    "answer": 1,
+    "explanation_zh": "答案：a² + b² - 2ab·cosC",
+    "explanation_en": "Answer: a² + b² - 2ab·cosC",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "餘弦定理",
+    "subtopic_en": "Cosine Rule",
+    "difficulty": 1,
+    "form": 6,
+    "id": 3
+  },
+  {
+    "question_zh": "若 a² + b² = c²，則角 C = ?",
+    "question_en": "若 a² + b² = c²，則角 C = ?",
+    "options_zh": [
+      "120°",
+      "45°",
+      "90°",
+      "60°"
+    ],
+    "options_en": [
+      "120°",
+      "45°",
+      "90°",
+      "60°"
+    ],
+    "answer": 2,
+    "explanation_zh": "答案：90°",
+    "explanation_en": "Answer: 90°",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "餘弦定理",
+    "subtopic_en": "Cosine Rule",
+    "difficulty": 1,
+    "form": 6,
+    "id": 4
+  },
+  {
+    "question_zh": "若 a² + b² < c²，則角 C 為：",
+    "question_en": "若 a² + b² < c²，則角 C 為：",
+    "options_zh": [
+      "銳角",
+      "鈍角",
+      "平角",
+      "直角"
+    ],
+    "options_en": [
+      "銳角",
+      "鈍角",
+      "平角",
+      "直角"
+    ],
+    "answer": 1,
+    "explanation_zh": "答案：鈍角",
+    "explanation_en": "Answer: 鈍角",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "餘弦定理",
+    "subtopic_en": "Cosine Rule",
+    "difficulty": 1,
+    "form": 6,
+    "id": 5
+  },
+  {
+    "question_zh": "若 a² + b² > c²，則角 C 為：",
+    "question_en": "若 a² + b² > c²，則角 C 為：",
+    "options_zh": [
+      "直角",
+      "鈍角",
+      "銳角",
+      "平角"
+    ],
+    "options_en": [
+      "直角",
+      "鈍角",
+      "銳角",
+      "平角"
+    ],
+    "answer": 2,
+    "explanation_zh": "答案：銳角",
+    "explanation_en": "Answer: 銳角",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "餘弦定理",
+    "subtopic_en": "Cosine Rule",
+    "difficulty": 1,
+    "form": 6,
+    "id": 6
+  },
+  {
+    "question_zh": "△ABC 中，a=7, b=8, C=30°，求 c（取一位小數）。",
+    "question_en": "In △ABC, a=7, b=8, C=30°. Find c (1 d.p.).",
+    "options_zh": [
+      "4.0",
+      "5.5",
+      "5.2",
+      "2.5"
+    ],
+    "options_en": [
+      "4.0",
+      "5.5",
+      "5.2",
+      "2.5"
+    ],
+    "answer": 0,
+    "explanation_zh": "c² = 7² + 8² - 2(7)(8)cos30° = 16.0, c = 4.0",
+    "explanation_en": "c² = 7² + 8² - 2(7)(8)cos30° = 16.0, c = 4.0",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "餘弦定理",
+    "subtopic_en": "Cosine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 7
+  },
+  {
+    "question_zh": "△ABC 中，a=6, b=9, C=90°，求 c（取一位小數）。",
+    "question_en": "In △ABC, a=6, b=9, C=90°. Find c (1 d.p.).",
+    "options_zh": [
+      "12.3",
+      "14.0",
+      "10.8",
+      "9.3"
+    ],
+    "options_en": [
+      "12.3",
+      "14.0",
+      "10.8",
+      "9.3"
+    ],
+    "answer": 2,
+    "explanation_zh": "c² = 6² + 9² - 2(6)(9)cos90° = 117.0, c = 10.8",
+    "explanation_en": "c² = 6² + 9² - 2(6)(9)cos90° = 117.0, c = 10.8",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "餘弦定理",
+    "subtopic_en": "Cosine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 8
+  },
+  {
+    "question_zh": "△ABC 中，a=10, b=9, C=60°，求 c（取一位小數）。",
+    "question_en": "In △ABC, a=10, b=9, C=60°. Find c (1 d.p.).",
+    "options_zh": [
+      "12.3",
+      "8.0",
+      "11.0",
+      "9.5"
+    ],
+    "options_en": [
+      "12.3",
+      "8.0",
+      "11.0",
+      "9.5"
+    ],
+    "answer": 3,
+    "explanation_zh": "c² = 10² + 9² - 2(10)(9)cos60° = 91.0, c = 9.5",
+    "explanation_en": "c² = 10² + 9² - 2(10)(9)cos60° = 91.0, c = 9.5",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "餘弦定理",
+    "subtopic_en": "Cosine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 9
+  },
+  {
+    "question_zh": "△ABC 中，a=7, b=5, C=60°，求 c（取一位小數）。",
+    "question_en": "In △ABC, a=7, b=5, C=60°. Find c (1 d.p.).",
+    "options_zh": [
+      "7.7",
+      "4.7",
+      "6.2",
+      "8.1"
+    ],
+    "options_en": [
+      "7.7",
+      "4.7",
+      "6.2",
+      "8.1"
+    ],
+    "answer": 2,
+    "explanation_zh": "c² = 7² + 5² - 2(7)(5)cos60° = 39.0, c = 6.2",
+    "explanation_en": "c² = 7² + 5² - 2(7)(5)cos60° = 39.0, c = 6.2",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "餘弦定理",
+    "subtopic_en": "Cosine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 10
+  },
+  {
+    "question_zh": "△ABC 中，a=11, b=11, C=90°，求 c（取一位小數）。",
+    "question_en": "In △ABC, a=11, b=11, C=90°. Find c (1 d.p.).",
+    "options_zh": [
+      "14.1",
+      "17.1",
+      "20.3",
+      "15.6"
+    ],
+    "options_en": [
+      "14.1",
+      "17.1",
+      "20.3",
+      "15.6"
+    ],
+    "answer": 3,
+    "explanation_zh": "c² = 11² + 11² - 2(11)(11)cos90° = 242.0, c = 15.6",
+    "explanation_en": "c² = 11² + 11² - 2(11)(11)cos90° = 242.0, c = 15.6",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "餘弦定理",
+    "subtopic_en": "Cosine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 11
+  },
+  {
+    "question_zh": "△ABC 中，a=8, b=3, C=60°，求 c（取一位小數）。",
+    "question_en": "In △ABC, a=8, b=3, C=60°. Find c (1 d.p.).",
+    "options_zh": [
+      "7.0",
+      "5.5",
+      "8.5",
+      "9.1"
+    ],
+    "options_en": [
+      "7.0",
+      "5.5",
+      "8.5",
+      "9.1"
+    ],
+    "answer": 0,
+    "explanation_zh": "c² = 8² + 3² - 2(8)(3)cos60° = 49.0, c = 7.0",
+    "explanation_en": "c² = 8² + 3² - 2(8)(3)cos60° = 49.0, c = 7.0",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "餘弦定理",
+    "subtopic_en": "Cosine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 12
+  },
+  {
+    "question_zh": "△ABC 中，a=7, b=5, C=90°，求 c（取一位小數）。",
+    "question_en": "In △ABC, a=7, b=5, C=90°. Find c (1 d.p.).",
+    "options_zh": [
+      "8.6",
+      "11.2",
+      "10.1",
+      "7.1"
+    ],
+    "options_en": [
+      "8.6",
+      "11.2",
+      "10.1",
+      "7.1"
+    ],
+    "answer": 0,
+    "explanation_zh": "c² = 7² + 5² - 2(7)(5)cos90° = 74.0, c = 8.6",
+    "explanation_en": "c² = 7² + 5² - 2(7)(5)cos90° = 74.0, c = 8.6",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "餘弦定理",
+    "subtopic_en": "Cosine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 13
+  },
+  {
+    "question_zh": "△ABC 中，a=3, b=3, C=120°，求 c（取一位小數）。",
+    "question_en": "In △ABC, a=3, b=3, C=120°. Find c (1 d.p.).",
+    "options_zh": [
+      "6.8",
+      "5.2",
+      "6.7",
+      "3.7"
+    ],
+    "options_en": [
+      "6.8",
+      "5.2",
+      "6.7",
+      "3.7"
+    ],
+    "answer": 1,
+    "explanation_zh": "c² = 3² + 3² - 2(3)(3)cos120° = 27.0, c = 5.2",
+    "explanation_en": "c² = 3² + 3² - 2(3)(3)cos120° = 27.0, c = 5.2",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "餘弦定理",
+    "subtopic_en": "Cosine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 14
+  },
+  {
+    "question_zh": "△ABC 中，a=4, b=6, C=45°，求 c（取一位小數）。",
+    "question_en": "In △ABC, a=4, b=6, C=45°. Find c (1 d.p.).",
+    "options_zh": [
+      "2.7",
+      "5.7",
+      "4.2",
+      "5.5"
+    ],
+    "options_en": [
+      "2.7",
+      "5.7",
+      "4.2",
+      "5.5"
+    ],
+    "answer": 2,
+    "explanation_zh": "c² = 4² + 6² - 2(4)(6)cos45° = 18.1, c = 4.2",
+    "explanation_en": "c² = 4² + 6² - 2(4)(6)cos45° = 18.1, c = 4.2",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "餘弦定理",
+    "subtopic_en": "Cosine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 15
+  },
+  {
+    "question_zh": "△ABC 中，a=11, b=10, C=45°，求 c（取一位小數）。",
+    "question_en": "In △ABC, a=11, b=10, C=45°. Find c (1 d.p.).",
+    "options_zh": [
+      "6.6",
+      "10.5",
+      "8.1",
+      "9.6"
+    ],
+    "options_en": [
+      "6.6",
+      "10.5",
+      "8.1",
+      "9.6"
+    ],
+    "answer": 2,
+    "explanation_zh": "c² = 11² + 10² - 2(11)(10)cos45° = 65.4, c = 8.1",
+    "explanation_en": "c² = 11² + 10² - 2(11)(10)cos45° = 65.4, c = 8.1",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "餘弦定理",
+    "subtopic_en": "Cosine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 16
+  },
+  {
+    "question_zh": "△ABC 中，a=12, b=3, C=90°，求 c（取一位小數）。",
+    "question_en": "In △ABC, a=12, b=3, C=90°. Find c (1 d.p.).",
+    "options_zh": [
+      "12.4",
+      "13.9",
+      "16.1",
+      "10.9"
+    ],
+    "options_en": [
+      "12.4",
+      "13.9",
+      "16.1",
+      "10.9"
+    ],
+    "answer": 0,
+    "explanation_zh": "c² = 12² + 3² - 2(12)(3)cos90° = 153.0, c = 12.4",
+    "explanation_en": "c² = 12² + 3² - 2(12)(3)cos90° = 153.0, c = 12.4",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "餘弦定理",
+    "subtopic_en": "Cosine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 17
+  },
+  {
+    "question_zh": "△ABC 中，a=9, b=12, C=120°，求 c（取一位小數）。",
+    "question_en": "In △ABC, a=9, b=12, C=120°. Find c (1 d.p.).",
+    "options_zh": [
+      "19.7",
+      "16.7",
+      "18.2",
+      "23.7"
+    ],
+    "options_en": [
+      "19.7",
+      "16.7",
+      "18.2",
+      "23.7"
+    ],
+    "answer": 2,
+    "explanation_zh": "c² = 9² + 12² - 2(9)(12)cos120° = 333.0, c = 18.2",
+    "explanation_en": "c² = 9² + 12² - 2(9)(12)cos120° = 333.0, c = 18.2",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "餘弦定理",
+    "subtopic_en": "Cosine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 18
+  },
+  {
+    "question_zh": "△ABC 中，a=7, b=6, C=90°，求 c（取一位小數）。",
+    "question_en": "In △ABC, a=7, b=6, C=90°. Find c (1 d.p.).",
+    "options_zh": [
+      "12.0",
+      "7.7",
+      "10.7",
+      "9.2"
+    ],
+    "options_en": [
+      "12.0",
+      "7.7",
+      "10.7",
+      "9.2"
+    ],
+    "answer": 3,
+    "explanation_zh": "c² = 7² + 6² - 2(7)(6)cos90° = 85.0, c = 9.2",
+    "explanation_en": "c² = 7² + 6² - 2(7)(6)cos90° = 85.0, c = 9.2",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "餘弦定理",
+    "subtopic_en": "Cosine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 19
+  },
+  {
+    "question_zh": "△ABC 中，a=3, b=3, C=45°，求 c（取一位小數）。",
+    "question_en": "In △ABC, a=3, b=3, C=45°. Find c (1 d.p.).",
+    "options_zh": [
+      "0.8",
+      "3.8",
+      "2.3",
+      "3.0"
+    ],
+    "options_en": [
+      "0.8",
+      "3.8",
+      "2.3",
+      "3.0"
+    ],
+    "answer": 2,
+    "explanation_zh": "c² = 3² + 3² - 2(3)(3)cos45° = 5.3, c = 2.3",
+    "explanation_en": "c² = 3² + 3² - 2(3)(3)cos45° = 5.3, c = 2.3",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "餘弦定理",
+    "subtopic_en": "Cosine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 20
+  },
+  {
+    "question_zh": "△ABC 中，a=9, b=12, C=45°，求 c（取一位小數）。",
+    "question_en": "In △ABC, a=9, b=12, C=45°. Find c (1 d.p.).",
+    "options_zh": [
+      "10.0",
+      "7.0",
+      "11.1",
+      "8.5"
+    ],
+    "options_en": [
+      "10.0",
+      "7.0",
+      "11.1",
+      "8.5"
+    ],
+    "answer": 3,
+    "explanation_zh": "c² = 9² + 12² - 2(9)(12)cos45° = 72.3, c = 8.5",
+    "explanation_en": "c² = 9² + 12² - 2(9)(12)cos45° = 72.3, c = 8.5",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "餘弦定理",
+    "subtopic_en": "Cosine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 21
+  },
+  {
+    "question_zh": "△ABC 中，a=12, A=60°, B=30°，求 b（取一位小數）。",
+    "question_en": "In △ABC, a=12, A=60°, B=30°. Find b (1 d.p.).",
+    "options_zh": [
+      "4.9",
+      "10.4",
+      "8.9",
+      "6.9"
+    ],
+    "options_en": [
+      "4.9",
+      "10.4",
+      "8.9",
+      "6.9"
+    ],
+    "answer": 3,
+    "explanation_zh": "b/sin30° = 12/sin60°, b = 12×sin30°/sin60° = 6.9",
+    "explanation_en": "b/sin30° = 12/sin60°, b = 12×sin30°/sin60° = 6.9",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "正弦定理",
+    "subtopic_en": "Sine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 22
+  },
+  {
+    "question_zh": "△ABC 中，a=14, A=30°, B=30°，求 b（取一位小數）。",
+    "question_en": "In △ABC, a=14, A=30°, B=30°. Find b (1 d.p.).",
+    "options_zh": [
+      "12.0",
+      "21.0",
+      "16.0",
+      "14.0"
+    ],
+    "options_en": [
+      "12.0",
+      "21.0",
+      "16.0",
+      "14.0"
+    ],
+    "answer": 3,
+    "explanation_zh": "b/sin30° = 14/sin30°, b = 14×sin30°/sin30° = 14.0",
+    "explanation_en": "b/sin30° = 14/sin30°, b = 14×sin30°/sin30° = 14.0",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "正弦定理",
+    "subtopic_en": "Sine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 23
+  },
+  {
+    "question_zh": "△ABC 中，a=11, A=30°, B=30°，求 b（取一位小數）。",
+    "question_en": "In △ABC, a=11, A=30°, B=30°. Find b (1 d.p.).",
+    "options_zh": [
+      "13.0",
+      "11.0",
+      "9.0",
+      "16.5"
+    ],
+    "options_en": [
+      "13.0",
+      "11.0",
+      "9.0",
+      "16.5"
+    ],
+    "answer": 1,
+    "explanation_zh": "b/sin30° = 11/sin30°, b = 11×sin30°/sin30° = 11.0",
+    "explanation_en": "b/sin30° = 11/sin30°, b = 11×sin30°/sin30° = 11.0",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "正弦定理",
+    "subtopic_en": "Sine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 24
+  },
+  {
+    "question_zh": "△ABC 中，a=9, A=30°, B=45°，求 b（取一位小數）。",
+    "question_en": "In △ABC, a=9, A=30°, B=45°. Find b (1 d.p.).",
+    "options_zh": [
+      "10.7",
+      "12.7",
+      "14.7",
+      "19.0"
+    ],
+    "options_en": [
+      "10.7",
+      "12.7",
+      "14.7",
+      "19.0"
+    ],
+    "answer": 1,
+    "explanation_zh": "b/sin45° = 9/sin30°, b = 9×sin45°/sin30° = 12.7",
+    "explanation_en": "b/sin45° = 9/sin30°, b = 9×sin45°/sin30° = 12.7",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "正弦定理",
+    "subtopic_en": "Sine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 25
+  },
+  {
+    "question_zh": "△ABC 中，a=12, A=45°, B=45°，求 b（取一位小數）。",
+    "question_en": "In △ABC, a=12, A=45°, B=45°. Find b (1 d.p.).",
+    "options_zh": [
+      "10.0",
+      "12.0",
+      "14.0",
+      "18.0"
+    ],
+    "options_en": [
+      "10.0",
+      "12.0",
+      "14.0",
+      "18.0"
+    ],
+    "answer": 1,
+    "explanation_zh": "b/sin45° = 12/sin45°, b = 12×sin45°/sin45° = 12.0",
+    "explanation_en": "b/sin45° = 12/sin45°, b = 12×sin45°/sin45° = 12.0",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "正弦定理",
+    "subtopic_en": "Sine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 26
+  },
+  {
+    "question_zh": "△ABC 中，a=9, A=45°, B=45°，求 b（取一位小數）。",
+    "question_en": "In △ABC, a=9, A=45°, B=45°. Find b (1 d.p.).",
+    "options_zh": [
+      "7.0",
+      "11.0",
+      "9.0",
+      "13.5"
+    ],
+    "options_en": [
+      "7.0",
+      "11.0",
+      "9.0",
+      "13.5"
+    ],
+    "answer": 2,
+    "explanation_zh": "b/sin45° = 9/sin45°, b = 9×sin45°/sin45° = 9.0",
+    "explanation_en": "b/sin45° = 9/sin45°, b = 9×sin45°/sin45° = 9.0",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "正弦定理",
+    "subtopic_en": "Sine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 27
+  },
+  {
+    "question_zh": "△ABC 中，a=9, A=45°, B=45°，求 b（取一位小數）。",
+    "question_en": "In △ABC, a=9, A=45°, B=45°. Find b (1 d.p.).",
+    "options_zh": [
+      "9.0",
+      "13.5",
+      "7.0",
+      "11.0"
+    ],
+    "options_en": [
+      "9.0",
+      "13.5",
+      "7.0",
+      "11.0"
+    ],
+    "answer": 0,
+    "explanation_zh": "b/sin45° = 9/sin45°, b = 9×sin45°/sin45° = 9.0",
+    "explanation_en": "b/sin45° = 9/sin45°, b = 9×sin45°/sin45° = 9.0",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "正弦定理",
+    "subtopic_en": "Sine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 28
+  },
+  {
+    "question_zh": "△ABC 中，a=10, A=30°, B=30°，求 b（取一位小數）。",
+    "question_en": "In △ABC, a=10, A=30°, B=30°. Find b (1 d.p.).",
+    "options_zh": [
+      "10.0",
+      "8.0",
+      "12.0",
+      "15.0"
+    ],
+    "options_en": [
+      "10.0",
+      "8.0",
+      "12.0",
+      "15.0"
+    ],
+    "answer": 0,
+    "explanation_zh": "b/sin30° = 10/sin30°, b = 10×sin30°/sin30° = 10.0",
+    "explanation_en": "b/sin30° = 10/sin30°, b = 10×sin30°/sin30° = 10.0",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "正弦定理",
+    "subtopic_en": "Sine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 29
+  },
+  {
+    "question_zh": "△ABC 中，a=8, A=60°, B=30°，求 b（取一位小數）。",
+    "question_en": "In △ABC, a=8, A=60°, B=30°. Find b (1 d.p.).",
+    "options_zh": [
+      "2.6",
+      "6.6",
+      "6.9",
+      "4.6"
+    ],
+    "options_en": [
+      "2.6",
+      "6.6",
+      "6.9",
+      "4.6"
+    ],
+    "answer": 3,
+    "explanation_zh": "b/sin30° = 8/sin60°, b = 8×sin30°/sin60° = 4.6",
+    "explanation_en": "b/sin30° = 8/sin60°, b = 8×sin30°/sin60° = 4.6",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "正弦定理",
+    "subtopic_en": "Sine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 30
+  },
+  {
+    "question_zh": "△ABC 中，a=8, A=60°, B=30°，求 b（取一位小數）。",
+    "question_en": "In △ABC, a=8, A=60°, B=30°. Find b (1 d.p.).",
+    "options_zh": [
+      "6.9",
+      "4.6",
+      "6.6",
+      "2.6"
+    ],
+    "options_en": [
+      "6.9",
+      "4.6",
+      "6.6",
+      "2.6"
+    ],
+    "answer": 1,
+    "explanation_zh": "b/sin30° = 8/sin60°, b = 8×sin30°/sin60° = 4.6",
+    "explanation_en": "b/sin30° = 8/sin60°, b = 8×sin30°/sin60° = 4.6",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "正弦定理",
+    "subtopic_en": "Sine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 31
+  },
+  {
+    "question_zh": "△ABC 中，a=6, A=60°, B=45°，求 b（取一位小數）。",
+    "question_en": "In △ABC, a=6, A=60°, B=45°. Find b (1 d.p.).",
+    "options_zh": [
+      "4.9",
+      "2.9",
+      "7.4",
+      "6.9"
+    ],
+    "options_en": [
+      "4.9",
+      "2.9",
+      "7.4",
+      "6.9"
+    ],
+    "answer": 0,
+    "explanation_zh": "b/sin45° = 6/sin60°, b = 6×sin45°/sin60° = 4.9",
+    "explanation_en": "b/sin45° = 6/sin60°, b = 6×sin45°/sin60° = 4.9",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "正弦定理",
+    "subtopic_en": "Sine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 32
+  },
+  {
+    "question_zh": "△ABC 中，a=9, A=30°, B=45°，求 b（取一位小數）。",
+    "question_en": "In △ABC, a=9, A=30°, B=45°. Find b (1 d.p.).",
+    "options_zh": [
+      "14.7",
+      "12.7",
+      "19.0",
+      "10.7"
+    ],
+    "options_en": [
+      "14.7",
+      "12.7",
+      "19.0",
+      "10.7"
+    ],
+    "answer": 1,
+    "explanation_zh": "b/sin45° = 9/sin30°, b = 9×sin45°/sin30° = 12.7",
+    "explanation_en": "b/sin45° = 9/sin30°, b = 9×sin45°/sin30° = 12.7",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "正弦定理",
+    "subtopic_en": "Sine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 33
+  },
+  {
+    "question_zh": "△ABC 中，a=6, A=60°, B=60°，求 b（取一位小數）。",
+    "question_en": "In △ABC, a=6, A=60°, B=60°. Find b (1 d.p.).",
+    "options_zh": [
+      "4.0",
+      "8.0",
+      "6.0",
+      "9.0"
+    ],
+    "options_en": [
+      "4.0",
+      "8.0",
+      "6.0",
+      "9.0"
+    ],
+    "answer": 2,
+    "explanation_zh": "b/sin60° = 6/sin60°, b = 6×sin60°/sin60° = 6.0",
+    "explanation_en": "b/sin60° = 6/sin60°, b = 6×sin60°/sin60° = 6.0",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "正弦定理",
+    "subtopic_en": "Sine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 34
+  },
+  {
+    "question_zh": "△ABC 中，a=9, A=45°, B=60°，求 b（取一位小數）。",
+    "question_en": "In △ABC, a=9, A=45°, B=60°. Find b (1 d.p.).",
+    "options_zh": [
+      "11.0",
+      "9.0",
+      "13.0",
+      "16.5"
+    ],
+    "options_en": [
+      "11.0",
+      "9.0",
+      "13.0",
+      "16.5"
+    ],
+    "answer": 0,
+    "explanation_zh": "b/sin60° = 9/sin45°, b = 9×sin60°/sin45° = 11.0",
+    "explanation_en": "b/sin60° = 9/sin45°, b = 9×sin60°/sin45° = 11.0",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "正弦定理",
+    "subtopic_en": "Sine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 35
+  },
+  {
+    "question_zh": "△ABC 中，a=15, A=60°, B=60°，求 b（取一位小數）。",
+    "question_en": "In △ABC, a=15, A=60°, B=60°. Find b (1 d.p.).",
+    "options_zh": [
+      "13.0",
+      "17.0",
+      "15.0",
+      "22.5"
+    ],
+    "options_en": [
+      "13.0",
+      "17.0",
+      "15.0",
+      "22.5"
+    ],
+    "answer": 2,
+    "explanation_zh": "b/sin60° = 15/sin60°, b = 15×sin60°/sin60° = 15.0",
+    "explanation_en": "b/sin60° = 15/sin60°, b = 15×sin60°/sin60° = 15.0",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "正弦定理",
+    "subtopic_en": "Sine Rule",
+    "difficulty": 2,
+    "form": 6,
+    "id": 36
+  },
+  {
+    "question_zh": "△ABC 中，a=12, b=11, C=45°，求三角形面積（取一位小數）。",
+    "question_en": "In △ABC, a=12, b=11, C=45°. Find the area (1 d.p.).",
+    "options_zh": [
+      "46.7",
+      "41.7",
+      "51.7",
+      "93.4"
+    ],
+    "options_en": [
+      "46.7",
+      "41.7",
+      "51.7",
+      "93.4"
+    ],
+    "answer": 0,
+    "explanation_zh": "面積 = ½ab·sinC = ½×12×11×sin45° = 46.7",
+    "explanation_en": "Area = ½ab·sinC = ½×12×11×sin45° = 46.7",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "三角形面積",
+    "subtopic_en": "Triangle Area",
+    "difficulty": 2,
+    "form": 6,
+    "id": 37
+  },
+  {
+    "question_zh": "△ABC 中，a=12, b=9, C=90°，求三角形面積（取一位小數）。",
+    "question_en": "In △ABC, a=12, b=9, C=90°. Find the area (1 d.p.).",
+    "options_zh": [
+      "54.0",
+      "49.0",
+      "108.0",
+      "59.0"
+    ],
+    "options_en": [
+      "54.0",
+      "49.0",
+      "108.0",
+      "59.0"
+    ],
+    "answer": 0,
+    "explanation_zh": "面積 = ½ab·sinC = ½×12×9×sin90° = 54.0",
+    "explanation_en": "Area = ½ab·sinC = ½×12×9×sin90° = 54.0",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "三角形面積",
+    "subtopic_en": "Triangle Area",
+    "difficulty": 2,
+    "form": 6,
+    "id": 38
+  },
+  {
+    "question_zh": "△ABC 中，a=7, b=5, C=120°，求三角形面積（取一位小數）。",
+    "question_en": "In △ABC, a=7, b=5, C=120°. Find the area (1 d.p.).",
+    "options_zh": [
+      "10.2",
+      "30.4",
+      "15.2",
+      "20.2"
+    ],
+    "options_en": [
+      "10.2",
+      "30.4",
+      "15.2",
+      "20.2"
+    ],
+    "answer": 2,
+    "explanation_zh": "面積 = ½ab·sinC = ½×7×5×sin120° = 15.2",
+    "explanation_en": "Area = ½ab·sinC = ½×7×5×sin120° = 15.2",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "三角形面積",
+    "subtopic_en": "Triangle Area",
+    "difficulty": 2,
+    "form": 6,
+    "id": 39
+  },
+  {
+    "question_zh": "△ABC 中，a=12, b=9, C=30°，求三角形面積（取一位小數）。",
+    "question_en": "In △ABC, a=12, b=9, C=30°. Find the area (1 d.p.).",
+    "options_zh": [
+      "54.0",
+      "27.0",
+      "22.0",
+      "32.0"
+    ],
+    "options_en": [
+      "54.0",
+      "27.0",
+      "22.0",
+      "32.0"
+    ],
+    "answer": 1,
+    "explanation_zh": "面積 = ½ab·sinC = ½×12×9×sin30° = 27.0",
+    "explanation_en": "Area = ½ab·sinC = ½×12×9×sin30° = 27.0",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "三角形面積",
+    "subtopic_en": "Triangle Area",
+    "difficulty": 2,
+    "form": 6,
+    "id": 40
+  },
+  {
+    "question_zh": "△ABC 中，a=7, b=8, C=90°，求三角形面積（取一位小數）。",
+    "question_en": "In △ABC, a=7, b=8, C=90°. Find the area (1 d.p.).",
+    "options_zh": [
+      "28.0",
+      "23.0",
+      "56.0",
+      "33.0"
+    ],
+    "options_en": [
+      "28.0",
+      "23.0",
+      "56.0",
+      "33.0"
+    ],
+    "answer": 0,
+    "explanation_zh": "面積 = ½ab·sinC = ½×7×8×sin90° = 28.0",
+    "explanation_en": "Area = ½ab·sinC = ½×7×8×sin90° = 28.0",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "三角形面積",
+    "subtopic_en": "Triangle Area",
+    "difficulty": 2,
+    "form": 6,
+    "id": 41
+  },
+  {
+    "question_zh": "△ABC 中，a=7, b=9, C=120°，求三角形面積（取一位小數）。",
+    "question_en": "In △ABC, a=7, b=9, C=120°. Find the area (1 d.p.).",
+    "options_zh": [
+      "22.3",
+      "32.3",
+      "54.6",
+      "27.3"
+    ],
+    "options_en": [
+      "22.3",
+      "32.3",
+      "54.6",
+      "27.3"
+    ],
+    "answer": 3,
+    "explanation_zh": "面積 = ½ab·sinC = ½×7×9×sin120° = 27.3",
+    "explanation_en": "Area = ½ab·sinC = ½×7×9×sin120° = 27.3",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "三角形面積",
+    "subtopic_en": "Triangle Area",
+    "difficulty": 2,
+    "form": 6,
+    "id": 42
+  },
+  {
+    "question_zh": "△ABC 中，a=7, b=10, C=90°，求三角形面積（取一位小數）。",
+    "question_en": "In △ABC, a=7, b=10, C=90°. Find the area (1 d.p.).",
+    "options_zh": [
+      "70.0",
+      "30.0",
+      "40.0",
+      "35.0"
+    ],
+    "options_en": [
+      "70.0",
+      "30.0",
+      "40.0",
+      "35.0"
+    ],
+    "answer": 3,
+    "explanation_zh": "面積 = ½ab·sinC = ½×7×10×sin90° = 35.0",
+    "explanation_en": "Area = ½ab·sinC = ½×7×10×sin90° = 35.0",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "三角形面積",
+    "subtopic_en": "Triangle Area",
+    "difficulty": 2,
+    "form": 6,
+    "id": 43
+  },
+  {
+    "question_zh": "△ABC 中，a=4, b=7, C=60°，求三角形面積（取一位小數）。",
+    "question_en": "In △ABC, a=4, b=7, C=60°. Find the area (1 d.p.).",
+    "options_zh": [
+      "24.2",
+      "7.1",
+      "12.1",
+      "17.1"
+    ],
+    "options_en": [
+      "24.2",
+      "7.1",
+      "12.1",
+      "17.1"
+    ],
+    "answer": 2,
+    "explanation_zh": "面積 = ½ab·sinC = ½×4×7×sin60° = 12.1",
+    "explanation_en": "Area = ½ab·sinC = ½×4×7×sin60° = 12.1",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "三角形面積",
+    "subtopic_en": "Triangle Area",
+    "difficulty": 2,
+    "form": 6,
+    "id": 44
+  },
+  {
+    "question_zh": "△ABC 中，a=4, b=10, C=30°，求三角形面積（取一位小數）。",
+    "question_en": "In △ABC, a=4, b=10, C=30°. Find the area (1 d.p.).",
+    "options_zh": [
+      "20.0",
+      "10.0",
+      "15.0",
+      "5.0"
+    ],
+    "options_en": [
+      "20.0",
+      "10.0",
+      "15.0",
+      "5.0"
+    ],
+    "answer": 1,
+    "explanation_zh": "面積 = ½ab·sinC = ½×4×10×sin30° = 10.0",
+    "explanation_en": "Area = ½ab·sinC = ½×4×10×sin30° = 10.0",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "三角形面積",
+    "subtopic_en": "Triangle Area",
+    "difficulty": 2,
+    "form": 6,
+    "id": 45
+  },
+  {
+    "question_zh": "△ABC 中，a=4, b=11, C=30°，求三角形面積（取一位小數）。",
+    "question_en": "In △ABC, a=4, b=11, C=30°. Find the area (1 d.p.).",
+    "options_zh": [
+      "6.0",
+      "22.0",
+      "16.0",
+      "11.0"
+    ],
+    "options_en": [
+      "6.0",
+      "22.0",
+      "16.0",
+      "11.0"
+    ],
+    "answer": 3,
+    "explanation_zh": "面積 = ½ab·sinC = ½×4×11×sin30° = 11.0",
+    "explanation_en": "Area = ½ab·sinC = ½×4×11×sin30° = 11.0",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "三角形面積",
+    "subtopic_en": "Triangle Area",
+    "difficulty": 2,
+    "form": 6,
+    "id": 46
+  },
+  {
+    "question_zh": "△ABC 中，a=6, b=10, C=30°，求三角形面積（取一位小數）。",
+    "question_en": "In △ABC, a=6, b=10, C=30°. Find the area (1 d.p.).",
+    "options_zh": [
+      "30.0",
+      "20.0",
+      "15.0",
+      "10.0"
+    ],
+    "options_en": [
+      "30.0",
+      "20.0",
+      "15.0",
+      "10.0"
+    ],
+    "answer": 2,
+    "explanation_zh": "面積 = ½ab·sinC = ½×6×10×sin30° = 15.0",
+    "explanation_en": "Area = ½ab·sinC = ½×6×10×sin30° = 15.0",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "三角形面積",
+    "subtopic_en": "Triangle Area",
+    "difficulty": 2,
+    "form": 6,
+    "id": 47
+  },
+  {
+    "question_zh": "△ABC 中，a=6, b=8, C=120°，求三角形面積（取一位小數）。",
+    "question_en": "In △ABC, a=6, b=8, C=120°. Find the area (1 d.p.).",
+    "options_zh": [
+      "25.8",
+      "41.6",
+      "20.8",
+      "15.8"
+    ],
+    "options_en": [
+      "25.8",
+      "41.6",
+      "20.8",
+      "15.8"
+    ],
+    "answer": 2,
+    "explanation_zh": "面積 = ½ab·sinC = ½×6×8×sin120° = 20.8",
+    "explanation_en": "Area = ½ab·sinC = ½×6×8×sin120° = 20.8",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "三角形面積",
+    "subtopic_en": "Triangle Area",
+    "difficulty": 2,
+    "form": 6,
+    "id": 48
+  },
+  {
+    "question_zh": "△ABC 中，a=6, b=6, C=90°，求三角形面積（取一位小數）。",
+    "question_en": "In △ABC, a=6, b=6, C=90°. Find the area (1 d.p.).",
+    "options_zh": [
+      "18.0",
+      "36.0",
+      "13.0",
+      "23.0"
+    ],
+    "options_en": [
+      "18.0",
+      "36.0",
+      "13.0",
+      "23.0"
+    ],
+    "answer": 0,
+    "explanation_zh": "面積 = ½ab·sinC = ½×6×6×sin90° = 18.0",
+    "explanation_en": "Area = ½ab·sinC = ½×6×6×sin90° = 18.0",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "三角形面積",
+    "subtopic_en": "Triangle Area",
+    "difficulty": 2,
+    "form": 6,
+    "id": 49
+  },
+  {
+    "question_zh": "△ABC 中，a=8, b=5, C=90°，求三角形面積（取一位小數）。",
+    "question_en": "In △ABC, a=8, b=5, C=90°. Find the area (1 d.p.).",
+    "options_zh": [
+      "15.0",
+      "20.0",
+      "40.0",
+      "25.0"
+    ],
+    "options_en": [
+      "15.0",
+      "20.0",
+      "40.0",
+      "25.0"
+    ],
+    "answer": 1,
+    "explanation_zh": "面積 = ½ab·sinC = ½×8×5×sin90° = 20.0",
+    "explanation_en": "Area = ½ab·sinC = ½×8×5×sin90° = 20.0",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "三角形面積",
+    "subtopic_en": "Triangle Area",
+    "difficulty": 2,
+    "form": 6,
+    "id": 50
+  },
+  {
+    "question_zh": "△ABC 中，a=10, b=12, C=120°，求三角形面積（取一位小數）。",
+    "question_en": "In △ABC, a=10, b=12, C=120°. Find the area (1 d.p.).",
+    "options_zh": [
+      "52.0",
+      "104.0",
+      "57.0",
+      "47.0"
+    ],
+    "options_en": [
+      "52.0",
+      "104.0",
+      "57.0",
+      "47.0"
+    ],
+    "answer": 0,
+    "explanation_zh": "面積 = ½ab·sinC = ½×10×12×sin120° = 52.0",
+    "explanation_en": "Area = ½ab·sinC = ½×10×12×sin120° = 52.0",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "三角形面積",
+    "subtopic_en": "Triangle Area",
+    "difficulty": 2,
+    "form": 6,
+    "id": 51
+  },
+  {
+    "question_zh": "使用正弦定理時，為何可能出現「曖昧情況」(ambiguous case)？",
+    "question_en": "Why can the sine rule lead to an ambiguous case?",
+    "options_zh": [
+      "因為 sin θ = sin(180°-θ)",
+      "因為三角形有三條邊",
+      "因為角度不能大於 180°",
+      "因為正弦值可能為負"
+    ],
+    "options_en": [
+      "Because sin θ = sin(180°-θ)",
+      "Because a triangle has three sides",
+      "Because angles cannot exceed 180°",
+      "Because sine can be negative"
+    ],
+    "answer": 0,
+    "explanation_zh": "sin θ = sin(180°-θ)，所以同一個正弦值可能對應兩個不同的角",
+    "explanation_en": "sin θ = sin(180°-θ), so the same sine value can correspond to two different angles",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "曖昧情況",
+    "subtopic_en": "Ambiguous Case",
+    "difficulty": 3,
+    "form": 6,
+    "id": 52
+  },
+  {
+    "question_zh": "使用正弦定理時，為何可能出現「曖昧情況」(ambiguous case)？",
+    "question_en": "Why can the sine rule lead to an ambiguous case?",
+    "options_zh": [
+      "因為 sin θ = sin(180°-θ)",
+      "因為三角形有三條邊",
+      "因為角度不能大於 180°",
+      "因為正弦值可能為負"
+    ],
+    "options_en": [
+      "Because sin θ = sin(180°-θ)",
+      "Because a triangle has three sides",
+      "Because angles cannot exceed 180°",
+      "Because sine can be negative"
+    ],
+    "answer": 0,
+    "explanation_zh": "sin θ = sin(180°-θ)，所以同一個正弦值可能對應兩個不同的角",
+    "explanation_en": "sin θ = sin(180°-θ), so the same sine value can correspond to two different angles",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "曖昧情況",
+    "subtopic_en": "Ambiguous Case",
+    "difficulty": 3,
+    "form": 6,
+    "id": 53
+  },
+  {
+    "question_zh": "使用正弦定理時，為何可能出現「曖昧情況」(ambiguous case)？",
+    "question_en": "Why can the sine rule lead to an ambiguous case?",
+    "options_zh": [
+      "因為 sin θ = sin(180°-θ)",
+      "因為三角形有三條邊",
+      "因為角度不能大於 180°",
+      "因為正弦值可能為負"
+    ],
+    "options_en": [
+      "Because sin θ = sin(180°-θ)",
+      "Because a triangle has three sides",
+      "Because angles cannot exceed 180°",
+      "Because sine can be negative"
+    ],
+    "answer": 0,
+    "explanation_zh": "sin θ = sin(180°-θ)，所以同一個正弦值可能對應兩個不同的角",
+    "explanation_en": "sin θ = sin(180°-θ), so the same sine value can correspond to two different angles",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "曖昧情況",
+    "subtopic_en": "Ambiguous Case",
+    "difficulty": 3,
+    "form": 6,
+    "id": 54
+  },
+  {
+    "question_zh": "使用正弦定理時，為何可能出現「曖昧情況」(ambiguous case)？",
+    "question_en": "Why can the sine rule lead to an ambiguous case?",
+    "options_zh": [
+      "因為 sin θ = sin(180°-θ)",
+      "因為三角形有三條邊",
+      "因為角度不能大於 180°",
+      "因為正弦值可能為負"
+    ],
+    "options_en": [
+      "Because sin θ = sin(180°-θ)",
+      "Because a triangle has three sides",
+      "Because angles cannot exceed 180°",
+      "Because sine can be negative"
+    ],
+    "answer": 0,
+    "explanation_zh": "sin θ = sin(180°-θ)，所以同一個正弦值可能對應兩個不同的角",
+    "explanation_en": "sin θ = sin(180°-θ), so the same sine value can correspond to two different angles",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "曖昧情況",
+    "subtopic_en": "Ambiguous Case",
+    "difficulty": 3,
+    "form": 6,
+    "id": 55
+  },
+  {
+    "question_zh": "使用正弦定理時，為何可能出現「曖昧情況」(ambiguous case)？",
+    "question_en": "Why can the sine rule lead to an ambiguous case?",
+    "options_zh": [
+      "因為 sin θ = sin(180°-θ)",
+      "因為三角形有三條邊",
+      "因為角度不能大於 180°",
+      "因為正弦值可能為負"
+    ],
+    "options_en": [
+      "Because sin θ = sin(180°-θ)",
+      "Because a triangle has three sides",
+      "Because angles cannot exceed 180°",
+      "Because sine can be negative"
+    ],
+    "answer": 0,
+    "explanation_zh": "sin θ = sin(180°-θ)，所以同一個正弦值可能對應兩個不同的角",
+    "explanation_en": "sin θ = sin(180°-θ), so the same sine value can correspond to two different angles",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "曖昧情況",
+    "subtopic_en": "Ambiguous Case",
+    "difficulty": 3,
+    "form": 6,
+    "id": 56
+  },
+  {
+    "question_zh": "使用正弦定理時，為何可能出現「曖昧情況」(ambiguous case)？",
+    "question_en": "Why can the sine rule lead to an ambiguous case?",
+    "options_zh": [
+      "因為 sin θ = sin(180°-θ)",
+      "因為三角形有三條邊",
+      "因為角度不能大於 180°",
+      "因為正弦值可能為負"
+    ],
+    "options_en": [
+      "Because sin θ = sin(180°-θ)",
+      "Because a triangle has three sides",
+      "Because angles cannot exceed 180°",
+      "Because sine can be negative"
+    ],
+    "answer": 0,
+    "explanation_zh": "sin θ = sin(180°-θ)，所以同一個正弦值可能對應兩個不同的角",
+    "explanation_en": "sin θ = sin(180°-θ), so the same sine value can correspond to two different angles",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "曖昧情況",
+    "subtopic_en": "Ambiguous Case",
+    "difficulty": 3,
+    "form": 6,
+    "id": 57
+  },
+  {
+    "question_zh": "使用正弦定理時，為何可能出現「曖昧情況」(ambiguous case)？",
+    "question_en": "Why can the sine rule lead to an ambiguous case?",
+    "options_zh": [
+      "因為 sin θ = sin(180°-θ)",
+      "因為三角形有三條邊",
+      "因為角度不能大於 180°",
+      "因為正弦值可能為負"
+    ],
+    "options_en": [
+      "Because sin θ = sin(180°-θ)",
+      "Because a triangle has three sides",
+      "Because angles cannot exceed 180°",
+      "Because sine can be negative"
+    ],
+    "answer": 0,
+    "explanation_zh": "sin θ = sin(180°-θ)，所以同一個正弦值可能對應兩個不同的角",
+    "explanation_en": "sin θ = sin(180°-θ), so the same sine value can correspond to two different angles",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "曖昧情況",
+    "subtopic_en": "Ambiguous Case",
+    "difficulty": 3,
+    "form": 6,
+    "id": 58
+  },
+  {
+    "question_zh": "使用正弦定理時，為何可能出現「曖昧情況」(ambiguous case)？",
+    "question_en": "Why can the sine rule lead to an ambiguous case?",
+    "options_zh": [
+      "因為 sin θ = sin(180°-θ)",
+      "因為三角形有三條邊",
+      "因為角度不能大於 180°",
+      "因為正弦值可能為負"
+    ],
+    "options_en": [
+      "Because sin θ = sin(180°-θ)",
+      "Because a triangle has three sides",
+      "Because angles cannot exceed 180°",
+      "Because sine can be negative"
+    ],
+    "answer": 0,
+    "explanation_zh": "sin θ = sin(180°-θ)，所以同一個正弦值可能對應兩個不同的角",
+    "explanation_en": "sin θ = sin(180°-θ), so the same sine value can correspond to two different angles",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "曖昧情況",
+    "subtopic_en": "Ambiguous Case",
+    "difficulty": 3,
+    "form": 6,
+    "id": 59
+  },
+  {
+    "question_zh": "使用正弦定理時，為何可能出現「曖昧情況」(ambiguous case)？",
+    "question_en": "Why can the sine rule lead to an ambiguous case?",
+    "options_zh": [
+      "因為 sin θ = sin(180°-θ)",
+      "因為三角形有三條邊",
+      "因為角度不能大於 180°",
+      "因為正弦值可能為負"
+    ],
+    "options_en": [
+      "Because sin θ = sin(180°-θ)",
+      "Because a triangle has three sides",
+      "Because angles cannot exceed 180°",
+      "Because sine can be negative"
+    ],
+    "answer": 0,
+    "explanation_zh": "sin θ = sin(180°-θ)，所以同一個正弦值可能對應兩個不同的角",
+    "explanation_en": "sin θ = sin(180°-θ), so the same sine value can correspond to two different angles",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "曖昧情況",
+    "subtopic_en": "Ambiguous Case",
+    "difficulty": 3,
+    "form": 6,
+    "id": 60
+  },
+  {
+    "question_zh": "使用正弦定理時，為何可能出現「曖昧情況」(ambiguous case)？",
+    "question_en": "Why can the sine rule lead to an ambiguous case?",
+    "options_zh": [
+      "因為 sin θ = sin(180°-θ)",
+      "因為三角形有三條邊",
+      "因為角度不能大於 180°",
+      "因為正弦值可能為負"
+    ],
+    "options_en": [
+      "Because sin θ = sin(180°-θ)",
+      "Because a triangle has three sides",
+      "Because angles cannot exceed 180°",
+      "Because sine can be negative"
+    ],
+    "answer": 0,
+    "explanation_zh": "sin θ = sin(180°-θ)，所以同一個正弦值可能對應兩個不同的角",
+    "explanation_en": "sin θ = sin(180°-θ), so the same sine value can correspond to two different angles",
+    "topic_zh": "正弦定理與餘弦定理",
+    "topic_en": "Sine & Cosine Rules",
+    "subtopic_zh": "曖昧情況",
+    "subtopic_en": "Ambiguous Case",
+    "difficulty": 3,
+    "form": 6,
+    "id": 61
+  }
+]

@@ -1,1 +1,112 @@
-[{"topic_zh": "坐標", "topic_en": "Coordinates", "file": "topic_00.json", "count": 579, "difficulties": {"1": 0, "2": 579, "3": 0}}, {"topic_zh": "基本代數", "topic_en": "Basic Algebra", "file": "topic_01.json", "count": 581, "difficulties": {"1": 0, "2": 581, "3": 0}}, {"topic_zh": "基本幾何", "topic_en": "Basic Geometry", "file": "topic_02.json", "count": 586, "difficulties": {"1": 0, "2": 586, "3": 0}}, {"topic_zh": "正負數", "topic_en": "Directed Numbers", "file": "topic_03.json", "count": 1044, "difficulties": {"1": 0, "2": 1044, "3": 0}}, {"topic_zh": "比與比率", "topic_en": "Ratio & Rate", "file": "topic_04.json", "count": 255, "difficulties": {"1": 0, "2": 255, "3": 0}}, {"topic_zh": "百分數", "topic_en": "Percentages", "file": "topic_05.json", "count": 138, "difficulties": {"1": 0, "2": 138, "3": 0}}, {"topic_zh": "統計圖表", "topic_en": "Statistics", "file": "topic_06.json", "count": 940, "difficulties": {"1": 0, "2": 940, "3": 0}}, {"topic_zh": "綜合應用", "topic_en": "Mixed Applications", "file": "topic_07.json", "count": 169, "difficulties": {"1": 0, "2": 169, "3": 0}}, {"topic_zh": "規律與數列", "topic_en": "Sequences", "file": "topic_08.json", "count": 120, "difficulties": {"1": 0, "2": 120, "3": 0}}, {"topic_zh": "面積與體積", "topic_en": "Area & Volume", "file": "topic_09.json", "count": 554, "difficulties": {"1": 0, "2": 554, "3": 0}}]
+[
+  {
+    "topic_zh": "數與數系",
+    "topic_en": "Number & Number Systems",
+    "file": "number_systems.json",
+    "count": 1250,
+    "difficulties": {
+      "1": 0,
+      "2": 1250,
+      "3": 0
+    }
+  },
+  {
+    "topic_zh": "基礎代數",
+    "topic_en": "Basic Algebra",
+    "file": "basic_algebra.json",
+    "count": 581,
+    "difficulties": {
+      "1": 0,
+      "2": 581,
+      "3": 0
+    }
+  },
+  {
+    "topic_zh": "方程",
+    "topic_en": "Equations",
+    "file": "equations.json",
+    "count": 238,
+    "difficulties": {
+      "1": 0,
+      "2": 238,
+      "3": 0
+    }
+  },
+  {
+    "topic_zh": "不等式",
+    "topic_en": "Inequalities",
+    "file": "inequalities.json",
+    "count": 597,
+    "difficulties": {
+      "1": 500,
+      "2": 97,
+      "3": 0
+    }
+  },
+  {
+    "topic_zh": "函數與圖像",
+    "topic_en": "Functions & Graphs",
+    "file": "functions_graphs.json",
+    "count": 500,
+    "difficulties": {
+      "1": 500,
+      "2": 0,
+      "3": 0
+    }
+  },
+  {
+    "topic_zh": "坐標幾何",
+    "topic_en": "Coordinate Geometry",
+    "file": "coordinate_geometry.json",
+    "count": 1379,
+    "difficulties": {
+      "1": 800,
+      "2": 579,
+      "3": 0
+    }
+  },
+  {
+    "topic_zh": "基礎幾何",
+    "topic_en": "Basic Geometry",
+    "file": "geometry_basics.json",
+    "count": 586,
+    "difficulties": {
+      "1": 0,
+      "2": 586,
+      "3": 0
+    }
+  },
+  {
+    "topic_zh": "面積與體積",
+    "topic_en": "Area & Volume",
+    "file": "area_volume.json",
+    "count": 554,
+    "difficulties": {
+      "1": 0,
+      "2": 554,
+      "3": 0
+    }
+  },
+  {
+    "topic_zh": "基礎統計",
+    "topic_en": "Basic Statistics",
+    "file": "statistics_basic.json",
+    "count": 940,
+    "difficulties": {
+      "1": 0,
+      "2": 940,
+      "3": 0
+    }
+  },
+  {
+    "topic_zh": "數字規律",
+    "topic_en": "Number Patterns",
+    "file": "number_patterns.json",
+    "count": 120,
+    "difficulties": {
+      "1": 0,
+      "2": 120,
+      "3": 0
+    }
+  }
+]

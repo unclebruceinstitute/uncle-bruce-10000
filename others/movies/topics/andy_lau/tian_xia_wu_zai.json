@@ -1,102 +1,327 @@
 [
   {
-    "question_zh": "《天下無賊》（2004）中，傻根帶了什麼上火車？",
-    "question_en": "What does the naive man carry?",
-    "options_zh": [
-      "現金",
-      "珠寶",
-      "古董",
-      "文件"
-    ],
-    "options_en": [
-      "Cash",
-      "Jewelry",
-      "Antiques",
-      "Documents"
-    ],
+    "question_zh": "《天下無賊》（2004）中，劉德華飾演什麼角色？",
+    "question_en": "What role in A World Without Thieves?",
+    "options_zh": ["小偷", "警察", "商人", "農民"],
+    "options_en": ["Thief", "Police", "Businessman", "Farmer"],
     "answer": 0,
-    "explanation_zh": "傻根帶了大量現金上火車。",
-    "explanation_en": "He carries a large amount of cash.",
+    "explanation_zh": "飾演小偷王薄。",
+    "explanation_en": "Plays thief Wang Bo.",
     "difficulty": 1
   },
   {
-    "question_zh": "《天下無賊》中，劉德華飾演的角色最後怎樣？",
-    "question_en": "What happens to his character?",
-    "options_zh": [
-      "犧牲保護傻根",
-      "被捕",
-      "逃脫",
-      "自首"
-    ],
-    "options_en": [
-      "Sacrifices to protect him",
-      "Arrested",
-      "Escapes",
-      "Surrenders"
-    ],
-    "answer": 0,
-    "explanation_zh": "犧牲自己保護傻根。",
-    "explanation_en": "Sacrifices himself.",
+    "question_zh": "《天下無賊》中，劉若英飾演什麼角色？",
+    "question_en": "What does René Liu play?",
+    "options_zh": ["小偷", "警察", "女賊", "老師"],
+    "options_en": ["Thief", "Police", "Female thief", "Teacher"],
+    "answer": 2,
+    "explanation_zh": "劉若英飾演女賊王麗。",
+    "explanation_en": "René Liu plays female thief Wang Li.",
     "difficulty": 1
   },
   {
     "question_zh": "《天下無賊》的導演是誰？",
     "question_en": "Who directed?",
-    "options_zh": [
-      "馮小剛",
-      "張藝謀",
-      "陳凱歌",
-      "姜文"
-    ],
-    "options_en": [
-      "Feng Xiaogang",
-      "Zhang Yimou",
-      "Chen Kaige",
-      "Jiang Wen"
-    ],
+    "options_zh": ["馮小剛", "張藝謀", "陳凱歌", "姜文"],
+    "options_en": ["Feng Xiaogang", "Zhang Yimou", "Chen Kaige", "Jiang Wen"],
     "answer": 0,
     "explanation_zh": "馮小剛執導。",
-    "explanation_en": "Feng Xiaogang.",
+    "explanation_en": "Directed by Feng Xiaogang.",
     "difficulty": 1
   },
   {
-    "question_zh": "《天下無賊》中，劉德華與誰飾演情侶？",
-    "question_en": "Who plays his partner?",
-    "options_zh": [
-      "劉若英",
-      "趙薇",
-      "章子怡",
-      "周迅"
-    ],
-    "options_en": [
-      "Rene Liu",
-      "Zhao Wei",
-      "Zhang Ziyi",
-      "Zhou Xun"
-    ],
+    "question_zh": "《天下無賊》中，傻根由誰飾演？",
+    "question_en": "Who plays the role of Sha Gen (Fool)?",
+    "options_zh": ["王寶強", "黃渤", "徐崢", "葛優"],
+    "options_en": ["Wang Baoqiang", "Huang Bo", "Xu Zheng", "Ge You"],
     "answer": 0,
-    "explanation_zh": "劉若英。",
-    "explanation_en": "Rene Liu.",
+    "explanation_zh": "王寶強飾演傻根。",
+    "explanation_en": "Wang Baoqiang plays Sha Gen.",
     "difficulty": 1
   },
   {
-    "question_zh": "《天下無賊》是什麼類型的電影？",
-    "question_en": "What genre?",
-    "options_zh": [
-      "犯罪劇情片",
-      "動作片",
-      "喜劇片",
-      "愛情片"
-    ],
-    "options_en": [
-      "Crime drama",
-      "Action",
-      "Comedy",
-      "Romance"
-    ],
+    "question_zh": "《天下無賊》的故事發生在哪裡？",
+    "question_en": "Where is it set?",
+    "options_zh": ["火車上", "飛機上", "城市裡", "農村"],
+    "options_en": ["On a train", "On a plane", "In a city", "Rural area"],
     "answer": 0,
-    "explanation_zh": "犯罪劇情片。",
-    "explanation_en": "Crime drama.",
+    "explanation_zh": "主要故事發生在火車上。",
+    "explanation_en": "Mainly set on a train.",
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question_zh": "《天下無賊》中，傻根帶了多少錢坐火車？",
+    "question_en": "How much money does Sha Gen carry on the train in A World Without Thieves?",
+    "options_zh": ["5萬元", "10萬元", "20萬元", "50萬元"],
+    "options_en": ["50,000 yuan", "100,000 yuan", "200,000 yuan", "500,000 yuan"],
+    "answer": 1,
+    "explanation_zh": "傻根帶了10萬元坐火車。",
+    "explanation_en": "Sha Gen carries 100,000 yuan on the train.",
+    "difficulty": 2
+  },
+  {
+    "id": 7,
+    "question_zh": "《天下無賊》中，劉德華的角色為什麼想保護傻根？",
+    "question_en": "Why does Wang Bo want to protect Sha Gen in A World Without Thieves?",
+    "options_zh": ["良心發現", "為了女友", "被傻根感動", "以上皆是"],
+    "options_en": ["Conscience", "For his girlfriend", "Moved by Sha Gen", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "王薄因為良心發現、為了女友和被傻根感動而想保護他。",
+    "explanation_en": "Wang Bo wants to protect Sha Gen out of conscience, for his girlfriend, and being moved by him.",
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_zh": "《天下無賊》中，葛優飾演什麼角色？",
+    "question_en": "What role does Ge You play in A World Without Thieves?",
+    "options_zh": ["小偷頭目", "警察", "商人", "農民"],
+    "options_en": ["Thief leader", "Police", "Businessman", "Farmer"],
+    "answer": 0,
+    "explanation_zh": "葛優飾演小偷頭目黎叔。",
+    "explanation_en": "Ge You plays thief leader Uncle Li.",
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question_zh": "《天下無賊》中，傻根有什麼特點？",
+    "question_en": "What are Sha Gen's characteristics in A World Without Thieves?",
+    "options_zh": ["單純善良", "容易相信人", "沒有心機", "以上皆是"],
+    "options_en": ["Simple and kind", "Trusting", "No scheming", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "傻根單純善良、容易相信人、沒有心機。",
+    "explanation_en": "Sha Gen is simple, kind, trusting, and has no scheming nature.",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question_zh": "《天下無賊》中，劉德華的角色王薄最終命運如何？",
+    "question_en": "What happens to Wang Bo at the end of A World Without Thieves?",
+    "options_zh": ["被捕", "犧牲", "成功逃脫", "改邪歸正"],
+    "options_en": ["Arrested", "Sacrificed", "Successfully escapes", "Reforms"],
+    "answer": 1,
+    "explanation_zh": "王薄最終犧牲。",
+    "explanation_en": "Wang Bo ultimately sacrifices himself.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《天下無賊》中，劉若英的角色王麗有什麼改變？",
+    "question_en": "What change does Wang Li undergo in A World Without Thieves?",
+    "options_zh": ["想改邪歸正", "懷孕了", "想保護傻根", "以上皆是"],
+    "options_en": ["Wants to reform", "Is pregnant", "Wants to protect Sha Gen", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "王麗想改邪歸正，懷孕了，想保護傻根。",
+    "explanation_en": "Wang Li wants to reform, is pregnant, and wants to protect Sha Gen.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《天下無賊》中，火車上還有哪些角色？",
+    "question_en": "What other characters are on the train in A World Without Thieves?",
+    "options_zh": ["其他小偷", "警察", "乘客", "以上皆是"],
+    "options_en": ["Other thieves", "Police", "Passengers", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "火車上有其他小偷、警察和乘客。",
+    "explanation_en": "The train has other thieves, police, and passengers.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《天下無賊》的經典台詞是什麼？",
+    "question_en": "What is the famous quote from A World Without Thieves?",
+    "options_zh": ["「天下無賊」", "「我很善良」", "「傻人有傻福」", "以上皆是"],
+    "options_en": ["'A world without thieves'", "'I am very kind'", "'Fools have fool's luck'", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "電影有多句經典台詞。",
+    "explanation_en": "The film has multiple famous quotes.",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_zh": "《天下無賊》中，王薄和王麗是什麼關係？",
+    "question_en": "What is the relationship between Wang Bo and Wang Li in A World Without Thieves?",
+    "options_zh": ["夫妻", "情侶", "兄妹", "同事"],
+    "options_en": ["Husband and wife", "Couple", "Siblings", "Colleagues"],
+    "answer": 1,
+    "explanation_zh": "王薄和王麗是一對情侶。",
+    "explanation_en": "Wang Bo and Wang Li are a couple.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《天下無賊》中，黎叔的偷竊手法有什麼特點？",
+    "question_en": "What is distinctive about Uncle Li's stealing technique in A World Without Thieves?",
+    "options_zh": ["高明", "團隊合作", "技術精湛", "以上皆是"],
+    "options_en": ["Skillful", "Teamwork", "Technically excellent", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "黎叔的偷竊手法高明、團隊合作、技術精湛。",
+    "explanation_en": "Uncle Li's technique is skillful, involves teamwork, and is technically excellent.",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question_zh": "《天下無賊》中，傻根為什麼相信「天下無賊」？",
+    "question_en": "Why does Sha Gen believe in 'a world without thieves'?",
+    "options_zh": ["單純善良", "從小教育", "沒有經歷過", "以上皆是"],
+    "options_en": ["Simple and kind", "Education from childhood", "Never experienced it", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "傻根因為單純善良、從小教育和沒有經歷過而相信天下無賊。",
+    "explanation_en": "Sha Gen believes this because of his simple nature, upbringing, and lack of experience.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《天下無賊》中，王薄犧牲的原因是什麼？",
+    "question_en": "Why does Wang Bo sacrifice himself in A World Without Thieves?",
+    "options_zh": ["保護傻根", "保護王麗", "與黎叔對抗", "以上皆是"],
+    "options_en": ["To protect Sha Gen", "To protect Wang Li", "Fighting Uncle Li", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "王薄犧牲是為了保護傻根和王麗，與黎叔對抗。",
+    "explanation_en": "Wang Bo sacrifices himself to protect Sha Gen and Wang Li, fighting Uncle Li.",
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question_zh": "《天下無賊》中，劉德華和劉若英的合作有什麼火花？",
+    "question_en": "What chemistry do Andy Lau and René Liu have in A World Without Thieves?",
+    "options_zh": ["默契十足", "感情真摯", "互相扶持", "以上皆是"],
+    "options_en": ["Great chemistry", "Genuine emotions", "Mutual support", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "兩人的合作默契十足、感情真摯、互相扶持。",
+    "explanation_en": "Their collaboration shows great chemistry, genuine emotions, and mutual support.",
+    "difficulty": 2
+  },
+  {
+    "id": 19,
+    "question_zh": "《天下無賊》的票房成績如何？",
+    "question_en": "How did A World Without Thieves perform at the box office?",
+    "options_zh": ["票房慘淡", "票房一般", "票房成功", "票房冠軍"],
+    "options_en": ["Poor", "Average", "Successful", "Box office champion"],
+    "answer": 2,
+    "explanation_zh": "《天下無賊》票房成績成功。",
+    "explanation_en": "A World Without Thieves was a box office success.",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question_zh": "《天下無賊》中，火車上的場景有什麼特點？",
+    "question_en": "What is distinctive about the train scenes in A World Without Thieves?",
+    "options_zh": ["空間狹小", "節奏緊湊", "懸疑感強", "以上皆是"],
+    "options_en": ["Cramped space", "Fast pace", "Strong suspense", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "火車場景空間狹小、節奏緊湊、懸疑感強。",
+    "explanation_en": "The train scenes feature cramped space, fast pace, and strong suspense.",
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "question_zh": "《天下無賊》中，王薄的角色有什麼轉變？",
+    "question_en": "What transformation does Wang Bo undergo in A World Without Thieves?",
+    "options_zh": ["從壞人變好人", "從自私變無私", "從小偷變英雄", "以上皆是"],
+    "options_en": ["Bad to good", "Selfish to selfless", "Thief to hero", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "王薄從壞人變好人、從自私變無私、從小偷變英雄。",
+    "explanation_en": "Wang Bo transforms from bad to good, selfish to selfless, thief to hero.",
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question_zh": "《天下無賊》中，傻根帶錢的目的是什麼？",
+    "question_en": "Why does Sha Gen carry money in A World Without Thieves?",
+    "options_zh": ["回家蓋房子", "娶媳婦", "存銀行", "做生意"],
+    "options_en": ["Build a house", "Get married", "Deposit in bank", "Start a business"],
+    "answer": 0,
+    "explanation_zh": "傻根帶錢回家蓋房子。",
+    "explanation_en": "Sha Gen carries money home to build a house.",
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question_zh": "《天下無賊》中，黎叔的角色由誰飾演？",
+    "question_en": "Who plays Uncle Li in A World Without Thieves?",
+    "options_zh": ["葛優", "范偉", "馮小剛", "張國立"],
+    "options_en": ["Ge You", "Fan Wei", "Feng Xiaogang", "Zhang Guoli"],
+    "answer": 0,
+    "explanation_zh": "葛優飾演黎叔。",
+    "explanation_en": "Ge You plays Uncle Li.",
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question_zh": "《天下無賊》探討了什麼主題？",
+    "question_en": "What themes does A World Without Thieves explore?",
+    "options_zh": ["善良與邪惡", "救贖", "信任", "以上皆是"],
+    "options_en": ["Good vs evil", "Redemption", "Trust", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "電影探討了善良與邪惡、救贖和信任等主題。",
+    "explanation_en": "The film explores themes of good vs evil, redemption, and trust.",
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question_zh": "《天下無賊》中，王麗為什麼想改邪歸正？",
+    "question_en": "Why does Wang Li want to reform in A World Without Thieves?",
+    "options_zh": ["懷孕了", "良心發現", "愛上了傻根", "以上皆是"],
+    "options_en": ["Pregnant", "Conscience", "Fell in love with Sha Gen", "All of the above"],
+    "answer": 0,
+    "explanation_zh": "王麗因為懷孕了想改邪歸正。",
+    "explanation_en": "Wang Li wants to reform because she's pregnant.",
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question_zh": "《天下無賊》中，最後的結局是什麼？",
+    "question_en": "What is the ending of A World Without Thieves?",
+    "options_zh": ["王薄犧牲", "王麗生了孩子", "傻根平安到家", "以上皆是"],
+    "options_en": ["Wang Bo sacrifices", "Wang Li has a baby", "Sha Gen arrives home safely", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "結局是王薄犧牲、王麗生了孩子、傻根平安到家。",
+    "explanation_en": "The ending includes Wang Bo's sacrifice, Wang Li having a baby, and Sha Gen arriving home safely.",
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question_zh": "《天下無賊》中，劉德華飾演的王薄有什麼經典動作？",
+    "question_en": "What classic action does Wang Bo perform in A World Without Thieves?",
+    "options_zh": ["偷竊技巧", "與黎叔對決", "保護傻根", "以上皆是"],
+    "options_en": ["Stealing technique", "Fighting Uncle Li", "Protecting Sha Gen", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "王薄有偷竊技巧、與黎叔對決和保護傻根等經典動作。",
+    "explanation_en": "Wang Bo has classic actions including stealing techniques, fighting Uncle Li, and protecting Sha Gen.",
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question_zh": "《天下無賊》中，電影的拍攝風格如何？",
+    "question_en": "What is the filming style of A World Without Thieves?",
+    "options_zh": ["馮小剛式喜劇", "懸疑風格", "溫情風格", "以上皆有"],
+    "options_en": ["Feng Xiaogang comedy", "Suspenseful", "Heartwarming", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "電影融合了馮小剛式喜劇、懸疑和溫情風格。",
+    "explanation_en": "The film blends Feng Xiaogang comedy, suspense, and heartwarming styles.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "《天下無賊》中，傻根的角色象徵什麼？",
+    "question_en": "What does Sha Gen's character symbolize in A World Without Thieves?",
+    "options_zh": ["純真", "善良", "信任", "以上皆是"],
+    "options_en": ["Innocence", "Kindness", "Trust", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "傻根象徵純真、善良和信任。",
+    "explanation_en": "Sha Gen symbolizes innocence, kindness, and trust.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "《天下無賊》是哪一年上映的？",
+    "question_en": "What year was A World Without Thieves released?",
+    "options_zh": ["2002年", "2003年", "2004年", "2005年"],
+    "options_en": ["2002", "2003", "2004", "2005"],
+    "answer": 2,
+    "explanation_zh": "《天下無賊》於2004年上映。",
+    "explanation_en": "A World Without Thieves was released in 2004.",
     "difficulty": 1
   }
 ]

@@ -1,102 +1,327 @@
 [
   {
-    "question_zh": "《投名狀》（2007）的導演是誰？",
-    "question_en": "Who directed?",
-    "options_zh": [
-      "陳可辛",
-      "杜琪峰",
-      "許鞍華",
-      "徐克"
-    ],
-    "options_en": [
-      "Peter Chan",
-      "Johnnie To",
-      "Ann Hui",
-      "Tsui Hark"
-    ],
+    "question_zh": "《投名狀》（2007）中，劉德華飾演什麼角色？",
+    "question_en": "What role in The Warlords?",
+    "options_zh": ["趙二虎", "龐青雲", "姜午陽", "蓮生"],
+    "options_en": ["Zhao Erhu", "Pang Qingyun", "Jiang Wuyang", "Liansheng"],
     "answer": 0,
-    "explanation_zh": "陳可辛。",
-    "explanation_en": "Peter Chan.",
+    "explanation_zh": "飾演趙二虎。",
+    "explanation_en": "Plays Zhao Erhu.",
     "difficulty": 1
   },
   {
-    "question_zh": "《投名狀》中，龐青雲由誰飾演？",
-    "question_en": "Who plays Pang?",
-    "options_zh": [
-      "李連杰",
-      "劉德華",
-      "金城武",
-      "甄子丹"
-    ],
-    "options_en": [
-      "Jet Li",
-      "Andy Lau",
-      "Takeshi Kaneshiro",
-      "Donnie Yen"
-    ],
-    "answer": 0,
-    "explanation_zh": "李連杰。",
-    "explanation_en": "Jet Li.",
+    "question_zh": "《投名狀》中，李連杰飾演什麼角色？",
+    "question_en": "What role does Jet Li play in The Warlords?",
+    "options_zh": ["趙二虎", "龐青雲", "姜午陽", "蓮生"],
+    "options_en": ["Zhao Erhu", "Pang Qingyun", "Jiang Wuyang", "Liansheng"],
+    "answer": 1,
+    "explanation_zh": "李連杰飾演龐青雲。",
+    "explanation_en": "Jet Li plays Pang Qingyun.",
     "difficulty": 1
   },
   {
-    "question_zh": "《投名狀》中，姜午陽由誰飾演？",
-    "question_en": "Who plays Jiang?",
-    "options_zh": [
-      "金城武",
-      "劉德華",
-      "李連杰",
-      "甄子丹"
-    ],
-    "options_en": [
-      "Takeshi Kaneshiro",
-      "Andy Lau",
-      "Jet Li",
-      "Donnie Yen"
-    ],
+    "question_zh": "《投名狀》的導演是誰？",
+    "question_en": "Who directed The Warlords?",
+    "options_zh": ["陳可辛", "杜琪峰", "爾冬陞", "劉偉強"],
+    "options_en": ["Peter Chan", "Johnnie To", "Derek Yee", "Andrew Lau"],
     "answer": 0,
-    "explanation_zh": "金城武。",
-    "explanation_en": "Takeshi Kaneshiro.",
+    "explanation_zh": "陳可辛執導。",
+    "explanation_en": "Directed by Peter Chan.",
     "difficulty": 1
   },
   {
-    "question_zh": "《投名狀》的故事背景是什麼時代？",
-    "question_en": "What era?",
-    "options_zh": [
-      "清朝",
-      "明朝",
-      "宋朝",
-      "唐朝"
-    ],
-    "options_en": [
-      "Qing",
-      "Ming",
-      "Song",
-      "Tang"
-    ],
-    "answer": 0,
-    "explanation_zh": "清朝太平天國時期。",
-    "explanation_en": "Qing dynasty Taiping Rebellion.",
-    "difficulty": 1
-  },
-  {
-    "question_zh": "《投名狀》中，三兄弟的結局如何？",
-    "question_en": "What happens to the brothers?",
-    "options_zh": [
-      "全部死亡",
-      "一死兩生",
-      "兩死一生",
-      "三人都生"
-    ],
-    "options_en": [
-      "All die",
-      "One dies",
-      "Two die",
-      "All live"
-    ],
+    "question_zh": "《投名狀》中，金城武飾演什麼角色？",
+    "question_en": "What role does Takeshi Kaneshiro play in The Warlords?",
+    "options_zh": ["趙二虎", "龐青雲", "姜午陽", "蓮生"],
+    "options_en": ["Zhao Erhu", "Pang Qingyun", "Jiang Wuyang", "Liansheng"],
     "answer": 2,
-    "explanation_zh": "兩死一生。",
-    "explanation_en": "Two die, one survives.",
+    "explanation_zh": "金城武飾演姜午陽。",
+    "explanation_en": "Takeshi Kaneshiro plays Jiang Wuyang.",
     "difficulty": 1
+  },
+  {
+    "question_zh": "《投名狀》的故事背景設定在哪個歷史時期？",
+    "question_en": "In which historical period is The Warlords set?",
+    "options_zh": ["明朝", "清朝末年", "民國", "唐朝"],
+    "options_en": ["Ming Dynasty", "Late Qing Dynasty", "Republic", "Tang Dynasty"],
+    "answer": 1,
+    "explanation_zh": "故事背景設定在清朝末年太平天國時期。",
+    "explanation_en": "Set during the Taiping Rebellion in the late Qing Dynasty.",
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question_zh": "《投名狀》中，「投名狀」是什麼意思？",
+    "question_en": "What does '投名狀' mean in The Warlords?",
+    "options_zh": ["結盟誓約", "投誠書", "生死狀", "以上皆是"],
+    "options_en": ["Alliance oath", "Surrender letter", "Life and death pact", "All of the above"],
+    "answer": 0,
+    "explanation_zh": "「投名狀」是結盟的誓約，表示同生共死。",
+    "explanation_en": "'投名狀' is an alliance oath, meaning to live and die together.",
+    "difficulty": 2
+  },
+  {
+    "id": 7,
+    "question_zh": "《投名狀》中，三位結拜兄弟是誰？",
+    "question_en": "Who are the three sworn brothers in The Warlords?",
+    "options_zh": ["龐青雲、趙二虎、姜午陽", "劉備、關羽、張飛", "曹操、孫權、劉備", "以上都不是"],
+    "options_en": ["Pang Qingyun, Zhao Erhu, Jiang Wuyang", "Liu Bei, Guan Yu, Zhang Fei", "Cao Cao, Sun Quan, Liu Bei", "None of the above"],
+    "answer": 0,
+    "explanation_zh": "三位結拜兄弟是龐青雲、趙二虎和姜午陽。",
+    "explanation_en": "The three sworn brothers are Pang Qingyun, Zhao Erhu, and Jiang Wuyang.",
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question_zh": "《投名狀》中，劉德華的角色趙二虎有什麼性格特點？",
+    "question_en": "What personality traits does Zhao Erhu have in The Warlords?",
+    "options_zh": ["義氣", "衝動", "重情義", "以上皆是"],
+    "options_en": ["Loyal", "Impulsive", "Values brotherhood", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "趙二虎義氣、衝動、重情義。",
+    "explanation_en": "Zhao Erhu is loyal, impulsive, and values brotherhood.",
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question_zh": "《投名狀》中，龐青雲的角色有什麼野心？",
+    "question_en": "What ambition does Pang Qingyun have in The Warlords?",
+    "options_zh": ["報仇", "統一天下", "當官", "以上皆是"],
+    "options_en": ["Revenge", "Unify the land", "Become an official", "All of the above"],
+    "answer": 2,
+    "explanation_zh": "龐青雲的野心是當官、獲得權力。",
+    "explanation_en": "Pang Qingyun's ambition is to become an official and gain power.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《投名狀》中，蓮生由誰飾演？",
+    "question_en": "Who plays Liansheng in The Warlords?",
+    "options_zh": ["徐靜蕾", "章子怡", "周迅", "趙薇"],
+    "options_en": ["Xu Jinglei", "Zhang Ziyi", "Zhou Xun", "Zhao Wei"],
+    "answer": 0,
+    "explanation_zh": "徐靜蕾飾演蓮生。",
+    "explanation_en": "Xu Jinglei plays Liansheng.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《投名狀》中，三位兄弟最終的結局如何？",
+    "question_en": "What happens to the three brothers at the end of The Warlords?",
+    "options_zh": ["自相殘殺", "共同成功", "分道揚鑣", "以上皆有"],
+    "options_en": ["Kill each other", "Succeed together", "Go separate ways", "All of the above"],
+    "answer": 0,
+    "explanation_zh": "三位兄弟最終自相殘殺。",
+    "explanation_en": "The three brothers ultimately kill each other.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《投名狀》中，趙二虎最終命運如何？",
+    "question_en": "What happens to Zhao Erhu at the end of The Warlords?",
+    "options_zh": ["被龐青雲殺死", "戰死沙場", "被捕", "自殺"],
+    "options_en": ["Killed by Pang Qingyun", "Dies in battle", "Arrested", "Commits suicide"],
+    "answer": 0,
+    "explanation_zh": "趙二虎最終被龐青雲殺死。",
+    "explanation_en": "Zhao Erhu is ultimately killed by Pang Qingyun.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《投名狀》中，劉德華的角色與龐青雲有什麼衝突？",
+    "question_en": "What conflict exists between Zhao Erhu and Pang Qingyun in The Warlords?",
+    "options_zh": ["權力衝突", "愛情衝突", "理念衝突", "以上皆是"],
+    "options_en": ["Power conflict", "Love conflict", "Ideological conflict", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "兩人之間有權力、愛情和理念的衝突。",
+    "explanation_en": "They have conflicts over power, love, and ideology.",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_zh": "《投名狀》中，蓮生與三位兄弟有什麼關係？",
+    "question_en": "What is Liansheng's relationship with the three brothers in The Warlords?",
+    "options_zh": ["趙二虎的妻子", "龐青雲的愛人", "以上皆是", "姜午陽的妹妹"],
+    "options_en": ["Zhao Erhu's wife", "Pang Qingyun's lover", "All of the above", "Jiang Wuyang's sister"],
+    "answer": 2,
+    "explanation_zh": "蓮生是趙二虎的妻子，也是龐青雲的愛人。",
+    "explanation_en": "Liansheng is Zhao Erhu's wife and also Pang Qingyun's lover.",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_zh": "《投名狀》中，三位兄弟的軍隊叫什麼？",
+    "question_en": "What is the name of the three brothers' army in The Warlords?",
+    "options_zh": ["太平軍", "山字營", "湘軍", "綠營"],
+    "options_en": ["Taiping Army", "Shan Battalion", "Xiang Army", "Green Camp"],
+    "answer": 1,
+    "explanation_zh": "他們的軍隊叫山字營。",
+    "explanation_en": "Their army is called the Shan Battalion.",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question_zh": "《投名狀》中，劉德華為了這個角色做了什麼準備？",
+    "question_en": "What preparation did Andy Lau make for this role in The Warlords?",
+    "options_zh": ["健身訓練", "學習武術", "研究歷史", "以上皆是"],
+    "options_en": ["Fitness training", "Learn martial arts", "Research history", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "劉德華為角色做了健身、武術和歷史研究等準備。",
+    "explanation_en": "Andy Lau prepared with fitness training, martial arts, and historical research.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《投名狀》中，趙二虎的軍隊有什麼特點？",
+    "question_en": "What are the characteristics of Zhao Erhu's army in The Warlords?",
+    "options_zh": ["草莽出身", "義氣為先", "戰鬥力強", "以上皆是"],
+    "options_en": ["From humble backgrounds", "Values brotherhood", "Strong combat ability", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "趙二虎的軍隊草莽出身、義氣為先、戰鬥力強。",
+    "explanation_en": "Zhao Erhu's army comes from humble backgrounds, values brotherhood, and has strong combat ability.",
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question_zh": "《投名狀》中，龐青雲為什麼要殺趙二虎？",
+    "question_en": "Why does Pang Qingyun kill Zhao Erhu in The Warlords?",
+    "options_zh": ["權力鬥爭", "愛情糾紛", "政治原因", "以上皆是"],
+    "options_en": ["Power struggle", "Love dispute", "Political reasons", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "龐青雲因為權力鬥爭、愛情糾紛和政治原因殺趙二虎。",
+    "explanation_en": "Pang Qingyun kills Zhao Erhu due to power struggle, love dispute, and political reasons.",
+    "difficulty": 2
+  },
+  {
+    "id": 19,
+    "question_zh": "《投名狀》中，姜午陽最終做出了什麼選擇？",
+    "question_en": "What choice does Jiang Wuyang make at the end of The Warlords?",
+    "options_zh": ["殺龐青雲", "自殺", "逃走", "以上都不是"],
+    "options_en": ["Kill Pang Qingyun", "Commit suicide", "Escape", "None of the above"],
+    "answer": 0,
+    "explanation_zh": "姜午陽最終選擇殺龐青雲為趙二虎報仇。",
+    "explanation_en": "Jiang Wuyang ultimately chooses to kill Pang Qingyun to avenge Zhao Erhu.",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question_zh": "《投名狀》的動作場面有什麼風格？",
+    "question_en": "What style are the action scenes in The Warlords?",
+    "options_zh": ["寫實戰爭", "武俠風格", "大規模戰役", "以上皆是"],
+    "options_en": ["Realistic war", "Wuxia style", "Large-scale battles", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "動作場面融合了寫實戰爭、武俠風格和大規模戰役。",
+    "explanation_en": "Action scenes blend realistic war, wuxia style, and large-scale battles.",
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "question_zh": "《投名狀》的票房成績如何？",
+    "question_en": "How did The Warlords perform at the box office?",
+    "options_zh": ["票房慘淡", "票房一般", "票房成功", "票房冠軍"],
+    "options_en": ["Poor", "Average", "Successful", "Box office champion"],
+    "answer": 2,
+    "explanation_zh": "《投名狀》票房成績成功。",
+    "explanation_en": "The Warlords was a box office success.",
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question_zh": "《投名狀》探討了什麼主題？",
+    "question_en": "What themes does The Warlords explore?",
+    "options_zh": ["兄弟情義", "權力與背叛", "愛情與犧牲", "以上皆是"],
+    "options_en": ["Brotherhood", "Power and betrayal", "Love and sacrifice", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "電影探討了兄弟情義、權力與背叛、愛情與犧牲等主題。",
+    "explanation_en": "The film explores brotherhood, power and betrayal, and love and sacrifice.",
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question_zh": "《投名狀》中，劉德華飾演趙二虎的評價如何？",
+    "question_en": "How was Andy Lau's portrayal of Zhao Erhu received?",
+    "options_zh": ["評價很差", "評價一般", "評價不錯", "評價極高"],
+    "options_en": ["Very poor", "Average", "Good", "Excellent"],
+    "answer": 3,
+    "explanation_zh": "劉德華飾演趙二虎獲得極高評價。",
+    "explanation_en": "Andy Lau's portrayal of Zhao Erhu received excellent reviews.",
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question_zh": "《投名狀》中，三位兄弟的結盟有什麼條件？",
+    "question_en": "What conditions are there for the three brothers' alliance in The Warlords?",
+    "options_zh": ["同生共死", "共享財富", "共同報仇", "以上皆是"],
+    "options_en": ["Live and die together", "Share wealth", "Seek revenge together", "All of the above"],
+    "answer": 0,
+    "explanation_zh": "結盟的條件是同生共死。",
+    "explanation_en": "The alliance condition is to live and die together.",
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question_zh": "《投名狀》中，趙二虎對蓮生有什麼感情？",
+    "question_en": "What feelings does Zhao Erhu have for Liansheng in The Warlords?",
+    "options_zh": ["深愛", "佔有慾", "保護慾", "以上皆是"],
+    "options_en": ["Deep love", "Possessiveness", "Protectiveness", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "趙二虎對蓮生有深愛、佔有慾和保護慾。",
+    "explanation_en": "Zhao Erhu has deep love, possessiveness, and protectiveness towards Liansheng.",
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question_zh": "《投名狀》中，龐青雲的角色有什麼悲劇性？",
+    "question_en": "What is tragic about Pang Qingyun's character in The Warlords?",
+    "options_zh": ["為了權力犧牲一切", "失去兄弟", "失去愛人", "以上皆是"],
+    "options_en": ["Sacrifices everything for power", "Loses brothers", "Loses lover", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "龐青雲為了權力犧牲了一切，包括兄弟和愛人。",
+    "explanation_en": "Pang Qingyun sacrifices everything for power, including brothers and lover.",
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question_zh": "《投名狀》中，劉德華的角色趙二虎有什麼武藝？",
+    "question_en": "What martial arts skills does Zhao Erhu have in The Warlords?",
+    "options_zh": ["刀法", "槍法", "拳法", "以上皆是"],
+    "options_en": ["Blade skills", "Spear skills", "Fist skills", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "趙二虎精通刀法、槍法和拳法。",
+    "explanation_en": "Zhao Erhu is skilled in blades, spears, and fists.",
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question_zh": "《投名狀》中，三位兄弟的軍隊在戰場上如何配合？",
+    "question_en": "How do the three brothers' armies coordinate in battle in The Warlords?",
+    "options_zh": ["各自為戰", "互相配合", "龐青雲指揮", "以上皆有"],
+    "options_en": ["Fight separately", "Coordinate with each other", "Pang Qingyun commands", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "三人軍隊有各自為戰、互相配合和統一指揮等多種模式。",
+    "explanation_en": "The armies fight in various modes including separately, coordinated, and under unified command.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "《投名狀》中，劉德華與李連杰的對手戲有什麼特點？",
+    "question_en": "What is distinctive about Andy Lau and Jet Li's scenes together in The Warlords?",
+    "options_zh": ["演技精湛", "火花四射", "緊張刺激", "以上皆是"],
+    "options_en": ["Brilliant acting", "Electric chemistry", "Tense and exciting", "All of the above"],
+    "answer": 3,
+    "explanation_zh": "兩人的對手戲演技精湛、火花四射、緊張刺激。",
+    "explanation_en": "Their scenes together feature brilliant acting, electric chemistry, and tension.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "《投名狀》獲得什麼獎項？",
+    "question_en": "What awards did The Warlords win?",
+    "options_zh": ["金像獎最佳電影", "金馬獎", "以上皆是", "奧斯卡"],
+    "options_en": ["HKFA Best Film", "Golden Horse Awards", "All of the above", "Oscar"],
+    "answer": 2,
+    "explanation_zh": "《投名狀》獲得金像獎最佳電影等多個獎項。",
+    "explanation_en": "The Warlords won multiple awards including HKFA Best Film.",
+    "difficulty": 2
   }
 ]
