@@ -3,127 +3,184 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>💰 百萬富翁 | Millionaire Quiz — 大B舅父萬題庫</title>
+<title>💰 百萬富翁 | Who Wants to Be a Millionaire — 大B舅父萬題庫</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
-body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK','Microsoft JhengHei',sans-serif;background:#f0f2f5;color:#333}
-.container{max-width:800px;margin:0 auto;padding:16px}
-.header{text-align:center;padding:24px 0;color:#fff;border-radius:16px;margin-bottom:20px;background:linear-gradient(135deg,#f39c12,#e67e22)}
-.header h1{font-size:26px;margin-bottom:4px}
-.header p{font-size:14px;opacity:.9}
-.top-bar{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}
-.lang-toggle{display:flex;gap:4px}
-.lang-btn{padding:6px 12px;border:1px solid #f39c12;border-radius:20px;background:#fff;cursor:pointer;font-size:12px;transition:.2s;color:#f39c12}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK','Microsoft JhengHei',sans-serif;background:#0a0a2e;color:#fff;min-height:100vh}
+.c{max-width:800px;margin:0 auto;padding:16px}
+.top-bar{display:flex;justify-content:space-between;align-items:center;padding:8px 0}
+.home-link{padding:8px 16px;border:1px solid rgba(255,255,255,.3);border-radius:8px;background:rgba(255,255,255,.1);cursor:pointer;font-size:14px;text-decoration:none;color:#fff;display:inline-block}
+.home-link:hover{background:rgba(255,255,255,.2)}
+.lang-btn{padding:6px 12px;border:1px solid #f39c12;border-radius:20px;background:transparent;cursor:pointer;font-size:12px;color:#f39c12;transition:.2s}
 .lang-btn.active{background:#f39c12;color:#fff}
-.home-link{padding:8px 16px;border:1px solid #ddd;border-radius:8px;background:#fff;cursor:pointer;font-size:14px;text-decoration:none;color:#333;display:inline-block}
-.home-link:hover{background:#f5f5f5}
-.quiz-area{background:#fff;border-radius:16px;padding:24px;box-shadow:0 2px 12px rgba(0,0,0,.08)}
-.question-text{font-size:18px;line-height:1.8;margin-bottom:20px;font-weight:500}
-.options{display:flex;flex-direction:column;gap:10px}
-.option{padding:14px 16px;border:2px solid #e8e8e8;border-radius:10px;cursor:pointer;transition:.2s;font-size:16px;line-height:1.5}
-.option:hover{background:#fff8e1}
-.option.correct{border-color:#4caf50;background:#e8f5e9}
-.option.wrong{border-color:#f44336;background:#fce4ec}
-.option.disabled{pointer-events:none;opacity:.7}
-.explanation{margin-top:16px;padding:16px;background:#fff8e1;border-radius:10px;border-left:4px solid #f39c12;display:none}
-.explanation.show{display:block}
-.explanation p{font-size:14px;line-height:1.6}
-.btn{padding:12px 24px;border:none;border-radius:10px;font-size:16px;font-weight:600;cursor:pointer;transition:.2s;background:#f39c12;color:#fff}
-.btn:hover{opacity:.9}
-.btn-group{display:flex;gap:12px;margin-top:20px;justify-content:center}
-.progress{width:100%;height:6px;background:#e0e0e0;border-radius:3px;margin-bottom:16px;overflow:hidden}
-.progress-bar{height:100%;background:#f39c12;border-radius:3px;transition:.3s}
-.hidden{display:none}
-.stats-bar{display:flex;justify-content:space-around;background:#fff;border-radius:12px;padding:12px;margin-bottom:16px;box-shadow:0 2px 8px rgba(0,0,0,.08)}
-.stat{text-align:center}
-.stat-num{font-size:24px;font-weight:700;color:#f39c12}
-.stat-label{font-size:12px;color:#888}
-.q-num{font-size:14px;font-weight:600;color:#888;margin-bottom:8px}
-.ft{margin-top:30px;color:#888;font-size:.75rem;text-align:center}
-.prize-ladder{position:fixed;right:16px;top:50%;transform:translateY(-50%);background:#fff;border-radius:12px;padding:12px;box-shadow:0 2px 12px rgba(0,0,0,.1);font-size:13px;display:none}
-.prize-ladder .prize{padding:4px 8px;border-radius:6px;margin:2px 0;text-align:right}
-.prize-ladder .prize.current{background:#fff3cd;font-weight:700;color:#f39c12}
-.prize-ladder .prize.safe{color:#2e7d32}
-@media(min-width:1000px){.prize-ladder{display:block}}
+.sound-btn{padding:6px 12px;border:1px solid #f39c12;border-radius:20px;background:transparent;cursor:pointer;font-size:12px;color:#f39c12}
+/* Prize Ladder */
+.ladder{position:fixed;right:8px;top:50%;transform:translateY(-50%);background:rgba(0,0,40,.9);border:2px solid #f39c12;border-radius:12px;padding:10px;font-size:12px;z-index:10;display:none}
+.ladder.on{display:block}
+.lp{padding:3px 8px;border-radius:4px;margin:1px 0;text-align:right;transition:.3s;font-weight:600}
+.lp.cur{background:#f39c12;color:#000;font-size:14px}
+.lp.safe{color:#4caf50}
+.lp.passed{color:rgba(255,255,255,.3)}
+/* Main area */
+.main{display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:80vh;text-align:center}
+.q-box{background:linear-gradient(135deg,#1a1a4e,#0d0d3d);border:2px solid #f39c12;border-radius:20px;padding:30px 24px;margin:20px 0;max-width:700px;width:100%}
+.q-num{font-size:14px;color:#f39c12;margin-bottom:12px;font-weight:600}
+.q-text{font-size:20px;line-height:1.8;font-weight:500;margin-bottom:24px}
+/* Options */
+.opts{display:grid;grid-template-columns:1fr 1fr;gap:12px;max-width:700px;width:100%}
+.opt{padding:14px 16px;border:2px solid rgba(255,255,255,.2);border-radius:10px;cursor:pointer;font-size:16px;line-height:1.5;background:rgba(255,255,255,.05);color:#fff;transition:.3s;text-align:left}
+.opt:hover{border-color:#f39c12;background:rgba(243,156,18,.1)}
+.opt.sel{border-color:#f39c12;background:rgba(243,156,18,.2);animation:pulse 1.5s infinite}
+@keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(243,156,18,.4)}50%{box-shadow:0 0 20px 5px rgba(243,156,18,.2)}}
+.opt.correct{border-color:#4caf50;background:rgba(76,175,80,.3)}
+.opt.wrong{border-color:#f44336;background:rgba(244,67,54,.3)}
+.opt.elim{opacity:.15;pointer-events:none}
+.opt.disabled{pointer-events:none}
+/* Lifelines */
+.ll-bar{display:flex;gap:16px;margin:20px 0;justify-content:center}
+.ll{width:56px;height:56px;border-radius:50%;border:2px solid #f39c12;background:rgba(243,156,18,.1);cursor:pointer;font-size:24px;display:flex;align-items:center;justify-content:center;transition:.3s;color:#f39c12}
+.ll:hover:not(.used){background:rgba(243,156,18,.3);transform:scale(1.1)}
+.ll.used{opacity:.3;cursor:default;border-color:#666}
+/* Walk away */
+.walk-btn{padding:10px 28px;border:2px solid #f39c12;border-radius:10px;background:transparent;cursor:pointer;font-size:16px;color:#f39c12;font-weight:600;transition:.2s}
+.walk-btn:hover{background:rgba(243,156,18,.2)}
+/* Buttons */
+.btn{padding:14px 36px;border:none;border-radius:12px;font-size:18px;font-weight:700;cursor:pointer;transition:.2s;background:linear-gradient(135deg,#f39c12,#e67e22);color:#fff}
+.btn:hover{transform:scale(1.05)}
+/* Overlay */
+.overlay{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.85);display:flex;align-items:center;justify-content:center;z-index:100}
+.overlay.hidden{display:none}
+.overlay-box{background:#1a1a4e;border:2px solid #f39c12;border-radius:20px;padding:30px;max-width:500px;width:90%;text-align:center}
+.overlay-title{font-size:22px;font-weight:700;color:#f39c12;margin-bottom:16px}
+.overlay-text{font-size:16px;line-height:1.8;color:#ccc;margin-bottom:20px}
+/* Explanation */
+.expl{margin-top:16px;padding:16px;background:rgba(243,156,18,.1);border-radius:10px;border-left:4px solid #f39c12;display:none;text-align:left}
+.expl.show{display:block}
+.expl p{font-size:14px;line-height:1.6;color:#ccc}
+/* Progress */
+.prog{width:100%;height:4px;background:rgba(255,255,255,.1);border-radius:2px;margin-bottom:16px;overflow:hidden}
+.prog-bar{height:100%;background:#f39c12;border-radius:2px;transition:.5s}
+/* Result */
+.result-emoji{font-size:100px;margin:20px 0}
+.result-title{font-size:28px;font-weight:700;color:#f39c12;margin-bottom:8px}
+.result-text{font-size:18px;color:#ccc;margin-bottom:24px}
+/* Audience chart */
+.audience{display:flex;align-items:flex-end;gap:12px;justify-content:center;height:120px;margin:16px 0}
+.aud-bar{width:50px;border-radius:4px 4px 0 0;transition:.5s;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;padding-bottom:4px}
+.aud-bar span{font-size:11px;font-weight:700;color:#fff;margin-bottom:4px}
+.aud-label{font-size:12px;color:#aaa;margin-top:4px}
+/* Phone friend */
+.friend-box{background:rgba(255,255,255,.05);border-radius:12px;padding:20px;margin:12px 0;text-align:left}
+.friend-name{font-size:16px;font-weight:700;color:#f39c12;margin-bottom:8px}
+.friend-answer{font-size:15px;color:#ccc;line-height:1.6}
+.ft{margin-top:30px;color:rgba(255,255,255,.3);font-size:.75rem;text-align:center}
+/* Confetti */
+.confetti{position:fixed;top:-10px;font-size:24px;animation:fall linear forwards;z-index:200;pointer-events:none}
+@keyframes fall{to{top:110vh;transform:rotate(720deg)}}
 </style>
 </head>
 <body>
-<div class="container">
+<div class="c">
 <div class="top-bar">
 <a class="home-link" href="../../" data-zh="← 返回主頁" data-en="← Home">← 返回主頁</a>
 <div style="display:flex;gap:8px;align-items:center">
-<button id="soundBtn" onclick="toggleSound()" style="padding:6px 12px;border:1px solid #f39c12;border-radius:20px;background:#fff;cursor:pointer;font-size:12px;color:#f39c12" data-zh="🔊 音效開" data-en="🔊 Sound On">🔊 音效開</button>
-<div class="lang-toggle">
+<button class="sound-btn" id="soundBtn" onclick="toggleSound()">🔊</button>
 <button class="lang-btn active" onclick="setLang('zh')">中文</button>
 <button class="lang-btn" onclick="setLang('en')">EN</button>
 </div>
 </div>
-</div>
-
-<div class="header">
-<h1>💰 <span data-zh="百萬富翁" data-en="Millionaire">百萬富翁</span></h1>
-<p data-zh="Who Wants to Be a Millionaire?" data-en="Who Wants to Be a Millionaire?">Who Wants to Be a Millionaire?</p>
-</div>
-
-<div class="stats-bar">
-<div class="stat"><div class="stat-num" id="totalQ">0</div><div class="stat-label" data-zh="總題數" data-en="Total">總題數</div></div>
-<div class="stat"><div class="stat-num" id="doneQ">0</div><div class="stat-label" data-zh="已完成" data-en="Done">已完成</div></div>
-<div class="stat"><div class="stat-num" id="correctQ">0</div><div class="stat-label" data-zh="答對" data-en="Correct">答對</div></div>
-<div class="stat"><div class="stat-num" id="accuracy">0%</div><div class="stat-label" data-zh="正確率" data-en="Accuracy">正確率</div></div>
-</div>
 
 <!-- Start View -->
-<div id="startView" style="text-align:center;padding:30px 0">
-<div style="font-size:80px;margin-bottom:16px">💰</div>
-<h2 data-zh="百萬富翁問答" data-en="Millionaire Quiz">百萬富翁問答</h2>
-<p style="margin:16px 0;color:#666" data-zh="答對15條問題贏取百萬獎金！" data-en="Answer 15 questions to win a million!">答對15條問題贏取百萬獎金！</p>
-<button class="btn" onclick="startQuiz()" data-zh="開始遊戲" data-en="Start Game">開始遊戲</button>
+<div id="startView" class="main">
+<div style="font-size:120px;margin-bottom:20px">💰</div>
+<h1 style="font-size:32px;margin-bottom:8px" data-zh="百萬富翁" data-en="Who Wants to Be a Millionaire">百萬富翁</h1>
+<p style="font-size:16px;color:#aaa;margin-bottom:8px">Who Wants to Be a Millionaire?</p>
+<p style="font-size:14px;color:#888;margin-bottom:30px" data-zh="答對15條問題贏取$1,000,000！設有3個錦囊及2條保險綫" data-en="Answer 15 questions to win $1,000,000! 3 lifelines & 2 safety nets">答對15條問題贏取$1,000,000！設有3個錦囊及2條保險綫</p>
+<button class="btn" onclick="startGame()" data-zh="開始遊戲" data-en="Start Game">開始遊戲</button>
 </div>
 
 <!-- Quiz View -->
 <div id="quizView" class="hidden">
-<div class="progress"><div class="progress-bar" id="progressBar" style="width:0%"></div></div>
-<div class="quiz-area">
+<div class="prog"><div class="prog-bar" id="progBar" style="width:0%"></div></div>
+
+<!-- Lifelines -->
+<div class="ll-bar" id="lifelineBar">
+<div class="ll" id="ll50" onclick="use5050()" title="50:50">½</div>
+<div class="ll" id="llPhone" onclick="usePhone()" title="Phone a Friend">📞</div>
+<div class="ll" id="llAudience" onclick="useAudience()" title="Ask the Audience">👥</div>
+</div>
+
+<!-- Question -->
+<div class="q-box">
 <div class="q-num" id="qNum"></div>
-<div class="question-text" id="qText"></div>
-<div class="options" id="optionsDiv"></div>
-<div class="explanation" id="explanation"><p id="explanationText"></p></div>
-<div class="btn-group" id="btnGroup" style="display:none">
-<button class="btn" onclick="nextQuestion()" data-zh="下一題" data-en="Next">下一題</button>
+<div class="q-text" id="qText"></div>
 </div>
+
+<!-- Options -->
+<div class="opts" id="optsDiv"></div>
+
+<!-- Walk away & Next -->
+<div style="text-align:center;margin-top:20px">
+<button class="walk-btn" id="walkBtn" onclick="walkAway()" data-zh="放棄拿獎金" data-en="Walk Away">放棄拿獎金</button>
 </div>
+<div style="text-align:center;margin-top:16px;display:none" id="nextArea">
+<button class="btn" onclick="nextQ()" data-zh="下一題" data-en="Next Question">下一題</button>
+</div>
+
+<!-- Explanation -->
+<div class="expl" id="explDiv"><p id="explText"></p></div>
 </div>
 
 <!-- Result View -->
-<div id="resultView" class="hidden" style="text-align:center;padding:40px 0">
-<div id="resultEmoji" style="font-size:80px;margin-bottom:16px">🎉</div>
-<h2 id="resultTitle"></h2>
-<p id="resultText" style="font-size:18px;margin:16px 0;color:#666"></p>
-<div class="btn-group">
-<button class="btn" onclick="startQuiz()" style="background:#27ae60" data-zh="再玩一次" data-en="Play Again">再玩一次</button>
-</div>
+<div id="resultView" class="hidden main">
+<div class="result-emoji" id="resEmoji">🏆</div>
+<div class="result-title" id="resTitle"></div>
+<div class="result-text" id="resText"></div>
+<button class="btn" onclick="startGame()" data-zh="再玩一次" data-en="Play Again">再玩一次</button>
 </div>
 
 <div class="ft">© 2026 Uncle Bruce Institute 大B舅父教室</div>
 </div>
 
-<div class="prize-ladder" id="prizeLadder">
-<div style="text-align:center;font-weight:700;margin-bottom:8px;color:#f39c12">💰 獎金</div>
-<div class="prize" data-q="15">$1,000,000</div>
-<div class="prize" data-q="14">$500,000</div>
-<div class="prize" data-q="13">$250,000</div>
-<div class="prize" data-q="12">$125,000</div>
-<div class="prize" data-q="11">$64,000</div>
-<div class="prize" data-q="10">$32,000</div>
-<div class="prize safe" data-q="9">$16,000</div>
-<div class="prize" data-q="8">$8,000</div>
-<div class="prize" data-q="7">$4,000</div>
-<div class="prize" data-q="6">$2,000</div>
-<div class="prize safe" data-q="5">$1,000</div>
-<div class="prize" data-q="4">$500</div>
-<div class="prize" data-q="3">$300</div>
-<div class="prize" data-q="2">$200</div>
-<div class="prize" data-q="1">$100</div>
+<!-- Prize Ladder -->
+<div class="ladder" id="ladder">
+<div style="text-align:center;font-weight:700;margin-bottom:6px;color:#f39c12;font-size:13px">💰 獎金</div>
+<div class="lp" data-q="15">$1,000,000</div>
+<div class="lp" data-q="14">$500,000</div>
+<div class="lp" data-q="13">$250,000</div>
+<div class="lp" data-q="12">$125,000</div>
+<div class="lp" data-q="11">$64,000</div>
+<div class="lp" data-q="10">$32,000</div>
+<div class="lp safe" data-q="9">$16,000</div>
+<div class="lp" data-q="8">$8,000</div>
+<div class="lp" data-q="7">$4,000</div>
+<div class="lp" data-q="6">$2,000</div>
+<div class="lp safe" data-q="5">$1,000</div>
+<div class="lp" data-q="4">$500</div>
+<div class="lp" data-q="3">$300</div>
+<div class="lp" data-q="2">$200</div>
+<div class="lp" data-q="1">$100</div>
+</div>
+
+<!-- Overlay for lifelines -->
+<div class="overlay hidden" id="overlay" onclick="closeOverlay()">
+<div class="overlay-box" onclick="event.stopPropagation()">
+<div class="overlay-title" id="overlayTitle"></div>
+<div id="overlayContent"></div>
+<button class="btn" onclick="closeOverlay()" style="font-size:14px;padding:10px 24px" data-zh="確定" data-en="OK">確定</button>
+</div>
+</div>
+
+<!-- Confirm walk away -->
+<div class="overlay hidden" id="walkOverlay">
+<div class="overlay-box">
+<div class="overlay-title" data-zh="確定放棄？" data-en="Walk Away?">確定放棄？</div>
+<div class="overlay-text" id="walkText"></div>
+<div style="display:flex;gap:12px;justify-content:center">
+<button class="btn" onclick="confirmWalk()" style="background:#4caf50" data-zh="確定放棄" data-en="Walk Away">確定放棄</button>
+<button class="btn" onclick="cancelWalk()" style="background:#f44336" data-zh="繼續作答" data-en="Continue">繼續作答</button>
+</div>
+</div>
 </div>
 
 <script>
@@ -131,7 +188,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK
 const AudioCtx=window.AudioContext||window.webkitAudioContext;
 let audioCtx=null;
 function ensureAudio(){if(!audioCtx)audioCtx=new AudioCtx();return audioCtx}
-
 function playTone(freq,dur,type='sine',vol=0.3,delay=0){
 const c=ensureAudio();const o=c.createOscillator();const g=c.createGain();
 o.type=type;o.frequency.value=freq;g.gain.value=vol;
@@ -139,216 +195,250 @@ g.gain.setValueAtTime(vol,c.currentTime+delay);
 g.gain.exponentialRampToValueAtTime(0.001,c.currentTime+delay+dur);
 o.connect(g);g.connect(c.destination);o.start(c.currentTime+delay);o.stop(c.currentTime+delay+dur);
 }
-
-const SFX={
-// 遊戲開始 - 經典百萬富翁開場漸升音效
-start(){const t=ensureAudio().currentTime;
-[261,293,329,349,392,440,493,523,587,659,698,784,880,987,1046].forEach((f,i)=>{
-playTone(f,0.4,'sine',0.25,i*0.15);
-playTone(f*1.5,0.3,'triangle',0.1,i*0.15+0.05);
-});
-playTone(1046,1.5,'sine',0.3,15*0.15);
-playTone(1046*1.5,1.2,'triangle',0.15,15*0.15+0.1);
-},
-
-// 下一題切入音效
-next(){
-playTone(600,0.08,'square',0.15,0);
-playTone(900,0.08,'square',0.15,0.08);
-playTone(1200,0.15,'sine',0.2,0.16);
-},
-
-// 倒數計時音效 (tick-tock)
-tick(){playTone(800,0.05,'square',0.12,0);playTone(600,0.05,'square',0.08,0.5)},
-
-// 答對音效 - 歡樂上升和弦
-correct(){
-playTone(523,0.2,'sine',0.25,0);
-playTone(659,0.2,'sine',0.25,0.1);
-playTone(784,0.2,'sine',0.25,0.2);
-playTone(1046,0.5,'sine',0.3,0.3);
-playTone(1046*1.25,0.4,'triangle',0.12,0.35);
-},
-
-// 答錯音效 - 下降失敗音
-wrong(){
-playTone(400,0.3,'sawtooth',0.2,0);
-playTone(300,0.3,'sawtooth',0.2,0.2);
-playTone(200,0.6,'sawtooth',0.25,0.4);
-},
-
-// 過保險綫音效 - 慶祝上升音
-safe(){
-[523,659,784,1046,1318].forEach((f,i)=>playTone(f,0.25,'sine',0.2,i*0.12));
-playTone(1318,0.8,'sine',0.3,0.6);
-playTone(1318*1.5,0.6,'triangle',0.12,0.7);
-},
-
-// 全中一百萬 - 盛大勝利音樂
-million(){
-const notes=[523,587,659,698,784,880,987,1046,1174,1318,1396,1567,1760,1975,2093];
-notes.forEach((f,i)=>{
-playTone(f,0.5,'sine',0.2,i*0.1);
-playTone(f*0.5,0.4,'triangle',0.08,i*0.1+0.05);
-playTone(f*2,0.3,'sine',0.06,i*0.1+0.1);
-});
-setTimeout(()=>{
-[1046,1318,1567,2093].forEach((f,i)=>playTone(f,1.5,'sine',0.25,i*0.2));
-playTone(2093,3,'sine',0.3,0.8);
-},2000);
-},
-
-// 50:50 生命線音效
-fiftyFifty(){
-playTone(800,0.1,'sine',0.2,0);
-playTone(600,0.1,'sine',0.2,0.1);
-playTone(400,0.2,'sine',0.15,0.2);
-}
+let soundOn=true;
+function toggleSound(){soundOn=!soundOn;document.getElementById('soundBtn').textContent=soundOn?'🔊':'🔇'}
+const _SFX={
+start(){[261,293,329,349,392,440,493,523,587,659,698,784,880,987,1046].forEach((f,i)=>{playTone(f,0.4,'sine',0.25,i*0.15);playTone(f*1.5,0.3,'triangle',0.1,i*0.15+0.05)});playTone(1046,1.5,'sine',0.3,2.25);playTone(1569,1.2,'triangle',0.15,2.35)},
+next(){playTone(600,0.08,'square',0.15);playTone(900,0.08,'square',0.15,0.08);playTone(1200,0.15,'sine',0.2,0.16)},
+correct(){playTone(523,0.2,'sine',0.25);playTone(659,0.2,'sine',0.25,0.1);playTone(784,0.2,'sine',0.25,0.2);playTone(1046,0.5,'sine',0.3,0.3)},
+wrong(){playTone(400,0.3,'sawtooth',0.2);playTone(300,0.3,'sawtooth',0.2,0.2);playTone(200,0.6,'sawtooth',0.25,0.4)},
+safe(){[523,659,784,1046,1318].forEach((f,i)=>playTone(f,0.25,'sine',0.2,i*0.12));playTone(1318,0.8,'sine',0.3,0.6)},
+million(){const ns=[523,587,659,698,784,880,987,1046,1174,1318,1396,1567,1760,1975,2093];ns.forEach((f,i)=>{playTone(f,0.5,'sine',0.2,i*0.1);playTone(f*0.5,0.4,'triangle',0.08,i*0.1+0.05)});setTimeout(()=>{[1046,1318,1567,2093].forEach((f,i)=>playTone(f,1.5,'sine',0.25,i*0.2));playTone(2093,3,'sine',0.3,0.8)},2000)},
+tick(){playTone(800,0.05,'square',0.1);playTone(600,0.05,'square',0.06,0.5)},
+elim(){playTone(400,0.08,'square',0.12);playTone(300,0.08,'square',0.12,0.08);playTone(200,0.15,'sine',0.15,0.16)},
+phone(){playTone(440,0.15,'sine',0.2);playTone(440,0.15,'sine',0.2,0.3);playTone(440,0.15,'sine',0.2,0.6)},
+audience(){playTone(300,0.2,'sine',0.15);playTone(500,0.2,'sine',0.15,0.1);playTone(700,0.3,'sine',0.2,0.2)}
 };
+const SFX={};
+for(const k in _SFX)SFX[k]=function(){if(soundOn)_SFX[k].apply(this,arguments)};
 
-let questions=[],currentQ=0,correct=0,answered=0,lang='zh';
+// ===== Game State =====
+let questions=[],curQ=0,correct=0,answered=0,lang='zh';
+let used50=false,usedPhone=false,usedAudience=false;
+let eliminatedOpts=[],walkedAway=false;
 const prizes=[0,100,200,300,500,1000,2000,4000,8000,16000,32000,64000,125000,250000,500000,1000000];
+const safeLines=[5,10]; // Q5=$1000, Q10=$32000
+const friendNames=['陳大文','李小明','張老師','王博士','黃律師','林教授','劉醫生','趙工程師'];
+const friendConfidence=['我好肯定','我幾肯定','我估計','我唔太肯定','我完全唔知'];
 
-async function loadQuestions(){
-try{
-const resp=await fetch('topics/millionaire.json');
-questions=await resp.json();
-document.getElementById('totalQ').textContent=questions.length;
-}catch(e){console.error('Load failed:',e)}
+async function loadQ(){
+try{const r=await fetch('topics/millionaire.json');questions=await r.json();document.getElementById('totalQ').textContent=questions.length}catch(e){console.error(e)}
 }
 
-async function startQuiz(){
-await loadQuestions();
+async function startGame(){
+await loadQ();
 shuffle(questions);
-currentQ=0;correct=0;answered=0;
-updateStats();
-document.getElementById('startView').classList.add('hidden');
-document.getElementById('quizView').classList.remove('hidden');
-document.getElementById('resultView').classList.add('hidden');
-document.getElementById('prizeLadder').style.display='';
+curQ=0;correct=0;answered=0;used50=false;usedPhone=false;usedAudience=false;walkedAway=false;
+showView('quizView');
 SFX.start();
-setTimeout(()=>showQuestion(),2500);
+setTimeout(()=>{showQ();document.getElementById('ladder').classList.add('on')},2800);
 }
 
-function showQuestion(){
-if(currentQ>=questions.length||currentQ>=15){showResult();return}
-const q=questions[currentQ];
-const qKey=lang==='zh'?'question_zh':'question_en';
-const oKey=lang==='zh'?'options_zh':'options_en';
-const eKey=lang==='zh'?'explanation_zh':'explanation_en';
-document.getElementById('qNum').textContent=`第 ${currentQ+1} 題 / 獎金 $${prizes[currentQ+1].toLocaleString()}`;
-document.getElementById('qText').textContent=q[qKey]||q.question_zh||'';
-document.getElementById('progressBar').style.width=`${(currentQ/15)*100}%`;
-const opts=q[oKey]||q.options_zh||[];
-const labels=['A','B','C','D'];
-const div=document.getElementById('optionsDiv');
+function showQ(){
+if(curQ>=questions.length||curQ>=15){endGame();return}
+const q=questions[curQ];
+eliminatedOpts=[];
+const qk=lang==='zh'?'question_zh':'question_en';
+const ok=lang==='zh'?'options_zh':'options_en';
+document.getElementById('qNum').textContent=`第 ${curQ+1} 題 / $${prizes[curQ+1].toLocaleString()}`;
+document.getElementById('qText').textContent=q[qk]||q.question_zh||'';
+document.getElementById('progBar').style.width=`${(curQ/15)*100}%`;
+document.getElementById('explDiv').classList.remove('show');
+document.getElementById('nextArea').style.display='none';
+document.getElementById('walkBtn').style.display='inline-block';
+// Reset lifeline UI
+document.getElementById('ll50').classList.toggle('used',used50);
+document.getElementById('llPhone').classList.toggle('used',usedPhone);
+document.getElementById('llAudience').classList.toggle('used',usedAudience);
+// Render options
+const opts=q[ok]||q.options_zh||[];
+const div=document.getElementById('optsDiv');
 div.innerHTML='';
+const labels=['A','B','C','D'];
 opts.forEach((o,i)=>{
 const el=document.createElement('div');
-el.className='option';
-el.textContent=`${labels[i]}. ${o}`;
-el.onclick=()=>checkAnswer(i,q);
+el.className='opt';
+el.id='opt'+i;
+el.innerHTML=`<span style="color:#f39c12;font-weight:700;margin-right:8px">${labels[i]}.</span>${o}`;
+el.onclick=()=>lockAnswer(i,q);
 div.appendChild(el);
 });
-document.getElementById('explanation').classList.remove('show');
-document.getElementById('btnGroup').style.display='none';
-updatePrizeLadder();
+updateLadder();
 }
 
-function checkAnswer(idx,q){
+function lockAnswer(idx,q){
 answered++;
-const opts=document.querySelectorAll('.option');
-opts.forEach(o=>o.classList.add('disabled'));
-const correctIdx=q.answer;
-if(idx===correctIdx){
-opts[correctIdx].classList.add('correct');
-opts[correctIdx].innerHTML+=' ✅';
+SFX.tick();
+// Disable all options
+document.querySelectorAll('.opt').forEach(o=>o.classList.add('disabled'));
+document.getElementById('walkBtn').style.display='none';
+// Select animation
+const sel=document.getElementById('opt'+idx);
+sel.classList.add('sel');
+// Dramatic pause then reveal
+setTimeout(()=>{
+sel.classList.remove('sel');
+const ci=q.answer;
+if(idx===ci){
+document.getElementById('opt'+ci).classList.add('correct');
+document.getElementById('opt'+ci).innerHTML+=' ✅';
 correct++;
 SFX.correct();
-// 過保險綫 ($1000=#5, $16000=#9)
-if(correct===5||correct===9)setTimeout(()=>SFX.safe(),800);
+// Safety net check
+if(safeLines.includes(correct))setTimeout(()=>SFX.safe(),600);
+// Show explanation
+const ek=lang==='zh'?'explanation_zh':'explanation_en';
+document.getElementById('explText').textContent=q[ek]||q.explanation_zh||'';
+document.getElementById('explDiv').classList.add('show');
+document.getElementById('nextArea').style.display='block';
 }else{
-opts[idx].classList.add('wrong');
-opts[idx].innerHTML+=' ❌';
-opts[correctIdx].classList.add('correct');
-opts[correctIdx].innerHTML+=' ✅';
+document.getElementById('opt'+idx).classList.add('wrong');
+document.getElementById('opt'+idx).innerHTML+=' ❌';
+document.getElementById('opt'+ci).classList.add('correct');
+document.getElementById('opt'+ci).innerHTML+=' ✅';
 SFX.wrong();
+const ek=lang==='zh'?'explanation_zh':'explanation_en';
+document.getElementById('explText').textContent=q[ek]||q.explanation_zh||'';
+document.getElementById('explDiv').classList.add('show');
+setTimeout(()=>endGame(),2500);
 }
-const eKey=lang==='zh'?'explanation_zh':'explanation_en';
-document.getElementById('explanationText').textContent=q[eKey]||q.explanation_zh||'';
-document.getElementById('explanation').classList.add('show');
-document.getElementById('btnGroup').style.display='flex';
 updateStats();
+},2000);
 }
 
-function nextQuestion(){
-currentQ++;
+function nextQ(){
+curQ++;
 SFX.next();
-setTimeout(()=>showQuestion(),300);
+showQ();
 }
 
-function showResult(){
-document.getElementById('quizView').classList.add('hidden');
-document.getElementById('resultView').classList.remove('hidden');
-const prize=prizes[correct]||0;
-document.getElementById('resultTitle').textContent=`答對 ${correct} 題 — 獎金 $${prize.toLocaleString()}`;
-if(correct>=15){
-document.getElementById('resultEmoji').textContent='🏆';
-document.getElementById('resultText').textContent='恭喜！你係百萬富翁！';
-SFX.million();
+// ===== Walk Away =====
+function walkAway(){
+const safePrize=getSafePrize();
+document.getElementById('walkText').textContent=
+lang==='zh'?`你將帶走 $${safePrize.toLocaleString()}！`:`You will take home $${safePrize.toLocaleString()}!`;
+document.getElementById('walkOverlay').classList.remove('hidden');
+}
+function confirmWalk(){walkedAway=true;document.getElementById('walkOverlay').classList.add('hidden');endGame()}
+function cancelWalk(){document.getElementById('walkOverlay').classList.add('hidden')}
+function getSafePrize(){
+if(correct>=10)return prizes[10]; // $32,000
+if(correct>=5)return prizes[5]; // $1,000
+return prizes[correct]||0;
+}
+
+// ===== End Game =====
+function endGame(){
+document.getElementById('ladder').classList.remove('hidden');
+let prize;
+if(walkedAway){prize=getSafePrize()}
+else if(correct>=15){prize=1000000}
+else if(correct>=10){prize=safeLines.includes(10)?prizes[10]:prizes[correct]}
+else if(correct>=5){prize=safeLines.includes(5)?prizes[5]:prizes[correct]}
+else{prize=prizes[correct]||0}
+document.getElementById('resTitle').textContent=
+lang==='zh'?`答對 ${correct} 題 — 獎金 $${prize.toLocaleString()}`:`${correct} correct — Prize $${prize.toLocaleString()}`;
+if(correct>=15&&!walkedAway){
+document.getElementById('resEmoji').textContent='🏆';
+document.getElementById('resText').textContent=lang==='zh'?'🎉 恭喜！你係百萬富翁！':'🎉 Congratulations! You are a MILLIONAIRE!';
+SFX.million();confetti();
+}else if(walkedAway){
+document.getElementById('resEmoji').textContent='💰';
+document.getElementById('resText').textContent=lang==='zh'?`明智放棄！帶走 $${prize.toLocaleString()}`:`Smart walk away! $${prize.toLocaleString()} taken.`;
+SFX.safe();
 }else if(correct>=10){
-document.getElementById('resultEmoji').textContent='🎉';
-document.getElementById('resultText').textContent='好犀利！差啲就贏到百萬！';
+document.getElementById('resEmoji').textContent='🎉';
+document.getElementById('resText').textContent=lang==='zh'?'好犀利！過咗第二條保險綫！':'Amazing! Passed the 2nd safety net!';
 SFX.safe();
 }else if(correct>=5){
-document.getElementById('resultEmoji').textContent='👍';
-document.getElementById('resultText').textContent='唔錯！繼續努力！';
+document.getElementById('resEmoji').textContent='👍';
+document.getElementById('resText').textContent=lang==='zh'?'唔錯！過咗第一條保險綫！':'Nice! Passed the 1st safety net!';
+SFX.safe();
 }else{
-document.getElementById('resultEmoji').textContent='😅';
-document.getElementById('resultText').textContent='再接再厲！';
+document.getElementById('resEmoji').textContent='😅';
+document.getElementById('resText').textContent=lang==='zh'?'再接再厲！':'Better luck next time!';
 SFX.wrong();
 }
-document.getElementById('prizeLadder').style.display='none';
+showView('resultView');
 }
 
-function updateStats(){
-document.getElementById('doneQ').textContent=answered;
-document.getElementById('correctQ').textContent=correct;
-document.getElementById('accuracy').textContent=answered?Math.round(correct/answered*100)+'%':'0%';
+// ===== Lifelines =====
+function use5050(){
+if(used50||curQ>=questions.length)return;
+used50=true;SFX.elim();
+document.getElementById('ll50').classList.add('used');
+const q=questions[curQ];const ci=q.answer;
+const wrongs=[0,1,2,3].filter(i=>i!==ci);
+shuffle(wrongs);
+const toElim=wrongs.slice(0,2);
+eliminatedOpts=toElim;
+toElim.forEach(i=>{const el=document.getElementById('opt'+i);if(el){el.classList.add('elim')}});
 }
 
-function updatePrizeLadder(){
-document.querySelectorAll('.prize').forEach(el=>{
-const q=parseInt(el.dataset.q);
-el.classList.toggle('current',q===currentQ+1);
+function usePhone(){
+if(usedPhone||curQ>=questions.length)return;
+usedPhone=true;SFX.phone();
+document.getElementById('llPhone').classList.add('used');
+const q=questions[curQ];const ci=q.answer;
+const ok=lang==='zh'?'options_zh':'options_en';
+const opts=q[ok]||q.options_zh||[];
+const labels=['A','B','C','D'];
+const name=friendNames[Math.floor(Math.random()*friendNames.length)];
+const conf=friendConfidence[Math.floor(Math.random()*friendConfidence.length)];
+// 80% chance friend gives correct answer
+const isCorrect=Math.random()<0.8;
+const ansIdx=isCorrect?ci:([0,1,2,3].filter(i=>i!==ci)[Math.floor(Math.random()*3)]);
+const msg=lang==='zh'
+?`${name}話：「${conf}，我覺得係 ${labels[ansIdx]}：${opts[ansIdx]}」`
+:`${name} says: "${conf}, I think it's ${labels[ansIdx]}: ${opts[ansIdx]}"`;
+document.getElementById('overlayTitle').textContent=lang==='zh'?'📞 打電話問朋友':'📞 Phone a Friend';
+document.getElementById('overlayContent').innerHTML=`<div class="friend-box"><div class="friend-name">📞 ${name}</div><div class="friend-answer">${msg}</div></div>`;
+document.getElementById('overlay').classList.remove('hidden');
+}
+
+function useAudience(){
+if(usedAudience||curQ>=questions.length)return;
+usedAudience=true;SFX.audience();
+document.getElementById('llAudience').classList.add('used');
+const q=questions[curQ];const ci=q.answer;
+// Generate audience percentages (biased toward correct)
+let pcts=[0,0,0,0];
+const correctPct=40+Math.floor(Math.random()*30); // 40-69%
+pcts[ci]=correctPct;
+let remaining=100-correctPct;
+[0,1,2,3].filter(i=>i!==ci).forEach((i,idx,arr)=>{
+if(idx===arr.length-1)pcts[i]=remaining;
+else{const p=Math.floor(Math.random()*remaining*0.7);pcts[i]=p;remaining-=p;}
 });
+const colors=['#e74c3c','#3498db','#2ecc71','#f1c40f'];
+const labels=['A','B','C','D'];
+let bars='';
+pcts.forEach((p,i)=>{
+bars+=`<div style="text-align:center"><div class="aud-bar" style="height:${Math.max(p*1.2,10)}px;background:${colors[i]}"><span>${p}%</span></div><div class="aud-label">${labels[i]}</div></div>`;
+});
+document.getElementById('overlayTitle').textContent=lang==='zh'?'👥 問現場觀眾':'👥 Ask the Audience';
+document.getElementById('overlayContent').innerHTML=`<div class="audience">${bars}</div>`;
+document.getElementById('overlay').classList.remove('hidden');
 }
 
-function shuffle(arr){for(let i=arr.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[arr[i],arr[j]]=[arr[j],arr[i]]}}
+function closeOverlay(){document.getElementById('overlay').classList.add('hidden')}
 
-let soundOn=true;
-function toggleSound(){
-soundOn=!soundOn;
-const btn=document.getElementById('soundBtn');
-if(soundOn){btn.textContent=lang==='zh'?'🔊 音效開':'🔊 Sound On';btn.style.borderColor='#f39c12';btn.style.color='#f39c12'}
-else{btn.textContent=lang==='zh'?'🔇 音效關':'🔇 Sound Off';btn.style.borderColor='#999';btn.style.color='#999'}
-}
-// Wrap SFX to respect mute
-const _origSFX={};for(const k in SFX){_origSFX[k]=SFX[k];SFX[k]=function(){if(soundOn)_origSFX[k].apply(this,arguments)}}
+// ===== Helpers =====
+function showView(id){['startView','quizView','resultView'].forEach(v=>document.getElementById(v).classList.toggle('hidden',v!==id))}
+function updateStats(){document.getElementById('doneQ').textContent=answered;document.getElementById('correctQ').textContent=correct;document.getElementById('accuracy').textContent=answered?Math.round(correct/answered*100)+'%':'0%'}
+function updateLadder(){document.querySelectorAll('.lp').forEach(el=>{const q=parseInt(el.dataset.q);el.classList.toggle('cur',q===curQ+1);el.classList.toggle('passed',q<=curQ)})}
+function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}}
+function confetti(){for(let i=0;i<50;i++){const e=document.createElement('div');e.className='confetti';e.textContent=['💰','🎉','⭐','🏆','💎'][Math.floor(Math.random()*5)];e.style.left=Math.random()*100+'%';e.style.animationDuration=(2+Math.random()*3)+'s';e.style.animationDelay=Math.random()*2+'s';document.body.appendChild(e);setTimeout(()=>e.remove(),6000)}}
 
 function setLang(l){
 lang=l;
-document.querySelectorAll('[data-zh]').forEach(el=>{el.textContent=el.getAttribute('data-'+l)});
+document.querySelectorAll('[data-zh]').forEach(el=>{const t=el.getAttribute('data-'+l);if(t)el.textContent=t});
 document.querySelectorAll('.lang-btn').forEach(b=>b.classList.remove('active'));
 document.querySelector(`.lang-btn[onclick*="${l}"]`).classList.add('active');
-if(!document.getElementById('quizView').classList.contains('hidden'))showQuestion();
+if(!document.getElementById('quizView').classList.contains('hidden'))showQ();
 }
 
-loadQuestions();
+loadQ();
 </script>
-<!-- 上一頁 button -->
-<div style="text-align:center;padding:20px 16px 40px">
-  <button onclick="window.history.back()" style="padding:12px 32px;border:2px solid #e0e0e0;border-radius:10px;background:#fff;cursor:pointer;font-size:15px;color:#555" data-zh="← 上一頁" data-en="← Previous Page">← 上一頁</button>
-</div>
 </body>
 </html>
