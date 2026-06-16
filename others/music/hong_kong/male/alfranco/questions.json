@@ -1,65 +1,2102 @@
 [
   {
     "id": 1,
-    "question_zh": "林奕匡出道嘅年份係？",
-    "question_en": "When did Phil Lam debut?",
+    "question_zh": "以下邊首係林奕匡嘅歌？",
+    "question_en": "Which is a song by Phil Lam?",
     "options_zh": [
-      "1990年代",
-      "2000年代",
-      "2010年代",
-      "2020年代"
+      "花灑",
+      "一雙手",
+      "安徒生的錯",
+      "高山低谷"
     ],
     "options_en": [
-      "1990年代",
-      "2000年代",
-      "2010年代",
-      "2020年代"
+      "花灑",
+      "一雙手",
+      "安徒生的錯",
+      "高山低谷"
     ],
-    "answer": 1,
-    "explanation_zh": "林奕匡喺2000年代出道。",
-    "explanation_en": "Phil Lam debuted in the 2000s.",
+    "answer": 3,
+    "explanation_zh": "「高山低谷」係林奕匡嘅歌曲。",
+    "explanation_en": "'高山低谷' is a song by Phil Lam.",
     "difficulty": 1
   },
   {
     "id": 2,
-    "question_zh": "林奕匡係邊個地方嘅歌手？",
-    "question_en": "Where is Phil Lam from?",
+    "question_zh": "以下邊首係林奕匡嘅歌？",
+    "question_en": "Which is a song by Phil Lam?",
     "options_zh": [
-      "香港",
-      "台灣",
-      "內地",
-      "海外"
+      "花灑",
+      "安徒生的錯",
+      "一雙手",
+      "高山低谷"
     ],
     "options_en": [
-      "香港",
-      "台灣",
-      "內地",
-      "海外"
+      "花灑",
+      "安徒生的錯",
+      "一雙手",
+      "高山低谷"
     ],
-    "answer": 0,
-    "explanation_zh": "林奕匡係香港歌手。",
-    "explanation_en": "Phil Lam is from Hong Kong.",
+    "answer": 2,
+    "explanation_zh": "「一雙手」係林奕匡嘅歌曲。",
+    "explanation_en": "'一雙手' is a song by Phil Lam.",
     "difficulty": 1
   },
   {
     "id": 3,
-    "question_zh": "以下邊首係林奕匡嘅代表作？",
-    "question_en": "Which is a representative song of Phil Lam?",
+    "question_zh": "以下邊首係林奕匡嘅歌？",
+    "question_en": "Which is a song by Phil Lam?",
     "options_zh": [
-      "歌曲A",
-      "歌曲B",
-      "歌曲C",
-      "歌曲D"
+      "花灑",
+      "安徒生的錯",
+      "一雙手",
+      "高山低谷"
     ],
     "options_en": [
-      "歌曲A",
-      "歌曲B",
-      "歌曲C",
-      "歌曲D"
+      "花灑",
+      "安徒生的錯",
+      "一雙手",
+      "高山低谷"
+    ],
+    "answer": 1,
+    "explanation_zh": "「安徒生的錯」係林奕匡嘅歌曲。",
+    "explanation_en": "'安徒生的錯' is a song by Phil Lam.",
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question_zh": "以下邊首係林奕匡嘅歌？",
+    "question_en": "Which is a song by Phil Lam?",
+    "options_zh": [
+      "花灑",
+      "安徒生的錯",
+      "高山低谷",
+      "一雙手"
+    ],
+    "options_en": [
+      "花灑",
+      "安徒生的錯",
+      "高山低谷",
+      "一雙手"
     ],
     "answer": 0,
-    "explanation_zh": "「歌曲A」係林奕匡嘅代表作之一。",
-    "explanation_en": "'Song A' is one of {artist_en}'s representative songs.",
+    "explanation_zh": "「花灑」係林奕匡嘅歌曲。",
+    "explanation_en": "'花灑' is a song by Phil Lam.",
     "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question_zh": "《3》係林奕匡喺邊年推出嘅專輯？",
+    "question_en": "What year was '3' by Phil Lam released?",
+    "options_zh": [
+      "1999",
+      "2015",
+      "2023",
+      "2020"
+    ],
+    "options_en": [
+      "1999",
+      "2015",
+      "2023",
+      "2020"
+    ],
+    "answer": 1,
+    "explanation_zh": "《3》喺2015年推出。",
+    "explanation_en": "'3' was released in 2015.",
+    "difficulty": 2
+  },
+  {
+    "id": 6,
+    "question_zh": "林奕匡大約喺邊年出道？",
+    "question_en": "When did Phil Lam approximately debut?",
+    "options_zh": [
+      "2011",
+      "2010",
+      "2005",
+      "1980"
+    ],
+    "options_en": [
+      "2011",
+      "2010",
+      "2005",
+      "1980"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡喺2011年出道。",
+    "explanation_en": "Phil Lam debuted around 2011.",
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question_zh": "林奕匡大約喺邊年出道？",
+    "question_en": "When did Phil Lam approximately debut?",
+    "options_zh": [
+      "1990",
+      "2011",
+      "2015",
+      "2000"
+    ],
+    "options_en": [
+      "1990",
+      "2011",
+      "2015",
+      "2000"
+    ],
+    "answer": 1,
+    "explanation_zh": "林奕匡喺2011年出道。",
+    "explanation_en": "Phil Lam debuted around 2011.",
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question_zh": "林奕匡大約喺邊年出道？",
+    "question_en": "When did Phil Lam approximately debut?",
+    "options_zh": [
+      "2005",
+      "2011",
+      "2020",
+      "1985"
+    ],
+    "options_en": [
+      "2005",
+      "2011",
+      "2020",
+      "1985"
+    ],
+    "answer": 1,
+    "explanation_zh": "林奕匡喺2011年出道。",
+    "explanation_en": "Phil Lam debuted around 2011.",
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question_zh": "林奕匡大約喺邊年出道？",
+    "question_en": "When did Phil Lam approximately debut?",
+    "options_zh": [
+      "1990",
+      "1995",
+      "2011",
+      "2005"
+    ],
+    "options_en": [
+      "1990",
+      "1995",
+      "2011",
+      "2005"
+    ],
+    "answer": 2,
+    "explanation_zh": "林奕匡喺2011年出道。",
+    "explanation_en": "Phil Lam debuted around 2011.",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question_zh": "林奕匡大約喺邊年出道？",
+    "question_en": "When did Phil Lam approximately debut?",
+    "options_zh": [
+      "1990",
+      "2011",
+      "1980",
+      "2005"
+    ],
+    "options_en": [
+      "1990",
+      "2011",
+      "1980",
+      "2005"
+    ],
+    "answer": 1,
+    "explanation_zh": "林奕匡喺2011年出道。",
+    "explanation_en": "Phil Lam debuted around 2011.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "林奕匡大約喺邊年出道？",
+    "question_en": "When did Phil Lam approximately debut?",
+    "options_zh": [
+      "1985",
+      "2011",
+      "2005",
+      "2010"
+    ],
+    "options_en": [
+      "1985",
+      "2011",
+      "2005",
+      "2010"
+    ],
+    "answer": 1,
+    "explanation_zh": "林奕匡喺2011年出道。",
+    "explanation_en": "Phil Lam debuted around 2011.",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question_zh": "林奕匡大約喺邊年出道？",
+    "question_en": "When did Phil Lam approximately debut?",
+    "options_zh": [
+      "1990",
+      "2011",
+      "2010",
+      "1995"
+    ],
+    "options_en": [
+      "1990",
+      "2011",
+      "2010",
+      "1995"
+    ],
+    "answer": 1,
+    "explanation_zh": "林奕匡喺2011年出道。",
+    "explanation_en": "Phil Lam debuted around 2011.",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_zh": "林奕匡大約喺邊年出道？",
+    "question_en": "When did Phil Lam approximately debut?",
+    "options_zh": [
+      "1990",
+      "2011",
+      "2005",
+      "2010"
+    ],
+    "options_en": [
+      "1990",
+      "2011",
+      "2005",
+      "2010"
+    ],
+    "answer": 1,
+    "explanation_zh": "林奕匡喺2011年出道。",
+    "explanation_en": "Phil Lam debuted around 2011.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "林奕匡大約喺邊年出道？",
+    "question_en": "When did Phil Lam approximately debut?",
+    "options_zh": [
+      "1990",
+      "2010",
+      "2000",
+      "2011"
+    ],
+    "options_en": [
+      "1990",
+      "2010",
+      "2000",
+      "2011"
+    ],
+    "answer": 3,
+    "explanation_zh": "林奕匡喺2011年出道。",
+    "explanation_en": "Phil Lam debuted around 2011.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "林奕匡大約喺邊年出道？",
+    "question_en": "When did Phil Lam approximately debut?",
+    "options_zh": [
+      "2011",
+      "1995",
+      "2015",
+      "1985"
+    ],
+    "options_en": [
+      "2011",
+      "1995",
+      "2015",
+      "1985"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡喺2011年出道。",
+    "explanation_en": "Phil Lam debuted around 2011.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "林奕匡來自邊個地方？",
+    "question_en": "Where is Phil Lam from?",
+    "options_zh": [
+      "香港/加拿大",
+      "加拿大",
+      "香港",
+      "新加坡"
+    ],
+    "options_en": [
+      "香港/加拿大",
+      "加拿大",
+      "香港",
+      "新加坡"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "林奕匡來自邊個地方？",
+    "question_en": "Where is Phil Lam from?",
+    "options_zh": [
+      "香港/加拿大",
+      "馬來西亞",
+      "加拿大",
+      "台灣"
+    ],
+    "options_en": [
+      "香港/加拿大",
+      "馬來西亞",
+      "加拿大",
+      "台灣"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_zh": "林奕匡來自邊個地方？",
+    "question_en": "Where is Phil Lam from?",
+    "options_zh": [
+      "日本",
+      "香港",
+      "英國",
+      "香港/加拿大"
+    ],
+    "options_en": [
+      "日本",
+      "香港",
+      "英國",
+      "香港/加拿大"
+    ],
+    "answer": 3,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "林奕匡來自邊個地方？",
+    "question_en": "Where is Phil Lam from?",
+    "options_zh": [
+      "香港",
+      "加拿大",
+      "馬來西亞",
+      "香港/加拿大"
+    ],
+    "options_en": [
+      "香港",
+      "加拿大",
+      "馬來西亞",
+      "香港/加拿大"
+    ],
+    "answer": 3,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question_zh": "林奕匡來自邊個地方？",
+    "question_en": "Where is Phil Lam from?",
+    "options_zh": [
+      "加拿大",
+      "韓國",
+      "日本",
+      "香港/加拿大"
+    ],
+    "options_en": [
+      "加拿大",
+      "韓國",
+      "日本",
+      "香港/加拿大"
+    ],
+    "answer": 3,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question_zh": "林奕匡來自邊個地方？",
+    "question_en": "Where is Phil Lam from?",
+    "options_zh": [
+      "馬來西亞",
+      "韓國",
+      "香港",
+      "香港/加拿大"
+    ],
+    "options_en": [
+      "馬來西亞",
+      "韓國",
+      "香港",
+      "香港/加拿大"
+    ],
+    "answer": 3,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question_zh": "林奕匡來自邊個地方？",
+    "question_en": "Where is Phil Lam from?",
+    "options_zh": [
+      "香港/加拿大",
+      "日本",
+      "台灣",
+      "韓國"
+    ],
+    "options_en": [
+      "香港/加拿大",
+      "日本",
+      "台灣",
+      "韓國"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question_zh": "林奕匡來自邊個地方？",
+    "question_en": "Where is Phil Lam from?",
+    "options_zh": [
+      "香港/加拿大",
+      "馬來西亞",
+      "台灣",
+      "英國"
+    ],
+    "options_en": [
+      "香港/加拿大",
+      "馬來西亞",
+      "台灣",
+      "英國"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question_zh": "林奕匡來自邊個地方？",
+    "question_en": "Where is Phil Lam from?",
+    "options_zh": [
+      "香港/加拿大",
+      "英國",
+      "內地",
+      "馬來西亞"
+    ],
+    "options_en": [
+      "香港/加拿大",
+      "英國",
+      "內地",
+      "馬來西亞"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question_zh": "林奕匡來自邊個地方？",
+    "question_en": "Where is Phil Lam from?",
+    "options_zh": [
+      "韓國",
+      "馬來西亞",
+      "內地",
+      "香港/加拿大"
+    ],
+    "options_en": [
+      "韓國",
+      "馬來西亞",
+      "內地",
+      "香港/加拿大"
+    ],
+    "answer": 3,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question_zh": "林奕匡主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Phil Lam mainly sing?",
+    "options_zh": [
+      "流行曲/唱作",
+      "民謠",
+      "嘻哈",
+      "爵士"
+    ],
+    "options_en": [
+      "流行曲/唱作",
+      "民謠",
+      "嘻哈",
+      "爵士"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡主要唱流行曲/唱作。",
+    "explanation_en": "Phil Lam mainly sings 流行曲/唱作.",
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question_zh": "林奕匡主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Phil Lam mainly sing?",
+    "options_zh": [
+      "古典",
+      "流行曲/唱作",
+      "藍調",
+      "嘻哈"
+    ],
+    "options_en": [
+      "古典",
+      "流行曲/唱作",
+      "藍調",
+      "嘻哈"
+    ],
+    "answer": 1,
+    "explanation_zh": "林奕匡主要唱流行曲/唱作。",
+    "explanation_en": "Phil Lam mainly sings 流行曲/唱作.",
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question_zh": "林奕匡主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Phil Lam mainly sing?",
+    "options_zh": [
+      "藍調",
+      "電子",
+      "爵士",
+      "流行曲/唱作"
+    ],
+    "options_en": [
+      "藍調",
+      "電子",
+      "爵士",
+      "流行曲/唱作"
+    ],
+    "answer": 3,
+    "explanation_zh": "林奕匡主要唱流行曲/唱作。",
+    "explanation_en": "Phil Lam mainly sings 流行曲/唱作.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "林奕匡主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Phil Lam mainly sing?",
+    "options_zh": [
+      "嘻哈",
+      "舞曲",
+      "R&B",
+      "流行曲/唱作"
+    ],
+    "options_en": [
+      "嘻哈",
+      "舞曲",
+      "R&B",
+      "流行曲/唱作"
+    ],
+    "answer": 3,
+    "explanation_zh": "林奕匡主要唱流行曲/唱作。",
+    "explanation_en": "Phil Lam mainly sings 流行曲/唱作.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "林奕匡主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Phil Lam mainly sing?",
+    "options_zh": [
+      "古典",
+      "流行曲/唱作",
+      "搖滾",
+      "舞曲"
+    ],
+    "options_en": [
+      "古典",
+      "流行曲/唱作",
+      "搖滾",
+      "舞曲"
+    ],
+    "answer": 1,
+    "explanation_zh": "林奕匡主要唱流行曲/唱作。",
+    "explanation_en": "Phil Lam mainly sings 流行曲/唱作.",
+    "difficulty": 2
+  },
+  {
+    "id": 31,
+    "question_zh": "林奕匡主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Phil Lam mainly sing?",
+    "options_zh": [
+      "舞曲",
+      "古典",
+      "流行曲/唱作",
+      "民謠"
+    ],
+    "options_en": [
+      "舞曲",
+      "古典",
+      "流行曲/唱作",
+      "民謠"
+    ],
+    "answer": 2,
+    "explanation_zh": "林奕匡主要唱流行曲/唱作。",
+    "explanation_en": "Phil Lam mainly sings 流行曲/唱作.",
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question_zh": "林奕匡主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Phil Lam mainly sing?",
+    "options_zh": [
+      "流行曲/唱作",
+      "嘻哈",
+      "民謠",
+      "搖滾"
+    ],
+    "options_en": [
+      "流行曲/唱作",
+      "嘻哈",
+      "民謠",
+      "搖滾"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡主要唱流行曲/唱作。",
+    "explanation_en": "Phil Lam mainly sings 流行曲/唱作.",
+    "difficulty": 2
+  },
+  {
+    "id": 33,
+    "question_zh": "林奕匡主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Phil Lam mainly sing?",
+    "options_zh": [
+      "藍調",
+      "嘻哈",
+      "流行曲",
+      "流行曲/唱作"
+    ],
+    "options_en": [
+      "藍調",
+      "嘻哈",
+      "流行曲",
+      "流行曲/唱作"
+    ],
+    "answer": 3,
+    "explanation_zh": "林奕匡主要唱流行曲/唱作。",
+    "explanation_en": "Phil Lam mainly sings 流行曲/唱作.",
+    "difficulty": 2
+  },
+  {
+    "id": 34,
+    "question_zh": "林奕匡主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Phil Lam mainly sing?",
+    "options_zh": [
+      "流行曲/唱作",
+      "古典",
+      "藍調",
+      "爵士"
+    ],
+    "options_en": [
+      "流行曲/唱作",
+      "古典",
+      "藍調",
+      "爵士"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡主要唱流行曲/唱作。",
+    "explanation_en": "Phil Lam mainly sings 流行曲/唱作.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question_zh": "林奕匡主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Phil Lam mainly sing?",
+    "options_zh": [
+      "流行曲/唱作",
+      "古典",
+      "藍調",
+      "R&B"
+    ],
+    "options_en": [
+      "流行曲/唱作",
+      "古典",
+      "藍調",
+      "R&B"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡主要唱流行曲/唱作。",
+    "explanation_en": "Phil Lam mainly sings 流行曲/唱作.",
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "question_zh": "林奕匡係邊間唱片公司旗下？",
+    "question_en": "Which label is Phil Lam signed to?",
+    "options_zh": [
+      "金牌大風",
+      "索尼",
+      "大國文化",
+      "寰亞"
+    ],
+    "options_en": [
+      "金牌大風",
+      "索尼",
+      "大國文化",
+      "寰亞"
+    ],
+    "answer": 1,
+    "explanation_zh": "林奕匡係索尼旗下歌手。",
+    "explanation_en": "Phil Lam is signed to 索尼.",
+    "difficulty": 2
+  },
+  {
+    "id": 37,
+    "question_zh": "林奕匡係邊間唱片公司旗下？",
+    "question_en": "Which label is Phil Lam signed to?",
+    "options_zh": [
+      "環球",
+      "大國文化",
+      "索尼",
+      "新藝寶"
+    ],
+    "options_en": [
+      "環球",
+      "大國文化",
+      "索尼",
+      "新藝寶"
+    ],
+    "answer": 2,
+    "explanation_zh": "林奕匡係索尼旗下歌手。",
+    "explanation_en": "Phil Lam is signed to 索尼.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "林奕匡係邊間唱片公司旗下？",
+    "question_en": "Which label is Phil Lam signed to?",
+    "options_zh": [
+      "星夢",
+      "紅線音樂",
+      "大國文化",
+      "索尼"
+    ],
+    "options_en": [
+      "星夢",
+      "紅線音樂",
+      "大國文化",
+      "索尼"
+    ],
+    "answer": 3,
+    "explanation_zh": "林奕匡係索尼旗下歌手。",
+    "explanation_en": "Phil Lam is signed to 索尼.",
+    "difficulty": 2
+  },
+  {
+    "id": 39,
+    "question_zh": "林奕匡係邊間唱片公司旗下？",
+    "question_en": "Which label is Phil Lam signed to?",
+    "options_zh": [
+      "星夢",
+      "索尼",
+      "寰亞",
+      "金牌大風"
+    ],
+    "options_en": [
+      "星夢",
+      "索尼",
+      "寰亞",
+      "金牌大風"
+    ],
+    "answer": 1,
+    "explanation_zh": "林奕匡係索尼旗下歌手。",
+    "explanation_en": "Phil Lam is signed to 索尼.",
+    "difficulty": 2
+  },
+  {
+    "id": 40,
+    "question_zh": "林奕匡係邊間唱片公司旗下？",
+    "question_en": "Which label is Phil Lam signed to?",
+    "options_zh": [
+      "索尼",
+      "華納",
+      "金牌大風",
+      "寰亞"
+    ],
+    "options_en": [
+      "索尼",
+      "華納",
+      "金牌大風",
+      "寰亞"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡係索尼旗下歌手。",
+    "explanation_en": "Phil Lam is signed to 索尼.",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question_zh": "林奕匡係邊間唱片公司旗下？",
+    "question_en": "Which label is Phil Lam signed to?",
+    "options_zh": [
+      "環球",
+      "索尼",
+      "寰亞",
+      "華納"
+    ],
+    "options_en": [
+      "環球",
+      "索尼",
+      "寰亞",
+      "華納"
+    ],
+    "answer": 1,
+    "explanation_zh": "林奕匡係索尼旗下歌手。",
+    "explanation_en": "Phil Lam is signed to 索尼.",
+    "difficulty": 2
+  },
+  {
+    "id": 42,
+    "question_zh": "林奕匡係邊間唱片公司旗下？",
+    "question_en": "Which label is Phil Lam signed to?",
+    "options_zh": [
+      "索尼",
+      "環球",
+      "寰亞",
+      "新藝寶"
+    ],
+    "options_en": [
+      "索尼",
+      "環球",
+      "寰亞",
+      "新藝寶"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡係索尼旗下歌手。",
+    "explanation_en": "Phil Lam is signed to 索尼.",
+    "difficulty": 2
+  },
+  {
+    "id": 43,
+    "question_zh": "林奕匡係邊間唱片公司旗下？",
+    "question_en": "Which label is Phil Lam signed to?",
+    "options_zh": [
+      "索尼",
+      "金牌大風",
+      "新藝寶",
+      "寰亞"
+    ],
+    "options_en": [
+      "索尼",
+      "金牌大風",
+      "新藝寶",
+      "寰亞"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡係索尼旗下歌手。",
+    "explanation_en": "Phil Lam is signed to 索尼.",
+    "difficulty": 2
+  },
+  {
+    "id": 44,
+    "question_zh": "林奕匡係邊間唱片公司旗下？",
+    "question_en": "Which label is Phil Lam signed to?",
+    "options_zh": [
+      "索尼",
+      "新藝寶",
+      "金牌大風",
+      "環球"
+    ],
+    "options_en": [
+      "索尼",
+      "新藝寶",
+      "金牌大風",
+      "環球"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡係索尼旗下歌手。",
+    "explanation_en": "Phil Lam is signed to 索尼.",
+    "difficulty": 2
+  },
+  {
+    "id": 45,
+    "question_zh": "林奕匡係邊間唱片公司旗下？",
+    "question_en": "Which label is Phil Lam signed to?",
+    "options_zh": [
+      "新藝寶",
+      "華納",
+      "英皇",
+      "索尼"
+    ],
+    "options_en": [
+      "新藝寶",
+      "華納",
+      "英皇",
+      "索尼"
+    ],
+    "answer": 3,
+    "explanation_zh": "林奕匡係索尼旗下歌手。",
+    "explanation_en": "Phil Lam is signed to 索尼.",
+    "difficulty": 2
+  },
+  {
+    "id": 46,
+    "question_zh": "以下邊項關於林奕匡嘅描述係正確？",
+    "question_en": "Which description of Phil Lam is correct?",
+    "options_zh": [
+      "來自香港/加拿大",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/加拿大",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 47,
+    "question_zh": "以下邊項關於林奕匡嘅描述係正確？",
+    "question_en": "Which description of Phil Lam is correct?",
+    "options_zh": [
+      "來自香港/加拿大",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/加拿大",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 48,
+    "question_zh": "以下邊項關於林奕匡嘅描述係正確？",
+    "question_en": "Which description of Phil Lam is correct?",
+    "options_zh": [
+      "來自香港/加拿大",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/加拿大",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question_zh": "以下邊項關於林奕匡嘅描述係正確？",
+    "question_en": "Which description of Phil Lam is correct?",
+    "options_zh": [
+      "來自香港/加拿大",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/加拿大",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question_zh": "以下邊項關於林奕匡嘅描述係正確？",
+    "question_en": "Which description of Phil Lam is correct?",
+    "options_zh": [
+      "來自香港/加拿大",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/加拿大",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 51,
+    "question_zh": "以下邊項關於林奕匡嘅描述係正確？",
+    "question_en": "Which description of Phil Lam is correct?",
+    "options_zh": [
+      "來自香港/加拿大",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/加拿大",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "question_zh": "以下邊項關於林奕匡嘅描述係正確？",
+    "question_en": "Which description of Phil Lam is correct?",
+    "options_zh": [
+      "來自香港/加拿大",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/加拿大",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 53,
+    "question_zh": "以下邊項關於林奕匡嘅描述係正確？",
+    "question_en": "Which description of Phil Lam is correct?",
+    "options_zh": [
+      "來自香港/加拿大",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/加拿大",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 54,
+    "question_zh": "以下邊項關於林奕匡嘅描述係正確？",
+    "question_en": "Which description of Phil Lam is correct?",
+    "options_zh": [
+      "來自香港/加拿大",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/加拿大",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 55,
+    "question_zh": "以下邊項關於林奕匡嘅描述係正確？",
+    "question_en": "Which description of Phil Lam is correct?",
+    "options_zh": [
+      "來自香港/加拿大",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/加拿大",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 56,
+    "question_zh": "以下邊項關於林奕匡嘅描述係正確？",
+    "question_en": "Which description of Phil Lam is correct?",
+    "options_zh": [
+      "來自香港/加拿大",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/加拿大",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 57,
+    "question_zh": "以下邊項關於林奕匡嘅描述係正確？",
+    "question_en": "Which description of Phil Lam is correct?",
+    "options_zh": [
+      "來自香港/加拿大",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/加拿大",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 58,
+    "question_zh": "以下邊項關於林奕匡嘅描述係正確？",
+    "question_en": "Which description of Phil Lam is correct?",
+    "options_zh": [
+      "來自香港/加拿大",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/加拿大",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 59,
+    "question_zh": "以下邊項關於林奕匡嘅描述係正確？",
+    "question_en": "Which description of Phil Lam is correct?",
+    "options_zh": [
+      "來自香港/加拿大",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/加拿大",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 60,
+    "question_zh": "以下邊項關於林奕匡嘅描述係正確？",
+    "question_en": "Which description of Phil Lam is correct?",
+    "options_zh": [
+      "來自香港/加拿大",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/加拿大",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡來自香港/加拿大。",
+    "explanation_en": "Phil Lam is from 香港/加拿大.",
+    "difficulty": 1
+  },
+  {
+    "id": 61,
+    "question_zh": "以下邊個獎項林奕匡曾經獲得？",
+    "question_en": "Which award has Phil Lam won?",
+    "options_zh": [
+      "叱咤樂壇唱作人金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇唱作人金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡曾獲得叱咤樂壇唱作人金獎。",
+    "explanation_en": "Phil Lam has won 叱咤樂壇唱作人金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 62,
+    "question_zh": "以下邊個獎項林奕匡曾經獲得？",
+    "question_en": "Which award has Phil Lam won?",
+    "options_zh": [
+      "叱咤樂壇唱作人金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇唱作人金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡曾獲得叱咤樂壇唱作人金獎。",
+    "explanation_en": "Phil Lam has won 叱咤樂壇唱作人金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 63,
+    "question_zh": "以下邊個獎項林奕匡曾經獲得？",
+    "question_en": "Which award has Phil Lam won?",
+    "options_zh": [
+      "叱咤樂壇唱作人金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇唱作人金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡曾獲得叱咤樂壇唱作人金獎。",
+    "explanation_en": "Phil Lam has won 叱咤樂壇唱作人金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 64,
+    "question_zh": "以下邊個獎項林奕匡曾經獲得？",
+    "question_en": "Which award has Phil Lam won?",
+    "options_zh": [
+      "叱咤樂壇唱作人金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇唱作人金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡曾獲得叱咤樂壇唱作人金獎。",
+    "explanation_en": "Phil Lam has won 叱咤樂壇唱作人金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 65,
+    "question_zh": "以下邊個獎項林奕匡曾經獲得？",
+    "question_en": "Which award has Phil Lam won?",
+    "options_zh": [
+      "叱咤樂壇唱作人金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇唱作人金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡曾獲得叱咤樂壇唱作人金獎。",
+    "explanation_en": "Phil Lam has won 叱咤樂壇唱作人金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 66,
+    "question_zh": "以下邊個獎項林奕匡曾經獲得？",
+    "question_en": "Which award has Phil Lam won?",
+    "options_zh": [
+      "叱咤樂壇唱作人金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇唱作人金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡曾獲得叱咤樂壇唱作人金獎。",
+    "explanation_en": "Phil Lam has won 叱咤樂壇唱作人金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 67,
+    "question_zh": "以下邊個獎項林奕匡曾經獲得？",
+    "question_en": "Which award has Phil Lam won?",
+    "options_zh": [
+      "叱咤樂壇唱作人金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇唱作人金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡曾獲得叱咤樂壇唱作人金獎。",
+    "explanation_en": "Phil Lam has won 叱咤樂壇唱作人金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 68,
+    "question_zh": "以下邊個獎項林奕匡曾經獲得？",
+    "question_en": "Which award has Phil Lam won?",
+    "options_zh": [
+      "叱咤樂壇唱作人金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇唱作人金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡曾獲得叱咤樂壇唱作人金獎。",
+    "explanation_en": "Phil Lam has won 叱咤樂壇唱作人金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 69,
+    "question_zh": "以下邊個獎項林奕匡曾經獲得？",
+    "question_en": "Which award has Phil Lam won?",
+    "options_zh": [
+      "叱咤樂壇唱作人金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇唱作人金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡曾獲得叱咤樂壇唱作人金獎。",
+    "explanation_en": "Phil Lam has won 叱咤樂壇唱作人金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 70,
+    "question_zh": "以下邊個獎項林奕匡曾經獲得？",
+    "question_en": "Which award has Phil Lam won?",
+    "options_zh": [
+      "叱咤樂壇唱作人金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇唱作人金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡曾獲得叱咤樂壇唱作人金獎。",
+    "explanation_en": "Phil Lam has won 叱咤樂壇唱作人金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 71,
+    "question_zh": "以下邊個獎項林奕匡曾經獲得？",
+    "question_en": "Which award has Phil Lam won?",
+    "options_zh": [
+      "叱咤樂壇唱作人金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇唱作人金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡曾獲得叱咤樂壇唱作人金獎。",
+    "explanation_en": "Phil Lam has won 叱咤樂壇唱作人金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 72,
+    "question_zh": "以下邊個獎項林奕匡曾經獲得？",
+    "question_en": "Which award has Phil Lam won?",
+    "options_zh": [
+      "叱咤樂壇唱作人金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇唱作人金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡曾獲得叱咤樂壇唱作人金獎。",
+    "explanation_en": "Phil Lam has won 叱咤樂壇唱作人金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 73,
+    "question_zh": "以下邊個獎項林奕匡曾經獲得？",
+    "question_en": "Which award has Phil Lam won?",
+    "options_zh": [
+      "叱咤樂壇唱作人金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇唱作人金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡曾獲得叱咤樂壇唱作人金獎。",
+    "explanation_en": "Phil Lam has won 叱咤樂壇唱作人金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 74,
+    "question_zh": "以下邊個獎項林奕匡曾經獲得？",
+    "question_en": "Which award has Phil Lam won?",
+    "options_zh": [
+      "叱咤樂壇唱作人金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇唱作人金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡曾獲得叱咤樂壇唱作人金獎。",
+    "explanation_en": "Phil Lam has won 叱咤樂壇唱作人金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 75,
+    "question_zh": "以下邊個獎項林奕匡曾經獲得？",
+    "question_en": "Which award has Phil Lam won?",
+    "options_zh": [
+      "叱咤樂壇唱作人金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇唱作人金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "林奕匡曾獲得叱咤樂壇唱作人金獎。",
+    "explanation_en": "Phil Lam has won 叱咤樂壇唱作人金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 76,
+    "question_zh": "《花灑》係邊位歌手嘅歌？",
+    "question_en": "Who sings '花灑'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《花灑》係林奕匡嘅歌。",
+    "explanation_en": "'花灑' is by Phil Lam.",
+    "difficulty": 2
+  },
+  {
+    "id": 77,
+    "question_zh": "《高山低谷》係邊位歌手嘅歌？",
+    "question_en": "Who sings '高山低谷'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《高山低谷》係林奕匡嘅歌。",
+    "explanation_en": "'高山低谷' is by Phil Lam.",
+    "difficulty": 2
+  },
+  {
+    "id": 78,
+    "question_zh": "《一雙手》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一雙手'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一雙手》係林奕匡嘅歌。",
+    "explanation_en": "'一雙手' is by Phil Lam.",
+    "difficulty": 2
+  },
+  {
+    "id": 79,
+    "question_zh": "《安徒生的錯》係邊位歌手嘅歌？",
+    "question_en": "Who sings '安徒生的錯'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《安徒生的錯》係林奕匡嘅歌。",
+    "explanation_en": "'安徒生的錯' is by Phil Lam.",
+    "difficulty": 2
+  },
+  {
+    "id": 80,
+    "question_zh": "《花灑》係邊位歌手嘅歌？",
+    "question_en": "Who sings '花灑'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《花灑》係林奕匡嘅歌。",
+    "explanation_en": "'花灑' is by Phil Lam.",
+    "difficulty": 2
+  },
+  {
+    "id": 81,
+    "question_zh": "《高山低谷》係邊位歌手嘅歌？",
+    "question_en": "Who sings '高山低谷'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《高山低谷》係林奕匡嘅歌。",
+    "explanation_en": "'高山低谷' is by Phil Lam.",
+    "difficulty": 3
+  },
+  {
+    "id": 82,
+    "question_zh": "《一雙手》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一雙手'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一雙手》係林奕匡嘅歌。",
+    "explanation_en": "'一雙手' is by Phil Lam.",
+    "difficulty": 3
+  },
+  {
+    "id": 83,
+    "question_zh": "《安徒生的錯》係邊位歌手嘅歌？",
+    "question_en": "Who sings '安徒生的錯'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《安徒生的錯》係林奕匡嘅歌。",
+    "explanation_en": "'安徒生的錯' is by Phil Lam.",
+    "difficulty": 3
+  },
+  {
+    "id": 84,
+    "question_zh": "《花灑》係邊位歌手嘅歌？",
+    "question_en": "Who sings '花灑'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《花灑》係林奕匡嘅歌。",
+    "explanation_en": "'花灑' is by Phil Lam.",
+    "difficulty": 3
+  },
+  {
+    "id": 85,
+    "question_zh": "《高山低谷》係邊位歌手嘅歌？",
+    "question_en": "Who sings '高山低谷'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《高山低谷》係林奕匡嘅歌。",
+    "explanation_en": "'高山低谷' is by Phil Lam.",
+    "difficulty": 3
+  },
+  {
+    "id": 86,
+    "question_zh": "《一雙手》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一雙手'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一雙手》係林奕匡嘅歌。",
+    "explanation_en": "'一雙手' is by Phil Lam.",
+    "difficulty": 3
+  },
+  {
+    "id": 87,
+    "question_zh": "《安徒生的錯》係邊位歌手嘅歌？",
+    "question_en": "Who sings '安徒生的錯'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《安徒生的錯》係林奕匡嘅歌。",
+    "explanation_en": "'安徒生的錯' is by Phil Lam.",
+    "difficulty": 3
+  },
+  {
+    "id": 88,
+    "question_zh": "《花灑》係邊位歌手嘅歌？",
+    "question_en": "Who sings '花灑'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《花灑》係林奕匡嘅歌。",
+    "explanation_en": "'花灑' is by Phil Lam.",
+    "difficulty": 3
+  },
+  {
+    "id": 89,
+    "question_zh": "《高山低谷》係邊位歌手嘅歌？",
+    "question_en": "Who sings '高山低谷'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《高山低谷》係林奕匡嘅歌。",
+    "explanation_en": "'高山低谷' is by Phil Lam.",
+    "difficulty": 3
+  },
+  {
+    "id": 90,
+    "question_zh": "《一雙手》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一雙手'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一雙手》係林奕匡嘅歌。",
+    "explanation_en": "'一雙手' is by Phil Lam.",
+    "difficulty": 3
+  },
+  {
+    "id": 91,
+    "question_zh": "《安徒生的錯》係邊位歌手嘅歌？",
+    "question_en": "Who sings '安徒生的錯'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《安徒生的錯》係林奕匡嘅歌。",
+    "explanation_en": "'安徒生的錯' is by Phil Lam.",
+    "difficulty": 3
+  },
+  {
+    "id": 92,
+    "question_zh": "《花灑》係邊位歌手嘅歌？",
+    "question_en": "Who sings '花灑'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《花灑》係林奕匡嘅歌。",
+    "explanation_en": "'花灑' is by Phil Lam.",
+    "difficulty": 3
+  },
+  {
+    "id": 93,
+    "question_zh": "《高山低谷》係邊位歌手嘅歌？",
+    "question_en": "Who sings '高山低谷'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《高山低谷》係林奕匡嘅歌。",
+    "explanation_en": "'高山低谷' is by Phil Lam.",
+    "difficulty": 3
+  },
+  {
+    "id": 94,
+    "question_zh": "《一雙手》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一雙手'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一雙手》係林奕匡嘅歌。",
+    "explanation_en": "'一雙手' is by Phil Lam.",
+    "difficulty": 3
+  },
+  {
+    "id": 95,
+    "question_zh": "《安徒生的錯》係邊位歌手嘅歌？",
+    "question_en": "Who sings '安徒生的錯'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《安徒生的錯》係林奕匡嘅歌。",
+    "explanation_en": "'安徒生的錯' is by Phil Lam.",
+    "difficulty": 3
+  },
+  {
+    "id": 96,
+    "question_zh": "《花灑》係邊位歌手嘅歌？",
+    "question_en": "Who sings '花灑'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《花灑》係林奕匡嘅歌。",
+    "explanation_en": "'花灑' is by Phil Lam.",
+    "difficulty": 3
+  },
+  {
+    "id": 97,
+    "question_zh": "《高山低谷》係邊位歌手嘅歌？",
+    "question_en": "Who sings '高山低谷'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《高山低谷》係林奕匡嘅歌。",
+    "explanation_en": "'高山低谷' is by Phil Lam.",
+    "difficulty": 3
+  },
+  {
+    "id": 98,
+    "question_zh": "《一雙手》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一雙手'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一雙手》係林奕匡嘅歌。",
+    "explanation_en": "'一雙手' is by Phil Lam.",
+    "difficulty": 3
+  },
+  {
+    "id": 99,
+    "question_zh": "《安徒生的錯》係邊位歌手嘅歌？",
+    "question_en": "Who sings '安徒生的錯'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《安徒生的錯》係林奕匡嘅歌。",
+    "explanation_en": "'安徒生的錯' is by Phil Lam.",
+    "difficulty": 3
+  },
+  {
+    "id": 100,
+    "question_zh": "《花灑》係邊位歌手嘅歌？",
+    "question_en": "Who sings '花灑'?",
+    "options_zh": [
+      "林奕匡",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Phil Lam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《花灑》係林奕匡嘅歌。",
+    "explanation_en": "'花灑' is by Phil Lam.",
+    "difficulty": 3
   }
 ]

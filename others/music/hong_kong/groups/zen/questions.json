@@ -1,65 +1,2102 @@
 [
   {
     "id": 1,
-    "question_zh": "Zen出道嘅年份係？",
-    "question_en": "When did Zen debut?",
+    "question_zh": "以下邊首係Zen嘅歌？",
+    "question_en": "Which is a song by Zen?",
     "options_zh": [
-      "1990年代",
-      "2000年代",
-      "2010年代",
-      "2020年代"
+      "其他歌曲2",
+      "其他歌曲0",
+      "一秒間",
+      "其他歌曲1"
     ],
     "options_en": [
-      "1990年代",
-      "2000年代",
-      "2010年代",
-      "2020年代"
+      "其他歌曲2",
+      "其他歌曲0",
+      "一秒間",
+      "其他歌曲1"
     ],
-    "answer": 1,
-    "explanation_zh": "Zen喺2000年代出道。",
-    "explanation_en": "Zen debuted in the 2000s.",
+    "answer": 2,
+    "explanation_zh": "「一秒間」係Zen嘅歌曲。",
+    "explanation_en": "'一秒間' is a song by Zen.",
     "difficulty": 1
   },
   {
     "id": 2,
-    "question_zh": "Zen係邊個地方嘅歌手？",
-    "question_en": "Where is Zen from?",
+    "question_zh": "《Zen》係Zen喺邊年推出嘅專輯？",
+    "question_en": "What year was 'Zen' by Zen released?",
     "options_zh": [
-      "香港",
-      "台灣",
-      "內地",
-      "海外"
+      "2010",
+      "2023",
+      "1999",
+      "2020"
     ],
     "options_en": [
-      "香港",
-      "台灣",
-      "內地",
-      "海外"
+      "2010",
+      "2023",
+      "1999",
+      "2020"
     ],
-    "answer": 0,
-    "explanation_zh": "Zen係香港歌手。",
-    "explanation_en": "Zen is from Hong Kong.",
-    "difficulty": 1
+    "answer": 3,
+    "explanation_zh": "《Zen》喺2020年推出。",
+    "explanation_en": "'Zen' was released in 2020.",
+    "difficulty": 2
   },
   {
     "id": 3,
-    "question_zh": "以下邊首係Zen嘅代表作？",
-    "question_en": "Which is a representative song of Zen?",
+    "question_zh": "Zen大約喺邊年出道？",
+    "question_en": "When did Zen approximately debut?",
     "options_zh": [
-      "歌曲A",
-      "歌曲B",
-      "歌曲C",
-      "歌曲D"
+      "2015",
+      "1980",
+      "2019",
+      "2010"
     ],
     "options_en": [
-      "歌曲A",
-      "歌曲B",
-      "歌曲C",
-      "歌曲D"
+      "2015",
+      "1980",
+      "2019",
+      "2010"
+    ],
+    "answer": 2,
+    "explanation_zh": "Zen喺2019年出道。",
+    "explanation_en": "Zen debuted around 2019.",
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question_zh": "Zen大約喺邊年出道？",
+    "question_en": "When did Zen approximately debut?",
+    "options_zh": [
+      "2010",
+      "2005",
+      "1995",
+      "2019"
+    ],
+    "options_en": [
+      "2010",
+      "2005",
+      "1995",
+      "2019"
+    ],
+    "answer": 3,
+    "explanation_zh": "Zen喺2019年出道。",
+    "explanation_en": "Zen debuted around 2019.",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question_zh": "Zen大約喺邊年出道？",
+    "question_en": "When did Zen approximately debut?",
+    "options_zh": [
+      "1990",
+      "2019",
+      "1980",
+      "2015"
+    ],
+    "options_en": [
+      "1990",
+      "2019",
+      "1980",
+      "2015"
+    ],
+    "answer": 1,
+    "explanation_zh": "Zen喺2019年出道。",
+    "explanation_en": "Zen debuted around 2019.",
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question_zh": "Zen大約喺邊年出道？",
+    "question_en": "When did Zen approximately debut?",
+    "options_zh": [
+      "2019",
+      "1990",
+      "2010",
+      "1985"
+    ],
+    "options_en": [
+      "2019",
+      "1990",
+      "2010",
+      "1985"
     ],
     "answer": 0,
-    "explanation_zh": "「歌曲A」係Zen嘅代表作之一。",
-    "explanation_en": "'Song A' is one of {artist_en}'s representative songs.",
+    "explanation_zh": "Zen喺2019年出道。",
+    "explanation_en": "Zen debuted around 2019.",
     "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question_zh": "Zen大約喺邊年出道？",
+    "question_en": "When did Zen approximately debut?",
+    "options_zh": [
+      "2005",
+      "2019",
+      "1980",
+      "2010"
+    ],
+    "options_en": [
+      "2005",
+      "2019",
+      "1980",
+      "2010"
+    ],
+    "answer": 1,
+    "explanation_zh": "Zen喺2019年出道。",
+    "explanation_en": "Zen debuted around 2019.",
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question_zh": "Zen大約喺邊年出道？",
+    "question_en": "When did Zen approximately debut?",
+    "options_zh": [
+      "1985",
+      "2019",
+      "2010",
+      "1995"
+    ],
+    "options_en": [
+      "1985",
+      "2019",
+      "2010",
+      "1995"
+    ],
+    "answer": 1,
+    "explanation_zh": "Zen喺2019年出道。",
+    "explanation_en": "Zen debuted around 2019.",
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question_zh": "Zen大約喺邊年出道？",
+    "question_en": "When did Zen approximately debut?",
+    "options_zh": [
+      "1995",
+      "2000",
+      "1990",
+      "2019"
+    ],
+    "options_en": [
+      "1995",
+      "2000",
+      "1990",
+      "2019"
+    ],
+    "answer": 3,
+    "explanation_zh": "Zen喺2019年出道。",
+    "explanation_en": "Zen debuted around 2019.",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question_zh": "Zen大約喺邊年出道？",
+    "question_en": "When did Zen approximately debut?",
+    "options_zh": [
+      "1980",
+      "2000",
+      "2019",
+      "2010"
+    ],
+    "options_en": [
+      "1980",
+      "2000",
+      "2019",
+      "2010"
+    ],
+    "answer": 2,
+    "explanation_zh": "Zen喺2019年出道。",
+    "explanation_en": "Zen debuted around 2019.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "Zen大約喺邊年出道？",
+    "question_en": "When did Zen approximately debut?",
+    "options_zh": [
+      "1995",
+      "2019",
+      "2015",
+      "2000"
+    ],
+    "options_en": [
+      "1995",
+      "2019",
+      "2015",
+      "2000"
+    ],
+    "answer": 1,
+    "explanation_zh": "Zen喺2019年出道。",
+    "explanation_en": "Zen debuted around 2019.",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question_zh": "Zen大約喺邊年出道？",
+    "question_en": "When did Zen approximately debut?",
+    "options_zh": [
+      "1995",
+      "2019",
+      "2005",
+      "2020"
+    ],
+    "options_en": [
+      "1995",
+      "2019",
+      "2005",
+      "2020"
+    ],
+    "answer": 1,
+    "explanation_zh": "Zen喺2019年出道。",
+    "explanation_en": "Zen debuted around 2019.",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_zh": "Zen來自邊個地方？",
+    "question_en": "Where is Zen from?",
+    "options_zh": [
+      "韓國",
+      "香港",
+      "台灣",
+      "內地"
+    ],
+    "options_en": [
+      "韓國",
+      "香港",
+      "台灣",
+      "內地"
+    ],
+    "answer": 1,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "Zen來自邊個地方？",
+    "question_en": "Where is Zen from?",
+    "options_zh": [
+      "日本",
+      "韓國",
+      "台灣",
+      "香港"
+    ],
+    "options_en": [
+      "日本",
+      "韓國",
+      "台灣",
+      "香港"
+    ],
+    "answer": 3,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "Zen來自邊個地方？",
+    "question_en": "Where is Zen from?",
+    "options_zh": [
+      "台灣",
+      "香港",
+      "新加坡",
+      "韓國"
+    ],
+    "options_en": [
+      "台灣",
+      "香港",
+      "新加坡",
+      "韓國"
+    ],
+    "answer": 1,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "Zen來自邊個地方？",
+    "question_en": "Where is Zen from?",
+    "options_zh": [
+      "香港",
+      "美國",
+      "加拿大",
+      "英國"
+    ],
+    "options_en": [
+      "香港",
+      "美國",
+      "加拿大",
+      "英國"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "Zen來自邊個地方？",
+    "question_en": "Where is Zen from?",
+    "options_zh": [
+      "台灣",
+      "加拿大",
+      "香港",
+      "英國"
+    ],
+    "options_en": [
+      "台灣",
+      "加拿大",
+      "香港",
+      "英國"
+    ],
+    "answer": 2,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_zh": "Zen來自邊個地方？",
+    "question_en": "Where is Zen from?",
+    "options_zh": [
+      "美國",
+      "香港",
+      "內地",
+      "馬來西亞"
+    ],
+    "options_en": [
+      "美國",
+      "香港",
+      "內地",
+      "馬來西亞"
+    ],
+    "answer": 1,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "Zen來自邊個地方？",
+    "question_en": "Where is Zen from?",
+    "options_zh": [
+      "日本",
+      "香港",
+      "美國",
+      "台灣"
+    ],
+    "options_en": [
+      "日本",
+      "香港",
+      "美國",
+      "台灣"
+    ],
+    "answer": 1,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question_zh": "Zen來自邊個地方？",
+    "question_en": "Where is Zen from?",
+    "options_zh": [
+      "馬來西亞",
+      "台灣",
+      "香港",
+      "新加坡"
+    ],
+    "options_en": [
+      "馬來西亞",
+      "台灣",
+      "香港",
+      "新加坡"
+    ],
+    "answer": 2,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question_zh": "Zen來自邊個地方？",
+    "question_en": "Where is Zen from?",
+    "options_zh": [
+      "美國",
+      "馬來西亞",
+      "新加坡",
+      "香港"
+    ],
+    "options_en": [
+      "美國",
+      "馬來西亞",
+      "新加坡",
+      "香港"
+    ],
+    "answer": 3,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question_zh": "Zen來自邊個地方？",
+    "question_en": "Where is Zen from?",
+    "options_zh": [
+      "加拿大",
+      "香港",
+      "英國",
+      "內地"
+    ],
+    "options_en": [
+      "加拿大",
+      "香港",
+      "英國",
+      "內地"
+    ],
+    "answer": 1,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question_zh": "Zen主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Zen mainly sing?",
+    "options_zh": [
+      "藍調",
+      "古典",
+      "流行曲",
+      "搖滾"
+    ],
+    "options_en": [
+      "藍調",
+      "古典",
+      "流行曲",
+      "搖滾"
+    ],
+    "answer": 2,
+    "explanation_zh": "Zen主要唱流行曲。",
+    "explanation_en": "Zen mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question_zh": "Zen主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Zen mainly sing?",
+    "options_zh": [
+      "流行曲",
+      "電子",
+      "舞曲",
+      "爵士"
+    ],
+    "options_en": [
+      "流行曲",
+      "電子",
+      "舞曲",
+      "爵士"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen主要唱流行曲。",
+    "explanation_en": "Zen mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question_zh": "Zen主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Zen mainly sing?",
+    "options_zh": [
+      "嘻哈",
+      "民謠",
+      "電子",
+      "流行曲"
+    ],
+    "options_en": [
+      "嘻哈",
+      "民謠",
+      "電子",
+      "流行曲"
+    ],
+    "answer": 3,
+    "explanation_zh": "Zen主要唱流行曲。",
+    "explanation_en": "Zen mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question_zh": "Zen主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Zen mainly sing?",
+    "options_zh": [
+      "古典",
+      "民謠",
+      "舞曲",
+      "流行曲"
+    ],
+    "options_en": [
+      "古典",
+      "民謠",
+      "舞曲",
+      "流行曲"
+    ],
+    "answer": 3,
+    "explanation_zh": "Zen主要唱流行曲。",
+    "explanation_en": "Zen mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question_zh": "Zen主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Zen mainly sing?",
+    "options_zh": [
+      "流行曲",
+      "搖滾",
+      "爵士",
+      "民謠"
+    ],
+    "options_en": [
+      "流行曲",
+      "搖滾",
+      "爵士",
+      "民謠"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen主要唱流行曲。",
+    "explanation_en": "Zen mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question_zh": "Zen主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Zen mainly sing?",
+    "options_zh": [
+      "電子",
+      "舞曲",
+      "流行曲",
+      "嘻哈"
+    ],
+    "options_en": [
+      "電子",
+      "舞曲",
+      "流行曲",
+      "嘻哈"
+    ],
+    "answer": 2,
+    "explanation_zh": "Zen主要唱流行曲。",
+    "explanation_en": "Zen mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "Zen主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Zen mainly sing?",
+    "options_zh": [
+      "古典",
+      "民謠",
+      "電子",
+      "流行曲"
+    ],
+    "options_en": [
+      "古典",
+      "民謠",
+      "電子",
+      "流行曲"
+    ],
+    "answer": 3,
+    "explanation_zh": "Zen主要唱流行曲。",
+    "explanation_en": "Zen mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "Zen主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Zen mainly sing?",
+    "options_zh": [
+      "舞曲",
+      "藍調",
+      "流行曲",
+      "古典"
+    ],
+    "options_en": [
+      "舞曲",
+      "藍調",
+      "流行曲",
+      "古典"
+    ],
+    "answer": 2,
+    "explanation_zh": "Zen主要唱流行曲。",
+    "explanation_en": "Zen mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 31,
+    "question_zh": "Zen主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Zen mainly sing?",
+    "options_zh": [
+      "爵士",
+      "電子",
+      "流行曲",
+      "民謠"
+    ],
+    "options_en": [
+      "爵士",
+      "電子",
+      "流行曲",
+      "民謠"
+    ],
+    "answer": 2,
+    "explanation_zh": "Zen主要唱流行曲。",
+    "explanation_en": "Zen mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question_zh": "Zen主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Zen mainly sing?",
+    "options_zh": [
+      "爵士",
+      "舞曲",
+      "流行曲",
+      "電子"
+    ],
+    "options_en": [
+      "爵士",
+      "舞曲",
+      "流行曲",
+      "電子"
+    ],
+    "answer": 2,
+    "explanation_zh": "Zen主要唱流行曲。",
+    "explanation_en": "Zen mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 33,
+    "question_zh": "Zen係邊間唱片公司旗下？",
+    "question_en": "Which label is Zen signed to?",
+    "options_zh": [
+      "紅線音樂",
+      "大國文化",
+      "星夢",
+      "索尼"
+    ],
+    "options_en": [
+      "紅線音樂",
+      "大國文化",
+      "星夢",
+      "索尼"
+    ],
+    "answer": 3,
+    "explanation_zh": "Zen係索尼旗下歌手。",
+    "explanation_en": "Zen is signed to 索尼.",
+    "difficulty": 2
+  },
+  {
+    "id": 34,
+    "question_zh": "Zen係邊間唱片公司旗下？",
+    "question_en": "Which label is Zen signed to?",
+    "options_zh": [
+      "環球",
+      "新藝寶",
+      "金牌大風",
+      "索尼"
+    ],
+    "options_en": [
+      "環球",
+      "新藝寶",
+      "金牌大風",
+      "索尼"
+    ],
+    "answer": 3,
+    "explanation_zh": "Zen係索尼旗下歌手。",
+    "explanation_en": "Zen is signed to 索尼.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question_zh": "Zen係邊間唱片公司旗下？",
+    "question_en": "Which label is Zen signed to?",
+    "options_zh": [
+      "紅線音樂",
+      "寰亞",
+      "環球",
+      "索尼"
+    ],
+    "options_en": [
+      "紅線音樂",
+      "寰亞",
+      "環球",
+      "索尼"
+    ],
+    "answer": 3,
+    "explanation_zh": "Zen係索尼旗下歌手。",
+    "explanation_en": "Zen is signed to 索尼.",
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "question_zh": "Zen係邊間唱片公司旗下？",
+    "question_en": "Which label is Zen signed to?",
+    "options_zh": [
+      "紅線音樂",
+      "環球",
+      "金牌大風",
+      "索尼"
+    ],
+    "options_en": [
+      "紅線音樂",
+      "環球",
+      "金牌大風",
+      "索尼"
+    ],
+    "answer": 3,
+    "explanation_zh": "Zen係索尼旗下歌手。",
+    "explanation_en": "Zen is signed to 索尼.",
+    "difficulty": 2
+  },
+  {
+    "id": 37,
+    "question_zh": "Zen係邊間唱片公司旗下？",
+    "question_en": "Which label is Zen signed to?",
+    "options_zh": [
+      "環球",
+      "新藝寶",
+      "星夢",
+      "索尼"
+    ],
+    "options_en": [
+      "環球",
+      "新藝寶",
+      "星夢",
+      "索尼"
+    ],
+    "answer": 3,
+    "explanation_zh": "Zen係索尼旗下歌手。",
+    "explanation_en": "Zen is signed to 索尼.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "Zen係邊間唱片公司旗下？",
+    "question_en": "Which label is Zen signed to?",
+    "options_zh": [
+      "英皇",
+      "大國文化",
+      "華納",
+      "索尼"
+    ],
+    "options_en": [
+      "英皇",
+      "大國文化",
+      "華納",
+      "索尼"
+    ],
+    "answer": 3,
+    "explanation_zh": "Zen係索尼旗下歌手。",
+    "explanation_en": "Zen is signed to 索尼.",
+    "difficulty": 2
+  },
+  {
+    "id": 39,
+    "question_zh": "Zen係邊間唱片公司旗下？",
+    "question_en": "Which label is Zen signed to?",
+    "options_zh": [
+      "金牌大風",
+      "索尼",
+      "新藝寶",
+      "環球"
+    ],
+    "options_en": [
+      "金牌大風",
+      "索尼",
+      "新藝寶",
+      "環球"
+    ],
+    "answer": 1,
+    "explanation_zh": "Zen係索尼旗下歌手。",
+    "explanation_en": "Zen is signed to 索尼.",
+    "difficulty": 2
+  },
+  {
+    "id": 40,
+    "question_zh": "Zen係邊間唱片公司旗下？",
+    "question_en": "Which label is Zen signed to?",
+    "options_zh": [
+      "寰亞",
+      "星夢",
+      "索尼",
+      "新藝寶"
+    ],
+    "options_en": [
+      "寰亞",
+      "星夢",
+      "索尼",
+      "新藝寶"
+    ],
+    "answer": 2,
+    "explanation_zh": "Zen係索尼旗下歌手。",
+    "explanation_en": "Zen is signed to 索尼.",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question_zh": "Zen係邊間唱片公司旗下？",
+    "question_en": "Which label is Zen signed to?",
+    "options_zh": [
+      "英皇",
+      "大國文化",
+      "金牌大風",
+      "索尼"
+    ],
+    "options_en": [
+      "英皇",
+      "大國文化",
+      "金牌大風",
+      "索尼"
+    ],
+    "answer": 3,
+    "explanation_zh": "Zen係索尼旗下歌手。",
+    "explanation_en": "Zen is signed to 索尼.",
+    "difficulty": 2
+  },
+  {
+    "id": 42,
+    "question_zh": "Zen係邊間唱片公司旗下？",
+    "question_en": "Which label is Zen signed to?",
+    "options_zh": [
+      "大國文化",
+      "金牌大風",
+      "索尼",
+      "新藝寶"
+    ],
+    "options_en": [
+      "大國文化",
+      "金牌大風",
+      "索尼",
+      "新藝寶"
+    ],
+    "answer": 2,
+    "explanation_zh": "Zen係索尼旗下歌手。",
+    "explanation_en": "Zen is signed to 索尼.",
+    "difficulty": 2
+  },
+  {
+    "id": 43,
+    "question_zh": "以下邊項關於Zen嘅描述係正確？",
+    "question_en": "Which description of Zen is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "question_zh": "以下邊項關於Zen嘅描述係正確？",
+    "question_en": "Which description of Zen is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 45,
+    "question_zh": "以下邊項關於Zen嘅描述係正確？",
+    "question_en": "Which description of Zen is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question_zh": "以下邊項關於Zen嘅描述係正確？",
+    "question_en": "Which description of Zen is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 47,
+    "question_zh": "以下邊項關於Zen嘅描述係正確？",
+    "question_en": "Which description of Zen is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 48,
+    "question_zh": "以下邊項關於Zen嘅描述係正確？",
+    "question_en": "Which description of Zen is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question_zh": "以下邊項關於Zen嘅描述係正確？",
+    "question_en": "Which description of Zen is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question_zh": "以下邊項關於Zen嘅描述係正確？",
+    "question_en": "Which description of Zen is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 51,
+    "question_zh": "以下邊項關於Zen嘅描述係正確？",
+    "question_en": "Which description of Zen is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "question_zh": "以下邊項關於Zen嘅描述係正確？",
+    "question_en": "Which description of Zen is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 53,
+    "question_zh": "以下邊項關於Zen嘅描述係正確？",
+    "question_en": "Which description of Zen is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 54,
+    "question_zh": "以下邊項關於Zen嘅描述係正確？",
+    "question_en": "Which description of Zen is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 55,
+    "question_zh": "以下邊項關於Zen嘅描述係正確？",
+    "question_en": "Which description of Zen is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 56,
+    "question_zh": "以下邊項關於Zen嘅描述係正確？",
+    "question_en": "Which description of Zen is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 57,
+    "question_zh": "以下邊項關於Zen嘅描述係正確？",
+    "question_en": "Which description of Zen is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen來自香港。",
+    "explanation_en": "Zen is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 58,
+    "question_zh": "Zen係咩類型嘅藝人？",
+    "question_en": "What type of artist is Zen?",
+    "options_zh": [
+      "歌手",
+      "演員",
+      "畫家",
+      "作家"
+    ],
+    "options_en": [
+      "Singer",
+      "Actor",
+      "Painter",
+      "Writer"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen係一位歌手。",
+    "explanation_en": "Zen is a singer.",
+    "difficulty": 1
+  },
+  {
+    "id": 59,
+    "question_zh": "Zen係咩類型嘅藝人？",
+    "question_en": "What type of artist is Zen?",
+    "options_zh": [
+      "歌手",
+      "演員",
+      "畫家",
+      "作家"
+    ],
+    "options_en": [
+      "Singer",
+      "Actor",
+      "Painter",
+      "Writer"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen係一位歌手。",
+    "explanation_en": "Zen is a singer.",
+    "difficulty": 1
+  },
+  {
+    "id": 60,
+    "question_zh": "Zen係咩類型嘅藝人？",
+    "question_en": "What type of artist is Zen?",
+    "options_zh": [
+      "歌手",
+      "演員",
+      "畫家",
+      "作家"
+    ],
+    "options_en": [
+      "Singer",
+      "Actor",
+      "Painter",
+      "Writer"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen係一位歌手。",
+    "explanation_en": "Zen is a singer.",
+    "difficulty": 1
+  },
+  {
+    "id": 61,
+    "question_zh": "Zen係咩類型嘅藝人？",
+    "question_en": "What type of artist is Zen?",
+    "options_zh": [
+      "歌手",
+      "演員",
+      "畫家",
+      "作家"
+    ],
+    "options_en": [
+      "Singer",
+      "Actor",
+      "Painter",
+      "Writer"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen係一位歌手。",
+    "explanation_en": "Zen is a singer.",
+    "difficulty": 1
+  },
+  {
+    "id": 62,
+    "question_zh": "Zen係咩類型嘅藝人？",
+    "question_en": "What type of artist is Zen?",
+    "options_zh": [
+      "歌手",
+      "演員",
+      "畫家",
+      "作家"
+    ],
+    "options_en": [
+      "Singer",
+      "Actor",
+      "Painter",
+      "Writer"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen係一位歌手。",
+    "explanation_en": "Zen is a singer.",
+    "difficulty": 1
+  },
+  {
+    "id": 63,
+    "question_zh": "Zen係咩類型嘅藝人？",
+    "question_en": "What type of artist is Zen?",
+    "options_zh": [
+      "歌手",
+      "演員",
+      "畫家",
+      "作家"
+    ],
+    "options_en": [
+      "Singer",
+      "Actor",
+      "Painter",
+      "Writer"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen係一位歌手。",
+    "explanation_en": "Zen is a singer.",
+    "difficulty": 1
+  },
+  {
+    "id": 64,
+    "question_zh": "Zen係咩類型嘅藝人？",
+    "question_en": "What type of artist is Zen?",
+    "options_zh": [
+      "歌手",
+      "演員",
+      "畫家",
+      "作家"
+    ],
+    "options_en": [
+      "Singer",
+      "Actor",
+      "Painter",
+      "Writer"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen係一位歌手。",
+    "explanation_en": "Zen is a singer.",
+    "difficulty": 1
+  },
+  {
+    "id": 65,
+    "question_zh": "Zen係咩類型嘅藝人？",
+    "question_en": "What type of artist is Zen?",
+    "options_zh": [
+      "歌手",
+      "演員",
+      "畫家",
+      "作家"
+    ],
+    "options_en": [
+      "Singer",
+      "Actor",
+      "Painter",
+      "Writer"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen係一位歌手。",
+    "explanation_en": "Zen is a singer.",
+    "difficulty": 1
+  },
+  {
+    "id": 66,
+    "question_zh": "Zen係咩類型嘅藝人？",
+    "question_en": "What type of artist is Zen?",
+    "options_zh": [
+      "歌手",
+      "演員",
+      "畫家",
+      "作家"
+    ],
+    "options_en": [
+      "Singer",
+      "Actor",
+      "Painter",
+      "Writer"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen係一位歌手。",
+    "explanation_en": "Zen is a singer.",
+    "difficulty": 1
+  },
+  {
+    "id": 67,
+    "question_zh": "Zen係咩類型嘅藝人？",
+    "question_en": "What type of artist is Zen?",
+    "options_zh": [
+      "歌手",
+      "演員",
+      "畫家",
+      "作家"
+    ],
+    "options_en": [
+      "Singer",
+      "Actor",
+      "Painter",
+      "Writer"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen係一位歌手。",
+    "explanation_en": "Zen is a singer.",
+    "difficulty": 1
+  },
+  {
+    "id": 68,
+    "question_zh": "Zen係咩類型嘅藝人？",
+    "question_en": "What type of artist is Zen?",
+    "options_zh": [
+      "歌手",
+      "演員",
+      "畫家",
+      "作家"
+    ],
+    "options_en": [
+      "Singer",
+      "Actor",
+      "Painter",
+      "Writer"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen係一位歌手。",
+    "explanation_en": "Zen is a singer.",
+    "difficulty": 1
+  },
+  {
+    "id": 69,
+    "question_zh": "Zen係咩類型嘅藝人？",
+    "question_en": "What type of artist is Zen?",
+    "options_zh": [
+      "歌手",
+      "演員",
+      "畫家",
+      "作家"
+    ],
+    "options_en": [
+      "Singer",
+      "Actor",
+      "Painter",
+      "Writer"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen係一位歌手。",
+    "explanation_en": "Zen is a singer.",
+    "difficulty": 1
+  },
+  {
+    "id": 70,
+    "question_zh": "Zen係咩類型嘅藝人？",
+    "question_en": "What type of artist is Zen?",
+    "options_zh": [
+      "歌手",
+      "演員",
+      "畫家",
+      "作家"
+    ],
+    "options_en": [
+      "Singer",
+      "Actor",
+      "Painter",
+      "Writer"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen係一位歌手。",
+    "explanation_en": "Zen is a singer.",
+    "difficulty": 1
+  },
+  {
+    "id": 71,
+    "question_zh": "Zen係咩類型嘅藝人？",
+    "question_en": "What type of artist is Zen?",
+    "options_zh": [
+      "歌手",
+      "演員",
+      "畫家",
+      "作家"
+    ],
+    "options_en": [
+      "Singer",
+      "Actor",
+      "Painter",
+      "Writer"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen係一位歌手。",
+    "explanation_en": "Zen is a singer.",
+    "difficulty": 1
+  },
+  {
+    "id": 72,
+    "question_zh": "Zen係咩類型嘅藝人？",
+    "question_en": "What type of artist is Zen?",
+    "options_zh": [
+      "歌手",
+      "演員",
+      "畫家",
+      "作家"
+    ],
+    "options_en": [
+      "Singer",
+      "Actor",
+      "Painter",
+      "Writer"
+    ],
+    "answer": 0,
+    "explanation_zh": "Zen係一位歌手。",
+    "explanation_en": "Zen is a singer.",
+    "difficulty": 1
+  },
+  {
+    "id": 73,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 2
+  },
+  {
+    "id": 74,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 2
+  },
+  {
+    "id": 75,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 2
+  },
+  {
+    "id": 76,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 2
+  },
+  {
+    "id": 77,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 2
+  },
+  {
+    "id": 78,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 2
+  },
+  {
+    "id": 79,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 2
+  },
+  {
+    "id": 80,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 2
+  },
+  {
+    "id": 81,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 3
+  },
+  {
+    "id": 82,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 3
+  },
+  {
+    "id": 83,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 3
+  },
+  {
+    "id": 84,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 3
+  },
+  {
+    "id": 85,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 3
+  },
+  {
+    "id": 86,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 3
+  },
+  {
+    "id": 87,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 3
+  },
+  {
+    "id": 88,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 3
+  },
+  {
+    "id": 89,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 3
+  },
+  {
+    "id": 90,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 3
+  },
+  {
+    "id": 91,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 3
+  },
+  {
+    "id": 92,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 3
+  },
+  {
+    "id": 93,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 3
+  },
+  {
+    "id": 94,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 3
+  },
+  {
+    "id": 95,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 3
+  },
+  {
+    "id": 96,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 3
+  },
+  {
+    "id": 97,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 3
+  },
+  {
+    "id": 98,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 3
+  },
+  {
+    "id": 99,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 3
+  },
+  {
+    "id": 100,
+    "question_zh": "《一秒間》係邊位歌手嘅歌？",
+    "question_en": "Who sings '一秒間'?",
+    "options_zh": [
+      "Zen",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Zen",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《一秒間》係Zen嘅歌。",
+    "explanation_en": "'一秒間' is by Zen.",
+    "difficulty": 3
   }
 ]

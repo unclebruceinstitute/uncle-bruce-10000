@@ -1,65 +1,2102 @@
 [
   {
     "id": 1,
-    "question_zh": "衛蘭出道嘅年份係？",
-    "question_en": "When did Janice Vidal debut?",
+    "question_zh": "以下邊首係衛蘭嘅歌？",
+    "question_en": "Which is a song by Janice Vidal?",
     "options_zh": [
-      "1990年代",
-      "2000年代",
-      "2010年代",
-      "2020年代"
+      "心亂如麻",
+      "大哥",
+      "離家出走",
+      "就算世界無童話"
     ],
     "options_en": [
-      "1990年代",
-      "2000年代",
-      "2010年代",
-      "2020年代"
+      "心亂如麻",
+      "大哥",
+      "離家出走",
+      "就算世界無童話"
     ],
     "answer": 1,
-    "explanation_zh": "衛蘭喺2000年代出道。",
-    "explanation_en": "Janice Vidal debuted in the 2000s.",
+    "explanation_zh": "「大哥」係衛蘭嘅歌曲。",
+    "explanation_en": "'大哥' is a song by Janice Vidal.",
     "difficulty": 1
   },
   {
     "id": 2,
-    "question_zh": "衛蘭係邊個地方嘅歌手？",
-    "question_en": "Where is Janice Vidal from?",
+    "question_zh": "以下邊首係衛蘭嘅歌？",
+    "question_en": "Which is a song by Janice Vidal?",
     "options_zh": [
-      "香港",
-      "台灣",
-      "內地",
-      "海外"
+      "拍錯拖",
+      "就算世界無童話",
+      "大哥",
+      "如水"
     ],
     "options_en": [
-      "香港",
-      "台灣",
-      "內地",
-      "海外"
+      "拍錯拖",
+      "就算世界無童話",
+      "大哥",
+      "如水"
     ],
-    "answer": 0,
-    "explanation_zh": "衛蘭係香港歌手。",
-    "explanation_en": "Janice Vidal is from Hong Kong.",
+    "answer": 1,
+    "explanation_zh": "「就算世界無童話」係衛蘭嘅歌曲。",
+    "explanation_en": "'就算世界無童話' is a song by Janice Vidal.",
     "difficulty": 1
   },
   {
     "id": 3,
-    "question_zh": "以下邊首係衛蘭嘅代表作？",
-    "question_en": "Which is a representative song of Janice Vidal?",
+    "question_zh": "以下邊首係衛蘭嘅歌？",
+    "question_en": "Which is a song by Janice Vidal?",
     "options_zh": [
-      "歌曲A",
-      "歌曲B",
-      "歌曲C",
-      "歌曲D"
+      "就算世界無童話",
+      "拍錯拖",
+      "大哥",
+      "離家出走"
     ],
     "options_en": [
-      "歌曲A",
-      "歌曲B",
-      "歌曲C",
-      "歌曲D"
+      "就算世界無童話",
+      "拍錯拖",
+      "大哥",
+      "離家出走"
+    ],
+    "answer": 3,
+    "explanation_zh": "「離家出走」係衛蘭嘅歌曲。",
+    "explanation_en": "'離家出走' is a song by Janice Vidal.",
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question_zh": "以下邊首係衛蘭嘅歌？",
+    "question_en": "Which is a song by Janice Vidal?",
+    "options_zh": [
+      "如水",
+      "就算世界無童話",
+      "心亂如麻",
+      "拍錯拖"
+    ],
+    "options_en": [
+      "如水",
+      "就算世界無童話",
+      "心亂如麻",
+      "拍錯拖"
+    ],
+    "answer": 2,
+    "explanation_zh": "「心亂如麻」係衛蘭嘅歌曲。",
+    "explanation_en": "'心亂如麻' is a song by Janice Vidal.",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question_zh": "以下邊首係衛蘭嘅歌？",
+    "question_en": "Which is a song by Janice Vidal?",
+    "options_zh": [
+      "心亂如麻",
+      "拍錯拖",
+      "離家出走",
+      "如水"
+    ],
+    "options_en": [
+      "心亂如麻",
+      "拍錯拖",
+      "離家出走",
+      "如水"
+    ],
+    "answer": 1,
+    "explanation_zh": "「拍錯拖」係衛蘭嘅歌曲。",
+    "explanation_en": "'拍錯拖' is a song by Janice Vidal.",
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question_zh": "以下邊首係衛蘭嘅歌？",
+    "question_en": "Which is a song by Janice Vidal?",
+    "options_zh": [
+      "如水",
+      "大哥",
+      "就算世界無童話",
+      "離家出走"
+    ],
+    "options_en": [
+      "如水",
+      "大哥",
+      "就算世界無童話",
+      "離家出走"
     ],
     "answer": 0,
-    "explanation_zh": "「歌曲A」係衛蘭嘅代表作之一。",
-    "explanation_en": "'Song A' is one of {artist_en}'s representative songs.",
+    "explanation_zh": "「如水」係衛蘭嘅歌曲。",
+    "explanation_en": "'如水' is a song by Janice Vidal.",
     "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question_zh": "《Day & Night》係衛蘭喺邊年推出嘅專輯？",
+    "question_en": "What year was 'Day & Night' by Janice Vidal released?",
+    "options_zh": [
+      "2007",
+      "2010",
+      "2020",
+      "2015"
+    ],
+    "options_en": [
+      "2007",
+      "2010",
+      "2020",
+      "2015"
+    ],
+    "answer": 2,
+    "explanation_zh": "《Day & Night》喺2020年推出。",
+    "explanation_en": "'Day & Night' was released in 2020.",
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_zh": "《Wish》係衛蘭喺邊年推出嘅專輯？",
+    "question_en": "What year was 'Wish' by Janice Vidal released?",
+    "options_zh": [
+      "2015",
+      "2003",
+      "2018",
+      "2010"
+    ],
+    "options_en": [
+      "2015",
+      "2003",
+      "2018",
+      "2010"
+    ],
+    "answer": 2,
+    "explanation_zh": "《Wish》喺2018年推出。",
+    "explanation_en": "'Wish' was released in 2018.",
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question_zh": "衛蘭大約喺邊年出道？",
+    "question_en": "When did Janice Vidal approximately debut?",
+    "options_zh": [
+      "1995",
+      "2004",
+      "2005",
+      "2020"
+    ],
+    "options_en": [
+      "1995",
+      "2004",
+      "2005",
+      "2020"
+    ],
+    "answer": 1,
+    "explanation_zh": "衛蘭喺2004年出道。",
+    "explanation_en": "Janice Vidal debuted around 2004.",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question_zh": "衛蘭大約喺邊年出道？",
+    "question_en": "When did Janice Vidal approximately debut?",
+    "options_zh": [
+      "1985",
+      "2004",
+      "2015",
+      "1990"
+    ],
+    "options_en": [
+      "1985",
+      "2004",
+      "2015",
+      "1990"
+    ],
+    "answer": 1,
+    "explanation_zh": "衛蘭喺2004年出道。",
+    "explanation_en": "Janice Vidal debuted around 2004.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "衛蘭大約喺邊年出道？",
+    "question_en": "When did Janice Vidal approximately debut?",
+    "options_zh": [
+      "2004",
+      "1985",
+      "2000",
+      "2015"
+    ],
+    "options_en": [
+      "2004",
+      "1985",
+      "2000",
+      "2015"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭喺2004年出道。",
+    "explanation_en": "Janice Vidal debuted around 2004.",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question_zh": "衛蘭大約喺邊年出道？",
+    "question_en": "When did Janice Vidal approximately debut?",
+    "options_zh": [
+      "1995",
+      "1990",
+      "2010",
+      "2004"
+    ],
+    "options_en": [
+      "1995",
+      "1990",
+      "2010",
+      "2004"
+    ],
+    "answer": 3,
+    "explanation_zh": "衛蘭喺2004年出道。",
+    "explanation_en": "Janice Vidal debuted around 2004.",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_zh": "衛蘭大約喺邊年出道？",
+    "question_en": "When did Janice Vidal approximately debut?",
+    "options_zh": [
+      "1985",
+      "2004",
+      "1980",
+      "2000"
+    ],
+    "options_en": [
+      "1985",
+      "2004",
+      "1980",
+      "2000"
+    ],
+    "answer": 1,
+    "explanation_zh": "衛蘭喺2004年出道。",
+    "explanation_en": "Janice Vidal debuted around 2004.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "衛蘭大約喺邊年出道？",
+    "question_en": "When did Janice Vidal approximately debut?",
+    "options_zh": [
+      "2015",
+      "2004",
+      "1990",
+      "2000"
+    ],
+    "options_en": [
+      "2015",
+      "2004",
+      "1990",
+      "2000"
+    ],
+    "answer": 1,
+    "explanation_zh": "衛蘭喺2004年出道。",
+    "explanation_en": "Janice Vidal debuted around 2004.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "衛蘭大約喺邊年出道？",
+    "question_en": "When did Janice Vidal approximately debut?",
+    "options_zh": [
+      "2020",
+      "1980",
+      "2004",
+      "2015"
+    ],
+    "options_en": [
+      "2020",
+      "1980",
+      "2004",
+      "2015"
+    ],
+    "answer": 2,
+    "explanation_zh": "衛蘭喺2004年出道。",
+    "explanation_en": "Janice Vidal debuted around 2004.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "衛蘭大約喺邊年出道？",
+    "question_en": "When did Janice Vidal approximately debut?",
+    "options_zh": [
+      "2004",
+      "2010",
+      "1980",
+      "2015"
+    ],
+    "options_en": [
+      "2004",
+      "2010",
+      "1980",
+      "2015"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭喺2004年出道。",
+    "explanation_en": "Janice Vidal debuted around 2004.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "衛蘭大約喺邊年出道？",
+    "question_en": "When did Janice Vidal approximately debut?",
+    "options_zh": [
+      "2004",
+      "2005",
+      "2015",
+      "2010"
+    ],
+    "options_en": [
+      "2004",
+      "2005",
+      "2015",
+      "2010"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭喺2004年出道。",
+    "explanation_en": "Janice Vidal debuted around 2004.",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_zh": "衛蘭大約喺邊年出道？",
+    "question_en": "When did Janice Vidal approximately debut?",
+    "options_zh": [
+      "1990",
+      "1985",
+      "2004",
+      "2005"
+    ],
+    "options_en": [
+      "1990",
+      "1985",
+      "2004",
+      "2005"
+    ],
+    "answer": 2,
+    "explanation_zh": "衛蘭喺2004年出道。",
+    "explanation_en": "Janice Vidal debuted around 2004.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "衛蘭來自邊個地方？",
+    "question_en": "Where is Janice Vidal from?",
+    "options_zh": [
+      "韓國",
+      "香港",
+      "台灣",
+      "香港/菲律賓"
+    ],
+    "options_en": [
+      "韓國",
+      "香港",
+      "台灣",
+      "香港/菲律賓"
+    ],
+    "answer": 3,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question_zh": "衛蘭來自邊個地方？",
+    "question_en": "Where is Janice Vidal from?",
+    "options_zh": [
+      "香港/菲律賓",
+      "香港",
+      "內地",
+      "美國"
+    ],
+    "options_en": [
+      "香港/菲律賓",
+      "香港",
+      "內地",
+      "美國"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question_zh": "衛蘭來自邊個地方？",
+    "question_en": "Where is Janice Vidal from?",
+    "options_zh": [
+      "香港/菲律賓",
+      "加拿大",
+      "馬來西亞",
+      "美國"
+    ],
+    "options_en": [
+      "香港/菲律賓",
+      "加拿大",
+      "馬來西亞",
+      "美國"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question_zh": "衛蘭來自邊個地方？",
+    "question_en": "Where is Janice Vidal from?",
+    "options_zh": [
+      "內地",
+      "台灣",
+      "香港/菲律賓",
+      "馬來西亞"
+    ],
+    "options_en": [
+      "內地",
+      "台灣",
+      "香港/菲律賓",
+      "馬來西亞"
+    ],
+    "answer": 2,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question_zh": "衛蘭來自邊個地方？",
+    "question_en": "Where is Janice Vidal from?",
+    "options_zh": [
+      "香港",
+      "台灣",
+      "新加坡",
+      "香港/菲律賓"
+    ],
+    "options_en": [
+      "香港",
+      "台灣",
+      "新加坡",
+      "香港/菲律賓"
+    ],
+    "answer": 3,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question_zh": "衛蘭來自邊個地方？",
+    "question_en": "Where is Janice Vidal from?",
+    "options_zh": [
+      "新加坡",
+      "韓國",
+      "香港/菲律賓",
+      "內地"
+    ],
+    "options_en": [
+      "新加坡",
+      "韓國",
+      "香港/菲律賓",
+      "內地"
+    ],
+    "answer": 2,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question_zh": "衛蘭來自邊個地方？",
+    "question_en": "Where is Janice Vidal from?",
+    "options_zh": [
+      "美國",
+      "內地",
+      "香港/菲律賓",
+      "加拿大"
+    ],
+    "options_en": [
+      "美國",
+      "內地",
+      "香港/菲律賓",
+      "加拿大"
+    ],
+    "answer": 2,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question_zh": "衛蘭來自邊個地方？",
+    "question_en": "Where is Janice Vidal from?",
+    "options_zh": [
+      "加拿大",
+      "香港/菲律賓",
+      "內地",
+      "美國"
+    ],
+    "options_en": [
+      "加拿大",
+      "香港/菲律賓",
+      "內地",
+      "美國"
+    ],
+    "answer": 1,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 27,
+    "question_zh": "衛蘭來自邊個地方？",
+    "question_en": "Where is Janice Vidal from?",
+    "options_zh": [
+      "香港/菲律賓",
+      "美國",
+      "英國",
+      "新加坡"
+    ],
+    "options_en": [
+      "香港/菲律賓",
+      "美國",
+      "英國",
+      "新加坡"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question_zh": "衛蘭來自邊個地方？",
+    "question_en": "Where is Janice Vidal from?",
+    "options_zh": [
+      "加拿大",
+      "香港",
+      "日本",
+      "香港/菲律賓"
+    ],
+    "options_en": [
+      "加拿大",
+      "香港",
+      "日本",
+      "香港/菲律賓"
+    ],
+    "answer": 3,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question_zh": "衛蘭主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Janice Vidal mainly sing?",
+    "options_zh": [
+      "電子",
+      "古典",
+      "民謠",
+      "流行曲/R&B"
+    ],
+    "options_en": [
+      "電子",
+      "古典",
+      "民謠",
+      "流行曲/R&B"
+    ],
+    "answer": 3,
+    "explanation_zh": "衛蘭主要唱流行曲/R&B。",
+    "explanation_en": "Janice Vidal mainly sings 流行曲/R&B.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "衛蘭主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Janice Vidal mainly sing?",
+    "options_zh": [
+      "舞曲",
+      "流行曲/R&B",
+      "藍調",
+      "古典"
+    ],
+    "options_en": [
+      "舞曲",
+      "流行曲/R&B",
+      "藍調",
+      "古典"
+    ],
+    "answer": 1,
+    "explanation_zh": "衛蘭主要唱流行曲/R&B。",
+    "explanation_en": "Janice Vidal mainly sings 流行曲/R&B.",
+    "difficulty": 2
+  },
+  {
+    "id": 31,
+    "question_zh": "衛蘭主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Janice Vidal mainly sing?",
+    "options_zh": [
+      "藍調",
+      "流行曲/R&B",
+      "民謠",
+      "流行曲"
+    ],
+    "options_en": [
+      "藍調",
+      "流行曲/R&B",
+      "民謠",
+      "流行曲"
+    ],
+    "answer": 1,
+    "explanation_zh": "衛蘭主要唱流行曲/R&B。",
+    "explanation_en": "Janice Vidal mainly sings 流行曲/R&B.",
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question_zh": "衛蘭主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Janice Vidal mainly sing?",
+    "options_zh": [
+      "古典",
+      "民謠",
+      "電子",
+      "流行曲/R&B"
+    ],
+    "options_en": [
+      "古典",
+      "民謠",
+      "電子",
+      "流行曲/R&B"
+    ],
+    "answer": 3,
+    "explanation_zh": "衛蘭主要唱流行曲/R&B。",
+    "explanation_en": "Janice Vidal mainly sings 流行曲/R&B.",
+    "difficulty": 2
+  },
+  {
+    "id": 33,
+    "question_zh": "衛蘭主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Janice Vidal mainly sing?",
+    "options_zh": [
+      "民謠",
+      "流行曲/R&B",
+      "流行曲",
+      "古典"
+    ],
+    "options_en": [
+      "民謠",
+      "流行曲/R&B",
+      "流行曲",
+      "古典"
+    ],
+    "answer": 1,
+    "explanation_zh": "衛蘭主要唱流行曲/R&B。",
+    "explanation_en": "Janice Vidal mainly sings 流行曲/R&B.",
+    "difficulty": 2
+  },
+  {
+    "id": 34,
+    "question_zh": "衛蘭主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Janice Vidal mainly sing?",
+    "options_zh": [
+      "舞曲",
+      "流行曲/R&B",
+      "爵士",
+      "古典"
+    ],
+    "options_en": [
+      "舞曲",
+      "流行曲/R&B",
+      "爵士",
+      "古典"
+    ],
+    "answer": 1,
+    "explanation_zh": "衛蘭主要唱流行曲/R&B。",
+    "explanation_en": "Janice Vidal mainly sings 流行曲/R&B.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question_zh": "衛蘭主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Janice Vidal mainly sing?",
+    "options_zh": [
+      "流行曲/R&B",
+      "爵士",
+      "古典",
+      "舞曲"
+    ],
+    "options_en": [
+      "流行曲/R&B",
+      "爵士",
+      "古典",
+      "舞曲"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭主要唱流行曲/R&B。",
+    "explanation_en": "Janice Vidal mainly sings 流行曲/R&B.",
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "question_zh": "衛蘭主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Janice Vidal mainly sing?",
+    "options_zh": [
+      "古典",
+      "流行曲/R&B",
+      "爵士",
+      "民謠"
+    ],
+    "options_en": [
+      "古典",
+      "流行曲/R&B",
+      "爵士",
+      "民謠"
+    ],
+    "answer": 1,
+    "explanation_zh": "衛蘭主要唱流行曲/R&B。",
+    "explanation_en": "Janice Vidal mainly sings 流行曲/R&B.",
+    "difficulty": 2
+  },
+  {
+    "id": 37,
+    "question_zh": "衛蘭主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Janice Vidal mainly sing?",
+    "options_zh": [
+      "古典",
+      "搖滾",
+      "流行曲/R&B",
+      "電子"
+    ],
+    "options_en": [
+      "古典",
+      "搖滾",
+      "流行曲/R&B",
+      "電子"
+    ],
+    "answer": 2,
+    "explanation_zh": "衛蘭主要唱流行曲/R&B。",
+    "explanation_en": "Janice Vidal mainly sings 流行曲/R&B.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "衛蘭主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Janice Vidal mainly sing?",
+    "options_zh": [
+      "流行曲/R&B",
+      "古典",
+      "R&B",
+      "搖滾"
+    ],
+    "options_en": [
+      "流行曲/R&B",
+      "古典",
+      "R&B",
+      "搖滾"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭主要唱流行曲/R&B。",
+    "explanation_en": "Janice Vidal mainly sings 流行曲/R&B.",
+    "difficulty": 2
+  },
+  {
+    "id": 39,
+    "question_zh": "衛蘭係邊間唱片公司旗下？",
+    "question_en": "Which label is Janice Vidal signed to?",
+    "options_zh": [
+      "紅線音樂",
+      "金牌大風",
+      "大國文化",
+      "華納"
+    ],
+    "options_en": [
+      "紅線音樂",
+      "金牌大風",
+      "大國文化",
+      "華納"
+    ],
+    "answer": 3,
+    "explanation_zh": "衛蘭係華納旗下歌手。",
+    "explanation_en": "Janice Vidal is signed to 華納.",
+    "difficulty": 2
+  },
+  {
+    "id": 40,
+    "question_zh": "衛蘭係邊間唱片公司旗下？",
+    "question_en": "Which label is Janice Vidal signed to?",
+    "options_zh": [
+      "新藝寶",
+      "星夢",
+      "華納",
+      "大國文化"
+    ],
+    "options_en": [
+      "新藝寶",
+      "星夢",
+      "華納",
+      "大國文化"
+    ],
+    "answer": 2,
+    "explanation_zh": "衛蘭係華納旗下歌手。",
+    "explanation_en": "Janice Vidal is signed to 華納.",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question_zh": "衛蘭係邊間唱片公司旗下？",
+    "question_en": "Which label is Janice Vidal signed to?",
+    "options_zh": [
+      "索尼",
+      "金牌大風",
+      "星夢",
+      "華納"
+    ],
+    "options_en": [
+      "索尼",
+      "金牌大風",
+      "星夢",
+      "華納"
+    ],
+    "answer": 3,
+    "explanation_zh": "衛蘭係華納旗下歌手。",
+    "explanation_en": "Janice Vidal is signed to 華納.",
+    "difficulty": 2
+  },
+  {
+    "id": 42,
+    "question_zh": "衛蘭係邊間唱片公司旗下？",
+    "question_en": "Which label is Janice Vidal signed to?",
+    "options_zh": [
+      "華納",
+      "新藝寶",
+      "索尼",
+      "金牌大風"
+    ],
+    "options_en": [
+      "華納",
+      "新藝寶",
+      "索尼",
+      "金牌大風"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭係華納旗下歌手。",
+    "explanation_en": "Janice Vidal is signed to 華納.",
+    "difficulty": 2
+  },
+  {
+    "id": 43,
+    "question_zh": "衛蘭係邊間唱片公司旗下？",
+    "question_en": "Which label is Janice Vidal signed to?",
+    "options_zh": [
+      "環球",
+      "索尼",
+      "大國文化",
+      "華納"
+    ],
+    "options_en": [
+      "環球",
+      "索尼",
+      "大國文化",
+      "華納"
+    ],
+    "answer": 3,
+    "explanation_zh": "衛蘭係華納旗下歌手。",
+    "explanation_en": "Janice Vidal is signed to 華納.",
+    "difficulty": 2
+  },
+  {
+    "id": 44,
+    "question_zh": "衛蘭係邊間唱片公司旗下？",
+    "question_en": "Which label is Janice Vidal signed to?",
+    "options_zh": [
+      "新藝寶",
+      "紅線音樂",
+      "寰亞",
+      "華納"
+    ],
+    "options_en": [
+      "新藝寶",
+      "紅線音樂",
+      "寰亞",
+      "華納"
+    ],
+    "answer": 3,
+    "explanation_zh": "衛蘭係華納旗下歌手。",
+    "explanation_en": "Janice Vidal is signed to 華納.",
+    "difficulty": 2
+  },
+  {
+    "id": 45,
+    "question_zh": "衛蘭係邊間唱片公司旗下？",
+    "question_en": "Which label is Janice Vidal signed to?",
+    "options_zh": [
+      "紅線音樂",
+      "環球",
+      "大國文化",
+      "華納"
+    ],
+    "options_en": [
+      "紅線音樂",
+      "環球",
+      "大國文化",
+      "華納"
+    ],
+    "answer": 3,
+    "explanation_zh": "衛蘭係華納旗下歌手。",
+    "explanation_en": "Janice Vidal is signed to 華納.",
+    "difficulty": 2
+  },
+  {
+    "id": 46,
+    "question_zh": "衛蘭係邊間唱片公司旗下？",
+    "question_en": "Which label is Janice Vidal signed to?",
+    "options_zh": [
+      "華納",
+      "金牌大風",
+      "索尼",
+      "星夢"
+    ],
+    "options_en": [
+      "華納",
+      "金牌大風",
+      "索尼",
+      "星夢"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭係華納旗下歌手。",
+    "explanation_en": "Janice Vidal is signed to 華納.",
+    "difficulty": 2
+  },
+  {
+    "id": 47,
+    "question_zh": "衛蘭係邊間唱片公司旗下？",
+    "question_en": "Which label is Janice Vidal signed to?",
+    "options_zh": [
+      "新藝寶",
+      "紅線音樂",
+      "星夢",
+      "華納"
+    ],
+    "options_en": [
+      "新藝寶",
+      "紅線音樂",
+      "星夢",
+      "華納"
+    ],
+    "answer": 3,
+    "explanation_zh": "衛蘭係華納旗下歌手。",
+    "explanation_en": "Janice Vidal is signed to 華納.",
+    "difficulty": 2
+  },
+  {
+    "id": 48,
+    "question_zh": "衛蘭係邊間唱片公司旗下？",
+    "question_en": "Which label is Janice Vidal signed to?",
+    "options_zh": [
+      "華納",
+      "英皇",
+      "環球",
+      "星夢"
+    ],
+    "options_en": [
+      "華納",
+      "英皇",
+      "環球",
+      "星夢"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭係華納旗下歌手。",
+    "explanation_en": "Janice Vidal is signed to 華納.",
+    "difficulty": 2
+  },
+  {
+    "id": 49,
+    "question_zh": "以下邊項關於衛蘭嘅描述係正確？",
+    "question_en": "Which description of Janice Vidal is correct?",
+    "options_zh": [
+      "來自香港/菲律賓",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/菲律賓",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question_zh": "以下邊項關於衛蘭嘅描述係正確？",
+    "question_en": "Which description of Janice Vidal is correct?",
+    "options_zh": [
+      "來自香港/菲律賓",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/菲律賓",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 51,
+    "question_zh": "以下邊項關於衛蘭嘅描述係正確？",
+    "question_en": "Which description of Janice Vidal is correct?",
+    "options_zh": [
+      "來自香港/菲律賓",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/菲律賓",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "question_zh": "以下邊項關於衛蘭嘅描述係正確？",
+    "question_en": "Which description of Janice Vidal is correct?",
+    "options_zh": [
+      "來自香港/菲律賓",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/菲律賓",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 53,
+    "question_zh": "以下邊項關於衛蘭嘅描述係正確？",
+    "question_en": "Which description of Janice Vidal is correct?",
+    "options_zh": [
+      "來自香港/菲律賓",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/菲律賓",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 54,
+    "question_zh": "以下邊項關於衛蘭嘅描述係正確？",
+    "question_en": "Which description of Janice Vidal is correct?",
+    "options_zh": [
+      "來自香港/菲律賓",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/菲律賓",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 55,
+    "question_zh": "以下邊項關於衛蘭嘅描述係正確？",
+    "question_en": "Which description of Janice Vidal is correct?",
+    "options_zh": [
+      "來自香港/菲律賓",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/菲律賓",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 56,
+    "question_zh": "以下邊項關於衛蘭嘅描述係正確？",
+    "question_en": "Which description of Janice Vidal is correct?",
+    "options_zh": [
+      "來自香港/菲律賓",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/菲律賓",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 57,
+    "question_zh": "以下邊項關於衛蘭嘅描述係正確？",
+    "question_en": "Which description of Janice Vidal is correct?",
+    "options_zh": [
+      "來自香港/菲律賓",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/菲律賓",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 58,
+    "question_zh": "以下邊項關於衛蘭嘅描述係正確？",
+    "question_en": "Which description of Janice Vidal is correct?",
+    "options_zh": [
+      "來自香港/菲律賓",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/菲律賓",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 59,
+    "question_zh": "以下邊項關於衛蘭嘅描述係正確？",
+    "question_en": "Which description of Janice Vidal is correct?",
+    "options_zh": [
+      "來自香港/菲律賓",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/菲律賓",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 60,
+    "question_zh": "以下邊項關於衛蘭嘅描述係正確？",
+    "question_en": "Which description of Janice Vidal is correct?",
+    "options_zh": [
+      "來自香港/菲律賓",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/菲律賓",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 61,
+    "question_zh": "以下邊項關於衛蘭嘅描述係正確？",
+    "question_en": "Which description of Janice Vidal is correct?",
+    "options_zh": [
+      "來自香港/菲律賓",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/菲律賓",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 62,
+    "question_zh": "以下邊項關於衛蘭嘅描述係正確？",
+    "question_en": "Which description of Janice Vidal is correct?",
+    "options_zh": [
+      "來自香港/菲律賓",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/菲律賓",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 63,
+    "question_zh": "以下邊項關於衛蘭嘅描述係正確？",
+    "question_en": "Which description of Janice Vidal is correct?",
+    "options_zh": [
+      "來自香港/菲律賓",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港/菲律賓",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭來自香港/菲律賓。",
+    "explanation_en": "Janice Vidal is from 香港/菲律賓.",
+    "difficulty": 1
+  },
+  {
+    "id": 64,
+    "question_zh": "以下邊個獎項衛蘭曾經獲得？",
+    "question_en": "Which award has Janice Vidal won?",
+    "options_zh": [
+      "新城勁爆女歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆女歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭曾獲得新城勁爆女歌手。",
+    "explanation_en": "Janice Vidal has won 新城勁爆女歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 65,
+    "question_zh": "以下邊個獎項衛蘭曾經獲得？",
+    "question_en": "Which award has Janice Vidal won?",
+    "options_zh": [
+      "新城勁爆女歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆女歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭曾獲得新城勁爆女歌手。",
+    "explanation_en": "Janice Vidal has won 新城勁爆女歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 66,
+    "question_zh": "以下邊個獎項衛蘭曾經獲得？",
+    "question_en": "Which award has Janice Vidal won?",
+    "options_zh": [
+      "新城勁爆女歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆女歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭曾獲得新城勁爆女歌手。",
+    "explanation_en": "Janice Vidal has won 新城勁爆女歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 67,
+    "question_zh": "以下邊個獎項衛蘭曾經獲得？",
+    "question_en": "Which award has Janice Vidal won?",
+    "options_zh": [
+      "新城勁爆女歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆女歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭曾獲得新城勁爆女歌手。",
+    "explanation_en": "Janice Vidal has won 新城勁爆女歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 68,
+    "question_zh": "以下邊個獎項衛蘭曾經獲得？",
+    "question_en": "Which award has Janice Vidal won?",
+    "options_zh": [
+      "新城勁爆女歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆女歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭曾獲得新城勁爆女歌手。",
+    "explanation_en": "Janice Vidal has won 新城勁爆女歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 69,
+    "question_zh": "以下邊個獎項衛蘭曾經獲得？",
+    "question_en": "Which award has Janice Vidal won?",
+    "options_zh": [
+      "新城勁爆女歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆女歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭曾獲得新城勁爆女歌手。",
+    "explanation_en": "Janice Vidal has won 新城勁爆女歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 70,
+    "question_zh": "以下邊個獎項衛蘭曾經獲得？",
+    "question_en": "Which award has Janice Vidal won?",
+    "options_zh": [
+      "新城勁爆女歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆女歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭曾獲得新城勁爆女歌手。",
+    "explanation_en": "Janice Vidal has won 新城勁爆女歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 71,
+    "question_zh": "以下邊個獎項衛蘭曾經獲得？",
+    "question_en": "Which award has Janice Vidal won?",
+    "options_zh": [
+      "新城勁爆女歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆女歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭曾獲得新城勁爆女歌手。",
+    "explanation_en": "Janice Vidal has won 新城勁爆女歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 72,
+    "question_zh": "以下邊個獎項衛蘭曾經獲得？",
+    "question_en": "Which award has Janice Vidal won?",
+    "options_zh": [
+      "新城勁爆女歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆女歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭曾獲得新城勁爆女歌手。",
+    "explanation_en": "Janice Vidal has won 新城勁爆女歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 73,
+    "question_zh": "以下邊個獎項衛蘭曾經獲得？",
+    "question_en": "Which award has Janice Vidal won?",
+    "options_zh": [
+      "新城勁爆女歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆女歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭曾獲得新城勁爆女歌手。",
+    "explanation_en": "Janice Vidal has won 新城勁爆女歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 74,
+    "question_zh": "以下邊個獎項衛蘭曾經獲得？",
+    "question_en": "Which award has Janice Vidal won?",
+    "options_zh": [
+      "新城勁爆女歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆女歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭曾獲得新城勁爆女歌手。",
+    "explanation_en": "Janice Vidal has won 新城勁爆女歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 75,
+    "question_zh": "以下邊個獎項衛蘭曾經獲得？",
+    "question_en": "Which award has Janice Vidal won?",
+    "options_zh": [
+      "新城勁爆女歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆女歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭曾獲得新城勁爆女歌手。",
+    "explanation_en": "Janice Vidal has won 新城勁爆女歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 76,
+    "question_zh": "以下邊個獎項衛蘭曾經獲得？",
+    "question_en": "Which award has Janice Vidal won?",
+    "options_zh": [
+      "新城勁爆女歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆女歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭曾獲得新城勁爆女歌手。",
+    "explanation_en": "Janice Vidal has won 新城勁爆女歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 77,
+    "question_zh": "以下邊個獎項衛蘭曾經獲得？",
+    "question_en": "Which award has Janice Vidal won?",
+    "options_zh": [
+      "新城勁爆女歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆女歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭曾獲得新城勁爆女歌手。",
+    "explanation_en": "Janice Vidal has won 新城勁爆女歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 78,
+    "question_zh": "以下邊個獎項衛蘭曾經獲得？",
+    "question_en": "Which award has Janice Vidal won?",
+    "options_zh": [
+      "新城勁爆女歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆女歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "衛蘭曾獲得新城勁爆女歌手。",
+    "explanation_en": "Janice Vidal has won 新城勁爆女歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 79,
+    "question_zh": "《大哥》係邊位歌手嘅歌？",
+    "question_en": "Who sings '大哥'?",
+    "options_zh": [
+      "衛蘭",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Janice Vidal",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《大哥》係衛蘭嘅歌。",
+    "explanation_en": "'大哥' is by Janice Vidal.",
+    "difficulty": 2
+  },
+  {
+    "id": 80,
+    "question_zh": "《就算世界無童話》係邊位歌手嘅歌？",
+    "question_en": "Who sings '就算世界無童話'?",
+    "options_zh": [
+      "衛蘭",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Janice Vidal",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《就算世界無童話》係衛蘭嘅歌。",
+    "explanation_en": "'就算世界無童話' is by Janice Vidal.",
+    "difficulty": 2
+  },
+  {
+    "id": 81,
+    "question_zh": "《離家出走》係邊位歌手嘅歌？",
+    "question_en": "Who sings '離家出走'?",
+    "options_zh": [
+      "衛蘭",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Janice Vidal",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《離家出走》係衛蘭嘅歌。",
+    "explanation_en": "'離家出走' is by Janice Vidal.",
+    "difficulty": 3
+  },
+  {
+    "id": 82,
+    "question_zh": "《心亂如麻》係邊位歌手嘅歌？",
+    "question_en": "Who sings '心亂如麻'?",
+    "options_zh": [
+      "衛蘭",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Janice Vidal",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《心亂如麻》係衛蘭嘅歌。",
+    "explanation_en": "'心亂如麻' is by Janice Vidal.",
+    "difficulty": 3
+  },
+  {
+    "id": 83,
+    "question_zh": "《拍錯拖》係邊位歌手嘅歌？",
+    "question_en": "Who sings '拍錯拖'?",
+    "options_zh": [
+      "衛蘭",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Janice Vidal",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《拍錯拖》係衛蘭嘅歌。",
+    "explanation_en": "'拍錯拖' is by Janice Vidal.",
+    "difficulty": 3
+  },
+  {
+    "id": 84,
+    "question_zh": "《如水》係邊位歌手嘅歌？",
+    "question_en": "Who sings '如水'?",
+    "options_zh": [
+      "衛蘭",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Janice Vidal",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《如水》係衛蘭嘅歌。",
+    "explanation_en": "'如水' is by Janice Vidal.",
+    "difficulty": 3
+  },
+  {
+    "id": 85,
+    "question_zh": "《大哥》係邊位歌手嘅歌？",
+    "question_en": "Who sings '大哥'?",
+    "options_zh": [
+      "衛蘭",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Janice Vidal",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《大哥》係衛蘭嘅歌。",
+    "explanation_en": "'大哥' is by Janice Vidal.",
+    "difficulty": 3
+  },
+  {
+    "id": 86,
+    "question_zh": "《就算世界無童話》係邊位歌手嘅歌？",
+    "question_en": "Who sings '就算世界無童話'?",
+    "options_zh": [
+      "衛蘭",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Janice Vidal",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《就算世界無童話》係衛蘭嘅歌。",
+    "explanation_en": "'就算世界無童話' is by Janice Vidal.",
+    "difficulty": 3
+  },
+  {
+    "id": 87,
+    "question_zh": "《離家出走》係邊位歌手嘅歌？",
+    "question_en": "Who sings '離家出走'?",
+    "options_zh": [
+      "衛蘭",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Janice Vidal",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《離家出走》係衛蘭嘅歌。",
+    "explanation_en": "'離家出走' is by Janice Vidal.",
+    "difficulty": 3
+  },
+  {
+    "id": 88,
+    "question_zh": "《心亂如麻》係邊位歌手嘅歌？",
+    "question_en": "Who sings '心亂如麻'?",
+    "options_zh": [
+      "衛蘭",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Janice Vidal",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《心亂如麻》係衛蘭嘅歌。",
+    "explanation_en": "'心亂如麻' is by Janice Vidal.",
+    "difficulty": 3
+  },
+  {
+    "id": 89,
+    "question_zh": "《拍錯拖》係邊位歌手嘅歌？",
+    "question_en": "Who sings '拍錯拖'?",
+    "options_zh": [
+      "衛蘭",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Janice Vidal",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《拍錯拖》係衛蘭嘅歌。",
+    "explanation_en": "'拍錯拖' is by Janice Vidal.",
+    "difficulty": 3
+  },
+  {
+    "id": 90,
+    "question_zh": "《如水》係邊位歌手嘅歌？",
+    "question_en": "Who sings '如水'?",
+    "options_zh": [
+      "衛蘭",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Janice Vidal",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《如水》係衛蘭嘅歌。",
+    "explanation_en": "'如水' is by Janice Vidal.",
+    "difficulty": 3
+  },
+  {
+    "id": 91,
+    "question_zh": "《大哥》係邊位歌手嘅歌？",
+    "question_en": "Who sings '大哥'?",
+    "options_zh": [
+      "衛蘭",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Janice Vidal",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《大哥》係衛蘭嘅歌。",
+    "explanation_en": "'大哥' is by Janice Vidal.",
+    "difficulty": 3
+  },
+  {
+    "id": 92,
+    "question_zh": "《就算世界無童話》係邊位歌手嘅歌？",
+    "question_en": "Who sings '就算世界無童話'?",
+    "options_zh": [
+      "衛蘭",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Janice Vidal",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《就算世界無童話》係衛蘭嘅歌。",
+    "explanation_en": "'就算世界無童話' is by Janice Vidal.",
+    "difficulty": 3
+  },
+  {
+    "id": 93,
+    "question_zh": "《離家出走》係邊位歌手嘅歌？",
+    "question_en": "Who sings '離家出走'?",
+    "options_zh": [
+      "衛蘭",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Janice Vidal",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《離家出走》係衛蘭嘅歌。",
+    "explanation_en": "'離家出走' is by Janice Vidal.",
+    "difficulty": 3
+  },
+  {
+    "id": 94,
+    "question_zh": "《心亂如麻》係邊位歌手嘅歌？",
+    "question_en": "Who sings '心亂如麻'?",
+    "options_zh": [
+      "衛蘭",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Janice Vidal",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《心亂如麻》係衛蘭嘅歌。",
+    "explanation_en": "'心亂如麻' is by Janice Vidal.",
+    "difficulty": 3
+  },
+  {
+    "id": 95,
+    "question_zh": "《拍錯拖》係邊位歌手嘅歌？",
+    "question_en": "Who sings '拍錯拖'?",
+    "options_zh": [
+      "衛蘭",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Janice Vidal",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《拍錯拖》係衛蘭嘅歌。",
+    "explanation_en": "'拍錯拖' is by Janice Vidal.",
+    "difficulty": 3
+  },
+  {
+    "id": 96,
+    "question_zh": "《如水》係邊位歌手嘅歌？",
+    "question_en": "Who sings '如水'?",
+    "options_zh": [
+      "衛蘭",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Janice Vidal",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《如水》係衛蘭嘅歌。",
+    "explanation_en": "'如水' is by Janice Vidal.",
+    "difficulty": 3
+  },
+  {
+    "id": 97,
+    "question_zh": "《大哥》係邊位歌手嘅歌？",
+    "question_en": "Who sings '大哥'?",
+    "options_zh": [
+      "衛蘭",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Janice Vidal",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《大哥》係衛蘭嘅歌。",
+    "explanation_en": "'大哥' is by Janice Vidal.",
+    "difficulty": 3
+  },
+  {
+    "id": 98,
+    "question_zh": "《就算世界無童話》係邊位歌手嘅歌？",
+    "question_en": "Who sings '就算世界無童話'?",
+    "options_zh": [
+      "衛蘭",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Janice Vidal",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《就算世界無童話》係衛蘭嘅歌。",
+    "explanation_en": "'就算世界無童話' is by Janice Vidal.",
+    "difficulty": 3
+  },
+  {
+    "id": 99,
+    "question_zh": "《離家出走》係邊位歌手嘅歌？",
+    "question_en": "Who sings '離家出走'?",
+    "options_zh": [
+      "衛蘭",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Janice Vidal",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《離家出走》係衛蘭嘅歌。",
+    "explanation_en": "'離家出走' is by Janice Vidal.",
+    "difficulty": 3
+  },
+  {
+    "id": 100,
+    "question_zh": "《心亂如麻》係邊位歌手嘅歌？",
+    "question_en": "Who sings '心亂如麻'?",
+    "options_zh": [
+      "衛蘭",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Janice Vidal",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《心亂如麻》係衛蘭嘅歌。",
+    "explanation_en": "'心亂如麻' is by Janice Vidal.",
+    "difficulty": 3
   }
 ]

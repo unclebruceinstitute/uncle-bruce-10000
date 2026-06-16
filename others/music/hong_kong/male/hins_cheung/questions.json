@@ -1,65 +1,2102 @@
 [
   {
     "id": 1,
-    "question_zh": "張敬軒出道嘅年份係？",
-    "question_en": "When did Hins Cheung debut?",
+    "question_zh": "以下邊首係張敬軒嘅歌？",
+    "question_en": "Which is a song by Hins Cheung?",
     "options_zh": [
-      "1990年代",
-      "2000年代",
-      "2010年代",
-      "2020年代"
+      "百年树木",
+      "酷愛",
+      "斷點",
+      "過客別墅"
     ],
     "options_en": [
-      "1990年代",
-      "2000年代",
-      "2010年代",
-      "2020年代"
+      "百年树木",
+      "酷愛",
+      "斷點",
+      "過客別墅"
     ],
-    "answer": 1,
-    "explanation_zh": "張敬軒喺2000年代出道。",
-    "explanation_en": "Hins Cheung debuted in the 2000s.",
+    "answer": 2,
+    "explanation_zh": "「斷點」係張敬軒嘅歌曲。",
+    "explanation_en": "'斷點' is a song by Hins Cheung.",
     "difficulty": 1
   },
   {
     "id": 2,
-    "question_zh": "張敬軒係邊個地方嘅歌手？",
-    "question_en": "Where is Hins Cheung from?",
+    "question_zh": "以下邊首係張敬軒嘅歌？",
+    "question_en": "Which is a song by Hins Cheung?",
     "options_zh": [
-      "香港",
-      "台灣",
-      "內地",
-      "海外"
+      "My Way",
+      "過客別墅",
+      "羅賓",
+      "笑忘書"
     ],
     "options_en": [
-      "香港",
-      "台灣",
-      "內地",
-      "海外"
+      "My Way",
+      "過客別墅",
+      "羅賓",
+      "笑忘書"
     ],
     "answer": 0,
-    "explanation_zh": "張敬軒係香港歌手。",
-    "explanation_en": "Hins Cheung is from Hong Kong.",
+    "explanation_zh": "「My Way」係張敬軒嘅歌曲。",
+    "explanation_en": "'My Way' is a song by Hins Cheung.",
     "difficulty": 1
   },
   {
     "id": 3,
-    "question_zh": "以下邊首係張敬軒嘅代表作？",
-    "question_en": "Which is a representative song of Hins Cheung?",
+    "question_zh": "以下邊首係張敬軒嘅歌？",
+    "question_en": "Which is a song by Hins Cheung?",
     "options_zh": [
-      "歌曲A",
-      "歌曲B",
-      "歌曲C",
-      "歌曲D"
+      "百年树木",
+      "笑忘書",
+      "櫻花樹下",
+      "酷愛"
     ],
     "options_en": [
-      "歌曲A",
-      "歌曲B",
-      "歌曲C",
-      "歌曲D"
+      "百年树木",
+      "笑忘書",
+      "櫻花樹下",
+      "酷愛"
+    ],
+    "answer": 2,
+    "explanation_zh": "「櫻花樹下」係張敬軒嘅歌曲。",
+    "explanation_en": "'櫻花樹下' is a song by Hins Cheung.",
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question_zh": "以下邊首係張敬軒嘅歌？",
+    "question_en": "Which is a song by Hins Cheung?",
+    "options_zh": [
+      "酷愛",
+      "青春常駐",
+      "羅賓",
+      "百年树木"
+    ],
+    "options_en": [
+      "酷愛",
+      "青春常駐",
+      "羅賓",
+      "百年树木"
     ],
     "answer": 0,
-    "explanation_zh": "「歌曲A」係張敬軒嘅代表作之一。",
-    "explanation_en": "'Song A' is one of {artist_en}'s representative songs.",
+    "explanation_zh": "「酷愛」係張敬軒嘅歌曲。",
+    "explanation_en": "'酷愛' is a song by Hins Cheung.",
     "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question_zh": "以下邊首係張敬軒嘅歌？",
+    "question_en": "Which is a song by Hins Cheung?",
+    "options_zh": [
+      "酷愛",
+      "笑忘書",
+      "青春常駐",
+      "櫻花樹下"
+    ],
+    "options_en": [
+      "酷愛",
+      "笑忘書",
+      "青春常駐",
+      "櫻花樹下"
+    ],
+    "answer": 1,
+    "explanation_zh": "「笑忘書」係張敬軒嘅歌曲。",
+    "explanation_en": "'笑忘書' is a song by Hins Cheung.",
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question_zh": "以下邊首係張敬軒嘅歌？",
+    "question_en": "Which is a song by Hins Cheung?",
+    "options_zh": [
+      "羅賓",
+      "笑忘書",
+      "過客別墅",
+      "騷靈情歌"
+    ],
+    "options_en": [
+      "羅賓",
+      "笑忘書",
+      "過客別墅",
+      "騷靈情歌"
+    ],
+    "answer": 3,
+    "explanation_zh": "「騷靈情歌」係張敬軒嘅歌曲。",
+    "explanation_en": "'騷靈情歌' is a song by Hins Cheung.",
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question_zh": "以下邊首係張敬軒嘅歌？",
+    "question_en": "Which is a song by Hins Cheung?",
+    "options_zh": [
+      "過客別墅",
+      "My Way",
+      "青春常駐",
+      "笑忘書"
+    ],
+    "options_en": [
+      "過客別墅",
+      "My Way",
+      "青春常駐",
+      "笑忘書"
+    ],
+    "answer": 0,
+    "explanation_zh": "「過客別墅」係張敬軒嘅歌曲。",
+    "explanation_en": "'過客別墅' is a song by Hins Cheung.",
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question_zh": "以下邊首係張敬軒嘅歌？",
+    "question_en": "Which is a song by Hins Cheung?",
+    "options_zh": [
+      "百年树木",
+      "櫻花樹下",
+      "青春常駐",
+      "過客別墅"
+    ],
+    "options_en": [
+      "百年树木",
+      "櫻花樹下",
+      "青春常駐",
+      "過客別墅"
+    ],
+    "answer": 2,
+    "explanation_zh": "「青春常駐」係張敬軒嘅歌曲。",
+    "explanation_en": "'青春常駐' is a song by Hins Cheung.",
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question_zh": "以下邊首係張敬軒嘅歌？",
+    "question_en": "Which is a song by Hins Cheung?",
+    "options_zh": [
+      "騷靈情歌",
+      "青春常駐",
+      "羅賓",
+      "斷點"
+    ],
+    "options_en": [
+      "騷靈情歌",
+      "青春常駐",
+      "羅賓",
+      "斷點"
+    ],
+    "answer": 2,
+    "explanation_zh": "「羅賓」係張敬軒嘅歌曲。",
+    "explanation_en": "'羅賓' is a song by Hins Cheung.",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question_zh": "以下邊首係張敬軒嘅歌？",
+    "question_en": "Which is a song by Hins Cheung?",
+    "options_zh": [
+      "騷靈情歌",
+      "羅賓",
+      "百年树木",
+      "My Way"
+    ],
+    "options_en": [
+      "騷靈情歌",
+      "羅賓",
+      "百年树木",
+      "My Way"
+    ],
+    "answer": 2,
+    "explanation_zh": "「百年树木」係張敬軒嘅歌曲。",
+    "explanation_en": "'百年树木' is a song by Hins Cheung.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "《My Way》係張敬軒喺邊年推出嘅專輯？",
+    "question_en": "What year was 'My Way' by Hins Cheung released?",
+    "options_zh": [
+      "1999",
+      "2023",
+      "2010",
+      "2007"
+    ],
+    "options_en": [
+      "1999",
+      "2023",
+      "2010",
+      "2007"
+    ],
+    "answer": 2,
+    "explanation_zh": "《My Way》喺2010年推出。",
+    "explanation_en": "'My Way' was released in 2010.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《櫻花樹下》係張敬軒喺邊年推出嘅專輯？",
+    "question_en": "What year was '櫻花樹下' by Hins Cheung released?",
+    "options_zh": [
+      "2015",
+      "1999",
+      "2010",
+      "2007"
+    ],
+    "options_en": [
+      "2015",
+      "1999",
+      "2010",
+      "2007"
+    ],
+    "answer": 1,
+    "explanation_zh": "《櫻花樹下》喺1999年推出。",
+    "explanation_en": "'櫻花樹下' was released in 1999.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《P.S. I Love You》係張敬軒喺邊年推出嘅專輯？",
+    "question_en": "What year was 'P.S. I Love You' by Hins Cheung released?",
+    "options_zh": [
+      "2003",
+      "2007",
+      "2010",
+      "1999"
+    ],
+    "options_en": [
+      "2003",
+      "2007",
+      "2010",
+      "1999"
+    ],
+    "answer": 0,
+    "explanation_zh": "《P.S. I Love You》喺2003年推出。",
+    "explanation_en": "'P.S. I Love You' was released in 2003.",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_zh": "張敬軒大約喺邊年出道？",
+    "question_en": "When did Hins Cheung approximately debut?",
+    "options_zh": [
+      "1985",
+      "2020",
+      "2001",
+      "2000"
+    ],
+    "options_en": [
+      "1985",
+      "2020",
+      "2001",
+      "2000"
+    ],
+    "answer": 2,
+    "explanation_zh": "張敬軒喺2001年出道。",
+    "explanation_en": "Hins Cheung debuted around 2001.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "張敬軒大約喺邊年出道？",
+    "question_en": "When did Hins Cheung approximately debut?",
+    "options_zh": [
+      "1995",
+      "2010",
+      "2001",
+      "2005"
+    ],
+    "options_en": [
+      "1995",
+      "2010",
+      "2001",
+      "2005"
+    ],
+    "answer": 2,
+    "explanation_zh": "張敬軒喺2001年出道。",
+    "explanation_en": "Hins Cheung debuted around 2001.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "張敬軒大約喺邊年出道？",
+    "question_en": "When did Hins Cheung approximately debut?",
+    "options_zh": [
+      "2005",
+      "2001",
+      "1980",
+      "2015"
+    ],
+    "options_en": [
+      "2005",
+      "2001",
+      "1980",
+      "2015"
+    ],
+    "answer": 1,
+    "explanation_zh": "張敬軒喺2001年出道。",
+    "explanation_en": "Hins Cheung debuted around 2001.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "張敬軒大約喺邊年出道？",
+    "question_en": "When did Hins Cheung approximately debut?",
+    "options_zh": [
+      "1980",
+      "2000",
+      "2001",
+      "2010"
+    ],
+    "options_en": [
+      "1980",
+      "2000",
+      "2001",
+      "2010"
+    ],
+    "answer": 2,
+    "explanation_zh": "張敬軒喺2001年出道。",
+    "explanation_en": "Hins Cheung debuted around 2001.",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_zh": "張敬軒大約喺邊年出道？",
+    "question_en": "When did Hins Cheung approximately debut?",
+    "options_zh": [
+      "1990",
+      "2000",
+      "2001",
+      "1985"
+    ],
+    "options_en": [
+      "1990",
+      "2000",
+      "2001",
+      "1985"
+    ],
+    "answer": 2,
+    "explanation_zh": "張敬軒喺2001年出道。",
+    "explanation_en": "Hins Cheung debuted around 2001.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "張敬軒大約喺邊年出道？",
+    "question_en": "When did Hins Cheung approximately debut?",
+    "options_zh": [
+      "2001",
+      "2015",
+      "2010",
+      "1980"
+    ],
+    "options_en": [
+      "2001",
+      "2015",
+      "2010",
+      "1980"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒喺2001年出道。",
+    "explanation_en": "Hins Cheung debuted around 2001.",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question_zh": "張敬軒大約喺邊年出道？",
+    "question_en": "When did Hins Cheung approximately debut?",
+    "options_zh": [
+      "2005",
+      "2010",
+      "1980",
+      "2001"
+    ],
+    "options_en": [
+      "2005",
+      "2010",
+      "1980",
+      "2001"
+    ],
+    "answer": 3,
+    "explanation_zh": "張敬軒喺2001年出道。",
+    "explanation_en": "Hins Cheung debuted around 2001.",
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question_zh": "張敬軒大約喺邊年出道？",
+    "question_en": "When did Hins Cheung approximately debut?",
+    "options_zh": [
+      "2020",
+      "2005",
+      "1985",
+      "2001"
+    ],
+    "options_en": [
+      "2020",
+      "2005",
+      "1985",
+      "2001"
+    ],
+    "answer": 3,
+    "explanation_zh": "張敬軒喺2001年出道。",
+    "explanation_en": "Hins Cheung debuted around 2001.",
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question_zh": "張敬軒大約喺邊年出道？",
+    "question_en": "When did Hins Cheung approximately debut?",
+    "options_zh": [
+      "1990",
+      "2001",
+      "2015",
+      "2005"
+    ],
+    "options_en": [
+      "1990",
+      "2001",
+      "2015",
+      "2005"
+    ],
+    "answer": 1,
+    "explanation_zh": "張敬軒喺2001年出道。",
+    "explanation_en": "Hins Cheung debuted around 2001.",
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question_zh": "張敬軒大約喺邊年出道？",
+    "question_en": "When did Hins Cheung approximately debut?",
+    "options_zh": [
+      "1985",
+      "1990",
+      "2001",
+      "2005"
+    ],
+    "options_en": [
+      "1985",
+      "1990",
+      "2001",
+      "2005"
+    ],
+    "answer": 2,
+    "explanation_zh": "張敬軒喺2001年出道。",
+    "explanation_en": "Hins Cheung debuted around 2001.",
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question_zh": "張敬軒來自邊個地方？",
+    "question_en": "Where is Hins Cheung from?",
+    "options_zh": [
+      "加拿大",
+      "香港",
+      "新加坡",
+      "廣州/香港"
+    ],
+    "options_en": [
+      "加拿大",
+      "香港",
+      "新加坡",
+      "廣州/香港"
+    ],
+    "answer": 3,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question_zh": "張敬軒來自邊個地方？",
+    "question_en": "Where is Hins Cheung from?",
+    "options_zh": [
+      "英國",
+      "美國",
+      "廣州/香港",
+      "韓國"
+    ],
+    "options_en": [
+      "英國",
+      "美國",
+      "廣州/香港",
+      "韓國"
+    ],
+    "answer": 2,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question_zh": "張敬軒來自邊個地方？",
+    "question_en": "Where is Hins Cheung from?",
+    "options_zh": [
+      "香港",
+      "廣州/香港",
+      "馬來西亞",
+      "日本"
+    ],
+    "options_en": [
+      "香港",
+      "廣州/香港",
+      "馬來西亞",
+      "日本"
+    ],
+    "answer": 1,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 27,
+    "question_zh": "張敬軒來自邊個地方？",
+    "question_en": "Where is Hins Cheung from?",
+    "options_zh": [
+      "廣州/香港",
+      "韓國",
+      "日本",
+      "英國"
+    ],
+    "options_en": [
+      "廣州/香港",
+      "韓國",
+      "日本",
+      "英國"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question_zh": "張敬軒來自邊個地方？",
+    "question_en": "Where is Hins Cheung from?",
+    "options_zh": [
+      "廣州/香港",
+      "內地",
+      "英國",
+      "美國"
+    ],
+    "options_en": [
+      "廣州/香港",
+      "內地",
+      "英國",
+      "美國"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question_zh": "張敬軒來自邊個地方？",
+    "question_en": "Where is Hins Cheung from?",
+    "options_zh": [
+      "台灣",
+      "廣州/香港",
+      "韓國",
+      "加拿大"
+    ],
+    "options_en": [
+      "台灣",
+      "廣州/香港",
+      "韓國",
+      "加拿大"
+    ],
+    "answer": 1,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 30,
+    "question_zh": "張敬軒來自邊個地方？",
+    "question_en": "Where is Hins Cheung from?",
+    "options_zh": [
+      "馬來西亞",
+      "英國",
+      "日本",
+      "廣州/香港"
+    ],
+    "options_en": [
+      "馬來西亞",
+      "英國",
+      "日本",
+      "廣州/香港"
+    ],
+    "answer": 3,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question_zh": "張敬軒來自邊個地方？",
+    "question_en": "Where is Hins Cheung from?",
+    "options_zh": [
+      "加拿大",
+      "馬來西亞",
+      "廣州/香港",
+      "美國"
+    ],
+    "options_en": [
+      "加拿大",
+      "馬來西亞",
+      "廣州/香港",
+      "美國"
+    ],
+    "answer": 2,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 32,
+    "question_zh": "張敬軒來自邊個地方？",
+    "question_en": "Where is Hins Cheung from?",
+    "options_zh": [
+      "廣州/香港",
+      "日本",
+      "香港",
+      "美國"
+    ],
+    "options_en": [
+      "廣州/香港",
+      "日本",
+      "香港",
+      "美國"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 33,
+    "question_zh": "張敬軒來自邊個地方？",
+    "question_en": "Where is Hins Cheung from?",
+    "options_zh": [
+      "香港",
+      "廣州/香港",
+      "馬來西亞",
+      "台灣"
+    ],
+    "options_en": [
+      "香港",
+      "廣州/香港",
+      "馬來西亞",
+      "台灣"
+    ],
+    "answer": 1,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question_zh": "張敬軒主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Hins Cheung mainly sing?",
+    "options_zh": [
+      "流行曲",
+      "R&B",
+      "古典",
+      "流行曲/R&B"
+    ],
+    "options_en": [
+      "流行曲",
+      "R&B",
+      "古典",
+      "流行曲/R&B"
+    ],
+    "answer": 3,
+    "explanation_zh": "張敬軒主要唱流行曲/R&B。",
+    "explanation_en": "Hins Cheung mainly sings 流行曲/R&B.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question_zh": "張敬軒主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Hins Cheung mainly sing?",
+    "options_zh": [
+      "嘻哈",
+      "流行曲/R&B",
+      "爵士",
+      "藍調"
+    ],
+    "options_en": [
+      "嘻哈",
+      "流行曲/R&B",
+      "爵士",
+      "藍調"
+    ],
+    "answer": 1,
+    "explanation_zh": "張敬軒主要唱流行曲/R&B。",
+    "explanation_en": "Hins Cheung mainly sings 流行曲/R&B.",
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "question_zh": "張敬軒主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Hins Cheung mainly sing?",
+    "options_zh": [
+      "流行曲/R&B",
+      "古典",
+      "舞曲",
+      "R&B"
+    ],
+    "options_en": [
+      "流行曲/R&B",
+      "古典",
+      "舞曲",
+      "R&B"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒主要唱流行曲/R&B。",
+    "explanation_en": "Hins Cheung mainly sings 流行曲/R&B.",
+    "difficulty": 2
+  },
+  {
+    "id": 37,
+    "question_zh": "張敬軒主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Hins Cheung mainly sing?",
+    "options_zh": [
+      "流行曲/R&B",
+      "R&B",
+      "搖滾",
+      "爵士"
+    ],
+    "options_en": [
+      "流行曲/R&B",
+      "R&B",
+      "搖滾",
+      "爵士"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒主要唱流行曲/R&B。",
+    "explanation_en": "Hins Cheung mainly sings 流行曲/R&B.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "張敬軒主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Hins Cheung mainly sing?",
+    "options_zh": [
+      "流行曲/R&B",
+      "搖滾",
+      "流行曲",
+      "嘻哈"
+    ],
+    "options_en": [
+      "流行曲/R&B",
+      "搖滾",
+      "流行曲",
+      "嘻哈"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒主要唱流行曲/R&B。",
+    "explanation_en": "Hins Cheung mainly sings 流行曲/R&B.",
+    "difficulty": 2
+  },
+  {
+    "id": 39,
+    "question_zh": "張敬軒主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Hins Cheung mainly sing?",
+    "options_zh": [
+      "流行曲/R&B",
+      "藍調",
+      "電子",
+      "搖滾"
+    ],
+    "options_en": [
+      "流行曲/R&B",
+      "藍調",
+      "電子",
+      "搖滾"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒主要唱流行曲/R&B。",
+    "explanation_en": "Hins Cheung mainly sings 流行曲/R&B.",
+    "difficulty": 2
+  },
+  {
+    "id": 40,
+    "question_zh": "張敬軒主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Hins Cheung mainly sing?",
+    "options_zh": [
+      "古典",
+      "電子",
+      "流行曲/R&B",
+      "嘻哈"
+    ],
+    "options_en": [
+      "古典",
+      "電子",
+      "流行曲/R&B",
+      "嘻哈"
+    ],
+    "answer": 2,
+    "explanation_zh": "張敬軒主要唱流行曲/R&B。",
+    "explanation_en": "Hins Cheung mainly sings 流行曲/R&B.",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question_zh": "張敬軒主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Hins Cheung mainly sing?",
+    "options_zh": [
+      "古典",
+      "搖滾",
+      "流行曲/R&B",
+      "R&B"
+    ],
+    "options_en": [
+      "古典",
+      "搖滾",
+      "流行曲/R&B",
+      "R&B"
+    ],
+    "answer": 2,
+    "explanation_zh": "張敬軒主要唱流行曲/R&B。",
+    "explanation_en": "Hins Cheung mainly sings 流行曲/R&B.",
+    "difficulty": 2
+  },
+  {
+    "id": 42,
+    "question_zh": "張敬軒主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Hins Cheung mainly sing?",
+    "options_zh": [
+      "爵士",
+      "電子",
+      "流行曲/R&B",
+      "搖滾"
+    ],
+    "options_en": [
+      "爵士",
+      "電子",
+      "流行曲/R&B",
+      "搖滾"
+    ],
+    "answer": 2,
+    "explanation_zh": "張敬軒主要唱流行曲/R&B。",
+    "explanation_en": "Hins Cheung mainly sings 流行曲/R&B.",
+    "difficulty": 2
+  },
+  {
+    "id": 43,
+    "question_zh": "張敬軒主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Hins Cheung mainly sing?",
+    "options_zh": [
+      "爵士",
+      "藍調",
+      "嘻哈",
+      "流行曲/R&B"
+    ],
+    "options_en": [
+      "爵士",
+      "藍調",
+      "嘻哈",
+      "流行曲/R&B"
+    ],
+    "answer": 3,
+    "explanation_zh": "張敬軒主要唱流行曲/R&B。",
+    "explanation_en": "Hins Cheung mainly sings 流行曲/R&B.",
+    "difficulty": 2
+  },
+  {
+    "id": 44,
+    "question_zh": "張敬軒係邊間唱片公司旗下？",
+    "question_en": "Which label is Hins Cheung signed to?",
+    "options_zh": [
+      "英皇",
+      "金牌大風",
+      "環球",
+      "新藝寶"
+    ],
+    "options_en": [
+      "英皇",
+      "金牌大風",
+      "環球",
+      "新藝寶"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒係英皇旗下歌手。",
+    "explanation_en": "Hins Cheung is signed to 英皇.",
+    "difficulty": 2
+  },
+  {
+    "id": 45,
+    "question_zh": "張敬軒係邊間唱片公司旗下？",
+    "question_en": "Which label is Hins Cheung signed to?",
+    "options_zh": [
+      "索尼",
+      "新藝寶",
+      "大國文化",
+      "英皇"
+    ],
+    "options_en": [
+      "索尼",
+      "新藝寶",
+      "大國文化",
+      "英皇"
+    ],
+    "answer": 3,
+    "explanation_zh": "張敬軒係英皇旗下歌手。",
+    "explanation_en": "Hins Cheung is signed to 英皇.",
+    "difficulty": 2
+  },
+  {
+    "id": 46,
+    "question_zh": "張敬軒係邊間唱片公司旗下？",
+    "question_en": "Which label is Hins Cheung signed to?",
+    "options_zh": [
+      "新藝寶",
+      "英皇",
+      "寰亞",
+      "大國文化"
+    ],
+    "options_en": [
+      "新藝寶",
+      "英皇",
+      "寰亞",
+      "大國文化"
+    ],
+    "answer": 1,
+    "explanation_zh": "張敬軒係英皇旗下歌手。",
+    "explanation_en": "Hins Cheung is signed to 英皇.",
+    "difficulty": 2
+  },
+  {
+    "id": 47,
+    "question_zh": "張敬軒係邊間唱片公司旗下？",
+    "question_en": "Which label is Hins Cheung signed to?",
+    "options_zh": [
+      "新藝寶",
+      "星夢",
+      "索尼",
+      "英皇"
+    ],
+    "options_en": [
+      "新藝寶",
+      "星夢",
+      "索尼",
+      "英皇"
+    ],
+    "answer": 3,
+    "explanation_zh": "張敬軒係英皇旗下歌手。",
+    "explanation_en": "Hins Cheung is signed to 英皇.",
+    "difficulty": 2
+  },
+  {
+    "id": 48,
+    "question_zh": "張敬軒係邊間唱片公司旗下？",
+    "question_en": "Which label is Hins Cheung signed to?",
+    "options_zh": [
+      "星夢",
+      "華納",
+      "英皇",
+      "紅線音樂"
+    ],
+    "options_en": [
+      "星夢",
+      "華納",
+      "英皇",
+      "紅線音樂"
+    ],
+    "answer": 2,
+    "explanation_zh": "張敬軒係英皇旗下歌手。",
+    "explanation_en": "Hins Cheung is signed to 英皇.",
+    "difficulty": 2
+  },
+  {
+    "id": 49,
+    "question_zh": "張敬軒係邊間唱片公司旗下？",
+    "question_en": "Which label is Hins Cheung signed to?",
+    "options_zh": [
+      "紅線音樂",
+      "寰亞",
+      "環球",
+      "英皇"
+    ],
+    "options_en": [
+      "紅線音樂",
+      "寰亞",
+      "環球",
+      "英皇"
+    ],
+    "answer": 3,
+    "explanation_zh": "張敬軒係英皇旗下歌手。",
+    "explanation_en": "Hins Cheung is signed to 英皇.",
+    "difficulty": 2
+  },
+  {
+    "id": 50,
+    "question_zh": "張敬軒係邊間唱片公司旗下？",
+    "question_en": "Which label is Hins Cheung signed to?",
+    "options_zh": [
+      "大國文化",
+      "英皇",
+      "華納",
+      "索尼"
+    ],
+    "options_en": [
+      "大國文化",
+      "英皇",
+      "華納",
+      "索尼"
+    ],
+    "answer": 1,
+    "explanation_zh": "張敬軒係英皇旗下歌手。",
+    "explanation_en": "Hins Cheung is signed to 英皇.",
+    "difficulty": 2
+  },
+  {
+    "id": 51,
+    "question_zh": "張敬軒係邊間唱片公司旗下？",
+    "question_en": "Which label is Hins Cheung signed to?",
+    "options_zh": [
+      "大國文化",
+      "寰亞",
+      "星夢",
+      "英皇"
+    ],
+    "options_en": [
+      "大國文化",
+      "寰亞",
+      "星夢",
+      "英皇"
+    ],
+    "answer": 3,
+    "explanation_zh": "張敬軒係英皇旗下歌手。",
+    "explanation_en": "Hins Cheung is signed to 英皇.",
+    "difficulty": 2
+  },
+  {
+    "id": 52,
+    "question_zh": "張敬軒係邊間唱片公司旗下？",
+    "question_en": "Which label is Hins Cheung signed to?",
+    "options_zh": [
+      "紅線音樂",
+      "英皇",
+      "華納",
+      "大國文化"
+    ],
+    "options_en": [
+      "紅線音樂",
+      "英皇",
+      "華納",
+      "大國文化"
+    ],
+    "answer": 1,
+    "explanation_zh": "張敬軒係英皇旗下歌手。",
+    "explanation_en": "Hins Cheung is signed to 英皇.",
+    "difficulty": 2
+  },
+  {
+    "id": 53,
+    "question_zh": "張敬軒係邊間唱片公司旗下？",
+    "question_en": "Which label is Hins Cheung signed to?",
+    "options_zh": [
+      "索尼",
+      "大國文化",
+      "英皇",
+      "紅線音樂"
+    ],
+    "options_en": [
+      "索尼",
+      "大國文化",
+      "英皇",
+      "紅線音樂"
+    ],
+    "answer": 2,
+    "explanation_zh": "張敬軒係英皇旗下歌手。",
+    "explanation_en": "Hins Cheung is signed to 英皇.",
+    "difficulty": 2
+  },
+  {
+    "id": 54,
+    "question_zh": "以下邊項關於張敬軒嘅描述係正確？",
+    "question_en": "Which description of Hins Cheung is correct?",
+    "options_zh": [
+      "來自廣州/香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 廣州/香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 55,
+    "question_zh": "以下邊項關於張敬軒嘅描述係正確？",
+    "question_en": "Which description of Hins Cheung is correct?",
+    "options_zh": [
+      "來自廣州/香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 廣州/香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 56,
+    "question_zh": "以下邊項關於張敬軒嘅描述係正確？",
+    "question_en": "Which description of Hins Cheung is correct?",
+    "options_zh": [
+      "來自廣州/香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 廣州/香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 57,
+    "question_zh": "以下邊項關於張敬軒嘅描述係正確？",
+    "question_en": "Which description of Hins Cheung is correct?",
+    "options_zh": [
+      "來自廣州/香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 廣州/香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 58,
+    "question_zh": "以下邊項關於張敬軒嘅描述係正確？",
+    "question_en": "Which description of Hins Cheung is correct?",
+    "options_zh": [
+      "來自廣州/香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 廣州/香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 59,
+    "question_zh": "以下邊項關於張敬軒嘅描述係正確？",
+    "question_en": "Which description of Hins Cheung is correct?",
+    "options_zh": [
+      "來自廣州/香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 廣州/香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 60,
+    "question_zh": "以下邊項關於張敬軒嘅描述係正確？",
+    "question_en": "Which description of Hins Cheung is correct?",
+    "options_zh": [
+      "來自廣州/香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 廣州/香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 61,
+    "question_zh": "以下邊項關於張敬軒嘅描述係正確？",
+    "question_en": "Which description of Hins Cheung is correct?",
+    "options_zh": [
+      "來自廣州/香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 廣州/香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 62,
+    "question_zh": "以下邊項關於張敬軒嘅描述係正確？",
+    "question_en": "Which description of Hins Cheung is correct?",
+    "options_zh": [
+      "來自廣州/香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 廣州/香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 63,
+    "question_zh": "以下邊項關於張敬軒嘅描述係正確？",
+    "question_en": "Which description of Hins Cheung is correct?",
+    "options_zh": [
+      "來自廣州/香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 廣州/香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 64,
+    "question_zh": "以下邊項關於張敬軒嘅描述係正確？",
+    "question_en": "Which description of Hins Cheung is correct?",
+    "options_zh": [
+      "來自廣州/香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 廣州/香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 65,
+    "question_zh": "以下邊項關於張敬軒嘅描述係正確？",
+    "question_en": "Which description of Hins Cheung is correct?",
+    "options_zh": [
+      "來自廣州/香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 廣州/香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 66,
+    "question_zh": "以下邊項關於張敬軒嘅描述係正確？",
+    "question_en": "Which description of Hins Cheung is correct?",
+    "options_zh": [
+      "來自廣州/香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 廣州/香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 67,
+    "question_zh": "以下邊項關於張敬軒嘅描述係正確？",
+    "question_en": "Which description of Hins Cheung is correct?",
+    "options_zh": [
+      "來自廣州/香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 廣州/香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 68,
+    "question_zh": "以下邊項關於張敬軒嘅描述係正確？",
+    "question_en": "Which description of Hins Cheung is correct?",
+    "options_zh": [
+      "來自廣州/香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 廣州/香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒來自廣州/香港。",
+    "explanation_en": "Hins Cheung is from 廣州/香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 69,
+    "question_zh": "以下邊個獎項張敬軒曾經獲得？",
+    "question_en": "Which award has Hins Cheung won?",
+    "options_zh": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒曾獲得叱咤樂壇男歌手金獎、新城勁爆男歌手。",
+    "explanation_en": "Hins Cheung has won 叱咤樂壇男歌手金獎、新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 70,
+    "question_zh": "以下邊個獎項張敬軒曾經獲得？",
+    "question_en": "Which award has Hins Cheung won?",
+    "options_zh": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒曾獲得叱咤樂壇男歌手金獎、新城勁爆男歌手。",
+    "explanation_en": "Hins Cheung has won 叱咤樂壇男歌手金獎、新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 71,
+    "question_zh": "以下邊個獎項張敬軒曾經獲得？",
+    "question_en": "Which award has Hins Cheung won?",
+    "options_zh": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒曾獲得叱咤樂壇男歌手金獎、新城勁爆男歌手。",
+    "explanation_en": "Hins Cheung has won 叱咤樂壇男歌手金獎、新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 72,
+    "question_zh": "以下邊個獎項張敬軒曾經獲得？",
+    "question_en": "Which award has Hins Cheung won?",
+    "options_zh": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒曾獲得叱咤樂壇男歌手金獎、新城勁爆男歌手。",
+    "explanation_en": "Hins Cheung has won 叱咤樂壇男歌手金獎、新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 73,
+    "question_zh": "以下邊個獎項張敬軒曾經獲得？",
+    "question_en": "Which award has Hins Cheung won?",
+    "options_zh": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒曾獲得叱咤樂壇男歌手金獎、新城勁爆男歌手。",
+    "explanation_en": "Hins Cheung has won 叱咤樂壇男歌手金獎、新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 74,
+    "question_zh": "以下邊個獎項張敬軒曾經獲得？",
+    "question_en": "Which award has Hins Cheung won?",
+    "options_zh": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒曾獲得叱咤樂壇男歌手金獎、新城勁爆男歌手。",
+    "explanation_en": "Hins Cheung has won 叱咤樂壇男歌手金獎、新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 75,
+    "question_zh": "以下邊個獎項張敬軒曾經獲得？",
+    "question_en": "Which award has Hins Cheung won?",
+    "options_zh": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒曾獲得叱咤樂壇男歌手金獎、新城勁爆男歌手。",
+    "explanation_en": "Hins Cheung has won 叱咤樂壇男歌手金獎、新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 76,
+    "question_zh": "以下邊個獎項張敬軒曾經獲得？",
+    "question_en": "Which award has Hins Cheung won?",
+    "options_zh": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒曾獲得叱咤樂壇男歌手金獎、新城勁爆男歌手。",
+    "explanation_en": "Hins Cheung has won 叱咤樂壇男歌手金獎、新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 77,
+    "question_zh": "以下邊個獎項張敬軒曾經獲得？",
+    "question_en": "Which award has Hins Cheung won?",
+    "options_zh": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒曾獲得叱咤樂壇男歌手金獎、新城勁爆男歌手。",
+    "explanation_en": "Hins Cheung has won 叱咤樂壇男歌手金獎、新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 78,
+    "question_zh": "以下邊個獎項張敬軒曾經獲得？",
+    "question_en": "Which award has Hins Cheung won?",
+    "options_zh": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒曾獲得叱咤樂壇男歌手金獎、新城勁爆男歌手。",
+    "explanation_en": "Hins Cheung has won 叱咤樂壇男歌手金獎、新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 79,
+    "question_zh": "以下邊個獎項張敬軒曾經獲得？",
+    "question_en": "Which award has Hins Cheung won?",
+    "options_zh": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒曾獲得叱咤樂壇男歌手金獎、新城勁爆男歌手。",
+    "explanation_en": "Hins Cheung has won 叱咤樂壇男歌手金獎、新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 80,
+    "question_zh": "以下邊個獎項張敬軒曾經獲得？",
+    "question_en": "Which award has Hins Cheung won?",
+    "options_zh": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒曾獲得叱咤樂壇男歌手金獎、新城勁爆男歌手。",
+    "explanation_en": "Hins Cheung has won 叱咤樂壇男歌手金獎、新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 81,
+    "question_zh": "以下邊個獎項張敬軒曾經獲得？",
+    "question_en": "Which award has Hins Cheung won?",
+    "options_zh": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒曾獲得叱咤樂壇男歌手金獎、新城勁爆男歌手。",
+    "explanation_en": "Hins Cheung has won 叱咤樂壇男歌手金獎、新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 82,
+    "question_zh": "以下邊個獎項張敬軒曾經獲得？",
+    "question_en": "Which award has Hins Cheung won?",
+    "options_zh": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒曾獲得叱咤樂壇男歌手金獎、新城勁爆男歌手。",
+    "explanation_en": "Hins Cheung has won 叱咤樂壇男歌手金獎、新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 83,
+    "question_zh": "以下邊個獎項張敬軒曾經獲得？",
+    "question_en": "Which award has Hins Cheung won?",
+    "options_zh": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "叱咤樂壇男歌手金獎、新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "張敬軒曾獲得叱咤樂壇男歌手金獎、新城勁爆男歌手。",
+    "explanation_en": "Hins Cheung has won 叱咤樂壇男歌手金獎、新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 84,
+    "question_zh": "《酷愛》係邊位歌手嘅歌？",
+    "question_en": "Who sings '酷愛'?",
+    "options_zh": [
+      "張敬軒",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Hins Cheung",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《酷愛》係張敬軒嘅歌。",
+    "explanation_en": "'酷愛' is by Hins Cheung.",
+    "difficulty": 3
+  },
+  {
+    "id": 85,
+    "question_zh": "《笑忘書》係邊位歌手嘅歌？",
+    "question_en": "Who sings '笑忘書'?",
+    "options_zh": [
+      "張敬軒",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Hins Cheung",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《笑忘書》係張敬軒嘅歌。",
+    "explanation_en": "'笑忘書' is by Hins Cheung.",
+    "difficulty": 3
+  },
+  {
+    "id": 86,
+    "question_zh": "《騷靈情歌》係邊位歌手嘅歌？",
+    "question_en": "Who sings '騷靈情歌'?",
+    "options_zh": [
+      "張敬軒",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Hins Cheung",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《騷靈情歌》係張敬軒嘅歌。",
+    "explanation_en": "'騷靈情歌' is by Hins Cheung.",
+    "difficulty": 3
+  },
+  {
+    "id": 87,
+    "question_zh": "《過客別墅》係邊位歌手嘅歌？",
+    "question_en": "Who sings '過客別墅'?",
+    "options_zh": [
+      "張敬軒",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Hins Cheung",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《過客別墅》係張敬軒嘅歌。",
+    "explanation_en": "'過客別墅' is by Hins Cheung.",
+    "difficulty": 3
+  },
+  {
+    "id": 88,
+    "question_zh": "《青春常駐》係邊位歌手嘅歌？",
+    "question_en": "Who sings '青春常駐'?",
+    "options_zh": [
+      "張敬軒",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Hins Cheung",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《青春常駐》係張敬軒嘅歌。",
+    "explanation_en": "'青春常駐' is by Hins Cheung.",
+    "difficulty": 3
+  },
+  {
+    "id": 89,
+    "question_zh": "《羅賓》係邊位歌手嘅歌？",
+    "question_en": "Who sings '羅賓'?",
+    "options_zh": [
+      "張敬軒",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Hins Cheung",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《羅賓》係張敬軒嘅歌。",
+    "explanation_en": "'羅賓' is by Hins Cheung.",
+    "difficulty": 3
+  },
+  {
+    "id": 90,
+    "question_zh": "《百年树木》係邊位歌手嘅歌？",
+    "question_en": "Who sings '百年树木'?",
+    "options_zh": [
+      "張敬軒",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Hins Cheung",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《百年树木》係張敬軒嘅歌。",
+    "explanation_en": "'百年树木' is by Hins Cheung.",
+    "difficulty": 3
+  },
+  {
+    "id": 91,
+    "question_zh": "《斷點》係邊位歌手嘅歌？",
+    "question_en": "Who sings '斷點'?",
+    "options_zh": [
+      "張敬軒",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Hins Cheung",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《斷點》係張敬軒嘅歌。",
+    "explanation_en": "'斷點' is by Hins Cheung.",
+    "difficulty": 3
+  },
+  {
+    "id": 92,
+    "question_zh": "《My Way》係邊位歌手嘅歌？",
+    "question_en": "Who sings 'My Way'?",
+    "options_zh": [
+      "張敬軒",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Hins Cheung",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《My Way》係張敬軒嘅歌。",
+    "explanation_en": "'My Way' is by Hins Cheung.",
+    "difficulty": 3
+  },
+  {
+    "id": 93,
+    "question_zh": "《櫻花樹下》係邊位歌手嘅歌？",
+    "question_en": "Who sings '櫻花樹下'?",
+    "options_zh": [
+      "張敬軒",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Hins Cheung",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《櫻花樹下》係張敬軒嘅歌。",
+    "explanation_en": "'櫻花樹下' is by Hins Cheung.",
+    "difficulty": 3
+  },
+  {
+    "id": 94,
+    "question_zh": "《酷愛》係邊位歌手嘅歌？",
+    "question_en": "Who sings '酷愛'?",
+    "options_zh": [
+      "張敬軒",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Hins Cheung",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《酷愛》係張敬軒嘅歌。",
+    "explanation_en": "'酷愛' is by Hins Cheung.",
+    "difficulty": 3
+  },
+  {
+    "id": 95,
+    "question_zh": "《笑忘書》係邊位歌手嘅歌？",
+    "question_en": "Who sings '笑忘書'?",
+    "options_zh": [
+      "張敬軒",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Hins Cheung",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《笑忘書》係張敬軒嘅歌。",
+    "explanation_en": "'笑忘書' is by Hins Cheung.",
+    "difficulty": 3
+  },
+  {
+    "id": 96,
+    "question_zh": "《騷靈情歌》係邊位歌手嘅歌？",
+    "question_en": "Who sings '騷靈情歌'?",
+    "options_zh": [
+      "張敬軒",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Hins Cheung",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《騷靈情歌》係張敬軒嘅歌。",
+    "explanation_en": "'騷靈情歌' is by Hins Cheung.",
+    "difficulty": 3
+  },
+  {
+    "id": 97,
+    "question_zh": "《過客別墅》係邊位歌手嘅歌？",
+    "question_en": "Who sings '過客別墅'?",
+    "options_zh": [
+      "張敬軒",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Hins Cheung",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《過客別墅》係張敬軒嘅歌。",
+    "explanation_en": "'過客別墅' is by Hins Cheung.",
+    "difficulty": 3
+  },
+  {
+    "id": 98,
+    "question_zh": "《青春常駐》係邊位歌手嘅歌？",
+    "question_en": "Who sings '青春常駐'?",
+    "options_zh": [
+      "張敬軒",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Hins Cheung",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《青春常駐》係張敬軒嘅歌。",
+    "explanation_en": "'青春常駐' is by Hins Cheung.",
+    "difficulty": 3
+  },
+  {
+    "id": 99,
+    "question_zh": "《羅賓》係邊位歌手嘅歌？",
+    "question_en": "Who sings '羅賓'?",
+    "options_zh": [
+      "張敬軒",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Hins Cheung",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《羅賓》係張敬軒嘅歌。",
+    "explanation_en": "'羅賓' is by Hins Cheung.",
+    "difficulty": 3
+  },
+  {
+    "id": 100,
+    "question_zh": "《百年树木》係邊位歌手嘅歌？",
+    "question_en": "Who sings '百年树木'?",
+    "options_zh": [
+      "張敬軒",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Hins Cheung",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《百年树木》係張敬軒嘅歌。",
+    "explanation_en": "'百年树木' is by Hins Cheung.",
+    "difficulty": 3
   }
 ]

@@ -1,65 +1,2102 @@
 [
   {
     "id": 1,
-    "question_zh": "吳業坤出道嘅年份係？",
-    "question_en": "When did Ng Siu Nam debut?",
+    "question_zh": "以下邊首係吳業坤嘅歌？",
+    "question_en": "Which is a song by Ng Siu Nam?",
     "options_zh": [
-      "1990年代",
-      "2000年代",
-      "2010年代",
-      "2020年代"
+      "百姓",
+      "第一次告別",
+      "被單身的人",
+      "原來她不夠愛我"
     ],
     "options_en": [
-      "1990年代",
-      "2000年代",
-      "2010年代",
-      "2020年代"
+      "百姓",
+      "第一次告別",
+      "被單身的人",
+      "原來她不夠愛我"
     ],
-    "answer": 1,
-    "explanation_zh": "吳業坤喺2000年代出道。",
-    "explanation_en": "Ng Siu Nam debuted in the 2000s.",
+    "answer": 3,
+    "explanation_zh": "「原來她不夠愛我」係吳業坤嘅歌曲。",
+    "explanation_en": "'原來她不夠愛我' is a song by Ng Siu Nam.",
     "difficulty": 1
   },
   {
     "id": 2,
-    "question_zh": "吳業坤係邊個地方嘅歌手？",
-    "question_en": "Where is Ng Siu Nam from?",
+    "question_zh": "以下邊首係吳業坤嘅歌？",
+    "question_en": "Which is a song by Ng Siu Nam?",
     "options_zh": [
-      "香港",
-      "台灣",
-      "內地",
-      "海外"
+      "第一次告別",
+      "原來她不夠愛我",
+      "百姓",
+      "被單身的人"
     ],
     "options_en": [
-      "香港",
-      "台灣",
-      "內地",
-      "海外"
+      "第一次告別",
+      "原來她不夠愛我",
+      "百姓",
+      "被單身的人"
     ],
-    "answer": 0,
-    "explanation_zh": "吳業坤係香港歌手。",
-    "explanation_en": "Ng Siu Nam is from Hong Kong.",
+    "answer": 2,
+    "explanation_zh": "「百姓」係吳業坤嘅歌曲。",
+    "explanation_en": "'百姓' is a song by Ng Siu Nam.",
     "difficulty": 1
   },
   {
     "id": 3,
-    "question_zh": "以下邊首係吳業坤嘅代表作？",
-    "question_en": "Which is a representative song of Ng Siu Nam?",
+    "question_zh": "以下邊首係吳業坤嘅歌？",
+    "question_en": "Which is a song by Ng Siu Nam?",
     "options_zh": [
-      "歌曲A",
-      "歌曲B",
-      "歌曲C",
-      "歌曲D"
+      "百姓",
+      "原來她不夠愛我",
+      "第一次告別",
+      "被單身的人"
     ],
     "options_en": [
-      "歌曲A",
-      "歌曲B",
-      "歌曲C",
-      "歌曲D"
+      "百姓",
+      "原來她不夠愛我",
+      "第一次告別",
+      "被單身的人"
+    ],
+    "answer": 3,
+    "explanation_zh": "「被單身的人」係吳業坤嘅歌曲。",
+    "explanation_en": "'被單身的人' is a song by Ng Siu Nam.",
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question_zh": "以下邊首係吳業坤嘅歌？",
+    "question_en": "Which is a song by Ng Siu Nam?",
+    "options_zh": [
+      "第一次告別",
+      "被單身的人",
+      "百姓",
+      "原來她不夠愛我"
+    ],
+    "options_en": [
+      "第一次告別",
+      "被單身的人",
+      "百姓",
+      "原來她不夠愛我"
     ],
     "answer": 0,
-    "explanation_zh": "「歌曲A」係吳業坤嘅代表作之一。",
-    "explanation_en": "'Song A' is one of {artist_en}'s representative songs.",
+    "explanation_zh": "「第一次告別」係吳業坤嘅歌曲。",
+    "explanation_en": "'第一次告別' is a song by Ng Siu Nam.",
     "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question_zh": "《KWAN Gor》係吳業坤喺邊年推出嘅專輯？",
+    "question_en": "What year was 'KWAN Gor' by Ng Siu Nam released?",
+    "options_zh": [
+      "2023",
+      "1999",
+      "2010",
+      "2018"
+    ],
+    "options_en": [
+      "2023",
+      "1999",
+      "2010",
+      "2018"
+    ],
+    "answer": 1,
+    "explanation_zh": "《KWAN Gor》喺1999年推出。",
+    "explanation_en": "'KWAN Gor' was released in 1999.",
+    "difficulty": 2
+  },
+  {
+    "id": 6,
+    "question_zh": "吳業坤大約喺邊年出道？",
+    "question_en": "When did Ng Siu Nam approximately debut?",
+    "options_zh": [
+      "2005",
+      "2010",
+      "1995",
+      "2000"
+    ],
+    "options_en": [
+      "2005",
+      "2010",
+      "1995",
+      "2000"
+    ],
+    "answer": 1,
+    "explanation_zh": "吳業坤喺2010年出道。",
+    "explanation_en": "Ng Siu Nam debuted around 2010.",
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question_zh": "吳業坤大約喺邊年出道？",
+    "question_en": "When did Ng Siu Nam approximately debut?",
+    "options_zh": [
+      "1980",
+      "2010",
+      "1990",
+      "2020"
+    ],
+    "options_en": [
+      "1980",
+      "2010",
+      "1990",
+      "2020"
+    ],
+    "answer": 1,
+    "explanation_zh": "吳業坤喺2010年出道。",
+    "explanation_en": "Ng Siu Nam debuted around 2010.",
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question_zh": "吳業坤大約喺邊年出道？",
+    "question_en": "When did Ng Siu Nam approximately debut?",
+    "options_zh": [
+      "2000",
+      "1985",
+      "2015",
+      "2010"
+    ],
+    "options_en": [
+      "2000",
+      "1985",
+      "2015",
+      "2010"
+    ],
+    "answer": 3,
+    "explanation_zh": "吳業坤喺2010年出道。",
+    "explanation_en": "Ng Siu Nam debuted around 2010.",
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question_zh": "吳業坤大約喺邊年出道？",
+    "question_en": "When did Ng Siu Nam approximately debut?",
+    "options_zh": [
+      "1990",
+      "1995",
+      "1980",
+      "2010"
+    ],
+    "options_en": [
+      "1990",
+      "1995",
+      "1980",
+      "2010"
+    ],
+    "answer": 3,
+    "explanation_zh": "吳業坤喺2010年出道。",
+    "explanation_en": "Ng Siu Nam debuted around 2010.",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question_zh": "吳業坤大約喺邊年出道？",
+    "question_en": "When did Ng Siu Nam approximately debut?",
+    "options_zh": [
+      "2010",
+      "1990",
+      "1995",
+      "2005"
+    ],
+    "options_en": [
+      "2010",
+      "1990",
+      "1995",
+      "2005"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤喺2010年出道。",
+    "explanation_en": "Ng Siu Nam debuted around 2010.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "吳業坤大約喺邊年出道？",
+    "question_en": "When did Ng Siu Nam approximately debut?",
+    "options_zh": [
+      "1990",
+      "1980",
+      "2020",
+      "2010"
+    ],
+    "options_en": [
+      "1990",
+      "1980",
+      "2020",
+      "2010"
+    ],
+    "answer": 3,
+    "explanation_zh": "吳業坤喺2010年出道。",
+    "explanation_en": "Ng Siu Nam debuted around 2010.",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question_zh": "吳業坤大約喺邊年出道？",
+    "question_en": "When did Ng Siu Nam approximately debut?",
+    "options_zh": [
+      "2020",
+      "2010",
+      "2000",
+      "1980"
+    ],
+    "options_en": [
+      "2020",
+      "2010",
+      "2000",
+      "1980"
+    ],
+    "answer": 1,
+    "explanation_zh": "吳業坤喺2010年出道。",
+    "explanation_en": "Ng Siu Nam debuted around 2010.",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_zh": "吳業坤大約喺邊年出道？",
+    "question_en": "When did Ng Siu Nam approximately debut?",
+    "options_zh": [
+      "2020",
+      "2010",
+      "1995",
+      "1990"
+    ],
+    "options_en": [
+      "2020",
+      "2010",
+      "1995",
+      "1990"
+    ],
+    "answer": 1,
+    "explanation_zh": "吳業坤喺2010年出道。",
+    "explanation_en": "Ng Siu Nam debuted around 2010.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "吳業坤大約喺邊年出道？",
+    "question_en": "When did Ng Siu Nam approximately debut?",
+    "options_zh": [
+      "2000",
+      "2015",
+      "2010",
+      "1985"
+    ],
+    "options_en": [
+      "2000",
+      "2015",
+      "2010",
+      "1985"
+    ],
+    "answer": 2,
+    "explanation_zh": "吳業坤喺2010年出道。",
+    "explanation_en": "Ng Siu Nam debuted around 2010.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "吳業坤大約喺邊年出道？",
+    "question_en": "When did Ng Siu Nam approximately debut?",
+    "options_zh": [
+      "1995",
+      "2020",
+      "2005",
+      "2010"
+    ],
+    "options_en": [
+      "1995",
+      "2020",
+      "2005",
+      "2010"
+    ],
+    "answer": 3,
+    "explanation_zh": "吳業坤喺2010年出道。",
+    "explanation_en": "Ng Siu Nam debuted around 2010.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "吳業坤來自邊個地方？",
+    "question_en": "Where is Ng Siu Nam from?",
+    "options_zh": [
+      "台灣",
+      "內地",
+      "香港",
+      "新加坡"
+    ],
+    "options_en": [
+      "台灣",
+      "內地",
+      "香港",
+      "新加坡"
+    ],
+    "answer": 2,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "吳業坤來自邊個地方？",
+    "question_en": "Where is Ng Siu Nam from?",
+    "options_zh": [
+      "加拿大",
+      "香港",
+      "台灣",
+      "日本"
+    ],
+    "options_en": [
+      "加拿大",
+      "香港",
+      "台灣",
+      "日本"
+    ],
+    "answer": 1,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_zh": "吳業坤來自邊個地方？",
+    "question_en": "Where is Ng Siu Nam from?",
+    "options_zh": [
+      "香港",
+      "內地",
+      "韓國",
+      "馬來西亞"
+    ],
+    "options_en": [
+      "香港",
+      "內地",
+      "韓國",
+      "馬來西亞"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "吳業坤來自邊個地方？",
+    "question_en": "Where is Ng Siu Nam from?",
+    "options_zh": [
+      "內地",
+      "新加坡",
+      "香港",
+      "英國"
+    ],
+    "options_en": [
+      "內地",
+      "新加坡",
+      "香港",
+      "英國"
+    ],
+    "answer": 2,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question_zh": "吳業坤來自邊個地方？",
+    "question_en": "Where is Ng Siu Nam from?",
+    "options_zh": [
+      "台灣",
+      "內地",
+      "日本",
+      "香港"
+    ],
+    "options_en": [
+      "台灣",
+      "內地",
+      "日本",
+      "香港"
+    ],
+    "answer": 3,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question_zh": "吳業坤來自邊個地方？",
+    "question_en": "Where is Ng Siu Nam from?",
+    "options_zh": [
+      "香港",
+      "新加坡",
+      "韓國",
+      "加拿大"
+    ],
+    "options_en": [
+      "香港",
+      "新加坡",
+      "韓國",
+      "加拿大"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question_zh": "吳業坤來自邊個地方？",
+    "question_en": "Where is Ng Siu Nam from?",
+    "options_zh": [
+      "香港",
+      "馬來西亞",
+      "台灣",
+      "新加坡"
+    ],
+    "options_en": [
+      "香港",
+      "馬來西亞",
+      "台灣",
+      "新加坡"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question_zh": "吳業坤來自邊個地方？",
+    "question_en": "Where is Ng Siu Nam from?",
+    "options_zh": [
+      "英國",
+      "台灣",
+      "香港",
+      "加拿大"
+    ],
+    "options_en": [
+      "英國",
+      "台灣",
+      "香港",
+      "加拿大"
+    ],
+    "answer": 2,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question_zh": "吳業坤來自邊個地方？",
+    "question_en": "Where is Ng Siu Nam from?",
+    "options_zh": [
+      "內地",
+      "台灣",
+      "馬來西亞",
+      "香港"
+    ],
+    "options_en": [
+      "內地",
+      "台灣",
+      "馬來西亞",
+      "香港"
+    ],
+    "answer": 3,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question_zh": "吳業坤來自邊個地方？",
+    "question_en": "Where is Ng Siu Nam from?",
+    "options_zh": [
+      "香港",
+      "美國",
+      "新加坡",
+      "韓國"
+    ],
+    "options_en": [
+      "香港",
+      "美國",
+      "新加坡",
+      "韓國"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question_zh": "吳業坤主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Ng Siu Nam mainly sing?",
+    "options_zh": [
+      "古典",
+      "流行曲",
+      "民謠",
+      "爵士"
+    ],
+    "options_en": [
+      "古典",
+      "流行曲",
+      "民謠",
+      "爵士"
+    ],
+    "answer": 1,
+    "explanation_zh": "吳業坤主要唱流行曲。",
+    "explanation_en": "Ng Siu Nam mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question_zh": "吳業坤主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Ng Siu Nam mainly sing?",
+    "options_zh": [
+      "嘻哈",
+      "藍調",
+      "流行曲",
+      "搖滾"
+    ],
+    "options_en": [
+      "嘻哈",
+      "藍調",
+      "流行曲",
+      "搖滾"
+    ],
+    "answer": 2,
+    "explanation_zh": "吳業坤主要唱流行曲。",
+    "explanation_en": "Ng Siu Nam mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question_zh": "吳業坤主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Ng Siu Nam mainly sing?",
+    "options_zh": [
+      "電子",
+      "藍調",
+      "流行曲",
+      "爵士"
+    ],
+    "options_en": [
+      "電子",
+      "藍調",
+      "流行曲",
+      "爵士"
+    ],
+    "answer": 2,
+    "explanation_zh": "吳業坤主要唱流行曲。",
+    "explanation_en": "Ng Siu Nam mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "吳業坤主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Ng Siu Nam mainly sing?",
+    "options_zh": [
+      "流行曲",
+      "電子",
+      "民謠",
+      "爵士"
+    ],
+    "options_en": [
+      "流行曲",
+      "電子",
+      "民謠",
+      "爵士"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤主要唱流行曲。",
+    "explanation_en": "Ng Siu Nam mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "吳業坤主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Ng Siu Nam mainly sing?",
+    "options_zh": [
+      "藍調",
+      "民謠",
+      "電子",
+      "流行曲"
+    ],
+    "options_en": [
+      "藍調",
+      "民謠",
+      "電子",
+      "流行曲"
+    ],
+    "answer": 3,
+    "explanation_zh": "吳業坤主要唱流行曲。",
+    "explanation_en": "Ng Siu Nam mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 31,
+    "question_zh": "吳業坤主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Ng Siu Nam mainly sing?",
+    "options_zh": [
+      "民謠",
+      "R&B",
+      "流行曲",
+      "電子"
+    ],
+    "options_en": [
+      "民謠",
+      "R&B",
+      "流行曲",
+      "電子"
+    ],
+    "answer": 2,
+    "explanation_zh": "吳業坤主要唱流行曲。",
+    "explanation_en": "Ng Siu Nam mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question_zh": "吳業坤主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Ng Siu Nam mainly sing?",
+    "options_zh": [
+      "嘻哈",
+      "爵士",
+      "民謠",
+      "流行曲"
+    ],
+    "options_en": [
+      "嘻哈",
+      "爵士",
+      "民謠",
+      "流行曲"
+    ],
+    "answer": 3,
+    "explanation_zh": "吳業坤主要唱流行曲。",
+    "explanation_en": "Ng Siu Nam mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 33,
+    "question_zh": "吳業坤主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Ng Siu Nam mainly sing?",
+    "options_zh": [
+      "流行曲",
+      "民謠",
+      "古典",
+      "R&B"
+    ],
+    "options_en": [
+      "流行曲",
+      "民謠",
+      "古典",
+      "R&B"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤主要唱流行曲。",
+    "explanation_en": "Ng Siu Nam mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 34,
+    "question_zh": "吳業坤主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Ng Siu Nam mainly sing?",
+    "options_zh": [
+      "R&B",
+      "流行曲",
+      "舞曲",
+      "古典"
+    ],
+    "options_en": [
+      "R&B",
+      "流行曲",
+      "舞曲",
+      "古典"
+    ],
+    "answer": 1,
+    "explanation_zh": "吳業坤主要唱流行曲。",
+    "explanation_en": "Ng Siu Nam mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question_zh": "吳業坤主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Ng Siu Nam mainly sing?",
+    "options_zh": [
+      "搖滾",
+      "藍調",
+      "流行曲",
+      "古典"
+    ],
+    "options_en": [
+      "搖滾",
+      "藍調",
+      "流行曲",
+      "古典"
+    ],
+    "answer": 2,
+    "explanation_zh": "吳業坤主要唱流行曲。",
+    "explanation_en": "Ng Siu Nam mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "question_zh": "吳業坤係邊間唱片公司旗下？",
+    "question_en": "Which label is Ng Siu Nam signed to?",
+    "options_zh": [
+      "英皇",
+      "TVB/星夢",
+      "大國文化",
+      "星夢"
+    ],
+    "options_en": [
+      "英皇",
+      "TVB/星夢",
+      "大國文化",
+      "星夢"
+    ],
+    "answer": 1,
+    "explanation_zh": "吳業坤係TVB/星夢旗下歌手。",
+    "explanation_en": "Ng Siu Nam is signed to TVB/星夢.",
+    "difficulty": 2
+  },
+  {
+    "id": 37,
+    "question_zh": "吳業坤係邊間唱片公司旗下？",
+    "question_en": "Which label is Ng Siu Nam signed to?",
+    "options_zh": [
+      "寰亞",
+      "TVB/星夢",
+      "紅線音樂",
+      "華納"
+    ],
+    "options_en": [
+      "寰亞",
+      "TVB/星夢",
+      "紅線音樂",
+      "華納"
+    ],
+    "answer": 1,
+    "explanation_zh": "吳業坤係TVB/星夢旗下歌手。",
+    "explanation_en": "Ng Siu Nam is signed to TVB/星夢.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "吳業坤係邊間唱片公司旗下？",
+    "question_en": "Which label is Ng Siu Nam signed to?",
+    "options_zh": [
+      "寰亞",
+      "索尼",
+      "TVB/星夢",
+      "金牌大風"
+    ],
+    "options_en": [
+      "寰亞",
+      "索尼",
+      "TVB/星夢",
+      "金牌大風"
+    ],
+    "answer": 2,
+    "explanation_zh": "吳業坤係TVB/星夢旗下歌手。",
+    "explanation_en": "Ng Siu Nam is signed to TVB/星夢.",
+    "difficulty": 2
+  },
+  {
+    "id": 39,
+    "question_zh": "吳業坤係邊間唱片公司旗下？",
+    "question_en": "Which label is Ng Siu Nam signed to?",
+    "options_zh": [
+      "紅線音樂",
+      "TVB/星夢",
+      "星夢",
+      "大國文化"
+    ],
+    "options_en": [
+      "紅線音樂",
+      "TVB/星夢",
+      "星夢",
+      "大國文化"
+    ],
+    "answer": 1,
+    "explanation_zh": "吳業坤係TVB/星夢旗下歌手。",
+    "explanation_en": "Ng Siu Nam is signed to TVB/星夢.",
+    "difficulty": 2
+  },
+  {
+    "id": 40,
+    "question_zh": "吳業坤係邊間唱片公司旗下？",
+    "question_en": "Which label is Ng Siu Nam signed to?",
+    "options_zh": [
+      "華納",
+      "英皇",
+      "索尼",
+      "TVB/星夢"
+    ],
+    "options_en": [
+      "華納",
+      "英皇",
+      "索尼",
+      "TVB/星夢"
+    ],
+    "answer": 3,
+    "explanation_zh": "吳業坤係TVB/星夢旗下歌手。",
+    "explanation_en": "Ng Siu Nam is signed to TVB/星夢.",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question_zh": "吳業坤係邊間唱片公司旗下？",
+    "question_en": "Which label is Ng Siu Nam signed to?",
+    "options_zh": [
+      "TVB/星夢",
+      "寰亞",
+      "新藝寶",
+      "金牌大風"
+    ],
+    "options_en": [
+      "TVB/星夢",
+      "寰亞",
+      "新藝寶",
+      "金牌大風"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤係TVB/星夢旗下歌手。",
+    "explanation_en": "Ng Siu Nam is signed to TVB/星夢.",
+    "difficulty": 2
+  },
+  {
+    "id": 42,
+    "question_zh": "吳業坤係邊間唱片公司旗下？",
+    "question_en": "Which label is Ng Siu Nam signed to?",
+    "options_zh": [
+      "TVB/星夢",
+      "英皇",
+      "大國文化",
+      "紅線音樂"
+    ],
+    "options_en": [
+      "TVB/星夢",
+      "英皇",
+      "大國文化",
+      "紅線音樂"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤係TVB/星夢旗下歌手。",
+    "explanation_en": "Ng Siu Nam is signed to TVB/星夢.",
+    "difficulty": 2
+  },
+  {
+    "id": 43,
+    "question_zh": "吳業坤係邊間唱片公司旗下？",
+    "question_en": "Which label is Ng Siu Nam signed to?",
+    "options_zh": [
+      "華納",
+      "星夢",
+      "大國文化",
+      "TVB/星夢"
+    ],
+    "options_en": [
+      "華納",
+      "星夢",
+      "大國文化",
+      "TVB/星夢"
+    ],
+    "answer": 3,
+    "explanation_zh": "吳業坤係TVB/星夢旗下歌手。",
+    "explanation_en": "Ng Siu Nam is signed to TVB/星夢.",
+    "difficulty": 2
+  },
+  {
+    "id": 44,
+    "question_zh": "吳業坤係邊間唱片公司旗下？",
+    "question_en": "Which label is Ng Siu Nam signed to?",
+    "options_zh": [
+      "索尼",
+      "TVB/星夢",
+      "環球",
+      "金牌大風"
+    ],
+    "options_en": [
+      "索尼",
+      "TVB/星夢",
+      "環球",
+      "金牌大風"
+    ],
+    "answer": 1,
+    "explanation_zh": "吳業坤係TVB/星夢旗下歌手。",
+    "explanation_en": "Ng Siu Nam is signed to TVB/星夢.",
+    "difficulty": 2
+  },
+  {
+    "id": 45,
+    "question_zh": "吳業坤係邊間唱片公司旗下？",
+    "question_en": "Which label is Ng Siu Nam signed to?",
+    "options_zh": [
+      "新藝寶",
+      "大國文化",
+      "環球",
+      "TVB/星夢"
+    ],
+    "options_en": [
+      "新藝寶",
+      "大國文化",
+      "環球",
+      "TVB/星夢"
+    ],
+    "answer": 3,
+    "explanation_zh": "吳業坤係TVB/星夢旗下歌手。",
+    "explanation_en": "Ng Siu Nam is signed to TVB/星夢.",
+    "difficulty": 2
+  },
+  {
+    "id": 46,
+    "question_zh": "以下邊項關於吳業坤嘅描述係正確？",
+    "question_en": "Which description of Ng Siu Nam is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 47,
+    "question_zh": "以下邊項關於吳業坤嘅描述係正確？",
+    "question_en": "Which description of Ng Siu Nam is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 48,
+    "question_zh": "以下邊項關於吳業坤嘅描述係正確？",
+    "question_en": "Which description of Ng Siu Nam is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question_zh": "以下邊項關於吳業坤嘅描述係正確？",
+    "question_en": "Which description of Ng Siu Nam is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question_zh": "以下邊項關於吳業坤嘅描述係正確？",
+    "question_en": "Which description of Ng Siu Nam is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 51,
+    "question_zh": "以下邊項關於吳業坤嘅描述係正確？",
+    "question_en": "Which description of Ng Siu Nam is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "question_zh": "以下邊項關於吳業坤嘅描述係正確？",
+    "question_en": "Which description of Ng Siu Nam is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 53,
+    "question_zh": "以下邊項關於吳業坤嘅描述係正確？",
+    "question_en": "Which description of Ng Siu Nam is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 54,
+    "question_zh": "以下邊項關於吳業坤嘅描述係正確？",
+    "question_en": "Which description of Ng Siu Nam is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 55,
+    "question_zh": "以下邊項關於吳業坤嘅描述係正確？",
+    "question_en": "Which description of Ng Siu Nam is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 56,
+    "question_zh": "以下邊項關於吳業坤嘅描述係正確？",
+    "question_en": "Which description of Ng Siu Nam is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 57,
+    "question_zh": "以下邊項關於吳業坤嘅描述係正確？",
+    "question_en": "Which description of Ng Siu Nam is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 58,
+    "question_zh": "以下邊項關於吳業坤嘅描述係正確？",
+    "question_en": "Which description of Ng Siu Nam is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 59,
+    "question_zh": "以下邊項關於吳業坤嘅描述係正確？",
+    "question_en": "Which description of Ng Siu Nam is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 60,
+    "question_zh": "以下邊項關於吳業坤嘅描述係正確？",
+    "question_en": "Which description of Ng Siu Nam is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤來自香港。",
+    "explanation_en": "Ng Siu Nam is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 61,
+    "question_zh": "以下邊個獎項吳業坤曾經獲得？",
+    "question_en": "Which award has Ng Siu Nam won?",
+    "options_zh": [
+      "新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤曾獲得新城勁爆男歌手。",
+    "explanation_en": "Ng Siu Nam has won 新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 62,
+    "question_zh": "以下邊個獎項吳業坤曾經獲得？",
+    "question_en": "Which award has Ng Siu Nam won?",
+    "options_zh": [
+      "新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤曾獲得新城勁爆男歌手。",
+    "explanation_en": "Ng Siu Nam has won 新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 63,
+    "question_zh": "以下邊個獎項吳業坤曾經獲得？",
+    "question_en": "Which award has Ng Siu Nam won?",
+    "options_zh": [
+      "新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤曾獲得新城勁爆男歌手。",
+    "explanation_en": "Ng Siu Nam has won 新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 64,
+    "question_zh": "以下邊個獎項吳業坤曾經獲得？",
+    "question_en": "Which award has Ng Siu Nam won?",
+    "options_zh": [
+      "新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤曾獲得新城勁爆男歌手。",
+    "explanation_en": "Ng Siu Nam has won 新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 65,
+    "question_zh": "以下邊個獎項吳業坤曾經獲得？",
+    "question_en": "Which award has Ng Siu Nam won?",
+    "options_zh": [
+      "新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤曾獲得新城勁爆男歌手。",
+    "explanation_en": "Ng Siu Nam has won 新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 66,
+    "question_zh": "以下邊個獎項吳業坤曾經獲得？",
+    "question_en": "Which award has Ng Siu Nam won?",
+    "options_zh": [
+      "新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤曾獲得新城勁爆男歌手。",
+    "explanation_en": "Ng Siu Nam has won 新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 67,
+    "question_zh": "以下邊個獎項吳業坤曾經獲得？",
+    "question_en": "Which award has Ng Siu Nam won?",
+    "options_zh": [
+      "新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤曾獲得新城勁爆男歌手。",
+    "explanation_en": "Ng Siu Nam has won 新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 68,
+    "question_zh": "以下邊個獎項吳業坤曾經獲得？",
+    "question_en": "Which award has Ng Siu Nam won?",
+    "options_zh": [
+      "新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤曾獲得新城勁爆男歌手。",
+    "explanation_en": "Ng Siu Nam has won 新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 69,
+    "question_zh": "以下邊個獎項吳業坤曾經獲得？",
+    "question_en": "Which award has Ng Siu Nam won?",
+    "options_zh": [
+      "新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤曾獲得新城勁爆男歌手。",
+    "explanation_en": "Ng Siu Nam has won 新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 70,
+    "question_zh": "以下邊個獎項吳業坤曾經獲得？",
+    "question_en": "Which award has Ng Siu Nam won?",
+    "options_zh": [
+      "新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤曾獲得新城勁爆男歌手。",
+    "explanation_en": "Ng Siu Nam has won 新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 71,
+    "question_zh": "以下邊個獎項吳業坤曾經獲得？",
+    "question_en": "Which award has Ng Siu Nam won?",
+    "options_zh": [
+      "新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤曾獲得新城勁爆男歌手。",
+    "explanation_en": "Ng Siu Nam has won 新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 72,
+    "question_zh": "以下邊個獎項吳業坤曾經獲得？",
+    "question_en": "Which award has Ng Siu Nam won?",
+    "options_zh": [
+      "新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤曾獲得新城勁爆男歌手。",
+    "explanation_en": "Ng Siu Nam has won 新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 73,
+    "question_zh": "以下邊個獎項吳業坤曾經獲得？",
+    "question_en": "Which award has Ng Siu Nam won?",
+    "options_zh": [
+      "新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤曾獲得新城勁爆男歌手。",
+    "explanation_en": "Ng Siu Nam has won 新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 74,
+    "question_zh": "以下邊個獎項吳業坤曾經獲得？",
+    "question_en": "Which award has Ng Siu Nam won?",
+    "options_zh": [
+      "新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤曾獲得新城勁爆男歌手。",
+    "explanation_en": "Ng Siu Nam has won 新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 75,
+    "question_zh": "以下邊個獎項吳業坤曾經獲得？",
+    "question_en": "Which award has Ng Siu Nam won?",
+    "options_zh": [
+      "新城勁爆男歌手",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "新城勁爆男歌手",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "吳業坤曾獲得新城勁爆男歌手。",
+    "explanation_en": "Ng Siu Nam has won 新城勁爆男歌手.",
+    "difficulty": 3
+  },
+  {
+    "id": 76,
+    "question_zh": "《第一次告別》係邊位歌手嘅歌？",
+    "question_en": "Who sings '第一次告別'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《第一次告別》係吳業坤嘅歌。",
+    "explanation_en": "'第一次告別' is by Ng Siu Nam.",
+    "difficulty": 2
+  },
+  {
+    "id": 77,
+    "question_zh": "《原來她不夠愛我》係邊位歌手嘅歌？",
+    "question_en": "Who sings '原來她不夠愛我'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《原來她不夠愛我》係吳業坤嘅歌。",
+    "explanation_en": "'原來她不夠愛我' is by Ng Siu Nam.",
+    "difficulty": 2
+  },
+  {
+    "id": 78,
+    "question_zh": "《百姓》係邊位歌手嘅歌？",
+    "question_en": "Who sings '百姓'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《百姓》係吳業坤嘅歌。",
+    "explanation_en": "'百姓' is by Ng Siu Nam.",
+    "difficulty": 2
+  },
+  {
+    "id": 79,
+    "question_zh": "《被單身的人》係邊位歌手嘅歌？",
+    "question_en": "Who sings '被單身的人'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《被單身的人》係吳業坤嘅歌。",
+    "explanation_en": "'被單身的人' is by Ng Siu Nam.",
+    "difficulty": 2
+  },
+  {
+    "id": 80,
+    "question_zh": "《第一次告別》係邊位歌手嘅歌？",
+    "question_en": "Who sings '第一次告別'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《第一次告別》係吳業坤嘅歌。",
+    "explanation_en": "'第一次告別' is by Ng Siu Nam.",
+    "difficulty": 2
+  },
+  {
+    "id": 81,
+    "question_zh": "《原來她不夠愛我》係邊位歌手嘅歌？",
+    "question_en": "Who sings '原來她不夠愛我'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《原來她不夠愛我》係吳業坤嘅歌。",
+    "explanation_en": "'原來她不夠愛我' is by Ng Siu Nam.",
+    "difficulty": 3
+  },
+  {
+    "id": 82,
+    "question_zh": "《百姓》係邊位歌手嘅歌？",
+    "question_en": "Who sings '百姓'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《百姓》係吳業坤嘅歌。",
+    "explanation_en": "'百姓' is by Ng Siu Nam.",
+    "difficulty": 3
+  },
+  {
+    "id": 83,
+    "question_zh": "《被單身的人》係邊位歌手嘅歌？",
+    "question_en": "Who sings '被單身的人'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《被單身的人》係吳業坤嘅歌。",
+    "explanation_en": "'被單身的人' is by Ng Siu Nam.",
+    "difficulty": 3
+  },
+  {
+    "id": 84,
+    "question_zh": "《第一次告別》係邊位歌手嘅歌？",
+    "question_en": "Who sings '第一次告別'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《第一次告別》係吳業坤嘅歌。",
+    "explanation_en": "'第一次告別' is by Ng Siu Nam.",
+    "difficulty": 3
+  },
+  {
+    "id": 85,
+    "question_zh": "《原來她不夠愛我》係邊位歌手嘅歌？",
+    "question_en": "Who sings '原來她不夠愛我'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《原來她不夠愛我》係吳業坤嘅歌。",
+    "explanation_en": "'原來她不夠愛我' is by Ng Siu Nam.",
+    "difficulty": 3
+  },
+  {
+    "id": 86,
+    "question_zh": "《百姓》係邊位歌手嘅歌？",
+    "question_en": "Who sings '百姓'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《百姓》係吳業坤嘅歌。",
+    "explanation_en": "'百姓' is by Ng Siu Nam.",
+    "difficulty": 3
+  },
+  {
+    "id": 87,
+    "question_zh": "《被單身的人》係邊位歌手嘅歌？",
+    "question_en": "Who sings '被單身的人'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《被單身的人》係吳業坤嘅歌。",
+    "explanation_en": "'被單身的人' is by Ng Siu Nam.",
+    "difficulty": 3
+  },
+  {
+    "id": 88,
+    "question_zh": "《第一次告別》係邊位歌手嘅歌？",
+    "question_en": "Who sings '第一次告別'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《第一次告別》係吳業坤嘅歌。",
+    "explanation_en": "'第一次告別' is by Ng Siu Nam.",
+    "difficulty": 3
+  },
+  {
+    "id": 89,
+    "question_zh": "《原來她不夠愛我》係邊位歌手嘅歌？",
+    "question_en": "Who sings '原來她不夠愛我'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《原來她不夠愛我》係吳業坤嘅歌。",
+    "explanation_en": "'原來她不夠愛我' is by Ng Siu Nam.",
+    "difficulty": 3
+  },
+  {
+    "id": 90,
+    "question_zh": "《百姓》係邊位歌手嘅歌？",
+    "question_en": "Who sings '百姓'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《百姓》係吳業坤嘅歌。",
+    "explanation_en": "'百姓' is by Ng Siu Nam.",
+    "difficulty": 3
+  },
+  {
+    "id": 91,
+    "question_zh": "《被單身的人》係邊位歌手嘅歌？",
+    "question_en": "Who sings '被單身的人'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《被單身的人》係吳業坤嘅歌。",
+    "explanation_en": "'被單身的人' is by Ng Siu Nam.",
+    "difficulty": 3
+  },
+  {
+    "id": 92,
+    "question_zh": "《第一次告別》係邊位歌手嘅歌？",
+    "question_en": "Who sings '第一次告別'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《第一次告別》係吳業坤嘅歌。",
+    "explanation_en": "'第一次告別' is by Ng Siu Nam.",
+    "difficulty": 3
+  },
+  {
+    "id": 93,
+    "question_zh": "《原來她不夠愛我》係邊位歌手嘅歌？",
+    "question_en": "Who sings '原來她不夠愛我'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《原來她不夠愛我》係吳業坤嘅歌。",
+    "explanation_en": "'原來她不夠愛我' is by Ng Siu Nam.",
+    "difficulty": 3
+  },
+  {
+    "id": 94,
+    "question_zh": "《百姓》係邊位歌手嘅歌？",
+    "question_en": "Who sings '百姓'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《百姓》係吳業坤嘅歌。",
+    "explanation_en": "'百姓' is by Ng Siu Nam.",
+    "difficulty": 3
+  },
+  {
+    "id": 95,
+    "question_zh": "《被單身的人》係邊位歌手嘅歌？",
+    "question_en": "Who sings '被單身的人'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《被單身的人》係吳業坤嘅歌。",
+    "explanation_en": "'被單身的人' is by Ng Siu Nam.",
+    "difficulty": 3
+  },
+  {
+    "id": 96,
+    "question_zh": "《第一次告別》係邊位歌手嘅歌？",
+    "question_en": "Who sings '第一次告別'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《第一次告別》係吳業坤嘅歌。",
+    "explanation_en": "'第一次告別' is by Ng Siu Nam.",
+    "difficulty": 3
+  },
+  {
+    "id": 97,
+    "question_zh": "《原來她不夠愛我》係邊位歌手嘅歌？",
+    "question_en": "Who sings '原來她不夠愛我'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《原來她不夠愛我》係吳業坤嘅歌。",
+    "explanation_en": "'原來她不夠愛我' is by Ng Siu Nam.",
+    "difficulty": 3
+  },
+  {
+    "id": 98,
+    "question_zh": "《百姓》係邊位歌手嘅歌？",
+    "question_en": "Who sings '百姓'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《百姓》係吳業坤嘅歌。",
+    "explanation_en": "'百姓' is by Ng Siu Nam.",
+    "difficulty": 3
+  },
+  {
+    "id": 99,
+    "question_zh": "《被單身的人》係邊位歌手嘅歌？",
+    "question_en": "Who sings '被單身的人'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《被單身的人》係吳業坤嘅歌。",
+    "explanation_en": "'被單身的人' is by Ng Siu Nam.",
+    "difficulty": 3
+  },
+  {
+    "id": 100,
+    "question_zh": "《第一次告別》係邊位歌手嘅歌？",
+    "question_en": "Who sings '第一次告別'?",
+    "options_zh": [
+      "吳業坤",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Ng Siu Nam",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《第一次告別》係吳業坤嘅歌。",
+    "explanation_en": "'第一次告別' is by Ng Siu Nam.",
+    "difficulty": 3
   }
 ]

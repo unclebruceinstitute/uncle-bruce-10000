@@ -1,65 +1,2102 @@
 [
   {
     "id": 1,
-    "question_zh": "Billie Eilish出道嘅年份係？",
-    "question_en": "When did Billie Eilish debut?",
+    "question_zh": "以下邊首係Billie Eilish嘅歌？",
+    "question_en": "Which is a song by Billie Eilish?",
     "options_zh": [
-      "1990年代",
-      "2000年代",
-      "2010年代",
-      "2020年代"
+      "歌曲L",
+      "歌曲F",
+      "歌曲A",
+      "歌曲D"
     ],
     "options_en": [
-      "1990年代",
-      "2000年代",
-      "2010年代",
-      "2020年代"
+      "歌曲L",
+      "歌曲F",
+      "歌曲A",
+      "歌曲D"
     ],
-    "answer": 1,
-    "explanation_zh": "Billie Eilish喺2000年代出道。",
-    "explanation_en": "Billie Eilish debuted in the 2000s.",
+    "answer": 2,
+    "explanation_zh": "「歌曲A」係Billie Eilish嘅歌曲。",
+    "explanation_en": "'歌曲A' is a song by Billie Eilish.",
     "difficulty": 1
   },
   {
     "id": 2,
-    "question_zh": "Billie Eilish係邊個地方嘅歌手？",
-    "question_en": "Where is Billie Eilish from?",
+    "question_zh": "以下邊首係Billie Eilish嘅歌？",
+    "question_en": "Which is a song by Billie Eilish?",
     "options_zh": [
-      "香港",
-      "台灣",
-      "內地",
-      "海外"
+      "歌曲I",
+      "歌曲J",
+      "歌曲A",
+      "歌曲B"
     ],
     "options_en": [
-      "香港",
-      "台灣",
-      "內地",
-      "海外"
+      "歌曲I",
+      "歌曲J",
+      "歌曲A",
+      "歌曲B"
     ],
-    "answer": 0,
-    "explanation_zh": "Billie Eilish係香港歌手。",
-    "explanation_en": "Billie Eilish is from Hong Kong.",
+    "answer": 3,
+    "explanation_zh": "「歌曲B」係Billie Eilish嘅歌曲。",
+    "explanation_en": "'歌曲B' is a song by Billie Eilish.",
     "difficulty": 1
   },
   {
     "id": 3,
-    "question_zh": "以下邊首係Billie Eilish嘅代表作？",
-    "question_en": "Which is a representative song of Billie Eilish?",
+    "question_zh": "以下邊首係Billie Eilish嘅歌？",
+    "question_en": "Which is a song by Billie Eilish?",
+    "options_zh": [
+      "歌曲C",
+      "歌曲H",
+      "歌曲M",
+      "歌曲A"
+    ],
+    "options_en": [
+      "歌曲C",
+      "歌曲H",
+      "歌曲M",
+      "歌曲A"
+    ],
+    "answer": 0,
+    "explanation_zh": "「歌曲C」係Billie Eilish嘅歌曲。",
+    "explanation_en": "'歌曲C' is a song by Billie Eilish.",
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question_zh": "以下邊首係Billie Eilish嘅歌？",
+    "question_en": "Which is a song by Billie Eilish?",
+    "options_zh": [
+      "歌曲G",
+      "歌曲D",
+      "歌曲B",
+      "歌曲A"
+    ],
+    "options_en": [
+      "歌曲G",
+      "歌曲D",
+      "歌曲B",
+      "歌曲A"
+    ],
+    "answer": 1,
+    "explanation_zh": "「歌曲D」係Billie Eilish嘅歌曲。",
+    "explanation_en": "'歌曲D' is a song by Billie Eilish.",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question_zh": "以下邊首係Billie Eilish嘅歌？",
+    "question_en": "Which is a song by Billie Eilish?",
+    "options_zh": [
+      "歌曲M",
+      "歌曲C",
+      "歌曲E",
+      "歌曲J"
+    ],
+    "options_en": [
+      "歌曲M",
+      "歌曲C",
+      "歌曲E",
+      "歌曲J"
+    ],
+    "answer": 2,
+    "explanation_zh": "「歌曲E」係Billie Eilish嘅歌曲。",
+    "explanation_en": "'歌曲E' is a song by Billie Eilish.",
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question_zh": "以下邊首係Billie Eilish嘅歌？",
+    "question_en": "Which is a song by Billie Eilish?",
+    "options_zh": [
+      "歌曲K",
+      "歌曲C",
+      "歌曲F",
+      "歌曲J"
+    ],
+    "options_en": [
+      "歌曲K",
+      "歌曲C",
+      "歌曲F",
+      "歌曲J"
+    ],
+    "answer": 2,
+    "explanation_zh": "「歌曲F」係Billie Eilish嘅歌曲。",
+    "explanation_en": "'歌曲F' is a song by Billie Eilish.",
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question_zh": "以下邊首係Billie Eilish嘅歌？",
+    "question_en": "Which is a song by Billie Eilish?",
+    "options_zh": [
+      "歌曲G",
+      "歌曲M",
+      "歌曲I",
+      "歌曲C"
+    ],
+    "options_en": [
+      "歌曲G",
+      "歌曲M",
+      "歌曲I",
+      "歌曲C"
+    ],
+    "answer": 0,
+    "explanation_zh": "「歌曲G」係Billie Eilish嘅歌曲。",
+    "explanation_en": "'歌曲G' is a song by Billie Eilish.",
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question_zh": "以下邊首係Billie Eilish嘅歌？",
+    "question_en": "Which is a song by Billie Eilish?",
+    "options_zh": [
+      "歌曲O",
+      "歌曲N",
+      "歌曲B",
+      "歌曲H"
+    ],
+    "options_en": [
+      "歌曲O",
+      "歌曲N",
+      "歌曲B",
+      "歌曲H"
+    ],
+    "answer": 3,
+    "explanation_zh": "「歌曲H」係Billie Eilish嘅歌曲。",
+    "explanation_en": "'歌曲H' is a song by Billie Eilish.",
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question_zh": "以下邊首係Billie Eilish嘅歌？",
+    "question_en": "Which is a song by Billie Eilish?",
+    "options_zh": [
+      "歌曲O",
+      "歌曲D",
+      "歌曲L",
+      "歌曲I"
+    ],
+    "options_en": [
+      "歌曲O",
+      "歌曲D",
+      "歌曲L",
+      "歌曲I"
+    ],
+    "answer": 3,
+    "explanation_zh": "「歌曲I」係Billie Eilish嘅歌曲。",
+    "explanation_en": "'歌曲I' is a song by Billie Eilish.",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question_zh": "以下邊首係Billie Eilish嘅歌？",
+    "question_en": "Which is a song by Billie Eilish?",
+    "options_zh": [
+      "歌曲F",
+      "歌曲K",
+      "歌曲J",
+      "歌曲L"
+    ],
+    "options_en": [
+      "歌曲F",
+      "歌曲K",
+      "歌曲J",
+      "歌曲L"
+    ],
+    "answer": 2,
+    "explanation_zh": "「歌曲J」係Billie Eilish嘅歌曲。",
+    "explanation_en": "'歌曲J' is a song by Billie Eilish.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "以下邊首係Billie Eilish嘅歌？",
+    "question_en": "Which is a song by Billie Eilish?",
+    "options_zh": [
+      "歌曲K",
+      "歌曲L",
+      "歌曲A",
+      "歌曲O"
+    ],
+    "options_en": [
+      "歌曲K",
+      "歌曲L",
+      "歌曲A",
+      "歌曲O"
+    ],
+    "answer": 0,
+    "explanation_zh": "「歌曲K」係Billie Eilish嘅歌曲。",
+    "explanation_en": "'歌曲K' is a song by Billie Eilish.",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question_zh": "以下邊首係Billie Eilish嘅歌？",
+    "question_en": "Which is a song by Billie Eilish?",
+    "options_zh": [
+      "歌曲B",
+      "歌曲D",
+      "歌曲L",
+      "歌曲C"
+    ],
+    "options_en": [
+      "歌曲B",
+      "歌曲D",
+      "歌曲L",
+      "歌曲C"
+    ],
+    "answer": 2,
+    "explanation_zh": "「歌曲L」係Billie Eilish嘅歌曲。",
+    "explanation_en": "'歌曲L' is a song by Billie Eilish.",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_zh": "以下邊首係Billie Eilish嘅歌？",
+    "question_en": "Which is a song by Billie Eilish?",
+    "options_zh": [
+      "歌曲K",
+      "歌曲I",
+      "歌曲M",
+      "歌曲N"
+    ],
+    "options_en": [
+      "歌曲K",
+      "歌曲I",
+      "歌曲M",
+      "歌曲N"
+    ],
+    "answer": 2,
+    "explanation_zh": "「歌曲M」係Billie Eilish嘅歌曲。",
+    "explanation_en": "'歌曲M' is a song by Billie Eilish.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "以下邊首係Billie Eilish嘅歌？",
+    "question_en": "Which is a song by Billie Eilish?",
     "options_zh": [
       "歌曲A",
+      "歌曲H",
       "歌曲B",
-      "歌曲C",
-      "歌曲D"
+      "歌曲N"
     ],
     "options_en": [
       "歌曲A",
+      "歌曲H",
       "歌曲B",
-      "歌曲C",
-      "歌曲D"
+      "歌曲N"
+    ],
+    "answer": 3,
+    "explanation_zh": "「歌曲N」係Billie Eilish嘅歌曲。",
+    "explanation_en": "'歌曲N' is a song by Billie Eilish.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "以下邊首係Billie Eilish嘅歌？",
+    "question_en": "Which is a song by Billie Eilish?",
+    "options_zh": [
+      "歌曲L",
+      "歌曲D",
+      "歌曲G",
+      "歌曲O"
+    ],
+    "options_en": [
+      "歌曲L",
+      "歌曲D",
+      "歌曲G",
+      "歌曲O"
+    ],
+    "answer": 3,
+    "explanation_zh": "「歌曲O」係Billie Eilish嘅歌曲。",
+    "explanation_en": "'歌曲O' is a song by Billie Eilish.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "《專輯A》係Billie Eilish喺邊年推出嘅專輯？",
+    "question_en": "What year was '專輯A' by Billie Eilish released?",
+    "options_zh": [
+      "1999",
+      "2010",
+      "2018",
+      "2020"
+    ],
+    "options_en": [
+      "1999",
+      "2010",
+      "2018",
+      "2020"
     ],
     "answer": 0,
-    "explanation_zh": "「歌曲A」係Billie Eilish嘅代表作之一。",
-    "explanation_en": "'Song A' is one of {artist_en}'s representative songs.",
+    "explanation_zh": "《專輯A》喺1999年推出。",
+    "explanation_en": "'專輯A' was released in 1999.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《專輯B》係Billie Eilish喺邊年推出嘅專輯？",
+    "question_en": "What year was '專輯B' by Billie Eilish released?",
+    "options_zh": [
+      "2023",
+      "2015",
+      "2003",
+      "2010"
+    ],
+    "options_en": [
+      "2023",
+      "2015",
+      "2003",
+      "2010"
+    ],
+    "answer": 3,
+    "explanation_zh": "《專輯B》喺2010年推出。",
+    "explanation_en": "'專輯B' was released in 2010.",
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question_zh": "《專輯C》係Billie Eilish喺邊年推出嘅專輯？",
+    "question_en": "What year was '專輯C' by Billie Eilish released?",
+    "options_zh": [
+      "2018",
+      "2020",
+      "2023",
+      "2010"
+    ],
+    "options_en": [
+      "2018",
+      "2020",
+      "2023",
+      "2010"
+    ],
+    "answer": 1,
+    "explanation_zh": "《專輯C》喺2020年推出。",
+    "explanation_en": "'專輯C' was released in 2020.",
+    "difficulty": 2
+  },
+  {
+    "id": 19,
+    "question_zh": "《專輯D》係Billie Eilish喺邊年推出嘅專輯？",
+    "question_en": "What year was '專輯D' by Billie Eilish released?",
+    "options_zh": [
+      "2023",
+      "2018",
+      "1999",
+      "2010"
+    ],
+    "options_en": [
+      "2023",
+      "2018",
+      "1999",
+      "2010"
+    ],
+    "answer": 3,
+    "explanation_zh": "《專輯D》喺2010年推出。",
+    "explanation_en": "'專輯D' was released in 2010.",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question_zh": "《專輯E》係Billie Eilish喺邊年推出嘅專輯？",
+    "question_en": "What year was '專輯E' by Billie Eilish released?",
+    "options_zh": [
+      "2018",
+      "2007",
+      "2015",
+      "2003"
+    ],
+    "options_en": [
+      "2018",
+      "2007",
+      "2015",
+      "2003"
+    ],
+    "answer": 2,
+    "explanation_zh": "《專輯E》喺2015年推出。",
+    "explanation_en": "'專輯E' was released in 2015.",
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "question_zh": "Billie Eilish大約喺邊年出道？",
+    "question_en": "When did Billie Eilish approximately debut?",
+    "options_zh": [
+      "2020",
+      "1995",
+      "2000",
+      "1990"
+    ],
+    "options_en": [
+      "2020",
+      "1995",
+      "2000",
+      "1990"
+    ],
+    "answer": 2,
+    "explanation_zh": "Billie Eilish喺2000年出道。",
+    "explanation_en": "Billie Eilish debuted around 2000.",
     "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question_zh": "Billie Eilish大約喺邊年出道？",
+    "question_en": "When did Billie Eilish approximately debut?",
+    "options_zh": [
+      "1980",
+      "1985",
+      "2005",
+      "2000"
+    ],
+    "options_en": [
+      "1980",
+      "1985",
+      "2005",
+      "2000"
+    ],
+    "answer": 3,
+    "explanation_zh": "Billie Eilish喺2000年出道。",
+    "explanation_en": "Billie Eilish debuted around 2000.",
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question_zh": "Billie Eilish大約喺邊年出道？",
+    "question_en": "When did Billie Eilish approximately debut?",
+    "options_zh": [
+      "2005",
+      "1985",
+      "1995",
+      "2000"
+    ],
+    "options_en": [
+      "2005",
+      "1985",
+      "1995",
+      "2000"
+    ],
+    "answer": 3,
+    "explanation_zh": "Billie Eilish喺2000年出道。",
+    "explanation_en": "Billie Eilish debuted around 2000.",
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question_zh": "Billie Eilish大約喺邊年出道？",
+    "question_en": "When did Billie Eilish approximately debut?",
+    "options_zh": [
+      "2000",
+      "1980",
+      "1985",
+      "2020"
+    ],
+    "options_en": [
+      "2000",
+      "1980",
+      "1985",
+      "2020"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish喺2000年出道。",
+    "explanation_en": "Billie Eilish debuted around 2000.",
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question_zh": "Billie Eilish大約喺邊年出道？",
+    "question_en": "When did Billie Eilish approximately debut?",
+    "options_zh": [
+      "1980",
+      "1995",
+      "2000",
+      "2005"
+    ],
+    "options_en": [
+      "1980",
+      "1995",
+      "2000",
+      "2005"
+    ],
+    "answer": 2,
+    "explanation_zh": "Billie Eilish喺2000年出道。",
+    "explanation_en": "Billie Eilish debuted around 2000.",
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question_zh": "Billie Eilish大約喺邊年出道？",
+    "question_en": "When did Billie Eilish approximately debut?",
+    "options_zh": [
+      "1980",
+      "1985",
+      "1995",
+      "2000"
+    ],
+    "options_en": [
+      "1980",
+      "1985",
+      "1995",
+      "2000"
+    ],
+    "answer": 3,
+    "explanation_zh": "Billie Eilish喺2000年出道。",
+    "explanation_en": "Billie Eilish debuted around 2000.",
+    "difficulty": 1
+  },
+  {
+    "id": 27,
+    "question_zh": "Billie Eilish大約喺邊年出道？",
+    "question_en": "When did Billie Eilish approximately debut?",
+    "options_zh": [
+      "2020",
+      "1980",
+      "2000",
+      "2015"
+    ],
+    "options_en": [
+      "2020",
+      "1980",
+      "2000",
+      "2015"
+    ],
+    "answer": 2,
+    "explanation_zh": "Billie Eilish喺2000年出道。",
+    "explanation_en": "Billie Eilish debuted around 2000.",
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question_zh": "Billie Eilish大約喺邊年出道？",
+    "question_en": "When did Billie Eilish approximately debut?",
+    "options_zh": [
+      "1995",
+      "1990",
+      "2020",
+      "2000"
+    ],
+    "options_en": [
+      "1995",
+      "1990",
+      "2020",
+      "2000"
+    ],
+    "answer": 3,
+    "explanation_zh": "Billie Eilish喺2000年出道。",
+    "explanation_en": "Billie Eilish debuted around 2000.",
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question_zh": "Billie Eilish大約喺邊年出道？",
+    "question_en": "When did Billie Eilish approximately debut?",
+    "options_zh": [
+      "1980",
+      "1995",
+      "2000",
+      "1990"
+    ],
+    "options_en": [
+      "1980",
+      "1995",
+      "2000",
+      "1990"
+    ],
+    "answer": 2,
+    "explanation_zh": "Billie Eilish喺2000年出道。",
+    "explanation_en": "Billie Eilish debuted around 2000.",
+    "difficulty": 1
+  },
+  {
+    "id": 30,
+    "question_zh": "Billie Eilish大約喺邊年出道？",
+    "question_en": "When did Billie Eilish approximately debut?",
+    "options_zh": [
+      "1995",
+      "2000",
+      "1990",
+      "1985"
+    ],
+    "options_en": [
+      "1995",
+      "2000",
+      "1990",
+      "1985"
+    ],
+    "answer": 1,
+    "explanation_zh": "Billie Eilish喺2000年出道。",
+    "explanation_en": "Billie Eilish debuted around 2000.",
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question_zh": "Billie Eilish來自邊個地方？",
+    "question_en": "Where is Billie Eilish from?",
+    "options_zh": [
+      "英國",
+      "韓國",
+      "台灣",
+      "western"
+    ],
+    "options_en": [
+      "英國",
+      "韓國",
+      "台灣",
+      "western"
+    ],
+    "answer": 3,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 32,
+    "question_zh": "Billie Eilish來自邊個地方？",
+    "question_en": "Where is Billie Eilish from?",
+    "options_zh": [
+      "台灣",
+      "新加坡",
+      "香港",
+      "western"
+    ],
+    "options_en": [
+      "台灣",
+      "新加坡",
+      "香港",
+      "western"
+    ],
+    "answer": 3,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 33,
+    "question_zh": "Billie Eilish來自邊個地方？",
+    "question_en": "Where is Billie Eilish from?",
+    "options_zh": [
+      "內地",
+      "加拿大",
+      "日本",
+      "western"
+    ],
+    "options_en": [
+      "內地",
+      "加拿大",
+      "日本",
+      "western"
+    ],
+    "answer": 3,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question_zh": "Billie Eilish來自邊個地方？",
+    "question_en": "Where is Billie Eilish from?",
+    "options_zh": [
+      "內地",
+      "加拿大",
+      "新加坡",
+      "western"
+    ],
+    "options_en": [
+      "內地",
+      "加拿大",
+      "新加坡",
+      "western"
+    ],
+    "answer": 3,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question_zh": "Billie Eilish來自邊個地方？",
+    "question_en": "Where is Billie Eilish from?",
+    "options_zh": [
+      "美國",
+      "內地",
+      "香港",
+      "western"
+    ],
+    "options_en": [
+      "美國",
+      "內地",
+      "香港",
+      "western"
+    ],
+    "answer": 3,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 36,
+    "question_zh": "Billie Eilish來自邊個地方？",
+    "question_en": "Where is Billie Eilish from?",
+    "options_zh": [
+      "香港",
+      "馬來西亞",
+      "加拿大",
+      "western"
+    ],
+    "options_en": [
+      "香港",
+      "馬來西亞",
+      "加拿大",
+      "western"
+    ],
+    "answer": 3,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question_zh": "Billie Eilish來自邊個地方？",
+    "question_en": "Where is Billie Eilish from?",
+    "options_zh": [
+      "韓國",
+      "western",
+      "台灣",
+      "加拿大"
+    ],
+    "options_en": [
+      "韓國",
+      "western",
+      "台灣",
+      "加拿大"
+    ],
+    "answer": 1,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "question_zh": "Billie Eilish來自邊個地方？",
+    "question_en": "Where is Billie Eilish from?",
+    "options_zh": [
+      "美國",
+      "加拿大",
+      "western",
+      "內地"
+    ],
+    "options_en": [
+      "美國",
+      "加拿大",
+      "western",
+      "內地"
+    ],
+    "answer": 2,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "question_zh": "Billie Eilish來自邊個地方？",
+    "question_en": "Where is Billie Eilish from?",
+    "options_zh": [
+      "日本",
+      "香港",
+      "馬來西亞",
+      "western"
+    ],
+    "options_en": [
+      "日本",
+      "香港",
+      "馬來西亞",
+      "western"
+    ],
+    "answer": 3,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question_zh": "Billie Eilish來自邊個地方？",
+    "question_en": "Where is Billie Eilish from?",
+    "options_zh": [
+      "新加坡",
+      "western",
+      "英國",
+      "日本"
+    ],
+    "options_en": [
+      "新加坡",
+      "western",
+      "英國",
+      "日本"
+    ],
+    "answer": 1,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question_zh": "Billie Eilish主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Billie Eilish mainly sing?",
+    "options_zh": [
+      "古典",
+      "流行曲",
+      "民謠",
+      "R&B"
+    ],
+    "options_en": [
+      "古典",
+      "流行曲",
+      "民謠",
+      "R&B"
+    ],
+    "answer": 1,
+    "explanation_zh": "Billie Eilish主要唱流行曲。",
+    "explanation_en": "Billie Eilish mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 42,
+    "question_zh": "Billie Eilish主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Billie Eilish mainly sing?",
+    "options_zh": [
+      "流行曲",
+      "民謠",
+      "搖滾",
+      "R&B"
+    ],
+    "options_en": [
+      "流行曲",
+      "民謠",
+      "搖滾",
+      "R&B"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish主要唱流行曲。",
+    "explanation_en": "Billie Eilish mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 43,
+    "question_zh": "Billie Eilish主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Billie Eilish mainly sing?",
+    "options_zh": [
+      "R&B",
+      "電子",
+      "流行曲",
+      "古典"
+    ],
+    "options_en": [
+      "R&B",
+      "電子",
+      "流行曲",
+      "古典"
+    ],
+    "answer": 2,
+    "explanation_zh": "Billie Eilish主要唱流行曲。",
+    "explanation_en": "Billie Eilish mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 44,
+    "question_zh": "Billie Eilish主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Billie Eilish mainly sing?",
+    "options_zh": [
+      "搖滾",
+      "民謠",
+      "流行曲",
+      "R&B"
+    ],
+    "options_en": [
+      "搖滾",
+      "民謠",
+      "流行曲",
+      "R&B"
+    ],
+    "answer": 2,
+    "explanation_zh": "Billie Eilish主要唱流行曲。",
+    "explanation_en": "Billie Eilish mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 45,
+    "question_zh": "Billie Eilish主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Billie Eilish mainly sing?",
+    "options_zh": [
+      "電子",
+      "古典",
+      "流行曲",
+      "搖滾"
+    ],
+    "options_en": [
+      "電子",
+      "古典",
+      "流行曲",
+      "搖滾"
+    ],
+    "answer": 2,
+    "explanation_zh": "Billie Eilish主要唱流行曲。",
+    "explanation_en": "Billie Eilish mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 46,
+    "question_zh": "Billie Eilish主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Billie Eilish mainly sing?",
+    "options_zh": [
+      "爵士",
+      "電子",
+      "流行曲",
+      "搖滾"
+    ],
+    "options_en": [
+      "爵士",
+      "電子",
+      "流行曲",
+      "搖滾"
+    ],
+    "answer": 2,
+    "explanation_zh": "Billie Eilish主要唱流行曲。",
+    "explanation_en": "Billie Eilish mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 47,
+    "question_zh": "Billie Eilish主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Billie Eilish mainly sing?",
+    "options_zh": [
+      "民謠",
+      "電子",
+      "流行曲",
+      "古典"
+    ],
+    "options_en": [
+      "民謠",
+      "電子",
+      "流行曲",
+      "古典"
+    ],
+    "answer": 2,
+    "explanation_zh": "Billie Eilish主要唱流行曲。",
+    "explanation_en": "Billie Eilish mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 48,
+    "question_zh": "Billie Eilish主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Billie Eilish mainly sing?",
+    "options_zh": [
+      "電子",
+      "搖滾",
+      "流行曲",
+      "古典"
+    ],
+    "options_en": [
+      "電子",
+      "搖滾",
+      "流行曲",
+      "古典"
+    ],
+    "answer": 2,
+    "explanation_zh": "Billie Eilish主要唱流行曲。",
+    "explanation_en": "Billie Eilish mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 49,
+    "question_zh": "Billie Eilish主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Billie Eilish mainly sing?",
+    "options_zh": [
+      "R&B",
+      "流行曲",
+      "爵士",
+      "藍調"
+    ],
+    "options_en": [
+      "R&B",
+      "流行曲",
+      "爵士",
+      "藍調"
+    ],
+    "answer": 1,
+    "explanation_zh": "Billie Eilish主要唱流行曲。",
+    "explanation_en": "Billie Eilish mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 50,
+    "question_zh": "Billie Eilish主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Billie Eilish mainly sing?",
+    "options_zh": [
+      "搖滾",
+      "民謠",
+      "舞曲",
+      "流行曲"
+    ],
+    "options_en": [
+      "搖滾",
+      "民謠",
+      "舞曲",
+      "流行曲"
+    ],
+    "answer": 3,
+    "explanation_zh": "Billie Eilish主要唱流行曲。",
+    "explanation_en": "Billie Eilish mainly sings 流行曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 51,
+    "question_zh": "Billie Eilish係邊間唱片公司旗下？",
+    "question_en": "Which label is Billie Eilish signed to?",
+    "options_zh": [
+      "唱片公司",
+      "星夢",
+      "華納",
+      "索尼"
+    ],
+    "options_en": [
+      "唱片公司",
+      "星夢",
+      "華納",
+      "索尼"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish係唱片公司旗下歌手。",
+    "explanation_en": "Billie Eilish is signed to 唱片公司.",
+    "difficulty": 2
+  },
+  {
+    "id": 52,
+    "question_zh": "Billie Eilish係邊間唱片公司旗下？",
+    "question_en": "Which label is Billie Eilish signed to?",
+    "options_zh": [
+      "環球",
+      "唱片公司",
+      "華納",
+      "金牌大風"
+    ],
+    "options_en": [
+      "環球",
+      "唱片公司",
+      "華納",
+      "金牌大風"
+    ],
+    "answer": 1,
+    "explanation_zh": "Billie Eilish係唱片公司旗下歌手。",
+    "explanation_en": "Billie Eilish is signed to 唱片公司.",
+    "difficulty": 2
+  },
+  {
+    "id": 53,
+    "question_zh": "Billie Eilish係邊間唱片公司旗下？",
+    "question_en": "Which label is Billie Eilish signed to?",
+    "options_zh": [
+      "華納",
+      "星夢",
+      "唱片公司",
+      "金牌大風"
+    ],
+    "options_en": [
+      "華納",
+      "星夢",
+      "唱片公司",
+      "金牌大風"
+    ],
+    "answer": 2,
+    "explanation_zh": "Billie Eilish係唱片公司旗下歌手。",
+    "explanation_en": "Billie Eilish is signed to 唱片公司.",
+    "difficulty": 2
+  },
+  {
+    "id": 54,
+    "question_zh": "Billie Eilish係邊間唱片公司旗下？",
+    "question_en": "Which label is Billie Eilish signed to?",
+    "options_zh": [
+      "唱片公司",
+      "英皇",
+      "大國文化",
+      "金牌大風"
+    ],
+    "options_en": [
+      "唱片公司",
+      "英皇",
+      "大國文化",
+      "金牌大風"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish係唱片公司旗下歌手。",
+    "explanation_en": "Billie Eilish is signed to 唱片公司.",
+    "difficulty": 2
+  },
+  {
+    "id": 55,
+    "question_zh": "Billie Eilish係邊間唱片公司旗下？",
+    "question_en": "Which label is Billie Eilish signed to?",
+    "options_zh": [
+      "星夢",
+      "金牌大風",
+      "索尼",
+      "唱片公司"
+    ],
+    "options_en": [
+      "星夢",
+      "金牌大風",
+      "索尼",
+      "唱片公司"
+    ],
+    "answer": 3,
+    "explanation_zh": "Billie Eilish係唱片公司旗下歌手。",
+    "explanation_en": "Billie Eilish is signed to 唱片公司.",
+    "difficulty": 2
+  },
+  {
+    "id": 56,
+    "question_zh": "Billie Eilish係邊間唱片公司旗下？",
+    "question_en": "Which label is Billie Eilish signed to?",
+    "options_zh": [
+      "索尼",
+      "環球",
+      "唱片公司",
+      "紅線音樂"
+    ],
+    "options_en": [
+      "索尼",
+      "環球",
+      "唱片公司",
+      "紅線音樂"
+    ],
+    "answer": 2,
+    "explanation_zh": "Billie Eilish係唱片公司旗下歌手。",
+    "explanation_en": "Billie Eilish is signed to 唱片公司.",
+    "difficulty": 2
+  },
+  {
+    "id": 57,
+    "question_zh": "Billie Eilish係邊間唱片公司旗下？",
+    "question_en": "Which label is Billie Eilish signed to?",
+    "options_zh": [
+      "華納",
+      "大國文化",
+      "星夢",
+      "唱片公司"
+    ],
+    "options_en": [
+      "華納",
+      "大國文化",
+      "星夢",
+      "唱片公司"
+    ],
+    "answer": 3,
+    "explanation_zh": "Billie Eilish係唱片公司旗下歌手。",
+    "explanation_en": "Billie Eilish is signed to 唱片公司.",
+    "difficulty": 2
+  },
+  {
+    "id": 58,
+    "question_zh": "Billie Eilish係邊間唱片公司旗下？",
+    "question_en": "Which label is Billie Eilish signed to?",
+    "options_zh": [
+      "環球",
+      "唱片公司",
+      "星夢",
+      "華納"
+    ],
+    "options_en": [
+      "環球",
+      "唱片公司",
+      "星夢",
+      "華納"
+    ],
+    "answer": 1,
+    "explanation_zh": "Billie Eilish係唱片公司旗下歌手。",
+    "explanation_en": "Billie Eilish is signed to 唱片公司.",
+    "difficulty": 2
+  },
+  {
+    "id": 59,
+    "question_zh": "Billie Eilish係邊間唱片公司旗下？",
+    "question_en": "Which label is Billie Eilish signed to?",
+    "options_zh": [
+      "唱片公司",
+      "大國文化",
+      "華納",
+      "寰亞"
+    ],
+    "options_en": [
+      "唱片公司",
+      "大國文化",
+      "華納",
+      "寰亞"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish係唱片公司旗下歌手。",
+    "explanation_en": "Billie Eilish is signed to 唱片公司.",
+    "difficulty": 2
+  },
+  {
+    "id": 60,
+    "question_zh": "Billie Eilish係邊間唱片公司旗下？",
+    "question_en": "Which label is Billie Eilish signed to?",
+    "options_zh": [
+      "環球",
+      "唱片公司",
+      "寰亞",
+      "大國文化"
+    ],
+    "options_en": [
+      "環球",
+      "唱片公司",
+      "寰亞",
+      "大國文化"
+    ],
+    "answer": 1,
+    "explanation_zh": "Billie Eilish係唱片公司旗下歌手。",
+    "explanation_en": "Billie Eilish is signed to 唱片公司.",
+    "difficulty": 2
+  },
+  {
+    "id": 61,
+    "question_zh": "以下邊項關於Billie Eilish嘅描述係正確？",
+    "question_en": "Which description of Billie Eilish is correct?",
+    "options_zh": [
+      "來自western",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From western",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 62,
+    "question_zh": "以下邊項關於Billie Eilish嘅描述係正確？",
+    "question_en": "Which description of Billie Eilish is correct?",
+    "options_zh": [
+      "來自western",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From western",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 63,
+    "question_zh": "以下邊項關於Billie Eilish嘅描述係正確？",
+    "question_en": "Which description of Billie Eilish is correct?",
+    "options_zh": [
+      "來自western",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From western",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 64,
+    "question_zh": "以下邊項關於Billie Eilish嘅描述係正確？",
+    "question_en": "Which description of Billie Eilish is correct?",
+    "options_zh": [
+      "來自western",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From western",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 65,
+    "question_zh": "以下邊項關於Billie Eilish嘅描述係正確？",
+    "question_en": "Which description of Billie Eilish is correct?",
+    "options_zh": [
+      "來自western",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From western",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 66,
+    "question_zh": "以下邊項關於Billie Eilish嘅描述係正確？",
+    "question_en": "Which description of Billie Eilish is correct?",
+    "options_zh": [
+      "來自western",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From western",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 67,
+    "question_zh": "以下邊項關於Billie Eilish嘅描述係正確？",
+    "question_en": "Which description of Billie Eilish is correct?",
+    "options_zh": [
+      "來自western",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From western",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 68,
+    "question_zh": "以下邊項關於Billie Eilish嘅描述係正確？",
+    "question_en": "Which description of Billie Eilish is correct?",
+    "options_zh": [
+      "來自western",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From western",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 69,
+    "question_zh": "以下邊項關於Billie Eilish嘅描述係正確？",
+    "question_en": "Which description of Billie Eilish is correct?",
+    "options_zh": [
+      "來自western",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From western",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 70,
+    "question_zh": "以下邊項關於Billie Eilish嘅描述係正確？",
+    "question_en": "Which description of Billie Eilish is correct?",
+    "options_zh": [
+      "來自western",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From western",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 71,
+    "question_zh": "以下邊項關於Billie Eilish嘅描述係正確？",
+    "question_en": "Which description of Billie Eilish is correct?",
+    "options_zh": [
+      "來自western",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From western",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 72,
+    "question_zh": "以下邊項關於Billie Eilish嘅描述係正確？",
+    "question_en": "Which description of Billie Eilish is correct?",
+    "options_zh": [
+      "來自western",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From western",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 73,
+    "question_zh": "以下邊項關於Billie Eilish嘅描述係正確？",
+    "question_en": "Which description of Billie Eilish is correct?",
+    "options_zh": [
+      "來自western",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From western",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 74,
+    "question_zh": "以下邊項關於Billie Eilish嘅描述係正確？",
+    "question_en": "Which description of Billie Eilish is correct?",
+    "options_zh": [
+      "來自western",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From western",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 75,
+    "question_zh": "以下邊項關於Billie Eilish嘅描述係正確？",
+    "question_en": "Which description of Billie Eilish is correct?",
+    "options_zh": [
+      "來自western",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From western",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish來自western。",
+    "explanation_en": "Billie Eilish is from western.",
+    "difficulty": 1
+  },
+  {
+    "id": 76,
+    "question_zh": "以下邊個獎項Billie Eilish曾經獲得？",
+    "question_en": "Which award has Billie Eilish won?",
+    "options_zh": [
+      "音樂獎項",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "音樂獎項",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish曾獲得音樂獎項。",
+    "explanation_en": "Billie Eilish has won 音樂獎項.",
+    "difficulty": 3
+  },
+  {
+    "id": 77,
+    "question_zh": "以下邊個獎項Billie Eilish曾經獲得？",
+    "question_en": "Which award has Billie Eilish won?",
+    "options_zh": [
+      "音樂獎項",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "音樂獎項",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish曾獲得音樂獎項。",
+    "explanation_en": "Billie Eilish has won 音樂獎項.",
+    "difficulty": 3
+  },
+  {
+    "id": 78,
+    "question_zh": "以下邊個獎項Billie Eilish曾經獲得？",
+    "question_en": "Which award has Billie Eilish won?",
+    "options_zh": [
+      "音樂獎項",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "音樂獎項",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish曾獲得音樂獎項。",
+    "explanation_en": "Billie Eilish has won 音樂獎項.",
+    "difficulty": 3
+  },
+  {
+    "id": 79,
+    "question_zh": "以下邊個獎項Billie Eilish曾經獲得？",
+    "question_en": "Which award has Billie Eilish won?",
+    "options_zh": [
+      "音樂獎項",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "音樂獎項",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish曾獲得音樂獎項。",
+    "explanation_en": "Billie Eilish has won 音樂獎項.",
+    "difficulty": 3
+  },
+  {
+    "id": 80,
+    "question_zh": "以下邊個獎項Billie Eilish曾經獲得？",
+    "question_en": "Which award has Billie Eilish won?",
+    "options_zh": [
+      "音樂獎項",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "音樂獎項",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish曾獲得音樂獎項。",
+    "explanation_en": "Billie Eilish has won 音樂獎項.",
+    "difficulty": 3
+  },
+  {
+    "id": 81,
+    "question_zh": "以下邊個獎項Billie Eilish曾經獲得？",
+    "question_en": "Which award has Billie Eilish won?",
+    "options_zh": [
+      "音樂獎項",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "音樂獎項",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish曾獲得音樂獎項。",
+    "explanation_en": "Billie Eilish has won 音樂獎項.",
+    "difficulty": 3
+  },
+  {
+    "id": 82,
+    "question_zh": "以下邊個獎項Billie Eilish曾經獲得？",
+    "question_en": "Which award has Billie Eilish won?",
+    "options_zh": [
+      "音樂獎項",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "音樂獎項",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish曾獲得音樂獎項。",
+    "explanation_en": "Billie Eilish has won 音樂獎項.",
+    "difficulty": 3
+  },
+  {
+    "id": 83,
+    "question_zh": "以下邊個獎項Billie Eilish曾經獲得？",
+    "question_en": "Which award has Billie Eilish won?",
+    "options_zh": [
+      "音樂獎項",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "音樂獎項",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish曾獲得音樂獎項。",
+    "explanation_en": "Billie Eilish has won 音樂獎項.",
+    "difficulty": 3
+  },
+  {
+    "id": 84,
+    "question_zh": "以下邊個獎項Billie Eilish曾經獲得？",
+    "question_en": "Which award has Billie Eilish won?",
+    "options_zh": [
+      "音樂獎項",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "音樂獎項",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish曾獲得音樂獎項。",
+    "explanation_en": "Billie Eilish has won 音樂獎項.",
+    "difficulty": 3
+  },
+  {
+    "id": 85,
+    "question_zh": "以下邊個獎項Billie Eilish曾經獲得？",
+    "question_en": "Which award has Billie Eilish won?",
+    "options_zh": [
+      "音樂獎項",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "音樂獎項",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish曾獲得音樂獎項。",
+    "explanation_en": "Billie Eilish has won 音樂獎項.",
+    "difficulty": 3
+  },
+  {
+    "id": 86,
+    "question_zh": "以下邊個獎項Billie Eilish曾經獲得？",
+    "question_en": "Which award has Billie Eilish won?",
+    "options_zh": [
+      "音樂獎項",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "音樂獎項",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish曾獲得音樂獎項。",
+    "explanation_en": "Billie Eilish has won 音樂獎項.",
+    "difficulty": 3
+  },
+  {
+    "id": 87,
+    "question_zh": "以下邊個獎項Billie Eilish曾經獲得？",
+    "question_en": "Which award has Billie Eilish won?",
+    "options_zh": [
+      "音樂獎項",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "音樂獎項",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish曾獲得音樂獎項。",
+    "explanation_en": "Billie Eilish has won 音樂獎項.",
+    "difficulty": 3
+  },
+  {
+    "id": 88,
+    "question_zh": "以下邊個獎項Billie Eilish曾經獲得？",
+    "question_en": "Which award has Billie Eilish won?",
+    "options_zh": [
+      "音樂獎項",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "音樂獎項",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish曾獲得音樂獎項。",
+    "explanation_en": "Billie Eilish has won 音樂獎項.",
+    "difficulty": 3
+  },
+  {
+    "id": 89,
+    "question_zh": "以下邊個獎項Billie Eilish曾經獲得？",
+    "question_en": "Which award has Billie Eilish won?",
+    "options_zh": [
+      "音樂獎項",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "音樂獎項",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish曾獲得音樂獎項。",
+    "explanation_en": "Billie Eilish has won 音樂獎項.",
+    "difficulty": 3
+  },
+  {
+    "id": 90,
+    "question_zh": "以下邊個獎項Billie Eilish曾經獲得？",
+    "question_en": "Which award has Billie Eilish won?",
+    "options_zh": [
+      "音樂獎項",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "音樂獎項",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "Billie Eilish曾獲得音樂獎項。",
+    "explanation_en": "Billie Eilish has won 音樂獎項.",
+    "difficulty": 3
+  },
+  {
+    "id": 91,
+    "question_zh": "《歌曲A》係邊位歌手嘅歌？",
+    "question_en": "Who sings '歌曲A'?",
+    "options_zh": [
+      "Billie Eilish",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Billie Eilish",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《歌曲A》係Billie Eilish嘅歌。",
+    "explanation_en": "'歌曲A' is by Billie Eilish.",
+    "difficulty": 3
+  },
+  {
+    "id": 92,
+    "question_zh": "《歌曲B》係邊位歌手嘅歌？",
+    "question_en": "Who sings '歌曲B'?",
+    "options_zh": [
+      "Billie Eilish",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Billie Eilish",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《歌曲B》係Billie Eilish嘅歌。",
+    "explanation_en": "'歌曲B' is by Billie Eilish.",
+    "difficulty": 3
+  },
+  {
+    "id": 93,
+    "question_zh": "《歌曲C》係邊位歌手嘅歌？",
+    "question_en": "Who sings '歌曲C'?",
+    "options_zh": [
+      "Billie Eilish",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Billie Eilish",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《歌曲C》係Billie Eilish嘅歌。",
+    "explanation_en": "'歌曲C' is by Billie Eilish.",
+    "difficulty": 3
+  },
+  {
+    "id": 94,
+    "question_zh": "《歌曲D》係邊位歌手嘅歌？",
+    "question_en": "Who sings '歌曲D'?",
+    "options_zh": [
+      "Billie Eilish",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Billie Eilish",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《歌曲D》係Billie Eilish嘅歌。",
+    "explanation_en": "'歌曲D' is by Billie Eilish.",
+    "difficulty": 3
+  },
+  {
+    "id": 95,
+    "question_zh": "《歌曲E》係邊位歌手嘅歌？",
+    "question_en": "Who sings '歌曲E'?",
+    "options_zh": [
+      "Billie Eilish",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Billie Eilish",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《歌曲E》係Billie Eilish嘅歌。",
+    "explanation_en": "'歌曲E' is by Billie Eilish.",
+    "difficulty": 3
+  },
+  {
+    "id": 96,
+    "question_zh": "《歌曲F》係邊位歌手嘅歌？",
+    "question_en": "Who sings '歌曲F'?",
+    "options_zh": [
+      "Billie Eilish",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Billie Eilish",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《歌曲F》係Billie Eilish嘅歌。",
+    "explanation_en": "'歌曲F' is by Billie Eilish.",
+    "difficulty": 3
+  },
+  {
+    "id": 97,
+    "question_zh": "《歌曲G》係邊位歌手嘅歌？",
+    "question_en": "Who sings '歌曲G'?",
+    "options_zh": [
+      "Billie Eilish",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Billie Eilish",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《歌曲G》係Billie Eilish嘅歌。",
+    "explanation_en": "'歌曲G' is by Billie Eilish.",
+    "difficulty": 3
+  },
+  {
+    "id": 98,
+    "question_zh": "《歌曲H》係邊位歌手嘅歌？",
+    "question_en": "Who sings '歌曲H'?",
+    "options_zh": [
+      "Billie Eilish",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Billie Eilish",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《歌曲H》係Billie Eilish嘅歌。",
+    "explanation_en": "'歌曲H' is by Billie Eilish.",
+    "difficulty": 3
+  },
+  {
+    "id": 99,
+    "question_zh": "《歌曲I》係邊位歌手嘅歌？",
+    "question_en": "Who sings '歌曲I'?",
+    "options_zh": [
+      "Billie Eilish",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Billie Eilish",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《歌曲I》係Billie Eilish嘅歌。",
+    "explanation_en": "'歌曲I' is by Billie Eilish.",
+    "difficulty": 3
+  },
+  {
+    "id": 100,
+    "question_zh": "《歌曲J》係邊位歌手嘅歌？",
+    "question_en": "Who sings '歌曲J'?",
+    "options_zh": [
+      "Billie Eilish",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Billie Eilish",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《歌曲J》係Billie Eilish嘅歌。",
+    "explanation_en": "'歌曲J' is by Billie Eilish.",
+    "difficulty": 3
   }
 ]

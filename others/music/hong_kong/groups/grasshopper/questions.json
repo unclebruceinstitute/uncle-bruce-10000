@@ -1,65 +1,2102 @@
 [
   {
     "id": 1,
-    "question_zh": "草蜢出道嘅年份係？",
-    "question_en": "When did Grasshopper debut?",
+    "question_zh": "以下邊首係草蜢嘅歌？",
+    "question_en": "Which is a song by Grasshopper?",
     "options_zh": [
-      "1990年代",
-      "2000年代",
-      "2010年代",
-      "2020年代"
+      "愛你",
+      "失戀",
+      "寶貝對不起",
+      "怎麼天生不是女人"
     ],
     "options_en": [
-      "1990年代",
-      "2000年代",
-      "2010年代",
-      "2020年代"
+      "愛你",
+      "失戀",
+      "寶貝對不起",
+      "怎麼天生不是女人"
     ],
     "answer": 1,
-    "explanation_zh": "草蜢喺2000年代出道。",
-    "explanation_en": "Grasshopper debuted in the 2000s.",
+    "explanation_zh": "「失戀」係草蜢嘅歌曲。",
+    "explanation_en": "'失戀' is a song by Grasshopper.",
     "difficulty": 1
   },
   {
     "id": 2,
-    "question_zh": "草蜢係邊個地方嘅歌手？",
-    "question_en": "Where is Grasshopper from?",
+    "question_zh": "以下邊首係草蜢嘅歌？",
+    "question_en": "Which is a song by Grasshopper?",
     "options_zh": [
-      "香港",
-      "台灣",
-      "內地",
-      "海外"
+      "半點心",
+      "愛你",
+      "怎麼天生不是女人",
+      "寶貝對不起"
     ],
     "options_en": [
-      "香港",
-      "台灣",
-      "內地",
-      "海外"
+      "半點心",
+      "愛你",
+      "怎麼天生不是女人",
+      "寶貝對不起"
     ],
     "answer": 0,
-    "explanation_zh": "草蜢係香港歌手。",
-    "explanation_en": "Grasshopper is from Hong Kong.",
+    "explanation_zh": "「半點心」係草蜢嘅歌曲。",
+    "explanation_en": "'半點心' is a song by Grasshopper.",
     "difficulty": 1
   },
   {
     "id": 3,
-    "question_zh": "以下邊首係草蜢嘅代表作？",
-    "question_en": "Which is a representative song of Grasshopper?",
+    "question_zh": "以下邊首係草蜢嘅歌？",
+    "question_en": "Which is a song by Grasshopper?",
     "options_zh": [
-      "歌曲A",
-      "歌曲B",
-      "歌曲C",
-      "歌曲D"
+      "半點心",
+      "忘情桑巴舞",
+      "寶貝對不起",
+      "愛你"
     ],
     "options_en": [
-      "歌曲A",
-      "歌曲B",
-      "歌曲C",
-      "歌曲D"
+      "半點心",
+      "忘情桑巴舞",
+      "寶貝對不起",
+      "愛你"
+    ],
+    "answer": 1,
+    "explanation_zh": "「忘情桑巴舞」係草蜢嘅歌曲。",
+    "explanation_en": "'忘情桑巴舞' is a song by Grasshopper.",
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question_zh": "以下邊首係草蜢嘅歌？",
+    "question_en": "Which is a song by Grasshopper?",
+    "options_zh": [
+      "愛你",
+      "寶貝對不起",
+      "失戀",
+      "忘情桑巴舞"
+    ],
+    "options_en": [
+      "愛你",
+      "寶貝對不起",
+      "失戀",
+      "忘情桑巴舞"
+    ],
+    "answer": 1,
+    "explanation_zh": "「寶貝對不起」係草蜢嘅歌曲。",
+    "explanation_en": "'寶貝對不起' is a song by Grasshopper.",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question_zh": "以下邊首係草蜢嘅歌？",
+    "question_en": "Which is a song by Grasshopper?",
+    "options_zh": [
+      "怎麼天生不是女人",
+      "愛你",
+      "半點心",
+      "失戀"
+    ],
+    "options_en": [
+      "怎麼天生不是女人",
+      "愛你",
+      "半點心",
+      "失戀"
     ],
     "answer": 0,
-    "explanation_zh": "「歌曲A」係草蜢嘅代表作之一。",
-    "explanation_en": "'Song A' is one of {artist_en}'s representative songs.",
+    "explanation_zh": "「怎麼天生不是女人」係草蜢嘅歌曲。",
+    "explanation_en": "'怎麼天生不是女人' is a song by Grasshopper.",
     "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question_zh": "以下邊首係草蜢嘅歌？",
+    "question_en": "Which is a song by Grasshopper?",
+    "options_zh": [
+      "失戀",
+      "愛你",
+      "忘情桑巴舞",
+      "半點心"
+    ],
+    "options_en": [
+      "失戀",
+      "愛你",
+      "忘情桑巴舞",
+      "半點心"
+    ],
+    "answer": 1,
+    "explanation_zh": "「愛你」係草蜢嘅歌曲。",
+    "explanation_en": "'愛你' is a song by Grasshopper.",
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question_zh": "《Grasshopper》係草蜢喺邊年推出嘅專輯？",
+    "question_en": "What year was 'Grasshopper' by Grasshopper released?",
+    "options_zh": [
+      "2023",
+      "2007",
+      "2015",
+      "1999"
+    ],
+    "options_en": [
+      "2023",
+      "2007",
+      "2015",
+      "1999"
+    ],
+    "answer": 0,
+    "explanation_zh": "《Grasshopper》喺2023年推出。",
+    "explanation_en": "'Grasshopper' was released in 2023.",
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_zh": "草蜢大約喺邊年出道？",
+    "question_en": "When did Grasshopper approximately debut?",
+    "options_zh": [
+      "2020",
+      "2005",
+      "2000",
+      "1985"
+    ],
+    "options_en": [
+      "2020",
+      "2005",
+      "2000",
+      "1985"
+    ],
+    "answer": 3,
+    "explanation_zh": "草蜢喺1985年出道。",
+    "explanation_en": "Grasshopper debuted around 1985.",
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question_zh": "草蜢大約喺邊年出道？",
+    "question_en": "When did Grasshopper approximately debut?",
+    "options_zh": [
+      "2010",
+      "2005",
+      "2020",
+      "1985"
+    ],
+    "options_en": [
+      "2010",
+      "2005",
+      "2020",
+      "1985"
+    ],
+    "answer": 3,
+    "explanation_zh": "草蜢喺1985年出道。",
+    "explanation_en": "Grasshopper debuted around 1985.",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question_zh": "草蜢大約喺邊年出道？",
+    "question_en": "When did Grasshopper approximately debut?",
+    "options_zh": [
+      "2010",
+      "1995",
+      "1985",
+      "1980"
+    ],
+    "options_en": [
+      "2010",
+      "1995",
+      "1985",
+      "1980"
+    ],
+    "answer": 2,
+    "explanation_zh": "草蜢喺1985年出道。",
+    "explanation_en": "Grasshopper debuted around 1985.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "草蜢大約喺邊年出道？",
+    "question_en": "When did Grasshopper approximately debut?",
+    "options_zh": [
+      "2010",
+      "1985",
+      "2005",
+      "1980"
+    ],
+    "options_en": [
+      "2010",
+      "1985",
+      "2005",
+      "1980"
+    ],
+    "answer": 1,
+    "explanation_zh": "草蜢喺1985年出道。",
+    "explanation_en": "Grasshopper debuted around 1985.",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question_zh": "草蜢大約喺邊年出道？",
+    "question_en": "When did Grasshopper approximately debut?",
+    "options_zh": [
+      "1985",
+      "1990",
+      "2015",
+      "2010"
+    ],
+    "options_en": [
+      "1985",
+      "1990",
+      "2015",
+      "2010"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢喺1985年出道。",
+    "explanation_en": "Grasshopper debuted around 1985.",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_zh": "草蜢大約喺邊年出道？",
+    "question_en": "When did Grasshopper approximately debut?",
+    "options_zh": [
+      "1990",
+      "2010",
+      "1985",
+      "2005"
+    ],
+    "options_en": [
+      "1990",
+      "2010",
+      "1985",
+      "2005"
+    ],
+    "answer": 2,
+    "explanation_zh": "草蜢喺1985年出道。",
+    "explanation_en": "Grasshopper debuted around 1985.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "草蜢大約喺邊年出道？",
+    "question_en": "When did Grasshopper approximately debut?",
+    "options_zh": [
+      "1980",
+      "1985",
+      "2020",
+      "2005"
+    ],
+    "options_en": [
+      "1980",
+      "1985",
+      "2020",
+      "2005"
+    ],
+    "answer": 1,
+    "explanation_zh": "草蜢喺1985年出道。",
+    "explanation_en": "Grasshopper debuted around 1985.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "草蜢大約喺邊年出道？",
+    "question_en": "When did Grasshopper approximately debut?",
+    "options_zh": [
+      "1990",
+      "1985",
+      "2005",
+      "1980"
+    ],
+    "options_en": [
+      "1990",
+      "1985",
+      "2005",
+      "1980"
+    ],
+    "answer": 1,
+    "explanation_zh": "草蜢喺1985年出道。",
+    "explanation_en": "Grasshopper debuted around 1985.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "草蜢大約喺邊年出道？",
+    "question_en": "When did Grasshopper approximately debut?",
+    "options_zh": [
+      "2005",
+      "1990",
+      "1985",
+      "2000"
+    ],
+    "options_en": [
+      "2005",
+      "1990",
+      "1985",
+      "2000"
+    ],
+    "answer": 2,
+    "explanation_zh": "草蜢喺1985年出道。",
+    "explanation_en": "Grasshopper debuted around 1985.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "草蜢大約喺邊年出道？",
+    "question_en": "When did Grasshopper approximately debut?",
+    "options_zh": [
+      "2020",
+      "1980",
+      "1985",
+      "2010"
+    ],
+    "options_en": [
+      "2020",
+      "1980",
+      "1985",
+      "2010"
+    ],
+    "answer": 2,
+    "explanation_zh": "草蜢喺1985年出道。",
+    "explanation_en": "Grasshopper debuted around 1985.",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_zh": "草蜢來自邊個地方？",
+    "question_en": "Where is Grasshopper from?",
+    "options_zh": [
+      "香港",
+      "加拿大",
+      "美國",
+      "英國"
+    ],
+    "options_en": [
+      "香港",
+      "加拿大",
+      "美國",
+      "英國"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "草蜢來自邊個地方？",
+    "question_en": "Where is Grasshopper from?",
+    "options_zh": [
+      "內地",
+      "韓國",
+      "新加坡",
+      "香港"
+    ],
+    "options_en": [
+      "內地",
+      "韓國",
+      "新加坡",
+      "香港"
+    ],
+    "answer": 3,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question_zh": "草蜢來自邊個地方？",
+    "question_en": "Where is Grasshopper from?",
+    "options_zh": [
+      "新加坡",
+      "美國",
+      "香港",
+      "加拿大"
+    ],
+    "options_en": [
+      "新加坡",
+      "美國",
+      "香港",
+      "加拿大"
+    ],
+    "answer": 2,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question_zh": "草蜢來自邊個地方？",
+    "question_en": "Where is Grasshopper from?",
+    "options_zh": [
+      "美國",
+      "香港",
+      "內地",
+      "日本"
+    ],
+    "options_en": [
+      "美國",
+      "香港",
+      "內地",
+      "日本"
+    ],
+    "answer": 1,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question_zh": "草蜢來自邊個地方？",
+    "question_en": "Where is Grasshopper from?",
+    "options_zh": [
+      "美國",
+      "韓國",
+      "英國",
+      "香港"
+    ],
+    "options_en": [
+      "美國",
+      "韓國",
+      "英國",
+      "香港"
+    ],
+    "answer": 3,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question_zh": "草蜢來自邊個地方？",
+    "question_en": "Where is Grasshopper from?",
+    "options_zh": [
+      "日本",
+      "台灣",
+      "加拿大",
+      "香港"
+    ],
+    "options_en": [
+      "日本",
+      "台灣",
+      "加拿大",
+      "香港"
+    ],
+    "answer": 3,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 24,
+    "question_zh": "草蜢來自邊個地方？",
+    "question_en": "Where is Grasshopper from?",
+    "options_zh": [
+      "新加坡",
+      "內地",
+      "台灣",
+      "香港"
+    ],
+    "options_en": [
+      "新加坡",
+      "內地",
+      "台灣",
+      "香港"
+    ],
+    "answer": 3,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question_zh": "草蜢來自邊個地方？",
+    "question_en": "Where is Grasshopper from?",
+    "options_zh": [
+      "美國",
+      "台灣",
+      "香港",
+      "日本"
+    ],
+    "options_en": [
+      "美國",
+      "台灣",
+      "香港",
+      "日本"
+    ],
+    "answer": 2,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question_zh": "草蜢來自邊個地方？",
+    "question_en": "Where is Grasshopper from?",
+    "options_zh": [
+      "英國",
+      "香港",
+      "內地",
+      "馬來西亞"
+    ],
+    "options_en": [
+      "英國",
+      "香港",
+      "內地",
+      "馬來西亞"
+    ],
+    "answer": 1,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 27,
+    "question_zh": "草蜢來自邊個地方？",
+    "question_en": "Where is Grasshopper from?",
+    "options_zh": [
+      "韓國",
+      "香港",
+      "日本",
+      "新加坡"
+    ],
+    "options_en": [
+      "韓國",
+      "香港",
+      "日本",
+      "新加坡"
+    ],
+    "answer": 1,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question_zh": "草蜢主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Grasshopper mainly sing?",
+    "options_zh": [
+      "藍調",
+      "古典",
+      "R&B",
+      "流行曲/舞曲"
+    ],
+    "options_en": [
+      "藍調",
+      "古典",
+      "R&B",
+      "流行曲/舞曲"
+    ],
+    "answer": 3,
+    "explanation_zh": "草蜢主要唱流行曲/舞曲。",
+    "explanation_en": "Grasshopper mainly sings 流行曲/舞曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "草蜢主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Grasshopper mainly sing?",
+    "options_zh": [
+      "電子",
+      "藍調",
+      "流行曲/舞曲",
+      "搖滾"
+    ],
+    "options_en": [
+      "電子",
+      "藍調",
+      "流行曲/舞曲",
+      "搖滾"
+    ],
+    "answer": 2,
+    "explanation_zh": "草蜢主要唱流行曲/舞曲。",
+    "explanation_en": "Grasshopper mainly sings 流行曲/舞曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "草蜢主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Grasshopper mainly sing?",
+    "options_zh": [
+      "藍調",
+      "舞曲",
+      "R&B",
+      "流行曲/舞曲"
+    ],
+    "options_en": [
+      "藍調",
+      "舞曲",
+      "R&B",
+      "流行曲/舞曲"
+    ],
+    "answer": 3,
+    "explanation_zh": "草蜢主要唱流行曲/舞曲。",
+    "explanation_en": "Grasshopper mainly sings 流行曲/舞曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 31,
+    "question_zh": "草蜢主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Grasshopper mainly sing?",
+    "options_zh": [
+      "流行曲/舞曲",
+      "舞曲",
+      "R&B",
+      "爵士"
+    ],
+    "options_en": [
+      "流行曲/舞曲",
+      "舞曲",
+      "R&B",
+      "爵士"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢主要唱流行曲/舞曲。",
+    "explanation_en": "Grasshopper mainly sings 流行曲/舞曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question_zh": "草蜢主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Grasshopper mainly sing?",
+    "options_zh": [
+      "藍調",
+      "古典",
+      "流行曲/舞曲",
+      "搖滾"
+    ],
+    "options_en": [
+      "藍調",
+      "古典",
+      "流行曲/舞曲",
+      "搖滾"
+    ],
+    "answer": 2,
+    "explanation_zh": "草蜢主要唱流行曲/舞曲。",
+    "explanation_en": "Grasshopper mainly sings 流行曲/舞曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 33,
+    "question_zh": "草蜢主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Grasshopper mainly sing?",
+    "options_zh": [
+      "嘻哈",
+      "流行曲/舞曲",
+      "古典",
+      "R&B"
+    ],
+    "options_en": [
+      "嘻哈",
+      "流行曲/舞曲",
+      "古典",
+      "R&B"
+    ],
+    "answer": 1,
+    "explanation_zh": "草蜢主要唱流行曲/舞曲。",
+    "explanation_en": "Grasshopper mainly sings 流行曲/舞曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 34,
+    "question_zh": "草蜢主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Grasshopper mainly sing?",
+    "options_zh": [
+      "爵士",
+      "古典",
+      "流行曲",
+      "流行曲/舞曲"
+    ],
+    "options_en": [
+      "爵士",
+      "古典",
+      "流行曲",
+      "流行曲/舞曲"
+    ],
+    "answer": 3,
+    "explanation_zh": "草蜢主要唱流行曲/舞曲。",
+    "explanation_en": "Grasshopper mainly sings 流行曲/舞曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question_zh": "草蜢主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Grasshopper mainly sing?",
+    "options_zh": [
+      "流行曲/舞曲",
+      "藍調",
+      "民謠",
+      "爵士"
+    ],
+    "options_en": [
+      "流行曲/舞曲",
+      "藍調",
+      "民謠",
+      "爵士"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢主要唱流行曲/舞曲。",
+    "explanation_en": "Grasshopper mainly sings 流行曲/舞曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "question_zh": "草蜢主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Grasshopper mainly sing?",
+    "options_zh": [
+      "流行曲/舞曲",
+      "R&B",
+      "嘻哈",
+      "古典"
+    ],
+    "options_en": [
+      "流行曲/舞曲",
+      "R&B",
+      "嘻哈",
+      "古典"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢主要唱流行曲/舞曲。",
+    "explanation_en": "Grasshopper mainly sings 流行曲/舞曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 37,
+    "question_zh": "草蜢主要唱咩類型嘅音樂？",
+    "question_en": "What genre does Grasshopper mainly sing?",
+    "options_zh": [
+      "舞曲",
+      "藍調",
+      "民謠",
+      "流行曲/舞曲"
+    ],
+    "options_en": [
+      "舞曲",
+      "藍調",
+      "民謠",
+      "流行曲/舞曲"
+    ],
+    "answer": 3,
+    "explanation_zh": "草蜢主要唱流行曲/舞曲。",
+    "explanation_en": "Grasshopper mainly sings 流行曲/舞曲.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "草蜢係邊間唱片公司旗下？",
+    "question_en": "Which label is Grasshopper signed to?",
+    "options_zh": [
+      "環球",
+      "新藝寶",
+      "索尼",
+      "英皇"
+    ],
+    "options_en": [
+      "環球",
+      "新藝寶",
+      "索尼",
+      "英皇"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢係環球旗下歌手。",
+    "explanation_en": "Grasshopper is signed to 環球.",
+    "difficulty": 2
+  },
+  {
+    "id": 39,
+    "question_zh": "草蜢係邊間唱片公司旗下？",
+    "question_en": "Which label is Grasshopper signed to?",
+    "options_zh": [
+      "大國文化",
+      "環球",
+      "寰亞",
+      "新藝寶"
+    ],
+    "options_en": [
+      "大國文化",
+      "環球",
+      "寰亞",
+      "新藝寶"
+    ],
+    "answer": 1,
+    "explanation_zh": "草蜢係環球旗下歌手。",
+    "explanation_en": "Grasshopper is signed to 環球.",
+    "difficulty": 2
+  },
+  {
+    "id": 40,
+    "question_zh": "草蜢係邊間唱片公司旗下？",
+    "question_en": "Which label is Grasshopper signed to?",
+    "options_zh": [
+      "華納",
+      "索尼",
+      "紅線音樂",
+      "環球"
+    ],
+    "options_en": [
+      "華納",
+      "索尼",
+      "紅線音樂",
+      "環球"
+    ],
+    "answer": 3,
+    "explanation_zh": "草蜢係環球旗下歌手。",
+    "explanation_en": "Grasshopper is signed to 環球.",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question_zh": "草蜢係邊間唱片公司旗下？",
+    "question_en": "Which label is Grasshopper signed to?",
+    "options_zh": [
+      "華納",
+      "星夢",
+      "大國文化",
+      "環球"
+    ],
+    "options_en": [
+      "華納",
+      "星夢",
+      "大國文化",
+      "環球"
+    ],
+    "answer": 3,
+    "explanation_zh": "草蜢係環球旗下歌手。",
+    "explanation_en": "Grasshopper is signed to 環球.",
+    "difficulty": 2
+  },
+  {
+    "id": 42,
+    "question_zh": "草蜢係邊間唱片公司旗下？",
+    "question_en": "Which label is Grasshopper signed to?",
+    "options_zh": [
+      "英皇",
+      "寰亞",
+      "金牌大風",
+      "環球"
+    ],
+    "options_en": [
+      "英皇",
+      "寰亞",
+      "金牌大風",
+      "環球"
+    ],
+    "answer": 3,
+    "explanation_zh": "草蜢係環球旗下歌手。",
+    "explanation_en": "Grasshopper is signed to 環球.",
+    "difficulty": 2
+  },
+  {
+    "id": 43,
+    "question_zh": "草蜢係邊間唱片公司旗下？",
+    "question_en": "Which label is Grasshopper signed to?",
+    "options_zh": [
+      "紅線音樂",
+      "環球",
+      "大國文化",
+      "英皇"
+    ],
+    "options_en": [
+      "紅線音樂",
+      "環球",
+      "大國文化",
+      "英皇"
+    ],
+    "answer": 1,
+    "explanation_zh": "草蜢係環球旗下歌手。",
+    "explanation_en": "Grasshopper is signed to 環球.",
+    "difficulty": 2
+  },
+  {
+    "id": 44,
+    "question_zh": "草蜢係邊間唱片公司旗下？",
+    "question_en": "Which label is Grasshopper signed to?",
+    "options_zh": [
+      "索尼",
+      "紅線音樂",
+      "環球",
+      "金牌大風"
+    ],
+    "options_en": [
+      "索尼",
+      "紅線音樂",
+      "環球",
+      "金牌大風"
+    ],
+    "answer": 2,
+    "explanation_zh": "草蜢係環球旗下歌手。",
+    "explanation_en": "Grasshopper is signed to 環球.",
+    "difficulty": 2
+  },
+  {
+    "id": 45,
+    "question_zh": "草蜢係邊間唱片公司旗下？",
+    "question_en": "Which label is Grasshopper signed to?",
+    "options_zh": [
+      "新藝寶",
+      "環球",
+      "金牌大風",
+      "索尼"
+    ],
+    "options_en": [
+      "新藝寶",
+      "環球",
+      "金牌大風",
+      "索尼"
+    ],
+    "answer": 1,
+    "explanation_zh": "草蜢係環球旗下歌手。",
+    "explanation_en": "Grasshopper is signed to 環球.",
+    "difficulty": 2
+  },
+  {
+    "id": 46,
+    "question_zh": "草蜢係邊間唱片公司旗下？",
+    "question_en": "Which label is Grasshopper signed to?",
+    "options_zh": [
+      "寰亞",
+      "索尼",
+      "華納",
+      "環球"
+    ],
+    "options_en": [
+      "寰亞",
+      "索尼",
+      "華納",
+      "環球"
+    ],
+    "answer": 3,
+    "explanation_zh": "草蜢係環球旗下歌手。",
+    "explanation_en": "Grasshopper is signed to 環球.",
+    "difficulty": 2
+  },
+  {
+    "id": 47,
+    "question_zh": "草蜢係邊間唱片公司旗下？",
+    "question_en": "Which label is Grasshopper signed to?",
+    "options_zh": [
+      "星夢",
+      "金牌大風",
+      "環球",
+      "索尼"
+    ],
+    "options_en": [
+      "星夢",
+      "金牌大風",
+      "環球",
+      "索尼"
+    ],
+    "answer": 2,
+    "explanation_zh": "草蜢係環球旗下歌手。",
+    "explanation_en": "Grasshopper is signed to 環球.",
+    "difficulty": 2
+  },
+  {
+    "id": 48,
+    "question_zh": "以下邊項關於草蜢嘅描述係正確？",
+    "question_en": "Which description of Grasshopper is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question_zh": "以下邊項關於草蜢嘅描述係正確？",
+    "question_en": "Which description of Grasshopper is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question_zh": "以下邊項關於草蜢嘅描述係正確？",
+    "question_en": "Which description of Grasshopper is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 51,
+    "question_zh": "以下邊項關於草蜢嘅描述係正確？",
+    "question_en": "Which description of Grasshopper is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "question_zh": "以下邊項關於草蜢嘅描述係正確？",
+    "question_en": "Which description of Grasshopper is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 53,
+    "question_zh": "以下邊項關於草蜢嘅描述係正確？",
+    "question_en": "Which description of Grasshopper is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 54,
+    "question_zh": "以下邊項關於草蜢嘅描述係正確？",
+    "question_en": "Which description of Grasshopper is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 55,
+    "question_zh": "以下邊項關於草蜢嘅描述係正確？",
+    "question_en": "Which description of Grasshopper is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 56,
+    "question_zh": "以下邊項關於草蜢嘅描述係正確？",
+    "question_en": "Which description of Grasshopper is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 57,
+    "question_zh": "以下邊項關於草蜢嘅描述係正確？",
+    "question_en": "Which description of Grasshopper is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 58,
+    "question_zh": "以下邊項關於草蜢嘅描述係正確？",
+    "question_en": "Which description of Grasshopper is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 59,
+    "question_zh": "以下邊項關於草蜢嘅描述係正確？",
+    "question_en": "Which description of Grasshopper is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 60,
+    "question_zh": "以下邊項關於草蜢嘅描述係正確？",
+    "question_en": "Which description of Grasshopper is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 61,
+    "question_zh": "以下邊項關於草蜢嘅描述係正確？",
+    "question_en": "Which description of Grasshopper is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 62,
+    "question_zh": "以下邊項關於草蜢嘅描述係正確？",
+    "question_en": "Which description of Grasshopper is correct?",
+    "options_zh": [
+      "來自香港",
+      "來自外太空",
+      "係AI歌手",
+      "唔存在"
+    ],
+    "options_en": [
+      "From 香港",
+      "From outer space",
+      "AI singer",
+      "Doesn't exist"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢來自香港。",
+    "explanation_en": "Grasshopper is from 香港.",
+    "difficulty": 1
+  },
+  {
+    "id": 63,
+    "question_zh": "以下邊個獎項草蜢曾經獲得？",
+    "question_en": "Which award has Grasshopper won?",
+    "options_zh": [
+      "勁歌金曲金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "勁歌金曲金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢曾獲得勁歌金曲金獎。",
+    "explanation_en": "Grasshopper has won 勁歌金曲金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 64,
+    "question_zh": "以下邊個獎項草蜢曾經獲得？",
+    "question_en": "Which award has Grasshopper won?",
+    "options_zh": [
+      "勁歌金曲金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "勁歌金曲金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢曾獲得勁歌金曲金獎。",
+    "explanation_en": "Grasshopper has won 勁歌金曲金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 65,
+    "question_zh": "以下邊個獎項草蜢曾經獲得？",
+    "question_en": "Which award has Grasshopper won?",
+    "options_zh": [
+      "勁歌金曲金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "勁歌金曲金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢曾獲得勁歌金曲金獎。",
+    "explanation_en": "Grasshopper has won 勁歌金曲金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 66,
+    "question_zh": "以下邊個獎項草蜢曾經獲得？",
+    "question_en": "Which award has Grasshopper won?",
+    "options_zh": [
+      "勁歌金曲金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "勁歌金曲金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢曾獲得勁歌金曲金獎。",
+    "explanation_en": "Grasshopper has won 勁歌金曲金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 67,
+    "question_zh": "以下邊個獎項草蜢曾經獲得？",
+    "question_en": "Which award has Grasshopper won?",
+    "options_zh": [
+      "勁歌金曲金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "勁歌金曲金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢曾獲得勁歌金曲金獎。",
+    "explanation_en": "Grasshopper has won 勁歌金曲金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 68,
+    "question_zh": "以下邊個獎項草蜢曾經獲得？",
+    "question_en": "Which award has Grasshopper won?",
+    "options_zh": [
+      "勁歌金曲金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "勁歌金曲金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢曾獲得勁歌金曲金獎。",
+    "explanation_en": "Grasshopper has won 勁歌金曲金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 69,
+    "question_zh": "以下邊個獎項草蜢曾經獲得？",
+    "question_en": "Which award has Grasshopper won?",
+    "options_zh": [
+      "勁歌金曲金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "勁歌金曲金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢曾獲得勁歌金曲金獎。",
+    "explanation_en": "Grasshopper has won 勁歌金曲金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 70,
+    "question_zh": "以下邊個獎項草蜢曾經獲得？",
+    "question_en": "Which award has Grasshopper won?",
+    "options_zh": [
+      "勁歌金曲金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "勁歌金曲金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢曾獲得勁歌金曲金獎。",
+    "explanation_en": "Grasshopper has won 勁歌金曲金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 71,
+    "question_zh": "以下邊個獎項草蜢曾經獲得？",
+    "question_en": "Which award has Grasshopper won?",
+    "options_zh": [
+      "勁歌金曲金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "勁歌金曲金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢曾獲得勁歌金曲金獎。",
+    "explanation_en": "Grasshopper has won 勁歌金曲金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 72,
+    "question_zh": "以下邊個獎項草蜢曾經獲得？",
+    "question_en": "Which award has Grasshopper won?",
+    "options_zh": [
+      "勁歌金曲金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "勁歌金曲金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢曾獲得勁歌金曲金獎。",
+    "explanation_en": "Grasshopper has won 勁歌金曲金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 73,
+    "question_zh": "以下邊個獎項草蜢曾經獲得？",
+    "question_en": "Which award has Grasshopper won?",
+    "options_zh": [
+      "勁歌金曲金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "勁歌金曲金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢曾獲得勁歌金曲金獎。",
+    "explanation_en": "Grasshopper has won 勁歌金曲金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 74,
+    "question_zh": "以下邊個獎項草蜢曾經獲得？",
+    "question_en": "Which award has Grasshopper won?",
+    "options_zh": [
+      "勁歌金曲金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "勁歌金曲金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢曾獲得勁歌金曲金獎。",
+    "explanation_en": "Grasshopper has won 勁歌金曲金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 75,
+    "question_zh": "以下邊個獎項草蜢曾經獲得？",
+    "question_en": "Which award has Grasshopper won?",
+    "options_zh": [
+      "勁歌金曲金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "勁歌金曲金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢曾獲得勁歌金曲金獎。",
+    "explanation_en": "Grasshopper has won 勁歌金曲金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 76,
+    "question_zh": "以下邊個獎項草蜢曾經獲得？",
+    "question_en": "Which award has Grasshopper won?",
+    "options_zh": [
+      "勁歌金曲金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "勁歌金曲金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢曾獲得勁歌金曲金獎。",
+    "explanation_en": "Grasshopper has won 勁歌金曲金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 77,
+    "question_zh": "以下邊個獎項草蜢曾經獲得？",
+    "question_en": "Which award has Grasshopper won?",
+    "options_zh": [
+      "勁歌金曲金獎",
+      "奧斯卡最佳男主角",
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
+    ],
+    "options_en": [
+      "勁歌金曲金獎",
+      "Oscar Best Actor",
+      "Nobel Literature Prize",
+      "World Cup Golden Boot"
+    ],
+    "answer": 0,
+    "explanation_zh": "草蜢曾獲得勁歌金曲金獎。",
+    "explanation_en": "Grasshopper has won 勁歌金曲金獎.",
+    "difficulty": 3
+  },
+  {
+    "id": 78,
+    "question_zh": "《愛你》係邊位歌手嘅歌？",
+    "question_en": "Who sings '愛你'?",
+    "options_zh": [
+      "草蜢",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Grasshopper",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《愛你》係草蜢嘅歌。",
+    "explanation_en": "'愛你' is by Grasshopper.",
+    "difficulty": 2
+  },
+  {
+    "id": 79,
+    "question_zh": "《失戀》係邊位歌手嘅歌？",
+    "question_en": "Who sings '失戀'?",
+    "options_zh": [
+      "草蜢",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Grasshopper",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《失戀》係草蜢嘅歌。",
+    "explanation_en": "'失戀' is by Grasshopper.",
+    "difficulty": 2
+  },
+  {
+    "id": 80,
+    "question_zh": "《半點心》係邊位歌手嘅歌？",
+    "question_en": "Who sings '半點心'?",
+    "options_zh": [
+      "草蜢",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Grasshopper",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《半點心》係草蜢嘅歌。",
+    "explanation_en": "'半點心' is by Grasshopper.",
+    "difficulty": 2
+  },
+  {
+    "id": 81,
+    "question_zh": "《忘情桑巴舞》係邊位歌手嘅歌？",
+    "question_en": "Who sings '忘情桑巴舞'?",
+    "options_zh": [
+      "草蜢",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Grasshopper",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《忘情桑巴舞》係草蜢嘅歌。",
+    "explanation_en": "'忘情桑巴舞' is by Grasshopper.",
+    "difficulty": 3
+  },
+  {
+    "id": 82,
+    "question_zh": "《寶貝對不起》係邊位歌手嘅歌？",
+    "question_en": "Who sings '寶貝對不起'?",
+    "options_zh": [
+      "草蜢",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Grasshopper",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《寶貝對不起》係草蜢嘅歌。",
+    "explanation_en": "'寶貝對不起' is by Grasshopper.",
+    "difficulty": 3
+  },
+  {
+    "id": 83,
+    "question_zh": "《怎麼天生不是女人》係邊位歌手嘅歌？",
+    "question_en": "Who sings '怎麼天生不是女人'?",
+    "options_zh": [
+      "草蜢",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Grasshopper",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《怎麼天生不是女人》係草蜢嘅歌。",
+    "explanation_en": "'怎麼天生不是女人' is by Grasshopper.",
+    "difficulty": 3
+  },
+  {
+    "id": 84,
+    "question_zh": "《愛你》係邊位歌手嘅歌？",
+    "question_en": "Who sings '愛你'?",
+    "options_zh": [
+      "草蜢",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Grasshopper",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《愛你》係草蜢嘅歌。",
+    "explanation_en": "'愛你' is by Grasshopper.",
+    "difficulty": 3
+  },
+  {
+    "id": 85,
+    "question_zh": "《失戀》係邊位歌手嘅歌？",
+    "question_en": "Who sings '失戀'?",
+    "options_zh": [
+      "草蜢",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Grasshopper",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《失戀》係草蜢嘅歌。",
+    "explanation_en": "'失戀' is by Grasshopper.",
+    "difficulty": 3
+  },
+  {
+    "id": 86,
+    "question_zh": "《半點心》係邊位歌手嘅歌？",
+    "question_en": "Who sings '半點心'?",
+    "options_zh": [
+      "草蜢",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Grasshopper",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《半點心》係草蜢嘅歌。",
+    "explanation_en": "'半點心' is by Grasshopper.",
+    "difficulty": 3
+  },
+  {
+    "id": 87,
+    "question_zh": "《忘情桑巴舞》係邊位歌手嘅歌？",
+    "question_en": "Who sings '忘情桑巴舞'?",
+    "options_zh": [
+      "草蜢",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Grasshopper",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《忘情桑巴舞》係草蜢嘅歌。",
+    "explanation_en": "'忘情桑巴舞' is by Grasshopper.",
+    "difficulty": 3
+  },
+  {
+    "id": 88,
+    "question_zh": "《寶貝對不起》係邊位歌手嘅歌？",
+    "question_en": "Who sings '寶貝對不起'?",
+    "options_zh": [
+      "草蜢",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Grasshopper",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《寶貝對不起》係草蜢嘅歌。",
+    "explanation_en": "'寶貝對不起' is by Grasshopper.",
+    "difficulty": 3
+  },
+  {
+    "id": 89,
+    "question_zh": "《怎麼天生不是女人》係邊位歌手嘅歌？",
+    "question_en": "Who sings '怎麼天生不是女人'?",
+    "options_zh": [
+      "草蜢",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Grasshopper",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《怎麼天生不是女人》係草蜢嘅歌。",
+    "explanation_en": "'怎麼天生不是女人' is by Grasshopper.",
+    "difficulty": 3
+  },
+  {
+    "id": 90,
+    "question_zh": "《愛你》係邊位歌手嘅歌？",
+    "question_en": "Who sings '愛你'?",
+    "options_zh": [
+      "草蜢",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Grasshopper",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《愛你》係草蜢嘅歌。",
+    "explanation_en": "'愛你' is by Grasshopper.",
+    "difficulty": 3
+  },
+  {
+    "id": 91,
+    "question_zh": "《失戀》係邊位歌手嘅歌？",
+    "question_en": "Who sings '失戀'?",
+    "options_zh": [
+      "草蜢",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Grasshopper",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《失戀》係草蜢嘅歌。",
+    "explanation_en": "'失戀' is by Grasshopper.",
+    "difficulty": 3
+  },
+  {
+    "id": 92,
+    "question_zh": "《半點心》係邊位歌手嘅歌？",
+    "question_en": "Who sings '半點心'?",
+    "options_zh": [
+      "草蜢",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Grasshopper",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《半點心》係草蜢嘅歌。",
+    "explanation_en": "'半點心' is by Grasshopper.",
+    "difficulty": 3
+  },
+  {
+    "id": 93,
+    "question_zh": "《忘情桑巴舞》係邊位歌手嘅歌？",
+    "question_en": "Who sings '忘情桑巴舞'?",
+    "options_zh": [
+      "草蜢",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Grasshopper",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《忘情桑巴舞》係草蜢嘅歌。",
+    "explanation_en": "'忘情桑巴舞' is by Grasshopper.",
+    "difficulty": 3
+  },
+  {
+    "id": 94,
+    "question_zh": "《寶貝對不起》係邊位歌手嘅歌？",
+    "question_en": "Who sings '寶貝對不起'?",
+    "options_zh": [
+      "草蜢",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Grasshopper",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《寶貝對不起》係草蜢嘅歌。",
+    "explanation_en": "'寶貝對不起' is by Grasshopper.",
+    "difficulty": 3
+  },
+  {
+    "id": 95,
+    "question_zh": "《怎麼天生不是女人》係邊位歌手嘅歌？",
+    "question_en": "Who sings '怎麼天生不是女人'?",
+    "options_zh": [
+      "草蜢",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Grasshopper",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《怎麼天生不是女人》係草蜢嘅歌。",
+    "explanation_en": "'怎麼天生不是女人' is by Grasshopper.",
+    "difficulty": 3
+  },
+  {
+    "id": 96,
+    "question_zh": "《愛你》係邊位歌手嘅歌？",
+    "question_en": "Who sings '愛你'?",
+    "options_zh": [
+      "草蜢",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Grasshopper",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《愛你》係草蜢嘅歌。",
+    "explanation_en": "'愛你' is by Grasshopper.",
+    "difficulty": 3
+  },
+  {
+    "id": 97,
+    "question_zh": "《失戀》係邊位歌手嘅歌？",
+    "question_en": "Who sings '失戀'?",
+    "options_zh": [
+      "草蜢",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Grasshopper",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《失戀》係草蜢嘅歌。",
+    "explanation_en": "'失戀' is by Grasshopper.",
+    "difficulty": 3
+  },
+  {
+    "id": 98,
+    "question_zh": "《半點心》係邊位歌手嘅歌？",
+    "question_en": "Who sings '半點心'?",
+    "options_zh": [
+      "草蜢",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Grasshopper",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《半點心》係草蜢嘅歌。",
+    "explanation_en": "'半點心' is by Grasshopper.",
+    "difficulty": 3
+  },
+  {
+    "id": 99,
+    "question_zh": "《忘情桑巴舞》係邊位歌手嘅歌？",
+    "question_en": "Who sings '忘情桑巴舞'?",
+    "options_zh": [
+      "草蜢",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Grasshopper",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《忘情桑巴舞》係草蜢嘅歌。",
+    "explanation_en": "'忘情桑巴舞' is by Grasshopper.",
+    "difficulty": 3
+  },
+  {
+    "id": 100,
+    "question_zh": "《寶貝對不起》係邊位歌手嘅歌？",
+    "question_en": "Who sings '寶貝對不起'?",
+    "options_zh": [
+      "草蜢",
+      "其他歌手A",
+      "其他歌手B",
+      "其他歌手C"
+    ],
+    "options_en": [
+      "Grasshopper",
+      "Other Artist A",
+      "Other Artist B",
+      "Other Artist C"
+    ],
+    "answer": 0,
+    "explanation_zh": "《寶貝對不起》係草蜢嘅歌。",
+    "explanation_en": "'寶貝對不起' is by Grasshopper.",
+    "difficulty": 3
   }
 ]
