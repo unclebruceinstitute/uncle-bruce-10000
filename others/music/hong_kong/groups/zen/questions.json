@@ -4,18 +4,18 @@
     "question_zh": "以下邊首係Zen嘅歌？",
     "question_en": "Which is a song by Zen?",
     "options_zh": [
-      "其他歌曲2",
       "其他歌曲0",
-      "一秒間",
-      "其他歌曲1"
+      "其他歌曲1",
+      "其他歌曲2",
+      "一秒間"
     ],
     "options_en": [
-      "其他歌曲2",
       "其他歌曲0",
-      "一秒間",
-      "其他歌曲1"
+      "其他歌曲1",
+      "其他歌曲2",
+      "一秒間"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "「一秒間」係Zen嘅歌曲。",
     "explanation_en": "'一秒間' is a song by Zen.",
     "difficulty": 1
@@ -25,18 +25,18 @@
     "question_zh": "《Zen》係Zen喺邊年推出嘅專輯？",
     "question_en": "What year was 'Zen' by Zen released?",
     "options_zh": [
-      "2010",
-      "2023",
       "1999",
-      "2020"
+      "2023",
+      "2020",
+      "2010"
     ],
     "options_en": [
-      "2010",
-      "2023",
       "1999",
-      "2020"
+      "2023",
+      "2020",
+      "2010"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "《Zen》喺2020年推出。",
     "explanation_en": "'Zen' was released in 2020.",
     "difficulty": 2
@@ -46,18 +46,18 @@
     "question_zh": "Zen大約喺邊年出道？",
     "question_en": "When did Zen approximately debut?",
     "options_zh": [
-      "2015",
-      "1980",
       "2019",
-      "2010"
+      "2010",
+      "1980",
+      "2015"
     ],
     "options_en": [
-      "2015",
-      "1980",
       "2019",
-      "2010"
+      "2010",
+      "1980",
+      "2015"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "Zen喺2019年出道。",
     "explanation_en": "Zen debuted around 2019.",
     "difficulty": 1
@@ -67,18 +67,18 @@
     "question_zh": "Zen來自邊個地方？",
     "question_en": "Where is Zen from?",
     "options_zh": [
+      "台灣",
       "韓國",
       "香港",
-      "台灣",
       "內地"
     ],
     "options_en": [
+      "台灣",
       "韓國",
       "香港",
-      "台灣",
       "內地"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "Zen來自香港。",
     "explanation_en": "Zen is from 香港.",
     "difficulty": 1
@@ -89,17 +89,17 @@
     "question_en": "What genre does Zen mainly sing?",
     "options_zh": [
       "藍調",
-      "古典",
       "流行曲",
-      "搖滾"
+      "搖滾",
+      "古典"
     ],
     "options_en": [
       "藍調",
-      "古典",
       "流行曲",
-      "搖滾"
+      "搖滾",
+      "古典"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "Zen主要唱流行曲。",
     "explanation_en": "Zen mainly sings 流行曲.",
     "difficulty": 2
@@ -109,18 +109,18 @@
     "question_zh": "Zen係邊間唱片公司旗下？",
     "question_en": "Which label is Zen signed to?",
     "options_zh": [
-      "紅線音樂",
-      "大國文化",
+      "索尼",
       "星夢",
-      "索尼"
+      "大國文化",
+      "紅線音樂"
     ],
     "options_en": [
-      "紅線音樂",
-      "大國文化",
+      "索尼",
       "星夢",
-      "索尼"
+      "大國文化",
+      "紅線音樂"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "Zen係索尼旗下歌手。",
     "explanation_en": "Zen is signed to 索尼.",
     "difficulty": 2
@@ -130,18 +130,18 @@
     "question_zh": "以下邊項關於Zen嘅描述係正確？",
     "question_en": "Which description of Zen is correct?",
     "options_zh": [
-      "來自香港",
-      "來自外太空",
       "係AI歌手",
+      "來自外太空",
+      "來自香港",
       "唔存在"
     ],
     "options_en": [
-      "From 香港",
-      "From outer space",
       "AI singer",
+      "From outer space",
+      "From 香港",
       "Doesn't exist"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "Zen來自香港。",
     "explanation_en": "Zen is from 香港.",
     "difficulty": 1
@@ -152,15 +152,15 @@
     "question_en": "What type of artist is Zen?",
     "options_zh": [
       "歌手",
-      "演員",
       "畫家",
-      "作家"
+      "作家",
+      "演員"
     ],
     "options_en": [
       "Singer",
-      "Actor",
       "Painter",
-      "Writer"
+      "Writer",
+      "Actor"
     ],
     "answer": 0,
     "explanation_zh": "Zen係一位歌手。",
@@ -172,18 +172,18 @@
     "question_zh": "《一秒間》係邊位歌手嘅歌？",
     "question_en": "Who sings '一秒間'?",
     "options_zh": [
-      "Zen",
       "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
+      "其他歌手C",
+      "Zen",
+      "其他歌手B"
     ],
     "options_en": [
-      "Zen",
       "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
+      "Other Artist C",
+      "Zen",
+      "Other Artist B"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "《一秒間》係Zen嘅歌。",
     "explanation_en": "'一秒間' is by Zen.",
     "difficulty": 2
@@ -193,18 +193,18 @@
     "question_zh": "「Zen嘅歌」屬於咩類型？",
     "question_en": "What genre is 'Zen'?",
     "options_zh": [
+      "類型D",
       "類型A",
-      "類型B",
       "類型C",
-      "類型D"
+      "類型B"
     ],
     "options_en": [
+      "類型D",
       "類型A",
-      "類型B",
       "類型C",
-      "類型D"
+      "類型B"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係類型A。",
     "explanation_en": "Correct answer: 類型A.",
     "difficulty": 1
@@ -216,14 +216,14 @@
     "options_zh": [
       "2000",
       "2005",
-      "2010",
-      "2015"
+      "2015",
+      "2010"
     ],
     "options_en": [
       "2000",
       "2005",
-      "2010",
-      "2015"
+      "2015",
+      "2010"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係2000。",
@@ -235,18 +235,18 @@
     "question_zh": "「Zen嘅歌」來自邊個國家/地區？",
     "question_en": "Where is 'Zen' from?",
     "options_zh": [
-      "香港",
-      "台灣",
+      "韓國",
       "日本",
-      "韓國"
+      "香港",
+      "台灣"
     ],
     "options_en": [
-      "香港",
-      "台灣",
+      "韓國",
       "日本",
-      "韓國"
+      "香港",
+      "台灣"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係香港。",
     "explanation_en": "Correct answer: 香港.",
     "difficulty": 1
@@ -257,15 +257,15 @@
     "question_en": "What's 'Zen' most famous work?",
     "options_zh": [
       "作品A",
-      "作品B",
+      "作品D",
       "作品C",
-      "作品D"
+      "作品B"
     ],
     "options_en": [
       "作品A",
-      "作品B",
+      "作品D",
       "作品C",
-      "作品D"
+      "作品B"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係作品A。",
@@ -277,18 +277,18 @@
     "question_zh": "「Zen嘅歌」嘅風格特點係？",
     "question_en": "What's 'Zen' style?",
     "options_zh": [
-      "風格A",
-      "風格B",
       "風格C",
-      "風格D"
+      "風格D",
+      "風格A",
+      "風格B"
     ],
     "options_en": [
-      "風格A",
-      "風格B",
       "風格C",
-      "風格D"
+      "風格D",
+      "風格A",
+      "風格B"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係風格A。",
     "explanation_en": "Correct answer: 風格A.",
     "difficulty": 1
@@ -298,18 +298,18 @@
     "question_zh": "「Zen嘅歌」同邊位合作過？",
     "question_en": "Who collaborated with 'Zen'?",
     "options_zh": [
-      "合作A",
+      "合作D",
       "合作B",
-      "合作C",
-      "合作D"
+      "合作A",
+      "合作C"
     ],
     "options_en": [
-      "合作A",
+      "合作D",
       "合作B",
-      "合作C",
-      "合作D"
+      "合作A",
+      "合作C"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係合作A。",
     "explanation_en": "Correct answer: 合作A.",
     "difficulty": 1
@@ -319,18 +319,18 @@
     "question_zh": "「Zen嘅歌」嘅粉絲叫咩？",
     "question_en": "What are 'Zen' fans called?",
     "options_zh": [
-      "粉絲名A",
-      "粉絲名B",
       "粉絲名C",
-      "粉絲名D"
+      "粉絲名B",
+      "粉絲名D",
+      "粉絲名A"
     ],
     "options_en": [
-      "粉絲名A",
-      "粉絲名B",
       "粉絲名C",
-      "粉絲名D"
+      "粉絲名B",
+      "粉絲名D",
+      "粉絲名A"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係粉絲名A。",
     "explanation_en": "Correct answer: 粉絲名A.",
     "difficulty": 1
@@ -340,18 +340,18 @@
     "question_zh": "「Zen嘅歌」喺邊個平台最活躍？",
     "question_en": "Which platform is 'Zen' most active on?",
     "options_zh": [
-      "YouTube",
-      "Instagram",
       "Twitter",
-      "TikTok"
+      "TikTok",
+      "YouTube",
+      "Instagram"
     ],
     "options_en": [
-      "YouTube",
-      "Instagram",
       "Twitter",
-      "TikTok"
+      "TikTok",
+      "YouTube",
+      "Instagram"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係YouTube。",
     "explanation_en": "Correct answer: YouTube.",
     "difficulty": 1
@@ -361,18 +361,18 @@
     "question_zh": "「Zen嘅歌」嘅出道作品係？",
     "question_en": "What's 'Zen' debut work?",
     "options_zh": [
+      "出道作C",
       "出道作A",
       "出道作B",
-      "出道作C",
       "出道作D"
     ],
     "options_en": [
+      "出道作C",
       "出道作A",
       "出道作B",
-      "出道作C",
       "出道作D"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係出道作A。",
     "explanation_en": "Correct answer: 出道作A.",
     "difficulty": 2
@@ -382,18 +382,18 @@
     "question_zh": "「Zen嘅歌」有冇拎過獎？",
     "question_en": "Did 'Zen' win awards?",
     "options_zh": [
-      "有",
-      "冇",
       "提名過",
-      "唔清楚"
+      "唔清楚",
+      "有",
+      "冇"
     ],
     "options_en": [
-      "有",
-      "冇",
       "提名過",
-      "唔清楚"
+      "唔清楚",
+      "有",
+      "冇"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係有。",
     "explanation_en": "Correct answer: 有.",
     "difficulty": 2
@@ -403,18 +403,18 @@
     "question_zh": "「Zen嘅歌」嘅活躍年份係？",
     "question_en": "What years was 'Zen' active?",
     "options_zh": [
-      "2000年代",
-      "2010年代",
       "2020年代",
-      "1990年代"
+      "2000年代",
+      "1990年代",
+      "2010年代"
     ],
     "options_en": [
-      "2000年代",
-      "2010年代",
       "2020年代",
-      "1990年代"
+      "2000年代",
+      "1990年代",
+      "2010年代"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係2000年代。",
     "explanation_en": "Correct answer: 2000年代.",
     "difficulty": 2
@@ -425,15 +425,15 @@
     "question_en": "What's 'Zen' representative color?",
     "options_zh": [
       "紅色",
-      "藍色",
       "綠色",
-      "紫色"
+      "紫色",
+      "藍色"
     ],
     "options_en": [
       "紅色",
-      "藍色",
       "綠色",
-      "紫色"
+      "紫色",
+      "藍色"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係紅色。",
@@ -445,18 +445,18 @@
     "question_zh": "「Zen嘅歌」嘅口頭禪係？",
     "question_en": "What's 'Zen' catchphrase?",
     "options_zh": [
-      "口頭禪A",
       "口頭禪B",
+      "口頭禪A",
       "口頭禪C",
       "口頭禪D"
     ],
     "options_en": [
-      "口頭禪A",
       "口頭禪B",
+      "口頭禪A",
       "口頭禪C",
       "口頭禪D"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係口頭禪A。",
     "explanation_en": "Correct answer: 口頭禪A.",
     "difficulty": 2
@@ -466,18 +466,18 @@
     "question_zh": "「Zen嘅歌」嘅身高係？",
     "question_en": "What's 'Zen' height?",
     "options_zh": [
-      "170cm",
       "175cm",
+      "185cm",
       "180cm",
-      "185cm"
+      "170cm"
     ],
     "options_en": [
-      "170cm",
       "175cm",
+      "185cm",
       "180cm",
-      "185cm"
+      "170cm"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係170cm。",
     "explanation_en": "Correct answer: 170cm.",
     "difficulty": 2
@@ -489,14 +489,14 @@
     "options_zh": [
       "1月",
       "4月",
-      "7月",
-      "10月"
+      "10月",
+      "7月"
     ],
     "options_en": [
       "1月",
       "4月",
-      "7月",
-      "10月"
+      "10月",
+      "7月"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係1月。",
@@ -509,15 +509,15 @@
     "question_en": "What agency is 'Zen' with?",
     "options_zh": [
       "公司A",
-      "公司B",
+      "公司D",
       "公司C",
-      "公司D"
+      "公司B"
     ],
     "options_en": [
       "公司A",
-      "公司B",
+      "公司D",
       "公司C",
-      "公司D"
+      "公司B"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係公司A。",
@@ -529,18 +529,18 @@
     "question_zh": "「Zen嘅歌」嘅座右銘係？",
     "question_en": "What's 'Zen' motto?",
     "options_zh": [
+      "座右銘D",
       "座右銘A",
       "座右銘B",
-      "座右銘C",
-      "座右銘D"
+      "座右銘C"
     ],
     "options_en": [
+      "座右銘D",
       "座右銘A",
       "座右銘B",
-      "座右銘C",
-      "座右銘D"
+      "座右銘C"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係座右銘A。",
     "explanation_en": "Correct answer: 座右銘A.",
     "difficulty": 2
@@ -551,15 +551,15 @@
     "question_en": "What's 'Zen' education?",
     "options_zh": [
       "大學畢業",
-      "高中畢業",
+      "海外留學",
       "自學成才",
-      "海外留學"
+      "高中畢業"
     ],
     "options_en": [
       "大學畢業",
-      "高中畢業",
+      "海外留學",
       "自學成才",
-      "海外留學"
+      "高中畢業"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係大學畢業。",
@@ -572,14 +572,14 @@
     "question_en": "What's 'Zen' family background?",
     "options_zh": [
       "普通家庭",
-      "演藝世家",
       "商界家庭",
+      "演藝世家",
       "學術家庭"
     ],
     "options_en": [
       "普通家庭",
-      "演藝世家",
       "商界家庭",
+      "演藝世家",
       "學術家庭"
     ],
     "answer": 0,
@@ -592,18 +592,18 @@
     "question_zh": "「Zen嘅歌」嘅興趣愛好係？",
     "question_en": "What's 'Zen' hobby?",
     "options_zh": [
-      "運動",
       "閱讀",
-      "旅行",
-      "攝影"
+      "攝影",
+      "運動",
+      "旅行"
     ],
     "options_en": [
-      "運動",
       "閱讀",
-      "旅行",
-      "攝影"
+      "攝影",
+      "運動",
+      "旅行"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係運動。",
     "explanation_en": "Correct answer: 運動.",
     "difficulty": 3
@@ -613,18 +613,18 @@
     "question_zh": "「Zen嘅歌」嘅社交媒體粉絲數？",
     "question_en": "How many social media followers for 'Zen'?",
     "options_zh": [
-      "100萬以下",
       "100-500萬",
+      "1000萬以上",
       "500-1000萬",
-      "1000萬以上"
+      "100萬以下"
     ],
     "options_en": [
-      "100萬以下",
       "100-500萬",
+      "1000萬以上",
       "500-1000萬",
-      "1000萬以上"
+      "100萬以下"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係100萬以下。",
     "explanation_en": "Correct answer: 100萬以下.",
     "difficulty": 3
@@ -634,18 +634,18 @@
     "question_zh": "「Zen嘅歌」嘅演唱會/展覽次數？",
     "question_en": "How many concerts/exhibitions for 'Zen'?",
     "options_zh": [
-      "10場以下",
+      "100場以上",
       "10-50場",
       "50-100場",
-      "100場以上"
+      "10場以下"
     ],
     "options_en": [
-      "10場以下",
+      "100場以上",
       "10-50場",
       "50-100場",
-      "100場以上"
+      "10場以下"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係10場以下。",
     "explanation_en": "Correct answer: 10場以下.",
     "difficulty": 3
@@ -656,15 +656,15 @@
     "question_en": "How many albums/works for 'Zen'?",
     "options_zh": [
       "5個以下",
-      "5-10個",
       "10-20個",
-      "20個以上"
+      "20個以上",
+      "5-10個"
     ],
     "options_en": [
       "5個以下",
-      "5-10個",
       "10-20個",
-      "20個以上"
+      "20個以上",
+      "5-10個"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係5個以下。",
@@ -676,18 +676,18 @@
     "question_zh": "「Zen嘅歌」嘅音樂/作品風格？",
     "question_en": "What's 'Zen' creative style?",
     "options_zh": [
-      "傳統",
       "現代",
+      "融合",
       "實驗",
-      "融合"
+      "傳統"
     ],
     "options_en": [
-      "傳統",
       "現代",
+      "融合",
       "實驗",
-      "融合"
+      "傳統"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係傳統。",
     "explanation_en": "Correct answer: 傳統.",
     "difficulty": 3
@@ -697,18 +697,18 @@
     "question_zh": "「Zen嘅歌」嘅影響力範圍？",
     "question_en": "What's 'Zen' influence scope?",
     "options_zh": [
-      "本地",
       "亞洲",
-      "全球",
-      "網絡"
+      "網絡",
+      "本地",
+      "全球"
     ],
     "options_en": [
-      "本地",
       "亞洲",
-      "全球",
-      "網絡"
+      "網絡",
+      "本地",
+      "全球"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係本地。",
     "explanation_en": "Correct answer: 本地.",
     "difficulty": 3

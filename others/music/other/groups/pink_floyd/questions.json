@@ -5,14 +5,14 @@
     "question_en": "Which is a song by Pink Floyd?",
     "options_zh": [
       "歌曲G",
-      "歌曲F",
       "歌曲B",
+      "歌曲F",
       "歌曲A"
     ],
     "options_en": [
       "歌曲G",
-      "歌曲F",
       "歌曲B",
+      "歌曲F",
       "歌曲A"
     ],
     "answer": 3,
@@ -25,18 +25,18 @@
     "question_zh": "《專輯A》係Pink Floyd喺邊年推出嘅專輯？",
     "question_en": "What year was '專輯A' by Pink Floyd released?",
     "options_zh": [
-      "2018",
-      "2003",
       "1999",
-      "2023"
+      "2003",
+      "2023",
+      "2018"
     ],
     "options_en": [
-      "2018",
-      "2003",
       "1999",
-      "2023"
+      "2003",
+      "2023",
+      "2018"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "《專輯A》喺2023年推出。",
     "explanation_en": "'專輯A' was released in 2023.",
     "difficulty": 2
@@ -46,18 +46,18 @@
     "question_zh": "《專輯B》係Pink Floyd喺邊年推出嘅專輯？",
     "question_en": "What year was '專輯B' by Pink Floyd released?",
     "options_zh": [
+      "2007",
       "1999",
       "2018",
-      "2007",
       "2003"
     ],
     "options_en": [
+      "2007",
       "1999",
       "2018",
-      "2007",
       "2003"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "《專輯B》喺2018年推出。",
     "explanation_en": "'專輯B' was released in 2018.",
     "difficulty": 2
@@ -67,15 +67,15 @@
     "question_zh": "《專輯C》係Pink Floyd喺邊年推出嘅專輯？",
     "question_en": "What year was '專輯C' by Pink Floyd released?",
     "options_zh": [
+      "2018",
       "2010",
       "2007",
-      "2018",
       "2023"
     ],
     "options_en": [
+      "2018",
       "2010",
       "2007",
-      "2018",
       "2023"
     ],
     "answer": 3,
@@ -88,18 +88,18 @@
     "question_zh": "《專輯D》係Pink Floyd喺邊年推出嘅專輯？",
     "question_en": "What year was '專輯D' by Pink Floyd released?",
     "options_zh": [
-      "2015",
-      "2007",
+      "2010",
       "1999",
-      "2010"
+      "2007",
+      "2015"
     ],
     "options_en": [
-      "2015",
-      "2007",
+      "2010",
       "1999",
-      "2010"
+      "2007",
+      "2015"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "《專輯D》喺2010年推出。",
     "explanation_en": "'專輯D' was released in 2010.",
     "difficulty": 2
@@ -131,14 +131,14 @@
     "question_en": "When did Pink Floyd approximately debut?",
     "options_zh": [
       "2010",
-      "1995",
       "1990",
+      "1995",
       "2000"
     ],
     "options_en": [
       "2010",
-      "1995",
       "1990",
+      "1995",
       "2000"
     ],
     "answer": 3,
@@ -151,18 +151,18 @@
     "question_zh": "Pink Floyd來自邊個地方？",
     "question_en": "Where is Pink Floyd from?",
     "options_zh": [
-      "other",
-      "美國",
+      "韓國",
       "台灣",
-      "韓國"
+      "other",
+      "美國"
     ],
     "options_en": [
-      "other",
-      "美國",
+      "韓國",
       "台灣",
-      "韓國"
+      "other",
+      "美國"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "Pink Floyd來自other。",
     "explanation_en": "Pink Floyd is from other.",
     "difficulty": 1
@@ -173,15 +173,15 @@
     "question_en": "What genre does Pink Floyd mainly sing?",
     "options_zh": [
       "流行曲",
-      "R&B",
       "舞曲",
-      "搖滾"
+      "搖滾",
+      "R&B"
     ],
     "options_en": [
       "流行曲",
-      "R&B",
       "舞曲",
-      "搖滾"
+      "搖滾",
+      "R&B"
     ],
     "answer": 0,
     "explanation_zh": "Pink Floyd主要唱流行曲。",
@@ -193,18 +193,18 @@
     "question_zh": "Pink Floyd係邊間唱片公司旗下？",
     "question_en": "Which label is Pink Floyd signed to?",
     "options_zh": [
-      "環球",
       "華納",
       "紅線音樂",
-      "唱片公司"
+      "唱片公司",
+      "環球"
     ],
     "options_en": [
-      "環球",
       "華納",
       "紅線音樂",
-      "唱片公司"
+      "唱片公司",
+      "環球"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "Pink Floyd係唱片公司旗下歌手。",
     "explanation_en": "Pink Floyd is signed to 唱片公司.",
     "difficulty": 2
@@ -236,15 +236,15 @@
     "question_en": "Which award has Pink Floyd won?",
     "options_zh": [
       "音樂獎項",
-      "奧斯卡最佳男主角",
       "諾貝爾文學獎",
-      "世界盃金靴獎"
+      "世界盃金靴獎",
+      "奧斯卡最佳男主角"
     ],
     "options_en": [
       "音樂獎項",
-      "Oscar Best Actor",
       "Nobel Literature Prize",
-      "World Cup Golden Boot"
+      "World Cup Golden Boot",
+      "Oscar Best Actor"
     ],
     "answer": 0,
     "explanation_zh": "Pink Floyd曾獲得音樂獎項。",
@@ -256,18 +256,18 @@
     "question_zh": "《歌曲A》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲A'?",
     "options_zh": [
-      "Pink Floyd",
       "其他歌手A",
+      "其他歌手C",
       "其他歌手B",
-      "其他歌手C"
+      "Pink Floyd"
     ],
     "options_en": [
-      "Pink Floyd",
       "Other Artist A",
+      "Other Artist C",
       "Other Artist B",
-      "Other Artist C"
+      "Pink Floyd"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "《歌曲A》係Pink Floyd嘅歌。",
     "explanation_en": "'歌曲A' is by Pink Floyd.",
     "difficulty": 3
@@ -277,18 +277,18 @@
     "question_zh": "《歌曲B》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲B'?",
     "options_zh": [
-      "Pink Floyd",
-      "其他歌手A",
       "其他歌手B",
+      "其他歌手A",
+      "Pink Floyd",
       "其他歌手C"
     ],
     "options_en": [
-      "Pink Floyd",
-      "Other Artist A",
       "Other Artist B",
+      "Other Artist A",
+      "Pink Floyd",
       "Other Artist C"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "《歌曲B》係Pink Floyd嘅歌。",
     "explanation_en": "'歌曲B' is by Pink Floyd.",
     "difficulty": 3
@@ -298,18 +298,18 @@
     "question_zh": "《歌曲C》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲C'?",
     "options_zh": [
-      "Pink Floyd",
-      "其他歌手A",
       "其他歌手B",
+      "其他歌手A",
+      "Pink Floyd",
       "其他歌手C"
     ],
     "options_en": [
-      "Pink Floyd",
-      "Other Artist A",
       "Other Artist B",
+      "Other Artist A",
+      "Pink Floyd",
       "Other Artist C"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "《歌曲C》係Pink Floyd嘅歌。",
     "explanation_en": "'歌曲C' is by Pink Floyd.",
     "difficulty": 3
@@ -319,18 +319,18 @@
     "question_zh": "《歌曲D》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲D'?",
     "options_zh": [
-      "Pink Floyd",
+      "其他歌手C",
       "其他歌手A",
       "其他歌手B",
-      "其他歌手C"
+      "Pink Floyd"
     ],
     "options_en": [
-      "Pink Floyd",
+      "Other Artist C",
       "Other Artist A",
       "Other Artist B",
-      "Other Artist C"
+      "Pink Floyd"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "《歌曲D》係Pink Floyd嘅歌。",
     "explanation_en": "'歌曲D' is by Pink Floyd.",
     "difficulty": 3
@@ -340,18 +340,18 @@
     "question_zh": "《歌曲E》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲E'?",
     "options_zh": [
-      "Pink Floyd",
       "其他歌手A",
       "其他歌手B",
-      "其他歌手C"
+      "其他歌手C",
+      "Pink Floyd"
     ],
     "options_en": [
-      "Pink Floyd",
       "Other Artist A",
       "Other Artist B",
-      "Other Artist C"
+      "Other Artist C",
+      "Pink Floyd"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "《歌曲E》係Pink Floyd嘅歌。",
     "explanation_en": "'歌曲E' is by Pink Floyd.",
     "difficulty": 3
@@ -362,14 +362,14 @@
     "question_en": "Who sings '歌曲F'?",
     "options_zh": [
       "Pink Floyd",
-      "其他歌手A",
       "其他歌手B",
+      "其他歌手A",
       "其他歌手C"
     ],
     "options_en": [
       "Pink Floyd",
-      "Other Artist A",
       "Other Artist B",
+      "Other Artist A",
       "Other Artist C"
     ],
     "answer": 0,
@@ -383,15 +383,15 @@
     "question_en": "Who sings '歌曲G'?",
     "options_zh": [
       "Pink Floyd",
+      "其他歌手C",
       "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
+      "其他歌手B"
     ],
     "options_en": [
       "Pink Floyd",
+      "Other Artist C",
       "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
+      "Other Artist B"
     ],
     "answer": 0,
     "explanation_zh": "《歌曲G》係Pink Floyd嘅歌。",
@@ -403,18 +403,18 @@
     "question_zh": "《歌曲H》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲H'?",
     "options_zh": [
-      "Pink Floyd",
       "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
+      "Pink Floyd",
+      "其他歌手C",
+      "其他歌手B"
     ],
     "options_en": [
-      "Pink Floyd",
       "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
+      "Pink Floyd",
+      "Other Artist C",
+      "Other Artist B"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "《歌曲H》係Pink Floyd嘅歌。",
     "explanation_en": "'歌曲H' is by Pink Floyd.",
     "difficulty": 3
@@ -424,18 +424,18 @@
     "question_zh": "《歌曲I》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲I'?",
     "options_zh": [
-      "Pink Floyd",
+      "其他歌手C",
       "其他歌手A",
       "其他歌手B",
-      "其他歌手C"
+      "Pink Floyd"
     ],
     "options_en": [
-      "Pink Floyd",
+      "Other Artist C",
       "Other Artist A",
       "Other Artist B",
-      "Other Artist C"
+      "Pink Floyd"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "《歌曲I》係Pink Floyd嘅歌。",
     "explanation_en": "'歌曲I' is by Pink Floyd.",
     "difficulty": 3
@@ -445,18 +445,18 @@
     "question_zh": "《歌曲J》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲J'?",
     "options_zh": [
-      "Pink Floyd",
-      "其他歌手A",
       "其他歌手B",
-      "其他歌手C"
+      "其他歌手A",
+      "其他歌手C",
+      "Pink Floyd"
     ],
     "options_en": [
-      "Pink Floyd",
-      "Other Artist A",
       "Other Artist B",
-      "Other Artist C"
+      "Other Artist A",
+      "Other Artist C",
+      "Pink Floyd"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "《歌曲J》係Pink Floyd嘅歌。",
     "explanation_en": "'歌曲J' is by Pink Floyd.",
     "difficulty": 3
@@ -467,15 +467,15 @@
     "question_en": "What genre is 'Pink Floyd'?",
     "options_zh": [
       "類型A",
-      "類型B",
       "類型C",
-      "類型D"
+      "類型D",
+      "類型B"
     ],
     "options_en": [
       "類型A",
-      "類型B",
       "類型C",
-      "類型D"
+      "類型D",
+      "類型B"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係類型A。",
@@ -487,18 +487,18 @@
     "question_zh": "「Pink Floyd嘅歌」喺邊年開始？",
     "question_en": "When did 'Pink Floyd' start?",
     "options_zh": [
-      "2000",
       "2005",
       "2010",
+      "2000",
       "2015"
     ],
     "options_en": [
-      "2000",
       "2005",
       "2010",
+      "2000",
       "2015"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係2000。",
     "explanation_en": "Correct answer: 2000.",
     "difficulty": 1
@@ -508,18 +508,18 @@
     "question_zh": "「Pink Floyd嘅歌」來自邊個國家/地區？",
     "question_en": "Where is 'Pink Floyd' from?",
     "options_zh": [
-      "香港",
       "台灣",
       "日本",
+      "香港",
       "韓國"
     ],
     "options_en": [
-      "香港",
       "台灣",
       "日本",
+      "香港",
       "韓國"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係香港。",
     "explanation_en": "Correct answer: 香港.",
     "difficulty": 1
@@ -530,15 +530,15 @@
     "question_en": "What's 'Pink Floyd' most famous work?",
     "options_zh": [
       "作品A",
-      "作品B",
       "作品C",
-      "作品D"
+      "作品D",
+      "作品B"
     ],
     "options_en": [
       "作品A",
-      "作品B",
       "作品C",
-      "作品D"
+      "作品D",
+      "作品B"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係作品A。",
@@ -551,15 +551,15 @@
     "question_en": "What's 'Pink Floyd' style?",
     "options_zh": [
       "風格A",
-      "風格B",
+      "風格D",
       "風格C",
-      "風格D"
+      "風格B"
     ],
     "options_en": [
       "風格A",
-      "風格B",
+      "風格D",
       "風格C",
-      "風格D"
+      "風格B"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係風格A。",
@@ -571,18 +571,18 @@
     "question_zh": "「Pink Floyd嘅歌」同邊位合作過？",
     "question_en": "Who collaborated with 'Pink Floyd'?",
     "options_zh": [
-      "合作A",
-      "合作B",
       "合作C",
+      "合作B",
+      "合作A",
       "合作D"
     ],
     "options_en": [
-      "合作A",
-      "合作B",
       "合作C",
+      "合作B",
+      "合作A",
       "合作D"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係合作A。",
     "explanation_en": "Correct answer: 合作A.",
     "difficulty": 1
@@ -592,18 +592,18 @@
     "question_zh": "「Pink Floyd嘅歌」嘅粉絲叫咩？",
     "question_en": "What are 'Pink Floyd' fans called?",
     "options_zh": [
-      "粉絲名A",
+      "粉絲名D",
       "粉絲名B",
       "粉絲名C",
-      "粉絲名D"
+      "粉絲名A"
     ],
     "options_en": [
-      "粉絲名A",
+      "粉絲名D",
       "粉絲名B",
       "粉絲名C",
-      "粉絲名D"
+      "粉絲名A"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係粉絲名A。",
     "explanation_en": "Correct answer: 粉絲名A.",
     "difficulty": 1
@@ -614,15 +614,15 @@
     "question_en": "Which platform is 'Pink Floyd' most active on?",
     "options_zh": [
       "YouTube",
-      "Instagram",
       "Twitter",
-      "TikTok"
+      "TikTok",
+      "Instagram"
     ],
     "options_en": [
       "YouTube",
-      "Instagram",
       "Twitter",
-      "TikTok"
+      "TikTok",
+      "Instagram"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係YouTube。",
@@ -634,18 +634,18 @@
     "question_zh": "「Pink Floyd嘅歌」嘅出道作品係？",
     "question_en": "What's 'Pink Floyd' debut work?",
     "options_zh": [
-      "出道作A",
       "出道作B",
       "出道作C",
+      "出道作A",
       "出道作D"
     ],
     "options_en": [
-      "出道作A",
       "出道作B",
       "出道作C",
+      "出道作A",
       "出道作D"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係出道作A。",
     "explanation_en": "Correct answer: 出道作A.",
     "difficulty": 2
@@ -655,18 +655,18 @@
     "question_zh": "「Pink Floyd嘅歌」有冇拎過獎？",
     "question_en": "Did 'Pink Floyd' win awards?",
     "options_zh": [
-      "有",
       "冇",
+      "有",
       "提名過",
       "唔清楚"
     ],
     "options_en": [
-      "有",
       "冇",
+      "有",
       "提名過",
       "唔清楚"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係有。",
     "explanation_en": "Correct answer: 有.",
     "difficulty": 2
@@ -676,18 +676,18 @@
     "question_zh": "「Pink Floyd嘅歌」嘅活躍年份係？",
     "question_en": "What years was 'Pink Floyd' active?",
     "options_zh": [
+      "1990年代",
       "2000年代",
       "2010年代",
-      "2020年代",
-      "1990年代"
+      "2020年代"
     ],
     "options_en": [
+      "1990年代",
       "2000年代",
       "2010年代",
-      "2020年代",
-      "1990年代"
+      "2020年代"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係2000年代。",
     "explanation_en": "Correct answer: 2000年代.",
     "difficulty": 2
@@ -697,18 +697,18 @@
     "question_zh": "「Pink Floyd嘅歌」嘅代表顏色係？",
     "question_en": "What's 'Pink Floyd' representative color?",
     "options_zh": [
-      "紅色",
-      "藍色",
       "綠色",
-      "紫色"
+      "藍色",
+      "紫色",
+      "紅色"
     ],
     "options_en": [
-      "紅色",
-      "藍色",
       "綠色",
-      "紫色"
+      "藍色",
+      "紫色",
+      "紅色"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係紅色。",
     "explanation_en": "Correct answer: 紅色.",
     "difficulty": 2
@@ -718,18 +718,18 @@
     "question_zh": "「Pink Floyd嘅歌」嘅口頭禪係？",
     "question_en": "What's 'Pink Floyd' catchphrase?",
     "options_zh": [
-      "口頭禪A",
+      "口頭禪D",
       "口頭禪B",
       "口頭禪C",
-      "口頭禪D"
+      "口頭禪A"
     ],
     "options_en": [
-      "口頭禪A",
+      "口頭禪D",
       "口頭禪B",
       "口頭禪C",
-      "口頭禪D"
+      "口頭禪A"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係口頭禪A。",
     "explanation_en": "Correct answer: 口頭禪A.",
     "difficulty": 2
@@ -739,18 +739,18 @@
     "question_zh": "「Pink Floyd嘅歌」嘅身高係？",
     "question_en": "What's 'Pink Floyd' height?",
     "options_zh": [
-      "170cm",
-      "175cm",
       "180cm",
-      "185cm"
+      "185cm",
+      "175cm",
+      "170cm"
     ],
     "options_en": [
-      "170cm",
-      "175cm",
       "180cm",
-      "185cm"
+      "185cm",
+      "175cm",
+      "170cm"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係170cm。",
     "explanation_en": "Correct answer: 170cm.",
     "difficulty": 2
@@ -760,18 +760,18 @@
     "question_zh": "「Pink Floyd嘅歌」嘅生日係？",
     "question_en": "When is 'Pink Floyd' birthday?",
     "options_zh": [
-      "1月",
+      "10月",
       "4月",
-      "7月",
-      "10月"
+      "1月",
+      "7月"
     ],
     "options_en": [
-      "1月",
+      "10月",
       "4月",
-      "7月",
-      "10月"
+      "1月",
+      "7月"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係1月。",
     "explanation_en": "Correct answer: 1月.",
     "difficulty": 2
@@ -782,15 +782,15 @@
     "question_en": "What agency is 'Pink Floyd' with?",
     "options_zh": [
       "公司A",
-      "公司B",
+      "公司D",
       "公司C",
-      "公司D"
+      "公司B"
     ],
     "options_en": [
       "公司A",
-      "公司B",
+      "公司D",
       "公司C",
-      "公司D"
+      "公司B"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係公司A。",
@@ -802,18 +802,18 @@
     "question_zh": "「Pink Floyd嘅歌」嘅座右銘係？",
     "question_en": "What's 'Pink Floyd' motto?",
     "options_zh": [
-      "座右銘A",
       "座右銘B",
       "座右銘C",
+      "座右銘A",
       "座右銘D"
     ],
     "options_en": [
-      "座右銘A",
       "座右銘B",
       "座右銘C",
+      "座右銘A",
       "座右銘D"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係座右銘A。",
     "explanation_en": "Correct answer: 座右銘A.",
     "difficulty": 2
@@ -823,18 +823,18 @@
     "question_zh": "「Pink Floyd嘅歌」嘅教育背景係？",
     "question_en": "What's 'Pink Floyd' education?",
     "options_zh": [
-      "大學畢業",
-      "高中畢業",
+      "海外留學",
       "自學成才",
-      "海外留學"
+      "高中畢業",
+      "大學畢業"
     ],
     "options_en": [
-      "大學畢業",
-      "高中畢業",
+      "海外留學",
       "自學成才",
-      "海外留學"
+      "高中畢業",
+      "大學畢業"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係大學畢業。",
     "explanation_en": "Correct answer: 大學畢業.",
     "difficulty": 2
@@ -844,18 +844,18 @@
     "question_zh": "「Pink Floyd嘅歌」嘅家庭背景係？",
     "question_en": "What's 'Pink Floyd' family background?",
     "options_zh": [
+      "學術家庭",
       "普通家庭",
-      "演藝世家",
       "商界家庭",
-      "學術家庭"
+      "演藝世家"
     ],
     "options_en": [
+      "學術家庭",
       "普通家庭",
-      "演藝世家",
       "商界家庭",
-      "學術家庭"
+      "演藝世家"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係普通家庭。",
     "explanation_en": "Correct answer: 普通家庭.",
     "difficulty": 3
@@ -865,18 +865,18 @@
     "question_zh": "「Pink Floyd嘅歌」嘅興趣愛好係？",
     "question_en": "What's 'Pink Floyd' hobby?",
     "options_zh": [
-      "運動",
-      "閱讀",
       "旅行",
+      "閱讀",
+      "運動",
       "攝影"
     ],
     "options_en": [
-      "運動",
-      "閱讀",
       "旅行",
+      "閱讀",
+      "運動",
       "攝影"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係運動。",
     "explanation_en": "Correct answer: 運動.",
     "difficulty": 3
@@ -886,18 +886,18 @@
     "question_zh": "「Pink Floyd嘅歌」嘅社交媒體粉絲數？",
     "question_en": "How many social media followers for 'Pink Floyd'?",
     "options_zh": [
-      "100萬以下",
-      "100-500萬",
       "500-1000萬",
-      "1000萬以上"
+      "100-500萬",
+      "1000萬以上",
+      "100萬以下"
     ],
     "options_en": [
-      "100萬以下",
-      "100-500萬",
       "500-1000萬",
-      "1000萬以上"
+      "100-500萬",
+      "1000萬以上",
+      "100萬以下"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係100萬以下。",
     "explanation_en": "Correct answer: 100萬以下.",
     "difficulty": 3
@@ -907,18 +907,18 @@
     "question_zh": "「Pink Floyd嘅歌」嘅演唱會/展覽次數？",
     "question_en": "How many concerts/exhibitions for 'Pink Floyd'?",
     "options_zh": [
-      "10場以下",
-      "10-50場",
       "50-100場",
-      "100場以上"
+      "100場以上",
+      "10場以下",
+      "10-50場"
     ],
     "options_en": [
-      "10場以下",
-      "10-50場",
       "50-100場",
-      "100場以上"
+      "100場以上",
+      "10場以下",
+      "10-50場"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係10場以下。",
     "explanation_en": "Correct answer: 10場以下.",
     "difficulty": 3
@@ -928,18 +928,18 @@
     "question_zh": "「Pink Floyd嘅歌」嘅專輯/作品數量？",
     "question_en": "How many albums/works for 'Pink Floyd'?",
     "options_zh": [
-      "5個以下",
-      "5-10個",
       "10-20個",
-      "20個以上"
+      "5個以下",
+      "20個以上",
+      "5-10個"
     ],
     "options_en": [
-      "5個以下",
-      "5-10個",
       "10-20個",
-      "20個以上"
+      "5個以下",
+      "20個以上",
+      "5-10個"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係5個以下。",
     "explanation_en": "Correct answer: 5個以下.",
     "difficulty": 3
@@ -949,18 +949,18 @@
     "question_zh": "「Pink Floyd嘅歌」嘅音樂/作品風格？",
     "question_en": "What's 'Pink Floyd' creative style?",
     "options_zh": [
-      "傳統",
-      "現代",
       "實驗",
-      "融合"
+      "融合",
+      "傳統",
+      "現代"
     ],
     "options_en": [
-      "傳統",
-      "現代",
       "實驗",
-      "融合"
+      "融合",
+      "傳統",
+      "現代"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係傳統。",
     "explanation_en": "Correct answer: 傳統.",
     "difficulty": 3
@@ -971,15 +971,15 @@
     "question_en": "What's 'Pink Floyd' influence scope?",
     "options_zh": [
       "本地",
-      "亞洲",
+      "網絡",
       "全球",
-      "網絡"
+      "亞洲"
     ],
     "options_en": [
       "本地",
-      "亞洲",
+      "網絡",
       "全球",
-      "網絡"
+      "亞洲"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係本地。",

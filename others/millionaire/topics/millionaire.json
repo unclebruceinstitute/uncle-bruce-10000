@@ -3,18 +3,18 @@
     "question_zh": "人體正常體溫是多少度？",
     "question_en": "What is normal body temperature?",
     "options_zh": [
-      "35°C",
+      "38°C",
       "36°C",
-      "37°C",
-      "38°C"
+      "35°C",
+      "37°C"
     ],
     "options_en": [
-      "35°C",
+      "38°C",
       "36°C",
-      "37°C",
-      "38°C"
+      "35°C",
+      "37°C"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "人體正常體溫約37°C。",
     "explanation_en": "Normal body temperature is about 37°C.",
     "difficulty": 1,
@@ -24,18 +24,18 @@
     "question_zh": "iPhone是哪家公司的產品？",
     "question_en": "Which company makes iPhone?",
     "options_zh": [
-      "三星",
+      "谷歌",
       "微軟",
-      "蘋果",
-      "谷歌"
+      "三星",
+      "蘋果"
     ],
     "options_en": [
-      "Samsung",
+      "Google",
       "Microsoft",
-      "Apple",
-      "Google"
+      "Samsung",
+      "Apple"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "iPhone是蘋果公司的產品。",
     "explanation_en": "iPhone is made by Apple.",
     "difficulty": 1,
@@ -45,18 +45,18 @@
     "question_zh": "世界上最高的山是？",
     "question_en": "What is the tallest mountain in the world?",
     "options_zh": [
+      "洛子峰",
       "K2",
       "干城章嘉峰",
-      "珠穆朗瑪峰",
-      "洛子峰"
+      "珠穆朗瑪峰"
     ],
     "options_en": [
+      "Lhotse",
       "K2",
       "Kangchenjunga",
-      "Mount Everest",
-      "Lhotse"
+      "Mount Everest"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "珠穆朗瑪峰是世界上最高的山。",
     "explanation_en": "Mount Everest is the tallest mountain.",
     "difficulty": 1,
@@ -66,18 +66,18 @@
     "question_zh": "地球的大氣層主要由什麼氣體組成？",
     "question_en": "What gas mainly makes up Earth's atmosphere?",
     "options_zh": [
-      "氧氣",
-      "氮氣",
+      "氫氣",
       "二氧化碳",
-      "氫氣"
+      "氧氣",
+      "氮氣"
     ],
     "options_en": [
-      "Oxygen",
-      "Nitrogen",
+      "Hydrogen",
       "Carbon dioxide",
-      "Hydrogen"
+      "Oxygen",
+      "Nitrogen"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "地球大氣層主要由氮氣組成。",
     "explanation_en": "Earth's atmosphere is mainly nitrogen.",
     "difficulty": 2,
@@ -87,18 +87,18 @@
     "question_zh": "畢加索是哪國人？",
     "question_en": "What nationality was Picasso?",
     "options_zh": [
+      "德國",
       "法國",
       "意大利",
-      "西班牙",
-      "德國"
+      "西班牙"
     ],
     "options_en": [
+      "Germany",
       "France",
       "Italy",
-      "Spain",
-      "Germany"
+      "Spain"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "畢加索是西班牙人。",
     "explanation_en": "Picasso was Spanish.",
     "difficulty": 2,
@@ -108,18 +108,18 @@
     "question_zh": "萬里長城始建於哪個朝代？",
     "question_en": "When was the Great Wall first built?",
     "options_zh": [
-      "秦朝",
-      "漢朝",
       "明朝",
-      "唐朝"
+      "唐朝",
+      "秦朝",
+      "漢朝"
     ],
     "options_en": [
-      "Qin Dynasty",
-      "Han Dynasty",
       "Ming Dynasty",
-      "Tang Dynasty"
+      "Tang Dynasty",
+      "Qin Dynasty",
+      "Han Dynasty"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "萬里長城始建於秦朝。",
     "explanation_en": "The Great Wall was first built during the Qin Dynasty.",
     "difficulty": 2,
@@ -129,18 +129,18 @@
     "question_zh": "奧運會幾年舉辦一次？",
     "question_en": "How often are the Olympics held?",
     "options_zh": [
+      "5年",
       "2年",
       "3年",
-      "4年",
-      "5年"
+      "4年"
     ],
     "options_en": [
+      "5 years",
       "2 years",
       "3 years",
-      "4 years",
-      "5 years"
+      "4 years"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "奧運會每4年舉辦一次。",
     "explanation_en": "The Olympics are held every 4 years.",
     "difficulty": 1,
@@ -151,17 +151,17 @@
     "question_en": "Which country is known as the 'Cherry Blossom Country'?",
     "options_zh": [
       "韓國",
+      "泰國",
       "日本",
-      "中國",
-      "泰國"
+      "中國"
     ],
     "options_en": [
       "Korea",
+      "Thailand",
       "Japan",
-      "China",
-      "Thailand"
+      "China"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "日本有「櫻花之國」之稱。",
     "explanation_en": "Japan is known as the 'Cherry Blossom Country'.",
     "difficulty": 2,
@@ -172,17 +172,17 @@
     "question_en": "Who wrote Harry Potter?",
     "options_zh": [
       "J.R.R.托爾金",
-      "J.K.羅琳",
       "史蒂芬·金",
+      "J.K.羅琳",
       "喬治·奧威爾"
     ],
     "options_en": [
       "J.R.R. Tolkien",
-      "J.K. Rowling",
       "Stephen King",
+      "J.K. Rowling",
       "George Orwell"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "《哈利波特》的作者是J.K.羅琳。",
     "explanation_en": "Harry Potter was written by J.K. Rowling.",
     "difficulty": 1,
@@ -192,16 +192,16 @@
     "question_zh": "哪個國家有「萬湖之國」之稱？",
     "question_en": "Which country is known as the 'Land of Thousand Lakes'?",
     "options_zh": [
-      "瑞典",
+      "丹麥",
       "挪威",
       "芬蘭",
-      "丹麥"
+      "瑞典"
     ],
     "options_en": [
-      "Sweden",
+      "Denmark",
       "Norway",
       "Finland",
-      "Denmark"
+      "Sweden"
     ],
     "answer": 2,
     "explanation_zh": "芬蘭有「萬湖之國」之稱。",
@@ -213,18 +213,18 @@
     "question_zh": "人體最小的骨頭是？",
     "question_en": "What is the smallest bone in the human body?",
     "options_zh": [
-      "指骨",
       "聽小骨",
+      "指骨",
       "尾骨",
       "鼻骨"
     ],
     "options_en": [
-      "Finger bone",
       "Ear ossicle",
+      "Finger bone",
       "Coccyx",
       "Nasal bone"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "聽小骨是人體最小的骨頭。",
     "explanation_en": "Ear ossicles are the smallest bones.",
     "difficulty": 3,
@@ -234,18 +234,18 @@
     "question_zh": "人體最長的骨頭是？",
     "question_en": "What is the longest bone in the human body?",
     "options_zh": [
-      "脊椎",
-      "股骨",
+      "肱骨",
       "脛骨",
-      "肱骨"
+      "股骨",
+      "脊椎"
     ],
     "options_en": [
-      "Spine",
-      "Femur",
+      "Humerus",
       "Tibia",
-      "Humerus"
+      "Femur",
+      "Spine"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "股骨是人體最長的骨頭。",
     "explanation_en": "The femur is the longest bone.",
     "difficulty": 2,
@@ -256,17 +256,17 @@
     "question_en": "Which country is known as the 'Kangaroo Country'?",
     "options_zh": [
       "紐西蘭",
+      "巴西",
       "澳洲",
-      "南非",
-      "巴西"
+      "南非"
     ],
     "options_en": [
       "New Zealand",
+      "Brazil",
       "Australia",
-      "South Africa",
-      "Brazil"
+      "South Africa"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "澳洲有「袋鼠之國」之稱。",
     "explanation_en": "Australia is known as the 'Kangaroo Country'.",
     "difficulty": 1,
@@ -276,18 +276,18 @@
     "question_zh": "人體最大的淋巴器官是？",
     "question_en": "What is the largest lymphoid organ?",
     "options_zh": [
-      "扁桃體",
-      "胸腺",
       "脾臟",
-      "淋巴結"
+      "淋巴結",
+      "胸腺",
+      "扁桃體"
     ],
     "options_en": [
-      "Tonsils",
-      "Thymus",
       "Spleen",
-      "Lymph nodes"
+      "Lymph nodes",
+      "Thymus",
+      "Tonsils"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "脾臟是人體最大的淋巴器官。",
     "explanation_en": "The spleen is the largest lymphoid organ.",
     "difficulty": 3,
@@ -298,17 +298,17 @@
     "question_en": "Which country did pasta originate from?",
     "options_zh": [
       "法國",
-      "意大利",
       "西班牙",
+      "意大利",
       "希臘"
     ],
     "options_en": [
       "France",
-      "Italy",
       "Spain",
+      "Italy",
       "Greece"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "意大利麵起源於意大利。",
     "explanation_en": "Pasta originated from Italy.",
     "difficulty": 1,
@@ -318,18 +318,18 @@
     "question_zh": "人體最大的器官是？",
     "question_en": "What is the largest organ in the human body?",
     "options_zh": [
-      "心臟",
-      "肝臟",
       "皮膚",
-      "大腦"
+      "肝臟",
+      "大腦",
+      "心臟"
     ],
     "options_en": [
-      "Heart",
-      "Liver",
       "Skin",
-      "Brain"
+      "Liver",
+      "Brain",
+      "Heart"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "皮膚是人體最大的器官。",
     "explanation_en": "Skin is the largest organ in the human body.",
     "difficulty": 1,
@@ -360,18 +360,18 @@
     "question_zh": "人體最硬的物質是？",
     "question_en": "What is the hardest substance in the human body?",
     "options_zh": [
-      "骨頭",
-      "牙齒琺瑯質",
+      "軟骨",
       "指甲",
-      "軟骨"
+      "牙齒琺瑯質",
+      "骨頭"
     ],
     "options_en": [
-      "Bone",
-      "Tooth enamel",
+      "Cartilage",
       "Nails",
-      "Cartilage"
+      "Tooth enamel",
+      "Bone"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "牙齒琺瑯質是人體最硬的物質。",
     "explanation_en": "Tooth enamel is the hardest substance.",
     "difficulty": 3,
@@ -381,18 +381,18 @@
     "question_zh": "世界上人口最多的國家是？",
     "question_en": "What is the most populous country?",
     "options_zh": [
-      "印度",
-      "中國",
+      "印尼",
       "美國",
-      "印尼"
+      "中國",
+      "印度"
     ],
     "options_en": [
-      "India",
-      "China",
+      "Indonesia",
       "USA",
-      "Indonesia"
+      "China",
+      "India"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "印度是世界上人口最多的國家。",
     "explanation_en": "India is the most populous country.",
     "difficulty": 2,
@@ -402,18 +402,18 @@
     "question_zh": "世界上最大的沙漠是？",
     "question_en": "What is the largest desert in the world?",
     "options_zh": [
-      "撒哈拉沙漠",
+      "南極洲",
       "戈壁沙漠",
       "阿拉伯沙漠",
-      "南極洲"
+      "撒哈拉沙漠"
     ],
     "options_en": [
-      "Sahara",
+      "Antarctica",
       "Gobi",
       "Arabian",
-      "Antarctica"
+      "Sahara"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "南極洲是世界上最大的沙漠。",
     "explanation_en": "Antarctica is the largest desert.",
     "difficulty": 2,
@@ -425,16 +425,16 @@
     "options_zh": [
       "婆羅洲",
       "馬達加斯加",
-      "格陵蘭",
-      "新幾內亞"
+      "新幾內亞",
+      "格陵蘭"
     ],
     "options_en": [
       "Borneo",
       "Madagascar",
-      "Greenland",
-      "New Guinea"
+      "New Guinea",
+      "Greenland"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "格陵蘭是世界上最大的島嶼。",
     "explanation_en": "Greenland is the largest island.",
     "difficulty": 2,
@@ -445,17 +445,17 @@
     "question_en": "Which country invented the compass?",
     "options_zh": [
       "印度",
-      "中國",
       "埃及",
-      "希臘"
+      "希臘",
+      "中國"
     ],
     "options_en": [
       "India",
-      "China",
       "Egypt",
-      "Greece"
+      "Greece",
+      "China"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "指南針是中國發明的。",
     "explanation_en": "The compass was invented in China.",
     "difficulty": 2,
@@ -465,18 +465,18 @@
     "question_zh": "哪個元素的原子序數是79？",
     "question_en": "Which element has atomic number 79?",
     "options_zh": [
-      "銀",
-      "金",
       "鉑",
-      "銅"
+      "銀",
+      "銅",
+      "金"
     ],
     "options_en": [
-      "Silver",
-      "Gold",
       "Platinum",
-      "Copper"
+      "Silver",
+      "Copper",
+      "Gold"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "金的原子序數是79。",
     "explanation_en": "Gold has atomic number 79.",
     "difficulty": 3,
@@ -486,18 +486,18 @@
     "question_zh": "哪個國家有「仙人掌之國」之稱？",
     "question_en": "Which country is known as the 'Cactus Country'?",
     "options_zh": [
-      "美國",
       "墨西哥",
-      "巴西",
-      "阿根廷"
+      "阿根廷",
+      "美國",
+      "巴西"
     ],
     "options_en": [
-      "USA",
       "Mexico",
-      "Brazil",
-      "Argentina"
+      "Argentina",
+      "USA",
+      "Brazil"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "墨西哥有「仙人掌之國」之稱。",
     "explanation_en": "Mexico is known as the 'Cactus Country'.",
     "difficulty": 3,
@@ -507,102 +507,60 @@
     "question_zh": "足球比賽每隊上場多少人？",
     "question_en": "How many players per team in football?",
     "options_zh": [
-      "9",
-      "10",
+      "12",
       "11",
-      "12"
+      "10",
+      "9"
     ],
     "options_en": [
-      "9",
-      "10",
+      "12",
       "11",
-      "12"
+      "10",
+      "9"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "足球比賽每隊上場11人。",
     "explanation_en": "Each team has 11 players.",
     "difficulty": 1,
     "id": 25
   },
   {
-    "question_zh": "哪個國家有「仙人掌之國」之稱？",
-    "question_en": "Which country is known as the 'Cactus Country'?",
-    "options_zh": [
-      "美國",
-      "墨西哥",
-      "巴西",
-      "阿根廷"
-    ],
-    "options_en": [
-      "USA",
-      "Mexico",
-      "Brazil",
-      "Argentina"
-    ],
-    "answer": 1,
-    "explanation_zh": "墨西哥有「仙人掌之國」之稱。",
-    "explanation_en": "Mexico is known as the 'Cactus Country'.",
-    "difficulty": 2,
-    "id": 26
-  },
-  {
     "question_zh": "哪個國家有「鬱金香之國」之稱？",
     "question_en": "Which country is known as the 'Tulip Country'?",
     "options_zh": [
-      "比利時",
       "荷蘭",
+      "比利時",
       "德國",
       "法國"
     ],
     "options_en": [
-      "Belgium",
       "Netherlands",
+      "Belgium",
       "Germany",
       "France"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "荷蘭有「鬱金香之國」之稱。",
     "explanation_en": "The Netherlands is known as the 'Tulip Country'.",
     "difficulty": 2,
     "id": 27
   },
   {
-    "question_zh": "哪個國家有「仙人掌之國」之稱？",
-    "question_en": "Which country is known as the 'Cactus Country'?",
-    "options_zh": [
-      "美國",
-      "墨西哥",
-      "巴西",
-      "阿根廷"
-    ],
-    "options_en": [
-      "USA",
-      "Mexico",
-      "Brazil",
-      "Argentina"
-    ],
-    "answer": 1,
-    "explanation_zh": "墨西哥有「仙人掌之國」之稱。",
-    "explanation_en": "Mexico is known as the 'Cactus Country'.",
-    "difficulty": 2,
-    "id": 28
-  },
-  {
     "question_zh": "《西遊記》的作者是？",
     "question_en": "Who wrote 'Journey to the West'?",
     "options_zh": [
-      "羅貫中",
       "施耐庵",
-      "吳承恩",
-      "曹雪芹"
+      "羅貫中",
+      "曹雪芹",
+      "吳承恩"
     ],
     "options_en": [
-      "Luo Guanzhong",
       "Shi Nai'an",
-      "Wu Cheng'en",
-      "Cao Xueqin"
+      "Luo Guanzhong",
+      "Cao Xueqin",
+      "Wu Cheng'en"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "《西遊記》的作者是吳承恩。",
     "explanation_en": "It was written by Wu Cheng'en.",
     "difficulty": 2,
@@ -612,18 +570,18 @@
     "question_zh": "壽司起源於哪個國家？",
     "question_en": "Which country did sushi originate from?",
     "options_zh": [
-      "中國",
-      "韓國",
       "日本",
+      "韓國",
+      "中國",
       "泰國"
     ],
     "options_en": [
-      "China",
-      "Korea",
       "Japan",
+      "Korea",
+      "China",
       "Thailand"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "壽司起源於日本。",
     "explanation_en": "Sushi originated from Japan.",
     "difficulty": 1,
@@ -635,14 +593,14 @@
     "options_zh": [
       "甲狀腺",
       "肝臟",
-      "胰臟",
-      "腦下垂體"
+      "腦下垂體",
+      "胰臟"
     ],
     "options_en": [
       "Thyroid",
       "Liver",
-      "Pancreas",
-      "Pituitary"
+      "Pituitary",
+      "Pancreas"
     ],
     "answer": 1,
     "explanation_zh": "肝臟是人體最大的腺體。",
@@ -655,17 +613,17 @@
     "question_en": "How many months are in a year?",
     "options_zh": [
       "10",
-      "11",
       "12",
-      "13"
+      "13",
+      "11"
     ],
     "options_en": [
       "10",
-      "11",
       "12",
-      "13"
+      "13",
+      "11"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "一年有12個月。",
     "explanation_en": "There are 12 months in a year.",
     "difficulty": 1,
@@ -675,18 +633,18 @@
     "question_zh": "人體最大的細胞是？",
     "question_en": "What is the largest cell in the human body?",
     "options_zh": [
-      "紅血球",
-      "白血球",
+      "神經細胞",
       "卵細胞",
-      "神經細胞"
+      "白血球",
+      "紅血球"
     ],
     "options_en": [
-      "Red blood cell",
-      "White blood cell",
+      "Neuron",
       "Egg cell",
-      "Neuron"
+      "White blood cell",
+      "Red blood cell"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "卵細胞是人體最大的細胞。",
     "explanation_en": "The egg cell is the largest human cell.",
     "difficulty": 2,
@@ -697,17 +655,17 @@
     "question_en": "One of the founders of quantum mechanics?",
     "options_zh": [
       "愛因斯坦",
-      "牛頓",
       "普朗克",
+      "牛頓",
       "霍金"
     ],
     "options_en": [
       "Einstein",
-      "Newton",
       "Planck",
+      "Newton",
       "Hawking"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "普朗克是量子力學的創始人之一。",
     "explanation_en": "Planck was one of the founders of quantum mechanics.",
     "difficulty": 3,
@@ -717,16 +675,16 @@
     "question_zh": "哪個國家最先發明了印刷術？",
     "question_en": "Which country first invented printing?",
     "options_zh": [
+      "德國",
       "韓國",
-      "日本",
       "中國",
-      "德國"
+      "日本"
     ],
     "options_en": [
+      "Germany",
       "Korea",
-      "Japan",
       "China",
-      "Germany"
+      "Japan"
     ],
     "answer": 2,
     "explanation_zh": "中國最先發明了印刷術。",
@@ -739,15 +697,15 @@
     "question_en": "What is the deepest ocean trench?",
     "options_zh": [
       "湯加海溝",
-      "日本海溝",
+      "波多黎各海溝",
       "馬里亞納海溝",
-      "波多黎各海溝"
+      "日本海溝"
     ],
     "options_en": [
       "Tonga Trench",
-      "Japan Trench",
+      "Puerto Rico Trench",
       "Mariana Trench",
-      "Puerto Rico Trench"
+      "Japan Trench"
     ],
     "answer": 2,
     "explanation_zh": "馬里亞納海溝是世界上最深的海溝。",
@@ -759,18 +717,18 @@
     "question_zh": "哪個國家有「千島之國」之稱？",
     "question_en": "Which country is known as the 'Thousand Islands Country'?",
     "options_zh": [
-      "菲律賓",
-      "印尼",
+      "馬來西亞",
       "日本",
-      "馬來西亞"
+      "菲律賓",
+      "印尼"
     ],
     "options_en": [
-      "Philippines",
-      "Indonesia",
+      "Malaysia",
       "Japan",
-      "Malaysia"
+      "Philippines",
+      "Indonesia"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "菲律賓有「千島之國」之稱。",
     "explanation_en": "The Philippines is known as the 'Thousand Islands Country'.",
     "difficulty": 3,
@@ -781,17 +739,17 @@
     "question_en": "Where does photosynthesis mainly occur in plants?",
     "options_zh": [
       "根",
-      "莖",
       "葉",
-      "花"
+      "花",
+      "莖"
     ],
     "options_en": [
       "Root",
-      "Stem",
       "Leaf",
-      "Flower"
+      "Flower",
+      "Stem"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "光合作用主要發生在葉片中。",
     "explanation_en": "Photosynthesis mainly occurs in leaves.",
     "difficulty": 1,
@@ -801,15 +759,15 @@
     "question_zh": "地球自轉一圈需要多長時間？",
     "question_en": "How long does it take Earth to rotate once?",
     "options_zh": [
-      "12小時",
-      "24小時",
       "48小時",
+      "24小時",
+      "12小時",
       "72小時"
     ],
     "options_en": [
-      "12 hours",
-      "24 hours",
       "48 hours",
+      "24 hours",
+      "12 hours",
       "72 hours"
     ],
     "answer": 1,
@@ -822,18 +780,18 @@
     "question_zh": "貝多芬是哪國人？",
     "question_en": "What nationality was Beethoven?",
     "options_zh": [
-      "奧地利",
       "德國",
-      "意大利",
-      "法國"
+      "法國",
+      "奧地利",
+      "意大利"
     ],
     "options_en": [
-      "Austria",
       "Germany",
-      "Italy",
-      "France"
+      "France",
+      "Austria",
+      "Italy"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "貝多芬是德國人。",
     "explanation_en": "Beethoven was German.",
     "difficulty": 1,
@@ -843,16 +801,16 @@
     "question_zh": "人體最大的靜脈是？",
     "question_en": "What is the largest vein in the human body?",
     "options_zh": [
-      "頸靜脈",
+      "門靜脈",
       "下腔靜脈",
       "股靜脈",
-      "門靜脈"
+      "頸靜脈"
     ],
     "options_en": [
-      "Jugular vein",
+      "Portal vein",
       "Inferior vena cava",
       "Femoral vein",
-      "Portal vein"
+      "Jugular vein"
     ],
     "answer": 1,
     "explanation_zh": "下腔靜脈是人體最大的靜脈。",
@@ -864,18 +822,18 @@
     "question_zh": "一打等於多少個？",
     "question_en": "How many is a dozen?",
     "options_zh": [
-      "6",
       "10",
       "12",
+      "6",
       "24"
     ],
     "options_en": [
-      "6",
       "10",
       "12",
+      "6",
       "24"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "一打等於12個。",
     "explanation_en": "A dozen equals 12.",
     "difficulty": 1,
@@ -885,18 +843,18 @@
     "question_zh": "世界第一個網站創建於哪一年？",
     "question_en": "When was the first website created?",
     "options_zh": [
-      "1989",
       "1991",
-      "1993",
-      "1995"
+      "1989",
+      "1995",
+      "1993"
     ],
     "options_en": [
-      "1989",
       "1991",
-      "1993",
-      "1995"
+      "1989",
+      "1995",
+      "1993"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "世界第一個網站創建於1991年。",
     "explanation_en": "The first website was created in 1991.",
     "difficulty": 3,
@@ -908,14 +866,14 @@
     "options_zh": [
       "視神經",
       "迷走神經",
-      "坐骨神經",
-      "脊神經"
+      "脊神經",
+      "坐骨神經"
     ],
     "options_en": [
       "Optic nerve",
       "Vagus nerve",
-      "Sciatic nerve",
-      "Spinal nerve"
+      "Spinal nerve",
+      "Sciatic nerve"
     ],
     "answer": 1,
     "explanation_zh": "迷走神經是人體最長的神經。",
@@ -927,60 +885,39 @@
     "question_zh": "哪個國家有「仙鶴之國」之稱？",
     "question_en": "Which country is known as the 'Crane Country'?",
     "options_zh": [
-      "中國",
-      "日本",
       "韓國",
-      "越南"
+      "越南",
+      "中國",
+      "日本"
     ],
     "options_en": [
-      "China",
-      "Japan",
       "Korea",
-      "Vietnam"
+      "Vietnam",
+      "China",
+      "Japan"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "日本有「仙鶴之國」之稱。",
     "explanation_en": "Japan is known as the 'Crane Country'.",
     "difficulty": 3,
     "id": 45
   },
   {
-    "question_zh": "哪個國家有「仙人掌之國」之稱？",
-    "question_en": "Which country is known as the 'Cactus Country'?",
-    "options_zh": [
-      "美國",
-      "墨西哥",
-      "巴西",
-      "阿根廷"
-    ],
-    "options_en": [
-      "USA",
-      "Mexico",
-      "Brazil",
-      "Argentina"
-    ],
-    "answer": 1,
-    "explanation_zh": "墨西哥有「仙人掌之國」之稱。",
-    "explanation_en": "Mexico is known as the 'Cactus Country'.",
-    "difficulty": 2,
-    "id": 46
-  },
-  {
     "question_zh": "DNA的全稱是？",
     "question_en": "What does DNA stand for?",
     "options_zh": [
-      "脫氧核糖核酸",
       "核糖核酸",
       "氨基酸",
-      "脂肪酸"
+      "脂肪酸",
+      "脫氧核糖核酸"
     ],
     "options_en": [
-      "Deoxyribonucleic Acid",
       "Ribonucleic Acid",
       "Amino Acid",
-      "Fatty Acid"
+      "Fatty Acid",
+      "Deoxyribonucleic Acid"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "DNA的全稱是脫氧核糖核酸。",
     "explanation_en": "DNA stands for Deoxyribonucleic Acid.",
     "difficulty": 2,
@@ -1008,27 +945,6 @@
     "id": 48
   },
   {
-    "question_zh": "哪個國家有「仙人掌之國」之稱？",
-    "question_en": "Which country is known as the 'Cactus Country'?",
-    "options_zh": [
-      "美國",
-      "墨西哥",
-      "巴西",
-      "阿根廷"
-    ],
-    "options_en": [
-      "USA",
-      "Mexico",
-      "Brazil",
-      "Argentina"
-    ],
-    "answer": 1,
-    "explanation_zh": "墨西哥有「仙人掌之國」之稱。",
-    "explanation_en": "Mexico is known as the 'Cactus Country'.",
-    "difficulty": 2,
-    "id": 49
-  },
-  {
     "question_zh": "世界上最長的河流是？",
     "question_en": "What is the longest river in the world?",
     "options_zh": [
@@ -1053,18 +969,18 @@
     "question_zh": "世界上最大的熱帶雨林是？",
     "question_en": "What is the largest tropical rainforest?",
     "options_zh": [
-      "剛果雨林",
       "亞馬遜雨林",
+      "剛果雨林",
       "東南亞雨林",
       "澳洲雨林"
     ],
     "options_en": [
-      "Congo Rainforest",
       "Amazon Rainforest",
+      "Congo Rainforest",
       "Southeast Asian Rainforest",
       "Australian Rainforest"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "亞馬遜雨林是世界上最大的熱帶雨林。",
     "explanation_en": "The Amazon Rainforest is the largest.",
     "difficulty": 2,
@@ -1074,18 +990,18 @@
     "question_zh": "人體最長的肌肉是？",
     "question_en": "What is the longest muscle in the human body?",
     "options_zh": [
-      "二頭肌",
-      "縫匠肌",
+      "三角肌",
       "股四頭肌",
-      "三角肌"
+      "二頭肌",
+      "縫匠肌"
     ],
     "options_en": [
-      "Biceps",
-      "Sartorius",
+      "Deltoid",
       "Quadriceps",
-      "Deltoid"
+      "Biceps",
+      "Sartorius"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "縫匠肌是人體最長的肌肉。",
     "explanation_en": "The sartorius is the longest muscle.",
     "difficulty": 3,
@@ -1095,18 +1011,18 @@
     "question_zh": "哪個國家有「楓葉之國」之稱？",
     "question_en": "Which country is known as the 'Maple Leaf Country'?",
     "options_zh": [
-      "美國",
       "加拿大",
+      "澳洲",
       "英國",
-      "澳洲"
+      "美國"
     ],
     "options_en": [
-      "USA",
       "Canada",
+      "Australia",
       "UK",
-      "Australia"
+      "USA"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "加拿大有「楓葉之國」之稱。",
     "explanation_en": "Canada is known as the 'Maple Leaf Country'.",
     "difficulty": 3,
@@ -1118,16 +1034,16 @@
     "options_zh": [
       "1943",
       "1944",
-      "1945",
-      "1946"
+      "1946",
+      "1945"
     ],
     "options_en": [
       "1943",
       "1944",
-      "1945",
-      "1946"
+      "1946",
+      "1945"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "第二次世界大戰結束於1945年。",
     "explanation_en": "World War II ended in 1945.",
     "difficulty": 2,
@@ -1137,18 +1053,18 @@
     "question_zh": "披頭四樂隊來自哪個國家？",
     "question_en": "Which country are The Beatles from?",
     "options_zh": [
+      "澳洲",
       "美國",
-      "英國",
       "愛爾蘭",
-      "澳洲"
+      "英國"
     ],
     "options_en": [
+      "Australia",
       "USA",
-      "UK",
       "Ireland",
-      "Australia"
+      "UK"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "披頭四樂隊來自英國。",
     "explanation_en": "The Beatles are from the UK.",
     "difficulty": 1,
@@ -1158,18 +1074,18 @@
     "question_zh": "《三國演義》的作者是？",
     "question_en": "Who wrote 'Romance of the Three Kingdoms'?",
     "options_zh": [
-      "施耐庵",
       "羅貫中",
-      "曹雪芹",
-      "吳承恩"
+      "吳承恩",
+      "施耐庵",
+      "曹雪芹"
     ],
     "options_en": [
-      "Shi Nai'an",
       "Luo Guanzhong",
-      "Cao Xueqin",
-      "Wu Cheng'en"
+      "Wu Cheng'en",
+      "Shi Nai'an",
+      "Cao Xueqin"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "《三國演義》的作者是羅貫中。",
     "explanation_en": "It was written by Luo Guanzhong.",
     "difficulty": 2,
@@ -1179,18 +1095,18 @@
     "question_zh": "《蒙娜麗莎》的作者是？",
     "question_en": "Who painted the Mona Lisa?",
     "options_zh": [
-      "米開朗基羅",
-      "達文西",
+      "畢加索",
       "拉斐爾",
-      "畢加索"
+      "米開朗基羅",
+      "達文西"
     ],
     "options_en": [
-      "Michelangelo",
-      "Da Vinci",
+      "Picasso",
       "Raphael",
-      "Picasso"
+      "Michelangelo",
+      "Da Vinci"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "《蒙娜麗莎》的作者是達文西。",
     "explanation_en": "The Mona Lisa was painted by Da Vinci.",
     "difficulty": 1,
@@ -1200,18 +1116,18 @@
     "question_zh": "人體有多少塊骨頭？",
     "question_en": "How many bones are in the human body?",
     "options_zh": [
-      "186",
-      "206",
       "226",
-      "256"
+      "186",
+      "256",
+      "206"
     ],
     "options_en": [
-      "186",
-      "206",
       "226",
-      "256"
+      "186",
+      "256",
+      "206"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "成年人有206塊骨頭。",
     "explanation_en": "Adults have 206 bones.",
     "difficulty": 2,
@@ -1221,16 +1137,16 @@
     "question_zh": "人體最大的關節是？",
     "question_en": "What is the largest joint in the human body?",
     "options_zh": [
-      "肩關節",
+      "肘關節",
       "膝關節",
       "髖關節",
-      "肘關節"
+      "肩關節"
     ],
     "options_en": [
-      "Shoulder",
+      "Elbow",
       "Knee",
       "Hip",
-      "Elbow"
+      "Shoulder"
     ],
     "answer": 1,
     "explanation_zh": "膝關節是人體最大的關節。",
@@ -1242,18 +1158,18 @@
     "question_zh": "太陽系中最大的行星是？",
     "question_en": "What is the largest planet in the solar system?",
     "options_zh": [
-      "地球",
       "火星",
-      "木星",
-      "土星"
+      "地球",
+      "土星",
+      "木星"
     ],
     "options_en": [
-      "Earth",
       "Mars",
-      "Jupiter",
-      "Saturn"
+      "Earth",
+      "Saturn",
+      "Jupiter"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "木星是太陽系中最大的行星。",
     "explanation_en": "Jupiter is the largest planet in the solar system.",
     "difficulty": 1,
@@ -1263,18 +1179,18 @@
     "question_zh": "世界上面積最大的國家是？",
     "question_en": "What is the largest country by area?",
     "options_zh": [
-      "中國",
-      "美國",
+      "俄羅斯",
       "加拿大",
-      "俄羅斯"
+      "美國",
+      "中國"
     ],
     "options_en": [
-      "China",
-      "USA",
+      "Russia",
       "Canada",
-      "Russia"
+      "USA",
+      "China"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "俄羅斯是世界上面積最大的國家。",
     "explanation_en": "Russia is the largest country by area.",
     "difficulty": 1,
@@ -1305,18 +1221,18 @@
     "question_zh": "世界上最大的珊瑚礁是？",
     "question_en": "What is the largest coral reef?",
     "options_zh": [
-      "馬爾代夫珊瑚礁",
-      "大堡礁",
       "紅海珊瑚礁",
-      "加勒比珊瑚礁"
+      "馬爾代夫珊瑚礁",
+      "加勒比珊瑚礁",
+      "大堡礁"
     ],
     "options_en": [
-      "Maldives Reef",
-      "Great Barrier Reef",
       "Red Sea Reef",
-      "Caribbean Reef"
+      "Maldives Reef",
+      "Caribbean Reef",
+      "Great Barrier Reef"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "大堡礁是世界上最大的珊瑚礁。",
     "explanation_en": "The Great Barrier Reef is the largest.",
     "difficulty": 2,
@@ -1326,18 +1242,18 @@
     "question_zh": "人體最大的動脈是？",
     "question_en": "What is the largest artery in the human body?",
     "options_zh": [
+      "股動脈",
       "頸動脈",
       "主動脈",
-      "股動脈",
       "冠狀動脈"
     ],
     "options_en": [
+      "Femoral artery",
       "Carotid artery",
       "Aorta",
-      "Femoral artery",
       "Coronary artery"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "主動脈是人體最大的動脈。",
     "explanation_en": "The aorta is the largest artery.",
     "difficulty": 3,
@@ -1348,59 +1264,38 @@
     "question_en": "What is the largest freshwater lake?",
     "options_zh": [
       "維多利亞湖",
-      "蘇必利爾湖",
       "裏海",
+      "蘇必利爾湖",
       "貝加爾湖"
     ],
     "options_en": [
       "Lake Victoria",
-      "Lake Superior",
       "Caspian Sea",
+      "Lake Superior",
       "Lake Baikal"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "蘇必利爾湖是世界上最大的淡水湖。",
     "explanation_en": "Lake Superior is the largest freshwater lake.",
     "difficulty": 2,
     "id": 65
   },
   {
-    "question_zh": "哪個國家有「仙人掌之國」之稱？",
-    "question_en": "Which country is known as the 'Cactus Country'?",
-    "options_zh": [
-      "美國",
-      "墨西哥",
-      "巴西",
-      "阿根廷"
-    ],
-    "options_en": [
-      "USA",
-      "Mexico",
-      "Brazil",
-      "Argentina"
-    ],
-    "answer": 1,
-    "explanation_zh": "墨西哥有「仙人掌之國」之稱。",
-    "explanation_en": "Mexico is known as the 'Cactus Country'.",
-    "difficulty": 2,
-    "id": 66
-  },
-  {
     "question_zh": "世界上最大的洋是？",
     "question_en": "What is the largest ocean?",
     "options_zh": [
-      "大西洋",
-      "印度洋",
       "太平洋",
-      "北冰洋"
+      "北冰洋",
+      "大西洋",
+      "印度洋"
     ],
     "options_en": [
-      "Atlantic",
-      "Indian",
       "Pacific",
-      "Arctic"
+      "Arctic",
+      "Atlantic",
+      "Indian"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "太平洋是世界上最大的洋。",
     "explanation_en": "The Pacific Ocean is the largest ocean.",
     "difficulty": 1,
@@ -1410,18 +1305,18 @@
     "question_zh": "相對論的提出者是？",
     "question_en": "Who proposed the theory of relativity?",
     "options_zh": [
-      "牛頓",
       "愛因斯坦",
       "霍金",
+      "牛頓",
       "費曼"
     ],
     "options_en": [
-      "Newton",
       "Einstein",
       "Hawking",
+      "Newton",
       "Feynman"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "相對論由愛因斯坦提出。",
     "explanation_en": "The theory of relativity was proposed by Einstein.",
     "difficulty": 2,
@@ -1432,59 +1327,38 @@
     "question_en": "Which country invented gunpowder?",
     "options_zh": [
       "印度",
-      "中國",
       "日本",
+      "中國",
       "韓國"
     ],
     "options_en": [
       "India",
-      "China",
       "Japan",
+      "China",
       "Korea"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "火藥是中國發明的。",
     "explanation_en": "Gunpowder was invented in China.",
     "difficulty": 2,
     "id": 69
   },
   {
-    "question_zh": "哪個國家有「仙人掌之國」之稱？",
-    "question_en": "Which country is known as the 'Cactus Country'?",
-    "options_zh": [
-      "美國",
-      "墨西哥",
-      "巴西",
-      "阿根廷"
-    ],
-    "options_en": [
-      "USA",
-      "Mexico",
-      "Brazil",
-      "Argentina"
-    ],
-    "answer": 1,
-    "explanation_zh": "墨西哥有「仙人掌之國」之稱。",
-    "explanation_en": "Mexico is known as the 'Cactus Country'.",
-    "difficulty": 2,
-    "id": 70
-  },
-  {
     "question_zh": "哪個元素的化學符號是Au？",
     "question_en": "Which element has the chemical symbol Au?",
     "options_zh": [
-      "銀",
       "金",
-      "銅",
-      "鐵"
+      "銀",
+      "鐵",
+      "銅"
     ],
     "options_en": [
-      "Silver",
       "Gold",
-      "Copper",
-      "Iron"
+      "Silver",
+      "Iron",
+      "Copper"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "Au是金的化學符號。",
     "explanation_en": "Au is the chemical symbol for Gold.",
     "difficulty": 2,
@@ -1494,18 +1368,18 @@
     "question_zh": "哪個國家最先使用紙幣？",
     "question_en": "Which country first used paper money?",
     "options_zh": [
-      "印度",
       "中國",
+      "印度",
       "希羅馬",
       "阿拉伯"
     ],
     "options_en": [
-      "India",
       "China",
+      "India",
       "Rome",
       "Arabia"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "中國最先使用紙幣。",
     "explanation_en": "China first used paper money.",
     "difficulty": 2,
@@ -1515,16 +1389,16 @@
     "question_zh": "哪個國家有「獅城」之稱？",
     "question_en": "Which country is known as the 'Lion City'?",
     "options_zh": [
-      "馬來西亞",
+      "印尼",
       "新加坡",
       "泰國",
-      "印尼"
+      "馬來西亞"
     ],
     "options_en": [
-      "Malaysia",
+      "Indonesia",
       "Singapore",
       "Thailand",
-      "Indonesia"
+      "Malaysia"
     ],
     "answer": 1,
     "explanation_zh": "新加坡有「獅城」之稱。",
@@ -1536,16 +1410,16 @@
     "question_zh": "哪個行星有光環？",
     "question_en": "Which planet has rings?",
     "options_zh": [
-      "火星",
       "木星",
+      "天王星",
       "土星",
-      "天王星"
+      "火星"
     ],
     "options_en": [
-      "Mars",
       "Jupiter",
+      "Uranus",
       "Saturn",
-      "Uranus"
+      "Mars"
     ],
     "answer": 2,
     "explanation_zh": "土星有明顯的光環。",
@@ -1558,17 +1432,17 @@
     "question_en": "Which country first invented papermaking?",
     "options_zh": [
       "印度",
+      "希臘",
       "中國",
-      "埃及",
-      "希臘"
+      "埃及"
     ],
     "options_en": [
       "India",
+      "Greece",
       "China",
-      "Egypt",
-      "Greece"
+      "Egypt"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "中國首先發明了造紙術。",
     "explanation_en": "China first invented papermaking.",
     "difficulty": 2,
@@ -1578,18 +1452,18 @@
     "question_zh": "水的化學式是？",
     "question_en": "What is the chemical formula for water?",
     "options_zh": [
-      "CO2",
       "H2O",
-      "NaCl",
-      "O2"
+      "CO2",
+      "O2",
+      "NaCl"
     ],
     "options_en": [
-      "CO2",
       "H2O",
-      "NaCl",
-      "O2"
+      "CO2",
+      "O2",
+      "NaCl"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "水的化學式是H2O。",
     "explanation_en": "The chemical formula for water is H2O.",
     "difficulty": 1,
@@ -1599,18 +1473,18 @@
     "question_zh": "光年是什麼單位？",
     "question_en": "What unit is a light-year?",
     "options_zh": [
-      "時間",
-      "距離",
       "速度",
-      "重量"
+      "時間",
+      "重量",
+      "距離"
     ],
     "options_en": [
-      "Time",
-      "Distance",
       "Speed",
-      "Weight"
+      "Time",
+      "Weight",
+      "Distance"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "光年是距離單位。",
     "explanation_en": "A light-year is a unit of distance.",
     "difficulty": 2,
@@ -1620,1365 +1494,63 @@
     "question_zh": "太陽系中最小的行星是？",
     "question_en": "What is the smallest planet in the solar system?",
     "options_zh": [
-      "水星",
-      "金星",
+      "冥王星",
       "火星",
-      "冥王星"
+      "水星",
+      "金星"
     ],
     "options_en": [
-      "Mercury",
-      "Venus",
+      "Pluto",
       "Mars",
-      "Pluto"
+      "Mercury",
+      "Venus"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "水星是太陽系中最小的行星。",
     "explanation_en": "Mercury is the smallest planet.",
     "difficulty": 2,
     "id": 78
   },
   {
-    "question_zh": "哪個國家有「仙人掌之國」之稱？",
-    "question_en": "Which country is known as the \"Cactus Country\"?",
-    "options_zh": [
-      "美國",
-      "墨西哥",
-      "巴西",
-      "阿根廷"
-    ],
-    "options_en": [
-      "USA",
-      "Mexico",
-      "Brazil",
-      "Argentina"
-    ],
-    "answer": 1,
-    "explanation_zh": "墨西哥有「仙人掌之國」之稱。",
-    "explanation_en": "Mexico is known as the Cactus Country.",
-    "difficulty": 2,
-    "id": 79
-  },
-  {
-    "question_zh": "人體最大的細胞是？",
-    "question_en": "What is the largest cell in the human body?",
-    "options_zh": [
-      "紅血球",
-      "白血球",
-      "卵細胞",
-      "神經細胞"
-    ],
-    "options_en": [
-      "Red blood cell",
-      "White blood cell",
-      "Egg cell",
-      "Neuron"
-    ],
-    "answer": 2,
-    "explanation_zh": "卵細胞是人體最大的細胞。",
-    "explanation_en": "The egg cell is the largest human cell.",
-    "difficulty": 2,
-    "id": 80
-  },
-  {
-    "question_zh": "哪個國家最先使用紙幣？",
-    "question_en": "Which country first used paper money?",
-    "options_zh": [
-      "印度",
-      "中國",
-      "希羅馬",
-      "阿拉伯"
-    ],
-    "options_en": [
-      "India",
-      "China",
-      "Rome",
-      "Arabia"
-    ],
-    "answer": 1,
-    "explanation_zh": "中國最先使用紙幣。",
-    "explanation_en": "China first used paper money.",
-    "difficulty": 2,
-    "id": 81
-  },
-  {
-    "question_zh": "世界上最大的沙漠是？",
-    "question_en": "What is the largest desert in the world?",
-    "options_zh": [
-      "撒哈拉沙漠",
-      "戈壁沙漠",
-      "阿拉伯沙漠",
-      "南極洲"
-    ],
-    "options_en": [
-      "Sahara",
-      "Gobi",
-      "Arabian",
-      "Antarctica"
-    ],
-    "answer": 3,
-    "explanation_zh": "南極洲是世界上最大的沙漠。",
-    "explanation_en": "Antarctica is the largest desert.",
-    "difficulty": 2,
-    "id": 82
-  },
-  {
-    "question_zh": "哪個國家發明了指南針？",
-    "question_en": "Which country invented the compass?",
-    "options_zh": [
-      "印度",
-      "中國",
-      "埃及",
-      "希臘"
-    ],
-    "options_en": [
-      "India",
-      "China",
-      "Egypt",
-      "Greece"
-    ],
-    "answer": 1,
-    "explanation_zh": "指南針是中國發明的。",
-    "explanation_en": "The compass was invented in China.",
-    "difficulty": 2,
-    "id": 83
-  },
-  {
-    "question_zh": "人體最長的神經是？",
-    "question_en": "What is the longest nerve in the human body?",
-    "options_zh": [
-      "視神經",
-      "迷走神經",
-      "坐骨神經",
-      "脊神經"
-    ],
-    "options_en": [
-      "Optic nerve",
-      "Vagus nerve",
-      "Sciatic nerve",
-      "Spinal nerve"
-    ],
-    "answer": 1,
-    "explanation_zh": "迷走神經是人體最長的神經。",
-    "explanation_en": "The vagus nerve is the longest nerve.",
-    "difficulty": 3,
-    "id": 84
-  },
-  {
-    "question_zh": "哪個國家最先發明了印刷術？",
-    "question_en": "Which country first invented printing?",
-    "options_zh": [
-      "韓國",
-      "日本",
-      "中國",
-      "德國"
-    ],
-    "options_en": [
-      "Korea",
-      "Japan",
-      "China",
-      "Germany"
-    ],
-    "answer": 2,
-    "explanation_zh": "中國最先發明了印刷術。",
-    "explanation_en": "China first invented printing.",
-    "difficulty": 3,
-    "id": 85
-  },
-  {
-    "question_zh": "人體最大的腺體是？",
-    "question_en": "What is the largest gland in the human body?",
-    "options_zh": [
-      "甲狀腺",
-      "肝臟",
-      "胰臟",
-      "腦下垂體"
-    ],
-    "options_en": [
-      "Thyroid",
-      "Liver",
-      "Pancreas",
-      "Pituitary"
-    ],
-    "answer": 1,
-    "explanation_zh": "肝臟是人體最大的腺體。",
-    "explanation_en": "The liver is the largest gland.",
-    "difficulty": 3,
-    "id": 86
-  },
-  {
-    "question_zh": "哪個國家有「千島之國」之稱？",
-    "question_en": "Which country is known as the \"Thousand Islands Country\"?",
-    "options_zh": [
-      "菲律賓",
-      "印尼",
-      "日本",
-      "馬來西亞"
-    ],
-    "options_en": [
-      "Philippines",
-      "Indonesia",
-      "Japan",
-      "Malaysia"
-    ],
-    "answer": 1,
-    "explanation_zh": "菲律賓有「千島之國」之稱。",
-    "explanation_en": "The Philippines is known as the Thousand Islands Country.",
-    "difficulty": 3,
-    "id": 87
-  },
-  {
-    "question_zh": "人體最硬的物質是？",
-    "question_en": "What is the hardest substance in the human body?",
-    "options_zh": [
-      "骨頭",
-      "牙齒琺瑯質",
-      "指甲",
-      "軟骨"
-    ],
-    "options_en": [
-      "Bone",
-      "Tooth enamel",
-      "Nails",
-      "Cartilage"
-    ],
-    "answer": 1,
-    "explanation_zh": "牙齒琺瑯質是人體最硬的物質。",
-    "explanation_en": "Tooth enamel is the hardest substance.",
-    "difficulty": 3,
-    "id": 88
-  },
-  {
-    "question_zh": "哪個國家有「楓葉之國」之稱？",
-    "question_en": "Which country is known as the \"Maple Leaf Country\"?",
-    "options_zh": [
-      "美國",
-      "加拿大",
-      "英國",
-      "澳洲"
-    ],
-    "options_en": [
-      "USA",
-      "Canada",
-      "UK",
-      "Australia"
-    ],
-    "answer": 1,
-    "explanation_zh": "加拿大有「楓葉之國」之稱。",
-    "explanation_en": "Canada is known as the Maple Leaf Country.",
-    "difficulty": 3,
-    "id": 89
-  },
-  {
-    "question_zh": "人體最大的動脈是？",
-    "question_en": "What is the largest artery in the human body?",
-    "options_zh": [
-      "頸動脈",
-      "主動脈",
-      "股動脈",
-      "冠狀動脈"
-    ],
-    "options_en": [
-      "Carotid artery",
-      "Aorta",
-      "Femoral artery",
-      "Coronary artery"
-    ],
-    "answer": 1,
-    "explanation_zh": "主動脈是人體最大的動脈。",
-    "explanation_en": "The aorta is the largest artery.",
-    "difficulty": 3,
-    "id": 90
-  },
-  {
-    "question_zh": "哪個國家有「獅城」之稱？",
-    "question_en": "Which country is known as the \"Lion City\"?",
-    "options_zh": [
-      "馬來西亞",
-      "新加坡",
-      "泰國",
-      "印尼"
-    ],
-    "options_en": [
-      "Malaysia",
-      "Singapore",
-      "Thailand",
-      "Indonesia"
-    ],
-    "answer": 1,
-    "explanation_zh": "新加坡有「獅城」之稱。",
-    "explanation_en": "Singapore is known as the Lion City.",
-    "difficulty": 3,
-    "id": 91
-  },
-  {
-    "question_zh": "人體最小的骨頭是？",
-    "question_en": "What is the smallest bone in the human body?",
-    "options_zh": [
-      "指骨",
-      "聽小骨",
-      "尾骨",
-      "鼻骨"
-    ],
-    "options_en": [
-      "Finger bone",
-      "Ear ossicle",
-      "Coccyx",
-      "Nasal bone"
-    ],
-    "answer": 1,
-    "explanation_zh": "聽小骨是人體最小的骨頭。",
-    "explanation_en": "Ear ossicles are the smallest bones.",
-    "difficulty": 3,
-    "id": 92
-  },
-  {
-    "question_zh": "地球的大氣層主要由什麼氣體組成？",
-    "question_en": "What gas mainly makes up Earth atmosphere?",
-    "options_zh": [
-      "氧氣",
-      "氮氣",
-      "二氧化碳",
-      "氫氣"
-    ],
-    "options_en": [
-      "Oxygen",
-      "Nitrogen",
-      "Carbon dioxide",
-      "Hydrogen"
-    ],
-    "answer": 1,
-    "explanation_zh": "地球大氣層主要由氮氣組成。",
-    "explanation_en": "Earth atmosphere is mainly nitrogen.",
-    "difficulty": 2,
-    "id": 93
-  },
-  {
-    "question_zh": "哪個行星有光環？",
-    "question_en": "Which planet has rings?",
-    "options_zh": [
-      "火星",
-      "木星",
-      "土星",
-      "天王星"
-    ],
-    "options_en": [
-      "Mars",
-      "Jupiter",
-      "Saturn",
-      "Uranus"
-    ],
-    "answer": 2,
-    "explanation_zh": "土星有明顯的光環。",
-    "explanation_en": "Saturn has prominent rings.",
-    "difficulty": 2,
-    "id": 94
-  },
-  {
-    "question_zh": "聲音在真空中能傳播嗎？",
-    "question_en": "Can sound travel in a vacuum?",
-    "options_zh": [
-      "能",
-      "不能",
-      "視情況而定",
-      "只有高頻聲音能"
-    ],
-    "options_en": [
-      "Yes",
-      "No",
-      "It depends",
-      "Only high-frequency sounds"
-    ],
-    "answer": 1,
-    "explanation_zh": "聲音不能在真空中傳播。",
-    "explanation_en": "Sound cannot travel in a vacuum.",
-    "difficulty": 1,
-    "id": 95
-  },
-  {
-    "question_zh": "人體正常體溫是多少度？",
-    "question_en": "What is normal body temperature?",
-    "options_zh": [
-      "35°C",
-      "36°C",
-      "37°C",
-      "38°C"
-    ],
-    "options_en": [
-      "35°C",
-      "36°C",
-      "37°C",
-      "38°C"
-    ],
-    "answer": 2,
-    "explanation_zh": "人體正常體溫約37°C。",
-    "explanation_en": "Normal body temperature is about 37°C.",
-    "difficulty": 1,
-    "id": 96
-  },
-  {
-    "question_zh": "第二次世界大戰結束於哪一年？",
-    "question_en": "When did World War II end?",
-    "options_zh": [
-      "1943",
-      "1944",
-      "1945",
-      "1946"
-    ],
-    "options_en": [
-      "1943",
-      "1944",
-      "1945",
-      "1946"
-    ],
-    "answer": 2,
-    "explanation_zh": "第二次世界大戰結束於1945年。",
-    "explanation_en": "World War II ended in 1945.",
-    "difficulty": 2,
-    "id": 97
-  },
-  {
-    "question_zh": "哪個國家首先發明了造紙術？",
-    "question_en": "Which country first invented papermaking?",
-    "options_zh": [
-      "印度",
-      "中國",
-      "埃及",
-      "希臘"
-    ],
-    "options_en": [
-      "India",
-      "China",
-      "Egypt",
-      "Greece"
-    ],
-    "answer": 1,
-    "explanation_zh": "中國首先發明了造紙術。",
-    "explanation_en": "China first invented papermaking.",
-    "difficulty": 2,
-    "id": 98
-  },
-  {
-    "question_zh": "萬里長城始建於哪個朝代？",
-    "question_en": "When was the Great Wall first built?",
-    "options_zh": [
-      "秦朝",
-      "漢朝",
-      "明朝",
-      "唐朝"
-    ],
-    "options_en": [
-      "Qin Dynasty",
-      "Han Dynasty",
-      "Ming Dynasty",
-      "Tang Dynasty"
-    ],
-    "answer": 0,
-    "explanation_zh": "萬里長城始建於秦朝。",
-    "explanation_en": "The Great Wall was first built during the Qin Dynasty.",
-    "difficulty": 2,
-    "id": 99
-  },
-  {
-    "question_zh": "世界上最長的河流是？",
-    "question_en": "What is the longest river in the world?",
-    "options_zh": [
-      "亞馬遜河",
-      "長江",
-      "尼羅河",
-      "密西西比河"
-    ],
-    "options_en": [
-      "Amazon",
-      "Yangtze",
-      "Nile",
-      "Mississippi"
-    ],
-    "answer": 2,
-    "explanation_zh": "尼羅河是世界上最長的河流。",
-    "explanation_en": "The Nile is the longest river.",
-    "difficulty": 1,
-    "id": 100
-  },
-  {
-    "question_zh": "世界上面積最大的國家是？",
-    "question_en": "What is the largest country by area?",
-    "options_zh": [
-      "中國",
-      "美國",
-      "加拿大",
-      "俄羅斯"
-    ],
-    "options_en": [
-      "China",
-      "USA",
-      "Canada",
-      "Russia"
-    ],
-    "answer": 3,
-    "explanation_zh": "俄羅斯是世界上面積最大的國家。",
-    "explanation_en": "Russia is the largest country by area.",
-    "difficulty": 1,
-    "id": 101
-  },
-  {
-    "question_zh": "哪個國家有「萬湖之國」之稱？",
-    "question_en": "Which country is known as the \"Land of Thousand Lakes\"?",
-    "options_zh": [
-      "瑞典",
-      "挪威",
-      "芬蘭",
-      "丹麥"
-    ],
-    "options_en": [
-      "Sweden",
-      "Norway",
-      "Finland",
-      "Denmark"
-    ],
-    "answer": 2,
-    "explanation_zh": "芬蘭有「萬湖之國」之稱。",
-    "explanation_en": "Finland is known as the Land of Thousand Lakes.",
-    "difficulty": 2,
-    "id": 102
-  },
-  {
-    "question_zh": "《哈利波特》的作者是？",
-    "question_en": "Who wrote Harry Potter?",
-    "options_zh": [
-      "J.R.R.托爾金",
-      "J.K.羅琳",
-      "史蒂芬·金",
-      "喬治·奧威爾"
-    ],
-    "options_en": [
-      "J.R.R. Tolkien",
-      "J.K. Rowling",
-      "Stephen King",
-      "George Orwell"
-    ],
-    "answer": 1,
-    "explanation_zh": "《哈利波特》的作者是J.K.羅琳。",
-    "explanation_en": "Harry Potter was written by J.K. Rowling.",
-    "difficulty": 1,
-    "id": 103
-  },
-  {
-    "question_zh": "《三國演義》的作者是？",
-    "question_en": "Who wrote Romance of the Three Kingdoms?",
-    "options_zh": [
-      "施耐庵",
-      "羅貫中",
-      "曹雪芹",
-      "吳承恩"
-    ],
-    "options_en": [
-      "Shi Nai an",
-      "Luo Guanzhong",
-      "Cao Xueqin",
-      "Wu Cheng en"
-    ],
-    "answer": 1,
-    "explanation_zh": "《三國演義》的作者是羅貫中。",
-    "explanation_en": "It was written by Luo Guanzhong.",
-    "difficulty": 2,
-    "id": 104
-  },
-  {
-    "question_zh": "《西遊記》的作者是？",
-    "question_en": "Who wrote Journey to the West?",
-    "options_zh": [
-      "羅貫中",
-      "施耐庵",
-      "吳承恩",
-      "曹雪芹"
-    ],
-    "options_en": [
-      "Luo Guanzhong",
-      "Shi Nai an",
-      "Wu Cheng en",
-      "Cao Xueqin"
-    ],
-    "answer": 2,
-    "explanation_zh": "《西遊記》的作者是吳承恩。",
-    "explanation_en": "It was written by Wu Cheng en.",
-    "difficulty": 2,
-    "id": 105
-  },
-  {
-    "question_zh": "貝多芬是哪國人？",
-    "question_en": "What nationality was Beethoven?",
-    "options_zh": [
-      "奧地利",
-      "德國",
-      "意大利",
-      "法國"
-    ],
-    "options_en": [
-      "Austria",
-      "Germany",
-      "Italy",
-      "France"
-    ],
-    "answer": 1,
-    "explanation_zh": "貝多芬是德國人。",
-    "explanation_en": "Beethoven was German.",
-    "difficulty": 1,
-    "id": 106
-  },
-  {
-    "question_zh": "披頭四樂隊來自哪個國家？",
-    "question_en": "Which country are The Beatles from?",
-    "options_zh": [
-      "美國",
-      "英國",
-      "愛爾蘭",
-      "澳洲"
-    ],
-    "options_en": [
-      "USA",
-      "UK",
-      "Ireland",
-      "Australia"
-    ],
-    "answer": 1,
-    "explanation_zh": "披頭四樂隊來自英國。",
-    "explanation_en": "The Beatles are from the UK.",
-    "difficulty": 1,
-    "id": 107
-  },
-  {
-    "question_zh": "《蒙娜麗莎》的作者是？",
-    "question_en": "Who painted the Mona Lisa?",
-    "options_zh": [
-      "米開朗基羅",
-      "達文西",
-      "拉斐爾",
-      "畢加索"
-    ],
-    "options_en": [
-      "Michelangelo",
-      "Da Vinci",
-      "Raphael",
-      "Picasso"
-    ],
-    "answer": 1,
-    "explanation_zh": "《蒙娜麗莎》的作者是達文西。",
-    "explanation_en": "The Mona Lisa was painted by Da Vinci.",
-    "difficulty": 1,
-    "id": 108
-  },
-  {
-    "question_zh": "畢加索是哪國人？",
-    "question_en": "What nationality was Picasso?",
-    "options_zh": [
-      "法國",
-      "意大利",
-      "西班牙",
-      "德國"
-    ],
-    "options_en": [
-      "France",
-      "Italy",
-      "Spain",
-      "Germany"
-    ],
-    "answer": 2,
-    "explanation_zh": "畢加索是西班牙人。",
-    "explanation_en": "Picasso was Spanish.",
-    "difficulty": 2,
-    "id": 109
-  },
-  {
-    "question_zh": "iPhone是哪家公司的產品？",
-    "question_en": "Which company makes iPhone?",
-    "options_zh": [
-      "三星",
-      "微軟",
-      "蘋果",
-      "谷歌"
-    ],
-    "options_en": [
-      "Samsung",
-      "Microsoft",
-      "Apple",
-      "Google"
-    ],
-    "answer": 2,
-    "explanation_zh": "iPhone是蘋果公司的產品。",
-    "explanation_en": "iPhone is made by Apple.",
-    "difficulty": 1,
-    "id": 110
-  },
-  {
-    "question_zh": "世界第一個網站創建於哪一年？",
-    "question_en": "When was the first website created?",
-    "options_zh": [
-      "1989",
-      "1991",
-      "1993",
-      "1995"
-    ],
-    "options_en": [
-      "1989",
-      "1991",
-      "1993",
-      "1995"
-    ],
-    "answer": 1,
-    "explanation_zh": "世界第一個網站創建於1991年。",
-    "explanation_en": "The first website was created in 1991.",
-    "difficulty": 3,
-    "id": 111
-  },
-  {
-    "question_zh": "奧運會幾年舉辦一次？",
-    "question_en": "How often are the Olympics held?",
-    "options_zh": [
-      "2年",
-      "3年",
-      "4年",
-      "5年"
-    ],
-    "options_en": [
-      "2 years",
-      "3 years",
-      "4 years",
-      "5 years"
-    ],
-    "answer": 2,
-    "explanation_zh": "奧運會每4年舉辦一次。",
-    "explanation_en": "The Olympics are held every 4 years.",
-    "difficulty": 1,
-    "id": 112
-  },
-  {
-    "question_zh": "足球比賽每隊上場多少人？",
-    "question_en": "How many players per team in football?",
-    "options_zh": [
-      "9",
-      "10",
-      "11",
-      "12"
-    ],
-    "options_en": [
-      "9",
-      "10",
-      "11",
-      "12"
-    ],
-    "answer": 2,
-    "explanation_zh": "足球比賽每隊上場11人。",
-    "explanation_en": "Each team has 11 players.",
-    "difficulty": 1,
-    "id": 113
-  },
-  {
-    "question_zh": "壽司起源於哪個國家？",
-    "question_en": "Which country did sushi originate from?",
-    "options_zh": [
-      "中國",
-      "韓國",
-      "日本",
-      "泰國"
-    ],
-    "options_en": [
-      "China",
-      "Korea",
-      "Japan",
-      "Thailand"
-    ],
-    "answer": 2,
-    "explanation_zh": "壽司起源於日本。",
-    "explanation_en": "Sushi originated from Japan.",
-    "difficulty": 1,
-    "id": 114
-  },
-  {
-    "question_zh": "意大利麵起源於哪個國家？",
-    "question_en": "Which country did pasta originate from?",
-    "options_zh": [
-      "法國",
-      "意大利",
-      "西班牙",
-      "希臘"
-    ],
-    "options_en": [
-      "France",
-      "Italy",
-      "Spain",
-      "Greece"
-    ],
-    "answer": 1,
-    "explanation_zh": "意大利麵起源於意大利。",
-    "explanation_en": "Pasta originated from Italy.",
-    "difficulty": 1,
-    "id": 115
-  },
-  {
-    "question_zh": "量子力學的創始人之一是？",
-    "question_en": "One of the founders of quantum mechanics?",
-    "options_zh": [
-      "愛因斯坦",
-      "牛頓",
-      "普朗克",
-      "霍金"
-    ],
-    "options_en": [
-      "Einstein",
-      "Newton",
-      "Planck",
-      "Hawking"
-    ],
-    "answer": 2,
-    "explanation_zh": "普朗克是量子力學的創始人之一。",
-    "explanation_en": "Planck was one of the founders of quantum mechanics.",
-    "difficulty": 3,
-    "id": 116
-  },
-  {
-    "question_zh": "相對論的提出者是？",
-    "question_en": "Who proposed the theory of relativity?",
-    "options_zh": [
-      "牛頓",
-      "愛因斯坦",
-      "霍金",
-      "費曼"
-    ],
-    "options_en": [
-      "Newton",
-      "Einstein",
-      "Hawking",
-      "Feynman"
-    ],
-    "answer": 1,
-    "explanation_zh": "相對論由愛因斯坦提出。",
-    "explanation_en": "The theory of relativity was proposed by Einstein.",
-    "difficulty": 2,
-    "id": 117
-  },
-  {
-    "question_zh": "人體最長的骨頭是？",
-    "question_en": "What is the longest bone in the human body?",
-    "options_zh": [
-      "脊椎",
-      "股骨",
-      "脛骨",
-      "肱骨"
-    ],
-    "options_en": [
-      "Spine",
-      "Femur",
-      "Tibia",
-      "Humerus"
-    ],
-    "answer": 1,
-    "explanation_zh": "股骨是人體最長的骨頭。",
-    "explanation_en": "The femur is the longest bone.",
-    "difficulty": 2,
-    "id": 118
-  },
-  {
-    "question_zh": "哪個國家有「鬱金香之國」之稱？",
-    "question_en": "Which country is known as the \"Tulip Country\"?",
-    "options_zh": [
-      "比利時",
-      "荷蘭",
-      "德國",
-      "法國"
-    ],
-    "options_en": [
-      "Belgium",
-      "Netherlands",
-      "Germany",
-      "France"
-    ],
-    "answer": 1,
-    "explanation_zh": "荷蘭有「鬱金香之國」之稱。",
-    "explanation_en": "The Netherlands is known as the Tulip Country.",
-    "difficulty": 2,
-    "id": 119
-  },
-  {
-    "question_zh": "世界上人口最多的國家是？",
-    "question_en": "What is the most populous country?",
-    "options_zh": [
-      "印度",
-      "中國",
-      "美國",
-      "印尼"
-    ],
-    "options_en": [
-      "India",
-      "China",
-      "USA",
-      "Indonesia"
-    ],
-    "answer": 0,
-    "explanation_zh": "印度是世界上人口最多的國家。",
-    "explanation_en": "India is the most populous country.",
-    "difficulty": 2,
-    "id": 120
-  },
-  {
-    "question_zh": "哪個元素是人體中含量最多的？",
-    "question_en": "Which element is most abundant in the human body?",
-    "options_zh": [
-      "碳",
-      "氫",
-      "氧",
-      "氮"
-    ],
-    "options_en": [
-      "Carbon",
-      "Hydrogen",
-      "Oxygen",
-      "Nitrogen"
-    ],
-    "answer": 2,
-    "explanation_zh": "氧是人體中含量最多的元素。",
-    "explanation_en": "Oxygen is the most abundant element in the human body.",
-    "difficulty": 3,
-    "id": 121
-  },
-  {
-    "question_zh": "世界上最深的海溝是？",
-    "question_en": "What is the deepest ocean trench?",
-    "options_zh": [
-      "湯加海溝",
-      "日本海溝",
-      "馬里亞納海溝",
-      "波多黎各海溝"
-    ],
-    "options_en": [
-      "Tonga Trench",
-      "Japan Trench",
-      "Mariana Trench",
-      "Puerto Rico Trench"
-    ],
-    "answer": 2,
-    "explanation_zh": "馬里亞納海溝是世界上最深的海溝。",
-    "explanation_en": "The Mariana Trench is the deepest trench.",
-    "difficulty": 2,
-    "id": 122
-  },
-  {
-    "question_zh": "哪個國家有「袋鼠之國」之稱？",
-    "question_en": "Which country is known as the \"Kangaroo Country\"?",
-    "options_zh": [
-      "紐西蘭",
-      "澳洲",
-      "南非",
-      "巴西"
-    ],
-    "options_en": [
-      "New Zealand",
-      "Australia",
-      "South Africa",
-      "Brazil"
-    ],
-    "answer": 1,
-    "explanation_zh": "澳洲有「袋鼠之國」之稱。",
-    "explanation_en": "Australia is known as the Kangaroo Country.",
-    "difficulty": 1,
-    "id": 123
-  },
-  {
-    "question_zh": "人體最長的肌肉是？",
-    "question_en": "What is the longest muscle in the human body?",
-    "options_zh": [
-      "二頭肌",
-      "縫匠肌",
-      "股四頭肌",
-      "三角肌"
-    ],
-    "options_en": [
-      "Biceps",
-      "Sartorius",
-      "Quadriceps",
-      "Deltoid"
-    ],
-    "answer": 1,
-    "explanation_zh": "縫匠肌是人體最長的肌肉。",
-    "explanation_en": "The sartorius is the longest muscle.",
-    "difficulty": 3,
-    "id": 124
-  },
-  {
-    "question_zh": "世界上最大的島嶼是？",
-    "question_en": "What is the largest island?",
-    "options_zh": [
-      "婆羅洲",
-      "馬達加斯加",
-      "格陵蘭",
-      "新幾內亞"
-    ],
-    "options_en": [
-      "Borneo",
-      "Madagascar",
-      "Greenland",
-      "New Guinea"
-    ],
-    "answer": 2,
-    "explanation_zh": "格陵蘭是世界上最大的島嶼。",
-    "explanation_en": "Greenland is the largest island.",
-    "difficulty": 2,
-    "id": 125
-  },
-  {
-    "question_zh": "人體最大的淋巴器官是？",
-    "question_en": "What is the largest lymphoid organ?",
-    "options_zh": [
-      "扁桃體",
-      "胸腺",
-      "脾臟",
-      "淋巴結"
-    ],
-    "options_en": [
-      "Tonsils",
-      "Thymus",
-      "Spleen",
-      "Lymph nodes"
-    ],
-    "answer": 2,
-    "explanation_zh": "脾臟是人體最大的淋巴器官。",
-    "explanation_en": "The spleen is the largest lymphoid organ.",
-    "difficulty": 3,
-    "id": 126
-  },
-  {
-    "question_zh": "世界上最大的淡水湖是？",
-    "question_en": "What is the largest freshwater lake?",
-    "options_zh": [
-      "維多利亞湖",
-      "蘇必利爾湖",
-      "裏海",
-      "貝加爾湖"
-    ],
-    "options_en": [
-      "Lake Victoria",
-      "Lake Superior",
-      "Caspian Sea",
-      "Lake Baikal"
-    ],
-    "answer": 1,
-    "explanation_zh": "蘇必利爾湖是世界上最大的淡水湖。",
-    "explanation_en": "Lake Superior is the largest freshwater lake.",
-    "difficulty": 2,
-    "id": 127
-  },
-  {
-    "question_zh": "人體最大的靜脈是？",
-    "question_en": "What is the largest vein in the human body?",
-    "options_zh": [
-      "頸靜脈",
-      "下腔靜脈",
-      "股靜脈",
-      "門靜脈"
-    ],
-    "options_en": [
-      "Jugular vein",
-      "Inferior vena cava",
-      "Femoral vein",
-      "Portal vein"
-    ],
-    "answer": 1,
-    "explanation_zh": "下腔靜脈是人體最大的靜脈。",
-    "explanation_en": "The inferior vena cava is the largest vein.",
-    "difficulty": 3,
-    "id": 128
-  },
-  {
-    "question_zh": "世界上最大的熱帶雨林是？",
-    "question_en": "What is the largest tropical rainforest?",
-    "options_zh": [
-      "剛果雨林",
-      "亞馬遜雨林",
-      "東南亞雨林",
-      "澳洲雨林"
-    ],
-    "options_en": [
-      "Congo Rainforest",
-      "Amazon Rainforest",
-      "Southeast Asian Rainforest",
-      "Australian Rainforest"
-    ],
-    "answer": 1,
-    "explanation_zh": "亞馬遜雨林是世界上最大的熱帶雨林。",
-    "explanation_en": "The Amazon Rainforest is the largest.",
-    "difficulty": 2,
-    "id": 129
-  },
-  {
-    "question_zh": "人體最大的關節是？",
-    "question_en": "What is the largest joint in the human body?",
-    "options_zh": [
-      "肩關節",
-      "膝關節",
-      "髖關節",
-      "肘關節"
-    ],
-    "options_en": [
-      "Shoulder",
-      "Knee",
-      "Hip",
-      "Elbow"
-    ],
-    "answer": 1,
-    "explanation_zh": "膝關節是人體最大的關節。",
-    "explanation_en": "The knee is the largest joint.",
-    "difficulty": 2,
-    "id": 130
-  },
-  {
-    "question_zh": "世界上最大的珊瑚礁是？",
-    "question_en": "What is the largest coral reef?",
-    "options_zh": [
-      "馬爾代夫珊瑚礁",
-      "大堡礁",
-      "紅海珊瑚礁",
-      "加勒比珊瑚礁"
-    ],
-    "options_en": [
-      "Maldives Reef",
-      "Great Barrier Reef",
-      "Red Sea Reef",
-      "Caribbean Reef"
-    ],
-    "answer": 1,
-    "explanation_zh": "大堡礁是世界上最大的珊瑚礁。",
-    "explanation_en": "The Great Barrier Reef is the largest.",
-    "difficulty": 2,
-    "id": 131
-  },
-  {
     "question_zh": "太陽系中離太陽最近的行星是？",
     "question_en": "Which planet is closest to the Sun?",
     "options_zh": [
       "金星",
-      "水星",
       "地球",
-      "火星"
+      "火星",
+      "水星"
     ],
     "options_en": [
       "Venus",
-      "Mercury",
       "Earth",
-      "Mars"
+      "Mars",
+      "Mercury"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "水星是離太陽最近的行星。",
     "explanation_en": "Mercury is closest to the Sun.",
     "difficulty": 1,
     "id": 132
   },
   {
-    "question_zh": "哪個國家有「仙鶴之國」之稱？",
-    "question_en": "Which country is known as the \"Crane Country\"?",
-    "options_zh": [
-      "中國",
-      "日本",
-      "韓國",
-      "越南"
-    ],
-    "options_en": [
-      "China",
-      "Japan",
-      "Korea",
-      "Vietnam"
-    ],
-    "answer": 1,
-    "explanation_zh": "日本有「仙鶴之國」之稱。",
-    "explanation_en": "Japan is known as the Crane Country.",
-    "difficulty": 3,
-    "id": 133
-  },
-  {
     "question_zh": "人體最大的細胞核是？",
     "question_en": "What is the largest cell nucleus?",
     "options_zh": [
+      "神經細胞",
       "紅血球",
       "白血球",
-      "卵細胞",
-      "神經細胞"
+      "卵細胞"
     ],
     "options_en": [
+      "Neuron",
       "Red blood cell",
       "White blood cell",
-      "Egg cell",
-      "Neuron"
+      "Egg cell"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "卵細胞有最大的細胞核。",
     "explanation_en": "The egg cell has the largest nucleus.",
     "difficulty": 3,
     "id": 134
-  },
-  {
-    "question_zh": "哪個國家有「仙人掌之國」之稱？",
-    "question_en": "Which country is known as the \"Cactus Country\"?",
-    "options_zh": [
-      "美國",
-      "墨西哥",
-      "巴西",
-      "阿根廷"
-    ],
-    "options_en": [
-      "USA",
-      "Mexico",
-      "Brazil",
-      "Argentina"
-    ],
-    "answer": 1,
-    "explanation_zh": "墨西哥有「仙人掌之國」之稱。",
-    "explanation_en": "Mexico is known as the Cactus Country.",
-    "difficulty": 2,
-    "id": 135
-  },
-  {
-    "question_zh": "人體最大的腺體是？",
-    "question_en": "What is the largest gland in the human body?",
-    "options_zh": [
-      "甲狀腺",
-      "肝臟",
-      "胰臟",
-      "腦下垂體"
-    ],
-    "options_en": [
-      "Thyroid",
-      "Liver",
-      "Pancreas",
-      "Pituitary"
-    ],
-    "answer": 1,
-    "explanation_zh": "肝臟是人體最大的腺體。",
-    "explanation_en": "The liver is the largest gland.",
-    "difficulty": 3,
-    "id": 136
-  },
-  {
-    "question_zh": "哪個國家有「千島之國」之稱？",
-    "question_en": "Which country is known as the \"Thousand Islands Country\"?",
-    "options_zh": [
-      "菲律賓",
-      "印尼",
-      "日本",
-      "馬來西亞"
-    ],
-    "options_en": [
-      "Philippines",
-      "Indonesia",
-      "Japan",
-      "Malaysia"
-    ],
-    "answer": 1,
-    "explanation_zh": "菲律賓有「千島之國」之稱。",
-    "explanation_en": "The Philippines is known as the Thousand Islands Country.",
-    "difficulty": 3,
-    "id": 137
-  },
-  {
-    "question_zh": "人體最硬的物質是？",
-    "question_en": "What is the hardest substance in the human body?",
-    "options_zh": [
-      "骨頭",
-      "牙齒琺瑯質",
-      "指甲",
-      "軟骨"
-    ],
-    "options_en": [
-      "Bone",
-      "Tooth enamel",
-      "Nails",
-      "Cartilage"
-    ],
-    "answer": 1,
-    "explanation_zh": "牙齒琺瑯質是人體最硬的物質。",
-    "explanation_en": "Tooth enamel is the hardest substance.",
-    "difficulty": 3,
-    "id": 138
-  },
-  {
-    "question_zh": "哪個國家有「楓葉之國」之稱？",
-    "question_en": "Which country is known as the \"Maple Leaf Country\"?",
-    "options_zh": [
-      "美國",
-      "加拿大",
-      "英國",
-      "澳洲"
-    ],
-    "options_en": [
-      "USA",
-      "Canada",
-      "UK",
-      "Australia"
-    ],
-    "answer": 1,
-    "explanation_zh": "加拿大有「楓葉之國」之稱。",
-    "explanation_en": "Canada is known as the Maple Leaf Country.",
-    "difficulty": 3,
-    "id": 139
-  },
-  {
-    "question_zh": "人體最大的動脈是？",
-    "question_en": "What is the largest artery in the human body?",
-    "options_zh": [
-      "頸動脈",
-      "主動脈",
-      "股動脈",
-      "冠狀動脈"
-    ],
-    "options_en": [
-      "Carotid artery",
-      "Aorta",
-      "Femoral artery",
-      "Coronary artery"
-    ],
-    "answer": 1,
-    "explanation_zh": "主動脈是人體最大的動脈。",
-    "explanation_en": "The aorta is the largest artery.",
-    "difficulty": 3,
-    "id": 140
-  },
-  {
-    "question_zh": "哪個國家有「獅城」之稱？",
-    "question_en": "Which country is known as the \"Lion City\"?",
-    "options_zh": [
-      "馬來西亞",
-      "新加坡",
-      "泰國",
-      "印尼"
-    ],
-    "options_en": [
-      "Malaysia",
-      "Singapore",
-      "Thailand",
-      "Indonesia"
-    ],
-    "answer": 1,
-    "explanation_zh": "新加坡有「獅城」之稱。",
-    "explanation_en": "Singapore is known as the Lion City.",
-    "difficulty": 3,
-    "id": 141
-  },
-  {
-    "question_zh": "人體最小的骨頭是？",
-    "question_en": "What is the smallest bone in the human body?",
-    "options_zh": [
-      "指骨",
-      "聽小骨",
-      "尾骨",
-      "鼻骨"
-    ],
-    "options_en": [
-      "Finger bone",
-      "Ear ossicle",
-      "Coccyx",
-      "Nasal bone"
-    ],
-    "answer": 1,
-    "explanation_zh": "聽小骨是人體最小的骨頭。",
-    "explanation_en": "Ear ossicles are the smallest bones.",
-    "difficulty": 3,
-    "id": 142
   }
 ]

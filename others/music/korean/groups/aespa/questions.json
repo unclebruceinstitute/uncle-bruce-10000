@@ -5,15 +5,15 @@
     "question_en": "Which is a song by Aespa?",
     "options_zh": [
       "歌曲A",
+      "歌曲D",
       "歌曲I",
-      "歌曲O",
-      "歌曲D"
+      "歌曲O"
     ],
     "options_en": [
       "歌曲A",
+      "歌曲D",
       "歌曲I",
-      "歌曲O",
-      "歌曲D"
+      "歌曲O"
     ],
     "answer": 0,
     "explanation_zh": "「歌曲A」係Aespa嘅歌曲。",
@@ -25,18 +25,18 @@
     "question_zh": "《專輯A》係Aespa喺邊年推出嘅專輯？",
     "question_en": "What year was '專輯A' by Aespa released?",
     "options_zh": [
-      "2015",
-      "1999",
+      "2020",
       "2018",
-      "2020"
+      "2015",
+      "1999"
     ],
     "options_en": [
-      "2015",
-      "1999",
+      "2020",
       "2018",
-      "2020"
+      "2015",
+      "1999"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "《專輯A》喺2020年推出。",
     "explanation_en": "'專輯A' was released in 2020.",
     "difficulty": 2
@@ -46,18 +46,18 @@
     "question_zh": "《專輯B》係Aespa喺邊年推出嘅專輯？",
     "question_en": "What year was '專輯B' by Aespa released?",
     "options_zh": [
-      "2007",
       "2015",
       "1999",
-      "2018"
+      "2018",
+      "2007"
     ],
     "options_en": [
-      "2007",
       "2015",
       "1999",
-      "2018"
+      "2018",
+      "2007"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "《專輯B》喺2007年推出。",
     "explanation_en": "'專輯B' was released in 2007.",
     "difficulty": 2
@@ -67,18 +67,18 @@
     "question_zh": "《專輯C》係Aespa喺邊年推出嘅專輯？",
     "question_en": "What year was '專輯C' by Aespa released?",
     "options_zh": [
+      "2015",
       "2010",
-      "2003",
       "2020",
-      "2015"
+      "2003"
     ],
     "options_en": [
+      "2015",
       "2010",
-      "2003",
       "2020",
-      "2015"
+      "2003"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "《專輯C》喺2003年推出。",
     "explanation_en": "'專輯C' was released in 2003.",
     "difficulty": 2
@@ -88,18 +88,18 @@
     "question_zh": "《專輯D》係Aespa喺邊年推出嘅專輯？",
     "question_en": "What year was '專輯D' by Aespa released?",
     "options_zh": [
+      "2007",
       "2010",
       "2020",
-      "2003",
-      "2007"
+      "2003"
     ],
     "options_en": [
+      "2007",
       "2010",
       "2020",
-      "2003",
-      "2007"
+      "2003"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "《專輯D》喺2003年推出。",
     "explanation_en": "'專輯D' was released in 2003.",
     "difficulty": 2
@@ -109,16 +109,16 @@
     "question_zh": "《專輯E》係Aespa喺邊年推出嘅專輯？",
     "question_en": "What year was '專輯E' by Aespa released?",
     "options_zh": [
+      "2023",
       "2007",
-      "2003",
       "1999",
-      "2023"
+      "2003"
     ],
     "options_en": [
+      "2023",
       "2007",
-      "2003",
       "1999",
-      "2023"
+      "2003"
     ],
     "answer": 2,
     "explanation_zh": "《專輯E》喺1999年推出。",
@@ -130,18 +130,18 @@
     "question_zh": "Aespa大約喺邊年出道？",
     "question_en": "When did Aespa approximately debut?",
     "options_zh": [
-      "2000",
+      "2015",
       "1980",
       "2010",
-      "2015"
+      "2000"
     ],
     "options_en": [
-      "2000",
+      "2015",
       "1980",
       "2010",
-      "2015"
+      "2000"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "Aespa喺2000年出道。",
     "explanation_en": "Aespa debuted around 2000.",
     "difficulty": 1
@@ -153,14 +153,14 @@
     "options_zh": [
       "korean",
       "香港",
-      "美國",
-      "馬來西亞"
+      "馬來西亞",
+      "美國"
     ],
     "options_en": [
       "korean",
       "香港",
-      "美國",
-      "馬來西亞"
+      "馬來西亞",
+      "美國"
     ],
     "answer": 0,
     "explanation_zh": "Aespa來自korean。",
@@ -173,15 +173,15 @@
     "question_en": "What genre does Aespa mainly sing?",
     "options_zh": [
       "流行曲",
-      "電子",
       "R&B",
-      "搖滾"
+      "搖滾",
+      "電子"
     ],
     "options_en": [
       "流行曲",
-      "電子",
       "R&B",
-      "搖滾"
+      "搖滾",
+      "電子"
     ],
     "answer": 0,
     "explanation_zh": "Aespa主要唱流行曲。",
@@ -193,18 +193,18 @@
     "question_zh": "Aespa係邊間唱片公司旗下？",
     "question_en": "Which label is Aespa signed to?",
     "options_zh": [
-      "星夢",
       "大國文化",
       "英皇",
-      "唱片公司"
+      "唱片公司",
+      "星夢"
     ],
     "options_en": [
-      "星夢",
       "大國文化",
       "英皇",
-      "唱片公司"
+      "唱片公司",
+      "星夢"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "Aespa係唱片公司旗下歌手。",
     "explanation_en": "Aespa is signed to 唱片公司.",
     "difficulty": 2
@@ -215,14 +215,14 @@
     "question_en": "Which description of Aespa is correct?",
     "options_zh": [
       "來自korean",
-      "來自外太空",
       "係AI歌手",
+      "來自外太空",
       "唔存在"
     ],
     "options_en": [
       "From korean",
-      "From outer space",
       "AI singer",
+      "From outer space",
       "Doesn't exist"
     ],
     "answer": 0,
@@ -236,15 +236,15 @@
     "question_en": "Which award has Aespa won?",
     "options_zh": [
       "音樂獎項",
+      "世界盃金靴獎",
       "奧斯卡最佳男主角",
-      "諾貝爾文學獎",
-      "世界盃金靴獎"
+      "諾貝爾文學獎"
     ],
     "options_en": [
       "音樂獎項",
+      "World Cup Golden Boot",
       "Oscar Best Actor",
-      "Nobel Literature Prize",
-      "World Cup Golden Boot"
+      "Nobel Literature Prize"
     ],
     "answer": 0,
     "explanation_zh": "Aespa曾獲得音樂獎項。",
@@ -256,18 +256,18 @@
     "question_zh": "《歌曲A》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲A'?",
     "options_zh": [
+      "其他歌手C",
       "Aespa",
       "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
+      "其他歌手B"
     ],
     "options_en": [
+      "Other Artist C",
       "Aespa",
       "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
+      "Other Artist B"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "《歌曲A》係Aespa嘅歌。",
     "explanation_en": "'歌曲A' is by Aespa.",
     "difficulty": 3
@@ -278,15 +278,15 @@
     "question_en": "Who sings '歌曲B'?",
     "options_zh": [
       "Aespa",
-      "其他歌手A",
+      "其他歌手C",
       "其他歌手B",
-      "其他歌手C"
+      "其他歌手A"
     ],
     "options_en": [
       "Aespa",
-      "Other Artist A",
+      "Other Artist C",
       "Other Artist B",
-      "Other Artist C"
+      "Other Artist A"
     ],
     "answer": 0,
     "explanation_zh": "《歌曲B》係Aespa嘅歌。",
@@ -298,18 +298,18 @@
     "question_zh": "《歌曲C》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲C'?",
     "options_zh": [
-      "Aespa",
+      "其他歌手C",
       "其他歌手A",
       "其他歌手B",
-      "其他歌手C"
+      "Aespa"
     ],
     "options_en": [
-      "Aespa",
+      "Other Artist C",
       "Other Artist A",
       "Other Artist B",
-      "Other Artist C"
+      "Aespa"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "《歌曲C》係Aespa嘅歌。",
     "explanation_en": "'歌曲C' is by Aespa.",
     "difficulty": 3
@@ -319,18 +319,18 @@
     "question_zh": "《歌曲D》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲D'?",
     "options_zh": [
-      "Aespa",
       "其他歌手A",
       "其他歌手B",
+      "Aespa",
       "其他歌手C"
     ],
     "options_en": [
-      "Aespa",
       "Other Artist A",
       "Other Artist B",
+      "Aespa",
       "Other Artist C"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "《歌曲D》係Aespa嘅歌。",
     "explanation_en": "'歌曲D' is by Aespa.",
     "difficulty": 3
@@ -340,18 +340,18 @@
     "question_zh": "《歌曲E》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲E'?",
     "options_zh": [
-      "Aespa",
       "其他歌手A",
       "其他歌手B",
+      "Aespa",
       "其他歌手C"
     ],
     "options_en": [
-      "Aespa",
       "Other Artist A",
       "Other Artist B",
+      "Aespa",
       "Other Artist C"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "《歌曲E》係Aespa嘅歌。",
     "explanation_en": "'歌曲E' is by Aespa.",
     "difficulty": 3
@@ -361,18 +361,18 @@
     "question_zh": "《歌曲F》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲F'?",
     "options_zh": [
-      "Aespa",
-      "其他歌手A",
       "其他歌手B",
-      "其他歌手C"
+      "Aespa",
+      "其他歌手C",
+      "其他歌手A"
     ],
     "options_en": [
-      "Aespa",
-      "Other Artist A",
       "Other Artist B",
-      "Other Artist C"
+      "Aespa",
+      "Other Artist C",
+      "Other Artist A"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "《歌曲F》係Aespa嘅歌。",
     "explanation_en": "'歌曲F' is by Aespa.",
     "difficulty": 3
@@ -382,18 +382,18 @@
     "question_zh": "《歌曲G》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲G'?",
     "options_zh": [
+      "其他歌手B",
       "Aespa",
       "其他歌手A",
-      "其他歌手B",
       "其他歌手C"
     ],
     "options_en": [
+      "Other Artist B",
       "Aespa",
       "Other Artist A",
-      "Other Artist B",
       "Other Artist C"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "《歌曲G》係Aespa嘅歌。",
     "explanation_en": "'歌曲G' is by Aespa.",
     "difficulty": 3
@@ -403,18 +403,18 @@
     "question_zh": "《歌曲H》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲H'?",
     "options_zh": [
-      "Aespa",
       "其他歌手A",
       "其他歌手B",
+      "Aespa",
       "其他歌手C"
     ],
     "options_en": [
-      "Aespa",
       "Other Artist A",
       "Other Artist B",
+      "Aespa",
       "Other Artist C"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "《歌曲H》係Aespa嘅歌。",
     "explanation_en": "'歌曲H' is by Aespa.",
     "difficulty": 3
@@ -424,18 +424,18 @@
     "question_zh": "《歌曲I》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲I'?",
     "options_zh": [
-      "Aespa",
       "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
+      "Aespa",
+      "其他歌手C",
+      "其他歌手B"
     ],
     "options_en": [
-      "Aespa",
       "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
+      "Aespa",
+      "Other Artist C",
+      "Other Artist B"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "《歌曲I》係Aespa嘅歌。",
     "explanation_en": "'歌曲I' is by Aespa.",
     "difficulty": 3
@@ -445,18 +445,18 @@
     "question_zh": "《歌曲J》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲J'?",
     "options_zh": [
-      "Aespa",
-      "其他歌手A",
+      "其他歌手C",
       "其他歌手B",
-      "其他歌手C"
+      "其他歌手A",
+      "Aespa"
     ],
     "options_en": [
-      "Aespa",
-      "Other Artist A",
+      "Other Artist C",
       "Other Artist B",
-      "Other Artist C"
+      "Other Artist A",
+      "Aespa"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "《歌曲J》係Aespa嘅歌。",
     "explanation_en": "'歌曲J' is by Aespa.",
     "difficulty": 3
@@ -467,14 +467,14 @@
     "question_en": "What genre is 'Aespa'?",
     "options_zh": [
       "類型A",
-      "類型B",
       "類型C",
+      "類型B",
       "類型D"
     ],
     "options_en": [
       "類型A",
-      "類型B",
       "類型C",
+      "類型B",
       "類型D"
     ],
     "answer": 0,
@@ -487,18 +487,18 @@
     "question_zh": "「Aespa嘅歌」喺邊年開始？",
     "question_en": "When did 'Aespa' start?",
     "options_zh": [
-      "2000",
       "2005",
+      "2000",
       "2010",
       "2015"
     ],
     "options_en": [
-      "2000",
       "2005",
+      "2000",
       "2010",
       "2015"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係2000。",
     "explanation_en": "Correct answer: 2000.",
     "difficulty": 1
@@ -508,18 +508,18 @@
     "question_zh": "「Aespa嘅歌」來自邊個國家/地區？",
     "question_en": "Where is 'Aespa' from?",
     "options_zh": [
-      "香港",
       "台灣",
       "日本",
+      "香港",
       "韓國"
     ],
     "options_en": [
-      "香港",
       "台灣",
       "日本",
+      "香港",
       "韓國"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係香港。",
     "explanation_en": "Correct answer: 香港.",
     "difficulty": 1
@@ -529,18 +529,18 @@
     "question_zh": "「Aespa嘅歌」最出名嘅作品係？",
     "question_en": "What's 'Aespa' most famous work?",
     "options_zh": [
-      "作品A",
       "作品B",
       "作品C",
-      "作品D"
+      "作品D",
+      "作品A"
     ],
     "options_en": [
-      "作品A",
       "作品B",
       "作品C",
-      "作品D"
+      "作品D",
+      "作品A"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係作品A。",
     "explanation_en": "Correct answer: 作品A.",
     "difficulty": 1
@@ -550,18 +550,18 @@
     "question_zh": "「Aespa嘅歌」嘅風格特點係？",
     "question_en": "What's 'Aespa' style?",
     "options_zh": [
-      "風格A",
       "風格B",
+      "風格D",
       "風格C",
-      "風格D"
+      "風格A"
     ],
     "options_en": [
-      "風格A",
       "風格B",
+      "風格D",
       "風格C",
-      "風格D"
+      "風格A"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係風格A。",
     "explanation_en": "Correct answer: 風格A.",
     "difficulty": 1
@@ -572,15 +572,15 @@
     "question_en": "Who collaborated with 'Aespa'?",
     "options_zh": [
       "合作A",
-      "合作B",
       "合作C",
-      "合作D"
+      "合作D",
+      "合作B"
     ],
     "options_en": [
       "合作A",
-      "合作B",
       "合作C",
-      "合作D"
+      "合作D",
+      "合作B"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係合作A。",
@@ -592,18 +592,18 @@
     "question_zh": "「Aespa嘅歌」嘅粉絲叫咩？",
     "question_en": "What are 'Aespa' fans called?",
     "options_zh": [
-      "粉絲名A",
-      "粉絲名B",
       "粉絲名C",
-      "粉絲名D"
+      "粉絲名D",
+      "粉絲名B",
+      "粉絲名A"
     ],
     "options_en": [
-      "粉絲名A",
-      "粉絲名B",
       "粉絲名C",
-      "粉絲名D"
+      "粉絲名D",
+      "粉絲名B",
+      "粉絲名A"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係粉絲名A。",
     "explanation_en": "Correct answer: 粉絲名A.",
     "difficulty": 1
@@ -613,18 +613,18 @@
     "question_zh": "「Aespa嘅歌」喺邊個平台最活躍？",
     "question_en": "Which platform is 'Aespa' most active on?",
     "options_zh": [
-      "YouTube",
       "Instagram",
+      "TikTok",
       "Twitter",
-      "TikTok"
+      "YouTube"
     ],
     "options_en": [
-      "YouTube",
       "Instagram",
+      "TikTok",
       "Twitter",
-      "TikTok"
+      "YouTube"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係YouTube。",
     "explanation_en": "Correct answer: YouTube.",
     "difficulty": 1
@@ -634,18 +634,18 @@
     "question_zh": "「Aespa嘅歌」嘅出道作品係？",
     "question_en": "What's 'Aespa' debut work?",
     "options_zh": [
-      "出道作A",
-      "出道作B",
       "出道作C",
-      "出道作D"
+      "出道作B",
+      "出道作D",
+      "出道作A"
     ],
     "options_en": [
-      "出道作A",
-      "出道作B",
       "出道作C",
-      "出道作D"
+      "出道作B",
+      "出道作D",
+      "出道作A"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係出道作A。",
     "explanation_en": "Correct answer: 出道作A.",
     "difficulty": 2
@@ -655,18 +655,18 @@
     "question_zh": "「Aespa嘅歌」有冇拎過獎？",
     "question_en": "Did 'Aespa' win awards?",
     "options_zh": [
-      "有",
-      "冇",
       "提名過",
-      "唔清楚"
+      "唔清楚",
+      "有",
+      "冇"
     ],
     "options_en": [
-      "有",
-      "冇",
       "提名過",
-      "唔清楚"
+      "唔清楚",
+      "有",
+      "冇"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係有。",
     "explanation_en": "Correct answer: 有.",
     "difficulty": 2
@@ -676,18 +676,18 @@
     "question_zh": "「Aespa嘅歌」嘅活躍年份係？",
     "question_en": "What years was 'Aespa' active?",
     "options_zh": [
-      "2000年代",
-      "2010年代",
+      "1990年代",
       "2020年代",
-      "1990年代"
+      "2000年代",
+      "2010年代"
     ],
     "options_en": [
-      "2000年代",
-      "2010年代",
+      "1990年代",
       "2020年代",
-      "1990年代"
+      "2000年代",
+      "2010年代"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係2000年代。",
     "explanation_en": "Correct answer: 2000年代.",
     "difficulty": 2
@@ -698,15 +698,15 @@
     "question_en": "What's 'Aespa' representative color?",
     "options_zh": [
       "紅色",
-      "藍色",
+      "紫色",
       "綠色",
-      "紫色"
+      "藍色"
     ],
     "options_en": [
       "紅色",
-      "藍色",
+      "紫色",
       "綠色",
-      "紫色"
+      "藍色"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係紅色。",
@@ -718,18 +718,18 @@
     "question_zh": "「Aespa嘅歌」嘅口頭禪係？",
     "question_en": "What's 'Aespa' catchphrase?",
     "options_zh": [
-      "口頭禪A",
+      "口頭禪D",
       "口頭禪B",
       "口頭禪C",
-      "口頭禪D"
+      "口頭禪A"
     ],
     "options_en": [
-      "口頭禪A",
+      "口頭禪D",
       "口頭禪B",
       "口頭禪C",
-      "口頭禪D"
+      "口頭禪A"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係口頭禪A。",
     "explanation_en": "Correct answer: 口頭禪A.",
     "difficulty": 2
@@ -739,18 +739,18 @@
     "question_zh": "「Aespa嘅歌」嘅身高係？",
     "question_en": "What's 'Aespa' height?",
     "options_zh": [
+      "180cm",
       "170cm",
       "175cm",
-      "180cm",
       "185cm"
     ],
     "options_en": [
+      "180cm",
       "170cm",
       "175cm",
-      "180cm",
       "185cm"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係170cm。",
     "explanation_en": "Correct answer: 170cm.",
     "difficulty": 2
@@ -760,18 +760,18 @@
     "question_zh": "「Aespa嘅歌」嘅生日係？",
     "question_en": "When is 'Aespa' birthday?",
     "options_zh": [
+      "10月",
       "1月",
-      "4月",
       "7月",
-      "10月"
+      "4月"
     ],
     "options_en": [
+      "10月",
       "1月",
-      "4月",
       "7月",
-      "10月"
+      "4月"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係1月。",
     "explanation_en": "Correct answer: 1月.",
     "difficulty": 2
@@ -781,18 +781,18 @@
     "question_zh": "「Aespa嘅歌」嘅經紀公司係？",
     "question_en": "What agency is 'Aespa' with?",
     "options_zh": [
-      "公司A",
-      "公司B",
       "公司C",
-      "公司D"
+      "公司D",
+      "公司A",
+      "公司B"
     ],
     "options_en": [
-      "公司A",
-      "公司B",
       "公司C",
-      "公司D"
+      "公司D",
+      "公司A",
+      "公司B"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係公司A。",
     "explanation_en": "Correct answer: 公司A.",
     "difficulty": 2
@@ -804,14 +804,14 @@
     "options_zh": [
       "座右銘A",
       "座右銘B",
-      "座右銘C",
-      "座右銘D"
+      "座右銘D",
+      "座右銘C"
     ],
     "options_en": [
       "座右銘A",
       "座右銘B",
-      "座右銘C",
-      "座右銘D"
+      "座右銘D",
+      "座右銘C"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係座右銘A。",
@@ -824,14 +824,14 @@
     "question_en": "What's 'Aespa' education?",
     "options_zh": [
       "大學畢業",
-      "高中畢業",
       "自學成才",
+      "高中畢業",
       "海外留學"
     ],
     "options_en": [
       "大學畢業",
-      "高中畢業",
       "自學成才",
+      "高中畢業",
       "海外留學"
     ],
     "answer": 0,
@@ -844,18 +844,18 @@
     "question_zh": "「Aespa嘅歌」嘅家庭背景係？",
     "question_en": "What's 'Aespa' family background?",
     "options_zh": [
-      "普通家庭",
-      "演藝世家",
       "商界家庭",
+      "演藝世家",
+      "普通家庭",
       "學術家庭"
     ],
     "options_en": [
-      "普通家庭",
-      "演藝世家",
       "商界家庭",
+      "演藝世家",
+      "普通家庭",
       "學術家庭"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係普通家庭。",
     "explanation_en": "Correct answer: 普通家庭.",
     "difficulty": 3
@@ -865,18 +865,18 @@
     "question_zh": "「Aespa嘅歌」嘅興趣愛好係？",
     "question_en": "What's 'Aespa' hobby?",
     "options_zh": [
-      "運動",
       "閱讀",
+      "攝影",
       "旅行",
-      "攝影"
+      "運動"
     ],
     "options_en": [
-      "運動",
       "閱讀",
+      "攝影",
       "旅行",
-      "攝影"
+      "運動"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係運動。",
     "explanation_en": "Correct answer: 運動.",
     "difficulty": 3
@@ -907,18 +907,18 @@
     "question_zh": "「Aespa嘅歌」嘅演唱會/展覽次數？",
     "question_en": "How many concerts/exhibitions for 'Aespa'?",
     "options_zh": [
-      "10場以下",
       "10-50場",
       "50-100場",
+      "10場以下",
       "100場以上"
     ],
     "options_en": [
-      "10場以下",
       "10-50場",
       "50-100場",
+      "10場以下",
       "100場以上"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係10場以下。",
     "explanation_en": "Correct answer: 10場以下.",
     "difficulty": 3
@@ -928,18 +928,18 @@
     "question_zh": "「Aespa嘅歌」嘅專輯/作品數量？",
     "question_en": "How many albums/works for 'Aespa'?",
     "options_zh": [
-      "5個以下",
+      "20個以上",
       "5-10個",
-      "10-20個",
-      "20個以上"
+      "5個以下",
+      "10-20個"
     ],
     "options_en": [
-      "5個以下",
+      "20個以上",
       "5-10個",
-      "10-20個",
-      "20個以上"
+      "5個以下",
+      "10-20個"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係5個以下。",
     "explanation_en": "Correct answer: 5個以下.",
     "difficulty": 3
@@ -949,18 +949,18 @@
     "question_zh": "「Aespa嘅歌」嘅音樂/作品風格？",
     "question_en": "What's 'Aespa' creative style?",
     "options_zh": [
-      "傳統",
       "現代",
+      "傳統",
       "實驗",
       "融合"
     ],
     "options_en": [
-      "傳統",
       "現代",
+      "傳統",
       "實驗",
       "融合"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係傳統。",
     "explanation_en": "Correct answer: 傳統.",
     "difficulty": 3
@@ -970,18 +970,18 @@
     "question_zh": "「Aespa嘅歌」嘅影響力範圍？",
     "question_en": "What's 'Aespa' influence scope?",
     "options_zh": [
-      "本地",
       "亞洲",
-      "全球",
-      "網絡"
+      "本地",
+      "網絡",
+      "全球"
     ],
     "options_en": [
-      "本地",
       "亞洲",
-      "全球",
-      "網絡"
+      "本地",
+      "網絡",
+      "全球"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係本地。",
     "explanation_en": "Correct answer: 本地.",
     "difficulty": 3

@@ -52,32 +52,6 @@
     "id": 2
   },
   {
-    "question_zh": "sin 105° 展開後等於：",
-    "question_en": "Expand sin 105°:",
-    "options_zh": [
-      "sin60°cos45° - cos60°sin45°",
-      "sin60°cos45° + cos60°sin45°",
-      "cos60°cos45° + sin60°sin45°",
-      "cos60°cos45° - sin60°sin45°"
-    ],
-    "options_en": [
-      "sin60°cos45° - cos60°sin45°",
-      "sin60°cos45° + cos60°sin45°",
-      "cos60°cos45° + sin60°sin45°",
-      "cos60°cos45° - sin60°sin45°"
-    ],
-    "answer": 1,
-    "explanation_zh": "sin(A+B) = sinA·cosB + cosA·sinB",
-    "explanation_en": "sin(A+B) = sinA·cosB + cosA·sinB",
-    "topic_zh": "三角恆等式",
-    "topic_en": "Trigonometric Identities",
-    "subtopic_zh": "和角公式",
-    "subtopic_en": "Addition Formulae",
-    "difficulty": 2,
-    "form": 6,
-    "id": 3
-  },
-  {
     "question_zh": "sin 75° 展開後等於：",
     "question_en": "Expand sin 75°:",
     "options_zh": [
@@ -130,58 +104,6 @@
     "id": 5
   },
   {
-    "question_zh": "sin 90° 展開後等於：",
-    "question_en": "Expand sin 90°:",
-    "options_zh": [
-      "sin30°cos60° + cos30°sin60°",
-      "cos30°cos60° - sin30°sin60°",
-      "sin30°cos60° - cos30°sin60°",
-      "cos30°cos60° + sin30°sin60°"
-    ],
-    "options_en": [
-      "sin30°cos60° + cos30°sin60°",
-      "cos30°cos60° - sin30°sin60°",
-      "sin30°cos60° - cos30°sin60°",
-      "cos30°cos60° + sin30°sin60°"
-    ],
-    "answer": 0,
-    "explanation_zh": "sin(A+B) = sinA·cosB + cosA·sinB",
-    "explanation_en": "sin(A+B) = sinA·cosB + cosA·sinB",
-    "topic_zh": "三角恆等式",
-    "topic_en": "Trigonometric Identities",
-    "subtopic_zh": "和角公式",
-    "subtopic_en": "Addition Formulae",
-    "difficulty": 2,
-    "form": 6,
-    "id": 6
-  },
-  {
-    "question_zh": "sin 90° 展開後等於：",
-    "question_en": "Expand sin 90°:",
-    "options_zh": [
-      "sin30°cos60° + cos30°sin60°",
-      "cos30°cos60° + sin30°sin60°",
-      "cos30°cos60° - sin30°sin60°",
-      "sin30°cos60° - cos30°sin60°"
-    ],
-    "options_en": [
-      "sin30°cos60° + cos30°sin60°",
-      "cos30°cos60° + sin30°sin60°",
-      "cos30°cos60° - sin30°sin60°",
-      "sin30°cos60° - cos30°sin60°"
-    ],
-    "answer": 0,
-    "explanation_zh": "sin(A+B) = sinA·cosB + cosA·sinB",
-    "explanation_en": "sin(A+B) = sinA·cosB + cosA·sinB",
-    "topic_zh": "三角恆等式",
-    "topic_en": "Trigonometric Identities",
-    "subtopic_zh": "和角公式",
-    "subtopic_en": "Addition Formulae",
-    "difficulty": 2,
-    "form": 6,
-    "id": 7
-  },
-  {
     "question_zh": "sin 120° 展開後等於：",
     "question_en": "Expand sin 120°:",
     "options_zh": [
@@ -206,58 +128,6 @@
     "difficulty": 2,
     "form": 6,
     "id": 8
-  },
-  {
-    "question_zh": "sin 90° 展開後等於：",
-    "question_en": "Expand sin 90°:",
-    "options_zh": [
-      "sin45°cos45° - cos45°sin45°",
-      "cos45°cos45° + sin45°sin45°",
-      "cos45°cos45° - sin45°sin45°",
-      "sin45°cos45° + cos45°sin45°"
-    ],
-    "options_en": [
-      "sin45°cos45° - cos45°sin45°",
-      "cos45°cos45° + sin45°sin45°",
-      "cos45°cos45° - sin45°sin45°",
-      "sin45°cos45° + cos45°sin45°"
-    ],
-    "answer": 3,
-    "explanation_zh": "sin(A+B) = sinA·cosB + cosA·sinB",
-    "explanation_en": "sin(A+B) = sinA·cosB + cosA·sinB",
-    "topic_zh": "三角恆等式",
-    "topic_en": "Trigonometric Identities",
-    "subtopic_zh": "和角公式",
-    "subtopic_en": "Addition Formulae",
-    "difficulty": 2,
-    "form": 6,
-    "id": 9
-  },
-  {
-    "question_zh": "sin 60° 展開後等於：",
-    "question_en": "Expand sin 60°:",
-    "options_zh": [
-      "cos30°cos30° - sin30°sin30°",
-      "sin30°cos30° - cos30°sin30°",
-      "sin30°cos30° + cos30°sin30°",
-      "cos30°cos30° + sin30°sin30°"
-    ],
-    "options_en": [
-      "cos30°cos30° - sin30°sin30°",
-      "sin30°cos30° - cos30°sin30°",
-      "sin30°cos30° + cos30°sin30°",
-      "cos30°cos30° + sin30°sin30°"
-    ],
-    "answer": 2,
-    "explanation_zh": "sin(A+B) = sinA·cosB + cosA·sinB",
-    "explanation_en": "sin(A+B) = sinA·cosB + cosA·sinB",
-    "topic_zh": "三角恆等式",
-    "topic_en": "Trigonometric Identities",
-    "subtopic_zh": "和角公式",
-    "subtopic_en": "Addition Formulae",
-    "difficulty": 2,
-    "form": 6,
-    "id": 10
   },
   {
     "question_zh": "cos(60°+30°) 展開後等於：",
@@ -286,32 +156,6 @@
     "id": 11
   },
   {
-    "question_zh": "cos(60°+30°) 展開後等於：",
-    "question_en": "Expand cos(60°+30°):",
-    "options_zh": [
-      "cos60°cos30° - sin60°sin30°",
-      "sin60°cos30° - cos60°sin30°",
-      "cos60°cos30° + sin60°sin30°",
-      "sin60°cos30° + cos60°sin30°"
-    ],
-    "options_en": [
-      "cos60°cos30° - sin60°sin30°",
-      "sin60°cos30° - cos60°sin30°",
-      "cos60°cos30° + sin60°sin30°",
-      "sin60°cos30° + cos60°sin30°"
-    ],
-    "answer": 0,
-    "explanation_zh": "cos(A+B) = cosA·cosB - sinA·sinB",
-    "explanation_en": "cos(A+B) = cosA·cosB - sinA·sinB",
-    "topic_zh": "三角恆等式",
-    "topic_en": "Trigonometric Identities",
-    "subtopic_zh": "和角公式",
-    "subtopic_en": "Addition Formulae",
-    "difficulty": 2,
-    "form": 6,
-    "id": 12
-  },
-  {
     "question_zh": "cos(45°+45°) 展開後等於：",
     "question_en": "Expand cos(45°+45°):",
     "options_zh": [
@@ -336,32 +180,6 @@
     "difficulty": 2,
     "form": 6,
     "id": 13
-  },
-  {
-    "question_zh": "cos(60°+30°) 展開後等於：",
-    "question_en": "Expand cos(60°+30°):",
-    "options_zh": [
-      "sin60°cos30° + cos60°sin30°",
-      "sin60°cos30° - cos60°sin30°",
-      "cos60°cos30° - sin60°sin30°",
-      "cos60°cos30° + sin60°sin30°"
-    ],
-    "options_en": [
-      "sin60°cos30° + cos60°sin30°",
-      "sin60°cos30° - cos60°sin30°",
-      "cos60°cos30° - sin60°sin30°",
-      "cos60°cos30° + sin60°sin30°"
-    ],
-    "answer": 2,
-    "explanation_zh": "cos(A+B) = cosA·cosB - sinA·sinB",
-    "explanation_en": "cos(A+B) = cosA·cosB - sinA·sinB",
-    "topic_zh": "三角恆等式",
-    "topic_en": "Trigonometric Identities",
-    "subtopic_zh": "和角公式",
-    "subtopic_en": "Addition Formulae",
-    "difficulty": 2,
-    "form": 6,
-    "id": 14
   },
   {
     "question_zh": "cos(30°+60°) 展開後等於：",
@@ -414,110 +232,6 @@
     "difficulty": 2,
     "form": 6,
     "id": 16
-  },
-  {
-    "question_zh": "cos(45°+45°) 展開後等於：",
-    "question_en": "Expand cos(45°+45°):",
-    "options_zh": [
-      "cos45°cos45° + sin45°sin45°",
-      "cos45°cos45° - sin45°sin45°",
-      "sin45°cos45° - cos45°sin45°",
-      "sin45°cos45° + cos45°sin45°"
-    ],
-    "options_en": [
-      "cos45°cos45° + sin45°sin45°",
-      "cos45°cos45° - sin45°sin45°",
-      "sin45°cos45° - cos45°sin45°",
-      "sin45°cos45° + cos45°sin45°"
-    ],
-    "answer": 1,
-    "explanation_zh": "cos(A+B) = cosA·cosB - sinA·sinB",
-    "explanation_en": "cos(A+B) = cosA·cosB - sinA·sinB",
-    "topic_zh": "三角恆等式",
-    "topic_en": "Trigonometric Identities",
-    "subtopic_zh": "和角公式",
-    "subtopic_en": "Addition Formulae",
-    "difficulty": 2,
-    "form": 6,
-    "id": 17
-  },
-  {
-    "question_zh": "cos(45°+45°) 展開後等於：",
-    "question_en": "Expand cos(45°+45°):",
-    "options_zh": [
-      "sin45°cos45° + cos45°sin45°",
-      "cos45°cos45° + sin45°sin45°",
-      "cos45°cos45° - sin45°sin45°",
-      "sin45°cos45° - cos45°sin45°"
-    ],
-    "options_en": [
-      "sin45°cos45° + cos45°sin45°",
-      "cos45°cos45° + sin45°sin45°",
-      "cos45°cos45° - sin45°sin45°",
-      "sin45°cos45° - cos45°sin45°"
-    ],
-    "answer": 2,
-    "explanation_zh": "cos(A+B) = cosA·cosB - sinA·sinB",
-    "explanation_en": "cos(A+B) = cosA·cosB - sinA·sinB",
-    "topic_zh": "三角恆等式",
-    "topic_en": "Trigonometric Identities",
-    "subtopic_zh": "和角公式",
-    "subtopic_en": "Addition Formulae",
-    "difficulty": 2,
-    "form": 6,
-    "id": 18
-  },
-  {
-    "question_zh": "cos(30°+30°) 展開後等於：",
-    "question_en": "Expand cos(30°+30°):",
-    "options_zh": [
-      "cos30°cos30° + sin30°sin30°",
-      "sin30°cos30° + cos30°sin30°",
-      "sin30°cos30° - cos30°sin30°",
-      "cos30°cos30° - sin30°sin30°"
-    ],
-    "options_en": [
-      "cos30°cos30° + sin30°sin30°",
-      "sin30°cos30° + cos30°sin30°",
-      "sin30°cos30° - cos30°sin30°",
-      "cos30°cos30° - sin30°sin30°"
-    ],
-    "answer": 3,
-    "explanation_zh": "cos(A+B) = cosA·cosB - sinA·sinB",
-    "explanation_en": "cos(A+B) = cosA·cosB - sinA·sinB",
-    "topic_zh": "三角恆等式",
-    "topic_en": "Trigonometric Identities",
-    "subtopic_zh": "和角公式",
-    "subtopic_en": "Addition Formulae",
-    "difficulty": 2,
-    "form": 6,
-    "id": 19
-  },
-  {
-    "question_zh": "cos(30°+30°) 展開後等於：",
-    "question_en": "Expand cos(30°+30°):",
-    "options_zh": [
-      "sin30°cos30° - cos30°sin30°",
-      "cos30°cos30° + sin30°sin30°",
-      "cos30°cos30° - sin30°sin30°",
-      "sin30°cos30° + cos30°sin30°"
-    ],
-    "options_en": [
-      "sin30°cos30° - cos30°sin30°",
-      "cos30°cos30° + sin30°sin30°",
-      "cos30°cos30° - sin30°sin30°",
-      "sin30°cos30° + cos30°sin30°"
-    ],
-    "answer": 2,
-    "explanation_zh": "cos(A+B) = cosA·cosB - sinA·sinB",
-    "explanation_en": "cos(A+B) = cosA·cosB - sinA·sinB",
-    "topic_zh": "三角恆等式",
-    "topic_en": "Trigonometric Identities",
-    "subtopic_zh": "和角公式",
-    "subtopic_en": "Addition Formulae",
-    "difficulty": 2,
-    "form": 6,
-    "id": 20
   },
   {
     "question_zh": "sin 2A 的其中一個形式是：",

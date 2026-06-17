@@ -4,18 +4,18 @@
     "question_zh": "以下邊首係John Lennon嘅歌？",
     "question_en": "Which is a song by John Lennon?",
     "options_zh": [
-      "歌曲A",
-      "歌曲M",
+      "歌曲D",
       "歌曲F",
-      "歌曲D"
+      "歌曲M",
+      "歌曲A"
     ],
     "options_en": [
-      "歌曲A",
-      "歌曲M",
+      "歌曲D",
       "歌曲F",
-      "歌曲D"
+      "歌曲M",
+      "歌曲A"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "「歌曲A」係John Lennon嘅歌曲。",
     "explanation_en": "'歌曲A' is a song by John Lennon.",
     "difficulty": 1
@@ -25,18 +25,18 @@
     "question_zh": "《專輯A》係John Lennon喺邊年推出嘅專輯？",
     "question_en": "What year was '專輯A' by John Lennon released?",
     "options_zh": [
-      "2023",
-      "2003",
       "1999",
-      "2018"
+      "2023",
+      "2018",
+      "2003"
     ],
     "options_en": [
-      "2023",
-      "2003",
       "1999",
-      "2018"
+      "2023",
+      "2018",
+      "2003"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "《專輯A》喺2018年推出。",
     "explanation_en": "'專輯A' was released in 2018.",
     "difficulty": 2
@@ -46,18 +46,18 @@
     "question_zh": "《專輯B》係John Lennon喺邊年推出嘅專輯？",
     "question_en": "What year was '專輯B' by John Lennon released?",
     "options_zh": [
+      "2015",
       "2010",
       "1999",
-      "2003",
-      "2015"
+      "2003"
     ],
     "options_en": [
+      "2015",
       "2010",
       "1999",
-      "2003",
-      "2015"
+      "2003"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "《專輯B》喺2003年推出。",
     "explanation_en": "'專輯B' was released in 2003.",
     "difficulty": 2
@@ -68,17 +68,17 @@
     "question_en": "What year was '專輯C' by John Lennon released?",
     "options_zh": [
       "2003",
-      "2015",
       "2023",
-      "1999"
+      "1999",
+      "2015"
     ],
     "options_en": [
       "2003",
-      "2015",
       "2023",
-      "1999"
+      "1999",
+      "2015"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "《專輯C》喺1999年推出。",
     "explanation_en": "'專輯C' was released in 1999.",
     "difficulty": 2
@@ -88,18 +88,18 @@
     "question_zh": "《專輯D》係John Lennon喺邊年推出嘅專輯？",
     "question_en": "What year was '專輯D' by John Lennon released?",
     "options_zh": [
-      "2020",
+      "2023",
       "2010",
-      "2018",
-      "2023"
+      "2020",
+      "2018"
     ],
     "options_en": [
-      "2020",
+      "2023",
       "2010",
-      "2018",
-      "2023"
+      "2020",
+      "2018"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "《專輯D》喺2020年推出。",
     "explanation_en": "'專輯D' was released in 2020.",
     "difficulty": 2
@@ -109,18 +109,18 @@
     "question_zh": "《專輯E》係John Lennon喺邊年推出嘅專輯？",
     "question_en": "What year was '專輯E' by John Lennon released?",
     "options_zh": [
-      "2003",
-      "2018",
+      "1999",
       "2023",
-      "1999"
+      "2018",
+      "2003"
     ],
     "options_en": [
-      "2003",
-      "2018",
+      "1999",
       "2023",
-      "1999"
+      "2018",
+      "2003"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "《專輯E》喺2023年推出。",
     "explanation_en": "'專輯E' was released in 2023.",
     "difficulty": 2
@@ -131,14 +131,14 @@
     "question_en": "When did John Lennon approximately debut?",
     "options_zh": [
       "2000",
-      "1985",
       "2005",
+      "1985",
       "2015"
     ],
     "options_en": [
       "2000",
-      "1985",
       "2005",
+      "1985",
       "2015"
     ],
     "answer": 0,
@@ -172,18 +172,18 @@
     "question_zh": "John Lennon主要唱咩類型嘅音樂？",
     "question_en": "What genre does John Lennon mainly sing?",
     "options_zh": [
+      "流行曲",
       "嘻哈",
       "電子",
-      "R&B",
-      "流行曲"
+      "R&B"
     ],
     "options_en": [
+      "流行曲",
       "嘻哈",
       "電子",
-      "R&B",
-      "流行曲"
+      "R&B"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "John Lennon主要唱流行曲。",
     "explanation_en": "John Lennon mainly sings 流行曲.",
     "difficulty": 2
@@ -194,17 +194,17 @@
     "question_en": "Which label is John Lennon signed to?",
     "options_zh": [
       "新藝寶",
-      "索尼",
       "唱片公司",
-      "寰亞"
+      "寰亞",
+      "索尼"
     ],
     "options_en": [
       "新藝寶",
-      "索尼",
       "唱片公司",
-      "寰亞"
+      "寰亞",
+      "索尼"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "John Lennon係唱片公司旗下歌手。",
     "explanation_en": "John Lennon is signed to 唱片公司.",
     "difficulty": 2
@@ -214,18 +214,18 @@
     "question_zh": "以下邊項關於John Lennon嘅描述係正確？",
     "question_en": "Which description of John Lennon is correct?",
     "options_zh": [
-      "來自western",
-      "來自外太空",
+      "唔存在",
       "係AI歌手",
-      "唔存在"
+      "來自western",
+      "來自外太空"
     ],
     "options_en": [
-      "From western",
-      "From outer space",
+      "Doesn't exist",
       "AI singer",
-      "Doesn't exist"
+      "From western",
+      "From outer space"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "John Lennon來自western。",
     "explanation_en": "John Lennon is from western.",
     "difficulty": 1
@@ -235,18 +235,18 @@
     "question_zh": "以下邊個獎項John Lennon曾經獲得？",
     "question_en": "Which award has John Lennon won?",
     "options_zh": [
-      "音樂獎項",
-      "奧斯卡最佳男主角",
       "諾貝爾文學獎",
-      "世界盃金靴獎"
+      "奧斯卡最佳男主角",
+      "世界盃金靴獎",
+      "音樂獎項"
     ],
     "options_en": [
-      "音樂獎項",
-      "Oscar Best Actor",
       "Nobel Literature Prize",
-      "World Cup Golden Boot"
+      "Oscar Best Actor",
+      "World Cup Golden Boot",
+      "音樂獎項"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "John Lennon曾獲得音樂獎項。",
     "explanation_en": "John Lennon has won 音樂獎項.",
     "difficulty": 3
@@ -277,18 +277,18 @@
     "question_zh": "《歌曲B》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲B'?",
     "options_zh": [
-      "John Lennon",
-      "其他歌手A",
       "其他歌手B",
-      "其他歌手C"
+      "其他歌手A",
+      "其他歌手C",
+      "John Lennon"
     ],
     "options_en": [
-      "John Lennon",
-      "Other Artist A",
       "Other Artist B",
-      "Other Artist C"
+      "Other Artist A",
+      "Other Artist C",
+      "John Lennon"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "《歌曲B》係John Lennon嘅歌。",
     "explanation_en": "'歌曲B' is by John Lennon.",
     "difficulty": 3
@@ -299,15 +299,15 @@
     "question_en": "Who sings '歌曲C'?",
     "options_zh": [
       "John Lennon",
-      "其他歌手A",
+      "其他歌手C",
       "其他歌手B",
-      "其他歌手C"
+      "其他歌手A"
     ],
     "options_en": [
       "John Lennon",
-      "Other Artist A",
+      "Other Artist C",
       "Other Artist B",
-      "Other Artist C"
+      "Other Artist A"
     ],
     "answer": 0,
     "explanation_zh": "《歌曲C》係John Lennon嘅歌。",
@@ -319,18 +319,18 @@
     "question_zh": "《歌曲D》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲D'?",
     "options_zh": [
-      "John Lennon",
       "其他歌手A",
       "其他歌手B",
-      "其他歌手C"
+      "其他歌手C",
+      "John Lennon"
     ],
     "options_en": [
-      "John Lennon",
       "Other Artist A",
       "Other Artist B",
-      "Other Artist C"
+      "Other Artist C",
+      "John Lennon"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "《歌曲D》係John Lennon嘅歌。",
     "explanation_en": "'歌曲D' is by John Lennon.",
     "difficulty": 3
@@ -340,18 +340,18 @@
     "question_zh": "《歌曲E》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲E'?",
     "options_zh": [
-      "John Lennon",
-      "其他歌手A",
+      "其他歌手C",
       "其他歌手B",
-      "其他歌手C"
+      "John Lennon",
+      "其他歌手A"
     ],
     "options_en": [
-      "John Lennon",
-      "Other Artist A",
+      "Other Artist C",
       "Other Artist B",
-      "Other Artist C"
+      "John Lennon",
+      "Other Artist A"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "《歌曲E》係John Lennon嘅歌。",
     "explanation_en": "'歌曲E' is by John Lennon.",
     "difficulty": 3
@@ -361,18 +361,18 @@
     "question_zh": "《歌曲F》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲F'?",
     "options_zh": [
-      "John Lennon",
-      "其他歌手A",
       "其他歌手B",
-      "其他歌手C"
+      "其他歌手A",
+      "其他歌手C",
+      "John Lennon"
     ],
     "options_en": [
-      "John Lennon",
-      "Other Artist A",
       "Other Artist B",
-      "Other Artist C"
+      "Other Artist A",
+      "Other Artist C",
+      "John Lennon"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "《歌曲F》係John Lennon嘅歌。",
     "explanation_en": "'歌曲F' is by John Lennon.",
     "difficulty": 3
@@ -382,18 +382,18 @@
     "question_zh": "《歌曲G》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲G'?",
     "options_zh": [
-      "John Lennon",
       "其他歌手A",
       "其他歌手B",
+      "John Lennon",
       "其他歌手C"
     ],
     "options_en": [
-      "John Lennon",
       "Other Artist A",
       "Other Artist B",
+      "John Lennon",
       "Other Artist C"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "《歌曲G》係John Lennon嘅歌。",
     "explanation_en": "'歌曲G' is by John Lennon.",
     "difficulty": 3
@@ -403,18 +403,18 @@
     "question_zh": "《歌曲H》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲H'?",
     "options_zh": [
-      "John Lennon",
       "其他歌手A",
       "其他歌手B",
+      "John Lennon",
       "其他歌手C"
     ],
     "options_en": [
-      "John Lennon",
       "Other Artist A",
       "Other Artist B",
+      "John Lennon",
       "Other Artist C"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "《歌曲H》係John Lennon嘅歌。",
     "explanation_en": "'歌曲H' is by John Lennon.",
     "difficulty": 3
@@ -424,18 +424,18 @@
     "question_zh": "《歌曲I》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲I'?",
     "options_zh": [
-      "John Lennon",
       "其他歌手A",
+      "其他歌手C",
       "其他歌手B",
-      "其他歌手C"
+      "John Lennon"
     ],
     "options_en": [
-      "John Lennon",
       "Other Artist A",
+      "Other Artist C",
       "Other Artist B",
-      "Other Artist C"
+      "John Lennon"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "《歌曲I》係John Lennon嘅歌。",
     "explanation_en": "'歌曲I' is by John Lennon.",
     "difficulty": 3
@@ -445,18 +445,18 @@
     "question_zh": "《歌曲J》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲J'?",
     "options_zh": [
-      "John Lennon",
       "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
+      "John Lennon",
+      "其他歌手C",
+      "其他歌手B"
     ],
     "options_en": [
-      "John Lennon",
       "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
+      "John Lennon",
+      "Other Artist C",
+      "Other Artist B"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "《歌曲J》係John Lennon嘅歌。",
     "explanation_en": "'歌曲J' is by John Lennon.",
     "difficulty": 3
@@ -466,18 +466,18 @@
     "question_zh": "「John Lennon嘅歌」屬於咩類型？",
     "question_en": "What genre is 'John Lennon'?",
     "options_zh": [
-      "類型A",
       "類型B",
+      "類型A",
       "類型C",
       "類型D"
     ],
     "options_en": [
-      "類型A",
       "類型B",
+      "類型A",
       "類型C",
       "類型D"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係類型A。",
     "explanation_en": "Correct answer: 類型A.",
     "difficulty": 1
@@ -487,18 +487,18 @@
     "question_zh": "「John Lennon嘅歌」喺邊年開始？",
     "question_en": "When did 'John Lennon' start?",
     "options_zh": [
-      "2000",
       "2005",
       "2010",
-      "2015"
+      "2015",
+      "2000"
     ],
     "options_en": [
-      "2000",
       "2005",
       "2010",
-      "2015"
+      "2015",
+      "2000"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係2000。",
     "explanation_en": "Correct answer: 2000.",
     "difficulty": 1
@@ -508,18 +508,18 @@
     "question_zh": "「John Lennon嘅歌」來自邊個國家/地區？",
     "question_en": "Where is 'John Lennon' from?",
     "options_zh": [
-      "香港",
+      "韓國",
       "台灣",
-      "日本",
-      "韓國"
+      "香港",
+      "日本"
     ],
     "options_en": [
-      "香港",
+      "韓國",
       "台灣",
-      "日本",
-      "韓國"
+      "香港",
+      "日本"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係香港。",
     "explanation_en": "Correct answer: 香港.",
     "difficulty": 1
@@ -529,18 +529,18 @@
     "question_zh": "「John Lennon嘅歌」最出名嘅作品係？",
     "question_en": "What's 'John Lennon' most famous work?",
     "options_zh": [
-      "作品A",
       "作品B",
-      "作品C",
-      "作品D"
+      "作品A",
+      "作品D",
+      "作品C"
     ],
     "options_en": [
-      "作品A",
       "作品B",
-      "作品C",
-      "作品D"
+      "作品A",
+      "作品D",
+      "作品C"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係作品A。",
     "explanation_en": "Correct answer: 作品A.",
     "difficulty": 1
@@ -550,18 +550,18 @@
     "question_zh": "「John Lennon嘅歌」嘅風格特點係？",
     "question_en": "What's 'John Lennon' style?",
     "options_zh": [
-      "風格A",
       "風格B",
-      "風格C",
-      "風格D"
+      "風格D",
+      "風格A",
+      "風格C"
     ],
     "options_en": [
-      "風格A",
       "風格B",
-      "風格C",
-      "風格D"
+      "風格D",
+      "風格A",
+      "風格C"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係風格A。",
     "explanation_en": "Correct answer: 風格A.",
     "difficulty": 1
@@ -571,18 +571,18 @@
     "question_zh": "「John Lennon嘅歌」同邊位合作過？",
     "question_en": "Who collaborated with 'John Lennon'?",
     "options_zh": [
-      "合作A",
+      "合作D",
       "合作B",
       "合作C",
-      "合作D"
+      "合作A"
     ],
     "options_en": [
-      "合作A",
+      "合作D",
       "合作B",
       "合作C",
-      "合作D"
+      "合作A"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係合作A。",
     "explanation_en": "Correct answer: 合作A.",
     "difficulty": 1
@@ -593,15 +593,15 @@
     "question_en": "What are 'John Lennon' fans called?",
     "options_zh": [
       "粉絲名A",
-      "粉絲名B",
+      "粉絲名D",
       "粉絲名C",
-      "粉絲名D"
+      "粉絲名B"
     ],
     "options_en": [
       "粉絲名A",
-      "粉絲名B",
+      "粉絲名D",
       "粉絲名C",
-      "粉絲名D"
+      "粉絲名B"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係粉絲名A。",
@@ -613,18 +613,18 @@
     "question_zh": "「John Lennon嘅歌」喺邊個平台最活躍？",
     "question_en": "Which platform is 'John Lennon' most active on?",
     "options_zh": [
+      "TikTok",
       "YouTube",
-      "Instagram",
       "Twitter",
-      "TikTok"
+      "Instagram"
     ],
     "options_en": [
+      "TikTok",
       "YouTube",
-      "Instagram",
       "Twitter",
-      "TikTok"
+      "Instagram"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係YouTube。",
     "explanation_en": "Correct answer: YouTube.",
     "difficulty": 1
@@ -655,18 +655,18 @@
     "question_zh": "「John Lennon嘅歌」有冇拎過獎？",
     "question_en": "Did 'John Lennon' win awards?",
     "options_zh": [
-      "有",
       "冇",
-      "提名過",
-      "唔清楚"
+      "有",
+      "唔清楚",
+      "提名過"
     ],
     "options_en": [
-      "有",
       "冇",
-      "提名過",
-      "唔清楚"
+      "有",
+      "唔清楚",
+      "提名過"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係有。",
     "explanation_en": "Correct answer: 有.",
     "difficulty": 2
@@ -698,14 +698,14 @@
     "question_en": "What's 'John Lennon' representative color?",
     "options_zh": [
       "紅色",
-      "藍色",
       "綠色",
+      "藍色",
       "紫色"
     ],
     "options_en": [
       "紅色",
-      "藍色",
       "綠色",
+      "藍色",
       "紫色"
     ],
     "answer": 0,
@@ -718,18 +718,18 @@
     "question_zh": "「John Lennon嘅歌」嘅口頭禪係？",
     "question_en": "What's 'John Lennon' catchphrase?",
     "options_zh": [
-      "口頭禪A",
-      "口頭禪B",
+      "口頭禪D",
       "口頭禪C",
-      "口頭禪D"
+      "口頭禪B",
+      "口頭禪A"
     ],
     "options_en": [
-      "口頭禪A",
-      "口頭禪B",
+      "口頭禪D",
       "口頭禪C",
-      "口頭禪D"
+      "口頭禪B",
+      "口頭禪A"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係口頭禪A。",
     "explanation_en": "Correct answer: 口頭禪A.",
     "difficulty": 2
@@ -741,14 +741,14 @@
     "options_zh": [
       "170cm",
       "175cm",
-      "180cm",
-      "185cm"
+      "185cm",
+      "180cm"
     ],
     "options_en": [
       "170cm",
       "175cm",
-      "180cm",
-      "185cm"
+      "185cm",
+      "180cm"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係170cm。",
@@ -761,15 +761,15 @@
     "question_en": "When is 'John Lennon' birthday?",
     "options_zh": [
       "1月",
-      "4月",
+      "10月",
       "7月",
-      "10月"
+      "4月"
     ],
     "options_en": [
       "1月",
-      "4月",
+      "10月",
       "7月",
-      "10月"
+      "4月"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係1月。",
@@ -781,18 +781,18 @@
     "question_zh": "「John Lennon嘅歌」嘅經紀公司係？",
     "question_en": "What agency is 'John Lennon' with?",
     "options_zh": [
-      "公司A",
       "公司B",
-      "公司C",
-      "公司D"
+      "公司D",
+      "公司A",
+      "公司C"
     ],
     "options_en": [
-      "公司A",
       "公司B",
-      "公司C",
-      "公司D"
+      "公司D",
+      "公司A",
+      "公司C"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係公司A。",
     "explanation_en": "Correct answer: 公司A.",
     "difficulty": 2
@@ -802,18 +802,18 @@
     "question_zh": "「John Lennon嘅歌」嘅座右銘係？",
     "question_en": "What's 'John Lennon' motto?",
     "options_zh": [
-      "座右銘A",
+      "座右銘D",
       "座右銘B",
-      "座右銘C",
-      "座右銘D"
+      "座右銘A",
+      "座右銘C"
     ],
     "options_en": [
-      "座右銘A",
+      "座右銘D",
       "座右銘B",
-      "座右銘C",
-      "座右銘D"
+      "座右銘A",
+      "座右銘C"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係座右銘A。",
     "explanation_en": "Correct answer: 座右銘A.",
     "difficulty": 2
@@ -824,15 +824,15 @@
     "question_en": "What's 'John Lennon' education?",
     "options_zh": [
       "大學畢業",
-      "高中畢業",
+      "海外留學",
       "自學成才",
-      "海外留學"
+      "高中畢業"
     ],
     "options_en": [
       "大學畢業",
-      "高中畢業",
+      "海外留學",
       "自學成才",
-      "海外留學"
+      "高中畢業"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係大學畢業。",
@@ -844,18 +844,18 @@
     "question_zh": "「John Lennon嘅歌」嘅家庭背景係？",
     "question_en": "What's 'John Lennon' family background?",
     "options_zh": [
-      "普通家庭",
-      "演藝世家",
       "商界家庭",
+      "演藝世家",
+      "普通家庭",
       "學術家庭"
     ],
     "options_en": [
-      "普通家庭",
-      "演藝世家",
       "商界家庭",
+      "演藝世家",
+      "普通家庭",
       "學術家庭"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係普通家庭。",
     "explanation_en": "Correct answer: 普通家庭.",
     "difficulty": 3
@@ -865,18 +865,18 @@
     "question_zh": "「John Lennon嘅歌」嘅興趣愛好係？",
     "question_en": "What's 'John Lennon' hobby?",
     "options_zh": [
-      "運動",
       "閱讀",
-      "旅行",
-      "攝影"
+      "運動",
+      "攝影",
+      "旅行"
     ],
     "options_en": [
-      "運動",
       "閱讀",
-      "旅行",
-      "攝影"
+      "運動",
+      "攝影",
+      "旅行"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係運動。",
     "explanation_en": "Correct answer: 運動.",
     "difficulty": 3
@@ -886,18 +886,18 @@
     "question_zh": "「John Lennon嘅歌」嘅社交媒體粉絲數？",
     "question_en": "How many social media followers for 'John Lennon'?",
     "options_zh": [
-      "100萬以下",
-      "100-500萬",
+      "1000萬以上",
       "500-1000萬",
-      "1000萬以上"
+      "100萬以下",
+      "100-500萬"
     ],
     "options_en": [
-      "100萬以下",
-      "100-500萬",
+      "1000萬以上",
       "500-1000萬",
-      "1000萬以上"
+      "100萬以下",
+      "100-500萬"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係100萬以下。",
     "explanation_en": "Correct answer: 100萬以下.",
     "difficulty": 3
@@ -907,18 +907,18 @@
     "question_zh": "「John Lennon嘅歌」嘅演唱會/展覽次數？",
     "question_en": "How many concerts/exhibitions for 'John Lennon'?",
     "options_zh": [
-      "10場以下",
+      "100場以上",
       "10-50場",
       "50-100場",
-      "100場以上"
+      "10場以下"
     ],
     "options_en": [
-      "10場以下",
+      "100場以上",
       "10-50場",
       "50-100場",
-      "100場以上"
+      "10場以下"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係10場以下。",
     "explanation_en": "Correct answer: 10場以下.",
     "difficulty": 3
@@ -950,14 +950,14 @@
     "question_en": "What's 'John Lennon' creative style?",
     "options_zh": [
       "傳統",
-      "現代",
       "實驗",
+      "現代",
       "融合"
     ],
     "options_en": [
       "傳統",
-      "現代",
       "實驗",
+      "現代",
       "融合"
     ],
     "answer": 0,
@@ -971,15 +971,15 @@
     "question_en": "What's 'John Lennon' influence scope?",
     "options_zh": [
       "本地",
+      "網絡",
       "亞洲",
-      "全球",
-      "網絡"
+      "全球"
     ],
     "options_en": [
       "本地",
+      "網絡",
       "亞洲",
-      "全球",
-      "網絡"
+      "全球"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係本地。",

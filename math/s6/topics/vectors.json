@@ -9,18 +9,18 @@
     "question_zh": "a=(5,3), b=(-3,4), find a·b",
     "question_en": "a=(5,3), b=(-3,4), find a·b",
     "options_zh": [
-      "-3",
-      "-2",
       "3",
-      "11"
+      "11",
+      "-3",
+      "-2"
     ],
     "options_en": [
-      "-3",
-      "-2",
       "3",
-      "11"
+      "11",
+      "-3",
+      "-2"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 5 \\times -3 + 3 \\times 4 = -15 + 12 = -3$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 5 \\times -3 + 3 \\times 4 = -15 + 12 = -3$",
     "difficulty": 2,
@@ -37,18 +37,18 @@
     "question_zh": "求向量 (3,4) 的模",
     "question_en": "Find |(3,4)|",
     "options_zh": [
-      "5",
-      "7",
+      "6",
       "12",
-      "6"
+      "5",
+      "7"
     ],
     "options_en": [
-      "5",
-      "7",
+      "6",
       "12",
-      "6"
+      "5",
+      "7"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$",
     "explanation_en": "$|\\vec{a}| = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$",
     "difficulty": 3,
@@ -65,18 +65,18 @@
     "question_zh": "a=(1,0), b=(-2,-3), find a·b",
     "question_en": "a=(1,0), b=(-2,-3), find a·b",
     "options_zh": [
-      "-2",
-      "-1",
       "2",
-      "-3"
+      "-2",
+      "-3",
+      "-1"
     ],
     "options_en": [
-      "-2",
-      "-1",
       "2",
-      "-3"
+      "-2",
+      "-3",
+      "-1"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 1 \\times -2 + 0 \\times -3 = -2 + 0 = -2$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 1 \\times -2 + 0 \\times -3 = -2 + 0 = -2$",
     "difficulty": 2,
@@ -93,18 +93,18 @@
     "question_zh": "a=(-1,-1), b=(-3,2), 求 a+b",
     "question_en": "a=(-1,-1), b=(-3,2), find a+b",
     "options_zh": [
-      "(-4,1)",
       "(2,-3)",
+      "(-2,3)",
       "(3,-2)",
-      "(-2,3)"
+      "(-4,1)"
     ],
     "options_en": [
-      "(-4,1)",
       "(2,-3)",
+      "(-2,3)",
       "(3,-2)",
-      "(-2,3)"
+      "(-4,1)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-1+-3, -1+2) = (-4,1)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-1+-3, -1+2) = (-4,1)$",
     "difficulty": 3,
@@ -121,18 +121,18 @@
     "question_zh": "a=(-3,4), find 3a",
     "question_en": "a=(-3,4), find 3a",
     "options_zh": [
-      "(-9,12)",
-      "(0,7)",
+      "(-6,15)",
       "(-3,4)",
-      "(-6,15)"
+      "(0,7)",
+      "(-9,12)"
     ],
     "options_en": [
-      "(-9,12)",
-      "(0,7)",
+      "(-6,15)",
       "(-3,4)",
-      "(-6,15)"
+      "(0,7)",
+      "(-9,12)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$3\\vec{a} = 3(-3,4) = (3 \\times -3, 3 \\times 4) = (-9,12)$",
     "explanation_en": "$3\\vec{a} = 3(-3,4) = (3 \\times -3, 3 \\times 4) = (-9,12)$",
     "difficulty": 1,
@@ -149,18 +149,18 @@
     "question_zh": "a=(-4,-5), b=(-2,4), 求 a+b",
     "question_en": "a=(-4,-5), b=(-2,4), find a+b",
     "options_zh": [
-      "(-6,-1)",
-      "(-2,-9)",
       "(8,-20)",
-      "(2,9)"
+      "(-2,-9)",
+      "(2,9)",
+      "(-6,-1)"
     ],
     "options_en": [
-      "(-6,-1)",
-      "(-2,-9)",
       "(8,-20)",
-      "(2,9)"
+      "(-2,-9)",
+      "(2,9)",
+      "(-6,-1)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-4+-2, -5+4) = (-6,-1)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-4+-2, -5+4) = (-6,-1)$",
     "difficulty": 3,
@@ -177,18 +177,18 @@
     "question_zh": "a=(4,5), b=(-1,0), find a·b",
     "question_en": "a=(4,5), b=(-1,0), find a·b",
     "options_zh": [
-      "-4",
       "-3",
-      "4",
-      "-5"
+      "-4",
+      "-5",
+      "4"
     ],
     "options_en": [
-      "-4",
       "-3",
-      "4",
-      "-5"
+      "-4",
+      "-5",
+      "4"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 4 \\times -1 + 5 \\times 0 = -4 + 0 = -4$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 4 \\times -1 + 5 \\times 0 = -4 + 0 = -4$",
     "difficulty": 1,
@@ -205,18 +205,18 @@
     "question_zh": "a=(-1,-1), b=(3,3), 求 a+b",
     "question_en": "a=(-1,-1), b=(3,3), find a+b",
     "options_zh": [
-      "(2,2)",
+      "(4,4)",
       "(-4,-4)",
       "(-3,-3)",
-      "(4,4)"
+      "(2,2)"
     ],
     "options_en": [
-      "(2,2)",
+      "(4,4)",
       "(-4,-4)",
       "(-3,-3)",
-      "(4,4)"
+      "(2,2)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-1+3, -1+3) = (2,2)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-1+3, -1+3) = (2,2)$",
     "difficulty": 2,
@@ -233,18 +233,18 @@
     "question_zh": "a=(-1,-2), b=(0,-2), 求 a+b",
     "question_en": "a=(-1,-2), b=(0,-2), find a+b",
     "options_zh": [
-      "(-1,-4)",
       "(-1,0)",
       "(0,4)",
-      "(1,0)"
+      "(1,0)",
+      "(-1,-4)"
     ],
     "options_en": [
-      "(-1,-4)",
       "(-1,0)",
       "(0,4)",
-      "(1,0)"
+      "(1,0)",
+      "(-1,-4)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-1+0, -2+-2) = (-1,-4)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-1+0, -2+-2) = (-1,-4)$",
     "difficulty": 2,
@@ -261,18 +261,18 @@
     "question_zh": "a=(-4,4), b=(-3,4), 求 a+b",
     "question_en": "a=(-4,4), b=(-3,4), find a+b",
     "options_zh": [
-      "(-7,8)",
-      "(-1,0)",
       "(12,16)",
-      "(1,0)"
+      "(-1,0)",
+      "(1,0)",
+      "(-7,8)"
     ],
     "options_en": [
-      "(-7,8)",
-      "(-1,0)",
       "(12,16)",
-      "(1,0)"
+      "(-1,0)",
+      "(1,0)",
+      "(-7,8)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-4+-3, 4+4) = (-7,8)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-4+-3, 4+4) = (-7,8)$",
     "difficulty": 3,
@@ -289,18 +289,18 @@
     "question_zh": "a=(3,-1), find 2a",
     "question_en": "a=(3,-1), find 2a",
     "options_zh": [
-      "(6,-2)",
       "(5,1)",
+      "(6,-2)",
       "(3,-1)",
       "(8,0)"
     ],
     "options_en": [
-      "(6,-2)",
       "(5,1)",
+      "(6,-2)",
       "(3,-1)",
       "(8,0)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$2\\vec{a} = 2(3,-1) = (2 \\times 3, 2 \\times -1) = (6,-2)$",
     "explanation_en": "$2\\vec{a} = 2(3,-1) = (2 \\times 3, 2 \\times -1) = (6,-2)$",
     "difficulty": 1,
@@ -317,18 +317,18 @@
     "question_zh": "a=(5,-5), b=(2,-3), find a·b",
     "question_en": "a=(5,-5), b=(2,-3), find a·b",
     "options_zh": [
-      "25",
-      "26",
       "25 (alt)",
+      "26",
+      "25",
       "-25"
     ],
     "options_en": [
-      "25",
-      "26",
       "25 (alt)",
+      "26",
+      "25",
       "-25"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 5 \\times 2 + -5 \\times -3 = 10 + 15 = 25$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 5 \\times 2 + -5 \\times -3 = 10 + 15 = 25$",
     "difficulty": 2,
@@ -345,18 +345,18 @@
     "question_zh": "a=(4,0), b=(3,-2), find a·b",
     "question_en": "a=(4,0), b=(3,-2), find a·b",
     "options_zh": [
-      "12",
       "13",
+      "-8",
       "12 (alt)",
-      "-8"
+      "12"
     ],
     "options_en": [
-      "12",
       "13",
+      "-8",
       "12 (alt)",
-      "-8"
+      "12"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 4 \\times 3 + 0 \\times -2 = 12 + 0 = 12$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 4 \\times 3 + 0 \\times -2 = 12 + 0 = 12$",
     "difficulty": 1,
@@ -373,18 +373,18 @@
     "question_zh": "a=(5,3), b=(1,-2), 求 a+b",
     "question_en": "a=(5,3), b=(1,-2), find a+b",
     "options_zh": [
-      "(6,1)",
+      "(-4,-5)",
       "(4,5)",
-      "(5,-6)",
-      "(-4,-5)"
+      "(6,1)",
+      "(5,-6)"
     ],
     "options_en": [
-      "(6,1)",
+      "(-4,-5)",
       "(4,5)",
-      "(5,-6)",
-      "(-4,-5)"
+      "(6,1)",
+      "(5,-6)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (5+1, 3+-2) = (6,1)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (5+1, 3+-2) = (6,1)$",
     "difficulty": 2,
@@ -401,18 +401,18 @@
     "question_zh": "求向量 (-7,24) 的模",
     "question_en": "Find |(-7,24)|",
     "options_zh": [
-      "25",
       "31",
+      "25",
       "168",
       "26"
     ],
     "options_en": [
-      "25",
       "31",
+      "25",
       "168",
       "26"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{-7^2 + 24^2} = \\sqrt{49 + 576} = \\sqrt{625} = 25$",
     "explanation_en": "$|\\vec{a}| = \\sqrt{-7^2 + 24^2} = \\sqrt{49 + 576} = \\sqrt{625} = 25$",
     "difficulty": 2,
@@ -429,18 +429,18 @@
     "question_zh": "a=(-4,2), b=(4,4), 求 a+b",
     "question_en": "a=(-4,2), b=(4,4), find a+b",
     "options_zh": [
-      "(0,6)",
-      "(-8,-2)",
+      "(8,2)",
       "(-16,8)",
-      "(8,2)"
+      "(-8,-2)",
+      "(0,6)"
     ],
     "options_en": [
-      "(0,6)",
-      "(-8,-2)",
+      "(8,2)",
       "(-16,8)",
-      "(8,2)"
+      "(-8,-2)",
+      "(0,6)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-4+4, 2+4) = (0,6)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-4+4, 2+4) = (0,6)$",
     "difficulty": 1,
@@ -458,15 +458,15 @@
     "question_en": "a=(1,3), find 3a",
     "options_zh": [
       "(3,9)",
+      "(6,12)",
       "(4,6)",
-      "(1,3)",
-      "(6,12)"
+      "(1,3)"
     ],
     "options_en": [
       "(3,9)",
+      "(6,12)",
       "(4,6)",
-      "(1,3)",
-      "(6,12)"
+      "(1,3)"
     ],
     "answer": 0,
     "explanation_zh": "$3\\vec{a} = 3(1,3) = (3 \\times 1, 3 \\times 3) = (3,9)$",
@@ -485,18 +485,18 @@
     "question_zh": "a=(2,-5), b=(-2,3), find a·b",
     "question_en": "a=(2,-5), b=(-2,3), find a·b",
     "options_zh": [
-      "-19",
-      "-18",
       "19",
-      "16"
+      "16",
+      "-19",
+      "-18"
     ],
     "options_en": [
-      "-19",
-      "-18",
       "19",
-      "16"
+      "16",
+      "-19",
+      "-18"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 2 \\times -2 + -5 \\times 3 = -4 + -15 = -19$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 2 \\times -2 + -5 \\times 3 = -4 + -15 = -19$",
     "difficulty": 2,
@@ -514,15 +514,15 @@
     "question_en": "a=(0,-3), b=(-3,-1), find a·b",
     "options_zh": [
       "3",
-      "4",
       "3 (alt)",
-      "9"
+      "9",
+      "4"
     ],
     "options_en": [
       "3",
-      "4",
       "3 (alt)",
-      "9"
+      "9",
+      "4"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 0 \\times -3 + -3 \\times -1 = 0 + 3 = 3$",
@@ -541,18 +541,18 @@
     "question_zh": "a=(3,-3), b=(-2,0), find a·b",
     "question_en": "a=(3,-3), b=(-2,0), find a·b",
     "options_zh": [
+      "6",
       "-6",
       "-5",
-      "6",
       "6 (alt)"
     ],
     "options_en": [
+      "6",
       "-6",
       "-5",
-      "6",
       "6 (alt)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 3 \\times -2 + -3 \\times 0 = -6 + 0 = -6$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 3 \\times -2 + -3 \\times 0 = -6 + 0 = -6$",
     "difficulty": 3,
@@ -569,18 +569,18 @@
     "question_zh": "a=(3,-2), b=(1,5), find a·b",
     "question_en": "a=(3,-2), b=(1,5), find a·b",
     "options_zh": [
-      "-7",
       "-6",
+      "13",
       "7",
-      "13"
+      "-7"
     ],
     "options_en": [
-      "-7",
       "-6",
+      "13",
       "7",
-      "13"
+      "-7"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 3 \\times 1 + -2 \\times 5 = 3 + -10 = -7$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 3 \\times 1 + -2 \\times 5 = 3 + -10 = -7$",
     "difficulty": 3,
@@ -597,18 +597,18 @@
     "question_zh": "求向量 (-8,15) 的模",
     "question_en": "Find |(-8,15)|",
     "options_zh": [
-      "17",
       "23",
+      "18",
       "120",
-      "18"
+      "17"
     ],
     "options_en": [
-      "17",
       "23",
+      "18",
       "120",
-      "18"
+      "17"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{-8^2 + 15^2} = \\sqrt{64 + 225} = \\sqrt{289} = 17$",
     "explanation_en": "$|\\vec{a}| = \\sqrt{-8^2 + 15^2} = \\sqrt{64 + 225} = \\sqrt{289} = 17$",
     "difficulty": 3,
@@ -625,18 +625,18 @@
     "question_zh": "a=(3,-3), b=(4,-1), find a·b",
     "question_en": "a=(3,-3), b=(4,-1), find a·b",
     "options_zh": [
-      "15",
+      "-15",
       "16",
-      "15 (alt)",
-      "-15"
+      "15",
+      "15 (alt)"
     ],
     "options_en": [
-      "15",
+      "-15",
       "16",
-      "15 (alt)",
-      "-15"
+      "15",
+      "15 (alt)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 3 \\times 4 + -3 \\times -1 = 12 + 3 = 15$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 3 \\times 4 + -3 \\times -1 = 12 + 3 = 15$",
     "difficulty": 2,
@@ -654,14 +654,14 @@
     "question_en": "a=(3,-4), b=(-4,-2), find a·b",
     "options_zh": [
       "-4",
-      "-3",
       "4",
+      "-3",
       "10"
     ],
     "options_en": [
       "-4",
-      "-3",
       "4",
+      "-3",
       "10"
     ],
     "answer": 0,
@@ -681,18 +681,18 @@
     "question_zh": "a=(-2,4), find 5a",
     "question_en": "a=(-2,4), find 5a",
     "options_zh": [
-      "(-10,20)",
-      "(3,9)",
       "(-2,4)",
-      "(-5,25)"
+      "(3,9)",
+      "(-5,25)",
+      "(-10,20)"
     ],
     "options_en": [
-      "(-10,20)",
-      "(3,9)",
       "(-2,4)",
-      "(-5,25)"
+      "(3,9)",
+      "(-5,25)",
+      "(-10,20)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$5\\vec{a} = 5(-2,4) = (5 \\times -2, 5 \\times 4) = (-10,20)$",
     "explanation_en": "$5\\vec{a} = 5(-2,4) = (5 \\times -2, 5 \\times 4) = (-10,20)$",
     "difficulty": 3,
@@ -709,18 +709,18 @@
     "question_zh": "a=(0,-5), b=(-1,-1), find a·b",
     "question_en": "a=(0,-5), b=(-1,-1), find a·b",
     "options_zh": [
-      "5",
       "6",
+      "5 (alt) (alt)",
       "5 (alt)",
-      "5 (alt) (alt)"
+      "5"
     ],
     "options_en": [
-      "5",
       "6",
+      "5 (alt) (alt)",
       "5 (alt)",
-      "5 (alt) (alt)"
+      "5"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 0 \\times -1 + -5 \\times -1 = 0 + 5 = 5$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 0 \\times -1 + -5 \\times -1 = 0 + 5 = 5$",
     "difficulty": 1,
@@ -738,15 +738,15 @@
     "question_en": "a=(3,0), find 4a",
     "options_zh": [
       "(12,0)",
-      "(7,4)",
       "(3,0)",
-      "(16,4)"
+      "(16,4)",
+      "(7,4)"
     ],
     "options_en": [
       "(12,0)",
-      "(7,4)",
       "(3,0)",
-      "(16,4)"
+      "(16,4)",
+      "(7,4)"
     ],
     "answer": 0,
     "explanation_zh": "$4\\vec{a} = 4(3,0) = (4 \\times 3, 4 \\times 0) = (12,0)$",
@@ -765,18 +765,18 @@
     "question_zh": "a=(0,-1), find 2a",
     "question_en": "a=(0,-1), find 2a",
     "options_zh": [
-      "(0,-2)",
-      "(2,1)",
       "(0,-1)",
-      "(2,0)"
+      "(2,0)",
+      "(0,-2)",
+      "(2,1)"
     ],
     "options_en": [
-      "(0,-2)",
-      "(2,1)",
       "(0,-1)",
-      "(2,0)"
+      "(2,0)",
+      "(0,-2)",
+      "(2,1)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$2\\vec{a} = 2(0,-1) = (2 \\times 0, 2 \\times -1) = (0,-2)$",
     "explanation_en": "$2\\vec{a} = 2(0,-1) = (2 \\times 0, 2 \\times -1) = (0,-2)$",
     "difficulty": 1,
@@ -793,18 +793,18 @@
     "question_zh": "a=(4,4), find 2a",
     "question_en": "a=(4,4), find 2a",
     "options_zh": [
-      "(8,8)",
       "(6,6)",
       "(4,4)",
+      "(8,8)",
       "(10,10)"
     ],
     "options_en": [
-      "(8,8)",
       "(6,6)",
       "(4,4)",
+      "(8,8)",
       "(10,10)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$2\\vec{a} = 2(4,4) = (2 \\times 4, 2 \\times 4) = (8,8)$",
     "explanation_en": "$2\\vec{a} = 2(4,4) = (2 \\times 4, 2 \\times 4) = (8,8)$",
     "difficulty": 2,
@@ -821,18 +821,18 @@
     "question_zh": "a=(-4,4), b=(3,0), find a·b",
     "question_en": "a=(-4,4), b=(3,0), find a·b",
     "options_zh": [
+      "12 (alt)",
       "-12",
       "-11",
-      "12",
-      "12 (alt)"
+      "12"
     ],
     "options_en": [
+      "12 (alt)",
       "-12",
       "-11",
-      "12",
-      "12 (alt)"
+      "12"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -4 \\times 3 + 4 \\times 0 = -12 + 0 = -12$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -4 \\times 3 + 4 \\times 0 = -12 + 0 = -12$",
     "difficulty": 2,
@@ -851,14 +851,14 @@
     "options_zh": [
       "-6",
       "-5",
-      "6",
-      "-10"
+      "-10",
+      "6"
     ],
     "options_en": [
       "-6",
       "-5",
-      "6",
-      "-10"
+      "-10",
+      "6"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -1 \\times 3 + -3 \\times 1 = -3 + -3 = -6$",
@@ -878,14 +878,14 @@
     "question_en": "a=(-2,4), find 2a",
     "options_zh": [
       "(-4,8)",
-      "(0,6)",
       "(-2,4)",
+      "(0,6)",
       "(-2,10)"
     ],
     "options_en": [
       "(-4,8)",
-      "(0,6)",
       "(-2,4)",
+      "(0,6)",
       "(-2,10)"
     ],
     "answer": 0,
@@ -905,18 +905,18 @@
     "question_zh": "a=(3,-2), find 3a",
     "question_en": "a=(3,-2), find 3a",
     "options_zh": [
-      "(9,-6)",
-      "(6,1)",
       "(3,-2)",
-      "(12,-3)"
+      "(12,-3)",
+      "(9,-6)",
+      "(6,1)"
     ],
     "options_en": [
-      "(9,-6)",
-      "(6,1)",
       "(3,-2)",
-      "(12,-3)"
+      "(12,-3)",
+      "(9,-6)",
+      "(6,1)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$3\\vec{a} = 3(3,-2) = (3 \\times 3, 3 \\times -2) = (9,-6)$",
     "explanation_en": "$3\\vec{a} = 3(3,-2) = (3 \\times 3, 3 \\times -2) = (9,-6)$",
     "difficulty": 2,
@@ -961,18 +961,18 @@
     "question_zh": "a=(4,-2), find 5a",
     "question_en": "a=(4,-2), find 5a",
     "options_zh": [
-      "(20,-10)",
       "(9,3)",
-      "(4,-2)",
-      "(25,-5)"
+      "(25,-5)",
+      "(20,-10)",
+      "(4,-2)"
     ],
     "options_en": [
-      "(20,-10)",
       "(9,3)",
-      "(4,-2)",
-      "(25,-5)"
+      "(25,-5)",
+      "(20,-10)",
+      "(4,-2)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$5\\vec{a} = 5(4,-2) = (5 \\times 4, 5 \\times -2) = (20,-10)$",
     "explanation_en": "$5\\vec{a} = 5(4,-2) = (5 \\times 4, 5 \\times -2) = (20,-10)$",
     "difficulty": 2,
@@ -989,18 +989,18 @@
     "question_zh": "a=(-3,-3), find 2a",
     "question_en": "a=(-3,-3), find 2a",
     "options_zh": [
-      "(-6,-6)",
-      "(-1,-1)",
       "(-3,-3)",
-      "(-4,-4)"
+      "(-1,-1)",
+      "(-4,-4)",
+      "(-6,-6)"
     ],
     "options_en": [
-      "(-6,-6)",
-      "(-1,-1)",
       "(-3,-3)",
-      "(-4,-4)"
+      "(-1,-1)",
+      "(-4,-4)",
+      "(-6,-6)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$2\\vec{a} = 2(-3,-3) = (2 \\times -3, 2 \\times -3) = (-6,-6)$",
     "explanation_en": "$2\\vec{a} = 2(-3,-3) = (2 \\times -3, 2 \\times -3) = (-6,-6)$",
     "difficulty": 3,
@@ -1017,18 +1017,18 @@
     "question_zh": "a=(4,3), b=(-4,-3), find a·b",
     "question_en": "a=(4,3), b=(-4,-3), find a·b",
     "options_zh": [
-      "-25",
-      "-24",
       "25",
-      "-24 (alt)"
+      "-25",
+      "-24 (alt)",
+      "-24"
     ],
     "options_en": [
-      "-25",
-      "-24",
       "25",
-      "-24 (alt)"
+      "-25",
+      "-24 (alt)",
+      "-24"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 4 \\times -4 + 3 \\times -3 = -16 + -9 = -25$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 4 \\times -4 + 3 \\times -3 = -16 + -9 = -25$",
     "difficulty": 1,
@@ -1045,18 +1045,18 @@
     "question_zh": "a=(-5,0), b=(-2,3), find a·b",
     "question_en": "a=(-5,0), b=(-2,3), find a·b",
     "options_zh": [
+      "10 (alt)",
       "10",
       "11",
-      "10 (alt)",
       "-15"
     ],
     "options_en": [
+      "10 (alt)",
       "10",
       "11",
-      "10 (alt)",
       "-15"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -5 \\times -2 + 0 \\times 3 = 10 + 0 = 10$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -5 \\times -2 + 0 \\times 3 = 10 + 0 = 10$",
     "difficulty": 1,
@@ -1073,18 +1073,18 @@
     "question_zh": "a=(4,0), b=(4,-1), find a·b",
     "question_en": "a=(4,0), b=(4,-1), find a·b",
     "options_zh": [
-      "16",
       "17",
+      "16",
       "16 (alt)",
       "-4"
     ],
     "options_en": [
-      "16",
       "17",
+      "16",
       "16 (alt)",
       "-4"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 4 \\times 4 + 0 \\times -1 = 16 + 0 = 16$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 4 \\times 4 + 0 \\times -1 = 16 + 0 = 16$",
     "difficulty": 3,
@@ -1102,15 +1102,15 @@
     "question_en": "a=(1,-5), b=(-5,2), find a+b",
     "options_zh": [
       "(-4,-3)",
-      "(6,-7)",
       "(-5,-10)",
-      "(-6,7)"
+      "(-6,7)",
+      "(6,-7)"
     ],
     "options_en": [
       "(-4,-3)",
-      "(6,-7)",
       "(-5,-10)",
-      "(-6,7)"
+      "(-6,7)",
+      "(6,-7)"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (1+-5, -5+2) = (-4,-3)$",
@@ -1129,18 +1129,18 @@
     "question_zh": "a=(1,0), find 5a",
     "question_en": "a=(1,0), find 5a",
     "options_zh": [
-      "(5,0)",
       "(6,5)",
-      "(1,0)",
-      "(10,5)"
+      "(5,0)",
+      "(10,5)",
+      "(1,0)"
     ],
     "options_en": [
-      "(5,0)",
       "(6,5)",
-      "(1,0)",
-      "(10,5)"
+      "(5,0)",
+      "(10,5)",
+      "(1,0)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$5\\vec{a} = 5(1,0) = (5 \\times 1, 5 \\times 0) = (5,0)$",
     "explanation_en": "$5\\vec{a} = 5(1,0) = (5 \\times 1, 5 \\times 0) = (5,0)$",
     "difficulty": 2,
@@ -1158,15 +1158,15 @@
     "question_en": "a=(4,5), b=(3,-1), find a·b",
     "options_zh": [
       "7",
+      "11",
       "8",
-      "7 (alt)",
-      "11"
+      "7 (alt)"
     ],
     "options_en": [
       "7",
+      "11",
       "8",
-      "7 (alt)",
-      "11"
+      "7 (alt)"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 4 \\times 3 + 5 \\times -1 = 12 + -5 = 7$",
@@ -1185,18 +1185,18 @@
     "question_zh": "a=(2,4), b=(-3,4), 求 a+b",
     "question_en": "a=(2,4), b=(-3,4), find a+b",
     "options_zh": [
-      "(-1,8)",
-      "(5,0)",
       "(-6,16)",
-      "(-5,0)"
+      "(-5,0)",
+      "(-1,8)",
+      "(5,0)"
     ],
     "options_en": [
-      "(-1,8)",
-      "(5,0)",
       "(-6,16)",
-      "(-5,0)"
+      "(-5,0)",
+      "(-1,8)",
+      "(5,0)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (2+-3, 4+4) = (-1,8)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (2+-3, 4+4) = (-1,8)$",
     "difficulty": 1,
@@ -1213,18 +1213,18 @@
     "question_zh": "a=(-3,-4), find 3a",
     "question_en": "a=(-3,-4), find 3a",
     "options_zh": [
-      "(-9,-12)",
       "(0,-1)",
       "(-3,-4)",
+      "(-9,-12)",
       "(-6,-9)"
     ],
     "options_en": [
-      "(-9,-12)",
       "(0,-1)",
       "(-3,-4)",
+      "(-9,-12)",
       "(-6,-9)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$3\\vec{a} = 3(-3,-4) = (3 \\times -3, 3 \\times -4) = (-9,-12)$",
     "explanation_en": "$3\\vec{a} = 3(-3,-4) = (3 \\times -3, 3 \\times -4) = (-9,-12)$",
     "difficulty": 2,
@@ -1242,15 +1242,15 @@
     "question_en": "a=(-2,0), find 2a",
     "options_zh": [
       "(-4,0)",
-      "(0,2)",
       "(-2,0)",
-      "(-2,2)"
+      "(-2,2)",
+      "(0,2)"
     ],
     "options_en": [
       "(-4,0)",
-      "(0,2)",
       "(-2,0)",
-      "(-2,2)"
+      "(-2,2)",
+      "(0,2)"
     ],
     "answer": 0,
     "explanation_zh": "$2\\vec{a} = 2(-2,0) = (2 \\times -2, 2 \\times 0) = (-4,0)$",
@@ -1270,15 +1270,15 @@
     "question_en": "a=(3,5), b=(-1,2), find a+b",
     "options_zh": [
       "(2,7)",
-      "(4,3)",
+      "(-4,-3)",
       "(-3,10)",
-      "(-4,-3)"
+      "(4,3)"
     ],
     "options_en": [
       "(2,7)",
-      "(4,3)",
+      "(-4,-3)",
       "(-3,10)",
-      "(-4,-3)"
+      "(4,3)"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (3+-1, 5+2) = (2,7)$",
@@ -1297,18 +1297,18 @@
     "question_zh": "a=(-4,-5), b=(3,5), 求 a+b",
     "question_en": "a=(-4,-5), b=(3,5), find a+b",
     "options_zh": [
-      "(-1,0)",
       "(-7,-10)",
-      "(-12,-25)",
-      "(7,10)"
+      "(-1,0)",
+      "(7,10)",
+      "(-12,-25)"
     ],
     "options_en": [
-      "(-1,0)",
       "(-7,-10)",
-      "(-12,-25)",
-      "(7,10)"
+      "(-1,0)",
+      "(7,10)",
+      "(-12,-25)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-4+3, -5+5) = (-1,0)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-4+3, -5+5) = (-1,0)$",
     "difficulty": 1,
@@ -1326,15 +1326,15 @@
     "question_en": "a=(-2,1), find 5a",
     "options_zh": [
       "(-10,5)",
-      "(3,6)",
       "(-2,1)",
-      "(-5,10)"
+      "(-5,10)",
+      "(3,6)"
     ],
     "options_en": [
       "(-10,5)",
-      "(3,6)",
       "(-2,1)",
-      "(-5,10)"
+      "(-5,10)",
+      "(3,6)"
     ],
     "answer": 0,
     "explanation_zh": "$5\\vec{a} = 5(-2,1) = (5 \\times -2, 5 \\times 1) = (-10,5)$",
@@ -1353,18 +1353,18 @@
     "question_zh": "a=(-5,5), b=(-2,1), 求 a+b",
     "question_en": "a=(-5,5), b=(-2,1), find a+b",
     "options_zh": [
-      "(-7,6)",
       "(-3,4)",
-      "(10,5)",
-      "(3,-4)"
+      "(3,-4)",
+      "(-7,6)",
+      "(10,5)"
     ],
     "options_en": [
-      "(-7,6)",
       "(-3,4)",
-      "(10,5)",
-      "(3,-4)"
+      "(3,-4)",
+      "(-7,6)",
+      "(10,5)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-5+-2, 5+1) = (-7,6)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-5+-2, 5+1) = (-7,6)$",
     "difficulty": 2,
@@ -1381,18 +1381,18 @@
     "question_zh": "a=(4,0), b=(1,0), find a·b",
     "question_en": "a=(4,0), b=(1,0), find a·b",
     "options_zh": [
+      "0",
       "4",
       "5",
-      "4 (alt)",
-      "0"
+      "4 (alt)"
     ],
     "options_en": [
+      "0",
       "4",
       "5",
-      "4 (alt)",
-      "0"
+      "4 (alt)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 4 \\times 1 + 0 \\times 0 = 4 + 0 = 4$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 4 \\times 1 + 0 \\times 0 = 4 + 0 = 4$",
     "difficulty": 3,
@@ -1409,18 +1409,18 @@
     "question_zh": "a=(3,3), find 2a",
     "question_en": "a=(3,3), find 2a",
     "options_zh": [
-      "(6,6)",
       "(5,5)",
-      "(3,3)",
-      "(8,8)"
+      "(6,6)",
+      "(8,8)",
+      "(3,3)"
     ],
     "options_en": [
-      "(6,6)",
       "(5,5)",
-      "(3,3)",
-      "(8,8)"
+      "(6,6)",
+      "(8,8)",
+      "(3,3)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$2\\vec{a} = 2(3,3) = (2 \\times 3, 2 \\times 3) = (6,6)$",
     "explanation_en": "$2\\vec{a} = 2(3,3) = (2 \\times 3, 2 \\times 3) = (6,6)$",
     "difficulty": 1,
@@ -1438,15 +1438,15 @@
     "question_en": "a=(-4,-2), find 3a",
     "options_zh": [
       "(-12,-6)",
-      "(-1,1)",
+      "(-9,-3)",
       "(-4,-2)",
-      "(-9,-3)"
+      "(-1,1)"
     ],
     "options_en": [
       "(-12,-6)",
-      "(-1,1)",
+      "(-9,-3)",
       "(-4,-2)",
-      "(-9,-3)"
+      "(-1,1)"
     ],
     "answer": 0,
     "explanation_zh": "$3\\vec{a} = 3(-4,-2) = (3 \\times -4, 3 \\times -2) = (-12,-6)$",
@@ -1466,14 +1466,14 @@
     "question_en": "a=(0,3), b=(-5,2), find a+b",
     "options_zh": [
       "(-5,5)",
-      "(5,1)",
       "(0,6)",
+      "(5,1)",
       "(-5,-1)"
     ],
     "options_en": [
       "(-5,5)",
-      "(5,1)",
       "(0,6)",
+      "(5,1)",
       "(-5,-1)"
     ],
     "answer": 0,
@@ -1493,18 +1493,18 @@
     "question_zh": "a=(-2,5), b=(1,0), 求 a+b",
     "question_en": "a=(-2,5), b=(1,0), find a+b",
     "options_zh": [
-      "(-1,5)",
       "(-3,5)",
+      "(-1,5)",
       "(-2,0)",
       "(3,-5)"
     ],
     "options_en": [
-      "(-1,5)",
       "(-3,5)",
+      "(-1,5)",
       "(-2,0)",
       "(3,-5)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-2+1, 5+0) = (-1,5)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-2+1, 5+0) = (-1,5)$",
     "difficulty": 1,
@@ -1521,18 +1521,18 @@
     "question_zh": "a=(-1,5), b=(-4,-1), 求 a+b",
     "question_en": "a=(-1,5), b=(-4,-1), find a+b",
     "options_zh": [
+      "(4,-5)",
       "(-5,4)",
       "(3,6)",
-      "(4,-5)",
       "(-3,-6)"
     ],
     "options_en": [
+      "(4,-5)",
       "(-5,4)",
       "(3,6)",
-      "(4,-5)",
       "(-3,-6)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-1+-4, 5+-1) = (-5,4)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-1+-4, 5+-1) = (-5,4)$",
     "difficulty": 1,
@@ -1549,18 +1549,18 @@
     "question_zh": "a=(4,2), b=(-2,0), find a·b",
     "question_en": "a=(4,2), b=(-2,0), find a·b",
     "options_zh": [
-      "-8",
-      "-7",
       "8",
+      "-7",
+      "-8",
       "-4"
     ],
     "options_en": [
-      "-8",
-      "-7",
       "8",
+      "-7",
+      "-8",
       "-4"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 4 \\times -2 + 2 \\times 0 = -8 + 0 = -8$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 4 \\times -2 + 2 \\times 0 = -8 + 0 = -8$",
     "difficulty": 3,
@@ -1577,18 +1577,18 @@
     "question_zh": "a=(-5,-4), b=(1,-3), 求 a+b",
     "question_en": "a=(-5,-4), b=(1,-3), find a+b",
     "options_zh": [
+      "(-5,12)",
       "(-4,-7)",
       "(-6,-1)",
-      "(-5,12)",
       "(6,1)"
     ],
     "options_en": [
+      "(-5,12)",
       "(-4,-7)",
       "(-6,-1)",
-      "(-5,12)",
       "(6,1)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-5+1, -4+-3) = (-4,-7)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-5+1, -4+-3) = (-4,-7)$",
     "difficulty": 1,
@@ -1605,18 +1605,18 @@
     "question_zh": "a=(-4,1), find 2a",
     "question_en": "a=(-4,1), find 2a",
     "options_zh": [
-      "(-8,2)",
-      "(-2,3)",
       "(-4,1)",
-      "(-6,4)"
+      "(-6,4)",
+      "(-8,2)",
+      "(-2,3)"
     ],
     "options_en": [
-      "(-8,2)",
-      "(-2,3)",
       "(-4,1)",
-      "(-6,4)"
+      "(-6,4)",
+      "(-8,2)",
+      "(-2,3)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$2\\vec{a} = 2(-4,1) = (2 \\times -4, 2 \\times 1) = (-8,2)$",
     "explanation_en": "$2\\vec{a} = 2(-4,1) = (2 \\times -4, 2 \\times 1) = (-8,2)$",
     "difficulty": 2,
@@ -1633,18 +1633,18 @@
     "question_zh": "a=(1,0), find 3a",
     "question_en": "a=(1,0), find 3a",
     "options_zh": [
-      "(3,0)",
-      "(4,3)",
+      "(6,3)",
       "(1,0)",
-      "(6,3)"
+      "(4,3)",
+      "(3,0)"
     ],
     "options_en": [
-      "(3,0)",
-      "(4,3)",
+      "(6,3)",
       "(1,0)",
-      "(6,3)"
+      "(4,3)",
+      "(3,0)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$3\\vec{a} = 3(1,0) = (3 \\times 1, 3 \\times 0) = (3,0)$",
     "explanation_en": "$3\\vec{a} = 3(1,0) = (3 \\times 1, 3 \\times 0) = (3,0)$",
     "difficulty": 2,
@@ -1661,18 +1661,18 @@
     "question_zh": "a=(-3,1), b=(0,-3), find a·b",
     "question_en": "a=(-3,1), b=(0,-3), find a·b",
     "options_zh": [
-      "-3",
       "-2",
+      "-3",
       "3",
       "9"
     ],
     "options_en": [
-      "-3",
       "-2",
+      "-3",
       "3",
       "9"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -3 \\times 0 + 1 \\times -3 = 0 + -3 = -3$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -3 \\times 0 + 1 \\times -3 = 0 + -3 = -3$",
     "difficulty": 2,
@@ -1717,18 +1717,18 @@
     "question_zh": "a=(3,3), find 3a",
     "question_en": "a=(3,3), find 3a",
     "options_zh": [
-      "(9,9)",
-      "(6,6)",
       "(3,3)",
-      "(12,12)"
+      "(9,9)",
+      "(12,12)",
+      "(6,6)"
     ],
     "options_en": [
-      "(9,9)",
-      "(6,6)",
       "(3,3)",
-      "(12,12)"
+      "(9,9)",
+      "(12,12)",
+      "(6,6)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$3\\vec{a} = 3(3,3) = (3 \\times 3, 3 \\times 3) = (9,9)$",
     "explanation_en": "$3\\vec{a} = 3(3,3) = (3 \\times 3, 3 \\times 3) = (9,9)$",
     "difficulty": 1,
@@ -1746,15 +1746,15 @@
     "question_en": "Find |(5,-12)|",
     "options_zh": [
       "13",
-      "17",
       "60",
-      "14"
+      "14",
+      "17"
     ],
     "options_en": [
       "13",
-      "17",
       "60",
-      "14"
+      "14",
+      "17"
     ],
     "answer": 0,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{5^2 + -12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13$",
@@ -1774,15 +1774,15 @@
     "question_en": "a=(-2,-2), find 3a",
     "options_zh": [
       "(-6,-6)",
+      "(-3,-3)",
       "(1,1)",
-      "(-2,-2)",
-      "(-3,-3)"
+      "(-2,-2)"
     ],
     "options_en": [
       "(-6,-6)",
+      "(-3,-3)",
       "(1,1)",
-      "(-2,-2)",
-      "(-3,-3)"
+      "(-2,-2)"
     ],
     "answer": 0,
     "explanation_zh": "$3\\vec{a} = 3(-2,-2) = (3 \\times -2, 3 \\times -2) = (-6,-6)$",
@@ -1801,18 +1801,18 @@
     "question_zh": "a=(2,3), b=(-5,3), find a·b",
     "question_en": "a=(2,3), b=(-5,3), find a·b",
     "options_zh": [
-      "-1",
       "0",
+      "-1",
       "1",
       "-9"
     ],
     "options_en": [
-      "-1",
       "0",
+      "-1",
       "1",
       "-9"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 2 \\times -5 + 3 \\times 3 = -10 + 9 = -1$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 2 \\times -5 + 3 \\times 3 = -10 + 9 = -1$",
     "difficulty": 2,
@@ -1829,18 +1829,18 @@
     "question_zh": "a=(4,4), b=(-5,2), find a·b",
     "question_en": "a=(4,4), b=(-5,2), find a·b",
     "options_zh": [
-      "-12",
+      "-12 (alt)",
       "-11",
       "12",
-      "-12 (alt)"
+      "-12"
     ],
     "options_en": [
-      "-12",
+      "-12 (alt)",
       "-11",
       "12",
-      "-12 (alt)"
+      "-12"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 4 \\times -5 + 4 \\times 2 = -20 + 8 = -12$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 4 \\times -5 + 4 \\times 2 = -20 + 8 = -12$",
     "difficulty": 2,
@@ -1857,18 +1857,18 @@
     "question_zh": "a=(5,-2), b=(0,1), find a·b",
     "question_en": "a=(5,-2), b=(0,1), find a·b",
     "options_zh": [
+      "5",
       "-2",
-      "-1",
       "2",
-      "5"
+      "-1"
     ],
     "options_en": [
+      "5",
       "-2",
-      "-1",
       "2",
-      "5"
+      "-1"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 5 \\times 0 + -2 \\times 1 = 0 + -2 = -2$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 5 \\times 0 + -2 \\times 1 = 0 + -2 = -2$",
     "difficulty": 2,
@@ -1886,15 +1886,15 @@
     "question_en": "a=(5,2), b=(2,-2), find a·b",
     "options_zh": [
       "6",
-      "7",
       "6 (alt)",
-      "-6"
+      "-6",
+      "7"
     ],
     "options_en": [
       "6",
-      "7",
       "6 (alt)",
-      "-6"
+      "-6",
+      "7"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 5 \\times 2 + 2 \\times -2 = 10 + -4 = 6$",
@@ -1913,18 +1913,18 @@
     "question_zh": "a=(4,2), b=(-2,3), 求 a+b",
     "question_en": "a=(4,2), b=(-2,3), find a+b",
     "options_zh": [
-      "(2,5)",
+      "(-6,1)",
       "(6,-1)",
-      "(-8,6)",
-      "(-6,1)"
+      "(2,5)",
+      "(-8,6)"
     ],
     "options_en": [
-      "(2,5)",
+      "(-6,1)",
       "(6,-1)",
-      "(-8,6)",
-      "(-6,1)"
+      "(2,5)",
+      "(-8,6)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (4+-2, 2+3) = (2,5)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (4+-2, 2+3) = (2,5)$",
     "difficulty": 1,
@@ -1941,18 +1941,18 @@
     "question_zh": "a=(2,3), find 3a",
     "question_en": "a=(2,3), find 3a",
     "options_zh": [
-      "(6,9)",
-      "(5,6)",
+      "(9,12)",
       "(2,3)",
-      "(9,12)"
+      "(6,9)",
+      "(5,6)"
     ],
     "options_en": [
-      "(6,9)",
-      "(5,6)",
+      "(9,12)",
       "(2,3)",
-      "(9,12)"
+      "(6,9)",
+      "(5,6)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$3\\vec{a} = 3(2,3) = (3 \\times 2, 3 \\times 3) = (6,9)$",
     "explanation_en": "$3\\vec{a} = 3(2,3) = (3 \\times 2, 3 \\times 3) = (6,9)$",
     "difficulty": 3,
@@ -1969,18 +1969,18 @@
     "question_zh": "a=(2,5), b=(-5,0), 求 a+b",
     "question_en": "a=(2,5), b=(-5,0), find a+b",
     "options_zh": [
-      "(-3,5)",
       "(7,5)",
-      "(-10,0)",
-      "(-7,-5)"
+      "(-3,5)",
+      "(-7,-5)",
+      "(-10,0)"
     ],
     "options_en": [
-      "(-3,5)",
       "(7,5)",
-      "(-10,0)",
-      "(-7,-5)"
+      "(-3,5)",
+      "(-7,-5)",
+      "(-10,0)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (2+-5, 5+0) = (-3,5)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (2+-5, 5+0) = (-3,5)$",
     "difficulty": 2,
@@ -1997,18 +1997,18 @@
     "question_zh": "a=(4,-5), b=(-1,-3), 求 a+b",
     "question_en": "a=(4,-5), b=(-1,-3), find a+b",
     "options_zh": [
-      "(3,-8)",
       "(5,-2)",
       "(-4,15)",
-      "(-5,2)"
+      "(-5,2)",
+      "(3,-8)"
     ],
     "options_en": [
-      "(3,-8)",
       "(5,-2)",
       "(-4,15)",
-      "(-5,2)"
+      "(-5,2)",
+      "(3,-8)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (4+-1, -5+-3) = (3,-8)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (4+-1, -5+-3) = (3,-8)$",
     "difficulty": 1,
@@ -2025,18 +2025,18 @@
     "question_zh": "求向量 (-3,-4) 的模",
     "question_en": "Find |(-3,-4)|",
     "options_zh": [
-      "5",
-      "7",
+      "6",
       "12",
-      "6"
+      "5",
+      "7"
     ],
     "options_en": [
-      "5",
-      "7",
+      "6",
       "12",
-      "6"
+      "5",
+      "7"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{-3^2 + -4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$",
     "explanation_en": "$|\\vec{a}| = \\sqrt{-3^2 + -4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$",
     "difficulty": 3,
@@ -2053,18 +2053,18 @@
     "question_zh": "a=(1,4), find 4a",
     "question_en": "a=(1,4), find 4a",
     "options_zh": [
+      "(8,20)",
       "(4,16)",
-      "(5,8)",
       "(1,4)",
-      "(8,20)"
+      "(5,8)"
     ],
     "options_en": [
+      "(8,20)",
       "(4,16)",
-      "(5,8)",
       "(1,4)",
-      "(8,20)"
+      "(5,8)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$4\\vec{a} = 4(1,4) = (4 \\times 1, 4 \\times 4) = (4,16)$",
     "explanation_en": "$4\\vec{a} = 4(1,4) = (4 \\times 1, 4 \\times 4) = (4,16)$",
     "difficulty": 3,
@@ -2081,18 +2081,18 @@
     "question_zh": "a=(-3,-4), find 5a",
     "question_en": "a=(-3,-4), find 5a",
     "options_zh": [
-      "(-15,-20)",
       "(2,1)",
       "(-3,-4)",
-      "(-10,-15)"
+      "(-10,-15)",
+      "(-15,-20)"
     ],
     "options_en": [
-      "(-15,-20)",
       "(2,1)",
       "(-3,-4)",
-      "(-10,-15)"
+      "(-10,-15)",
+      "(-15,-20)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$5\\vec{a} = 5(-3,-4) = (5 \\times -3, 5 \\times -4) = (-15,-20)$",
     "explanation_en": "$5\\vec{a} = 5(-3,-4) = (5 \\times -3, 5 \\times -4) = (-15,-20)$",
     "difficulty": 2,
@@ -2109,18 +2109,18 @@
     "question_zh": "a=(5,5), b=(3,4), 求 a+b",
     "question_en": "a=(5,5), b=(3,4), find a+b",
     "options_zh": [
+      "(-2,-1)",
       "(8,9)",
-      "(2,1)",
       "(15,20)",
-      "(-2,-1)"
+      "(2,1)"
     ],
     "options_en": [
+      "(-2,-1)",
       "(8,9)",
-      "(2,1)",
       "(15,20)",
-      "(-2,-1)"
+      "(2,1)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (5+3, 5+4) = (8,9)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (5+3, 5+4) = (8,9)$",
     "difficulty": 2,
@@ -2165,18 +2165,18 @@
     "question_zh": "a=(-2,1), find 2a",
     "question_en": "a=(-2,1), find 2a",
     "options_zh": [
+      "(-2,4)",
       "(-4,2)",
       "(0,3)",
-      "(-2,1)",
-      "(-2,4)"
+      "(-2,1)"
     ],
     "options_en": [
+      "(-2,4)",
       "(-4,2)",
       "(0,3)",
-      "(-2,1)",
-      "(-2,4)"
+      "(-2,1)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$2\\vec{a} = 2(-2,1) = (2 \\times -2, 2 \\times 1) = (-4,2)$",
     "explanation_en": "$2\\vec{a} = 2(-2,1) = (2 \\times -2, 2 \\times 1) = (-4,2)$",
     "difficulty": 2,
@@ -2193,18 +2193,18 @@
     "question_zh": "a=(0,0), b=(1,1), 求 a+b",
     "question_en": "a=(0,0), b=(1,1), find a+b",
     "options_zh": [
-      "(1,1)",
       "(-1,-1)",
-      "(0,0)",
-      "(1,1) (備選)"
+      "(1,1) (備選)",
+      "(1,1)",
+      "(0,0)"
     ],
     "options_en": [
-      "(1,1)",
       "(-1,-1)",
-      "(0,0)",
-      "(1,1) (alt)"
+      "(1,1) (alt)",
+      "(1,1)",
+      "(0,0)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (0+1, 0+1) = (1,1)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (0+1, 0+1) = (1,1)$",
     "difficulty": 3,
@@ -2221,18 +2221,18 @@
     "question_zh": "a=(3,4), find 5a",
     "question_en": "a=(3,4), find 5a",
     "options_zh": [
+      "(3,4)",
       "(15,20)",
       "(8,9)",
-      "(3,4)",
       "(20,25)"
     ],
     "options_en": [
+      "(3,4)",
       "(15,20)",
       "(8,9)",
-      "(3,4)",
       "(20,25)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$5\\vec{a} = 5(3,4) = (5 \\times 3, 5 \\times 4) = (15,20)$",
     "explanation_en": "$5\\vec{a} = 5(3,4) = (5 \\times 3, 5 \\times 4) = (15,20)$",
     "difficulty": 2,
@@ -2279,14 +2279,14 @@
     "options_zh": [
       "(-6,-12)",
       "(1,-1)",
-      "(-2,-4)",
-      "(-3,-9)"
+      "(-3,-9)",
+      "(-2,-4)"
     ],
     "options_en": [
       "(-6,-12)",
       "(1,-1)",
-      "(-2,-4)",
-      "(-3,-9)"
+      "(-3,-9)",
+      "(-2,-4)"
     ],
     "answer": 0,
     "explanation_zh": "$3\\vec{a} = 3(-2,-4) = (3 \\times -2, 3 \\times -4) = (-6,-12)$",
@@ -2305,18 +2305,18 @@
     "question_zh": "a=(2,-1), b=(-5,1), find a·b",
     "question_en": "a=(2,-1), b=(-5,1), find a·b",
     "options_zh": [
+      "7",
       "-11",
-      "-10",
       "11",
-      "7"
+      "-10"
     ],
     "options_en": [
+      "7",
       "-11",
-      "-10",
       "11",
-      "7"
+      "-10"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 2 \\times -5 + -1 \\times 1 = -10 + -1 = -11$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 2 \\times -5 + -1 \\times 1 = -10 + -1 = -11$",
     "difficulty": 3,
@@ -2333,18 +2333,18 @@
     "question_zh": "a=(0,3), find 4a",
     "question_en": "a=(0,3), find 4a",
     "options_zh": [
-      "(0,12)",
+      "(4,16)",
       "(4,7)",
-      "(0,3)",
-      "(4,16)"
+      "(0,12)",
+      "(0,3)"
     ],
     "options_en": [
-      "(0,12)",
+      "(4,16)",
       "(4,7)",
-      "(0,3)",
-      "(4,16)"
+      "(0,12)",
+      "(0,3)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$4\\vec{a} = 4(0,3) = (4 \\times 0, 4 \\times 3) = (0,12)$",
     "explanation_en": "$4\\vec{a} = 4(0,3) = (4 \\times 0, 4 \\times 3) = (0,12)$",
     "difficulty": 2,
@@ -2361,18 +2361,18 @@
     "question_zh": "a=(-2,-3), b=(2,-4), 求 a+b",
     "question_en": "a=(-2,-3), b=(2,-4), find a+b",
     "options_zh": [
-      "(0,-7)",
-      "(-4,1)",
+      "(4,-1)",
       "(-4,12)",
-      "(4,-1)"
+      "(-4,1)",
+      "(0,-7)"
     ],
     "options_en": [
-      "(0,-7)",
-      "(-4,1)",
+      "(4,-1)",
       "(-4,12)",
-      "(4,-1)"
+      "(-4,1)",
+      "(0,-7)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-2+2, -3+-4) = (0,-7)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-2+2, -3+-4) = (0,-7)$",
     "difficulty": 2,
@@ -2417,18 +2417,18 @@
     "question_zh": "a=(-3,0), b=(-3,-5), 求 a+b",
     "question_en": "a=(-3,0), b=(-3,-5), find a+b",
     "options_zh": [
-      "(-6,-5)",
       "(0,5)",
-      "(9,0)",
-      "(0,-5)"
+      "(-6,-5)",
+      "(0,-5)",
+      "(9,0)"
     ],
     "options_en": [
-      "(-6,-5)",
       "(0,5)",
-      "(9,0)",
-      "(0,-5)"
+      "(-6,-5)",
+      "(0,-5)",
+      "(9,0)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-3+-3, 0+-5) = (-6,-5)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-3+-3, 0+-5) = (-6,-5)$",
     "difficulty": 3,
@@ -2447,14 +2447,14 @@
     "options_zh": [
       "13",
       "17",
-      "60",
-      "14"
+      "14",
+      "60"
     ],
     "options_en": [
       "13",
       "17",
-      "60",
-      "14"
+      "14",
+      "60"
     ],
     "answer": 0,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{5^2 + 12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13$",
@@ -2473,18 +2473,18 @@
     "question_zh": "求向量 (6,-8) 的模",
     "question_en": "Find |(6,-8)|",
     "options_zh": [
+      "11",
       "10",
-      "14",
       "48",
-      "11"
+      "14"
     ],
     "options_en": [
+      "11",
       "10",
-      "14",
       "48",
-      "11"
+      "14"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{6^2 + -8^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10$",
     "explanation_en": "$|\\vec{a}| = \\sqrt{6^2 + -8^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10$",
     "difficulty": 2,
@@ -2502,14 +2502,14 @@
     "question_en": "a=(-4,-3), b=(3,1), find a·b",
     "options_zh": [
       "-15",
-      "-14",
       "15",
+      "-14",
       "-13"
     ],
     "options_en": [
       "-15",
-      "-14",
       "15",
+      "-14",
       "-13"
     ],
     "answer": 0,
@@ -2529,18 +2529,18 @@
     "question_zh": "a=(-4,4), b=(-4,5), find a·b",
     "question_en": "a=(-4,4), b=(-4,5), find a·b",
     "options_zh": [
-      "36",
-      "37",
       "36 (alt)",
+      "37",
+      "36",
       "-36"
     ],
     "options_en": [
-      "36",
-      "37",
       "36 (alt)",
+      "37",
+      "36",
       "-36"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -4 \\times -4 + 4 \\times 5 = 16 + 20 = 36$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -4 \\times -4 + 4 \\times 5 = 16 + 20 = 36$",
     "difficulty": 3,
@@ -2558,15 +2558,15 @@
     "question_en": "a=(-2,3), b=(-1,4), find a+b",
     "options_zh": [
       "(-3,7)",
+      "(1,1)",
       "(-1,-1)",
-      "(2,12)",
-      "(1,1)"
+      "(2,12)"
     ],
     "options_en": [
       "(-3,7)",
+      "(1,1)",
       "(-1,-1)",
-      "(2,12)",
-      "(1,1)"
+      "(2,12)"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-2+-1, 3+4) = (-3,7)$",
@@ -2587,14 +2587,14 @@
     "options_zh": [
       "(1,3)",
       "(-9,3)",
-      "(-20,0)",
-      "(9,-3)"
+      "(9,-3)",
+      "(-20,0)"
     ],
     "options_en": [
       "(1,3)",
       "(-9,3)",
-      "(-20,0)",
-      "(9,-3)"
+      "(9,-3)",
+      "(-20,0)"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-4+5, 3+0) = (1,3)$",
@@ -2613,18 +2613,18 @@
     "question_zh": "求向量 (3,-4) 的模",
     "question_en": "Find |(3,-4)|",
     "options_zh": [
-      "5",
-      "7",
       "12",
-      "6"
+      "6",
+      "7",
+      "5"
     ],
     "options_en": [
-      "5",
-      "7",
       "12",
-      "6"
+      "6",
+      "7",
+      "5"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{3^2 + -4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$",
     "explanation_en": "$|\\vec{a}| = \\sqrt{3^2 + -4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$",
     "difficulty": 3,
@@ -2641,18 +2641,18 @@
     "question_zh": "求向量 (-3,4) 的模",
     "question_en": "Find |(-3,4)|",
     "options_zh": [
-      "5",
-      "7",
       "12",
-      "6"
+      "6",
+      "5",
+      "7"
     ],
     "options_en": [
-      "5",
-      "7",
       "12",
-      "6"
+      "6",
+      "5",
+      "7"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{-3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$",
     "explanation_en": "$|\\vec{a}| = \\sqrt{-3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$",
     "difficulty": 2,
@@ -2669,18 +2669,18 @@
     "question_zh": "a=(2,-4), find 2a",
     "question_en": "a=(2,-4), find 2a",
     "options_zh": [
-      "(4,-8)",
       "(4,-2)",
       "(2,-4)",
+      "(4,-8)",
       "(6,-6)"
     ],
     "options_en": [
-      "(4,-8)",
       "(4,-2)",
       "(2,-4)",
+      "(4,-8)",
       "(6,-6)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$2\\vec{a} = 2(2,-4) = (2 \\times 2, 2 \\times -4) = (4,-8)$",
     "explanation_en": "$2\\vec{a} = 2(2,-4) = (2 \\times 2, 2 \\times -4) = (4,-8)$",
     "difficulty": 3,
@@ -2697,18 +2697,18 @@
     "question_zh": "a=(-1,0), find 3a",
     "question_en": "a=(-1,0), find 3a",
     "options_zh": [
-      "(-3,0)",
       "(2,3)",
+      "(-3,0)",
       "(-1,0)",
       "(0,3)"
     ],
     "options_en": [
-      "(-3,0)",
       "(2,3)",
+      "(-3,0)",
       "(-1,0)",
       "(0,3)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$3\\vec{a} = 3(-1,0) = (3 \\times -1, 3 \\times 0) = (-3,0)$",
     "explanation_en": "$3\\vec{a} = 3(-1,0) = (3 \\times -1, 3 \\times 0) = (-3,0)$",
     "difficulty": 1,
@@ -2725,18 +2725,18 @@
     "question_zh": "a=(5,4), b=(-1,1), 求 a+b",
     "question_en": "a=(5,4), b=(-1,1), find a+b",
     "options_zh": [
-      "(4,5)",
+      "(-6,-3)",
       "(6,3)",
-      "(-5,4)",
-      "(-6,-3)"
+      "(4,5)",
+      "(-5,4)"
     ],
     "options_en": [
-      "(4,5)",
+      "(-6,-3)",
       "(6,3)",
-      "(-5,4)",
-      "(-6,-3)"
+      "(4,5)",
+      "(-5,4)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (5+-1, 4+1) = (4,5)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (5+-1, 4+1) = (4,5)$",
     "difficulty": 2,
@@ -2781,18 +2781,18 @@
     "question_zh": "a=(3,-4), b=(-1,2), find a·b",
     "question_en": "a=(3,-4), b=(-1,2), find a·b",
     "options_zh": [
-      "-11",
-      "-10",
       "11",
+      "-10",
+      "-11",
       "10"
     ],
     "options_en": [
-      "-11",
-      "-10",
       "11",
+      "-10",
+      "-11",
       "10"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 3 \\times -1 + -4 \\times 2 = -3 + -8 = -11$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 3 \\times -1 + -4 \\times 2 = -3 + -8 = -11$",
     "difficulty": 1,
@@ -2809,18 +2809,18 @@
     "question_zh": "a=(-1,2), find 2a",
     "question_en": "a=(-1,2), find 2a",
     "options_zh": [
-      "(-2,4)",
-      "(1,4)",
       "(-1,2)",
-      "(0,6)"
+      "(0,6)",
+      "(1,4)",
+      "(-2,4)"
     ],
     "options_en": [
-      "(-2,4)",
-      "(1,4)",
       "(-1,2)",
-      "(0,6)"
+      "(0,6)",
+      "(1,4)",
+      "(-2,4)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$2\\vec{a} = 2(-1,2) = (2 \\times -1, 2 \\times 2) = (-2,4)$",
     "explanation_en": "$2\\vec{a} = 2(-1,2) = (2 \\times -1, 2 \\times 2) = (-2,4)$",
     "difficulty": 1,
@@ -2837,18 +2837,18 @@
     "question_zh": "a=(4,0), b=(4,-2), 求 a+b",
     "question_en": "a=(4,0), b=(4,-2), find a+b",
     "options_zh": [
-      "(8,-2)",
       "(0,2)",
-      "(16,0)",
-      "(0,-2)"
+      "(0,-2)",
+      "(8,-2)",
+      "(16,0)"
     ],
     "options_en": [
-      "(8,-2)",
       "(0,2)",
-      "(16,0)",
-      "(0,-2)"
+      "(0,-2)",
+      "(8,-2)",
+      "(16,0)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (4+4, 0+-2) = (8,-2)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (4+4, 0+-2) = (8,-2)$",
     "difficulty": 2,
@@ -2865,18 +2865,18 @@
     "question_zh": "a=(1,-1), b=(-1,2), 求 a+b",
     "question_en": "a=(1,-1), b=(-1,2), find a+b",
     "options_zh": [
-      "(0,1)",
-      "(2,-3)",
       "(-1,-2)",
-      "(-2,3)"
+      "(2,-3)",
+      "(-2,3)",
+      "(0,1)"
     ],
     "options_en": [
-      "(0,1)",
-      "(2,-3)",
       "(-1,-2)",
-      "(-2,3)"
+      "(2,-3)",
+      "(-2,3)",
+      "(0,1)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (1+-1, -1+2) = (0,1)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (1+-1, -1+2) = (0,1)$",
     "difficulty": 1,
@@ -2893,18 +2893,18 @@
     "question_zh": "求 (8,15) 方向的單位向量",
     "question_en": "Find unit vector in direction (8,15)",
     "options_zh": [
-      "(8/17, 15/17)",
+      "(1,1)",
       "(8,15)",
-      "(8,15) (備選)",
-      "(1,1)"
+      "(8/17, 15/17)",
+      "(8,15) (備選)"
     ],
     "options_en": [
-      "(8/17, 15/17)",
+      "(1,1)",
       "(8,15)",
-      "(8,15) (alt)",
-      "(1,1)"
+      "(8/17, 15/17)",
+      "(8,15) (alt)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{8^2+15^2} = 17$\n$\\hat{a} = \\frac{(8,15)}{17} = (8/17, 15/17)$",
     "explanation_en": "$|\\vec{a}| = \\sqrt{8^2+15^2} = 17$\n$\\hat{a} = \\frac{(8,15)}{17} = (8/17, 15/17)$",
     "difficulty": 1,
@@ -2921,18 +2921,18 @@
     "question_zh": "a=(-4,-1), b=(4,-3), 求 a+b",
     "question_en": "a=(-4,-1), b=(4,-3), find a+b",
     "options_zh": [
-      "(0,-4)",
-      "(-8,2)",
       "(-16,3)",
-      "(8,-2)"
+      "(0,-4)",
+      "(8,-2)",
+      "(-8,2)"
     ],
     "options_en": [
-      "(0,-4)",
-      "(-8,2)",
       "(-16,3)",
-      "(8,-2)"
+      "(0,-4)",
+      "(8,-2)",
+      "(-8,2)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-4+4, -1+-3) = (0,-4)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-4+4, -1+-3) = (0,-4)$",
     "difficulty": 1,
@@ -2949,18 +2949,18 @@
     "question_zh": "a=(0,3), b=(4,5), find a·b",
     "question_en": "a=(0,3), b=(4,5), find a·b",
     "options_zh": [
-      "15",
       "16",
+      "15",
       "15 (alt)",
       "12"
     ],
     "options_en": [
-      "15",
       "16",
+      "15",
       "15 (alt)",
       "12"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 0 \\times 4 + 3 \\times 5 = 0 + 15 = 15$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 0 \\times 4 + 3 \\times 5 = 0 + 15 = 15$",
     "difficulty": 3,
@@ -2977,18 +2977,18 @@
     "question_zh": "a=(5,-3), b=(2,-3), 求 a+b",
     "question_en": "a=(5,-3), b=(2,-3), find a+b",
     "options_zh": [
-      "(7,-6)",
       "(3,0)",
-      "(10,9)",
-      "(-3,0)"
+      "(7,-6)",
+      "(-3,0)",
+      "(10,9)"
     ],
     "options_en": [
-      "(7,-6)",
       "(3,0)",
-      "(10,9)",
-      "(-3,0)"
+      "(7,-6)",
+      "(-3,0)",
+      "(10,9)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (5+2, -3+-3) = (7,-6)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (5+2, -3+-3) = (7,-6)$",
     "difficulty": 2,
@@ -3005,18 +3005,18 @@
     "question_zh": "a=(4,-4), b=(-5,4), 求 a+b",
     "question_en": "a=(4,-4), b=(-5,4), find a+b",
     "options_zh": [
-      "(-1,0)",
       "(9,-8)",
-      "(-20,-16)",
-      "(-9,8)"
+      "(-1,0)",
+      "(-9,8)",
+      "(-20,-16)"
     ],
     "options_en": [
-      "(-1,0)",
       "(9,-8)",
-      "(-20,-16)",
-      "(-9,8)"
+      "(-1,0)",
+      "(-9,8)",
+      "(-20,-16)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (4+-5, -4+4) = (-1,0)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (4+-5, -4+4) = (-1,0)$",
     "difficulty": 2,
@@ -3034,15 +3034,15 @@
     "question_en": "a=(-1,3), b=(3,3), find a+b",
     "options_zh": [
       "(2,6)",
-      "(-4,0)",
       "(-3,9)",
-      "(4,0)"
+      "(4,0)",
+      "(-4,0)"
     ],
     "options_en": [
       "(2,6)",
-      "(-4,0)",
       "(-3,9)",
-      "(4,0)"
+      "(4,0)",
+      "(-4,0)"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-1+3, 3+3) = (2,6)$",
@@ -3061,18 +3061,18 @@
     "question_zh": "a=(2,0), b=(-1,0), 求 a+b",
     "question_en": "a=(2,0), b=(-1,0), find a+b",
     "options_zh": [
+      "(-3,0)",
       "(1,0)",
       "(3,0)",
-      "(-2,0)",
-      "(-3,0)"
+      "(-2,0)"
     ],
     "options_en": [
+      "(-3,0)",
       "(1,0)",
       "(3,0)",
-      "(-2,0)",
-      "(-3,0)"
+      "(-2,0)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (2+-1, 0+0) = (1,0)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (2+-1, 0+0) = (1,0)$",
     "difficulty": 2,
@@ -3117,18 +3117,18 @@
     "question_zh": "a=(2,5), b=(-4,-2), 求 a+b",
     "question_en": "a=(2,5), b=(-4,-2), find a+b",
     "options_zh": [
-      "(-2,3)",
       "(6,7)",
       "(-8,-10)",
+      "(-2,3)",
       "(-6,-7)"
     ],
     "options_en": [
-      "(-2,3)",
       "(6,7)",
       "(-8,-10)",
+      "(-2,3)",
       "(-6,-7)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (2+-4, 5+-2) = (-2,3)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (2+-4, 5+-2) = (-2,3)$",
     "difficulty": 3,
@@ -3145,18 +3145,18 @@
     "question_zh": "a=(-2,-2), b=(0,1), find a·b",
     "question_en": "a=(-2,-2), b=(0,1), find a·b",
     "options_zh": [
-      "-2",
-      "-1",
       "2",
-      "-2 (alt)"
+      "-1",
+      "-2 (alt)",
+      "-2"
     ],
     "options_en": [
-      "-2",
-      "-1",
       "2",
-      "-2 (alt)"
+      "-1",
+      "-2 (alt)",
+      "-2"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -2 \\times 0 + -2 \\times 1 = 0 + -2 = -2$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -2 \\times 0 + -2 \\times 1 = 0 + -2 = -2$",
     "difficulty": 2,
@@ -3173,18 +3173,18 @@
     "question_zh": "a=(4,2), b=(0,-4), 求 a+b",
     "question_en": "a=(4,2), b=(0,-4), find a+b",
     "options_zh": [
+      "(0,-8)",
       "(4,-2)",
       "(4,6)",
-      "(0,-8)",
       "(-4,-6)"
     ],
     "options_en": [
+      "(0,-8)",
       "(4,-2)",
       "(4,6)",
-      "(0,-8)",
       "(-4,-6)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (4+0, 2+-4) = (4,-2)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (4+0, 2+-4) = (4,-2)$",
     "difficulty": 2,
@@ -3201,18 +3201,18 @@
     "question_zh": "a=(-4,2), b=(-4,0), 求 a+b",
     "question_en": "a=(-4,2), b=(-4,0), find a+b",
     "options_zh": [
-      "(-8,2)",
       "(0,2)",
+      "(-8,2)",
       "(16,0)",
       "(0,-2)"
     ],
     "options_en": [
-      "(-8,2)",
       "(0,2)",
+      "(-8,2)",
       "(16,0)",
       "(0,-2)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-4+-4, 2+0) = (-8,2)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-4+-4, 2+0) = (-8,2)$",
     "difficulty": 2,
@@ -3230,14 +3230,14 @@
     "question_en": "a=(-2,5), b=(4,-5), find a+b",
     "options_zh": [
       "(2,0)",
-      "(-6,10)",
       "(-8,-25)",
+      "(-6,10)",
       "(6,-10)"
     ],
     "options_en": [
       "(2,0)",
-      "(-6,10)",
       "(-8,-25)",
+      "(-6,10)",
       "(6,-10)"
     ],
     "answer": 0,
@@ -3257,18 +3257,18 @@
     "question_zh": "a=(5,1), b=(0,4), find a·b",
     "question_en": "a=(5,1), b=(0,4), find a·b",
     "options_zh": [
-      "4",
-      "5",
       "4 (alt)",
-      "20"
+      "20",
+      "4",
+      "5"
     ],
     "options_en": [
-      "4",
-      "5",
       "4 (alt)",
-      "20"
+      "20",
+      "4",
+      "5"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 5 \\times 0 + 1 \\times 4 = 0 + 4 = 4$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 5 \\times 0 + 1 \\times 4 = 0 + 4 = 4$",
     "difficulty": 1,
@@ -3285,18 +3285,18 @@
     "question_zh": "a=(-2,4), b=(-3,3), find a·b",
     "question_en": "a=(-2,4), b=(-3,3), find a·b",
     "options_zh": [
-      "18",
-      "19",
       "18 (alt)",
-      "-18"
+      "19",
+      "-18",
+      "18"
     ],
     "options_en": [
-      "18",
-      "19",
       "18 (alt)",
-      "-18"
+      "19",
+      "-18",
+      "18"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -2 \\times -3 + 4 \\times 3 = 6 + 12 = 18$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -2 \\times -3 + 4 \\times 3 = 6 + 12 = 18$",
     "difficulty": 2,
@@ -3314,15 +3314,15 @@
     "question_en": "a=(-2,0), b=(2,2), find a+b",
     "options_zh": [
       "(0,2)",
+      "(4,2)",
       "(-4,-2)",
-      "(-4,0)",
-      "(4,2)"
+      "(-4,0)"
     ],
     "options_en": [
       "(0,2)",
+      "(4,2)",
       "(-4,-2)",
-      "(-4,0)",
-      "(4,2)"
+      "(-4,0)"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-2+2, 0+2) = (0,2)$",
@@ -3341,18 +3341,18 @@
     "question_zh": "a=(-2,-3), b=(1,-4), 求 a+b",
     "question_en": "a=(-2,-3), b=(1,-4), find a+b",
     "options_zh": [
-      "(-1,-7)",
-      "(-3,1)",
+      "(3,-1)",
       "(-2,12)",
-      "(3,-1)"
+      "(-3,1)",
+      "(-1,-7)"
     ],
     "options_en": [
-      "(-1,-7)",
-      "(-3,1)",
+      "(3,-1)",
       "(-2,12)",
-      "(3,-1)"
+      "(-3,1)",
+      "(-1,-7)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-2+1, -3+-4) = (-1,-7)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-2+1, -3+-4) = (-1,-7)$",
     "difficulty": 1,
@@ -3369,18 +3369,18 @@
     "question_zh": "a=(-4,5), b=(5,2), 求 a+b",
     "question_en": "a=(-4,5), b=(5,2), find a+b",
     "options_zh": [
-      "(1,7)",
-      "(-9,3)",
       "(-20,10)",
+      "(-9,3)",
+      "(1,7)",
       "(9,-3)"
     ],
     "options_en": [
-      "(1,7)",
-      "(-9,3)",
       "(-20,10)",
+      "(-9,3)",
+      "(1,7)",
       "(9,-3)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-4+5, 5+2) = (1,7)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-4+5, 5+2) = (1,7)$",
     "difficulty": 2,
@@ -3398,15 +3398,15 @@
     "question_en": "a=(2,1), find 5a",
     "options_zh": [
       "(10,5)",
-      "(7,6)",
+      "(15,10)",
       "(2,1)",
-      "(15,10)"
+      "(7,6)"
     ],
     "options_en": [
       "(10,5)",
-      "(7,6)",
+      "(15,10)",
       "(2,1)",
-      "(15,10)"
+      "(7,6)"
     ],
     "answer": 0,
     "explanation_zh": "$5\\vec{a} = 5(2,1) = (5 \\times 2, 5 \\times 1) = (10,5)$",
@@ -3425,18 +3425,18 @@
     "question_zh": "a=(-1,-2), b=(-2,-1), find a·b",
     "question_en": "a=(-1,-2), b=(-2,-1), find a·b",
     "options_zh": [
-      "4",
-      "5",
       "4 (alt)",
-      "5 (alt)"
+      "5 (alt)",
+      "4",
+      "5"
     ],
     "options_en": [
-      "4",
-      "5",
       "4 (alt)",
-      "5 (alt)"
+      "5 (alt)",
+      "4",
+      "5"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -1 \\times -2 + -2 \\times -1 = 2 + 2 = 4$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -1 \\times -2 + -2 \\times -1 = 2 + 2 = 4$",
     "difficulty": 2,
@@ -3453,18 +3453,18 @@
     "question_zh": "a=(1,1), find 5a",
     "question_en": "a=(1,1), find 5a",
     "options_zh": [
-      "(5,5)",
+      "(10,10)",
       "(6,6)",
       "(1,1)",
-      "(10,10)"
+      "(5,5)"
     ],
     "options_en": [
-      "(5,5)",
+      "(10,10)",
       "(6,6)",
       "(1,1)",
-      "(10,10)"
+      "(5,5)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$5\\vec{a} = 5(1,1) = (5 \\times 1, 5 \\times 1) = (5,5)$",
     "explanation_en": "$5\\vec{a} = 5(1,1) = (5 \\times 1, 5 \\times 1) = (5,5)$",
     "difficulty": 3,
@@ -3482,14 +3482,14 @@
     "question_en": "a=(0,2), b=(-3,2), find a+b",
     "options_zh": [
       "(-3,4)",
-      "(3,0)",
       "(0,4)",
+      "(3,0)",
       "(-3,0)"
     ],
     "options_en": [
       "(-3,4)",
-      "(3,0)",
       "(0,4)",
+      "(3,0)",
       "(-3,0)"
     ],
     "answer": 0,
@@ -3509,18 +3509,18 @@
     "question_zh": "a=(1,4), b=(5,3), 求 a+b",
     "question_en": "a=(1,4), b=(5,3), find a+b",
     "options_zh": [
-      "(6,7)",
       "(-4,1)",
+      "(4,-1)",
       "(5,12)",
-      "(4,-1)"
+      "(6,7)"
     ],
     "options_en": [
-      "(6,7)",
       "(-4,1)",
+      "(4,-1)",
       "(5,12)",
-      "(4,-1)"
+      "(6,7)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (1+5, 4+3) = (6,7)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (1+5, 4+3) = (6,7)$",
     "difficulty": 1,
@@ -3537,18 +3537,18 @@
     "question_zh": "a=(4,4), b=(1,3), 求 a+b",
     "question_en": "a=(4,4), b=(1,3), find a+b",
     "options_zh": [
-      "(5,7)",
       "(3,1)",
+      "(-3,-1)",
       "(4,12)",
-      "(-3,-1)"
+      "(5,7)"
     ],
     "options_en": [
-      "(5,7)",
       "(3,1)",
+      "(-3,-1)",
       "(4,12)",
-      "(-3,-1)"
+      "(5,7)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (4+1, 4+3) = (5,7)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (4+1, 4+3) = (5,7)$",
     "difficulty": 2,
@@ -3594,15 +3594,15 @@
     "question_en": "a=(-1,5), b=(4,1), find a+b",
     "options_zh": [
       "(3,6)",
-      "(-5,4)",
+      "(5,-4)",
       "(-4,5)",
-      "(5,-4)"
+      "(-5,4)"
     ],
     "options_en": [
       "(3,6)",
-      "(-5,4)",
+      "(5,-4)",
       "(-4,5)",
-      "(5,-4)"
+      "(-5,4)"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-1+4, 5+1) = (3,6)$",
@@ -3621,18 +3621,18 @@
     "question_zh": "a=(-1,0), b=(-3,5), find a·b",
     "question_en": "a=(-1,0), b=(-3,5), find a·b",
     "options_zh": [
-      "3",
       "4",
-      "3 (alt)",
-      "-5"
+      "-5",
+      "3",
+      "3 (alt)"
     ],
     "options_en": [
-      "3",
       "4",
-      "3 (alt)",
-      "-5"
+      "-5",
+      "3",
+      "3 (alt)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -1 \\times -3 + 0 \\times 5 = 3 + 0 = 3$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -1 \\times -3 + 0 \\times 5 = 3 + 0 = 3$",
     "difficulty": 3,
@@ -3650,14 +3650,14 @@
     "question_en": "a=(2,1), b=(3,-4), find a+b",
     "options_zh": [
       "(5,-3)",
-      "(-1,5)",
       "(6,-4)",
+      "(-1,5)",
       "(1,-5)"
     ],
     "options_en": [
       "(5,-3)",
-      "(-1,5)",
       "(6,-4)",
+      "(-1,5)",
       "(1,-5)"
     ],
     "answer": 0,
@@ -3705,18 +3705,18 @@
     "question_zh": "a=(3,1), find 4a",
     "question_en": "a=(3,1), find 4a",
     "options_zh": [
-      "(12,4)",
       "(7,5)",
-      "(3,1)",
-      "(16,8)"
+      "(16,8)",
+      "(12,4)",
+      "(3,1)"
     ],
     "options_en": [
-      "(12,4)",
       "(7,5)",
-      "(3,1)",
-      "(16,8)"
+      "(16,8)",
+      "(12,4)",
+      "(3,1)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$4\\vec{a} = 4(3,1) = (4 \\times 3, 4 \\times 1) = (12,4)$",
     "explanation_en": "$4\\vec{a} = 4(3,1) = (4 \\times 3, 4 \\times 1) = (12,4)$",
     "difficulty": 2,
@@ -3733,18 +3733,18 @@
     "question_zh": "a=(-4,5), b=(0,0), 求 a+b",
     "question_en": "a=(-4,5), b=(0,0), find a+b",
     "options_zh": [
-      "(-4,5)",
+      "(4,-5)",
       "(-4,5) (備選)",
       "(0,0)",
-      "(4,-5)"
+      "(-4,5)"
     ],
     "options_en": [
-      "(-4,5)",
+      "(4,-5)",
       "(-4,5) (alt)",
       "(0,0)",
-      "(4,-5)"
+      "(-4,5)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-4+0, 5+0) = (-4,5)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-4+0, 5+0) = (-4,5)$",
     "difficulty": 2,
@@ -3761,18 +3761,18 @@
     "question_zh": "a=(-3,-3), b=(2,3), find a·b",
     "question_en": "a=(-3,-3), b=(2,3), find a·b",
     "options_zh": [
-      "-15",
       "-14",
+      "-15 (alt)",
       "15",
-      "-15 (alt)"
+      "-15"
     ],
     "options_en": [
-      "-15",
       "-14",
+      "-15 (alt)",
       "15",
-      "-15 (alt)"
+      "-15"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -3 \\times 2 + -3 \\times 3 = -6 + -9 = -15$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -3 \\times 2 + -3 \\times 3 = -6 + -9 = -15$",
     "difficulty": 1,
@@ -3790,14 +3790,14 @@
     "question_en": "a=(-3,5), b=(0,0), find a·b",
     "options_zh": [
       "0",
-      "1",
       "0 (alt)",
+      "1",
       "0 (alt) (alt)"
     ],
     "options_en": [
       "0",
-      "1",
       "0 (alt)",
+      "1",
       "0 (alt) (alt)"
     ],
     "answer": 0,
@@ -3818,15 +3818,15 @@
     "question_en": "a=(-3,-2), find 5a",
     "options_zh": [
       "(-15,-10)",
+      "(-10,-5)",
       "(2,3)",
-      "(-3,-2)",
-      "(-10,-5)"
+      "(-3,-2)"
     ],
     "options_en": [
       "(-15,-10)",
+      "(-10,-5)",
       "(2,3)",
-      "(-3,-2)",
-      "(-10,-5)"
+      "(-3,-2)"
     ],
     "answer": 0,
     "explanation_zh": "$5\\vec{a} = 5(-3,-2) = (5 \\times -3, 5 \\times -2) = (-15,-10)$",
@@ -3873,18 +3873,18 @@
     "question_zh": "a=(-4,0), b=(5,4), find a·b",
     "question_en": "a=(-4,0), b=(5,4), find a·b",
     "options_zh": [
-      "-20",
       "-19",
       "20",
-      "-16"
+      "-16",
+      "-20"
     ],
     "options_en": [
-      "-20",
       "-19",
       "20",
-      "-16"
+      "-16",
+      "-20"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -4 \\times 5 + 0 \\times 4 = -20 + 0 = -20$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -4 \\times 5 + 0 \\times 4 = -20 + 0 = -20$",
     "difficulty": 1,
@@ -3901,18 +3901,18 @@
     "question_zh": "a=(5,2), b=(4,-5), find a·b",
     "question_en": "a=(5,2), b=(4,-5), find a·b",
     "options_zh": [
-      "10",
-      "11",
       "10 (alt)",
-      "-17"
+      "-17",
+      "10",
+      "11"
     ],
     "options_en": [
-      "10",
-      "11",
       "10 (alt)",
-      "-17"
+      "-17",
+      "10",
+      "11"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 5 \\times 4 + 2 \\times -5 = 20 + -10 = 10$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 5 \\times 4 + 2 \\times -5 = 20 + -10 = 10$",
     "difficulty": 2,
@@ -3929,18 +3929,18 @@
     "question_zh": "a=(4,2), b=(-1,4), find a·b",
     "question_en": "a=(4,2), b=(-1,4), find a·b",
     "options_zh": [
-      "4",
       "5",
+      "4",
       "4 (alt)",
       "14"
     ],
     "options_en": [
-      "4",
       "5",
+      "4",
       "4 (alt)",
       "14"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 4 \\times -1 + 2 \\times 4 = -4 + 8 = 4$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 4 \\times -1 + 2 \\times 4 = -4 + 8 = 4$",
     "difficulty": 2,
@@ -3957,18 +3957,18 @@
     "question_zh": "a=(2,-4), b=(2,2), find a·b",
     "question_en": "a=(2,-4), b=(2,2), find a·b",
     "options_zh": [
-      "-4",
-      "-3",
       "4",
+      "-3",
+      "-4",
       "-4 (alt)"
     ],
     "options_en": [
-      "-4",
-      "-3",
       "4",
+      "-3",
+      "-4",
       "-4 (alt)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 2 \\times 2 + -4 \\times 2 = 4 + -8 = -4$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 2 \\times 2 + -4 \\times 2 = 4 + -8 = -4$",
     "difficulty": 1,
@@ -3985,18 +3985,18 @@
     "question_zh": "求向量 (-6,8) 的模",
     "question_en": "Find |(-6,8)|",
     "options_zh": [
-      "10",
       "14",
-      "48",
-      "11"
+      "10",
+      "11",
+      "48"
     ],
     "options_en": [
-      "10",
       "14",
-      "48",
-      "11"
+      "10",
+      "11",
+      "48"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{-6^2 + 8^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10$",
     "explanation_en": "$|\\vec{a}| = \\sqrt{-6^2 + 8^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10$",
     "difficulty": 2,
@@ -4013,18 +4013,18 @@
     "question_zh": "a=(-5,3), b=(-3,-3), 求 a+b",
     "question_en": "a=(-5,3), b=(-3,-3), find a+b",
     "options_zh": [
-      "(-8,0)",
+      "(2,-6)",
       "(-2,6)",
-      "(15,-9)",
-      "(2,-6)"
+      "(-8,0)",
+      "(15,-9)"
     ],
     "options_en": [
-      "(-8,0)",
+      "(2,-6)",
       "(-2,6)",
-      "(15,-9)",
-      "(2,-6)"
+      "(-8,0)",
+      "(15,-9)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-5+-3, 3+-3) = (-8,0)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-5+-3, 3+-3) = (-8,0)$",
     "difficulty": 3,
@@ -4041,18 +4041,18 @@
     "question_zh": "a=(3,-3), find 4a",
     "question_en": "a=(3,-3), find 4a",
     "options_zh": [
+      "(16,-8)",
       "(12,-12)",
-      "(7,1)",
       "(3,-3)",
-      "(16,-8)"
+      "(7,1)"
     ],
     "options_en": [
+      "(16,-8)",
       "(12,-12)",
-      "(7,1)",
       "(3,-3)",
-      "(16,-8)"
+      "(7,1)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$4\\vec{a} = 4(3,-3) = (4 \\times 3, 4 \\times -3) = (12,-12)$",
     "explanation_en": "$4\\vec{a} = 4(3,-3) = (4 \\times 3, 4 \\times -3) = (12,-12)$",
     "difficulty": 2,
@@ -4069,18 +4069,18 @@
     "question_zh": "a=(1,-1), b=(3,-1), 求 a+b",
     "question_en": "a=(1,-1), b=(3,-1), find a+b",
     "options_zh": [
-      "(4,-2)",
-      "(-2,0)",
+      "(2,0)",
       "(3,1)",
-      "(2,0)"
+      "(-2,0)",
+      "(4,-2)"
     ],
     "options_en": [
-      "(4,-2)",
-      "(-2,0)",
+      "(2,0)",
       "(3,1)",
-      "(2,0)"
+      "(-2,0)",
+      "(4,-2)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (1+3, -1+-1) = (4,-2)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (1+3, -1+-1) = (4,-2)$",
     "difficulty": 1,
@@ -4097,18 +4097,18 @@
     "question_zh": "a=(2,2), b=(0,-1), find a·b",
     "question_en": "a=(2,2), b=(0,-1), find a·b",
     "options_zh": [
-      "-2",
-      "-1",
       "2",
+      "-1",
+      "-2",
       "-2 (alt)"
     ],
     "options_en": [
-      "-2",
-      "-1",
       "2",
+      "-1",
+      "-2",
       "-2 (alt)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 2 \\times 0 + 2 \\times -1 = 0 + -2 = -2$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 2 \\times 0 + 2 \\times -1 = 0 + -2 = -2$",
     "difficulty": 2,
@@ -4125,18 +4125,18 @@
     "question_zh": "求向量 (-7,-24) 的模",
     "question_en": "Find |(-7,-24)|",
     "options_zh": [
-      "25",
-      "31",
       "168",
-      "26"
+      "25",
+      "26",
+      "31"
     ],
     "options_en": [
-      "25",
-      "31",
       "168",
-      "26"
+      "25",
+      "26",
+      "31"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{-7^2 + -24^2} = \\sqrt{49 + 576} = \\sqrt{625} = 25$",
     "explanation_en": "$|\\vec{a}| = \\sqrt{-7^2 + -24^2} = \\sqrt{49 + 576} = \\sqrt{625} = 25$",
     "difficulty": 1,
@@ -4154,15 +4154,15 @@
     "question_en": "a=(3,-4), b=(3,-4), find a·b",
     "options_zh": [
       "25",
+      "-24",
       "26",
-      "25 (alt)",
-      "-24"
+      "25 (alt)"
     ],
     "options_en": [
       "25",
+      "-24",
       "26",
-      "25 (alt)",
-      "-24"
+      "25 (alt)"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 3 \\times 3 + -4 \\times -4 = 9 + 16 = 25$",
@@ -4182,15 +4182,15 @@
     "question_en": "Find unit vector in direction (5,12)",
     "options_zh": [
       "(5/13, 12/13)",
+      "(1,1)",
       "(5,12)",
-      "(5,12) (備選)",
-      "(1,1)"
+      "(5,12) (備選)"
     ],
     "options_en": [
       "(5/13, 12/13)",
+      "(1,1)",
       "(5,12)",
-      "(5,12) (alt)",
-      "(1,1)"
+      "(5,12) (alt)"
     ],
     "answer": 0,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{5^2+12^2} = 13$\n$\\hat{a} = \\frac{(5,12)}{13} = (5/13, 12/13)$",
@@ -4209,18 +4209,18 @@
     "question_zh": "a=(-5,1), b=(-4,3), 求 a+b",
     "question_en": "a=(-5,1), b=(-4,3), find a+b",
     "options_zh": [
-      "(-9,4)",
-      "(-1,-2)",
+      "(1,2)",
       "(20,3)",
-      "(1,2)"
+      "(-9,4)",
+      "(-1,-2)"
     ],
     "options_en": [
-      "(-9,4)",
-      "(-1,-2)",
+      "(1,2)",
       "(20,3)",
-      "(1,2)"
+      "(-9,4)",
+      "(-1,-2)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-5+-4, 1+3) = (-9,4)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-5+-4, 1+3) = (-9,4)$",
     "difficulty": 1,
@@ -4237,18 +4237,18 @@
     "question_zh": "a=(2,2), find 3a",
     "question_en": "a=(2,2), find 3a",
     "options_zh": [
-      "(6,6)",
-      "(5,5)",
       "(2,2)",
-      "(9,9)"
+      "(5,5)",
+      "(9,9)",
+      "(6,6)"
     ],
     "options_en": [
-      "(6,6)",
-      "(5,5)",
       "(2,2)",
-      "(9,9)"
+      "(5,5)",
+      "(9,9)",
+      "(6,6)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$3\\vec{a} = 3(2,2) = (3 \\times 2, 3 \\times 2) = (6,6)$",
     "explanation_en": "$3\\vec{a} = 3(2,2) = (3 \\times 2, 3 \\times 2) = (6,6)$",
     "difficulty": 1,
@@ -4265,18 +4265,18 @@
     "question_zh": "a=(2,-4), b=(2,-1), 求 a+b",
     "question_en": "a=(2,-4), b=(2,-1), find a+b",
     "options_zh": [
-      "(4,-5)",
       "(0,-3)",
-      "(4,4)",
-      "(0,3)"
+      "(0,3)",
+      "(4,-5)",
+      "(4,4)"
     ],
     "options_en": [
-      "(4,-5)",
       "(0,-3)",
-      "(4,4)",
-      "(0,3)"
+      "(0,3)",
+      "(4,-5)",
+      "(4,4)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (2+2, -4+-1) = (4,-5)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (2+2, -4+-1) = (4,-5)$",
     "difficulty": 2,
@@ -4293,18 +4293,18 @@
     "question_zh": "a=(-3,4), b=(-3,2), 求 a+b",
     "question_en": "a=(-3,4), b=(-3,2), find a+b",
     "options_zh": [
+      "(0,-2)",
       "(-6,6)",
-      "(0,2)",
       "(9,8)",
-      "(0,-2)"
+      "(0,2)"
     ],
     "options_en": [
+      "(0,-2)",
       "(-6,6)",
-      "(0,2)",
       "(9,8)",
-      "(0,-2)"
+      "(0,2)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-3+-3, 4+2) = (-6,6)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-3+-3, 4+2) = (-6,6)$",
     "difficulty": 3,
@@ -4321,18 +4321,18 @@
     "question_zh": "a=(0,2), b=(-2,1), find a·b",
     "question_en": "a=(0,2), b=(-2,1), find a·b",
     "options_zh": [
-      "2",
-      "3",
       "2 (alt)",
-      "-4"
+      "3",
+      "-4",
+      "2"
     ],
     "options_en": [
-      "2",
-      "3",
       "2 (alt)",
-      "-4"
+      "3",
+      "-4",
+      "2"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 0 \\times -2 + 2 \\times 1 = 0 + 2 = 2$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 0 \\times -2 + 2 \\times 1 = 0 + 2 = 2$",
     "difficulty": 2,
@@ -4350,15 +4350,15 @@
     "question_en": "a=(3,-1), b=(1,4), find a·b",
     "options_zh": [
       "-1",
+      "11",
       "0",
-      "1",
-      "11"
+      "1"
     ],
     "options_en": [
       "-1",
+      "11",
       "0",
-      "1",
-      "11"
+      "1"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 3 \\times 1 + -1 \\times 4 = 3 + -4 = -1$",
@@ -4377,18 +4377,18 @@
     "question_zh": "a=(-1,1), find 4a",
     "question_en": "a=(-1,1), find 4a",
     "options_zh": [
-      "(-4,4)",
-      "(3,5)",
       "(-1,1)",
-      "(0,8)"
+      "(3,5)",
+      "(0,8)",
+      "(-4,4)"
     ],
     "options_en": [
-      "(-4,4)",
-      "(3,5)",
       "(-1,1)",
-      "(0,8)"
+      "(3,5)",
+      "(0,8)",
+      "(-4,4)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$4\\vec{a} = 4(-1,1) = (4 \\times -1, 4 \\times 1) = (-4,4)$",
     "explanation_en": "$4\\vec{a} = 4(-1,1) = (4 \\times -1, 4 \\times 1) = (-4,4)$",
     "difficulty": 2,
@@ -4405,18 +4405,18 @@
     "question_zh": "a=(2,-2), b=(-2,-3), find a·b",
     "question_en": "a=(2,-2), b=(-2,-3), find a·b",
     "options_zh": [
-      "2",
-      "3",
+      "-2",
       "2 (alt)",
-      "-2"
+      "3",
+      "2"
     ],
     "options_en": [
-      "2",
-      "3",
+      "-2",
       "2 (alt)",
-      "-2"
+      "3",
+      "2"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 2 \\times -2 + -2 \\times -3 = -4 + 6 = 2$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 2 \\times -2 + -2 \\times -3 = -4 + 6 = 2$",
     "difficulty": 3,
@@ -4433,18 +4433,18 @@
     "question_zh": "a=(1,0), b=(-5,1), find a·b",
     "question_en": "a=(1,0), b=(-5,1), find a·b",
     "options_zh": [
-      "-5",
       "-4",
       "5",
+      "-5",
       "1"
     ],
     "options_en": [
-      "-5",
       "-4",
       "5",
+      "-5",
       "1"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 1 \\times -5 + 0 \\times 1 = -5 + 0 = -5$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 1 \\times -5 + 0 \\times 1 = -5 + 0 = -5$",
     "difficulty": 2,
@@ -4461,18 +4461,18 @@
     "question_zh": "a=(-4,0), find 3a",
     "question_en": "a=(-4,0), find 3a",
     "options_zh": [
-      "(-12,0)",
-      "(-1,3)",
       "(-4,0)",
-      "(-9,3)"
+      "(-12,0)",
+      "(-9,3)",
+      "(-1,3)"
     ],
     "options_en": [
-      "(-12,0)",
-      "(-1,3)",
       "(-4,0)",
-      "(-9,3)"
+      "(-12,0)",
+      "(-9,3)",
+      "(-1,3)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$3\\vec{a} = 3(-4,0) = (3 \\times -4, 3 \\times 0) = (-12,0)$",
     "explanation_en": "$3\\vec{a} = 3(-4,0) = (3 \\times -4, 3 \\times 0) = (-12,0)$",
     "difficulty": 3,
@@ -4489,18 +4489,18 @@
     "question_zh": "a=(4,-1), find 2a",
     "question_en": "a=(4,-1), find 2a",
     "options_zh": [
-      "(8,-2)",
       "(6,1)",
-      "(4,-1)",
-      "(10,0)"
+      "(8,-2)",
+      "(10,0)",
+      "(4,-1)"
     ],
     "options_en": [
-      "(8,-2)",
       "(6,1)",
-      "(4,-1)",
-      "(10,0)"
+      "(8,-2)",
+      "(10,0)",
+      "(4,-1)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$2\\vec{a} = 2(4,-1) = (2 \\times 4, 2 \\times -1) = (8,-2)$",
     "explanation_en": "$2\\vec{a} = 2(4,-1) = (2 \\times 4, 2 \\times -1) = (8,-2)$",
     "difficulty": 2,
@@ -4517,18 +4517,18 @@
     "question_zh": "a=(2,1), b=(-3,0), find a·b",
     "question_en": "a=(2,1), b=(-3,0), find a·b",
     "options_zh": [
-      "-6",
+      "-3",
       "-5",
       "6",
-      "-3"
+      "-6"
     ],
     "options_en": [
-      "-6",
+      "-3",
       "-5",
       "6",
-      "-3"
+      "-6"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 2 \\times -3 + 1 \\times 0 = -6 + 0 = -6$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 2 \\times -3 + 1 \\times 0 = -6 + 0 = -6$",
     "difficulty": 1,
@@ -4545,18 +4545,18 @@
     "question_zh": "a=(0,-2), find 3a",
     "question_en": "a=(0,-2), find 3a",
     "options_zh": [
+      "(0,-2)",
       "(0,-6)",
       "(3,1)",
-      "(0,-2)",
       "(3,-3)"
     ],
     "options_en": [
+      "(0,-2)",
       "(0,-6)",
       "(3,1)",
-      "(0,-2)",
       "(3,-3)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$3\\vec{a} = 3(0,-2) = (3 \\times 0, 3 \\times -2) = (0,-6)$",
     "explanation_en": "$3\\vec{a} = 3(0,-2) = (3 \\times 0, 3 \\times -2) = (0,-6)$",
     "difficulty": 2,
@@ -4573,18 +4573,18 @@
     "question_zh": "a=(-2,-3), b=(0,-1), find a·b",
     "question_en": "a=(-2,-3), b=(0,-1), find a·b",
     "options_zh": [
-      "3",
-      "4",
+      "2",
       "3 (alt)",
-      "2"
+      "4",
+      "3"
     ],
     "options_en": [
-      "3",
-      "4",
+      "2",
       "3 (alt)",
-      "2"
+      "4",
+      "3"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -2 \\times 0 + -3 \\times -1 = 0 + 3 = 3$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -2 \\times 0 + -3 \\times -1 = 0 + 3 = 3$",
     "difficulty": 1,
@@ -4603,14 +4603,14 @@
     "options_zh": [
       "(6,-2)",
       "(4,-2)",
-      "(5,0)",
-      "(-4,2)"
+      "(-4,2)",
+      "(5,0)"
     ],
     "options_en": [
       "(6,-2)",
       "(4,-2)",
-      "(5,0)",
-      "(-4,2)"
+      "(-4,2)",
+      "(5,0)"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (5+1, -2+0) = (6,-2)$",
@@ -4630,15 +4630,15 @@
     "question_en": "a=(-4,0), b=(3,5), find a·b",
     "options_zh": [
       "-12",
+      "-20",
       "-11",
-      "12",
-      "-20"
+      "12"
     ],
     "options_en": [
       "-12",
+      "-20",
       "-11",
-      "12",
-      "-20"
+      "12"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -4 \\times 3 + 0 \\times 5 = -12 + 0 = -12$",
@@ -4657,18 +4657,18 @@
     "question_zh": "a=(-5,5), b=(0,-1), 求 a+b",
     "question_en": "a=(-5,5), b=(0,-1), find a+b",
     "options_zh": [
-      "(-5,4)",
-      "(-5,6)",
       "(0,-5)",
-      "(5,-6)"
+      "(-5,4)",
+      "(5,-6)",
+      "(-5,6)"
     ],
     "options_en": [
-      "(-5,4)",
-      "(-5,6)",
       "(0,-5)",
-      "(5,-6)"
+      "(-5,4)",
+      "(5,-6)",
+      "(-5,6)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-5+0, 5+-1) = (-5,4)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-5+0, 5+-1) = (-5,4)$",
     "difficulty": 1,
@@ -4686,15 +4686,15 @@
     "question_en": "a=(-4,1), b=(-5,-4), find a+b",
     "options_zh": [
       "(-9,-3)",
-      "(1,5)",
+      "(-1,-5)",
       "(20,-4)",
-      "(-1,-5)"
+      "(1,5)"
     ],
     "options_en": [
       "(-9,-3)",
-      "(1,5)",
+      "(-1,-5)",
       "(20,-4)",
-      "(-1,-5)"
+      "(1,5)"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-4+-5, 1+-4) = (-9,-3)$",
@@ -4713,18 +4713,18 @@
     "question_zh": "a=(4,2), b=(4,-3), 求 a+b",
     "question_en": "a=(4,2), b=(4,-3), find a+b",
     "options_zh": [
-      "(8,-1)",
       "(0,5)",
+      "(8,-1)",
       "(16,-6)",
       "(0,-5)"
     ],
     "options_en": [
-      "(8,-1)",
       "(0,5)",
+      "(8,-1)",
       "(16,-6)",
       "(0,-5)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (4+4, 2+-3) = (8,-1)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (4+4, 2+-3) = (8,-1)$",
     "difficulty": 2,
@@ -4741,18 +4741,18 @@
     "question_zh": "a=(2,0), find 4a",
     "question_en": "a=(2,0), find 4a",
     "options_zh": [
-      "(8,0)",
       "(6,4)",
-      "(2,0)",
-      "(12,4)"
+      "(8,0)",
+      "(12,4)",
+      "(2,0)"
     ],
     "options_en": [
-      "(8,0)",
       "(6,4)",
-      "(2,0)",
-      "(12,4)"
+      "(8,0)",
+      "(12,4)",
+      "(2,0)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$4\\vec{a} = 4(2,0) = (4 \\times 2, 4 \\times 0) = (8,0)$",
     "explanation_en": "$4\\vec{a} = 4(2,0) = (4 \\times 2, 4 \\times 0) = (8,0)$",
     "difficulty": 3,
@@ -4769,18 +4769,18 @@
     "question_zh": "a=(0,-4), find 3a",
     "question_en": "a=(0,-4), find 3a",
     "options_zh": [
-      "(0,-12)",
-      "(3,-1)",
+      "(3,-9)",
       "(0,-4)",
-      "(3,-9)"
+      "(3,-1)",
+      "(0,-12)"
     ],
     "options_en": [
-      "(0,-12)",
-      "(3,-1)",
+      "(3,-9)",
       "(0,-4)",
-      "(3,-9)"
+      "(3,-1)",
+      "(0,-12)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$3\\vec{a} = 3(0,-4) = (3 \\times 0, 3 \\times -4) = (0,-12)$",
     "explanation_en": "$3\\vec{a} = 3(0,-4) = (3 \\times 0, 3 \\times -4) = (0,-12)$",
     "difficulty": 1,
@@ -4797,18 +4797,18 @@
     "question_zh": "a=(-1,4), b=(3,-3), find a·b",
     "question_en": "a=(-1,4), b=(3,-3), find a·b",
     "options_zh": [
-      "-15",
-      "-14",
       "15",
+      "-14",
+      "-15",
       "15 (alt)"
     ],
     "options_en": [
-      "-15",
-      "-14",
       "15",
+      "-14",
+      "-15",
       "15 (alt)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -1 \\times 3 + 4 \\times -3 = -3 + -12 = -15$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -1 \\times 3 + 4 \\times -3 = -3 + -12 = -15$",
     "difficulty": 1,
@@ -4825,18 +4825,18 @@
     "question_zh": "a=(4,-1), find 3a",
     "question_en": "a=(4,-1), find 3a",
     "options_zh": [
-      "(12,-3)",
       "(7,2)",
       "(4,-1)",
-      "(15,0)"
+      "(15,0)",
+      "(12,-3)"
     ],
     "options_en": [
-      "(12,-3)",
       "(7,2)",
       "(4,-1)",
-      "(15,0)"
+      "(15,0)",
+      "(12,-3)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$3\\vec{a} = 3(4,-1) = (3 \\times 4, 3 \\times -1) = (12,-3)$",
     "explanation_en": "$3\\vec{a} = 3(4,-1) = (3 \\times 4, 3 \\times -1) = (12,-3)$",
     "difficulty": 2,
@@ -4853,18 +4853,18 @@
     "question_zh": "求向量 (9,-12) 的模",
     "question_en": "Find |(9,-12)|",
     "options_zh": [
-      "15",
       "21",
-      "108",
-      "16"
+      "15",
+      "16",
+      "108"
     ],
     "options_en": [
-      "15",
       "21",
-      "108",
-      "16"
+      "15",
+      "16",
+      "108"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{9^2 + -12^2} = \\sqrt{81 + 144} = \\sqrt{225} = 15$",
     "explanation_en": "$|\\vec{a}| = \\sqrt{9^2 + -12^2} = \\sqrt{81 + 144} = \\sqrt{225} = 15$",
     "difficulty": 1,
@@ -4881,18 +4881,18 @@
     "question_zh": "a=(1,-2), b=(-3,4), find a·b",
     "question_en": "a=(1,-2), b=(-3,4), find a·b",
     "options_zh": [
-      "-11",
-      "-10",
       "11",
-      "10"
+      "-11",
+      "10",
+      "-10"
     ],
     "options_en": [
-      "-11",
-      "-10",
       "11",
-      "10"
+      "-11",
+      "10",
+      "-10"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 1 \\times -3 + -2 \\times 4 = -3 + -8 = -11$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 1 \\times -3 + -2 \\times 4 = -3 + -8 = -11$",
     "difficulty": 2,
@@ -4909,18 +4909,18 @@
     "question_zh": "a=(-2,2), b=(-3,-4), 求 a+b",
     "question_en": "a=(-2,2), b=(-3,-4), find a+b",
     "options_zh": [
-      "(-5,-2)",
-      "(1,6)",
+      "(-1,-6)",
       "(6,-8)",
-      "(-1,-6)"
+      "(-5,-2)",
+      "(1,6)"
     ],
     "options_en": [
-      "(-5,-2)",
-      "(1,6)",
+      "(-1,-6)",
       "(6,-8)",
-      "(-1,-6)"
+      "(-5,-2)",
+      "(1,6)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-2+-3, 2+-4) = (-5,-2)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-2+-3, 2+-4) = (-5,-2)$",
     "difficulty": 1,
@@ -4938,15 +4938,15 @@
     "question_en": "a=(-5,5), b=(3,1), find a·b",
     "options_zh": [
       "-10",
+      "10 (alt)",
       "-9",
-      "10",
-      "10 (alt)"
+      "10"
     ],
     "options_en": [
       "-10",
+      "10 (alt)",
       "-9",
-      "10",
-      "10 (alt)"
+      "10"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -5 \\times 3 + 5 \\times 1 = -15 + 5 = -10$",
@@ -4965,18 +4965,18 @@
     "question_zh": "a=(4,1), b=(0,1), 求 a+b",
     "question_en": "a=(4,1), b=(0,1), find a+b",
     "options_zh": [
-      "(4,2)",
       "(4,0)",
       "(0,1)",
+      "(4,2)",
       "(-4,0)"
     ],
     "options_en": [
-      "(4,2)",
       "(4,0)",
       "(0,1)",
+      "(4,2)",
       "(-4,0)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (4+0, 1+1) = (4,2)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (4+0, 1+1) = (4,2)$",
     "difficulty": 2,
@@ -4995,14 +4995,14 @@
     "options_zh": [
       "-1",
       "0",
-      "1",
-      "-9"
+      "-9",
+      "1"
     ],
     "options_en": [
       "-1",
       "0",
-      "1",
-      "-9"
+      "-9",
+      "1"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -3 \\times -3 + -2 \\times 5 = 9 + -10 = -1$",
@@ -5021,18 +5021,18 @@
     "question_zh": "a=(2,-1), b=(-4,-5), 求 a+b",
     "question_en": "a=(2,-1), b=(-4,-5), find a+b",
     "options_zh": [
-      "(-2,-6)",
-      "(6,4)",
+      "(-6,-4)",
       "(-8,5)",
-      "(-6,-4)"
+      "(6,4)",
+      "(-2,-6)"
     ],
     "options_en": [
-      "(-2,-6)",
-      "(6,4)",
+      "(-6,-4)",
       "(-8,5)",
-      "(-6,-4)"
+      "(6,4)",
+      "(-2,-6)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (2+-4, -1+-5) = (-2,-6)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (2+-4, -1+-5) = (-2,-6)$",
     "difficulty": 1,
@@ -5050,15 +5050,15 @@
     "question_en": "a=(-2,-4), b=(2,3), find a+b",
     "options_zh": [
       "(0,-1)",
-      "(-4,-7)",
+      "(4,7)",
       "(-4,-12)",
-      "(4,7)"
+      "(-4,-7)"
     ],
     "options_en": [
       "(0,-1)",
-      "(-4,-7)",
+      "(4,7)",
       "(-4,-12)",
-      "(4,7)"
+      "(-4,-7)"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-2+2, -4+3) = (0,-1)$",
@@ -5077,18 +5077,18 @@
     "question_zh": "a=(1,-5), b=(0,0), find a·b",
     "question_en": "a=(1,-5), b=(0,0), find a·b",
     "options_zh": [
-      "0",
-      "1",
+      "0 (alt) (alt)",
       "0 (alt)",
-      "0 (alt) (alt)"
+      "1",
+      "0"
     ],
     "options_en": [
-      "0",
-      "1",
+      "0 (alt) (alt)",
       "0 (alt)",
-      "0 (alt) (alt)"
+      "1",
+      "0"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 1 \\times 0 + -5 \\times 0 = 0 + 0 = 0$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 1 \\times 0 + -5 \\times 0 = 0 + 0 = 0$",
     "difficulty": 2,
@@ -5106,15 +5106,15 @@
     "question_en": "a=(-3,3), b=(4,2), find a·b",
     "options_zh": [
       "-6",
-      "-5",
+      "6 (alt)",
       "6",
-      "6 (alt)"
+      "-5"
     ],
     "options_en": [
       "-6",
-      "-5",
+      "6 (alt)",
       "6",
-      "6 (alt)"
+      "-5"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -3 \\times 4 + 3 \\times 2 = -12 + 6 = -6$",
@@ -5133,18 +5133,18 @@
     "question_zh": "a=(2,4), find 4a",
     "question_en": "a=(2,4), find 4a",
     "options_zh": [
+      "(2,4)",
       "(8,16)",
       "(6,8)",
-      "(2,4)",
       "(12,20)"
     ],
     "options_en": [
+      "(2,4)",
       "(8,16)",
       "(6,8)",
-      "(2,4)",
       "(12,20)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$4\\vec{a} = 4(2,4) = (4 \\times 2, 4 \\times 4) = (8,16)$",
     "explanation_en": "$4\\vec{a} = 4(2,4) = (4 \\times 2, 4 \\times 4) = (8,16)$",
     "difficulty": 3,
@@ -5161,18 +5161,18 @@
     "question_zh": "a=(1,2), find 4a",
     "question_en": "a=(1,2), find 4a",
     "options_zh": [
-      "(4,8)",
-      "(5,6)",
+      "(8,12)",
       "(1,2)",
-      "(8,12)"
+      "(4,8)",
+      "(5,6)"
     ],
     "options_en": [
-      "(4,8)",
-      "(5,6)",
+      "(8,12)",
       "(1,2)",
-      "(8,12)"
+      "(4,8)",
+      "(5,6)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$4\\vec{a} = 4(1,2) = (4 \\times 1, 4 \\times 2) = (4,8)$",
     "explanation_en": "$4\\vec{a} = 4(1,2) = (4 \\times 1, 4 \\times 2) = (4,8)$",
     "difficulty": 2,
@@ -5189,18 +5189,18 @@
     "question_zh": "a=(2,-2), b=(4,1), 求 a+b",
     "question_en": "a=(2,-2), b=(4,1), find a+b",
     "options_zh": [
-      "(6,-1)",
-      "(-2,-3)",
       "(8,-2)",
+      "(-2,-3)",
+      "(6,-1)",
       "(2,3)"
     ],
     "options_en": [
-      "(6,-1)",
-      "(-2,-3)",
       "(8,-2)",
+      "(-2,-3)",
+      "(6,-1)",
       "(2,3)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (2+4, -2+1) = (6,-1)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (2+4, -2+1) = (6,-1)$",
     "difficulty": 1,
@@ -5217,18 +5217,18 @@
     "question_zh": "求向量 (8,-15) 的模",
     "question_en": "Find |(8,-15)|",
     "options_zh": [
-      "17",
-      "23",
       "120",
-      "18"
+      "17",
+      "18",
+      "23"
     ],
     "options_en": [
-      "17",
-      "23",
       "120",
-      "18"
+      "17",
+      "18",
+      "23"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{8^2 + -15^2} = \\sqrt{64 + 225} = \\sqrt{289} = 17$",
     "explanation_en": "$|\\vec{a}| = \\sqrt{8^2 + -15^2} = \\sqrt{64 + 225} = \\sqrt{289} = 17$",
     "difficulty": 2,
@@ -5245,18 +5245,18 @@
     "question_zh": "a=(-1,0), b=(0,1), 求 a+b",
     "question_en": "a=(-1,0), b=(0,1), find a+b",
     "options_zh": [
-      "(-1,1)",
       "(-1,-1)",
-      "(0,0)",
-      "(1,1)"
+      "(1,1)",
+      "(-1,1)",
+      "(0,0)"
     ],
     "options_en": [
-      "(-1,1)",
       "(-1,-1)",
-      "(0,0)",
-      "(1,1)"
+      "(1,1)",
+      "(-1,1)",
+      "(0,0)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-1+0, 0+1) = (-1,1)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-1+0, 0+1) = (-1,1)$",
     "difficulty": 3,
@@ -5273,18 +5273,18 @@
     "question_zh": "a=(-4,4), find 2a",
     "question_en": "a=(-4,4), find 2a",
     "options_zh": [
-      "(-8,8)",
       "(-2,6)",
+      "(-6,10)",
       "(-4,4)",
-      "(-6,10)"
+      "(-8,8)"
     ],
     "options_en": [
-      "(-8,8)",
       "(-2,6)",
+      "(-6,10)",
       "(-4,4)",
-      "(-6,10)"
+      "(-8,8)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$2\\vec{a} = 2(-4,4) = (2 \\times -4, 2 \\times 4) = (-8,8)$",
     "explanation_en": "$2\\vec{a} = 2(-4,4) = (2 \\times -4, 2 \\times 4) = (-8,8)$",
     "difficulty": 1,
@@ -5301,18 +5301,18 @@
     "question_zh": "a=(-1,-3), b=(-1,-5), find a·b",
     "question_en": "a=(-1,-3), b=(-1,-5), find a·b",
     "options_zh": [
-      "16",
-      "17",
       "16 (alt)",
-      "8"
+      "8",
+      "17",
+      "16"
     ],
     "options_en": [
-      "16",
-      "17",
       "16 (alt)",
-      "8"
+      "8",
+      "17",
+      "16"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -1 \\times -1 + -3 \\times -5 = 1 + 15 = 16$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -1 \\times -1 + -3 \\times -5 = 1 + 15 = 16$",
     "difficulty": 1,
@@ -5329,18 +5329,18 @@
     "question_zh": "a=(4,2), b=(-4,4), 求 a+b",
     "question_en": "a=(4,2), b=(-4,4), find a+b",
     "options_zh": [
-      "(0,6)",
       "(8,-2)",
+      "(0,6)",
       "(-16,8)",
       "(-8,2)"
     ],
     "options_en": [
-      "(0,6)",
       "(8,-2)",
+      "(0,6)",
       "(-16,8)",
       "(-8,2)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (4+-4, 2+4) = (0,6)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (4+-4, 2+4) = (0,6)$",
     "difficulty": 2,
@@ -5357,18 +5357,18 @@
     "question_zh": "a=(-2,1), b=(3,3), find a·b",
     "question_en": "a=(-2,1), b=(3,3), find a·b",
     "options_zh": [
-      "-3",
       "-2",
       "3",
+      "-3",
       "-3 (alt)"
     ],
     "options_en": [
-      "-3",
       "-2",
       "3",
+      "-3",
       "-3 (alt)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -2 \\times 3 + 1 \\times 3 = -6 + 3 = -3$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -2 \\times 3 + 1 \\times 3 = -6 + 3 = -3$",
     "difficulty": 2,
@@ -5385,18 +5385,18 @@
     "question_zh": "a=(-1,2), b=(-3,4), find a·b",
     "question_en": "a=(-1,2), b=(-3,4), find a·b",
     "options_zh": [
-      "11",
-      "12",
       "11 (alt)",
+      "12",
+      "11",
       "-10"
     ],
     "options_en": [
-      "11",
-      "12",
       "11 (alt)",
+      "12",
+      "11",
       "-10"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -1 \\times -3 + 2 \\times 4 = 3 + 8 = 11$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -1 \\times -3 + 2 \\times 4 = 3 + 8 = 11$",
     "difficulty": 1,
@@ -5414,14 +5414,14 @@
     "question_en": "a=(4,2), b=(-2,-2), find a+b",
     "options_zh": [
       "(2,0)",
-      "(6,4)",
       "(-8,-4)",
+      "(6,4)",
       "(-6,-4)"
     ],
     "options_en": [
       "(2,0)",
-      "(6,4)",
       "(-8,-4)",
+      "(6,4)",
       "(-6,-4)"
     ],
     "answer": 0,
@@ -5441,18 +5441,18 @@
     "question_zh": "a=(-1,4), b=(3,1), 求 a+b",
     "question_en": "a=(-1,4), b=(3,1), find a+b",
     "options_zh": [
-      "(2,5)",
-      "(-4,3)",
       "(-3,4)",
+      "(-4,3)",
+      "(2,5)",
       "(4,-3)"
     ],
     "options_en": [
-      "(2,5)",
-      "(-4,3)",
       "(-3,4)",
+      "(-4,3)",
+      "(2,5)",
       "(4,-3)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-1+3, 4+1) = (2,5)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-1+3, 4+1) = (2,5)$",
     "difficulty": 1,
@@ -5470,15 +5470,15 @@
     "question_en": "a=(-4,-3), find 2a",
     "options_zh": [
       "(-8,-6)",
-      "(-2,-1)",
+      "(-6,-4)",
       "(-4,-3)",
-      "(-6,-4)"
+      "(-2,-1)"
     ],
     "options_en": [
       "(-8,-6)",
-      "(-2,-1)",
+      "(-6,-4)",
       "(-4,-3)",
-      "(-6,-4)"
+      "(-2,-1)"
     ],
     "answer": 0,
     "explanation_zh": "$2\\vec{a} = 2(-4,-3) = (2 \\times -4, 2 \\times -3) = (-8,-6)$",
@@ -5497,18 +5497,18 @@
     "question_zh": "a=(-2,4), find 3a",
     "question_en": "a=(-2,4), find 3a",
     "options_zh": [
-      "(-6,12)",
-      "(1,7)",
       "(-2,4)",
-      "(-3,15)"
+      "(-3,15)",
+      "(1,7)",
+      "(-6,12)"
     ],
     "options_en": [
-      "(-6,12)",
-      "(1,7)",
       "(-2,4)",
-      "(-3,15)"
+      "(-3,15)",
+      "(1,7)",
+      "(-6,12)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$3\\vec{a} = 3(-2,4) = (3 \\times -2, 3 \\times 4) = (-6,12)$",
     "explanation_en": "$3\\vec{a} = 3(-2,4) = (3 \\times -2, 3 \\times 4) = (-6,12)$",
     "difficulty": 1,
@@ -5525,18 +5525,18 @@
     "question_zh": "a=(2,1), b=(-5,-5), find a·b",
     "question_en": "a=(2,1), b=(-5,-5), find a·b",
     "options_zh": [
-      "-15",
       "-14",
+      "-15 (alt)",
       "15",
-      "-15 (alt)"
+      "-15"
     ],
     "options_en": [
-      "-15",
       "-14",
+      "-15 (alt)",
       "15",
-      "-15 (alt)"
+      "-15"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 2 \\times -5 + 1 \\times -5 = -10 + -5 = -15$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 2 \\times -5 + 1 \\times -5 = -10 + -5 = -15$",
     "difficulty": 3,
@@ -5553,18 +5553,18 @@
     "question_zh": "a=(3,2), find 2a",
     "question_en": "a=(3,2), find 2a",
     "options_zh": [
-      "(6,4)",
       "(5,4)",
-      "(3,2)",
-      "(8,6)"
+      "(8,6)",
+      "(6,4)",
+      "(3,2)"
     ],
     "options_en": [
-      "(6,4)",
       "(5,4)",
-      "(3,2)",
-      "(8,6)"
+      "(8,6)",
+      "(6,4)",
+      "(3,2)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$2\\vec{a} = 2(3,2) = (2 \\times 3, 2 \\times 2) = (6,4)$",
     "explanation_en": "$2\\vec{a} = 2(3,2) = (2 \\times 3, 2 \\times 2) = (6,4)$",
     "difficulty": 1,
@@ -5581,18 +5581,18 @@
     "question_zh": "求向量 (9,12) 的模",
     "question_en": "Find |(9,12)|",
     "options_zh": [
-      "15",
-      "21",
+      "16",
       "108",
-      "16"
+      "15",
+      "21"
     ],
     "options_en": [
-      "15",
-      "21",
+      "16",
       "108",
-      "16"
+      "15",
+      "21"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{9^2 + 12^2} = \\sqrt{81 + 144} = \\sqrt{225} = 15$",
     "explanation_en": "$|\\vec{a}| = \\sqrt{9^2 + 12^2} = \\sqrt{81 + 144} = \\sqrt{225} = 15$",
     "difficulty": 2,
@@ -5609,18 +5609,18 @@
     "question_zh": "a=(0,2), b=(5,5), find a·b",
     "question_en": "a=(0,2), b=(5,5), find a·b",
     "options_zh": [
-      "10",
-      "11",
       "10 (alt)",
+      "11",
+      "10",
       "10 (alt) (alt)"
     ],
     "options_en": [
-      "10",
-      "11",
       "10 (alt)",
+      "11",
+      "10",
       "10 (alt) (alt)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 0 \\times 5 + 2 \\times 5 = 0 + 10 = 10$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 0 \\times 5 + 2 \\times 5 = 0 + 10 = 10$",
     "difficulty": 1,
@@ -5638,15 +5638,15 @@
     "question_en": "a=(-2,-5), b=(1,0), find a·b",
     "options_zh": [
       "-2",
-      "-1",
       "2",
-      "-5"
+      "-5",
+      "-1"
     ],
     "options_en": [
       "-2",
-      "-1",
       "2",
-      "-5"
+      "-5",
+      "-1"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -2 \\times 1 + -5 \\times 0 = -2 + 0 = -2$",
@@ -5665,18 +5665,18 @@
     "question_zh": "a=(0,1), find 2a",
     "question_en": "a=(0,1), find 2a",
     "options_zh": [
-      "(0,2)",
       "(2,3)",
-      "(0,1)",
-      "(2,4)"
+      "(2,4)",
+      "(0,2)",
+      "(0,1)"
     ],
     "options_en": [
-      "(0,2)",
       "(2,3)",
-      "(0,1)",
-      "(2,4)"
+      "(2,4)",
+      "(0,2)",
+      "(0,1)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$2\\vec{a} = 2(0,1) = (2 \\times 0, 2 \\times 1) = (0,2)$",
     "explanation_en": "$2\\vec{a} = 2(0,1) = (2 \\times 0, 2 \\times 1) = (0,2)$",
     "difficulty": 2,
@@ -5693,18 +5693,18 @@
     "question_zh": "a=(0,-2), b=(5,-5), 求 a+b",
     "question_en": "a=(0,-2), b=(5,-5), find a+b",
     "options_zh": [
-      "(5,-7)",
       "(-5,3)",
       "(0,10)",
-      "(5,-3)"
+      "(5,-3)",
+      "(5,-7)"
     ],
     "options_en": [
-      "(5,-7)",
       "(-5,3)",
       "(0,10)",
-      "(5,-3)"
+      "(5,-3)",
+      "(5,-7)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (0+5, -2+-5) = (5,-7)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (0+5, -2+-5) = (5,-7)$",
     "difficulty": 3,
@@ -5721,18 +5721,18 @@
     "question_zh": "a=(2,4), b=(1,4), find a·b",
     "question_en": "a=(2,4), b=(1,4), find a·b",
     "options_zh": [
-      "18",
-      "19",
       "18 (alt)",
-      "12"
+      "18",
+      "12",
+      "19"
     ],
     "options_en": [
-      "18",
-      "19",
       "18 (alt)",
-      "12"
+      "18",
+      "12",
+      "19"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 2 \\times 1 + 4 \\times 4 = 2 + 16 = 18$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 2 \\times 1 + 4 \\times 4 = 2 + 16 = 18$",
     "difficulty": 1,
@@ -5749,18 +5749,18 @@
     "question_zh": "a=(0,-5), b=(4,-1), find a·b",
     "question_en": "a=(0,-5), b=(4,-1), find a·b",
     "options_zh": [
-      "5",
-      "6",
       "5 (alt)",
-      "-20"
+      "-20",
+      "6",
+      "5"
     ],
     "options_en": [
-      "5",
-      "6",
       "5 (alt)",
-      "-20"
+      "-20",
+      "6",
+      "5"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 0 \\times 4 + -5 \\times -1 = 0 + 5 = 5$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 0 \\times 4 + -5 \\times -1 = 0 + 5 = 5$",
     "difficulty": 2,
@@ -5778,15 +5778,15 @@
     "question_en": "a=(-3,5), b=(4,-4), find a+b",
     "options_zh": [
       "(1,1)",
+      "(7,-9)",
       "(-7,9)",
-      "(-12,-20)",
-      "(7,-9)"
+      "(-12,-20)"
     ],
     "options_en": [
       "(1,1)",
+      "(7,-9)",
       "(-7,9)",
-      "(-12,-20)",
-      "(7,-9)"
+      "(-12,-20)"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-3+4, 5+-4) = (1,1)$",
@@ -5805,18 +5805,18 @@
     "question_zh": "求向量 (-9,12) 的模",
     "question_en": "Find |(-9,12)|",
     "options_zh": [
-      "15",
       "21",
-      "108",
-      "16"
+      "16",
+      "15",
+      "108"
     ],
     "options_en": [
-      "15",
       "21",
-      "108",
-      "16"
+      "16",
+      "15",
+      "108"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{-9^2 + 12^2} = \\sqrt{81 + 144} = \\sqrt{225} = 15$",
     "explanation_en": "$|\\vec{a}| = \\sqrt{-9^2 + 12^2} = \\sqrt{81 + 144} = \\sqrt{225} = 15$",
     "difficulty": 3,
@@ -5833,18 +5833,18 @@
     "question_zh": "a=(5,4), b=(-2,3), find a·b",
     "question_en": "a=(5,4), b=(-2,3), find a·b",
     "options_zh": [
-      "2",
-      "3",
       "2 (alt)",
-      "7"
+      "7",
+      "3",
+      "2"
     ],
     "options_en": [
-      "2",
-      "3",
       "2 (alt)",
-      "7"
+      "7",
+      "3",
+      "2"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 5 \\times -2 + 4 \\times 3 = -10 + 12 = 2$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 5 \\times -2 + 4 \\times 3 = -10 + 12 = 2$",
     "difficulty": 2,
@@ -5861,18 +5861,18 @@
     "question_zh": "a=(3,-5), b=(-5,1), find a·b",
     "question_en": "a=(3,-5), b=(-5,1), find a·b",
     "options_zh": [
+      "28",
       "-20",
       "-19",
-      "20",
-      "28"
+      "20"
     ],
     "options_en": [
+      "28",
       "-20",
       "-19",
-      "20",
-      "28"
+      "20"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 3 \\times -5 + -5 \\times 1 = -15 + -5 = -20$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 3 \\times -5 + -5 \\times 1 = -15 + -5 = -20$",
     "difficulty": 2,
@@ -5889,18 +5889,18 @@
     "question_zh": "a=(2,-3), b=(5,5), 求 a+b",
     "question_en": "a=(2,-3), b=(5,5), find a+b",
     "options_zh": [
-      "(7,2)",
       "(-3,-8)",
-      "(10,-15)",
-      "(3,8)"
+      "(7,2)",
+      "(3,8)",
+      "(10,-15)"
     ],
     "options_en": [
-      "(7,2)",
       "(-3,-8)",
-      "(10,-15)",
-      "(3,8)"
+      "(7,2)",
+      "(3,8)",
+      "(10,-15)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (2+5, -3+5) = (7,2)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (2+5, -3+5) = (7,2)$",
     "difficulty": 1,
@@ -5919,14 +5919,14 @@
     "options_zh": [
       "17",
       "18",
-      "17 (alt)",
-      "-23"
+      "-23",
+      "17 (alt)"
     ],
     "options_en": [
       "17",
       "18",
-      "17 (alt)",
-      "-23"
+      "-23",
+      "17 (alt)"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -5 \\times -1 + 3 \\times 4 = 5 + 12 = 17$",
@@ -5945,18 +5945,18 @@
     "question_zh": "a=(-1,1), b=(-2,5), 求 a+b",
     "question_en": "a=(-1,1), b=(-2,5), find a+b",
     "options_zh": [
-      "(-3,6)",
-      "(1,-4)",
       "(2,5)",
-      "(-1,4)"
+      "(-1,4)",
+      "(-3,6)",
+      "(1,-4)"
     ],
     "options_en": [
-      "(-3,6)",
-      "(1,-4)",
       "(2,5)",
-      "(-1,4)"
+      "(-1,4)",
+      "(-3,6)",
+      "(1,-4)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-1+-2, 1+5) = (-3,6)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-1+-2, 1+5) = (-3,6)$",
     "difficulty": 3,
@@ -6001,18 +6001,18 @@
     "question_zh": "a=(-4,4), find 4a",
     "question_en": "a=(-4,4), find 4a",
     "options_zh": [
+      "(-12,20)",
       "(-16,16)",
-      "(0,8)",
       "(-4,4)",
-      "(-12,20)"
+      "(0,8)"
     ],
     "options_en": [
+      "(-12,20)",
       "(-16,16)",
-      "(0,8)",
       "(-4,4)",
-      "(-12,20)"
+      "(0,8)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$4\\vec{a} = 4(-4,4) = (4 \\times -4, 4 \\times 4) = (-16,16)$",
     "explanation_en": "$4\\vec{a} = 4(-4,4) = (4 \\times -4, 4 \\times 4) = (-16,16)$",
     "difficulty": 2,
@@ -6029,18 +6029,18 @@
     "question_zh": "a=(-4,3), b=(2,-3), find a·b",
     "question_en": "a=(-4,3), b=(2,-3), find a·b",
     "options_zh": [
-      "-17",
       "-16",
-      "17",
-      "18"
+      "-17",
+      "18",
+      "17"
     ],
     "options_en": [
-      "-17",
       "-16",
-      "17",
-      "18"
+      "-17",
+      "18",
+      "17"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -4 \\times 2 + 3 \\times -3 = -8 + -9 = -17$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -4 \\times 2 + 3 \\times -3 = -8 + -9 = -17$",
     "difficulty": 1,
@@ -6057,18 +6057,18 @@
     "question_zh": "a=(-4,3), b=(-2,-5), find a·b",
     "question_en": "a=(-4,3), b=(-2,-5), find a·b",
     "options_zh": [
-      "-7",
       "-6",
-      "7",
-      "14"
+      "14",
+      "-7",
+      "7"
     ],
     "options_en": [
-      "-7",
       "-6",
-      "7",
-      "14"
+      "14",
+      "-7",
+      "7"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -4 \\times -2 + 3 \\times -5 = 8 + -15 = -7$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -4 \\times -2 + 3 \\times -5 = 8 + -15 = -7$",
     "difficulty": 2,
@@ -6087,14 +6087,14 @@
     "options_zh": [
       "-11",
       "-10",
-      "11",
-      "-14"
+      "-14",
+      "11"
     ],
     "options_en": [
       "-11",
       "-10",
-      "11",
-      "-14"
+      "-14",
+      "11"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -3 \\times 1 + -2 \\times 4 = -3 + -8 = -11$",
@@ -6113,18 +6113,18 @@
     "question_zh": "a=(4,3), find 2a",
     "question_en": "a=(4,3), find 2a",
     "options_zh": [
-      "(8,6)",
+      "(10,8)",
       "(6,5)",
-      "(4,3)",
-      "(10,8)"
+      "(8,6)",
+      "(4,3)"
     ],
     "options_en": [
-      "(8,6)",
+      "(10,8)",
       "(6,5)",
-      "(4,3)",
-      "(10,8)"
+      "(8,6)",
+      "(4,3)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$2\\vec{a} = 2(4,3) = (2 \\times 4, 2 \\times 3) = (8,6)$",
     "explanation_en": "$2\\vec{a} = 2(4,3) = (2 \\times 4, 2 \\times 3) = (8,6)$",
     "difficulty": 1,
@@ -6142,15 +6142,15 @@
     "question_en": "Find |(-5,-12)|",
     "options_zh": [
       "13",
-      "17",
       "60",
-      "14"
+      "14",
+      "17"
     ],
     "options_en": [
       "13",
-      "17",
       "60",
-      "14"
+      "14",
+      "17"
     ],
     "answer": 0,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{-5^2 + -12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13$",
@@ -6169,18 +6169,18 @@
     "question_zh": "a=(-2,3), b=(1,0), find a·b",
     "question_en": "a=(-2,3), b=(1,0), find a·b",
     "options_zh": [
-      "-2",
-      "-1",
+      "3",
       "2",
-      "3"
+      "-1",
+      "-2"
     ],
     "options_en": [
-      "-2",
-      "-1",
+      "3",
       "2",
-      "3"
+      "-1",
+      "-2"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -2 \\times 1 + 3 \\times 0 = -2 + 0 = -2$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -2 \\times 1 + 3 \\times 0 = -2 + 0 = -2$",
     "difficulty": 3,
@@ -6197,18 +6197,18 @@
     "question_zh": "a=(3,-5), b=(-5,-2), find a·b",
     "question_en": "a=(3,-5), b=(-5,-2), find a·b",
     "options_zh": [
-      "-5",
-      "-4",
       "5",
-      "19"
+      "-5",
+      "19",
+      "-4"
     ],
     "options_en": [
-      "-5",
-      "-4",
       "5",
-      "19"
+      "-5",
+      "19",
+      "-4"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 3 \\times -5 + -5 \\times -2 = -15 + 10 = -5$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 3 \\times -5 + -5 \\times -2 = -15 + 10 = -5$",
     "difficulty": 3,
@@ -6225,18 +6225,18 @@
     "question_zh": "a=(0,1), find 3a",
     "question_en": "a=(0,1), find 3a",
     "options_zh": [
-      "(0,3)",
       "(3,4)",
+      "(3,6)",
       "(0,1)",
-      "(3,6)"
+      "(0,3)"
     ],
     "options_en": [
-      "(0,3)",
       "(3,4)",
+      "(3,6)",
       "(0,1)",
-      "(3,6)"
+      "(0,3)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$3\\vec{a} = 3(0,1) = (3 \\times 0, 3 \\times 1) = (0,3)$",
     "explanation_en": "$3\\vec{a} = 3(0,1) = (3 \\times 0, 3 \\times 1) = (0,3)$",
     "difficulty": 2,
@@ -6253,18 +6253,18 @@
     "question_zh": "a=(-1,1), find 2a",
     "question_en": "a=(-1,1), find 2a",
     "options_zh": [
-      "(-2,2)",
-      "(1,3)",
       "(-1,1)",
-      "(0,4)"
+      "(0,4)",
+      "(-2,2)",
+      "(1,3)"
     ],
     "options_en": [
-      "(-2,2)",
-      "(1,3)",
       "(-1,1)",
-      "(0,4)"
+      "(0,4)",
+      "(-2,2)",
+      "(1,3)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$2\\vec{a} = 2(-1,1) = (2 \\times -1, 2 \\times 1) = (-2,2)$",
     "explanation_en": "$2\\vec{a} = 2(-1,1) = (2 \\times -1, 2 \\times 1) = (-2,2)$",
     "difficulty": 2,
@@ -6309,18 +6309,18 @@
     "question_zh": "a=(2,4), find 2a",
     "question_en": "a=(2,4), find 2a",
     "options_zh": [
-      "(4,8)",
-      "(4,6)",
       "(2,4)",
-      "(6,10)"
+      "(6,10)",
+      "(4,8)",
+      "(4,6)"
     ],
     "options_en": [
-      "(4,8)",
-      "(4,6)",
       "(2,4)",
-      "(6,10)"
+      "(6,10)",
+      "(4,8)",
+      "(4,6)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$2\\vec{a} = 2(2,4) = (2 \\times 2, 2 \\times 4) = (4,8)$",
     "explanation_en": "$2\\vec{a} = 2(2,4) = (2 \\times 2, 2 \\times 4) = (4,8)$",
     "difficulty": 3,
@@ -6338,14 +6338,14 @@
     "question_en": "a=(5,1), b=(-3,-4), find a·b",
     "options_zh": [
       "-19",
-      "-18",
       "19",
+      "-18",
       "-23"
     ],
     "options_en": [
       "-19",
-      "-18",
       "19",
+      "-18",
       "-23"
     ],
     "answer": 0,
@@ -6366,15 +6366,15 @@
     "question_en": "a=(1,-2), b=(5,2), find a·b",
     "options_zh": [
       "1",
-      "2",
+      "-8",
       "1 (alt)",
-      "-8"
+      "2"
     ],
     "options_en": [
       "1",
-      "2",
+      "-8",
       "1 (alt)",
-      "-8"
+      "2"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 1 \\times 5 + -2 \\times 2 = 5 + -4 = 1$",
@@ -6393,18 +6393,18 @@
     "question_zh": "a=(-2,-4), find 5a",
     "question_en": "a=(-2,-4), find 5a",
     "options_zh": [
-      "(-10,-20)",
+      "(-5,-15)",
       "(3,1)",
-      "(-2,-4)",
-      "(-5,-15)"
+      "(-10,-20)",
+      "(-2,-4)"
     ],
     "options_en": [
-      "(-10,-20)",
+      "(-5,-15)",
       "(3,1)",
-      "(-2,-4)",
-      "(-5,-15)"
+      "(-10,-20)",
+      "(-2,-4)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$5\\vec{a} = 5(-2,-4) = (5 \\times -2, 5 \\times -4) = (-10,-20)$",
     "explanation_en": "$5\\vec{a} = 5(-2,-4) = (5 \\times -2, 5 \\times -4) = (-10,-20)$",
     "difficulty": 3,
@@ -6422,15 +6422,15 @@
     "question_en": "a=(1,5), b=(0,3), find a·b",
     "options_zh": [
       "15",
+      "3",
       "16",
-      "15 (alt)",
-      "3"
+      "15 (alt)"
     ],
     "options_en": [
       "15",
+      "3",
       "16",
-      "15 (alt)",
-      "3"
+      "15 (alt)"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 1 \\times 0 + 5 \\times 3 = 0 + 15 = 15$",
@@ -6477,18 +6477,18 @@
     "question_zh": "a=(0,3), find 5a",
     "question_en": "a=(0,3), find 5a",
     "options_zh": [
-      "(0,15)",
       "(5,8)",
       "(0,3)",
-      "(5,20)"
+      "(5,20)",
+      "(0,15)"
     ],
     "options_en": [
-      "(0,15)",
       "(5,8)",
       "(0,3)",
-      "(5,20)"
+      "(5,20)",
+      "(0,15)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$5\\vec{a} = 5(0,3) = (5 \\times 0, 5 \\times 3) = (0,15)$",
     "explanation_en": "$5\\vec{a} = 5(0,3) = (5 \\times 0, 5 \\times 3) = (0,15)$",
     "difficulty": 3,
@@ -6505,18 +6505,18 @@
     "question_zh": "a=(5,-4), b=(1,0), 求 a+b",
     "question_en": "a=(5,-4), b=(1,0), find a+b",
     "options_zh": [
-      "(6,-4)",
-      "(4,-4)",
       "(5,0)",
-      "(-4,4)"
+      "(6,-4)",
+      "(-4,4)",
+      "(4,-4)"
     ],
     "options_en": [
-      "(6,-4)",
-      "(4,-4)",
       "(5,0)",
-      "(-4,4)"
+      "(6,-4)",
+      "(-4,4)",
+      "(4,-4)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (5+1, -4+0) = (6,-4)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (5+1, -4+0) = (6,-4)$",
     "difficulty": 2,
@@ -6534,14 +6534,14 @@
     "question_en": "a=(4,-5), b=(3,2), find a·b",
     "options_zh": [
       "2",
-      "3",
       "2 (alt)",
+      "3",
       "-7"
     ],
     "options_en": [
       "2",
-      "3",
       "2 (alt)",
+      "3",
       "-7"
     ],
     "answer": 0,
@@ -6561,18 +6561,18 @@
     "question_zh": "a=(-1,-4), find 5a",
     "question_en": "a=(-1,-4), find 5a",
     "options_zh": [
-      "(-5,-20)",
       "(4,1)",
       "(-1,-4)",
+      "(-5,-20)",
       "(0,-15)"
     ],
     "options_en": [
-      "(-5,-20)",
       "(4,1)",
       "(-1,-4)",
+      "(-5,-20)",
       "(0,-15)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$5\\vec{a} = 5(-1,-4) = (5 \\times -1, 5 \\times -4) = (-5,-20)$",
     "explanation_en": "$5\\vec{a} = 5(-1,-4) = (5 \\times -1, 5 \\times -4) = (-5,-20)$",
     "difficulty": 3,
@@ -6589,18 +6589,18 @@
     "question_zh": "a=(5,-2), b=(3,4), find a·b",
     "question_en": "a=(5,-2), b=(3,4), find a·b",
     "options_zh": [
-      "7",
-      "8",
       "7 (alt)",
-      "14"
+      "8",
+      "14",
+      "7"
     ],
     "options_en": [
-      "7",
-      "8",
       "7 (alt)",
-      "14"
+      "8",
+      "14",
+      "7"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 5 \\times 3 + -2 \\times 4 = 15 + -8 = 7$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 5 \\times 3 + -2 \\times 4 = 15 + -8 = 7$",
     "difficulty": 3,
@@ -6617,18 +6617,18 @@
     "question_zh": "a=(3,2), find 4a",
     "question_en": "a=(3,2), find 4a",
     "options_zh": [
-      "(12,8)",
-      "(7,6)",
       "(3,2)",
-      "(16,12)"
+      "(12,8)",
+      "(16,12)",
+      "(7,6)"
     ],
     "options_en": [
-      "(12,8)",
-      "(7,6)",
       "(3,2)",
-      "(16,12)"
+      "(12,8)",
+      "(16,12)",
+      "(7,6)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$4\\vec{a} = 4(3,2) = (4 \\times 3, 4 \\times 2) = (12,8)$",
     "explanation_en": "$4\\vec{a} = 4(3,2) = (4 \\times 3, 4 \\times 2) = (12,8)$",
     "difficulty": 3,
@@ -6673,18 +6673,18 @@
     "question_zh": "a=(-5,-1), b=(3,-5), find a·b",
     "question_en": "a=(-5,-1), b=(3,-5), find a·b",
     "options_zh": [
+      "10",
       "-10",
       "-9",
-      "10",
       "22"
     ],
     "options_en": [
+      "10",
       "-10",
       "-9",
-      "10",
       "22"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -5 \\times 3 + -1 \\times -5 = -15 + 5 = -10$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -5 \\times 3 + -1 \\times -5 = -15 + 5 = -10$",
     "difficulty": 2,
@@ -6701,18 +6701,18 @@
     "question_zh": "a=(-5,-2), b=(-5,-3), find a·b",
     "question_en": "a=(-5,-2), b=(-5,-3), find a·b",
     "options_zh": [
-      "31",
       "32",
-      "31 (alt)",
-      "25"
+      "25",
+      "31",
+      "31 (alt)"
     ],
     "options_en": [
-      "31",
       "32",
-      "31 (alt)",
-      "25"
+      "25",
+      "31",
+      "31 (alt)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -5 \\times -5 + -2 \\times -3 = 25 + 6 = 31$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -5 \\times -5 + -2 \\times -3 = 25 + 6 = 31$",
     "difficulty": 2,
@@ -6729,18 +6729,18 @@
     "question_zh": "求向量 (7,24) 的模",
     "question_en": "Find |(7,24)|",
     "options_zh": [
+      "26",
       "25",
-      "31",
       "168",
-      "26"
+      "31"
     ],
     "options_en": [
+      "26",
       "25",
-      "31",
       "168",
-      "26"
+      "31"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{7^2 + 24^2} = \\sqrt{49 + 576} = \\sqrt{625} = 25$",
     "explanation_en": "$|\\vec{a}| = \\sqrt{7^2 + 24^2} = \\sqrt{49 + 576} = \\sqrt{625} = 25$",
     "difficulty": 2,
@@ -6757,18 +6757,18 @@
     "question_zh": "a=(5,-4), b=(5,-3), find a·b",
     "question_en": "a=(5,-4), b=(5,-3), find a·b",
     "options_zh": [
-      "37",
-      "38",
       "37 (alt)",
+      "38",
+      "37",
       "-35"
     ],
     "options_en": [
-      "37",
-      "38",
       "37 (alt)",
+      "38",
+      "37",
       "-35"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 5 \\times 5 + -4 \\times -3 = 25 + 12 = 37$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 5 \\times 5 + -4 \\times -3 = 25 + 12 = 37$",
     "difficulty": 1,
@@ -6786,14 +6786,14 @@
     "question_en": "a=(-5,4), b=(3,-4), find a+b",
     "options_zh": [
       "(-2,0)",
-      "(-8,8)",
       "(-15,-16)",
+      "(-8,8)",
       "(8,-8)"
     ],
     "options_en": [
       "(-2,0)",
-      "(-8,8)",
       "(-15,-16)",
+      "(-8,8)",
       "(8,-8)"
     ],
     "answer": 0,
@@ -6813,18 +6813,18 @@
     "question_zh": "求 (3,4) 方向的單位向量",
     "question_en": "Find unit vector in direction (3,4)",
     "options_zh": [
-      "(3/5, 4/5)",
-      "(3,4)",
+      "(1,1)",
       "(3,4) (備選)",
-      "(1,1)"
+      "(3/5, 4/5)",
+      "(3,4)"
     ],
     "options_en": [
-      "(3/5, 4/5)",
-      "(3,4)",
+      "(1,1)",
       "(3,4) (alt)",
-      "(1,1)"
+      "(3/5, 4/5)",
+      "(3,4)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{3^2+4^2} = 5$\n$\\hat{a} = \\frac{(3,4)}{5} = (3/5, 4/5)$",
     "explanation_en": "$|\\vec{a}| = \\sqrt{3^2+4^2} = 5$\n$\\hat{a} = \\frac{(3,4)}{5} = (3/5, 4/5)$",
     "difficulty": 2,
@@ -6841,18 +6841,18 @@
     "question_zh": "a=(-1,-2), b=(-1,-4), 求 a+b",
     "question_en": "a=(-1,-2), b=(-1,-4), find a+b",
     "options_zh": [
+      "(0,-2)",
       "(-2,-6)",
       "(0,2)",
-      "(1,8)",
-      "(0,-2)"
+      "(1,8)"
     ],
     "options_en": [
+      "(0,-2)",
       "(-2,-6)",
       "(0,2)",
-      "(1,8)",
-      "(0,-2)"
+      "(1,8)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-1+-1, -2+-4) = (-2,-6)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-1+-1, -2+-4) = (-2,-6)$",
     "difficulty": 2,
@@ -6869,18 +6869,18 @@
     "question_zh": "a=(-4,1), b=(4,-1), find a·b",
     "question_en": "a=(-4,1), b=(4,-1), find a·b",
     "options_zh": [
-      "-17",
       "-16",
-      "17",
-      "8"
+      "8",
+      "-17",
+      "17"
     ],
     "options_en": [
-      "-17",
       "-16",
-      "17",
-      "8"
+      "8",
+      "-17",
+      "17"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -4 \\times 4 + 1 \\times -1 = -16 + -1 = -17$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -4 \\times 4 + 1 \\times -1 = -16 + -1 = -17$",
     "difficulty": 2,
@@ -6897,18 +6897,18 @@
     "question_zh": "a=(-1,4), find 4a",
     "question_en": "a=(-1,4), find 4a",
     "options_zh": [
-      "(-4,16)",
       "(3,8)",
-      "(-1,4)",
-      "(0,20)"
+      "(0,20)",
+      "(-4,16)",
+      "(-1,4)"
     ],
     "options_en": [
-      "(-4,16)",
       "(3,8)",
-      "(-1,4)",
-      "(0,20)"
+      "(0,20)",
+      "(-4,16)",
+      "(-1,4)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$4\\vec{a} = 4(-1,4) = (4 \\times -1, 4 \\times 4) = (-4,16)$",
     "explanation_en": "$4\\vec{a} = 4(-1,4) = (4 \\times -1, 4 \\times 4) = (-4,16)$",
     "difficulty": 2,
@@ -6926,15 +6926,15 @@
     "question_en": "a=(0,-5), b=(-2,2), find a·b",
     "options_zh": [
       "-10",
-      "-9",
+      "10 (alt)",
       "10",
-      "10 (alt)"
+      "-9"
     ],
     "options_en": [
       "-10",
-      "-9",
+      "10 (alt)",
       "10",
-      "10 (alt)"
+      "-9"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 0 \\times -2 + -5 \\times 2 = 0 + -10 = -10$",
@@ -6954,15 +6954,15 @@
     "question_en": "a=(4,-1), find 4a",
     "options_zh": [
       "(16,-4)",
-      "(8,3)",
+      "(20,0)",
       "(4,-1)",
-      "(20,0)"
+      "(8,3)"
     ],
     "options_en": [
       "(16,-4)",
-      "(8,3)",
+      "(20,0)",
       "(4,-1)",
-      "(20,0)"
+      "(8,3)"
     ],
     "answer": 0,
     "explanation_zh": "$4\\vec{a} = 4(4,-1) = (4 \\times 4, 4 \\times -1) = (16,-4)$",
@@ -6981,18 +6981,18 @@
     "question_zh": "a=(3,3), find 4a",
     "question_en": "a=(3,3), find 4a",
     "options_zh": [
+      "(16,16)",
       "(12,12)",
-      "(7,7)",
       "(3,3)",
-      "(16,16)"
+      "(7,7)"
     ],
     "options_en": [
+      "(16,16)",
       "(12,12)",
-      "(7,7)",
       "(3,3)",
-      "(16,16)"
+      "(7,7)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$4\\vec{a} = 4(3,3) = (4 \\times 3, 4 \\times 3) = (12,12)$",
     "explanation_en": "$4\\vec{a} = 4(3,3) = (4 \\times 3, 4 \\times 3) = (12,12)$",
     "difficulty": 1,
@@ -7009,18 +7009,18 @@
     "question_zh": "a=(-4,3), b=(-1,3), 求 a+b",
     "question_en": "a=(-4,3), b=(-1,3), find a+b",
     "options_zh": [
+      "(4,9)",
       "(-5,6)",
       "(-3,0)",
-      "(4,9)",
       "(3,0)"
     ],
     "options_en": [
+      "(4,9)",
       "(-5,6)",
       "(-3,0)",
-      "(4,9)",
       "(3,0)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-4+-1, 3+3) = (-5,6)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-4+-1, 3+3) = (-5,6)$",
     "difficulty": 3,
@@ -7039,14 +7039,14 @@
     "options_zh": [
       "(0,1)",
       "(-10,3)",
-      "(-25,-2)",
-      "(10,-3)"
+      "(10,-3)",
+      "(-25,-2)"
     ],
     "options_en": [
       "(0,1)",
       "(-10,3)",
-      "(-25,-2)",
-      "(10,-3)"
+      "(10,-3)",
+      "(-25,-2)"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-5+5, 2+-1) = (0,1)$",
@@ -7065,18 +7065,18 @@
     "question_zh": "a=(-5,-3), b=(2,1), 求 a+b",
     "question_en": "a=(-5,-3), b=(2,1), find a+b",
     "options_zh": [
-      "(-3,-2)",
       "(-7,-4)",
       "(-10,-3)",
+      "(-3,-2)",
       "(7,4)"
     ],
     "options_en": [
-      "(-3,-2)",
       "(-7,-4)",
       "(-10,-3)",
+      "(-3,-2)",
       "(7,4)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-5+2, -3+1) = (-3,-2)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-5+2, -3+1) = (-3,-2)$",
     "difficulty": 2,
@@ -7094,14 +7094,14 @@
     "question_en": "a=(0,-2), b=(-1,-1), find a·b",
     "options_zh": [
       "2",
-      "3",
       "2 (alt)",
+      "3",
       "2 (alt) (alt)"
     ],
     "options_en": [
       "2",
-      "3",
       "2 (alt)",
+      "3",
       "2 (alt) (alt)"
     ],
     "answer": 0,
@@ -7121,18 +7121,18 @@
     "question_zh": "a=(-5,1), b=(-3,-2), find a·b",
     "question_en": "a=(-5,1), b=(-3,-2), find a·b",
     "options_zh": [
-      "13",
-      "14",
       "13 (alt)",
-      "7"
+      "13",
+      "7",
+      "14"
     ],
     "options_en": [
-      "13",
-      "14",
       "13 (alt)",
-      "7"
+      "13",
+      "7",
+      "14"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -5 \\times -3 + 1 \\times -2 = 15 + -2 = 13$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -5 \\times -3 + 1 \\times -2 = 15 + -2 = 13$",
     "difficulty": 3,
@@ -7149,18 +7149,18 @@
     "question_zh": "a=(-5,-3), b=(2,5), 求 a+b",
     "question_en": "a=(-5,-3), b=(2,5), find a+b",
     "options_zh": [
+      "(7,8)",
       "(-3,2)",
-      "(-7,-8)",
       "(-10,-15)",
-      "(7,8)"
+      "(-7,-8)"
     ],
     "options_en": [
+      "(7,8)",
       "(-3,2)",
-      "(-7,-8)",
       "(-10,-15)",
-      "(7,8)"
+      "(-7,-8)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-5+2, -3+5) = (-3,2)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-5+2, -3+5) = (-3,2)$",
     "difficulty": 1,
@@ -7177,18 +7177,18 @@
     "question_zh": "a=(4,-3), find 5a",
     "question_en": "a=(4,-3), find 5a",
     "options_zh": [
-      "(20,-15)",
-      "(9,2)",
       "(4,-3)",
-      "(25,-10)"
+      "(25,-10)",
+      "(9,2)",
+      "(20,-15)"
     ],
     "options_en": [
-      "(20,-15)",
-      "(9,2)",
       "(4,-3)",
-      "(25,-10)"
+      "(25,-10)",
+      "(9,2)",
+      "(20,-15)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$5\\vec{a} = 5(4,-3) = (5 \\times 4, 5 \\times -3) = (20,-15)$",
     "explanation_en": "$5\\vec{a} = 5(4,-3) = (5 \\times 4, 5 \\times -3) = (20,-15)$",
     "difficulty": 2,
@@ -7207,14 +7207,14 @@
     "options_zh": [
       "(0,10)",
       "(5,7)",
-      "(0,2)",
-      "(5,15)"
+      "(5,15)",
+      "(0,2)"
     ],
     "options_en": [
       "(0,10)",
       "(5,7)",
-      "(0,2)",
-      "(5,15)"
+      "(5,15)",
+      "(0,2)"
     ],
     "answer": 0,
     "explanation_zh": "$5\\vec{a} = 5(0,2) = (5 \\times 0, 5 \\times 2) = (0,10)$",
@@ -7261,18 +7261,18 @@
     "question_zh": "a=(3,-4), find 3a",
     "question_en": "a=(3,-4), find 3a",
     "options_zh": [
-      "(9,-12)",
       "(6,-1)",
       "(3,-4)",
+      "(9,-12)",
       "(12,-9)"
     ],
     "options_en": [
-      "(9,-12)",
       "(6,-1)",
       "(3,-4)",
+      "(9,-12)",
       "(12,-9)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$3\\vec{a} = 3(3,-4) = (3 \\times 3, 3 \\times -4) = (9,-12)$",
     "explanation_en": "$3\\vec{a} = 3(3,-4) = (3 \\times 3, 3 \\times -4) = (9,-12)$",
     "difficulty": 2,
@@ -7289,18 +7289,18 @@
     "question_zh": "a=(5,1), b=(-1,-3), 求 a+b",
     "question_en": "a=(5,1), b=(-1,-3), find a+b",
     "options_zh": [
-      "(4,-2)",
-      "(6,4)",
       "(-5,-3)",
+      "(6,4)",
+      "(4,-2)",
       "(-6,-4)"
     ],
     "options_en": [
-      "(4,-2)",
-      "(6,4)",
       "(-5,-3)",
+      "(6,4)",
+      "(4,-2)",
       "(-6,-4)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (5+-1, 1+-3) = (4,-2)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (5+-1, 1+-3) = (4,-2)$",
     "difficulty": 3,
@@ -7317,18 +7317,18 @@
     "question_zh": "求向量 (-8,-15) 的模",
     "question_en": "Find |(-8,-15)|",
     "options_zh": [
-      "17",
       "23",
       "120",
+      "17",
       "18"
     ],
     "options_en": [
-      "17",
       "23",
       "120",
+      "17",
       "18"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{-8^2 + -15^2} = \\sqrt{64 + 225} = \\sqrt{289} = 17$",
     "explanation_en": "$|\\vec{a}| = \\sqrt{-8^2 + -15^2} = \\sqrt{64 + 225} = \\sqrt{289} = 17$",
     "difficulty": 3,
@@ -7345,18 +7345,18 @@
     "question_zh": "求向量 (8,15) 的模",
     "question_en": "Find |(8,15)|",
     "options_zh": [
+      "18",
       "17",
-      "23",
       "120",
-      "18"
+      "23"
     ],
     "options_en": [
+      "18",
       "17",
-      "23",
       "120",
-      "18"
+      "23"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{8^2 + 15^2} = \\sqrt{64 + 225} = \\sqrt{289} = 17$",
     "explanation_en": "$|\\vec{a}| = \\sqrt{8^2 + 15^2} = \\sqrt{64 + 225} = \\sqrt{289} = 17$",
     "difficulty": 1,
@@ -7373,18 +7373,18 @@
     "question_zh": "a=(3,-2), b=(-4,2), find a·b",
     "question_en": "a=(3,-2), b=(-4,2), find a·b",
     "options_zh": [
-      "-16",
-      "-15",
+      "14",
       "16",
-      "14"
+      "-15",
+      "-16"
     ],
     "options_en": [
-      "-16",
-      "-15",
+      "14",
       "16",
-      "14"
+      "-15",
+      "-16"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 3 \\times -4 + -2 \\times 2 = -12 + -4 = -16$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 3 \\times -4 + -2 \\times 2 = -12 + -4 = -16$",
     "difficulty": 2,
@@ -7401,18 +7401,18 @@
     "question_zh": "a=(4,-4), find 5a",
     "question_en": "a=(4,-4), find 5a",
     "options_zh": [
-      "(20,-20)",
-      "(9,1)",
+      "(25,-15)",
       "(4,-4)",
-      "(25,-15)"
+      "(9,1)",
+      "(20,-20)"
     ],
     "options_en": [
-      "(20,-20)",
-      "(9,1)",
+      "(25,-15)",
       "(4,-4)",
-      "(25,-15)"
+      "(9,1)",
+      "(20,-20)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$5\\vec{a} = 5(4,-4) = (5 \\times 4, 5 \\times -4) = (20,-20)$",
     "explanation_en": "$5\\vec{a} = 5(4,-4) = (5 \\times 4, 5 \\times -4) = (20,-20)$",
     "difficulty": 2,
@@ -7429,18 +7429,18 @@
     "question_zh": "a=(-1,-4), b=(-2,3), 求 a+b",
     "question_en": "a=(-1,-4), b=(-2,3), find a+b",
     "options_zh": [
-      "(-3,-1)",
-      "(1,-7)",
+      "(-1,7)",
       "(2,-12)",
-      "(-1,7)"
+      "(1,-7)",
+      "(-3,-1)"
     ],
     "options_en": [
-      "(-3,-1)",
-      "(1,-7)",
+      "(-1,7)",
       "(2,-12)",
-      "(-1,7)"
+      "(1,-7)",
+      "(-3,-1)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-1+-2, -4+3) = (-3,-1)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-1+-2, -4+3) = (-3,-1)$",
     "difficulty": 1,
@@ -7457,18 +7457,18 @@
     "question_zh": "a=(0,3), b=(-4,-1), 求 a+b",
     "question_en": "a=(0,3), b=(-4,-1), find a+b",
     "options_zh": [
-      "(-4,2)",
       "(4,4)",
+      "(-4,-4)",
       "(0,-3)",
-      "(-4,-4)"
+      "(-4,2)"
     ],
     "options_en": [
-      "(-4,2)",
       "(4,4)",
+      "(-4,-4)",
       "(0,-3)",
-      "(-4,-4)"
+      "(-4,2)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (0+-4, 3+-1) = (-4,2)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (0+-4, 3+-1) = (-4,2)$",
     "difficulty": 3,
@@ -7485,18 +7485,18 @@
     "question_zh": "a=(4,4), find 4a",
     "question_en": "a=(4,4), find 4a",
     "options_zh": [
+      "(4,4)",
       "(16,16)",
       "(8,8)",
-      "(4,4)",
       "(20,20)"
     ],
     "options_en": [
+      "(4,4)",
       "(16,16)",
       "(8,8)",
-      "(4,4)",
       "(20,20)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$4\\vec{a} = 4(4,4) = (4 \\times 4, 4 \\times 4) = (16,16)$",
     "explanation_en": "$4\\vec{a} = 4(4,4) = (4 \\times 4, 4 \\times 4) = (16,16)$",
     "difficulty": 3,
@@ -7513,18 +7513,18 @@
     "question_zh": "a=(0,4), b=(3,2), find a·b",
     "question_en": "a=(0,4), b=(3,2), find a·b",
     "options_zh": [
-      "8",
       "9",
       "8 (alt)",
-      "12"
+      "12",
+      "8"
     ],
     "options_en": [
-      "8",
       "9",
       "8 (alt)",
-      "12"
+      "12",
+      "8"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 0 \\times 3 + 4 \\times 2 = 0 + 8 = 8$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 0 \\times 3 + 4 \\times 2 = 0 + 8 = 8$",
     "difficulty": 2,
@@ -7541,18 +7541,18 @@
     "question_zh": "a=(4,1), b=(-4,-4), find a·b",
     "question_en": "a=(4,1), b=(-4,-4), find a·b",
     "options_zh": [
-      "-20",
-      "-19",
       "20",
-      "-20 (alt)"
+      "-20 (alt)",
+      "-20",
+      "-19"
     ],
     "options_en": [
-      "-20",
-      "-19",
       "20",
-      "-20 (alt)"
+      "-20 (alt)",
+      "-20",
+      "-19"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 4 \\times -4 + 1 \\times -4 = -16 + -4 = -20$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 4 \\times -4 + 1 \\times -4 = -16 + -4 = -20$",
     "difficulty": 1,
@@ -7569,18 +7569,18 @@
     "question_zh": "a=(-3,-2), find 3a",
     "question_en": "a=(-3,-2), find 3a",
     "options_zh": [
-      "(-9,-6)",
+      "(-6,-3)",
       "(0,1)",
-      "(-3,-2)",
-      "(-6,-3)"
+      "(-9,-6)",
+      "(-3,-2)"
     ],
     "options_en": [
-      "(-9,-6)",
+      "(-6,-3)",
       "(0,1)",
-      "(-3,-2)",
-      "(-6,-3)"
+      "(-9,-6)",
+      "(-3,-2)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$3\\vec{a} = 3(-3,-2) = (3 \\times -3, 3 \\times -2) = (-9,-6)$",
     "explanation_en": "$3\\vec{a} = 3(-3,-2) = (3 \\times -3, 3 \\times -2) = (-9,-6)$",
     "difficulty": 3,
@@ -7597,18 +7597,18 @@
     "question_zh": "a=(2,-4), b=(-5,-5), 求 a+b",
     "question_en": "a=(2,-4), b=(-5,-5), find a+b",
     "options_zh": [
-      "(-3,-9)",
+      "(-7,-1)",
       "(7,1)",
-      "(-10,20)",
-      "(-7,-1)"
+      "(-3,-9)",
+      "(-10,20)"
     ],
     "options_en": [
-      "(-3,-9)",
+      "(-7,-1)",
       "(7,1)",
-      "(-10,20)",
-      "(-7,-1)"
+      "(-3,-9)",
+      "(-10,20)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (2+-5, -4+-5) = (-3,-9)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (2+-5, -4+-5) = (-3,-9)$",
     "difficulty": 1,
@@ -7625,18 +7625,18 @@
     "question_zh": "a=(2,1), b=(2,-4), find a·b",
     "question_en": "a=(2,1), b=(2,-4), find a·b",
     "options_zh": [
+      "0 (alt)",
       "0",
       "1",
-      "0 (alt)",
       "-6"
     ],
     "options_en": [
+      "0 (alt)",
       "0",
       "1",
-      "0 (alt)",
       "-6"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 2 \\times 2 + 1 \\times -4 = 4 + -4 = 0$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 2 \\times 2 + 1 \\times -4 = 4 + -4 = 0$",
     "difficulty": 2,
@@ -7653,18 +7653,18 @@
     "question_zh": "a=(3,-3), find 5a",
     "question_en": "a=(3,-3), find 5a",
     "options_zh": [
-      "(15,-15)",
       "(8,2)",
-      "(3,-3)",
-      "(20,-10)"
+      "(15,-15)",
+      "(20,-10)",
+      "(3,-3)"
     ],
     "options_en": [
-      "(15,-15)",
       "(8,2)",
-      "(3,-3)",
-      "(20,-10)"
+      "(15,-15)",
+      "(20,-10)",
+      "(3,-3)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$5\\vec{a} = 5(3,-3) = (5 \\times 3, 5 \\times -3) = (15,-15)$",
     "explanation_en": "$5\\vec{a} = 5(3,-3) = (5 \\times 3, 5 \\times -3) = (15,-15)$",
     "difficulty": 2,
@@ -7682,15 +7682,15 @@
     "question_en": "a=(0,2), find 2a",
     "options_zh": [
       "(0,4)",
-      "(2,4)",
+      "(2,6)",
       "(0,2)",
-      "(2,6)"
+      "(2,4)"
     ],
     "options_en": [
       "(0,4)",
-      "(2,4)",
+      "(2,6)",
       "(0,2)",
-      "(2,6)"
+      "(2,4)"
     ],
     "answer": 0,
     "explanation_zh": "$2\\vec{a} = 2(0,2) = (2 \\times 0, 2 \\times 2) = (0,4)$",
@@ -7711,14 +7711,14 @@
     "options_zh": [
       "(-4,5)",
       "(-2,1)",
-      "(3,6)",
-      "(2,-1)"
+      "(2,-1)",
+      "(3,6)"
     ],
     "options_en": [
       "(-4,5)",
       "(-2,1)",
-      "(3,6)",
-      "(2,-1)"
+      "(2,-1)",
+      "(3,6)"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-3+-1, 3+2) = (-4,5)$",
@@ -7739,14 +7739,14 @@
     "options_zh": [
       "10",
       "14",
-      "48",
-      "11"
+      "11",
+      "48"
     ],
     "options_en": [
       "10",
       "14",
-      "48",
-      "11"
+      "11",
+      "48"
     ],
     "answer": 0,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{-6^2 + -8^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10$",
@@ -7766,14 +7766,14 @@
     "question_en": "a=(4,2), find 3a",
     "options_zh": [
       "(12,6)",
-      "(7,5)",
       "(4,2)",
+      "(7,5)",
       "(15,9)"
     ],
     "options_en": [
       "(12,6)",
-      "(7,5)",
       "(4,2)",
+      "(7,5)",
       "(15,9)"
     ],
     "answer": 0,
@@ -7794,15 +7794,15 @@
     "question_en": "a=(1,0), b=(0,-2), find a·b",
     "options_zh": [
       "0",
-      "1",
+      "-2",
       "0 (alt)",
-      "-2"
+      "1"
     ],
     "options_en": [
       "0",
-      "1",
+      "-2",
       "0 (alt)",
-      "-2"
+      "1"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 1 \\times 0 + 0 \\times -2 = 0 + 0 = 0$",
@@ -7821,18 +7821,18 @@
     "question_zh": "a=(-4,-2), find 4a",
     "question_en": "a=(-4,-2), find 4a",
     "options_zh": [
-      "(-16,-8)",
-      "(0,2)",
       "(-4,-2)",
+      "(0,2)",
+      "(-16,-8)",
       "(-12,-4)"
     ],
     "options_en": [
-      "(-16,-8)",
-      "(0,2)",
       "(-4,-2)",
+      "(0,2)",
+      "(-16,-8)",
       "(-12,-4)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$4\\vec{a} = 4(-4,-2) = (4 \\times -4, 4 \\times -2) = (-16,-8)$",
     "explanation_en": "$4\\vec{a} = 4(-4,-2) = (4 \\times -4, 4 \\times -2) = (-16,-8)$",
     "difficulty": 2,
@@ -7849,18 +7849,18 @@
     "question_zh": "a=(-3,0), find 4a",
     "question_en": "a=(-3,0), find 4a",
     "options_zh": [
-      "(-12,0)",
+      "(-8,4)",
       "(1,4)",
       "(-3,0)",
-      "(-8,4)"
+      "(-12,0)"
     ],
     "options_en": [
-      "(-12,0)",
+      "(-8,4)",
       "(1,4)",
       "(-3,0)",
-      "(-8,4)"
+      "(-12,0)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$4\\vec{a} = 4(-3,0) = (4 \\times -3, 4 \\times 0) = (-12,0)$",
     "explanation_en": "$4\\vec{a} = 4(-3,0) = (4 \\times -3, 4 \\times 0) = (-12,0)$",
     "difficulty": 3,
@@ -7877,18 +7877,18 @@
     "question_zh": "a=(1,-2), b=(1,0), find a·b",
     "question_en": "a=(1,-2), b=(1,0), find a·b",
     "options_zh": [
-      "1",
       "2",
+      "-2",
       "1 (alt)",
-      "-2"
+      "1"
     ],
     "options_en": [
-      "1",
       "2",
+      "-2",
       "1 (alt)",
-      "-2"
+      "1"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 1 \\times 1 + -2 \\times 0 = 1 + 0 = 1$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 1 \\times 1 + -2 \\times 0 = 1 + 0 = 1$",
     "difficulty": 2,
@@ -7905,18 +7905,18 @@
     "question_zh": "求向量 (-9,-12) 的模",
     "question_en": "Find |(-9,-12)|",
     "options_zh": [
-      "15",
-      "21",
       "108",
-      "16"
+      "21",
+      "16",
+      "15"
     ],
     "options_en": [
-      "15",
-      "21",
       "108",
-      "16"
+      "21",
+      "16",
+      "15"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{-9^2 + -12^2} = \\sqrt{81 + 144} = \\sqrt{225} = 15$",
     "explanation_en": "$|\\vec{a}| = \\sqrt{-9^2 + -12^2} = \\sqrt{81 + 144} = \\sqrt{225} = 15$",
     "difficulty": 3,
@@ -7933,18 +7933,18 @@
     "question_zh": "a=(1,2), find 3a",
     "question_en": "a=(1,2), find 3a",
     "options_zh": [
-      "(3,6)",
       "(4,5)",
       "(1,2)",
-      "(6,9)"
+      "(6,9)",
+      "(3,6)"
     ],
     "options_en": [
-      "(3,6)",
       "(4,5)",
       "(1,2)",
-      "(6,9)"
+      "(6,9)",
+      "(3,6)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$3\\vec{a} = 3(1,2) = (3 \\times 1, 3 \\times 2) = (3,6)$",
     "explanation_en": "$3\\vec{a} = 3(1,2) = (3 \\times 1, 3 \\times 2) = (3,6)$",
     "difficulty": 3,
@@ -7961,18 +7961,18 @@
     "question_zh": "a=(-4,1), b=(5,-1), 求 a+b",
     "question_en": "a=(-4,1), b=(5,-1), find a+b",
     "options_zh": [
+      "(-20,-1)",
       "(1,0)",
       "(-9,2)",
-      "(-20,-1)",
       "(9,-2)"
     ],
     "options_en": [
+      "(-20,-1)",
       "(1,0)",
       "(-9,2)",
-      "(-20,-1)",
       "(9,-2)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-4+5, 1+-1) = (1,0)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-4+5, 1+-1) = (1,0)$",
     "difficulty": 2,
@@ -7989,18 +7989,18 @@
     "question_zh": "a=(-1,-1), find 4a",
     "question_en": "a=(-1,-1), find 4a",
     "options_zh": [
-      "(-4,-4)",
-      "(3,3)",
       "(-1,-1)",
-      "(0,0)"
+      "(0,0)",
+      "(-4,-4)",
+      "(3,3)"
     ],
     "options_en": [
-      "(-4,-4)",
-      "(3,3)",
       "(-1,-1)",
-      "(0,0)"
+      "(0,0)",
+      "(-4,-4)",
+      "(3,3)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$4\\vec{a} = 4(-1,-1) = (4 \\times -1, 4 \\times -1) = (-4,-4)$",
     "explanation_en": "$4\\vec{a} = 4(-1,-1) = (4 \\times -1, 4 \\times -1) = (-4,-4)$",
     "difficulty": 1,
@@ -8017,18 +8017,18 @@
     "question_zh": "a=(-5,-5), b=(0,-5), find a·b",
     "question_en": "a=(-5,-5), b=(0,-5), find a·b",
     "options_zh": [
+      "25 (alt) (alt)",
       "25",
-      "26",
       "25 (alt)",
-      "25 (alt) (alt)"
+      "26"
     ],
     "options_en": [
+      "25 (alt) (alt)",
       "25",
-      "26",
       "25 (alt)",
-      "25 (alt) (alt)"
+      "26"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -5 \\times 0 + -5 \\times -5 = 0 + 25 = 25$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -5 \\times 0 + -5 \\times -5 = 0 + 25 = 25$",
     "difficulty": 2,
@@ -8045,18 +8045,18 @@
     "question_zh": "a=(-4,-3), b=(-3,3), find a·b",
     "question_en": "a=(-4,-3), b=(-3,3), find a·b",
     "options_zh": [
-      "3",
       "4",
+      "3",
       "3 (alt)",
       "-3"
     ],
     "options_en": [
-      "3",
       "4",
+      "3",
       "3 (alt)",
       "-3"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = -4 \\times -3 + -3 \\times 3 = 12 + -9 = 3$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = -4 \\times -3 + -3 \\times 3 = 12 + -9 = 3$",
     "difficulty": 2,
@@ -8073,18 +8073,18 @@
     "question_zh": "a=(-4,1), find 5a",
     "question_en": "a=(-4,1), find 5a",
     "options_zh": [
-      "(-20,5)",
-      "(1,6)",
       "(-4,1)",
-      "(-15,10)"
+      "(-20,5)",
+      "(-15,10)",
+      "(1,6)"
     ],
     "options_en": [
-      "(-20,5)",
-      "(1,6)",
       "(-4,1)",
-      "(-15,10)"
+      "(-20,5)",
+      "(-15,10)",
+      "(1,6)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$5\\vec{a} = 5(-4,1) = (5 \\times -4, 5 \\times 1) = (-20,5)$",
     "explanation_en": "$5\\vec{a} = 5(-4,1) = (5 \\times -4, 5 \\times 1) = (-20,5)$",
     "difficulty": 3,
@@ -8101,18 +8101,18 @@
     "question_zh": "a=(4,0), b=(-5,3), 求 a+b",
     "question_en": "a=(4,0), b=(-5,3), find a+b",
     "options_zh": [
-      "(-1,3)",
+      "(-9,3)",
       "(9,-3)",
       "(-20,0)",
-      "(-9,3)"
+      "(-1,3)"
     ],
     "options_en": [
-      "(-1,3)",
+      "(-9,3)",
       "(9,-3)",
       "(-20,0)",
-      "(-9,3)"
+      "(-1,3)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (4+-5, 0+3) = (-1,3)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (4+-5, 0+3) = (-1,3)$",
     "difficulty": 3,
@@ -8129,18 +8129,18 @@
     "question_zh": "a=(-4,-1), find 2a",
     "question_en": "a=(-4,-1), find 2a",
     "options_zh": [
-      "(-8,-2)",
+      "(-6,0)",
       "(-2,1)",
-      "(-4,-1)",
-      "(-6,0)"
+      "(-8,-2)",
+      "(-4,-1)"
     ],
     "options_en": [
-      "(-8,-2)",
+      "(-6,0)",
       "(-2,1)",
-      "(-4,-1)",
-      "(-6,0)"
+      "(-8,-2)",
+      "(-4,-1)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$2\\vec{a} = 2(-4,-1) = (2 \\times -4, 2 \\times -1) = (-8,-2)$",
     "explanation_en": "$2\\vec{a} = 2(-4,-1) = (2 \\times -4, 2 \\times -1) = (-8,-2)$",
     "difficulty": 3,
@@ -8157,18 +8157,18 @@
     "question_zh": "a=(1,-4), b=(-2,5), 求 a+b",
     "question_en": "a=(1,-4), b=(-2,5), find a+b",
     "options_zh": [
+      "(-3,9)",
       "(-1,1)",
       "(3,-9)",
-      "(-2,-20)",
-      "(-3,9)"
+      "(-2,-20)"
     ],
     "options_en": [
+      "(-3,9)",
       "(-1,1)",
       "(3,-9)",
-      "(-2,-20)",
-      "(-3,9)"
+      "(-2,-20)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (1+-2, -4+5) = (-1,1)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (1+-2, -4+5) = (-1,1)$",
     "difficulty": 2,
@@ -8185,18 +8185,18 @@
     "question_zh": "a=(1,0), b=(4,4), find a·b",
     "question_en": "a=(1,0), b=(4,4), find a·b",
     "options_zh": [
-      "4",
-      "5",
       "4 (alt)",
-      "4 (alt) (alt)"
+      "4",
+      "4 (alt) (alt)",
+      "5"
     ],
     "options_en": [
-      "4",
-      "5",
       "4 (alt)",
-      "4 (alt) (alt)"
+      "4",
+      "4 (alt) (alt)",
+      "5"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 1 \\times 4 + 0 \\times 4 = 4 + 0 = 4$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 1 \\times 4 + 0 \\times 4 = 4 + 0 = 4$",
     "difficulty": 1,
@@ -8213,18 +8213,18 @@
     "question_zh": "a=(-4,3), b=(5,-1), 求 a+b",
     "question_en": "a=(-4,3), b=(5,-1), find a+b",
     "options_zh": [
-      "(1,2)",
+      "(9,-4)",
       "(-9,4)",
-      "(-20,-3)",
-      "(9,-4)"
+      "(1,2)",
+      "(-20,-3)"
     ],
     "options_en": [
-      "(1,2)",
+      "(9,-4)",
       "(-9,4)",
-      "(-20,-3)",
-      "(9,-4)"
+      "(1,2)",
+      "(-20,-3)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-4+5, 3+-1) = (1,2)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-4+5, 3+-1) = (1,2)$",
     "difficulty": 1,
@@ -8241,18 +8241,18 @@
     "question_zh": "a=(-3,-2), find 2a",
     "question_en": "a=(-3,-2), find 2a",
     "options_zh": [
-      "(-6,-4)",
       "(-1,0)",
-      "(-3,-2)",
-      "(-4,-2)"
+      "(-6,-4)",
+      "(-4,-2)",
+      "(-3,-2)"
     ],
     "options_en": [
-      "(-6,-4)",
       "(-1,0)",
-      "(-3,-2)",
-      "(-4,-2)"
+      "(-6,-4)",
+      "(-4,-2)",
+      "(-3,-2)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$2\\vec{a} = 2(-3,-2) = (2 \\times -3, 2 \\times -2) = (-6,-4)$",
     "explanation_en": "$2\\vec{a} = 2(-3,-2) = (2 \\times -3, 2 \\times -2) = (-6,-4)$",
     "difficulty": 2,
@@ -8269,18 +8269,18 @@
     "question_zh": "求向量 (7,-24) 的模",
     "question_en": "Find |(7,-24)|",
     "options_zh": [
+      "26",
       "25",
       "31",
-      "168",
-      "26"
+      "168"
     ],
     "options_en": [
+      "26",
       "25",
       "31",
-      "168",
-      "26"
+      "168"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$|\\vec{a}| = \\sqrt{7^2 + -24^2} = \\sqrt{49 + 576} = \\sqrt{625} = 25$",
     "explanation_en": "$|\\vec{a}| = \\sqrt{7^2 + -24^2} = \\sqrt{49 + 576} = \\sqrt{625} = 25$",
     "difficulty": 2,
@@ -8325,18 +8325,18 @@
     "question_zh": "a=(1,-1), b=(2,5), find a·b",
     "question_en": "a=(1,-1), b=(2,5), find a·b",
     "options_zh": [
-      "-3",
       "-2",
+      "-3",
       "3",
       "3 (alt)"
     ],
     "options_en": [
-      "-3",
       "-2",
+      "-3",
       "3",
       "3 (alt)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 1 \\times 2 + -1 \\times 5 = 2 + -5 = -3$",
     "explanation_en": "$\\vec{a} \\cdot \\vec{b} = 1 \\times 2 + -1 \\times 5 = 2 + -5 = -3$",
     "difficulty": 3,
@@ -8354,14 +8354,14 @@
     "question_en": "a=(-5,-3), b=(0,4), find a·b",
     "options_zh": [
       "-12",
-      "-11",
       "12",
+      "-11",
       "-20"
     ],
     "options_en": [
       "-12",
-      "-11",
       "12",
+      "-11",
       "-20"
     ],
     "answer": 0,
@@ -8382,15 +8382,15 @@
     "question_en": "a=(0,-3), b=(-1,-2), find a·b",
     "options_zh": [
       "6",
-      "7",
+      "3",
       "6 (alt)",
-      "3"
+      "7"
     ],
     "options_en": [
       "6",
-      "7",
+      "3",
       "6 (alt)",
-      "3"
+      "7"
     ],
     "answer": 0,
     "explanation_zh": "$\\vec{a} \\cdot \\vec{b} = 0 \\times -1 + -3 \\times -2 = 0 + 6 = 6$",
@@ -8409,18 +8409,18 @@
     "question_zh": "a=(-1,1), b=(0,5), 求 a+b",
     "question_en": "a=(-1,1), b=(0,5), find a+b",
     "options_zh": [
-      "(-1,6)",
-      "(-1,-4)",
       "(0,5)",
-      "(1,4)"
+      "(-1,6)",
+      "(1,4)",
+      "(-1,-4)"
     ],
     "options_en": [
-      "(-1,6)",
-      "(-1,-4)",
       "(0,5)",
-      "(1,4)"
+      "(-1,6)",
+      "(1,4)",
+      "(-1,-4)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (-1+0, 1+5) = (-1,6)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (-1+0, 1+5) = (-1,6)$",
     "difficulty": 2,
@@ -8437,18 +8437,18 @@
     "question_zh": "a=(5,4), b=(-4,0), 求 a+b",
     "question_en": "a=(5,4), b=(-4,0), find a+b",
     "options_zh": [
-      "(1,4)",
-      "(9,4)",
       "(-20,0)",
-      "(-9,-4)"
+      "(-9,-4)",
+      "(9,4)",
+      "(1,4)"
     ],
     "options_en": [
-      "(1,4)",
-      "(9,4)",
       "(-20,0)",
-      "(-9,-4)"
+      "(-9,-4)",
+      "(9,4)",
+      "(1,4)"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "$\\vec{a} + \\vec{b} = (5+-4, 4+0) = (1,4)$",
     "explanation_en": "$\\vec{a} + \\vec{b} = (5+-4, 4+0) = (1,4)$",
     "difficulty": 2,
@@ -8465,18 +8465,18 @@
     "question_zh": "a=(0,3), find 3a",
     "question_en": "a=(0,3), find 3a",
     "options_zh": [
+      "(3,12)",
       "(0,9)",
       "(3,6)",
-      "(0,3)",
-      "(3,12)"
+      "(0,3)"
     ],
     "options_en": [
+      "(3,12)",
       "(0,9)",
       "(3,6)",
-      "(0,3)",
-      "(3,12)"
+      "(0,3)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "$3\\vec{a} = 3(0,3) = (3 \\times 0, 3 \\times 3) = (0,9)$",
     "explanation_en": "$3\\vec{a} = 3(0,3) = (3 \\times 0, 3 \\times 3) = (0,9)$",
     "difficulty": 3,

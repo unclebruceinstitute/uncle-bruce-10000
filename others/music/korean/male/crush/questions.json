@@ -4,15 +4,15 @@
     "question_zh": "以下邊首係Crush嘅歌？",
     "question_en": "Which is a song by Crush?",
     "options_zh": [
-      "歌曲M",
-      "歌曲A",
       "歌曲G",
+      "歌曲A",
+      "歌曲M",
       "歌曲D"
     ],
     "options_en": [
-      "歌曲M",
-      "歌曲A",
       "歌曲G",
+      "歌曲A",
+      "歌曲M",
       "歌曲D"
     ],
     "answer": 1,
@@ -25,18 +25,18 @@
     "question_zh": "《專輯A》係Crush喺邊年推出嘅專輯？",
     "question_en": "What year was '專輯A' by Crush released?",
     "options_zh": [
-      "2020",
-      "2007",
       "2003",
-      "2015"
+      "2020",
+      "2015",
+      "2007"
     ],
     "options_en": [
-      "2020",
-      "2007",
       "2003",
-      "2015"
+      "2020",
+      "2015",
+      "2007"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "《專輯A》喺2015年推出。",
     "explanation_en": "'專輯A' was released in 2015.",
     "difficulty": 2
@@ -46,18 +46,18 @@
     "question_zh": "《專輯B》係Crush喺邊年推出嘅專輯？",
     "question_en": "What year was '專輯B' by Crush released?",
     "options_zh": [
-      "2015",
-      "2010",
       "2018",
-      "2020"
+      "2015",
+      "2020",
+      "2010"
     ],
     "options_en": [
-      "2015",
-      "2010",
       "2018",
-      "2020"
+      "2015",
+      "2020",
+      "2010"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "《專輯B》喺2018年推出。",
     "explanation_en": "'專輯B' was released in 2018.",
     "difficulty": 2
@@ -67,15 +67,15 @@
     "question_zh": "《專輯C》係Crush喺邊年推出嘅專輯？",
     "question_en": "What year was '專輯C' by Crush released?",
     "options_zh": [
-      "2015",
-      "2023",
       "1999",
+      "2023",
+      "2015",
       "2018"
     ],
     "options_en": [
-      "2015",
-      "2023",
       "1999",
+      "2023",
+      "2015",
       "2018"
     ],
     "answer": 3,
@@ -88,18 +88,18 @@
     "question_zh": "《專輯D》係Crush喺邊年推出嘅專輯？",
     "question_en": "What year was '專輯D' by Crush released?",
     "options_zh": [
+      "2010",
       "2023",
       "2018",
-      "1999",
-      "2010"
+      "1999"
     ],
     "options_en": [
+      "2010",
       "2023",
       "2018",
-      "1999",
-      "2010"
+      "1999"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "《專輯D》喺2018年推出。",
     "explanation_en": "'專輯D' was released in 2018.",
     "difficulty": 2
@@ -110,17 +110,17 @@
     "question_en": "What year was '專輯E' by Crush released?",
     "options_zh": [
       "2003",
-      "2020",
+      "1999",
       "2007",
-      "1999"
+      "2020"
     ],
     "options_en": [
       "2003",
-      "2020",
+      "1999",
       "2007",
-      "1999"
+      "2020"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "《專輯E》喺2020年推出。",
     "explanation_en": "'專輯E' was released in 2020.",
     "difficulty": 2
@@ -130,18 +130,18 @@
     "question_zh": "Crush大約喺邊年出道？",
     "question_en": "When did Crush approximately debut?",
     "options_zh": [
-      "2005",
       "2000",
-      "2020",
-      "1985"
+      "1985",
+      "2005",
+      "2020"
     ],
     "options_en": [
-      "2005",
       "2000",
-      "2020",
-      "1985"
+      "1985",
+      "2005",
+      "2020"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "Crush喺2000年出道。",
     "explanation_en": "Crush debuted around 2000.",
     "difficulty": 1
@@ -151,18 +151,18 @@
     "question_zh": "Crush來自邊個地方？",
     "question_en": "Where is Crush from?",
     "options_zh": [
-      "加拿大",
-      "korean",
       "台灣",
-      "日本"
+      "日本",
+      "加拿大",
+      "korean"
     ],
     "options_en": [
-      "加拿大",
-      "korean",
       "台灣",
-      "日本"
+      "日本",
+      "加拿大",
+      "korean"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "Crush來自korean。",
     "explanation_en": "Crush is from korean.",
     "difficulty": 1
@@ -172,18 +172,18 @@
     "question_zh": "Crush主要唱咩類型嘅音樂？",
     "question_en": "What genre does Crush mainly sing?",
     "options_zh": [
+      "流行曲",
       "爵士",
-      "R&B",
       "藍調",
-      "流行曲"
+      "R&B"
     ],
     "options_en": [
+      "流行曲",
       "爵士",
-      "R&B",
       "藍調",
-      "流行曲"
+      "R&B"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "Crush主要唱流行曲。",
     "explanation_en": "Crush mainly sings 流行曲.",
     "difficulty": 2
@@ -193,18 +193,18 @@
     "question_zh": "Crush係邊間唱片公司旗下？",
     "question_en": "Which label is Crush signed to?",
     "options_zh": [
+      "唱片公司",
       "華納",
       "新藝寶",
-      "唱片公司",
       "紅線音樂"
     ],
     "options_en": [
+      "唱片公司",
       "華納",
       "新藝寶",
-      "唱片公司",
       "紅線音樂"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "Crush係唱片公司旗下歌手。",
     "explanation_en": "Crush is signed to 唱片公司.",
     "difficulty": 2
@@ -214,18 +214,18 @@
     "question_zh": "以下邊項關於Crush嘅描述係正確？",
     "question_en": "Which description of Crush is correct?",
     "options_zh": [
-      "來自korean",
-      "來自外太空",
       "係AI歌手",
-      "唔存在"
+      "唔存在",
+      "來自外太空",
+      "來自korean"
     ],
     "options_en": [
-      "From korean",
-      "From outer space",
       "AI singer",
-      "Doesn't exist"
+      "Doesn't exist",
+      "From outer space",
+      "From korean"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "Crush來自korean。",
     "explanation_en": "Crush is from korean.",
     "difficulty": 1
@@ -235,18 +235,18 @@
     "question_zh": "以下邊個獎項Crush曾經獲得？",
     "question_en": "Which award has Crush won?",
     "options_zh": [
-      "音樂獎項",
       "奧斯卡最佳男主角",
+      "世界盃金靴獎",
       "諾貝爾文學獎",
-      "世界盃金靴獎"
+      "音樂獎項"
     ],
     "options_en": [
-      "音樂獎項",
       "Oscar Best Actor",
+      "World Cup Golden Boot",
       "Nobel Literature Prize",
-      "World Cup Golden Boot"
+      "音樂獎項"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "Crush曾獲得音樂獎項。",
     "explanation_en": "Crush has won 音樂獎項.",
     "difficulty": 3
@@ -256,18 +256,18 @@
     "question_zh": "《歌曲A》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲A'?",
     "options_zh": [
+      "其他歌手B",
       "Crush",
       "其他歌手A",
-      "其他歌手B",
       "其他歌手C"
     ],
     "options_en": [
+      "Other Artist B",
       "Crush",
       "Other Artist A",
-      "Other Artist B",
       "Other Artist C"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "《歌曲A》係Crush嘅歌。",
     "explanation_en": "'歌曲A' is by Crush.",
     "difficulty": 3
@@ -277,18 +277,18 @@
     "question_zh": "《歌曲B》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲B'?",
     "options_zh": [
-      "Crush",
-      "其他歌手A",
       "其他歌手B",
+      "其他歌手A",
+      "Crush",
       "其他歌手C"
     ],
     "options_en": [
-      "Crush",
-      "Other Artist A",
       "Other Artist B",
+      "Other Artist A",
+      "Crush",
       "Other Artist C"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "《歌曲B》係Crush嘅歌。",
     "explanation_en": "'歌曲B' is by Crush.",
     "difficulty": 3
@@ -298,18 +298,18 @@
     "question_zh": "《歌曲C》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲C'?",
     "options_zh": [
-      "Crush",
+      "其他歌手C",
       "其他歌手A",
       "其他歌手B",
-      "其他歌手C"
+      "Crush"
     ],
     "options_en": [
-      "Crush",
+      "Other Artist C",
       "Other Artist A",
       "Other Artist B",
-      "Other Artist C"
+      "Crush"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "《歌曲C》係Crush嘅歌。",
     "explanation_en": "'歌曲C' is by Crush.",
     "difficulty": 3
@@ -319,18 +319,18 @@
     "question_zh": "《歌曲D》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲D'?",
     "options_zh": [
+      "其他歌手B",
       "Crush",
       "其他歌手A",
-      "其他歌手B",
       "其他歌手C"
     ],
     "options_en": [
+      "Other Artist B",
       "Crush",
       "Other Artist A",
-      "Other Artist B",
       "Other Artist C"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "《歌曲D》係Crush嘅歌。",
     "explanation_en": "'歌曲D' is by Crush.",
     "difficulty": 3
@@ -340,18 +340,18 @@
     "question_zh": "《歌曲E》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲E'?",
     "options_zh": [
+      "其他歌手C",
       "Crush",
-      "其他歌手A",
       "其他歌手B",
-      "其他歌手C"
+      "其他歌手A"
     ],
     "options_en": [
+      "Other Artist C",
       "Crush",
-      "Other Artist A",
       "Other Artist B",
-      "Other Artist C"
+      "Other Artist A"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "《歌曲E》係Crush嘅歌。",
     "explanation_en": "'歌曲E' is by Crush.",
     "difficulty": 3
@@ -361,18 +361,18 @@
     "question_zh": "《歌曲F》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲F'?",
     "options_zh": [
-      "Crush",
-      "其他歌手A",
       "其他歌手B",
+      "其他歌手A",
+      "Crush",
       "其他歌手C"
     ],
     "options_en": [
-      "Crush",
-      "Other Artist A",
       "Other Artist B",
+      "Other Artist A",
+      "Crush",
       "Other Artist C"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "《歌曲F》係Crush嘅歌。",
     "explanation_en": "'歌曲F' is by Crush.",
     "difficulty": 3
@@ -382,18 +382,18 @@
     "question_zh": "《歌曲G》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲G'?",
     "options_zh": [
-      "Crush",
+      "其他歌手C",
       "其他歌手A",
       "其他歌手B",
-      "其他歌手C"
+      "Crush"
     ],
     "options_en": [
-      "Crush",
+      "Other Artist C",
       "Other Artist A",
       "Other Artist B",
-      "Other Artist C"
+      "Crush"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "《歌曲G》係Crush嘅歌。",
     "explanation_en": "'歌曲G' is by Crush.",
     "difficulty": 3
@@ -403,18 +403,18 @@
     "question_zh": "《歌曲H》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲H'?",
     "options_zh": [
-      "Crush",
       "其他歌手A",
+      "其他歌手C",
       "其他歌手B",
-      "其他歌手C"
+      "Crush"
     ],
     "options_en": [
-      "Crush",
       "Other Artist A",
+      "Other Artist C",
       "Other Artist B",
-      "Other Artist C"
+      "Crush"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "《歌曲H》係Crush嘅歌。",
     "explanation_en": "'歌曲H' is by Crush.",
     "difficulty": 3
@@ -424,18 +424,18 @@
     "question_zh": "《歌曲I》係邊位歌手嘅歌？",
     "question_en": "Who sings '歌曲I'?",
     "options_zh": [
-      "Crush",
       "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
+      "Crush",
+      "其他歌手C",
+      "其他歌手B"
     ],
     "options_en": [
-      "Crush",
       "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
+      "Crush",
+      "Other Artist C",
+      "Other Artist B"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "《歌曲I》係Crush嘅歌。",
     "explanation_en": "'歌曲I' is by Crush.",
     "difficulty": 3
@@ -447,14 +447,14 @@
     "options_zh": [
       "Crush",
       "其他歌手A",
-      "其他歌手B",
-      "其他歌手C"
+      "其他歌手C",
+      "其他歌手B"
     ],
     "options_en": [
       "Crush",
       "Other Artist A",
-      "Other Artist B",
-      "Other Artist C"
+      "Other Artist C",
+      "Other Artist B"
     ],
     "answer": 0,
     "explanation_zh": "《歌曲J》係Crush嘅歌。",
@@ -466,18 +466,18 @@
     "question_zh": "「Crush嘅歌」屬於咩類型？",
     "question_en": "What genre is 'Crush'?",
     "options_zh": [
-      "類型A",
-      "類型B",
       "類型C",
-      "類型D"
+      "類型D",
+      "類型B",
+      "類型A"
     ],
     "options_en": [
-      "類型A",
-      "類型B",
       "類型C",
-      "類型D"
+      "類型D",
+      "類型B",
+      "類型A"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係類型A。",
     "explanation_en": "Correct answer: 類型A.",
     "difficulty": 1
@@ -488,15 +488,15 @@
     "question_en": "When did 'Crush' start?",
     "options_zh": [
       "2000",
-      "2005",
       "2010",
-      "2015"
+      "2015",
+      "2005"
     ],
     "options_en": [
       "2000",
-      "2005",
       "2010",
-      "2015"
+      "2015",
+      "2005"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係2000。",
@@ -508,18 +508,18 @@
     "question_zh": "「Crush嘅歌」來自邊個國家/地區？",
     "question_en": "Where is 'Crush' from?",
     "options_zh": [
+      "韓國",
       "香港",
-      "台灣",
       "日本",
-      "韓國"
+      "台灣"
     ],
     "options_en": [
+      "韓國",
       "香港",
-      "台灣",
       "日本",
-      "韓國"
+      "台灣"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係香港。",
     "explanation_en": "Correct answer: 香港.",
     "difficulty": 1
@@ -529,18 +529,18 @@
     "question_zh": "「Crush嘅歌」最出名嘅作品係？",
     "question_en": "What's 'Crush' most famous work?",
     "options_zh": [
-      "作品A",
-      "作品B",
       "作品C",
+      "作品B",
+      "作品A",
       "作品D"
     ],
     "options_en": [
-      "作品A",
-      "作品B",
       "作品C",
+      "作品B",
+      "作品A",
       "作品D"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係作品A。",
     "explanation_en": "Correct answer: 作品A.",
     "difficulty": 1
@@ -550,18 +550,18 @@
     "question_zh": "「Crush嘅歌」嘅風格特點係？",
     "question_en": "What's 'Crush' style?",
     "options_zh": [
-      "風格A",
-      "風格B",
       "風格C",
-      "風格D"
+      "風格D",
+      "風格A",
+      "風格B"
     ],
     "options_en": [
-      "風格A",
-      "風格B",
       "風格C",
-      "風格D"
+      "風格D",
+      "風格A",
+      "風格B"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係風格A。",
     "explanation_en": "Correct answer: 風格A.",
     "difficulty": 1
@@ -571,18 +571,18 @@
     "question_zh": "「Crush嘅歌」同邊位合作過？",
     "question_en": "Who collaborated with 'Crush'?",
     "options_zh": [
-      "合作A",
       "合作B",
       "合作C",
+      "合作A",
       "合作D"
     ],
     "options_en": [
-      "合作A",
       "合作B",
       "合作C",
+      "合作A",
       "合作D"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係合作A。",
     "explanation_en": "Correct answer: 合作A.",
     "difficulty": 1
@@ -592,18 +592,18 @@
     "question_zh": "「Crush嘅歌」嘅粉絲叫咩？",
     "question_en": "What are 'Crush' fans called?",
     "options_zh": [
-      "粉絲名A",
       "粉絲名B",
+      "粉絲名A",
       "粉絲名C",
       "粉絲名D"
     ],
     "options_en": [
-      "粉絲名A",
       "粉絲名B",
+      "粉絲名A",
       "粉絲名C",
       "粉絲名D"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係粉絲名A。",
     "explanation_en": "Correct answer: 粉絲名A.",
     "difficulty": 1
@@ -613,18 +613,18 @@
     "question_zh": "「Crush嘅歌」喺邊個平台最活躍？",
     "question_en": "Which platform is 'Crush' most active on?",
     "options_zh": [
-      "YouTube",
       "Instagram",
-      "Twitter",
-      "TikTok"
+      "TikTok",
+      "YouTube",
+      "Twitter"
     ],
     "options_en": [
-      "YouTube",
       "Instagram",
-      "Twitter",
-      "TikTok"
+      "TikTok",
+      "YouTube",
+      "Twitter"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係YouTube。",
     "explanation_en": "Correct answer: YouTube.",
     "difficulty": 1
@@ -634,18 +634,18 @@
     "question_zh": "「Crush嘅歌」嘅出道作品係？",
     "question_en": "What's 'Crush' debut work?",
     "options_zh": [
-      "出道作A",
       "出道作B",
+      "出道作A",
       "出道作C",
       "出道作D"
     ],
     "options_en": [
-      "出道作A",
       "出道作B",
+      "出道作A",
       "出道作C",
       "出道作D"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係出道作A。",
     "explanation_en": "Correct answer: 出道作A.",
     "difficulty": 2
@@ -655,18 +655,18 @@
     "question_zh": "「Crush嘅歌」有冇拎過獎？",
     "question_en": "Did 'Crush' win awards?",
     "options_zh": [
-      "有",
-      "冇",
       "提名過",
-      "唔清楚"
+      "唔清楚",
+      "有",
+      "冇"
     ],
     "options_en": [
-      "有",
-      "冇",
       "提名過",
-      "唔清楚"
+      "唔清楚",
+      "有",
+      "冇"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係有。",
     "explanation_en": "Correct answer: 有.",
     "difficulty": 2
@@ -676,18 +676,18 @@
     "question_zh": "「Crush嘅歌」嘅活躍年份係？",
     "question_en": "What years was 'Crush' active?",
     "options_zh": [
-      "2000年代",
-      "2010年代",
       "2020年代",
+      "2010年代",
+      "2000年代",
       "1990年代"
     ],
     "options_en": [
-      "2000年代",
-      "2010年代",
       "2020年代",
+      "2010年代",
+      "2000年代",
       "1990年代"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係2000年代。",
     "explanation_en": "Correct answer: 2000年代.",
     "difficulty": 2
@@ -699,14 +699,14 @@
     "options_zh": [
       "紅色",
       "藍色",
-      "綠色",
-      "紫色"
+      "紫色",
+      "綠色"
     ],
     "options_en": [
       "紅色",
       "藍色",
-      "綠色",
-      "紫色"
+      "紫色",
+      "綠色"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係紅色。",
@@ -720,14 +720,14 @@
     "options_zh": [
       "口頭禪A",
       "口頭禪B",
-      "口頭禪C",
-      "口頭禪D"
+      "口頭禪D",
+      "口頭禪C"
     ],
     "options_en": [
       "口頭禪A",
       "口頭禪B",
-      "口頭禪C",
-      "口頭禪D"
+      "口頭禪D",
+      "口頭禪C"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係口頭禪A。",
@@ -760,18 +760,18 @@
     "question_zh": "「Crush嘅歌」嘅生日係？",
     "question_en": "When is 'Crush' birthday?",
     "options_zh": [
-      "1月",
       "4月",
-      "7月",
-      "10月"
+      "1月",
+      "10月",
+      "7月"
     ],
     "options_en": [
-      "1月",
       "4月",
-      "7月",
-      "10月"
+      "1月",
+      "10月",
+      "7月"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係1月。",
     "explanation_en": "Correct answer: 1月.",
     "difficulty": 2
@@ -781,18 +781,18 @@
     "question_zh": "「Crush嘅歌」嘅經紀公司係？",
     "question_en": "What agency is 'Crush' with?",
     "options_zh": [
-      "公司A",
       "公司B",
-      "公司C",
-      "公司D"
+      "公司A",
+      "公司D",
+      "公司C"
     ],
     "options_en": [
-      "公司A",
       "公司B",
-      "公司C",
-      "公司D"
+      "公司A",
+      "公司D",
+      "公司C"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係公司A。",
     "explanation_en": "Correct answer: 公司A.",
     "difficulty": 2
@@ -802,18 +802,18 @@
     "question_zh": "「Crush嘅歌」嘅座右銘係？",
     "question_en": "What's 'Crush' motto?",
     "options_zh": [
-      "座右銘A",
       "座右銘B",
       "座右銘C",
+      "座右銘A",
       "座右銘D"
     ],
     "options_en": [
-      "座右銘A",
       "座右銘B",
       "座右銘C",
+      "座右銘A",
       "座右銘D"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係座右銘A。",
     "explanation_en": "Correct answer: 座右銘A.",
     "difficulty": 2
@@ -823,18 +823,18 @@
     "question_zh": "「Crush嘅歌」嘅教育背景係？",
     "question_en": "What's 'Crush' education?",
     "options_zh": [
-      "大學畢業",
-      "高中畢業",
       "自學成才",
-      "海外留學"
+      "大學畢業",
+      "海外留學",
+      "高中畢業"
     ],
     "options_en": [
-      "大學畢業",
-      "高中畢業",
       "自學成才",
-      "海外留學"
+      "大學畢業",
+      "海外留學",
+      "高中畢業"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係大學畢業。",
     "explanation_en": "Correct answer: 大學畢業.",
     "difficulty": 2
@@ -844,18 +844,18 @@
     "question_zh": "「Crush嘅歌」嘅家庭背景係？",
     "question_en": "What's 'Crush' family background?",
     "options_zh": [
-      "普通家庭",
+      "學術家庭",
       "演藝世家",
       "商界家庭",
-      "學術家庭"
+      "普通家庭"
     ],
     "options_en": [
-      "普通家庭",
+      "學術家庭",
       "演藝世家",
       "商界家庭",
-      "學術家庭"
+      "普通家庭"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係普通家庭。",
     "explanation_en": "Correct answer: 普通家庭.",
     "difficulty": 3
@@ -865,18 +865,18 @@
     "question_zh": "「Crush嘅歌」嘅興趣愛好係？",
     "question_en": "What's 'Crush' hobby?",
     "options_zh": [
-      "運動",
+      "攝影",
       "閱讀",
-      "旅行",
-      "攝影"
+      "運動",
+      "旅行"
     ],
     "options_en": [
-      "運動",
+      "攝影",
       "閱讀",
-      "旅行",
-      "攝影"
+      "運動",
+      "旅行"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係運動。",
     "explanation_en": "Correct answer: 運動.",
     "difficulty": 3
@@ -887,15 +887,15 @@
     "question_en": "How many social media followers for 'Crush'?",
     "options_zh": [
       "100萬以下",
-      "100-500萬",
+      "1000萬以上",
       "500-1000萬",
-      "1000萬以上"
+      "100-500萬"
     ],
     "options_en": [
       "100萬以下",
-      "100-500萬",
+      "1000萬以上",
       "500-1000萬",
-      "1000萬以上"
+      "100-500萬"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係100萬以下。",
@@ -907,18 +907,18 @@
     "question_zh": "「Crush嘅歌」嘅演唱會/展覽次數？",
     "question_en": "How many concerts/exhibitions for 'Crush'?",
     "options_zh": [
-      "10場以下",
-      "10-50場",
       "50-100場",
+      "10-50場",
+      "10場以下",
       "100場以上"
     ],
     "options_en": [
-      "10場以下",
-      "10-50場",
       "50-100場",
+      "10-50場",
+      "10場以下",
       "100場以上"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係10場以下。",
     "explanation_en": "Correct answer: 10場以下.",
     "difficulty": 3
@@ -928,18 +928,18 @@
     "question_zh": "「Crush嘅歌」嘅專輯/作品數量？",
     "question_en": "How many albums/works for 'Crush'?",
     "options_zh": [
+      "10-20個",
       "5個以下",
       "5-10個",
-      "10-20個",
       "20個以上"
     ],
     "options_en": [
+      "10-20個",
       "5個以下",
       "5-10個",
-      "10-20個",
       "20個以上"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係5個以下。",
     "explanation_en": "Correct answer: 5個以下.",
     "difficulty": 3
@@ -950,14 +950,14 @@
     "question_en": "What's 'Crush' creative style?",
     "options_zh": [
       "傳統",
-      "現代",
       "實驗",
+      "現代",
       "融合"
     ],
     "options_en": [
       "傳統",
-      "現代",
       "實驗",
+      "現代",
       "融合"
     ],
     "answer": 0,
@@ -970,18 +970,18 @@
     "question_zh": "「Crush嘅歌」嘅影響力範圍？",
     "question_en": "What's 'Crush' influence scope?",
     "options_zh": [
-      "本地",
       "亞洲",
-      "全球",
-      "網絡"
+      "網絡",
+      "本地",
+      "全球"
     ],
     "options_en": [
-      "本地",
       "亞洲",
-      "全球",
-      "網絡"
+      "網絡",
+      "本地",
+      "全球"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係本地。",
     "explanation_en": "Correct answer: 本地.",
     "difficulty": 3
