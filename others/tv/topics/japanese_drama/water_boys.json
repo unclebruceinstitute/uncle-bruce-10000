@@ -4,16 +4,58 @@
     "question_zh": "以下邊套係《水男孩》？",
     "question_en": "Which one is 'Water Boys'?",
     "options_zh": [
-      "其他劇集C",
       "其他劇集B",
       "水男孩",
-      "其他劇集A"
+      "其他劇集A",
+      "其他劇集C"
     ],
     "options_en": [
-      "Other Show C",
       "Other Show B",
       "Water Boys",
-      "Other Show A"
+      "Other Show A",
+      "Other Show C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「水男孩」。",
+    "explanation_en": "The correct answer is 'Water Boys'.",
+    "difficulty": 2
+  },
+  {
+    "id": 2,
+    "question_zh": "《水男孩》係邊套劇？",
+    "question_en": "Which drama is 'Water Boys'?",
+    "options_zh": [
+      "水男孩",
+      "其他劇集B",
+      "其他劇集A",
+      "其他劇集C"
+    ],
+    "options_en": [
+      "Water Boys",
+      "Other Show B",
+      "Other Show A",
+      "Other Show C"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「水男孩」。",
+    "explanation_en": "The correct answer is 'Water Boys'.",
+    "difficulty": 3
+  },
+  {
+    "id": 3,
+    "question_zh": "以下邊個係《水男孩》嘅正確名稱？",
+    "question_en": "Which is the correct name of 'Water Boys'?",
+    "options_zh": [
+      "其他劇集A",
+      "其他劇集C",
+      "水男孩",
+      "其他劇集B"
+    ],
+    "options_en": [
+      "Other Show A",
+      "Other Show C",
+      "Water Boys",
+      "Other Show B"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「水男孩」。",
@@ -21,62 +63,188 @@
     "difficulty": 1
   },
   {
-    "id": 2,
-    "question_zh": "《水男孩》係邊年首播嘅？",
-    "question_en": "What year did 'Water Boys' first air?",
+    "id": 4,
+    "question_zh": "以下邊套係《水男孩》？",
+    "question_en": "Which one is 'Water Boys'?",
     "options_zh": [
-      "2003年",
-      "2008年",
-      "2005年",
-      "2001年"
+      "其他B",
+      "水男孩",
+      "其他A",
+      "其他C"
     ],
     "options_en": [
-      "2003",
-      "2008",
-      "2005",
-      "2001"
+      "Other B",
+      "Water Boys",
+      "Other A",
+      "Other C"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2003年」。",
-    "explanation_en": "The correct answer is '2003'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「水男孩」。",
+    "explanation_en": "The correct answer is 'Water Boys'.",
     "difficulty": 2
   },
   {
-    "id": 3,
-    "question_zh": "《水男孩》係咩類型？",
-    "question_en": "What genre is 'Water Boys'?",
+    "id": 5,
+    "question_zh": "以下邊套係《水男孩》？",
+    "question_en": "Which one is 'Water Boys'?",
     "options_zh": [
-      "新聞",
-      "喜劇",
-      "喜劇",
-      "紀錄片"
+      "其他A",
+      "水男孩",
+      "其他B",
+      "其他C"
     ],
     "options_en": [
-      "News",
-      "喜劇",
-      "Comedy",
-      "Documentary"
+      "Other A",
+      "Water Boys",
+      "Other B",
+      "Other C"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「喜劇」。",
-    "explanation_en": "The correct answer is '喜劇'.",
+    "explanation_zh": "正確答案係「水男孩」。",
+    "explanation_en": "The correct answer is 'Water Boys'.",
     "difficulty": 3
   },
   {
-    "id": 4,
+    "id": 6,
+    "question_zh": "以下邊套係《水男孩》？",
+    "question_en": "Which one is 'Water Boys'?",
+    "options_zh": [
+      "其他C",
+      "其他B",
+      "其他A",
+      "水男孩"
+    ],
+    "options_en": [
+      "Other C",
+      "Other B",
+      "Other A",
+      "Water Boys"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「水男孩」。",
+    "explanation_en": "The correct answer is 'Water Boys'.",
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question_zh": "《水男孩》係咩類型嘅節目？",
+    "question_en": "What genre is 'Water Boys'?",
+    "options_zh": [
+      "愛情",
+      "綜合",
+      "動作",
+      "紀錄片"
+    ],
+    "options_en": [
+      "愛情",
+      "綜合",
+      "動作",
+      "紀錄片"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「綜合」。",
+    "explanation_en": "The correct answer is '綜合'.",
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_zh": "《水男孩》屬於邊種類型？",
+    "question_en": "What type does 'Water Boys' belong to?",
+    "options_zh": [
+      "綜合",
+      "愛情",
+      "動作",
+      "紀錄片"
+    ],
+    "options_en": [
+      "綜合",
+      "愛情",
+      "動作",
+      "紀錄片"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「綜合」。",
+    "explanation_en": "The correct answer is '綜合'.",
+    "difficulty": 3
+  },
+  {
+    "id": 9,
+    "question_zh": "你會用咩詞語形容《水男孩》？",
+    "question_en": "How would you describe 'Water Boys'?",
+    "options_zh": [
+      "愛情",
+      "動作",
+      "紀錄片",
+      "綜合"
+    ],
+    "options_en": [
+      "愛情",
+      "動作",
+      "紀錄片",
+      "綜合"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「綜合」。",
+    "explanation_en": "The correct answer is '綜合'.",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
     "question_zh": "《水男孩》係咩地區出品？",
     "question_en": "Where is 'Water Boys' from?",
     "options_zh": [
       "印度",
-      "巴西",
+      "泰國",
       "日本",
-      "泰國"
+      "巴西"
     ],
     "options_en": [
       "India",
+      "Thailand",
+      "Japan",
+      "Brazil"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《水男孩》係邊個國家/地區製作？",
+    "question_en": "Which country/region produced 'Water Boys'?",
+    "options_zh": [
+      "巴西",
+      "泰國",
+      "印度",
+      "日本"
+    ],
+    "options_en": [
+      "Brazil",
+      "Thailand",
+      "India",
+      "Japan"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《水男孩》嘅出品地方係？",
+    "question_en": "Where was 'Water Boys' produced?",
+    "options_zh": [
+      "泰國",
+      "巴西",
+      "日本",
+      "印度"
+    ],
+    "options_en": [
+      "Thailand",
       "Brazil",
       "Japan",
-      "Thailand"
+      "India"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「日本」。",
@@ -84,49 +252,805 @@
     "difficulty": 1
   },
   {
-    "id": 5,
+    "id": 13,
     "question_zh": "《水男孩》主要講咩？",
     "question_en": "What is 'Water Boys' mainly about?",
     "options_zh": [
       "體育賽事",
       "天氣報告",
-      "搞笑生活",
-      "財經新聞"
+      "財經新聞",
+      "精彩劇情"
     ],
     "options_en": [
       "Sports",
       "Weather",
-      "Comedy",
-      "Finance"
+      "Finance",
+      "Exciting plot"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「搞笑生活」。",
-    "explanation_en": "The correct answer is 'Comedy'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「精彩劇情」。",
+    "explanation_en": "The correct answer is 'Exciting plot'.",
     "difficulty": 2
   },
   {
-    "id": 6,
-    "question_zh": "《水男孩》係邊個平台播出？",
-    "question_en": "Which platform aired 'Water Boys'?",
+    "id": 14,
+    "question_zh": "《水男孩》嘅故事情節係？",
+    "question_en": "What is the plot of 'Water Boys'?",
     "options_zh": [
-      "Amazon",
-      "富士電視台",
-      "ViuTV",
-      "YouTube"
+      "財經新聞",
+      "天氣報告",
+      "體育賽事",
+      "精彩劇情"
     ],
     "options_en": [
-      "Amazon",
-      "Fuji TV",
-      "ViuTV",
-      "YouTube"
+      "Finance",
+      "Weather",
+      "Sports",
+      "Exciting plot"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「富士電視台」。",
-    "explanation_en": "The correct answer is 'Fuji TV'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「精彩劇情」。",
+    "explanation_en": "The correct answer is 'Exciting plot'.",
     "difficulty": 3
   },
   {
-    "id": 7,
+    "id": 15,
+    "question_zh": "《水男孩》圍繞咩主題？",
+    "question_en": "What theme does 'Water Boys' revolve around?",
+    "options_zh": [
+      "天氣報告",
+      "財經新聞",
+      "精彩劇情",
+      "體育賽事"
+    ],
+    "options_en": [
+      "Weather",
+      "Finance",
+      "Exciting plot",
+      "Sports"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「精彩劇情」。",
+    "explanation_en": "The correct answer is 'Exciting plot'.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "《水男孩》係邊個平台播出？",
+    "question_en": "Which platform aired 'Water Boys'?",
+    "options_zh": [
+      "YouTube",
+      "ViuTV",
+      "Amazon",
+      "富士電視台"
+    ],
+    "options_en": [
+      "YouTube",
+      "ViuTV",
+      "Amazon",
+      "富士電視台"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「富士電視台」。",
+    "explanation_en": "The correct answer is '富士電視台'.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《水男孩》喺邊度可以睇到？",
+    "question_en": "Where can you watch 'Water Boys'?",
+    "options_zh": [
+      "富士電視台",
+      "ViuTV",
+      "YouTube",
+      "Amazon"
+    ],
+    "options_en": [
+      "富士電視台",
+      "ViuTV",
+      "YouTube",
+      "Amazon"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「富士電視台」。",
+    "explanation_en": "The correct answer is '富士電視台'.",
+    "difficulty": 3
+  },
+  {
+    "id": 18,
+    "question_zh": "《水男孩》係邊個電視台/平台播嘅？",
+    "question_en": "Which TV station/platform aired 'Water Boys'?",
+    "options_zh": [
+      "YouTube",
+      "ViuTV",
+      "富士電視台",
+      "Amazon"
+    ],
+    "options_en": [
+      "YouTube",
+      "ViuTV",
+      "富士電視台",
+      "Amazon"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「富士電視台」。",
+    "explanation_en": "The correct answer is '富士電視台'.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "《水男孩》入面邊個係主角？",
+    "question_en": "Who is the main character in 'Water Boys'?",
+    "options_zh": [
+      "運動員",
+      "歌手",
+      "日本演員",
+      "作家"
+    ],
+    "options_en": [
+      "Athlete",
+      "Singer",
+      "Japanese Actor",
+      "Writer"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「日本演員」。",
+    "explanation_en": "The correct answer is 'Japanese Actor'.",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question_zh": "《水男孩》嘅主演係邊個？",
+    "question_en": "Who stars in 'Water Boys'?",
+    "options_zh": [
+      "運動員",
+      "歌手",
+      "作家",
+      "日本演員"
+    ],
+    "options_en": [
+      "Athlete",
+      "Singer",
+      "Writer",
+      "Japanese Actor"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「日本演員」。",
+    "explanation_en": "The correct answer is 'Japanese Actor'.",
+    "difficulty": 3
+  },
+  {
+    "id": 21,
+    "question_zh": "邊個演員出演《水男孩》？",
+    "question_en": "Which actor appeared in 'Water Boys'?",
+    "options_zh": [
+      "日本演員",
+      "歌手",
+      "運動員",
+      "作家"
+    ],
+    "options_en": [
+      "Japanese Actor",
+      "Singer",
+      "Athlete",
+      "Writer"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「日本演員」。",
+    "explanation_en": "The correct answer is 'Japanese Actor'.",
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question_zh": "《水男孩》大約有幾多集？",
+    "question_en": "How many episodes does 'Water Boys' have approximately?",
+    "options_zh": [
+      "約1-5集",
+      "約16-20集",
+      "約100集以上",
+      "只有1集"
+    ],
+    "options_en": [
+      "1-5 episodes",
+      "About 16-20 episodes",
+      "100+ episodes",
+      "Only 1 episode"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「約16-20集」。",
+    "explanation_en": "The correct answer is 'About 16-20 episodes'.",
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question_zh": "《水男孩》嘅集數係？",
+    "question_en": "How many episodes are in 'Water Boys'?",
+    "options_zh": [
+      "只有1集",
+      "約1-5集",
+      "約16-20集",
+      "約100集以上"
+    ],
+    "options_en": [
+      "Only 1 episode",
+      "1-5 episodes",
+      "About 16-20 episodes",
+      "100+ episodes"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「約16-20集」。",
+    "explanation_en": "The correct answer is 'About 16-20 episodes'.",
+    "difficulty": 3
+  },
+  {
+    "id": 24,
+    "question_zh": "《水男孩》嘅導演/監製係邊個？",
+    "question_en": "Who directed/produced 'Water Boys'?",
+    "options_zh": [
+      "歌手",
+      "演員",
+      "日本導演",
+      "編劇"
+    ],
+    "options_en": [
+      "Singer",
+      "Actor",
+      "Japanese Director",
+      "Writer"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「日本導演」。",
+    "explanation_en": "The correct answer is 'Japanese Director'.",
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question_zh": "《水男孩》有冇出名嘅主題曲？",
+    "question_en": "Does 'Water Boys' have a famous theme song?",
+    "options_zh": [
+      "只有插曲",
+      "冇主題曲",
+      "有主題曲",
+      "只有背景音樂"
+    ],
+    "options_en": [
+      "Only insert songs",
+      "No theme song",
+      "Yes, has theme song",
+      "Only background music"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「有主題曲」。",
+    "explanation_en": "The correct answer is 'Yes, has theme song'.",
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question_zh": "以下邊套係《水男孩》？",
+    "question_en": "Which one is 'Water Boys'?",
+    "options_zh": [
+      "其他劇集B",
+      "水男孩",
+      "其他劇集C",
+      "其他劇集A"
+    ],
+    "options_en": [
+      "Other Show B",
+      "Water Boys",
+      "Other Show C",
+      "Other Show A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「水男孩」。",
+    "explanation_en": "The correct answer is 'Water Boys'.",
+    "difficulty": 3
+  },
+  {
+    "id": 27,
+    "question_zh": "《水男孩》係邊套劇？",
+    "question_en": "Which drama is 'Water Boys'?",
+    "options_zh": [
+      "其他劇集A",
+      "水男孩",
+      "其他劇集B",
+      "其他劇集C"
+    ],
+    "options_en": [
+      "Other Show A",
+      "Water Boys",
+      "Other Show B",
+      "Other Show C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「水男孩」。",
+    "explanation_en": "The correct answer is 'Water Boys'.",
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question_zh": "以下邊個係《水男孩》嘅正確名稱？",
+    "question_en": "Which is the correct name of 'Water Boys'?",
+    "options_zh": [
+      "水男孩",
+      "其他劇集C",
+      "其他劇集B",
+      "其他劇集A"
+    ],
+    "options_en": [
+      "Water Boys",
+      "Other Show C",
+      "Other Show B",
+      "Other Show A"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「水男孩」。",
+    "explanation_en": "The correct answer is 'Water Boys'.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "以下邊套係《水男孩》？",
+    "question_en": "Which one is 'Water Boys'?",
+    "options_zh": [
+      "其他A",
+      "其他B",
+      "水男孩",
+      "其他C"
+    ],
+    "options_en": [
+      "Other A",
+      "Other B",
+      "Water Boys",
+      "Other C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「水男孩」。",
+    "explanation_en": "The correct answer is 'Water Boys'.",
+    "difficulty": 3
+  },
+  {
+    "id": 30,
+    "question_zh": "以下邊套係《水男孩》？",
+    "question_en": "Which one is 'Water Boys'?",
+    "options_zh": [
+      "其他C",
+      "其他A",
+      "水男孩",
+      "其他B"
+    ],
+    "options_en": [
+      "Other C",
+      "Other A",
+      "Water Boys",
+      "Other B"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「水男孩」。",
+    "explanation_en": "The correct answer is 'Water Boys'.",
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question_zh": "以下邊套係《水男孩》？",
+    "question_en": "Which one is 'Water Boys'?",
+    "options_zh": [
+      "其他A",
+      "其他B",
+      "其他C",
+      "水男孩"
+    ],
+    "options_en": [
+      "Other A",
+      "Other B",
+      "Other C",
+      "Water Boys"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「水男孩」。",
+    "explanation_en": "The correct answer is 'Water Boys'.",
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question_zh": "《水男孩》係咩類型嘅節目？",
+    "question_en": "What genre is 'Water Boys'?",
+    "options_zh": [
+      "紀錄片",
+      "綜合",
+      "愛情",
+      "動作"
+    ],
+    "options_en": [
+      "紀錄片",
+      "綜合",
+      "愛情",
+      "動作"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「綜合」。",
+    "explanation_en": "The correct answer is '綜合'.",
+    "difficulty": 3
+  },
+  {
+    "id": 33,
+    "question_zh": "《水男孩》屬於邊種類型？",
+    "question_en": "What type does 'Water Boys' belong to?",
+    "options_zh": [
+      "紀錄片",
+      "綜合",
+      "動作",
+      "愛情"
+    ],
+    "options_en": [
+      "紀錄片",
+      "綜合",
+      "動作",
+      "愛情"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「綜合」。",
+    "explanation_en": "The correct answer is '綜合'.",
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question_zh": "你會用咩詞語形容《水男孩》？",
+    "question_en": "How would you describe 'Water Boys'?",
+    "options_zh": [
+      "綜合",
+      "愛情",
+      "動作",
+      "紀錄片"
+    ],
+    "options_en": [
+      "綜合",
+      "愛情",
+      "動作",
+      "紀錄片"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「綜合」。",
+    "explanation_en": "The correct answer is '綜合'.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question_zh": "《水男孩》係咩地區出品？",
+    "question_en": "Where is 'Water Boys' from?",
+    "options_zh": [
+      "印度",
+      "泰國",
+      "巴西",
+      "日本"
+    ],
+    "options_en": [
+      "India",
+      "Thailand",
+      "Brazil",
+      "Japan"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 3
+  },
+  {
+    "id": 36,
+    "question_zh": "《水男孩》係邊個國家/地區製作？",
+    "question_en": "Which country/region produced 'Water Boys'?",
+    "options_zh": [
+      "泰國",
+      "日本",
+      "印度",
+      "巴西"
+    ],
+    "options_en": [
+      "Thailand",
+      "Japan",
+      "India",
+      "Brazil"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question_zh": "《水男孩》嘅出品地方係？",
+    "question_en": "Where was 'Water Boys' produced?",
+    "options_zh": [
+      "日本",
+      "泰國",
+      "巴西",
+      "印度"
+    ],
+    "options_en": [
+      "Japan",
+      "Thailand",
+      "Brazil",
+      "India"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "《水男孩》主要講咩？",
+    "question_en": "What is 'Water Boys' mainly about?",
+    "options_zh": [
+      "精彩劇情",
+      "天氣報告",
+      "體育賽事",
+      "財經新聞"
+    ],
+    "options_en": [
+      "Exciting plot",
+      "Weather",
+      "Sports",
+      "Finance"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「精彩劇情」。",
+    "explanation_en": "The correct answer is 'Exciting plot'.",
+    "difficulty": 3
+  },
+  {
+    "id": 39,
+    "question_zh": "《水男孩》嘅故事情節係？",
+    "question_en": "What is the plot of 'Water Boys'?",
+    "options_zh": [
+      "天氣報告",
+      "財經新聞",
+      "體育賽事",
+      "精彩劇情"
+    ],
+    "options_en": [
+      "Weather",
+      "Finance",
+      "Sports",
+      "Exciting plot"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「精彩劇情」。",
+    "explanation_en": "The correct answer is 'Exciting plot'.",
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question_zh": "《水男孩》圍繞咩主題？",
+    "question_en": "What theme does 'Water Boys' revolve around?",
+    "options_zh": [
+      "財經新聞",
+      "天氣報告",
+      "精彩劇情",
+      "體育賽事"
+    ],
+    "options_en": [
+      "Finance",
+      "Weather",
+      "Exciting plot",
+      "Sports"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「精彩劇情」。",
+    "explanation_en": "The correct answer is 'Exciting plot'.",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question_zh": "《水男孩》係邊個平台播出？",
+    "question_en": "Which platform aired 'Water Boys'?",
+    "options_zh": [
+      "富士電視台",
+      "YouTube",
+      "ViuTV",
+      "Amazon"
+    ],
+    "options_en": [
+      "富士電視台",
+      "YouTube",
+      "ViuTV",
+      "Amazon"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「富士電視台」。",
+    "explanation_en": "The correct answer is '富士電視台'.",
+    "difficulty": 3
+  },
+  {
+    "id": 42,
+    "question_zh": "《水男孩》喺邊度可以睇到？",
+    "question_en": "Where can you watch 'Water Boys'?",
+    "options_zh": [
+      "ViuTV",
+      "富士電視台",
+      "YouTube",
+      "Amazon"
+    ],
+    "options_en": [
+      "ViuTV",
+      "富士電視台",
+      "YouTube",
+      "Amazon"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「富士電視台」。",
+    "explanation_en": "The correct answer is '富士電視台'.",
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question_zh": "《水男孩》係邊個電視台/平台播嘅？",
+    "question_en": "Which TV station/platform aired 'Water Boys'?",
+    "options_zh": [
+      "富士電視台",
+      "ViuTV",
+      "YouTube",
+      "Amazon"
+    ],
+    "options_en": [
+      "富士電視台",
+      "ViuTV",
+      "YouTube",
+      "Amazon"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「富士電視台」。",
+    "explanation_en": "The correct answer is '富士電視台'.",
+    "difficulty": 2
+  },
+  {
+    "id": 44,
+    "question_zh": "《水男孩》入面邊個係主角？",
+    "question_en": "Who is the main character in 'Water Boys'?",
+    "options_zh": [
+      "運動員",
+      "歌手",
+      "作家",
+      "日本演員"
+    ],
+    "options_en": [
+      "Athlete",
+      "Singer",
+      "Writer",
+      "Japanese Actor"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「日本演員」。",
+    "explanation_en": "The correct answer is 'Japanese Actor'.",
+    "difficulty": 3
+  },
+  {
+    "id": 45,
+    "question_zh": "《水男孩》嘅主演係邊個？",
+    "question_en": "Who stars in 'Water Boys'?",
+    "options_zh": [
+      "日本演員",
+      "作家",
+      "歌手",
+      "運動員"
+    ],
+    "options_en": [
+      "Japanese Actor",
+      "Writer",
+      "Singer",
+      "Athlete"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「日本演員」。",
+    "explanation_en": "The correct answer is 'Japanese Actor'.",
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question_zh": "邊個演員出演《水男孩》？",
+    "question_en": "Which actor appeared in 'Water Boys'?",
+    "options_zh": [
+      "日本演員",
+      "歌手",
+      "作家",
+      "運動員"
+    ],
+    "options_en": [
+      "Japanese Actor",
+      "Singer",
+      "Writer",
+      "Athlete"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「日本演員」。",
+    "explanation_en": "The correct answer is 'Japanese Actor'.",
+    "difficulty": 2
+  },
+  {
+    "id": 47,
+    "question_zh": "《水男孩》大約有幾多集？",
+    "question_en": "How many episodes does 'Water Boys' have approximately?",
+    "options_zh": [
+      "約16-20集",
+      "約1-5集",
+      "只有1集",
+      "約100集以上"
+    ],
+    "options_en": [
+      "About 16-20 episodes",
+      "1-5 episodes",
+      "Only 1 episode",
+      "100+ episodes"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「約16-20集」。",
+    "explanation_en": "The correct answer is 'About 16-20 episodes'.",
+    "difficulty": 3
+  },
+  {
+    "id": 48,
+    "question_zh": "《水男孩》嘅集數係？",
+    "question_en": "How many episodes are in 'Water Boys'?",
+    "options_zh": [
+      "只有1集",
+      "約100集以上",
+      "約16-20集",
+      "約1-5集"
+    ],
+    "options_en": [
+      "Only 1 episode",
+      "100+ episodes",
+      "About 16-20 episodes",
+      "1-5 episodes"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「約16-20集」。",
+    "explanation_en": "The correct answer is 'About 16-20 episodes'.",
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question_zh": "《水男孩》嘅導演/監製係邊個？",
+    "question_en": "Who directed/produced 'Water Boys'?",
+    "options_zh": [
+      "編劇",
+      "演員",
+      "歌手",
+      "日本導演"
+    ],
+    "options_en": [
+      "Writer",
+      "Actor",
+      "Singer",
+      "Japanese Director"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「日本導演」。",
+    "explanation_en": "The correct answer is 'Japanese Director'.",
+    "difficulty": 2
+  },
+  {
+    "id": 50,
+    "question_zh": "《水男孩》有冇出名嘅主題曲？",
+    "question_en": "Does 'Water Boys' have a famous theme song?",
+    "options_zh": [
+      "只有背景音樂",
+      "只有插曲",
+      "有主題曲",
+      "冇主題曲"
+    ],
+    "options_en": [
+      "Only background music",
+      "Only insert songs",
+      "Yes, has theme song",
+      "No theme song"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「有主題曲」。",
+    "explanation_en": "The correct answer is 'Yes, has theme song'.",
+    "difficulty": 3
+  },
+  {
+    "id": 51,
     "question_zh": "以下邊套係《水男孩》？",
     "question_en": "Which one is 'Water Boys'?",
     "options_zh": [
@@ -147,251 +1071,62 @@
     "difficulty": 1
   },
   {
-    "id": 8,
-    "question_zh": "《水男孩》係邊年首播嘅？",
-    "question_en": "What year did 'Water Boys' first air?",
-    "options_zh": [
-      "2005年",
-      "2008年",
-      "2003年",
-      "2001年"
-    ],
-    "options_en": [
-      "2005",
-      "2008",
-      "2003",
-      "2001"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2003年」。",
-    "explanation_en": "The correct answer is '2003'.",
-    "difficulty": 2
-  },
-  {
-    "id": 9,
-    "question_zh": "《水男孩》係咩類型？",
-    "question_en": "What genre is 'Water Boys'?",
-    "options_zh": [
-      "紀錄片",
-      "喜劇",
-      "新聞",
-      "喜劇"
-    ],
-    "options_en": [
-      "Documentary",
-      "喜劇",
-      "News",
-      "Comedy"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「喜劇」。",
-    "explanation_en": "The correct answer is '喜劇'.",
-    "difficulty": 3
-  },
-  {
-    "id": 10,
-    "question_zh": "《水男孩》係咩地區出品？",
-    "question_en": "Where is 'Water Boys' from?",
-    "options_zh": [
-      "泰國",
-      "日本",
-      "巴西",
-      "印度"
-    ],
-    "options_en": [
-      "Thailand",
-      "Japan",
-      "Brazil",
-      "India"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「日本」。",
-    "explanation_en": "The correct answer is 'Japan'.",
-    "difficulty": 1
-  },
-  {
-    "id": 11,
-    "question_zh": "《水男孩》主要講咩？",
-    "question_en": "What is 'Water Boys' mainly about?",
-    "options_zh": [
-      "天氣報告",
-      "體育賽事",
-      "搞笑生活",
-      "財經新聞"
-    ],
-    "options_en": [
-      "Weather",
-      "Sports",
-      "Comedy",
-      "Finance"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「搞笑生活」。",
-    "explanation_en": "The correct answer is 'Comedy'.",
-    "difficulty": 2
-  },
-  {
-    "id": 12,
-    "question_zh": "《水男孩》係邊個平台播出？",
-    "question_en": "Which platform aired 'Water Boys'?",
-    "options_zh": [
-      "ViuTV",
-      "YouTube",
-      "Amazon",
-      "富士電視台"
-    ],
-    "options_en": [
-      "ViuTV",
-      "YouTube",
-      "Amazon",
-      "Fuji TV"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「富士電視台」。",
-    "explanation_en": "The correct answer is 'Fuji TV'.",
-    "difficulty": 3
-  },
-  {
-    "id": 13,
-    "question_zh": "以下邊套係《水男孩》？",
-    "question_en": "Which one is 'Water Boys'?",
+    "id": 52,
+    "question_zh": "《水男孩》係邊套劇？",
+    "question_en": "Which drama is 'Water Boys'?",
     "options_zh": [
       "水男孩",
-      "其他劇集C",
       "其他劇集B",
+      "其他劇集C",
       "其他劇集A"
     ],
     "options_en": [
       "Water Boys",
-      "Other Show C",
       "Other Show B",
+      "Other Show C",
       "Other Show A"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「水男孩」。",
     "explanation_en": "The correct answer is 'Water Boys'.",
-    "difficulty": 1
-  },
-  {
-    "id": 14,
-    "question_zh": "《水男孩》係邊年首播嘅？",
-    "question_en": "What year did 'Water Boys' first air?",
-    "options_zh": [
-      "2008年",
-      "2003年",
-      "2001年",
-      "2005年"
-    ],
-    "options_en": [
-      "2008",
-      "2003",
-      "2001",
-      "2005"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2003年」。",
-    "explanation_en": "The correct answer is '2003'.",
     "difficulty": 2
   },
   {
-    "id": 15,
-    "question_zh": "《水男孩》係咩類型？",
-    "question_en": "What genre is 'Water Boys'?",
+    "id": 53,
+    "question_zh": "以下邊個係《水男孩》嘅正確名稱？",
+    "question_en": "Which is the correct name of 'Water Boys'?",
     "options_zh": [
-      "喜劇",
-      "紀錄片",
-      "喜劇",
-      "新聞"
+      "其他劇集B",
+      "水男孩",
+      "其他劇集A",
+      "其他劇集C"
     ],
     "options_en": [
-      "Comedy",
-      "Documentary",
-      "喜劇",
-      "News"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「喜劇」。",
-    "explanation_en": "The correct answer is '喜劇'.",
-    "difficulty": 3
-  },
-  {
-    "id": 16,
-    "question_zh": "《水男孩》係咩地區出品？",
-    "question_en": "Where is 'Water Boys' from?",
-    "options_zh": [
-      "泰國",
-      "巴西",
-      "印度",
-      "日本"
-    ],
-    "options_en": [
-      "Thailand",
-      "Brazil",
-      "India",
-      "Japan"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「日本」。",
-    "explanation_en": "The correct answer is 'Japan'.",
-    "difficulty": 1
-  },
-  {
-    "id": 17,
-    "question_zh": "《水男孩》主要講咩？",
-    "question_en": "What is 'Water Boys' mainly about?",
-    "options_zh": [
-      "財經新聞",
-      "搞笑生活",
-      "體育賽事",
-      "天氣報告"
-    ],
-    "options_en": [
-      "Finance",
-      "Comedy",
-      "Sports",
-      "Weather"
+      "Other Show B",
+      "Water Boys",
+      "Other Show A",
+      "Other Show C"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「搞笑生活」。",
-    "explanation_en": "The correct answer is 'Comedy'.",
-    "difficulty": 2
-  },
-  {
-    "id": 18,
-    "question_zh": "《水男孩》係邊個平台播出？",
-    "question_en": "Which platform aired 'Water Boys'?",
-    "options_zh": [
-      "YouTube",
-      "ViuTV",
-      "Amazon",
-      "富士電視台"
-    ],
-    "options_en": [
-      "YouTube",
-      "ViuTV",
-      "Amazon",
-      "Fuji TV"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「富士電視台」。",
-    "explanation_en": "The correct answer is 'Fuji TV'.",
+    "explanation_zh": "正確答案係「水男孩」。",
+    "explanation_en": "The correct answer is 'Water Boys'.",
     "difficulty": 3
   },
   {
-    "id": 19,
+    "id": 54,
     "question_zh": "以下邊套係《水男孩》？",
     "question_en": "Which one is 'Water Boys'?",
     "options_zh": [
       "水男孩",
-      "其他劇集C",
-      "其他劇集A",
-      "其他劇集B"
+      "其他C",
+      "其他B",
+      "其他A"
     ],
     "options_en": [
       "Water Boys",
-      "Other Show C",
-      "Other Show A",
-      "Other Show B"
+      "Other C",
+      "Other B",
+      "Other A"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「水男孩」。",
@@ -399,49 +1134,112 @@
     "difficulty": 1
   },
   {
-    "id": 20,
-    "question_zh": "《水男孩》係邊年首播嘅？",
-    "question_en": "What year did 'Water Boys' first air?",
+    "id": 55,
+    "question_zh": "以下邊套係《水男孩》？",
+    "question_en": "Which one is 'Water Boys'?",
     "options_zh": [
-      "2005年",
-      "2001年",
-      "2008年",
-      "2003年"
+      "其他C",
+      "其他A",
+      "水男孩",
+      "其他B"
     ],
     "options_en": [
-      "2005",
-      "2001",
-      "2008",
-      "2003"
+      "Other C",
+      "Other A",
+      "Water Boys",
+      "Other B"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2003年」。",
-    "explanation_en": "The correct answer is '2003'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「水男孩」。",
+    "explanation_en": "The correct answer is 'Water Boys'.",
     "difficulty": 2
   },
   {
-    "id": 21,
-    "question_zh": "《水男孩》係咩類型？",
-    "question_en": "What genre is 'Water Boys'?",
+    "id": 56,
+    "question_zh": "以下邊套係《水男孩》？",
+    "question_en": "Which one is 'Water Boys'?",
     "options_zh": [
-      "新聞",
-      "紀錄片",
-      "喜劇",
-      "喜劇"
+      "其他B",
+      "其他A",
+      "水男孩",
+      "其他C"
     ],
     "options_en": [
-      "News",
-      "Documentary",
-      "Comedy",
-      "喜劇"
+      "Other B",
+      "Other A",
+      "Water Boys",
+      "Other C"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「喜劇」。",
-    "explanation_en": "The correct answer is '喜劇'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「水男孩」。",
+    "explanation_en": "The correct answer is 'Water Boys'.",
     "difficulty": 3
   },
   {
-    "id": 22,
+    "id": 57,
+    "question_zh": "《水男孩》係咩類型嘅節目？",
+    "question_en": "What genre is 'Water Boys'?",
+    "options_zh": [
+      "愛情",
+      "動作",
+      "紀錄片",
+      "綜合"
+    ],
+    "options_en": [
+      "愛情",
+      "動作",
+      "紀錄片",
+      "綜合"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「綜合」。",
+    "explanation_en": "The correct answer is '綜合'.",
+    "difficulty": 1
+  },
+  {
+    "id": 58,
+    "question_zh": "《水男孩》屬於邊種類型？",
+    "question_en": "What type does 'Water Boys' belong to?",
+    "options_zh": [
+      "動作",
+      "愛情",
+      "紀錄片",
+      "綜合"
+    ],
+    "options_en": [
+      "動作",
+      "愛情",
+      "紀錄片",
+      "綜合"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「綜合」。",
+    "explanation_en": "The correct answer is '綜合'.",
+    "difficulty": 2
+  },
+  {
+    "id": 59,
+    "question_zh": "你會用咩詞語形容《水男孩》？",
+    "question_en": "How would you describe 'Water Boys'?",
+    "options_zh": [
+      "紀錄片",
+      "愛情",
+      "綜合",
+      "動作"
+    ],
+    "options_en": [
+      "紀錄片",
+      "愛情",
+      "綜合",
+      "動作"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「綜合」。",
+    "explanation_en": "The correct answer is '綜合'.",
+    "difficulty": 3
+  },
+  {
+    "id": 60,
     "question_zh": "《水男孩》係咩地區出品？",
     "question_en": "Where is 'Water Boys' from?",
     "options_zh": [
@@ -462,171 +1260,843 @@
     "difficulty": 1
   },
   {
-    "id": 23,
-    "question_zh": "《水男孩》主要講咩？",
-    "question_en": "What is 'Water Boys' mainly about?",
+    "id": 61,
+    "question_zh": "《水男孩》係邊個國家/地區製作？",
+    "question_en": "Which country/region produced 'Water Boys'?",
     "options_zh": [
-      "體育賽事",
-      "天氣報告",
-      "財經新聞",
-      "搞笑生活"
+      "泰國",
+      "印度",
+      "日本",
+      "巴西"
     ],
     "options_en": [
-      "Sports",
-      "Weather",
-      "Finance",
-      "Comedy"
+      "Thailand",
+      "India",
+      "Japan",
+      "Brazil"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「搞笑生活」。",
-    "explanation_en": "The correct answer is 'Comedy'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 2
   },
   {
-    "id": 24,
-    "question_zh": "《水男孩》係邊個平台播出？",
-    "question_en": "Which platform aired 'Water Boys'?",
+    "id": 62,
+    "question_zh": "《水男孩》嘅出品地方係？",
+    "question_en": "Where was 'Water Boys' produced?",
     "options_zh": [
-      "富士電視台",
-      "ViuTV",
-      "YouTube",
-      "Amazon"
-    ],
-    "options_en": [
-      "Fuji TV",
-      "ViuTV",
-      "YouTube",
-      "Amazon"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「富士電視台」。",
-    "explanation_en": "The correct answer is 'Fuji TV'.",
-    "difficulty": 3
-  },
-  {
-    "id": 25,
-    "question_zh": "以下邊套係《水男孩》？",
-    "question_en": "Which one is 'Water Boys'?",
-    "options_zh": [
-      "其他劇集B",
-      "水男孩",
-      "其他劇集C",
-      "其他劇集A"
-    ],
-    "options_en": [
-      "Other Show B",
-      "Water Boys",
-      "Other Show C",
-      "Other Show A"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「水男孩」。",
-    "explanation_en": "The correct answer is 'Water Boys'.",
-    "difficulty": 1
-  },
-  {
-    "id": 26,
-    "question_zh": "《水男孩》係邊年首播嘅？",
-    "question_en": "What year did 'Water Boys' first air?",
-    "options_zh": [
-      "2001年",
-      "2003年",
-      "2008年",
-      "2005年"
-    ],
-    "options_en": [
-      "2001",
-      "2003",
-      "2008",
-      "2005"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2003年」。",
-    "explanation_en": "The correct answer is '2003'.",
-    "difficulty": 2
-  },
-  {
-    "id": 27,
-    "question_zh": "《水男孩》係咩類型？",
-    "question_en": "What genre is 'Water Boys'?",
-    "options_zh": [
-      "紀錄片",
-      "新聞",
-      "喜劇",
-      "喜劇"
-    ],
-    "options_en": [
-      "Documentary",
-      "News",
-      "Comedy",
-      "喜劇"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「喜劇」。",
-    "explanation_en": "The correct answer is '喜劇'.",
-    "difficulty": 3
-  },
-  {
-    "id": 28,
-    "question_zh": "《水男孩》係咩地區出品？",
-    "question_en": "Where is 'Water Boys' from?",
-    "options_zh": [
-      "巴西",
       "印度",
       "泰國",
+      "巴西",
       "日本"
     ],
     "options_en": [
-      "Brazil",
       "India",
       "Thailand",
+      "Brazil",
       "Japan"
     ],
     "answer": 3,
     "explanation_zh": "正確答案係「日本」。",
     "explanation_en": "The correct answer is 'Japan'.",
-    "difficulty": 1
+    "difficulty": 3
   },
   {
-    "id": 29,
+    "id": 63,
     "question_zh": "《水男孩》主要講咩？",
     "question_en": "What is 'Water Boys' mainly about?",
     "options_zh": [
-      "搞笑生活",
+      "體育賽事",
+      "精彩劇情",
+      "天氣報告",
+      "財經新聞"
+    ],
+    "options_en": [
+      "Sports",
+      "Exciting plot",
+      "Weather",
+      "Finance"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「精彩劇情」。",
+    "explanation_en": "The correct answer is 'Exciting plot'.",
+    "difficulty": 1
+  },
+  {
+    "id": 64,
+    "question_zh": "《水男孩》嘅故事情節係？",
+    "question_en": "What is the plot of 'Water Boys'?",
+    "options_zh": [
+      "天氣報告",
+      "精彩劇情",
+      "體育賽事",
+      "財經新聞"
+    ],
+    "options_en": [
+      "Weather",
+      "Exciting plot",
+      "Sports",
+      "Finance"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「精彩劇情」。",
+    "explanation_en": "The correct answer is 'Exciting plot'.",
+    "difficulty": 2
+  },
+  {
+    "id": 65,
+    "question_zh": "《水男孩》圍繞咩主題？",
+    "question_en": "What theme does 'Water Boys' revolve around?",
+    "options_zh": [
+      "精彩劇情",
+      "體育賽事",
+      "財經新聞",
+      "天氣報告"
+    ],
+    "options_en": [
+      "Exciting plot",
+      "Sports",
+      "Finance",
+      "Weather"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「精彩劇情」。",
+    "explanation_en": "The correct answer is 'Exciting plot'.",
+    "difficulty": 3
+  },
+  {
+    "id": 66,
+    "question_zh": "《水男孩》係邊個平台播出？",
+    "question_en": "Which platform aired 'Water Boys'?",
+    "options_zh": [
+      "YouTube",
+      "Amazon",
+      "富士電視台",
+      "ViuTV"
+    ],
+    "options_en": [
+      "YouTube",
+      "Amazon",
+      "富士電視台",
+      "ViuTV"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「富士電視台」。",
+    "explanation_en": "The correct answer is '富士電視台'.",
+    "difficulty": 1
+  },
+  {
+    "id": 67,
+    "question_zh": "《水男孩》喺邊度可以睇到？",
+    "question_en": "Where can you watch 'Water Boys'?",
+    "options_zh": [
+      "YouTube",
+      "富士電視台",
+      "ViuTV",
+      "Amazon"
+    ],
+    "options_en": [
+      "YouTube",
+      "富士電視台",
+      "ViuTV",
+      "Amazon"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「富士電視台」。",
+    "explanation_en": "The correct answer is '富士電視台'.",
+    "difficulty": 2
+  },
+  {
+    "id": 68,
+    "question_zh": "《水男孩》係邊個電視台/平台播嘅？",
+    "question_en": "Which TV station/platform aired 'Water Boys'?",
+    "options_zh": [
+      "Amazon",
+      "ViuTV",
+      "YouTube",
+      "富士電視台"
+    ],
+    "options_en": [
+      "Amazon",
+      "ViuTV",
+      "YouTube",
+      "富士電視台"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「富士電視台」。",
+    "explanation_en": "The correct answer is '富士電視台'.",
+    "difficulty": 3
+  },
+  {
+    "id": 69,
+    "question_zh": "《水男孩》入面邊個係主角？",
+    "question_en": "Who is the main character in 'Water Boys'?",
+    "options_zh": [
+      "作家",
+      "運動員",
+      "歌手",
+      "日本演員"
+    ],
+    "options_en": [
+      "Writer",
+      "Athlete",
+      "Singer",
+      "Japanese Actor"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「日本演員」。",
+    "explanation_en": "The correct answer is 'Japanese Actor'.",
+    "difficulty": 1
+  },
+  {
+    "id": 70,
+    "question_zh": "《水男孩》嘅主演係邊個？",
+    "question_en": "Who stars in 'Water Boys'?",
+    "options_zh": [
+      "日本演員",
+      "作家",
+      "運動員",
+      "歌手"
+    ],
+    "options_en": [
+      "Japanese Actor",
+      "Writer",
+      "Athlete",
+      "Singer"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「日本演員」。",
+    "explanation_en": "The correct answer is 'Japanese Actor'.",
+    "difficulty": 2
+  },
+  {
+    "id": 71,
+    "question_zh": "邊個演員出演《水男孩》？",
+    "question_en": "Which actor appeared in 'Water Boys'?",
+    "options_zh": [
+      "運動員",
+      "作家",
+      "日本演員",
+      "歌手"
+    ],
+    "options_en": [
+      "Athlete",
+      "Writer",
+      "Japanese Actor",
+      "Singer"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「日本演員」。",
+    "explanation_en": "The correct answer is 'Japanese Actor'.",
+    "difficulty": 3
+  },
+  {
+    "id": 72,
+    "question_zh": "《水男孩》大約有幾多集？",
+    "question_en": "How many episodes does 'Water Boys' have approximately?",
+    "options_zh": [
+      "約1-5集",
+      "只有1集",
+      "約16-20集",
+      "約100集以上"
+    ],
+    "options_en": [
+      "1-5 episodes",
+      "Only 1 episode",
+      "About 16-20 episodes",
+      "100+ episodes"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「約16-20集」。",
+    "explanation_en": "The correct answer is 'About 16-20 episodes'.",
+    "difficulty": 1
+  },
+  {
+    "id": 73,
+    "question_zh": "《水男孩》嘅集數係？",
+    "question_en": "How many episodes are in 'Water Boys'?",
+    "options_zh": [
+      "只有1集",
+      "約1-5集",
+      "約100集以上",
+      "約16-20集"
+    ],
+    "options_en": [
+      "Only 1 episode",
+      "1-5 episodes",
+      "100+ episodes",
+      "About 16-20 episodes"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「約16-20集」。",
+    "explanation_en": "The correct answer is 'About 16-20 episodes'.",
+    "difficulty": 2
+  },
+  {
+    "id": 74,
+    "question_zh": "《水男孩》嘅導演/監製係邊個？",
+    "question_en": "Who directed/produced 'Water Boys'?",
+    "options_zh": [
+      "編劇",
+      "歌手",
+      "演員",
+      "日本導演"
+    ],
+    "options_en": [
+      "Writer",
+      "Singer",
+      "Actor",
+      "Japanese Director"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「日本導演」。",
+    "explanation_en": "The correct answer is 'Japanese Director'.",
+    "difficulty": 3
+  },
+  {
+    "id": 75,
+    "question_zh": "《水男孩》有冇出名嘅主題曲？",
+    "question_en": "Does 'Water Boys' have a famous theme song?",
+    "options_zh": [
+      "只有插曲",
+      "冇主題曲",
+      "有主題曲",
+      "只有背景音樂"
+    ],
+    "options_en": [
+      "Only insert songs",
+      "No theme song",
+      "Yes, has theme song",
+      "Only background music"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「有主題曲」。",
+    "explanation_en": "The correct answer is 'Yes, has theme song'.",
+    "difficulty": 1
+  },
+  {
+    "id": 76,
+    "question_zh": "以下邊套係《水男孩》？",
+    "question_en": "Which one is 'Water Boys'?",
+    "options_zh": [
+      "水男孩",
+      "其他劇集A",
+      "其他劇集C",
+      "其他劇集B"
+    ],
+    "options_en": [
+      "Water Boys",
+      "Other Show A",
+      "Other Show C",
+      "Other Show B"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「水男孩」。",
+    "explanation_en": "The correct answer is 'Water Boys'.",
+    "difficulty": 2
+  },
+  {
+    "id": 77,
+    "question_zh": "《水男孩》係邊套劇？",
+    "question_en": "Which drama is 'Water Boys'?",
+    "options_zh": [
+      "其他劇集B",
+      "其他劇集A",
+      "水男孩",
+      "其他劇集C"
+    ],
+    "options_en": [
+      "Other Show B",
+      "Other Show A",
+      "Water Boys",
+      "Other Show C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「水男孩」。",
+    "explanation_en": "The correct answer is 'Water Boys'.",
+    "difficulty": 3
+  },
+  {
+    "id": 78,
+    "question_zh": "以下邊個係《水男孩》嘅正確名稱？",
+    "question_en": "Which is the correct name of 'Water Boys'?",
+    "options_zh": [
+      "其他劇集B",
+      "其他劇集A",
+      "水男孩",
+      "其他劇集C"
+    ],
+    "options_en": [
+      "Other Show B",
+      "Other Show A",
+      "Water Boys",
+      "Other Show C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「水男孩」。",
+    "explanation_en": "The correct answer is 'Water Boys'.",
+    "difficulty": 1
+  },
+  {
+    "id": 79,
+    "question_zh": "以下邊套係《水男孩》？",
+    "question_en": "Which one is 'Water Boys'?",
+    "options_zh": [
+      "水男孩",
+      "其他A",
+      "其他C",
+      "其他B"
+    ],
+    "options_en": [
+      "Water Boys",
+      "Other A",
+      "Other C",
+      "Other B"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「水男孩」。",
+    "explanation_en": "The correct answer is 'Water Boys'.",
+    "difficulty": 2
+  },
+  {
+    "id": 80,
+    "question_zh": "以下邊套係《水男孩》？",
+    "question_en": "Which one is 'Water Boys'?",
+    "options_zh": [
+      "其他C",
+      "其他A",
+      "其他B",
+      "水男孩"
+    ],
+    "options_en": [
+      "Other C",
+      "Other A",
+      "Other B",
+      "Water Boys"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「水男孩」。",
+    "explanation_en": "The correct answer is 'Water Boys'.",
+    "difficulty": 3
+  },
+  {
+    "id": 81,
+    "question_zh": "以下邊套係《水男孩》？",
+    "question_en": "Which one is 'Water Boys'?",
+    "options_zh": [
+      "水男孩",
+      "其他B",
+      "其他C",
+      "其他A"
+    ],
+    "options_en": [
+      "Water Boys",
+      "Other B",
+      "Other C",
+      "Other A"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「水男孩」。",
+    "explanation_en": "The correct answer is 'Water Boys'.",
+    "difficulty": 1
+  },
+  {
+    "id": 82,
+    "question_zh": "《水男孩》係咩類型嘅節目？",
+    "question_en": "What genre is 'Water Boys'?",
+    "options_zh": [
+      "愛情",
+      "綜合",
+      "動作",
+      "紀錄片"
+    ],
+    "options_en": [
+      "愛情",
+      "綜合",
+      "動作",
+      "紀錄片"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「綜合」。",
+    "explanation_en": "The correct answer is '綜合'.",
+    "difficulty": 2
+  },
+  {
+    "id": 83,
+    "question_zh": "《水男孩》屬於邊種類型？",
+    "question_en": "What type does 'Water Boys' belong to?",
+    "options_zh": [
+      "綜合",
+      "愛情",
+      "動作",
+      "紀錄片"
+    ],
+    "options_en": [
+      "綜合",
+      "愛情",
+      "動作",
+      "紀錄片"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「綜合」。",
+    "explanation_en": "The correct answer is '綜合'.",
+    "difficulty": 3
+  },
+  {
+    "id": 84,
+    "question_zh": "你會用咩詞語形容《水男孩》？",
+    "question_en": "How would you describe 'Water Boys'?",
+    "options_zh": [
+      "愛情",
+      "紀錄片",
+      "動作",
+      "綜合"
+    ],
+    "options_en": [
+      "愛情",
+      "紀錄片",
+      "動作",
+      "綜合"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「綜合」。",
+    "explanation_en": "The correct answer is '綜合'.",
+    "difficulty": 1
+  },
+  {
+    "id": 85,
+    "question_zh": "《水男孩》係咩地區出品？",
+    "question_en": "Where is 'Water Boys' from?",
+    "options_zh": [
+      "泰國",
+      "日本",
+      "巴西",
+      "印度"
+    ],
+    "options_en": [
+      "Thailand",
+      "Japan",
+      "Brazil",
+      "India"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 2
+  },
+  {
+    "id": 86,
+    "question_zh": "《水男孩》係邊個國家/地區製作？",
+    "question_en": "Which country/region produced 'Water Boys'?",
+    "options_zh": [
+      "巴西",
+      "日本",
+      "泰國",
+      "印度"
+    ],
+    "options_en": [
+      "Brazil",
+      "Japan",
+      "Thailand",
+      "India"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 3
+  },
+  {
+    "id": 87,
+    "question_zh": "《水男孩》嘅出品地方係？",
+    "question_en": "Where was 'Water Boys' produced?",
+    "options_zh": [
+      "泰國",
+      "日本",
+      "印度",
+      "巴西"
+    ],
+    "options_en": [
+      "Thailand",
+      "Japan",
+      "India",
+      "Brazil"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 1
+  },
+  {
+    "id": 88,
+    "question_zh": "《水男孩》主要講咩？",
+    "question_en": "What is 'Water Boys' mainly about?",
+    "options_zh": [
+      "體育賽事",
+      "精彩劇情",
+      "天氣報告",
+      "財經新聞"
+    ],
+    "options_en": [
+      "Sports",
+      "Exciting plot",
+      "Weather",
+      "Finance"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「精彩劇情」。",
+    "explanation_en": "The correct answer is 'Exciting plot'.",
+    "difficulty": 2
+  },
+  {
+    "id": 89,
+    "question_zh": "《水男孩》嘅故事情節係？",
+    "question_en": "What is the plot of 'Water Boys'?",
+    "options_zh": [
+      "精彩劇情",
       "天氣報告",
       "體育賽事",
       "財經新聞"
     ],
     "options_en": [
-      "Comedy",
+      "Exciting plot",
       "Weather",
       "Sports",
       "Finance"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「搞笑生活」。",
-    "explanation_en": "The correct answer is 'Comedy'.",
-    "difficulty": 2
+    "explanation_zh": "正確答案係「精彩劇情」。",
+    "explanation_en": "The correct answer is 'Exciting plot'.",
+    "difficulty": 3
   },
   {
-    "id": 30,
+    "id": 90,
+    "question_zh": "《水男孩》圍繞咩主題？",
+    "question_en": "What theme does 'Water Boys' revolve around?",
+    "options_zh": [
+      "體育賽事",
+      "財經新聞",
+      "天氣報告",
+      "精彩劇情"
+    ],
+    "options_en": [
+      "Sports",
+      "Finance",
+      "Weather",
+      "Exciting plot"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「精彩劇情」。",
+    "explanation_en": "The correct answer is 'Exciting plot'.",
+    "difficulty": 1
+  },
+  {
+    "id": 91,
     "question_zh": "《水男孩》係邊個平台播出？",
     "question_en": "Which platform aired 'Water Boys'?",
     "options_zh": [
-      "富士電視台",
-      "Amazon",
       "YouTube",
-      "ViuTV"
+      "ViuTV",
+      "Amazon",
+      "富士電視台"
     ],
     "options_en": [
-      "Fuji TV",
-      "Amazon",
       "YouTube",
-      "ViuTV"
+      "ViuTV",
+      "Amazon",
+      "富士電視台"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「富士電視台」。",
+    "explanation_en": "The correct answer is '富士電視台'.",
+    "difficulty": 2
+  },
+  {
+    "id": 92,
+    "question_zh": "《水男孩》喺邊度可以睇到？",
+    "question_en": "Where can you watch 'Water Boys'?",
+    "options_zh": [
+      "YouTube",
+      "ViuTV",
+      "富士電視台",
+      "Amazon"
+    ],
+    "options_en": [
+      "YouTube",
+      "ViuTV",
+      "富士電視台",
+      "Amazon"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「富士電視台」。",
+    "explanation_en": "The correct answer is '富士電視台'.",
+    "difficulty": 3
+  },
+  {
+    "id": 93,
+    "question_zh": "《水男孩》係邊個電視台/平台播嘅？",
+    "question_en": "Which TV station/platform aired 'Water Boys'?",
+    "options_zh": [
+      "Amazon",
+      "ViuTV",
+      "富士電視台",
+      "YouTube"
+    ],
+    "options_en": [
+      "Amazon",
+      "ViuTV",
+      "富士電視台",
+      "YouTube"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「富士電視台」。",
+    "explanation_en": "The correct answer is '富士電視台'.",
+    "difficulty": 1
+  },
+  {
+    "id": 94,
+    "question_zh": "《水男孩》入面邊個係主角？",
+    "question_en": "Who is the main character in 'Water Boys'?",
+    "options_zh": [
+      "運動員",
+      "作家",
+      "歌手",
+      "日本演員"
+    ],
+    "options_en": [
+      "Athlete",
+      "Writer",
+      "Singer",
+      "Japanese Actor"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「日本演員」。",
+    "explanation_en": "The correct answer is 'Japanese Actor'.",
+    "difficulty": 2
+  },
+  {
+    "id": 95,
+    "question_zh": "《水男孩》嘅主演係邊個？",
+    "question_en": "Who stars in 'Water Boys'?",
+    "options_zh": [
+      "運動員",
+      "歌手",
+      "作家",
+      "日本演員"
+    ],
+    "options_en": [
+      "Athlete",
+      "Singer",
+      "Writer",
+      "Japanese Actor"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「日本演員」。",
+    "explanation_en": "The correct answer is 'Japanese Actor'.",
+    "difficulty": 3
+  },
+  {
+    "id": 96,
+    "question_zh": "邊個演員出演《水男孩》？",
+    "question_en": "Which actor appeared in 'Water Boys'?",
+    "options_zh": [
+      "日本演員",
+      "作家",
+      "運動員",
+      "歌手"
+    ],
+    "options_en": [
+      "Japanese Actor",
+      "Writer",
+      "Athlete",
+      "Singer"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「富士電視台」。",
-    "explanation_en": "The correct answer is 'Fuji TV'.",
+    "explanation_zh": "正確答案係「日本演員」。",
+    "explanation_en": "The correct answer is 'Japanese Actor'.",
+    "difficulty": 1
+  },
+  {
+    "id": 97,
+    "question_zh": "《水男孩》大約有幾多集？",
+    "question_en": "How many episodes does 'Water Boys' have approximately?",
+    "options_zh": [
+      "約16-20集",
+      "只有1集",
+      "約1-5集",
+      "約100集以上"
+    ],
+    "options_en": [
+      "About 16-20 episodes",
+      "Only 1 episode",
+      "1-5 episodes",
+      "100+ episodes"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「約16-20集」。",
+    "explanation_en": "The correct answer is 'About 16-20 episodes'.",
+    "difficulty": 2
+  },
+  {
+    "id": 98,
+    "question_zh": "《水男孩》嘅集數係？",
+    "question_en": "How many episodes are in 'Water Boys'?",
+    "options_zh": [
+      "約16-20集",
+      "約1-5集",
+      "只有1集",
+      "約100集以上"
+    ],
+    "options_en": [
+      "About 16-20 episodes",
+      "1-5 episodes",
+      "Only 1 episode",
+      "100+ episodes"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「約16-20集」。",
+    "explanation_en": "The correct answer is 'About 16-20 episodes'.",
     "difficulty": 3
+  },
+  {
+    "id": 99,
+    "question_zh": "《水男孩》嘅導演/監製係邊個？",
+    "question_en": "Who directed/produced 'Water Boys'?",
+    "options_zh": [
+      "編劇",
+      "演員",
+      "日本導演",
+      "歌手"
+    ],
+    "options_en": [
+      "Writer",
+      "Actor",
+      "Japanese Director",
+      "Singer"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「日本導演」。",
+    "explanation_en": "The correct answer is 'Japanese Director'.",
+    "difficulty": 1
+  },
+  {
+    "id": 100,
+    "question_zh": "《水男孩》有冇出名嘅主題曲？",
+    "question_en": "Does 'Water Boys' have a famous theme song?",
+    "options_zh": [
+      "只有插曲",
+      "冇主題曲",
+      "只有背景音樂",
+      "有主題曲"
+    ],
+    "options_en": [
+      "Only insert songs",
+      "No theme song",
+      "Only background music",
+      "Yes, has theme song"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「有主題曲」。",
+    "explanation_en": "The correct answer is 'Yes, has theme song'.",
+    "difficulty": 2
   }
 ]
