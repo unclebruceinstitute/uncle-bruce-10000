@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>📺 電視題庫 | TV Quiz — 大B舅父萬題庫</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK','Microsoft JhengHei',sans-serif;background:#f0f2f5;color:#333}
+.c{max-width:800px;margin:0 auto;padding:16px}
+.hdr{text-align:center;padding:24px 0;color:#fff;border-radius:16px;margin-bottom:20px;background:linear-gradient(135deg,#e74c3c,#c0392b)}
+.hdr h1{font-size:26px;margin-bottom:4px}
+.hdr p{font-size:14px;opacity:.9}
+.tb{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}
+.lt{display:flex;gap:4px}
+.lb{padding:6px 12px;border:1px solid #e74c3c;border-radius:20px;background:#fff;cursor:pointer;font-size:12px;transition:.2s;color:#e74c3c}
+.lb.a{background:#e74c3c;color:#fff}
+.hl{padding:8px 16px;border:1px solid #ddd;border-radius:8px;background:#fff;cursor:pointer;font-size:14px;text-decoration:none;color:#333;display:inline-block}
+.hl:hover{background:#f5f5f5}
+.g{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:12px;margin-bottom:24px}
+.tc{padding:18px 12px;background:#fff;border-radius:14px;cursor:pointer;transition:.25s;box-shadow:0 2px 8px rgba(0,0,0,.06);text-align:center;border:2px solid transparent}
+.tc:hover{transform:translateY(-3px);box-shadow:0 6px 20px rgba(0,0,0,.12);border-color:#e74c3c}
+.tc .e{font-size:32px;margin-bottom:6px}
+.tc .n{font-size:14px;font-weight:700;margin-bottom:2px}
+.tc .ct{font-size:11px;color:#888}
+.qa{background:#fff;border-radius:16px;padding:24px;box-shadow:0 2px 12px rgba(0,0,0,.08)}
+.qt{font-size:18px;line-height:1.8;margin-bottom:20px;font-weight:500}
+.os{display:flex;flex-direction:column;gap:10px}
+.o{padding:14px 16px;border:2px solid #e8e8e8;border-radius:10px;cursor:pointer;transition:.2s;font-size:16px;line-height:1.5}
+.o:hover{background:#fef5f5}
+.o.ok{border-color:#4caf50;background:#e8f5e9}
+.o.ng{border-color:#f44336;background:#fce4ec}
+.o.d{pointer-events:none;opacity:.7}
+.ep{margin-top:16px;padding:16px;background:#fef5f5;border-radius:10px;border-left:4px solid #e74c3c;display:none}
+.ep.show{display:block}
+.ep p{font-size:14px;line-height:1.6}
+.btn{padding:12px 24px;border:none;border-radius:10px;font-size:16px;font-weight:600;cursor:pointer;transition:.2s;background:#e74c3c;color:#fff}
+.btn:hover{opacity:.9}
+.bg{display:flex;gap:12px;margin-top:20px;justify-content:center}
+.pr{width:100%;height:6px;background:#e0e0e0;border-radius:3px;margin-bottom:16px;overflow:hidden}
+.pb{height:100%;background:#e74c3c;border-radius:3px;transition:.3s}
+.h{display:none}
+.sb{display:flex;justify-content:space-around;background:#fff;border-radius:12px;padding:12px;margin-bottom:16px;box-shadow:0 2px 8px rgba(0,0,0,.08)}
+.st{text-align:center}
+.sn{font-size:24px;font-weight:700;color:#e74c3c}
+.sl{font-size:12px;color:#888}
+.qn{font-size:14px;font-weight:600;color:#888;margin-bottom:8px}
+.bb{padding:8px 16px;border:1px solid #ddd;border-radius:8px;background:#fff;cursor:pointer;font-size:14px;text-decoration:none;color:#333;display:inline-block;margin-bottom:12px}
+.bb:hover{background:#f5f5f5}
+.ft{margin-top:30px;color:#888;font-size:.75rem;text-align:center}
+/* Subcategory tabs */
+.tabs{display:flex;gap:8px;margin-bottom:20px;flex-wrap:wrap;justify-content:center}
+.tab{padding:8px 16px;border:2px solid #e74c3c;border-radius:20px;background:#fff;cursor:pointer;font-size:14px;transition:.2s;color:#e74c3c;font-weight:500}
+.tab.a{background:#e74c3c;color:#fff}
+.tab:hover{opacity:.8}
+.region-header{text-align:center;margin:20px 0 16px}
+.region-header h2{font-size:20px;color:#e74c3c;margin-bottom:4px}
+.region-header p{font-size:13px;color:#888}
+</style>
+</head>
+<body>
+<div class="c">
+<div class="tb">
+<a class="hl" href="../" data-zh="← 返回其他題庫" data-en="← Back to Others">← 返回其他題庫</a>
+<div class="lt">
+<button class="lb a" onclick="setLang('zh')">中文</button>
+<button class="lb" onclick="setLang('en')">EN</button>
+</div>
+</div>
+<div class="hdr">
+<h1>📺 <span data-zh="電視題庫" data-en="TV Quiz">電視題庫</span></h1>
+<p data-zh="選擇地區，再選擇劇集開始練習" data-en="Choose a region, then a show">選擇地區，再選擇劇集開始練習</p>
+</div>
+<div class="sb">
+<div class="st"><div class="sn" id="totalQ">0</div><div class="sl" data-zh="總題數" data-en="Total">總題數</div></div>
+<div class="st"><div class="sn" id="doneQ">0</div><div class="sl" data-zh="已完成" data-en="Done">已完成</div></div>
+<div class="st"><div class="sn" id="correctQ">0</div><div class="sl" data-zh="答對" data-en="Correct">答對</div></div>
+<div class="st"><div class="sn" id="accuracy">0%</div><div class="sl" data-zh="正確率" data-en="Accuracy">正確率</div></div>
+</div>
+
+<!-- Subcategory Tabs -->
+<div class="tabs" id="tabsDiv">
+<button class="tab a" onclick="filterRegion('all')" data-zh="全部" data-en="All">全部</button>
+<button class="tab" onclick="filterRegion('hk')" data-zh="港劇" data-en="HK Drama">港劇</button>
+<button class="tab" onclick="filterRegion('korean')" data-zh="韓劇" data-en="Korean">韓劇</button>
+<button class="tab" onclick="filterRegion('japanese')" data-zh="日劇" data-en="Japanese">日劇</button>
+<button class="tab" onclick="filterRegion('western')" data-zh="歐美" data-en="Western">歐美</button>
+<button class="tab" onclick="filterRegion('other')" data-zh="其他" data-en="Others">其他</button>
+</div>
+
+<!-- Series View -->
+<div id="seriesView">
+<div class="g" id="seriesGrid"></div>
+</div>
+
+<!-- Shows View -->
+<div id="showsView" class="h">
+<a class="bb" href="#" onclick="backToSeries();return false" data-zh="← 返回地區" data-en="← Back to Region">← 返回地區</a>
+<div class="g" id="showsGrid"></div>
+</div>
+
+<!-- Quiz View -->
+<div id="quizView" class="h">
+<a class="bb" href="#" onclick="backToShows();return false" data-zh="← 返回劇集" data-en="← Back to Shows">← 返回劇集</a>
+<div class="pr"><div class="pb" id="progressBar" style="width:0%"></div></div>
+<div class="qa">
+<div class="qn" id="qNum"></div>
+<div class="qt" id="qText"></div>
+<div class="os" id="optionsDiv"></div>
+<div class="ep" id="explanation"><p id="explanationText"></p></div>
+<div class="bg" id="btnGroup" style="display:none">
+<button class="btn" onclick="nextQ()" data-zh="下一題" data-en="Next">下一題</button>
+</div>
+</div>
+</div>
+
+<!-- Result View -->
+<div id="resultView" class="h" style="text-align:center;padding:40px 0">
+<div style="font-size:60px;margin-bottom:16px">🎉</div>
+<h2 id="resultTitle"></h2>
+<p id="resultText" style="font-size:18px;margin:16px 0;color:#666"></p>
+<div class="bg">
+<button class="btn" onclick="backToShows()" data-zh="返回劇集" data-en="Back">返回劇集</button>
+<button class="btn" onclick="retryQuiz()" style="background:#27ae60" data-zh="再試一次" data-en="Retry">再試一次</button>
+</div>
+</div>
+
+<div class="ft">© 2026 Uncle Bruce Institute 大B舅父教室</div>
+</div>
+
+<script>
+let lang='zh',seriesData={},currentSeries='',currentFilm='',questions=[],curQ=0,correct=0,answered=0,currentFilter='all';
+
+const SERIES={
+hk_drama:{zh:'📺 港劇（武俠）',en:'📺 HK Drama (Martial Arts)',color:'#e74c3c',region:'hk'},
+hk_modern:{zh:'🏙️ 港產時裝劇',en:'🏙️ HK Modern Drama',color:'#3498db',region:'hk'},
+cn_drama:{zh:'🇨🇳 內地劇',en:'🇨🇳 Chinese Drama',color:'#e67e22',region:'other'},
+korean_drama:{zh:'🇰🇷 韓劇',en:'🇰🇷 Korean Drama',color:'#9b59b6',region:'korean'},
+japanese_drama:{zh:'🇯🇵 日劇',en:'🇯🇵 Japanese Drama',color:'#1abc9c',region:'japanese'},
+western_tv:{zh:'🌍 歐美劇',en:'🌍 Western TV',color:'#2c3e50',region:'western'},
+variety_show:{zh:'🎤 綜藝節目',en:'🎤 Variety Shows',color:'#f39c12',region:'other'}
+};
+
+async function init(){
+const grid=document.getElementById('seriesGrid');
+grid.innerHTML='';
+for(const[sid,sinfo]of Object.entries(SERIES)){
+try{
+const resp=await fetch('topics/'+sid+'/index.json');
+const shows=await resp.json();
+seriesData[sid]=shows;
+const card=document.createElement('div');
+card.className='tc';
+card.style.borderColor=sinfo.color;
+card.dataset.region=sinfo.region;
+card.innerHTML=`<div class="e">${sinfo.zh.split(' ')[0]}</div><div class="n">${sinfo.zh.substring(2)}</div><div class="ct">${shows.length} 套劇集</div>`;
+card.onclick=()=>showShows(sid);
+grid.appendChild(card);
+}catch(e){console.error(sid,e)}
+}
+updateTotalQ();
+}
+
+function filterRegion(region){
+currentFilter=region;
+document.querySelectorAll('.tab').forEach(t=>t.classList.remove('a'));
+document.querySelector(`.tab[onclick*="${region}"]`).classList.add('a');
+document.querySelectorAll('.tc').forEach(card=>{
+if(region==='all'||card.dataset.region===region){
+card.style.display='';
+}else{
+card.style.display='none';
+}
+});
+}
+
+function showShows(sid){
+currentSeries=sid;
+const shows=seriesData[sid];
+const grid=document.getElementById('showsGrid');
+grid.innerHTML='';
+shows.forEach(s=>{
+const card=document.createElement('div');
+card.className='tc';
+card.innerHTML=`<div class="e">${s.emoji||'📺'}</div><div class="n" data-zh="${s.name_zh}" data-en="${s.name_en}">${s.name_zh}</div><div class="ct">${s.name_en}</div>`;
+card.onclick=()=>startQuiz(sid,s.file);
+grid.appendChild(card);
+});
+document.getElementById('seriesView').classList.add('h');
+document.getElementById('showsView').classList.remove('h');
+document.getElementById('quizView').classList.add('h');
+document.getElementById('resultView').classList.add('h');
+}
+
+async function startQuiz(sid,file){
+currentFilm=file;
+try{
+const resp=await fetch('topics/'+sid+'/'+file);
+questions=await resp.json();
+}catch(e){alert('載入失敗');return}
+document.getElementById('totalQ').textContent=questions.length;
+shuffle(questions);
+curQ=0;correct=0;answered=0;
+updateStats();
+document.getElementById('seriesView').classList.add('h');
+document.getElementById('showsView').classList.add('h');
+document.getElementById('quizView').classList.remove('h');
+document.getElementById('resultView').classList.add('h');
+showQ();
+}
+
+function showQ(){
+if(curQ>=questions.length){showResult();return}
+const q=questions[curQ];
+const qkey=lang==='zh'?'question_zh':'question_en';
+const okey=lang==='zh'?'options_zh':'options_en';
+const ekey=lang==='zh'?'explanation_zh':'explanation_en';
+document.getElementById('qNum').textContent=`${curQ+1}/${questions.length}`;
+document.getElementById('qText').textContent=q[qkey]||q.question_zh||'';
+document.getElementById('progressBar').style.width=`${(curQ/questions.length)*100}%`;
+const opts=q[okey]||q.options_zh||[];
+const div=document.getElementById('optionsDiv');
+div.innerHTML='';
+opts.forEach((o,i)=>{
+const el=document.createElement('div');
+el.className='o';
+el.textContent=o;
+el.onclick=()=>checkAns(i,q);
+div.appendChild(el);
+});
+document.getElementById('explanation').classList.remove('show');
+document.getElementById('btnGroup').style.display='none';
+}
+
+function checkAns(idx,q){
+answered++;
+const opts=document.querySelectorAll('.o');
+opts.forEach(o=>o.classList.add('d'));
+const ci=q.answer;
+if(idx===ci){
+opts[idx].classList.add('ok');
+opts[idx].innerHTML+=' ✅';
+correct++;
+}else{
+opts[idx].classList.add('ng');
+opts[idx].innerHTML+=' ❌';
+opts[ci].classList.add('ok');
+opts[ci].innerHTML+=' ✅';
+}
+const ekey=lang==='zh'?'explanation_zh':'explanation_en';
+document.getElementById('explanationText').textContent=q[ekey]||q.explanation_zh||'';
+document.getElementById('explanation').classList.add('show');
+document.getElementById('btnGroup').style.display='flex';
+updateStats();
+}
+
+function nextQ(){curQ++;showQ()}
+
+function showResult(){
+document.getElementById('quizView').classList.add('h');
+document.getElementById('resultView').classList.remove('h');
+const pct=Math.round(correct/answered*100)||0;
+document.getElementById('resultTitle').textContent=`${correct}/${answered} (${pct}%)`;
+const msgs=lang==='zh'?['繼續努力！🖒 hợ🖒 hợ◜','唔錯！🖒 hợ◜','好犀利！🖒 hợ◜','完美！🖒 hợ◜']:'Keep trying!,Not bad!,Excellent!,Perfect!'.split(',');
+const mi=pct<50?0:pct<70?1:pct<90?2:3;
+document.getElementById('resultText').textContent=Array.isArray(msgs)?msgs[mi]:msgs.split(',')[mi];
+}
+
+function backToSeries(){
+document.getElementById('seriesView').classList.remove('h');
+document.getElementById('showsView').classList.add('h');
+document.getElementById('quizView').classList.add('h');
+document.getElementById('resultView').classList.add('h');
+}
+function backToShows(){
+document.getElementById('seriesView').classList.add('h');
+document.getElementById('showsView').classList.remove('h');
+document.getElementById('quizView').classList.add('h');
+document.getElementById('resultView').classList.add('h');
+}
+function retryQuiz(){startQuiz(currentSeries,currentFilm)}
+function updateStats(){
+document.getElementById('doneQ').textContent=answered;
+document.getElementById('correctQ').textContent=correct;
+document.getElementById('accuracy').textContent=answered?Math.round(correct/answered*100)+'%':'0%';
+}
+function updateTotalQ(){
+let total=0;
+Object.values(seriesData).forEach(shows=>shows.forEach(s=>total+=s.count||0));
+document.getElementById('totalQ').textContent=total;
+}
+function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}}
+function setLang(l){
+lang=l;
+document.querySelectorAll('[data-zh]').forEach(el=>{el.textContent=el.getAttribute('data-'+l)});
+document.querySelectorAll('.lb').forEach(b=>b.classList.remove('a'));
+document.querySelector(`.lb[onclick*="${l}"]`).classList.add('a');
+if(!document.getElementById('quizView').classList.contains('h'))showQ();
+}
+init();
+</script>
+<!-- 上一頁 button -->
+<div style="text-align:center;padding:20px 16px 40px">
+  <button onclick="window.history.back()" style="padding:12px 32px;border:2px solid #e0e0e0;border-radius:10px;background:#fff;cursor:pointer;font-size:15px;color:#555">← 上一頁</button>
+</div>
+</body>
+</html>
