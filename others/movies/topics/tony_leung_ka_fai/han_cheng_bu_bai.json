@@ -1,1214 +1,1361 @@
 [
   {
     "id": 1,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
     "options_zh": [
-      "寒戰",
-      "黑社會",
-      "監獄風雲",
-      "東邪西毒"
+      "其他電影Y",
+      "其他電影X",
+      "其他電影Z",
+      "寒戰"
     ],
     "options_en": [
-      "Cold War",
-      "Ashes of Time",
-      "Election",
-      "Prison on Fire"
+      "Other Movie Y",
+      "Other Movie X",
+      "Other Movie Z",
+      "Cold War"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
-    "difficulty": 2
-  },
-  {
-    "id": 2,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
-    "options_zh": [
-      "東邪西毒",
-      "監獄風雲",
-      "寒戰",
-      "情人"
-    ],
-    "options_en": [
-      "Election",
-      "Ashes of Time",
-      "Cold War",
-      "Prison on Fire"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
-    "difficulty": 3
-  },
-  {
-    "id": 3,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
-    "options_zh": [
-      "黑社會",
-      "寒戰",
-      "監獄風雲",
-      "情人"
-    ],
-    "options_en": [
-      "Ashes of Time",
-      "Cold War",
-      "Prison on Fire",
-      "Election"
-    ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「寒戰」。",
     "explanation_en": "The correct answer is 'Cold War'.",
     "difficulty": 1
   },
   {
-    "id": 4,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "id": 2,
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
     "options_zh": [
-      "監獄風雲",
+      "其他電影Z",
+      "其他電影Y",
       "寒戰",
-      "黑社會",
-      "情人"
+      "其他電影X"
     ],
     "options_en": [
-      "Prison on Fire",
+      "Other Movie Z",
+      "Other Movie Y",
       "Cold War",
-      "The Lover",
-      "Election"
+      "Other Movie X"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「寒戰」。",
     "explanation_en": "The correct answer is 'Cold War'.",
     "difficulty": 2
   },
   {
-    "id": 5,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "id": 3,
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
     "options_zh": [
-      "東邪西毒",
-      "黑社會",
       "寒戰",
-      "情人"
+      "其他電影X",
+      "其他電影Z",
+      "其他電影Y"
     ],
     "options_en": [
-      "Ashes of Time",
-      "Election",
       "Cold War",
-      "Prison on Fire"
+      "Other Movie X",
+      "Other Movie Z",
+      "Other Movie Y"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「寒戰」。",
     "explanation_en": "The correct answer is 'Cold War'.",
     "difficulty": 3
+  },
+  {
+    "id": 4,
+    "question_zh": "《寒戰》係邊年上映嘅？",
+    "question_en": "What year was \"Cold War\" released?",
+    "options_zh": [
+      "2012年",
+      "2009年",
+      "2014年",
+      "2017年"
+    ],
+    "options_en": [
+      "2012",
+      "2009",
+      "2014",
+      "2017"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2012年」。",
+    "explanation_en": "The correct answer is '2012'.",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question_zh": "《寒戰》係邊年上映嘅？",
+    "question_en": "What year was \"Cold War\" released?",
+    "options_zh": [
+      "2012年",
+      "2009年",
+      "2017年",
+      "2014年"
+    ],
+    "options_en": [
+      "2012",
+      "2009",
+      "2017",
+      "2014"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2012年」。",
+    "explanation_en": "The correct answer is '2012'.",
+    "difficulty": 2
   },
   {
     "id": 6,
     "question_zh": "《寒戰》係邊年上映嘅？",
     "question_en": "What year was \"Cold War\" released?",
     "options_zh": [
-      "2015年",
-      "2010年",
+      "2014年",
       "2012年",
-      "2014年"
+      "2017年",
+      "2009年"
     ],
     "options_en": [
-      "2015",
-      "2010",
+      "2014",
       "2012",
-      "2014"
+      "2017",
+      "2009"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「2012年」。",
     "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 1
+    "difficulty": 3
   },
   {
     "id": 7,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
+    "question_zh": "《寒戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Cold War\"?",
     "options_zh": [
-      "2015年",
-      "2010年",
-      "2009年",
-      "2012年"
+      "劉偉強",
+      "王晶",
+      "杜琪峰",
+      "梁樂民"
     ],
     "options_en": [
-      "2015",
-      "2010",
-      "2009",
-      "2012"
+      "Andrew Lau",
+      "Wong Jing",
+      "Johnnie To",
+      "梁樂民"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 2
+    "explanation_zh": "正確答案係「梁樂民」。",
+    "explanation_en": "The correct answer is '梁樂民'.",
+    "difficulty": 1
   },
   {
     "id": 8,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
+    "question_zh": "《寒戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Cold War\"?",
     "options_zh": [
-      "2009年",
-      "2014年",
-      "2015年",
-      "2012年"
+      "王晶",
+      "梁樂民",
+      "杜琪峰",
+      "劉偉強"
     ],
     "options_en": [
-      "2009",
-      "2014",
-      "2015",
-      "2012"
+      "Wong Jing",
+      "梁樂民",
+      "Johnnie To",
+      "Andrew Lau"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「梁樂民」。",
+    "explanation_en": "The correct answer is '梁樂民'.",
+    "difficulty": 2
   },
   {
     "id": 9,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
+    "question_zh": "《寒戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Cold War\"?",
     "options_zh": [
-      "2012年",
-      "2015年",
-      "2010年",
-      "2014年"
+      "梁樂民",
+      "杜琪峰",
+      "劉偉強",
+      "王晶"
     ],
     "options_en": [
-      "2012",
-      "2015",
-      "2010",
-      "2014"
+      "梁樂民",
+      "Johnnie To",
+      "Andrew Lau",
+      "Wong Jing"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 1
+    "explanation_zh": "正確答案係「梁樂民」。",
+    "explanation_en": "The correct answer is '梁樂民'.",
+    "difficulty": 3
   },
   {
     "id": 10,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
+    "question_zh": "《寒戰》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
     "options_zh": [
-      "2015年",
-      "2012年",
-      "2014年",
-      "2009年"
+      "係",
+      "唔知",
+      "唔係",
+      "只係客串"
     ],
     "options_en": [
-      "2015",
-      "2012",
-      "2014",
-      "2009"
+      "Yes",
+      "Unknown",
+      "No",
+      "Cameo only"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
   },
   {
     "id": 11,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
+    "question_zh": "《寒戰》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
     "options_zh": [
-      "導演",
-      "王晶",
-      "杜琪峰",
-      "劉偉強"
+      "只係客串",
+      "唔知",
+      "係",
+      "唔係"
     ],
     "options_en": [
-      "Director",
-      "Wong Jing",
-      "Johnnie To",
-      "Andrew Lau"
+      "Cameo only",
+      "Unknown",
+      "Yes",
+      "No"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
+    "answer": 2,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 2
   },
   {
     "id": 12,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
+    "question_zh": "《寒戰》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
     "options_zh": [
-      "王晶",
-      "導演",
-      "劉偉強",
-      "杜琪峰"
+      "唔知",
+      "係",
+      "唔係",
+      "只係客串"
     ],
     "options_en": [
-      "Wong Jing",
-      "Director",
-      "Andrew Lau",
-      "Johnnie To"
+      "Unknown",
+      "Yes",
+      "No",
+      "Cameo only"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
   },
   {
     "id": 13,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
+    "question_zh": "《寒戰》係邊度出品？",
+    "question_en": "Where was \"Cold War\" produced?",
     "options_zh": [
-      "劉偉強",
-      "王晶",
-      "導演",
-      "杜琪峰"
+      "台灣",
+      "美國",
+      "香港",
+      "中國"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Wong Jing",
-      "Director",
-      "Johnnie To"
+      "Taiwan",
+      "USA",
+      "Hong Kong",
+      "China"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
   },
   {
     "id": 14,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
+    "question_zh": "《寒戰》係邊度出品？",
+    "question_en": "Where was \"Cold War\" produced?",
     "options_zh": [
-      "導演",
-      "劉偉強",
-      "王晶",
-      "杜琪峰"
+      "香港",
+      "台灣",
+      "美國",
+      "中國"
     ],
     "options_en": [
-      "Director",
-      "Andrew Lau",
-      "Wong Jing",
-      "Johnnie To"
+      "Hong Kong",
+      "Taiwan",
+      "USA",
+      "China"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
   },
   {
     "id": 15,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
+    "question_zh": "《寒戰》係邊度出品？",
+    "question_en": "Where was \"Cold War\" produced?",
     "options_zh": [
-      "劉偉強",
-      "王晶",
-      "杜琪峰",
-      "導演"
+      "香港",
+      "美國",
+      "中國",
+      "台灣"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Wong Jing",
-      "Johnnie To",
-      "Director"
+      "Hong Kong",
+      "USA",
+      "China",
+      "Taiwan"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
   },
   {
     "id": 16,
-    "question_zh": "梁家輝喺《寒戰》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"Cold War\"?",
+    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
     "options_zh": [
-      "配角A",
-      "配角C",
-      "主角",
-      "配角B"
+      "麻麻地",
+      "非常出色",
+      "普通",
+      "唔好"
     ],
     "options_en": [
-      "Supporting A",
-      "Supporting C",
-      "Main Character",
-      "Supporting B"
+      "So-so",
+      "Excellent",
+      "Average",
+      "Bad"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 1
   },
   {
     "id": 17,
-    "question_zh": "梁家輝喺《寒戰》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"Cold War\"?",
+    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
     "options_zh": [
-      "配角C",
-      "配角B",
-      "主角",
-      "配角A"
+      "普通",
+      "麻麻地",
+      "唔好",
+      "非常出色"
     ],
     "options_en": [
-      "Supporting C",
-      "Supporting B",
-      "Main Character",
-      "Supporting A"
+      "Average",
+      "So-so",
+      "Bad",
+      "Excellent"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 2
   },
   {
     "id": 18,
-    "question_zh": "梁家輝喺《寒戰》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"Cold War\"?",
+    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
     "options_zh": [
-      "配角C",
-      "主角",
-      "配角A",
-      "配角B"
+      "唔好",
+      "麻麻地",
+      "非常出色",
+      "普通"
     ],
     "options_en": [
-      "Supporting C",
-      "Main Character",
-      "Supporting A",
-      "Supporting B"
+      "Bad",
+      "So-so",
+      "Excellent",
+      "Average"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
+    "answer": 2,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 3
   },
   {
     "id": 19,
-    "question_zh": "梁家輝喺《寒戰》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"Cold War\"?",
+    "question_zh": "你會推薦《寒戰》俾朋友？",
+    "question_en": "Would you recommend \"Cold War\" to friends?",
     "options_zh": [
-      "主角",
-      "配角C",
-      "配角B",
-      "配角A"
+      "睇情況",
+      "唔會",
+      "唔知",
+      "會，非常推薦"
     ],
     "options_en": [
-      "Main Character",
-      "Supporting C",
-      "Supporting B",
-      "Supporting A"
+      "Depends",
+      "No",
+      "Unknown",
+      "Yes, highly recommended"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
+    "answer": 3,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
   },
   {
     "id": 20,
-    "question_zh": "梁家輝喺《寒戰》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"Cold War\"?",
+    "question_zh": "你會推薦《寒戰》俾朋友？",
+    "question_en": "Would you recommend \"Cold War\" to friends?",
     "options_zh": [
-      "主角",
-      "配角C",
-      "配角A",
-      "配角B"
+      "唔知",
+      "睇情況",
+      "會，非常推薦",
+      "唔會"
     ],
     "options_en": [
-      "Main Character",
-      "Supporting C",
-      "Supporting A",
-      "Supporting B"
+      "Unknown",
+      "Depends",
+      "Yes, highly recommended",
+      "No"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "answer": 2,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 2
   },
   {
     "id": 21,
-    "question_zh": "《寒戰》係咩類型嘅電影？",
-    "question_en": "What genre is \"Cold War\"?",
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
     "options_zh": [
-      "劇情",
-      "動畫",
-      "音樂劇",
-      "紀錄片"
+      "其他電影Y",
+      "寒戰",
+      "其他電影Z",
+      "其他電影X"
     ],
     "options_en": [
-      "Drama",
-      "Animation",
-      "Musical",
-      "Documentary"
+      "Other Movie Y",
+      "Cold War",
+      "Other Movie Z",
+      "Other Movie X"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
+    "answer": 1,
+    "explanation_zh": "正確答案係「寒戰」。",
+    "explanation_en": "The correct answer is 'Cold War'.",
+    "difficulty": 3
   },
   {
     "id": 22,
-    "question_zh": "《寒戰》係咩類型嘅電影？",
-    "question_en": "What genre is \"Cold War\"?",
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
     "options_zh": [
-      "音樂劇",
-      "紀錄片",
-      "動畫",
-      "劇情"
+      "寒戰",
+      "其他電影Y",
+      "其他電影X",
+      "其他電影Z"
     ],
     "options_en": [
-      "Musical",
-      "Documentary",
-      "Animation",
-      "Drama"
+      "Cold War",
+      "Other Movie Y",
+      "Other Movie X",
+      "Other Movie Z"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "正確答案係「寒戰」。",
+    "explanation_en": "The correct answer is 'Cold War'.",
+    "difficulty": 1
   },
   {
     "id": 23,
-    "question_zh": "《寒戰》係咩類型嘅電影？",
-    "question_en": "What genre is \"Cold War\"?",
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
     "options_zh": [
-      "音樂劇",
-      "劇情",
-      "動畫",
-      "紀錄片"
+      "其他電影X",
+      "其他電影Y",
+      "其他電影Z",
+      "寒戰"
     ],
     "options_en": [
-      "Musical",
-      "Drama",
-      "Animation",
-      "Documentary"
+      "Other Movie X",
+      "Other Movie Y",
+      "Other Movie Z",
+      "Cold War"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
+    "answer": 3,
+    "explanation_zh": "正確答案係「寒戰」。",
+    "explanation_en": "The correct answer is 'Cold War'.",
+    "difficulty": 2
   },
   {
     "id": 24,
-    "question_zh": "《寒戰》係咩類型嘅電影？",
-    "question_en": "What genre is \"Cold War\"?",
+    "question_zh": "《寒戰》係邊年上映嘅？",
+    "question_en": "What year was \"Cold War\" released?",
     "options_zh": [
-      "劇情",
-      "音樂劇",
-      "紀錄片",
-      "動畫"
+      "2012年",
+      "2014年",
+      "2017年",
+      "2009年"
     ],
     "options_en": [
-      "Drama",
-      "Musical",
-      "Documentary",
-      "Animation"
+      "2012",
+      "2014",
+      "2017",
+      "2009"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
+    "explanation_zh": "正確答案係「2012年」。",
+    "explanation_en": "The correct answer is '2012'.",
+    "difficulty": 3
   },
   {
     "id": 25,
-    "question_zh": "《寒戰》係咩類型嘅電影？",
-    "question_en": "What genre is \"Cold War\"?",
+    "question_zh": "《寒戰》係邊年上映嘅？",
+    "question_en": "What year was \"Cold War\" released?",
     "options_zh": [
-      "劇情",
-      "紀錄片",
-      "音樂劇",
-      "動畫"
+      "2012年",
+      "2009年",
+      "2017年",
+      "2014年"
     ],
     "options_en": [
-      "Drama",
-      "Documentary",
-      "Musical",
-      "Animation"
+      "2012",
+      "2009",
+      "2017",
+      "2014"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
+    "explanation_zh": "正確答案係「2012年」。",
+    "explanation_en": "The correct answer is '2012'.",
+    "difficulty": 1
   },
   {
     "id": 26,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "question_zh": "《寒戰》係邊年上映嘅？",
+    "question_en": "What year was \"Cold War\" released?",
     "options_zh": [
-      "寒戰",
-      "監獄風雲",
-      "黑社會",
-      "情人"
+      "2012年",
+      "2014年",
+      "2017年",
+      "2009年"
     ],
     "options_en": [
-      "Cold War",
-      "The Lover",
-      "Election",
-      "Prison on Fire"
+      "2012",
+      "2014",
+      "2017",
+      "2009"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「2012年」。",
+    "explanation_en": "The correct answer is '2012'.",
+    "difficulty": 2
   },
   {
     "id": 27,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "question_zh": "《寒戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Cold War\"?",
     "options_zh": [
-      "東邪西毒",
-      "情人",
-      "寒戰",
-      "監獄風雲"
+      "梁樂民",
+      "王晶",
+      "劉偉強",
+      "杜琪峰"
     ],
     "options_en": [
-      "Prison on Fire",
-      "Ashes of Time",
-      "Cold War",
-      "The Lover"
+      "梁樂民",
+      "Wong Jing",
+      "Andrew Lau",
+      "Johnnie To"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "正確答案係「梁樂民」。",
+    "explanation_en": "The correct answer is '梁樂民'.",
+    "difficulty": 3
   },
   {
     "id": 28,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "question_zh": "《寒戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Cold War\"?",
     "options_zh": [
-      "東邪西毒",
-      "黑社會",
-      "寒戰",
-      "監獄風雲"
+      "梁樂民",
+      "杜琪峰",
+      "王晶",
+      "劉偉強"
     ],
     "options_en": [
-      "Election",
-      "The Lover",
-      "Cold War",
-      "Prison on Fire"
+      "梁樂民",
+      "Johnnie To",
+      "Wong Jing",
+      "Andrew Lau"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "正確答案係「梁樂民」。",
+    "explanation_en": "The correct answer is '梁樂民'.",
+    "difficulty": 1
   },
   {
     "id": 29,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "question_zh": "《寒戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Cold War\"?",
     "options_zh": [
-      "情人",
-      "寒戰",
-      "監獄風雲",
-      "東邪西毒"
+      "劉偉強",
+      "王晶",
+      "梁樂民",
+      "杜琪峰"
     ],
     "options_en": [
-      "The Lover",
-      "Cold War",
-      "Prison on Fire",
-      "Ashes of Time"
+      "Andrew Lau",
+      "Wong Jing",
+      "梁樂民",
+      "Johnnie To"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
-    "difficulty": 3
+    "answer": 2,
+    "explanation_zh": "正確答案係「梁樂民」。",
+    "explanation_en": "The correct answer is '梁樂民'.",
+    "difficulty": 2
   },
   {
     "id": 30,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "question_zh": "《寒戰》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
     "options_zh": [
-      "東邪西毒",
-      "情人",
-      "黑社會",
-      "寒戰"
+      "只係客串",
+      "唔係",
+      "唔知",
+      "係"
     ],
     "options_en": [
-      "Prison on Fire",
-      "The Lover",
-      "Ashes of Time",
-      "Cold War"
+      "Cameo only",
+      "No",
+      "Unknown",
+      "Yes"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
-    "difficulty": 1
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
   },
   {
     "id": 31,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
+    "question_zh": "《寒戰》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
     "options_zh": [
-      "2009年",
-      "2015年",
-      "2012年",
-      "2014年"
+      "唔係",
+      "只係客串",
+      "唔知",
+      "係"
     ],
     "options_en": [
-      "2009",
-      "2015",
-      "2012",
-      "2014"
+      "No",
+      "Cameo only",
+      "Unknown",
+      "Yes"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 2
+    "answer": 3,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
   },
   {
     "id": 32,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
+    "question_zh": "《寒戰》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
     "options_zh": [
-      "2015年",
-      "2010年",
-      "2012年",
-      "2009年"
+      "係",
+      "唔知",
+      "唔係",
+      "只係客串"
     ],
     "options_en": [
-      "2015",
-      "2010",
-      "2012",
-      "2009"
+      "Yes",
+      "Unknown",
+      "No",
+      "Cameo only"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 2
   },
   {
     "id": 33,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
+    "question_zh": "《寒戰》係邊度出品？",
+    "question_en": "Where was \"Cold War\" produced?",
     "options_zh": [
-      "2012年",
-      "2014年",
-      "2009年",
-      "2015年"
+      "中國",
+      "台灣",
+      "香港",
+      "美國"
     ],
     "options_en": [
-      "2012",
-      "2014",
-      "2009",
-      "2015"
+      "China",
+      "Taiwan",
+      "Hong Kong",
+      "USA"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 1
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
   },
   {
     "id": 34,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
+    "question_zh": "《寒戰》係邊度出品？",
+    "question_en": "Where was \"Cold War\" produced?",
     "options_zh": [
-      "2009年",
-      "2014年",
-      "2015年",
-      "2012年"
+      "台灣",
+      "香港",
+      "美國",
+      "中國"
     ],
     "options_en": [
-      "2009",
-      "2014",
-      "2015",
-      "2012"
+      "Taiwan",
+      "Hong Kong",
+      "USA",
+      "China"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 2
+    "answer": 1,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
   },
   {
     "id": 35,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
+    "question_zh": "《寒戰》係邊度出品？",
+    "question_en": "Where was \"Cold War\" produced?",
     "options_zh": [
-      "2015年",
-      "2012年",
-      "2010年",
-      "2009年"
+      "美國",
+      "台灣",
+      "中國",
+      "香港"
     ],
     "options_en": [
-      "2015",
-      "2012",
-      "2010",
-      "2009"
+      "USA",
+      "Taiwan",
+      "China",
+      "Hong Kong"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 3
+    "answer": 3,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
   },
   {
     "id": 36,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
+    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
     "options_zh": [
-      "導演",
-      "劉偉強",
-      "杜琪峰",
-      "王晶"
+      "普通",
+      "非常出色",
+      "麻麻地",
+      "唔好"
     ],
     "options_en": [
-      "Director",
-      "Andrew Lau",
-      "Johnnie To",
-      "Wong Jing"
+      "Average",
+      "Excellent",
+      "So-so",
+      "Bad"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 3
   },
   {
     "id": 37,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
+    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
     "options_zh": [
-      "導演",
-      "杜琪峰",
-      "王晶",
-      "劉偉強"
+      "麻麻地",
+      "唔好",
+      "普通",
+      "非常出色"
     ],
     "options_en": [
-      "Director",
-      "Johnnie To",
-      "Wong Jing",
-      "Andrew Lau"
+      "So-so",
+      "Bad",
+      "Average",
+      "Excellent"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 1
   },
   {
     "id": 38,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
+    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
     "options_zh": [
-      "導演",
-      "杜琪峰",
-      "劉偉強",
-      "王晶"
+      "普通",
+      "唔好",
+      "非常出色",
+      "麻麻地"
     ],
     "options_en": [
-      "Director",
-      "Johnnie To",
-      "Andrew Lau",
-      "Wong Jing"
+      "Average",
+      "Bad",
+      "Excellent",
+      "So-so"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
+    "answer": 2,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 2
   },
   {
     "id": 39,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
+    "question_zh": "你會推薦《寒戰》俾朋友？",
+    "question_en": "Would you recommend \"Cold War\" to friends?",
     "options_zh": [
-      "劉偉強",
-      "導演",
-      "王晶",
-      "杜琪峰"
+      "會，非常推薦",
+      "唔知",
+      "睇情況",
+      "唔會"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Director",
-      "Wong Jing",
-      "Johnnie To"
+      "Yes, highly recommended",
+      "Unknown",
+      "Depends",
+      "No"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
   },
   {
     "id": 40,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
+    "question_zh": "你會推薦《寒戰》俾朋友？",
+    "question_en": "Would you recommend \"Cold War\" to friends?",
     "options_zh": [
-      "王晶",
-      "劉偉強",
-      "導演",
-      "杜琪峰"
+      "會，非常推薦",
+      "唔知",
+      "睇情況",
+      "唔會"
     ],
     "options_en": [
-      "Wong Jing",
-      "Andrew Lau",
-      "Director",
-      "Johnnie To"
+      "Yes, highly recommended",
+      "Unknown",
+      "Depends",
+      "No"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
   },
   {
     "id": 41,
-    "question_zh": "梁家輝喺《寒戰》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"Cold War\"?",
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
     "options_zh": [
-      "主角",
-      "配角A",
-      "配角C",
-      "配角B"
+      "其他電影Y",
+      "寒戰",
+      "其他電影Z",
+      "其他電影X"
     ],
     "options_en": [
-      "Main Character",
-      "Supporting A",
-      "Supporting C",
-      "Supporting B"
+      "Other Movie Y",
+      "Cold War",
+      "Other Movie Z",
+      "Other Movie X"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「寒戰」。",
+    "explanation_en": "The correct answer is 'Cold War'.",
+    "difficulty": 2
   },
   {
     "id": 42,
-    "question_zh": "梁家輝喺《寒戰》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"Cold War\"?",
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
     "options_zh": [
-      "配角C",
-      "配角A",
-      "主角",
-      "配角B"
+      "其他電影X",
+      "其他電影Z",
+      "寒戰",
+      "其他電影Y"
     ],
     "options_en": [
-      "Supporting C",
-      "Supporting A",
-      "Main Character",
-      "Supporting B"
+      "Other Movie X",
+      "Other Movie Z",
+      "Cold War",
+      "Other Movie Y"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
+    "explanation_zh": "正確答案係「寒戰」。",
+    "explanation_en": "The correct answer is 'Cold War'.",
+    "difficulty": 3
   },
   {
     "id": 43,
-    "question_zh": "梁家輝喺《寒戰》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"Cold War\"?",
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
     "options_zh": [
-      "配角C",
-      "主角",
-      "配角B",
-      "配角A"
+      "寒戰",
+      "其他電影Z",
+      "其他電影Y",
+      "其他電影X"
     ],
     "options_en": [
-      "Supporting C",
-      "Main Character",
-      "Supporting B",
-      "Supporting A"
+      "Cold War",
+      "Other Movie Z",
+      "Other Movie Y",
+      "Other Movie X"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "正確答案係「寒戰」。",
+    "explanation_en": "The correct answer is 'Cold War'.",
+    "difficulty": 1
   },
   {
     "id": 44,
-    "question_zh": "梁家輝喺《寒戰》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"Cold War\"?",
+    "question_zh": "《寒戰》係邊年上映嘅？",
+    "question_en": "What year was \"Cold War\" released?",
     "options_zh": [
-      "配角B",
-      "配角A",
-      "主角",
-      "配角C"
+      "2017年",
+      "2012年",
+      "2009年",
+      "2014年"
     ],
     "options_en": [
-      "Supporting B",
-      "Supporting A",
-      "Main Character",
-      "Supporting C"
+      "2017",
+      "2012",
+      "2009",
+      "2014"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「2012年」。",
+    "explanation_en": "The correct answer is '2012'.",
+    "difficulty": 2
   },
   {
     "id": 45,
-    "question_zh": "梁家輝喺《寒戰》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"Cold War\"?",
+    "question_zh": "《寒戰》係邊年上映嘅？",
+    "question_en": "What year was \"Cold War\" released?",
     "options_zh": [
-      "配角B",
-      "配角A",
-      "主角",
-      "配角C"
+      "2012年",
+      "2009年",
+      "2014年",
+      "2017年"
     ],
     "options_en": [
-      "Supporting B",
-      "Supporting A",
-      "Main Character",
-      "Supporting C"
+      "2012",
+      "2009",
+      "2014",
+      "2017"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "正確答案係「2012年」。",
+    "explanation_en": "The correct answer is '2012'.",
+    "difficulty": 3
   },
   {
     "id": 46,
-    "question_zh": "《寒戰》係咩類型嘅電影？",
-    "question_en": "What genre is \"Cold War\"?",
+    "question_zh": "《寒戰》係邊年上映嘅？",
+    "question_en": "What year was \"Cold War\" released?",
     "options_zh": [
-      "動畫",
-      "紀錄片",
-      "劇情",
-      "音樂劇"
+      "2017年",
+      "2014年",
+      "2012年",
+      "2009年"
     ],
     "options_en": [
-      "Animation",
-      "Documentary",
-      "Drama",
-      "Musical"
+      "2017",
+      "2014",
+      "2012",
+      "2009"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
+    "explanation_zh": "正確答案係「2012年」。",
+    "explanation_en": "The correct answer is '2012'.",
+    "difficulty": 1
   },
   {
     "id": 47,
-    "question_zh": "《寒戰》係咩類型嘅電影？",
-    "question_en": "What genre is \"Cold War\"?",
+    "question_zh": "《寒戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Cold War\"?",
     "options_zh": [
-      "音樂劇",
-      "紀錄片",
-      "劇情",
-      "動畫"
+      "劉偉強",
+      "王晶",
+      "杜琪峰",
+      "梁樂民"
     ],
     "options_en": [
-      "Musical",
-      "Documentary",
-      "Drama",
-      "Animation"
+      "Andrew Lau",
+      "Wong Jing",
+      "Johnnie To",
+      "梁樂民"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
+    "answer": 3,
+    "explanation_zh": "正確答案係「梁樂民」。",
+    "explanation_en": "The correct answer is '梁樂民'.",
+    "difficulty": 2
   },
   {
     "id": 48,
-    "question_zh": "《寒戰》係咩類型嘅電影？",
-    "question_en": "What genre is \"Cold War\"?",
+    "question_zh": "《寒戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Cold War\"?",
     "options_zh": [
-      "紀錄片",
-      "動畫",
-      "音樂劇",
-      "劇情"
+      "王晶",
+      "梁樂民",
+      "杜琪峰",
+      "劉偉強"
     ],
     "options_en": [
-      "Documentary",
-      "Animation",
-      "Musical",
-      "Drama"
+      "Wong Jing",
+      "梁樂民",
+      "Johnnie To",
+      "Andrew Lau"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
+    "answer": 1,
+    "explanation_zh": "正確答案係「梁樂民」。",
+    "explanation_en": "The correct answer is '梁樂民'.",
+    "difficulty": 3
   },
   {
     "id": 49,
-    "question_zh": "《寒戰》係咩類型嘅電影？",
-    "question_en": "What genre is \"Cold War\"?",
+    "question_zh": "《寒戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Cold War\"?",
     "options_zh": [
-      "紀錄片",
-      "劇情",
-      "動畫",
-      "音樂劇"
+      "劉偉強",
+      "王晶",
+      "杜琪峰",
+      "梁樂民"
     ],
     "options_en": [
-      "Documentary",
-      "Drama",
-      "Animation",
-      "Musical"
+      "Andrew Lau",
+      "Wong Jing",
+      "Johnnie To",
+      "梁樂民"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
+    "answer": 3,
+    "explanation_zh": "正確答案係「梁樂民」。",
+    "explanation_en": "The correct answer is '梁樂民'.",
+    "difficulty": 1
   },
   {
     "id": 50,
-    "question_zh": "《寒戰》係咩類型嘅電影？",
-    "question_en": "What genre is \"Cold War\"?",
+    "question_zh": "《寒戰》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
     "options_zh": [
-      "動畫",
-      "音樂劇",
-      "紀錄片",
-      "劇情"
+      "唔係",
+      "係",
+      "只係客串",
+      "唔知"
     ],
     "options_en": [
-      "Animation",
-      "Musical",
-      "Documentary",
-      "Drama"
+      "No",
+      "Yes",
+      "Cameo only",
+      "Unknown"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 2
   },
   {
     "id": 51,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "question_zh": "《寒戰》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
     "options_zh": [
-      "寒戰",
-      "情人",
-      "黑社會",
-      "監獄風雲"
+      "唔係",
+      "係",
+      "只係客串",
+      "唔知"
     ],
     "options_en": [
-      "Cold War",
-      "Prison on Fire",
-      "Ashes of Time",
-      "Election"
+      "No",
+      "Yes",
+      "Cameo only",
+      "Unknown"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
-    "difficulty": 1
+    "answer": 1,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
   },
   {
     "id": 52,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "question_zh": "《寒戰》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
     "options_zh": [
-      "監獄風雲",
-      "東邪西毒",
-      "情人",
-      "寒戰"
+      "唔知",
+      "唔係",
+      "只係客串",
+      "係"
     ],
     "options_en": [
-      "Prison on Fire",
-      "The Lover",
-      "Ashes of Time",
-      "Cold War"
+      "Unknown",
+      "No",
+      "Cameo only",
+      "Yes"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
-    "difficulty": 2
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
   },
   {
     "id": 53,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "question_zh": "《寒戰》係邊度出品？",
+    "question_en": "Where was \"Cold War\" produced?",
     "options_zh": [
-      "寒戰",
-      "黑社會",
-      "情人",
-      "監獄風雲"
+      "香港",
+      "台灣",
+      "中國",
+      "美國"
     ],
     "options_en": [
-      "Cold War",
-      "Prison on Fire",
-      "Election",
-      "The Lover"
+      "Hong Kong",
+      "Taiwan",
+      "China",
+      "USA"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
   },
   {
     "id": 54,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "question_zh": "《寒戰》係邊度出品？",
+    "question_en": "Where was \"Cold War\" produced?",
     "options_zh": [
-      "東邪西毒",
-      "黑社會",
-      "寒戰",
-      "情人"
+      "香港",
+      "美國",
+      "台灣",
+      "中國"
     ],
     "options_en": [
-      "The Lover",
-      "Election",
-      "Cold War",
-      "Ashes of Time"
+      "Hong Kong",
+      "USA",
+      "Taiwan",
+      "China"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
   },
   {
     "id": 55,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "question_zh": "《寒戰》係邊度出品？",
+    "question_en": "Where was \"Cold War\" produced?",
     "options_zh": [
-      "黑社會",
-      "監獄風雲",
-      "情人",
-      "寒戰"
+      "美國",
+      "香港",
+      "台灣",
+      "中國"
     ],
     "options_en": [
-      "Prison on Fire",
-      "Ashes of Time",
-      "Election",
-      "Cold War"
+      "USA",
+      "Hong Kong",
+      "Taiwan",
+      "China"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
-    "difficulty": 2
+    "answer": 1,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
   },
   {
     "id": 56,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
+    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
     "options_zh": [
-      "2009年",
-      "2014年",
-      "2010年",
-      "2012年"
+      "麻麻地",
+      "唔好",
+      "普通",
+      "非常出色"
     ],
     "options_en": [
-      "2009",
-      "2014",
-      "2010",
-      "2012"
+      "So-so",
+      "Bad",
+      "Average",
+      "Excellent"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 2
   },
   {
     "id": 57,
+    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
+    "options_zh": [
+      "麻麻地",
+      "非常出色",
+      "普通",
+      "唔好"
+    ],
+    "options_en": [
+      "So-so",
+      "Excellent",
+      "Average",
+      "Bad"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 3
+  },
+  {
+    "id": 58,
+    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
+    "options_zh": [
+      "唔好",
+      "非常出色",
+      "麻麻地",
+      "普通"
+    ],
+    "options_en": [
+      "Bad",
+      "Excellent",
+      "So-so",
+      "Average"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 1
+  },
+  {
+    "id": 59,
+    "question_zh": "你會推薦《寒戰》俾朋友？",
+    "question_en": "Would you recommend \"Cold War\" to friends?",
+    "options_zh": [
+      "會，非常推薦",
+      "睇情況",
+      "唔知",
+      "唔會"
+    ],
+    "options_en": [
+      "Yes, highly recommended",
+      "Depends",
+      "Unknown",
+      "No"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 2
+  },
+  {
+    "id": 60,
+    "question_zh": "你會推薦《寒戰》俾朋友？",
+    "question_en": "Would you recommend \"Cold War\" to friends?",
+    "options_zh": [
+      "唔會",
+      "唔知",
+      "會，非常推薦",
+      "睇情況"
+    ],
+    "options_en": [
+      "No",
+      "Unknown",
+      "Yes, highly recommended",
+      "Depends"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
+  },
+  {
+    "id": 61,
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
+    "options_zh": [
+      "寒戰",
+      "其他電影Z",
+      "其他電影Y",
+      "其他電影X"
+    ],
+    "options_en": [
+      "Cold War",
+      "Other Movie Z",
+      "Other Movie Y",
+      "Other Movie X"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「寒戰」。",
+    "explanation_en": "The correct answer is 'Cold War'.",
+    "difficulty": 1
+  },
+  {
+    "id": 62,
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
+    "options_zh": [
+      "其他電影Y",
+      "其他電影X",
+      "其他電影Z",
+      "寒戰"
+    ],
+    "options_en": [
+      "Other Movie Y",
+      "Other Movie X",
+      "Other Movie Z",
+      "Cold War"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「寒戰」。",
+    "explanation_en": "The correct answer is 'Cold War'.",
+    "difficulty": 2
+  },
+  {
+    "id": 63,
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
+    "options_zh": [
+      "寒戰",
+      "其他電影Y",
+      "其他電影Z",
+      "其他電影X"
+    ],
+    "options_en": [
+      "Cold War",
+      "Other Movie Y",
+      "Other Movie Z",
+      "Other Movie X"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「寒戰」。",
+    "explanation_en": "The correct answer is 'Cold War'.",
+    "difficulty": 3
+  },
+  {
+    "id": 64,
     "question_zh": "《寒戰》係邊年上映嘅？",
     "question_en": "What year was \"Cold War\" released?",
     "options_zh": [
+      "2014年",
+      "2009年",
       "2012年",
-      "2010年",
-      "2015年",
-      "2009年"
+      "2017年"
     ],
     "options_en": [
+      "2014",
+      "2009",
       "2012",
-      "2010",
-      "2015",
-      "2009"
+      "2017"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「2012年」。",
     "explanation_en": "The correct answer is '2012'.",
     "difficulty": 1
   },
   {
-    "id": 58,
+    "id": 65,
     "question_zh": "《寒戰》係邊年上映嘅？",
     "question_en": "What year was \"Cold War\" released?",
     "options_zh": [
       "2012年",
-      "2010年",
+      "2017年",
       "2014年",
       "2009年"
     ],
     "options_en": [
       "2012",
-      "2010",
+      "2017",
       "2014",
       "2009"
     ],
@@ -1218,418 +1365,355 @@
     "difficulty": 2
   },
   {
-    "id": 59,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
-    "options_zh": [
-      "2015年",
-      "2012年",
-      "2009年",
-      "2010年"
-    ],
-    "options_en": [
-      "2015",
-      "2012",
-      "2009",
-      "2010"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 3
-  },
-  {
-    "id": 60,
+    "id": 66,
     "question_zh": "《寒戰》係邊年上映嘅？",
     "question_en": "What year was \"Cold War\" released?",
     "options_zh": [
       "2014年",
-      "2015年",
       "2009年",
+      "2017年",
       "2012年"
     ],
     "options_en": [
       "2014",
-      "2015",
       "2009",
+      "2017",
       "2012"
     ],
     "answer": 3,
     "explanation_zh": "正確答案係「2012年」。",
     "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 1
-  },
-  {
-    "id": 61,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
-    "options_zh": [
-      "導演",
-      "王晶",
-      "劉偉強",
-      "杜琪峰"
-    ],
-    "options_en": [
-      "Director",
-      "Wong Jing",
-      "Andrew Lau",
-      "Johnnie To"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
-  },
-  {
-    "id": 62,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
-    "options_zh": [
-      "杜琪峰",
-      "導演",
-      "劉偉強",
-      "王晶"
-    ],
-    "options_en": [
-      "Johnnie To",
-      "Director",
-      "Andrew Lau",
-      "Wong Jing"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
     "difficulty": 3
-  },
-  {
-    "id": 63,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
-    "options_zh": [
-      "劉偉強",
-      "杜琪峰",
-      "導演",
-      "王晶"
-    ],
-    "options_en": [
-      "Andrew Lau",
-      "Johnnie To",
-      "Director",
-      "Wong Jing"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
-  },
-  {
-    "id": 64,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
-    "options_zh": [
-      "導演",
-      "王晶",
-      "杜琪峰",
-      "劉偉強"
-    ],
-    "options_en": [
-      "Director",
-      "Wong Jing",
-      "Johnnie To",
-      "Andrew Lau"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
-  },
-  {
-    "id": 65,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
-    "options_zh": [
-      "導演",
-      "杜琪峰",
-      "王晶",
-      "劉偉強"
-    ],
-    "options_en": [
-      "Director",
-      "Johnnie To",
-      "Wong Jing",
-      "Andrew Lau"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
-  },
-  {
-    "id": 66,
-    "question_zh": "梁家輝喺《寒戰》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"Cold War\"?",
-    "options_zh": [
-      "配角A",
-      "主角",
-      "配角C",
-      "配角B"
-    ],
-    "options_en": [
-      "Supporting A",
-      "Main Character",
-      "Supporting C",
-      "Supporting B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
   },
   {
     "id": 67,
-    "question_zh": "梁家輝喺《寒戰》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"Cold War\"?",
+    "question_zh": "《寒戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Cold War\"?",
     "options_zh": [
-      "主角",
-      "配角A",
-      "配角B",
-      "配角C"
+      "劉偉強",
+      "梁樂民",
+      "王晶",
+      "杜琪峰"
     ],
     "options_en": [
-      "Main Character",
-      "Supporting A",
-      "Supporting B",
-      "Supporting C"
+      "Andrew Lau",
+      "梁樂民",
+      "Wong Jing",
+      "Johnnie To"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
+    "answer": 1,
+    "explanation_zh": "正確答案係「梁樂民」。",
+    "explanation_en": "The correct answer is '梁樂民'.",
+    "difficulty": 1
   },
   {
     "id": 68,
-    "question_zh": "梁家輝喺《寒戰》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"Cold War\"?",
+    "question_zh": "《寒戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Cold War\"?",
     "options_zh": [
-      "配角B",
-      "主角",
-      "配角A",
-      "配角C"
+      "杜琪峰",
+      "梁樂民",
+      "劉偉強",
+      "王晶"
     ],
     "options_en": [
-      "Supporting B",
-      "Main Character",
-      "Supporting A",
-      "Supporting C"
+      "Johnnie To",
+      "梁樂民",
+      "Andrew Lau",
+      "Wong Jing"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「梁樂民」。",
+    "explanation_en": "The correct answer is '梁樂民'.",
+    "difficulty": 2
   },
   {
     "id": 69,
-    "question_zh": "梁家輝喺《寒戰》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"Cold War\"?",
+    "question_zh": "《寒戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Cold War\"?",
     "options_zh": [
-      "主角",
-      "配角A",
-      "配角B",
-      "配角C"
+      "劉偉強",
+      "王晶",
+      "梁樂民",
+      "杜琪峰"
     ],
     "options_en": [
-      "Main Character",
-      "Supporting A",
-      "Supporting B",
-      "Supporting C"
+      "Andrew Lau",
+      "Wong Jing",
+      "梁樂民",
+      "Johnnie To"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
+    "answer": 2,
+    "explanation_zh": "正確答案係「梁樂民」。",
+    "explanation_en": "The correct answer is '梁樂民'.",
+    "difficulty": 3
   },
   {
     "id": 70,
-    "question_zh": "梁家輝喺《寒戰》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"Cold War\"?",
+    "question_zh": "《寒戰》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
     "options_zh": [
-      "配角C",
-      "配角B",
-      "配角A",
-      "主角"
+      "唔係",
+      "唔知",
+      "係",
+      "只係客串"
     ],
     "options_en": [
-      "Supporting C",
-      "Supporting B",
-      "Supporting A",
-      "Main Character"
+      "No",
+      "Unknown",
+      "Yes",
+      "Cameo only"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
+    "answer": 2,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
   },
   {
     "id": 71,
-    "question_zh": "《寒戰》係咩類型嘅電影？",
-    "question_en": "What genre is \"Cold War\"?",
+    "question_zh": "《寒戰》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
     "options_zh": [
-      "音樂劇",
-      "動畫",
-      "劇情",
-      "紀錄片"
+      "唔係",
+      "只係客串",
+      "唔知",
+      "係"
     ],
     "options_en": [
-      "Musical",
-      "Animation",
-      "Drama",
-      "Documentary"
+      "No",
+      "Cameo only",
+      "Unknown",
+      "Yes"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
+    "answer": 3,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 2
   },
   {
     "id": 72,
-    "question_zh": "《寒戰》係咩類型嘅電影？",
-    "question_en": "What genre is \"Cold War\"?",
+    "question_zh": "《寒戰》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
     "options_zh": [
-      "音樂劇",
-      "動畫",
-      "劇情",
-      "紀錄片"
+      "係",
+      "唔係",
+      "唔知",
+      "只係客串"
     ],
     "options_en": [
-      "Musical",
-      "Animation",
-      "Drama",
-      "Documentary"
+      "Yes",
+      "No",
+      "Unknown",
+      "Cameo only"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
   },
   {
     "id": 73,
-    "question_zh": "《寒戰》係咩類型嘅電影？",
-    "question_en": "What genre is \"Cold War\"?",
+    "question_zh": "《寒戰》係邊度出品？",
+    "question_en": "Where was \"Cold War\" produced?",
     "options_zh": [
-      "劇情",
-      "動畫",
-      "音樂劇",
-      "紀錄片"
+      "中國",
+      "香港",
+      "美國",
+      "台灣"
     ],
     "options_en": [
-      "Drama",
-      "Animation",
-      "Musical",
-      "Documentary"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
-  },
-  {
-    "id": 74,
-    "question_zh": "《寒戰》係咩類型嘅電影？",
-    "question_en": "What genre is \"Cold War\"?",
-    "options_zh": [
-      "劇情",
-      "紀錄片",
-      "音樂劇",
-      "動畫"
-    ],
-    "options_en": [
-      "Drama",
-      "Documentary",
-      "Musical",
-      "Animation"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
-  },
-  {
-    "id": 75,
-    "question_zh": "《寒戰》係咩類型嘅電影？",
-    "question_en": "What genre is \"Cold War\"?",
-    "options_zh": [
-      "音樂劇",
-      "劇情",
-      "紀錄片",
-      "動畫"
-    ],
-    "options_en": [
-      "Musical",
-      "Drama",
-      "Documentary",
-      "Animation"
+      "China",
+      "Hong Kong",
+      "USA",
+      "Taiwan"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
     "difficulty": 1
   },
   {
-    "id": 76,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "id": 74,
+    "question_zh": "《寒戰》係邊度出品？",
+    "question_en": "Where was \"Cold War\" produced?",
     "options_zh": [
-      "監獄風雲",
-      "東邪西毒",
-      "寒戰",
-      "黑社會"
+      "香港",
+      "台灣",
+      "中國",
+      "美國"
     ],
     "options_en": [
-      "Prison on Fire",
-      "The Lover",
-      "Cold War",
-      "Election"
+      "Hong Kong",
+      "Taiwan",
+      "China",
+      "USA"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
     "difficulty": 2
   },
   {
-    "id": 77,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "id": 75,
+    "question_zh": "《寒戰》係邊度出品？",
+    "question_en": "Where was \"Cold War\" produced?",
     "options_zh": [
-      "寒戰",
-      "東邪西毒",
-      "情人",
-      "監獄風雲"
+      "香港",
+      "台灣",
+      "美國",
+      "中國"
     ],
     "options_en": [
-      "Cold War",
-      "Prison on Fire",
-      "Ashes of Time",
-      "Election"
+      "Hong Kong",
+      "Taiwan",
+      "USA",
+      "China"
     ],
     "answer": 0,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
+  },
+  {
+    "id": 76,
+    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
+    "options_zh": [
+      "非常出色",
+      "普通",
+      "麻麻地",
+      "唔好"
+    ],
+    "options_en": [
+      "Excellent",
+      "Average",
+      "So-so",
+      "Bad"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 1
+  },
+  {
+    "id": 77,
+    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
+    "options_zh": [
+      "唔好",
+      "非常出色",
+      "普通",
+      "麻麻地"
+    ],
+    "options_en": [
+      "Bad",
+      "Excellent",
+      "Average",
+      "So-so"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 2
+  },
+  {
+    "id": 78,
+    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
+    "options_zh": [
+      "麻麻地",
+      "普通",
+      "唔好",
+      "非常出色"
+    ],
+    "options_en": [
+      "So-so",
+      "Average",
+      "Bad",
+      "Excellent"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 3
+  },
+  {
+    "id": 79,
+    "question_zh": "你會推薦《寒戰》俾朋友？",
+    "question_en": "Would you recommend \"Cold War\" to friends?",
+    "options_zh": [
+      "睇情況",
+      "會，非常推薦",
+      "唔知",
+      "唔會"
+    ],
+    "options_en": [
+      "Depends",
+      "Yes, highly recommended",
+      "Unknown",
+      "No"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
+  },
+  {
+    "id": 80,
+    "question_zh": "你會推薦《寒戰》俾朋友？",
+    "question_en": "Would you recommend \"Cold War\" to friends?",
+    "options_zh": [
+      "會，非常推薦",
+      "唔知",
+      "睇情況",
+      "唔會"
+    ],
+    "options_en": [
+      "Yes, highly recommended",
+      "Unknown",
+      "Depends",
+      "No"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 2
+  },
+  {
+    "id": 81,
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
+    "options_zh": [
+      "其他電影Z",
+      "其他電影Y",
+      "其他電影X",
+      "寒戰"
+    ],
+    "options_en": [
+      "Other Movie Z",
+      "Other Movie Y",
+      "Other Movie X",
+      "Cold War"
+    ],
+    "answer": 3,
     "explanation_zh": "正確答案係「寒戰」。",
     "explanation_en": "The correct answer is 'Cold War'.",
     "difficulty": 3
   },
   {
-    "id": 78,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "id": 82,
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
     "options_zh": [
-      "黑社會",
-      "情人",
-      "監獄風雲",
+      "其他電影Z",
+      "其他電影X",
+      "其他電影Y",
       "寒戰"
     ],
     "options_en": [
-      "Ashes of Time",
-      "The Lover",
-      "Prison on Fire",
+      "Other Movie Z",
+      "Other Movie X",
+      "Other Movie Y",
       "Cold War"
     ],
     "answer": 3,
@@ -1638,172 +1722,88 @@
     "difficulty": 1
   },
   {
-    "id": 79,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "id": 83,
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
     "options_zh": [
-      "情人",
-      "監獄風雲",
+      "其他電影Z",
+      "其他電影X",
       "寒戰",
-      "東邪西毒"
+      "其他電影Y"
     ],
     "options_en": [
-      "Prison on Fire",
-      "The Lover",
+      "Other Movie Z",
+      "Other Movie X",
       "Cold War",
-      "Election"
+      "Other Movie Y"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「寒戰」。",
     "explanation_en": "The correct answer is 'Cold War'.",
     "difficulty": 2
-  },
-  {
-    "id": 80,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
-    "options_zh": [
-      "情人",
-      "寒戰",
-      "東邪西毒",
-      "黑社會"
-    ],
-    "options_en": [
-      "The Lover",
-      "Cold War",
-      "Prison on Fire",
-      "Election"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
-    "difficulty": 3
-  },
-  {
-    "id": 81,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
-    "options_zh": [
-      "2012年",
-      "2015年",
-      "2010年",
-      "2014年"
-    ],
-    "options_en": [
-      "2012",
-      "2015",
-      "2010",
-      "2014"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 1
-  },
-  {
-    "id": 82,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
-    "options_zh": [
-      "2010年",
-      "2012年",
-      "2015年",
-      "2014年"
-    ],
-    "options_en": [
-      "2010",
-      "2012",
-      "2015",
-      "2014"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 2
-  },
-  {
-    "id": 83,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
-    "options_zh": [
-      "2012年",
-      "2009年",
-      "2010年",
-      "2014年"
-    ],
-    "options_en": [
-      "2012",
-      "2009",
-      "2010",
-      "2014"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 3
   },
   {
     "id": 84,
     "question_zh": "《寒戰》係邊年上映嘅？",
     "question_en": "What year was \"Cold War\" released?",
     "options_zh": [
-      "2015年",
       "2009年",
+      "2012年",
       "2014年",
-      "2012年"
+      "2017年"
     ],
     "options_en": [
-      "2015",
       "2009",
+      "2012",
       "2014",
-      "2012"
+      "2017"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「2012年」。",
     "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 1
+    "difficulty": 3
   },
   {
     "id": 85,
     "question_zh": "《寒戰》係邊年上映嘅？",
     "question_en": "What year was \"Cold War\" released?",
     "options_zh": [
+      "2009年",
       "2012年",
-      "2010年",
-      "2014年",
-      "2015年"
+      "2017年",
+      "2014年"
     ],
     "options_en": [
+      "2009",
       "2012",
-      "2010",
-      "2014",
-      "2015"
+      "2017",
+      "2014"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「2012年」。",
     "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "id": 86,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
+    "question_zh": "《寒戰》係邊年上映嘅？",
+    "question_en": "What year was \"Cold War\" released?",
     "options_zh": [
-      "導演",
-      "劉偉強",
-      "杜琪峰",
-      "王晶"
+      "2017年",
+      "2012年",
+      "2009年",
+      "2014年"
     ],
     "options_en": [
-      "Director",
-      "Andrew Lau",
-      "Johnnie To",
-      "Wong Jing"
+      "2017",
+      "2012",
+      "2009",
+      "2014"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「2012年」。",
+    "explanation_en": "The correct answer is '2012'.",
+    "difficulty": 2
   },
   {
     "id": 87,
@@ -1813,290 +1813,290 @@
       "王晶",
       "劉偉強",
       "杜琪峰",
-      "導演"
+      "梁樂民"
     ],
     "options_en": [
       "Wong Jing",
       "Andrew Lau",
       "Johnnie To",
-      "Director"
+      "梁樂民"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "explanation_zh": "正確答案係「梁樂民」。",
+    "explanation_en": "The correct answer is '梁樂民'.",
+    "difficulty": 3
   },
   {
     "id": 88,
     "question_zh": "《寒戰》嘅導演係邊個？",
     "question_en": "Who directed \"Cold War\"?",
     "options_zh": [
+      "梁樂民",
       "王晶",
-      "導演",
       "杜琪峰",
       "劉偉強"
     ],
     "options_en": [
+      "梁樂民",
       "Wong Jing",
-      "Director",
       "Johnnie To",
       "Andrew Lau"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "正確答案係「梁樂民」。",
+    "explanation_en": "The correct answer is '梁樂民'.",
+    "difficulty": 1
   },
   {
     "id": 89,
     "question_zh": "《寒戰》嘅導演係邊個？",
     "question_en": "Who directed \"Cold War\"?",
     "options_zh": [
-      "杜琪峰",
-      "王晶",
-      "導演",
-      "劉偉強"
-    ],
-    "options_en": [
-      "Johnnie To",
-      "Wong Jing",
-      "Director",
-      "Andrew Lau"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
-  },
-  {
-    "id": 90,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
-    "options_zh": [
       "劉偉強",
-      "杜琪峰",
-      "導演",
-      "王晶"
+      "梁樂民",
+      "王晶",
+      "杜琪峰"
     ],
     "options_en": [
       "Andrew Lau",
-      "Johnnie To",
-      "Director",
-      "Wong Jing"
+      "梁樂民",
+      "Wong Jing",
+      "Johnnie To"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「梁樂民」。",
+    "explanation_en": "The correct answer is '梁樂民'.",
+    "difficulty": 2
+  },
+  {
+    "id": 90,
+    "question_zh": "《寒戰》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
+    "options_zh": [
+      "唔知",
+      "只係客串",
+      "係",
+      "唔係"
+    ],
+    "options_en": [
+      "Unknown",
+      "Cameo only",
+      "Yes",
+      "No"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
   },
   {
     "id": 91,
-    "question_zh": "梁家輝喺《寒戰》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"Cold War\"?",
+    "question_zh": "《寒戰》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
     "options_zh": [
-      "配角C",
-      "配角B",
-      "主角",
-      "配角A"
+      "只係客串",
+      "唔係",
+      "係",
+      "唔知"
     ],
     "options_en": [
-      "Supporting C",
-      "Supporting B",
-      "Main Character",
-      "Supporting A"
+      "Cameo only",
+      "No",
+      "Yes",
+      "Unknown"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
   },
   {
     "id": 92,
-    "question_zh": "梁家輝喺《寒戰》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"Cold War\"?",
+    "question_zh": "《寒戰》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
     "options_zh": [
-      "主角",
-      "配角B",
-      "配角C",
-      "配角A"
+      "唔知",
+      "唔係",
+      "只係客串",
+      "係"
     ],
     "options_en": [
-      "Main Character",
-      "Supporting B",
-      "Supporting C",
-      "Supporting A"
+      "Unknown",
+      "No",
+      "Cameo only",
+      "Yes"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "answer": 3,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 2
   },
   {
     "id": 93,
-    "question_zh": "梁家輝喺《寒戰》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"Cold War\"?",
+    "question_zh": "《寒戰》係邊度出品？",
+    "question_en": "Where was \"Cold War\" produced?",
     "options_zh": [
-      "配角B",
-      "配角A",
-      "配角C",
-      "主角"
+      "台灣",
+      "中國",
+      "香港",
+      "美國"
     ],
     "options_en": [
-      "Supporting B",
-      "Supporting A",
-      "Supporting C",
-      "Main Character"
+      "Taiwan",
+      "China",
+      "Hong Kong",
+      "USA"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
   },
   {
     "id": 94,
-    "question_zh": "梁家輝喺《寒戰》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"Cold War\"?",
+    "question_zh": "《寒戰》係邊度出品？",
+    "question_en": "Where was \"Cold War\" produced?",
     "options_zh": [
-      "配角C",
-      "主角",
-      "配角B",
-      "配角A"
+      "香港",
+      "美國",
+      "中國",
+      "台灣"
     ],
     "options_en": [
-      "Supporting C",
-      "Main Character",
-      "Supporting B",
-      "Supporting A"
+      "Hong Kong",
+      "USA",
+      "China",
+      "Taiwan"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
   },
   {
     "id": 95,
-    "question_zh": "梁家輝喺《寒戰》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"Cold War\"?",
+    "question_zh": "《寒戰》係邊度出品？",
+    "question_en": "Where was \"Cold War\" produced?",
     "options_zh": [
-      "配角C",
-      "配角A",
-      "配角B",
-      "主角"
+      "台灣",
+      "中國",
+      "香港",
+      "美國"
     ],
     "options_en": [
-      "Supporting C",
-      "Supporting A",
-      "Supporting B",
-      "Main Character"
+      "Taiwan",
+      "China",
+      "Hong Kong",
+      "USA"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
   },
   {
     "id": 96,
-    "question_zh": "《寒戰》係咩類型嘅電影？",
-    "question_en": "What genre is \"Cold War\"?",
+    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
     "options_zh": [
-      "動畫",
-      "劇情",
-      "紀錄片",
-      "音樂劇"
+      "非常出色",
+      "唔好",
+      "麻麻地",
+      "普通"
     ],
     "options_en": [
-      "Animation",
-      "Drama",
-      "Documentary",
-      "Musical"
+      "Excellent",
+      "Bad",
+      "So-so",
+      "Average"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
-  },
-  {
-    "id": 97,
-    "question_zh": "《寒戰》係咩類型嘅電影？",
-    "question_en": "What genre is \"Cold War\"?",
-    "options_zh": [
-      "動畫",
-      "音樂劇",
-      "紀錄片",
-      "劇情"
-    ],
-    "options_en": [
-      "Animation",
-      "Musical",
-      "Documentary",
-      "Drama"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
-  },
-  {
-    "id": 98,
-    "question_zh": "《寒戰》係咩類型嘅電影？",
-    "question_en": "What genre is \"Cold War\"?",
-    "options_zh": [
-      "紀錄片",
-      "動畫",
-      "音樂劇",
-      "劇情"
-    ],
-    "options_en": [
-      "Documentary",
-      "Animation",
-      "Musical",
-      "Drama"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
     "difficulty": 3
   },
   {
-    "id": 99,
-    "question_zh": "《寒戰》係咩類型嘅電影？",
-    "question_en": "What genre is \"Cold War\"?",
+    "id": 97,
+    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
     "options_zh": [
-      "劇情",
-      "動畫",
-      "音樂劇",
-      "紀錄片"
+      "唔好",
+      "非常出色",
+      "普通",
+      "麻麻地"
     ],
     "options_en": [
-      "Drama",
-      "Animation",
-      "Musical",
-      "Documentary"
+      "Bad",
+      "Excellent",
+      "Average",
+      "So-so"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
     "difficulty": 1
   },
   {
-    "id": 100,
-    "question_zh": "《寒戰》係咩類型嘅電影？",
-    "question_en": "What genre is \"Cold War\"?",
+    "id": 98,
+    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
     "options_zh": [
-      "紀錄片",
-      "音樂劇",
-      "劇情",
-      "動畫"
+      "非常出色",
+      "麻麻地",
+      "普通",
+      "唔好"
     ],
     "options_en": [
-      "Documentary",
-      "Musical",
-      "Drama",
-      "Animation"
+      "Excellent",
+      "So-so",
+      "Average",
+      "Bad"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
     "difficulty": 2
+  },
+  {
+    "id": 99,
+    "question_zh": "你會推薦《寒戰》俾朋友？",
+    "question_en": "Would you recommend \"Cold War\" to friends?",
+    "options_zh": [
+      "會，非常推薦",
+      "唔會",
+      "睇情況",
+      "唔知"
+    ],
+    "options_en": [
+      "Yes, highly recommended",
+      "No",
+      "Depends",
+      "Unknown"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
+  },
+  {
+    "id": 100,
+    "question_zh": "你會推薦《寒戰》俾朋友？",
+    "question_en": "Would you recommend \"Cold War\" to friends?",
+    "options_zh": [
+      "睇情況",
+      "唔知",
+      "唔會",
+      "會，非常推薦"
+    ],
+    "options_en": [
+      "Depends",
+      "Unknown",
+      "No",
+      "Yes, highly recommended"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
   }
 ]

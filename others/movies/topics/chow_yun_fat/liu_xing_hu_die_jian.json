@@ -1,61 +1,19 @@
 [
   {
     "id": 1,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "臥虎藏龍",
-      "流星蝴蝶劍",
-      "英雄本色",
-      "賭神"
-    ],
-    "options_en": [
-      "God of Gamblers",
-      "Killer Butterfly",
-      "A Better Tomorrow",
-      "Let the Bullets Fly"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
-    "explanation_en": "The correct answer is 'Killer Butterfly'.",
-    "difficulty": 2
-  },
-  {
-    "id": 2,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "臥虎藏龍",
-      "賭神",
-      "英雄本色",
-      "流星蝴蝶劍"
-    ],
-    "options_en": [
-      "God of Gamblers",
-      "Let the Bullets Fly",
-      "A Better Tomorrow",
-      "Killer Butterfly"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
-    "explanation_en": "The correct answer is 'Killer Butterfly'.",
-    "difficulty": 3
-  },
-  {
-    "id": 3,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
+    "question_zh": "以下邊部電影係周潤發主演嘅？（流星蝴蝶劍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Killer Butterfly)",
     "options_zh": [
       "流星蝴蝶劍",
-      "賭神",
-      "英雄本色",
-      "臥虎藏龍"
+      "其他電影X",
+      "其他電影Z",
+      "其他電影Y"
     ],
     "options_en": [
       "Killer Butterfly",
-      "A Better Tomorrow",
-      "Let the Bullets Fly",
-      "God of Gamblers"
+      "Other Movie X",
+      "Other Movie Z",
+      "Other Movie Y"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「流星蝴蝶劍」。",
@@ -63,1195 +21,943 @@
     "difficulty": 1
   },
   {
-    "id": 4,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
+    "id": 2,
+    "question_zh": "以下邊部電影係周潤發主演嘅？（流星蝴蝶劍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Killer Butterfly)",
     "options_zh": [
-      "賭神",
-      "英雄本色",
-      "讓子彈飛",
-      "流星蝴蝶劍"
+      "其他電影Y",
+      "其他電影Z",
+      "流星蝴蝶劍",
+      "其他電影X"
     ],
     "options_en": [
-      "Let the Bullets Fly",
-      "Crouching Tiger, Hidden Dragon",
-      "God of Gamblers",
-      "Killer Butterfly"
+      "Other Movie Y",
+      "Other Movie Z",
+      "Killer Butterfly",
+      "Other Movie X"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「流星蝴蝶劍」。",
     "explanation_en": "The correct answer is 'Killer Butterfly'.",
     "difficulty": 2
   },
   {
-    "id": 5,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
+    "id": 3,
+    "question_zh": "以下邊部電影係周潤發主演嘅？（流星蝴蝶劍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Killer Butterfly)",
     "options_zh": [
-      "流星蝴蝶劍",
-      "臥虎藏龍",
-      "賭神",
-      "讓子彈飛"
+      "其他電影Y",
+      "其他電影X",
+      "其他電影Z",
+      "流星蝴蝶劍"
     ],
     "options_en": [
-      "Killer Butterfly",
-      "Crouching Tiger, Hidden Dragon",
-      "God of Gamblers",
-      "A Better Tomorrow"
+      "Other Movie Y",
+      "Other Movie X",
+      "Other Movie Z",
+      "Killer Butterfly"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「流星蝴蝶劍」。",
     "explanation_en": "The correct answer is 'Killer Butterfly'.",
     "difficulty": 3
+  },
+  {
+    "id": 4,
+    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
+    "question_en": "What year was \"Killer Butterfly\" released?",
+    "options_zh": [
+      "1973年",
+      "1978年",
+      "1981年",
+      "1976年"
+    ],
+    "options_en": [
+      "1973",
+      "1978",
+      "1981",
+      "1976"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1976年」。",
+    "explanation_en": "The correct answer is '1976'.",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
+    "question_en": "What year was \"Killer Butterfly\" released?",
+    "options_zh": [
+      "1981年",
+      "1978年",
+      "1973年",
+      "1976年"
+    ],
+    "options_en": [
+      "1981",
+      "1978",
+      "1973",
+      "1976"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1976年」。",
+    "explanation_en": "The correct answer is '1976'.",
+    "difficulty": 2
   },
   {
     "id": 6,
     "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
     "question_en": "What year was \"Killer Butterfly\" released?",
     "options_zh": [
-      "1973年",
-      "1974年",
+      "1978年",
       "1976年",
-      "1978年"
+      "1981年",
+      "1973年"
     ],
     "options_en": [
-      "1973",
-      "1974",
+      "1978",
       "1976",
-      "1978"
+      "1981",
+      "1973"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「1976年」。",
     "explanation_en": "The correct answer is '1976'.",
-    "difficulty": 1
+    "difficulty": 3
   },
   {
     "id": 7,
-    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
-    "question_en": "What year was \"Killer Butterfly\" released?",
+    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
+    "question_en": "Who directed \"Killer Butterfly\"?",
     "options_zh": [
-      "1979年",
-      "1974年",
-      "1976年",
-      "1973年"
+      "楚原",
+      "劉偉強",
+      "杜琪峰",
+      "王晶"
     ],
     "options_en": [
-      "1979",
-      "1974",
-      "1976",
-      "1973"
+      "楚原",
+      "Andrew Lau",
+      "Johnnie To",
+      "Wong Jing"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「1976年」。",
-    "explanation_en": "The correct answer is '1976'.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "正確答案係「楚原」。",
+    "explanation_en": "The correct answer is '楚原'.",
+    "difficulty": 1
   },
   {
     "id": 8,
-    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
-    "question_en": "What year was \"Killer Butterfly\" released?",
+    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
+    "question_en": "Who directed \"Killer Butterfly\"?",
     "options_zh": [
-      "1974年",
-      "1976年",
-      "1979年",
-      "1978年"
+      "王晶",
+      "杜琪峰",
+      "楚原",
+      "劉偉強"
     ],
     "options_en": [
-      "1974",
-      "1976",
-      "1979",
-      "1978"
+      "Wong Jing",
+      "Johnnie To",
+      "楚原",
+      "Andrew Lau"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「1976年」。",
-    "explanation_en": "The correct answer is '1976'.",
-    "difficulty": 3
+    "answer": 2,
+    "explanation_zh": "正確答案係「楚原」。",
+    "explanation_en": "The correct answer is '楚原'.",
+    "difficulty": 2
   },
   {
     "id": 9,
-    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
-    "question_en": "What year was \"Killer Butterfly\" released?",
+    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
+    "question_en": "Who directed \"Killer Butterfly\"?",
     "options_zh": [
-      "1973年",
-      "1976年",
-      "1979年",
-      "1978年"
+      "王晶",
+      "楚原",
+      "杜琪峰",
+      "劉偉強"
     ],
     "options_en": [
-      "1973",
-      "1976",
-      "1979",
-      "1978"
+      "Wong Jing",
+      "楚原",
+      "Johnnie To",
+      "Andrew Lau"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「1976年」。",
-    "explanation_en": "The correct answer is '1976'.",
-    "difficulty": 1
+    "explanation_zh": "正確答案係「楚原」。",
+    "explanation_en": "The correct answer is '楚原'.",
+    "difficulty": 3
   },
   {
     "id": 10,
-    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
-    "question_en": "What year was \"Killer Butterfly\" released?",
+    "question_zh": "《流星蝴蝶劍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Killer Butterfly\"?",
     "options_zh": [
-      "1976年",
-      "1974年",
-      "1979年",
-      "1973年"
+      "唔係",
+      "只係客串",
+      "唔知",
+      "係"
     ],
     "options_en": [
-      "1976",
-      "1974",
-      "1979",
-      "1973"
+      "No",
+      "Cameo only",
+      "Unknown",
+      "Yes"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「1976年」。",
-    "explanation_en": "The correct answer is '1976'.",
-    "difficulty": 2
+    "answer": 3,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
   },
   {
     "id": 11,
-    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
-    "question_en": "Who directed \"Killer Butterfly\"?",
+    "question_zh": "《流星蝴蝶劍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Killer Butterfly\"?",
     "options_zh": [
-      "劉偉強",
-      "導演",
-      "杜琪峰",
-      "王晶"
+      "係",
+      "唔係",
+      "只係客串",
+      "唔知"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Director",
-      "Johnnie To",
-      "Wong Jing"
+      "Yes",
+      "No",
+      "Cameo only",
+      "Unknown"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 2
   },
   {
     "id": 12,
-    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
-    "question_en": "Who directed \"Killer Butterfly\"?",
+    "question_zh": "《流星蝴蝶劍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Killer Butterfly\"?",
     "options_zh": [
-      "杜琪峰",
-      "導演",
-      "劉偉強",
-      "王晶"
+      "只係客串",
+      "唔係",
+      "係",
+      "唔知"
     ],
     "options_en": [
-      "Johnnie To",
-      "Director",
-      "Andrew Lau",
-      "Wong Jing"
+      "Cameo only",
+      "No",
+      "Yes",
+      "Unknown"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "answer": 2,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
   },
   {
     "id": 13,
-    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
-    "question_en": "Who directed \"Killer Butterfly\"?",
+    "question_zh": "《流星蝴蝶劍》係邊度出品？",
+    "question_en": "Where was \"Killer Butterfly\" produced?",
     "options_zh": [
-      "劉偉強",
-      "導演",
-      "杜琪峰",
-      "王晶"
+      "美國",
+      "中國",
+      "香港",
+      "台灣"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Director",
-      "Johnnie To",
-      "Wong Jing"
+      "USA",
+      "China",
+      "Hong Kong",
+      "Taiwan"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
   },
   {
     "id": 14,
-    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
-    "question_en": "Who directed \"Killer Butterfly\"?",
+    "question_zh": "《流星蝴蝶劍》係邊度出品？",
+    "question_en": "Where was \"Killer Butterfly\" produced?",
     "options_zh": [
-      "劉偉強",
-      "導演",
-      "王晶",
-      "杜琪峰"
+      "香港",
+      "台灣",
+      "美國",
+      "中國"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Director",
-      "Wong Jing",
-      "Johnnie To"
+      "Hong Kong",
+      "Taiwan",
+      "USA",
+      "China"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
   },
   {
     "id": 15,
-    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
-    "question_en": "Who directed \"Killer Butterfly\"?",
+    "question_zh": "《流星蝴蝶劍》係邊度出品？",
+    "question_en": "Where was \"Killer Butterfly\" produced?",
     "options_zh": [
-      "導演",
-      "杜琪峰",
-      "劉偉強",
-      "王晶"
+      "香港",
+      "中國",
+      "台灣",
+      "美國"
     ],
     "options_en": [
-      "Director",
-      "Johnnie To",
-      "Andrew Lau",
-      "Wong Jing"
+      "Hong Kong",
+      "China",
+      "Taiwan",
+      "USA"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
   },
   {
     "id": 16,
-    "question_zh": "周潤發喺《流星蝴蝶劍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Killer Butterfly\"?",
+    "question_zh": "周潤發喺《流星蝴蝶劍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Killer Butterfly\"?",
     "options_zh": [
-      "主角",
-      "配角A",
-      "配角B",
-      "配角C"
+      "非常出色",
+      "麻麻地",
+      "唔好",
+      "普通"
     ],
     "options_en": [
-      "Main Character",
-      "Supporting A",
-      "Supporting B",
-      "Supporting C"
+      "Excellent",
+      "So-so",
+      "Bad",
+      "Average"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 1
   },
   {
     "id": 17,
-    "question_zh": "周潤發喺《流星蝴蝶劍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Killer Butterfly\"?",
+    "question_zh": "周潤發喺《流星蝴蝶劍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Killer Butterfly\"?",
     "options_zh": [
-      "主角",
-      "配角A",
-      "配角C",
-      "配角B"
+      "麻麻地",
+      "唔好",
+      "普通",
+      "非常出色"
     ],
     "options_en": [
-      "Main Character",
-      "Supporting A",
-      "Supporting C",
-      "Supporting B"
+      "So-so",
+      "Bad",
+      "Average",
+      "Excellent"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 2
   },
   {
     "id": 18,
-    "question_zh": "周潤發喺《流星蝴蝶劍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Killer Butterfly\"?",
+    "question_zh": "周潤發喺《流星蝴蝶劍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Killer Butterfly\"?",
     "options_zh": [
-      "配角A",
-      "主角",
-      "配角B",
-      "配角C"
+      "非常出色",
+      "唔好",
+      "普通",
+      "麻麻地"
     ],
     "options_en": [
-      "Supporting A",
-      "Main Character",
-      "Supporting B",
-      "Supporting C"
+      "Excellent",
+      "Bad",
+      "Average",
+      "So-so"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 3
   },
   {
     "id": 19,
-    "question_zh": "周潤發喺《流星蝴蝶劍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Killer Butterfly\"?",
+    "question_zh": "你會推薦《流星蝴蝶劍》俾朋友？",
+    "question_en": "Would you recommend \"Killer Butterfly\" to friends?",
     "options_zh": [
-      "配角A",
-      "配角B",
-      "配角C",
-      "主角"
+      "會，非常推薦",
+      "唔會",
+      "睇情況",
+      "唔知"
     ],
     "options_en": [
-      "Supporting A",
-      "Supporting B",
-      "Supporting C",
-      "Main Character"
+      "Yes, highly recommended",
+      "No",
+      "Depends",
+      "Unknown"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
   },
   {
     "id": 20,
-    "question_zh": "周潤發喺《流星蝴蝶劍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Killer Butterfly\"?",
+    "question_zh": "你會推薦《流星蝴蝶劍》俾朋友？",
+    "question_en": "Would you recommend \"Killer Butterfly\" to friends?",
     "options_zh": [
-      "配角C",
-      "配角A",
-      "主角",
-      "配角B"
+      "睇情況",
+      "唔知",
+      "唔會",
+      "會，非常推薦"
     ],
     "options_en": [
-      "Supporting C",
-      "Supporting A",
-      "Main Character",
-      "Supporting B"
+      "Depends",
+      "Unknown",
+      "No",
+      "Yes, highly recommended"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "answer": 3,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 2
   },
   {
     "id": 21,
-    "question_zh": "《流星蝴蝶劍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Killer Butterfly\"?",
+    "question_zh": "以下邊部電影係周潤發主演嘅？（流星蝴蝶劍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Killer Butterfly)",
     "options_zh": [
-      "紀錄片",
-      "音樂劇",
-      "動畫",
-      "劇情"
+      "其他電影Z",
+      "其他電影X",
+      "其他電影Y",
+      "流星蝴蝶劍"
     ],
     "options_en": [
-      "Documentary",
-      "Musical",
-      "Animation",
-      "Drama"
+      "Other Movie Z",
+      "Other Movie X",
+      "Other Movie Y",
+      "Killer Butterfly"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
+    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
+    "explanation_en": "The correct answer is 'Killer Butterfly'.",
+    "difficulty": 3
   },
   {
     "id": 22,
-    "question_zh": "《流星蝴蝶劍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Killer Butterfly\"?",
+    "question_zh": "以下邊部電影係周潤發主演嘅？（流星蝴蝶劍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Killer Butterfly)",
     "options_zh": [
-      "紀錄片",
-      "劇情",
-      "音樂劇",
-      "動畫"
+      "其他電影Y",
+      "其他電影X",
+      "其他電影Z",
+      "流星蝴蝶劍"
     ],
     "options_en": [
-      "Documentary",
-      "Drama",
-      "Musical",
-      "Animation"
+      "Other Movie Y",
+      "Other Movie X",
+      "Other Movie Z",
+      "Killer Butterfly"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
+    "answer": 3,
+    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
+    "explanation_en": "The correct answer is 'Killer Butterfly'.",
+    "difficulty": 1
   },
   {
     "id": 23,
-    "question_zh": "《流星蝴蝶劍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Killer Butterfly\"?",
+    "question_zh": "以下邊部電影係周潤發主演嘅？（流星蝴蝶劍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Killer Butterfly)",
     "options_zh": [
-      "音樂劇",
-      "動畫",
-      "劇情",
-      "紀錄片"
+      "其他電影Z",
+      "其他電影Y",
+      "其他電影X",
+      "流星蝴蝶劍"
     ],
     "options_en": [
-      "Musical",
-      "Animation",
-      "Drama",
-      "Documentary"
+      "Other Movie Z",
+      "Other Movie Y",
+      "Other Movie X",
+      "Killer Butterfly"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
+    "answer": 3,
+    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
+    "explanation_en": "The correct answer is 'Killer Butterfly'.",
+    "difficulty": 2
   },
   {
     "id": 24,
-    "question_zh": "《流星蝴蝶劍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Killer Butterfly\"?",
+    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
+    "question_en": "What year was \"Killer Butterfly\" released?",
     "options_zh": [
-      "劇情",
-      "音樂劇",
-      "紀錄片",
-      "動畫"
+      "1981年",
+      "1976年",
+      "1973年",
+      "1978年"
     ],
     "options_en": [
-      "Drama",
-      "Musical",
-      "Documentary",
-      "Animation"
+      "1981",
+      "1976",
+      "1973",
+      "1978"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
+    "answer": 1,
+    "explanation_zh": "正確答案係「1976年」。",
+    "explanation_en": "The correct answer is '1976'.",
+    "difficulty": 3
   },
   {
     "id": 25,
-    "question_zh": "《流星蝴蝶劍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Killer Butterfly\"?",
+    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
+    "question_en": "What year was \"Killer Butterfly\" released?",
     "options_zh": [
-      "音樂劇",
-      "動畫",
-      "紀錄片",
-      "劇情"
+      "1978年",
+      "1973年",
+      "1981年",
+      "1976年"
     ],
     "options_en": [
-      "Musical",
-      "Animation",
-      "Documentary",
-      "Drama"
+      "1978",
+      "1973",
+      "1981",
+      "1976"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
+    "explanation_zh": "正確答案係「1976年」。",
+    "explanation_en": "The correct answer is '1976'.",
+    "difficulty": 1
   },
   {
     "id": 26,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
+    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
+    "question_en": "What year was \"Killer Butterfly\" released?",
     "options_zh": [
-      "流星蝴蝶劍",
-      "讓子彈飛",
-      "賭神",
-      "臥虎藏龍"
+      "1978年",
+      "1981年",
+      "1976年",
+      "1973年"
     ],
     "options_en": [
-      "Killer Butterfly",
-      "God of Gamblers",
-      "Let the Bullets Fly",
-      "Crouching Tiger, Hidden Dragon"
+      "1978",
+      "1981",
+      "1976",
+      "1973"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
-    "explanation_en": "The correct answer is 'Killer Butterfly'.",
-    "difficulty": 3
+    "answer": 2,
+    "explanation_zh": "正確答案係「1976年」。",
+    "explanation_en": "The correct answer is '1976'.",
+    "difficulty": 2
   },
   {
     "id": 27,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
+    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
+    "question_en": "Who directed \"Killer Butterfly\"?",
     "options_zh": [
-      "臥虎藏龍",
-      "流星蝴蝶劍",
-      "英雄本色",
-      "賭神"
+      "劉偉強",
+      "楚原",
+      "杜琪峰",
+      "王晶"
     ],
     "options_en": [
-      "Let the Bullets Fly",
-      "Killer Butterfly",
-      "Crouching Tiger, Hidden Dragon",
-      "God of Gamblers"
+      "Andrew Lau",
+      "楚原",
+      "Johnnie To",
+      "Wong Jing"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
-    "explanation_en": "The correct answer is 'Killer Butterfly'.",
-    "difficulty": 1
+    "explanation_zh": "正確答案係「楚原」。",
+    "explanation_en": "The correct answer is '楚原'.",
+    "difficulty": 3
   },
   {
     "id": 28,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
+    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
+    "question_en": "Who directed \"Killer Butterfly\"?",
     "options_zh": [
-      "流星蝴蝶劍",
-      "臥虎藏龍",
-      "英雄本色",
-      "讓子彈飛"
+      "王晶",
+      "杜琪峰",
+      "劉偉強",
+      "楚原"
     ],
     "options_en": [
-      "Killer Butterfly",
-      "Crouching Tiger, Hidden Dragon",
-      "A Better Tomorrow",
-      "God of Gamblers"
+      "Wong Jing",
+      "Johnnie To",
+      "Andrew Lau",
+      "楚原"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
-    "explanation_en": "The correct answer is 'Killer Butterfly'.",
-    "difficulty": 2
+    "answer": 3,
+    "explanation_zh": "正確答案係「楚原」。",
+    "explanation_en": "The correct answer is '楚原'.",
+    "difficulty": 1
   },
   {
     "id": 29,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
+    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
+    "question_en": "Who directed \"Killer Butterfly\"?",
     "options_zh": [
-      "賭神",
-      "臥虎藏龍",
-      "讓子彈飛",
-      "流星蝴蝶劍"
+      "杜琪峰",
+      "劉偉強",
+      "王晶",
+      "楚原"
     ],
     "options_en": [
-      "God of Gamblers",
-      "Let the Bullets Fly",
-      "A Better Tomorrow",
-      "Killer Butterfly"
+      "Johnnie To",
+      "Andrew Lau",
+      "Wong Jing",
+      "楚原"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
-    "explanation_en": "The correct answer is 'Killer Butterfly'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「楚原」。",
+    "explanation_en": "The correct answer is '楚原'.",
+    "difficulty": 2
   },
   {
     "id": 30,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
+    "question_zh": "《流星蝴蝶劍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Killer Butterfly\"?",
     "options_zh": [
-      "流星蝴蝶劍",
-      "英雄本色",
-      "賭神",
-      "臥虎藏龍"
+      "唔係",
+      "唔知",
+      "只係客串",
+      "係"
     ],
     "options_en": [
-      "Killer Butterfly",
-      "Crouching Tiger, Hidden Dragon",
-      "God of Gamblers",
-      "Let the Bullets Fly"
+      "No",
+      "Unknown",
+      "Cameo only",
+      "Yes"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
-    "explanation_en": "The correct answer is 'Killer Butterfly'.",
-    "difficulty": 1
+    "answer": 3,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
   },
   {
     "id": 31,
-    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
-    "question_en": "What year was \"Killer Butterfly\" released?",
+    "question_zh": "《流星蝴蝶劍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Killer Butterfly\"?",
     "options_zh": [
-      "1976年",
-      "1973年",
-      "1974年",
-      "1978年"
+      "只係客串",
+      "唔知",
+      "唔係",
+      "係"
     ],
     "options_en": [
-      "1976",
-      "1973",
-      "1974",
-      "1978"
+      "Cameo only",
+      "Unknown",
+      "No",
+      "Yes"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「1976年」。",
-    "explanation_en": "The correct answer is '1976'.",
-    "difficulty": 2
+    "answer": 3,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
   },
   {
     "id": 32,
-    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
-    "question_en": "What year was \"Killer Butterfly\" released?",
+    "question_zh": "《流星蝴蝶劍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Killer Butterfly\"?",
     "options_zh": [
-      "1978年",
-      "1974年",
-      "1973年",
-      "1976年"
+      "唔知",
+      "只係客串",
+      "唔係",
+      "係"
     ],
     "options_en": [
-      "1978",
-      "1974",
-      "1973",
-      "1976"
+      "Unknown",
+      "Cameo only",
+      "No",
+      "Yes"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「1976年」。",
-    "explanation_en": "The correct answer is '1976'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 2
   },
   {
     "id": 33,
-    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
-    "question_en": "What year was \"Killer Butterfly\" released?",
+    "question_zh": "《流星蝴蝶劍》係邊度出品？",
+    "question_en": "Where was \"Killer Butterfly\" produced?",
     "options_zh": [
-      "1978年",
-      "1976年",
-      "1973年",
-      "1974年"
+      "台灣",
+      "美國",
+      "香港",
+      "中國"
     ],
     "options_en": [
-      "1978",
-      "1976",
-      "1973",
-      "1974"
+      "Taiwan",
+      "USA",
+      "Hong Kong",
+      "China"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「1976年」。",
-    "explanation_en": "The correct answer is '1976'.",
-    "difficulty": 1
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
   },
   {
     "id": 34,
-    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
-    "question_en": "What year was \"Killer Butterfly\" released?",
+    "question_zh": "《流星蝴蝶劍》係邊度出品？",
+    "question_en": "Where was \"Killer Butterfly\" produced?",
     "options_zh": [
-      "1976年",
-      "1973年",
-      "1974年",
-      "1979年"
+      "中國",
+      "台灣",
+      "美國",
+      "香港"
     ],
     "options_en": [
-      "1976",
-      "1973",
-      "1974",
-      "1979"
+      "China",
+      "Taiwan",
+      "USA",
+      "Hong Kong"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「1976年」。",
-    "explanation_en": "The correct answer is '1976'.",
-    "difficulty": 2
+    "answer": 3,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
   },
   {
     "id": 35,
-    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
-    "question_en": "What year was \"Killer Butterfly\" released?",
+    "question_zh": "《流星蝴蝶劍》係邊度出品？",
+    "question_en": "Where was \"Killer Butterfly\" produced?",
     "options_zh": [
-      "1976年",
-      "1979年",
-      "1973年",
-      "1978年"
+      "台灣",
+      "美國",
+      "中國",
+      "香港"
     ],
     "options_en": [
-      "1976",
-      "1979",
-      "1973",
-      "1978"
+      "Taiwan",
+      "USA",
+      "China",
+      "Hong Kong"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「1976年」。",
-    "explanation_en": "The correct answer is '1976'.",
-    "difficulty": 3
+    "answer": 3,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
   },
   {
     "id": 36,
-    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
-    "question_en": "Who directed \"Killer Butterfly\"?",
+    "question_zh": "周潤發喺《流星蝴蝶劍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Killer Butterfly\"?",
     "options_zh": [
-      "杜琪峰",
-      "劉偉強",
-      "王晶",
-      "導演"
+      "非常出色",
+      "麻麻地",
+      "唔好",
+      "普通"
     ],
     "options_en": [
-      "Johnnie To",
-      "Andrew Lau",
-      "Wong Jing",
-      "Director"
+      "Excellent",
+      "So-so",
+      "Bad",
+      "Average"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 3
   },
   {
     "id": 37,
-    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
-    "question_en": "Who directed \"Killer Butterfly\"?",
+    "question_zh": "周潤發喺《流星蝴蝶劍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Killer Butterfly\"?",
     "options_zh": [
-      "劉偉強",
-      "導演",
-      "王晶",
-      "杜琪峰"
+      "唔好",
+      "非常出色",
+      "麻麻地",
+      "普通"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Director",
-      "Wong Jing",
-      "Johnnie To"
+      "Bad",
+      "Excellent",
+      "So-so",
+      "Average"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 1
   },
   {
     "id": 38,
-    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
-    "question_en": "Who directed \"Killer Butterfly\"?",
+    "question_zh": "周潤發喺《流星蝴蝶劍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Killer Butterfly\"?",
     "options_zh": [
-      "劉偉強",
-      "杜琪峰",
-      "王晶",
-      "導演"
+      "唔好",
+      "麻麻地",
+      "普通",
+      "非常出色"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Johnnie To",
-      "Wong Jing",
-      "Director"
+      "Bad",
+      "So-so",
+      "Average",
+      "Excellent"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 2
   },
   {
     "id": 39,
-    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
-    "question_en": "Who directed \"Killer Butterfly\"?",
+    "question_zh": "你會推薦《流星蝴蝶劍》俾朋友？",
+    "question_en": "Would you recommend \"Killer Butterfly\" to friends?",
     "options_zh": [
-      "杜琪峰",
-      "劉偉強",
-      "王晶",
-      "導演"
+      "會，非常推薦",
+      "唔會",
+      "睇情況",
+      "唔知"
     ],
     "options_en": [
-      "Johnnie To",
-      "Andrew Lau",
-      "Wong Jing",
-      "Director"
+      "Yes, highly recommended",
+      "No",
+      "Depends",
+      "Unknown"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
   },
   {
     "id": 40,
-    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
-    "question_en": "Who directed \"Killer Butterfly\"?",
+    "question_zh": "你會推薦《流星蝴蝶劍》俾朋友？",
+    "question_en": "Would you recommend \"Killer Butterfly\" to friends?",
     "options_zh": [
-      "王晶",
-      "劉偉強",
-      "導演",
-      "杜琪峰"
+      "唔會",
+      "唔知",
+      "會，非常推薦",
+      "睇情況"
     ],
     "options_en": [
-      "Wong Jing",
-      "Andrew Lau",
-      "Director",
-      "Johnnie To"
+      "No",
+      "Unknown",
+      "Yes, highly recommended",
+      "Depends"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
   },
   {
     "id": 41,
-    "question_zh": "周潤發喺《流星蝴蝶劍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Killer Butterfly\"?",
+    "question_zh": "以下邊部電影係周潤發主演嘅？（流星蝴蝶劍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Killer Butterfly)",
     "options_zh": [
-      "配角B",
-      "主角",
-      "配角A",
-      "配角C"
+      "其他電影X",
+      "其他電影Z",
+      "流星蝴蝶劍",
+      "其他電影Y"
     ],
     "options_en": [
-      "Supporting B",
-      "Main Character",
-      "Supporting A",
-      "Supporting C"
+      "Other Movie X",
+      "Other Movie Z",
+      "Killer Butterfly",
+      "Other Movie Y"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "answer": 2,
+    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
+    "explanation_en": "The correct answer is 'Killer Butterfly'.",
+    "difficulty": 2
   },
   {
     "id": 42,
-    "question_zh": "周潤發喺《流星蝴蝶劍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Killer Butterfly\"?",
+    "question_zh": "以下邊部電影係周潤發主演嘅？（流星蝴蝶劍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Killer Butterfly)",
     "options_zh": [
-      "配角A",
-      "主角",
-      "配角C",
-      "配角B"
-    ],
-    "options_en": [
-      "Supporting A",
-      "Main Character",
-      "Supporting C",
-      "Supporting B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
-  },
-  {
-    "id": 43,
-    "question_zh": "周潤發喺《流星蝴蝶劍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Killer Butterfly\"?",
-    "options_zh": [
-      "配角B",
-      "主角",
-      "配角A",
-      "配角C"
-    ],
-    "options_en": [
-      "Supporting B",
-      "Main Character",
-      "Supporting A",
-      "Supporting C"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
-  },
-  {
-    "id": 44,
-    "question_zh": "周潤發喺《流星蝴蝶劍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Killer Butterfly\"?",
-    "options_zh": [
-      "主角",
-      "配角C",
-      "配角B",
-      "配角A"
-    ],
-    "options_en": [
-      "Main Character",
-      "Supporting C",
-      "Supporting B",
-      "Supporting A"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
-  },
-  {
-    "id": 45,
-    "question_zh": "周潤發喺《流星蝴蝶劍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Killer Butterfly\"?",
-    "options_zh": [
-      "主角",
-      "配角C",
-      "配角B",
-      "配角A"
-    ],
-    "options_en": [
-      "Main Character",
-      "Supporting C",
-      "Supporting B",
-      "Supporting A"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
-  },
-  {
-    "id": 46,
-    "question_zh": "《流星蝴蝶劍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Killer Butterfly\"?",
-    "options_zh": [
-      "動畫",
-      "紀錄片",
-      "音樂劇",
-      "劇情"
-    ],
-    "options_en": [
-      "Animation",
-      "Documentary",
-      "Musical",
-      "Drama"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
-  },
-  {
-    "id": 47,
-    "question_zh": "《流星蝴蝶劍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Killer Butterfly\"?",
-    "options_zh": [
-      "音樂劇",
-      "劇情",
-      "動畫",
-      "紀錄片"
-    ],
-    "options_en": [
-      "Musical",
-      "Drama",
-      "Animation",
-      "Documentary"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
-  },
-  {
-    "id": 48,
-    "question_zh": "《流星蝴蝶劍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Killer Butterfly\"?",
-    "options_zh": [
-      "動畫",
-      "紀錄片",
-      "音樂劇",
-      "劇情"
-    ],
-    "options_en": [
-      "Animation",
-      "Documentary",
-      "Musical",
-      "Drama"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
-  },
-  {
-    "id": 49,
-    "question_zh": "《流星蝴蝶劍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Killer Butterfly\"?",
-    "options_zh": [
-      "劇情",
-      "紀錄片",
-      "動畫",
-      "音樂劇"
-    ],
-    "options_en": [
-      "Drama",
-      "Documentary",
-      "Animation",
-      "Musical"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
-  },
-  {
-    "id": 50,
-    "question_zh": "《流星蝴蝶劍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Killer Butterfly\"?",
-    "options_zh": [
-      "動畫",
-      "音樂劇",
-      "劇情",
-      "紀錄片"
-    ],
-    "options_en": [
-      "Animation",
-      "Musical",
-      "Drama",
-      "Documentary"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
-  },
-  {
-    "id": 51,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "流星蝴蝶劍",
-      "臥虎藏龍",
-      "賭神",
-      "英雄本色"
-    ],
-    "options_en": [
-      "Killer Butterfly",
-      "God of Gamblers",
-      "Crouching Tiger, Hidden Dragon",
-      "Let the Bullets Fly"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
-    "explanation_en": "The correct answer is 'Killer Butterfly'.",
-    "difficulty": 1
-  },
-  {
-    "id": 52,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "流星蝴蝶劍",
-      "賭神",
-      "臥虎藏龍",
-      "讓子彈飛"
-    ],
-    "options_en": [
-      "Killer Butterfly",
-      "God of Gamblers",
-      "Crouching Tiger, Hidden Dragon",
-      "A Better Tomorrow"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
-    "explanation_en": "The correct answer is 'Killer Butterfly'.",
-    "difficulty": 2
-  },
-  {
-    "id": 53,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "流星蝴蝶劍",
-      "臥虎藏龍",
-      "英雄本色",
-      "賭神"
-    ],
-    "options_en": [
-      "Killer Butterfly",
-      "A Better Tomorrow",
-      "Let the Bullets Fly",
-      "God of Gamblers"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
-    "explanation_en": "The correct answer is 'Killer Butterfly'.",
-    "difficulty": 3
-  },
-  {
-    "id": 54,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "臥虎藏龍",
-      "讓子彈飛",
-      "英雄本色",
+      "其他電影Y",
+      "其他電影X",
+      "其他電影Z",
       "流星蝴蝶劍"
     ],
     "options_en": [
-      "A Better Tomorrow",
-      "Let the Bullets Fly",
-      "God of Gamblers",
+      "Other Movie Y",
+      "Other Movie X",
+      "Other Movie Z",
       "Killer Butterfly"
     ],
     "answer": 3,
     "explanation_zh": "正確答案係「流星蝴蝶劍」。",
     "explanation_en": "The correct answer is 'Killer Butterfly'.",
-    "difficulty": 1
-  },
-  {
-    "id": 55,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "流星蝴蝶劍",
-      "讓子彈飛",
-      "英雄本色",
-      "賭神"
-    ],
-    "options_en": [
-      "Killer Butterfly",
-      "Let the Bullets Fly",
-      "God of Gamblers",
-      "Crouching Tiger, Hidden Dragon"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
-    "explanation_en": "The correct answer is 'Killer Butterfly'.",
-    "difficulty": 2
-  },
-  {
-    "id": 56,
-    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
-    "question_en": "What year was \"Killer Butterfly\" released?",
-    "options_zh": [
-      "1976年",
-      "1974年",
-      "1973年",
-      "1978年"
-    ],
-    "options_en": [
-      "1976",
-      "1974",
-      "1973",
-      "1978"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「1976年」。",
-    "explanation_en": "The correct answer is '1976'.",
     "difficulty": 3
   },
   {
-    "id": 57,
-    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
-    "question_en": "What year was \"Killer Butterfly\" released?",
+    "id": 43,
+    "question_zh": "以下邊部電影係周潤發主演嘅？（流星蝴蝶劍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Killer Butterfly)",
     "options_zh": [
-      "1976年",
-      "1978年",
-      "1974年",
-      "1973年"
+      "其他電影Y",
+      "其他電影Z",
+      "流星蝴蝶劍",
+      "其他電影X"
     ],
     "options_en": [
-      "1976",
-      "1978",
-      "1974",
-      "1973"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「1976年」。",
-    "explanation_en": "The correct answer is '1976'.",
-    "difficulty": 1
-  },
-  {
-    "id": 58,
-    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
-    "question_en": "What year was \"Killer Butterfly\" released?",
-    "options_zh": [
-      "1978年",
-      "1979年",
-      "1973年",
-      "1976年"
-    ],
-    "options_en": [
-      "1978",
-      "1979",
-      "1973",
-      "1976"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「1976年」。",
-    "explanation_en": "The correct answer is '1976'.",
-    "difficulty": 2
-  },
-  {
-    "id": 59,
-    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
-    "question_en": "What year was \"Killer Butterfly\" released?",
-    "options_zh": [
-      "1979年",
-      "1974年",
-      "1976年",
-      "1973年"
-    ],
-    "options_en": [
-      "1979",
-      "1974",
-      "1976",
-      "1973"
+      "Other Movie Y",
+      "Other Movie Z",
+      "Killer Butterfly",
+      "Other Movie X"
     ],
     "answer": 2,
+    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
+    "explanation_en": "The correct answer is 'Killer Butterfly'.",
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
+    "question_en": "What year was \"Killer Butterfly\" released?",
+    "options_zh": [
+      "1976年",
+      "1981年",
+      "1978年",
+      "1973年"
+    ],
+    "options_en": [
+      "1976",
+      "1981",
+      "1978",
+      "1973"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「1976年」。",
+    "explanation_en": "The correct answer is '1976'.",
+    "difficulty": 2
+  },
+  {
+    "id": 45,
+    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
+    "question_en": "What year was \"Killer Butterfly\" released?",
+    "options_zh": [
+      "1981年",
+      "1976年",
+      "1978年",
+      "1973年"
+    ],
+    "options_en": [
+      "1981",
+      "1976",
+      "1978",
+      "1973"
+    ],
+    "answer": 1,
     "explanation_zh": "正確答案係「1976年」。",
     "explanation_en": "The correct answer is '1976'.",
     "difficulty": 3
   },
   {
-    "id": 60,
+    "id": 46,
     "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
     "question_en": "What year was \"Killer Butterfly\" released?",
     "options_zh": [
       "1976年",
-      "1974年",
-      "1979年",
+      "1978年",
+      "1981年",
       "1973年"
     ],
     "options_en": [
       "1976",
-      "1974",
-      "1979",
+      "1978",
+      "1981",
       "1973"
     ],
     "answer": 0,
@@ -1260,524 +966,839 @@
     "difficulty": 1
   },
   {
-    "id": 61,
+    "id": 47,
     "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
     "question_en": "Who directed \"Killer Butterfly\"?",
     "options_zh": [
       "杜琪峰",
-      "導演",
+      "王晶",
+      "楚原",
+      "劉偉強"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Wong Jing",
+      "楚原",
+      "Andrew Lau"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「楚原」。",
+    "explanation_en": "The correct answer is '楚原'.",
+    "difficulty": 2
+  },
+  {
+    "id": 48,
+    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
+    "question_en": "Who directed \"Killer Butterfly\"?",
+    "options_zh": [
+      "楚原",
+      "杜琪峰",
+      "王晶",
+      "劉偉強"
+    ],
+    "options_en": [
+      "楚原",
+      "Johnnie To",
+      "Wong Jing",
+      "Andrew Lau"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「楚原」。",
+    "explanation_en": "The correct answer is '楚原'.",
+    "difficulty": 3
+  },
+  {
+    "id": 49,
+    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
+    "question_en": "Who directed \"Killer Butterfly\"?",
+    "options_zh": [
+      "杜琪峰",
+      "楚原",
       "王晶",
       "劉偉強"
     ],
     "options_en": [
       "Johnnie To",
-      "Director",
+      "楚原",
       "Wong Jing",
       "Andrew Lau"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
+    "explanation_zh": "正確答案係「楚原」。",
+    "explanation_en": "The correct answer is '楚原'.",
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question_zh": "《流星蝴蝶劍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Killer Butterfly\"?",
+    "options_zh": [
+      "只係客串",
+      "唔知",
+      "唔係",
+      "係"
+    ],
+    "options_en": [
+      "Cameo only",
+      "Unknown",
+      "No",
+      "Yes"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
     "difficulty": 2
+  },
+  {
+    "id": 51,
+    "question_zh": "《流星蝴蝶劍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Killer Butterfly\"?",
+    "options_zh": [
+      "係",
+      "只係客串",
+      "唔係",
+      "唔知"
+    ],
+    "options_en": [
+      "Yes",
+      "Cameo only",
+      "No",
+      "Unknown"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
+  },
+  {
+    "id": 52,
+    "question_zh": "《流星蝴蝶劍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Killer Butterfly\"?",
+    "options_zh": [
+      "唔係",
+      "唔知",
+      "係",
+      "只係客串"
+    ],
+    "options_en": [
+      "No",
+      "Unknown",
+      "Yes",
+      "Cameo only"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
+  },
+  {
+    "id": 53,
+    "question_zh": "《流星蝴蝶劍》係邊度出品？",
+    "question_en": "Where was \"Killer Butterfly\" produced?",
+    "options_zh": [
+      "香港",
+      "台灣",
+      "中國",
+      "美國"
+    ],
+    "options_en": [
+      "Hong Kong",
+      "Taiwan",
+      "China",
+      "USA"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
+  },
+  {
+    "id": 54,
+    "question_zh": "《流星蝴蝶劍》係邊度出品？",
+    "question_en": "Where was \"Killer Butterfly\" produced?",
+    "options_zh": [
+      "台灣",
+      "香港",
+      "美國",
+      "中國"
+    ],
+    "options_en": [
+      "Taiwan",
+      "Hong Kong",
+      "USA",
+      "China"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
+  },
+  {
+    "id": 55,
+    "question_zh": "《流星蝴蝶劍》係邊度出品？",
+    "question_en": "Where was \"Killer Butterfly\" produced?",
+    "options_zh": [
+      "中國",
+      "香港",
+      "美國",
+      "台灣"
+    ],
+    "options_en": [
+      "China",
+      "Hong Kong",
+      "USA",
+      "Taiwan"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
+  },
+  {
+    "id": 56,
+    "question_zh": "周潤發喺《流星蝴蝶劍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Killer Butterfly\"?",
+    "options_zh": [
+      "麻麻地",
+      "普通",
+      "唔好",
+      "非常出色"
+    ],
+    "options_en": [
+      "So-so",
+      "Average",
+      "Bad",
+      "Excellent"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 2
+  },
+  {
+    "id": 57,
+    "question_zh": "周潤發喺《流星蝴蝶劍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Killer Butterfly\"?",
+    "options_zh": [
+      "唔好",
+      "普通",
+      "非常出色",
+      "麻麻地"
+    ],
+    "options_en": [
+      "Bad",
+      "Average",
+      "Excellent",
+      "So-so"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 3
+  },
+  {
+    "id": 58,
+    "question_zh": "周潤發喺《流星蝴蝶劍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Killer Butterfly\"?",
+    "options_zh": [
+      "麻麻地",
+      "非常出色",
+      "唔好",
+      "普通"
+    ],
+    "options_en": [
+      "So-so",
+      "Excellent",
+      "Bad",
+      "Average"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 1
+  },
+  {
+    "id": 59,
+    "question_zh": "你會推薦《流星蝴蝶劍》俾朋友？",
+    "question_en": "Would you recommend \"Killer Butterfly\" to friends?",
+    "options_zh": [
+      "唔知",
+      "睇情況",
+      "唔會",
+      "會，非常推薦"
+    ],
+    "options_en": [
+      "Unknown",
+      "Depends",
+      "No",
+      "Yes, highly recommended"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 2
+  },
+  {
+    "id": 60,
+    "question_zh": "你會推薦《流星蝴蝶劍》俾朋友？",
+    "question_en": "Would you recommend \"Killer Butterfly\" to friends?",
+    "options_zh": [
+      "睇情況",
+      "會，非常推薦",
+      "唔會",
+      "唔知"
+    ],
+    "options_en": [
+      "Depends",
+      "Yes, highly recommended",
+      "No",
+      "Unknown"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
+  },
+  {
+    "id": 61,
+    "question_zh": "以下邊部電影係周潤發主演嘅？（流星蝴蝶劍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Killer Butterfly)",
+    "options_zh": [
+      "其他電影Z",
+      "流星蝴蝶劍",
+      "其他電影X",
+      "其他電影Y"
+    ],
+    "options_en": [
+      "Other Movie Z",
+      "Killer Butterfly",
+      "Other Movie X",
+      "Other Movie Y"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
+    "explanation_en": "The correct answer is 'Killer Butterfly'.",
+    "difficulty": 1
   },
   {
     "id": 62,
-    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
-    "question_en": "Who directed \"Killer Butterfly\"?",
+    "question_zh": "以下邊部電影係周潤發主演嘅？（流星蝴蝶劍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Killer Butterfly)",
     "options_zh": [
-      "劉偉強",
-      "杜琪峰",
-      "王晶",
-      "導演"
+      "其他電影Z",
+      "其他電影Y",
+      "其他電影X",
+      "流星蝴蝶劍"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Johnnie To",
-      "Wong Jing",
-      "Director"
+      "Other Movie Z",
+      "Other Movie Y",
+      "Other Movie X",
+      "Killer Butterfly"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
+    "explanation_en": "The correct answer is 'Killer Butterfly'.",
+    "difficulty": 2
   },
   {
     "id": 63,
-    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
-    "question_en": "Who directed \"Killer Butterfly\"?",
+    "question_zh": "以下邊部電影係周潤發主演嘅？（流星蝴蝶劍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Killer Butterfly)",
     "options_zh": [
-      "導演",
-      "王晶",
-      "劉偉強",
-      "杜琪峰"
+      "流星蝴蝶劍",
+      "其他電影Y",
+      "其他電影X",
+      "其他電影Z"
     ],
     "options_en": [
-      "Director",
-      "Wong Jing",
-      "Andrew Lau",
-      "Johnnie To"
+      "Killer Butterfly",
+      "Other Movie Y",
+      "Other Movie X",
+      "Other Movie Z"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
+    "explanation_en": "The correct answer is 'Killer Butterfly'.",
+    "difficulty": 3
   },
   {
     "id": 64,
-    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
-    "question_en": "Who directed \"Killer Butterfly\"?",
-    "options_zh": [
-      "杜琪峰",
-      "劉偉強",
-      "王晶",
-      "導演"
-    ],
-    "options_en": [
-      "Johnnie To",
-      "Andrew Lau",
-      "Wong Jing",
-      "Director"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
-  },
-  {
-    "id": 65,
-    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
-    "question_en": "Who directed \"Killer Butterfly\"?",
-    "options_zh": [
-      "導演",
-      "劉偉強",
-      "杜琪峰",
-      "王晶"
-    ],
-    "options_en": [
-      "Director",
-      "Andrew Lau",
-      "Johnnie To",
-      "Wong Jing"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
-  },
-  {
-    "id": 66,
-    "question_zh": "周潤發喺《流星蝴蝶劍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Killer Butterfly\"?",
-    "options_zh": [
-      "主角",
-      "配角C",
-      "配角A",
-      "配角B"
-    ],
-    "options_en": [
-      "Main Character",
-      "Supporting C",
-      "Supporting A",
-      "Supporting B"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
-  },
-  {
-    "id": 67,
-    "question_zh": "周潤發喺《流星蝴蝶劍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Killer Butterfly\"?",
-    "options_zh": [
-      "配角A",
-      "主角",
-      "配角C",
-      "配角B"
-    ],
-    "options_en": [
-      "Supporting A",
-      "Main Character",
-      "Supporting C",
-      "Supporting B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
-  },
-  {
-    "id": 68,
-    "question_zh": "周潤發喺《流星蝴蝶劍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Killer Butterfly\"?",
-    "options_zh": [
-      "配角C",
-      "配角A",
-      "主角",
-      "配角B"
-    ],
-    "options_en": [
-      "Supporting C",
-      "Supporting A",
-      "Main Character",
-      "Supporting B"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
-  },
-  {
-    "id": 69,
-    "question_zh": "周潤發喺《流星蝴蝶劍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Killer Butterfly\"?",
-    "options_zh": [
-      "配角C",
-      "主角",
-      "配角B",
-      "配角A"
-    ],
-    "options_en": [
-      "Supporting C",
-      "Main Character",
-      "Supporting B",
-      "Supporting A"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
-  },
-  {
-    "id": 70,
-    "question_zh": "周潤發喺《流星蝴蝶劍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Killer Butterfly\"?",
-    "options_zh": [
-      "配角C",
-      "主角",
-      "配角B",
-      "配角A"
-    ],
-    "options_en": [
-      "Supporting C",
-      "Main Character",
-      "Supporting B",
-      "Supporting A"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
-  },
-  {
-    "id": 71,
-    "question_zh": "《流星蝴蝶劍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Killer Butterfly\"?",
-    "options_zh": [
-      "紀錄片",
-      "劇情",
-      "動畫",
-      "音樂劇"
-    ],
-    "options_en": [
-      "Documentary",
-      "Drama",
-      "Animation",
-      "Musical"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
-  },
-  {
-    "id": 72,
-    "question_zh": "《流星蝴蝶劍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Killer Butterfly\"?",
-    "options_zh": [
-      "紀錄片",
-      "音樂劇",
-      "動畫",
-      "劇情"
-    ],
-    "options_en": [
-      "Documentary",
-      "Musical",
-      "Animation",
-      "Drama"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
-  },
-  {
-    "id": 73,
-    "question_zh": "《流星蝴蝶劍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Killer Butterfly\"?",
-    "options_zh": [
-      "動畫",
-      "音樂劇",
-      "紀錄片",
-      "劇情"
-    ],
-    "options_en": [
-      "Animation",
-      "Musical",
-      "Documentary",
-      "Drama"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
-  },
-  {
-    "id": 74,
-    "question_zh": "《流星蝴蝶劍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Killer Butterfly\"?",
-    "options_zh": [
-      "劇情",
-      "音樂劇",
-      "紀錄片",
-      "動畫"
-    ],
-    "options_en": [
-      "Drama",
-      "Musical",
-      "Documentary",
-      "Animation"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
-  },
-  {
-    "id": 75,
-    "question_zh": "《流星蝴蝶劍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Killer Butterfly\"?",
-    "options_zh": [
-      "動畫",
-      "劇情",
-      "紀錄片",
-      "音樂劇"
-    ],
-    "options_en": [
-      "Animation",
-      "Drama",
-      "Documentary",
-      "Musical"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
-  },
-  {
-    "id": 76,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "讓子彈飛",
-      "臥虎藏龍",
-      "賭神",
-      "流星蝴蝶劍"
-    ],
-    "options_en": [
-      "Crouching Tiger, Hidden Dragon",
-      "A Better Tomorrow",
-      "God of Gamblers",
-      "Killer Butterfly"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
-    "explanation_en": "The correct answer is 'Killer Butterfly'.",
-    "difficulty": 2
-  },
-  {
-    "id": 77,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "流星蝴蝶劍",
-      "賭神",
-      "臥虎藏龍",
-      "讓子彈飛"
-    ],
-    "options_en": [
-      "Killer Butterfly",
-      "God of Gamblers",
-      "A Better Tomorrow",
-      "Crouching Tiger, Hidden Dragon"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
-    "explanation_en": "The correct answer is 'Killer Butterfly'.",
-    "difficulty": 3
-  },
-  {
-    "id": 78,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "流星蝴蝶劍",
-      "英雄本色",
-      "賭神",
-      "臥虎藏龍"
-    ],
-    "options_en": [
-      "Killer Butterfly",
-      "A Better Tomorrow",
-      "Crouching Tiger, Hidden Dragon",
-      "Let the Bullets Fly"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
-    "explanation_en": "The correct answer is 'Killer Butterfly'.",
-    "difficulty": 1
-  },
-  {
-    "id": 79,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "英雄本色",
-      "流星蝴蝶劍",
-      "賭神",
-      "臥虎藏龍"
-    ],
-    "options_en": [
-      "Let the Bullets Fly",
-      "Killer Butterfly",
-      "God of Gamblers",
-      "A Better Tomorrow"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
-    "explanation_en": "The correct answer is 'Killer Butterfly'.",
-    "difficulty": 2
-  },
-  {
-    "id": 80,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "英雄本色",
-      "臥虎藏龍",
-      "賭神",
-      "流星蝴蝶劍"
-    ],
-    "options_en": [
-      "Crouching Tiger, Hidden Dragon",
-      "A Better Tomorrow",
-      "Let the Bullets Fly",
-      "Killer Butterfly"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
-    "explanation_en": "The correct answer is 'Killer Butterfly'.",
-    "difficulty": 3
-  },
-  {
-    "id": 81,
-    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
-    "question_en": "What year was \"Killer Butterfly\" released?",
-    "options_zh": [
-      "1976年",
-      "1979年",
-      "1978年",
-      "1973年"
-    ],
-    "options_en": [
-      "1976",
-      "1979",
-      "1978",
-      "1973"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「1976年」。",
-    "explanation_en": "The correct answer is '1976'.",
-    "difficulty": 1
-  },
-  {
-    "id": 82,
-    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
-    "question_en": "What year was \"Killer Butterfly\" released?",
-    "options_zh": [
-      "1978年",
-      "1976年",
-      "1979年",
-      "1974年"
-    ],
-    "options_en": [
-      "1978",
-      "1976",
-      "1979",
-      "1974"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「1976年」。",
-    "explanation_en": "The correct answer is '1976'.",
-    "difficulty": 2
-  },
-  {
-    "id": 83,
     "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
     "question_en": "What year was \"Killer Butterfly\" released?",
     "options_zh": [
       "1973年",
-      "1979年",
+      "1976年",
       "1978年",
-      "1976年"
+      "1981年"
     ],
     "options_en": [
       "1973",
-      "1979",
+      "1976",
       "1978",
-      "1976"
+      "1981"
     ],
-    "answer": 3,
+    "answer": 1,
+    "explanation_zh": "正確答案係「1976年」。",
+    "explanation_en": "The correct answer is '1976'.",
+    "difficulty": 1
+  },
+  {
+    "id": 65,
+    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
+    "question_en": "What year was \"Killer Butterfly\" released?",
+    "options_zh": [
+      "1978年",
+      "1981年",
+      "1976年",
+      "1973年"
+    ],
+    "options_en": [
+      "1978",
+      "1981",
+      "1976",
+      "1973"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「1976年」。",
+    "explanation_en": "The correct answer is '1976'.",
+    "difficulty": 2
+  },
+  {
+    "id": 66,
+    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
+    "question_en": "What year was \"Killer Butterfly\" released?",
+    "options_zh": [
+      "1973年",
+      "1981年",
+      "1976年",
+      "1978年"
+    ],
+    "options_en": [
+      "1973",
+      "1981",
+      "1976",
+      "1978"
+    ],
+    "answer": 2,
     "explanation_zh": "正確答案係「1976年」。",
     "explanation_en": "The correct answer is '1976'.",
     "difficulty": 3
+  },
+  {
+    "id": 67,
+    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
+    "question_en": "Who directed \"Killer Butterfly\"?",
+    "options_zh": [
+      "杜琪峰",
+      "劉偉強",
+      "楚原",
+      "王晶"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Andrew Lau",
+      "楚原",
+      "Wong Jing"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「楚原」。",
+    "explanation_en": "The correct answer is '楚原'.",
+    "difficulty": 1
+  },
+  {
+    "id": 68,
+    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
+    "question_en": "Who directed \"Killer Butterfly\"?",
+    "options_zh": [
+      "楚原",
+      "杜琪峰",
+      "劉偉強",
+      "王晶"
+    ],
+    "options_en": [
+      "楚原",
+      "Johnnie To",
+      "Andrew Lau",
+      "Wong Jing"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「楚原」。",
+    "explanation_en": "The correct answer is '楚原'.",
+    "difficulty": 2
+  },
+  {
+    "id": 69,
+    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
+    "question_en": "Who directed \"Killer Butterfly\"?",
+    "options_zh": [
+      "劉偉強",
+      "王晶",
+      "楚原",
+      "杜琪峰"
+    ],
+    "options_en": [
+      "Andrew Lau",
+      "Wong Jing",
+      "楚原",
+      "Johnnie To"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「楚原」。",
+    "explanation_en": "The correct answer is '楚原'.",
+    "difficulty": 3
+  },
+  {
+    "id": 70,
+    "question_zh": "《流星蝴蝶劍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Killer Butterfly\"?",
+    "options_zh": [
+      "只係客串",
+      "係",
+      "唔係",
+      "唔知"
+    ],
+    "options_en": [
+      "Cameo only",
+      "Yes",
+      "No",
+      "Unknown"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
+  },
+  {
+    "id": 71,
+    "question_zh": "《流星蝴蝶劍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Killer Butterfly\"?",
+    "options_zh": [
+      "唔知",
+      "係",
+      "唔係",
+      "只係客串"
+    ],
+    "options_en": [
+      "Unknown",
+      "Yes",
+      "No",
+      "Cameo only"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 2
+  },
+  {
+    "id": 72,
+    "question_zh": "《流星蝴蝶劍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Killer Butterfly\"?",
+    "options_zh": [
+      "只係客串",
+      "唔知",
+      "唔係",
+      "係"
+    ],
+    "options_en": [
+      "Cameo only",
+      "Unknown",
+      "No",
+      "Yes"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
+  },
+  {
+    "id": 73,
+    "question_zh": "《流星蝴蝶劍》係邊度出品？",
+    "question_en": "Where was \"Killer Butterfly\" produced?",
+    "options_zh": [
+      "香港",
+      "台灣",
+      "美國",
+      "中國"
+    ],
+    "options_en": [
+      "Hong Kong",
+      "Taiwan",
+      "USA",
+      "China"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
+  },
+  {
+    "id": 74,
+    "question_zh": "《流星蝴蝶劍》係邊度出品？",
+    "question_en": "Where was \"Killer Butterfly\" produced?",
+    "options_zh": [
+      "美國",
+      "中國",
+      "香港",
+      "台灣"
+    ],
+    "options_en": [
+      "USA",
+      "China",
+      "Hong Kong",
+      "Taiwan"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
+  },
+  {
+    "id": 75,
+    "question_zh": "《流星蝴蝶劍》係邊度出品？",
+    "question_en": "Where was \"Killer Butterfly\" produced?",
+    "options_zh": [
+      "中國",
+      "香港",
+      "台灣",
+      "美國"
+    ],
+    "options_en": [
+      "China",
+      "Hong Kong",
+      "Taiwan",
+      "USA"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
+  },
+  {
+    "id": 76,
+    "question_zh": "周潤發喺《流星蝴蝶劍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Killer Butterfly\"?",
+    "options_zh": [
+      "非常出色",
+      "麻麻地",
+      "普通",
+      "唔好"
+    ],
+    "options_en": [
+      "Excellent",
+      "So-so",
+      "Average",
+      "Bad"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 1
+  },
+  {
+    "id": 77,
+    "question_zh": "周潤發喺《流星蝴蝶劍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Killer Butterfly\"?",
+    "options_zh": [
+      "非常出色",
+      "唔好",
+      "普通",
+      "麻麻地"
+    ],
+    "options_en": [
+      "Excellent",
+      "Bad",
+      "Average",
+      "So-so"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 2
+  },
+  {
+    "id": 78,
+    "question_zh": "周潤發喺《流星蝴蝶劍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Killer Butterfly\"?",
+    "options_zh": [
+      "唔好",
+      "麻麻地",
+      "普通",
+      "非常出色"
+    ],
+    "options_en": [
+      "Bad",
+      "So-so",
+      "Average",
+      "Excellent"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 3
+  },
+  {
+    "id": 79,
+    "question_zh": "你會推薦《流星蝴蝶劍》俾朋友？",
+    "question_en": "Would you recommend \"Killer Butterfly\" to friends?",
+    "options_zh": [
+      "唔知",
+      "唔會",
+      "睇情況",
+      "會，非常推薦"
+    ],
+    "options_en": [
+      "Unknown",
+      "No",
+      "Depends",
+      "Yes, highly recommended"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
+  },
+  {
+    "id": 80,
+    "question_zh": "你會推薦《流星蝴蝶劍》俾朋友？",
+    "question_en": "Would you recommend \"Killer Butterfly\" to friends?",
+    "options_zh": [
+      "會，非常推薦",
+      "睇情況",
+      "唔知",
+      "唔會"
+    ],
+    "options_en": [
+      "Yes, highly recommended",
+      "Depends",
+      "Unknown",
+      "No"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 2
+  },
+  {
+    "id": 81,
+    "question_zh": "以下邊部電影係周潤發主演嘅？（流星蝴蝶劍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Killer Butterfly)",
+    "options_zh": [
+      "其他電影Y",
+      "其他電影Z",
+      "其他電影X",
+      "流星蝴蝶劍"
+    ],
+    "options_en": [
+      "Other Movie Y",
+      "Other Movie Z",
+      "Other Movie X",
+      "Killer Butterfly"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
+    "explanation_en": "The correct answer is 'Killer Butterfly'.",
+    "difficulty": 3
+  },
+  {
+    "id": 82,
+    "question_zh": "以下邊部電影係周潤發主演嘅？（流星蝴蝶劍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Killer Butterfly)",
+    "options_zh": [
+      "流星蝴蝶劍",
+      "其他電影Y",
+      "其他電影X",
+      "其他電影Z"
+    ],
+    "options_en": [
+      "Killer Butterfly",
+      "Other Movie Y",
+      "Other Movie X",
+      "Other Movie Z"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
+    "explanation_en": "The correct answer is 'Killer Butterfly'.",
+    "difficulty": 1
+  },
+  {
+    "id": 83,
+    "question_zh": "以下邊部電影係周潤發主演嘅？（流星蝴蝶劍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Killer Butterfly)",
+    "options_zh": [
+      "其他電影Y",
+      "其他電影Z",
+      "其他電影X",
+      "流星蝴蝶劍"
+    ],
+    "options_en": [
+      "Other Movie Y",
+      "Other Movie Z",
+      "Other Movie X",
+      "Killer Butterfly"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「流星蝴蝶劍」。",
+    "explanation_en": "The correct answer is 'Killer Butterfly'.",
+    "difficulty": 2
   },
   {
     "id": 84,
     "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
     "question_en": "What year was \"Killer Butterfly\" released?",
     "options_zh": [
+      "1981年",
+      "1978年",
       "1976年",
-      "1979年",
-      "1974年",
       "1973年"
     ],
     "options_en": [
+      "1981",
+      "1978",
       "1976",
-      "1979",
-      "1974",
       "1973"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「1976年」。",
     "explanation_en": "The correct answer is '1976'.",
-    "difficulty": 1
+    "difficulty": 3
   },
   {
     "id": 85,
     "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
     "question_en": "What year was \"Killer Butterfly\" released?",
     "options_zh": [
-      "1976年",
-      "1978年",
       "1973年",
-      "1979年"
+      "1978年",
+      "1981年",
+      "1976年"
+    ],
+    "options_en": [
+      "1973",
+      "1978",
+      "1981",
+      "1976"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1976年」。",
+    "explanation_en": "The correct answer is '1976'.",
+    "difficulty": 1
+  },
+  {
+    "id": 86,
+    "question_zh": "《流星蝴蝶劍》係邊年上映嘅？",
+    "question_en": "What year was \"Killer Butterfly\" released?",
+    "options_zh": [
+      "1976年",
+      "1981年",
+      "1978年",
+      "1973年"
     ],
     "options_en": [
       "1976",
+      "1981",
       "1978",
-      "1973",
-      "1979"
+      "1973"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「1976年」。",
@@ -1785,318 +1806,297 @@
     "difficulty": 2
   },
   {
-    "id": 86,
-    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
-    "question_en": "Who directed \"Killer Butterfly\"?",
-    "options_zh": [
-      "導演",
-      "劉偉強",
-      "王晶",
-      "杜琪峰"
-    ],
-    "options_en": [
-      "Director",
-      "Andrew Lau",
-      "Wong Jing",
-      "Johnnie To"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
-  },
-  {
     "id": 87,
     "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
     "question_en": "Who directed \"Killer Butterfly\"?",
     "options_zh": [
-      "劉偉強",
-      "導演",
+      "楚原",
       "杜琪峰",
+      "劉偉強",
       "王晶"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Director",
+      "楚原",
       "Johnnie To",
+      "Andrew Lau",
       "Wong Jing"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "正確答案係「楚原」。",
+    "explanation_en": "The correct answer is '楚原'.",
+    "difficulty": 3
   },
   {
     "id": 88,
     "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
     "question_en": "Who directed \"Killer Butterfly\"?",
     "options_zh": [
-      "劉偉強",
       "王晶",
       "杜琪峰",
-      "導演"
+      "劉偉強",
+      "楚原"
     ],
     "options_en": [
-      "Andrew Lau",
       "Wong Jing",
       "Johnnie To",
-      "Director"
+      "Andrew Lau",
+      "楚原"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
+    "explanation_zh": "正確答案係「楚原」。",
+    "explanation_en": "The correct answer is '楚原'.",
+    "difficulty": 1
   },
   {
     "id": 89,
     "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
     "question_en": "Who directed \"Killer Butterfly\"?",
     "options_zh": [
-      "導演",
       "劉偉強",
       "杜琪峰",
+      "楚原",
       "王晶"
     ],
     "options_en": [
-      "Director",
       "Andrew Lau",
       "Johnnie To",
+      "楚原",
       "Wong Jing"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
+    "answer": 2,
+    "explanation_zh": "正確答案係「楚原」。",
+    "explanation_en": "The correct answer is '楚原'.",
+    "difficulty": 2
   },
   {
     "id": 90,
-    "question_zh": "《流星蝴蝶劍》嘅導演係邊個？",
-    "question_en": "Who directed \"Killer Butterfly\"?",
+    "question_zh": "《流星蝴蝶劍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Killer Butterfly\"?",
     "options_zh": [
-      "王晶",
-      "導演",
-      "杜琪峰",
-      "劉偉強"
+      "唔知",
+      "唔係",
+      "係",
+      "只係客串"
     ],
     "options_en": [
-      "Wong Jing",
-      "Director",
-      "Johnnie To",
-      "Andrew Lau"
+      "Unknown",
+      "No",
+      "Yes",
+      "Cameo only"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "answer": 2,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
   },
   {
     "id": 91,
-    "question_zh": "周潤發喺《流星蝴蝶劍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Killer Butterfly\"?",
+    "question_zh": "《流星蝴蝶劍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Killer Butterfly\"?",
     "options_zh": [
-      "配角B",
-      "主角",
-      "配角C",
-      "配角A"
+      "唔知",
+      "唔係",
+      "係",
+      "只係客串"
     ],
     "options_en": [
-      "Supporting B",
-      "Main Character",
-      "Supporting C",
-      "Supporting A"
+      "Unknown",
+      "No",
+      "Yes",
+      "Cameo only"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
+    "answer": 2,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
   },
   {
     "id": 92,
-    "question_zh": "周潤發喺《流星蝴蝶劍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Killer Butterfly\"?",
+    "question_zh": "《流星蝴蝶劍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Killer Butterfly\"?",
     "options_zh": [
-      "配角A",
-      "主角",
-      "配角B",
-      "配角C"
+      "只係客串",
+      "唔係",
+      "係",
+      "唔知"
     ],
     "options_en": [
-      "Supporting A",
-      "Main Character",
-      "Supporting B",
-      "Supporting C"
+      "Cameo only",
+      "No",
+      "Yes",
+      "Unknown"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "answer": 2,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 2
   },
   {
     "id": 93,
-    "question_zh": "周潤發喺《流星蝴蝶劍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Killer Butterfly\"?",
+    "question_zh": "《流星蝴蝶劍》係邊度出品？",
+    "question_en": "Where was \"Killer Butterfly\" produced?",
     "options_zh": [
-      "配角B",
-      "配角C",
-      "主角",
-      "配角A"
+      "香港",
+      "中國",
+      "台灣",
+      "美國"
     ],
     "options_en": [
-      "Supporting B",
-      "Supporting C",
-      "Main Character",
-      "Supporting A"
+      "Hong Kong",
+      "China",
+      "Taiwan",
+      "USA"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
   },
   {
     "id": 94,
-    "question_zh": "周潤發喺《流星蝴蝶劍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Killer Butterfly\"?",
+    "question_zh": "《流星蝴蝶劍》係邊度出品？",
+    "question_en": "Where was \"Killer Butterfly\" produced?",
     "options_zh": [
-      "配角B",
-      "主角",
-      "配角A",
-      "配角C"
+      "美國",
+      "台灣",
+      "香港",
+      "中國"
     ],
     "options_en": [
-      "Supporting B",
-      "Main Character",
-      "Supporting A",
-      "Supporting C"
+      "USA",
+      "Taiwan",
+      "Hong Kong",
+      "China"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
   },
   {
     "id": 95,
-    "question_zh": "周潤發喺《流星蝴蝶劍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Killer Butterfly\"?",
+    "question_zh": "《流星蝴蝶劍》係邊度出品？",
+    "question_en": "Where was \"Killer Butterfly\" produced?",
     "options_zh": [
-      "配角B",
-      "配角C",
-      "配角A",
-      "主角"
+      "香港",
+      "台灣",
+      "中國",
+      "美國"
     ],
     "options_en": [
-      "Supporting B",
-      "Supporting C",
-      "Supporting A",
-      "Main Character"
+      "Hong Kong",
+      "Taiwan",
+      "China",
+      "USA"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
   },
   {
     "id": 96,
-    "question_zh": "《流星蝴蝶劍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Killer Butterfly\"?",
+    "question_zh": "周潤發喺《流星蝴蝶劍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Killer Butterfly\"?",
     "options_zh": [
-      "音樂劇",
-      "動畫",
-      "劇情",
-      "紀錄片"
+      "普通",
+      "唔好",
+      "非常出色",
+      "麻麻地"
     ],
     "options_en": [
-      "Musical",
-      "Animation",
-      "Drama",
-      "Documentary"
+      "Average",
+      "Bad",
+      "Excellent",
+      "So-so"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
-  },
-  {
-    "id": 97,
-    "question_zh": "《流星蝴蝶劍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Killer Butterfly\"?",
-    "options_zh": [
-      "紀錄片",
-      "動畫",
-      "音樂劇",
-      "劇情"
-    ],
-    "options_en": [
-      "Documentary",
-      "Animation",
-      "Musical",
-      "Drama"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
-  },
-  {
-    "id": 98,
-    "question_zh": "《流星蝴蝶劍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Killer Butterfly\"?",
-    "options_zh": [
-      "劇情",
-      "紀錄片",
-      "動畫",
-      "音樂劇"
-    ],
-    "options_en": [
-      "Drama",
-      "Documentary",
-      "Animation",
-      "Musical"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
     "difficulty": 3
   },
   {
-    "id": 99,
-    "question_zh": "《流星蝴蝶劍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Killer Butterfly\"?",
+    "id": 97,
+    "question_zh": "周潤發喺《流星蝴蝶劍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Killer Butterfly\"?",
     "options_zh": [
-      "劇情",
-      "紀錄片",
-      "動畫",
-      "音樂劇"
+      "唔好",
+      "非常出色",
+      "普通",
+      "麻麻地"
     ],
     "options_en": [
-      "Drama",
-      "Documentary",
-      "Animation",
-      "Musical"
+      "Bad",
+      "Excellent",
+      "Average",
+      "So-so"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
     "difficulty": 1
   },
   {
-    "id": 100,
-    "question_zh": "《流星蝴蝶劍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Killer Butterfly\"?",
+    "id": 98,
+    "question_zh": "周潤發喺《流星蝴蝶劍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Killer Butterfly\"?",
     "options_zh": [
-      "劇情",
-      "紀錄片",
-      "動畫",
-      "音樂劇"
+      "麻麻地",
+      "唔好",
+      "普通",
+      "非常出色"
     ],
     "options_en": [
-      "Drama",
-      "Documentary",
-      "Animation",
-      "Musical"
+      "So-so",
+      "Bad",
+      "Average",
+      "Excellent"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
     "difficulty": 2
+  },
+  {
+    "id": 99,
+    "question_zh": "你會推薦《流星蝴蝶劍》俾朋友？",
+    "question_en": "Would you recommend \"Killer Butterfly\" to friends?",
+    "options_zh": [
+      "唔會",
+      "睇情況",
+      "會，非常推薦",
+      "唔知"
+    ],
+    "options_en": [
+      "No",
+      "Depends",
+      "Yes, highly recommended",
+      "Unknown"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
+  },
+  {
+    "id": 100,
+    "question_zh": "你會推薦《流星蝴蝶劍》俾朋友？",
+    "question_en": "Would you recommend \"Killer Butterfly\" to friends?",
+    "options_zh": [
+      "唔會",
+      "睇情況",
+      "會，非常推薦",
+      "唔知"
+    ],
+    "options_en": [
+      "No",
+      "Depends",
+      "Yes, highly recommended",
+      "Unknown"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
   }
 ]

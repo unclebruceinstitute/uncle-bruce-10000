@@ -1,82 +1,40 @@
 [
   {
     "id": 1,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（情人）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (The Lover)",
     "options_zh": [
-      "東邪西毒",
-      "寒戰",
+      "其他電影Y",
       "情人",
-      "黑社會"
+      "其他電影X",
+      "其他電影Z"
     ],
     "options_en": [
-      "Cold War",
-      "Ashes of Time",
+      "Other Movie Y",
       "The Lover",
-      "Prison on Fire"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「情人」。",
-    "explanation_en": "The correct answer is 'The Lover'.",
-    "difficulty": 2
-  },
-  {
-    "id": 2,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
-    "options_zh": [
-      "東邪西毒",
-      "情人",
-      "寒戰",
-      "監獄風雲"
-    ],
-    "options_en": [
-      "Prison on Fire",
-      "The Lover",
-      "Ashes of Time",
-      "Election"
+      "Other Movie X",
+      "Other Movie Z"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「情人」。",
-    "explanation_en": "The correct answer is 'The Lover'.",
-    "difficulty": 3
-  },
-  {
-    "id": 3,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
-    "options_zh": [
-      "東邪西毒",
-      "黑社會",
-      "情人",
-      "監獄風雲"
-    ],
-    "options_en": [
-      "Ashes of Time",
-      "Prison on Fire",
-      "The Lover",
-      "Cold War"
-    ],
-    "answer": 2,
     "explanation_zh": "正確答案係「情人」。",
     "explanation_en": "The correct answer is 'The Lover'.",
     "difficulty": 1
   },
   {
-    "id": 4,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "id": 2,
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（情人）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (The Lover)",
     "options_zh": [
-      "黑社會",
+      "其他電影X",
       "情人",
-      "東邪西毒",
-      "監獄風雲"
+      "其他電影Y",
+      "其他電影Z"
     ],
     "options_en": [
-      "Ashes of Time",
+      "Other Movie X",
       "The Lover",
-      "Prison on Fire",
-      "Election"
+      "Other Movie Y",
+      "Other Movie Z"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「情人」。",
@@ -84,1111 +42,922 @@
     "difficulty": 2
   },
   {
-    "id": 5,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "id": 3,
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（情人）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (The Lover)",
     "options_zh": [
+      "其他電影Y",
       "情人",
-      "寒戰",
-      "監獄風雲",
-      "黑社會"
+      "其他電影X",
+      "其他電影Z"
     ],
     "options_en": [
+      "Other Movie Y",
       "The Lover",
-      "Cold War",
-      "Election",
-      "Ashes of Time"
+      "Other Movie X",
+      "Other Movie Z"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「情人」。",
     "explanation_en": "The correct answer is 'The Lover'.",
     "difficulty": 3
+  },
+  {
+    "id": 4,
+    "question_zh": "《情人》係邊年上映嘅？",
+    "question_en": "What year was \"The Lover\" released?",
+    "options_zh": [
+      "1989年",
+      "1997年",
+      "1992年",
+      "1994年"
+    ],
+    "options_en": [
+      "1989",
+      "1997",
+      "1992",
+      "1994"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「1992年」。",
+    "explanation_en": "The correct answer is '1992'.",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question_zh": "《情人》係邊年上映嘅？",
+    "question_en": "What year was \"The Lover\" released?",
+    "options_zh": [
+      "1994年",
+      "1989年",
+      "1992年",
+      "1997年"
+    ],
+    "options_en": [
+      "1994",
+      "1989",
+      "1992",
+      "1997"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「1992年」。",
+    "explanation_en": "The correct answer is '1992'.",
+    "difficulty": 2
   },
   {
     "id": 6,
     "question_zh": "《情人》係邊年上映嘅？",
     "question_en": "What year was \"The Lover\" released?",
     "options_zh": [
-      "1995年",
+      "1989年",
+      "1997年",
       "1994年",
-      "1992年",
-      "1989年"
+      "1992年"
     ],
     "options_en": [
-      "1995",
+      "1989",
+      "1997",
       "1994",
-      "1992",
-      "1989"
+      "1992"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「1992年」。",
     "explanation_en": "The correct answer is '1992'.",
-    "difficulty": 1
+    "difficulty": 3
   },
   {
     "id": 7,
-    "question_zh": "《情人》係邊年上映嘅？",
-    "question_en": "What year was \"The Lover\" released?",
+    "question_zh": "《情人》嘅導演係邊個？",
+    "question_en": "Who directed \"The Lover\"?",
     "options_zh": [
-      "1990年",
-      "1995年",
-      "1992年",
-      "1994年"
+      "王晶",
+      "讓-雅克·阿諾",
+      "劉偉強",
+      "杜琪峰"
     ],
     "options_en": [
-      "1990",
-      "1995",
-      "1992",
-      "1994"
+      "Wong Jing",
+      "讓-雅克·阿諾",
+      "Andrew Lau",
+      "Johnnie To"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「1992年」。",
-    "explanation_en": "The correct answer is '1992'.",
-    "difficulty": 2
+    "answer": 1,
+    "explanation_zh": "正確答案係「讓-雅克·阿諾」。",
+    "explanation_en": "The correct answer is '讓-雅克·阿諾'.",
+    "difficulty": 1
   },
   {
     "id": 8,
-    "question_zh": "《情人》係邊年上映嘅？",
-    "question_en": "What year was \"The Lover\" released?",
+    "question_zh": "《情人》嘅導演係邊個？",
+    "question_en": "Who directed \"The Lover\"?",
     "options_zh": [
-      "1989年",
-      "1995年",
-      "1990年",
-      "1992年"
+      "劉偉強",
+      "讓-雅克·阿諾",
+      "杜琪峰",
+      "王晶"
     ],
     "options_en": [
-      "1989",
-      "1995",
-      "1990",
-      "1992"
+      "Andrew Lau",
+      "讓-雅克·阿諾",
+      "Johnnie To",
+      "Wong Jing"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「1992年」。",
-    "explanation_en": "The correct answer is '1992'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「讓-雅克·阿諾」。",
+    "explanation_en": "The correct answer is '讓-雅克·阿諾'.",
+    "difficulty": 2
   },
   {
     "id": 9,
-    "question_zh": "《情人》係邊年上映嘅？",
-    "question_en": "What year was \"The Lover\" released?",
+    "question_zh": "《情人》嘅導演係邊個？",
+    "question_en": "Who directed \"The Lover\"?",
     "options_zh": [
-      "1989年",
-      "1994年",
-      "1992年",
-      "1990年"
+      "讓-雅克·阿諾",
+      "劉偉強",
+      "杜琪峰",
+      "王晶"
     ],
     "options_en": [
-      "1989",
-      "1994",
-      "1992",
-      "1990"
+      "讓-雅克·阿諾",
+      "Andrew Lau",
+      "Johnnie To",
+      "Wong Jing"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「1992年」。",
-    "explanation_en": "The correct answer is '1992'.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "正確答案係「讓-雅克·阿諾」。",
+    "explanation_en": "The correct answer is '讓-雅克·阿諾'.",
+    "difficulty": 3
   },
   {
     "id": 10,
-    "question_zh": "《情人》係邊年上映嘅？",
-    "question_en": "What year was \"The Lover\" released?",
+    "question_zh": "《情人》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"The Lover\"?",
     "options_zh": [
-      "1995年",
-      "1994年",
-      "1992年",
-      "1989年"
+      "唔知",
+      "唔係",
+      "係",
+      "只係客串"
     ],
     "options_en": [
-      "1995",
-      "1994",
-      "1992",
-      "1989"
+      "Unknown",
+      "No",
+      "Yes",
+      "Cameo only"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「1992年」。",
-    "explanation_en": "The correct answer is '1992'.",
-    "difficulty": 2
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
   },
   {
     "id": 11,
-    "question_zh": "《情人》嘅導演係邊個？",
-    "question_en": "Who directed \"The Lover\"?",
+    "question_zh": "《情人》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"The Lover\"?",
     "options_zh": [
-      "杜琪峰",
-      "劉偉強",
-      "王晶",
-      "導演"
+      "只係客串",
+      "係",
+      "唔知",
+      "唔係"
     ],
     "options_en": [
-      "Johnnie To",
-      "Andrew Lau",
-      "Wong Jing",
-      "Director"
+      "Cameo only",
+      "Yes",
+      "Unknown",
+      "No"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 2
   },
   {
     "id": 12,
-    "question_zh": "《情人》嘅導演係邊個？",
-    "question_en": "Who directed \"The Lover\"?",
+    "question_zh": "《情人》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"The Lover\"?",
     "options_zh": [
-      "導演",
-      "杜琪峰",
-      "劉偉強",
-      "王晶"
+      "只係客串",
+      "唔係",
+      "係",
+      "唔知"
     ],
     "options_en": [
-      "Director",
-      "Johnnie To",
-      "Andrew Lau",
-      "Wong Jing"
+      "Cameo only",
+      "No",
+      "Yes",
+      "Unknown"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "answer": 2,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
   },
   {
     "id": 13,
-    "question_zh": "《情人》嘅導演係邊個？",
-    "question_en": "Who directed \"The Lover\"?",
+    "question_zh": "《情人》係邊度出品？",
+    "question_en": "Where was \"The Lover\" produced?",
     "options_zh": [
-      "導演",
-      "杜琪峰",
-      "劉偉強",
-      "王晶"
+      "中國",
+      "台灣",
+      "美國",
+      "香港"
     ],
     "options_en": [
-      "Director",
-      "Johnnie To",
-      "Andrew Lau",
-      "Wong Jing"
+      "China",
+      "Taiwan",
+      "USA",
+      "Hong Kong"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
+    "answer": 3,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
   },
   {
     "id": 14,
-    "question_zh": "《情人》嘅導演係邊個？",
-    "question_en": "Who directed \"The Lover\"?",
+    "question_zh": "《情人》係邊度出品？",
+    "question_en": "Where was \"The Lover\" produced?",
     "options_zh": [
-      "導演",
-      "杜琪峰",
-      "劉偉強",
-      "王晶"
+      "台灣",
+      "中國",
+      "美國",
+      "香港"
     ],
     "options_en": [
-      "Director",
-      "Johnnie To",
-      "Andrew Lau",
-      "Wong Jing"
+      "Taiwan",
+      "China",
+      "USA",
+      "Hong Kong"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
+    "answer": 3,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
   },
   {
     "id": 15,
-    "question_zh": "《情人》嘅導演係邊個？",
-    "question_en": "Who directed \"The Lover\"?",
+    "question_zh": "《情人》係邊度出品？",
+    "question_en": "Where was \"The Lover\" produced?",
     "options_zh": [
-      "杜琪峰",
-      "王晶",
-      "導演",
-      "劉偉強"
+      "美國",
+      "中國",
+      "台灣",
+      "香港"
     ],
     "options_en": [
-      "Johnnie To",
-      "Wong Jing",
-      "Director",
-      "Andrew Lau"
+      "USA",
+      "China",
+      "Taiwan",
+      "Hong Kong"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "answer": 3,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
   },
   {
     "id": 16,
-    "question_zh": "梁家輝喺《情人》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"The Lover\"?",
+    "question_zh": "梁家輝喺《情人》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"The Lover\"?",
     "options_zh": [
-      "配角B",
-      "配角A",
-      "主角",
-      "配角C"
+      "普通",
+      "非常出色",
+      "唔好",
+      "麻麻地"
     ],
     "options_en": [
-      "Supporting B",
-      "Supporting A",
-      "Main Character",
-      "Supporting C"
+      "Average",
+      "Excellent",
+      "Bad",
+      "So-so"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 1
   },
   {
     "id": 17,
-    "question_zh": "梁家輝喺《情人》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"The Lover\"?",
+    "question_zh": "梁家輝喺《情人》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"The Lover\"?",
     "options_zh": [
-      "配角B",
-      "配角C",
-      "配角A",
-      "主角"
+      "唔好",
+      "非常出色",
+      "麻麻地",
+      "普通"
     ],
     "options_en": [
-      "Supporting B",
-      "Supporting C",
-      "Supporting A",
-      "Main Character"
+      "Bad",
+      "Excellent",
+      "So-so",
+      "Average"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 2
   },
   {
     "id": 18,
-    "question_zh": "梁家輝喺《情人》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"The Lover\"?",
+    "question_zh": "梁家輝喺《情人》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"The Lover\"?",
     "options_zh": [
-      "主角",
-      "配角C",
-      "配角B",
-      "配角A"
+      "普通",
+      "非常出色",
+      "唔好",
+      "麻麻地"
     ],
     "options_en": [
-      "Main Character",
-      "Supporting C",
-      "Supporting B",
-      "Supporting A"
+      "Average",
+      "Excellent",
+      "Bad",
+      "So-so"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 3
   },
   {
     "id": 19,
-    "question_zh": "梁家輝喺《情人》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"The Lover\"?",
+    "question_zh": "你會推薦《情人》俾朋友？",
+    "question_en": "Would you recommend \"The Lover\" to friends?",
     "options_zh": [
-      "配角C",
-      "配角A",
-      "主角",
-      "配角B"
+      "睇情況",
+      "唔會",
+      "會，非常推薦",
+      "唔知"
     ],
     "options_en": [
-      "Supporting C",
-      "Supporting A",
-      "Main Character",
-      "Supporting B"
+      "Depends",
+      "No",
+      "Yes, highly recommended",
+      "Unknown"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
   },
   {
     "id": 20,
-    "question_zh": "梁家輝喺《情人》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"The Lover\"?",
+    "question_zh": "你會推薦《情人》俾朋友？",
+    "question_en": "Would you recommend \"The Lover\" to friends?",
     "options_zh": [
-      "配角A",
-      "主角",
-      "配角C",
-      "配角B"
+      "睇情況",
+      "會，非常推薦",
+      "唔會",
+      "唔知"
     ],
     "options_en": [
-      "Supporting A",
-      "Main Character",
-      "Supporting C",
-      "Supporting B"
+      "Depends",
+      "Yes, highly recommended",
+      "No",
+      "Unknown"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 2
   },
   {
     "id": 21,
-    "question_zh": "《情人》係咩類型嘅電影？",
-    "question_en": "What genre is \"The Lover\"?",
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（情人）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (The Lover)",
     "options_zh": [
-      "劇情",
-      "紀錄片",
-      "動畫",
-      "音樂劇"
+      "情人",
+      "其他電影Y",
+      "其他電影X",
+      "其他電影Z"
     ],
     "options_en": [
-      "Drama",
-      "Documentary",
-      "Animation",
-      "Musical"
+      "The Lover",
+      "Other Movie Y",
+      "Other Movie X",
+      "Other Movie Z"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
+    "explanation_zh": "正確答案係「情人」。",
+    "explanation_en": "The correct answer is 'The Lover'.",
+    "difficulty": 3
   },
   {
     "id": 22,
-    "question_zh": "《情人》係咩類型嘅電影？",
-    "question_en": "What genre is \"The Lover\"?",
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（情人）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (The Lover)",
     "options_zh": [
-      "動畫",
-      "音樂劇",
-      "紀錄片",
-      "劇情"
+      "其他電影Z",
+      "其他電影Y",
+      "情人",
+      "其他電影X"
     ],
     "options_en": [
-      "Animation",
-      "Musical",
-      "Documentary",
-      "Drama"
+      "Other Movie Z",
+      "Other Movie Y",
+      "The Lover",
+      "Other Movie X"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
+    "answer": 2,
+    "explanation_zh": "正確答案係「情人」。",
+    "explanation_en": "The correct answer is 'The Lover'.",
+    "difficulty": 1
   },
   {
     "id": 23,
-    "question_zh": "《情人》係咩類型嘅電影？",
-    "question_en": "What genre is \"The Lover\"?",
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（情人）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (The Lover)",
     "options_zh": [
-      "紀錄片",
-      "音樂劇",
-      "劇情",
-      "動畫"
+      "其他電影Z",
+      "其他電影X",
+      "情人",
+      "其他電影Y"
     ],
     "options_en": [
-      "Documentary",
-      "Musical",
-      "Drama",
-      "Animation"
+      "Other Movie Z",
+      "Other Movie X",
+      "The Lover",
+      "Other Movie Y"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「情人」。",
+    "explanation_en": "The correct answer is 'The Lover'.",
+    "difficulty": 2
   },
   {
     "id": 24,
-    "question_zh": "《情人》係咩類型嘅電影？",
-    "question_en": "What genre is \"The Lover\"?",
+    "question_zh": "《情人》係邊年上映嘅？",
+    "question_en": "What year was \"The Lover\" released?",
     "options_zh": [
-      "動畫",
-      "音樂劇",
-      "紀錄片",
-      "劇情"
+      "1992年",
+      "1994年",
+      "1997年",
+      "1989年"
     ],
     "options_en": [
-      "Animation",
-      "Musical",
-      "Documentary",
-      "Drama"
+      "1992",
+      "1994",
+      "1997",
+      "1989"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "正確答案係「1992年」。",
+    "explanation_en": "The correct answer is '1992'.",
+    "difficulty": 3
   },
   {
     "id": 25,
-    "question_zh": "《情人》係咩類型嘅電影？",
-    "question_en": "What genre is \"The Lover\"?",
+    "question_zh": "《情人》係邊年上映嘅？",
+    "question_en": "What year was \"The Lover\" released?",
     "options_zh": [
-      "音樂劇",
-      "紀錄片",
-      "劇情",
-      "動畫"
+      "1997年",
+      "1992年",
+      "1994年",
+      "1989年"
     ],
     "options_en": [
-      "Musical",
-      "Documentary",
-      "Drama",
-      "Animation"
+      "1997",
+      "1992",
+      "1994",
+      "1989"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
+    "answer": 1,
+    "explanation_zh": "正確答案係「1992年」。",
+    "explanation_en": "The correct answer is '1992'.",
+    "difficulty": 1
   },
   {
     "id": 26,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "question_zh": "《情人》係邊年上映嘅？",
+    "question_en": "What year was \"The Lover\" released?",
     "options_zh": [
-      "東邪西毒",
-      "監獄風雲",
-      "寒戰",
-      "情人"
+      "1997年",
+      "1992年",
+      "1994年",
+      "1989年"
     ],
     "options_en": [
-      "Cold War",
-      "Election",
-      "Prison on Fire",
-      "The Lover"
+      "1997",
+      "1992",
+      "1994",
+      "1989"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「情人」。",
-    "explanation_en": "The correct answer is 'The Lover'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「1992年」。",
+    "explanation_en": "The correct answer is '1992'.",
+    "difficulty": 2
   },
   {
     "id": 27,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "question_zh": "《情人》嘅導演係邊個？",
+    "question_en": "Who directed \"The Lover\"?",
     "options_zh": [
-      "寒戰",
-      "情人",
-      "監獄風雲",
-      "黑社會"
+      "劉偉強",
+      "王晶",
+      "杜琪峰",
+      "讓-雅克·阿諾"
     ],
     "options_en": [
-      "Election",
-      "The Lover",
-      "Prison on Fire",
-      "Cold War"
+      "Andrew Lau",
+      "Wong Jing",
+      "Johnnie To",
+      "讓-雅克·阿諾"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「情人」。",
-    "explanation_en": "The correct answer is 'The Lover'.",
-    "difficulty": 1
+    "answer": 3,
+    "explanation_zh": "正確答案係「讓-雅克·阿諾」。",
+    "explanation_en": "The correct answer is '讓-雅克·阿諾'.",
+    "difficulty": 3
   },
   {
     "id": 28,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "question_zh": "《情人》嘅導演係邊個？",
+    "question_en": "Who directed \"The Lover\"?",
     "options_zh": [
-      "情人",
-      "東邪西毒",
-      "寒戰",
-      "監獄風雲"
+      "杜琪峰",
+      "王晶",
+      "讓-雅克·阿諾",
+      "劉偉強"
     ],
     "options_en": [
-      "The Lover",
-      "Election",
-      "Cold War",
-      "Prison on Fire"
+      "Johnnie To",
+      "Wong Jing",
+      "讓-雅克·阿諾",
+      "Andrew Lau"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「情人」。",
-    "explanation_en": "The correct answer is 'The Lover'.",
-    "difficulty": 2
+    "answer": 2,
+    "explanation_zh": "正確答案係「讓-雅克·阿諾」。",
+    "explanation_en": "The correct answer is '讓-雅克·阿諾'.",
+    "difficulty": 1
   },
   {
     "id": 29,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "question_zh": "《情人》嘅導演係邊個？",
+    "question_en": "Who directed \"The Lover\"?",
     "options_zh": [
-      "情人",
-      "寒戰",
-      "東邪西毒",
-      "黑社會"
+      "杜琪峰",
+      "讓-雅克·阿諾",
+      "劉偉強",
+      "王晶"
     ],
     "options_en": [
-      "The Lover",
-      "Election",
-      "Prison on Fire",
-      "Cold War"
+      "Johnnie To",
+      "讓-雅克·阿諾",
+      "Andrew Lau",
+      "Wong Jing"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「情人」。",
-    "explanation_en": "The correct answer is 'The Lover'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「讓-雅克·阿諾」。",
+    "explanation_en": "The correct answer is '讓-雅克·阿諾'.",
+    "difficulty": 2
   },
   {
     "id": 30,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "question_zh": "《情人》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"The Lover\"?",
     "options_zh": [
-      "情人",
-      "黑社會",
-      "監獄風雲",
-      "寒戰"
+      "唔係",
+      "只係客串",
+      "係",
+      "唔知"
     ],
     "options_en": [
-      "The Lover",
-      "Election",
-      "Ashes of Time",
-      "Cold War"
+      "No",
+      "Cameo only",
+      "Yes",
+      "Unknown"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「情人」。",
-    "explanation_en": "The correct answer is 'The Lover'.",
-    "difficulty": 1
+    "answer": 2,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
   },
   {
     "id": 31,
-    "question_zh": "《情人》係邊年上映嘅？",
-    "question_en": "What year was \"The Lover\" released?",
+    "question_zh": "《情人》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"The Lover\"?",
     "options_zh": [
-      "1995年",
-      "1989年",
-      "1994年",
-      "1992年"
+      "唔知",
+      "唔係",
+      "係",
+      "只係客串"
     ],
     "options_en": [
-      "1995",
-      "1989",
-      "1994",
-      "1992"
+      "Unknown",
+      "No",
+      "Yes",
+      "Cameo only"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「1992年」。",
-    "explanation_en": "The correct answer is '1992'.",
-    "difficulty": 2
+    "answer": 2,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
   },
   {
     "id": 32,
-    "question_zh": "《情人》係邊年上映嘅？",
-    "question_en": "What year was \"The Lover\" released?",
+    "question_zh": "《情人》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"The Lover\"?",
     "options_zh": [
-      "1989年",
-      "1992年",
-      "1994年",
-      "1990年"
+      "只係客串",
+      "唔知",
+      "唔係",
+      "係"
     ],
     "options_en": [
-      "1989",
-      "1992",
-      "1994",
-      "1990"
+      "Cameo only",
+      "Unknown",
+      "No",
+      "Yes"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「1992年」。",
-    "explanation_en": "The correct answer is '1992'.",
-    "difficulty": 3
+    "answer": 3,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 2
   },
   {
     "id": 33,
-    "question_zh": "《情人》係邊年上映嘅？",
-    "question_en": "What year was \"The Lover\" released?",
+    "question_zh": "《情人》係邊度出品？",
+    "question_en": "Where was \"The Lover\" produced?",
     "options_zh": [
-      "1994年",
-      "1990年",
-      "1995年",
-      "1992年"
+      "中國",
+      "台灣",
+      "香港",
+      "美國"
     ],
     "options_en": [
-      "1994",
-      "1990",
-      "1995",
-      "1992"
+      "China",
+      "Taiwan",
+      "Hong Kong",
+      "USA"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「1992年」。",
-    "explanation_en": "The correct answer is '1992'.",
-    "difficulty": 1
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
   },
   {
     "id": 34,
-    "question_zh": "《情人》係邊年上映嘅？",
-    "question_en": "What year was \"The Lover\" released?",
+    "question_zh": "《情人》係邊度出品？",
+    "question_en": "Where was \"The Lover\" produced?",
     "options_zh": [
-      "1994年",
-      "1992年",
-      "1989年",
-      "1990年"
+      "中國",
+      "香港",
+      "美國",
+      "台灣"
     ],
     "options_en": [
-      "1994",
-      "1992",
-      "1989",
-      "1990"
+      "China",
+      "Hong Kong",
+      "USA",
+      "Taiwan"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「1992年」。",
-    "explanation_en": "The correct answer is '1992'.",
-    "difficulty": 2
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
   },
   {
     "id": 35,
-    "question_zh": "《情人》係邊年上映嘅？",
-    "question_en": "What year was \"The Lover\" released?",
+    "question_zh": "《情人》係邊度出品？",
+    "question_en": "Where was \"The Lover\" produced?",
     "options_zh": [
-      "1994年",
-      "1992年",
-      "1995年",
-      "1990年"
+      "中國",
+      "美國",
+      "台灣",
+      "香港"
     ],
     "options_en": [
-      "1994",
-      "1992",
-      "1995",
-      "1990"
+      "China",
+      "USA",
+      "Taiwan",
+      "Hong Kong"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「1992年」。",
-    "explanation_en": "The correct answer is '1992'.",
-    "difficulty": 3
+    "answer": 3,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
   },
   {
     "id": 36,
-    "question_zh": "《情人》嘅導演係邊個？",
-    "question_en": "Who directed \"The Lover\"?",
+    "question_zh": "梁家輝喺《情人》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"The Lover\"?",
     "options_zh": [
-      "杜琪峰",
-      "劉偉強",
-      "王晶",
-      "導演"
+      "唔好",
+      "麻麻地",
+      "非常出色",
+      "普通"
     ],
     "options_en": [
-      "Johnnie To",
-      "Andrew Lau",
-      "Wong Jing",
-      "Director"
+      "Bad",
+      "So-so",
+      "Excellent",
+      "Average"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "answer": 2,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 3
   },
   {
     "id": 37,
-    "question_zh": "《情人》嘅導演係邊個？",
-    "question_en": "Who directed \"The Lover\"?",
+    "question_zh": "梁家輝喺《情人》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"The Lover\"?",
     "options_zh": [
-      "劉偉強",
-      "導演",
-      "杜琪峰",
-      "王晶"
+      "普通",
+      "非常出色",
+      "麻麻地",
+      "唔好"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Director",
-      "Johnnie To",
-      "Wong Jing"
+      "Average",
+      "Excellent",
+      "So-so",
+      "Bad"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 1
   },
   {
     "id": 38,
-    "question_zh": "《情人》嘅導演係邊個？",
-    "question_en": "Who directed \"The Lover\"?",
+    "question_zh": "梁家輝喺《情人》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"The Lover\"?",
     "options_zh": [
-      "劉偉強",
-      "王晶",
-      "導演",
-      "杜琪峰"
+      "普通",
+      "唔好",
+      "麻麻地",
+      "非常出色"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Wong Jing",
-      "Director",
-      "Johnnie To"
+      "Average",
+      "Bad",
+      "So-so",
+      "Excellent"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 2
   },
   {
     "id": 39,
-    "question_zh": "《情人》嘅導演係邊個？",
-    "question_en": "Who directed \"The Lover\"?",
+    "question_zh": "你會推薦《情人》俾朋友？",
+    "question_en": "Would you recommend \"The Lover\" to friends?",
     "options_zh": [
-      "劉偉強",
-      "杜琪峰",
-      "導演",
-      "王晶"
+      "唔知",
+      "唔會",
+      "睇情況",
+      "會，非常推薦"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Johnnie To",
-      "Director",
-      "Wong Jing"
+      "Unknown",
+      "No",
+      "Depends",
+      "Yes, highly recommended"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "answer": 3,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
   },
   {
     "id": 40,
-    "question_zh": "《情人》嘅導演係邊個？",
-    "question_en": "Who directed \"The Lover\"?",
+    "question_zh": "你會推薦《情人》俾朋友？",
+    "question_en": "Would you recommend \"The Lover\" to friends?",
     "options_zh": [
-      "劉偉強",
-      "杜琪峰",
-      "導演",
-      "王晶"
+      "唔知",
+      "會，非常推薦",
+      "睇情況",
+      "唔會"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Johnnie To",
-      "Director",
-      "Wong Jing"
+      "Unknown",
+      "Yes, highly recommended",
+      "Depends",
+      "No"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
+    "answer": 1,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
   },
   {
     "id": 41,
-    "question_zh": "梁家輝喺《情人》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"The Lover\"?",
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（情人）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (The Lover)",
     "options_zh": [
-      "主角",
-      "配角C",
-      "配角A",
-      "配角B"
+      "其他電影X",
+      "其他電影Y",
+      "其他電影Z",
+      "情人"
     ],
     "options_en": [
-      "Main Character",
-      "Supporting C",
-      "Supporting A",
-      "Supporting B"
+      "Other Movie X",
+      "Other Movie Y",
+      "Other Movie Z",
+      "The Lover"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "answer": 3,
+    "explanation_zh": "正確答案係「情人」。",
+    "explanation_en": "The correct answer is 'The Lover'.",
+    "difficulty": 2
   },
   {
     "id": 42,
-    "question_zh": "梁家輝喺《情人》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"The Lover\"?",
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（情人）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (The Lover)",
     "options_zh": [
-      "主角",
-      "配角B",
-      "配角C",
-      "配角A"
+      "其他電影Z",
+      "其他電影X",
+      "其他電影Y",
+      "情人"
     ],
     "options_en": [
-      "Main Character",
-      "Supporting B",
-      "Supporting C",
-      "Supporting A"
+      "Other Movie Z",
+      "Other Movie X",
+      "Other Movie Y",
+      "The Lover"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
+    "answer": 3,
+    "explanation_zh": "正確答案係「情人」。",
+    "explanation_en": "The correct answer is 'The Lover'.",
+    "difficulty": 3
   },
   {
     "id": 43,
-    "question_zh": "梁家輝喺《情人》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"The Lover\"?",
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（情人）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (The Lover)",
     "options_zh": [
-      "主角",
-      "配角C",
-      "配角B",
-      "配角A"
+      "其他電影X",
+      "其他電影Y",
+      "情人",
+      "其他電影Z"
     ],
     "options_en": [
-      "Main Character",
-      "Supporting C",
-      "Supporting B",
-      "Supporting A"
+      "Other Movie X",
+      "Other Movie Y",
+      "The Lover",
+      "Other Movie Z"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
+    "answer": 2,
+    "explanation_zh": "正確答案係「情人」。",
+    "explanation_en": "The correct answer is 'The Lover'.",
+    "difficulty": 1
   },
   {
     "id": 44,
-    "question_zh": "梁家輝喺《情人》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"The Lover\"?",
-    "options_zh": [
-      "配角C",
-      "主角",
-      "配角B",
-      "配角A"
-    ],
-    "options_en": [
-      "Supporting C",
-      "Main Character",
-      "Supporting B",
-      "Supporting A"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
-  },
-  {
-    "id": 45,
-    "question_zh": "梁家輝喺《情人》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"The Lover\"?",
-    "options_zh": [
-      "配角A",
-      "主角",
-      "配角C",
-      "配角B"
-    ],
-    "options_en": [
-      "Supporting A",
-      "Main Character",
-      "Supporting C",
-      "Supporting B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
-  },
-  {
-    "id": 46,
-    "question_zh": "《情人》係咩類型嘅電影？",
-    "question_en": "What genre is \"The Lover\"?",
-    "options_zh": [
-      "音樂劇",
-      "劇情",
-      "動畫",
-      "紀錄片"
-    ],
-    "options_en": [
-      "Musical",
-      "Drama",
-      "Animation",
-      "Documentary"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
-  },
-  {
-    "id": 47,
-    "question_zh": "《情人》係咩類型嘅電影？",
-    "question_en": "What genre is \"The Lover\"?",
-    "options_zh": [
-      "動畫",
-      "音樂劇",
-      "劇情",
-      "紀錄片"
-    ],
-    "options_en": [
-      "Animation",
-      "Musical",
-      "Drama",
-      "Documentary"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
-  },
-  {
-    "id": 48,
-    "question_zh": "《情人》係咩類型嘅電影？",
-    "question_en": "What genre is \"The Lover\"?",
-    "options_zh": [
-      "紀錄片",
-      "劇情",
-      "動畫",
-      "音樂劇"
-    ],
-    "options_en": [
-      "Documentary",
-      "Drama",
-      "Animation",
-      "Musical"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
-  },
-  {
-    "id": 49,
-    "question_zh": "《情人》係咩類型嘅電影？",
-    "question_en": "What genre is \"The Lover\"?",
-    "options_zh": [
-      "動畫",
-      "劇情",
-      "音樂劇",
-      "紀錄片"
-    ],
-    "options_en": [
-      "Animation",
-      "Drama",
-      "Musical",
-      "Documentary"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
-  },
-  {
-    "id": 50,
-    "question_zh": "《情人》係咩類型嘅電影？",
-    "question_en": "What genre is \"The Lover\"?",
-    "options_zh": [
-      "音樂劇",
-      "紀錄片",
-      "劇情",
-      "動畫"
-    ],
-    "options_en": [
-      "Musical",
-      "Documentary",
-      "Drama",
-      "Animation"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
-  },
-  {
-    "id": 51,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
-    "options_zh": [
-      "黑社會",
-      "情人",
-      "東邪西毒",
-      "監獄風雲"
-    ],
-    "options_en": [
-      "Cold War",
-      "The Lover",
-      "Ashes of Time",
-      "Prison on Fire"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「情人」。",
-    "explanation_en": "The correct answer is 'The Lover'.",
-    "difficulty": 1
-  },
-  {
-    "id": 52,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
-    "options_zh": [
-      "監獄風雲",
-      "情人",
-      "寒戰",
-      "東邪西毒"
-    ],
-    "options_en": [
-      "Ashes of Time",
-      "The Lover",
-      "Cold War",
-      "Prison on Fire"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「情人」。",
-    "explanation_en": "The correct answer is 'The Lover'.",
-    "difficulty": 2
-  },
-  {
-    "id": 53,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
-    "options_zh": [
-      "東邪西毒",
-      "監獄風雲",
-      "寒戰",
-      "情人"
-    ],
-    "options_en": [
-      "Cold War",
-      "Prison on Fire",
-      "Ashes of Time",
-      "The Lover"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「情人」。",
-    "explanation_en": "The correct answer is 'The Lover'.",
-    "difficulty": 3
-  },
-  {
-    "id": 54,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
-    "options_zh": [
-      "監獄風雲",
-      "東邪西毒",
-      "情人",
-      "黑社會"
-    ],
-    "options_en": [
-      "Ashes of Time",
-      "Cold War",
-      "The Lover",
-      "Election"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「情人」。",
-    "explanation_en": "The correct answer is 'The Lover'.",
-    "difficulty": 1
-  },
-  {
-    "id": 55,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
-    "options_zh": [
-      "監獄風雲",
-      "東邪西毒",
-      "寒戰",
-      "情人"
-    ],
-    "options_en": [
-      "Prison on Fire",
-      "Election",
-      "Cold War",
-      "The Lover"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「情人」。",
-    "explanation_en": "The correct answer is 'The Lover'.",
-    "difficulty": 2
-  },
-  {
-    "id": 56,
     "question_zh": "《情人》係邊年上映嘅？",
     "question_en": "What year was \"The Lover\" released?",
     "options_zh": [
-      "1995年",
-      "1992年",
       "1989年",
-      "1994年"
+      "1992年",
+      "1994年",
+      "1997年"
     ],
     "options_en": [
-      "1995",
-      "1992",
       "1989",
-      "1994"
+      "1992",
+      "1994",
+      "1997"
     ],
     "answer": 1,
+    "explanation_zh": "正確答案係「1992年」。",
+    "explanation_en": "The correct answer is '1992'.",
+    "difficulty": 2
+  },
+  {
+    "id": 45,
+    "question_zh": "《情人》係邊年上映嘅？",
+    "question_en": "What year was \"The Lover\" released?",
+    "options_zh": [
+      "1994年",
+      "1989年",
+      "1997年",
+      "1992年"
+    ],
+    "options_en": [
+      "1994",
+      "1989",
+      "1997",
+      "1992"
+    ],
+    "answer": 3,
     "explanation_zh": "正確答案係「1992年」。",
     "explanation_en": "The correct answer is '1992'.",
     "difficulty": 3
   },
   {
-    "id": 57,
+    "id": 46,
     "question_zh": "《情人》係邊年上映嘅？",
     "question_en": "What year was \"The Lover\" released?",
     "options_zh": [
-      "1990年",
       "1989年",
       "1994年",
+      "1997年",
       "1992年"
     ],
     "options_en": [
-      "1990",
       "1989",
       "1994",
+      "1997",
       "1992"
     ],
     "answer": 3,
@@ -1197,440 +966,314 @@
     "difficulty": 1
   },
   {
-    "id": 58,
-    "question_zh": "《情人》係邊年上映嘅？",
-    "question_en": "What year was \"The Lover\" released?",
-    "options_zh": [
-      "1992年",
-      "1990年",
-      "1995年",
-      "1994年"
-    ],
-    "options_en": [
-      "1992",
-      "1990",
-      "1995",
-      "1994"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「1992年」。",
-    "explanation_en": "The correct answer is '1992'.",
-    "difficulty": 2
-  },
-  {
-    "id": 59,
-    "question_zh": "《情人》係邊年上映嘅？",
-    "question_en": "What year was \"The Lover\" released?",
-    "options_zh": [
-      "1992年",
-      "1995年",
-      "1994年",
-      "1990年"
-    ],
-    "options_en": [
-      "1992",
-      "1995",
-      "1994",
-      "1990"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「1992年」。",
-    "explanation_en": "The correct answer is '1992'.",
-    "difficulty": 3
-  },
-  {
-    "id": 60,
-    "question_zh": "《情人》係邊年上映嘅？",
-    "question_en": "What year was \"The Lover\" released?",
-    "options_zh": [
-      "1992年",
-      "1995年",
-      "1990年",
-      "1989年"
-    ],
-    "options_en": [
-      "1992",
-      "1995",
-      "1990",
-      "1989"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「1992年」。",
-    "explanation_en": "The correct answer is '1992'.",
-    "difficulty": 1
-  },
-  {
-    "id": 61,
+    "id": 47,
     "question_zh": "《情人》嘅導演係邊個？",
     "question_en": "Who directed \"The Lover\"?",
     "options_zh": [
-      "導演",
-      "杜琪峰",
-      "王晶",
-      "劉偉強"
-    ],
-    "options_en": [
-      "Director",
-      "Johnnie To",
-      "Wong Jing",
-      "Andrew Lau"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
-  },
-  {
-    "id": 62,
-    "question_zh": "《情人》嘅導演係邊個？",
-    "question_en": "Who directed \"The Lover\"?",
-    "options_zh": [
-      "導演",
-      "杜琪峰",
+      "讓-雅克·阿諾",
       "劉偉強",
-      "王晶"
-    ],
-    "options_en": [
-      "Director",
-      "Johnnie To",
-      "Andrew Lau",
-      "Wong Jing"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
-  },
-  {
-    "id": 63,
-    "question_zh": "《情人》嘅導演係邊個？",
-    "question_en": "Who directed \"The Lover\"?",
-    "options_zh": [
-      "杜琪峰",
-      "劉偉強",
-      "王晶",
-      "導演"
-    ],
-    "options_en": [
-      "Johnnie To",
-      "Andrew Lau",
-      "Wong Jing",
-      "Director"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
-  },
-  {
-    "id": 64,
-    "question_zh": "《情人》嘅導演係邊個？",
-    "question_en": "Who directed \"The Lover\"?",
-    "options_zh": [
-      "杜琪峰",
-      "導演",
-      "王晶",
-      "劉偉強"
-    ],
-    "options_en": [
-      "Johnnie To",
-      "Director",
-      "Wong Jing",
-      "Andrew Lau"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
-  },
-  {
-    "id": 65,
-    "question_zh": "《情人》嘅導演係邊個？",
-    "question_en": "Who directed \"The Lover\"?",
-    "options_zh": [
-      "劉偉強",
-      "導演",
       "王晶",
       "杜琪峰"
     ],
     "options_en": [
+      "讓-雅克·阿諾",
       "Andrew Lau",
-      "Director",
       "Wong Jing",
       "Johnnie To"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
-  },
-  {
-    "id": 66,
-    "question_zh": "梁家輝喺《情人》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"The Lover\"?",
-    "options_zh": [
-      "主角",
-      "配角C",
-      "配角A",
-      "配角B"
-    ],
-    "options_en": [
-      "Main Character",
-      "Supporting C",
-      "Supporting A",
-      "Supporting B"
-    ],
     "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
-  },
-  {
-    "id": 67,
-    "question_zh": "梁家輝喺《情人》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"The Lover\"?",
-    "options_zh": [
-      "配角A",
-      "主角",
-      "配角C",
-      "配角B"
-    ],
-    "options_en": [
-      "Supporting A",
-      "Main Character",
-      "Supporting C",
-      "Supporting B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
+    "explanation_zh": "正確答案係「讓-雅克·阿諾」。",
+    "explanation_en": "The correct answer is '讓-雅克·阿諾'.",
     "difficulty": 2
   },
   {
-    "id": 68,
-    "question_zh": "梁家輝喺《情人》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"The Lover\"?",
+    "id": 48,
+    "question_zh": "《情人》嘅導演係邊個？",
+    "question_en": "Who directed \"The Lover\"?",
     "options_zh": [
-      "配角B",
-      "配角A",
-      "主角",
-      "配角C"
+      "王晶",
+      "劉偉強",
+      "讓-雅克·阿諾",
+      "杜琪峰"
     ],
     "options_en": [
-      "Supporting B",
-      "Supporting A",
-      "Main Character",
-      "Supporting C"
+      "Wong Jing",
+      "Andrew Lau",
+      "讓-雅克·阿諾",
+      "Johnnie To"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
+    "explanation_zh": "正確答案係「讓-雅克·阿諾」。",
+    "explanation_en": "The correct answer is '讓-雅克·阿諾'.",
     "difficulty": 3
   },
   {
-    "id": 69,
-    "question_zh": "梁家輝喺《情人》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"The Lover\"?",
+    "id": 49,
+    "question_zh": "《情人》嘅導演係邊個？",
+    "question_en": "Who directed \"The Lover\"?",
     "options_zh": [
-      "配角B",
-      "配角A",
-      "主角",
-      "配角C"
+      "劉偉強",
+      "王晶",
+      "讓-雅克·阿諾",
+      "杜琪峰"
     ],
     "options_en": [
-      "Supporting B",
-      "Supporting A",
-      "Main Character",
-      "Supporting C"
+      "Andrew Lau",
+      "Wong Jing",
+      "讓-雅克·阿諾",
+      "Johnnie To"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
+    "explanation_zh": "正確答案係「讓-雅克·阿諾」。",
+    "explanation_en": "The correct answer is '讓-雅克·阿諾'.",
     "difficulty": 1
   },
   {
-    "id": 70,
-    "question_zh": "梁家輝喺《情人》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"The Lover\"?",
+    "id": 50,
+    "question_zh": "《情人》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"The Lover\"?",
     "options_zh": [
-      "配角B",
-      "主角",
-      "配角A",
-      "配角C"
+      "唔係",
+      "唔知",
+      "只係客串",
+      "係"
     ],
     "options_en": [
-      "Supporting B",
-      "Main Character",
-      "Supporting A",
-      "Supporting C"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
-  },
-  {
-    "id": 71,
-    "question_zh": "《情人》係咩類型嘅電影？",
-    "question_en": "What genre is \"The Lover\"?",
-    "options_zh": [
-      "動畫",
-      "紀錄片",
-      "音樂劇",
-      "劇情"
-    ],
-    "options_en": [
-      "Animation",
-      "Documentary",
-      "Musical",
-      "Drama"
+      "No",
+      "Unknown",
+      "Cameo only",
+      "Yes"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 2
   },
   {
-    "id": 72,
-    "question_zh": "《情人》係咩類型嘅電影？",
-    "question_en": "What genre is \"The Lover\"?",
+    "id": 51,
+    "question_zh": "《情人》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"The Lover\"?",
     "options_zh": [
-      "音樂劇",
-      "劇情",
-      "動畫",
-      "紀錄片"
+      "唔係",
+      "只係客串",
+      "唔知",
+      "係"
     ],
     "options_en": [
-      "Musical",
-      "Drama",
-      "Animation",
-      "Documentary"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
-  },
-  {
-    "id": 73,
-    "question_zh": "《情人》係咩類型嘅電影？",
-    "question_en": "What genre is \"The Lover\"?",
-    "options_zh": [
-      "紀錄片",
-      "音樂劇",
-      "動畫",
-      "劇情"
-    ],
-    "options_en": [
-      "Documentary",
-      "Musical",
-      "Animation",
-      "Drama"
+      "No",
+      "Cameo only",
+      "Unknown",
+      "Yes"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
-  },
-  {
-    "id": 74,
-    "question_zh": "《情人》係咩類型嘅電影？",
-    "question_en": "What genre is \"The Lover\"?",
-    "options_zh": [
-      "動畫",
-      "劇情",
-      "紀錄片",
-      "音樂劇"
-    ],
-    "options_en": [
-      "Animation",
-      "Drama",
-      "Documentary",
-      "Musical"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
     "difficulty": 3
   },
   {
-    "id": 75,
-    "question_zh": "《情人》係咩類型嘅電影？",
-    "question_en": "What genre is \"The Lover\"?",
+    "id": 52,
+    "question_zh": "《情人》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"The Lover\"?",
     "options_zh": [
-      "音樂劇",
-      "劇情",
-      "動畫",
-      "紀錄片"
+      "係",
+      "只係客串",
+      "唔係",
+      "唔知"
     ],
     "options_en": [
-      "Musical",
-      "Drama",
-      "Animation",
-      "Documentary"
+      "Yes",
+      "Cameo only",
+      "No",
+      "Unknown"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
     "difficulty": 1
   },
   {
-    "id": 76,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "id": 53,
+    "question_zh": "《情人》係邊度出品？",
+    "question_en": "Where was \"The Lover\" produced?",
     "options_zh": [
-      "情人",
-      "黑社會",
-      "監獄風雲",
-      "東邪西毒"
+      "台灣",
+      "美國",
+      "香港",
+      "中國"
     ],
     "options_en": [
-      "The Lover",
-      "Ashes of Time",
-      "Cold War",
-      "Prison on Fire"
+      "Taiwan",
+      "USA",
+      "Hong Kong",
+      "China"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「情人」。",
-    "explanation_en": "The correct answer is 'The Lover'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
     "difficulty": 2
   },
   {
-    "id": 77,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "id": 54,
+    "question_zh": "《情人》係邊度出品？",
+    "question_en": "Where was \"The Lover\" produced?",
     "options_zh": [
-      "情人",
-      "黑社會",
-      "監獄風雲",
-      "東邪西毒"
+      "台灣",
+      "中國",
+      "香港",
+      "美國"
     ],
     "options_en": [
-      "The Lover",
-      "Election",
-      "Cold War",
-      "Prison on Fire"
+      "Taiwan",
+      "China",
+      "Hong Kong",
+      "USA"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「情人」。",
-    "explanation_en": "The correct answer is 'The Lover'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
     "difficulty": 3
   },
   {
-    "id": 78,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "id": 55,
+    "question_zh": "《情人》係邊度出品？",
+    "question_en": "Where was \"The Lover\" produced?",
     "options_zh": [
-      "黑社會",
-      "東邪西毒",
-      "情人",
-      "寒戰"
+      "美國",
+      "台灣",
+      "香港",
+      "中國"
     ],
     "options_en": [
-      "Election",
-      "Ashes of Time",
+      "USA",
+      "Taiwan",
+      "Hong Kong",
+      "China"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
+  },
+  {
+    "id": 56,
+    "question_zh": "梁家輝喺《情人》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"The Lover\"?",
+    "options_zh": [
+      "非常出色",
+      "普通",
+      "麻麻地",
+      "唔好"
+    ],
+    "options_en": [
+      "Excellent",
+      "Average",
+      "So-so",
+      "Bad"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 2
+  },
+  {
+    "id": 57,
+    "question_zh": "梁家輝喺《情人》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"The Lover\"?",
+    "options_zh": [
+      "非常出色",
+      "普通",
+      "麻麻地",
+      "唔好"
+    ],
+    "options_en": [
+      "Excellent",
+      "Average",
+      "So-so",
+      "Bad"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 3
+  },
+  {
+    "id": 58,
+    "question_zh": "梁家輝喺《情人》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"The Lover\"?",
+    "options_zh": [
+      "非常出色",
+      "麻麻地",
+      "普通",
+      "唔好"
+    ],
+    "options_en": [
+      "Excellent",
+      "So-so",
+      "Average",
+      "Bad"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 1
+  },
+  {
+    "id": 59,
+    "question_zh": "你會推薦《情人》俾朋友？",
+    "question_en": "Would you recommend \"The Lover\" to friends?",
+    "options_zh": [
+      "唔知",
+      "睇情況",
+      "會，非常推薦",
+      "唔會"
+    ],
+    "options_en": [
+      "Unknown",
+      "Depends",
+      "Yes, highly recommended",
+      "No"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 2
+  },
+  {
+    "id": 60,
+    "question_zh": "你會推薦《情人》俾朋友？",
+    "question_en": "Would you recommend \"The Lover\" to friends?",
+    "options_zh": [
+      "會，非常推薦",
+      "唔會",
+      "睇情況",
+      "唔知"
+    ],
+    "options_en": [
+      "Yes, highly recommended",
+      "No",
+      "Depends",
+      "Unknown"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
+  },
+  {
+    "id": 61,
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（情人）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (The Lover)",
+    "options_zh": [
+      "其他電影X",
+      "其他電影Y",
+      "情人",
+      "其他電影Z"
+    ],
+    "options_en": [
+      "Other Movie X",
+      "Other Movie Y",
       "The Lover",
-      "Prison on Fire"
+      "Other Movie Z"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「情人」。",
@@ -1638,62 +1281,62 @@
     "difficulty": 1
   },
   {
-    "id": 79,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
+    "id": 62,
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（情人）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (The Lover)",
     "options_zh": [
-      "監獄風雲",
-      "東邪西毒",
-      "情人",
-      "寒戰"
-    ],
-    "options_en": [
-      "Ashes of Time",
-      "Prison on Fire",
-      "The Lover",
-      "Election"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「情人」。",
-    "explanation_en": "The correct answer is 'The Lover'.",
-    "difficulty": 2
-  },
-  {
-    "id": 80,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？",
-    "question_en": "Which movie stars Tony Leung Ka-fai?",
-    "options_zh": [
-      "東邪西毒",
-      "黑社會",
-      "寒戰",
+      "其他電影X",
+      "其他電影Y",
+      "其他電影Z",
       "情人"
     ],
     "options_en": [
-      "Cold War",
-      "Ashes of Time",
-      "Election",
+      "Other Movie X",
+      "Other Movie Y",
+      "Other Movie Z",
       "The Lover"
     ],
     "answer": 3,
     "explanation_zh": "正確答案係「情人」。",
     "explanation_en": "The correct answer is 'The Lover'.",
+    "difficulty": 2
+  },
+  {
+    "id": 63,
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（情人）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (The Lover)",
+    "options_zh": [
+      "情人",
+      "其他電影Y",
+      "其他電影Z",
+      "其他電影X"
+    ],
+    "options_en": [
+      "The Lover",
+      "Other Movie Y",
+      "Other Movie Z",
+      "Other Movie X"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「情人」。",
+    "explanation_en": "The correct answer is 'The Lover'.",
     "difficulty": 3
   },
   {
-    "id": 81,
+    "id": 64,
     "question_zh": "《情人》係邊年上映嘅？",
     "question_en": "What year was \"The Lover\" released?",
     "options_zh": [
-      "1994年",
-      "1995年",
+      "1997年",
+      "1989年",
       "1992年",
-      "1990年"
+      "1994年"
     ],
     "options_en": [
-      "1994",
-      "1995",
+      "1997",
+      "1989",
       "1992",
-      "1990"
+      "1994"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「1992年」。",
@@ -1701,20 +1344,20 @@
     "difficulty": 1
   },
   {
-    "id": 82,
+    "id": 65,
     "question_zh": "《情人》係邊年上映嘅？",
     "question_en": "What year was \"The Lover\" released?",
     "options_zh": [
-      "1995年",
+      "1989年",
       "1994年",
       "1992年",
-      "1989年"
+      "1997年"
     ],
     "options_en": [
-      "1995",
+      "1989",
       "1994",
       "1992",
-      "1989"
+      "1997"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「1992年」。",
@@ -1722,40 +1365,418 @@
     "difficulty": 2
   },
   {
-    "id": 83,
+    "id": 66,
     "question_zh": "《情人》係邊年上映嘅？",
     "question_en": "What year was \"The Lover\" released?",
     "options_zh": [
-      "1995年",
-      "1992年",
+      "1997年",
+      "1989年",
       "1994年",
-      "1990年"
+      "1992年"
     ],
     "options_en": [
-      "1995",
-      "1992",
+      "1997",
+      "1989",
       "1994",
-      "1990"
+      "1992"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「1992年」。",
     "explanation_en": "The correct answer is '1992'.",
     "difficulty": 3
+  },
+  {
+    "id": 67,
+    "question_zh": "《情人》嘅導演係邊個？",
+    "question_en": "Who directed \"The Lover\"?",
+    "options_zh": [
+      "讓-雅克·阿諾",
+      "王晶",
+      "杜琪峰",
+      "劉偉強"
+    ],
+    "options_en": [
+      "讓-雅克·阿諾",
+      "Wong Jing",
+      "Johnnie To",
+      "Andrew Lau"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「讓-雅克·阿諾」。",
+    "explanation_en": "The correct answer is '讓-雅克·阿諾'.",
+    "difficulty": 1
+  },
+  {
+    "id": 68,
+    "question_zh": "《情人》嘅導演係邊個？",
+    "question_en": "Who directed \"The Lover\"?",
+    "options_zh": [
+      "王晶",
+      "劉偉強",
+      "杜琪峰",
+      "讓-雅克·阿諾"
+    ],
+    "options_en": [
+      "Wong Jing",
+      "Andrew Lau",
+      "Johnnie To",
+      "讓-雅克·阿諾"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「讓-雅克·阿諾」。",
+    "explanation_en": "The correct answer is '讓-雅克·阿諾'.",
+    "difficulty": 2
+  },
+  {
+    "id": 69,
+    "question_zh": "《情人》嘅導演係邊個？",
+    "question_en": "Who directed \"The Lover\"?",
+    "options_zh": [
+      "劉偉強",
+      "讓-雅克·阿諾",
+      "王晶",
+      "杜琪峰"
+    ],
+    "options_en": [
+      "Andrew Lau",
+      "讓-雅克·阿諾",
+      "Wong Jing",
+      "Johnnie To"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「讓-雅克·阿諾」。",
+    "explanation_en": "The correct answer is '讓-雅克·阿諾'.",
+    "difficulty": 3
+  },
+  {
+    "id": 70,
+    "question_zh": "《情人》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"The Lover\"?",
+    "options_zh": [
+      "唔知",
+      "唔係",
+      "係",
+      "只係客串"
+    ],
+    "options_en": [
+      "Unknown",
+      "No",
+      "Yes",
+      "Cameo only"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
+  },
+  {
+    "id": 71,
+    "question_zh": "《情人》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"The Lover\"?",
+    "options_zh": [
+      "係",
+      "只係客串",
+      "唔知",
+      "唔係"
+    ],
+    "options_en": [
+      "Yes",
+      "Cameo only",
+      "Unknown",
+      "No"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 2
+  },
+  {
+    "id": 72,
+    "question_zh": "《情人》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"The Lover\"?",
+    "options_zh": [
+      "唔係",
+      "唔知",
+      "係",
+      "只係客串"
+    ],
+    "options_en": [
+      "No",
+      "Unknown",
+      "Yes",
+      "Cameo only"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
+  },
+  {
+    "id": 73,
+    "question_zh": "《情人》係邊度出品？",
+    "question_en": "Where was \"The Lover\" produced?",
+    "options_zh": [
+      "台灣",
+      "中國",
+      "美國",
+      "香港"
+    ],
+    "options_en": [
+      "Taiwan",
+      "China",
+      "USA",
+      "Hong Kong"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
+  },
+  {
+    "id": 74,
+    "question_zh": "《情人》係邊度出品？",
+    "question_en": "Where was \"The Lover\" produced?",
+    "options_zh": [
+      "中國",
+      "香港",
+      "美國",
+      "台灣"
+    ],
+    "options_en": [
+      "China",
+      "Hong Kong",
+      "USA",
+      "Taiwan"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
+  },
+  {
+    "id": 75,
+    "question_zh": "《情人》係邊度出品？",
+    "question_en": "Where was \"The Lover\" produced?",
+    "options_zh": [
+      "台灣",
+      "中國",
+      "香港",
+      "美國"
+    ],
+    "options_en": [
+      "Taiwan",
+      "China",
+      "Hong Kong",
+      "USA"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
+  },
+  {
+    "id": 76,
+    "question_zh": "梁家輝喺《情人》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"The Lover\"?",
+    "options_zh": [
+      "非常出色",
+      "麻麻地",
+      "普通",
+      "唔好"
+    ],
+    "options_en": [
+      "Excellent",
+      "So-so",
+      "Average",
+      "Bad"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 1
+  },
+  {
+    "id": 77,
+    "question_zh": "梁家輝喺《情人》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"The Lover\"?",
+    "options_zh": [
+      "普通",
+      "唔好",
+      "非常出色",
+      "麻麻地"
+    ],
+    "options_en": [
+      "Average",
+      "Bad",
+      "Excellent",
+      "So-so"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 2
+  },
+  {
+    "id": 78,
+    "question_zh": "梁家輝喺《情人》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"The Lover\"?",
+    "options_zh": [
+      "唔好",
+      "普通",
+      "非常出色",
+      "麻麻地"
+    ],
+    "options_en": [
+      "Bad",
+      "Average",
+      "Excellent",
+      "So-so"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 3
+  },
+  {
+    "id": 79,
+    "question_zh": "你會推薦《情人》俾朋友？",
+    "question_en": "Would you recommend \"The Lover\" to friends?",
+    "options_zh": [
+      "會，非常推薦",
+      "唔會",
+      "睇情況",
+      "唔知"
+    ],
+    "options_en": [
+      "Yes, highly recommended",
+      "No",
+      "Depends",
+      "Unknown"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
+  },
+  {
+    "id": 80,
+    "question_zh": "你會推薦《情人》俾朋友？",
+    "question_en": "Would you recommend \"The Lover\" to friends?",
+    "options_zh": [
+      "會，非常推薦",
+      "唔知",
+      "睇情況",
+      "唔會"
+    ],
+    "options_en": [
+      "Yes, highly recommended",
+      "Unknown",
+      "Depends",
+      "No"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 2
+  },
+  {
+    "id": 81,
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（情人）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (The Lover)",
+    "options_zh": [
+      "其他電影Z",
+      "情人",
+      "其他電影X",
+      "其他電影Y"
+    ],
+    "options_en": [
+      "Other Movie Z",
+      "The Lover",
+      "Other Movie X",
+      "Other Movie Y"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「情人」。",
+    "explanation_en": "The correct answer is 'The Lover'.",
+    "difficulty": 3
+  },
+  {
+    "id": 82,
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（情人）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (The Lover)",
+    "options_zh": [
+      "情人",
+      "其他電影X",
+      "其他電影Z",
+      "其他電影Y"
+    ],
+    "options_en": [
+      "The Lover",
+      "Other Movie X",
+      "Other Movie Z",
+      "Other Movie Y"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「情人」。",
+    "explanation_en": "The correct answer is 'The Lover'.",
+    "difficulty": 1
+  },
+  {
+    "id": 83,
+    "question_zh": "以下邊部電影係梁家輝主演嘅？（情人）",
+    "question_en": "Which movie stars Tony Leung Ka-fai? (The Lover)",
+    "options_zh": [
+      "其他電影Z",
+      "其他電影Y",
+      "情人",
+      "其他電影X"
+    ],
+    "options_en": [
+      "Other Movie Z",
+      "Other Movie Y",
+      "The Lover",
+      "Other Movie X"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「情人」。",
+    "explanation_en": "The correct answer is 'The Lover'.",
+    "difficulty": 2
   },
   {
     "id": 84,
     "question_zh": "《情人》係邊年上映嘅？",
     "question_en": "What year was \"The Lover\" released?",
     "options_zh": [
+      "1994年",
+      "1992年",
+      "1997年",
+      "1989年"
+    ],
+    "options_en": [
+      "1994",
+      "1992",
+      "1997",
+      "1989"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「1992年」。",
+    "explanation_en": "The correct answer is '1992'.",
+    "difficulty": 3
+  },
+  {
+    "id": 85,
+    "question_zh": "《情人》係邊年上映嘅？",
+    "question_en": "What year was \"The Lover\" released?",
+    "options_zh": [
+      "1994年",
       "1989年",
-      "1995年",
-      "1990年",
+      "1997年",
       "1992年"
     ],
     "options_en": [
+      "1994",
       "1989",
-      "1995",
-      "1990",
+      "1997",
       "1992"
     ],
     "answer": 3,
@@ -1764,339 +1785,318 @@
     "difficulty": 1
   },
   {
-    "id": 85,
+    "id": 86,
     "question_zh": "《情人》係邊年上映嘅？",
     "question_en": "What year was \"The Lover\" released?",
     "options_zh": [
-      "1995年",
+      "1997年",
+      "1989年",
       "1992年",
-      "1994年",
-      "1990年"
+      "1994年"
     ],
     "options_en": [
-      "1995",
+      "1997",
+      "1989",
       "1992",
-      "1994",
-      "1990"
+      "1994"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「1992年」。",
     "explanation_en": "The correct answer is '1992'.",
     "difficulty": 2
-  },
-  {
-    "id": 86,
-    "question_zh": "《情人》嘅導演係邊個？",
-    "question_en": "Who directed \"The Lover\"?",
-    "options_zh": [
-      "王晶",
-      "導演",
-      "劉偉強",
-      "杜琪峰"
-    ],
-    "options_en": [
-      "Wong Jing",
-      "Director",
-      "Andrew Lau",
-      "Johnnie To"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
   },
   {
     "id": 87,
     "question_zh": "《情人》嘅導演係邊個？",
     "question_en": "Who directed \"The Lover\"?",
     "options_zh": [
-      "劉偉強",
-      "杜琪峰",
       "王晶",
-      "導演"
+      "杜琪峰",
+      "讓-雅克·阿諾",
+      "劉偉強"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Johnnie To",
       "Wong Jing",
-      "Director"
+      "Johnnie To",
+      "讓-雅克·阿諾",
+      "Andrew Lau"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "answer": 2,
+    "explanation_zh": "正確答案係「讓-雅克·阿諾」。",
+    "explanation_en": "The correct answer is '讓-雅克·阿諾'.",
+    "difficulty": 3
   },
   {
     "id": 88,
     "question_zh": "《情人》嘅導演係邊個？",
     "question_en": "Who directed \"The Lover\"?",
     "options_zh": [
-      "導演",
+      "王晶",
       "劉偉強",
       "杜琪峰",
-      "王晶"
+      "讓-雅克·阿諾"
     ],
     "options_en": [
-      "Director",
+      "Wong Jing",
       "Andrew Lau",
       "Johnnie To",
-      "Wong Jing"
+      "讓-雅克·阿諾"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
+    "answer": 3,
+    "explanation_zh": "正確答案係「讓-雅克·阿諾」。",
+    "explanation_en": "The correct answer is '讓-雅克·阿諾'.",
+    "difficulty": 1
   },
   {
     "id": 89,
     "question_zh": "《情人》嘅導演係邊個？",
     "question_en": "Who directed \"The Lover\"?",
     "options_zh": [
+      "讓-雅克·阿諾",
+      "王晶",
       "劉偉強",
-      "導演",
-      "杜琪峰",
-      "王晶"
+      "杜琪峰"
     ],
     "options_en": [
+      "讓-雅克·阿諾",
+      "Wong Jing",
       "Andrew Lau",
-      "Director",
-      "Johnnie To",
-      "Wong Jing"
+      "Johnnie To"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "正確答案係「讓-雅克·阿諾」。",
+    "explanation_en": "The correct answer is '讓-雅克·阿諾'.",
+    "difficulty": 2
   },
   {
     "id": 90,
-    "question_zh": "《情人》嘅導演係邊個？",
-    "question_en": "Who directed \"The Lover\"?",
+    "question_zh": "《情人》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"The Lover\"?",
     "options_zh": [
-      "劉偉強",
-      "王晶",
-      "杜琪峰",
-      "導演"
+      "唔係",
+      "只係客串",
+      "係",
+      "唔知"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Wong Jing",
-      "Johnnie To",
-      "Director"
+      "No",
+      "Cameo only",
+      "Yes",
+      "Unknown"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "answer": 2,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
   },
   {
     "id": 91,
-    "question_zh": "梁家輝喺《情人》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"The Lover\"?",
+    "question_zh": "《情人》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"The Lover\"?",
     "options_zh": [
-      "配角A",
-      "主角",
-      "配角B",
-      "配角C"
+      "係",
+      "唔係",
+      "只係客串",
+      "唔知"
     ],
     "options_en": [
-      "Supporting A",
-      "Main Character",
-      "Supporting B",
-      "Supporting C"
+      "Yes",
+      "No",
+      "Cameo only",
+      "Unknown"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
   },
   {
     "id": 92,
-    "question_zh": "梁家輝喺《情人》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"The Lover\"?",
+    "question_zh": "《情人》入面梁家輝係主角？",
+    "question_en": "Is Tony Leung Ka-fai the lead in \"The Lover\"?",
     "options_zh": [
-      "配角B",
-      "配角C",
-      "配角A",
-      "主角"
+      "只係客串",
+      "係",
+      "唔係",
+      "唔知"
     ],
     "options_en": [
-      "Supporting B",
-      "Supporting C",
-      "Supporting A",
-      "Main Character"
+      "Cameo only",
+      "Yes",
+      "No",
+      "Unknown"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 2
   },
   {
     "id": 93,
-    "question_zh": "梁家輝喺《情人》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"The Lover\"?",
+    "question_zh": "《情人》係邊度出品？",
+    "question_en": "Where was \"The Lover\" produced?",
     "options_zh": [
-      "配角C",
-      "配角B",
-      "配角A",
-      "主角"
+      "中國",
+      "台灣",
+      "香港",
+      "美國"
     ],
     "options_en": [
-      "Supporting C",
-      "Supporting B",
-      "Supporting A",
-      "Main Character"
+      "China",
+      "Taiwan",
+      "Hong Kong",
+      "USA"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
   },
   {
     "id": 94,
-    "question_zh": "梁家輝喺《情人》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"The Lover\"?",
+    "question_zh": "《情人》係邊度出品？",
+    "question_en": "Where was \"The Lover\" produced?",
     "options_zh": [
-      "配角C",
-      "配角A",
-      "主角",
-      "配角B"
+      "香港",
+      "美國",
+      "台灣",
+      "中國"
     ],
     "options_en": [
-      "Supporting C",
-      "Supporting A",
-      "Main Character",
-      "Supporting B"
+      "Hong Kong",
+      "USA",
+      "Taiwan",
+      "China"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
   },
   {
     "id": 95,
-    "question_zh": "梁家輝喺《情人》入面飾演咩角色？",
-    "question_en": "What role does Tony Leung Ka-fai play in \"The Lover\"?",
+    "question_zh": "《情人》係邊度出品？",
+    "question_en": "Where was \"The Lover\" produced?",
     "options_zh": [
-      "配角A",
-      "配角C",
-      "主角",
-      "配角B"
+      "中國",
+      "台灣",
+      "美國",
+      "香港"
     ],
     "options_en": [
-      "Supporting A",
-      "Supporting C",
-      "Main Character",
-      "Supporting B"
+      "China",
+      "Taiwan",
+      "USA",
+      "Hong Kong"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "answer": 3,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
   },
   {
     "id": 96,
-    "question_zh": "《情人》係咩類型嘅電影？",
-    "question_en": "What genre is \"The Lover\"?",
+    "question_zh": "梁家輝喺《情人》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"The Lover\"?",
     "options_zh": [
-      "紀錄片",
-      "動畫",
-      "劇情",
-      "音樂劇"
+      "非常出色",
+      "普通",
+      "唔好",
+      "麻麻地"
     ],
     "options_en": [
-      "Documentary",
-      "Animation",
-      "Drama",
-      "Musical"
+      "Excellent",
+      "Average",
+      "Bad",
+      "So-so"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
-  },
-  {
-    "id": 97,
-    "question_zh": "《情人》係咩類型嘅電影？",
-    "question_en": "What genre is \"The Lover\"?",
-    "options_zh": [
-      "音樂劇",
-      "動畫",
-      "劇情",
-      "紀錄片"
-    ],
-    "options_en": [
-      "Musical",
-      "Animation",
-      "Drama",
-      "Documentary"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
-  },
-  {
-    "id": 98,
-    "question_zh": "《情人》係咩類型嘅電影？",
-    "question_en": "What genre is \"The Lover\"?",
-    "options_zh": [
-      "動畫",
-      "劇情",
-      "音樂劇",
-      "紀錄片"
-    ],
-    "options_en": [
-      "Animation",
-      "Drama",
-      "Musical",
-      "Documentary"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
     "difficulty": 3
   },
   {
-    "id": 99,
-    "question_zh": "《情人》係咩類型嘅電影？",
-    "question_en": "What genre is \"The Lover\"?",
+    "id": 97,
+    "question_zh": "梁家輝喺《情人》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"The Lover\"?",
     "options_zh": [
-      "紀錄片",
-      "動畫",
-      "劇情",
-      "音樂劇"
+      "唔好",
+      "非常出色",
+      "麻麻地",
+      "普通"
     ],
     "options_en": [
-      "Documentary",
-      "Animation",
-      "Drama",
-      "Musical"
+      "Bad",
+      "Excellent",
+      "So-so",
+      "Average"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
     "difficulty": 1
   },
   {
-    "id": 100,
-    "question_zh": "《情人》係咩類型嘅電影？",
-    "question_en": "What genre is \"The Lover\"?",
+    "id": 98,
+    "question_zh": "梁家輝喺《情人》嘅表現如何？",
+    "question_en": "How is Tony Leung Ka-fai's performance in \"The Lover\"?",
     "options_zh": [
-      "音樂劇",
-      "劇情",
-      "動畫",
-      "紀錄片"
+      "麻麻地",
+      "普通",
+      "唔好",
+      "非常出色"
     ],
     "options_en": [
-      "Musical",
-      "Drama",
-      "Animation",
-      "Documentary"
+      "So-so",
+      "Average",
+      "Bad",
+      "Excellent"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
     "difficulty": 2
+  },
+  {
+    "id": 99,
+    "question_zh": "你會推薦《情人》俾朋友？",
+    "question_en": "Would you recommend \"The Lover\" to friends?",
+    "options_zh": [
+      "唔會",
+      "睇情況",
+      "唔知",
+      "會，非常推薦"
+    ],
+    "options_en": [
+      "No",
+      "Depends",
+      "Unknown",
+      "Yes, highly recommended"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
+  },
+  {
+    "id": 100,
+    "question_zh": "你會推薦《情人》俾朋友？",
+    "question_en": "Would you recommend \"The Lover\" to friends?",
+    "options_zh": [
+      "唔知",
+      "唔會",
+      "睇情況",
+      "會，非常推薦"
+    ],
+    "options_en": [
+      "Unknown",
+      "No",
+      "Depends",
+      "Yes, highly recommended"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
   }
 ]

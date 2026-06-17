@@ -1,82 +1,40 @@
 [
   {
     "id": 1,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
+    "question_zh": "以下邊部電影係周潤發主演嘅？（臥虎藏龍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Crouching Tiger, Hidden Dragon)",
     "options_zh": [
-      "讓子彈飛",
-      "英雄本色",
-      "賭神",
-      "臥虎藏龍"
-    ],
-    "options_en": [
-      "A Better Tomorrow",
-      "Killer Butterfly",
-      "Let the Bullets Fly",
-      "Crouching Tiger, Hidden Dragon"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「臥虎藏龍」。",
-    "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
-    "difficulty": 2
-  },
-  {
-    "id": 2,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "流星蝴蝶劍",
-      "賭神",
-      "讓子彈飛",
-      "臥虎藏龍"
-    ],
-    "options_en": [
-      "Killer Butterfly",
-      "Let the Bullets Fly",
-      "A Better Tomorrow",
-      "Crouching Tiger, Hidden Dragon"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「臥虎藏龍」。",
-    "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
-    "difficulty": 3
-  },
-  {
-    "id": 3,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "賭神",
       "臥虎藏龍",
-      "英雄本色",
-      "流星蝴蝶劍"
+      "其他電影Y",
+      "其他電影X",
+      "其他電影Z"
     ],
     "options_en": [
-      "Let the Bullets Fly",
       "Crouching Tiger, Hidden Dragon",
-      "Killer Butterfly",
-      "God of Gamblers"
+      "Other Movie Y",
+      "Other Movie X",
+      "Other Movie Z"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「臥虎藏龍」。",
     "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
     "difficulty": 1
   },
   {
-    "id": 4,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
+    "id": 2,
+    "question_zh": "以下邊部電影係周潤發主演嘅？（臥虎藏龍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Crouching Tiger, Hidden Dragon)",
     "options_zh": [
-      "讓子彈飛",
-      "賭神",
+      "其他電影X",
+      "其他電影Y",
       "臥虎藏龍",
-      "流星蝴蝶劍"
+      "其他電影Z"
     ],
     "options_en": [
-      "God of Gamblers",
-      "Let the Bullets Fly",
+      "Other Movie X",
+      "Other Movie Y",
       "Crouching Tiger, Hidden Dragon",
-      "Killer Butterfly"
+      "Other Movie Z"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「臥虎藏龍」。",
@@ -84,503 +42,818 @@
     "difficulty": 2
   },
   {
-    "id": 5,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
+    "id": 3,
+    "question_zh": "以下邊部電影係周潤發主演嘅？（臥虎藏龍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Crouching Tiger, Hidden Dragon)",
     "options_zh": [
-      "英雄本色",
-      "讓子彈飛",
+      "其他電影Y",
+      "其他電影Z",
       "臥虎藏龍",
-      "賭神"
+      "其他電影X"
     ],
     "options_en": [
-      "Let the Bullets Fly",
-      "God of Gamblers",
+      "Other Movie Y",
+      "Other Movie Z",
       "Crouching Tiger, Hidden Dragon",
-      "Killer Butterfly"
+      "Other Movie X"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「臥虎藏龍」。",
     "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
     "difficulty": 3
+  },
+  {
+    "id": 4,
+    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
+    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
+    "options_zh": [
+      "2000年",
+      "2005年",
+      "2002年",
+      "1997年"
+    ],
+    "options_en": [
+      "2000",
+      "2005",
+      "2002",
+      "1997"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2000年」。",
+    "explanation_en": "The correct answer is '2000'.",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
+    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
+    "options_zh": [
+      "2002年",
+      "2000年",
+      "1997年",
+      "2005年"
+    ],
+    "options_en": [
+      "2002",
+      "2000",
+      "1997",
+      "2005"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「2000年」。",
+    "explanation_en": "The correct answer is '2000'.",
+    "difficulty": 2
   },
   {
     "id": 6,
     "question_zh": "《臥虎藏龍》係邊年上映嘅？",
     "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
     "options_zh": [
-      "1997年",
       "2002年",
+      "1997年",
       "2000年",
-      "1998年"
+      "2005年"
     ],
     "options_en": [
-      "1997",
       "2002",
+      "1997",
       "2000",
-      "1998"
+      "2005"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「2000年」。",
     "explanation_en": "The correct answer is '2000'.",
-    "difficulty": 1
+    "difficulty": 3
   },
   {
     "id": 7,
+    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
+    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "杜琪峰",
+      "李安",
+      "劉偉強",
+      "王晶"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "李安",
+      "Andrew Lau",
+      "Wong Jing"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「李安」。",
+    "explanation_en": "The correct answer is '李安'.",
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
+    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "李安",
+      "劉偉強",
+      "杜琪峰",
+      "王晶"
+    ],
+    "options_en": [
+      "李安",
+      "Andrew Lau",
+      "Johnnie To",
+      "Wong Jing"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「李安」。",
+    "explanation_en": "The correct answer is '李安'.",
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
+    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "劉偉強",
+      "杜琪峰",
+      "李安",
+      "王晶"
+    ],
+    "options_en": [
+      "Andrew Lau",
+      "Johnnie To",
+      "李安",
+      "Wong Jing"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「李安」。",
+    "explanation_en": "The correct answer is '李安'.",
+    "difficulty": 3
+  },
+  {
+    "id": 10,
+    "question_zh": "《臥虎藏龍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "只係客串",
+      "係",
+      "唔係",
+      "唔知"
+    ],
+    "options_en": [
+      "Cameo only",
+      "Yes",
+      "No",
+      "Unknown"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "《臥虎藏龍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "只係客串",
+      "係",
+      "唔係",
+      "唔知"
+    ],
+    "options_en": [
+      "Cameo only",
+      "Yes",
+      "No",
+      "Unknown"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《臥虎藏龍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "唔係",
+      "係",
+      "只係客串",
+      "唔知"
+    ],
+    "options_en": [
+      "No",
+      "Yes",
+      "Cameo only",
+      "Unknown"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "《臥虎藏龍》係邊度出品？",
+    "question_en": "Where was \"Crouching Tiger, Hidden Dragon\" produced?",
+    "options_zh": [
+      "台灣",
+      "中國",
+      "美國",
+      "香港"
+    ],
+    "options_en": [
+      "Taiwan",
+      "China",
+      "USA",
+      "Hong Kong"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《臥虎藏龍》係邊度出品？",
+    "question_en": "Where was \"Crouching Tiger, Hidden Dragon\" produced?",
+    "options_zh": [
+      "中國",
+      "美國",
+      "台灣",
+      "香港"
+    ],
+    "options_en": [
+      "China",
+      "USA",
+      "Taiwan",
+      "Hong Kong"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_zh": "《臥虎藏龍》係邊度出品？",
+    "question_en": "Where was \"Crouching Tiger, Hidden Dragon\" produced?",
+    "options_zh": [
+      "美國",
+      "香港",
+      "台灣",
+      "中國"
+    ],
+    "options_en": [
+      "USA",
+      "Hong Kong",
+      "Taiwan",
+      "China"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "周潤發喺《臥虎藏龍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "非常出色",
+      "麻麻地",
+      "普通",
+      "唔好"
+    ],
+    "options_en": [
+      "Excellent",
+      "So-so",
+      "Average",
+      "Bad"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "周潤發喺《臥虎藏龍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "非常出色",
+      "普通",
+      "麻麻地",
+      "唔好"
+    ],
+    "options_en": [
+      "Excellent",
+      "Average",
+      "So-so",
+      "Bad"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question_zh": "周潤發喺《臥虎藏龍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "普通",
+      "非常出色",
+      "唔好",
+      "麻麻地"
+    ],
+    "options_en": [
+      "Average",
+      "Excellent",
+      "Bad",
+      "So-so"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 3
+  },
+  {
+    "id": 19,
+    "question_zh": "你會推薦《臥虎藏龍》俾朋友？",
+    "question_en": "Would you recommend \"Crouching Tiger, Hidden Dragon\" to friends?",
+    "options_zh": [
+      "唔知",
+      "會，非常推薦",
+      "唔會",
+      "睇情況"
+    ],
+    "options_en": [
+      "Unknown",
+      "Yes, highly recommended",
+      "No",
+      "Depends"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question_zh": "你會推薦《臥虎藏龍》俾朋友？",
+    "question_en": "Would you recommend \"Crouching Tiger, Hidden Dragon\" to friends?",
+    "options_zh": [
+      "會，非常推薦",
+      "唔會",
+      "睇情況",
+      "唔知"
+    ],
+    "options_en": [
+      "Yes, highly recommended",
+      "No",
+      "Depends",
+      "Unknown"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "question_zh": "以下邊部電影係周潤發主演嘅？（臥虎藏龍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Crouching Tiger, Hidden Dragon)",
+    "options_zh": [
+      "臥虎藏龍",
+      "其他電影X",
+      "其他電影Z",
+      "其他電影Y"
+    ],
+    "options_en": [
+      "Crouching Tiger, Hidden Dragon",
+      "Other Movie X",
+      "Other Movie Z",
+      "Other Movie Y"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「臥虎藏龍」。",
+    "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
+    "difficulty": 3
+  },
+  {
+    "id": 22,
+    "question_zh": "以下邊部電影係周潤發主演嘅？（臥虎藏龍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Crouching Tiger, Hidden Dragon)",
+    "options_zh": [
+      "其他電影X",
+      "臥虎藏龍",
+      "其他電影Z",
+      "其他電影Y"
+    ],
+    "options_en": [
+      "Other Movie X",
+      "Crouching Tiger, Hidden Dragon",
+      "Other Movie Z",
+      "Other Movie Y"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「臥虎藏龍」。",
+    "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question_zh": "以下邊部電影係周潤發主演嘅？（臥虎藏龍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Crouching Tiger, Hidden Dragon)",
+    "options_zh": [
+      "其他電影Z",
+      "其他電影Y",
+      "臥虎藏龍",
+      "其他電影X"
+    ],
+    "options_en": [
+      "Other Movie Z",
+      "Other Movie Y",
+      "Crouching Tiger, Hidden Dragon",
+      "Other Movie X"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「臥虎藏龍」。",
+    "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
+    "difficulty": 2
+  },
+  {
+    "id": 24,
     "question_zh": "《臥虎藏龍》係邊年上映嘅？",
     "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
     "options_zh": [
       "2000年",
-      "1998年",
-      "2003年",
+      "2005年",
+      "1997年",
+      "2002年"
+    ],
+    "options_en": [
+      "2000",
+      "2005",
+      "1997",
+      "2002"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2000年」。",
+    "explanation_en": "The correct answer is '2000'.",
+    "difficulty": 3
+  },
+  {
+    "id": 25,
+    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
+    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
+    "options_zh": [
+      "2000年",
+      "2002年",
+      "2005年",
       "1997年"
     ],
     "options_en": [
       "2000",
-      "1998",
-      "2003",
+      "2002",
+      "2005",
       "1997"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「2000年」。",
     "explanation_en": "The correct answer is '2000'.",
-    "difficulty": 2
-  },
-  {
-    "id": 8,
-    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
-    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
-    "options_zh": [
-      "1998年",
-      "2002年",
-      "1997年",
-      "2000年"
-    ],
-    "options_en": [
-      "1998",
-      "2002",
-      "1997",
-      "2000"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2000年」。",
-    "explanation_en": "The correct answer is '2000'.",
-    "difficulty": 3
-  },
-  {
-    "id": 9,
-    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
-    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
-    "options_zh": [
-      "2000年",
-      "1997年",
-      "2002年",
-      "1998年"
-    ],
-    "options_en": [
-      "2000",
-      "1997",
-      "2002",
-      "1998"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2000年」。",
-    "explanation_en": "The correct answer is '2000'.",
     "difficulty": 1
-  },
-  {
-    "id": 10,
-    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
-    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
-    "options_zh": [
-      "1998年",
-      "2000年",
-      "1997年",
-      "2002年"
-    ],
-    "options_en": [
-      "1998",
-      "2000",
-      "1997",
-      "2002"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2000年」。",
-    "explanation_en": "The correct answer is '2000'.",
-    "difficulty": 2
-  },
-  {
-    "id": 11,
-    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
-    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "王晶",
-      "導演",
-      "劉偉強",
-      "杜琪峰"
-    ],
-    "options_en": [
-      "Wong Jing",
-      "Director",
-      "Andrew Lau",
-      "Johnnie To"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
-  },
-  {
-    "id": 12,
-    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
-    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "王晶",
-      "劉偉強",
-      "杜琪峰",
-      "導演"
-    ],
-    "options_en": [
-      "Wong Jing",
-      "Andrew Lau",
-      "Johnnie To",
-      "Director"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
-  },
-  {
-    "id": 13,
-    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
-    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "王晶",
-      "導演",
-      "劉偉強",
-      "杜琪峰"
-    ],
-    "options_en": [
-      "Wong Jing",
-      "Director",
-      "Andrew Lau",
-      "Johnnie To"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
-  },
-  {
-    "id": 14,
-    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
-    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "杜琪峰",
-      "劉偉強",
-      "王晶",
-      "導演"
-    ],
-    "options_en": [
-      "Johnnie To",
-      "Andrew Lau",
-      "Wong Jing",
-      "Director"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
-  },
-  {
-    "id": 15,
-    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
-    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "導演",
-      "劉偉強",
-      "王晶",
-      "杜琪峰"
-    ],
-    "options_en": [
-      "Director",
-      "Andrew Lau",
-      "Wong Jing",
-      "Johnnie To"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
-  },
-  {
-    "id": 16,
-    "question_zh": "周潤發喺《臥虎藏龍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "配角C",
-      "配角A",
-      "主角",
-      "配角B"
-    ],
-    "options_en": [
-      "Supporting C",
-      "Supporting A",
-      "Main Character",
-      "Supporting B"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
-  },
-  {
-    "id": 17,
-    "question_zh": "周潤發喺《臥虎藏龍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "配角A",
-      "配角B",
-      "主角",
-      "配角C"
-    ],
-    "options_en": [
-      "Supporting A",
-      "Supporting B",
-      "Main Character",
-      "Supporting C"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
-  },
-  {
-    "id": 18,
-    "question_zh": "周潤發喺《臥虎藏龍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "配角A",
-      "主角",
-      "配角C",
-      "配角B"
-    ],
-    "options_en": [
-      "Supporting A",
-      "Main Character",
-      "Supporting C",
-      "Supporting B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
-  },
-  {
-    "id": 19,
-    "question_zh": "周潤發喺《臥虎藏龍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "配角A",
-      "配角C",
-      "主角",
-      "配角B"
-    ],
-    "options_en": [
-      "Supporting A",
-      "Supporting C",
-      "Main Character",
-      "Supporting B"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
-  },
-  {
-    "id": 20,
-    "question_zh": "周潤發喺《臥虎藏龍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "配角C",
-      "配角A",
-      "主角",
-      "配角B"
-    ],
-    "options_en": [
-      "Supporting C",
-      "Supporting A",
-      "Main Character",
-      "Supporting B"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
-  },
-  {
-    "id": 21,
-    "question_zh": "《臥虎藏龍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "音樂劇",
-      "紀錄片",
-      "動畫",
-      "劇情"
-    ],
-    "options_en": [
-      "Musical",
-      "Documentary",
-      "Animation",
-      "Drama"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
-  },
-  {
-    "id": 22,
-    "question_zh": "《臥虎藏龍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "音樂劇",
-      "動畫",
-      "紀錄片",
-      "劇情"
-    ],
-    "options_en": [
-      "Musical",
-      "Animation",
-      "Documentary",
-      "Drama"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
-  },
-  {
-    "id": 23,
-    "question_zh": "《臥虎藏龍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "劇情",
-      "動畫",
-      "紀錄片",
-      "音樂劇"
-    ],
-    "options_en": [
-      "Drama",
-      "Animation",
-      "Documentary",
-      "Musical"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
-  },
-  {
-    "id": 24,
-    "question_zh": "《臥虎藏龍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "音樂劇",
-      "紀錄片",
-      "劇情",
-      "動畫"
-    ],
-    "options_en": [
-      "Musical",
-      "Documentary",
-      "Drama",
-      "Animation"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
-  },
-  {
-    "id": 25,
-    "question_zh": "《臥虎藏龍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "紀錄片",
-      "音樂劇",
-      "劇情",
-      "動畫"
-    ],
-    "options_en": [
-      "Documentary",
-      "Musical",
-      "Drama",
-      "Animation"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
   },
   {
     "id": 26,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
+    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
+    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
     "options_zh": [
-      "臥虎藏龍",
-      "賭神",
-      "讓子彈飛",
-      "流星蝴蝶劍"
+      "1997年",
+      "2002年",
+      "2000年",
+      "2005年"
     ],
     "options_en": [
-      "Crouching Tiger, Hidden Dragon",
-      "God of Gamblers",
-      "A Better Tomorrow",
-      "Let the Bullets Fly"
+      "1997",
+      "2002",
+      "2000",
+      "2005"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「臥虎藏龍」。",
-    "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
-    "difficulty": 3
+    "answer": 2,
+    "explanation_zh": "正確答案係「2000年」。",
+    "explanation_en": "The correct answer is '2000'.",
+    "difficulty": 2
   },
   {
     "id": 27,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
+    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
+    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
     "options_zh": [
-      "臥虎藏龍",
-      "流星蝴蝶劍",
-      "英雄本色",
-      "讓子彈飛"
+      "李安",
+      "王晶",
+      "杜琪峰",
+      "劉偉強"
     ],
     "options_en": [
-      "Crouching Tiger, Hidden Dragon",
-      "Killer Butterfly",
-      "A Better Tomorrow",
-      "Let the Bullets Fly"
+      "李安",
+      "Wong Jing",
+      "Johnnie To",
+      "Andrew Lau"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「臥虎藏龍」。",
-    "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
-    "difficulty": 1
+    "explanation_zh": "正確答案係「李安」。",
+    "explanation_en": "The correct answer is '李安'.",
+    "difficulty": 3
   },
   {
     "id": 28,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
+    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
+    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
     "options_zh": [
-      "流星蝴蝶劍",
-      "英雄本色",
-      "臥虎藏龍",
-      "賭神"
+      "劉偉強",
+      "李安",
+      "王晶",
+      "杜琪峰"
     ],
     "options_en": [
-      "God of Gamblers",
-      "Killer Butterfly",
+      "Andrew Lau",
+      "李安",
+      "Wong Jing",
+      "Johnnie To"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「李安」。",
+    "explanation_en": "The correct answer is '李安'.",
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
+    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "劉偉強",
+      "王晶",
+      "李安",
+      "杜琪峰"
+    ],
+    "options_en": [
+      "Andrew Lau",
+      "Wong Jing",
+      "李安",
+      "Johnnie To"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「李安」。",
+    "explanation_en": "The correct answer is '李安'.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "《臥虎藏龍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "唔知",
+      "唔係",
+      "只係客串",
+      "係"
+    ],
+    "options_en": [
+      "Unknown",
+      "No",
+      "Cameo only",
+      "Yes"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
+  },
+  {
+    "id": 31,
+    "question_zh": "《臥虎藏龍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "唔係",
+      "係",
+      "只係客串",
+      "唔知"
+    ],
+    "options_en": [
+      "No",
+      "Yes",
+      "Cameo only",
+      "Unknown"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
+  },
+  {
+    "id": 32,
+    "question_zh": "《臥虎藏龍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "唔知",
+      "係",
+      "唔係",
+      "只係客串"
+    ],
+    "options_en": [
+      "Unknown",
+      "Yes",
+      "No",
+      "Cameo only"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 2
+  },
+  {
+    "id": 33,
+    "question_zh": "《臥虎藏龍》係邊度出品？",
+    "question_en": "Where was \"Crouching Tiger, Hidden Dragon\" produced?",
+    "options_zh": [
+      "美國",
+      "台灣",
+      "香港",
+      "中國"
+    ],
+    "options_en": [
+      "USA",
+      "Taiwan",
+      "Hong Kong",
+      "China"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
+  },
+  {
+    "id": 34,
+    "question_zh": "《臥虎藏龍》係邊度出品？",
+    "question_en": "Where was \"Crouching Tiger, Hidden Dragon\" produced?",
+    "options_zh": [
+      "美國",
+      "中國",
+      "香港",
+      "台灣"
+    ],
+    "options_en": [
+      "USA",
+      "China",
+      "Hong Kong",
+      "Taiwan"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question_zh": "《臥虎藏龍》係邊度出品？",
+    "question_en": "Where was \"Crouching Tiger, Hidden Dragon\" produced?",
+    "options_zh": [
+      "台灣",
+      "中國",
+      "美國",
+      "香港"
+    ],
+    "options_en": [
+      "Taiwan",
+      "China",
+      "USA",
+      "Hong Kong"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "question_zh": "周潤發喺《臥虎藏龍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "唔好",
+      "麻麻地",
+      "普通",
+      "非常出色"
+    ],
+    "options_en": [
+      "Bad",
+      "So-so",
+      "Average",
+      "Excellent"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 3
+  },
+  {
+    "id": 37,
+    "question_zh": "周潤發喺《臥虎藏龍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "唔好",
+      "非常出色",
+      "麻麻地",
+      "普通"
+    ],
+    "options_en": [
+      "Bad",
+      "Excellent",
+      "So-so",
+      "Average"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "question_zh": "周潤發喺《臥虎藏龍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "麻麻地",
+      "唔好",
+      "普通",
+      "非常出色"
+    ],
+    "options_en": [
+      "So-so",
+      "Bad",
+      "Average",
+      "Excellent"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 2
+  },
+  {
+    "id": 39,
+    "question_zh": "你會推薦《臥虎藏龍》俾朋友？",
+    "question_en": "Would you recommend \"Crouching Tiger, Hidden Dragon\" to friends?",
+    "options_zh": [
+      "唔會",
+      "會，非常推薦",
+      "唔知",
+      "睇情況"
+    ],
+    "options_en": [
+      "No",
+      "Yes, highly recommended",
+      "Unknown",
+      "Depends"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
+  },
+  {
+    "id": 40,
+    "question_zh": "你會推薦《臥虎藏龍》俾朋友？",
+    "question_en": "Would you recommend \"Crouching Tiger, Hidden Dragon\" to friends?",
+    "options_zh": [
+      "睇情況",
+      "唔會",
+      "唔知",
+      "會，非常推薦"
+    ],
+    "options_en": [
+      "Depends",
+      "No",
+      "Unknown",
+      "Yes, highly recommended"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question_zh": "以下邊部電影係周潤發主演嘅？（臥虎藏龍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Crouching Tiger, Hidden Dragon)",
+    "options_zh": [
+      "其他電影Z",
+      "其他電影Y",
+      "臥虎藏龍",
+      "其他電影X"
+    ],
+    "options_en": [
+      "Other Movie Z",
+      "Other Movie Y",
       "Crouching Tiger, Hidden Dragon",
-      "A Better Tomorrow"
+      "Other Movie X"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「臥虎藏龍」。",
@@ -588,19 +861,19 @@
     "difficulty": 2
   },
   {
-    "id": 29,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
+    "id": 42,
+    "question_zh": "以下邊部電影係周潤發主演嘅？（臥虎藏龍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Crouching Tiger, Hidden Dragon)",
     "options_zh": [
-      "讓子彈飛",
-      "賭神",
-      "流星蝴蝶劍",
+      "其他電影Z",
+      "其他電影Y",
+      "其他電影X",
       "臥虎藏龍"
     ],
     "options_en": [
-      "Killer Butterfly",
-      "Let the Bullets Fly",
-      "God of Gamblers",
+      "Other Movie Z",
+      "Other Movie Y",
+      "Other Movie X",
       "Crouching Tiger, Hidden Dragon"
     ],
     "answer": 3,
@@ -609,1222 +882,949 @@
     "difficulty": 3
   },
   {
-    "id": 30,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
+    "id": 43,
+    "question_zh": "以下邊部電影係周潤發主演嘅？（臥虎藏龍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Crouching Tiger, Hidden Dragon)",
     "options_zh": [
-      "流星蝴蝶劍",
-      "讓子彈飛",
       "臥虎藏龍",
-      "賭神"
+      "其他電影Y",
+      "其他電影Z",
+      "其他電影X"
     ],
     "options_en": [
-      "A Better Tomorrow",
-      "Killer Butterfly",
       "Crouching Tiger, Hidden Dragon",
-      "Let the Bullets Fly"
+      "Other Movie Y",
+      "Other Movie Z",
+      "Other Movie X"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「臥虎藏龍」。",
     "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
     "difficulty": 1
-  },
-  {
-    "id": 31,
-    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
-    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
-    "options_zh": [
-      "1998年",
-      "2000年",
-      "1997年",
-      "2002年"
-    ],
-    "options_en": [
-      "1998",
-      "2000",
-      "1997",
-      "2002"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2000年」。",
-    "explanation_en": "The correct answer is '2000'.",
-    "difficulty": 2
-  },
-  {
-    "id": 32,
-    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
-    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
-    "options_zh": [
-      "1998年",
-      "2000年",
-      "2003年",
-      "2002年"
-    ],
-    "options_en": [
-      "1998",
-      "2000",
-      "2003",
-      "2002"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2000年」。",
-    "explanation_en": "The correct answer is '2000'.",
-    "difficulty": 3
-  },
-  {
-    "id": 33,
-    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
-    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
-    "options_zh": [
-      "1997年",
-      "2000年",
-      "1998年",
-      "2003年"
-    ],
-    "options_en": [
-      "1997",
-      "2000",
-      "1998",
-      "2003"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2000年」。",
-    "explanation_en": "The correct answer is '2000'.",
-    "difficulty": 1
-  },
-  {
-    "id": 34,
-    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
-    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
-    "options_zh": [
-      "1997年",
-      "2002年",
-      "1998年",
-      "2000年"
-    ],
-    "options_en": [
-      "1997",
-      "2002",
-      "1998",
-      "2000"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2000年」。",
-    "explanation_en": "The correct answer is '2000'.",
-    "difficulty": 2
-  },
-  {
-    "id": 35,
-    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
-    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
-    "options_zh": [
-      "2000年",
-      "1998年",
-      "2002年",
-      "1997年"
-    ],
-    "options_en": [
-      "2000",
-      "1998",
-      "2002",
-      "1997"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2000年」。",
-    "explanation_en": "The correct answer is '2000'.",
-    "difficulty": 3
-  },
-  {
-    "id": 36,
-    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
-    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "杜琪峰",
-      "導演",
-      "劉偉強",
-      "王晶"
-    ],
-    "options_en": [
-      "Johnnie To",
-      "Director",
-      "Andrew Lau",
-      "Wong Jing"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
-  },
-  {
-    "id": 37,
-    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
-    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "杜琪峰",
-      "導演",
-      "王晶",
-      "劉偉強"
-    ],
-    "options_en": [
-      "Johnnie To",
-      "Director",
-      "Wong Jing",
-      "Andrew Lau"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
-  },
-  {
-    "id": 38,
-    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
-    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "導演",
-      "王晶",
-      "劉偉強",
-      "杜琪峰"
-    ],
-    "options_en": [
-      "Director",
-      "Wong Jing",
-      "Andrew Lau",
-      "Johnnie To"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
-  },
-  {
-    "id": 39,
-    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
-    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "杜琪峰",
-      "劉偉強",
-      "導演",
-      "王晶"
-    ],
-    "options_en": [
-      "Johnnie To",
-      "Andrew Lau",
-      "Director",
-      "Wong Jing"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
-  },
-  {
-    "id": 40,
-    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
-    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "導演",
-      "杜琪峰",
-      "王晶",
-      "劉偉強"
-    ],
-    "options_en": [
-      "Director",
-      "Johnnie To",
-      "Wong Jing",
-      "Andrew Lau"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
-  },
-  {
-    "id": 41,
-    "question_zh": "周潤發喺《臥虎藏龍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "配角C",
-      "配角A",
-      "配角B",
-      "主角"
-    ],
-    "options_en": [
-      "Supporting C",
-      "Supporting A",
-      "Supporting B",
-      "Main Character"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
-  },
-  {
-    "id": 42,
-    "question_zh": "周潤發喺《臥虎藏龍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "配角A",
-      "主角",
-      "配角B",
-      "配角C"
-    ],
-    "options_en": [
-      "Supporting A",
-      "Main Character",
-      "Supporting B",
-      "Supporting C"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
-  },
-  {
-    "id": 43,
-    "question_zh": "周潤發喺《臥虎藏龍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "配角B",
-      "配角A",
-      "主角",
-      "配角C"
-    ],
-    "options_en": [
-      "Supporting B",
-      "Supporting A",
-      "Main Character",
-      "Supporting C"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
   },
   {
     "id": 44,
-    "question_zh": "周潤發喺《臥虎藏龍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Crouching Tiger, Hidden Dragon\"?",
+    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
+    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
     "options_zh": [
-      "配角A",
-      "配角B",
-      "配角C",
-      "主角"
+      "1997年",
+      "2000年",
+      "2005年",
+      "2002年"
     ],
     "options_en": [
-      "Supporting A",
-      "Supporting B",
-      "Supporting C",
-      "Main Character"
+      "1997",
+      "2000",
+      "2005",
+      "2002"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「2000年」。",
+    "explanation_en": "The correct answer is '2000'.",
+    "difficulty": 2
   },
   {
     "id": 45,
-    "question_zh": "周潤發喺《臥虎藏龍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "配角B",
-      "主角",
-      "配角A",
-      "配角C"
-    ],
-    "options_en": [
-      "Supporting B",
-      "Main Character",
-      "Supporting A",
-      "Supporting C"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
-  },
-  {
-    "id": 46,
-    "question_zh": "《臥虎藏龍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "音樂劇",
-      "動畫",
-      "紀錄片",
-      "劇情"
-    ],
-    "options_en": [
-      "Musical",
-      "Animation",
-      "Documentary",
-      "Drama"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
-  },
-  {
-    "id": 47,
-    "question_zh": "《臥虎藏龍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "動畫",
-      "劇情",
-      "紀錄片",
-      "音樂劇"
-    ],
-    "options_en": [
-      "Animation",
-      "Drama",
-      "Documentary",
-      "Musical"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
-  },
-  {
-    "id": 48,
-    "question_zh": "《臥虎藏龍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "劇情",
-      "動畫",
-      "音樂劇",
-      "紀錄片"
-    ],
-    "options_en": [
-      "Drama",
-      "Animation",
-      "Musical",
-      "Documentary"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
-  },
-  {
-    "id": 49,
-    "question_zh": "《臥虎藏龍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "劇情",
-      "動畫",
-      "音樂劇",
-      "紀錄片"
-    ],
-    "options_en": [
-      "Drama",
-      "Animation",
-      "Musical",
-      "Documentary"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
-  },
-  {
-    "id": 50,
-    "question_zh": "《臥虎藏龍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "動畫",
-      "音樂劇",
-      "劇情",
-      "紀錄片"
-    ],
-    "options_en": [
-      "Animation",
-      "Musical",
-      "Drama",
-      "Documentary"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
-  },
-  {
-    "id": 51,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "臥虎藏龍",
-      "讓子彈飛",
-      "賭神",
-      "英雄本色"
-    ],
-    "options_en": [
-      "Crouching Tiger, Hidden Dragon",
-      "God of Gamblers",
-      "A Better Tomorrow",
-      "Killer Butterfly"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「臥虎藏龍」。",
-    "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
-    "difficulty": 1
-  },
-  {
-    "id": 52,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "流星蝴蝶劍",
-      "讓子彈飛",
-      "臥虎藏龍",
-      "英雄本色"
-    ],
-    "options_en": [
-      "Killer Butterfly",
-      "God of Gamblers",
-      "Crouching Tiger, Hidden Dragon",
-      "Let the Bullets Fly"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「臥虎藏龍」。",
-    "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
-    "difficulty": 2
-  },
-  {
-    "id": 53,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "臥虎藏龍",
-      "賭神",
-      "讓子彈飛",
-      "流星蝴蝶劍"
-    ],
-    "options_en": [
-      "Crouching Tiger, Hidden Dragon",
-      "Let the Bullets Fly",
-      "Killer Butterfly",
-      "A Better Tomorrow"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「臥虎藏龍」。",
-    "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
-    "difficulty": 3
-  },
-  {
-    "id": 54,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "臥虎藏龍",
-      "英雄本色",
-      "流星蝴蝶劍",
-      "讓子彈飛"
-    ],
-    "options_en": [
-      "Crouching Tiger, Hidden Dragon",
-      "A Better Tomorrow",
-      "Let the Bullets Fly",
-      "God of Gamblers"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「臥虎藏龍」。",
-    "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
-    "difficulty": 1
-  },
-  {
-    "id": 55,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "英雄本色",
-      "臥虎藏龍",
-      "讓子彈飛",
-      "流星蝴蝶劍"
-    ],
-    "options_en": [
-      "God of Gamblers",
-      "Crouching Tiger, Hidden Dragon",
-      "Let the Bullets Fly",
-      "A Better Tomorrow"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「臥虎藏龍」。",
-    "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
-    "difficulty": 2
-  },
-  {
-    "id": 56,
-    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
-    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
-    "options_zh": [
-      "1997年",
-      "2003年",
-      "2000年",
-      "1998年"
-    ],
-    "options_en": [
-      "1997",
-      "2003",
-      "2000",
-      "1998"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2000年」。",
-    "explanation_en": "The correct answer is '2000'.",
-    "difficulty": 3
-  },
-  {
-    "id": 57,
-    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
-    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
-    "options_zh": [
-      "2003年",
-      "2000年",
-      "1997年",
-      "1998年"
-    ],
-    "options_en": [
-      "2003",
-      "2000",
-      "1997",
-      "1998"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2000年」。",
-    "explanation_en": "The correct answer is '2000'.",
-    "difficulty": 1
-  },
-  {
-    "id": 58,
-    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
-    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
-    "options_zh": [
-      "1997年",
-      "2002年",
-      "2000年",
-      "1998年"
-    ],
-    "options_en": [
-      "1997",
-      "2002",
-      "2000",
-      "1998"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2000年」。",
-    "explanation_en": "The correct answer is '2000'.",
-    "difficulty": 2
-  },
-  {
-    "id": 59,
-    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
-    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
-    "options_zh": [
-      "1997年",
-      "2000年",
-      "2002年",
-      "1998年"
-    ],
-    "options_en": [
-      "1997",
-      "2000",
-      "2002",
-      "1998"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2000年」。",
-    "explanation_en": "The correct answer is '2000'.",
-    "difficulty": 3
-  },
-  {
-    "id": 60,
-    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
-    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
-    "options_zh": [
-      "1997年",
-      "2002年",
-      "1998年",
-      "2000年"
-    ],
-    "options_en": [
-      "1997",
-      "2002",
-      "1998",
-      "2000"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2000年」。",
-    "explanation_en": "The correct answer is '2000'.",
-    "difficulty": 1
-  },
-  {
-    "id": 61,
-    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
-    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "杜琪峰",
-      "王晶",
-      "導演",
-      "劉偉強"
-    ],
-    "options_en": [
-      "Johnnie To",
-      "Wong Jing",
-      "Director",
-      "Andrew Lau"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
-  },
-  {
-    "id": 62,
-    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
-    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "劉偉強",
-      "王晶",
-      "杜琪峰",
-      "導演"
-    ],
-    "options_en": [
-      "Andrew Lau",
-      "Wong Jing",
-      "Johnnie To",
-      "Director"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
-  },
-  {
-    "id": 63,
-    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
-    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "杜琪峰",
-      "劉偉強",
-      "導演",
-      "王晶"
-    ],
-    "options_en": [
-      "Johnnie To",
-      "Andrew Lau",
-      "Director",
-      "Wong Jing"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
-  },
-  {
-    "id": 64,
-    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
-    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "導演",
-      "杜琪峰",
-      "王晶",
-      "劉偉強"
-    ],
-    "options_en": [
-      "Director",
-      "Johnnie To",
-      "Wong Jing",
-      "Andrew Lau"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
-  },
-  {
-    "id": 65,
-    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
-    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "杜琪峰",
-      "王晶",
-      "導演",
-      "劉偉強"
-    ],
-    "options_en": [
-      "Johnnie To",
-      "Wong Jing",
-      "Director",
-      "Andrew Lau"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
-  },
-  {
-    "id": 66,
-    "question_zh": "周潤發喺《臥虎藏龍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "配角B",
-      "主角",
-      "配角C",
-      "配角A"
-    ],
-    "options_en": [
-      "Supporting B",
-      "Main Character",
-      "Supporting C",
-      "Supporting A"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
-  },
-  {
-    "id": 67,
-    "question_zh": "周潤發喺《臥虎藏龍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "配角A",
-      "配角B",
-      "主角",
-      "配角C"
-    ],
-    "options_en": [
-      "Supporting A",
-      "Supporting B",
-      "Main Character",
-      "Supporting C"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
-  },
-  {
-    "id": 68,
-    "question_zh": "周潤發喺《臥虎藏龍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "主角",
-      "配角B",
-      "配角C",
-      "配角A"
-    ],
-    "options_en": [
-      "Main Character",
-      "Supporting B",
-      "Supporting C",
-      "Supporting A"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
-  },
-  {
-    "id": 69,
-    "question_zh": "周潤發喺《臥虎藏龍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "主角",
-      "配角A",
-      "配角C",
-      "配角B"
-    ],
-    "options_en": [
-      "Main Character",
-      "Supporting A",
-      "Supporting C",
-      "Supporting B"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
-  },
-  {
-    "id": 70,
-    "question_zh": "周潤發喺《臥虎藏龍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "配角A",
-      "配角C",
-      "主角",
-      "配角B"
-    ],
-    "options_en": [
-      "Supporting A",
-      "Supporting C",
-      "Main Character",
-      "Supporting B"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
-  },
-  {
-    "id": 71,
-    "question_zh": "《臥虎藏龍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "紀錄片",
-      "劇情",
-      "動畫",
-      "音樂劇"
-    ],
-    "options_en": [
-      "Documentary",
-      "Drama",
-      "Animation",
-      "Musical"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
-  },
-  {
-    "id": 72,
-    "question_zh": "《臥虎藏龍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "紀錄片",
-      "音樂劇",
-      "動畫",
-      "劇情"
-    ],
-    "options_en": [
-      "Documentary",
-      "Musical",
-      "Animation",
-      "Drama"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
-  },
-  {
-    "id": 73,
-    "question_zh": "《臥虎藏龍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "音樂劇",
-      "紀錄片",
-      "劇情",
-      "動畫"
-    ],
-    "options_en": [
-      "Musical",
-      "Documentary",
-      "Drama",
-      "Animation"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
-  },
-  {
-    "id": 74,
-    "question_zh": "《臥虎藏龍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "劇情",
-      "動畫",
-      "紀錄片",
-      "音樂劇"
-    ],
-    "options_en": [
-      "Drama",
-      "Animation",
-      "Documentary",
-      "Musical"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
-  },
-  {
-    "id": 75,
-    "question_zh": "《臥虎藏龍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "紀錄片",
-      "音樂劇",
-      "劇情",
-      "動畫"
-    ],
-    "options_en": [
-      "Documentary",
-      "Musical",
-      "Drama",
-      "Animation"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
-  },
-  {
-    "id": 76,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "賭神",
-      "讓子彈飛",
-      "臥虎藏龍",
-      "流星蝴蝶劍"
-    ],
-    "options_en": [
-      "A Better Tomorrow",
-      "God of Gamblers",
-      "Crouching Tiger, Hidden Dragon",
-      "Killer Butterfly"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「臥虎藏龍」。",
-    "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
-    "difficulty": 2
-  },
-  {
-    "id": 77,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "臥虎藏龍",
-      "賭神",
-      "英雄本色",
-      "讓子彈飛"
-    ],
-    "options_en": [
-      "Crouching Tiger, Hidden Dragon",
-      "A Better Tomorrow",
-      "Let the Bullets Fly",
-      "God of Gamblers"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「臥虎藏龍」。",
-    "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
-    "difficulty": 3
-  },
-  {
-    "id": 78,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "賭神",
-      "讓子彈飛",
-      "臥虎藏龍",
-      "英雄本色"
-    ],
-    "options_en": [
-      "God of Gamblers",
-      "Let the Bullets Fly",
-      "Crouching Tiger, Hidden Dragon",
-      "Killer Butterfly"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「臥虎藏龍」。",
-    "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
-    "difficulty": 1
-  },
-  {
-    "id": 79,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "臥虎藏龍",
-      "賭神",
-      "流星蝴蝶劍",
-      "英雄本色"
-    ],
-    "options_en": [
-      "Crouching Tiger, Hidden Dragon",
-      "Killer Butterfly",
-      "Let the Bullets Fly",
-      "A Better Tomorrow"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「臥虎藏龍」。",
-    "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
-    "difficulty": 2
-  },
-  {
-    "id": 80,
-    "question_zh": "以下邊部電影係周潤發主演嘅？",
-    "question_en": "Which movie stars Chow Yun-fat?",
-    "options_zh": [
-      "賭神",
-      "臥虎藏龍",
-      "英雄本色",
-      "讓子彈飛"
-    ],
-    "options_en": [
-      "A Better Tomorrow",
-      "Crouching Tiger, Hidden Dragon",
-      "Killer Butterfly",
-      "Let the Bullets Fly"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「臥虎藏龍」。",
-    "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
-    "difficulty": 3
-  },
-  {
-    "id": 81,
-    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
-    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
-    "options_zh": [
-      "1998年",
-      "1997年",
-      "2003年",
-      "2000年"
-    ],
-    "options_en": [
-      "1998",
-      "1997",
-      "2003",
-      "2000"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2000年」。",
-    "explanation_en": "The correct answer is '2000'.",
-    "difficulty": 1
-  },
-  {
-    "id": 82,
-    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
-    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
-    "options_zh": [
-      "2002年",
-      "1997年",
-      "2000年",
-      "2003年"
-    ],
-    "options_en": [
-      "2002",
-      "1997",
-      "2000",
-      "2003"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2000年」。",
-    "explanation_en": "The correct answer is '2000'.",
-    "difficulty": 2
-  },
-  {
-    "id": 83,
     "question_zh": "《臥虎藏龍》係邊年上映嘅？",
     "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
     "options_zh": [
       "2000年",
-      "1998年",
-      "2003年",
+      "2005年",
+      "1997年",
       "2002年"
     ],
     "options_en": [
       "2000",
-      "1998",
-      "2003",
+      "2005",
+      "1997",
       "2002"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「2000年」。",
     "explanation_en": "The correct answer is '2000'.",
     "difficulty": 3
+  },
+  {
+    "id": 46,
+    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
+    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
+    "options_zh": [
+      "1997年",
+      "2005年",
+      "2002年",
+      "2000年"
+    ],
+    "options_en": [
+      "1997",
+      "2005",
+      "2002",
+      "2000"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「2000年」。",
+    "explanation_en": "The correct answer is '2000'.",
+    "difficulty": 1
+  },
+  {
+    "id": 47,
+    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
+    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "王晶",
+      "杜琪峰",
+      "劉偉強",
+      "李安"
+    ],
+    "options_en": [
+      "Wong Jing",
+      "Johnnie To",
+      "Andrew Lau",
+      "李安"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「李安」。",
+    "explanation_en": "The correct answer is '李安'.",
+    "difficulty": 2
+  },
+  {
+    "id": 48,
+    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
+    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "李安",
+      "劉偉強",
+      "杜琪峰",
+      "王晶"
+    ],
+    "options_en": [
+      "李安",
+      "Andrew Lau",
+      "Johnnie To",
+      "Wong Jing"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「李安」。",
+    "explanation_en": "The correct answer is '李安'.",
+    "difficulty": 3
+  },
+  {
+    "id": 49,
+    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
+    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "李安",
+      "杜琪峰",
+      "王晶",
+      "劉偉強"
+    ],
+    "options_en": [
+      "李安",
+      "Johnnie To",
+      "Wong Jing",
+      "Andrew Lau"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「李安」。",
+    "explanation_en": "The correct answer is '李安'.",
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question_zh": "《臥虎藏龍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "唔係",
+      "唔知",
+      "只係客串",
+      "係"
+    ],
+    "options_en": [
+      "No",
+      "Unknown",
+      "Cameo only",
+      "Yes"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 2
+  },
+  {
+    "id": 51,
+    "question_zh": "《臥虎藏龍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "唔係",
+      "只係客串",
+      "係",
+      "唔知"
+    ],
+    "options_en": [
+      "No",
+      "Cameo only",
+      "Yes",
+      "Unknown"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
+  },
+  {
+    "id": 52,
+    "question_zh": "《臥虎藏龍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "唔係",
+      "係",
+      "只係客串",
+      "唔知"
+    ],
+    "options_en": [
+      "No",
+      "Yes",
+      "Cameo only",
+      "Unknown"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
+  },
+  {
+    "id": 53,
+    "question_zh": "《臥虎藏龍》係邊度出品？",
+    "question_en": "Where was \"Crouching Tiger, Hidden Dragon\" produced?",
+    "options_zh": [
+      "中國",
+      "台灣",
+      "香港",
+      "美國"
+    ],
+    "options_en": [
+      "China",
+      "Taiwan",
+      "Hong Kong",
+      "USA"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
+  },
+  {
+    "id": 54,
+    "question_zh": "《臥虎藏龍》係邊度出品？",
+    "question_en": "Where was \"Crouching Tiger, Hidden Dragon\" produced?",
+    "options_zh": [
+      "台灣",
+      "美國",
+      "香港",
+      "中國"
+    ],
+    "options_en": [
+      "Taiwan",
+      "USA",
+      "Hong Kong",
+      "China"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
+  },
+  {
+    "id": 55,
+    "question_zh": "《臥虎藏龍》係邊度出品？",
+    "question_en": "Where was \"Crouching Tiger, Hidden Dragon\" produced?",
+    "options_zh": [
+      "台灣",
+      "香港",
+      "中國",
+      "美國"
+    ],
+    "options_en": [
+      "Taiwan",
+      "Hong Kong",
+      "China",
+      "USA"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
+  },
+  {
+    "id": 56,
+    "question_zh": "周潤發喺《臥虎藏龍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "麻麻地",
+      "普通",
+      "唔好",
+      "非常出色"
+    ],
+    "options_en": [
+      "So-so",
+      "Average",
+      "Bad",
+      "Excellent"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 2
+  },
+  {
+    "id": 57,
+    "question_zh": "周潤發喺《臥虎藏龍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "麻麻地",
+      "唔好",
+      "普通",
+      "非常出色"
+    ],
+    "options_en": [
+      "So-so",
+      "Bad",
+      "Average",
+      "Excellent"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 3
+  },
+  {
+    "id": 58,
+    "question_zh": "周潤發喺《臥虎藏龍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "普通",
+      "非常出色",
+      "麻麻地",
+      "唔好"
+    ],
+    "options_en": [
+      "Average",
+      "Excellent",
+      "So-so",
+      "Bad"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 1
+  },
+  {
+    "id": 59,
+    "question_zh": "你會推薦《臥虎藏龍》俾朋友？",
+    "question_en": "Would you recommend \"Crouching Tiger, Hidden Dragon\" to friends?",
+    "options_zh": [
+      "睇情況",
+      "唔會",
+      "會，非常推薦",
+      "唔知"
+    ],
+    "options_en": [
+      "Depends",
+      "No",
+      "Yes, highly recommended",
+      "Unknown"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 2
+  },
+  {
+    "id": 60,
+    "question_zh": "你會推薦《臥虎藏龍》俾朋友？",
+    "question_en": "Would you recommend \"Crouching Tiger, Hidden Dragon\" to friends?",
+    "options_zh": [
+      "唔會",
+      "唔知",
+      "睇情況",
+      "會，非常推薦"
+    ],
+    "options_en": [
+      "No",
+      "Unknown",
+      "Depends",
+      "Yes, highly recommended"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
+  },
+  {
+    "id": 61,
+    "question_zh": "以下邊部電影係周潤發主演嘅？（臥虎藏龍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Crouching Tiger, Hidden Dragon)",
+    "options_zh": [
+      "臥虎藏龍",
+      "其他電影Y",
+      "其他電影Z",
+      "其他電影X"
+    ],
+    "options_en": [
+      "Crouching Tiger, Hidden Dragon",
+      "Other Movie Y",
+      "Other Movie Z",
+      "Other Movie X"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「臥虎藏龍」。",
+    "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
+    "difficulty": 1
+  },
+  {
+    "id": 62,
+    "question_zh": "以下邊部電影係周潤發主演嘅？（臥虎藏龍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Crouching Tiger, Hidden Dragon)",
+    "options_zh": [
+      "其他電影Z",
+      "其他電影X",
+      "其他電影Y",
+      "臥虎藏龍"
+    ],
+    "options_en": [
+      "Other Movie Z",
+      "Other Movie X",
+      "Other Movie Y",
+      "Crouching Tiger, Hidden Dragon"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「臥虎藏龍」。",
+    "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
+    "difficulty": 2
+  },
+  {
+    "id": 63,
+    "question_zh": "以下邊部電影係周潤發主演嘅？（臥虎藏龍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Crouching Tiger, Hidden Dragon)",
+    "options_zh": [
+      "其他電影X",
+      "其他電影Y",
+      "臥虎藏龍",
+      "其他電影Z"
+    ],
+    "options_en": [
+      "Other Movie X",
+      "Other Movie Y",
+      "Crouching Tiger, Hidden Dragon",
+      "Other Movie Z"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「臥虎藏龍」。",
+    "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
+    "difficulty": 3
+  },
+  {
+    "id": 64,
+    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
+    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
+    "options_zh": [
+      "1997年",
+      "2000年",
+      "2005年",
+      "2002年"
+    ],
+    "options_en": [
+      "1997",
+      "2000",
+      "2005",
+      "2002"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「2000年」。",
+    "explanation_en": "The correct answer is '2000'.",
+    "difficulty": 1
+  },
+  {
+    "id": 65,
+    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
+    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
+    "options_zh": [
+      "2000年",
+      "2005年",
+      "1997年",
+      "2002年"
+    ],
+    "options_en": [
+      "2000",
+      "2005",
+      "1997",
+      "2002"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2000年」。",
+    "explanation_en": "The correct answer is '2000'.",
+    "difficulty": 2
+  },
+  {
+    "id": 66,
+    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
+    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
+    "options_zh": [
+      "2005年",
+      "2002年",
+      "2000年",
+      "1997年"
+    ],
+    "options_en": [
+      "2005",
+      "2002",
+      "2000",
+      "1997"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2000年」。",
+    "explanation_en": "The correct answer is '2000'.",
+    "difficulty": 3
+  },
+  {
+    "id": 67,
+    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
+    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "劉偉強",
+      "王晶",
+      "李安",
+      "杜琪峰"
+    ],
+    "options_en": [
+      "Andrew Lau",
+      "Wong Jing",
+      "李安",
+      "Johnnie To"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「李安」。",
+    "explanation_en": "The correct answer is '李安'.",
+    "difficulty": 1
+  },
+  {
+    "id": 68,
+    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
+    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "王晶",
+      "劉偉強",
+      "李安",
+      "杜琪峰"
+    ],
+    "options_en": [
+      "Wong Jing",
+      "Andrew Lau",
+      "李安",
+      "Johnnie To"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「李安」。",
+    "explanation_en": "The correct answer is '李安'.",
+    "difficulty": 2
+  },
+  {
+    "id": 69,
+    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
+    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "李安",
+      "王晶",
+      "杜琪峰",
+      "劉偉強"
+    ],
+    "options_en": [
+      "李安",
+      "Wong Jing",
+      "Johnnie To",
+      "Andrew Lau"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「李安」。",
+    "explanation_en": "The correct answer is '李安'.",
+    "difficulty": 3
+  },
+  {
+    "id": 70,
+    "question_zh": "《臥虎藏龍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "只係客串",
+      "係",
+      "唔係",
+      "唔知"
+    ],
+    "options_en": [
+      "Cameo only",
+      "Yes",
+      "No",
+      "Unknown"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
+  },
+  {
+    "id": 71,
+    "question_zh": "《臥虎藏龍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "唔知",
+      "只係客串",
+      "唔係",
+      "係"
+    ],
+    "options_en": [
+      "Unknown",
+      "Cameo only",
+      "No",
+      "Yes"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 2
+  },
+  {
+    "id": 72,
+    "question_zh": "《臥虎藏龍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "唔知",
+      "唔係",
+      "係",
+      "只係客串"
+    ],
+    "options_en": [
+      "Unknown",
+      "No",
+      "Yes",
+      "Cameo only"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
+  },
+  {
+    "id": 73,
+    "question_zh": "《臥虎藏龍》係邊度出品？",
+    "question_en": "Where was \"Crouching Tiger, Hidden Dragon\" produced?",
+    "options_zh": [
+      "美國",
+      "台灣",
+      "香港",
+      "中國"
+    ],
+    "options_en": [
+      "USA",
+      "Taiwan",
+      "Hong Kong",
+      "China"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
+  },
+  {
+    "id": 74,
+    "question_zh": "《臥虎藏龍》係邊度出品？",
+    "question_en": "Where was \"Crouching Tiger, Hidden Dragon\" produced?",
+    "options_zh": [
+      "台灣",
+      "中國",
+      "香港",
+      "美國"
+    ],
+    "options_en": [
+      "Taiwan",
+      "China",
+      "Hong Kong",
+      "USA"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
+  },
+  {
+    "id": 75,
+    "question_zh": "《臥虎藏龍》係邊度出品？",
+    "question_en": "Where was \"Crouching Tiger, Hidden Dragon\" produced?",
+    "options_zh": [
+      "美國",
+      "台灣",
+      "香港",
+      "中國"
+    ],
+    "options_en": [
+      "USA",
+      "Taiwan",
+      "Hong Kong",
+      "China"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
+  },
+  {
+    "id": 76,
+    "question_zh": "周潤發喺《臥虎藏龍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "麻麻地",
+      "非常出色",
+      "普通",
+      "唔好"
+    ],
+    "options_en": [
+      "So-so",
+      "Excellent",
+      "Average",
+      "Bad"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 1
+  },
+  {
+    "id": 77,
+    "question_zh": "周潤發喺《臥虎藏龍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "麻麻地",
+      "非常出色",
+      "唔好",
+      "普通"
+    ],
+    "options_en": [
+      "So-so",
+      "Excellent",
+      "Bad",
+      "Average"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 2
+  },
+  {
+    "id": 78,
+    "question_zh": "周潤發喺《臥虎藏龍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Crouching Tiger, Hidden Dragon\"?",
+    "options_zh": [
+      "麻麻地",
+      "非常出色",
+      "普通",
+      "唔好"
+    ],
+    "options_en": [
+      "So-so",
+      "Excellent",
+      "Average",
+      "Bad"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 3
+  },
+  {
+    "id": 79,
+    "question_zh": "你會推薦《臥虎藏龍》俾朋友？",
+    "question_en": "Would you recommend \"Crouching Tiger, Hidden Dragon\" to friends?",
+    "options_zh": [
+      "睇情況",
+      "唔會",
+      "唔知",
+      "會，非常推薦"
+    ],
+    "options_en": [
+      "Depends",
+      "No",
+      "Unknown",
+      "Yes, highly recommended"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
+  },
+  {
+    "id": 80,
+    "question_zh": "你會推薦《臥虎藏龍》俾朋友？",
+    "question_en": "Would you recommend \"Crouching Tiger, Hidden Dragon\" to friends?",
+    "options_zh": [
+      "會，非常推薦",
+      "唔會",
+      "睇情況",
+      "唔知"
+    ],
+    "options_en": [
+      "Yes, highly recommended",
+      "No",
+      "Depends",
+      "Unknown"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 2
+  },
+  {
+    "id": 81,
+    "question_zh": "以下邊部電影係周潤發主演嘅？（臥虎藏龍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Crouching Tiger, Hidden Dragon)",
+    "options_zh": [
+      "其他電影Y",
+      "其他電影Z",
+      "其他電影X",
+      "臥虎藏龍"
+    ],
+    "options_en": [
+      "Other Movie Y",
+      "Other Movie Z",
+      "Other Movie X",
+      "Crouching Tiger, Hidden Dragon"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「臥虎藏龍」。",
+    "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
+    "difficulty": 3
+  },
+  {
+    "id": 82,
+    "question_zh": "以下邊部電影係周潤發主演嘅？（臥虎藏龍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Crouching Tiger, Hidden Dragon)",
+    "options_zh": [
+      "臥虎藏龍",
+      "其他電影X",
+      "其他電影Z",
+      "其他電影Y"
+    ],
+    "options_en": [
+      "Crouching Tiger, Hidden Dragon",
+      "Other Movie X",
+      "Other Movie Z",
+      "Other Movie Y"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「臥虎藏龍」。",
+    "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
+    "difficulty": 1
+  },
+  {
+    "id": 83,
+    "question_zh": "以下邊部電影係周潤發主演嘅？（臥虎藏龍）",
+    "question_en": "Which movie stars Chow Yun-fat? (Crouching Tiger, Hidden Dragon)",
+    "options_zh": [
+      "臥虎藏龍",
+      "其他電影X",
+      "其他電影Z",
+      "其他電影Y"
+    ],
+    "options_en": [
+      "Crouching Tiger, Hidden Dragon",
+      "Other Movie X",
+      "Other Movie Z",
+      "Other Movie Y"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「臥虎藏龍」。",
+    "explanation_en": "The correct answer is 'Crouching Tiger, Hidden Dragon'.",
+    "difficulty": 2
   },
   {
     "id": 84,
     "question_zh": "《臥虎藏龍》係邊年上映嘅？",
     "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
     "options_zh": [
+      "2005年",
       "1997年",
-      "2003年",
-      "2000年",
-      "1998年"
+      "2002年",
+      "2000年"
     ],
     "options_en": [
+      "2005",
       "1997",
-      "2003",
-      "2000",
-      "1998"
+      "2002",
+      "2000"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「2000年」。",
     "explanation_en": "The correct answer is '2000'.",
-    "difficulty": 1
+    "difficulty": 3
   },
   {
     "id": 85,
     "question_zh": "《臥虎藏龍》係邊年上映嘅？",
     "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
     "options_zh": [
+      "2005年",
       "2000年",
-      "1998年",
       "1997年",
-      "2003年"
+      "2002年"
     ],
     "options_en": [
+      "2005",
       "2000",
-      "1998",
       "1997",
-      "2003"
+      "2002"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「2000年」。",
     "explanation_en": "The correct answer is '2000'.",
-    "difficulty": 2
+    "difficulty": 1
   },
   {
     "id": 86,
-    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
-    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
+    "question_zh": "《臥虎藏龍》係邊年上映嘅？",
+    "question_en": "What year was \"Crouching Tiger, Hidden Dragon\" released?",
     "options_zh": [
-      "劉偉強",
-      "王晶",
-      "導演",
-      "杜琪峰"
+      "2002年",
+      "1997年",
+      "2005年",
+      "2000年"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Wong Jing",
-      "Director",
-      "Johnnie To"
+      "2002",
+      "1997",
+      "2005",
+      "2000"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
+    "answer": 3,
+    "explanation_zh": "正確答案係「2000年」。",
+    "explanation_en": "The correct answer is '2000'.",
+    "difficulty": 2
   },
   {
     "id": 87,
     "question_zh": "《臥虎藏龍》嘅導演係邊個？",
     "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
     "options_zh": [
-      "杜琪峰",
+      "李安",
       "王晶",
-      "劉偉強",
-      "導演"
+      "杜琪峰",
+      "劉偉強"
     ],
     "options_en": [
-      "Johnnie To",
+      "李安",
       "Wong Jing",
-      "Andrew Lau",
-      "Director"
+      "Johnnie To",
+      "Andrew Lau"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "正確答案係「李安」。",
+    "explanation_en": "The correct answer is '李安'.",
+    "difficulty": 3
   },
   {
     "id": 88,
@@ -1832,20 +1832,20 @@
     "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
     "options_zh": [
       "劉偉強",
+      "李安",
       "王晶",
-      "杜琪峰",
-      "導演"
+      "杜琪峰"
     ],
     "options_en": [
       "Andrew Lau",
+      "李安",
       "Wong Jing",
-      "Johnnie To",
-      "Director"
+      "Johnnie To"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
+    "answer": 1,
+    "explanation_zh": "正確答案係「李安」。",
+    "explanation_en": "The correct answer is '李安'.",
+    "difficulty": 1
   },
   {
     "id": 89,
@@ -1854,249 +1854,249 @@
     "options_zh": [
       "劉偉強",
       "王晶",
-      "導演",
+      "李安",
       "杜琪峰"
     ],
     "options_en": [
       "Andrew Lau",
       "Wong Jing",
-      "Director",
+      "李安",
       "Johnnie To"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「李安」。",
+    "explanation_en": "The correct answer is '李安'.",
+    "difficulty": 2
   },
   {
     "id": 90,
-    "question_zh": "《臥虎藏龍》嘅導演係邊個？",
-    "question_en": "Who directed \"Crouching Tiger, Hidden Dragon\"?",
+    "question_zh": "《臥虎藏龍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Crouching Tiger, Hidden Dragon\"?",
     "options_zh": [
-      "杜琪峰",
-      "劉偉強",
-      "王晶",
-      "導演"
+      "只係客串",
+      "唔知",
+      "係",
+      "唔係"
     ],
     "options_en": [
-      "Johnnie To",
-      "Andrew Lau",
-      "Wong Jing",
-      "Director"
+      "Cameo only",
+      "Unknown",
+      "Yes",
+      "No"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "answer": 2,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
   },
   {
     "id": 91,
-    "question_zh": "周潤發喺《臥虎藏龍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Crouching Tiger, Hidden Dragon\"?",
+    "question_zh": "《臥虎藏龍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Crouching Tiger, Hidden Dragon\"?",
     "options_zh": [
-      "配角A",
-      "主角",
-      "配角B",
-      "配角C"
+      "係",
+      "只係客串",
+      "唔係",
+      "唔知"
     ],
     "options_en": [
-      "Supporting A",
-      "Main Character",
-      "Supporting B",
-      "Supporting C"
+      "Yes",
+      "Cameo only",
+      "No",
+      "Unknown"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
   },
   {
     "id": 92,
-    "question_zh": "周潤發喺《臥虎藏龍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Crouching Tiger, Hidden Dragon\"?",
+    "question_zh": "《臥虎藏龍》入面周潤發係主角？",
+    "question_en": "Is Chow Yun-fat the lead in \"Crouching Tiger, Hidden Dragon\"?",
     "options_zh": [
-      "主角",
-      "配角B",
-      "配角A",
-      "配角C"
+      "只係客串",
+      "唔係",
+      "係",
+      "唔知"
     ],
     "options_en": [
-      "Main Character",
-      "Supporting B",
-      "Supporting A",
-      "Supporting C"
+      "Cameo only",
+      "No",
+      "Yes",
+      "Unknown"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "answer": 2,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 2
   },
   {
     "id": 93,
-    "question_zh": "周潤發喺《臥虎藏龍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Crouching Tiger, Hidden Dragon\"?",
+    "question_zh": "《臥虎藏龍》係邊度出品？",
+    "question_en": "Where was \"Crouching Tiger, Hidden Dragon\" produced?",
     "options_zh": [
-      "配角C",
-      "配角A",
-      "主角",
-      "配角B"
+      "台灣",
+      "中國",
+      "美國",
+      "香港"
     ],
     "options_en": [
-      "Supporting C",
-      "Supporting A",
-      "Main Character",
-      "Supporting B"
+      "Taiwan",
+      "China",
+      "USA",
+      "Hong Kong"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
+    "answer": 3,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
   },
   {
     "id": 94,
-    "question_zh": "周潤發喺《臥虎藏龍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Crouching Tiger, Hidden Dragon\"?",
+    "question_zh": "《臥虎藏龍》係邊度出品？",
+    "question_en": "Where was \"Crouching Tiger, Hidden Dragon\" produced?",
     "options_zh": [
-      "主角",
-      "配角B",
-      "配角C",
-      "配角A"
+      "香港",
+      "台灣",
+      "美國",
+      "中國"
     ],
     "options_en": [
-      "Main Character",
-      "Supporting B",
-      "Supporting C",
-      "Supporting A"
+      "Hong Kong",
+      "Taiwan",
+      "USA",
+      "China"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
   },
   {
     "id": 95,
-    "question_zh": "周潤發喺《臥虎藏龍》入面飾演咩角色？",
-    "question_en": "What role does Chow Yun-fat play in \"Crouching Tiger, Hidden Dragon\"?",
+    "question_zh": "《臥虎藏龍》係邊度出品？",
+    "question_en": "Where was \"Crouching Tiger, Hidden Dragon\" produced?",
     "options_zh": [
-      "配角A",
-      "主角",
-      "配角B",
-      "配角C"
+      "中國",
+      "香港",
+      "美國",
+      "台灣"
     ],
     "options_en": [
-      "Supporting A",
-      "Main Character",
-      "Supporting B",
-      "Supporting C"
+      "China",
+      "Hong Kong",
+      "USA",
+      "Taiwan"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
   },
   {
     "id": 96,
-    "question_zh": "《臥虎藏龍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Crouching Tiger, Hidden Dragon\"?",
+    "question_zh": "周潤發喺《臥虎藏龍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Crouching Tiger, Hidden Dragon\"?",
     "options_zh": [
-      "紀錄片",
-      "動畫",
-      "劇情",
-      "音樂劇"
+      "麻麻地",
+      "唔好",
+      "普通",
+      "非常出色"
     ],
     "options_en": [
-      "Documentary",
-      "Animation",
-      "Drama",
-      "Musical"
+      "So-so",
+      "Bad",
+      "Average",
+      "Excellent"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
-  },
-  {
-    "id": 97,
-    "question_zh": "《臥虎藏龍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "紀錄片",
-      "音樂劇",
-      "劇情",
-      "動畫"
-    ],
-    "options_en": [
-      "Documentary",
-      "Musical",
-      "Drama",
-      "Animation"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
-  },
-  {
-    "id": 98,
-    "question_zh": "《臥虎藏龍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Crouching Tiger, Hidden Dragon\"?",
-    "options_zh": [
-      "音樂劇",
-      "劇情",
-      "紀錄片",
-      "動畫"
-    ],
-    "options_en": [
-      "Musical",
-      "Drama",
-      "Documentary",
-      "Animation"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
     "difficulty": 3
   },
   {
-    "id": 99,
-    "question_zh": "《臥虎藏龍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Crouching Tiger, Hidden Dragon\"?",
+    "id": 97,
+    "question_zh": "周潤發喺《臥虎藏龍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Crouching Tiger, Hidden Dragon\"?",
     "options_zh": [
-      "劇情",
-      "音樂劇",
-      "紀錄片",
-      "動畫"
+      "麻麻地",
+      "非常出色",
+      "普通",
+      "唔好"
     ],
     "options_en": [
-      "Drama",
-      "Musical",
-      "Documentary",
-      "Animation"
+      "So-so",
+      "Excellent",
+      "Average",
+      "Bad"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
     "difficulty": 1
   },
   {
-    "id": 100,
-    "question_zh": "《臥虎藏龍》係咩類型嘅電影？",
-    "question_en": "What genre is \"Crouching Tiger, Hidden Dragon\"?",
+    "id": 98,
+    "question_zh": "周潤發喺《臥虎藏龍》嘅表現如何？",
+    "question_en": "How is Chow Yun-fat's performance in \"Crouching Tiger, Hidden Dragon\"?",
     "options_zh": [
-      "音樂劇",
-      "劇情",
-      "動畫",
-      "紀錄片"
+      "唔好",
+      "非常出色",
+      "普通",
+      "麻麻地"
     ],
     "options_en": [
-      "Musical",
-      "Drama",
-      "Animation",
-      "Documentary"
+      "Bad",
+      "Excellent",
+      "Average",
+      "So-so"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
     "difficulty": 2
+  },
+  {
+    "id": 99,
+    "question_zh": "你會推薦《臥虎藏龍》俾朋友？",
+    "question_en": "Would you recommend \"Crouching Tiger, Hidden Dragon\" to friends?",
+    "options_zh": [
+      "唔知",
+      "睇情況",
+      "唔會",
+      "會，非常推薦"
+    ],
+    "options_en": [
+      "Unknown",
+      "Depends",
+      "No",
+      "Yes, highly recommended"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
+  },
+  {
+    "id": 100,
+    "question_zh": "你會推薦《臥虎藏龍》俾朋友？",
+    "question_en": "Would you recommend \"Crouching Tiger, Hidden Dragon\" to friends?",
+    "options_zh": [
+      "唔知",
+      "睇情況",
+      "會，非常推薦",
+      "唔會"
+    ],
+    "options_en": [
+      "Unknown",
+      "Depends",
+      "Yes, highly recommended",
+      "No"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
   }
 ]

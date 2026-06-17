@@ -1,40 +1,61 @@
 [
   {
     "id": 1,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？",
-    "question_en": "Which movie stars Sean Lau?",
+    "question_zh": "以下邊部電影係劉青雲主演嘅？（竊聽風雲）",
+    "question_en": "Which movie stars Sean Lau? (Overheard)",
     "options_zh": [
-      "我要成名",
-      "神探",
-      "大師兄",
-      "竊聽風雲"
+      "竊聽風雲",
+      "其他電影Z",
+      "其他電影Y",
+      "其他電影X"
     ],
     "options_en": [
-      "The Vanished Murderer",
-      "Big Brother",
-      "My Name Is Fame",
-      "Overheard"
+      "Overheard",
+      "Other Movie Z",
+      "Other Movie Y",
+      "Other Movie X"
     ],
-    "answer": 3,
+    "answer": 0,
+    "explanation_zh": "正確答案係「竊聽風雲」。",
+    "explanation_en": "The correct answer is 'Overheard'.",
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？（竊聽風雲）",
+    "question_en": "Which movie stars Sean Lau? (Overheard)",
+    "options_zh": [
+      "竊聽風雲",
+      "其他電影Y",
+      "其他電影X",
+      "其他電影Z"
+    ],
+    "options_en": [
+      "Overheard",
+      "Other Movie Y",
+      "Other Movie X",
+      "Other Movie Z"
+    ],
+    "answer": 0,
     "explanation_zh": "正確答案係「竊聽風雲」。",
     "explanation_en": "The correct answer is 'Overheard'.",
     "difficulty": 2
   },
   {
-    "id": 2,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？",
-    "question_en": "Which movie stars Sean Lau?",
+    "id": 3,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？（竊聽風雲）",
+    "question_en": "Which movie stars Sean Lau? (Overheard)",
     "options_zh": [
       "竊聽風雲",
-      "消失的兇手",
-      "神探",
-      "大師兄"
+      "其他電影Y",
+      "其他電影X",
+      "其他電影Z"
     ],
     "options_en": [
       "Overheard",
-      "Mad Detective",
-      "Big Brother",
-      "My Name Is Fame"
+      "Other Movie Y",
+      "Other Movie X",
+      "Other Movie Z"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「竊聽風雲」。",
@@ -42,1741 +63,1741 @@
     "difficulty": 3
   },
   {
-    "id": 3,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？",
-    "question_en": "Which movie stars Sean Lau?",
+    "id": 4,
+    "question_zh": "《竊聽風雲》係邊年上映嘅？",
+    "question_en": "What year was \"Overheard\" released?",
     "options_zh": [
-      "消失的兇手",
-      "竊聽風雲",
-      "我要成名",
-      "大師兄"
+      "2014年",
+      "2006年",
+      "2011年",
+      "2009年"
     ],
     "options_en": [
-      "Big Brother",
-      "Overheard",
-      "The Vanished Murderer",
-      "My Name Is Fame"
+      "2014",
+      "2006",
+      "2011",
+      "2009"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「竊聽風雲」。",
-    "explanation_en": "The correct answer is 'Overheard'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「2009年」。",
+    "explanation_en": "The correct answer is '2009'.",
     "difficulty": 1
   },
   {
-    "id": 4,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？",
-    "question_en": "Which movie stars Sean Lau?",
+    "id": 5,
+    "question_zh": "《竊聽風雲》係邊年上映嘅？",
+    "question_en": "What year was \"Overheard\" released?",
     "options_zh": [
-      "消失的兇手",
-      "大師兄",
-      "竊聽風雲",
-      "神探"
+      "2006年",
+      "2011年",
+      "2009年",
+      "2014年"
     ],
     "options_en": [
-      "The Vanished Murderer",
-      "Big Brother",
-      "Overheard",
-      "Mad Detective"
+      "2006",
+      "2011",
+      "2009",
+      "2014"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「竊聽風雲」。",
-    "explanation_en": "The correct answer is 'Overheard'.",
+    "explanation_zh": "正確答案係「2009年」。",
+    "explanation_en": "The correct answer is '2009'.",
     "difficulty": 2
-  },
-  {
-    "id": 5,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？",
-    "question_en": "Which movie stars Sean Lau?",
-    "options_zh": [
-      "我要成名",
-      "竊聽風雲",
-      "神探",
-      "大師兄"
-    ],
-    "options_en": [
-      "Big Brother",
-      "Overheard",
-      "The Vanished Murderer",
-      "Mad Detective"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「竊聽風雲」。",
-    "explanation_en": "The correct answer is 'Overheard'.",
-    "difficulty": 3
   },
   {
     "id": 6,
     "question_zh": "《竊聽風雲》係邊年上映嘅？",
     "question_en": "What year was \"Overheard\" released?",
     "options_zh": [
-      "2012年",
-      "2009年",
-      "2007年",
-      "2006年"
+      "2014年",
+      "2006年",
+      "2011年",
+      "2009年"
     ],
     "options_en": [
-      "2012",
-      "2009",
-      "2007",
-      "2006"
+      "2014",
+      "2006",
+      "2011",
+      "2009"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「2009年」。",
     "explanation_en": "The correct answer is '2009'.",
-    "difficulty": 1
+    "difficulty": 3
   },
   {
     "id": 7,
-    "question_zh": "《竊聽風雲》係邊年上映嘅？",
-    "question_en": "What year was \"Overheard\" released?",
+    "question_zh": "《竊聽風雲》嘅導演係邊個？",
+    "question_en": "Who directed \"Overheard\"?",
     "options_zh": [
-      "2012年",
-      "2007年",
-      "2009年",
-      "2011年"
+      "劉偉強",
+      "麥兆輝",
+      "杜琪峰",
+      "王晶"
     ],
     "options_en": [
-      "2012",
-      "2007",
-      "2009",
-      "2011"
+      "Andrew Lau",
+      "麥兆輝",
+      "Johnnie To",
+      "Wong Jing"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2009年」。",
-    "explanation_en": "The correct answer is '2009'.",
-    "difficulty": 2
+    "answer": 1,
+    "explanation_zh": "正確答案係「麥兆輝」。",
+    "explanation_en": "The correct answer is '麥兆輝'.",
+    "difficulty": 1
   },
   {
     "id": 8,
-    "question_zh": "《竊聽風雲》係邊年上映嘅？",
-    "question_en": "What year was \"Overheard\" released?",
+    "question_zh": "《竊聽風雲》嘅導演係邊個？",
+    "question_en": "Who directed \"Overheard\"?",
     "options_zh": [
-      "2006年",
-      "2007年",
-      "2009年",
-      "2011年"
+      "王晶",
+      "麥兆輝",
+      "劉偉強",
+      "杜琪峰"
     ],
     "options_en": [
-      "2006",
-      "2007",
-      "2009",
-      "2011"
+      "Wong Jing",
+      "麥兆輝",
+      "Andrew Lau",
+      "Johnnie To"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2009年」。",
-    "explanation_en": "The correct answer is '2009'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「麥兆輝」。",
+    "explanation_en": "The correct answer is '麥兆輝'.",
+    "difficulty": 2
   },
   {
     "id": 9,
-    "question_zh": "《竊聽風雲》係邊年上映嘅？",
-    "question_en": "What year was \"Overheard\" released?",
+    "question_zh": "《竊聽風雲》嘅導演係邊個？",
+    "question_en": "Who directed \"Overheard\"?",
     "options_zh": [
-      "2006年",
-      "2007年",
-      "2009年",
-      "2011年"
+      "麥兆輝",
+      "杜琪峰",
+      "王晶",
+      "劉偉強"
     ],
     "options_en": [
-      "2006",
-      "2007",
-      "2009",
-      "2011"
+      "麥兆輝",
+      "Johnnie To",
+      "Wong Jing",
+      "Andrew Lau"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2009年」。",
-    "explanation_en": "The correct answer is '2009'.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "正確答案係「麥兆輝」。",
+    "explanation_en": "The correct answer is '麥兆輝'.",
+    "difficulty": 3
   },
   {
     "id": 10,
-    "question_zh": "《竊聽風雲》係邊年上映嘅？",
-    "question_en": "What year was \"Overheard\" released?",
+    "question_zh": "《竊聽風雲》入面劉青雲係主角？",
+    "question_en": "Is Sean Lau the lead in \"Overheard\"?",
     "options_zh": [
-      "2007年",
-      "2006年",
-      "2011年",
-      "2009年"
+      "唔知",
+      "唔係",
+      "係",
+      "只係客串"
     ],
     "options_en": [
-      "2007",
-      "2006",
-      "2011",
-      "2009"
+      "Unknown",
+      "No",
+      "Yes",
+      "Cameo only"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2009年」。",
-    "explanation_en": "The correct answer is '2009'.",
-    "difficulty": 2
+    "answer": 2,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
   },
   {
     "id": 11,
-    "question_zh": "《竊聽風雲》嘅導演係邊個？",
-    "question_en": "Who directed \"Overheard\"?",
+    "question_zh": "《竊聽風雲》入面劉青雲係主角？",
+    "question_en": "Is Sean Lau the lead in \"Overheard\"?",
     "options_zh": [
-      "導演",
-      "杜琪峰",
-      "劉偉強",
-      "王晶"
+      "唔知",
+      "只係客串",
+      "係",
+      "唔係"
     ],
     "options_en": [
-      "Director",
-      "Johnnie To",
-      "Andrew Lau",
-      "Wong Jing"
+      "Unknown",
+      "Cameo only",
+      "Yes",
+      "No"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
+    "answer": 2,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 2
   },
   {
     "id": 12,
-    "question_zh": "《竊聽風雲》嘅導演係邊個？",
-    "question_en": "Who directed \"Overheard\"?",
+    "question_zh": "《竊聽風雲》入面劉青雲係主角？",
+    "question_en": "Is Sean Lau the lead in \"Overheard\"?",
     "options_zh": [
-      "王晶",
-      "劉偉強",
-      "杜琪峰",
-      "導演"
+      "唔係",
+      "唔知",
+      "係",
+      "只係客串"
     ],
     "options_en": [
-      "Wong Jing",
-      "Andrew Lau",
-      "Johnnie To",
-      "Director"
+      "No",
+      "Unknown",
+      "Yes",
+      "Cameo only"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "answer": 2,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
   },
   {
     "id": 13,
-    "question_zh": "《竊聽風雲》嘅導演係邊個？",
-    "question_en": "Who directed \"Overheard\"?",
+    "question_zh": "《竊聽風雲》係邊度出品？",
+    "question_en": "Where was \"Overheard\" produced?",
     "options_zh": [
-      "導演",
-      "王晶",
-      "杜琪峰",
-      "劉偉強"
+      "美國",
+      "中國",
+      "香港",
+      "台灣"
     ],
     "options_en": [
-      "Director",
-      "Wong Jing",
-      "Johnnie To",
-      "Andrew Lau"
+      "USA",
+      "China",
+      "Hong Kong",
+      "Taiwan"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
   },
   {
     "id": 14,
-    "question_zh": "《竊聽風雲》嘅導演係邊個？",
-    "question_en": "Who directed \"Overheard\"?",
+    "question_zh": "《竊聽風雲》係邊度出品？",
+    "question_en": "Where was \"Overheard\" produced?",
     "options_zh": [
-      "王晶",
-      "導演",
-      "杜琪峰",
-      "劉偉強"
+      "香港",
+      "中國",
+      "台灣",
+      "美國"
     ],
     "options_en": [
-      "Wong Jing",
-      "Director",
-      "Johnnie To",
-      "Andrew Lau"
+      "Hong Kong",
+      "China",
+      "Taiwan",
+      "USA"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
   },
   {
     "id": 15,
-    "question_zh": "《竊聽風雲》嘅導演係邊個？",
-    "question_en": "Who directed \"Overheard\"?",
+    "question_zh": "《竊聽風雲》係邊度出品？",
+    "question_en": "Where was \"Overheard\" produced?",
     "options_zh": [
-      "導演",
-      "劉偉強",
-      "杜琪峰",
-      "王晶"
+      "香港",
+      "美國",
+      "台灣",
+      "中國"
     ],
     "options_en": [
-      "Director",
-      "Andrew Lau",
-      "Johnnie To",
-      "Wong Jing"
+      "Hong Kong",
+      "USA",
+      "Taiwan",
+      "China"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
   },
   {
     "id": 16,
-    "question_zh": "劉青雲喺《竊聽風雲》入面飾演咩角色？",
-    "question_en": "What role does Sean Lau play in \"Overheard\"?",
+    "question_zh": "劉青雲喺《竊聽風雲》嘅表現如何？",
+    "question_en": "How is Sean Lau's performance in \"Overheard\"?",
     "options_zh": [
-      "配角B",
-      "配角C",
-      "配角A",
-      "主角"
+      "麻麻地",
+      "非常出色",
+      "唔好",
+      "普通"
     ],
     "options_en": [
-      "Supporting B",
-      "Supporting C",
-      "Supporting A",
-      "Main Character"
+      "So-so",
+      "Excellent",
+      "Bad",
+      "Average"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 1
   },
   {
     "id": 17,
-    "question_zh": "劉青雲喺《竊聽風雲》入面飾演咩角色？",
-    "question_en": "What role does Sean Lau play in \"Overheard\"?",
+    "question_zh": "劉青雲喺《竊聽風雲》嘅表現如何？",
+    "question_en": "How is Sean Lau's performance in \"Overheard\"?",
     "options_zh": [
-      "主角",
-      "配角B",
-      "配角A",
-      "配角C"
+      "麻麻地",
+      "唔好",
+      "非常出色",
+      "普通"
     ],
     "options_en": [
-      "Main Character",
-      "Supporting B",
-      "Supporting A",
-      "Supporting C"
+      "So-so",
+      "Bad",
+      "Excellent",
+      "Average"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "answer": 2,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 2
   },
   {
     "id": 18,
-    "question_zh": "劉青雲喺《竊聽風雲》入面飾演咩角色？",
-    "question_en": "What role does Sean Lau play in \"Overheard\"?",
+    "question_zh": "劉青雲喺《竊聽風雲》嘅表現如何？",
+    "question_en": "How is Sean Lau's performance in \"Overheard\"?",
     "options_zh": [
-      "配角B",
-      "主角",
-      "配角A",
-      "配角C"
+      "麻麻地",
+      "普通",
+      "唔好",
+      "非常出色"
     ],
     "options_en": [
-      "Supporting B",
-      "Main Character",
-      "Supporting A",
-      "Supporting C"
+      "So-so",
+      "Average",
+      "Bad",
+      "Excellent"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 3
   },
   {
     "id": 19,
-    "question_zh": "劉青雲喺《竊聽風雲》入面飾演咩角色？",
-    "question_en": "What role does Sean Lau play in \"Overheard\"?",
+    "question_zh": "你會推薦《竊聽風雲》俾朋友？",
+    "question_en": "Would you recommend \"Overheard\" to friends?",
     "options_zh": [
-      "配角B",
-      "配角A",
-      "主角",
-      "配角C"
+      "唔知",
+      "睇情況",
+      "唔會",
+      "會，非常推薦"
     ],
     "options_en": [
-      "Supporting B",
-      "Supporting A",
-      "Main Character",
-      "Supporting C"
+      "Unknown",
+      "Depends",
+      "No",
+      "Yes, highly recommended"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
+    "answer": 3,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
   },
   {
     "id": 20,
-    "question_zh": "劉青雲喺《竊聽風雲》入面飾演咩角色？",
-    "question_en": "What role does Sean Lau play in \"Overheard\"?",
+    "question_zh": "你會推薦《竊聽風雲》俾朋友？",
+    "question_en": "Would you recommend \"Overheard\" to friends?",
     "options_zh": [
-      "配角C",
-      "主角",
-      "配角B",
-      "配角A"
+      "唔知",
+      "唔會",
+      "睇情況",
+      "會，非常推薦"
     ],
     "options_en": [
-      "Supporting C",
-      "Main Character",
-      "Supporting B",
-      "Supporting A"
+      "Unknown",
+      "No",
+      "Depends",
+      "Yes, highly recommended"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "answer": 3,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 2
   },
   {
     "id": 21,
-    "question_zh": "《竊聽風雲》係咩類型嘅電影？",
-    "question_en": "What genre is \"Overheard\"?",
+    "question_zh": "以下邊部電影係劉青雲主演嘅？（竊聽風雲）",
+    "question_en": "Which movie stars Sean Lau? (Overheard)",
     "options_zh": [
-      "紀錄片",
-      "動畫",
-      "劇情",
-      "音樂劇"
+      "竊聽風雲",
+      "其他電影Z",
+      "其他電影Y",
+      "其他電影X"
     ],
     "options_en": [
-      "Documentary",
-      "Animation",
-      "Drama",
-      "Musical"
+      "Overheard",
+      "Other Movie Z",
+      "Other Movie Y",
+      "Other Movie X"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "正確答案係「竊聽風雲」。",
+    "explanation_en": "The correct answer is 'Overheard'.",
+    "difficulty": 3
   },
   {
     "id": 22,
-    "question_zh": "《竊聽風雲》係咩類型嘅電影？",
-    "question_en": "What genre is \"Overheard\"?",
+    "question_zh": "以下邊部電影係劉青雲主演嘅？（竊聽風雲）",
+    "question_en": "Which movie stars Sean Lau? (Overheard)",
     "options_zh": [
-      "紀錄片",
-      "動畫",
-      "劇情",
-      "音樂劇"
+      "竊聽風雲",
+      "其他電影Y",
+      "其他電影X",
+      "其他電影Z"
     ],
     "options_en": [
-      "Documentary",
-      "Animation",
-      "Drama",
-      "Musical"
+      "Overheard",
+      "Other Movie Y",
+      "Other Movie X",
+      "Other Movie Z"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "正確答案係「竊聽風雲」。",
+    "explanation_en": "The correct answer is 'Overheard'.",
+    "difficulty": 1
   },
   {
     "id": 23,
-    "question_zh": "《竊聽風雲》係咩類型嘅電影？",
-    "question_en": "What genre is \"Overheard\"?",
+    "question_zh": "以下邊部電影係劉青雲主演嘅？（竊聽風雲）",
+    "question_en": "Which movie stars Sean Lau? (Overheard)",
     "options_zh": [
-      "劇情",
-      "紀錄片",
-      "音樂劇",
-      "動畫"
+      "其他電影Y",
+      "其他電影Z",
+      "其他電影X",
+      "竊聽風雲"
     ],
     "options_en": [
-      "Drama",
-      "Documentary",
-      "Musical",
-      "Animation"
+      "Other Movie Y",
+      "Other Movie Z",
+      "Other Movie X",
+      "Overheard"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
+    "answer": 3,
+    "explanation_zh": "正確答案係「竊聽風雲」。",
+    "explanation_en": "The correct answer is 'Overheard'.",
+    "difficulty": 2
   },
   {
     "id": 24,
-    "question_zh": "《竊聽風雲》係咩類型嘅電影？",
-    "question_en": "What genre is \"Overheard\"?",
+    "question_zh": "《竊聽風雲》係邊年上映嘅？",
+    "question_en": "What year was \"Overheard\" released?",
     "options_zh": [
-      "音樂劇",
-      "動畫",
-      "紀錄片",
-      "劇情"
+      "2006年",
+      "2009年",
+      "2011年",
+      "2014年"
     ],
     "options_en": [
-      "Musical",
-      "Animation",
-      "Documentary",
-      "Drama"
+      "2006",
+      "2009",
+      "2011",
+      "2014"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
+    "answer": 1,
+    "explanation_zh": "正確答案係「2009年」。",
+    "explanation_en": "The correct answer is '2009'.",
+    "difficulty": 3
   },
   {
     "id": 25,
-    "question_zh": "《竊聽風雲》係咩類型嘅電影？",
-    "question_en": "What genre is \"Overheard\"?",
+    "question_zh": "《竊聽風雲》係邊年上映嘅？",
+    "question_en": "What year was \"Overheard\" released?",
     "options_zh": [
-      "音樂劇",
-      "劇情",
-      "動畫",
-      "紀錄片"
+      "2014年",
+      "2006年",
+      "2011年",
+      "2009年"
     ],
     "options_en": [
-      "Musical",
-      "Drama",
-      "Animation",
-      "Documentary"
+      "2014",
+      "2006",
+      "2011",
+      "2009"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
+    "answer": 3,
+    "explanation_zh": "正確答案係「2009年」。",
+    "explanation_en": "The correct answer is '2009'.",
+    "difficulty": 1
   },
   {
     "id": 26,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？",
-    "question_en": "Which movie stars Sean Lau?",
+    "question_zh": "《竊聽風雲》係邊年上映嘅？",
+    "question_en": "What year was \"Overheard\" released?",
     "options_zh": [
-      "竊聽風雲",
-      "我要成名",
-      "大師兄",
-      "消失的兇手"
+      "2006年",
+      "2014年",
+      "2009年",
+      "2011年"
     ],
     "options_en": [
-      "Overheard",
-      "My Name Is Fame",
-      "Big Brother",
-      "Mad Detective"
+      "2006",
+      "2014",
+      "2009",
+      "2011"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「竊聽風雲」。",
-    "explanation_en": "The correct answer is 'Overheard'.",
-    "difficulty": 3
+    "answer": 2,
+    "explanation_zh": "正確答案係「2009年」。",
+    "explanation_en": "The correct answer is '2009'.",
+    "difficulty": 2
   },
   {
     "id": 27,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？",
-    "question_en": "Which movie stars Sean Lau?",
+    "question_zh": "《竊聽風雲》嘅導演係邊個？",
+    "question_en": "Who directed \"Overheard\"?",
     "options_zh": [
-      "大師兄",
-      "消失的兇手",
-      "神探",
-      "竊聽風雲"
+      "麥兆輝",
+      "王晶",
+      "杜琪峰",
+      "劉偉強"
     ],
     "options_en": [
-      "My Name Is Fame",
-      "The Vanished Murderer",
-      "Big Brother",
-      "Overheard"
+      "麥兆輝",
+      "Wong Jing",
+      "Johnnie To",
+      "Andrew Lau"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「竊聽風雲」。",
-    "explanation_en": "The correct answer is 'Overheard'.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "正確答案係「麥兆輝」。",
+    "explanation_en": "The correct answer is '麥兆輝'.",
+    "difficulty": 3
   },
   {
     "id": 28,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？",
-    "question_en": "Which movie stars Sean Lau?",
+    "question_zh": "《竊聽風雲》嘅導演係邊個？",
+    "question_en": "Who directed \"Overheard\"?",
     "options_zh": [
-      "我要成名",
-      "消失的兇手",
-      "竊聽風雲",
-      "大師兄"
+      "王晶",
+      "杜琪峰",
+      "麥兆輝",
+      "劉偉強"
     ],
     "options_en": [
-      "Big Brother",
-      "My Name Is Fame",
-      "Overheard",
-      "The Vanished Murderer"
+      "Wong Jing",
+      "Johnnie To",
+      "麥兆輝",
+      "Andrew Lau"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「竊聽風雲」。",
-    "explanation_en": "The correct answer is 'Overheard'.",
-    "difficulty": 2
+    "explanation_zh": "正確答案係「麥兆輝」。",
+    "explanation_en": "The correct answer is '麥兆輝'.",
+    "difficulty": 1
   },
   {
     "id": 29,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？",
-    "question_en": "Which movie stars Sean Lau?",
+    "question_zh": "《竊聽風雲》嘅導演係邊個？",
+    "question_en": "Who directed \"Overheard\"?",
     "options_zh": [
-      "神探",
-      "竊聽風雲",
-      "我要成名",
-      "大師兄"
+      "王晶",
+      "杜琪峰",
+      "劉偉強",
+      "麥兆輝"
     ],
     "options_en": [
-      "Big Brother",
-      "Overheard",
-      "The Vanished Murderer",
-      "Mad Detective"
+      "Wong Jing",
+      "Johnnie To",
+      "Andrew Lau",
+      "麥兆輝"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「竊聽風雲」。",
-    "explanation_en": "The correct answer is 'Overheard'.",
-    "difficulty": 3
+    "answer": 3,
+    "explanation_zh": "正確答案係「麥兆輝」。",
+    "explanation_en": "The correct answer is '麥兆輝'.",
+    "difficulty": 2
   },
   {
     "id": 30,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？",
-    "question_en": "Which movie stars Sean Lau?",
+    "question_zh": "《竊聽風雲》入面劉青雲係主角？",
+    "question_en": "Is Sean Lau the lead in \"Overheard\"?",
     "options_zh": [
-      "我要成名",
-      "消失的兇手",
-      "大師兄",
-      "竊聽風雲"
+      "唔知",
+      "唔係",
+      "只係客串",
+      "係"
     ],
     "options_en": [
-      "The Vanished Murderer",
-      "My Name Is Fame",
-      "Mad Detective",
-      "Overheard"
+      "Unknown",
+      "No",
+      "Cameo only",
+      "Yes"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「竊聽風雲」。",
-    "explanation_en": "The correct answer is 'Overheard'.",
-    "difficulty": 1
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
   },
   {
     "id": 31,
-    "question_zh": "《竊聽風雲》係邊年上映嘅？",
-    "question_en": "What year was \"Overheard\" released?",
+    "question_zh": "《竊聽風雲》入面劉青雲係主角？",
+    "question_en": "Is Sean Lau the lead in \"Overheard\"?",
     "options_zh": [
-      "2007年",
-      "2006年",
-      "2009年",
-      "2012年"
+      "係",
+      "唔係",
+      "只係客串",
+      "唔知"
     ],
     "options_en": [
-      "2007",
-      "2006",
-      "2009",
-      "2012"
+      "Yes",
+      "No",
+      "Cameo only",
+      "Unknown"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2009年」。",
-    "explanation_en": "The correct answer is '2009'.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
   },
   {
     "id": 32,
-    "question_zh": "《竊聽風雲》係邊年上映嘅？",
-    "question_en": "What year was \"Overheard\" released?",
+    "question_zh": "《竊聽風雲》入面劉青雲係主角？",
+    "question_en": "Is Sean Lau the lead in \"Overheard\"?",
     "options_zh": [
-      "2009年",
-      "2012年",
-      "2007年",
-      "2006年"
+      "係",
+      "只係客串",
+      "唔係",
+      "唔知"
     ],
     "options_en": [
-      "2009",
-      "2012",
-      "2007",
-      "2006"
+      "Yes",
+      "Cameo only",
+      "No",
+      "Unknown"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「2009年」。",
-    "explanation_en": "The correct answer is '2009'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 2
   },
   {
     "id": 33,
-    "question_zh": "《竊聽風雲》係邊年上映嘅？",
-    "question_en": "What year was \"Overheard\" released?",
+    "question_zh": "《竊聽風雲》係邊度出品？",
+    "question_en": "Where was \"Overheard\" produced?",
     "options_zh": [
-      "2009年",
-      "2011年",
-      "2012年",
-      "2006年"
+      "中國",
+      "香港",
+      "台灣",
+      "美國"
     ],
     "options_en": [
-      "2009",
-      "2011",
-      "2012",
-      "2006"
+      "China",
+      "Hong Kong",
+      "Taiwan",
+      "USA"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2009年」。",
-    "explanation_en": "The correct answer is '2009'.",
-    "difficulty": 1
+    "answer": 1,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
   },
   {
     "id": 34,
-    "question_zh": "《竊聽風雲》係邊年上映嘅？",
-    "question_en": "What year was \"Overheard\" released?",
+    "question_zh": "《竊聽風雲》係邊度出品？",
+    "question_en": "Where was \"Overheard\" produced?",
     "options_zh": [
-      "2011年",
-      "2012年",
-      "2006年",
-      "2009年"
+      "香港",
+      "美國",
+      "中國",
+      "台灣"
     ],
     "options_en": [
-      "2011",
-      "2012",
-      "2006",
-      "2009"
+      "Hong Kong",
+      "USA",
+      "China",
+      "Taiwan"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2009年」。",
-    "explanation_en": "The correct answer is '2009'.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
   },
   {
     "id": 35,
-    "question_zh": "《竊聽風雲》係邊年上映嘅？",
-    "question_en": "What year was \"Overheard\" released?",
+    "question_zh": "《竊聽風雲》係邊度出品？",
+    "question_en": "Where was \"Overheard\" produced?",
     "options_zh": [
-      "2009年",
-      "2007年",
-      "2012年",
-      "2006年"
+      "香港",
+      "台灣",
+      "美國",
+      "中國"
     ],
     "options_en": [
-      "2009",
-      "2007",
-      "2012",
-      "2006"
+      "Hong Kong",
+      "Taiwan",
+      "USA",
+      "China"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「2009年」。",
-    "explanation_en": "The correct answer is '2009'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
   },
   {
     "id": 36,
-    "question_zh": "《竊聽風雲》嘅導演係邊個？",
-    "question_en": "Who directed \"Overheard\"?",
+    "question_zh": "劉青雲喺《竊聽風雲》嘅表現如何？",
+    "question_en": "How is Sean Lau's performance in \"Overheard\"?",
     "options_zh": [
-      "導演",
-      "王晶",
-      "劉偉強",
-      "杜琪峰"
+      "麻麻地",
+      "非常出色",
+      "唔好",
+      "普通"
     ],
     "options_en": [
-      "Director",
-      "Wong Jing",
-      "Andrew Lau",
-      "Johnnie To"
+      "So-so",
+      "Excellent",
+      "Bad",
+      "Average"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 3
   },
   {
     "id": 37,
-    "question_zh": "《竊聽風雲》嘅導演係邊個？",
-    "question_en": "Who directed \"Overheard\"?",
+    "question_zh": "劉青雲喺《竊聽風雲》嘅表現如何？",
+    "question_en": "How is Sean Lau's performance in \"Overheard\"?",
     "options_zh": [
-      "導演",
-      "劉偉強",
-      "王晶",
-      "杜琪峰"
+      "普通",
+      "麻麻地",
+      "非常出色",
+      "唔好"
     ],
     "options_en": [
-      "Director",
-      "Andrew Lau",
-      "Wong Jing",
-      "Johnnie To"
+      "Average",
+      "So-so",
+      "Excellent",
+      "Bad"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
+    "answer": 2,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 1
   },
   {
     "id": 38,
-    "question_zh": "《竊聽風雲》嘅導演係邊個？",
-    "question_en": "Who directed \"Overheard\"?",
+    "question_zh": "劉青雲喺《竊聽風雲》嘅表現如何？",
+    "question_en": "How is Sean Lau's performance in \"Overheard\"?",
     "options_zh": [
-      "劉偉強",
-      "王晶",
-      "杜琪峰",
-      "導演"
+      "普通",
+      "唔好",
+      "麻麻地",
+      "非常出色"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Wong Jing",
-      "Johnnie To",
-      "Director"
+      "Average",
+      "Bad",
+      "So-so",
+      "Excellent"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 2
   },
   {
     "id": 39,
-    "question_zh": "《竊聽風雲》嘅導演係邊個？",
-    "question_en": "Who directed \"Overheard\"?",
+    "question_zh": "你會推薦《竊聽風雲》俾朋友？",
+    "question_en": "Would you recommend \"Overheard\" to friends?",
     "options_zh": [
-      "王晶",
-      "杜琪峰",
-      "導演",
-      "劉偉強"
+      "睇情況",
+      "唔會",
+      "會，非常推薦",
+      "唔知"
     ],
     "options_en": [
-      "Wong Jing",
-      "Johnnie To",
-      "Director",
-      "Andrew Lau"
+      "Depends",
+      "No",
+      "Yes, highly recommended",
+      "Unknown"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
   },
   {
     "id": 40,
-    "question_zh": "《竊聽風雲》嘅導演係邊個？",
-    "question_en": "Who directed \"Overheard\"?",
+    "question_zh": "你會推薦《竊聽風雲》俾朋友？",
+    "question_en": "Would you recommend \"Overheard\" to friends?",
     "options_zh": [
-      "杜琪峰",
-      "王晶",
-      "劉偉強",
-      "導演"
+      "唔會",
+      "會，非常推薦",
+      "唔知",
+      "睇情況"
     ],
     "options_en": [
-      "Johnnie To",
-      "Wong Jing",
-      "Andrew Lau",
-      "Director"
+      "No",
+      "Yes, highly recommended",
+      "Unknown",
+      "Depends"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
+    "answer": 1,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
   },
   {
     "id": 41,
-    "question_zh": "劉青雲喺《竊聽風雲》入面飾演咩角色？",
-    "question_en": "What role does Sean Lau play in \"Overheard\"?",
+    "question_zh": "以下邊部電影係劉青雲主演嘅？（竊聽風雲）",
+    "question_en": "Which movie stars Sean Lau? (Overheard)",
     "options_zh": [
-      "配角C",
-      "配角B",
-      "配角A",
-      "主角"
+      "其他電影X",
+      "竊聽風雲",
+      "其他電影Z",
+      "其他電影Y"
     ],
     "options_en": [
-      "Supporting C",
-      "Supporting B",
-      "Supporting A",
-      "Main Character"
+      "Other Movie X",
+      "Overheard",
+      "Other Movie Z",
+      "Other Movie Y"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「竊聽風雲」。",
+    "explanation_en": "The correct answer is 'Overheard'.",
+    "difficulty": 2
   },
   {
     "id": 42,
-    "question_zh": "劉青雲喺《竊聽風雲》入面飾演咩角色？",
-    "question_en": "What role does Sean Lau play in \"Overheard\"?",
+    "question_zh": "以下邊部電影係劉青雲主演嘅？（竊聽風雲）",
+    "question_en": "Which movie stars Sean Lau? (Overheard)",
     "options_zh": [
-      "配角C",
-      "配角A",
-      "主角",
-      "配角B"
+      "其他電影X",
+      "其他電影Y",
+      "其他電影Z",
+      "竊聽風雲"
     ],
     "options_en": [
-      "Supporting C",
-      "Supporting A",
-      "Main Character",
-      "Supporting B"
+      "Other Movie X",
+      "Other Movie Y",
+      "Other Movie Z",
+      "Overheard"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
+    "answer": 3,
+    "explanation_zh": "正確答案係「竊聽風雲」。",
+    "explanation_en": "The correct answer is 'Overheard'.",
+    "difficulty": 3
   },
   {
     "id": 43,
-    "question_zh": "劉青雲喺《竊聽風雲》入面飾演咩角色？",
-    "question_en": "What role does Sean Lau play in \"Overheard\"?",
+    "question_zh": "以下邊部電影係劉青雲主演嘅？（竊聽風雲）",
+    "question_en": "Which movie stars Sean Lau? (Overheard)",
     "options_zh": [
-      "配角B",
-      "主角",
-      "配角C",
-      "配角A"
+      "其他電影X",
+      "其他電影Y",
+      "竊聽風雲",
+      "其他電影Z"
     ],
     "options_en": [
-      "Supporting B",
-      "Main Character",
-      "Supporting C",
-      "Supporting A"
+      "Other Movie X",
+      "Other Movie Y",
+      "Overheard",
+      "Other Movie Z"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
+    "answer": 2,
+    "explanation_zh": "正確答案係「竊聽風雲」。",
+    "explanation_en": "The correct answer is 'Overheard'.",
+    "difficulty": 1
   },
   {
     "id": 44,
-    "question_zh": "劉青雲喺《竊聽風雲》入面飾演咩角色？",
-    "question_en": "What role does Sean Lau play in \"Overheard\"?",
+    "question_zh": "《竊聽風雲》係邊年上映嘅？",
+    "question_en": "What year was \"Overheard\" released?",
     "options_zh": [
-      "配角A",
-      "主角",
-      "配角C",
-      "配角B"
+      "2009年",
+      "2011年",
+      "2006年",
+      "2014年"
     ],
     "options_en": [
-      "Supporting A",
-      "Main Character",
-      "Supporting C",
-      "Supporting B"
+      "2009",
+      "2011",
+      "2006",
+      "2014"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "正確答案係「2009年」。",
+    "explanation_en": "The correct answer is '2009'.",
+    "difficulty": 2
   },
   {
     "id": 45,
-    "question_zh": "劉青雲喺《竊聽風雲》入面飾演咩角色？",
-    "question_en": "What role does Sean Lau play in \"Overheard\"?",
+    "question_zh": "《竊聽風雲》係邊年上映嘅？",
+    "question_en": "What year was \"Overheard\" released?",
     "options_zh": [
-      "主角",
-      "配角A",
-      "配角B",
-      "配角C"
+      "2009年",
+      "2011年",
+      "2006年",
+      "2014年"
     ],
     "options_en": [
-      "Main Character",
-      "Supporting A",
-      "Supporting B",
-      "Supporting C"
+      "2009",
+      "2011",
+      "2006",
+      "2014"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
+    "explanation_zh": "正確答案係「2009年」。",
+    "explanation_en": "The correct answer is '2009'.",
+    "difficulty": 3
   },
   {
     "id": 46,
-    "question_zh": "《竊聽風雲》係咩類型嘅電影？",
-    "question_en": "What genre is \"Overheard\"?",
+    "question_zh": "《竊聽風雲》係邊年上映嘅？",
+    "question_en": "What year was \"Overheard\" released?",
     "options_zh": [
-      "劇情",
-      "音樂劇",
-      "動畫",
-      "紀錄片"
+      "2011年",
+      "2009年",
+      "2006年",
+      "2014年"
     ],
     "options_en": [
-      "Drama",
-      "Musical",
-      "Animation",
-      "Documentary"
+      "2011",
+      "2009",
+      "2006",
+      "2014"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
+    "answer": 1,
+    "explanation_zh": "正確答案係「2009年」。",
+    "explanation_en": "The correct answer is '2009'.",
+    "difficulty": 1
   },
   {
     "id": 47,
-    "question_zh": "《竊聽風雲》係咩類型嘅電影？",
-    "question_en": "What genre is \"Overheard\"?",
+    "question_zh": "《竊聽風雲》嘅導演係邊個？",
+    "question_en": "Who directed \"Overheard\"?",
     "options_zh": [
-      "動畫",
-      "音樂劇",
-      "紀錄片",
-      "劇情"
+      "王晶",
+      "麥兆輝",
+      "劉偉強",
+      "杜琪峰"
     ],
     "options_en": [
-      "Animation",
-      "Musical",
-      "Documentary",
-      "Drama"
+      "Wong Jing",
+      "麥兆輝",
+      "Andrew Lau",
+      "Johnnie To"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「麥兆輝」。",
+    "explanation_en": "The correct answer is '麥兆輝'.",
+    "difficulty": 2
   },
   {
     "id": 48,
-    "question_zh": "《竊聽風雲》係咩類型嘅電影？",
-    "question_en": "What genre is \"Overheard\"?",
-    "options_zh": [
-      "音樂劇",
-      "紀錄片",
-      "動畫",
-      "劇情"
-    ],
-    "options_en": [
-      "Musical",
-      "Documentary",
-      "Animation",
-      "Drama"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
-  },
-  {
-    "id": 49,
-    "question_zh": "《竊聽風雲》係咩類型嘅電影？",
-    "question_en": "What genre is \"Overheard\"?",
-    "options_zh": [
-      "動畫",
-      "劇情",
-      "音樂劇",
-      "紀錄片"
-    ],
-    "options_en": [
-      "Animation",
-      "Drama",
-      "Musical",
-      "Documentary"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
-  },
-  {
-    "id": 50,
-    "question_zh": "《竊聽風雲》係咩類型嘅電影？",
-    "question_en": "What genre is \"Overheard\"?",
-    "options_zh": [
-      "音樂劇",
-      "紀錄片",
-      "劇情",
-      "動畫"
-    ],
-    "options_en": [
-      "Musical",
-      "Documentary",
-      "Drama",
-      "Animation"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
-  },
-  {
-    "id": 51,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？",
-    "question_en": "Which movie stars Sean Lau?",
-    "options_zh": [
-      "我要成名",
-      "消失的兇手",
-      "神探",
-      "竊聽風雲"
-    ],
-    "options_en": [
-      "Mad Detective",
-      "The Vanished Murderer",
-      "Big Brother",
-      "Overheard"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「竊聽風雲」。",
-    "explanation_en": "The correct answer is 'Overheard'.",
-    "difficulty": 1
-  },
-  {
-    "id": 52,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？",
-    "question_en": "Which movie stars Sean Lau?",
-    "options_zh": [
-      "消失的兇手",
-      "竊聽風雲",
-      "大師兄",
-      "神探"
-    ],
-    "options_en": [
-      "Big Brother",
-      "Overheard",
-      "My Name Is Fame",
-      "Mad Detective"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「竊聽風雲」。",
-    "explanation_en": "The correct answer is 'Overheard'.",
-    "difficulty": 2
-  },
-  {
-    "id": 53,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？",
-    "question_en": "Which movie stars Sean Lau?",
-    "options_zh": [
-      "消失的兇手",
-      "我要成名",
-      "竊聽風雲",
-      "大師兄"
-    ],
-    "options_en": [
-      "The Vanished Murderer",
-      "Mad Detective",
-      "Overheard",
-      "My Name Is Fame"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「竊聽風雲」。",
-    "explanation_en": "The correct answer is 'Overheard'.",
-    "difficulty": 3
-  },
-  {
-    "id": 54,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？",
-    "question_en": "Which movie stars Sean Lau?",
-    "options_zh": [
-      "大師兄",
-      "竊聽風雲",
-      "我要成名",
-      "神探"
-    ],
-    "options_en": [
-      "The Vanished Murderer",
-      "Overheard",
-      "Big Brother",
-      "My Name Is Fame"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「竊聽風雲」。",
-    "explanation_en": "The correct answer is 'Overheard'.",
-    "difficulty": 1
-  },
-  {
-    "id": 55,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？",
-    "question_en": "Which movie stars Sean Lau?",
-    "options_zh": [
-      "消失的兇手",
-      "大師兄",
-      "神探",
-      "竊聽風雲"
-    ],
-    "options_en": [
-      "Mad Detective",
-      "My Name Is Fame",
-      "Big Brother",
-      "Overheard"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「竊聽風雲」。",
-    "explanation_en": "The correct answer is 'Overheard'.",
-    "difficulty": 2
-  },
-  {
-    "id": 56,
-    "question_zh": "《竊聽風雲》係邊年上映嘅？",
-    "question_en": "What year was \"Overheard\" released?",
-    "options_zh": [
-      "2012年",
-      "2009年",
-      "2011年",
-      "2006年"
-    ],
-    "options_en": [
-      "2012",
-      "2009",
-      "2011",
-      "2006"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2009年」。",
-    "explanation_en": "The correct answer is '2009'.",
-    "difficulty": 3
-  },
-  {
-    "id": 57,
-    "question_zh": "《竊聽風雲》係邊年上映嘅？",
-    "question_en": "What year was \"Overheard\" released?",
-    "options_zh": [
-      "2009年",
-      "2012年",
-      "2011年",
-      "2007年"
-    ],
-    "options_en": [
-      "2009",
-      "2012",
-      "2011",
-      "2007"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2009年」。",
-    "explanation_en": "The correct answer is '2009'.",
-    "difficulty": 1
-  },
-  {
-    "id": 58,
-    "question_zh": "《竊聽風雲》係邊年上映嘅？",
-    "question_en": "What year was \"Overheard\" released?",
-    "options_zh": [
-      "2009年",
-      "2006年",
-      "2012年",
-      "2011年"
-    ],
-    "options_en": [
-      "2009",
-      "2006",
-      "2012",
-      "2011"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2009年」。",
-    "explanation_en": "The correct answer is '2009'.",
-    "difficulty": 2
-  },
-  {
-    "id": 59,
-    "question_zh": "《竊聽風雲》係邊年上映嘅？",
-    "question_en": "What year was \"Overheard\" released?",
-    "options_zh": [
-      "2007年",
-      "2009年",
-      "2012年",
-      "2006年"
-    ],
-    "options_en": [
-      "2007",
-      "2009",
-      "2012",
-      "2006"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2009年」。",
-    "explanation_en": "The correct answer is '2009'.",
-    "difficulty": 3
-  },
-  {
-    "id": 60,
-    "question_zh": "《竊聽風雲》係邊年上映嘅？",
-    "question_en": "What year was \"Overheard\" released?",
-    "options_zh": [
-      "2007年",
-      "2006年",
-      "2011年",
-      "2009年"
-    ],
-    "options_en": [
-      "2007",
-      "2006",
-      "2011",
-      "2009"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2009年」。",
-    "explanation_en": "The correct answer is '2009'.",
-    "difficulty": 1
-  },
-  {
-    "id": 61,
     "question_zh": "《竊聽風雲》嘅導演係邊個？",
     "question_en": "Who directed \"Overheard\"?",
     "options_zh": [
       "劉偉強",
       "王晶",
-      "導演",
+      "麥兆輝",
       "杜琪峰"
     ],
     "options_en": [
       "Andrew Lau",
       "Wong Jing",
-      "Director",
+      "麥兆輝",
       "Johnnie To"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
+    "explanation_zh": "正確答案係「麥兆輝」。",
+    "explanation_en": "The correct answer is '麥兆輝'.",
+    "difficulty": 3
+  },
+  {
+    "id": 49,
+    "question_zh": "《竊聽風雲》嘅導演係邊個？",
+    "question_en": "Who directed \"Overheard\"?",
+    "options_zh": [
+      "杜琪峰",
+      "麥兆輝",
+      "王晶",
+      "劉偉強"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "麥兆輝",
+      "Wong Jing",
+      "Andrew Lau"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「麥兆輝」。",
+    "explanation_en": "The correct answer is '麥兆輝'.",
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question_zh": "《竊聽風雲》入面劉青雲係主角？",
+    "question_en": "Is Sean Lau the lead in \"Overheard\"?",
+    "options_zh": [
+      "唔係",
+      "唔知",
+      "係",
+      "只係客串"
+    ],
+    "options_en": [
+      "No",
+      "Unknown",
+      "Yes",
+      "Cameo only"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
     "difficulty": 2
+  },
+  {
+    "id": 51,
+    "question_zh": "《竊聽風雲》入面劉青雲係主角？",
+    "question_en": "Is Sean Lau the lead in \"Overheard\"?",
+    "options_zh": [
+      "唔係",
+      "只係客串",
+      "係",
+      "唔知"
+    ],
+    "options_en": [
+      "No",
+      "Cameo only",
+      "Yes",
+      "Unknown"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
+  },
+  {
+    "id": 52,
+    "question_zh": "《竊聽風雲》入面劉青雲係主角？",
+    "question_en": "Is Sean Lau the lead in \"Overheard\"?",
+    "options_zh": [
+      "唔係",
+      "唔知",
+      "只係客串",
+      "係"
+    ],
+    "options_en": [
+      "No",
+      "Unknown",
+      "Cameo only",
+      "Yes"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
+  },
+  {
+    "id": 53,
+    "question_zh": "《竊聽風雲》係邊度出品？",
+    "question_en": "Where was \"Overheard\" produced?",
+    "options_zh": [
+      "美國",
+      "台灣",
+      "中國",
+      "香港"
+    ],
+    "options_en": [
+      "USA",
+      "Taiwan",
+      "China",
+      "Hong Kong"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
+  },
+  {
+    "id": 54,
+    "question_zh": "《竊聽風雲》係邊度出品？",
+    "question_en": "Where was \"Overheard\" produced?",
+    "options_zh": [
+      "台灣",
+      "香港",
+      "美國",
+      "中國"
+    ],
+    "options_en": [
+      "Taiwan",
+      "Hong Kong",
+      "USA",
+      "China"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
+  },
+  {
+    "id": 55,
+    "question_zh": "《竊聽風雲》係邊度出品？",
+    "question_en": "Where was \"Overheard\" produced?",
+    "options_zh": [
+      "美國",
+      "香港",
+      "中國",
+      "台灣"
+    ],
+    "options_en": [
+      "USA",
+      "Hong Kong",
+      "China",
+      "Taiwan"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
+  },
+  {
+    "id": 56,
+    "question_zh": "劉青雲喺《竊聽風雲》嘅表現如何？",
+    "question_en": "How is Sean Lau's performance in \"Overheard\"?",
+    "options_zh": [
+      "普通",
+      "麻麻地",
+      "非常出色",
+      "唔好"
+    ],
+    "options_en": [
+      "Average",
+      "So-so",
+      "Excellent",
+      "Bad"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 2
+  },
+  {
+    "id": 57,
+    "question_zh": "劉青雲喺《竊聽風雲》嘅表現如何？",
+    "question_en": "How is Sean Lau's performance in \"Overheard\"?",
+    "options_zh": [
+      "麻麻地",
+      "普通",
+      "唔好",
+      "非常出色"
+    ],
+    "options_en": [
+      "So-so",
+      "Average",
+      "Bad",
+      "Excellent"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 3
+  },
+  {
+    "id": 58,
+    "question_zh": "劉青雲喺《竊聽風雲》嘅表現如何？",
+    "question_en": "How is Sean Lau's performance in \"Overheard\"?",
+    "options_zh": [
+      "非常出色",
+      "普通",
+      "麻麻地",
+      "唔好"
+    ],
+    "options_en": [
+      "Excellent",
+      "Average",
+      "So-so",
+      "Bad"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 1
+  },
+  {
+    "id": 59,
+    "question_zh": "你會推薦《竊聽風雲》俾朋友？",
+    "question_en": "Would you recommend \"Overheard\" to friends?",
+    "options_zh": [
+      "會，非常推薦",
+      "唔會",
+      "睇情況",
+      "唔知"
+    ],
+    "options_en": [
+      "Yes, highly recommended",
+      "No",
+      "Depends",
+      "Unknown"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 2
+  },
+  {
+    "id": 60,
+    "question_zh": "你會推薦《竊聽風雲》俾朋友？",
+    "question_en": "Would you recommend \"Overheard\" to friends?",
+    "options_zh": [
+      "唔會",
+      "會，非常推薦",
+      "睇情況",
+      "唔知"
+    ],
+    "options_en": [
+      "No",
+      "Yes, highly recommended",
+      "Depends",
+      "Unknown"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
+  },
+  {
+    "id": 61,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？（竊聽風雲）",
+    "question_en": "Which movie stars Sean Lau? (Overheard)",
+    "options_zh": [
+      "其他電影X",
+      "竊聽風雲",
+      "其他電影Y",
+      "其他電影Z"
+    ],
+    "options_en": [
+      "Other Movie X",
+      "Overheard",
+      "Other Movie Y",
+      "Other Movie Z"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「竊聽風雲」。",
+    "explanation_en": "The correct answer is 'Overheard'.",
+    "difficulty": 1
   },
   {
     "id": 62,
-    "question_zh": "《竊聽風雲》嘅導演係邊個？",
-    "question_en": "Who directed \"Overheard\"?",
+    "question_zh": "以下邊部電影係劉青雲主演嘅？（竊聽風雲）",
+    "question_en": "Which movie stars Sean Lau? (Overheard)",
     "options_zh": [
-      "王晶",
-      "導演",
-      "杜琪峰",
-      "劉偉強"
+      "其他電影X",
+      "竊聽風雲",
+      "其他電影Z",
+      "其他電影Y"
     ],
     "options_en": [
-      "Wong Jing",
-      "Director",
-      "Johnnie To",
-      "Andrew Lau"
+      "Other Movie X",
+      "Overheard",
+      "Other Movie Z",
+      "Other Movie Y"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「竊聽風雲」。",
+    "explanation_en": "The correct answer is 'Overheard'.",
+    "difficulty": 2
   },
   {
     "id": 63,
-    "question_zh": "《竊聽風雲》嘅導演係邊個？",
-    "question_en": "Who directed \"Overheard\"?",
+    "question_zh": "以下邊部電影係劉青雲主演嘅？（竊聽風雲）",
+    "question_en": "Which movie stars Sean Lau? (Overheard)",
     "options_zh": [
-      "王晶",
-      "導演",
-      "杜琪峰",
-      "劉偉強"
+      "竊聽風雲",
+      "其他電影Y",
+      "其他電影X",
+      "其他電影Z"
     ],
     "options_en": [
-      "Wong Jing",
-      "Director",
-      "Johnnie To",
-      "Andrew Lau"
+      "Overheard",
+      "Other Movie Y",
+      "Other Movie X",
+      "Other Movie Z"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "正確答案係「竊聽風雲」。",
+    "explanation_en": "The correct answer is 'Overheard'.",
+    "difficulty": 3
   },
   {
     "id": 64,
-    "question_zh": "《竊聽風雲》嘅導演係邊個？",
-    "question_en": "Who directed \"Overheard\"?",
-    "options_zh": [
-      "杜琪峰",
-      "王晶",
-      "導演",
-      "劉偉強"
-    ],
-    "options_en": [
-      "Johnnie To",
-      "Wong Jing",
-      "Director",
-      "Andrew Lau"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
-  },
-  {
-    "id": 65,
-    "question_zh": "《竊聽風雲》嘅導演係邊個？",
-    "question_en": "Who directed \"Overheard\"?",
-    "options_zh": [
-      "劉偉強",
-      "杜琪峰",
-      "導演",
-      "王晶"
-    ],
-    "options_en": [
-      "Andrew Lau",
-      "Johnnie To",
-      "Director",
-      "Wong Jing"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
-  },
-  {
-    "id": 66,
-    "question_zh": "劉青雲喺《竊聽風雲》入面飾演咩角色？",
-    "question_en": "What role does Sean Lau play in \"Overheard\"?",
-    "options_zh": [
-      "配角C",
-      "配角A",
-      "配角B",
-      "主角"
-    ],
-    "options_en": [
-      "Supporting C",
-      "Supporting A",
-      "Supporting B",
-      "Main Character"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
-  },
-  {
-    "id": 67,
-    "question_zh": "劉青雲喺《竊聽風雲》入面飾演咩角色？",
-    "question_en": "What role does Sean Lau play in \"Overheard\"?",
-    "options_zh": [
-      "配角C",
-      "配角B",
-      "主角",
-      "配角A"
-    ],
-    "options_en": [
-      "Supporting C",
-      "Supporting B",
-      "Main Character",
-      "Supporting A"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
-  },
-  {
-    "id": 68,
-    "question_zh": "劉青雲喺《竊聽風雲》入面飾演咩角色？",
-    "question_en": "What role does Sean Lau play in \"Overheard\"?",
-    "options_zh": [
-      "配角B",
-      "配角A",
-      "主角",
-      "配角C"
-    ],
-    "options_en": [
-      "Supporting B",
-      "Supporting A",
-      "Main Character",
-      "Supporting C"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
-  },
-  {
-    "id": 69,
-    "question_zh": "劉青雲喺《竊聽風雲》入面飾演咩角色？",
-    "question_en": "What role does Sean Lau play in \"Overheard\"?",
-    "options_zh": [
-      "主角",
-      "配角B",
-      "配角A",
-      "配角C"
-    ],
-    "options_en": [
-      "Main Character",
-      "Supporting B",
-      "Supporting A",
-      "Supporting C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
-  },
-  {
-    "id": 70,
-    "question_zh": "劉青雲喺《竊聽風雲》入面飾演咩角色？",
-    "question_en": "What role does Sean Lau play in \"Overheard\"?",
-    "options_zh": [
-      "主角",
-      "配角C",
-      "配角A",
-      "配角B"
-    ],
-    "options_en": [
-      "Main Character",
-      "Supporting C",
-      "Supporting A",
-      "Supporting B"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
-  },
-  {
-    "id": 71,
-    "question_zh": "《竊聽風雲》係咩類型嘅電影？",
-    "question_en": "What genre is \"Overheard\"?",
-    "options_zh": [
-      "紀錄片",
-      "音樂劇",
-      "劇情",
-      "動畫"
-    ],
-    "options_en": [
-      "Documentary",
-      "Musical",
-      "Drama",
-      "Animation"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
-  },
-  {
-    "id": 72,
-    "question_zh": "《竊聽風雲》係咩類型嘅電影？",
-    "question_en": "What genre is \"Overheard\"?",
-    "options_zh": [
-      "音樂劇",
-      "劇情",
-      "紀錄片",
-      "動畫"
-    ],
-    "options_en": [
-      "Musical",
-      "Drama",
-      "Documentary",
-      "Animation"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
-  },
-  {
-    "id": 73,
-    "question_zh": "《竊聽風雲》係咩類型嘅電影？",
-    "question_en": "What genre is \"Overheard\"?",
-    "options_zh": [
-      "動畫",
-      "紀錄片",
-      "劇情",
-      "音樂劇"
-    ],
-    "options_en": [
-      "Animation",
-      "Documentary",
-      "Drama",
-      "Musical"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
-  },
-  {
-    "id": 74,
-    "question_zh": "《竊聽風雲》係咩類型嘅電影？",
-    "question_en": "What genre is \"Overheard\"?",
-    "options_zh": [
-      "劇情",
-      "音樂劇",
-      "動畫",
-      "紀錄片"
-    ],
-    "options_en": [
-      "Drama",
-      "Musical",
-      "Animation",
-      "Documentary"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 3
-  },
-  {
-    "id": 75,
-    "question_zh": "《竊聽風雲》係咩類型嘅電影？",
-    "question_en": "What genre is \"Overheard\"?",
-    "options_zh": [
-      "音樂劇",
-      "劇情",
-      "動畫",
-      "紀錄片"
-    ],
-    "options_en": [
-      "Musical",
-      "Drama",
-      "Animation",
-      "Documentary"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
-  },
-  {
-    "id": 76,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？",
-    "question_en": "Which movie stars Sean Lau?",
-    "options_zh": [
-      "竊聽風雲",
-      "大師兄",
-      "神探",
-      "我要成名"
-    ],
-    "options_en": [
-      "Overheard",
-      "Mad Detective",
-      "Big Brother",
-      "My Name Is Fame"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「竊聽風雲」。",
-    "explanation_en": "The correct answer is 'Overheard'.",
-    "difficulty": 2
-  },
-  {
-    "id": 77,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？",
-    "question_en": "Which movie stars Sean Lau?",
-    "options_zh": [
-      "竊聽風雲",
-      "神探",
-      "我要成名",
-      "消失的兇手"
-    ],
-    "options_en": [
-      "Overheard",
-      "Mad Detective",
-      "My Name Is Fame",
-      "Big Brother"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「竊聽風雲」。",
-    "explanation_en": "The correct answer is 'Overheard'.",
-    "difficulty": 3
-  },
-  {
-    "id": 78,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？",
-    "question_en": "Which movie stars Sean Lau?",
-    "options_zh": [
-      "我要成名",
-      "竊聽風雲",
-      "消失的兇手",
-      "神探"
-    ],
-    "options_en": [
-      "Mad Detective",
-      "Overheard",
-      "The Vanished Murderer",
-      "Big Brother"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「竊聽風雲」。",
-    "explanation_en": "The correct answer is 'Overheard'.",
-    "difficulty": 1
-  },
-  {
-    "id": 79,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？",
-    "question_en": "Which movie stars Sean Lau?",
-    "options_zh": [
-      "神探",
-      "大師兄",
-      "竊聽風雲",
-      "消失的兇手"
-    ],
-    "options_en": [
-      "Mad Detective",
-      "The Vanished Murderer",
-      "Overheard",
-      "My Name Is Fame"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「竊聽風雲」。",
-    "explanation_en": "The correct answer is 'Overheard'.",
-    "difficulty": 2
-  },
-  {
-    "id": 80,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？",
-    "question_en": "Which movie stars Sean Lau?",
-    "options_zh": [
-      "我要成名",
-      "神探",
-      "竊聽風雲",
-      "消失的兇手"
-    ],
-    "options_en": [
-      "Mad Detective",
-      "Big Brother",
-      "Overheard",
-      "My Name Is Fame"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「竊聽風雲」。",
-    "explanation_en": "The correct answer is 'Overheard'.",
-    "difficulty": 3
-  },
-  {
-    "id": 81,
     "question_zh": "《竊聽風雲》係邊年上映嘅？",
     "question_en": "What year was \"Overheard\" released?",
     "options_zh": [
-      "2011年",
       "2009年",
-      "2012年",
+      "2011年",
+      "2014年",
       "2006年"
     ],
     "options_en": [
-      "2011",
       "2009",
-      "2012",
+      "2011",
+      "2014",
+      "2006"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2009年」。",
+    "explanation_en": "The correct answer is '2009'.",
+    "difficulty": 1
+  },
+  {
+    "id": 65,
+    "question_zh": "《竊聽風雲》係邊年上映嘅？",
+    "question_en": "What year was \"Overheard\" released?",
+    "options_zh": [
+      "2014年",
+      "2009年",
+      "2011年",
+      "2006年"
+    ],
+    "options_en": [
+      "2014",
+      "2009",
+      "2011",
       "2006"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「2009年」。",
     "explanation_en": "The correct answer is '2009'.",
-    "difficulty": 1
-  },
-  {
-    "id": 82,
-    "question_zh": "《竊聽風雲》係邊年上映嘅？",
-    "question_en": "What year was \"Overheard\" released?",
-    "options_zh": [
-      "2012年",
-      "2006年",
-      "2011年",
-      "2009年"
-    ],
-    "options_en": [
-      "2012",
-      "2006",
-      "2011",
-      "2009"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2009年」。",
-    "explanation_en": "The correct answer is '2009'.",
     "difficulty": 2
   },
   {
-    "id": 83,
+    "id": 66,
     "question_zh": "《竊聽風雲》係邊年上映嘅？",
     "question_en": "What year was \"Overheard\" released?",
     "options_zh": [
       "2009年",
-      "2012年",
-      "2007年",
-      "2011年"
+      "2014年",
+      "2011年",
+      "2006年"
     ],
     "options_en": [
       "2009",
-      "2012",
-      "2007",
-      "2011"
+      "2014",
+      "2011",
+      "2006"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「2009年」。",
     "explanation_en": "The correct answer is '2009'.",
     "difficulty": 3
+  },
+  {
+    "id": 67,
+    "question_zh": "《竊聽風雲》嘅導演係邊個？",
+    "question_en": "Who directed \"Overheard\"?",
+    "options_zh": [
+      "杜琪峰",
+      "劉偉強",
+      "王晶",
+      "麥兆輝"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Andrew Lau",
+      "Wong Jing",
+      "麥兆輝"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「麥兆輝」。",
+    "explanation_en": "The correct answer is '麥兆輝'.",
+    "difficulty": 1
+  },
+  {
+    "id": 68,
+    "question_zh": "《竊聽風雲》嘅導演係邊個？",
+    "question_en": "Who directed \"Overheard\"?",
+    "options_zh": [
+      "麥兆輝",
+      "杜琪峰",
+      "王晶",
+      "劉偉強"
+    ],
+    "options_en": [
+      "麥兆輝",
+      "Johnnie To",
+      "Wong Jing",
+      "Andrew Lau"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「麥兆輝」。",
+    "explanation_en": "The correct answer is '麥兆輝'.",
+    "difficulty": 2
+  },
+  {
+    "id": 69,
+    "question_zh": "《竊聽風雲》嘅導演係邊個？",
+    "question_en": "Who directed \"Overheard\"?",
+    "options_zh": [
+      "王晶",
+      "劉偉強",
+      "麥兆輝",
+      "杜琪峰"
+    ],
+    "options_en": [
+      "Wong Jing",
+      "Andrew Lau",
+      "麥兆輝",
+      "Johnnie To"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「麥兆輝」。",
+    "explanation_en": "The correct answer is '麥兆輝'.",
+    "difficulty": 3
+  },
+  {
+    "id": 70,
+    "question_zh": "《竊聽風雲》入面劉青雲係主角？",
+    "question_en": "Is Sean Lau the lead in \"Overheard\"?",
+    "options_zh": [
+      "唔係",
+      "只係客串",
+      "唔知",
+      "係"
+    ],
+    "options_en": [
+      "No",
+      "Cameo only",
+      "Unknown",
+      "Yes"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
+  },
+  {
+    "id": 71,
+    "question_zh": "《竊聽風雲》入面劉青雲係主角？",
+    "question_en": "Is Sean Lau the lead in \"Overheard\"?",
+    "options_zh": [
+      "唔知",
+      "唔係",
+      "只係客串",
+      "係"
+    ],
+    "options_en": [
+      "Unknown",
+      "No",
+      "Cameo only",
+      "Yes"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 2
+  },
+  {
+    "id": 72,
+    "question_zh": "《竊聽風雲》入面劉青雲係主角？",
+    "question_en": "Is Sean Lau the lead in \"Overheard\"?",
+    "options_zh": [
+      "唔係",
+      "只係客串",
+      "唔知",
+      "係"
+    ],
+    "options_en": [
+      "No",
+      "Cameo only",
+      "Unknown",
+      "Yes"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
+  },
+  {
+    "id": 73,
+    "question_zh": "《竊聽風雲》係邊度出品？",
+    "question_en": "Where was \"Overheard\" produced?",
+    "options_zh": [
+      "香港",
+      "中國",
+      "台灣",
+      "美國"
+    ],
+    "options_en": [
+      "Hong Kong",
+      "China",
+      "Taiwan",
+      "USA"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
+  },
+  {
+    "id": 74,
+    "question_zh": "《竊聽風雲》係邊度出品？",
+    "question_en": "Where was \"Overheard\" produced?",
+    "options_zh": [
+      "台灣",
+      "香港",
+      "中國",
+      "美國"
+    ],
+    "options_en": [
+      "Taiwan",
+      "Hong Kong",
+      "China",
+      "USA"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
+  },
+  {
+    "id": 75,
+    "question_zh": "《竊聽風雲》係邊度出品？",
+    "question_en": "Where was \"Overheard\" produced?",
+    "options_zh": [
+      "台灣",
+      "美國",
+      "中國",
+      "香港"
+    ],
+    "options_en": [
+      "Taiwan",
+      "USA",
+      "China",
+      "Hong Kong"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
+  },
+  {
+    "id": 76,
+    "question_zh": "劉青雲喺《竊聽風雲》嘅表現如何？",
+    "question_en": "How is Sean Lau's performance in \"Overheard\"?",
+    "options_zh": [
+      "普通",
+      "麻麻地",
+      "非常出色",
+      "唔好"
+    ],
+    "options_en": [
+      "Average",
+      "So-so",
+      "Excellent",
+      "Bad"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 1
+  },
+  {
+    "id": 77,
+    "question_zh": "劉青雲喺《竊聽風雲》嘅表現如何？",
+    "question_en": "How is Sean Lau's performance in \"Overheard\"?",
+    "options_zh": [
+      "普通",
+      "非常出色",
+      "唔好",
+      "麻麻地"
+    ],
+    "options_en": [
+      "Average",
+      "Excellent",
+      "Bad",
+      "So-so"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 2
+  },
+  {
+    "id": 78,
+    "question_zh": "劉青雲喺《竊聽風雲》嘅表現如何？",
+    "question_en": "How is Sean Lau's performance in \"Overheard\"?",
+    "options_zh": [
+      "非常出色",
+      "麻麻地",
+      "唔好",
+      "普通"
+    ],
+    "options_en": [
+      "Excellent",
+      "So-so",
+      "Bad",
+      "Average"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
+    "difficulty": 3
+  },
+  {
+    "id": 79,
+    "question_zh": "你會推薦《竊聽風雲》俾朋友？",
+    "question_en": "Would you recommend \"Overheard\" to friends?",
+    "options_zh": [
+      "唔會",
+      "會，非常推薦",
+      "睇情況",
+      "唔知"
+    ],
+    "options_en": [
+      "No",
+      "Yes, highly recommended",
+      "Depends",
+      "Unknown"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
+  },
+  {
+    "id": 80,
+    "question_zh": "你會推薦《竊聽風雲》俾朋友？",
+    "question_en": "Would you recommend \"Overheard\" to friends?",
+    "options_zh": [
+      "唔會",
+      "唔知",
+      "會，非常推薦",
+      "睇情況"
+    ],
+    "options_en": [
+      "No",
+      "Unknown",
+      "Yes, highly recommended",
+      "Depends"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 2
+  },
+  {
+    "id": 81,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？（竊聽風雲）",
+    "question_en": "Which movie stars Sean Lau? (Overheard)",
+    "options_zh": [
+      "竊聽風雲",
+      "其他電影X",
+      "其他電影Z",
+      "其他電影Y"
+    ],
+    "options_en": [
+      "Overheard",
+      "Other Movie X",
+      "Other Movie Z",
+      "Other Movie Y"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「竊聽風雲」。",
+    "explanation_en": "The correct answer is 'Overheard'.",
+    "difficulty": 3
+  },
+  {
+    "id": 82,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？（竊聽風雲）",
+    "question_en": "Which movie stars Sean Lau? (Overheard)",
+    "options_zh": [
+      "其他電影Y",
+      "竊聽風雲",
+      "其他電影Z",
+      "其他電影X"
+    ],
+    "options_en": [
+      "Other Movie Y",
+      "Overheard",
+      "Other Movie Z",
+      "Other Movie X"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「竊聽風雲」。",
+    "explanation_en": "The correct answer is 'Overheard'.",
+    "difficulty": 1
+  },
+  {
+    "id": 83,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？（竊聽風雲）",
+    "question_en": "Which movie stars Sean Lau? (Overheard)",
+    "options_zh": [
+      "其他電影Y",
+      "竊聽風雲",
+      "其他電影X",
+      "其他電影Z"
+    ],
+    "options_en": [
+      "Other Movie Y",
+      "Overheard",
+      "Other Movie X",
+      "Other Movie Z"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「竊聽風雲」。",
+    "explanation_en": "The correct answer is 'Overheard'.",
+    "difficulty": 2
   },
   {
     "id": 84,
     "question_zh": "《竊聽風雲》係邊年上映嘅？",
     "question_en": "What year was \"Overheard\" released?",
     "options_zh": [
-      "2011年",
       "2009年",
       "2006年",
-      "2012年"
+      "2011年",
+      "2014年"
     ],
     "options_en": [
-      "2011",
       "2009",
       "2006",
-      "2012"
+      "2011",
+      "2014"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「2009年」。",
     "explanation_en": "The correct answer is '2009'.",
-    "difficulty": 1
+    "difficulty": 3
   },
   {
     "id": 85,
     "question_zh": "《竊聽風雲》係邊年上映嘅？",
     "question_en": "What year was \"Overheard\" released?",
     "options_zh": [
-      "2009年",
-      "2012年",
       "2011年",
+      "2006年",
+      "2014年",
+      "2009年"
+    ],
+    "options_en": [
+      "2011",
+      "2006",
+      "2014",
+      "2009"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「2009年」。",
+    "explanation_en": "The correct answer is '2009'.",
+    "difficulty": 1
+  },
+  {
+    "id": 86,
+    "question_zh": "《竊聽風雲》係邊年上映嘅？",
+    "question_en": "What year was \"Overheard\" released?",
+    "options_zh": [
+      "2009年",
+      "2011年",
+      "2014年",
       "2006年"
     ],
     "options_en": [
       "2009",
-      "2012",
       "2011",
+      "2014",
       "2006"
     ],
     "answer": 0,
@@ -1785,46 +1806,25 @@
     "difficulty": 2
   },
   {
-    "id": 86,
-    "question_zh": "《竊聽風雲》嘅導演係邊個？",
-    "question_en": "Who directed \"Overheard\"?",
-    "options_zh": [
-      "導演",
-      "杜琪峰",
-      "劉偉強",
-      "王晶"
-    ],
-    "options_en": [
-      "Director",
-      "Johnnie To",
-      "Andrew Lau",
-      "Wong Jing"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
-  },
-  {
     "id": 87,
     "question_zh": "《竊聽風雲》嘅導演係邊個？",
     "question_en": "Who directed \"Overheard\"?",
     "options_zh": [
-      "劉偉強",
-      "導演",
+      "杜琪峰",
       "王晶",
-      "杜琪峰"
+      "劉偉強",
+      "麥兆輝"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Director",
+      "Johnnie To",
       "Wong Jing",
-      "Johnnie To"
+      "Andrew Lau",
+      "麥兆輝"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "answer": 3,
+    "explanation_zh": "正確答案係「麥兆輝」。",
+    "explanation_en": "The correct answer is '麥兆輝'.",
+    "difficulty": 3
   },
   {
     "id": 88,
@@ -1832,271 +1832,271 @@
     "question_en": "Who directed \"Overheard\"?",
     "options_zh": [
       "杜琪峰",
+      "劉偉強",
       "王晶",
-      "導演",
-      "劉偉強"
+      "麥兆輝"
     ],
     "options_en": [
       "Johnnie To",
+      "Andrew Lau",
       "Wong Jing",
-      "Director",
-      "Andrew Lau"
+      "麥兆輝"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 2
+    "answer": 3,
+    "explanation_zh": "正確答案係「麥兆輝」。",
+    "explanation_en": "The correct answer is '麥兆輝'.",
+    "difficulty": 1
   },
   {
     "id": 89,
     "question_zh": "《竊聽風雲》嘅導演係邊個？",
     "question_en": "Who directed \"Overheard\"?",
     "options_zh": [
-      "劉偉強",
-      "導演",
+      "麥兆輝",
+      "杜琪峰",
       "王晶",
-      "杜琪峰"
+      "劉偉強"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Director",
+      "麥兆輝",
+      "Johnnie To",
       "Wong Jing",
-      "Johnnie To"
+      "Andrew Lau"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "正確答案係「麥兆輝」。",
+    "explanation_en": "The correct answer is '麥兆輝'.",
+    "difficulty": 2
   },
   {
     "id": 90,
-    "question_zh": "《竊聽風雲》嘅導演係邊個？",
-    "question_en": "Who directed \"Overheard\"?",
+    "question_zh": "《竊聽風雲》入面劉青雲係主角？",
+    "question_en": "Is Sean Lau the lead in \"Overheard\"?",
     "options_zh": [
-      "杜琪峰",
-      "王晶",
-      "劉偉強",
-      "導演"
+      "只係客串",
+      "係",
+      "唔知",
+      "唔係"
     ],
     "options_en": [
-      "Johnnie To",
-      "Wong Jing",
-      "Andrew Lau",
-      "Director"
+      "Cameo only",
+      "Yes",
+      "Unknown",
+      "No"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「導演」。",
-    "explanation_en": "The correct answer is 'Director'.",
-    "difficulty": 1
+    "answer": 1,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 3
   },
   {
     "id": 91,
-    "question_zh": "劉青雲喺《竊聽風雲》入面飾演咩角色？",
-    "question_en": "What role does Sean Lau play in \"Overheard\"?",
+    "question_zh": "《竊聽風雲》入面劉青雲係主角？",
+    "question_en": "Is Sean Lau the lead in \"Overheard\"?",
     "options_zh": [
-      "主角",
-      "配角A",
-      "配角B",
-      "配角C"
+      "唔係",
+      "係",
+      "唔知",
+      "只係客串"
     ],
     "options_en": [
-      "Main Character",
-      "Supporting A",
-      "Supporting B",
-      "Supporting C"
+      "No",
+      "Yes",
+      "Unknown",
+      "Cameo only"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
+    "answer": 1,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 1
   },
   {
     "id": 92,
-    "question_zh": "劉青雲喺《竊聽風雲》入面飾演咩角色？",
-    "question_en": "What role does Sean Lau play in \"Overheard\"?",
+    "question_zh": "《竊聽風雲》入面劉青雲係主角？",
+    "question_en": "Is Sean Lau the lead in \"Overheard\"?",
     "options_zh": [
-      "主角",
-      "配角B",
-      "配角A",
-      "配角C"
+      "唔係",
+      "係",
+      "只係客串",
+      "唔知"
     ],
     "options_en": [
-      "Main Character",
-      "Supporting B",
-      "Supporting A",
-      "Supporting C"
+      "No",
+      "Yes",
+      "Cameo only",
+      "Unknown"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「係」。",
+    "explanation_en": "The correct answer is 'Yes'.",
+    "difficulty": 2
   },
   {
     "id": 93,
-    "question_zh": "劉青雲喺《竊聽風雲》入面飾演咩角色？",
-    "question_en": "What role does Sean Lau play in \"Overheard\"?",
+    "question_zh": "《竊聽風雲》係邊度出品？",
+    "question_en": "Where was \"Overheard\" produced?",
     "options_zh": [
-      "配角C",
-      "主角",
-      "配角A",
-      "配角B"
+      "中國",
+      "美國",
+      "台灣",
+      "香港"
     ],
     "options_en": [
-      "Supporting C",
-      "Main Character",
-      "Supporting A",
-      "Supporting B"
+      "China",
+      "USA",
+      "Taiwan",
+      "Hong Kong"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 1
+    "answer": 3,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
   },
   {
     "id": 94,
-    "question_zh": "劉青雲喺《竊聽風雲》入面飾演咩角色？",
-    "question_en": "What role does Sean Lau play in \"Overheard\"?",
+    "question_zh": "《竊聽風雲》係邊度出品？",
+    "question_en": "Where was \"Overheard\" produced?",
     "options_zh": [
-      "配角A",
-      "配角C",
-      "主角",
-      "配角B"
+      "台灣",
+      "美國",
+      "香港",
+      "中國"
     ],
     "options_en": [
-      "Supporting A",
-      "Supporting C",
-      "Main Character",
-      "Supporting B"
+      "Taiwan",
+      "USA",
+      "Hong Kong",
+      "China"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 2
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
   },
   {
     "id": 95,
-    "question_zh": "劉青雲喺《竊聽風雲》入面飾演咩角色？",
-    "question_en": "What role does Sean Lau play in \"Overheard\"?",
+    "question_zh": "《竊聽風雲》係邊度出品？",
+    "question_en": "Where was \"Overheard\" produced?",
     "options_zh": [
-      "配角C",
-      "配角A",
-      "主角",
-      "配角B"
+      "香港",
+      "美國",
+      "中國",
+      "台灣"
     ],
     "options_en": [
-      "Supporting C",
-      "Supporting A",
-      "Main Character",
-      "Supporting B"
+      "Hong Kong",
+      "USA",
+      "China",
+      "Taiwan"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主角」。",
-    "explanation_en": "The correct answer is 'Main Character'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
   },
   {
     "id": 96,
-    "question_zh": "《竊聽風雲》係咩類型嘅電影？",
-    "question_en": "What genre is \"Overheard\"?",
+    "question_zh": "劉青雲喺《竊聽風雲》嘅表現如何？",
+    "question_en": "How is Sean Lau's performance in \"Overheard\"?",
     "options_zh": [
-      "劇情",
-      "動畫",
-      "音樂劇",
-      "紀錄片"
+      "麻麻地",
+      "普通",
+      "非常出色",
+      "唔好"
     ],
     "options_en": [
-      "Drama",
-      "Animation",
-      "Musical",
-      "Documentary"
+      "So-so",
+      "Average",
+      "Excellent",
+      "Bad"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 1
-  },
-  {
-    "id": 97,
-    "question_zh": "《竊聽風雲》係咩類型嘅電影？",
-    "question_en": "What genre is \"Overheard\"?",
-    "options_zh": [
-      "音樂劇",
-      "紀錄片",
-      "動畫",
-      "劇情"
-    ],
-    "options_en": [
-      "Musical",
-      "Documentary",
-      "Animation",
-      "Drama"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
-    "difficulty": 2
-  },
-  {
-    "id": 98,
-    "question_zh": "《竊聽風雲》係咩類型嘅電影？",
-    "question_en": "What genre is \"Overheard\"?",
-    "options_zh": [
-      "劇情",
-      "音樂劇",
-      "紀錄片",
-      "動畫"
-    ],
-    "options_en": [
-      "Drama",
-      "Musical",
-      "Documentary",
-      "Animation"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
     "difficulty": 3
   },
   {
-    "id": 99,
-    "question_zh": "《竊聽風雲》係咩類型嘅電影？",
-    "question_en": "What genre is \"Overheard\"?",
+    "id": 97,
+    "question_zh": "劉青雲喺《竊聽風雲》嘅表現如何？",
+    "question_en": "How is Sean Lau's performance in \"Overheard\"?",
     "options_zh": [
-      "動畫",
-      "音樂劇",
-      "劇情",
-      "紀錄片"
+      "麻麻地",
+      "唔好",
+      "普通",
+      "非常出色"
     ],
     "options_en": [
-      "Animation",
-      "Musical",
-      "Drama",
-      "Documentary"
+      "So-so",
+      "Bad",
+      "Average",
+      "Excellent"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
     "difficulty": 1
   },
   {
-    "id": 100,
-    "question_zh": "《竊聽風雲》係咩類型嘅電影？",
-    "question_en": "What genre is \"Overheard\"?",
+    "id": 98,
+    "question_zh": "劉青雲喺《竊聽風雲》嘅表現如何？",
+    "question_en": "How is Sean Lau's performance in \"Overheard\"?",
     "options_zh": [
-      "音樂劇",
-      "動畫",
-      "紀錄片",
-      "劇情"
+      "非常出色",
+      "麻麻地",
+      "普通",
+      "唔好"
     ],
     "options_en": [
-      "Musical",
-      "Animation",
-      "Documentary",
-      "Drama"
+      "Excellent",
+      "So-so",
+      "Average",
+      "Bad"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劇情」。",
-    "explanation_en": "The correct answer is 'Drama'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「非常出色」。",
+    "explanation_en": "The correct answer is 'Excellent'.",
     "difficulty": 2
+  },
+  {
+    "id": 99,
+    "question_zh": "你會推薦《竊聽風雲》俾朋友？",
+    "question_en": "Would you recommend \"Overheard\" to friends?",
+    "options_zh": [
+      "會，非常推薦",
+      "唔會",
+      "唔知",
+      "睇情況"
+    ],
+    "options_en": [
+      "Yes, highly recommended",
+      "No",
+      "Unknown",
+      "Depends"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
+  },
+  {
+    "id": 100,
+    "question_zh": "你會推薦《竊聽風雲》俾朋友？",
+    "question_en": "Would you recommend \"Overheard\" to friends?",
+    "options_zh": [
+      "唔知",
+      "會，非常推薦",
+      "睇情況",
+      "唔會"
+    ],
+    "options_en": [
+      "Unknown",
+      "Yes, highly recommended",
+      "Depends",
+      "No"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
   }
 ]
