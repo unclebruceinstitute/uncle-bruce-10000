@@ -5,15 +5,15 @@
     "question_en": "Which one is 'Harry Potter'?",
     "options_zh": [
       "哈利波特",
-      "其他小說C",
+      "其他小說A",
       "其他小說B",
-      "其他小說A"
+      "其他小說C"
     ],
     "options_en": [
       "Harry Potter",
-      "Other Novel C",
+      "Other Novel A",
       "Other Novel B",
-      "Other Novel A"
+      "Other Novel C"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「哈利波特」。",
@@ -27,14 +27,14 @@
     "options_zh": [
       "其他作者B",
       "J.K.羅琳",
-      "其他作者C",
-      "其他作者A"
+      "其他作者A",
+      "其他作者C"
     ],
     "options_en": [
       "Author B",
       "J.K. Rowling",
-      "Author C",
-      "Author A"
+      "Author A",
+      "Author C"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「J.K.羅琳」。",
@@ -46,16 +46,16 @@
     "question_zh": "《哈利波特》係邊年出版嘅？",
     "question_en": "What year was 'Harry Potter' published?",
     "options_zh": [
-      "1992年",
+      "2002年",
       "1997年",
       "1995年",
-      "2002年"
+      "1992年"
     ],
     "options_en": [
-      "1992",
+      "2002",
       "1997",
       "1995",
-      "2002"
+      "1992"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「1997年」。",
@@ -68,15 +68,15 @@
     "question_en": "Which country is 'Harry Potter' from?",
     "options_zh": [
       "中國",
-      "法國",
       "韓國",
-      "德國"
+      "德國",
+      "法國"
     ],
     "options_en": [
       "China",
-      "France",
       "South Korea",
-      "Germany"
+      "Germany",
+      "France"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「中國」。",
@@ -89,15 +89,15 @@
     "question_en": "What is 'Harry Potter' mainly about?",
     "options_zh": [
       "奇幻冒險同超自然元素",
-      "科幻太空",
+      "財經商戰",
       "體育競技",
-      "財經商戰"
+      "科幻太空"
     ],
     "options_en": [
       "Fantasy adventure",
-      "Sci-fi",
+      "Business",
       "Sports",
-      "Business"
+      "Sci-fi"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「奇幻冒險同超自然元素」。",
@@ -111,16 +111,16 @@
     "options_zh": [
       "外星人",
       "機械人",
-      "動物",
-      "修仙者/魔法師"
+      "修仙者/魔法師",
+      "動物"
     ],
     "options_en": [
       "Aliens",
       "Robots",
-      "Animals",
-      "Cultivators/Wizards"
+      "Cultivators/Wizards",
+      "Animals"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「修仙者/魔法師」。",
     "explanation_en": "The correct answer is 'Cultivators/Wizards'.",
     "difficulty": 3
@@ -130,18 +130,18 @@
     "question_zh": "《哈利波特》嘅故事背景喺邊度？",
     "question_en": "Where is 'Harry Potter' set?",
     "options_zh": [
-      "虛構世界",
-      "虛擬世界",
       "歐洲中世紀",
-      "未來太空"
+      "未來太空",
+      "虛擬世界",
+      "虛構世界"
     ],
     "options_en": [
-      "Fictional world",
-      "Virtual world",
       "Medieval Europe",
-      "Future space"
+      "Future space",
+      "Virtual world",
+      "Fictional world"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「虛構世界」。",
     "explanation_en": "The correct answer is 'Fictional world'.",
     "difficulty": 3
@@ -151,18 +151,18 @@
     "question_zh": "《哈利波特》係咪好受歡迎？",
     "question_en": "Is 'Harry Potter' popular?",
     "options_zh": [
-      "係，非常受歡迎",
-      "已經過氣",
+      "只喺特定地區流行",
       "唔係，好冷門",
-      "只喺特定地區流行"
+      "係，非常受歡迎",
+      "已經過氣"
     ],
     "options_en": [
-      "Yes, very popular",
-      "Outdated",
+      "Only popular locally",
       "No, very niche",
-      "Only popular locally"
+      "Yes, very popular",
+      "Outdated"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -172,18 +172,18 @@
     "question_zh": "《哈利波特》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Harry Potter'?",
     "options_zh": [
-      "韓國人",
-      "法國人",
+      "德國人",
       "中國人",
-      "德國人"
+      "法國人",
+      "韓國人"
     ],
     "options_en": [
-      "Korean",
-      "French",
+      "German",
       "Chinese",
-      "German"
+      "French",
+      "Korean"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2

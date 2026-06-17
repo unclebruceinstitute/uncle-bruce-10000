@@ -4,16 +4,16 @@
     "question_zh": "以下邊個係「《微軟飛行模擬器》係邊間公司開發？」？",
     "question_en": "Which one is 'Microsoft Flight'?",
     "options_zh": [
-      "其他C",
+      "其他A",
       "《微軟飛行模擬器》係邊間公司開發？",
-      "其他B",
-      "其他A"
+      "其他C",
+      "其他B"
     ],
     "options_en": [
-      "Other C",
+      "Other A",
       "Microsoft Flight",
-      "Other B",
-      "Other A"
+      "Other C",
+      "Other B"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「《微軟飛行模擬器》係邊間公司開發？」。",
@@ -25,18 +25,18 @@
     "question_zh": "「《微軟飛行模擬器》係邊間公司開發？」屬於邊種類型？",
     "question_en": "What type is 'Microsoft Flight'?",
     "options_zh": [
+      "類型C",
       "類型A",
       "類型B",
-      "Xbox遊戲",
-      "類型C"
+      "Xbox遊戲"
     ],
     "options_en": [
+      "Type C",
       "Type A",
       "Type B",
-      "Xbox遊戲",
-      "Type C"
+      "Xbox遊戲"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「Xbox遊戲」。",
     "explanation_en": "The correct answer is 'Xbox遊戲'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "「《微軟飛行模擬器》係邊間公司開發？」係咪好受歡迎？",
     "question_en": "Is 'Microsoft Flight' popular?",
     "options_zh": [
-      "唔係，好冷門",
+      "只喺特定地區流行",
       "已經過氣",
-      "係，非常受歡迎",
-      "只喺特定地區流行"
+      "唔係，好冷門",
+      "係，非常受歡迎"
     ],
     "options_en": [
-      "No, very niche",
+      "Only popular locally",
       "Outdated",
-      "Yes, very popular",
-      "Only popular locally"
+      "No, very niche",
+      "Yes, very popular"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -67,18 +67,18 @@
     "question_zh": "「《微軟飛行模擬器》係邊間公司開發？」係邊度嚟嘅？",
     "question_en": "Where is 'Microsoft Flight' from?",
     "options_zh": [
-      "歐洲",
-      "美洲",
       "美國",
-      "非洲"
+      "美洲",
+      "非洲",
+      "歐洲"
     ],
     "options_en": [
-      "Europe",
-      "Americas",
       "USA",
-      "Africa"
+      "Americas",
+      "Africa",
+      "Europe"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「美國」。",
     "explanation_en": "The correct answer is 'USA'.",
     "difficulty": 3
@@ -88,16 +88,16 @@
     "question_zh": "「《微軟飛行模擬器》係邊間公司開發？」有咩特色？",
     "question_en": "What is special about 'Microsoft Flight'?",
     "options_zh": [
-      "好普通",
       "已經過時",
+      "冇特色",
       "獨特風格",
-      "冇特色"
+      "好普通"
     ],
     "options_en": [
-      "Very ordinary",
       "Outdated",
+      "No special features",
       "Unique style",
-      "No special features"
+      "Very ordinary"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「獨特風格」。",
@@ -109,14 +109,14 @@
     "question_zh": "你會唔會推薦「《微軟飛行模擬器》係邊間公司開發？」？",
     "question_en": "Would you recommend 'Microsoft Flight'?",
     "options_zh": [
-      "唔確定",
       "睇情況",
+      "唔確定",
       "會，非常推薦",
       "唔會"
     ],
     "options_en": [
-      "Not sure",
       "It depends",
+      "Not sure",
       "Yes, highly recommended",
       "No"
     ],
@@ -130,18 +130,18 @@
     "question_zh": "「《微軟飛行模擬器》係邊間公司開發？」適合邊種人？",
     "question_en": "Who is 'Microsoft Flight' suitable for?",
     "options_zh": [
-      "所有人",
       "只適合成人",
       "只適合專業人士",
-      "只適合兒童"
+      "只適合兒童",
+      "所有人"
     ],
     "options_en": [
-      "Everyone",
       "Only adults",
       "Only professionals",
-      "Only children"
+      "Only children",
+      "Everyone"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「所有人」。",
     "explanation_en": "The correct answer is 'Everyone'.",
     "difficulty": 3
@@ -151,18 +151,18 @@
     "question_zh": "「《微軟飛行模擬器》係邊間公司開發？」嘅質素如何？",
     "question_en": "What is the quality of 'Microsoft Flight'?",
     "options_zh": [
-      "普通",
-      "高質素",
       "低質素",
-      "參差"
+      "參差",
+      "普通",
+      "高質素"
     ],
     "options_en": [
-      "Average",
-      "High quality",
       "Low quality",
-      "Mixed"
+      "Mixed",
+      "Average",
+      "High quality"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「高質素」。",
     "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 3
@@ -173,14 +173,14 @@
     "question_en": "What is your overall impression of 'Microsoft Flight'?",
     "options_zh": [
       "唔好",
-      "一般",
       "冇印象",
+      "一般",
       "非常好"
     ],
     "options_en": [
       "Not good",
-      "Average",
       "No impression",
+      "Average",
       "Very good"
     ],
     "answer": 3,

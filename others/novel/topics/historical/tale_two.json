@@ -4,18 +4,18 @@
     "question_zh": "以下邊本係《雙城記》？",
     "question_en": "Which one is 'A Tale of Two Cities'?",
     "options_zh": [
-      "其他小說B",
-      "其他小說C",
       "雙城記",
-      "其他小說A"
+      "其他小說C",
+      "其他小說A",
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel B",
-      "Other Novel C",
       "A Tale of Two Cities",
-      "Other Novel A"
+      "Other Novel C",
+      "Other Novel A",
+      "Other Novel B"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「雙城記」。",
     "explanation_en": "The correct answer is 'A Tale of Two Cities'.",
     "difficulty": 2
@@ -25,16 +25,16 @@
     "question_zh": "《雙城記》嘅作者係邊個？",
     "question_en": "Who wrote 'A Tale of Two Cities'?",
     "options_zh": [
-      "其他作者A",
+      "其他作者B",
       "狄更斯",
       "其他作者C",
-      "其他作者B"
+      "其他作者A"
     ],
     "options_en": [
-      "Author A",
+      "Author B",
       "Charles Dickens",
       "Author C",
-      "Author B"
+      "Author A"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「狄更斯」。",
@@ -46,18 +46,18 @@
     "question_zh": "《雙城記》係邊年出版嘅？",
     "question_en": "What year was 'A Tale of Two Cities' published?",
     "options_zh": [
-      "1861年",
       "1859年",
-      "1864年",
-      "1856年"
+      "1856年",
+      "1861年",
+      "1864年"
     ],
     "options_en": [
-      "1861",
       "1859",
-      "1864",
-      "1856"
+      "1856",
+      "1861",
+      "1864"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「1859年」。",
     "explanation_en": "The correct answer is '1859'.",
     "difficulty": 3
@@ -67,18 +67,18 @@
     "question_zh": "《雙城記》係邊國作品？",
     "question_en": "Which country is 'A Tale of Two Cities' from?",
     "options_zh": [
-      "英國",
-      "德國",
+      "法國",
       "韓國",
-      "法國"
+      "英國",
+      "德國"
     ],
     "options_en": [
-      "UK",
-      "Germany",
+      "France",
       "South Korea",
-      "France"
+      "UK",
+      "Germany"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「英國」。",
     "explanation_en": "The correct answer is 'UK'.",
     "difficulty": 3
@@ -88,18 +88,18 @@
     "question_zh": "《雙城記》主要講咩？",
     "question_en": "What is 'A Tale of Two Cities' mainly about?",
     "options_zh": [
+      "科幻太空",
       "體育競技",
       "歷史故事同時代變遷",
-      "財經商戰",
-      "科幻太空"
+      "財經商戰"
     ],
     "options_en": [
+      "Sci-fi",
       "Sports",
       "Historical story",
-      "Business",
-      "Sci-fi"
+      "Business"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
     "explanation_en": "The correct answer is 'Historical story'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "《雙城記》入面有咩角色？",
     "question_en": "What characters are in 'A Tale of Two Cities'?",
     "options_zh": [
-      "動物",
       "主要角色",
-      "機械人",
-      "外星人"
+      "外星人",
+      "動物",
+      "機械人"
     ],
     "options_en": [
-      "Animals",
       "Main characters",
-      "Robots",
-      "Aliens"
+      "Aliens",
+      "Animals",
+      "Robots"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
@@ -130,18 +130,18 @@
     "question_zh": "《雙城記》嘅故事背景喺邊度？",
     "question_en": "Where is 'A Tale of Two Cities' set?",
     "options_zh": [
+      "古代中國",
       "虛擬世界",
-      "未來太空",
       "歐洲中世紀",
-      "古代中國"
+      "未來太空"
     ],
     "options_en": [
+      "Ancient China",
       "Virtual world",
-      "Future space",
       "Medieval Europe",
-      "Ancient China"
+      "Future space"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「古代中國」。",
     "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
@@ -151,18 +151,18 @@
     "question_zh": "《雙城記》係咪好受歡迎？",
     "question_en": "Is 'A Tale of Two Cities' popular?",
     "options_zh": [
+      "唔係，好冷門",
       "係，非常受歡迎",
-      "只喺特定地區流行",
       "已經過氣",
-      "唔係，好冷門"
+      "只喺特定地區流行"
     ],
     "options_en": [
+      "No, very niche",
       "Yes, very popular",
-      "Only popular locally",
       "Outdated",
-      "No, very niche"
+      "Only popular locally"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -172,18 +172,18 @@
     "question_zh": "《雙城記》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'A Tale of Two Cities'?",
     "options_zh": [
-      "法國人",
       "英國人",
       "德國人",
-      "韓國人"
+      "韓國人",
+      "法國人"
     ],
     "options_en": [
-      "French",
       "British",
       "German",
-      "Korean"
+      "Korean",
+      "French"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「英國人」。",
     "explanation_en": "The correct answer is 'British'.",
     "difficulty": 2

@@ -4,18 +4,18 @@
     "question_zh": "以下邊個係「《幽遊白書》屬於咩類型？」？",
     "question_en": "Which one is 'Yu Yu Hakusho'?",
     "options_zh": [
-      "其他A",
-      "其他C",
+      "其他B",
       "《幽遊白書》屬於咩類型？",
-      "其他B"
+      "其他C",
+      "其他A"
     ],
     "options_en": [
-      "Other A",
-      "Other C",
+      "Other B",
       "Yu Yu Hakusho",
-      "Other B"
+      "Other C",
+      "Other A"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「《幽遊白書》屬於咩類型？」。",
     "explanation_en": "The correct answer is 'Yu Yu Hakusho'.",
     "difficulty": 2
@@ -25,18 +25,18 @@
     "question_zh": "「《幽遊白書》屬於咩類型？」屬於邊種類型？",
     "question_en": "What type is 'Yu Yu Hakusho'?",
     "options_zh": [
-      "經典動漫",
-      "類型B",
+      "類型C",
       "類型A",
-      "類型C"
+      "經典動漫",
+      "類型B"
     ],
     "options_en": [
-      "經典動漫",
-      "Type B",
+      "Type C",
       "Type A",
-      "Type C"
+      "經典動漫",
+      "Type B"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「經典動漫」。",
     "explanation_en": "The correct answer is '經典動漫'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "「《幽遊白書》屬於咩類型？」係咪好受歡迎？",
     "question_en": "Is 'Yu Yu Hakusho' popular?",
     "options_zh": [
-      "只喺特定地區流行",
-      "係，非常受歡迎",
       "已經過氣",
-      "唔係，好冷門"
+      "唔係，好冷門",
+      "只喺特定地區流行",
+      "係，非常受歡迎"
     ],
     "options_en": [
-      "Only popular locally",
-      "Yes, very popular",
       "Outdated",
-      "No, very niche"
+      "No, very niche",
+      "Only popular locally",
+      "Yes, very popular"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -67,18 +67,18 @@
     "question_zh": "「《幽遊白書》屬於咩類型？」係邊度嚟嘅？",
     "question_en": "Where is 'Yu Yu Hakusho' from?",
     "options_zh": [
-      "日本",
-      "美洲",
       "非洲",
-      "歐洲"
+      "美洲",
+      "歐洲",
+      "日本"
     ],
     "options_en": [
-      "Japan",
-      "Americas",
       "Africa",
-      "Europe"
+      "Americas",
+      "Europe",
+      "Japan"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「日本」。",
     "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 3
@@ -88,18 +88,18 @@
     "question_zh": "「《幽遊白書》屬於咩類型？」有咩特色？",
     "question_en": "What is special about 'Yu Yu Hakusho'?",
     "options_zh": [
-      "獨特風格",
-      "已經過時",
       "冇特色",
-      "好普通"
+      "好普通",
+      "已經過時",
+      "獨特風格"
     ],
     "options_en": [
-      "Unique style",
-      "Outdated",
       "No special features",
-      "Very ordinary"
+      "Very ordinary",
+      "Outdated",
+      "Unique style"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「獨特風格」。",
     "explanation_en": "The correct answer is 'Unique style'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "你會唔會推薦「《幽遊白書》屬於咩類型？」？",
     "question_en": "Would you recommend 'Yu Yu Hakusho'?",
     "options_zh": [
-      "唔會",
-      "會，非常推薦",
       "唔確定",
-      "睇情況"
+      "唔會",
+      "睇情況",
+      "會，非常推薦"
     ],
     "options_en": [
-      "No",
-      "Yes, highly recommended",
       "Not sure",
-      "It depends"
+      "No",
+      "It depends",
+      "Yes, highly recommended"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「會，非常推薦」。",
     "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 3
@@ -130,18 +130,18 @@
     "question_zh": "「《幽遊白書》屬於咩類型？」適合邊種人？",
     "question_en": "Who is 'Yu Yu Hakusho' suitable for?",
     "options_zh": [
+      "只適合專業人士",
       "所有人",
       "只適合成人",
-      "只適合兒童",
-      "只適合專業人士"
+      "只適合兒童"
     ],
     "options_en": [
+      "Only professionals",
       "Everyone",
       "Only adults",
-      "Only children",
-      "Only professionals"
+      "Only children"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「所有人」。",
     "explanation_en": "The correct answer is 'Everyone'.",
     "difficulty": 3
@@ -152,17 +152,17 @@
     "question_en": "What is the quality of 'Yu Yu Hakusho'?",
     "options_zh": [
       "低質素",
+      "普通",
       "參差",
-      "高質素",
-      "普通"
+      "高質素"
     ],
     "options_en": [
       "Low quality",
+      "Average",
       "Mixed",
-      "High quality",
-      "Average"
+      "High quality"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「高質素」。",
     "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 3

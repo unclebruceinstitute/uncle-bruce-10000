@@ -4,18 +4,18 @@
     "question_zh": "以下邊本係《西遊記》？",
     "question_en": "Which one is 'Journey to the West'?",
     "options_zh": [
-      "其他小說B",
+      "其他小說A",
       "其他小說C",
-      "西遊記",
-      "其他小說A"
+      "其他小說B",
+      "西遊記"
     ],
     "options_en": [
-      "Other Novel B",
+      "Other Novel A",
       "Other Novel C",
-      "Journey to the West",
-      "Other Novel A"
+      "Other Novel B",
+      "Journey to the West"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「西遊記」。",
     "explanation_en": "The correct answer is 'Journey to the West'.",
     "difficulty": 2
@@ -26,17 +26,17 @@
     "question_en": "Who wrote 'Journey to the West'?",
     "options_zh": [
       "其他作者C",
+      "其他作者B",
       "其他作者A",
-      "吳承恩",
-      "其他作者B"
+      "吳承恩"
     ],
     "options_en": [
       "Author C",
+      "Author B",
       "Author A",
-      "Wu Cheng'en",
-      "Author B"
+      "Wu Cheng'en"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「吳承恩」。",
     "explanation_en": "The correct answer is 'Wu Cheng'en'.",
     "difficulty": 3
@@ -46,16 +46,16 @@
     "question_zh": "《西遊記》係邊年出版嘅？",
     "question_en": "What year was 'Journey to the West' published?",
     "options_zh": [
+      "1597年",
       "1587年",
-      "1594年",
       "1592年",
-      "1597年"
+      "1594年"
     ],
     "options_en": [
+      "1597",
       "1587",
-      "1594",
       "1592",
-      "1597"
+      "1594"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「1592年」。",
@@ -67,14 +67,14 @@
     "question_zh": "《西遊記》係邊國作品？",
     "question_en": "Which country is 'Journey to the West' from?",
     "options_zh": [
-      "法國",
       "德國",
+      "法國",
       "中國",
       "韓國"
     ],
     "options_en": [
-      "France",
       "Germany",
+      "France",
       "China",
       "South Korea"
     ],
@@ -88,18 +88,18 @@
     "question_zh": "《西遊記》主要講咩？",
     "question_en": "What is 'Journey to the West' mainly about?",
     "options_zh": [
-      "體育競技",
-      "科幻太空",
       "歷史故事同時代變遷",
-      "財經商戰"
+      "體育競技",
+      "財經商戰",
+      "科幻太空"
     ],
     "options_en": [
-      "Sports",
-      "Sci-fi",
       "Historical story",
-      "Business"
+      "Sports",
+      "Business",
+      "Sci-fi"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
     "explanation_en": "The correct answer is 'Historical story'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "《西遊記》入面有咩角色？",
     "question_en": "What characters are in 'Journey to the West'?",
     "options_zh": [
-      "動物",
       "主要角色",
-      "外星人",
-      "機械人"
+      "動物",
+      "機械人",
+      "外星人"
     ],
     "options_en": [
-      "Animals",
       "Main characters",
-      "Aliens",
-      "Robots"
+      "Animals",
+      "Robots",
+      "Aliens"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
@@ -130,18 +130,18 @@
     "question_zh": "《西遊記》嘅故事背景喺邊度？",
     "question_en": "Where is 'Journey to the West' set?",
     "options_zh": [
-      "古代中國",
-      "未來太空",
       "歐洲中世紀",
-      "虛擬世界"
+      "未來太空",
+      "虛擬世界",
+      "古代中國"
     ],
     "options_en": [
-      "Ancient China",
-      "Future space",
       "Medieval Europe",
-      "Virtual world"
+      "Future space",
+      "Virtual world",
+      "Ancient China"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「古代中國」。",
     "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
@@ -151,18 +151,18 @@
     "question_zh": "《西遊記》係咪好受歡迎？",
     "question_en": "Is 'Journey to the West' popular?",
     "options_zh": [
-      "係，非常受歡迎",
-      "唔係，好冷門",
+      "已經過氣",
       "只喺特定地區流行",
-      "已經過氣"
+      "唔係，好冷門",
+      "係，非常受歡迎"
     ],
     "options_en": [
-      "Yes, very popular",
-      "No, very niche",
+      "Outdated",
       "Only popular locally",
-      "Outdated"
+      "No, very niche",
+      "Yes, very popular"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -172,15 +172,15 @@
     "question_zh": "《西遊記》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Journey to the West'?",
     "options_zh": [
-      "德國人",
       "法國人",
       "韓國人",
+      "德國人",
       "中國人"
     ],
     "options_en": [
-      "German",
       "French",
       "Korean",
+      "German",
       "Chinese"
     ],
     "answer": 3,

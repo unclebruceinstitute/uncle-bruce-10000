@@ -5,15 +5,15 @@
     "question_en": "Which one is 'Yoshi'?",
     "options_zh": [
       "其他B",
-      "其他C",
+      "其他A",
       "《耀西》係邊間公司開發？",
-      "其他A"
+      "其他C"
     ],
     "options_en": [
       "Other B",
-      "Other C",
+      "Other A",
       "Yoshi",
-      "Other A"
+      "Other C"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「《耀西》係邊間公司開發？」。",
@@ -26,17 +26,17 @@
     "question_en": "What type is 'Yoshi'?",
     "options_zh": [
       "類型B",
-      "類型A",
       "類型C",
-      "Nintendo遊戲"
+      "Nintendo遊戲",
+      "類型A"
     ],
     "options_en": [
       "Type B",
-      "Type A",
       "Type C",
-      "Nintendo遊戲"
+      "Nintendo遊戲",
+      "Type A"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「Nintendo遊戲」。",
     "explanation_en": "The correct answer is 'Nintendo遊戲'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "「《耀西》係邊間公司開發？」係咪好受歡迎？",
     "question_en": "Is 'Yoshi' popular?",
     "options_zh": [
-      "只喺特定地區流行",
-      "唔係，好冷門",
       "已經過氣",
-      "係，非常受歡迎"
+      "係，非常受歡迎",
+      "唔係，好冷門",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "Only popular locally",
-      "No, very niche",
       "Outdated",
-      "Yes, very popular"
+      "Yes, very popular",
+      "No, very niche",
+      "Only popular locally"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -67,18 +67,18 @@
     "question_zh": "「《耀西》係邊間公司開發？」係邊度嚟嘅？",
     "question_en": "Where is 'Yoshi' from?",
     "options_zh": [
-      "非洲",
-      "美洲",
       "日本",
-      "歐洲"
+      "歐洲",
+      "美洲",
+      "非洲"
     ],
     "options_en": [
-      "Africa",
-      "Americas",
       "Japan",
-      "Europe"
+      "Europe",
+      "Americas",
+      "Africa"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「日本」。",
     "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 3
@@ -89,15 +89,15 @@
     "question_en": "What is special about 'Yoshi'?",
     "options_zh": [
       "好普通",
-      "已經過時",
+      "冇特色",
       "獨特風格",
-      "冇特色"
+      "已經過時"
     ],
     "options_en": [
       "Very ordinary",
-      "Outdated",
+      "No special features",
       "Unique style",
-      "No special features"
+      "Outdated"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「獨特風格」。",
@@ -109,14 +109,14 @@
     "question_zh": "你會唔會推薦「《耀西》係邊間公司開發？」？",
     "question_en": "Would you recommend 'Yoshi'?",
     "options_zh": [
-      "唔會",
       "唔確定",
+      "唔會",
       "睇情況",
       "會，非常推薦"
     ],
     "options_en": [
-      "No",
       "Not sure",
+      "No",
       "It depends",
       "Yes, highly recommended"
     ],
@@ -130,18 +130,18 @@
     "question_zh": "「《耀西》係邊間公司開發？」適合邊種人？",
     "question_en": "Who is 'Yoshi' suitable for?",
     "options_zh": [
-      "只適合兒童",
-      "只適合專業人士",
       "所有人",
+      "只適合專業人士",
+      "只適合兒童",
       "只適合成人"
     ],
     "options_en": [
-      "Only children",
-      "Only professionals",
       "Everyone",
+      "Only professionals",
+      "Only children",
       "Only adults"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「所有人」。",
     "explanation_en": "The correct answer is 'Everyone'.",
     "difficulty": 3
@@ -151,18 +151,18 @@
     "question_zh": "「《耀西》係邊間公司開發？」嘅質素如何？",
     "question_en": "What is the quality of 'Yoshi'?",
     "options_zh": [
-      "參差",
-      "普通",
       "低質素",
-      "高質素"
+      "高質素",
+      "普通",
+      "參差"
     ],
     "options_en": [
-      "Mixed",
-      "Average",
       "Low quality",
-      "High quality"
+      "High quality",
+      "Average",
+      "Mixed"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「高質素」。",
     "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 3
@@ -173,17 +173,17 @@
     "question_en": "What is your overall impression of 'Yoshi'?",
     "options_zh": [
       "一般",
-      "唔好",
       "冇印象",
-      "非常好"
+      "非常好",
+      "唔好"
     ],
     "options_en": [
       "Average",
-      "Not good",
       "No impression",
-      "Very good"
+      "Very good",
+      "Not good"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「非常好」。",
     "explanation_en": "The correct answer is 'Very good'.",
     "difficulty": 2

@@ -25,18 +25,18 @@
     "question_zh": "「《櫻蘭高校男公關部》屬於咩類型？」屬於邊種類型？",
     "question_en": "What type is 'Ouran'?",
     "options_zh": [
-      "類型B",
-      "少女動漫",
+      "類型C",
       "類型A",
-      "類型C"
+      "類型B",
+      "少女動漫"
     ],
     "options_en": [
-      "Type B",
-      "少女動漫",
+      "Type C",
       "Type A",
-      "Type C"
+      "Type B",
+      "少女動漫"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「少女動漫」。",
     "explanation_en": "The correct answer is '少女動漫'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "「《櫻蘭高校男公關部》屬於咩類型？」係咪好受歡迎？",
     "question_en": "Is 'Ouran' popular?",
     "options_zh": [
+      "唔係，好冷門",
       "只喺特定地區流行",
       "係，非常受歡迎",
-      "唔係，好冷門",
       "已經過氣"
     ],
     "options_en": [
+      "No, very niche",
       "Only popular locally",
       "Yes, very popular",
-      "No, very niche",
       "Outdated"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -67,18 +67,18 @@
     "question_zh": "「《櫻蘭高校男公關部》屬於咩類型？」係邊度嚟嘅？",
     "question_en": "Where is 'Ouran' from?",
     "options_zh": [
-      "非洲",
+      "歐洲",
       "美洲",
-      "日本",
-      "歐洲"
+      "非洲",
+      "日本"
     ],
     "options_en": [
-      "Africa",
+      "Europe",
       "Americas",
-      "Japan",
-      "Europe"
+      "Africa",
+      "Japan"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「日本」。",
     "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "你會唔會推薦「《櫻蘭高校男公關部》屬於咩類型？」？",
     "question_en": "Would you recommend 'Ouran'?",
     "options_zh": [
-      "睇情況",
-      "唔會",
       "唔確定",
-      "會，非常推薦"
+      "會，非常推薦",
+      "唔會",
+      "睇情況"
     ],
     "options_en": [
-      "It depends",
-      "No",
       "Not sure",
-      "Yes, highly recommended"
+      "Yes, highly recommended",
+      "No",
+      "It depends"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「會，非常推薦」。",
     "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 3
@@ -130,18 +130,18 @@
     "question_zh": "「《櫻蘭高校男公關部》屬於咩類型？」適合邊種人？",
     "question_en": "Who is 'Ouran' suitable for?",
     "options_zh": [
-      "只適合兒童",
       "所有人",
-      "只適合專業人士",
-      "只適合成人"
+      "只適合成人",
+      "只適合兒童",
+      "只適合專業人士"
     ],
     "options_en": [
-      "Only children",
       "Everyone",
-      "Only professionals",
-      "Only adults"
+      "Only adults",
+      "Only children",
+      "Only professionals"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「所有人」。",
     "explanation_en": "The correct answer is 'Everyone'.",
     "difficulty": 3
@@ -151,18 +151,18 @@
     "question_zh": "「《櫻蘭高校男公關部》屬於咩類型？」嘅質素如何？",
     "question_en": "What is the quality of 'Ouran'?",
     "options_zh": [
-      "普通",
-      "高質素",
       "參差",
-      "低質素"
+      "低質素",
+      "高質素",
+      "普通"
     ],
     "options_en": [
-      "Average",
-      "High quality",
       "Mixed",
-      "Low quality"
+      "Low quality",
+      "High quality",
+      "Average"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「高質素」。",
     "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 3
@@ -174,14 +174,14 @@
     "options_zh": [
       "唔好",
       "非常好",
-      "一般",
-      "冇印象"
+      "冇印象",
+      "一般"
     ],
     "options_en": [
       "Not good",
       "Very good",
-      "Average",
-      "No impression"
+      "No impression",
+      "Average"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「非常好」。",

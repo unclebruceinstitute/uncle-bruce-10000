@@ -4,18 +4,18 @@
     "question_zh": "以下邊個係「尼泊爾位於邊個洲？」？",
     "question_en": "Which one is 'Nepal'?",
     "options_zh": [
-      "其他B",
-      "其他A",
       "尼泊爾位於邊個洲？",
-      "其他C"
+      "其他C",
+      "其他A",
+      "其他B"
     ],
     "options_en": [
-      "Other B",
-      "Other A",
       "Nepal",
-      "Other C"
+      "Other C",
+      "Other A",
+      "Other B"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「尼泊爾位於邊個洲？」。",
     "explanation_en": "The correct answer is 'Nepal'.",
     "difficulty": 2
@@ -25,18 +25,18 @@
     "question_zh": "「尼泊爾位於邊個洲？」屬於邊種類型？",
     "question_en": "What type is 'Nepal'?",
     "options_zh": [
-      "類型A",
-      "類型C",
       "類型B",
-      "亞洲旅遊"
+      "類型C",
+      "亞洲旅遊",
+      "類型A"
     ],
     "options_en": [
-      "Type A",
-      "Type C",
       "Type B",
-      "亞洲旅遊"
+      "Type C",
+      "亞洲旅遊",
+      "Type A"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「亞洲旅遊」。",
     "explanation_en": "The correct answer is '亞洲旅遊'.",
     "difficulty": 3
@@ -47,15 +47,15 @@
     "question_en": "Is 'Nepal' popular?",
     "options_zh": [
       "係，非常受歡迎",
-      "只喺特定地區流行",
+      "唔係，好冷門",
       "已經過氣",
-      "唔係，好冷門"
+      "只喺特定地區流行"
     ],
     "options_en": [
       "Yes, very popular",
-      "Only popular locally",
+      "No, very niche",
       "Outdated",
-      "No, very niche"
+      "Only popular locally"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
@@ -68,15 +68,15 @@
     "question_en": "Where is 'Nepal' from?",
     "options_zh": [
       "亞洲",
-      "美洲",
       "非洲",
-      "歐洲"
+      "歐洲",
+      "美洲"
     ],
     "options_en": [
       "Asia",
-      "Americas",
       "Africa",
-      "Europe"
+      "Europe",
+      "Americas"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「亞洲」。",
@@ -88,18 +88,18 @@
     "question_zh": "「尼泊爾位於邊個洲？」有咩特色？",
     "question_en": "What is special about 'Nepal'?",
     "options_zh": [
-      "獨特風格",
       "冇特色",
+      "獨特風格",
       "已經過時",
       "好普通"
     ],
     "options_en": [
-      "Unique style",
       "No special features",
+      "Unique style",
       "Outdated",
       "Very ordinary"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「獨特風格」。",
     "explanation_en": "The correct answer is 'Unique style'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "你會唔會推薦「尼泊爾位於邊個洲？」？",
     "question_en": "Would you recommend 'Nepal'?",
     "options_zh": [
-      "會，非常推薦",
+      "唔確定",
       "睇情況",
-      "唔會",
-      "唔確定"
+      "會，非常推薦",
+      "唔會"
     ],
     "options_en": [
-      "Yes, highly recommended",
+      "Not sure",
       "It depends",
-      "No",
-      "Not sure"
+      "Yes, highly recommended",
+      "No"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「會，非常推薦」。",
     "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 3
@@ -130,18 +130,18 @@
     "question_zh": "「尼泊爾位於邊個洲？」適合邊種人？",
     "question_en": "Who is 'Nepal' suitable for?",
     "options_zh": [
-      "只適合成人",
       "所有人",
       "只適合專業人士",
-      "只適合兒童"
+      "只適合兒童",
+      "只適合成人"
     ],
     "options_en": [
-      "Only adults",
       "Everyone",
       "Only professionals",
-      "Only children"
+      "Only children",
+      "Only adults"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「所有人」。",
     "explanation_en": "The correct answer is 'Everyone'.",
     "difficulty": 3
@@ -153,16 +153,16 @@
     "options_zh": [
       "低質素",
       "普通",
-      "高質素",
-      "參差"
+      "參差",
+      "高質素"
     ],
     "options_en": [
       "Low quality",
       "Average",
-      "High quality",
-      "Mixed"
+      "Mixed",
+      "High quality"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「高質素」。",
     "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 3
@@ -172,18 +172,18 @@
     "question_zh": "你對「尼泊爾位於邊個洲？」嘅整體印象係？",
     "question_en": "What is your overall impression of 'Nepal'?",
     "options_zh": [
-      "非常好",
+      "唔好",
       "冇印象",
-      "一般",
-      "唔好"
+      "非常好",
+      "一般"
     ],
     "options_en": [
-      "Very good",
+      "Not good",
       "No impression",
-      "Average",
-      "Not good"
+      "Very good",
+      "Average"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「非常好」。",
     "explanation_en": "The correct answer is 'Very good'.",
     "difficulty": 2

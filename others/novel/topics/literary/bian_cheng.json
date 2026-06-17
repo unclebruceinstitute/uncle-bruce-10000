@@ -4,14 +4,14 @@
     "question_zh": "以下邊本係《邊城》？",
     "question_en": "Which one is 'Border Town'?",
     "options_zh": [
-      "其他小說A",
       "其他小說C",
+      "其他小說A",
       "其他小說B",
       "邊城"
     ],
     "options_en": [
-      "Other Novel A",
       "Other Novel C",
+      "Other Novel A",
       "Other Novel B",
       "Border Town"
     ],
@@ -25,18 +25,18 @@
     "question_zh": "《邊城》嘅作者係邊個？",
     "question_en": "Who wrote 'Border Town'?",
     "options_zh": [
-      "其他作者B",
       "沈從文",
       "其他作者A",
+      "其他作者B",
       "其他作者C"
     ],
     "options_en": [
-      "Author B",
       "Shen Congwen",
       "Author A",
+      "Author B",
       "Author C"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「沈從文」。",
     "explanation_en": "The correct answer is 'Shen Congwen'.",
     "difficulty": 3
@@ -47,17 +47,17 @@
     "question_en": "What year was 'Border Town' published?",
     "options_zh": [
       "1931年",
-      "1934年",
       "1936年",
-      "1929年"
+      "1929年",
+      "1934年"
     ],
     "options_en": [
       "1931",
-      "1934",
       "1936",
-      "1929"
+      "1929",
+      "1934"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「1934年」。",
     "explanation_en": "The correct answer is '1934'.",
     "difficulty": 3
@@ -67,18 +67,18 @@
     "question_zh": "《邊城》係邊國作品？",
     "question_en": "Which country is 'Border Town' from?",
     "options_zh": [
-      "韓國",
-      "法國",
+      "中國",
       "德國",
-      "中國"
+      "韓國",
+      "法國"
     ],
     "options_en": [
-      "South Korea",
-      "France",
+      "China",
       "Germany",
-      "China"
+      "South Korea",
+      "France"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
@@ -88,18 +88,18 @@
     "question_zh": "《邊城》主要講咩？",
     "question_en": "What is 'Border Town' mainly about?",
     "options_zh": [
-      "財經商戰",
-      "體育競技",
       "科幻太空",
-      "現實生活同文學表達"
+      "體育競技",
+      "現實生活同文學表達",
+      "財經商戰"
     ],
     "options_en": [
-      "Business",
-      "Sports",
       "Sci-fi",
-      "Real life and literary"
+      "Sports",
+      "Real life and literary",
+      "Business"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
     "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "《邊城》入面有咩角色？",
     "question_en": "What characters are in 'Border Town'?",
     "options_zh": [
-      "動物",
       "主要角色",
       "機械人",
+      "動物",
       "外星人"
     ],
     "options_en": [
-      "Animals",
       "Main characters",
       "Robots",
+      "Animals",
       "Aliens"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
@@ -130,18 +130,18 @@
     "question_zh": "《邊城》嘅故事背景喺邊度？",
     "question_en": "Where is 'Border Town' set?",
     "options_zh": [
-      "虛擬世界",
       "中國/亞洲",
-      "歐洲中世紀",
-      "未來太空"
+      "未來太空",
+      "虛擬世界",
+      "歐洲中世紀"
     ],
     "options_en": [
-      "Virtual world",
       "China/Asia",
-      "Medieval Europe",
-      "Future space"
+      "Future space",
+      "Virtual world",
+      "Medieval Europe"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
@@ -151,18 +151,18 @@
     "question_zh": "《邊城》係咪好受歡迎？",
     "question_en": "Is 'Border Town' popular?",
     "options_zh": [
-      "唔係，好冷門",
-      "係，有一定讀者群",
+      "已經過氣",
       "只喺特定地區流行",
-      "已經過氣"
+      "係，有一定讀者群",
+      "唔係，好冷門"
     ],
     "options_en": [
-      "No, very niche",
-      "Yes, has a readership",
+      "Outdated",
       "Only popular locally",
-      "Outdated"
+      "Yes, has a readership",
+      "No, very niche"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 3

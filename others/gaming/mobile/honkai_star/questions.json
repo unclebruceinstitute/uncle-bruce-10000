@@ -4,16 +4,16 @@
     "question_zh": "以下邊個係「《崩壞：星穹鐵道》係邊間公司開發？」？",
     "question_en": "Which one is 'Honkai Star'?",
     "options_zh": [
-      "其他B",
+      "其他C",
       "《崩壞：星穹鐵道》係邊間公司開發？",
-      "其他A",
-      "其他C"
+      "其他B",
+      "其他A"
     ],
     "options_en": [
-      "Other B",
+      "Other C",
       "Honkai Star",
-      "Other A",
-      "Other C"
+      "Other B",
+      "Other A"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「《崩壞：星穹鐵道》係邊間公司開發？」。",
@@ -25,18 +25,18 @@
     "question_zh": "「《崩壞：星穹鐵道》係邊間公司開發？」屬於邊種類型？",
     "question_en": "What type is 'Honkai Star'?",
     "options_zh": [
-      "類型B",
-      "類型C",
+      "手機遊戲",
       "類型A",
-      "手機遊戲"
+      "類型C",
+      "類型B"
     ],
     "options_en": [
-      "Type B",
-      "Type C",
+      "手機遊戲",
       "Type A",
-      "手機遊戲"
+      "Type C",
+      "Type B"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「手機遊戲」。",
     "explanation_en": "The correct answer is '手機遊戲'.",
     "difficulty": 3
@@ -67,18 +67,18 @@
     "question_zh": "「《崩壞：星穹鐵道》係邊間公司開發？」係邊度嚟嘅？",
     "question_en": "Where is 'Honkai Star' from?",
     "options_zh": [
+      "非洲",
       "美洲",
       "歐洲",
-      "全球",
-      "非洲"
+      "全球"
     ],
     "options_en": [
+      "Africa",
       "Americas",
       "Europe",
-      "Global",
-      "Africa"
+      "Global"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「全球」。",
     "explanation_en": "The correct answer is 'Global'.",
     "difficulty": 3
@@ -88,18 +88,18 @@
     "question_zh": "「《崩壞：星穹鐵道》係邊間公司開發？」有咩特色？",
     "question_en": "What is special about 'Honkai Star'?",
     "options_zh": [
-      "冇特色",
-      "獨特風格",
+      "好普通",
       "已經過時",
-      "好普通"
+      "冇特色",
+      "獨特風格"
     ],
     "options_en": [
-      "No special features",
-      "Unique style",
+      "Very ordinary",
       "Outdated",
-      "Very ordinary"
+      "No special features",
+      "Unique style"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「獨特風格」。",
     "explanation_en": "The correct answer is 'Unique style'.",
     "difficulty": 3
@@ -109,16 +109,16 @@
     "question_zh": "你會唔會推薦「《崩壞：星穹鐵道》係邊間公司開發？」？",
     "question_en": "Would you recommend 'Honkai Star'?",
     "options_zh": [
-      "唔會",
-      "會，非常推薦",
       "睇情況",
-      "唔確定"
+      "會，非常推薦",
+      "唔確定",
+      "唔會"
     ],
     "options_en": [
-      "No",
-      "Yes, highly recommended",
       "It depends",
-      "Not sure"
+      "Yes, highly recommended",
+      "Not sure",
+      "No"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「會，非常推薦」。",
@@ -131,17 +131,17 @@
     "question_en": "Who is 'Honkai Star' suitable for?",
     "options_zh": [
       "只適合兒童",
-      "所有人",
       "只適合專業人士",
-      "只適合成人"
+      "只適合成人",
+      "所有人"
     ],
     "options_en": [
       "Only children",
-      "Everyone",
       "Only professionals",
-      "Only adults"
+      "Only adults",
+      "Everyone"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「所有人」。",
     "explanation_en": "The correct answer is 'Everyone'.",
     "difficulty": 3
@@ -151,18 +151,18 @@
     "question_zh": "「《崩壞：星穹鐵道》係邊間公司開發？」嘅質素如何？",
     "question_en": "What is the quality of 'Honkai Star'?",
     "options_zh": [
-      "普通",
       "低質素",
       "參差",
-      "高質素"
+      "高質素",
+      "普通"
     ],
     "options_en": [
-      "Average",
       "Low quality",
       "Mixed",
-      "High quality"
+      "High quality",
+      "Average"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「高質素」。",
     "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 3
@@ -172,18 +172,18 @@
     "question_zh": "你對「《崩壞：星穹鐵道》係邊間公司開發？」嘅整體印象係？",
     "question_en": "What is your overall impression of 'Honkai Star'?",
     "options_zh": [
-      "一般",
-      "非常好",
+      "唔好",
       "冇印象",
-      "唔好"
+      "非常好",
+      "一般"
     ],
     "options_en": [
-      "Average",
-      "Very good",
+      "Not good",
       "No impression",
-      "Not good"
+      "Very good",
+      "Average"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「非常好」。",
     "explanation_en": "The correct answer is 'Very good'.",
     "difficulty": 2

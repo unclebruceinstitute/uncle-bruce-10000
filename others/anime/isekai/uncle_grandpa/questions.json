@@ -4,18 +4,18 @@
     "question_zh": "以下邊個係「《異世界叔叔》屬於咩類型？」？",
     "question_en": "Which one is 'Uncle Grandpa'?",
     "options_zh": [
-      "其他B",
-      "其他A",
+      "其他C",
       "《異世界叔叔》屬於咩類型？",
-      "其他C"
+      "其他B",
+      "其他A"
     ],
     "options_en": [
-      "Other B",
-      "Other A",
+      "Other C",
       "Uncle Grandpa",
-      "Other C"
+      "Other B",
+      "Other A"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「《異世界叔叔》屬於咩類型？」。",
     "explanation_en": "The correct answer is 'Uncle Grandpa'.",
     "difficulty": 2
@@ -25,18 +25,18 @@
     "question_zh": "「《異世界叔叔》屬於咩類型？」屬於邊種類型？",
     "question_en": "What type is 'Uncle Grandpa'?",
     "options_zh": [
-      "異世界動漫",
       "類型A",
+      "類型C",
       "類型B",
-      "類型C"
+      "異世界動漫"
     ],
     "options_en": [
-      "異世界動漫",
       "Type A",
+      "Type C",
       "Type B",
-      "Type C"
+      "異世界動漫"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「異世界動漫」。",
     "explanation_en": "The correct answer is '異世界動漫'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "「《異世界叔叔》屬於咩類型？」係咪好受歡迎？",
     "question_en": "Is 'Uncle Grandpa' popular?",
     "options_zh": [
-      "唔係，好冷門",
+      "係，非常受歡迎",
       "已經過氣",
       "只喺特定地區流行",
-      "係，非常受歡迎"
+      "唔係，好冷門"
     ],
     "options_en": [
-      "No, very niche",
+      "Yes, very popular",
       "Outdated",
       "Only popular locally",
-      "Yes, very popular"
+      "No, very niche"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -67,18 +67,18 @@
     "question_zh": "「《異世界叔叔》屬於咩類型？」係邊度嚟嘅？",
     "question_en": "Where is 'Uncle Grandpa' from?",
     "options_zh": [
-      "非洲",
-      "歐洲",
+      "美洲",
       "日本",
-      "美洲"
+      "歐洲",
+      "非洲"
     ],
     "options_en": [
-      "Africa",
-      "Europe",
+      "Americas",
       "Japan",
-      "Americas"
+      "Europe",
+      "Africa"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「日本」。",
     "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 3
@@ -89,15 +89,15 @@
     "question_en": "What is special about 'Uncle Grandpa'?",
     "options_zh": [
       "獨特風格",
-      "已經過時",
+      "好普通",
       "冇特色",
-      "好普通"
+      "已經過時"
     ],
     "options_en": [
       "Unique style",
-      "Outdated",
+      "Very ordinary",
       "No special features",
-      "Very ordinary"
+      "Outdated"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「獨特風格」。",
@@ -109,18 +109,18 @@
     "question_zh": "你會唔會推薦「《異世界叔叔》屬於咩類型？」？",
     "question_en": "Would you recommend 'Uncle Grandpa'?",
     "options_zh": [
+      "睇情況",
       "會，非常推薦",
-      "唔會",
       "唔確定",
-      "睇情況"
+      "唔會"
     ],
     "options_en": [
+      "It depends",
       "Yes, highly recommended",
-      "No",
       "Not sure",
-      "It depends"
+      "No"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「會，非常推薦」。",
     "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 3
@@ -131,14 +131,14 @@
     "question_en": "Who is 'Uncle Grandpa' suitable for?",
     "options_zh": [
       "所有人",
-      "只適合專業人士",
       "只適合成人",
+      "只適合專業人士",
       "只適合兒童"
     ],
     "options_en": [
       "Everyone",
-      "Only professionals",
       "Only adults",
+      "Only professionals",
       "Only children"
     ],
     "answer": 0,
@@ -151,18 +151,18 @@
     "question_zh": "「《異世界叔叔》屬於咩類型？」嘅質素如何？",
     "question_en": "What is the quality of 'Uncle Grandpa'?",
     "options_zh": [
+      "參差",
       "高質素",
-      "低質素",
       "普通",
-      "參差"
+      "低質素"
     ],
     "options_en": [
+      "Mixed",
       "High quality",
-      "Low quality",
       "Average",
-      "Mixed"
+      "Low quality"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「高質素」。",
     "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 3
@@ -172,18 +172,18 @@
     "question_zh": "你對「《異世界叔叔》屬於咩類型？」嘅整體印象係？",
     "question_en": "What is your overall impression of 'Uncle Grandpa'?",
     "options_zh": [
-      "一般",
-      "冇印象",
       "唔好",
-      "非常好"
+      "非常好",
+      "一般",
+      "冇印象"
     ],
     "options_en": [
-      "Average",
-      "No impression",
       "Not good",
-      "Very good"
+      "Very good",
+      "Average",
+      "No impression"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「非常好」。",
     "explanation_en": "The correct answer is 'Very good'.",
     "difficulty": 2

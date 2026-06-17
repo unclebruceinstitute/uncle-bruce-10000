@@ -4,18 +4,18 @@
     "question_zh": "以下邊個係「基里巴斯位於邊個洲？」？",
     "question_en": "Which one is 'Kiribati'?",
     "options_zh": [
-      "其他B",
-      "其他C",
       "基里巴斯位於邊個洲？",
-      "其他A"
+      "其他A",
+      "其他C",
+      "其他B"
     ],
     "options_en": [
-      "Other B",
-      "Other C",
       "Kiribati",
-      "Other A"
+      "Other A",
+      "Other C",
+      "Other B"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「基里巴斯位於邊個洲？」。",
     "explanation_en": "The correct answer is 'Kiribati'.",
     "difficulty": 2
@@ -46,18 +46,18 @@
     "question_zh": "「基里巴斯位於邊個洲？」係咪好受歡迎？",
     "question_en": "Is 'Kiribati' popular?",
     "options_zh": [
-      "只喺特定地區流行",
-      "係，非常受歡迎",
       "唔係，好冷門",
-      "已經過氣"
+      "已經過氣",
+      "係，非常受歡迎",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "Only popular locally",
-      "Yes, very popular",
       "No, very niche",
-      "Outdated"
+      "Outdated",
+      "Yes, very popular",
+      "Only popular locally"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -67,18 +67,18 @@
     "question_zh": "「基里巴斯位於邊個洲？」係邊度嚟嘅？",
     "question_en": "Where is 'Kiribati' from?",
     "options_zh": [
-      "歐洲",
-      "美洲",
       "非洲",
-      "大洋洲"
+      "歐洲",
+      "大洋洲",
+      "美洲"
     ],
     "options_en": [
-      "Europe",
-      "Americas",
       "Africa",
-      "Oceania"
+      "Europe",
+      "Oceania",
+      "Americas"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「大洋洲」。",
     "explanation_en": "The correct answer is 'Oceania'.",
     "difficulty": 3
@@ -88,18 +88,18 @@
     "question_zh": "「基里巴斯位於邊個洲？」有咩特色？",
     "question_en": "What is special about 'Kiribati'?",
     "options_zh": [
-      "冇特色",
+      "獨特風格",
       "已經過時",
-      "好普通",
-      "獨特風格"
+      "冇特色",
+      "好普通"
     ],
     "options_en": [
-      "No special features",
+      "Unique style",
       "Outdated",
-      "Very ordinary",
-      "Unique style"
+      "No special features",
+      "Very ordinary"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「獨特風格」。",
     "explanation_en": "The correct answer is 'Unique style'.",
     "difficulty": 3
@@ -111,16 +111,16 @@
     "options_zh": [
       "睇情況",
       "唔會",
-      "唔確定",
-      "會，非常推薦"
+      "會，非常推薦",
+      "唔確定"
     ],
     "options_en": [
       "It depends",
       "No",
-      "Not sure",
-      "Yes, highly recommended"
+      "Yes, highly recommended",
+      "Not sure"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「會，非常推薦」。",
     "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 3
@@ -130,18 +130,18 @@
     "question_zh": "「基里巴斯位於邊個洲？」適合邊種人？",
     "question_en": "Who is 'Kiribati' suitable for?",
     "options_zh": [
-      "所有人",
-      "只適合專業人士",
       "只適合兒童",
+      "只適合專業人士",
+      "所有人",
       "只適合成人"
     ],
     "options_en": [
-      "Everyone",
-      "Only professionals",
       "Only children",
+      "Only professionals",
+      "Everyone",
       "Only adults"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「所有人」。",
     "explanation_en": "The correct answer is 'Everyone'.",
     "difficulty": 3
@@ -151,18 +151,18 @@
     "question_zh": "「基里巴斯位於邊個洲？」嘅質素如何？",
     "question_en": "What is the quality of 'Kiribati'?",
     "options_zh": [
-      "參差",
-      "普通",
       "低質素",
-      "高質素"
+      "高質素",
+      "參差",
+      "普通"
     ],
     "options_en": [
-      "Mixed",
-      "Average",
       "Low quality",
-      "High quality"
+      "High quality",
+      "Mixed",
+      "Average"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「高質素」。",
     "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 3
@@ -172,15 +172,15 @@
     "question_zh": "你對「基里巴斯位於邊個洲？」嘅整體印象係？",
     "question_en": "What is your overall impression of 'Kiribati'?",
     "options_zh": [
+      "唔好",
       "冇印象",
       "一般",
-      "唔好",
       "非常好"
     ],
     "options_en": [
+      "Not good",
       "No impression",
       "Average",
-      "Not good",
       "Very good"
     ],
     "answer": 3,

@@ -4,18 +4,18 @@
     "question_zh": "以下邊個係「《名偵探柯南》屬於咩類型？」？",
     "question_en": "Which one is 'Conan'?",
     "options_zh": [
-      "《名偵探柯南》屬於咩類型？",
-      "其他A",
+      "其他B",
       "其他C",
-      "其他B"
+      "《名偵探柯南》屬於咩類型？",
+      "其他A"
     ],
     "options_en": [
-      "Conan",
-      "Other A",
+      "Other B",
       "Other C",
-      "Other B"
+      "Conan",
+      "Other A"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「《名偵探柯南》屬於咩類型？」。",
     "explanation_en": "The correct answer is 'Conan'.",
     "difficulty": 2
@@ -25,18 +25,18 @@
     "question_zh": "「《名偵探柯南》屬於咩類型？」屬於邊種類型？",
     "question_en": "What type is 'Conan'?",
     "options_zh": [
+      "經典動漫",
       "類型B",
-      "類型A",
       "類型C",
-      "經典動漫"
+      "類型A"
     ],
     "options_en": [
+      "經典動漫",
       "Type B",
-      "Type A",
       "Type C",
-      "經典動漫"
+      "Type A"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「經典動漫」。",
     "explanation_en": "The correct answer is '經典動漫'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "「《名偵探柯南》屬於咩類型？」係咪好受歡迎？",
     "question_en": "Is 'Conan' popular?",
     "options_zh": [
-      "係，非常受歡迎",
-      "只喺特定地區流行",
       "唔係，好冷門",
+      "只喺特定地區流行",
+      "係，非常受歡迎",
       "已經過氣"
     ],
     "options_en": [
-      "Yes, very popular",
-      "Only popular locally",
       "No, very niche",
+      "Only popular locally",
+      "Yes, very popular",
       "Outdated"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -67,18 +67,18 @@
     "question_zh": "「《名偵探柯南》屬於咩類型？」係邊度嚟嘅？",
     "question_en": "Where is 'Conan' from?",
     "options_zh": [
-      "美洲",
-      "非洲",
       "日本",
-      "歐洲"
+      "歐洲",
+      "美洲",
+      "非洲"
     ],
     "options_en": [
-      "Americas",
-      "Africa",
       "Japan",
-      "Europe"
+      "Europe",
+      "Americas",
+      "Africa"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「日本」。",
     "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 3
@@ -88,18 +88,18 @@
     "question_zh": "「《名偵探柯南》屬於咩類型？」有咩特色？",
     "question_en": "What is special about 'Conan'?",
     "options_zh": [
-      "獨特風格",
-      "好普通",
       "已經過時",
-      "冇特色"
+      "冇特色",
+      "獨特風格",
+      "好普通"
     ],
     "options_en": [
-      "Unique style",
-      "Very ordinary",
       "Outdated",
-      "No special features"
+      "No special features",
+      "Unique style",
+      "Very ordinary"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「獨特風格」。",
     "explanation_en": "The correct answer is 'Unique style'.",
     "difficulty": 3
@@ -110,15 +110,15 @@
     "question_en": "Would you recommend 'Conan'?",
     "options_zh": [
       "會，非常推薦",
-      "睇情況",
       "唔會",
-      "唔確定"
+      "唔確定",
+      "睇情況"
     ],
     "options_en": [
       "Yes, highly recommended",
-      "It depends",
       "No",
-      "Not sure"
+      "Not sure",
+      "It depends"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「會，非常推薦」。",
@@ -130,18 +130,18 @@
     "question_zh": "「《名偵探柯南》屬於咩類型？」適合邊種人？",
     "question_en": "Who is 'Conan' suitable for?",
     "options_zh": [
+      "只適合專業人士",
       "只適合成人",
       "所有人",
-      "只適合兒童",
-      "只適合專業人士"
+      "只適合兒童"
     ],
     "options_en": [
+      "Only professionals",
       "Only adults",
       "Everyone",
-      "Only children",
-      "Only professionals"
+      "Only children"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「所有人」。",
     "explanation_en": "The correct answer is 'Everyone'.",
     "difficulty": 3
@@ -151,18 +151,18 @@
     "question_zh": "「《名偵探柯南》屬於咩類型？」嘅質素如何？",
     "question_en": "What is the quality of 'Conan'?",
     "options_zh": [
-      "高質素",
-      "普通",
       "低質素",
-      "參差"
+      "普通",
+      "參差",
+      "高質素"
     ],
     "options_en": [
-      "High quality",
-      "Average",
       "Low quality",
-      "Mixed"
+      "Average",
+      "Mixed",
+      "High quality"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「高質素」。",
     "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 3
@@ -172,16 +172,16 @@
     "question_zh": "你對「《名偵探柯南》屬於咩類型？」嘅整體印象係？",
     "question_en": "What is your overall impression of 'Conan'?",
     "options_zh": [
-      "唔好",
-      "非常好",
       "冇印象",
-      "一般"
+      "非常好",
+      "一般",
+      "唔好"
     ],
     "options_en": [
-      "Not good",
-      "Very good",
       "No impression",
-      "Average"
+      "Very good",
+      "Average",
+      "Not good"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「非常好」。",

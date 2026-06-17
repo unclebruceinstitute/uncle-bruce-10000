@@ -26,17 +26,17 @@
     "question_en": "What genre is 'Other Martial Arts'?",
     "options_zh": [
       "戲劇",
-      "小說",
       "散文",
+      "小說",
       "詩歌"
     ],
     "options_en": [
       "Drama",
-      "Novel",
       "Essay",
+      "Novel",
       "Poetry"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「小說」。",
     "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 3
@@ -47,17 +47,17 @@
     "question_en": "What category is 'Other Martial Arts'?",
     "options_zh": [
       "散文",
-      "戲劇",
+      "小說",
       "詩歌",
-      "小說"
+      "戲劇"
     ],
     "options_en": [
       "Essay",
-      "Drama",
+      "Novel",
       "Poetry",
-      "Novel"
+      "Drama"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「小說」。",
     "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 3
@@ -67,18 +67,18 @@
     "question_zh": "《其他武俠小說》係邊國作品？",
     "question_en": "Which country is 'Other Martial Arts' from?",
     "options_zh": [
+      "中國",
       "韓國",
       "德國",
-      "法國",
-      "中國"
+      "法國"
     ],
     "options_en": [
+      "China",
       "South Korea",
       "Germany",
-      "France",
-      "China"
+      "France"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
@@ -88,18 +88,18 @@
     "question_zh": "《其他武俠小說》主要講咩？",
     "question_en": "What is 'Other Martial Arts' mainly about?",
     "options_zh": [
-      "科幻太空",
-      "財經商戰",
       "體育競技",
-      "江湖恩怨同武俠世界"
+      "江湖恩怨同武俠世界",
+      "財經商戰",
+      "科幻太空"
     ],
     "options_en": [
-      "Sci-fi",
-      "Business",
       "Sports",
-      "Martial arts world"
+      "Martial arts world",
+      "Business",
+      "Sci-fi"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
     "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "《其他武俠小說》入面有咩角色？",
     "question_en": "What characters are in 'Other Martial Arts'?",
     "options_zh": [
+      "武林高手",
       "機械人",
       "外星人",
-      "動物",
-      "武林高手"
+      "動物"
     ],
     "options_en": [
+      "Martial arts masters",
       "Robots",
       "Aliens",
-      "Animals",
-      "Martial arts masters"
+      "Animals"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「武林高手」。",
     "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 3
@@ -130,18 +130,18 @@
     "question_zh": "《其他武俠小說》嘅故事背景喺邊度？",
     "question_en": "Where is 'Other Martial Arts' set?",
     "options_zh": [
-      "未來太空",
+      "古代中國",
       "虛擬世界",
       "歐洲中世紀",
-      "古代中國"
+      "未來太空"
     ],
     "options_en": [
-      "Future space",
+      "Ancient China",
       "Virtual world",
       "Medieval Europe",
-      "Ancient China"
+      "Future space"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「古代中國」。",
     "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
@@ -151,18 +151,18 @@
     "question_zh": "《其他武俠小說》係咪好受歡迎？",
     "question_en": "Is 'Other Martial Arts' popular?",
     "options_zh": [
-      "係，有一定讀者群",
       "唔係，好冷門",
-      "只喺特定地區流行",
-      "已經過氣"
+      "係，有一定讀者群",
+      "已經過氣",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "Yes, has a readership",
       "No, very niche",
-      "Only popular locally",
-      "Outdated"
+      "Yes, has a readership",
+      "Outdated",
+      "Only popular locally"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 3
@@ -173,17 +173,17 @@
     "question_en": "What nationality is the author of 'Other Martial Arts'?",
     "options_zh": [
       "德國人",
+      "法國人",
       "韓國人",
-      "中國人",
-      "法國人"
+      "中國人"
     ],
     "options_en": [
       "German",
+      "French",
       "Korean",
-      "Chinese",
-      "French"
+      "Chinese"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2

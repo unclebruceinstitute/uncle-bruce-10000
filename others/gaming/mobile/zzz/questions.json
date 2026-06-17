@@ -4,18 +4,18 @@
     "question_zh": "以下邊個係「《絕區零》係邊間公司開發？」？",
     "question_en": "Which one is 'Zzz'?",
     "options_zh": [
-      "其他C",
       "《絕區零》係邊間公司開發？",
+      "其他B",
       "其他A",
-      "其他B"
+      "其他C"
     ],
     "options_en": [
-      "Other C",
       "Zzz",
+      "Other B",
       "Other A",
-      "Other B"
+      "Other C"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「《絕區零》係邊間公司開發？」。",
     "explanation_en": "The correct answer is 'Zzz'.",
     "difficulty": 2
@@ -25,18 +25,18 @@
     "question_zh": "「《絕區零》係邊間公司開發？」屬於邊種類型？",
     "question_en": "What type is 'Zzz'?",
     "options_zh": [
-      "手機遊戲",
+      "類型B",
       "類型A",
       "類型C",
-      "類型B"
+      "手機遊戲"
     ],
     "options_en": [
-      "手機遊戲",
+      "Type B",
       "Type A",
       "Type C",
-      "Type B"
+      "手機遊戲"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「手機遊戲」。",
     "explanation_en": "The correct answer is '手機遊戲'.",
     "difficulty": 3
@@ -48,16 +48,16 @@
     "options_zh": [
       "只喺特定地區流行",
       "已經過氣",
-      "係，非常受歡迎",
-      "唔係，好冷門"
+      "唔係，好冷門",
+      "係，非常受歡迎"
     ],
     "options_en": [
       "Only popular locally",
       "Outdated",
-      "Yes, very popular",
-      "No, very niche"
+      "No, very niche",
+      "Yes, very popular"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -67,18 +67,18 @@
     "question_zh": "「《絕區零》係邊間公司開發？」係邊度嚟嘅？",
     "question_en": "Where is 'Zzz' from?",
     "options_zh": [
-      "美洲",
       "非洲",
       "全球",
+      "美洲",
       "歐洲"
     ],
     "options_en": [
-      "Americas",
       "Africa",
       "Global",
+      "Americas",
       "Europe"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「全球」。",
     "explanation_en": "The correct answer is 'Global'.",
     "difficulty": 3
@@ -89,17 +89,17 @@
     "question_en": "What is special about 'Zzz'?",
     "options_zh": [
       "好普通",
-      "獨特風格",
       "已經過時",
-      "冇特色"
+      "冇特色",
+      "獨特風格"
     ],
     "options_en": [
       "Very ordinary",
-      "Unique style",
       "Outdated",
-      "No special features"
+      "No special features",
+      "Unique style"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「獨特風格」。",
     "explanation_en": "The correct answer is 'Unique style'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "你會唔會推薦「《絕區零》係邊間公司開發？」？",
     "question_en": "Would you recommend 'Zzz'?",
     "options_zh": [
-      "唔會",
       "唔確定",
       "會，非常推薦",
-      "睇情況"
+      "睇情況",
+      "唔會"
     ],
     "options_en": [
-      "No",
       "Not sure",
       "Yes, highly recommended",
-      "It depends"
+      "It depends",
+      "No"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「會，非常推薦」。",
     "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 3
@@ -132,16 +132,16 @@
     "options_zh": [
       "只適合成人",
       "只適合專業人士",
-      "只適合兒童",
-      "所有人"
+      "所有人",
+      "只適合兒童"
     ],
     "options_en": [
       "Only adults",
       "Only professionals",
-      "Only children",
-      "Everyone"
+      "Everyone",
+      "Only children"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「所有人」。",
     "explanation_en": "The correct answer is 'Everyone'.",
     "difficulty": 3
@@ -152,17 +152,17 @@
     "question_en": "What is the quality of 'Zzz'?",
     "options_zh": [
       "低質素",
-      "普通",
       "高質素",
-      "參差"
+      "參差",
+      "普通"
     ],
     "options_en": [
       "Low quality",
-      "Average",
       "High quality",
-      "Mixed"
+      "Mixed",
+      "Average"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「高質素」。",
     "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 3

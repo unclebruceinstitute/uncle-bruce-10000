@@ -25,18 +25,18 @@
     "question_zh": "「埃塞俄比亞位於邊個洲？」屬於邊種類型？",
     "question_en": "What type is 'Ethiopia'?",
     "options_zh": [
-      "類型B",
-      "類型C",
       "非洲旅遊",
-      "類型A"
+      "類型A",
+      "類型B",
+      "類型C"
     ],
     "options_en": [
-      "Type B",
-      "Type C",
       "非洲旅遊",
-      "Type A"
+      "Type A",
+      "Type B",
+      "Type C"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「非洲旅遊」。",
     "explanation_en": "The correct answer is '非洲旅遊'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "「埃塞俄比亞位於邊個洲？」係咪好受歡迎？",
     "question_en": "Is 'Ethiopia' popular?",
     "options_zh": [
-      "只喺特定地區流行",
-      "唔係，好冷門",
       "已經過氣",
-      "係，非常受歡迎"
+      "只喺特定地區流行",
+      "係，非常受歡迎",
+      "唔係，好冷門"
     ],
     "options_en": [
-      "Only popular locally",
-      "No, very niche",
       "Outdated",
-      "Yes, very popular"
+      "Only popular locally",
+      "Yes, very popular",
+      "No, very niche"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -69,16 +69,16 @@
     "options_zh": [
       "非洲",
       "歐洲",
-      "非洲 (alt)",
-      "美洲"
+      "美洲",
+      "非洲 (alt)"
     ],
     "options_en": [
       "Africa",
       "Europe",
-      "Africa",
-      "Americas"
+      "Americas",
+      "Africa"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「非洲」。",
     "explanation_en": "The correct answer is 'Africa'.",
     "difficulty": 3
@@ -88,16 +88,16 @@
     "question_zh": "「埃塞俄比亞位於邊個洲？」有咩特色？",
     "question_en": "What is special about 'Ethiopia'?",
     "options_zh": [
-      "冇特色",
-      "獨特風格",
       "好普通",
-      "已經過時"
+      "獨特風格",
+      "已經過時",
+      "冇特色"
     ],
     "options_en": [
-      "No special features",
-      "Unique style",
       "Very ordinary",
-      "Outdated"
+      "Unique style",
+      "Outdated",
+      "No special features"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「獨特風格」。",
@@ -110,17 +110,17 @@
     "question_en": "Would you recommend 'Ethiopia'?",
     "options_zh": [
       "唔會",
+      "睇情況",
       "唔確定",
-      "會，非常推薦",
-      "睇情況"
+      "會，非常推薦"
     ],
     "options_en": [
       "No",
+      "It depends",
       "Not sure",
-      "Yes, highly recommended",
-      "It depends"
+      "Yes, highly recommended"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「會，非常推薦」。",
     "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 3
@@ -130,18 +130,18 @@
     "question_zh": "「埃塞俄比亞位於邊個洲？」適合邊種人？",
     "question_en": "Who is 'Ethiopia' suitable for?",
     "options_zh": [
-      "只適合專業人士",
-      "只適合成人",
       "所有人",
-      "只適合兒童"
+      "只適合兒童",
+      "只適合專業人士",
+      "只適合成人"
     ],
     "options_en": [
-      "Only professionals",
-      "Only adults",
       "Everyone",
-      "Only children"
+      "Only children",
+      "Only professionals",
+      "Only adults"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「所有人」。",
     "explanation_en": "The correct answer is 'Everyone'.",
     "difficulty": 3
@@ -151,16 +151,16 @@
     "question_zh": "「埃塞俄比亞位於邊個洲？」嘅質素如何？",
     "question_en": "What is the quality of 'Ethiopia'?",
     "options_zh": [
+      "低質素",
       "參差",
-      "普通",
       "高質素",
-      "低質素"
+      "普通"
     ],
     "options_en": [
+      "Low quality",
       "Mixed",
-      "Average",
       "High quality",
-      "Low quality"
+      "Average"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「高質素」。",
@@ -173,15 +173,15 @@
     "question_en": "What is your overall impression of 'Ethiopia'?",
     "options_zh": [
       "非常好",
-      "唔好",
       "冇印象",
-      "一般"
+      "一般",
+      "唔好"
     ],
     "options_en": [
       "Very good",
-      "Not good",
       "No impression",
-      "Average"
+      "Average",
+      "Not good"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「非常好」。",

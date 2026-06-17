@@ -4,18 +4,18 @@
     "question_zh": "以下邊本係《海賊王》？",
     "question_en": "Which one is 'One Piece'?",
     "options_zh": [
-      "其他小說B",
-      "其他小說A",
       "海賊王",
-      "其他小說C"
+      "其他小說C",
+      "其他小說B",
+      "其他小說A"
     ],
     "options_en": [
-      "Other Novel B",
-      "Other Novel A",
       "One Piece",
-      "Other Novel C"
+      "Other Novel C",
+      "Other Novel B",
+      "Other Novel A"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「海賊王」。",
     "explanation_en": "The correct answer is 'One Piece'.",
     "difficulty": 2
@@ -25,18 +25,18 @@
     "question_zh": "《海賊王》嘅作者係邊個？",
     "question_en": "Who wrote 'One Piece'?",
     "options_zh": [
+      "其他作者A",
       "尾田榮一郎",
       "其他作者B",
-      "其他作者C",
-      "其他作者A"
+      "其他作者C"
     ],
     "options_en": [
+      "Author A",
       "Eiichiro Oda",
       "Author B",
-      "Author C",
-      "Author A"
+      "Author C"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「尾田榮一郎」。",
     "explanation_en": "The correct answer is 'Eiichiro Oda'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "《海賊王》係邊年出版嘅？",
     "question_en": "What year was 'One Piece' published?",
     "options_zh": [
-      "1997年",
+      "1992年",
       "1994年",
       "1999年",
-      "1992年"
+      "1997年"
     ],
     "options_en": [
-      "1997",
+      "1992",
       "1994",
       "1999",
-      "1992"
+      "1997"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「1997年」。",
     "explanation_en": "The correct answer is '1997'.",
     "difficulty": 3
@@ -67,18 +67,18 @@
     "question_zh": "《海賊王》係邊國作品？",
     "question_en": "Which country is 'One Piece' from?",
     "options_zh": [
-      "中國",
       "法國",
-      "德國",
-      "韓國"
+      "中國",
+      "韓國",
+      "德國"
     ],
     "options_en": [
-      "China",
       "France",
-      "Germany",
-      "South Korea"
+      "China",
+      "South Korea",
+      "Germany"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
@@ -88,18 +88,18 @@
     "question_zh": "《海賊王》主要講咩？",
     "question_en": "What is 'One Piece' mainly about?",
     "options_zh": [
-      "奇幻冒險同超自然元素",
       "體育競技",
-      "財經商戰",
-      "科幻太空"
+      "奇幻冒險同超自然元素",
+      "科幻太空",
+      "財經商戰"
     ],
     "options_en": [
-      "Fantasy adventure",
       "Sports",
-      "Business",
-      "Sci-fi"
+      "Fantasy adventure",
+      "Sci-fi",
+      "Business"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「奇幻冒險同超自然元素」。",
     "explanation_en": "The correct answer is 'Fantasy adventure'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "《海賊王》入面有咩角色？",
     "question_en": "What characters are in 'One Piece'?",
     "options_zh": [
+      "動物",
       "修仙者/魔法師",
       "機械人",
-      "外星人",
-      "動物"
+      "外星人"
     ],
     "options_en": [
+      "Animals",
       "Cultivators/Wizards",
       "Robots",
-      "Aliens",
-      "Animals"
+      "Aliens"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「修仙者/魔法師」。",
     "explanation_en": "The correct answer is 'Cultivators/Wizards'.",
     "difficulty": 3
@@ -130,18 +130,18 @@
     "question_zh": "《海賊王》嘅故事背景喺邊度？",
     "question_en": "Where is 'One Piece' set?",
     "options_zh": [
-      "虛構世界",
       "歐洲中世紀",
+      "虛擬世界",
       "未來太空",
-      "虛擬世界"
+      "虛構世界"
     ],
     "options_en": [
-      "Fictional world",
       "Medieval Europe",
+      "Virtual world",
       "Future space",
-      "Virtual world"
+      "Fictional world"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「虛構世界」。",
     "explanation_en": "The correct answer is 'Fictional world'.",
     "difficulty": 3
@@ -151,18 +151,18 @@
     "question_zh": "《海賊王》係咪好受歡迎？",
     "question_en": "Is 'One Piece' popular?",
     "options_zh": [
-      "唔係，好冷門",
-      "係，非常受歡迎",
       "只喺特定地區流行",
-      "已經過氣"
+      "已經過氣",
+      "唔係，好冷門",
+      "係，非常受歡迎"
     ],
     "options_en": [
-      "No, very niche",
-      "Yes, very popular",
       "Only popular locally",
-      "Outdated"
+      "Outdated",
+      "No, very niche",
+      "Yes, very popular"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -172,18 +172,18 @@
     "question_zh": "《海賊王》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'One Piece'?",
     "options_zh": [
-      "韓國人",
       "法國人",
-      "德國人",
-      "中國人"
+      "中國人",
+      "韓國人",
+      "德國人"
     ],
     "options_en": [
-      "Korean",
       "French",
-      "German",
-      "Chinese"
+      "Chinese",
+      "Korean",
+      "German"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2

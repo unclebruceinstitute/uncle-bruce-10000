@@ -4,18 +4,18 @@
     "question_zh": "以下邊個係「以色列位於邊個洲？」？",
     "question_en": "Which one is 'Israel'?",
     "options_zh": [
-      "其他A",
-      "其他C",
       "以色列位於邊個洲？",
-      "其他B"
+      "其他B",
+      "其他C",
+      "其他A"
     ],
     "options_en": [
-      "Other A",
-      "Other C",
       "Israel",
-      "Other B"
+      "Other B",
+      "Other C",
+      "Other A"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「以色列位於邊個洲？」。",
     "explanation_en": "The correct answer is 'Israel'.",
     "difficulty": 2
@@ -25,18 +25,18 @@
     "question_zh": "「以色列位於邊個洲？」屬於邊種類型？",
     "question_en": "What type is 'Israel'?",
     "options_zh": [
-      "類型A",
-      "類型B",
       "亞洲旅遊",
-      "類型C"
+      "類型A",
+      "類型C",
+      "類型B"
     ],
     "options_en": [
-      "Type A",
-      "Type B",
       "亞洲旅遊",
-      "Type C"
+      "Type A",
+      "Type C",
+      "Type B"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「亞洲旅遊」。",
     "explanation_en": "The correct answer is '亞洲旅遊'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "「以色列位於邊個洲？」係咪好受歡迎？",
     "question_en": "Is 'Israel' popular?",
     "options_zh": [
+      "唔係，好冷門",
       "已經過氣",
       "只喺特定地區流行",
-      "係，非常受歡迎",
-      "唔係，好冷門"
+      "係，非常受歡迎"
     ],
     "options_en": [
+      "No, very niche",
       "Outdated",
       "Only popular locally",
-      "Yes, very popular",
-      "No, very niche"
+      "Yes, very popular"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -69,16 +69,16 @@
     "options_zh": [
       "美洲",
       "非洲",
-      "歐洲",
-      "亞洲"
+      "亞洲",
+      "歐洲"
     ],
     "options_en": [
       "Americas",
       "Africa",
-      "Europe",
-      "Asia"
+      "Asia",
+      "Europe"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「亞洲」。",
     "explanation_en": "The correct answer is 'Asia'.",
     "difficulty": 3
@@ -88,14 +88,14 @@
     "question_zh": "「以色列位於邊個洲？」有咩特色？",
     "question_en": "What is special about 'Israel'?",
     "options_zh": [
-      "冇特色",
       "好普通",
+      "冇特色",
       "已經過時",
       "獨特風格"
     ],
     "options_en": [
-      "No special features",
       "Very ordinary",
+      "No special features",
       "Outdated",
       "Unique style"
     ],
@@ -110,17 +110,17 @@
     "question_en": "Would you recommend 'Israel'?",
     "options_zh": [
       "唔會",
-      "睇情況",
       "會，非常推薦",
-      "唔確定"
+      "唔確定",
+      "睇情況"
     ],
     "options_en": [
       "No",
-      "It depends",
       "Yes, highly recommended",
-      "Not sure"
+      "Not sure",
+      "It depends"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「會，非常推薦」。",
     "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 3
@@ -130,18 +130,18 @@
     "question_zh": "「以色列位於邊個洲？」適合邊種人？",
     "question_en": "Who is 'Israel' suitable for?",
     "options_zh": [
-      "所有人",
-      "只適合專業人士",
       "只適合兒童",
+      "只適合專業人士",
+      "所有人",
       "只適合成人"
     ],
     "options_en": [
-      "Everyone",
-      "Only professionals",
       "Only children",
+      "Only professionals",
+      "Everyone",
       "Only adults"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「所有人」。",
     "explanation_en": "The correct answer is 'Everyone'.",
     "difficulty": 3
@@ -151,16 +151,16 @@
     "question_zh": "「以色列位於邊個洲？」嘅質素如何？",
     "question_en": "What is the quality of 'Israel'?",
     "options_zh": [
+      "低質素",
       "普通",
-      "參差",
       "高質素",
-      "低質素"
+      "參差"
     ],
     "options_en": [
+      "Low quality",
       "Average",
-      "Mixed",
       "High quality",
-      "Low quality"
+      "Mixed"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「高質素」。",
@@ -173,17 +173,17 @@
     "question_en": "What is your overall impression of 'Israel'?",
     "options_zh": [
       "冇印象",
-      "一般",
       "唔好",
-      "非常好"
+      "非常好",
+      "一般"
     ],
     "options_en": [
       "No impression",
-      "Average",
       "Not good",
-      "Very good"
+      "Very good",
+      "Average"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「非常好」。",
     "explanation_en": "The correct answer is 'Very good'.",
     "difficulty": 2

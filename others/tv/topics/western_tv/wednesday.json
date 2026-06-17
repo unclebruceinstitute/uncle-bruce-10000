@@ -4,18 +4,18 @@
     "question_zh": "以下邊套係《星期三》？",
     "question_en": "Which one is 'Wednesday'?",
     "options_zh": [
-      "其他劇集C",
-      "其他劇集A",
       "其他劇集B",
-      "星期三"
+      "其他劇集C",
+      "星期三",
+      "其他劇集A"
     ],
     "options_en": [
-      "Other Show C",
-      "Other Show A",
       "Other Show B",
-      "Wednesday"
+      "Other Show C",
+      "Wednesday",
+      "Other Show A"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「星期三」。",
     "explanation_en": "The correct answer is 'Wednesday'.",
     "difficulty": 2
@@ -25,18 +25,18 @@
     "question_zh": "《星期三》係邊套劇？",
     "question_en": "Which drama is 'Wednesday'?",
     "options_zh": [
-      "其他劇集C",
+      "星期三",
       "其他劇集A",
       "其他劇集B",
-      "星期三"
+      "其他劇集C"
     ],
     "options_en": [
-      "Other Show C",
+      "Wednesday",
       "Other Show A",
       "Other Show B",
-      "Wednesday"
+      "Other Show C"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「星期三」。",
     "explanation_en": "The correct answer is 'Wednesday'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "以下邊個係《星期三》嘅正確名稱？",
     "question_en": "Which is the correct name of 'Wednesday'?",
     "options_zh": [
+      "其他劇集C",
       "星期三",
       "其他劇集A",
-      "其他劇集C",
       "其他劇集B"
     ],
     "options_en": [
+      "Other Show C",
       "Wednesday",
       "Other Show A",
-      "Other Show C",
       "Other Show B"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「星期三」。",
     "explanation_en": "The correct answer is 'Wednesday'.",
     "difficulty": 1
@@ -68,17 +68,17 @@
     "question_en": "What genre is 'Wednesday'?",
     "options_zh": [
       "喜劇",
+      "奇幻",
       "紀錄片",
-      "新聞",
-      "奇幻"
+      "新聞"
     ],
     "options_en": [
       "喜劇",
+      "奇幻",
       "紀錄片",
-      "新聞",
-      "奇幻"
+      "新聞"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「奇幻」。",
     "explanation_en": "The correct answer is '奇幻'.",
     "difficulty": 2
@@ -88,18 +88,18 @@
     "question_zh": "《星期三》屬於邊種類型？",
     "question_en": "What type does 'Wednesday' belong to?",
     "options_zh": [
+      "喜劇",
       "新聞",
       "奇幻",
-      "紀錄片",
-      "喜劇"
+      "紀錄片"
     ],
     "options_en": [
+      "喜劇",
       "新聞",
       "奇幻",
-      "紀錄片",
-      "喜劇"
+      "紀錄片"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「奇幻」。",
     "explanation_en": "The correct answer is '奇幻'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "你會用咩詞語形容《星期三》？",
     "question_en": "How would you describe 'Wednesday'?",
     "options_zh": [
-      "奇幻",
       "新聞",
       "紀錄片",
-      "喜劇"
+      "喜劇",
+      "奇幻"
     ],
     "options_en": [
-      "奇幻",
       "新聞",
       "紀錄片",
-      "喜劇"
+      "喜劇",
+      "奇幻"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「奇幻」。",
     "explanation_en": "The correct answer is '奇幻'.",
     "difficulty": 1
@@ -129,6 +129,48 @@
     "id": 10,
     "question_zh": "《星期三》係咩地區出品？",
     "question_en": "Where is 'Wednesday' from?",
+    "options_zh": [
+      "泰國",
+      "印度",
+      "歐美",
+      "巴西"
+    ],
+    "options_en": [
+      "Thailand",
+      "India",
+      "Western",
+      "Brazil"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「歐美」。",
+    "explanation_en": "The correct answer is 'Western'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《星期三》係邊個國家/地區製作？",
+    "question_en": "Which country/region produced 'Wednesday'?",
+    "options_zh": [
+      "巴西",
+      "泰國",
+      "歐美",
+      "印度"
+    ],
+    "options_en": [
+      "Brazil",
+      "Thailand",
+      "Western",
+      "India"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「歐美」。",
+    "explanation_en": "The correct answer is 'Western'.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《星期三》嘅出品地方係？",
+    "question_en": "Where was 'Wednesday' produced?",
     "options_zh": [
       "歐美",
       "印度",
@@ -144,48 +186,6 @@
     "answer": 0,
     "explanation_zh": "正確答案係「歐美」。",
     "explanation_en": "The correct answer is 'Western'.",
-    "difficulty": 2
-  },
-  {
-    "id": 11,
-    "question_zh": "《星期三》係邊個國家/地區製作？",
-    "question_en": "Which country/region produced 'Wednesday'?",
-    "options_zh": [
-      "泰國",
-      "歐美",
-      "印度",
-      "巴西"
-    ],
-    "options_en": [
-      "Thailand",
-      "Western",
-      "India",
-      "Brazil"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「歐美」。",
-    "explanation_en": "The correct answer is 'Western'.",
-    "difficulty": 3
-  },
-  {
-    "id": 12,
-    "question_zh": "《星期三》嘅出品地方係？",
-    "question_en": "Where was 'Wednesday' produced?",
-    "options_zh": [
-      "泰國",
-      "巴西",
-      "歐美",
-      "印度"
-    ],
-    "options_en": [
-      "Thailand",
-      "Brazil",
-      "Western",
-      "India"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「歐美」。",
-    "explanation_en": "The correct answer is 'Western'.",
     "difficulty": 1
   },
   {
@@ -193,18 +193,18 @@
     "question_zh": "《星期三》主要講咩？",
     "question_en": "What is 'Wednesday' mainly about?",
     "options_zh": [
-      "財經新聞",
       "奇幻/科幻冒險",
       "體育賽事",
+      "財經新聞",
       "天氣報告"
     ],
     "options_en": [
-      "Finance",
       "Fantasy/Sci-fi",
       "Sports",
+      "Finance",
       "Weather"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「奇幻/科幻冒險」。",
     "explanation_en": "The correct answer is 'Fantasy/Sci-fi'.",
     "difficulty": 2
@@ -215,17 +215,17 @@
     "question_en": "What is the plot of 'Wednesday'?",
     "options_zh": [
       "財經新聞",
+      "體育賽事",
       "奇幻/科幻冒險",
-      "天氣報告",
-      "體育賽事"
+      "天氣報告"
     ],
     "options_en": [
       "Finance",
+      "Sports",
       "Fantasy/Sci-fi",
-      "Weather",
-      "Sports"
+      "Weather"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「奇幻/科幻冒險」。",
     "explanation_en": "The correct answer is 'Fantasy/Sci-fi'.",
     "difficulty": 3
@@ -235,18 +235,18 @@
     "question_zh": "《星期三》圍繞咩主題？",
     "question_en": "What theme does 'Wednesday' revolve around?",
     "options_zh": [
-      "體育賽事",
-      "奇幻/科幻冒險",
       "天氣報告",
-      "財經新聞"
+      "體育賽事",
+      "財經新聞",
+      "奇幻/科幻冒險"
     ],
     "options_en": [
-      "Sports",
-      "Fantasy/Sci-fi",
       "Weather",
-      "Finance"
+      "Sports",
+      "Finance",
+      "Fantasy/Sci-fi"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「奇幻/科幻冒險」。",
     "explanation_en": "The correct answer is 'Fantasy/Sci-fi'.",
     "difficulty": 1
@@ -256,18 +256,18 @@
     "question_zh": "《星期三》係邊個平台播出？",
     "question_en": "Which platform aired 'Wednesday'?",
     "options_zh": [
-      "YouTube",
       "HBO/Netflix",
-      "ViuTV",
-      "Amazon"
+      "YouTube",
+      "Amazon",
+      "ViuTV"
     ],
     "options_en": [
-      "YouTube",
       "HBO/Netflix",
-      "ViuTV",
-      "Amazon"
+      "YouTube",
+      "Amazon",
+      "ViuTV"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「HBO/Netflix」。",
     "explanation_en": "The correct answer is 'HBO/Netflix'.",
     "difficulty": 2
@@ -277,18 +277,18 @@
     "question_zh": "《星期三》喺邊度可以睇到？",
     "question_en": "Where can you watch 'Wednesday'?",
     "options_zh": [
-      "Amazon",
       "HBO/Netflix",
+      "ViuTV",
       "YouTube",
-      "ViuTV"
+      "Amazon"
     ],
     "options_en": [
-      "Amazon",
       "HBO/Netflix",
+      "ViuTV",
       "YouTube",
-      "ViuTV"
+      "Amazon"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「HBO/Netflix」。",
     "explanation_en": "The correct answer is 'HBO/Netflix'.",
     "difficulty": 3
@@ -298,16 +298,16 @@
     "question_zh": "《星期三》係邊個電視台/平台播嘅？",
     "question_en": "Which TV station/platform aired 'Wednesday'?",
     "options_zh": [
-      "ViuTV",
-      "HBO/Netflix",
       "YouTube",
-      "Amazon"
+      "HBO/Netflix",
+      "Amazon",
+      "ViuTV"
     ],
     "options_en": [
-      "ViuTV",
-      "HBO/Netflix",
       "YouTube",
-      "Amazon"
+      "HBO/Netflix",
+      "Amazon",
+      "ViuTV"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「HBO/Netflix」。",
@@ -318,48 +318,6 @@
     "id": 19,
     "question_zh": "《星期三》入面邊個係主角？",
     "question_en": "Who is the main character in 'Wednesday'?",
-    "options_zh": [
-      "作家",
-      "歐美演員",
-      "歌手",
-      "運動員"
-    ],
-    "options_en": [
-      "Writer",
-      "Western Actor",
-      "Singer",
-      "Athlete"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「歐美演員」。",
-    "explanation_en": "The correct answer is 'Western Actor'.",
-    "difficulty": 2
-  },
-  {
-    "id": 20,
-    "question_zh": "《星期三》嘅主演係邊個？",
-    "question_en": "Who stars in 'Wednesday'?",
-    "options_zh": [
-      "作家",
-      "運動員",
-      "歌手",
-      "歐美演員"
-    ],
-    "options_en": [
-      "Writer",
-      "Athlete",
-      "Singer",
-      "Western Actor"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「歐美演員」。",
-    "explanation_en": "The correct answer is 'Western Actor'.",
-    "difficulty": 3
-  },
-  {
-    "id": 21,
-    "question_zh": "邊個演員出演《星期三》？",
-    "question_en": "Which actor appeared in 'Wednesday'?",
     "options_zh": [
       "運動員",
       "歌手",
@@ -375,6 +333,48 @@
     "answer": 2,
     "explanation_zh": "正確答案係「歐美演員」。",
     "explanation_en": "The correct answer is 'Western Actor'.",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question_zh": "《星期三》嘅主演係邊個？",
+    "question_en": "Who stars in 'Wednesday'?",
+    "options_zh": [
+      "作家",
+      "歐美演員",
+      "運動員",
+      "歌手"
+    ],
+    "options_en": [
+      "Writer",
+      "Western Actor",
+      "Athlete",
+      "Singer"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「歐美演員」。",
+    "explanation_en": "The correct answer is 'Western Actor'.",
+    "difficulty": 3
+  },
+  {
+    "id": 21,
+    "question_zh": "邊個演員出演《星期三》？",
+    "question_en": "Which actor appeared in 'Wednesday'?",
+    "options_zh": [
+      "作家",
+      "歐美演員",
+      "歌手",
+      "運動員"
+    ],
+    "options_en": [
+      "Writer",
+      "Western Actor",
+      "Singer",
+      "Athlete"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「歐美演員」。",
+    "explanation_en": "The correct answer is 'Western Actor'.",
     "difficulty": 1
   },
   {
@@ -383,17 +383,17 @@
     "question_en": "How many episodes does 'Wednesday' have approximately?",
     "options_zh": [
       "約100集以上",
-      "約10-13集",
+      "只有1集",
       "約1-5集",
-      "只有1集"
+      "約10-13集"
     ],
     "options_en": [
       "100+ episodes",
-      "About 10-13 episodes",
+      "Only 1 episode",
       "1-5 episodes",
-      "Only 1 episode"
+      "About 10-13 episodes"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「約10-13集」。",
     "explanation_en": "The correct answer is 'About 10-13 episodes'.",
     "difficulty": 2
@@ -404,17 +404,17 @@
     "question_en": "How many episodes are in 'Wednesday'?",
     "options_zh": [
       "約1-5集",
-      "約10-13集",
+      "只有1集",
       "約100集以上",
-      "只有1集"
+      "約10-13集"
     ],
     "options_en": [
       "1-5 episodes",
-      "About 10-13 episodes",
+      "Only 1 episode",
       "100+ episodes",
-      "Only 1 episode"
+      "About 10-13 episodes"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「約10-13集」。",
     "explanation_en": "The correct answer is 'About 10-13 episodes'.",
     "difficulty": 3
@@ -425,17 +425,17 @@
     "question_en": "Who directed/produced 'Wednesday'?",
     "options_zh": [
       "編劇",
+      "歐美導演",
       "演員",
-      "歌手",
-      "歐美導演"
+      "歌手"
     ],
     "options_en": [
       "Writer",
+      "Western Director",
       "Actor",
-      "Singer",
-      "Western Director"
+      "Singer"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「歐美導演」。",
     "explanation_en": "The correct answer is 'Western Director'.",
     "difficulty": 1
@@ -445,18 +445,18 @@
     "question_zh": "《星期三》有冇出名嘅主題曲？",
     "question_en": "Does 'Wednesday' have a famous theme song?",
     "options_zh": [
+      "只有背景音樂",
       "只有插曲",
       "有主題曲",
-      "只有背景音樂",
       "冇主題曲"
     ],
     "options_en": [
+      "Only background music",
       "Only insert songs",
       "Yes, has theme song",
-      "Only background music",
       "No theme song"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「有主題曲」。",
     "explanation_en": "The correct answer is 'Yes, has theme song'.",
     "difficulty": 2

@@ -4,16 +4,16 @@
     "question_zh": "以下邊本係《你的名字》？",
     "question_en": "Which one is 'Your Name'?",
     "options_zh": [
-      "其他小說A",
       "其他小說B",
+      "其他小說C",
       "你的名字",
-      "其他小說C"
+      "其他小說A"
     ],
     "options_en": [
-      "Other Novel A",
       "Other Novel B",
+      "Other Novel C",
       "Your Name",
-      "Other Novel C"
+      "Other Novel A"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「你的名字」。",
@@ -25,18 +25,18 @@
     "question_zh": "《你的名字》嘅作者係邊個？",
     "question_en": "Who wrote 'Your Name'?",
     "options_zh": [
-      "其他作者A",
-      "其他作者B",
+      "其他作者C",
       "新海誠",
-      "其他作者C"
+      "其他作者B",
+      "其他作者A"
     ],
     "options_en": [
-      "Author A",
-      "Author B",
+      "Author C",
       "Makoto Shinkai",
-      "Author C"
+      "Author B",
+      "Author A"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「新海誠」。",
     "explanation_en": "The correct answer is 'Makoto Shinkai'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "《你的名字》係邊年出版嘅？",
     "question_en": "What year was 'Your Name' published?",
     "options_zh": [
-      "2014年",
       "2018年",
-      "2016年",
-      "2019年"
+      "2019年",
+      "2014年",
+      "2016年"
     ],
     "options_en": [
-      "2014",
       "2018",
-      "2016",
-      "2019"
+      "2019",
+      "2014",
+      "2016"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「2016年」。",
     "explanation_en": "The correct answer is '2016'.",
     "difficulty": 3
@@ -67,18 +67,18 @@
     "question_zh": "《你的名字》係邊國作品？",
     "question_en": "Which country is 'Your Name' from?",
     "options_zh": [
-      "法國",
       "韓國",
       "中國",
-      "德國"
+      "德國",
+      "法國"
     ],
     "options_en": [
-      "France",
       "South Korea",
       "China",
-      "Germany"
+      "Germany",
+      "France"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
@@ -88,18 +88,18 @@
     "question_zh": "《你的名字》主要講咩？",
     "question_en": "What is 'Your Name' mainly about?",
     "options_zh": [
+      "財經商戰",
       "科幻太空",
       "愛情故事同人物關係",
-      "財經商戰",
       "體育競技"
     ],
     "options_en": [
+      "Business",
       "Sci-fi",
       "Love story",
-      "Business",
       "Sports"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「愛情故事同人物關係」。",
     "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "《你的名字》入面有咩角色？",
     "question_en": "What characters are in 'Your Name'?",
     "options_zh": [
-      "外星人",
-      "動物",
       "主要角色",
-      "機械人"
+      "機械人",
+      "外星人",
+      "動物"
     ],
     "options_en": [
-      "Aliens",
-      "Animals",
       "Main characters",
-      "Robots"
+      "Robots",
+      "Aliens",
+      "Animals"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
@@ -130,18 +130,18 @@
     "question_zh": "《你的名字》嘅故事背景喺邊度？",
     "question_en": "Where is 'Your Name' set?",
     "options_zh": [
-      "中國/亞洲",
       "歐洲中世紀",
       "虛擬世界",
+      "中國/亞洲",
       "未來太空"
     ],
     "options_en": [
-      "China/Asia",
       "Medieval Europe",
       "Virtual world",
+      "China/Asia",
       "Future space"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
@@ -151,18 +151,18 @@
     "question_zh": "《你的名字》係咪好受歡迎？",
     "question_en": "Is 'Your Name' popular?",
     "options_zh": [
-      "已經過氣",
       "係，非常受歡迎",
-      "唔係，好冷門",
-      "只喺特定地區流行"
+      "只喺特定地區流行",
+      "已經過氣",
+      "唔係，好冷門"
     ],
     "options_en": [
-      "Outdated",
       "Yes, very popular",
-      "No, very niche",
-      "Only popular locally"
+      "Only popular locally",
+      "Outdated",
+      "No, very niche"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -172,15 +172,15 @@
     "question_zh": "《你的名字》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Your Name'?",
     "options_zh": [
-      "韓國人",
-      "德國人",
       "法國人",
+      "德國人",
+      "韓國人",
       "中國人"
     ],
     "options_en": [
-      "Korean",
-      "German",
       "French",
+      "German",
+      "Korean",
       "Chinese"
     ],
     "answer": 3,

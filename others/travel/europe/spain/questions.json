@@ -4,18 +4,18 @@
     "question_zh": "以下邊個係「西班牙位於邊個洲？」？",
     "question_en": "Which one is 'Spain'?",
     "options_zh": [
+      "其他B",
       "西班牙位於邊個洲？",
-      "其他A",
       "其他C",
-      "其他B"
+      "其他A"
     ],
     "options_en": [
+      "Other B",
       "Spain",
-      "Other A",
       "Other C",
-      "Other B"
+      "Other A"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「西班牙位於邊個洲？」。",
     "explanation_en": "The correct answer is 'Spain'.",
     "difficulty": 2
@@ -25,18 +25,18 @@
     "question_zh": "「西班牙位於邊個洲？」屬於邊種類型？",
     "question_en": "What type is 'Spain'?",
     "options_zh": [
+      "類型C",
       "歐洲旅遊",
       "類型B",
-      "類型C",
       "類型A"
     ],
     "options_en": [
+      "Type C",
       "歐洲旅遊",
       "Type B",
-      "Type C",
       "Type A"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「歐洲旅遊」。",
     "explanation_en": "The correct answer is '歐洲旅遊'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "「西班牙位於邊個洲？」係咪好受歡迎？",
     "question_en": "Is 'Spain' popular?",
     "options_zh": [
-      "係，非常受歡迎",
-      "只喺特定地區流行",
       "已經過氣",
+      "只喺特定地區流行",
+      "係，非常受歡迎",
       "唔係，好冷門"
     ],
     "options_en": [
-      "Yes, very popular",
-      "Only popular locally",
       "Outdated",
+      "Only popular locally",
+      "Yes, very popular",
       "No, very niche"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -67,18 +67,18 @@
     "question_zh": "「西班牙位於邊個洲？」係邊度嚟嘅？",
     "question_en": "Where is 'Spain' from?",
     "options_zh": [
+      "歐洲 (alt)",
       "歐洲",
       "非洲",
-      "歐洲 (alt)",
       "美洲"
     ],
     "options_en": [
       "Europe",
-      "Africa",
       "Europe",
+      "Africa",
       "Americas"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「歐洲」。",
     "explanation_en": "The correct answer is 'Europe'.",
     "difficulty": 3
@@ -88,18 +88,18 @@
     "question_zh": "「西班牙位於邊個洲？」有咩特色？",
     "question_en": "What is special about 'Spain'?",
     "options_zh": [
-      "已經過時",
       "冇特色",
-      "獨特風格",
-      "好普通"
+      "已經過時",
+      "好普通",
+      "獨特風格"
     ],
     "options_en": [
-      "Outdated",
       "No special features",
-      "Unique style",
-      "Very ordinary"
+      "Outdated",
+      "Very ordinary",
+      "Unique style"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「獨特風格」。",
     "explanation_en": "The correct answer is 'Unique style'.",
     "difficulty": 3
@@ -109,16 +109,16 @@
     "question_zh": "你會唔會推薦「西班牙位於邊個洲？」？",
     "question_en": "Would you recommend 'Spain'?",
     "options_zh": [
-      "唔確定",
+      "睇情況",
       "會，非常推薦",
       "唔會",
-      "睇情況"
+      "唔確定"
     ],
     "options_en": [
-      "Not sure",
+      "It depends",
       "Yes, highly recommended",
       "No",
-      "It depends"
+      "Not sure"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「會，非常推薦」。",
@@ -130,18 +130,18 @@
     "question_zh": "「西班牙位於邊個洲？」適合邊種人？",
     "question_en": "Who is 'Spain' suitable for?",
     "options_zh": [
-      "只適合兒童",
       "只適合專業人士",
       "只適合成人",
-      "所有人"
+      "所有人",
+      "只適合兒童"
     ],
     "options_en": [
-      "Only children",
       "Only professionals",
       "Only adults",
-      "Everyone"
+      "Everyone",
+      "Only children"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「所有人」。",
     "explanation_en": "The correct answer is 'Everyone'.",
     "difficulty": 3
@@ -151,18 +151,18 @@
     "question_zh": "「西班牙位於邊個洲？」嘅質素如何？",
     "question_en": "What is the quality of 'Spain'?",
     "options_zh": [
+      "普通",
       "參差",
       "高質素",
-      "低質素",
-      "普通"
+      "低質素"
     ],
     "options_en": [
+      "Average",
       "Mixed",
       "High quality",
-      "Low quality",
-      "Average"
+      "Low quality"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「高質素」。",
     "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 3
@@ -172,18 +172,18 @@
     "question_zh": "你對「西班牙位於邊個洲？」嘅整體印象係？",
     "question_en": "What is your overall impression of 'Spain'?",
     "options_zh": [
-      "非常好",
       "一般",
-      "冇印象",
-      "唔好"
+      "非常好",
+      "唔好",
+      "冇印象"
     ],
     "options_en": [
-      "Very good",
       "Average",
-      "No impression",
-      "Not good"
+      "Very good",
+      "Not good",
+      "No impression"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「非常好」。",
     "explanation_en": "The correct answer is 'Very good'.",
     "difficulty": 2

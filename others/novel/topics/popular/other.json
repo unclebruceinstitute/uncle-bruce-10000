@@ -4,18 +4,18 @@
     "question_zh": "以下邊本係《其他大眾小說》？",
     "question_en": "Which one is 'Other Popular'?",
     "options_zh": [
-      "其他大眾小說",
       "其他小說A",
       "其他小說C",
-      "其他小說B"
+      "其他小說B",
+      "其他大眾小說"
     ],
     "options_en": [
-      "Other Popular",
       "Other Novel A",
       "Other Novel C",
-      "Other Novel B"
+      "Other Novel B",
+      "Other Popular"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「其他大眾小說」。",
     "explanation_en": "The correct answer is 'Other Popular'.",
     "difficulty": 2
@@ -26,17 +26,17 @@
     "question_en": "What genre is 'Other Popular'?",
     "options_zh": [
       "戲劇",
-      "小說",
+      "詩歌",
       "散文",
-      "詩歌"
+      "小說"
     ],
     "options_en": [
       "Drama",
-      "Novel",
+      "Poetry",
       "Essay",
-      "Poetry"
+      "Novel"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「小說」。",
     "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 3
@@ -47,14 +47,14 @@
     "question_en": "What category is 'Other Popular'?",
     "options_zh": [
       "散文",
-      "戲劇",
       "詩歌",
+      "戲劇",
       "小說"
     ],
     "options_en": [
       "Essay",
-      "Drama",
       "Poetry",
+      "Drama",
       "Novel"
     ],
     "answer": 3,
@@ -67,18 +67,18 @@
     "question_zh": "《其他大眾小說》係邊國作品？",
     "question_en": "Which country is 'Other Popular' from?",
     "options_zh": [
-      "韓國",
+      "中國",
       "德國",
       "法國",
-      "中國"
+      "韓國"
     ],
     "options_en": [
-      "South Korea",
+      "China",
       "Germany",
       "France",
-      "China"
+      "South Korea"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
@@ -88,18 +88,18 @@
     "question_zh": "《其他大眾小說》主要講咩？",
     "question_en": "What is 'Other Popular' mainly about?",
     "options_zh": [
+      "精彩故事",
       "科幻太空",
-      "財經商戰",
       "體育競技",
-      "精彩故事"
+      "財經商戰"
     ],
     "options_en": [
+      "Exciting story",
       "Sci-fi",
-      "Business",
       "Sports",
-      "Exciting story"
+      "Business"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「精彩故事」。",
     "explanation_en": "The correct answer is 'Exciting story'.",
     "difficulty": 3
@@ -110,17 +110,17 @@
     "question_en": "What characters are in 'Other Popular'?",
     "options_zh": [
       "機械人",
-      "外星人",
+      "主要角色",
       "動物",
-      "主要角色"
+      "外星人"
     ],
     "options_en": [
       "Robots",
-      "Aliens",
+      "Main characters",
       "Animals",
-      "Main characters"
+      "Aliens"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
@@ -132,16 +132,16 @@
     "options_zh": [
       "未來太空",
       "虛擬世界",
-      "歐洲中世紀",
-      "中國/亞洲"
+      "中國/亞洲",
+      "歐洲中世紀"
     ],
     "options_en": [
       "Future space",
       "Virtual world",
-      "Medieval Europe",
-      "China/Asia"
+      "China/Asia",
+      "Medieval Europe"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
@@ -151,18 +151,18 @@
     "question_zh": "《其他大眾小說》係咪好受歡迎？",
     "question_en": "Is 'Other Popular' popular?",
     "options_zh": [
-      "係，有一定讀者群",
+      "已經過氣",
       "唔係，好冷門",
       "只喺特定地區流行",
-      "已經過氣"
+      "係，有一定讀者群"
     ],
     "options_en": [
-      "Yes, has a readership",
+      "Outdated",
       "No, very niche",
       "Only popular locally",
-      "Outdated"
+      "Yes, has a readership"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 3
@@ -173,15 +173,15 @@
     "question_en": "What nationality is the author of 'Other Popular'?",
     "options_zh": [
       "德國人",
-      "韓國人",
+      "法國人",
       "中國人",
-      "法國人"
+      "韓國人"
     ],
     "options_en": [
       "German",
-      "Korean",
+      "French",
       "Chinese",
-      "French"
+      "Korean"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「中國人」。",

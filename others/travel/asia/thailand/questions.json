@@ -4,18 +4,18 @@
     "question_zh": "以下邊個係「泰國位於邊個洲？」？",
     "question_en": "Which one is 'Thailand'?",
     "options_zh": [
+      "泰國位於邊個洲？",
       "其他C",
       "其他B",
-      "泰國位於邊個洲？",
       "其他A"
     ],
     "options_en": [
+      "Thailand",
       "Other C",
       "Other B",
-      "Thailand",
       "Other A"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「泰國位於邊個洲？」。",
     "explanation_en": "The correct answer is 'Thailand'.",
     "difficulty": 2
@@ -26,17 +26,17 @@
     "question_en": "What type is 'Thailand'?",
     "options_zh": [
       "類型A",
-      "亞洲旅遊",
       "類型B",
+      "亞洲旅遊",
       "類型C"
     ],
     "options_en": [
       "Type A",
-      "亞洲旅遊",
       "Type B",
+      "亞洲旅遊",
       "Type C"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「亞洲旅遊」。",
     "explanation_en": "The correct answer is '亞洲旅遊'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "「泰國位於邊個洲？」係咪好受歡迎？",
     "question_en": "Is 'Thailand' popular?",
     "options_zh": [
-      "係，非常受歡迎",
-      "已經過氣",
       "唔係，好冷門",
-      "只喺特定地區流行"
+      "已經過氣",
+      "只喺特定地區流行",
+      "係，非常受歡迎"
     ],
     "options_en": [
-      "Yes, very popular",
-      "Outdated",
       "No, very niche",
-      "Only popular locally"
+      "Outdated",
+      "Only popular locally",
+      "Yes, very popular"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -67,18 +67,18 @@
     "question_zh": "「泰國位於邊個洲？」係邊度嚟嘅？",
     "question_en": "Where is 'Thailand' from?",
     "options_zh": [
-      "美洲",
-      "亞洲",
       "歐洲",
-      "非洲"
+      "美洲",
+      "非洲",
+      "亞洲"
     ],
     "options_en": [
-      "Americas",
-      "Asia",
       "Europe",
-      "Africa"
+      "Americas",
+      "Africa",
+      "Asia"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「亞洲」。",
     "explanation_en": "The correct answer is 'Asia'.",
     "difficulty": 3
@@ -88,18 +88,18 @@
     "question_zh": "「泰國位於邊個洲？」有咩特色？",
     "question_en": "What is special about 'Thailand'?",
     "options_zh": [
-      "已經過時",
+      "獨特風格",
       "冇特色",
-      "好普通",
-      "獨特風格"
+      "已經過時",
+      "好普通"
     ],
     "options_en": [
-      "Outdated",
+      "Unique style",
       "No special features",
-      "Very ordinary",
-      "Unique style"
+      "Outdated",
+      "Very ordinary"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「獨特風格」。",
     "explanation_en": "The correct answer is 'Unique style'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "你會唔會推薦「泰國位於邊個洲？」？",
     "question_en": "Would you recommend 'Thailand'?",
     "options_zh": [
-      "睇情況",
-      "會，非常推薦",
+      "唔確定",
       "唔會",
-      "唔確定"
+      "會，非常推薦",
+      "睇情況"
     ],
     "options_en": [
-      "It depends",
-      "Yes, highly recommended",
+      "Not sure",
       "No",
-      "Not sure"
+      "Yes, highly recommended",
+      "It depends"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「會，非常推薦」。",
     "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 3
@@ -130,18 +130,18 @@
     "question_zh": "「泰國位於邊個洲？」適合邊種人？",
     "question_en": "Who is 'Thailand' suitable for?",
     "options_zh": [
-      "只適合專業人士",
       "所有人",
       "只適合兒童",
-      "只適合成人"
+      "只適合成人",
+      "只適合專業人士"
     ],
     "options_en": [
-      "Only professionals",
       "Everyone",
       "Only children",
-      "Only adults"
+      "Only adults",
+      "Only professionals"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「所有人」。",
     "explanation_en": "The correct answer is 'Everyone'.",
     "difficulty": 3
@@ -172,18 +172,18 @@
     "question_zh": "你對「泰國位於邊個洲？」嘅整體印象係？",
     "question_en": "What is your overall impression of 'Thailand'?",
     "options_zh": [
-      "唔好",
       "非常好",
-      "一般",
-      "冇印象"
+      "唔好",
+      "冇印象",
+      "一般"
     ],
     "options_en": [
-      "Not good",
       "Very good",
-      "Average",
-      "No impression"
+      "Not good",
+      "No impression",
+      "Average"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「非常好」。",
     "explanation_en": "The correct answer is 'Very good'.",
     "difficulty": 2

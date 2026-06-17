@@ -4,18 +4,18 @@
     "question_zh": "以下邊本係《刀劍神域》？",
     "question_en": "Which one is 'Sword Art Online'?",
     "options_zh": [
-      "刀劍神域",
-      "其他小說A",
       "其他小說C",
-      "其他小說B"
+      "其他小說B",
+      "刀劍神域",
+      "其他小說A"
     ],
     "options_en": [
-      "Sword Art Online",
-      "Other Novel A",
       "Other Novel C",
-      "Other Novel B"
+      "Other Novel B",
+      "Sword Art Online",
+      "Other Novel A"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「刀劍神域」。",
     "explanation_en": "The correct answer is 'Sword Art Online'.",
     "difficulty": 2
@@ -26,17 +26,17 @@
     "question_en": "Who wrote 'Sword Art Online'?",
     "options_zh": [
       "其他作者A",
-      "其他作者C",
       "川原礫",
+      "其他作者C",
       "其他作者B"
     ],
     "options_en": [
       "Author A",
-      "Author C",
       "Reki Kawahara",
+      "Author C",
       "Author B"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「川原礫」。",
     "explanation_en": "The correct answer is 'Reki Kawahara'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "《刀劍神域》係邊年出版嘅？",
     "question_en": "What year was 'Sword Art Online' published?",
     "options_zh": [
-      "2014年",
-      "2006年",
       "2011年",
-      "2009年"
+      "2006年",
+      "2009年",
+      "2014年"
     ],
     "options_en": [
-      "2014",
-      "2006",
       "2011",
-      "2009"
+      "2006",
+      "2009",
+      "2014"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「2009年」。",
     "explanation_en": "The correct answer is '2009'.",
     "difficulty": 3
@@ -69,16 +69,16 @@
     "options_zh": [
       "德國",
       "法國",
-      "日本",
-      "韓國"
+      "韓國",
+      "日本"
     ],
     "options_en": [
       "Germany",
       "France",
-      "Japan",
-      "South Korea"
+      "South Korea",
+      "Japan"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「日本」。",
     "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 3
@@ -89,17 +89,17 @@
     "question_en": "What is 'Sword Art Online' mainly about?",
     "options_zh": [
       "財經商戰",
-      "科幻太空",
       "精彩故事",
+      "科幻太空",
       "體育競技"
     ],
     "options_en": [
       "Business",
-      "Sci-fi",
       "Exciting story",
+      "Sci-fi",
       "Sports"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「精彩故事」。",
     "explanation_en": "The correct answer is 'Exciting story'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "《刀劍神域》入面有咩角色？",
     "question_en": "What characters are in 'Sword Art Online'?",
     "options_zh": [
-      "主要角色",
-      "外星人",
       "動物",
-      "機械人"
+      "主要角色",
+      "機械人",
+      "外星人"
     ],
     "options_en": [
-      "Main characters",
-      "Aliens",
       "Animals",
-      "Robots"
+      "Main characters",
+      "Robots",
+      "Aliens"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
@@ -130,18 +130,18 @@
     "question_zh": "《刀劍神域》嘅故事背景喺邊度？",
     "question_en": "Where is 'Sword Art Online' set?",
     "options_zh": [
+      "虛擬世界",
       "未來太空",
       "歐洲中世紀",
-      "中國/亞洲",
-      "虛擬世界"
+      "中國/亞洲"
     ],
     "options_en": [
+      "Virtual world",
       "Future space",
       "Medieval Europe",
-      "China/Asia",
-      "Virtual world"
+      "China/Asia"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
@@ -151,18 +151,18 @@
     "question_zh": "《刀劍神域》係咪好受歡迎？",
     "question_en": "Is 'Sword Art Online' popular?",
     "options_zh": [
-      "唔係，好冷門",
+      "已經過氣",
       "只喺特定地區流行",
-      "係，非常受歡迎",
-      "已經過氣"
+      "唔係，好冷門",
+      "係，非常受歡迎"
     ],
     "options_en": [
-      "No, very niche",
+      "Outdated",
       "Only popular locally",
-      "Yes, very popular",
-      "Outdated"
+      "No, very niche",
+      "Yes, very popular"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -172,18 +172,18 @@
     "question_zh": "《刀劍神域》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Sword Art Online'?",
     "options_zh": [
+      "法國人",
       "中國人",
       "德國人",
-      "韓國人",
-      "法國人"
+      "韓國人"
     ],
     "options_en": [
+      "French",
       "Chinese",
       "German",
-      "Korean",
-      "French"
+      "Korean"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2

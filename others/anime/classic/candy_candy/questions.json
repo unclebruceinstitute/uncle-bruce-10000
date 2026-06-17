@@ -4,18 +4,18 @@
     "question_zh": "以下邊個係「《小甜甜》屬於咩類型？」？",
     "question_en": "Which one is 'Candy Candy'?",
     "options_zh": [
+      "其他A",
       "其他C",
       "《小甜甜》屬於咩類型？",
-      "其他B",
-      "其他A"
+      "其他B"
     ],
     "options_en": [
+      "Other A",
       "Other C",
       "Candy Candy",
-      "Other B",
-      "Other A"
+      "Other B"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「《小甜甜》屬於咩類型？」。",
     "explanation_en": "The correct answer is 'Candy Candy'.",
     "difficulty": 2
@@ -25,18 +25,18 @@
     "question_zh": "「《小甜甜》屬於咩類型？」屬於邊種類型？",
     "question_en": "What type is 'Candy Candy'?",
     "options_zh": [
-      "類型C",
+      "經典動漫",
       "類型A",
-      "類型B",
-      "經典動漫"
+      "類型C",
+      "類型B"
     ],
     "options_en": [
-      "Type C",
+      "經典動漫",
       "Type A",
-      "Type B",
-      "經典動漫"
+      "Type C",
+      "Type B"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「經典動漫」。",
     "explanation_en": "The correct answer is '經典動漫'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "「《小甜甜》屬於咩類型？」係咪好受歡迎？",
     "question_en": "Is 'Candy Candy' popular?",
     "options_zh": [
-      "只喺特定地區流行",
-      "已經過氣",
       "唔係，好冷門",
-      "係，非常受歡迎"
+      "係，非常受歡迎",
+      "已經過氣",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "Only popular locally",
-      "Outdated",
       "No, very niche",
-      "Yes, very popular"
+      "Yes, very popular",
+      "Outdated",
+      "Only popular locally"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -67,18 +67,18 @@
     "question_zh": "「《小甜甜》屬於咩類型？」係邊度嚟嘅？",
     "question_en": "Where is 'Candy Candy' from?",
     "options_zh": [
-      "非洲",
+      "美洲",
       "歐洲",
-      "日本",
-      "美洲"
+      "非洲",
+      "日本"
     ],
     "options_en": [
-      "Africa",
+      "Americas",
       "Europe",
-      "Japan",
-      "Americas"
+      "Africa",
+      "Japan"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「日本」。",
     "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 3
@@ -88,18 +88,18 @@
     "question_zh": "「《小甜甜》屬於咩類型？」有咩特色？",
     "question_en": "What is special about 'Candy Candy'?",
     "options_zh": [
-      "好普通",
       "獨特風格",
+      "冇特色",
       "已經過時",
-      "冇特色"
+      "好普通"
     ],
     "options_en": [
-      "Very ordinary",
       "Unique style",
+      "No special features",
       "Outdated",
-      "No special features"
+      "Very ordinary"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「獨特風格」。",
     "explanation_en": "The correct answer is 'Unique style'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "你會唔會推薦「《小甜甜》屬於咩類型？」？",
     "question_en": "Would you recommend 'Candy Candy'?",
     "options_zh": [
-      "唔會",
       "會，非常推薦",
+      "唔會",
       "睇情況",
       "唔確定"
     ],
     "options_en": [
-      "No",
       "Yes, highly recommended",
+      "No",
       "It depends",
       "Not sure"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「會，非常推薦」。",
     "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 3
@@ -130,16 +130,16 @@
     "question_zh": "「《小甜甜》屬於咩類型？」適合邊種人？",
     "question_en": "Who is 'Candy Candy' suitable for?",
     "options_zh": [
-      "只適合專業人士",
+      "只適合成人",
       "所有人",
-      "只適合兒童",
-      "只適合成人"
+      "只適合專業人士",
+      "只適合兒童"
     ],
     "options_en": [
-      "Only professionals",
+      "Only adults",
       "Everyone",
-      "Only children",
-      "Only adults"
+      "Only professionals",
+      "Only children"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「所有人」。",
@@ -151,16 +151,16 @@
     "question_zh": "「《小甜甜》屬於咩類型？」嘅質素如何？",
     "question_en": "What is the quality of 'Candy Candy'?",
     "options_zh": [
-      "參差",
-      "高質素",
       "普通",
-      "低質素"
+      "高質素",
+      "低質素",
+      "參差"
     ],
     "options_en": [
-      "Mixed",
-      "High quality",
       "Average",
-      "Low quality"
+      "High quality",
+      "Low quality",
+      "Mixed"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「高質素」。",
@@ -172,16 +172,16 @@
     "question_zh": "你對「《小甜甜》屬於咩類型？」嘅整體印象係？",
     "question_en": "What is your overall impression of 'Candy Candy'?",
     "options_zh": [
+      "唔好",
       "冇印象",
-      "一般",
       "非常好",
-      "唔好"
+      "一般"
     ],
     "options_en": [
+      "Not good",
       "No impression",
-      "Average",
       "Very good",
-      "Not good"
+      "Average"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「非常好」。",

@@ -4,18 +4,18 @@
     "question_zh": "以下邊本係《白夜行》？",
     "question_en": "Which one is 'Journey Under the Midnight Sun'?",
     "options_zh": [
-      "其他小說A",
-      "其他小說C",
       "白夜行",
-      "其他小說B"
+      "其他小說B",
+      "其他小說A",
+      "其他小說C"
     ],
     "options_en": [
-      "Other Novel A",
-      "Other Novel C",
       "Journey Under the Midnight Sun",
-      "Other Novel B"
+      "Other Novel B",
+      "Other Novel A",
+      "Other Novel C"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「白夜行」。",
     "explanation_en": "The correct answer is 'Journey Under the Midnight Sun'.",
     "difficulty": 2
@@ -25,18 +25,18 @@
     "question_zh": "《白夜行》嘅作者係邊個？",
     "question_en": "Who wrote 'Journey Under the Midnight Sun'?",
     "options_zh": [
-      "其他作者C",
       "其他作者B",
-      "其他作者A",
-      "東野圭吾"
+      "東野圭吾",
+      "其他作者C",
+      "其他作者A"
     ],
     "options_en": [
-      "Author C",
       "Author B",
-      "Author A",
-      "Keigo Higashino"
+      "Keigo Higashino",
+      "Author C",
+      "Author A"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「東野圭吾」。",
     "explanation_en": "The correct answer is 'Keigo Higashino'.",
     "difficulty": 3
@@ -47,17 +47,17 @@
     "question_en": "What year was 'Journey Under the Midnight Sun' published?",
     "options_zh": [
       "1997年",
+      "1999年",
       "1994年",
-      "2004年",
-      "1999年"
+      "2004年"
     ],
     "options_en": [
       "1997",
+      "1999",
       "1994",
-      "2004",
-      "1999"
+      "2004"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「1999年」。",
     "explanation_en": "The correct answer is '1999'.",
     "difficulty": 3
@@ -67,18 +67,18 @@
     "question_zh": "《白夜行》係邊國作品？",
     "question_en": "Which country is 'Journey Under the Midnight Sun' from?",
     "options_zh": [
-      "韓國",
-      "德國",
       "法國",
-      "日本"
+      "韓國",
+      "日本",
+      "德國"
     ],
     "options_en": [
-      "South Korea",
-      "Germany",
       "France",
-      "Japan"
+      "South Korea",
+      "Japan",
+      "Germany"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「日本」。",
     "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 3
@@ -88,18 +88,18 @@
     "question_zh": "《白夜行》主要講咩？",
     "question_en": "What is 'Journey Under the Midnight Sun' mainly about?",
     "options_zh": [
-      "財經商戰",
       "推理破案同懸疑故事",
+      "體育競技",
       "科幻太空",
-      "體育競技"
+      "財經商戰"
     ],
     "options_en": [
-      "Business",
       "Mystery and detective",
+      "Sports",
       "Sci-fi",
-      "Sports"
+      "Business"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
     "explanation_en": "The correct answer is 'Mystery and detective'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "《白夜行》入面有咩角色？",
     "question_en": "What characters are in 'Journey Under the Midnight Sun'?",
     "options_zh": [
-      "偵探/警察",
       "動物",
       "機械人",
+      "偵探/警察",
       "外星人"
     ],
     "options_en": [
-      "Detective/Police",
       "Animals",
       "Robots",
+      "Detective/Police",
       "Aliens"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「偵探/警察」。",
     "explanation_en": "The correct answer is 'Detective/Police'.",
     "difficulty": 3
@@ -130,15 +130,15 @@
     "question_zh": "《白夜行》嘅故事背景喺邊度？",
     "question_en": "Where is 'Journey Under the Midnight Sun' set?",
     "options_zh": [
-      "虛擬世界",
       "歐洲中世紀",
       "未來太空",
+      "虛擬世界",
       "中國/亞洲"
     ],
     "options_en": [
-      "Virtual world",
       "Medieval Europe",
       "Future space",
+      "Virtual world",
       "China/Asia"
     ],
     "answer": 3,
@@ -151,18 +151,18 @@
     "question_zh": "《白夜行》係咪好受歡迎？",
     "question_en": "Is 'Journey Under the Midnight Sun' popular?",
     "options_zh": [
-      "唔係，好冷門",
+      "係，非常受歡迎",
       "只喺特定地區流行",
       "已經過氣",
-      "係，非常受歡迎"
+      "唔係，好冷門"
     ],
     "options_en": [
-      "No, very niche",
+      "Yes, very popular",
       "Only popular locally",
       "Outdated",
-      "Yes, very popular"
+      "No, very niche"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -172,18 +172,18 @@
     "question_zh": "《白夜行》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Journey Under the Midnight Sun'?",
     "options_zh": [
-      "日本人",
       "韓國人",
-      "法國人",
-      "德國人"
+      "日本人",
+      "德國人",
+      "法國人"
     ],
     "options_en": [
-      "Japanese",
       "Korean",
-      "French",
-      "German"
+      "Japanese",
+      "German",
+      "French"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「日本人」。",
     "explanation_en": "The correct answer is 'Japanese'.",
     "difficulty": 2

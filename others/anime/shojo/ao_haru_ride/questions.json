@@ -4,18 +4,18 @@
     "question_zh": "以下邊個係「《青春之旅》屬於咩類型？」？",
     "question_en": "Which one is 'Ao Haru Ride'?",
     "options_zh": [
+      "其他C",
       "其他B",
       "《青春之旅》屬於咩類型？",
-      "其他A",
-      "其他C"
+      "其他A"
     ],
     "options_en": [
+      "Other C",
       "Other B",
       "Ao Haru Ride",
-      "Other A",
-      "Other C"
+      "Other A"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「《青春之旅》屬於咩類型？」。",
     "explanation_en": "The correct answer is 'Ao Haru Ride'.",
     "difficulty": 2
@@ -25,15 +25,15 @@
     "question_zh": "「《青春之旅》屬於咩類型？」屬於邊種類型？",
     "question_en": "What type is 'Ao Haru Ride'?",
     "options_zh": [
-      "類型B",
-      "少女動漫",
       "類型A",
+      "少女動漫",
+      "類型B",
       "類型C"
     ],
     "options_en": [
-      "Type B",
-      "少女動漫",
       "Type A",
+      "少女動漫",
+      "Type B",
       "Type C"
     ],
     "answer": 1,
@@ -48,14 +48,14 @@
     "options_zh": [
       "只喺特定地區流行",
       "係，非常受歡迎",
-      "已經過氣",
-      "唔係，好冷門"
+      "唔係，好冷門",
+      "已經過氣"
     ],
     "options_en": [
       "Only popular locally",
       "Yes, very popular",
-      "Outdated",
-      "No, very niche"
+      "No, very niche",
+      "Outdated"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
@@ -67,14 +67,14 @@
     "question_zh": "「《青春之旅》屬於咩類型？」係邊度嚟嘅？",
     "question_en": "Where is 'Ao Haru Ride' from?",
     "options_zh": [
-      "美洲",
       "非洲",
+      "美洲",
       "日本",
       "歐洲"
     ],
     "options_en": [
-      "Americas",
       "Africa",
+      "Americas",
       "Japan",
       "Europe"
     ],
@@ -89,17 +89,17 @@
     "question_en": "What is special about 'Ao Haru Ride'?",
     "options_zh": [
       "已經過時",
+      "好普通",
       "冇特色",
-      "獨特風格",
-      "好普通"
+      "獨特風格"
     ],
     "options_en": [
       "Outdated",
+      "Very ordinary",
       "No special features",
-      "Unique style",
-      "Very ordinary"
+      "Unique style"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「獨特風格」。",
     "explanation_en": "The correct answer is 'Unique style'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "你會唔會推薦「《青春之旅》屬於咩類型？」？",
     "question_en": "Would you recommend 'Ao Haru Ride'?",
     "options_zh": [
-      "唔確定",
-      "會，非常推薦",
       "睇情況",
-      "唔會"
+      "唔確定",
+      "唔會",
+      "會，非常推薦"
     ],
     "options_en": [
-      "Not sure",
-      "Yes, highly recommended",
       "It depends",
-      "No"
+      "Not sure",
+      "No",
+      "Yes, highly recommended"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「會，非常推薦」。",
     "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 3
@@ -130,18 +130,18 @@
     "question_zh": "「《青春之旅》屬於咩類型？」適合邊種人？",
     "question_en": "Who is 'Ao Haru Ride' suitable for?",
     "options_zh": [
-      "只適合兒童",
       "所有人",
       "只適合成人",
+      "只適合兒童",
       "只適合專業人士"
     ],
     "options_en": [
-      "Only children",
       "Everyone",
       "Only adults",
+      "Only children",
       "Only professionals"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「所有人」。",
     "explanation_en": "The correct answer is 'Everyone'.",
     "difficulty": 3
@@ -151,18 +151,18 @@
     "question_zh": "「《青春之旅》屬於咩類型？」嘅質素如何？",
     "question_en": "What is the quality of 'Ao Haru Ride'?",
     "options_zh": [
+      "參差",
       "高質素",
-      "普通",
       "低質素",
-      "參差"
+      "普通"
     ],
     "options_en": [
+      "Mixed",
       "High quality",
-      "Average",
       "Low quality",
-      "Mixed"
+      "Average"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「高質素」。",
     "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 3
@@ -172,18 +172,18 @@
     "question_zh": "你對「《青春之旅》屬於咩類型？」嘅整體印象係？",
     "question_en": "What is your overall impression of 'Ao Haru Ride'?",
     "options_zh": [
+      "唔好",
       "冇印象",
       "非常好",
-      "一般",
-      "唔好"
+      "一般"
     ],
     "options_en": [
+      "Not good",
       "No impression",
       "Very good",
-      "Average",
-      "Not good"
+      "Average"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「非常好」。",
     "explanation_en": "The correct answer is 'Very good'.",
     "difficulty": 2

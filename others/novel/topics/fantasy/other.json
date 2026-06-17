@@ -4,18 +4,18 @@
     "question_zh": "以下邊本係《其他幻想小說》？",
     "question_en": "Which one is 'Other Fantasy'?",
     "options_zh": [
-      "其他幻想小說",
-      "其他小說A",
       "其他小說C",
+      "其他小說A",
+      "其他幻想小說",
       "其他小說B"
     ],
     "options_en": [
-      "Other Fantasy",
-      "Other Novel A",
       "Other Novel C",
+      "Other Novel A",
+      "Other Fantasy",
       "Other Novel B"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「其他幻想小說」。",
     "explanation_en": "The correct answer is 'Other Fantasy'.",
     "difficulty": 2
@@ -25,18 +25,18 @@
     "question_zh": "《其他幻想小說》屬於邊種類型？",
     "question_en": "What genre is 'Other Fantasy'?",
     "options_zh": [
+      "詩歌",
       "戲劇",
-      "小說",
       "散文",
-      "詩歌"
+      "小說"
     ],
     "options_en": [
+      "Poetry",
       "Drama",
-      "Novel",
       "Essay",
-      "Poetry"
+      "Novel"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「小說」。",
     "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "《其他幻想小說》係邊個類別？",
     "question_en": "What category is 'Other Fantasy'?",
     "options_zh": [
-      "散文",
-      "戲劇",
       "詩歌",
-      "小說"
+      "小說",
+      "散文",
+      "戲劇"
     ],
     "options_en": [
-      "Essay",
-      "Drama",
       "Poetry",
-      "Novel"
+      "Novel",
+      "Essay",
+      "Drama"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「小說」。",
     "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 3
@@ -67,18 +67,18 @@
     "question_zh": "《其他幻想小說》係邊國作品？",
     "question_en": "Which country is 'Other Fantasy' from?",
     "options_zh": [
-      "韓國",
+      "中國",
       "德國",
       "法國",
-      "中國"
+      "韓國"
     ],
     "options_en": [
-      "South Korea",
+      "China",
       "Germany",
       "France",
-      "China"
+      "South Korea"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
@@ -88,18 +88,18 @@
     "question_zh": "《其他幻想小說》主要講咩？",
     "question_en": "What is 'Other Fantasy' mainly about?",
     "options_zh": [
-      "科幻太空",
-      "財經商戰",
+      "奇幻冒險同超自然元素",
       "體育競技",
-      "奇幻冒險同超自然元素"
+      "科幻太空",
+      "財經商戰"
     ],
     "options_en": [
-      "Sci-fi",
-      "Business",
+      "Fantasy adventure",
       "Sports",
-      "Fantasy adventure"
+      "Sci-fi",
+      "Business"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「奇幻冒險同超自然元素」。",
     "explanation_en": "The correct answer is 'Fantasy adventure'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "《其他幻想小說》入面有咩角色？",
     "question_en": "What characters are in 'Other Fantasy'?",
     "options_zh": [
-      "機械人",
-      "外星人",
       "動物",
-      "修仙者/魔法師"
+      "修仙者/魔法師",
+      "機械人",
+      "外星人"
     ],
     "options_en": [
-      "Robots",
-      "Aliens",
       "Animals",
-      "Cultivators/Wizards"
+      "Cultivators/Wizards",
+      "Robots",
+      "Aliens"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「修仙者/魔法師」。",
     "explanation_en": "The correct answer is 'Cultivators/Wizards'.",
     "difficulty": 3
@@ -151,18 +151,18 @@
     "question_zh": "《其他幻想小說》係咪好受歡迎？",
     "question_en": "Is 'Other Fantasy' popular?",
     "options_zh": [
-      "係，有一定讀者群",
-      "唔係，好冷門",
       "只喺特定地區流行",
-      "已經過氣"
+      "已經過氣",
+      "唔係，好冷門",
+      "係，有一定讀者群"
     ],
     "options_en": [
-      "Yes, has a readership",
-      "No, very niche",
       "Only popular locally",
-      "Outdated"
+      "Outdated",
+      "No, very niche",
+      "Yes, has a readership"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 3
@@ -172,18 +172,18 @@
     "question_zh": "《其他幻想小說》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Other Fantasy'?",
     "options_zh": [
-      "德國人",
       "韓國人",
-      "中國人",
-      "法國人"
+      "德國人",
+      "法國人",
+      "中國人"
     ],
     "options_en": [
-      "German",
       "Korean",
-      "Chinese",
-      "French"
+      "German",
+      "French",
+      "Chinese"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2

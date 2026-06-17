@@ -4,18 +4,18 @@
     "question_zh": "以下邊個係「《Fortnite》係邊間公司開發？」？",
     "question_en": "Which one is 'Fortnite'?",
     "options_zh": [
-      "其他A",
       "其他C",
       "其他B",
-      "《Fortnite》係邊間公司開發？"
+      "《Fortnite》係邊間公司開發？",
+      "其他A"
     ],
     "options_en": [
-      "Other A",
       "Other C",
       "Other B",
-      "Fortnite"
+      "Fortnite",
+      "Other A"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「《Fortnite》係邊間公司開發？」。",
     "explanation_en": "The correct answer is 'Fortnite'.",
     "difficulty": 2
@@ -46,18 +46,18 @@
     "question_zh": "「《Fortnite》係邊間公司開發？」係咪好受歡迎？",
     "question_en": "Is 'Fortnite' popular?",
     "options_zh": [
-      "係，非常受歡迎",
       "唔係，好冷門",
-      "只喺特定地區流行",
-      "已經過氣"
+      "已經過氣",
+      "係，非常受歡迎",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "Yes, very popular",
       "No, very niche",
-      "Only popular locally",
-      "Outdated"
+      "Outdated",
+      "Yes, very popular",
+      "Only popular locally"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -68,17 +68,17 @@
     "question_en": "Where is 'Fortnite' from?",
     "options_zh": [
       "非洲",
+      "美洲",
       "歐洲",
-      "全球",
-      "美洲"
+      "全球"
     ],
     "options_en": [
       "Africa",
+      "Americas",
       "Europe",
-      "Global",
-      "Americas"
+      "Global"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「全球」。",
     "explanation_en": "The correct answer is 'Global'.",
     "difficulty": 3
@@ -88,18 +88,18 @@
     "question_zh": "「《Fortnite》係邊間公司開發？」有咩特色？",
     "question_en": "What is special about 'Fortnite'?",
     "options_zh": [
-      "已經過時",
       "冇特色",
       "獨特風格",
-      "好普通"
+      "好普通",
+      "已經過時"
     ],
     "options_en": [
-      "Outdated",
       "No special features",
       "Unique style",
-      "Very ordinary"
+      "Very ordinary",
+      "Outdated"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「獨特風格」。",
     "explanation_en": "The correct answer is 'Unique style'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "你會唔會推薦「《Fortnite》係邊間公司開發？」？",
     "question_en": "Would you recommend 'Fortnite'?",
     "options_zh": [
-      "唔會",
+      "會，非常推薦",
       "唔確定",
-      "睇情況",
-      "會，非常推薦"
+      "唔會",
+      "睇情況"
     ],
     "options_en": [
-      "No",
+      "Yes, highly recommended",
       "Not sure",
-      "It depends",
-      "Yes, highly recommended"
+      "No",
+      "It depends"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「會，非常推薦」。",
     "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 3
@@ -130,18 +130,18 @@
     "question_zh": "「《Fortnite》係邊間公司開發？」適合邊種人？",
     "question_en": "Who is 'Fortnite' suitable for?",
     "options_zh": [
-      "只適合兒童",
-      "只適合專業人士",
       "只適合成人",
-      "所有人"
+      "所有人",
+      "只適合專業人士",
+      "只適合兒童"
     ],
     "options_en": [
-      "Only children",
-      "Only professionals",
       "Only adults",
-      "Everyone"
+      "Everyone",
+      "Only professionals",
+      "Only children"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「所有人」。",
     "explanation_en": "The correct answer is 'Everyone'.",
     "difficulty": 3
@@ -151,18 +151,18 @@
     "question_zh": "「《Fortnite》係邊間公司開發？」嘅質素如何？",
     "question_en": "What is the quality of 'Fortnite'?",
     "options_zh": [
-      "低質素",
-      "普通",
       "高質素",
-      "參差"
+      "參差",
+      "普通",
+      "低質素"
     ],
     "options_en": [
-      "Low quality",
-      "Average",
       "High quality",
-      "Mixed"
+      "Mixed",
+      "Average",
+      "Low quality"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「高質素」。",
     "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 3
@@ -172,18 +172,18 @@
     "question_zh": "你對「《Fortnite》係邊間公司開發？」嘅整體印象係？",
     "question_en": "What is your overall impression of 'Fortnite'?",
     "options_zh": [
-      "冇印象",
-      "唔好",
       "非常好",
+      "唔好",
+      "冇印象",
       "一般"
     ],
     "options_en": [
-      "No impression",
-      "Not good",
       "Very good",
+      "Not good",
+      "No impression",
       "Average"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「非常好」。",
     "explanation_en": "The correct answer is 'Very good'.",
     "difficulty": 2

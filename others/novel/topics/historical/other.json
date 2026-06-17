@@ -4,18 +4,18 @@
     "question_zh": "以下邊本係《其他歷史小說》？",
     "question_en": "Which one is 'Other Historical'?",
     "options_zh": [
-      "其他歷史小說",
-      "其他小說A",
       "其他小說C",
-      "其他小說B"
+      "其他歷史小說",
+      "其他小說B",
+      "其他小說A"
     ],
     "options_en": [
-      "Other Historical",
-      "Other Novel A",
       "Other Novel C",
-      "Other Novel B"
+      "Other Historical",
+      "Other Novel B",
+      "Other Novel A"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「其他歷史小說」。",
     "explanation_en": "The correct answer is 'Other Historical'.",
     "difficulty": 2
@@ -25,18 +25,18 @@
     "question_zh": "《其他歷史小說》屬於邊種類型？",
     "question_en": "What genre is 'Other Historical'?",
     "options_zh": [
+      "詩歌",
       "戲劇",
       "小說",
-      "散文",
-      "詩歌"
+      "散文"
     ],
     "options_en": [
+      "Poetry",
       "Drama",
       "Novel",
-      "Essay",
-      "Poetry"
+      "Essay"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「小說」。",
     "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 3
@@ -68,17 +68,17 @@
     "question_en": "Which country is 'Other Historical' from?",
     "options_zh": [
       "韓國",
-      "德國",
       "法國",
-      "中國"
+      "中國",
+      "德國"
     ],
     "options_en": [
       "South Korea",
-      "Germany",
       "France",
-      "China"
+      "China",
+      "Germany"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
@@ -88,18 +88,18 @@
     "question_zh": "《其他歷史小說》主要講咩？",
     "question_en": "What is 'Other Historical' mainly about?",
     "options_zh": [
+      "歷史故事同時代變遷",
       "科幻太空",
-      "財經商戰",
       "體育競技",
-      "歷史故事同時代變遷"
+      "財經商戰"
     ],
     "options_en": [
+      "Historical story",
       "Sci-fi",
-      "Business",
       "Sports",
-      "Historical story"
+      "Business"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
     "explanation_en": "The correct answer is 'Historical story'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "《其他歷史小說》入面有咩角色？",
     "question_en": "What characters are in 'Other Historical'?",
     "options_zh": [
-      "機械人",
-      "外星人",
       "動物",
-      "主要角色"
+      "主要角色",
+      "機械人",
+      "外星人"
     ],
     "options_en": [
-      "Robots",
-      "Aliens",
       "Animals",
-      "Main characters"
+      "Main characters",
+      "Robots",
+      "Aliens"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
@@ -130,15 +130,15 @@
     "question_zh": "《其他歷史小說》嘅故事背景喺邊度？",
     "question_en": "Where is 'Other Historical' set?",
     "options_zh": [
+      "歐洲中世紀",
       "未來太空",
       "虛擬世界",
-      "歐洲中世紀",
       "古代中國"
     ],
     "options_en": [
+      "Medieval Europe",
       "Future space",
       "Virtual world",
-      "Medieval Europe",
       "Ancient China"
     ],
     "answer": 3,
@@ -152,15 +152,15 @@
     "question_en": "Is 'Other Historical' popular?",
     "options_zh": [
       "係，有一定讀者群",
-      "唔係，好冷門",
       "只喺特定地區流行",
-      "已經過氣"
+      "已經過氣",
+      "唔係，好冷門"
     ],
     "options_en": [
       "Yes, has a readership",
-      "No, very niche",
       "Only popular locally",
-      "Outdated"
+      "Outdated",
+      "No, very niche"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
@@ -172,18 +172,18 @@
     "question_zh": "《其他歷史小說》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Other Historical'?",
     "options_zh": [
-      "德國人",
-      "韓國人",
       "中國人",
+      "韓國人",
+      "德國人",
       "法國人"
     ],
     "options_en": [
-      "German",
-      "Korean",
       "Chinese",
+      "Korean",
+      "German",
       "French"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2

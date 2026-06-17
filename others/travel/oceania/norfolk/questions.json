@@ -6,16 +6,16 @@
     "options_zh": [
       "其他A",
       "其他B",
-      "其他C",
-      "諾福克島位於邊個洲？"
+      "諾福克島位於邊個洲？",
+      "其他C"
     ],
     "options_en": [
       "Other A",
       "Other B",
-      "Other C",
-      "Norfolk"
+      "Norfolk",
+      "Other C"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「諾福克島位於邊個洲？」。",
     "explanation_en": "The correct answer is 'Norfolk'.",
     "difficulty": 2
@@ -25,18 +25,18 @@
     "question_zh": "「諾福克島位於邊個洲？」屬於邊種類型？",
     "question_en": "What type is 'Norfolk'?",
     "options_zh": [
-      "類型A",
       "類型B",
-      "類型C",
-      "大洋洲旅遊"
+      "大洋洲旅遊",
+      "類型A",
+      "類型C"
     ],
     "options_en": [
-      "Type A",
       "Type B",
-      "Type C",
-      "大洋洲旅遊"
+      "大洋洲旅遊",
+      "Type A",
+      "Type C"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「大洋洲旅遊」。",
     "explanation_en": "The correct answer is '大洋洲旅遊'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "「諾福克島位於邊個洲？」係咪好受歡迎？",
     "question_en": "Is 'Norfolk' popular?",
     "options_zh": [
-      "只喺特定地區流行",
-      "唔係，好冷門",
       "已經過氣",
-      "係，非常受歡迎"
+      "唔係，好冷門",
+      "係，非常受歡迎",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "Only popular locally",
-      "No, very niche",
       "Outdated",
-      "Yes, very popular"
+      "No, very niche",
+      "Yes, very popular",
+      "Only popular locally"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -68,15 +68,15 @@
     "question_en": "Where is 'Norfolk' from?",
     "options_zh": [
       "大洋洲",
-      "美洲",
+      "歐洲",
       "非洲",
-      "歐洲"
+      "美洲"
     ],
     "options_en": [
       "Oceania",
-      "Americas",
+      "Europe",
       "Africa",
-      "Europe"
+      "Americas"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「大洋洲」。",
@@ -88,18 +88,18 @@
     "question_zh": "「諾福克島位於邊個洲？」有咩特色？",
     "question_en": "What is special about 'Norfolk'?",
     "options_zh": [
-      "獨特風格",
-      "好普通",
       "已經過時",
-      "冇特色"
+      "好普通",
+      "冇特色",
+      "獨特風格"
     ],
     "options_en": [
-      "Unique style",
-      "Very ordinary",
       "Outdated",
-      "No special features"
+      "Very ordinary",
+      "No special features",
+      "Unique style"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「獨特風格」。",
     "explanation_en": "The correct answer is 'Unique style'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "你會唔會推薦「諾福克島位於邊個洲？」？",
     "question_en": "Would you recommend 'Norfolk'?",
     "options_zh": [
-      "睇情況",
-      "唔確定",
+      "會，非常推薦",
       "唔會",
-      "會，非常推薦"
+      "唔確定",
+      "睇情況"
     ],
     "options_en": [
-      "It depends",
-      "Not sure",
+      "Yes, highly recommended",
       "No",
-      "Yes, highly recommended"
+      "Not sure",
+      "It depends"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「會，非常推薦」。",
     "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 3
@@ -130,15 +130,15 @@
     "question_zh": "「諾福克島位於邊個洲？」適合邊種人？",
     "question_en": "Who is 'Norfolk' suitable for?",
     "options_zh": [
-      "只適合成人",
       "只適合兒童",
       "只適合專業人士",
+      "只適合成人",
       "所有人"
     ],
     "options_en": [
-      "Only adults",
       "Only children",
       "Only professionals",
+      "Only adults",
       "Everyone"
     ],
     "answer": 3,
@@ -151,18 +151,18 @@
     "question_zh": "「諾福克島位於邊個洲？」嘅質素如何？",
     "question_en": "What is the quality of 'Norfolk'?",
     "options_zh": [
-      "低質素",
-      "普通",
+      "高質素",
       "參差",
-      "高質素"
+      "低質素",
+      "普通"
     ],
     "options_en": [
-      "Low quality",
-      "Average",
+      "High quality",
       "Mixed",
-      "High quality"
+      "Low quality",
+      "Average"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「高質素」。",
     "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 3
@@ -172,16 +172,16 @@
     "question_zh": "你對「諾福克島位於邊個洲？」嘅整體印象係？",
     "question_en": "What is your overall impression of 'Norfolk'?",
     "options_zh": [
-      "冇印象",
+      "一般",
       "唔好",
       "非常好",
-      "一般"
+      "冇印象"
     ],
     "options_en": [
-      "No impression",
+      "Average",
       "Not good",
       "Very good",
-      "Average"
+      "No impression"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「非常好」。",
