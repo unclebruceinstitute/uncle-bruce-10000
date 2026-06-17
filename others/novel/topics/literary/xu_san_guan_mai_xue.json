@@ -25,18 +25,18 @@
     "question_zh": "以下邊本係《許三觀賣血記》？",
     "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
     "options_zh": [
+      "許三觀賣血記",
       "其他小說B",
-      "其他小說A",
       "其他小說C",
-      "許三觀賣血記"
+      "其他小說A"
     ],
     "options_en": [
+      "Chronicle of a Blood Merchant",
       "Other Novel B",
-      "Other Novel A",
       "Other Novel C",
-      "Chronicle of a Blood Merchant"
+      "Other Novel A"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「許三觀賣血記」。",
     "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
     "difficulty": 3
@@ -46,14 +46,518 @@
     "question_zh": "以下邊本係《許三觀賣血記》？",
     "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
     "options_zh": [
-      "其他小說B",
       "其他小說A",
+      "其他小說B",
+      "許三觀賣血記",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel B",
+      "Chronicle of a Blood Merchant",
+      "Other Novel C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「許三觀賣血記」。",
+    "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question_zh": "以下邊本係《許三觀賣血記》？",
+    "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "其他小說C",
+      "其他小說B",
+      "許三觀賣血記",
+      "其他小說A"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Novel B",
+      "Chronicle of a Blood Merchant",
+      "Other Novel A"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「許三觀賣血記」。",
+    "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
+    "difficulty": 2
+  },
+  {
+    "id": 5,
+    "question_zh": "《許三觀賣血記》嘅作者係邊個？",
+    "question_en": "Who wrote 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "其他作者B",
+      "余華",
+      "其他作者C",
+      "其他作者A"
+    ],
+    "options_en": [
+      "Author B",
+      "Yu Hua",
+      "Author C",
+      "Author A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「余華」。",
+    "explanation_en": "The correct answer is 'Yu Hua'.",
+    "difficulty": 3
+  },
+  {
+    "id": 6,
+    "question_zh": "《許三觀賣血記》嘅作者係邊個？",
+    "question_en": "Who wrote 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "余華",
+      "其他作者C",
+      "其他作者A",
+      "其他作者B"
+    ],
+    "options_en": [
+      "Yu Hua",
+      "Author C",
+      "Author A",
+      "Author B"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「余華」。",
+    "explanation_en": "The correct answer is 'Yu Hua'.",
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question_zh": "《許三觀賣血記》嘅作者係邊個？",
+    "question_en": "Who wrote 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "余華",
+      "其他作者A",
+      "其他作者B",
+      "其他作者C"
+    ],
+    "options_en": [
+      "Yu Hua",
+      "Author A",
+      "Author B",
+      "Author C"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「余華」。",
+    "explanation_en": "The correct answer is 'Yu Hua'.",
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_zh": "《許三觀賣血記》係邊年出版嘅？",
+    "question_en": "What year was 'Chronicle of a Blood Merchant' published?",
+    "options_zh": [
+      "1992年",
+      "1997年",
+      "1998年",
+      "1995年"
+    ],
+    "options_en": [
+      "1992",
+      "1997",
+      "1998",
+      "1995"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1995年」。",
+    "explanation_en": "The correct answer is '1995'.",
+    "difficulty": 3
+  },
+  {
+    "id": 9,
+    "question_zh": "《許三觀賣血記》係邊年出版嘅？",
+    "question_en": "What year was 'Chronicle of a Blood Merchant' published?",
+    "options_zh": [
+      "1998年",
+      "1995年",
+      "1992年",
+      "1993年"
+    ],
+    "options_en": [
+      "1998",
+      "1995",
+      "1992",
+      "1993"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「1995年」。",
+    "explanation_en": "The correct answer is '1995'.",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question_zh": "《許三觀賣血記》係邊年出版嘅？",
+    "question_en": "What year was 'Chronicle of a Blood Merchant' published?",
+    "options_zh": [
+      "1997年",
+      "1998年",
+      "1990年",
+      "1995年"
+    ],
+    "options_en": [
+      "1997",
+      "1998",
+      "1990",
+      "1995"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1995年」。",
+    "explanation_en": "The correct answer is '1995'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《許三觀賣血記》係邊國作品？",
+    "question_en": "Which country is 'Chronicle of a Blood Merchant' from?",
+    "options_zh": [
+      "韓國",
+      "法國",
+      "中國",
+      "德國"
+    ],
+    "options_en": [
+      "South Korea",
+      "France",
+      "China",
+      "Germany"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《許三觀賣血記》係邊國作品？",
+    "question_en": "Which country is 'Chronicle of a Blood Merchant' from?",
+    "options_zh": [
+      "中國",
+      "德國",
+      "法國",
+      "韓國"
+    ],
+    "options_en": [
+      "China",
+      "Germany",
+      "France",
+      "South Korea"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_zh": "《許三觀賣血記》係邊國作品？",
+    "question_en": "Which country is 'Chronicle of a Blood Merchant' from?",
+    "options_zh": [
+      "法國",
+      "德國",
+      "韓國",
+      "中國"
+    ],
+    "options_en": [
+      "France",
+      "Germany",
+      "South Korea",
+      "China"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_zh": "《許三觀賣血記》主要講咩？",
+    "question_en": "What is 'Chronicle of a Blood Merchant' mainly about?",
+    "options_zh": [
+      "體育競技",
+      "現實生活同文學表達",
+      "科幻太空",
+      "財經商戰"
+    ],
+    "options_en": [
+      "Sports",
+      "Real life and literary",
+      "Sci-fi",
+      "Business"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「現實生活同文學表達」。",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《許三觀賣血記》主要講咩？",
+    "question_en": "What is 'Chronicle of a Blood Merchant' mainly about?",
+    "options_zh": [
+      "財經商戰",
+      "體育競技",
+      "現實生活同文學表達",
+      "科幻太空"
+    ],
+    "options_en": [
+      "Business",
+      "Sports",
+      "Real life and literary",
+      "Sci-fi"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「現實生活同文學表達」。",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "《許三觀賣血記》主要講咩？",
+    "question_en": "What is 'Chronicle of a Blood Merchant' mainly about?",
+    "options_zh": [
+      "體育競技",
+      "現實生活同文學表達",
+      "科幻太空",
+      "財經商戰"
+    ],
+    "options_en": [
+      "Sports",
+      "Real life and literary",
+      "Sci-fi",
+      "Business"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「現實生活同文學表達」。",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《許三觀賣血記》入面有咩角色？",
+    "question_en": "What characters are in 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "主要角色",
+      "外星人",
+      "機械人",
+      "動物"
+    ],
+    "options_en": [
+      "Main characters",
+      "Aliens",
+      "Robots",
+      "Animals"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 3
+  },
+  {
+    "id": 18,
+    "question_zh": "《許三觀賣血記》入面有咩角色？",
+    "question_en": "What characters are in 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "主要角色",
+      "外星人",
+      "機械人",
+      "動物"
+    ],
+    "options_en": [
+      "Main characters",
+      "Aliens",
+      "Robots",
+      "Animals"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "《許三觀賣血記》入面有咩角色？",
+    "question_en": "What characters are in 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "外星人",
+      "主要角色",
+      "機械人",
+      "動物"
+    ],
+    "options_en": [
+      "Aliens",
+      "Main characters",
+      "Robots",
+      "Animals"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question_zh": "《許三觀賣血記》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Chronicle of a Blood Merchant' set?",
+    "options_zh": [
+      "未來太空",
+      "虛擬世界",
+      "中國/亞洲",
+      "歐洲中世紀"
+    ],
+    "options_en": [
+      "Future space",
+      "Virtual world",
+      "China/Asia",
+      "Medieval Europe"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 3
+  },
+  {
+    "id": 21,
+    "question_zh": "《許三觀賣血記》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Chronicle of a Blood Merchant' set?",
+    "options_zh": [
+      "歐洲中世紀",
+      "虛擬世界",
+      "未來太空",
+      "中國/亞洲"
+    ],
+    "options_en": [
+      "Medieval Europe",
+      "Virtual world",
+      "Future space",
+      "China/Asia"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question_zh": "《許三觀賣血記》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Chronicle of a Blood Merchant' set?",
+    "options_zh": [
+      "虛擬世界",
+      "中國/亞洲",
+      "未來太空",
+      "歐洲中世紀"
+    ],
+    "options_en": [
+      "Virtual world",
+      "China/Asia",
+      "Future space",
+      "Medieval Europe"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question_zh": "《許三觀賣血記》係咪好受歡迎？",
+    "question_en": "Is 'Chronicle of a Blood Merchant' popular?",
+    "options_zh": [
+      "係，非常受歡迎",
+      "只喺特定地區流行",
+      "唔係，好冷門",
+      "已經過氣"
+    ],
+    "options_en": [
+      "Yes, very popular",
+      "Only popular locally",
+      "No, very niche",
+      "Outdated"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 3
+  },
+  {
+    "id": 24,
+    "question_zh": "《許三觀賣血記》係咪好受歡迎？",
+    "question_en": "Is 'Chronicle of a Blood Merchant' popular?",
+    "options_zh": [
+      "已經過氣",
+      "係，非常受歡迎",
+      "只喺特定地區流行",
+      "唔係，好冷門"
+    ],
+    "options_en": [
+      "Outdated",
+      "Yes, very popular",
+      "Only popular locally",
+      "No, very niche"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question_zh": "《許三觀賣血記》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "法國人",
+      "韓國人",
+      "德國人",
+      "中國人"
+    ],
+    "options_en": [
+      "French",
+      "Korean",
+      "German",
+      "Chinese"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question_zh": "以下邊本係《許三觀賣血記》？",
+    "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "其他小說A",
+      "許三觀賣血記",
+      "其他小說C",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Chronicle of a Blood Merchant",
+      "Other Novel C",
+      "Other Novel B"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「許三觀賣血記」。",
+    "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
+    "difficulty": 3
+  },
+  {
+    "id": 27,
+    "question_zh": "以下邊本係《許三觀賣血記》？",
+    "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說B",
       "其他小說C",
       "許三觀賣血記"
     ],
     "options_en": [
-      "Other Novel B",
       "Other Novel A",
+      "Other Novel B",
       "Other Novel C",
       "Chronicle of a Blood Merchant"
     ],
@@ -63,7 +567,1057 @@
     "difficulty": 1
   },
   {
-    "id": 4,
+    "id": 28,
+    "question_zh": "以下邊本係《許三觀賣血記》？",
+    "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說B",
+      "許三觀賣血記",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel B",
+      "Chronicle of a Blood Merchant",
+      "Other Novel C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「許三觀賣血記」。",
+    "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "以下邊本係《許三觀賣血記》？",
+    "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "其他小說B",
+      "其他小說A",
+      "許三觀賣血記",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Other Novel A",
+      "Chronicle of a Blood Merchant",
+      "Other Novel C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「許三觀賣血記」。",
+    "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
+    "difficulty": 3
+  },
+  {
+    "id": 30,
+    "question_zh": "《許三觀賣血記》嘅作者係邊個？",
+    "question_en": "Who wrote 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "其他作者A",
+      "其他作者C",
+      "其他作者B",
+      "余華"
+    ],
+    "options_en": [
+      "Author A",
+      "Author C",
+      "Author B",
+      "Yu Hua"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「余華」。",
+    "explanation_en": "The correct answer is 'Yu Hua'.",
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question_zh": "《許三觀賣血記》嘅作者係邊個？",
+    "question_en": "Who wrote 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "其他作者A",
+      "余華",
+      "其他作者C",
+      "其他作者B"
+    ],
+    "options_en": [
+      "Author A",
+      "Yu Hua",
+      "Author C",
+      "Author B"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「余華」。",
+    "explanation_en": "The correct answer is 'Yu Hua'.",
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question_zh": "《許三觀賣血記》嘅作者係邊個？",
+    "question_en": "Who wrote 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "其他作者C",
+      "其他作者B",
+      "余華",
+      "其他作者A"
+    ],
+    "options_en": [
+      "Author C",
+      "Author B",
+      "Yu Hua",
+      "Author A"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「余華」。",
+    "explanation_en": "The correct answer is 'Yu Hua'.",
+    "difficulty": 3
+  },
+  {
+    "id": 33,
+    "question_zh": "《許三觀賣血記》係邊年出版嘅？",
+    "question_en": "What year was 'Chronicle of a Blood Merchant' published?",
+    "options_zh": [
+      "1992年",
+      "1998年",
+      "1993年",
+      "1995年"
+    ],
+    "options_en": [
+      "1992",
+      "1998",
+      "1993",
+      "1995"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1995年」。",
+    "explanation_en": "The correct answer is '1995'.",
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question_zh": "《許三觀賣血記》係邊年出版嘅？",
+    "question_en": "What year was 'Chronicle of a Blood Merchant' published?",
+    "options_zh": [
+      "1998年",
+      "1990年",
+      "1995年",
+      "1997年"
+    ],
+    "options_en": [
+      "1998",
+      "1990",
+      "1995",
+      "1997"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「1995年」。",
+    "explanation_en": "The correct answer is '1995'.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question_zh": "《許三觀賣血記》係邊年出版嘅？",
+    "question_en": "What year was 'Chronicle of a Blood Merchant' published?",
+    "options_zh": [
+      "1997年",
+      "1998年",
+      "1995年",
+      "1990年"
+    ],
+    "options_en": [
+      "1997",
+      "1998",
+      "1995",
+      "1990"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「1995年」。",
+    "explanation_en": "The correct answer is '1995'.",
+    "difficulty": 3
+  },
+  {
+    "id": 36,
+    "question_zh": "《許三觀賣血記》係邊國作品？",
+    "question_en": "Which country is 'Chronicle of a Blood Merchant' from?",
+    "options_zh": [
+      "中國",
+      "德國",
+      "法國",
+      "韓國"
+    ],
+    "options_en": [
+      "China",
+      "Germany",
+      "France",
+      "South Korea"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question_zh": "《許三觀賣血記》係邊國作品？",
+    "question_en": "Which country is 'Chronicle of a Blood Merchant' from?",
+    "options_zh": [
+      "中國",
+      "德國",
+      "法國",
+      "韓國"
+    ],
+    "options_en": [
+      "China",
+      "Germany",
+      "France",
+      "South Korea"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "《許三觀賣血記》係邊國作品？",
+    "question_en": "Which country is 'Chronicle of a Blood Merchant' from?",
+    "options_zh": [
+      "中國",
+      "法國",
+      "韓國",
+      "德國"
+    ],
+    "options_en": [
+      "China",
+      "France",
+      "South Korea",
+      "Germany"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 3
+  },
+  {
+    "id": 39,
+    "question_zh": "《許三觀賣血記》主要講咩？",
+    "question_en": "What is 'Chronicle of a Blood Merchant' mainly about?",
+    "options_zh": [
+      "科幻太空",
+      "現實生活同文學表達",
+      "財經商戰",
+      "體育競技"
+    ],
+    "options_en": [
+      "Sci-fi",
+      "Real life and literary",
+      "Business",
+      "Sports"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「現實生活同文學表達」。",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question_zh": "《許三觀賣血記》主要講咩？",
+    "question_en": "What is 'Chronicle of a Blood Merchant' mainly about?",
+    "options_zh": [
+      "現實生活同文學表達",
+      "體育競技",
+      "財經商戰",
+      "科幻太空"
+    ],
+    "options_en": [
+      "Real life and literary",
+      "Sports",
+      "Business",
+      "Sci-fi"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「現實生活同文學表達」。",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question_zh": "《許三觀賣血記》主要講咩？",
+    "question_en": "What is 'Chronicle of a Blood Merchant' mainly about?",
+    "options_zh": [
+      "財經商戰",
+      "科幻太空",
+      "現實生活同文學表達",
+      "體育競技"
+    ],
+    "options_en": [
+      "Business",
+      "Sci-fi",
+      "Real life and literary",
+      "Sports"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「現實生活同文學表達」。",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
+    "difficulty": 3
+  },
+  {
+    "id": 42,
+    "question_zh": "《許三觀賣血記》入面有咩角色？",
+    "question_en": "What characters are in 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "機械人",
+      "外星人",
+      "主要角色",
+      "動物"
+    ],
+    "options_en": [
+      "Robots",
+      "Aliens",
+      "Main characters",
+      "Animals"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question_zh": "《許三觀賣血記》入面有咩角色？",
+    "question_en": "What characters are in 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "動物",
+      "外星人",
+      "主要角色",
+      "機械人"
+    ],
+    "options_en": [
+      "Animals",
+      "Aliens",
+      "Main characters",
+      "Robots"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 2
+  },
+  {
+    "id": 44,
+    "question_zh": "《許三觀賣血記》入面有咩角色？",
+    "question_en": "What characters are in 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "機械人",
+      "動物",
+      "外星人",
+      "主要角色"
+    ],
+    "options_en": [
+      "Robots",
+      "Animals",
+      "Aliens",
+      "Main characters"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 3
+  },
+  {
+    "id": 45,
+    "question_zh": "《許三觀賣血記》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Chronicle of a Blood Merchant' set?",
+    "options_zh": [
+      "虛擬世界",
+      "未來太空",
+      "歐洲中世紀",
+      "中國/亞洲"
+    ],
+    "options_en": [
+      "Virtual world",
+      "Future space",
+      "Medieval Europe",
+      "China/Asia"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question_zh": "《許三觀賣血記》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Chronicle of a Blood Merchant' set?",
+    "options_zh": [
+      "虛擬世界",
+      "未來太空",
+      "中國/亞洲",
+      "歐洲中世紀"
+    ],
+    "options_en": [
+      "Virtual world",
+      "Future space",
+      "China/Asia",
+      "Medieval Europe"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 2
+  },
+  {
+    "id": 47,
+    "question_zh": "《許三觀賣血記》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Chronicle of a Blood Merchant' set?",
+    "options_zh": [
+      "歐洲中世紀",
+      "虛擬世界",
+      "未來太空",
+      "中國/亞洲"
+    ],
+    "options_en": [
+      "Medieval Europe",
+      "Virtual world",
+      "Future space",
+      "China/Asia"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 3
+  },
+  {
+    "id": 48,
+    "question_zh": "《許三觀賣血記》係咪好受歡迎？",
+    "question_en": "Is 'Chronicle of a Blood Merchant' popular?",
+    "options_zh": [
+      "唔係，好冷門",
+      "只喺特定地區流行",
+      "已經過氣",
+      "係，非常受歡迎"
+    ],
+    "options_en": [
+      "No, very niche",
+      "Only popular locally",
+      "Outdated",
+      "Yes, very popular"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question_zh": "《許三觀賣血記》係咪好受歡迎？",
+    "question_en": "Is 'Chronicle of a Blood Merchant' popular?",
+    "options_zh": [
+      "唔係，好冷門",
+      "係，非常受歡迎",
+      "已經過氣",
+      "只喺特定地區流行"
+    ],
+    "options_en": [
+      "No, very niche",
+      "Yes, very popular",
+      "Outdated",
+      "Only popular locally"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 2
+  },
+  {
+    "id": 50,
+    "question_zh": "《許三觀賣血記》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "法國人",
+      "韓國人",
+      "德國人",
+      "中國人"
+    ],
+    "options_en": [
+      "French",
+      "Korean",
+      "German",
+      "Chinese"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 3
+  },
+  {
+    "id": 51,
+    "question_zh": "以下邊本係《許三觀賣血記》？",
+    "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "許三觀賣血記",
+      "其他小說B",
+      "其他小說A",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Chronicle of a Blood Merchant",
+      "Other Novel B",
+      "Other Novel A",
+      "Other Novel C"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「許三觀賣血記」。",
+    "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "question_zh": "以下邊本係《許三觀賣血記》？",
+    "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說B",
+      "許三觀賣血記",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel B",
+      "Chronicle of a Blood Merchant",
+      "Other Novel C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「許三觀賣血記」。",
+    "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
+    "difficulty": 2
+  },
+  {
+    "id": 53,
+    "question_zh": "以下邊本係《許三觀賣血記》？",
+    "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "其他小說C",
+      "其他小說A",
+      "許三觀賣血記",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Novel A",
+      "Chronicle of a Blood Merchant",
+      "Other Novel B"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「許三觀賣血記」。",
+    "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
+    "difficulty": 3
+  },
+  {
+    "id": 54,
+    "question_zh": "以下邊本係《許三觀賣血記》？",
+    "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "其他小說C",
+      "其他小說B",
+      "其他小說A",
+      "許三觀賣血記"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Novel B",
+      "Other Novel A",
+      "Chronicle of a Blood Merchant"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「許三觀賣血記」。",
+    "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
+    "difficulty": 1
+  },
+  {
+    "id": 55,
+    "question_zh": "《許三觀賣血記》嘅作者係邊個？",
+    "question_en": "Who wrote 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "余華",
+      "其他作者B",
+      "其他作者A",
+      "其他作者C"
+    ],
+    "options_en": [
+      "Yu Hua",
+      "Author B",
+      "Author A",
+      "Author C"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「余華」。",
+    "explanation_en": "The correct answer is 'Yu Hua'.",
+    "difficulty": 2
+  },
+  {
+    "id": 56,
+    "question_zh": "《許三觀賣血記》嘅作者係邊個？",
+    "question_en": "Who wrote 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "其他作者B",
+      "其他作者C",
+      "其他作者A",
+      "余華"
+    ],
+    "options_en": [
+      "Author B",
+      "Author C",
+      "Author A",
+      "Yu Hua"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「余華」。",
+    "explanation_en": "The correct answer is 'Yu Hua'.",
+    "difficulty": 3
+  },
+  {
+    "id": 57,
+    "question_zh": "《許三觀賣血記》嘅作者係邊個？",
+    "question_en": "Who wrote 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "其他作者C",
+      "余華",
+      "其他作者B",
+      "其他作者A"
+    ],
+    "options_en": [
+      "Author C",
+      "Yu Hua",
+      "Author B",
+      "Author A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「余華」。",
+    "explanation_en": "The correct answer is 'Yu Hua'.",
+    "difficulty": 1
+  },
+  {
+    "id": 58,
+    "question_zh": "《許三觀賣血記》係邊年出版嘅？",
+    "question_en": "What year was 'Chronicle of a Blood Merchant' published?",
+    "options_zh": [
+      "1992年",
+      "1998年",
+      "1993年",
+      "1995年"
+    ],
+    "options_en": [
+      "1992",
+      "1998",
+      "1993",
+      "1995"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1995年」。",
+    "explanation_en": "The correct answer is '1995'.",
+    "difficulty": 2
+  },
+  {
+    "id": 59,
+    "question_zh": "《許三觀賣血記》係邊年出版嘅？",
+    "question_en": "What year was 'Chronicle of a Blood Merchant' published?",
+    "options_zh": [
+      "1998年",
+      "1992年",
+      "2000年",
+      "1995年"
+    ],
+    "options_en": [
+      "1998",
+      "1992",
+      "2000",
+      "1995"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1995年」。",
+    "explanation_en": "The correct answer is '1995'.",
+    "difficulty": 3
+  },
+  {
+    "id": 60,
+    "question_zh": "《許三觀賣血記》係邊年出版嘅？",
+    "question_en": "What year was 'Chronicle of a Blood Merchant' published?",
+    "options_zh": [
+      "2000年",
+      "1993年",
+      "1992年",
+      "1995年"
+    ],
+    "options_en": [
+      "2000",
+      "1993",
+      "1992",
+      "1995"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1995年」。",
+    "explanation_en": "The correct answer is '1995'.",
+    "difficulty": 1
+  },
+  {
+    "id": 61,
+    "question_zh": "《許三觀賣血記》係邊國作品？",
+    "question_en": "Which country is 'Chronicle of a Blood Merchant' from?",
+    "options_zh": [
+      "韓國",
+      "德國",
+      "法國",
+      "中國"
+    ],
+    "options_en": [
+      "South Korea",
+      "Germany",
+      "France",
+      "China"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 2
+  },
+  {
+    "id": 62,
+    "question_zh": "《許三觀賣血記》係邊國作品？",
+    "question_en": "Which country is 'Chronicle of a Blood Merchant' from?",
+    "options_zh": [
+      "法國",
+      "中國",
+      "德國",
+      "韓國"
+    ],
+    "options_en": [
+      "France",
+      "China",
+      "Germany",
+      "South Korea"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 3
+  },
+  {
+    "id": 63,
+    "question_zh": "《許三觀賣血記》係邊國作品？",
+    "question_en": "Which country is 'Chronicle of a Blood Merchant' from?",
+    "options_zh": [
+      "法國",
+      "德國",
+      "韓國",
+      "中國"
+    ],
+    "options_en": [
+      "France",
+      "Germany",
+      "South Korea",
+      "China"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 1
+  },
+  {
+    "id": 64,
+    "question_zh": "《許三觀賣血記》主要講咩？",
+    "question_en": "What is 'Chronicle of a Blood Merchant' mainly about?",
+    "options_zh": [
+      "科幻太空",
+      "現實生活同文學表達",
+      "財經商戰",
+      "體育競技"
+    ],
+    "options_en": [
+      "Sci-fi",
+      "Real life and literary",
+      "Business",
+      "Sports"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「現實生活同文學表達」。",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
+    "difficulty": 2
+  },
+  {
+    "id": 65,
+    "question_zh": "《許三觀賣血記》主要講咩？",
+    "question_en": "What is 'Chronicle of a Blood Merchant' mainly about?",
+    "options_zh": [
+      "財經商戰",
+      "體育競技",
+      "現實生活同文學表達",
+      "科幻太空"
+    ],
+    "options_en": [
+      "Business",
+      "Sports",
+      "Real life and literary",
+      "Sci-fi"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「現實生活同文學表達」。",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
+    "difficulty": 3
+  },
+  {
+    "id": 66,
+    "question_zh": "《許三觀賣血記》主要講咩？",
+    "question_en": "What is 'Chronicle of a Blood Merchant' mainly about?",
+    "options_zh": [
+      "財經商戰",
+      "科幻太空",
+      "現實生活同文學表達",
+      "體育競技"
+    ],
+    "options_en": [
+      "Business",
+      "Sci-fi",
+      "Real life and literary",
+      "Sports"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「現實生活同文學表達」。",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
+    "difficulty": 1
+  },
+  {
+    "id": 67,
+    "question_zh": "《許三觀賣血記》入面有咩角色？",
+    "question_en": "What characters are in 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "機械人",
+      "外星人",
+      "動物",
+      "主要角色"
+    ],
+    "options_en": [
+      "Robots",
+      "Aliens",
+      "Animals",
+      "Main characters"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 2
+  },
+  {
+    "id": 68,
+    "question_zh": "《許三觀賣血記》入面有咩角色？",
+    "question_en": "What characters are in 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "主要角色",
+      "動物",
+      "機械人",
+      "外星人"
+    ],
+    "options_en": [
+      "Main characters",
+      "Animals",
+      "Robots",
+      "Aliens"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 3
+  },
+  {
+    "id": 69,
+    "question_zh": "《許三觀賣血記》入面有咩角色？",
+    "question_en": "What characters are in 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "外星人",
+      "動物",
+      "機械人",
+      "主要角色"
+    ],
+    "options_en": [
+      "Aliens",
+      "Animals",
+      "Robots",
+      "Main characters"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 1
+  },
+  {
+    "id": 70,
+    "question_zh": "《許三觀賣血記》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Chronicle of a Blood Merchant' set?",
+    "options_zh": [
+      "歐洲中世紀",
+      "虛擬世界",
+      "未來太空",
+      "中國/亞洲"
+    ],
+    "options_en": [
+      "Medieval Europe",
+      "Virtual world",
+      "Future space",
+      "China/Asia"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 2
+  },
+  {
+    "id": 71,
+    "question_zh": "《許三觀賣血記》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Chronicle of a Blood Merchant' set?",
+    "options_zh": [
+      "未來太空",
+      "虛擬世界",
+      "歐洲中世紀",
+      "中國/亞洲"
+    ],
+    "options_en": [
+      "Future space",
+      "Virtual world",
+      "Medieval Europe",
+      "China/Asia"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 3
+  },
+  {
+    "id": 72,
+    "question_zh": "《許三觀賣血記》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Chronicle of a Blood Merchant' set?",
+    "options_zh": [
+      "虛擬世界",
+      "未來太空",
+      "中國/亞洲",
+      "歐洲中世紀"
+    ],
+    "options_en": [
+      "Virtual world",
+      "Future space",
+      "China/Asia",
+      "Medieval Europe"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 1
+  },
+  {
+    "id": 73,
+    "question_zh": "《許三觀賣血記》係咪好受歡迎？",
+    "question_en": "Is 'Chronicle of a Blood Merchant' popular?",
+    "options_zh": [
+      "唔係，好冷門",
+      "已經過氣",
+      "係，非常受歡迎",
+      "只喺特定地區流行"
+    ],
+    "options_en": [
+      "No, very niche",
+      "Outdated",
+      "Yes, very popular",
+      "Only popular locally"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 2
+  },
+  {
+    "id": 74,
+    "question_zh": "《許三觀賣血記》係咪好受歡迎？",
+    "question_en": "Is 'Chronicle of a Blood Merchant' popular?",
+    "options_zh": [
+      "係，非常受歡迎",
+      "只喺特定地區流行",
+      "已經過氣",
+      "唔係，好冷門"
+    ],
+    "options_en": [
+      "Yes, very popular",
+      "Only popular locally",
+      "Outdated",
+      "No, very niche"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 3
+  },
+  {
+    "id": 75,
+    "question_zh": "《許三觀賣血記》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "韓國人",
+      "德國人",
+      "法國人",
+      "中國人"
+    ],
+    "options_en": [
+      "Korean",
+      "German",
+      "French",
+      "Chinese"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 1
+  },
+  {
+    "id": 76,
+    "question_zh": "以下邊本係《許三觀賣血記》？",
+    "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "其他小說C",
+      "其他小說A",
+      "其他小說B",
+      "許三觀賣血記"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Novel A",
+      "Other Novel B",
+      "Chronicle of a Blood Merchant"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「許三觀賣血記」。",
+    "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
+    "difficulty": 2
+  },
+  {
+    "id": 77,
+    "question_zh": "以下邊本係《許三觀賣血記》？",
+    "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
+    "options_zh": [
+      "許三觀賣血記",
+      "其他小說A",
+      "其他小說B",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Chronicle of a Blood Merchant",
+      "Other Novel A",
+      "Other Novel B",
+      "Other Novel C"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「許三觀賣血記」。",
+    "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
+    "difficulty": 3
+  },
+  {
+    "id": 78,
     "question_zh": "以下邊本係《許三觀賣血記》？",
     "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
     "options_zh": [
@@ -81,1560 +1635,6 @@
     "answer": 2,
     "explanation_zh": "正確答案係「許三觀賣血記」。",
     "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
-    "difficulty": 2
-  },
-  {
-    "id": 5,
-    "question_zh": "《許三觀賣血記》嘅作者係邊個？",
-    "question_en": "Who wrote 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "其他作者A",
-      "余華",
-      "其他作者C",
-      "其他作者B"
-    ],
-    "options_en": [
-      "Author A",
-      "Yu Hua",
-      "Author C",
-      "Author B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「余華」。",
-    "explanation_en": "The correct answer is 'Yu Hua'.",
-    "difficulty": 3
-  },
-  {
-    "id": 6,
-    "question_zh": "《許三觀賣血記》嘅作者係邊個？",
-    "question_en": "Who wrote 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "余華",
-      "其他作者A",
-      "其他作者B",
-      "其他作者C"
-    ],
-    "options_en": [
-      "Yu Hua",
-      "Author A",
-      "Author B",
-      "Author C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「余華」。",
-    "explanation_en": "The correct answer is 'Yu Hua'.",
-    "difficulty": 1
-  },
-  {
-    "id": 7,
-    "question_zh": "《許三觀賣血記》嘅作者係邊個？",
-    "question_en": "Who wrote 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "其他作者A",
-      "其他作者B",
-      "余華",
-      "其他作者C"
-    ],
-    "options_en": [
-      "Author A",
-      "Author B",
-      "Yu Hua",
-      "Author C"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「余華」。",
-    "explanation_en": "The correct answer is 'Yu Hua'.",
-    "difficulty": 2
-  },
-  {
-    "id": 8,
-    "question_zh": "《許三觀賣血記》係邊年出版嘅？",
-    "question_en": "What year was 'Chronicle of a Blood Merchant' published?",
-    "options_zh": [
-      "1998年",
-      "1995年",
-      "1992年",
-      "1997年"
-    ],
-    "options_en": [
-      "1998",
-      "1995",
-      "1992",
-      "1997"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「1995年」。",
-    "explanation_en": "The correct answer is '1995'.",
-    "difficulty": 3
-  },
-  {
-    "id": 9,
-    "question_zh": "《許三觀賣血記》係邊年出版嘅？",
-    "question_en": "What year was 'Chronicle of a Blood Merchant' published?",
-    "options_zh": [
-      "1992年",
-      "1995年",
-      "1998年",
-      "1993年"
-    ],
-    "options_en": [
-      "1992",
-      "1995",
-      "1998",
-      "1993"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「1995年」。",
-    "explanation_en": "The correct answer is '1995'.",
-    "difficulty": 1
-  },
-  {
-    "id": 10,
-    "question_zh": "《許三觀賣血記》係邊年出版嘅？",
-    "question_en": "What year was 'Chronicle of a Blood Merchant' published?",
-    "options_zh": [
-      "1990年",
-      "1995年",
-      "1992年",
-      "1997年"
-    ],
-    "options_en": [
-      "1990",
-      "1995",
-      "1992",
-      "1997"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「1995年」。",
-    "explanation_en": "The correct answer is '1995'.",
-    "difficulty": 2
-  },
-  {
-    "id": 11,
-    "question_zh": "《許三觀賣血記》屬於邊種類型？",
-    "question_en": "What genre is 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "寫實與文學類",
-      "其他類型C",
-      "其他類型B",
-      "其他類型A"
-    ],
-    "options_en": [
-      "Realistic & Literary",
-      "Genre C",
-      "Genre B",
-      "Genre A"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 3
-  },
-  {
-    "id": 12,
-    "question_zh": "《許三觀賣血記》屬於邊種類型？",
-    "question_en": "What genre is 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "寫實與文學類",
-      "其他類型B",
-      "其他類型A",
-      "其他類型C"
-    ],
-    "options_en": [
-      "Realistic & Literary",
-      "Genre B",
-      "Genre A",
-      "Genre C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 1
-  },
-  {
-    "id": 13,
-    "question_zh": "《許三觀賣血記》屬於邊種類型？",
-    "question_en": "What genre is 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "其他類型C",
-      "寫實與文學類",
-      "其他類型A",
-      "其他類型B"
-    ],
-    "options_en": [
-      "Genre C",
-      "Realistic & Literary",
-      "Genre A",
-      "Genre B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 2
-  },
-  {
-    "id": 14,
-    "question_zh": "《許三觀賣血記》主要講咩？",
-    "question_en": "What is 'Chronicle of a Blood Merchant' mainly about?",
-    "options_zh": [
-      "財經商戰",
-      "科幻太空",
-      "現實生活同文學表達",
-      "體育競技"
-    ],
-    "options_en": [
-      "Business",
-      "Sci-fi space",
-      "Real life and literary expression",
-      "Sports"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
-    "difficulty": 3
-  },
-  {
-    "id": 15,
-    "question_zh": "《許三觀賣血記》主要講咩？",
-    "question_en": "What is 'Chronicle of a Blood Merchant' mainly about?",
-    "options_zh": [
-      "財經商戰",
-      "現實生活同文學表達",
-      "科幻太空",
-      "體育競技"
-    ],
-    "options_en": [
-      "Business",
-      "Real life and literary expression",
-      "Sci-fi space",
-      "Sports"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
-    "difficulty": 1
-  },
-  {
-    "id": 16,
-    "question_zh": "《許三觀賣血記》主要講咩？",
-    "question_en": "What is 'Chronicle of a Blood Merchant' mainly about?",
-    "options_zh": [
-      "財經商戰",
-      "體育競技",
-      "科幻太空",
-      "現實生活同文學表達"
-    ],
-    "options_en": [
-      "Business",
-      "Sports",
-      "Sci-fi space",
-      "Real life and literary expression"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
-    "difficulty": 2
-  },
-  {
-    "id": 17,
-    "question_zh": "《許三觀賣血記》入面有咩角色？",
-    "question_en": "What characters are in 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "外星人",
-      "主要角色",
-      "機械人",
-      "動物"
-    ],
-    "options_en": [
-      "Aliens",
-      "Main characters",
-      "Robots",
-      "Animals"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 3
-  },
-  {
-    "id": 18,
-    "question_zh": "《許三觀賣血記》入面有咩角色？",
-    "question_en": "What characters are in 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "主要角色",
-      "機械人",
-      "動物",
-      "外星人"
-    ],
-    "options_en": [
-      "Main characters",
-      "Robots",
-      "Animals",
-      "Aliens"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 1
-  },
-  {
-    "id": 19,
-    "question_zh": "《許三觀賣血記》入面有咩角色？",
-    "question_en": "What characters are in 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "機械人",
-      "動物",
-      "主要角色",
-      "外星人"
-    ],
-    "options_en": [
-      "Robots",
-      "Animals",
-      "Main characters",
-      "Aliens"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 2
-  },
-  {
-    "id": 20,
-    "question_zh": "《許三觀賣血記》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Chronicle of a Blood Merchant' set?",
-    "options_zh": [
-      "中國/亞洲",
-      "歐洲中世紀",
-      "虛擬世界",
-      "未來太空"
-    ],
-    "options_en": [
-      "China/Asia",
-      "Medieval Europe",
-      "Virtual world",
-      "Future space"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 3
-  },
-  {
-    "id": 21,
-    "question_zh": "《許三觀賣血記》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Chronicle of a Blood Merchant' set?",
-    "options_zh": [
-      "虛擬世界",
-      "歐洲中世紀",
-      "中國/亞洲",
-      "未來太空"
-    ],
-    "options_en": [
-      "Virtual world",
-      "Medieval Europe",
-      "China/Asia",
-      "Future space"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 1
-  },
-  {
-    "id": 22,
-    "question_zh": "《許三觀賣血記》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Chronicle of a Blood Merchant' set?",
-    "options_zh": [
-      "中國/亞洲",
-      "虛擬世界",
-      "歐洲中世紀",
-      "未來太空"
-    ],
-    "options_en": [
-      "China/Asia",
-      "Virtual world",
-      "Medieval Europe",
-      "Future space"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 2
-  },
-  {
-    "id": 23,
-    "question_zh": "《許三觀賣血記》係咪好受歡迎？",
-    "question_en": "Is 'Chronicle of a Blood Merchant' popular?",
-    "options_zh": [
-      "只喺特定地區流行",
-      "已經過氣",
-      "唔係，好冷門",
-      "係，非常受歡迎"
-    ],
-    "options_en": [
-      "Only popular locally",
-      "Outdated",
-      "No, very niche",
-      "Yes, very popular"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 3
-  },
-  {
-    "id": 24,
-    "question_zh": "《許三觀賣血記》係咪好受歡迎？",
-    "question_en": "Is 'Chronicle of a Blood Merchant' popular?",
-    "options_zh": [
-      "只喺特定地區流行",
-      "唔係，好冷門",
-      "係，非常受歡迎",
-      "已經過氣"
-    ],
-    "options_en": [
-      "Only popular locally",
-      "No, very niche",
-      "Yes, very popular",
-      "Outdated"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 1
-  },
-  {
-    "id": 25,
-    "question_zh": "《許三觀賣血記》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Chronicle of a Blood Merchant' belong to?",
-    "options_zh": [
-      "科幻小說",
-      "寫實與文學類",
-      "兒童文學",
-      "恐怖小說"
-    ],
-    "options_en": [
-      "Sci-fi",
-      "Realistic & Literary",
-      "Children's literature",
-      "Horror"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 2
-  },
-  {
-    "id": 26,
-    "question_zh": "以下邊本係《許三觀賣血記》？",
-    "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "其他小說C",
-      "其他小說A",
-      "其他小說B",
-      "許三觀賣血記"
-    ],
-    "options_en": [
-      "Other Novel C",
-      "Other Novel A",
-      "Other Novel B",
-      "Chronicle of a Blood Merchant"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「許三觀賣血記」。",
-    "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
-    "difficulty": 3
-  },
-  {
-    "id": 27,
-    "question_zh": "以下邊本係《許三觀賣血記》？",
-    "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "許三觀賣血記",
-      "其他小說B",
-      "其他小說A",
-      "其他小說C"
-    ],
-    "options_en": [
-      "Chronicle of a Blood Merchant",
-      "Other Novel B",
-      "Other Novel A",
-      "Other Novel C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「許三觀賣血記」。",
-    "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
-    "difficulty": 1
-  },
-  {
-    "id": 28,
-    "question_zh": "以下邊本係《許三觀賣血記》？",
-    "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "許三觀賣血記",
-      "其他小說B",
-      "其他小說A",
-      "其他小說C"
-    ],
-    "options_en": [
-      "Chronicle of a Blood Merchant",
-      "Other Novel B",
-      "Other Novel A",
-      "Other Novel C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「許三觀賣血記」。",
-    "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
-    "difficulty": 2
-  },
-  {
-    "id": 29,
-    "question_zh": "以下邊本係《許三觀賣血記》？",
-    "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "其他小說A",
-      "其他小說C",
-      "許三觀賣血記",
-      "其他小說B"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "Other Novel C",
-      "Chronicle of a Blood Merchant",
-      "Other Novel B"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「許三觀賣血記」。",
-    "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
-    "difficulty": 3
-  },
-  {
-    "id": 30,
-    "question_zh": "《許三觀賣血記》嘅作者係邊個？",
-    "question_en": "Who wrote 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "其他作者B",
-      "余華",
-      "其他作者A",
-      "其他作者C"
-    ],
-    "options_en": [
-      "Author B",
-      "Yu Hua",
-      "Author A",
-      "Author C"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「余華」。",
-    "explanation_en": "The correct answer is 'Yu Hua'.",
-    "difficulty": 1
-  },
-  {
-    "id": 31,
-    "question_zh": "《許三觀賣血記》嘅作者係邊個？",
-    "question_en": "Who wrote 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "其他作者A",
-      "其他作者B",
-      "其他作者C",
-      "余華"
-    ],
-    "options_en": [
-      "Author A",
-      "Author B",
-      "Author C",
-      "Yu Hua"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「余華」。",
-    "explanation_en": "The correct answer is 'Yu Hua'.",
-    "difficulty": 2
-  },
-  {
-    "id": 32,
-    "question_zh": "《許三觀賣血記》嘅作者係邊個？",
-    "question_en": "Who wrote 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "其他作者C",
-      "余華",
-      "其他作者B",
-      "其他作者A"
-    ],
-    "options_en": [
-      "Author C",
-      "Yu Hua",
-      "Author B",
-      "Author A"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「余華」。",
-    "explanation_en": "The correct answer is 'Yu Hua'.",
-    "difficulty": 3
-  },
-  {
-    "id": 33,
-    "question_zh": "《許三觀賣血記》係邊年出版嘅？",
-    "question_en": "What year was 'Chronicle of a Blood Merchant' published?",
-    "options_zh": [
-      "1990年",
-      "1997年",
-      "2000年",
-      "1995年"
-    ],
-    "options_en": [
-      "1990",
-      "1997",
-      "2000",
-      "1995"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「1995年」。",
-    "explanation_en": "The correct answer is '1995'.",
-    "difficulty": 1
-  },
-  {
-    "id": 34,
-    "question_zh": "《許三觀賣血記》係邊年出版嘅？",
-    "question_en": "What year was 'Chronicle of a Blood Merchant' published?",
-    "options_zh": [
-      "1998年",
-      "1995年",
-      "2000年",
-      "1992年"
-    ],
-    "options_en": [
-      "1998",
-      "1995",
-      "2000",
-      "1992"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「1995年」。",
-    "explanation_en": "The correct answer is '1995'.",
-    "difficulty": 2
-  },
-  {
-    "id": 35,
-    "question_zh": "《許三觀賣血記》係邊年出版嘅？",
-    "question_en": "What year was 'Chronicle of a Blood Merchant' published?",
-    "options_zh": [
-      "1995年",
-      "1990年",
-      "2000年",
-      "1992年"
-    ],
-    "options_en": [
-      "1995",
-      "1990",
-      "2000",
-      "1992"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「1995年」。",
-    "explanation_en": "The correct answer is '1995'.",
-    "difficulty": 3
-  },
-  {
-    "id": 36,
-    "question_zh": "《許三觀賣血記》屬於邊種類型？",
-    "question_en": "What genre is 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "寫實與文學類",
-      "其他類型B",
-      "其他類型A",
-      "其他類型C"
-    ],
-    "options_en": [
-      "Realistic & Literary",
-      "Genre B",
-      "Genre A",
-      "Genre C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 1
-  },
-  {
-    "id": 37,
-    "question_zh": "《許三觀賣血記》屬於邊種類型？",
-    "question_en": "What genre is 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "其他類型A",
-      "寫實與文學類",
-      "其他類型C",
-      "其他類型B"
-    ],
-    "options_en": [
-      "Genre A",
-      "Realistic & Literary",
-      "Genre C",
-      "Genre B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 2
-  },
-  {
-    "id": 38,
-    "question_zh": "《許三觀賣血記》屬於邊種類型？",
-    "question_en": "What genre is 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "其他類型C",
-      "其他類型B",
-      "其他類型A",
-      "寫實與文學類"
-    ],
-    "options_en": [
-      "Genre C",
-      "Genre B",
-      "Genre A",
-      "Realistic & Literary"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 3
-  },
-  {
-    "id": 39,
-    "question_zh": "《許三觀賣血記》主要講咩？",
-    "question_en": "What is 'Chronicle of a Blood Merchant' mainly about?",
-    "options_zh": [
-      "現實生活同文學表達",
-      "財經商戰",
-      "體育競技",
-      "科幻太空"
-    ],
-    "options_en": [
-      "Real life and literary expression",
-      "Business",
-      "Sports",
-      "Sci-fi space"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
-    "difficulty": 1
-  },
-  {
-    "id": 40,
-    "question_zh": "《許三觀賣血記》主要講咩？",
-    "question_en": "What is 'Chronicle of a Blood Merchant' mainly about?",
-    "options_zh": [
-      "科幻太空",
-      "財經商戰",
-      "體育競技",
-      "現實生活同文學表達"
-    ],
-    "options_en": [
-      "Sci-fi space",
-      "Business",
-      "Sports",
-      "Real life and literary expression"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
-    "difficulty": 2
-  },
-  {
-    "id": 41,
-    "question_zh": "《許三觀賣血記》主要講咩？",
-    "question_en": "What is 'Chronicle of a Blood Merchant' mainly about?",
-    "options_zh": [
-      "現實生活同文學表達",
-      "財經商戰",
-      "體育競技",
-      "科幻太空"
-    ],
-    "options_en": [
-      "Real life and literary expression",
-      "Business",
-      "Sports",
-      "Sci-fi space"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
-    "difficulty": 3
-  },
-  {
-    "id": 42,
-    "question_zh": "《許三觀賣血記》入面有咩角色？",
-    "question_en": "What characters are in 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "外星人",
-      "主要角色",
-      "機械人",
-      "動物"
-    ],
-    "options_en": [
-      "Aliens",
-      "Main characters",
-      "Robots",
-      "Animals"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 1
-  },
-  {
-    "id": 43,
-    "question_zh": "《許三觀賣血記》入面有咩角色？",
-    "question_en": "What characters are in 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "主要角色",
-      "動物",
-      "機械人",
-      "外星人"
-    ],
-    "options_en": [
-      "Main characters",
-      "Animals",
-      "Robots",
-      "Aliens"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 2
-  },
-  {
-    "id": 44,
-    "question_zh": "《許三觀賣血記》入面有咩角色？",
-    "question_en": "What characters are in 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "主要角色",
-      "動物",
-      "機械人",
-      "外星人"
-    ],
-    "options_en": [
-      "Main characters",
-      "Animals",
-      "Robots",
-      "Aliens"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 3
-  },
-  {
-    "id": 45,
-    "question_zh": "《許三觀賣血記》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Chronicle of a Blood Merchant' set?",
-    "options_zh": [
-      "中國/亞洲",
-      "未來太空",
-      "歐洲中世紀",
-      "虛擬世界"
-    ],
-    "options_en": [
-      "China/Asia",
-      "Future space",
-      "Medieval Europe",
-      "Virtual world"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 1
-  },
-  {
-    "id": 46,
-    "question_zh": "《許三觀賣血記》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Chronicle of a Blood Merchant' set?",
-    "options_zh": [
-      "歐洲中世紀",
-      "未來太空",
-      "中國/亞洲",
-      "虛擬世界"
-    ],
-    "options_en": [
-      "Medieval Europe",
-      "Future space",
-      "China/Asia",
-      "Virtual world"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 2
-  },
-  {
-    "id": 47,
-    "question_zh": "《許三觀賣血記》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Chronicle of a Blood Merchant' set?",
-    "options_zh": [
-      "虛擬世界",
-      "未來太空",
-      "中國/亞洲",
-      "歐洲中世紀"
-    ],
-    "options_en": [
-      "Virtual world",
-      "Future space",
-      "China/Asia",
-      "Medieval Europe"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 3
-  },
-  {
-    "id": 48,
-    "question_zh": "《許三觀賣血記》係咪好受歡迎？",
-    "question_en": "Is 'Chronicle of a Blood Merchant' popular?",
-    "options_zh": [
-      "唔係，好冷門",
-      "係，非常受歡迎",
-      "已經過氣",
-      "只喺特定地區流行"
-    ],
-    "options_en": [
-      "No, very niche",
-      "Yes, very popular",
-      "Outdated",
-      "Only popular locally"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 1
-  },
-  {
-    "id": 49,
-    "question_zh": "《許三觀賣血記》係咪好受歡迎？",
-    "question_en": "Is 'Chronicle of a Blood Merchant' popular?",
-    "options_zh": [
-      "已經過氣",
-      "係，非常受歡迎",
-      "唔係，好冷門",
-      "只喺特定地區流行"
-    ],
-    "options_en": [
-      "Outdated",
-      "Yes, very popular",
-      "No, very niche",
-      "Only popular locally"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 2
-  },
-  {
-    "id": 50,
-    "question_zh": "《許三觀賣血記》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Chronicle of a Blood Merchant' belong to?",
-    "options_zh": [
-      "科幻小說",
-      "兒童文學",
-      "寫實與文學類",
-      "恐怖小說"
-    ],
-    "options_en": [
-      "Sci-fi",
-      "Children's literature",
-      "Realistic & Literary",
-      "Horror"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 3
-  },
-  {
-    "id": 51,
-    "question_zh": "以下邊本係《許三觀賣血記》？",
-    "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "其他小說A",
-      "其他小說C",
-      "其他小說B",
-      "許三觀賣血記"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "Other Novel C",
-      "Other Novel B",
-      "Chronicle of a Blood Merchant"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「許三觀賣血記」。",
-    "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
-    "difficulty": 1
-  },
-  {
-    "id": 52,
-    "question_zh": "以下邊本係《許三觀賣血記》？",
-    "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "其他小說A",
-      "其他小說C",
-      "許三觀賣血記",
-      "其他小說B"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "Other Novel C",
-      "Chronicle of a Blood Merchant",
-      "Other Novel B"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「許三觀賣血記」。",
-    "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
-    "difficulty": 2
-  },
-  {
-    "id": 53,
-    "question_zh": "以下邊本係《許三觀賣血記》？",
-    "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "許三觀賣血記",
-      "其他小說A",
-      "其他小說B",
-      "其他小說C"
-    ],
-    "options_en": [
-      "Chronicle of a Blood Merchant",
-      "Other Novel A",
-      "Other Novel B",
-      "Other Novel C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「許三觀賣血記」。",
-    "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
-    "difficulty": 3
-  },
-  {
-    "id": 54,
-    "question_zh": "以下邊本係《許三觀賣血記》？",
-    "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "許三觀賣血記",
-      "其他小說B",
-      "其他小說A",
-      "其他小說C"
-    ],
-    "options_en": [
-      "Chronicle of a Blood Merchant",
-      "Other Novel B",
-      "Other Novel A",
-      "Other Novel C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「許三觀賣血記」。",
-    "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
-    "difficulty": 1
-  },
-  {
-    "id": 55,
-    "question_zh": "《許三觀賣血記》嘅作者係邊個？",
-    "question_en": "Who wrote 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "其他作者B",
-      "余華",
-      "其他作者A",
-      "其他作者C"
-    ],
-    "options_en": [
-      "Author B",
-      "Yu Hua",
-      "Author A",
-      "Author C"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「余華」。",
-    "explanation_en": "The correct answer is 'Yu Hua'.",
-    "difficulty": 2
-  },
-  {
-    "id": 56,
-    "question_zh": "《許三觀賣血記》嘅作者係邊個？",
-    "question_en": "Who wrote 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "其他作者C",
-      "其他作者A",
-      "余華",
-      "其他作者B"
-    ],
-    "options_en": [
-      "Author C",
-      "Author A",
-      "Yu Hua",
-      "Author B"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「余華」。",
-    "explanation_en": "The correct answer is 'Yu Hua'.",
-    "difficulty": 3
-  },
-  {
-    "id": 57,
-    "question_zh": "《許三觀賣血記》嘅作者係邊個？",
-    "question_en": "Who wrote 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "其他作者C",
-      "余華",
-      "其他作者A",
-      "其他作者B"
-    ],
-    "options_en": [
-      "Author C",
-      "Yu Hua",
-      "Author A",
-      "Author B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「余華」。",
-    "explanation_en": "The correct answer is 'Yu Hua'.",
-    "difficulty": 1
-  },
-  {
-    "id": 58,
-    "question_zh": "《許三觀賣血記》係邊年出版嘅？",
-    "question_en": "What year was 'Chronicle of a Blood Merchant' published?",
-    "options_zh": [
-      "1998年",
-      "1995年",
-      "1990年",
-      "2000年"
-    ],
-    "options_en": [
-      "1998",
-      "1995",
-      "1990",
-      "2000"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「1995年」。",
-    "explanation_en": "The correct answer is '1995'.",
-    "difficulty": 2
-  },
-  {
-    "id": 59,
-    "question_zh": "《許三觀賣血記》係邊年出版嘅？",
-    "question_en": "What year was 'Chronicle of a Blood Merchant' published?",
-    "options_zh": [
-      "1993年",
-      "2000年",
-      "1990年",
-      "1995年"
-    ],
-    "options_en": [
-      "1993",
-      "2000",
-      "1990",
-      "1995"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「1995年」。",
-    "explanation_en": "The correct answer is '1995'.",
-    "difficulty": 3
-  },
-  {
-    "id": 60,
-    "question_zh": "《許三觀賣血記》係邊年出版嘅？",
-    "question_en": "What year was 'Chronicle of a Blood Merchant' published?",
-    "options_zh": [
-      "1995年",
-      "1997年",
-      "1992年",
-      "1998年"
-    ],
-    "options_en": [
-      "1995",
-      "1997",
-      "1992",
-      "1998"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「1995年」。",
-    "explanation_en": "The correct answer is '1995'.",
-    "difficulty": 1
-  },
-  {
-    "id": 61,
-    "question_zh": "《許三觀賣血記》屬於邊種類型？",
-    "question_en": "What genre is 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "其他類型A",
-      "寫實與文學類",
-      "其他類型B",
-      "其他類型C"
-    ],
-    "options_en": [
-      "Genre A",
-      "Realistic & Literary",
-      "Genre B",
-      "Genre C"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 2
-  },
-  {
-    "id": 62,
-    "question_zh": "《許三觀賣血記》屬於邊種類型？",
-    "question_en": "What genre is 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "寫實與文學類",
-      "其他類型A",
-      "其他類型C",
-      "其他類型B"
-    ],
-    "options_en": [
-      "Realistic & Literary",
-      "Genre A",
-      "Genre C",
-      "Genre B"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 3
-  },
-  {
-    "id": 63,
-    "question_zh": "《許三觀賣血記》屬於邊種類型？",
-    "question_en": "What genre is 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "其他類型C",
-      "其他類型B",
-      "寫實與文學類",
-      "其他類型A"
-    ],
-    "options_en": [
-      "Genre C",
-      "Genre B",
-      "Realistic & Literary",
-      "Genre A"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 1
-  },
-  {
-    "id": 64,
-    "question_zh": "《許三觀賣血記》主要講咩？",
-    "question_en": "What is 'Chronicle of a Blood Merchant' mainly about?",
-    "options_zh": [
-      "財經商戰",
-      "體育競技",
-      "現實生活同文學表達",
-      "科幻太空"
-    ],
-    "options_en": [
-      "Business",
-      "Sports",
-      "Real life and literary expression",
-      "Sci-fi space"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
-    "difficulty": 2
-  },
-  {
-    "id": 65,
-    "question_zh": "《許三觀賣血記》主要講咩？",
-    "question_en": "What is 'Chronicle of a Blood Merchant' mainly about?",
-    "options_zh": [
-      "體育競技",
-      "財經商戰",
-      "科幻太空",
-      "現實生活同文學表達"
-    ],
-    "options_en": [
-      "Sports",
-      "Business",
-      "Sci-fi space",
-      "Real life and literary expression"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
-    "difficulty": 3
-  },
-  {
-    "id": 66,
-    "question_zh": "《許三觀賣血記》主要講咩？",
-    "question_en": "What is 'Chronicle of a Blood Merchant' mainly about?",
-    "options_zh": [
-      "現實生活同文學表達",
-      "體育競技",
-      "財經商戰",
-      "科幻太空"
-    ],
-    "options_en": [
-      "Real life and literary expression",
-      "Sports",
-      "Business",
-      "Sci-fi space"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
-    "difficulty": 1
-  },
-  {
-    "id": 67,
-    "question_zh": "《許三觀賣血記》入面有咩角色？",
-    "question_en": "What characters are in 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "動物",
-      "機械人",
-      "外星人",
-      "主要角色"
-    ],
-    "options_en": [
-      "Animals",
-      "Robots",
-      "Aliens",
-      "Main characters"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 2
-  },
-  {
-    "id": 68,
-    "question_zh": "《許三觀賣血記》入面有咩角色？",
-    "question_en": "What characters are in 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "機械人",
-      "動物",
-      "外星人",
-      "主要角色"
-    ],
-    "options_en": [
-      "Robots",
-      "Animals",
-      "Aliens",
-      "Main characters"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 3
-  },
-  {
-    "id": 69,
-    "question_zh": "《許三觀賣血記》入面有咩角色？",
-    "question_en": "What characters are in 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "機械人",
-      "主要角色",
-      "外星人",
-      "動物"
-    ],
-    "options_en": [
-      "Robots",
-      "Main characters",
-      "Aliens",
-      "Animals"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 1
-  },
-  {
-    "id": 70,
-    "question_zh": "《許三觀賣血記》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Chronicle of a Blood Merchant' set?",
-    "options_zh": [
-      "未來太空",
-      "中國/亞洲",
-      "歐洲中世紀",
-      "虛擬世界"
-    ],
-    "options_en": [
-      "Future space",
-      "China/Asia",
-      "Medieval Europe",
-      "Virtual world"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 2
-  },
-  {
-    "id": 71,
-    "question_zh": "《許三觀賣血記》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Chronicle of a Blood Merchant' set?",
-    "options_zh": [
-      "中國/亞洲",
-      "歐洲中世紀",
-      "虛擬世界",
-      "未來太空"
-    ],
-    "options_en": [
-      "China/Asia",
-      "Medieval Europe",
-      "Virtual world",
-      "Future space"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 3
-  },
-  {
-    "id": 72,
-    "question_zh": "《許三觀賣血記》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Chronicle of a Blood Merchant' set?",
-    "options_zh": [
-      "中國/亞洲",
-      "歐洲中世紀",
-      "未來太空",
-      "虛擬世界"
-    ],
-    "options_en": [
-      "China/Asia",
-      "Medieval Europe",
-      "Future space",
-      "Virtual world"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 1
-  },
-  {
-    "id": 73,
-    "question_zh": "《許三觀賣血記》係咪好受歡迎？",
-    "question_en": "Is 'Chronicle of a Blood Merchant' popular?",
-    "options_zh": [
-      "只喺特定地區流行",
-      "唔係，好冷門",
-      "已經過氣",
-      "係，非常受歡迎"
-    ],
-    "options_en": [
-      "Only popular locally",
-      "No, very niche",
-      "Outdated",
-      "Yes, very popular"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 2
-  },
-  {
-    "id": 74,
-    "question_zh": "《許三觀賣血記》係咪好受歡迎？",
-    "question_en": "Is 'Chronicle of a Blood Merchant' popular?",
-    "options_zh": [
-      "已經過氣",
-      "唔係，好冷門",
-      "係，非常受歡迎",
-      "只喺特定地區流行"
-    ],
-    "options_en": [
-      "Outdated",
-      "No, very niche",
-      "Yes, very popular",
-      "Only popular locally"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 3
-  },
-  {
-    "id": 75,
-    "question_zh": "《許三觀賣血記》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Chronicle of a Blood Merchant' belong to?",
-    "options_zh": [
-      "恐怖小說",
-      "科幻小說",
-      "兒童文學",
-      "寫實與文學類"
-    ],
-    "options_en": [
-      "Horror",
-      "Sci-fi",
-      "Children's literature",
-      "Realistic & Literary"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 1
-  },
-  {
-    "id": 76,
-    "question_zh": "以下邊本係《許三觀賣血記》？",
-    "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "其他小說A",
-      "許三觀賣血記",
-      "其他小說B",
-      "其他小說C"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "Chronicle of a Blood Merchant",
-      "Other Novel B",
-      "Other Novel C"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「許三觀賣血記」。",
-    "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
-    "difficulty": 2
-  },
-  {
-    "id": 77,
-    "question_zh": "以下邊本係《許三觀賣血記》？",
-    "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "其他小說B",
-      "其他小說A",
-      "其他小說C",
-      "許三觀賣血記"
-    ],
-    "options_en": [
-      "Other Novel B",
-      "Other Novel A",
-      "Other Novel C",
-      "Chronicle of a Blood Merchant"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「許三觀賣血記」。",
-    "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
-    "difficulty": 3
-  },
-  {
-    "id": 78,
-    "question_zh": "以下邊本係《許三觀賣血記》？",
-    "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
-    "options_zh": [
-      "其他小說A",
-      "許三觀賣血記",
-      "其他小說B",
-      "其他小說C"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "Chronicle of a Blood Merchant",
-      "Other Novel B",
-      "Other Novel C"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「許三觀賣血記」。",
-    "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
     "difficulty": 1
   },
   {
@@ -1642,18 +1642,18 @@
     "question_zh": "以下邊本係《許三觀賣血記》？",
     "question_en": "Which one is 'Chronicle of a Blood Merchant'?",
     "options_zh": [
-      "許三觀賣血記",
       "其他小說A",
       "其他小說C",
+      "許三觀賣血記",
       "其他小說B"
     ],
     "options_en": [
-      "Chronicle of a Blood Merchant",
       "Other Novel A",
       "Other Novel C",
+      "Chronicle of a Blood Merchant",
       "Other Novel B"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「許三觀賣血記」。",
     "explanation_en": "The correct answer is 'Chronicle of a Blood Merchant'.",
     "difficulty": 2
@@ -1663,18 +1663,18 @@
     "question_zh": "《許三觀賣血記》嘅作者係邊個？",
     "question_en": "Who wrote 'Chronicle of a Blood Merchant'?",
     "options_zh": [
-      "其他作者C",
       "其他作者B",
-      "其他作者A",
-      "余華"
+      "余華",
+      "其他作者C",
+      "其他作者A"
     ],
     "options_en": [
-      "Author C",
       "Author B",
-      "Author A",
-      "Yu Hua"
+      "Yu Hua",
+      "Author C",
+      "Author A"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「余華」。",
     "explanation_en": "The correct answer is 'Yu Hua'.",
     "difficulty": 3
@@ -1684,18 +1684,18 @@
     "question_zh": "《許三觀賣血記》嘅作者係邊個？",
     "question_en": "Who wrote 'Chronicle of a Blood Merchant'?",
     "options_zh": [
-      "其他作者C",
-      "其他作者B",
       "余華",
-      "其他作者A"
+      "其他作者A",
+      "其他作者C",
+      "其他作者B"
     ],
     "options_en": [
-      "Author C",
-      "Author B",
       "Yu Hua",
-      "Author A"
+      "Author A",
+      "Author C",
+      "Author B"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「余華」。",
     "explanation_en": "The correct answer is 'Yu Hua'.",
     "difficulty": 1
@@ -1706,14 +1706,14 @@
     "question_en": "Who wrote 'Chronicle of a Blood Merchant'?",
     "options_zh": [
       "其他作者A",
-      "其他作者C",
       "其他作者B",
+      "其他作者C",
       "余華"
     ],
     "options_en": [
       "Author A",
-      "Author C",
       "Author B",
+      "Author C",
       "Yu Hua"
     ],
     "answer": 3,
@@ -1726,18 +1726,18 @@
     "question_zh": "《許三觀賣血記》係邊年出版嘅？",
     "question_en": "What year was 'Chronicle of a Blood Merchant' published?",
     "options_zh": [
-      "1993年",
       "1995年",
-      "1997年",
-      "2000年"
+      "1993年",
+      "1990年",
+      "1997年"
     ],
     "options_en": [
-      "1993",
       "1995",
-      "1997",
-      "2000"
+      "1993",
+      "1990",
+      "1997"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「1995年」。",
     "explanation_en": "The correct answer is '1995'.",
     "difficulty": 3
@@ -1747,18 +1747,18 @@
     "question_zh": "《許三觀賣血記》係邊年出版嘅？",
     "question_en": "What year was 'Chronicle of a Blood Merchant' published?",
     "options_zh": [
-      "1998年",
-      "1992年",
-      "1993年",
-      "1995年"
+      "1990年",
+      "1997年",
+      "1995年",
+      "1998年"
     ],
     "options_en": [
-      "1998",
-      "1992",
-      "1993",
-      "1995"
+      "1990",
+      "1997",
+      "1995",
+      "1998"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「1995年」。",
     "explanation_en": "The correct answer is '1995'.",
     "difficulty": 1
@@ -1768,83 +1768,83 @@
     "question_zh": "《許三觀賣血記》係邊年出版嘅？",
     "question_en": "What year was 'Chronicle of a Blood Merchant' published?",
     "options_zh": [
-      "1995年",
+      "2000年",
       "1993年",
-      "1997年",
-      "1992年"
+      "1992年",
+      "1995年"
     ],
     "options_en": [
-      "1995",
+      "2000",
       "1993",
-      "1997",
-      "1992"
+      "1992",
+      "1995"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「1995年」。",
     "explanation_en": "The correct answer is '1995'.",
     "difficulty": 2
   },
   {
     "id": 86,
-    "question_zh": "《許三觀賣血記》屬於邊種類型？",
-    "question_en": "What genre is 'Chronicle of a Blood Merchant'?",
+    "question_zh": "《許三觀賣血記》係邊國作品？",
+    "question_en": "Which country is 'Chronicle of a Blood Merchant' from?",
     "options_zh": [
-      "其他類型B",
-      "寫實與文學類",
-      "其他類型C",
-      "其他類型A"
+      "法國",
+      "韓國",
+      "中國",
+      "德國"
     ],
     "options_en": [
-      "Genre B",
-      "Realistic & Literary",
-      "Genre C",
-      "Genre A"
+      "France",
+      "South Korea",
+      "China",
+      "Germany"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 87,
-    "question_zh": "《許三觀賣血記》屬於邊種類型？",
-    "question_en": "What genre is 'Chronicle of a Blood Merchant'?",
+    "question_zh": "《許三觀賣血記》係邊國作品？",
+    "question_en": "Which country is 'Chronicle of a Blood Merchant' from?",
     "options_zh": [
-      "其他類型B",
-      "寫實與文學類",
-      "其他類型A",
-      "其他類型C"
+      "中國",
+      "韓國",
+      "德國",
+      "法國"
     ],
     "options_en": [
-      "Genre B",
-      "Realistic & Literary",
-      "Genre A",
-      "Genre C"
+      "China",
+      "South Korea",
+      "Germany",
+      "France"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 88,
-    "question_zh": "《許三觀賣血記》屬於邊種類型？",
-    "question_en": "What genre is 'Chronicle of a Blood Merchant'?",
+    "question_zh": "《許三觀賣血記》係邊國作品？",
+    "question_en": "Which country is 'Chronicle of a Blood Merchant' from?",
     "options_zh": [
-      "其他類型B",
-      "其他類型C",
-      "寫實與文學類",
-      "其他類型A"
+      "法國",
+      "德國",
+      "韓國",
+      "中國"
     ],
     "options_en": [
-      "Genre B",
-      "Genre C",
-      "Realistic & Literary",
-      "Genre A"
+      "France",
+      "Germany",
+      "South Korea",
+      "China"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
@@ -1860,12 +1860,12 @@
     "options_en": [
       "Sports",
       "Business",
-      "Sci-fi space",
-      "Real life and literary expression"
+      "Sci-fi",
+      "Real life and literary"
     ],
     "answer": 3,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 3
   },
   {
@@ -1873,20 +1873,20 @@
     "question_zh": "《許三觀賣血記》主要講咩？",
     "question_en": "What is 'Chronicle of a Blood Merchant' mainly about?",
     "options_zh": [
-      "現實生活同文學表達",
       "體育競技",
-      "科幻太空",
-      "財經商戰"
+      "財經商戰",
+      "現實生活同文學表達",
+      "科幻太空"
     ],
     "options_en": [
-      "Real life and literary expression",
       "Sports",
-      "Sci-fi space",
-      "Business"
+      "Business",
+      "Real life and literary",
+      "Sci-fi"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 1
   },
   {
@@ -1894,20 +1894,20 @@
     "question_zh": "《許三觀賣血記》主要講咩？",
     "question_en": "What is 'Chronicle of a Blood Merchant' mainly about?",
     "options_zh": [
-      "現實生活同文學表達",
       "財經商戰",
+      "科幻太空",
       "體育競技",
-      "科幻太空"
+      "現實生活同文學表達"
     ],
     "options_en": [
-      "Real life and literary expression",
       "Business",
+      "Sci-fi",
       "Sports",
-      "Sci-fi space"
+      "Real life and literary"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 2
   },
   {
@@ -1915,18 +1915,18 @@
     "question_zh": "《許三觀賣血記》入面有咩角色？",
     "question_en": "What characters are in 'Chronicle of a Blood Merchant'?",
     "options_zh": [
+      "機械人",
       "主要角色",
-      "外星人",
       "動物",
-      "機械人"
+      "外星人"
     ],
     "options_en": [
+      "Robots",
       "Main characters",
-      "Aliens",
       "Animals",
-      "Robots"
+      "Aliens"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
@@ -1936,18 +1936,18 @@
     "question_zh": "《許三觀賣血記》入面有咩角色？",
     "question_en": "What characters are in 'Chronicle of a Blood Merchant'?",
     "options_zh": [
-      "外星人",
-      "主要角色",
+      "動物",
       "機械人",
-      "動物"
+      "外星人",
+      "主要角色"
     ],
     "options_en": [
-      "Aliens",
-      "Main characters",
+      "Animals",
       "Robots",
-      "Animals"
+      "Aliens",
+      "Main characters"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 1
@@ -1957,18 +1957,18 @@
     "question_zh": "《許三觀賣血記》入面有咩角色？",
     "question_en": "What characters are in 'Chronicle of a Blood Merchant'?",
     "options_zh": [
-      "主要角色",
-      "機械人",
       "動物",
-      "外星人"
+      "主要角色",
+      "外星人",
+      "機械人"
     ],
     "options_en": [
-      "Main characters",
-      "Robots",
       "Animals",
-      "Aliens"
+      "Main characters",
+      "Aliens",
+      "Robots"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 2
@@ -1980,14 +1980,14 @@
     "options_zh": [
       "歐洲中世紀",
       "中國/亞洲",
-      "未來太空",
-      "虛擬世界"
+      "虛擬世界",
+      "未來太空"
     ],
     "options_en": [
       "Medieval Europe",
       "China/Asia",
-      "Future space",
-      "Virtual world"
+      "Virtual world",
+      "Future space"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「中國/亞洲」。",
@@ -1999,18 +1999,18 @@
     "question_zh": "《許三觀賣血記》嘅故事背景喺邊度？",
     "question_en": "Where is 'Chronicle of a Blood Merchant' set?",
     "options_zh": [
+      "歐洲中世紀",
       "未來太空",
       "虛擬世界",
-      "中國/亞洲",
-      "歐洲中世紀"
+      "中國/亞洲"
     ],
     "options_en": [
+      "Medieval Europe",
       "Future space",
       "Virtual world",
-      "China/Asia",
-      "Medieval Europe"
+      "China/Asia"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 1
@@ -2020,18 +2020,18 @@
     "question_zh": "《許三觀賣血記》嘅故事背景喺邊度？",
     "question_en": "Where is 'Chronicle of a Blood Merchant' set?",
     "options_zh": [
-      "虛擬世界",
-      "未來太空",
       "中國/亞洲",
+      "未來太空",
+      "虛擬世界",
       "歐洲中世紀"
     ],
     "options_en": [
-      "Virtual world",
-      "Future space",
       "China/Asia",
+      "Future space",
+      "Virtual world",
       "Medieval Europe"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 2
@@ -2041,18 +2041,18 @@
     "question_zh": "《許三觀賣血記》係咪好受歡迎？",
     "question_en": "Is 'Chronicle of a Blood Merchant' popular?",
     "options_zh": [
-      "唔係，好冷門",
-      "只喺特定地區流行",
       "係，非常受歡迎",
-      "已經過氣"
+      "唔係，好冷門",
+      "已經過氣",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "No, very niche",
-      "Only popular locally",
       "Yes, very popular",
-      "Outdated"
+      "No, very niche",
+      "Outdated",
+      "Only popular locally"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -2062,41 +2062,41 @@
     "question_zh": "《許三觀賣血記》係咪好受歡迎？",
     "question_en": "Is 'Chronicle of a Blood Merchant' popular?",
     "options_zh": [
-      "唔係，好冷門",
-      "已經過氣",
+      "係，非常受歡迎",
       "只喺特定地區流行",
-      "係，非常受歡迎"
+      "已經過氣",
+      "唔係，好冷門"
     ],
     "options_en": [
-      "No, very niche",
-      "Outdated",
+      "Yes, very popular",
       "Only popular locally",
-      "Yes, very popular"
+      "Outdated",
+      "No, very niche"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 1
   },
   {
     "id": 100,
-    "question_zh": "《許三觀賣血記》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Chronicle of a Blood Merchant' belong to?",
+    "question_zh": "《許三觀賣血記》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Chronicle of a Blood Merchant'?",
     "options_zh": [
-      "恐怖小說",
-      "寫實與文學類",
-      "兒童文學",
-      "科幻小說"
+      "韓國人",
+      "法國人",
+      "中國人",
+      "德國人"
     ],
     "options_en": [
-      "Horror",
-      "Realistic & Literary",
-      "Children's literature",
-      "Sci-fi"
+      "Korean",
+      "French",
+      "Chinese",
+      "German"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
   }
 ]

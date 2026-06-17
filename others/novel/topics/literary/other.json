@@ -4,18 +4,18 @@
     "question_zh": "以下邊本係《其他文學小說》？",
     "question_en": "Which one is 'Other Literary'?",
     "options_zh": [
-      "其他小說C",
       "其他文學小說",
       "其他小說A",
+      "其他小說C",
       "其他小說B"
     ],
     "options_en": [
-      "Other Novel C",
       "Other Literary",
       "Other Novel A",
+      "Other Novel C",
       "Other Novel B"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「其他文學小說」。",
     "explanation_en": "The correct answer is 'Other Literary'.",
     "difficulty": 2
@@ -25,15 +25,15 @@
     "question_zh": "以下邊本係《其他文學小說》？",
     "question_en": "Which one is 'Other Literary'?",
     "options_zh": [
-      "其他小說B",
-      "其他小說C",
       "其他小說A",
+      "其他小說C",
+      "其他小說B",
       "其他文學小說"
     ],
     "options_en": [
-      "Other Novel B",
-      "Other Novel C",
       "Other Novel A",
+      "Other Novel C",
+      "Other Novel B",
       "Other Literary"
     ],
     "answer": 3,
@@ -46,18 +46,18 @@
     "question_zh": "以下邊本係《其他文學小說》？",
     "question_en": "Which one is 'Other Literary'?",
     "options_zh": [
-      "其他小說B",
       "其他小說C",
       "其他小說A",
-      "其他文學小說"
+      "其他文學小說",
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel B",
       "Other Novel C",
       "Other Novel A",
-      "Other Literary"
+      "Other Literary",
+      "Other Novel B"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「其他文學小說」。",
     "explanation_en": "The correct answer is 'Other Literary'.",
     "difficulty": 1
@@ -67,18 +67,18 @@
     "question_zh": "以下邊本係《其他文學小說》？",
     "question_en": "Which one is 'Other Literary'?",
     "options_zh": [
-      "其他小說B",
-      "其他小說C",
+      "其他小說A",
       "其他文學小說",
-      "其他小說A"
+      "其他小說C",
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel B",
-      "Other Novel C",
+      "Other Novel A",
       "Other Literary",
-      "Other Novel A"
+      "Other Novel C",
+      "Other Novel B"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「其他文學小說」。",
     "explanation_en": "The correct answer is 'Other Literary'.",
     "difficulty": 2
@@ -88,20 +88,20 @@
     "question_zh": "《其他文學小說》屬於邊種類型？",
     "question_en": "What genre is 'Other Literary'?",
     "options_zh": [
-      "寫實與文學類",
-      "其他類型B",
-      "其他類型A",
-      "其他類型C"
+      "戲劇",
+      "小說",
+      "散文",
+      "詩歌"
     ],
     "options_en": [
-      "Realistic & Literary",
-      "Genre B",
-      "Genre A",
-      "Genre C"
+      "Drama",
+      "Novel",
+      "Essay",
+      "Poetry"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 3
   },
   {
@@ -109,20 +109,20 @@
     "question_zh": "《其他文學小說》屬於邊種類型？",
     "question_en": "What genre is 'Other Literary'?",
     "options_zh": [
-      "其他類型A",
-      "其他類型B",
-      "其他類型C",
-      "寫實與文學類"
+      "散文",
+      "詩歌",
+      "小說",
+      "戲劇"
     ],
     "options_en": [
-      "Genre A",
-      "Genre B",
-      "Genre C",
-      "Realistic & Literary"
+      "Essay",
+      "Poetry",
+      "Novel",
+      "Drama"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 1
   },
   {
@@ -130,146 +130,146 @@
     "question_zh": "《其他文學小說》屬於邊種類型？",
     "question_en": "What genre is 'Other Literary'?",
     "options_zh": [
-      "寫實與文學類",
-      "其他類型B",
-      "其他類型C",
-      "其他類型A"
+      "詩歌",
+      "散文",
+      "戲劇",
+      "小說"
     ],
     "options_en": [
-      "Realistic & Literary",
-      "Genre B",
-      "Genre C",
-      "Genre A"
+      "Poetry",
+      "Essay",
+      "Drama",
+      "Novel"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 2
   },
   {
     "id": 8,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
+    "question_zh": "《其他文學小說》係邊個類別？",
+    "question_en": "What category is 'Other Literary'?",
     "options_zh": [
-      "其他類型A",
-      "寫實與文學類",
-      "其他類型B",
-      "其他類型C"
+      "散文",
+      "戲劇",
+      "詩歌",
+      "小說"
     ],
     "options_en": [
-      "Genre A",
-      "Realistic & Literary",
-      "Genre B",
-      "Genre C"
+      "Essay",
+      "Drama",
+      "Poetry",
+      "Novel"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 3
   },
   {
     "id": 9,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
+    "question_zh": "《其他文學小說》係邊個類別？",
+    "question_en": "What category is 'Other Literary'?",
     "options_zh": [
-      "其他類型C",
-      "其他類型B",
-      "寫實與文學類",
-      "其他類型A"
+      "小說",
+      "散文",
+      "詩歌",
+      "戲劇"
     ],
     "options_en": [
-      "Genre C",
-      "Genre B",
-      "Realistic & Literary",
-      "Genre A"
+      "Novel",
+      "Essay",
+      "Poetry",
+      "Drama"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 1
   },
   {
     "id": 10,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
+    "question_zh": "《其他文學小說》係邊個類別？",
+    "question_en": "What category is 'Other Literary'?",
     "options_zh": [
-      "其他類型B",
-      "其他類型C",
-      "其他類型A",
-      "寫實與文學類"
+      "詩歌",
+      "散文",
+      "戲劇",
+      "小說"
     ],
     "options_en": [
-      "Genre B",
-      "Genre C",
-      "Genre A",
-      "Realistic & Literary"
+      "Poetry",
+      "Essay",
+      "Drama",
+      "Novel"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 2
   },
   {
     "id": 11,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
+    "question_zh": "《其他文學小說》係邊國作品？",
+    "question_en": "Which country is 'Other Literary' from?",
     "options_zh": [
-      "寫實與文學類",
-      "其他類型B",
-      "其他類型C",
-      "其他類型A"
+      "韓國",
+      "德國",
+      "法國",
+      "中國"
     ],
     "options_en": [
-      "Realistic & Literary",
-      "Genre B",
-      "Genre C",
-      "Genre A"
+      "South Korea",
+      "Germany",
+      "France",
+      "China"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 12,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
+    "question_zh": "《其他文學小說》係邊國作品？",
+    "question_en": "Which country is 'Other Literary' from?",
     "options_zh": [
-      "其他類型B",
-      "寫實與文學類",
-      "其他類型C",
-      "其他類型A"
+      "中國",
+      "德國",
+      "韓國",
+      "法國"
     ],
     "options_en": [
-      "Genre B",
-      "Realistic & Literary",
-      "Genre C",
-      "Genre A"
+      "China",
+      "Germany",
+      "South Korea",
+      "France"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 13,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
+    "question_zh": "《其他文學小說》係邊國作品？",
+    "question_en": "Which country is 'Other Literary' from?",
     "options_zh": [
-      "其他類型B",
-      "寫實與文學類",
-      "其他類型C",
-      "其他類型A"
+      "韓國",
+      "中國",
+      "德國",
+      "法國"
     ],
     "options_en": [
-      "Genre B",
-      "Realistic & Literary",
-      "Genre C",
-      "Genre A"
+      "South Korea",
+      "China",
+      "Germany",
+      "France"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
@@ -277,20 +277,20 @@
     "question_zh": "《其他文學小說》主要講咩？",
     "question_en": "What is 'Other Literary' mainly about?",
     "options_zh": [
-      "現實生活同文學表達",
       "科幻太空",
       "財經商戰",
-      "體育競技"
+      "體育競技",
+      "現實生活同文學表達"
     ],
     "options_en": [
-      "Real life and literary expression",
-      "Sci-fi space",
+      "Sci-fi",
       "Business",
-      "Sports"
+      "Sports",
+      "Real life and literary"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 3
   },
   {
@@ -299,19 +299,19 @@
     "question_en": "What is 'Other Literary' mainly about?",
     "options_zh": [
       "科幻太空",
-      "現實生活同文學表達",
+      "體育競技",
       "財經商戰",
-      "體育競技"
+      "現實生活同文學表達"
     ],
     "options_en": [
-      "Sci-fi space",
-      "Real life and literary expression",
+      "Sci-fi",
+      "Sports",
       "Business",
-      "Sports"
+      "Real life and literary"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 1
   },
   {
@@ -320,19 +320,19 @@
     "question_en": "What is 'Other Literary' mainly about?",
     "options_zh": [
       "現實生活同文學表達",
-      "科幻太空",
       "財經商戰",
+      "科幻太空",
       "體育競技"
     ],
     "options_en": [
-      "Real life and literary expression",
-      "Sci-fi space",
+      "Real life and literary",
       "Business",
+      "Sci-fi",
       "Sports"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 2
   },
   {
@@ -340,14 +340,14 @@
     "question_zh": "《其他文學小說》入面有咩角色？",
     "question_en": "What characters are in 'Other Literary'?",
     "options_zh": [
-      "外星人",
       "機械人",
+      "外星人",
       "動物",
       "主要角色"
     ],
     "options_en": [
-      "Aliens",
       "Robots",
+      "Aliens",
       "Animals",
       "Main characters"
     ],
@@ -361,18 +361,18 @@
     "question_zh": "《其他文學小說》入面有咩角色？",
     "question_en": "What characters are in 'Other Literary'?",
     "options_zh": [
-      "機械人",
       "動物",
       "主要角色",
-      "外星人"
+      "外星人",
+      "機械人"
     ],
     "options_en": [
-      "Robots",
       "Animals",
       "Main characters",
-      "Aliens"
+      "Aliens",
+      "Robots"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 1
@@ -382,18 +382,18 @@
     "question_zh": "《其他文學小說》入面有咩角色？",
     "question_en": "What characters are in 'Other Literary'?",
     "options_zh": [
-      "動物",
-      "外星人",
       "機械人",
-      "主要角色"
+      "主要角色",
+      "外星人",
+      "動物"
     ],
     "options_en": [
-      "Animals",
-      "Aliens",
       "Robots",
-      "Main characters"
+      "Main characters",
+      "Aliens",
+      "Animals"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 2
@@ -403,15 +403,15 @@
     "question_zh": "《其他文學小說》嘅故事背景喺邊度？",
     "question_en": "Where is 'Other Literary' set?",
     "options_zh": [
-      "歐洲中世紀",
       "未來太空",
       "虛擬世界",
+      "歐洲中世紀",
       "中國/亞洲"
     ],
     "options_en": [
-      "Medieval Europe",
       "Future space",
       "Virtual world",
+      "Medieval Europe",
       "China/Asia"
     ],
     "answer": 3,
@@ -421,552 +421,6 @@
   },
   {
     "id": 21,
-    "question_zh": "《其他文學小說》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Other Literary' set?",
-    "options_zh": [
-      "虛擬世界",
-      "中國/亞洲",
-      "未來太空",
-      "歐洲中世紀"
-    ],
-    "options_en": [
-      "Virtual world",
-      "China/Asia",
-      "Future space",
-      "Medieval Europe"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 1
-  },
-  {
-    "id": 22,
-    "question_zh": "《其他文學小說》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Other Literary' set?",
-    "options_zh": [
-      "中國/亞洲",
-      "虛擬世界",
-      "歐洲中世紀",
-      "未來太空"
-    ],
-    "options_en": [
-      "China/Asia",
-      "Virtual world",
-      "Medieval Europe",
-      "Future space"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 2
-  },
-  {
-    "id": 23,
-    "question_zh": "《其他文學小說》係咪好受歡迎？",
-    "question_en": "Is 'Other Literary' popular?",
-    "options_zh": [
-      "係，有一定讀者群",
-      "只喺特定地區流行",
-      "已經過氣",
-      "唔係，好冷門"
-    ],
-    "options_en": [
-      "Yes, has a readership",
-      "Only popular locally",
-      "Outdated",
-      "No, very niche"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「係，有一定讀者群」。",
-    "explanation_en": "The correct answer is 'Yes, has a readership'.",
-    "difficulty": 3
-  },
-  {
-    "id": 24,
-    "question_zh": "《其他文學小說》係咪好受歡迎？",
-    "question_en": "Is 'Other Literary' popular?",
-    "options_zh": [
-      "唔係，好冷門",
-      "只喺特定地區流行",
-      "已經過氣",
-      "係，有一定讀者群"
-    ],
-    "options_en": [
-      "No, very niche",
-      "Only popular locally",
-      "Outdated",
-      "Yes, has a readership"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係，有一定讀者群」。",
-    "explanation_en": "The correct answer is 'Yes, has a readership'.",
-    "difficulty": 1
-  },
-  {
-    "id": 25,
-    "question_zh": "《其他文學小說》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Other Literary' belong to?",
-    "options_zh": [
-      "恐怖小說",
-      "兒童文學",
-      "寫實與文學類",
-      "科幻小說"
-    ],
-    "options_en": [
-      "Horror",
-      "Children's literature",
-      "Realistic & Literary",
-      "Sci-fi"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 2
-  },
-  {
-    "id": 26,
-    "question_zh": "以下邊本係《其他文學小說》？",
-    "question_en": "Which one is 'Other Literary'?",
-    "options_zh": [
-      "其他小說A",
-      "其他小說B",
-      "其他文學小說",
-      "其他小說C"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "Other Novel B",
-      "Other Literary",
-      "Other Novel C"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「其他文學小說」。",
-    "explanation_en": "The correct answer is 'Other Literary'.",
-    "difficulty": 3
-  },
-  {
-    "id": 27,
-    "question_zh": "以下邊本係《其他文學小說》？",
-    "question_en": "Which one is 'Other Literary'?",
-    "options_zh": [
-      "其他小說A",
-      "其他小說B",
-      "其他小說C",
-      "其他文學小說"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "Other Novel B",
-      "Other Novel C",
-      "Other Literary"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「其他文學小說」。",
-    "explanation_en": "The correct answer is 'Other Literary'.",
-    "difficulty": 1
-  },
-  {
-    "id": 28,
-    "question_zh": "以下邊本係《其他文學小說》？",
-    "question_en": "Which one is 'Other Literary'?",
-    "options_zh": [
-      "其他小說A",
-      "其他文學小說",
-      "其他小說B",
-      "其他小說C"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "Other Literary",
-      "Other Novel B",
-      "Other Novel C"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「其他文學小說」。",
-    "explanation_en": "The correct answer is 'Other Literary'.",
-    "difficulty": 2
-  },
-  {
-    "id": 29,
-    "question_zh": "以下邊本係《其他文學小說》？",
-    "question_en": "Which one is 'Other Literary'?",
-    "options_zh": [
-      "其他小說B",
-      "其他小說C",
-      "其他小說A",
-      "其他文學小說"
-    ],
-    "options_en": [
-      "Other Novel B",
-      "Other Novel C",
-      "Other Novel A",
-      "Other Literary"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「其他文學小說」。",
-    "explanation_en": "The correct answer is 'Other Literary'.",
-    "difficulty": 3
-  },
-  {
-    "id": 30,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
-    "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "其他類型B",
-      "寫實與文學類"
-    ],
-    "options_en": [
-      "Genre C",
-      "Genre A",
-      "Genre B",
-      "Realistic & Literary"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 1
-  },
-  {
-    "id": 31,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
-    "options_zh": [
-      "寫實與文學類",
-      "其他類型A",
-      "其他類型C",
-      "其他類型B"
-    ],
-    "options_en": [
-      "Realistic & Literary",
-      "Genre A",
-      "Genre C",
-      "Genre B"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 2
-  },
-  {
-    "id": 32,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
-    "options_zh": [
-      "其他類型B",
-      "寫實與文學類",
-      "其他類型A",
-      "其他類型C"
-    ],
-    "options_en": [
-      "Genre B",
-      "Realistic & Literary",
-      "Genre A",
-      "Genre C"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 3
-  },
-  {
-    "id": 33,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
-    "options_zh": [
-      "寫實與文學類",
-      "其他類型B",
-      "其他類型A",
-      "其他類型C"
-    ],
-    "options_en": [
-      "Realistic & Literary",
-      "Genre B",
-      "Genre A",
-      "Genre C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 1
-  },
-  {
-    "id": 34,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
-    "options_zh": [
-      "其他類型C",
-      "其他類型B",
-      "其他類型A",
-      "寫實與文學類"
-    ],
-    "options_en": [
-      "Genre C",
-      "Genre B",
-      "Genre A",
-      "Realistic & Literary"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 2
-  },
-  {
-    "id": 35,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
-    "options_zh": [
-      "其他類型B",
-      "寫實與文學類",
-      "其他類型A",
-      "其他類型C"
-    ],
-    "options_en": [
-      "Genre B",
-      "Realistic & Literary",
-      "Genre A",
-      "Genre C"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 3
-  },
-  {
-    "id": 36,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
-    "options_zh": [
-      "其他類型A",
-      "寫實與文學類",
-      "其他類型C",
-      "其他類型B"
-    ],
-    "options_en": [
-      "Genre A",
-      "Realistic & Literary",
-      "Genre C",
-      "Genre B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 1
-  },
-  {
-    "id": 37,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
-    "options_zh": [
-      "其他類型A",
-      "寫實與文學類",
-      "其他類型B",
-      "其他類型C"
-    ],
-    "options_en": [
-      "Genre A",
-      "Realistic & Literary",
-      "Genre B",
-      "Genre C"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 2
-  },
-  {
-    "id": 38,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
-    "options_zh": [
-      "其他類型C",
-      "寫實與文學類",
-      "其他類型A",
-      "其他類型B"
-    ],
-    "options_en": [
-      "Genre C",
-      "Realistic & Literary",
-      "Genre A",
-      "Genre B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 3
-  },
-  {
-    "id": 39,
-    "question_zh": "《其他文學小說》主要講咩？",
-    "question_en": "What is 'Other Literary' mainly about?",
-    "options_zh": [
-      "財經商戰",
-      "科幻太空",
-      "現實生活同文學表達",
-      "體育競技"
-    ],
-    "options_en": [
-      "Business",
-      "Sci-fi space",
-      "Real life and literary expression",
-      "Sports"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
-    "difficulty": 1
-  },
-  {
-    "id": 40,
-    "question_zh": "《其他文學小說》主要講咩？",
-    "question_en": "What is 'Other Literary' mainly about?",
-    "options_zh": [
-      "財經商戰",
-      "科幻太空",
-      "體育競技",
-      "現實生活同文學表達"
-    ],
-    "options_en": [
-      "Business",
-      "Sci-fi space",
-      "Sports",
-      "Real life and literary expression"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
-    "difficulty": 2
-  },
-  {
-    "id": 41,
-    "question_zh": "《其他文學小說》主要講咩？",
-    "question_en": "What is 'Other Literary' mainly about?",
-    "options_zh": [
-      "財經商戰",
-      "科幻太空",
-      "體育競技",
-      "現實生活同文學表達"
-    ],
-    "options_en": [
-      "Business",
-      "Sci-fi space",
-      "Sports",
-      "Real life and literary expression"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
-    "difficulty": 3
-  },
-  {
-    "id": 42,
-    "question_zh": "《其他文學小說》入面有咩角色？",
-    "question_en": "What characters are in 'Other Literary'?",
-    "options_zh": [
-      "動物",
-      "外星人",
-      "主要角色",
-      "機械人"
-    ],
-    "options_en": [
-      "Animals",
-      "Aliens",
-      "Main characters",
-      "Robots"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 1
-  },
-  {
-    "id": 43,
-    "question_zh": "《其他文學小說》入面有咩角色？",
-    "question_en": "What characters are in 'Other Literary'?",
-    "options_zh": [
-      "動物",
-      "主要角色",
-      "機械人",
-      "外星人"
-    ],
-    "options_en": [
-      "Animals",
-      "Main characters",
-      "Robots",
-      "Aliens"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 2
-  },
-  {
-    "id": 44,
-    "question_zh": "《其他文學小說》入面有咩角色？",
-    "question_en": "What characters are in 'Other Literary'?",
-    "options_zh": [
-      "主要角色",
-      "外星人",
-      "動物",
-      "機械人"
-    ],
-    "options_en": [
-      "Main characters",
-      "Aliens",
-      "Animals",
-      "Robots"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 3
-  },
-  {
-    "id": 45,
-    "question_zh": "《其他文學小說》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Other Literary' set?",
-    "options_zh": [
-      "虛擬世界",
-      "歐洲中世紀",
-      "中國/亞洲",
-      "未來太空"
-    ],
-    "options_en": [
-      "Virtual world",
-      "Medieval Europe",
-      "China/Asia",
-      "Future space"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 1
-  },
-  {
-    "id": 46,
-    "question_zh": "《其他文學小說》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Other Literary' set?",
-    "options_zh": [
-      "虛擬世界",
-      "未來太空",
-      "歐洲中世紀",
-      "中國/亞洲"
-    ],
-    "options_en": [
-      "Virtual world",
-      "Future space",
-      "Medieval Europe",
-      "China/Asia"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 2
-  },
-  {
-    "id": 47,
     "question_zh": "《其他文學小說》嘅故事背景喺邊度？",
     "question_en": "Where is 'Other Literary' set?",
     "options_zh": [
@@ -984,6 +438,552 @@
     "answer": 1,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question_zh": "《其他文學小說》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Other Literary' set?",
+    "options_zh": [
+      "虛擬世界",
+      "歐洲中世紀",
+      "未來太空",
+      "中國/亞洲"
+    ],
+    "options_en": [
+      "Virtual world",
+      "Medieval Europe",
+      "Future space",
+      "China/Asia"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question_zh": "《其他文學小說》係咪好受歡迎？",
+    "question_en": "Is 'Other Literary' popular?",
+    "options_zh": [
+      "係，有一定讀者群",
+      "唔係，好冷門",
+      "只喺特定地區流行",
+      "已經過氣"
+    ],
+    "options_en": [
+      "Yes, has a readership",
+      "No, very niche",
+      "Only popular locally",
+      "Outdated"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「係，有一定讀者群」。",
+    "explanation_en": "The correct answer is 'Yes, has a readership'.",
+    "difficulty": 3
+  },
+  {
+    "id": 24,
+    "question_zh": "《其他文學小說》係咪好受歡迎？",
+    "question_en": "Is 'Other Literary' popular?",
+    "options_zh": [
+      "已經過氣",
+      "只喺特定地區流行",
+      "唔係，好冷門",
+      "係，有一定讀者群"
+    ],
+    "options_en": [
+      "Outdated",
+      "Only popular locally",
+      "No, very niche",
+      "Yes, has a readership"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「係，有一定讀者群」。",
+    "explanation_en": "The correct answer is 'Yes, has a readership'.",
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question_zh": "《其他文學小說》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Other Literary'?",
+    "options_zh": [
+      "德國人",
+      "韓國人",
+      "中國人",
+      "法國人"
+    ],
+    "options_en": [
+      "German",
+      "Korean",
+      "Chinese",
+      "French"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question_zh": "以下邊本係《其他文學小說》？",
+    "question_en": "Which one is 'Other Literary'?",
+    "options_zh": [
+      "其他小說B",
+      "其他文學小說",
+      "其他小說A",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Other Literary",
+      "Other Novel A",
+      "Other Novel C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「其他文學小說」。",
+    "explanation_en": "The correct answer is 'Other Literary'.",
+    "difficulty": 3
+  },
+  {
+    "id": 27,
+    "question_zh": "以下邊本係《其他文學小說》？",
+    "question_en": "Which one is 'Other Literary'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說C",
+      "其他文學小說",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel C",
+      "Other Literary",
+      "Other Novel B"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「其他文學小說」。",
+    "explanation_en": "The correct answer is 'Other Literary'.",
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question_zh": "以下邊本係《其他文學小說》？",
+    "question_en": "Which one is 'Other Literary'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說C",
+      "其他小說B",
+      "其他文學小說"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel C",
+      "Other Novel B",
+      "Other Literary"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「其他文學小說」。",
+    "explanation_en": "The correct answer is 'Other Literary'.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "以下邊本係《其他文學小說》？",
+    "question_en": "Which one is 'Other Literary'?",
+    "options_zh": [
+      "其他小說C",
+      "其他文學小說",
+      "其他小說A",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Literary",
+      "Other Novel A",
+      "Other Novel B"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「其他文學小說」。",
+    "explanation_en": "The correct answer is 'Other Literary'.",
+    "difficulty": 3
+  },
+  {
+    "id": 30,
+    "question_zh": "《其他文學小說》屬於邊種類型？",
+    "question_en": "What genre is 'Other Literary'?",
+    "options_zh": [
+      "詩歌",
+      "散文",
+      "戲劇",
+      "小說"
+    ],
+    "options_en": [
+      "Poetry",
+      "Essay",
+      "Drama",
+      "Novel"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question_zh": "《其他文學小說》屬於邊種類型？",
+    "question_en": "What genre is 'Other Literary'?",
+    "options_zh": [
+      "散文",
+      "小說",
+      "戲劇",
+      "詩歌"
+    ],
+    "options_en": [
+      "Essay",
+      "Novel",
+      "Drama",
+      "Poetry"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question_zh": "《其他文學小說》屬於邊種類型？",
+    "question_en": "What genre is 'Other Literary'?",
+    "options_zh": [
+      "詩歌",
+      "戲劇",
+      "小說",
+      "散文"
+    ],
+    "options_en": [
+      "Poetry",
+      "Drama",
+      "Novel",
+      "Essay"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
+    "difficulty": 3
+  },
+  {
+    "id": 33,
+    "question_zh": "《其他文學小說》係邊個類別？",
+    "question_en": "What category is 'Other Literary'?",
+    "options_zh": [
+      "詩歌",
+      "小說",
+      "散文",
+      "戲劇"
+    ],
+    "options_en": [
+      "Poetry",
+      "Novel",
+      "Essay",
+      "Drama"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question_zh": "《其他文學小說》係邊個類別？",
+    "question_en": "What category is 'Other Literary'?",
+    "options_zh": [
+      "詩歌",
+      "小說",
+      "戲劇",
+      "散文"
+    ],
+    "options_en": [
+      "Poetry",
+      "Novel",
+      "Drama",
+      "Essay"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question_zh": "《其他文學小說》係邊個類別？",
+    "question_en": "What category is 'Other Literary'?",
+    "options_zh": [
+      "小說",
+      "散文",
+      "戲劇",
+      "詩歌"
+    ],
+    "options_en": [
+      "Novel",
+      "Essay",
+      "Drama",
+      "Poetry"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
+    "difficulty": 3
+  },
+  {
+    "id": 36,
+    "question_zh": "《其他文學小說》係邊國作品？",
+    "question_en": "Which country is 'Other Literary' from?",
+    "options_zh": [
+      "法國",
+      "德國",
+      "韓國",
+      "中國"
+    ],
+    "options_en": [
+      "France",
+      "Germany",
+      "South Korea",
+      "China"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question_zh": "《其他文學小說》係邊國作品？",
+    "question_en": "Which country is 'Other Literary' from?",
+    "options_zh": [
+      "中國",
+      "韓國",
+      "法國",
+      "德國"
+    ],
+    "options_en": [
+      "China",
+      "South Korea",
+      "France",
+      "Germany"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "《其他文學小說》係邊國作品？",
+    "question_en": "Which country is 'Other Literary' from?",
+    "options_zh": [
+      "德國",
+      "中國",
+      "韓國",
+      "法國"
+    ],
+    "options_en": [
+      "Germany",
+      "China",
+      "South Korea",
+      "France"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 3
+  },
+  {
+    "id": 39,
+    "question_zh": "《其他文學小說》主要講咩？",
+    "question_en": "What is 'Other Literary' mainly about?",
+    "options_zh": [
+      "財經商戰",
+      "體育競技",
+      "現實生活同文學表達",
+      "科幻太空"
+    ],
+    "options_en": [
+      "Business",
+      "Sports",
+      "Real life and literary",
+      "Sci-fi"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「現實生活同文學表達」。",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question_zh": "《其他文學小說》主要講咩？",
+    "question_en": "What is 'Other Literary' mainly about?",
+    "options_zh": [
+      "科幻太空",
+      "體育競技",
+      "現實生活同文學表達",
+      "財經商戰"
+    ],
+    "options_en": [
+      "Sci-fi",
+      "Sports",
+      "Real life and literary",
+      "Business"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「現實生活同文學表達」。",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question_zh": "《其他文學小說》主要講咩？",
+    "question_en": "What is 'Other Literary' mainly about?",
+    "options_zh": [
+      "科幻太空",
+      "現實生活同文學表達",
+      "體育競技",
+      "財經商戰"
+    ],
+    "options_en": [
+      "Sci-fi",
+      "Real life and literary",
+      "Sports",
+      "Business"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「現實生活同文學表達」。",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
+    "difficulty": 3
+  },
+  {
+    "id": 42,
+    "question_zh": "《其他文學小說》入面有咩角色？",
+    "question_en": "What characters are in 'Other Literary'?",
+    "options_zh": [
+      "外星人",
+      "機械人",
+      "主要角色",
+      "動物"
+    ],
+    "options_en": [
+      "Aliens",
+      "Robots",
+      "Main characters",
+      "Animals"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question_zh": "《其他文學小說》入面有咩角色？",
+    "question_en": "What characters are in 'Other Literary'?",
+    "options_zh": [
+      "機械人",
+      "動物",
+      "外星人",
+      "主要角色"
+    ],
+    "options_en": [
+      "Robots",
+      "Animals",
+      "Aliens",
+      "Main characters"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 2
+  },
+  {
+    "id": 44,
+    "question_zh": "《其他文學小說》入面有咩角色？",
+    "question_en": "What characters are in 'Other Literary'?",
+    "options_zh": [
+      "機械人",
+      "主要角色",
+      "動物",
+      "外星人"
+    ],
+    "options_en": [
+      "Robots",
+      "Main characters",
+      "Animals",
+      "Aliens"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 3
+  },
+  {
+    "id": 45,
+    "question_zh": "《其他文學小說》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Other Literary' set?",
+    "options_zh": [
+      "中國/亞洲",
+      "歐洲中世紀",
+      "虛擬世界",
+      "未來太空"
+    ],
+    "options_en": [
+      "China/Asia",
+      "Medieval Europe",
+      "Virtual world",
+      "Future space"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question_zh": "《其他文學小說》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Other Literary' set?",
+    "options_zh": [
+      "虛擬世界",
+      "歐洲中世紀",
+      "中國/亞洲",
+      "未來太空"
+    ],
+    "options_en": [
+      "Virtual world",
+      "Medieval Europe",
+      "China/Asia",
+      "Future space"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 2
+  },
+  {
+    "id": 47,
+    "question_zh": "《其他文學小說》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Other Literary' set?",
+    "options_zh": [
+      "中國/亞洲",
+      "未來太空",
+      "歐洲中世紀",
+      "虛擬世界"
+    ],
+    "options_en": [
+      "China/Asia",
+      "Future space",
+      "Medieval Europe",
+      "Virtual world"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
   },
   {
@@ -991,18 +991,18 @@
     "question_zh": "《其他文學小說》係咪好受歡迎？",
     "question_en": "Is 'Other Literary' popular?",
     "options_zh": [
+      "係，有一定讀者群",
       "只喺特定地區流行",
       "唔係，好冷門",
-      "係，有一定讀者群",
       "已經過氣"
     ],
     "options_en": [
+      "Yes, has a readership",
       "Only popular locally",
       "No, very niche",
-      "Yes, has a readership",
       "Outdated"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 1
@@ -1012,66 +1012,45 @@
     "question_zh": "《其他文學小說》係咪好受歡迎？",
     "question_en": "Is 'Other Literary' popular?",
     "options_zh": [
-      "已經過氣",
       "只喺特定地區流行",
       "係，有一定讀者群",
+      "已經過氣",
       "唔係，好冷門"
     ],
     "options_en": [
-      "Outdated",
       "Only popular locally",
       "Yes, has a readership",
+      "Outdated",
       "No, very niche"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 2
   },
   {
     "id": 50,
-    "question_zh": "《其他文學小說》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Other Literary' belong to?",
+    "question_zh": "《其他文學小說》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Other Literary'?",
     "options_zh": [
-      "科幻小說",
-      "兒童文學",
-      "恐怖小說",
-      "寫實與文學類"
+      "中國人",
+      "法國人",
+      "德國人",
+      "韓國人"
     ],
     "options_en": [
-      "Sci-fi",
-      "Children's literature",
-      "Horror",
-      "Realistic & Literary"
+      "Chinese",
+      "French",
+      "German",
+      "Korean"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 3
   },
   {
     "id": 51,
-    "question_zh": "以下邊本係《其他文學小說》？",
-    "question_en": "Which one is 'Other Literary'?",
-    "options_zh": [
-      "其他小說A",
-      "其他小說B",
-      "其他文學小說",
-      "其他小說C"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "Other Novel B",
-      "Other Literary",
-      "Other Novel C"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「其他文學小說」。",
-    "explanation_en": "The correct answer is 'Other Literary'.",
-    "difficulty": 1
-  },
-  {
-    "id": 52,
     "question_zh": "以下邊本係《其他文學小說》？",
     "question_en": "Which one is 'Other Literary'?",
     "options_zh": [
@@ -1089,6 +1068,27 @@
     "answer": 1,
     "explanation_zh": "正確答案係「其他文學小說」。",
     "explanation_en": "The correct answer is 'Other Literary'.",
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "question_zh": "以下邊本係《其他文學小說》？",
+    "question_en": "Which one is 'Other Literary'?",
+    "options_zh": [
+      "其他小說C",
+      "其他小說A",
+      "其他文學小說",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Novel A",
+      "Other Literary",
+      "Other Novel B"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「其他文學小說」。",
+    "explanation_en": "The correct answer is 'Other Literary'.",
     "difficulty": 2
   },
   {
@@ -1096,18 +1096,18 @@
     "question_zh": "以下邊本係《其他文學小說》？",
     "question_en": "Which one is 'Other Literary'?",
     "options_zh": [
-      "其他小說B",
+      "其他文學小說",
       "其他小說C",
       "其他小說A",
-      "其他文學小說"
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel B",
+      "Other Literary",
       "Other Novel C",
       "Other Novel A",
-      "Other Literary"
+      "Other Novel B"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「其他文學小說」。",
     "explanation_en": "The correct answer is 'Other Literary'.",
     "difficulty": 3
@@ -1119,16 +1119,16 @@
     "options_zh": [
       "其他小說B",
       "其他小說A",
-      "其他小說C",
-      "其他文學小說"
+      "其他文學小說",
+      "其他小說C"
     ],
     "options_en": [
       "Other Novel B",
       "Other Novel A",
-      "Other Novel C",
-      "Other Literary"
+      "Other Literary",
+      "Other Novel C"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「其他文學小說」。",
     "explanation_en": "The correct answer is 'Other Literary'.",
     "difficulty": 1
@@ -1138,20 +1138,20 @@
     "question_zh": "《其他文學小說》屬於邊種類型？",
     "question_en": "What genre is 'Other Literary'?",
     "options_zh": [
-      "其他類型B",
-      "寫實與文學類",
-      "其他類型A",
-      "其他類型C"
+      "小說",
+      "戲劇",
+      "散文",
+      "詩歌"
     ],
     "options_en": [
-      "Genre B",
-      "Realistic & Literary",
-      "Genre A",
-      "Genre C"
+      "Novel",
+      "Drama",
+      "Essay",
+      "Poetry"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 2
   },
   {
@@ -1159,20 +1159,20 @@
     "question_zh": "《其他文學小說》屬於邊種類型？",
     "question_en": "What genre is 'Other Literary'?",
     "options_zh": [
-      "其他類型A",
-      "寫實與文學類",
-      "其他類型C",
-      "其他類型B"
+      "小說",
+      "散文",
+      "詩歌",
+      "戲劇"
     ],
     "options_en": [
-      "Genre A",
-      "Realistic & Literary",
-      "Genre C",
-      "Genre B"
+      "Novel",
+      "Essay",
+      "Poetry",
+      "Drama"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 3
   },
   {
@@ -1180,146 +1180,146 @@
     "question_zh": "《其他文學小說》屬於邊種類型？",
     "question_en": "What genre is 'Other Literary'?",
     "options_zh": [
-      "其他類型C",
-      "寫實與文學類",
-      "其他類型A",
-      "其他類型B"
+      "散文",
+      "詩歌",
+      "小說",
+      "戲劇"
     ],
     "options_en": [
-      "Genre C",
-      "Realistic & Literary",
-      "Genre A",
-      "Genre B"
+      "Essay",
+      "Poetry",
+      "Novel",
+      "Drama"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 1
   },
   {
     "id": 58,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
+    "question_zh": "《其他文學小說》係邊個類別？",
+    "question_en": "What category is 'Other Literary'?",
     "options_zh": [
-      "其他類型A",
-      "其他類型B",
-      "寫實與文學類",
-      "其他類型C"
+      "散文",
+      "戲劇",
+      "小說",
+      "詩歌"
     ],
     "options_en": [
-      "Genre A",
-      "Genre B",
-      "Realistic & Literary",
-      "Genre C"
+      "Essay",
+      "Drama",
+      "Novel",
+      "Poetry"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 2
   },
   {
     "id": 59,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
+    "question_zh": "《其他文學小說》係邊個類別？",
+    "question_en": "What category is 'Other Literary'?",
     "options_zh": [
-      "其他類型C",
-      "寫實與文學類",
-      "其他類型B",
-      "其他類型A"
+      "詩歌",
+      "戲劇",
+      "散文",
+      "小說"
     ],
     "options_en": [
-      "Genre C",
-      "Realistic & Literary",
-      "Genre B",
-      "Genre A"
+      "Poetry",
+      "Drama",
+      "Essay",
+      "Novel"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 3
   },
   {
     "id": 60,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
+    "question_zh": "《其他文學小說》係邊個類別？",
+    "question_en": "What category is 'Other Literary'?",
     "options_zh": [
-      "寫實與文學類",
-      "其他類型A",
-      "其他類型C",
-      "其他類型B"
+      "戲劇",
+      "詩歌",
+      "散文",
+      "小說"
     ],
     "options_en": [
-      "Realistic & Literary",
-      "Genre A",
-      "Genre C",
-      "Genre B"
+      "Drama",
+      "Poetry",
+      "Essay",
+      "Novel"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 1
   },
   {
     "id": 61,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
+    "question_zh": "《其他文學小說》係邊國作品？",
+    "question_en": "Which country is 'Other Literary' from?",
     "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "寫實與文學類",
-      "其他類型B"
+      "韓國",
+      "中國",
+      "法國",
+      "德國"
     ],
     "options_en": [
-      "Genre C",
-      "Genre A",
-      "Realistic & Literary",
-      "Genre B"
+      "South Korea",
+      "China",
+      "France",
+      "Germany"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
     "id": 62,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
+    "question_zh": "《其他文學小說》係邊國作品？",
+    "question_en": "Which country is 'Other Literary' from?",
     "options_zh": [
-      "其他類型B",
-      "寫實與文學類",
-      "其他類型C",
-      "其他類型A"
+      "法國",
+      "中國",
+      "德國",
+      "韓國"
     ],
     "options_en": [
-      "Genre B",
-      "Realistic & Literary",
-      "Genre C",
-      "Genre A"
+      "France",
+      "China",
+      "Germany",
+      "South Korea"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 63,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
+    "question_zh": "《其他文學小說》係邊國作品？",
+    "question_en": "Which country is 'Other Literary' from?",
     "options_zh": [
-      "其他類型B",
-      "寫實與文學類",
-      "其他類型C",
-      "其他類型A"
+      "德國",
+      "中國",
+      "韓國",
+      "法國"
     ],
     "options_en": [
-      "Genre B",
-      "Realistic & Literary",
-      "Genre C",
-      "Genre A"
+      "Germany",
+      "China",
+      "South Korea",
+      "France"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
@@ -1327,20 +1327,20 @@
     "question_zh": "《其他文學小說》主要講咩？",
     "question_en": "What is 'Other Literary' mainly about?",
     "options_zh": [
-      "現實生活同文學表達",
-      "科幻太空",
+      "體育競技",
       "財經商戰",
-      "體育競技"
+      "現實生活同文學表達",
+      "科幻太空"
     ],
     "options_en": [
-      "Real life and literary expression",
-      "Sci-fi space",
+      "Sports",
       "Business",
-      "Sports"
+      "Real life and literary",
+      "Sci-fi"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 2
   },
   {
@@ -1348,20 +1348,20 @@
     "question_zh": "《其他文學小說》主要講咩？",
     "question_en": "What is 'Other Literary' mainly about?",
     "options_zh": [
-      "科幻太空",
-      "現實生活同文學表達",
       "體育競技",
-      "財經商戰"
+      "科幻太空",
+      "財經商戰",
+      "現實生活同文學表達"
     ],
     "options_en": [
-      "Sci-fi space",
-      "Real life and literary expression",
       "Sports",
-      "Business"
+      "Sci-fi",
+      "Business",
+      "Real life and literary"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 3
   },
   {
@@ -1370,19 +1370,19 @@
     "question_en": "What is 'Other Literary' mainly about?",
     "options_zh": [
       "科幻太空",
-      "現實生活同文學表達",
+      "體育競技",
       "財經商戰",
-      "體育競技"
+      "現實生活同文學表達"
     ],
     "options_en": [
-      "Sci-fi space",
-      "Real life and literary expression",
+      "Sci-fi",
+      "Sports",
       "Business",
-      "Sports"
+      "Real life and literary"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 1
   },
   {
@@ -1390,18 +1390,18 @@
     "question_zh": "《其他文學小說》入面有咩角色？",
     "question_en": "What characters are in 'Other Literary'?",
     "options_zh": [
-      "外星人",
-      "動物",
+      "機械人",
       "主要角色",
-      "機械人"
+      "動物",
+      "外星人"
     ],
     "options_en": [
-      "Aliens",
-      "Animals",
+      "Robots",
       "Main characters",
-      "Robots"
+      "Animals",
+      "Aliens"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 2
@@ -1411,14 +1411,14 @@
     "question_zh": "《其他文學小說》入面有咩角色？",
     "question_en": "What characters are in 'Other Literary'?",
     "options_zh": [
-      "機械人",
       "外星人",
+      "機械人",
       "動物",
       "主要角色"
     ],
     "options_en": [
-      "Robots",
       "Aliens",
+      "Robots",
       "Animals",
       "Main characters"
     ],
@@ -1429,6 +1429,489 @@
   },
   {
     "id": 69,
+    "question_zh": "《其他文學小說》入面有咩角色？",
+    "question_en": "What characters are in 'Other Literary'?",
+    "options_zh": [
+      "機械人",
+      "動物",
+      "外星人",
+      "主要角色"
+    ],
+    "options_en": [
+      "Robots",
+      "Animals",
+      "Aliens",
+      "Main characters"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 1
+  },
+  {
+    "id": 70,
+    "question_zh": "《其他文學小說》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Other Literary' set?",
+    "options_zh": [
+      "未來太空",
+      "歐洲中世紀",
+      "中國/亞洲",
+      "虛擬世界"
+    ],
+    "options_en": [
+      "Future space",
+      "Medieval Europe",
+      "China/Asia",
+      "Virtual world"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 2
+  },
+  {
+    "id": 71,
+    "question_zh": "《其他文學小說》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Other Literary' set?",
+    "options_zh": [
+      "未來太空",
+      "中國/亞洲",
+      "歐洲中世紀",
+      "虛擬世界"
+    ],
+    "options_en": [
+      "Future space",
+      "China/Asia",
+      "Medieval Europe",
+      "Virtual world"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 3
+  },
+  {
+    "id": 72,
+    "question_zh": "《其他文學小說》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Other Literary' set?",
+    "options_zh": [
+      "未來太空",
+      "中國/亞洲",
+      "虛擬世界",
+      "歐洲中世紀"
+    ],
+    "options_en": [
+      "Future space",
+      "China/Asia",
+      "Virtual world",
+      "Medieval Europe"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 1
+  },
+  {
+    "id": 73,
+    "question_zh": "《其他文學小說》係咪好受歡迎？",
+    "question_en": "Is 'Other Literary' popular?",
+    "options_zh": [
+      "唔係，好冷門",
+      "只喺特定地區流行",
+      "已經過氣",
+      "係，有一定讀者群"
+    ],
+    "options_en": [
+      "No, very niche",
+      "Only popular locally",
+      "Outdated",
+      "Yes, has a readership"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「係，有一定讀者群」。",
+    "explanation_en": "The correct answer is 'Yes, has a readership'.",
+    "difficulty": 2
+  },
+  {
+    "id": 74,
+    "question_zh": "《其他文學小說》係咪好受歡迎？",
+    "question_en": "Is 'Other Literary' popular?",
+    "options_zh": [
+      "只喺特定地區流行",
+      "已經過氣",
+      "唔係，好冷門",
+      "係，有一定讀者群"
+    ],
+    "options_en": [
+      "Only popular locally",
+      "Outdated",
+      "No, very niche",
+      "Yes, has a readership"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「係，有一定讀者群」。",
+    "explanation_en": "The correct answer is 'Yes, has a readership'.",
+    "difficulty": 3
+  },
+  {
+    "id": 75,
+    "question_zh": "《其他文學小說》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Other Literary'?",
+    "options_zh": [
+      "法國人",
+      "韓國人",
+      "德國人",
+      "中國人"
+    ],
+    "options_en": [
+      "French",
+      "Korean",
+      "German",
+      "Chinese"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 1
+  },
+  {
+    "id": 76,
+    "question_zh": "以下邊本係《其他文學小說》？",
+    "question_en": "Which one is 'Other Literary'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說C",
+      "其他小說B",
+      "其他文學小說"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel C",
+      "Other Novel B",
+      "Other Literary"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「其他文學小說」。",
+    "explanation_en": "The correct answer is 'Other Literary'.",
+    "difficulty": 2
+  },
+  {
+    "id": 77,
+    "question_zh": "以下邊本係《其他文學小說》？",
+    "question_en": "Which one is 'Other Literary'?",
+    "options_zh": [
+      "其他小說C",
+      "其他小說A",
+      "其他小說B",
+      "其他文學小說"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Novel A",
+      "Other Novel B",
+      "Other Literary"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「其他文學小說」。",
+    "explanation_en": "The correct answer is 'Other Literary'.",
+    "difficulty": 3
+  },
+  {
+    "id": 78,
+    "question_zh": "以下邊本係《其他文學小說》？",
+    "question_en": "Which one is 'Other Literary'?",
+    "options_zh": [
+      "其他小說C",
+      "其他文學小說",
+      "其他小說B",
+      "其他小說A"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Literary",
+      "Other Novel B",
+      "Other Novel A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「其他文學小說」。",
+    "explanation_en": "The correct answer is 'Other Literary'.",
+    "difficulty": 1
+  },
+  {
+    "id": 79,
+    "question_zh": "以下邊本係《其他文學小說》？",
+    "question_en": "Which one is 'Other Literary'?",
+    "options_zh": [
+      "其他小說C",
+      "其他小說A",
+      "其他小說B",
+      "其他文學小說"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Novel A",
+      "Other Novel B",
+      "Other Literary"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「其他文學小說」。",
+    "explanation_en": "The correct answer is 'Other Literary'.",
+    "difficulty": 2
+  },
+  {
+    "id": 80,
+    "question_zh": "《其他文學小說》屬於邊種類型？",
+    "question_en": "What genre is 'Other Literary'?",
+    "options_zh": [
+      "散文",
+      "詩歌",
+      "戲劇",
+      "小說"
+    ],
+    "options_en": [
+      "Essay",
+      "Poetry",
+      "Drama",
+      "Novel"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
+    "difficulty": 3
+  },
+  {
+    "id": 81,
+    "question_zh": "《其他文學小說》屬於邊種類型？",
+    "question_en": "What genre is 'Other Literary'?",
+    "options_zh": [
+      "小說",
+      "散文",
+      "詩歌",
+      "戲劇"
+    ],
+    "options_en": [
+      "Novel",
+      "Essay",
+      "Poetry",
+      "Drama"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
+    "difficulty": 1
+  },
+  {
+    "id": 82,
+    "question_zh": "《其他文學小說》屬於邊種類型？",
+    "question_en": "What genre is 'Other Literary'?",
+    "options_zh": [
+      "戲劇",
+      "詩歌",
+      "散文",
+      "小說"
+    ],
+    "options_en": [
+      "Drama",
+      "Poetry",
+      "Essay",
+      "Novel"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
+    "difficulty": 2
+  },
+  {
+    "id": 83,
+    "question_zh": "《其他文學小說》係邊個類別？",
+    "question_en": "What category is 'Other Literary'?",
+    "options_zh": [
+      "小說",
+      "詩歌",
+      "散文",
+      "戲劇"
+    ],
+    "options_en": [
+      "Novel",
+      "Poetry",
+      "Essay",
+      "Drama"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
+    "difficulty": 3
+  },
+  {
+    "id": 84,
+    "question_zh": "《其他文學小說》係邊個類別？",
+    "question_en": "What category is 'Other Literary'?",
+    "options_zh": [
+      "小說",
+      "詩歌",
+      "戲劇",
+      "散文"
+    ],
+    "options_en": [
+      "Novel",
+      "Poetry",
+      "Drama",
+      "Essay"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
+    "difficulty": 1
+  },
+  {
+    "id": 85,
+    "question_zh": "《其他文學小說》係邊個類別？",
+    "question_en": "What category is 'Other Literary'?",
+    "options_zh": [
+      "詩歌",
+      "散文",
+      "小說",
+      "戲劇"
+    ],
+    "options_en": [
+      "Poetry",
+      "Essay",
+      "Novel",
+      "Drama"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
+    "difficulty": 2
+  },
+  {
+    "id": 86,
+    "question_zh": "《其他文學小說》係邊國作品？",
+    "question_en": "Which country is 'Other Literary' from?",
+    "options_zh": [
+      "德國",
+      "法國",
+      "中國",
+      "韓國"
+    ],
+    "options_en": [
+      "Germany",
+      "France",
+      "China",
+      "South Korea"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 3
+  },
+  {
+    "id": 87,
+    "question_zh": "《其他文學小說》係邊國作品？",
+    "question_en": "Which country is 'Other Literary' from?",
+    "options_zh": [
+      "中國",
+      "法國",
+      "韓國",
+      "德國"
+    ],
+    "options_en": [
+      "China",
+      "France",
+      "South Korea",
+      "Germany"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 1
+  },
+  {
+    "id": 88,
+    "question_zh": "《其他文學小說》係邊國作品？",
+    "question_en": "Which country is 'Other Literary' from?",
+    "options_zh": [
+      "韓國",
+      "德國",
+      "法國",
+      "中國"
+    ],
+    "options_en": [
+      "South Korea",
+      "Germany",
+      "France",
+      "China"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 2
+  },
+  {
+    "id": 89,
+    "question_zh": "《其他文學小說》主要講咩？",
+    "question_en": "What is 'Other Literary' mainly about?",
+    "options_zh": [
+      "現實生活同文學表達",
+      "科幻太空",
+      "財經商戰",
+      "體育競技"
+    ],
+    "options_en": [
+      "Real life and literary",
+      "Sci-fi",
+      "Business",
+      "Sports"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「現實生活同文學表達」。",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
+    "difficulty": 3
+  },
+  {
+    "id": 90,
+    "question_zh": "《其他文學小說》主要講咩？",
+    "question_en": "What is 'Other Literary' mainly about?",
+    "options_zh": [
+      "財經商戰",
+      "科幻太空",
+      "體育競技",
+      "現實生活同文學表達"
+    ],
+    "options_en": [
+      "Business",
+      "Sci-fi",
+      "Sports",
+      "Real life and literary"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「現實生活同文學表達」。",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
+    "difficulty": 1
+  },
+  {
+    "id": 91,
+    "question_zh": "《其他文學小說》主要講咩？",
+    "question_en": "What is 'Other Literary' mainly about?",
+    "options_zh": [
+      "財經商戰",
+      "現實生活同文學表達",
+      "科幻太空",
+      "體育競技"
+    ],
+    "options_en": [
+      "Business",
+      "Real life and literary",
+      "Sci-fi",
+      "Sports"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「現實生活同文學表達」。",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
+    "difficulty": 2
+  },
+  {
+    "id": 92,
     "question_zh": "《其他文學小說》入面有咩角色？",
     "question_en": "What characters are in 'Other Literary'?",
     "options_zh": [
@@ -1446,52 +1929,52 @@
     "answer": 1,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 1
-  },
-  {
-    "id": 70,
-    "question_zh": "《其他文學小說》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Other Literary' set?",
-    "options_zh": [
-      "虛擬世界",
-      "歐洲中世紀",
-      "中國/亞洲",
-      "未來太空"
-    ],
-    "options_en": [
-      "Virtual world",
-      "Medieval Europe",
-      "China/Asia",
-      "Future space"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 2
-  },
-  {
-    "id": 71,
-    "question_zh": "《其他文學小說》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Other Literary' set?",
-    "options_zh": [
-      "歐洲中世紀",
-      "中國/亞洲",
-      "虛擬世界",
-      "未來太空"
-    ],
-    "options_en": [
-      "Medieval Europe",
-      "China/Asia",
-      "Virtual world",
-      "Future space"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
   },
   {
-    "id": 72,
+    "id": 93,
+    "question_zh": "《其他文學小說》入面有咩角色？",
+    "question_en": "What characters are in 'Other Literary'?",
+    "options_zh": [
+      "機械人",
+      "外星人",
+      "動物",
+      "主要角色"
+    ],
+    "options_en": [
+      "Robots",
+      "Aliens",
+      "Animals",
+      "Main characters"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 1
+  },
+  {
+    "id": 94,
+    "question_zh": "《其他文學小說》入面有咩角色？",
+    "question_en": "What characters are in 'Other Literary'?",
+    "options_zh": [
+      "外星人",
+      "主要角色",
+      "機械人",
+      "動物"
+    ],
+    "options_en": [
+      "Aliens",
+      "Main characters",
+      "Robots",
+      "Animals"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 2
+  },
+  {
+    "id": 95,
     "question_zh": "《其他文學小說》嘅故事背景喺邊度？",
     "question_en": "Where is 'Other Literary' set?",
     "options_zh": [
@@ -1509,489 +1992,6 @@
     "answer": 3,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 1
-  },
-  {
-    "id": 73,
-    "question_zh": "《其他文學小說》係咪好受歡迎？",
-    "question_en": "Is 'Other Literary' popular?",
-    "options_zh": [
-      "只喺特定地區流行",
-      "已經過氣",
-      "唔係，好冷門",
-      "係，有一定讀者群"
-    ],
-    "options_en": [
-      "Only popular locally",
-      "Outdated",
-      "No, very niche",
-      "Yes, has a readership"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係，有一定讀者群」。",
-    "explanation_en": "The correct answer is 'Yes, has a readership'.",
-    "difficulty": 2
-  },
-  {
-    "id": 74,
-    "question_zh": "《其他文學小說》係咪好受歡迎？",
-    "question_en": "Is 'Other Literary' popular?",
-    "options_zh": [
-      "已經過氣",
-      "只喺特定地區流行",
-      "唔係，好冷門",
-      "係，有一定讀者群"
-    ],
-    "options_en": [
-      "Outdated",
-      "Only popular locally",
-      "No, very niche",
-      "Yes, has a readership"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係，有一定讀者群」。",
-    "explanation_en": "The correct answer is 'Yes, has a readership'.",
-    "difficulty": 3
-  },
-  {
-    "id": 75,
-    "question_zh": "《其他文學小說》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Other Literary' belong to?",
-    "options_zh": [
-      "寫實與文學類",
-      "兒童文學",
-      "恐怖小說",
-      "科幻小說"
-    ],
-    "options_en": [
-      "Realistic & Literary",
-      "Children's literature",
-      "Horror",
-      "Sci-fi"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 1
-  },
-  {
-    "id": 76,
-    "question_zh": "以下邊本係《其他文學小說》？",
-    "question_en": "Which one is 'Other Literary'?",
-    "options_zh": [
-      "其他小說B",
-      "其他小說A",
-      "其他小說C",
-      "其他文學小說"
-    ],
-    "options_en": [
-      "Other Novel B",
-      "Other Novel A",
-      "Other Novel C",
-      "Other Literary"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「其他文學小說」。",
-    "explanation_en": "The correct answer is 'Other Literary'.",
-    "difficulty": 2
-  },
-  {
-    "id": 77,
-    "question_zh": "以下邊本係《其他文學小說》？",
-    "question_en": "Which one is 'Other Literary'?",
-    "options_zh": [
-      "其他文學小說",
-      "其他小說B",
-      "其他小說C",
-      "其他小說A"
-    ],
-    "options_en": [
-      "Other Literary",
-      "Other Novel B",
-      "Other Novel C",
-      "Other Novel A"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「其他文學小說」。",
-    "explanation_en": "The correct answer is 'Other Literary'.",
-    "difficulty": 3
-  },
-  {
-    "id": 78,
-    "question_zh": "以下邊本係《其他文學小說》？",
-    "question_en": "Which one is 'Other Literary'?",
-    "options_zh": [
-      "其他小說B",
-      "其他小說A",
-      "其他小說C",
-      "其他文學小說"
-    ],
-    "options_en": [
-      "Other Novel B",
-      "Other Novel A",
-      "Other Novel C",
-      "Other Literary"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「其他文學小說」。",
-    "explanation_en": "The correct answer is 'Other Literary'.",
-    "difficulty": 1
-  },
-  {
-    "id": 79,
-    "question_zh": "以下邊本係《其他文學小說》？",
-    "question_en": "Which one is 'Other Literary'?",
-    "options_zh": [
-      "其他小說B",
-      "其他小說C",
-      "其他文學小說",
-      "其他小說A"
-    ],
-    "options_en": [
-      "Other Novel B",
-      "Other Novel C",
-      "Other Literary",
-      "Other Novel A"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「其他文學小說」。",
-    "explanation_en": "The correct answer is 'Other Literary'.",
-    "difficulty": 2
-  },
-  {
-    "id": 80,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
-    "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "其他類型B",
-      "寫實與文學類"
-    ],
-    "options_en": [
-      "Genre C",
-      "Genre A",
-      "Genre B",
-      "Realistic & Literary"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 3
-  },
-  {
-    "id": 81,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
-    "options_zh": [
-      "寫實與文學類",
-      "其他類型A",
-      "其他類型C",
-      "其他類型B"
-    ],
-    "options_en": [
-      "Realistic & Literary",
-      "Genre A",
-      "Genre C",
-      "Genre B"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 1
-  },
-  {
-    "id": 82,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
-    "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "其他類型B",
-      "寫實與文學類"
-    ],
-    "options_en": [
-      "Genre C",
-      "Genre A",
-      "Genre B",
-      "Realistic & Literary"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 2
-  },
-  {
-    "id": 83,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
-    "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "其他類型B",
-      "寫實與文學類"
-    ],
-    "options_en": [
-      "Genre C",
-      "Genre A",
-      "Genre B",
-      "Realistic & Literary"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 3
-  },
-  {
-    "id": 84,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
-    "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "寫實與文學類",
-      "其他類型B"
-    ],
-    "options_en": [
-      "Genre C",
-      "Genre A",
-      "Realistic & Literary",
-      "Genre B"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 1
-  },
-  {
-    "id": 85,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
-    "options_zh": [
-      "其他類型C",
-      "寫實與文學類",
-      "其他類型B",
-      "其他類型A"
-    ],
-    "options_en": [
-      "Genre C",
-      "Realistic & Literary",
-      "Genre B",
-      "Genre A"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 2
-  },
-  {
-    "id": 86,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
-    "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "其他類型B",
-      "寫實與文學類"
-    ],
-    "options_en": [
-      "Genre C",
-      "Genre A",
-      "Genre B",
-      "Realistic & Literary"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 3
-  },
-  {
-    "id": 87,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
-    "options_zh": [
-      "寫實與文學類",
-      "其他類型C",
-      "其他類型A",
-      "其他類型B"
-    ],
-    "options_en": [
-      "Realistic & Literary",
-      "Genre C",
-      "Genre A",
-      "Genre B"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 1
-  },
-  {
-    "id": 88,
-    "question_zh": "《其他文學小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Literary'?",
-    "options_zh": [
-      "其他類型A",
-      "寫實與文學類",
-      "其他類型C",
-      "其他類型B"
-    ],
-    "options_en": [
-      "Genre A",
-      "Realistic & Literary",
-      "Genre C",
-      "Genre B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
-    "difficulty": 2
-  },
-  {
-    "id": 89,
-    "question_zh": "《其他文學小說》主要講咩？",
-    "question_en": "What is 'Other Literary' mainly about?",
-    "options_zh": [
-      "現實生活同文學表達",
-      "科幻太空",
-      "體育競技",
-      "財經商戰"
-    ],
-    "options_en": [
-      "Real life and literary expression",
-      "Sci-fi space",
-      "Sports",
-      "Business"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
-    "difficulty": 3
-  },
-  {
-    "id": 90,
-    "question_zh": "《其他文學小說》主要講咩？",
-    "question_en": "What is 'Other Literary' mainly about?",
-    "options_zh": [
-      "財經商戰",
-      "科幻太空",
-      "現實生活同文學表達",
-      "體育競技"
-    ],
-    "options_en": [
-      "Business",
-      "Sci-fi space",
-      "Real life and literary expression",
-      "Sports"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
-    "difficulty": 1
-  },
-  {
-    "id": 91,
-    "question_zh": "《其他文學小說》主要講咩？",
-    "question_en": "What is 'Other Literary' mainly about?",
-    "options_zh": [
-      "財經商戰",
-      "科幻太空",
-      "體育競技",
-      "現實生活同文學表達"
-    ],
-    "options_en": [
-      "Business",
-      "Sci-fi space",
-      "Sports",
-      "Real life and literary expression"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
-    "difficulty": 2
-  },
-  {
-    "id": 92,
-    "question_zh": "《其他文學小說》入面有咩角色？",
-    "question_en": "What characters are in 'Other Literary'?",
-    "options_zh": [
-      "動物",
-      "機械人",
-      "外星人",
-      "主要角色"
-    ],
-    "options_en": [
-      "Animals",
-      "Robots",
-      "Aliens",
-      "Main characters"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 3
-  },
-  {
-    "id": 93,
-    "question_zh": "《其他文學小說》入面有咩角色？",
-    "question_en": "What characters are in 'Other Literary'?",
-    "options_zh": [
-      "機械人",
-      "動物",
-      "主要角色",
-      "外星人"
-    ],
-    "options_en": [
-      "Robots",
-      "Animals",
-      "Main characters",
-      "Aliens"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 1
-  },
-  {
-    "id": 94,
-    "question_zh": "《其他文學小說》入面有咩角色？",
-    "question_en": "What characters are in 'Other Literary'?",
-    "options_zh": [
-      "動物",
-      "主要角色",
-      "外星人",
-      "機械人"
-    ],
-    "options_en": [
-      "Animals",
-      "Main characters",
-      "Aliens",
-      "Robots"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 2
-  },
-  {
-    "id": 95,
-    "question_zh": "《其他文學小說》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Other Literary' set?",
-    "options_zh": [
-      "中國/亞洲",
-      "未來太空",
-      "虛擬世界",
-      "歐洲中世紀"
-    ],
-    "options_en": [
-      "China/Asia",
-      "Future space",
-      "Virtual world",
-      "Medieval Europe"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
   },
   {
@@ -1999,18 +1999,18 @@
     "question_zh": "《其他文學小說》嘅故事背景喺邊度？",
     "question_en": "Where is 'Other Literary' set?",
     "options_zh": [
-      "中國/亞洲",
+      "歐洲中世紀",
       "虛擬世界",
       "未來太空",
-      "歐洲中世紀"
+      "中國/亞洲"
     ],
     "options_en": [
-      "China/Asia",
+      "Medieval Europe",
       "Virtual world",
       "Future space",
-      "Medieval Europe"
+      "China/Asia"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 1
@@ -2020,18 +2020,18 @@
     "question_zh": "《其他文學小說》嘅故事背景喺邊度？",
     "question_en": "Where is 'Other Literary' set?",
     "options_zh": [
+      "未來太空",
       "中國/亞洲",
       "歐洲中世紀",
-      "未來太空",
       "虛擬世界"
     ],
     "options_en": [
+      "Future space",
       "China/Asia",
       "Medieval Europe",
-      "Future space",
       "Virtual world"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 2
@@ -2042,15 +2042,15 @@
     "question_en": "Is 'Other Literary' popular?",
     "options_zh": [
       "係，有一定讀者群",
+      "唔係，好冷門",
       "已經過氣",
-      "只喺特定地區流行",
-      "唔係，好冷門"
+      "只喺特定地區流行"
     ],
     "options_en": [
       "Yes, has a readership",
+      "No, very niche",
       "Outdated",
-      "Only popular locally",
-      "No, very niche"
+      "Only popular locally"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
@@ -2062,41 +2062,41 @@
     "question_zh": "《其他文學小說》係咪好受歡迎？",
     "question_en": "Is 'Other Literary' popular?",
     "options_zh": [
+      "係，有一定讀者群",
       "唔係，好冷門",
       "只喺特定地區流行",
-      "係，有一定讀者群",
       "已經過氣"
     ],
     "options_en": [
+      "Yes, has a readership",
       "No, very niche",
       "Only popular locally",
-      "Yes, has a readership",
       "Outdated"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 1
   },
   {
     "id": 100,
-    "question_zh": "《其他文學小說》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Other Literary' belong to?",
+    "question_zh": "《其他文學小說》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Other Literary'?",
     "options_zh": [
-      "恐怖小說",
-      "寫實與文學類",
-      "科幻小說",
-      "兒童文學"
+      "法國人",
+      "韓國人",
+      "德國人",
+      "中國人"
     ],
     "options_en": [
-      "Horror",
-      "Realistic & Literary",
-      "Sci-fi",
-      "Children's literature"
+      "French",
+      "Korean",
+      "German",
+      "Chinese"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
   }
 ]

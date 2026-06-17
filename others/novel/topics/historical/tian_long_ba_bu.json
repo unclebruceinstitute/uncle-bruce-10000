@@ -4,18 +4,18 @@
     "question_zh": "以下邊本係《天龍八部》？",
     "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
     "options_zh": [
-      "其他小說A",
-      "其他小說B",
       "天龍八部",
-      "其他小說C"
+      "其他小說C",
+      "其他小說A",
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel A",
-      "Other Novel B",
       "Demi-Gods and Semi-Devils",
-      "Other Novel C"
+      "Other Novel C",
+      "Other Novel A",
+      "Other Novel B"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「天龍八部」。",
     "explanation_en": "The correct answer is 'Demi-Gods and Semi-Devils'.",
     "difficulty": 2
@@ -25,18 +25,18 @@
     "question_zh": "以下邊本係《天龍八部》？",
     "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
     "options_zh": [
-      "其他小說A",
-      "天龍八部",
       "其他小說B",
-      "其他小說C"
+      "其他小說C",
+      "其他小說A",
+      "天龍八部"
     ],
     "options_en": [
-      "Other Novel A",
-      "Demi-Gods and Semi-Devils",
       "Other Novel B",
-      "Other Novel C"
+      "Other Novel C",
+      "Other Novel A",
+      "Demi-Gods and Semi-Devils"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「天龍八部」。",
     "explanation_en": "The correct answer is 'Demi-Gods and Semi-Devils'.",
     "difficulty": 3
@@ -47,15 +47,15 @@
     "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
     "options_zh": [
       "其他小說C",
-      "其他小說B",
+      "其他小說A",
       "天龍八部",
-      "其他小說A"
+      "其他小說B"
     ],
     "options_en": [
       "Other Novel C",
-      "Other Novel B",
+      "Other Novel A",
       "Demi-Gods and Semi-Devils",
-      "Other Novel A"
+      "Other Novel B"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「天龍八部」。",
@@ -67,45 +67,24 @@
     "question_zh": "以下邊本係《天龍八部》？",
     "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
     "options_zh": [
-      "其他小說A",
-      "其他小說B",
+      "其他小說C",
       "天龍八部",
-      "其他小說C"
+      "其他小說A",
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel A",
-      "Other Novel B",
+      "Other Novel C",
       "Demi-Gods and Semi-Devils",
-      "Other Novel C"
+      "Other Novel A",
+      "Other Novel B"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「天龍八部」。",
     "explanation_en": "The correct answer is 'Demi-Gods and Semi-Devils'.",
     "difficulty": 2
   },
   {
     "id": 5,
-    "question_zh": "《天龍八部》嘅作者係邊個？",
-    "question_en": "Who wrote 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "其他作者A",
-      "金庸",
-      "其他作者C",
-      "其他作者B"
-    ],
-    "options_en": [
-      "Author A",
-      "Jin Yong",
-      "Author C",
-      "Author B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「金庸」。",
-    "explanation_en": "The correct answer is 'Jin Yong'.",
-    "difficulty": 3
-  },
-  {
-    "id": 6,
     "question_zh": "《天龍八部》嘅作者係邊個？",
     "question_en": "Who wrote 'Demi-Gods and Semi-Devils'?",
     "options_zh": [
@@ -123,6 +102,27 @@
     "answer": 0,
     "explanation_zh": "正確答案係「金庸」。",
     "explanation_en": "The correct answer is 'Jin Yong'.",
+    "difficulty": 3
+  },
+  {
+    "id": 6,
+    "question_zh": "《天龍八部》嘅作者係邊個？",
+    "question_en": "Who wrote 'Demi-Gods and Semi-Devils'?",
+    "options_zh": [
+      "其他作者C",
+      "其他作者A",
+      "其他作者B",
+      "金庸"
+    ],
+    "options_en": [
+      "Author C",
+      "Author A",
+      "Author B",
+      "Jin Yong"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「金庸」。",
+    "explanation_en": "The correct answer is 'Jin Yong'.",
     "difficulty": 1
   },
   {
@@ -130,18 +130,18 @@
     "question_zh": "《天龍八部》嘅作者係邊個？",
     "question_en": "Who wrote 'Demi-Gods and Semi-Devils'?",
     "options_zh": [
-      "其他作者C",
-      "其他作者A",
       "金庸",
-      "其他作者B"
+      "其他作者B",
+      "其他作者C",
+      "其他作者A"
     ],
     "options_en": [
-      "Author C",
-      "Author A",
       "Jin Yong",
-      "Author B"
+      "Author B",
+      "Author C",
+      "Author A"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「金庸」。",
     "explanation_en": "The correct answer is 'Jin Yong'.",
     "difficulty": 2
@@ -151,18 +151,18 @@
     "question_zh": "《天龍八部》係邊年出版嘅？",
     "question_en": "What year was 'Demi-Gods and Semi-Devils' published?",
     "options_zh": [
-      "1968年",
-      "1965年",
       "1958年",
-      "1963年"
+      "1963年",
+      "1968年",
+      "1966年"
     ],
     "options_en": [
-      "1968",
-      "1965",
       "1958",
-      "1963"
+      "1963",
+      "1968",
+      "1966"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「1963年」。",
     "explanation_en": "The correct answer is '1963'.",
     "difficulty": 3
@@ -172,18 +172,18 @@
     "question_zh": "《天龍八部》係邊年出版嘅？",
     "question_en": "What year was 'Demi-Gods and Semi-Devils' published?",
     "options_zh": [
+      "1960年",
+      "1965年",
       "1963年",
-      "1958年",
-      "1961年",
-      "1966年"
+      "1958年"
     ],
     "options_en": [
+      "1960",
+      "1965",
       "1963",
-      "1958",
-      "1961",
-      "1966"
+      "1958"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「1963年」。",
     "explanation_en": "The correct answer is '1963'.",
     "difficulty": 1
@@ -193,83 +193,83 @@
     "question_zh": "《天龍八部》係邊年出版嘅？",
     "question_en": "What year was 'Demi-Gods and Semi-Devils' published?",
     "options_zh": [
-      "1960年",
+      "1965年",
       "1966年",
-      "1958年",
-      "1963年"
+      "1963年",
+      "1961年"
     ],
     "options_en": [
-      "1960",
+      "1965",
       "1966",
-      "1958",
-      "1963"
+      "1963",
+      "1961"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「1963年」。",
     "explanation_en": "The correct answer is '1963'.",
     "difficulty": 2
   },
   {
     "id": 11,
-    "question_zh": "《天龍八部》屬於邊種類型？",
-    "question_en": "What genre is 'Demi-Gods and Semi-Devils'?",
+    "question_zh": "《天龍八部》係邊國作品？",
+    "question_en": "Which country is 'Demi-Gods and Semi-Devils' from?",
     "options_zh": [
-      "其他類型C",
-      "歷史與時代類",
-      "其他類型B",
-      "其他類型A"
+      "韓國",
+      "中國",
+      "德國",
+      "法國"
     ],
     "options_en": [
-      "Genre C",
-      "Historical & Period",
-      "Genre B",
-      "Genre A"
+      "South Korea",
+      "China",
+      "Germany",
+      "France"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「歷史與時代類」。",
-    "explanation_en": "The correct answer is 'Historical & Period'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 12,
-    "question_zh": "《天龍八部》屬於邊種類型？",
-    "question_en": "What genre is 'Demi-Gods and Semi-Devils'?",
+    "question_zh": "《天龍八部》係邊國作品？",
+    "question_en": "Which country is 'Demi-Gods and Semi-Devils' from?",
     "options_zh": [
-      "歷史與時代類",
-      "其他類型C",
-      "其他類型A",
-      "其他類型B"
+      "中國",
+      "法國",
+      "德國",
+      "韓國"
     ],
     "options_en": [
-      "Historical & Period",
-      "Genre C",
-      "Genre A",
-      "Genre B"
+      "China",
+      "France",
+      "Germany",
+      "South Korea"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「歷史與時代類」。",
-    "explanation_en": "The correct answer is 'Historical & Period'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 13,
-    "question_zh": "《天龍八部》屬於邊種類型？",
-    "question_en": "What genre is 'Demi-Gods and Semi-Devils'?",
+    "question_zh": "《天龍八部》係邊國作品？",
+    "question_en": "Which country is 'Demi-Gods and Semi-Devils' from?",
     "options_zh": [
-      "其他類型A",
-      "歷史與時代類",
-      "其他類型B",
-      "其他類型C"
+      "法國",
+      "韓國",
+      "中國",
+      "德國"
     ],
     "options_en": [
-      "Genre A",
-      "Historical & Period",
-      "Genre B",
-      "Genre C"
+      "France",
+      "South Korea",
+      "China",
+      "Germany"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「歷史與時代類」。",
-    "explanation_en": "The correct answer is 'Historical & Period'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
@@ -277,20 +277,20 @@
     "question_zh": "《天龍八部》主要講咩？",
     "question_en": "What is 'Demi-Gods and Semi-Devils' mainly about?",
     "options_zh": [
-      "財經商戰",
       "體育競技",
+      "歷史故事同時代變遷",
       "科幻太空",
-      "歷史故事同時代變遷"
+      "財經商戰"
     ],
     "options_en": [
-      "Business",
       "Sports",
-      "Sci-fi space",
-      "Historical story and era changes"
+      "Historical story",
+      "Sci-fi",
+      "Business"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
-    "explanation_en": "The correct answer is 'Historical story and era changes'.",
+    "explanation_en": "The correct answer is 'Historical story'.",
     "difficulty": 3
   },
   {
@@ -298,20 +298,20 @@
     "question_zh": "《天龍八部》主要講咩？",
     "question_en": "What is 'Demi-Gods and Semi-Devils' mainly about?",
     "options_zh": [
-      "體育競技",
       "科幻太空",
-      "財經商戰",
-      "歷史故事同時代變遷"
+      "體育競技",
+      "歷史故事同時代變遷",
+      "財經商戰"
     ],
     "options_en": [
+      "Sci-fi",
       "Sports",
-      "Sci-fi space",
-      "Business",
-      "Historical story and era changes"
+      "Historical story",
+      "Business"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
-    "explanation_en": "The correct answer is 'Historical story and era changes'.",
+    "explanation_en": "The correct answer is 'Historical story'.",
     "difficulty": 1
   },
   {
@@ -319,20 +319,20 @@
     "question_zh": "《天龍八部》主要講咩？",
     "question_en": "What is 'Demi-Gods and Semi-Devils' mainly about?",
     "options_zh": [
-      "體育競技",
       "財經商戰",
       "科幻太空",
-      "歷史故事同時代變遷"
+      "歷史故事同時代變遷",
+      "體育競技"
     ],
     "options_en": [
-      "Sports",
       "Business",
-      "Sci-fi space",
-      "Historical story and era changes"
+      "Sci-fi",
+      "Historical story",
+      "Sports"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
-    "explanation_en": "The correct answer is 'Historical story and era changes'.",
+    "explanation_en": "The correct answer is 'Historical story'.",
     "difficulty": 2
   },
   {
@@ -340,20 +340,20 @@
     "question_zh": "《天龍八部》入面有咩角色？",
     "question_en": "What characters are in 'Demi-Gods and Semi-Devils'?",
     "options_zh": [
-      "武林高手",
-      "機械人",
       "外星人",
-      "動物"
+      "動物",
+      "機械人",
+      "主要角色"
     ],
     "options_en": [
-      "Martial arts masters",
-      "Robots",
       "Aliens",
-      "Animals"
+      "Animals",
+      "Robots",
+      "Main characters"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武林高手」。",
-    "explanation_en": "The correct answer is 'Martial arts masters'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
@@ -361,20 +361,20 @@
     "question_zh": "《天龍八部》入面有咩角色？",
     "question_en": "What characters are in 'Demi-Gods and Semi-Devils'?",
     "options_zh": [
-      "外星人",
       "動物",
       "機械人",
-      "武林高手"
+      "外星人",
+      "主要角色"
     ],
     "options_en": [
-      "Aliens",
       "Animals",
       "Robots",
-      "Martial arts masters"
+      "Aliens",
+      "Main characters"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「武林高手」。",
-    "explanation_en": "The correct answer is 'Martial arts masters'.",
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 1
   },
   {
@@ -382,20 +382,20 @@
     "question_zh": "《天龍八部》入面有咩角色？",
     "question_en": "What characters are in 'Demi-Gods and Semi-Devils'?",
     "options_zh": [
-      "武林高手",
+      "主要角色",
       "機械人",
-      "動物",
-      "外星人"
+      "外星人",
+      "動物"
     ],
     "options_en": [
-      "Martial arts masters",
+      "Main characters",
       "Robots",
-      "Animals",
-      "Aliens"
+      "Aliens",
+      "Animals"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「武林高手」。",
-    "explanation_en": "The correct answer is 'Martial arts masters'.",
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 2
   },
   {
@@ -403,20 +403,20 @@
     "question_zh": "《天龍八部》嘅故事背景喺邊度？",
     "question_en": "Where is 'Demi-Gods and Semi-Devils' set?",
     "options_zh": [
-      "未來太空",
-      "歐洲中世紀",
+      "古代中國",
       "虛擬世界",
-      "歷史時期"
+      "未來太空",
+      "歐洲中世紀"
     ],
     "options_en": [
-      "Future space",
-      "Medieval Europe",
+      "Ancient China",
       "Virtual world",
-      "Historical period"
+      "Future space",
+      "Medieval Europe"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「歷史時期」。",
-    "explanation_en": "The correct answer is 'Historical period'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
@@ -424,20 +424,20 @@
     "question_zh": "《天龍八部》嘅故事背景喺邊度？",
     "question_en": "Where is 'Demi-Gods and Semi-Devils' set?",
     "options_zh": [
+      "古代中國",
       "虛擬世界",
-      "歐洲中世紀",
-      "歷史時期",
-      "未來太空"
+      "未來太空",
+      "歐洲中世紀"
     ],
     "options_en": [
+      "Ancient China",
       "Virtual world",
-      "Medieval Europe",
-      "Historical period",
-      "Future space"
+      "Future space",
+      "Medieval Europe"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「歷史時期」。",
-    "explanation_en": "The correct answer is 'Historical period'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 1
   },
   {
@@ -446,19 +446,19 @@
     "question_en": "Where is 'Demi-Gods and Semi-Devils' set?",
     "options_zh": [
       "虛擬世界",
-      "歷史時期",
       "歐洲中世紀",
-      "未來太空"
+      "未來太空",
+      "古代中國"
     ],
     "options_en": [
       "Virtual world",
-      "Historical period",
       "Medieval Europe",
-      "Future space"
+      "Future space",
+      "Ancient China"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「歷史時期」。",
-    "explanation_en": "The correct answer is 'Historical period'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 2
   },
   {
@@ -466,18 +466,18 @@
     "question_zh": "《天龍八部》係咪好受歡迎？",
     "question_en": "Is 'Demi-Gods and Semi-Devils' popular?",
     "options_zh": [
-      "唔係，好冷門",
       "只喺特定地區流行",
-      "已經過氣",
-      "係，非常受歡迎"
+      "係，非常受歡迎",
+      "唔係，好冷門",
+      "已經過氣"
     ],
     "options_en": [
-      "No, very niche",
       "Only popular locally",
-      "Outdated",
-      "Yes, very popular"
+      "Yes, very popular",
+      "No, very niche",
+      "Outdated"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -488,40 +488,40 @@
     "question_en": "Is 'Demi-Gods and Semi-Devils' popular?",
     "options_zh": [
       "只喺特定地區流行",
-      "已經過氣",
       "唔係，好冷門",
-      "係，非常受歡迎"
+      "係，非常受歡迎",
+      "已經過氣"
     ],
     "options_en": [
       "Only popular locally",
-      "Outdated",
       "No, very niche",
-      "Yes, very popular"
+      "Yes, very popular",
+      "Outdated"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 1
   },
   {
     "id": 25,
-    "question_zh": "《天龍八部》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Demi-Gods and Semi-Devils' belong to?",
+    "question_zh": "《天龍八部》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Demi-Gods and Semi-Devils'?",
     "options_zh": [
-      "恐怖小說",
-      "兒童文學",
-      "歷史與時代類",
-      "科幻小說"
+      "韓國人",
+      "德國人",
+      "中國人",
+      "法國人"
     ],
     "options_en": [
-      "Horror",
-      "Children's literature",
-      "Historical & Period",
-      "Sci-fi"
+      "Korean",
+      "German",
+      "Chinese",
+      "French"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「歷史與時代類」。",
-    "explanation_en": "The correct answer is 'Historical & Period'.",
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
   },
   {
@@ -529,18 +529,18 @@
     "question_zh": "以下邊本係《天龍八部》？",
     "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
     "options_zh": [
-      "其他小說C",
+      "其他小說A",
       "其他小說B",
-      "天龍八部",
-      "其他小說A"
+      "其他小說C",
+      "天龍八部"
     ],
     "options_en": [
-      "Other Novel C",
+      "Other Novel A",
       "Other Novel B",
-      "Demi-Gods and Semi-Devils",
-      "Other Novel A"
+      "Other Novel C",
+      "Demi-Gods and Semi-Devils"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「天龍八部」。",
     "explanation_en": "The correct answer is 'Demi-Gods and Semi-Devils'.",
     "difficulty": 3
@@ -550,15 +550,15 @@
     "question_zh": "以下邊本係《天龍八部》？",
     "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
     "options_zh": [
-      "其他小說B",
-      "天龍八部",
       "其他小說A",
+      "天龍八部",
+      "其他小說B",
       "其他小說C"
     ],
     "options_en": [
-      "Other Novel B",
-      "Demi-Gods and Semi-Devils",
       "Other Novel A",
+      "Demi-Gods and Semi-Devils",
+      "Other Novel B",
       "Other Novel C"
     ],
     "answer": 1,
@@ -568,6 +568,531 @@
   },
   {
     "id": 28,
+    "question_zh": "以下邊本係《天龍八部》？",
+    "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說B",
+      "其他小說C",
+      "天龍八部"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel B",
+      "Other Novel C",
+      "Demi-Gods and Semi-Devils"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「天龍八部」。",
+    "explanation_en": "The correct answer is 'Demi-Gods and Semi-Devils'.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "以下邊本係《天龍八部》？",
+    "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
+    "options_zh": [
+      "其他小說C",
+      "天龍八部",
+      "其他小說A",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Demi-Gods and Semi-Devils",
+      "Other Novel A",
+      "Other Novel B"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「天龍八部」。",
+    "explanation_en": "The correct answer is 'Demi-Gods and Semi-Devils'.",
+    "difficulty": 3
+  },
+  {
+    "id": 30,
+    "question_zh": "《天龍八部》嘅作者係邊個？",
+    "question_en": "Who wrote 'Demi-Gods and Semi-Devils'?",
+    "options_zh": [
+      "金庸",
+      "其他作者A",
+      "其他作者B",
+      "其他作者C"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Author A",
+      "Author B",
+      "Author C"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「金庸」。",
+    "explanation_en": "The correct answer is 'Jin Yong'.",
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question_zh": "《天龍八部》嘅作者係邊個？",
+    "question_en": "Who wrote 'Demi-Gods and Semi-Devils'?",
+    "options_zh": [
+      "金庸",
+      "其他作者C",
+      "其他作者A",
+      "其他作者B"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Author C",
+      "Author A",
+      "Author B"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「金庸」。",
+    "explanation_en": "The correct answer is 'Jin Yong'.",
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question_zh": "《天龍八部》嘅作者係邊個？",
+    "question_en": "Who wrote 'Demi-Gods and Semi-Devils'?",
+    "options_zh": [
+      "其他作者C",
+      "其他作者B",
+      "其他作者A",
+      "金庸"
+    ],
+    "options_en": [
+      "Author C",
+      "Author B",
+      "Author A",
+      "Jin Yong"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「金庸」。",
+    "explanation_en": "The correct answer is 'Jin Yong'.",
+    "difficulty": 3
+  },
+  {
+    "id": 33,
+    "question_zh": "《天龍八部》係邊年出版嘅？",
+    "question_en": "What year was 'Demi-Gods and Semi-Devils' published?",
+    "options_zh": [
+      "1958年",
+      "1965年",
+      "1963年",
+      "1968年"
+    ],
+    "options_en": [
+      "1958",
+      "1965",
+      "1963",
+      "1968"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「1963年」。",
+    "explanation_en": "The correct answer is '1963'.",
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question_zh": "《天龍八部》係邊年出版嘅？",
+    "question_en": "What year was 'Demi-Gods and Semi-Devils' published?",
+    "options_zh": [
+      "1966年",
+      "1963年",
+      "1958年",
+      "1965年"
+    ],
+    "options_en": [
+      "1966",
+      "1963",
+      "1958",
+      "1965"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「1963年」。",
+    "explanation_en": "The correct answer is '1963'.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question_zh": "《天龍八部》係邊年出版嘅？",
+    "question_en": "What year was 'Demi-Gods and Semi-Devils' published?",
+    "options_zh": [
+      "1963年",
+      "1966年",
+      "1960年",
+      "1958年"
+    ],
+    "options_en": [
+      "1963",
+      "1966",
+      "1960",
+      "1958"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「1963年」。",
+    "explanation_en": "The correct answer is '1963'.",
+    "difficulty": 3
+  },
+  {
+    "id": 36,
+    "question_zh": "《天龍八部》係邊國作品？",
+    "question_en": "Which country is 'Demi-Gods and Semi-Devils' from?",
+    "options_zh": [
+      "韓國",
+      "德國",
+      "法國",
+      "中國"
+    ],
+    "options_en": [
+      "South Korea",
+      "Germany",
+      "France",
+      "China"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question_zh": "《天龍八部》係邊國作品？",
+    "question_en": "Which country is 'Demi-Gods and Semi-Devils' from?",
+    "options_zh": [
+      "中國",
+      "韓國",
+      "法國",
+      "德國"
+    ],
+    "options_en": [
+      "China",
+      "South Korea",
+      "France",
+      "Germany"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "《天龍八部》係邊國作品？",
+    "question_en": "Which country is 'Demi-Gods and Semi-Devils' from?",
+    "options_zh": [
+      "法國",
+      "韓國",
+      "中國",
+      "德國"
+    ],
+    "options_en": [
+      "France",
+      "South Korea",
+      "China",
+      "Germany"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 3
+  },
+  {
+    "id": 39,
+    "question_zh": "《天龍八部》主要講咩？",
+    "question_en": "What is 'Demi-Gods and Semi-Devils' mainly about?",
+    "options_zh": [
+      "科幻太空",
+      "歷史故事同時代變遷",
+      "體育競技",
+      "財經商戰"
+    ],
+    "options_en": [
+      "Sci-fi",
+      "Historical story",
+      "Sports",
+      "Business"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
+    "explanation_en": "The correct answer is 'Historical story'.",
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question_zh": "《天龍八部》主要講咩？",
+    "question_en": "What is 'Demi-Gods and Semi-Devils' mainly about?",
+    "options_zh": [
+      "體育競技",
+      "財經商戰",
+      "科幻太空",
+      "歷史故事同時代變遷"
+    ],
+    "options_en": [
+      "Sports",
+      "Business",
+      "Sci-fi",
+      "Historical story"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
+    "explanation_en": "The correct answer is 'Historical story'.",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question_zh": "《天龍八部》主要講咩？",
+    "question_en": "What is 'Demi-Gods and Semi-Devils' mainly about?",
+    "options_zh": [
+      "體育競技",
+      "財經商戰",
+      "歷史故事同時代變遷",
+      "科幻太空"
+    ],
+    "options_en": [
+      "Sports",
+      "Business",
+      "Historical story",
+      "Sci-fi"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
+    "explanation_en": "The correct answer is 'Historical story'.",
+    "difficulty": 3
+  },
+  {
+    "id": 42,
+    "question_zh": "《天龍八部》入面有咩角色？",
+    "question_en": "What characters are in 'Demi-Gods and Semi-Devils'?",
+    "options_zh": [
+      "動物",
+      "主要角色",
+      "機械人",
+      "外星人"
+    ],
+    "options_en": [
+      "Animals",
+      "Main characters",
+      "Robots",
+      "Aliens"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question_zh": "《天龍八部》入面有咩角色？",
+    "question_en": "What characters are in 'Demi-Gods and Semi-Devils'?",
+    "options_zh": [
+      "主要角色",
+      "機械人",
+      "動物",
+      "外星人"
+    ],
+    "options_en": [
+      "Main characters",
+      "Robots",
+      "Animals",
+      "Aliens"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 2
+  },
+  {
+    "id": 44,
+    "question_zh": "《天龍八部》入面有咩角色？",
+    "question_en": "What characters are in 'Demi-Gods and Semi-Devils'?",
+    "options_zh": [
+      "外星人",
+      "動物",
+      "機械人",
+      "主要角色"
+    ],
+    "options_en": [
+      "Aliens",
+      "Animals",
+      "Robots",
+      "Main characters"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 3
+  },
+  {
+    "id": 45,
+    "question_zh": "《天龍八部》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Demi-Gods and Semi-Devils' set?",
+    "options_zh": [
+      "未來太空",
+      "歐洲中世紀",
+      "虛擬世界",
+      "古代中國"
+    ],
+    "options_en": [
+      "Future space",
+      "Medieval Europe",
+      "Virtual world",
+      "Ancient China"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question_zh": "《天龍八部》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Demi-Gods and Semi-Devils' set?",
+    "options_zh": [
+      "虛擬世界",
+      "未來太空",
+      "古代中國",
+      "歐洲中世紀"
+    ],
+    "options_en": [
+      "Virtual world",
+      "Future space",
+      "Ancient China",
+      "Medieval Europe"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
+    "difficulty": 2
+  },
+  {
+    "id": 47,
+    "question_zh": "《天龍八部》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Demi-Gods and Semi-Devils' set?",
+    "options_zh": [
+      "歐洲中世紀",
+      "虛擬世界",
+      "未來太空",
+      "古代中國"
+    ],
+    "options_en": [
+      "Medieval Europe",
+      "Virtual world",
+      "Future space",
+      "Ancient China"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
+    "difficulty": 3
+  },
+  {
+    "id": 48,
+    "question_zh": "《天龍八部》係咪好受歡迎？",
+    "question_en": "Is 'Demi-Gods and Semi-Devils' popular?",
+    "options_zh": [
+      "只喺特定地區流行",
+      "唔係，好冷門",
+      "係，非常受歡迎",
+      "已經過氣"
+    ],
+    "options_en": [
+      "Only popular locally",
+      "No, very niche",
+      "Yes, very popular",
+      "Outdated"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question_zh": "《天龍八部》係咪好受歡迎？",
+    "question_en": "Is 'Demi-Gods and Semi-Devils' popular?",
+    "options_zh": [
+      "唔係，好冷門",
+      "係，非常受歡迎",
+      "只喺特定地區流行",
+      "已經過氣"
+    ],
+    "options_en": [
+      "No, very niche",
+      "Yes, very popular",
+      "Only popular locally",
+      "Outdated"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 2
+  },
+  {
+    "id": 50,
+    "question_zh": "《天龍八部》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Demi-Gods and Semi-Devils'?",
+    "options_zh": [
+      "中國人",
+      "德國人",
+      "韓國人",
+      "法國人"
+    ],
+    "options_en": [
+      "Chinese",
+      "German",
+      "Korean",
+      "French"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 3
+  },
+  {
+    "id": 51,
+    "question_zh": "以下邊本係《天龍八部》？",
+    "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說C",
+      "其他小說B",
+      "天龍八部"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel C",
+      "Other Novel B",
+      "Demi-Gods and Semi-Devils"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「天龍八部」。",
+    "explanation_en": "The correct answer is 'Demi-Gods and Semi-Devils'.",
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "question_zh": "以下邊本係《天龍八部》？",
+    "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
+    "options_zh": [
+      "天龍八部",
+      "其他小說B",
+      "其他小說A",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Demi-Gods and Semi-Devils",
+      "Other Novel B",
+      "Other Novel A",
+      "Other Novel C"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「天龍八部」。",
+    "explanation_en": "The correct answer is 'Demi-Gods and Semi-Devils'.",
+    "difficulty": 2
+  },
+  {
+    "id": 53,
     "question_zh": "以下邊本係《天龍八部》？",
     "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
     "options_zh": [
@@ -585,531 +1110,6 @@
     "answer": 3,
     "explanation_zh": "正確答案係「天龍八部」。",
     "explanation_en": "The correct answer is 'Demi-Gods and Semi-Devils'.",
-    "difficulty": 2
-  },
-  {
-    "id": 29,
-    "question_zh": "以下邊本係《天龍八部》？",
-    "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "天龍八部",
-      "其他小說A",
-      "其他小說C",
-      "其他小說B"
-    ],
-    "options_en": [
-      "Demi-Gods and Semi-Devils",
-      "Other Novel A",
-      "Other Novel C",
-      "Other Novel B"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「天龍八部」。",
-    "explanation_en": "The correct answer is 'Demi-Gods and Semi-Devils'.",
-    "difficulty": 3
-  },
-  {
-    "id": 30,
-    "question_zh": "《天龍八部》嘅作者係邊個？",
-    "question_en": "Who wrote 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "其他作者C",
-      "其他作者B",
-      "金庸",
-      "其他作者A"
-    ],
-    "options_en": [
-      "Author C",
-      "Author B",
-      "Jin Yong",
-      "Author A"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「金庸」。",
-    "explanation_en": "The correct answer is 'Jin Yong'.",
-    "difficulty": 1
-  },
-  {
-    "id": 31,
-    "question_zh": "《天龍八部》嘅作者係邊個？",
-    "question_en": "Who wrote 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "金庸",
-      "其他作者C",
-      "其他作者B",
-      "其他作者A"
-    ],
-    "options_en": [
-      "Jin Yong",
-      "Author C",
-      "Author B",
-      "Author A"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「金庸」。",
-    "explanation_en": "The correct answer is 'Jin Yong'.",
-    "difficulty": 2
-  },
-  {
-    "id": 32,
-    "question_zh": "《天龍八部》嘅作者係邊個？",
-    "question_en": "Who wrote 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "其他作者B",
-      "其他作者A",
-      "金庸",
-      "其他作者C"
-    ],
-    "options_en": [
-      "Author B",
-      "Author A",
-      "Jin Yong",
-      "Author C"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「金庸」。",
-    "explanation_en": "The correct answer is 'Jin Yong'.",
-    "difficulty": 3
-  },
-  {
-    "id": 33,
-    "question_zh": "《天龍八部》係邊年出版嘅？",
-    "question_en": "What year was 'Demi-Gods and Semi-Devils' published?",
-    "options_zh": [
-      "1960年",
-      "1958年",
-      "1963年",
-      "1968年"
-    ],
-    "options_en": [
-      "1960",
-      "1958",
-      "1963",
-      "1968"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「1963年」。",
-    "explanation_en": "The correct answer is '1963'.",
-    "difficulty": 1
-  },
-  {
-    "id": 34,
-    "question_zh": "《天龍八部》係邊年出版嘅？",
-    "question_en": "What year was 'Demi-Gods and Semi-Devils' published?",
-    "options_zh": [
-      "1963年",
-      "1961年",
-      "1966年",
-      "1965年"
-    ],
-    "options_en": [
-      "1963",
-      "1961",
-      "1966",
-      "1965"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「1963年」。",
-    "explanation_en": "The correct answer is '1963'.",
-    "difficulty": 2
-  },
-  {
-    "id": 35,
-    "question_zh": "《天龍八部》係邊年出版嘅？",
-    "question_en": "What year was 'Demi-Gods and Semi-Devils' published?",
-    "options_zh": [
-      "1963年",
-      "1961年",
-      "1958年",
-      "1966年"
-    ],
-    "options_en": [
-      "1963",
-      "1961",
-      "1958",
-      "1966"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「1963年」。",
-    "explanation_en": "The correct answer is '1963'.",
-    "difficulty": 3
-  },
-  {
-    "id": 36,
-    "question_zh": "《天龍八部》屬於邊種類型？",
-    "question_en": "What genre is 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "其他類型A",
-      "其他類型B",
-      "歷史與時代類",
-      "其他類型C"
-    ],
-    "options_en": [
-      "Genre A",
-      "Genre B",
-      "Historical & Period",
-      "Genre C"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「歷史與時代類」。",
-    "explanation_en": "The correct answer is 'Historical & Period'.",
-    "difficulty": 1
-  },
-  {
-    "id": 37,
-    "question_zh": "《天龍八部》屬於邊種類型？",
-    "question_en": "What genre is 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "其他類型A",
-      "歷史與時代類",
-      "其他類型C",
-      "其他類型B"
-    ],
-    "options_en": [
-      "Genre A",
-      "Historical & Period",
-      "Genre C",
-      "Genre B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「歷史與時代類」。",
-    "explanation_en": "The correct answer is 'Historical & Period'.",
-    "difficulty": 2
-  },
-  {
-    "id": 38,
-    "question_zh": "《天龍八部》屬於邊種類型？",
-    "question_en": "What genre is 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "其他類型A",
-      "其他類型B",
-      "歷史與時代類",
-      "其他類型C"
-    ],
-    "options_en": [
-      "Genre A",
-      "Genre B",
-      "Historical & Period",
-      "Genre C"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「歷史與時代類」。",
-    "explanation_en": "The correct answer is 'Historical & Period'.",
-    "difficulty": 3
-  },
-  {
-    "id": 39,
-    "question_zh": "《天龍八部》主要講咩？",
-    "question_en": "What is 'Demi-Gods and Semi-Devils' mainly about?",
-    "options_zh": [
-      "體育競技",
-      "歷史故事同時代變遷",
-      "科幻太空",
-      "財經商戰"
-    ],
-    "options_en": [
-      "Sports",
-      "Historical story and era changes",
-      "Sci-fi space",
-      "Business"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
-    "explanation_en": "The correct answer is 'Historical story and era changes'.",
-    "difficulty": 1
-  },
-  {
-    "id": 40,
-    "question_zh": "《天龍八部》主要講咩？",
-    "question_en": "What is 'Demi-Gods and Semi-Devils' mainly about?",
-    "options_zh": [
-      "歷史故事同時代變遷",
-      "體育競技",
-      "科幻太空",
-      "財經商戰"
-    ],
-    "options_en": [
-      "Historical story and era changes",
-      "Sports",
-      "Sci-fi space",
-      "Business"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
-    "explanation_en": "The correct answer is 'Historical story and era changes'.",
-    "difficulty": 2
-  },
-  {
-    "id": 41,
-    "question_zh": "《天龍八部》主要講咩？",
-    "question_en": "What is 'Demi-Gods and Semi-Devils' mainly about?",
-    "options_zh": [
-      "歷史故事同時代變遷",
-      "財經商戰",
-      "科幻太空",
-      "體育競技"
-    ],
-    "options_en": [
-      "Historical story and era changes",
-      "Business",
-      "Sci-fi space",
-      "Sports"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
-    "explanation_en": "The correct answer is 'Historical story and era changes'.",
-    "difficulty": 3
-  },
-  {
-    "id": 42,
-    "question_zh": "《天龍八部》入面有咩角色？",
-    "question_en": "What characters are in 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "外星人",
-      "武林高手",
-      "動物",
-      "機械人"
-    ],
-    "options_en": [
-      "Aliens",
-      "Martial arts masters",
-      "Animals",
-      "Robots"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「武林高手」。",
-    "explanation_en": "The correct answer is 'Martial arts masters'.",
-    "difficulty": 1
-  },
-  {
-    "id": 43,
-    "question_zh": "《天龍八部》入面有咩角色？",
-    "question_en": "What characters are in 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "機械人",
-      "武林高手",
-      "動物",
-      "外星人"
-    ],
-    "options_en": [
-      "Robots",
-      "Martial arts masters",
-      "Animals",
-      "Aliens"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「武林高手」。",
-    "explanation_en": "The correct answer is 'Martial arts masters'.",
-    "difficulty": 2
-  },
-  {
-    "id": 44,
-    "question_zh": "《天龍八部》入面有咩角色？",
-    "question_en": "What characters are in 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "外星人",
-      "武林高手",
-      "機械人",
-      "動物"
-    ],
-    "options_en": [
-      "Aliens",
-      "Martial arts masters",
-      "Robots",
-      "Animals"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「武林高手」。",
-    "explanation_en": "The correct answer is 'Martial arts masters'.",
-    "difficulty": 3
-  },
-  {
-    "id": 45,
-    "question_zh": "《天龍八部》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Demi-Gods and Semi-Devils' set?",
-    "options_zh": [
-      "未來太空",
-      "虛擬世界",
-      "歷史時期",
-      "歐洲中世紀"
-    ],
-    "options_en": [
-      "Future space",
-      "Virtual world",
-      "Historical period",
-      "Medieval Europe"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「歷史時期」。",
-    "explanation_en": "The correct answer is 'Historical period'.",
-    "difficulty": 1
-  },
-  {
-    "id": 46,
-    "question_zh": "《天龍八部》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Demi-Gods and Semi-Devils' set?",
-    "options_zh": [
-      "歐洲中世紀",
-      "未來太空",
-      "虛擬世界",
-      "歷史時期"
-    ],
-    "options_en": [
-      "Medieval Europe",
-      "Future space",
-      "Virtual world",
-      "Historical period"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「歷史時期」。",
-    "explanation_en": "The correct answer is 'Historical period'.",
-    "difficulty": 2
-  },
-  {
-    "id": 47,
-    "question_zh": "《天龍八部》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Demi-Gods and Semi-Devils' set?",
-    "options_zh": [
-      "未來太空",
-      "歷史時期",
-      "虛擬世界",
-      "歐洲中世紀"
-    ],
-    "options_en": [
-      "Future space",
-      "Historical period",
-      "Virtual world",
-      "Medieval Europe"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「歷史時期」。",
-    "explanation_en": "The correct answer is 'Historical period'.",
-    "difficulty": 3
-  },
-  {
-    "id": 48,
-    "question_zh": "《天龍八部》係咪好受歡迎？",
-    "question_en": "Is 'Demi-Gods and Semi-Devils' popular?",
-    "options_zh": [
-      "已經過氣",
-      "只喺特定地區流行",
-      "係，非常受歡迎",
-      "唔係，好冷門"
-    ],
-    "options_en": [
-      "Outdated",
-      "Only popular locally",
-      "Yes, very popular",
-      "No, very niche"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 1
-  },
-  {
-    "id": 49,
-    "question_zh": "《天龍八部》係咪好受歡迎？",
-    "question_en": "Is 'Demi-Gods and Semi-Devils' popular?",
-    "options_zh": [
-      "只喺特定地區流行",
-      "唔係，好冷門",
-      "係，非常受歡迎",
-      "已經過氣"
-    ],
-    "options_en": [
-      "Only popular locally",
-      "No, very niche",
-      "Yes, very popular",
-      "Outdated"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 2
-  },
-  {
-    "id": 50,
-    "question_zh": "《天龍八部》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Demi-Gods and Semi-Devils' belong to?",
-    "options_zh": [
-      "兒童文學",
-      "恐怖小說",
-      "科幻小說",
-      "歷史與時代類"
-    ],
-    "options_en": [
-      "Children's literature",
-      "Horror",
-      "Sci-fi",
-      "Historical & Period"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「歷史與時代類」。",
-    "explanation_en": "The correct answer is 'Historical & Period'.",
-    "difficulty": 3
-  },
-  {
-    "id": 51,
-    "question_zh": "以下邊本係《天龍八部》？",
-    "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "其他小說C",
-      "其他小說A",
-      "天龍八部",
-      "其他小說B"
-    ],
-    "options_en": [
-      "Other Novel C",
-      "Other Novel A",
-      "Demi-Gods and Semi-Devils",
-      "Other Novel B"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「天龍八部」。",
-    "explanation_en": "The correct answer is 'Demi-Gods and Semi-Devils'.",
-    "difficulty": 1
-  },
-  {
-    "id": 52,
-    "question_zh": "以下邊本係《天龍八部》？",
-    "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "其他小說C",
-      "其他小說B",
-      "天龍八部",
-      "其他小說A"
-    ],
-    "options_en": [
-      "Other Novel C",
-      "Other Novel B",
-      "Demi-Gods and Semi-Devils",
-      "Other Novel A"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「天龍八部」。",
-    "explanation_en": "The correct answer is 'Demi-Gods and Semi-Devils'.",
-    "difficulty": 2
-  },
-  {
-    "id": 53,
-    "question_zh": "以下邊本係《天龍八部》？",
-    "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "其他小說A",
-      "其他小說C",
-      "天龍八部",
-      "其他小說B"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "Other Novel C",
-      "Demi-Gods and Semi-Devils",
-      "Other Novel B"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「天龍八部」。",
-    "explanation_en": "The correct answer is 'Demi-Gods and Semi-Devils'.",
     "difficulty": 3
   },
   {
@@ -1117,18 +1117,18 @@
     "question_zh": "以下邊本係《天龍八部》？",
     "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
     "options_zh": [
-      "其他小說A",
-      "天龍八部",
       "其他小說B",
-      "其他小說C"
+      "其他小說A",
+      "其他小說C",
+      "天龍八部"
     ],
     "options_en": [
-      "Other Novel A",
-      "Demi-Gods and Semi-Devils",
       "Other Novel B",
-      "Other Novel C"
+      "Other Novel A",
+      "Other Novel C",
+      "Demi-Gods and Semi-Devils"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「天龍八部」。",
     "explanation_en": "The correct answer is 'Demi-Gods and Semi-Devils'.",
     "difficulty": 1
@@ -1138,18 +1138,18 @@
     "question_zh": "《天龍八部》嘅作者係邊個？",
     "question_en": "Who wrote 'Demi-Gods and Semi-Devils'?",
     "options_zh": [
-      "其他作者C",
       "其他作者A",
-      "金庸",
-      "其他作者B"
+      "其他作者C",
+      "其他作者B",
+      "金庸"
     ],
     "options_en": [
-      "Author C",
       "Author A",
-      "Jin Yong",
-      "Author B"
+      "Author C",
+      "Author B",
+      "Jin Yong"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「金庸」。",
     "explanation_en": "The correct answer is 'Jin Yong'.",
     "difficulty": 2
@@ -1159,18 +1159,18 @@
     "question_zh": "《天龍八部》嘅作者係邊個？",
     "question_en": "Who wrote 'Demi-Gods and Semi-Devils'?",
     "options_zh": [
+      "金庸",
       "其他作者C",
-      "其他作者B",
       "其他作者A",
-      "金庸"
+      "其他作者B"
     ],
     "options_en": [
+      "Jin Yong",
       "Author C",
-      "Author B",
       "Author A",
-      "Jin Yong"
+      "Author B"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「金庸」。",
     "explanation_en": "The correct answer is 'Jin Yong'.",
     "difficulty": 3
@@ -1180,16 +1180,16 @@
     "question_zh": "《天龍八部》嘅作者係邊個？",
     "question_en": "Who wrote 'Demi-Gods and Semi-Devils'?",
     "options_zh": [
-      "其他作者C",
+      "其他作者A",
       "金庸",
-      "其他作者B",
-      "其他作者A"
+      "其他作者C",
+      "其他作者B"
     ],
     "options_en": [
-      "Author C",
+      "Author A",
       "Jin Yong",
-      "Author B",
-      "Author A"
+      "Author C",
+      "Author B"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「金庸」。",
@@ -1201,18 +1201,18 @@
     "question_zh": "《天龍八部》係邊年出版嘅？",
     "question_en": "What year was 'Demi-Gods and Semi-Devils' published?",
     "options_zh": [
+      "1961年",
       "1965年",
-      "1958年",
-      "1963年",
-      "1968年"
+      "1960年",
+      "1963年"
     ],
     "options_en": [
+      "1961",
       "1965",
-      "1958",
-      "1963",
-      "1968"
+      "1960",
+      "1963"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「1963年」。",
     "explanation_en": "The correct answer is '1963'.",
     "difficulty": 2
@@ -1222,18 +1222,18 @@
     "question_zh": "《天龍八部》係邊年出版嘅？",
     "question_en": "What year was 'Demi-Gods and Semi-Devils' published?",
     "options_zh": [
-      "1963年",
-      "1961年",
+      "1965年",
+      "1966年",
       "1960年",
-      "1965年"
+      "1963年"
     ],
     "options_en": [
-      "1963",
-      "1961",
+      "1965",
+      "1966",
       "1960",
-      "1965"
+      "1963"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「1963年」。",
     "explanation_en": "The correct answer is '1963'.",
     "difficulty": 3
@@ -1243,16 +1243,16 @@
     "question_zh": "《天龍八部》係邊年出版嘅？",
     "question_en": "What year was 'Demi-Gods and Semi-Devils' published?",
     "options_zh": [
-      "1966年",
-      "1963年",
       "1960年",
-      "1961年"
+      "1963年",
+      "1968年",
+      "1965年"
     ],
     "options_en": [
-      "1966",
-      "1963",
       "1960",
-      "1961"
+      "1963",
+      "1968",
+      "1965"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「1963年」。",
@@ -1261,65 +1261,65 @@
   },
   {
     "id": 61,
-    "question_zh": "《天龍八部》屬於邊種類型？",
-    "question_en": "What genre is 'Demi-Gods and Semi-Devils'?",
+    "question_zh": "《天龍八部》係邊國作品？",
+    "question_en": "Which country is 'Demi-Gods and Semi-Devils' from?",
     "options_zh": [
-      "其他類型A",
-      "其他類型C",
-      "其他類型B",
-      "歷史與時代類"
+      "法國",
+      "中國",
+      "韓國",
+      "德國"
     ],
     "options_en": [
-      "Genre A",
-      "Genre C",
-      "Genre B",
-      "Historical & Period"
+      "France",
+      "China",
+      "South Korea",
+      "Germany"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「歷史與時代類」。",
-    "explanation_en": "The correct answer is 'Historical & Period'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
     "id": 62,
-    "question_zh": "《天龍八部》屬於邊種類型？",
-    "question_en": "What genre is 'Demi-Gods and Semi-Devils'?",
+    "question_zh": "《天龍八部》係邊國作品？",
+    "question_en": "Which country is 'Demi-Gods and Semi-Devils' from?",
     "options_zh": [
-      "其他類型A",
-      "其他類型C",
-      "其他類型B",
-      "歷史與時代類"
+      "中國",
+      "法國",
+      "韓國",
+      "德國"
     ],
     "options_en": [
-      "Genre A",
-      "Genre C",
-      "Genre B",
-      "Historical & Period"
+      "China",
+      "France",
+      "South Korea",
+      "Germany"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「歷史與時代類」。",
-    "explanation_en": "The correct answer is 'Historical & Period'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 63,
-    "question_zh": "《天龍八部》屬於邊種類型？",
-    "question_en": "What genre is 'Demi-Gods and Semi-Devils'?",
+    "question_zh": "《天龍八部》係邊國作品？",
+    "question_en": "Which country is 'Demi-Gods and Semi-Devils' from?",
     "options_zh": [
-      "歷史與時代類",
-      "其他類型B",
-      "其他類型C",
-      "其他類型A"
+      "法國",
+      "德國",
+      "韓國",
+      "中國"
     ],
     "options_en": [
-      "Historical & Period",
-      "Genre B",
-      "Genre C",
-      "Genre A"
+      "France",
+      "Germany",
+      "South Korea",
+      "China"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「歷史與時代類」。",
-    "explanation_en": "The correct answer is 'Historical & Period'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
@@ -1327,20 +1327,20 @@
     "question_zh": "《天龍八部》主要講咩？",
     "question_en": "What is 'Demi-Gods and Semi-Devils' mainly about?",
     "options_zh": [
-      "科幻太空",
       "體育競技",
+      "歷史故事同時代變遷",
       "財經商戰",
-      "歷史故事同時代變遷"
+      "科幻太空"
     ],
     "options_en": [
-      "Sci-fi space",
       "Sports",
+      "Historical story",
       "Business",
-      "Historical story and era changes"
+      "Sci-fi"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
-    "explanation_en": "The correct answer is 'Historical story and era changes'.",
+    "explanation_en": "The correct answer is 'Historical story'.",
     "difficulty": 2
   },
   {
@@ -1354,14 +1354,14 @@
       "歷史故事同時代變遷"
     ],
     "options_en": [
-      "Sci-fi space",
+      "Sci-fi",
       "Sports",
       "Business",
-      "Historical story and era changes"
+      "Historical story"
     ],
     "answer": 3,
     "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
-    "explanation_en": "The correct answer is 'Historical story and era changes'.",
+    "explanation_en": "The correct answer is 'Historical story'.",
     "difficulty": 3
   },
   {
@@ -1369,20 +1369,20 @@
     "question_zh": "《天龍八部》主要講咩？",
     "question_en": "What is 'Demi-Gods and Semi-Devils' mainly about?",
     "options_zh": [
-      "體育競技",
+      "歷史故事同時代變遷",
       "科幻太空",
       "財經商戰",
-      "歷史故事同時代變遷"
+      "體育競技"
     ],
     "options_en": [
-      "Sports",
-      "Sci-fi space",
+      "Historical story",
+      "Sci-fi",
       "Business",
-      "Historical story and era changes"
+      "Sports"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
-    "explanation_en": "The correct answer is 'Historical story and era changes'.",
+    "explanation_en": "The correct answer is 'Historical story'.",
     "difficulty": 1
   },
   {
@@ -1390,20 +1390,20 @@
     "question_zh": "《天龍八部》入面有咩角色？",
     "question_en": "What characters are in 'Demi-Gods and Semi-Devils'?",
     "options_zh": [
-      "動物",
-      "武林高手",
+      "機械人",
+      "主要角色",
       "外星人",
-      "機械人"
+      "動物"
     ],
     "options_en": [
-      "Animals",
-      "Martial arts masters",
+      "Robots",
+      "Main characters",
       "Aliens",
-      "Robots"
+      "Animals"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「武林高手」。",
-    "explanation_en": "The correct answer is 'Martial arts masters'.",
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 2
   },
   {
@@ -1411,20 +1411,20 @@
     "question_zh": "《天龍八部》入面有咩角色？",
     "question_en": "What characters are in 'Demi-Gods and Semi-Devils'?",
     "options_zh": [
-      "武林高手",
-      "外星人",
       "機械人",
-      "動物"
+      "主要角色",
+      "動物",
+      "外星人"
     ],
     "options_en": [
-      "Martial arts masters",
-      "Aliens",
       "Robots",
-      "Animals"
+      "Main characters",
+      "Animals",
+      "Aliens"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武林高手」。",
-    "explanation_en": "The correct answer is 'Martial arts masters'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
@@ -1432,20 +1432,20 @@
     "question_zh": "《天龍八部》入面有咩角色？",
     "question_en": "What characters are in 'Demi-Gods and Semi-Devils'?",
     "options_zh": [
-      "機械人",
-      "外星人",
       "動物",
-      "武林高手"
+      "主要角色",
+      "外星人",
+      "機械人"
     ],
     "options_en": [
-      "Robots",
-      "Aliens",
       "Animals",
-      "Martial arts masters"
+      "Main characters",
+      "Aliens",
+      "Robots"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「武林高手」。",
-    "explanation_en": "The correct answer is 'Martial arts masters'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 1
   },
   {
@@ -1453,20 +1453,20 @@
     "question_zh": "《天龍八部》嘅故事背景喺邊度？",
     "question_en": "Where is 'Demi-Gods and Semi-Devils' set?",
     "options_zh": [
-      "歷史時期",
       "虛擬世界",
-      "未來太空",
-      "歐洲中世紀"
+      "古代中國",
+      "歐洲中世紀",
+      "未來太空"
     ],
     "options_en": [
-      "Historical period",
       "Virtual world",
-      "Future space",
-      "Medieval Europe"
+      "Ancient China",
+      "Medieval Europe",
+      "Future space"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「歷史時期」。",
-    "explanation_en": "The correct answer is 'Historical period'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 2
   },
   {
@@ -1475,19 +1475,19 @@
     "question_en": "Where is 'Demi-Gods and Semi-Devils' set?",
     "options_zh": [
       "虛擬世界",
-      "未來太空",
       "歐洲中世紀",
-      "歷史時期"
+      "未來太空",
+      "古代中國"
     ],
     "options_en": [
       "Virtual world",
-      "Future space",
       "Medieval Europe",
-      "Historical period"
+      "Future space",
+      "Ancient China"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「歷史時期」。",
-    "explanation_en": "The correct answer is 'Historical period'.",
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
@@ -1495,20 +1495,20 @@
     "question_zh": "《天龍八部》嘅故事背景喺邊度？",
     "question_en": "Where is 'Demi-Gods and Semi-Devils' set?",
     "options_zh": [
-      "歷史時期",
+      "歐洲中世紀",
       "未來太空",
-      "虛擬世界",
-      "歐洲中世紀"
+      "古代中國",
+      "虛擬世界"
     ],
     "options_en": [
-      "Historical period",
+      "Medieval Europe",
       "Future space",
-      "Virtual world",
-      "Medieval Europe"
+      "Ancient China",
+      "Virtual world"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「歷史時期」。",
-    "explanation_en": "The correct answer is 'Historical period'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 1
   },
   {
@@ -1516,528 +1516,24 @@
     "question_zh": "《天龍八部》係咪好受歡迎？",
     "question_en": "Is 'Demi-Gods and Semi-Devils' popular?",
     "options_zh": [
+      "只喺特定地區流行",
       "唔係，好冷門",
-      "係，非常受歡迎",
       "已經過氣",
-      "只喺特定地區流行"
+      "係，非常受歡迎"
     ],
     "options_en": [
+      "Only popular locally",
       "No, very niche",
-      "Yes, very popular",
       "Outdated",
-      "Only popular locally"
+      "Yes, very popular"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 2
   },
   {
     "id": 74,
-    "question_zh": "《天龍八部》係咪好受歡迎？",
-    "question_en": "Is 'Demi-Gods and Semi-Devils' popular?",
-    "options_zh": [
-      "唔係，好冷門",
-      "已經過氣",
-      "係，非常受歡迎",
-      "只喺特定地區流行"
-    ],
-    "options_en": [
-      "No, very niche",
-      "Outdated",
-      "Yes, very popular",
-      "Only popular locally"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 3
-  },
-  {
-    "id": 75,
-    "question_zh": "《天龍八部》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Demi-Gods and Semi-Devils' belong to?",
-    "options_zh": [
-      "兒童文學",
-      "恐怖小說",
-      "科幻小說",
-      "歷史與時代類"
-    ],
-    "options_en": [
-      "Children's literature",
-      "Horror",
-      "Sci-fi",
-      "Historical & Period"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「歷史與時代類」。",
-    "explanation_en": "The correct answer is 'Historical & Period'.",
-    "difficulty": 1
-  },
-  {
-    "id": 76,
-    "question_zh": "以下邊本係《天龍八部》？",
-    "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "其他小說A",
-      "其他小說B",
-      "天龍八部",
-      "其他小說C"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "Other Novel B",
-      "Demi-Gods and Semi-Devils",
-      "Other Novel C"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「天龍八部」。",
-    "explanation_en": "The correct answer is 'Demi-Gods and Semi-Devils'.",
-    "difficulty": 2
-  },
-  {
-    "id": 77,
-    "question_zh": "以下邊本係《天龍八部》？",
-    "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "天龍八部",
-      "其他小說B",
-      "其他小說A",
-      "其他小說C"
-    ],
-    "options_en": [
-      "Demi-Gods and Semi-Devils",
-      "Other Novel B",
-      "Other Novel A",
-      "Other Novel C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「天龍八部」。",
-    "explanation_en": "The correct answer is 'Demi-Gods and Semi-Devils'.",
-    "difficulty": 3
-  },
-  {
-    "id": 78,
-    "question_zh": "以下邊本係《天龍八部》？",
-    "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "其他小說A",
-      "其他小說B",
-      "天龍八部",
-      "其他小說C"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "Other Novel B",
-      "Demi-Gods and Semi-Devils",
-      "Other Novel C"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「天龍八部」。",
-    "explanation_en": "The correct answer is 'Demi-Gods and Semi-Devils'.",
-    "difficulty": 1
-  },
-  {
-    "id": 79,
-    "question_zh": "以下邊本係《天龍八部》？",
-    "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "其他小說C",
-      "其他小說A",
-      "天龍八部",
-      "其他小說B"
-    ],
-    "options_en": [
-      "Other Novel C",
-      "Other Novel A",
-      "Demi-Gods and Semi-Devils",
-      "Other Novel B"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「天龍八部」。",
-    "explanation_en": "The correct answer is 'Demi-Gods and Semi-Devils'.",
-    "difficulty": 2
-  },
-  {
-    "id": 80,
-    "question_zh": "《天龍八部》嘅作者係邊個？",
-    "question_en": "Who wrote 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "金庸",
-      "其他作者C",
-      "其他作者A",
-      "其他作者B"
-    ],
-    "options_en": [
-      "Jin Yong",
-      "Author C",
-      "Author A",
-      "Author B"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「金庸」。",
-    "explanation_en": "The correct answer is 'Jin Yong'.",
-    "difficulty": 3
-  },
-  {
-    "id": 81,
-    "question_zh": "《天龍八部》嘅作者係邊個？",
-    "question_en": "Who wrote 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "其他作者B",
-      "其他作者C",
-      "其他作者A",
-      "金庸"
-    ],
-    "options_en": [
-      "Author B",
-      "Author C",
-      "Author A",
-      "Jin Yong"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「金庸」。",
-    "explanation_en": "The correct answer is 'Jin Yong'.",
-    "difficulty": 1
-  },
-  {
-    "id": 82,
-    "question_zh": "《天龍八部》嘅作者係邊個？",
-    "question_en": "Who wrote 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "其他作者A",
-      "其他作者C",
-      "其他作者B",
-      "金庸"
-    ],
-    "options_en": [
-      "Author A",
-      "Author C",
-      "Author B",
-      "Jin Yong"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「金庸」。",
-    "explanation_en": "The correct answer is 'Jin Yong'.",
-    "difficulty": 2
-  },
-  {
-    "id": 83,
-    "question_zh": "《天龍八部》係邊年出版嘅？",
-    "question_en": "What year was 'Demi-Gods and Semi-Devils' published?",
-    "options_zh": [
-      "1963年",
-      "1958年",
-      "1961年",
-      "1965年"
-    ],
-    "options_en": [
-      "1963",
-      "1958",
-      "1961",
-      "1965"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「1963年」。",
-    "explanation_en": "The correct answer is '1963'.",
-    "difficulty": 3
-  },
-  {
-    "id": 84,
-    "question_zh": "《天龍八部》係邊年出版嘅？",
-    "question_en": "What year was 'Demi-Gods and Semi-Devils' published?",
-    "options_zh": [
-      "1966年",
-      "1965年",
-      "1968年",
-      "1963年"
-    ],
-    "options_en": [
-      "1966",
-      "1965",
-      "1968",
-      "1963"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「1963年」。",
-    "explanation_en": "The correct answer is '1963'.",
-    "difficulty": 1
-  },
-  {
-    "id": 85,
-    "question_zh": "《天龍八部》係邊年出版嘅？",
-    "question_en": "What year was 'Demi-Gods and Semi-Devils' published?",
-    "options_zh": [
-      "1968年",
-      "1958年",
-      "1963年",
-      "1966年"
-    ],
-    "options_en": [
-      "1968",
-      "1958",
-      "1963",
-      "1966"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「1963年」。",
-    "explanation_en": "The correct answer is '1963'.",
-    "difficulty": 2
-  },
-  {
-    "id": 86,
-    "question_zh": "《天龍八部》屬於邊種類型？",
-    "question_en": "What genre is 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "其他類型B",
-      "歷史與時代類",
-      "其他類型C",
-      "其他類型A"
-    ],
-    "options_en": [
-      "Genre B",
-      "Historical & Period",
-      "Genre C",
-      "Genre A"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「歷史與時代類」。",
-    "explanation_en": "The correct answer is 'Historical & Period'.",
-    "difficulty": 3
-  },
-  {
-    "id": 87,
-    "question_zh": "《天龍八部》屬於邊種類型？",
-    "question_en": "What genre is 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "其他類型B",
-      "其他類型A",
-      "歷史與時代類",
-      "其他類型C"
-    ],
-    "options_en": [
-      "Genre B",
-      "Genre A",
-      "Historical & Period",
-      "Genre C"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「歷史與時代類」。",
-    "explanation_en": "The correct answer is 'Historical & Period'.",
-    "difficulty": 1
-  },
-  {
-    "id": 88,
-    "question_zh": "《天龍八部》屬於邊種類型？",
-    "question_en": "What genre is 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "其他類型C",
-      "歷史與時代類",
-      "其他類型A",
-      "其他類型B"
-    ],
-    "options_en": [
-      "Genre C",
-      "Historical & Period",
-      "Genre A",
-      "Genre B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「歷史與時代類」。",
-    "explanation_en": "The correct answer is 'Historical & Period'.",
-    "difficulty": 2
-  },
-  {
-    "id": 89,
-    "question_zh": "《天龍八部》主要講咩？",
-    "question_en": "What is 'Demi-Gods and Semi-Devils' mainly about?",
-    "options_zh": [
-      "體育競技",
-      "歷史故事同時代變遷",
-      "財經商戰",
-      "科幻太空"
-    ],
-    "options_en": [
-      "Sports",
-      "Historical story and era changes",
-      "Business",
-      "Sci-fi space"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
-    "explanation_en": "The correct answer is 'Historical story and era changes'.",
-    "difficulty": 3
-  },
-  {
-    "id": 90,
-    "question_zh": "《天龍八部》主要講咩？",
-    "question_en": "What is 'Demi-Gods and Semi-Devils' mainly about?",
-    "options_zh": [
-      "財經商戰",
-      "科幻太空",
-      "體育競技",
-      "歷史故事同時代變遷"
-    ],
-    "options_en": [
-      "Business",
-      "Sci-fi space",
-      "Sports",
-      "Historical story and era changes"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
-    "explanation_en": "The correct answer is 'Historical story and era changes'.",
-    "difficulty": 1
-  },
-  {
-    "id": 91,
-    "question_zh": "《天龍八部》主要講咩？",
-    "question_en": "What is 'Demi-Gods and Semi-Devils' mainly about?",
-    "options_zh": [
-      "科幻太空",
-      "財經商戰",
-      "歷史故事同時代變遷",
-      "體育競技"
-    ],
-    "options_en": [
-      "Sci-fi space",
-      "Business",
-      "Historical story and era changes",
-      "Sports"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
-    "explanation_en": "The correct answer is 'Historical story and era changes'.",
-    "difficulty": 2
-  },
-  {
-    "id": 92,
-    "question_zh": "《天龍八部》入面有咩角色？",
-    "question_en": "What characters are in 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "外星人",
-      "武林高手",
-      "動物",
-      "機械人"
-    ],
-    "options_en": [
-      "Aliens",
-      "Martial arts masters",
-      "Animals",
-      "Robots"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「武林高手」。",
-    "explanation_en": "The correct answer is 'Martial arts masters'.",
-    "difficulty": 3
-  },
-  {
-    "id": 93,
-    "question_zh": "《天龍八部》入面有咩角色？",
-    "question_en": "What characters are in 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "動物",
-      "外星人",
-      "機械人",
-      "武林高手"
-    ],
-    "options_en": [
-      "Animals",
-      "Aliens",
-      "Robots",
-      "Martial arts masters"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「武林高手」。",
-    "explanation_en": "The correct answer is 'Martial arts masters'.",
-    "difficulty": 1
-  },
-  {
-    "id": 94,
-    "question_zh": "《天龍八部》入面有咩角色？",
-    "question_en": "What characters are in 'Demi-Gods and Semi-Devils'?",
-    "options_zh": [
-      "外星人",
-      "機械人",
-      "動物",
-      "武林高手"
-    ],
-    "options_en": [
-      "Aliens",
-      "Robots",
-      "Animals",
-      "Martial arts masters"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「武林高手」。",
-    "explanation_en": "The correct answer is 'Martial arts masters'.",
-    "difficulty": 2
-  },
-  {
-    "id": 95,
-    "question_zh": "《天龍八部》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Demi-Gods and Semi-Devils' set?",
-    "options_zh": [
-      "歐洲中世紀",
-      "歷史時期",
-      "未來太空",
-      "虛擬世界"
-    ],
-    "options_en": [
-      "Medieval Europe",
-      "Historical period",
-      "Future space",
-      "Virtual world"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「歷史時期」。",
-    "explanation_en": "The correct answer is 'Historical period'.",
-    "difficulty": 3
-  },
-  {
-    "id": 96,
-    "question_zh": "《天龍八部》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Demi-Gods and Semi-Devils' set?",
-    "options_zh": [
-      "虛擬世界",
-      "歐洲中世紀",
-      "歷史時期",
-      "未來太空"
-    ],
-    "options_en": [
-      "Virtual world",
-      "Medieval Europe",
-      "Historical period",
-      "Future space"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「歷史時期」。",
-    "explanation_en": "The correct answer is 'Historical period'.",
-    "difficulty": 1
-  },
-  {
-    "id": 97,
-    "question_zh": "《天龍八部》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Demi-Gods and Semi-Devils' set?",
-    "options_zh": [
-      "虛擬世界",
-      "歷史時期",
-      "歐洲中世紀",
-      "未來太空"
-    ],
-    "options_en": [
-      "Virtual world",
-      "Historical period",
-      "Medieval Europe",
-      "Future space"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「歷史時期」。",
-    "explanation_en": "The correct answer is 'Historical period'.",
-    "difficulty": 2
-  },
-  {
-    "id": 98,
     "question_zh": "《天龍八部》係咪好受歡迎？",
     "question_en": "Is 'Demi-Gods and Semi-Devils' popular?",
     "options_zh": [
@@ -2058,45 +1554,549 @@
     "difficulty": 3
   },
   {
+    "id": 75,
+    "question_zh": "《天龍八部》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Demi-Gods and Semi-Devils'?",
+    "options_zh": [
+      "韓國人",
+      "中國人",
+      "法國人",
+      "德國人"
+    ],
+    "options_en": [
+      "Korean",
+      "Chinese",
+      "French",
+      "German"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 1
+  },
+  {
+    "id": 76,
+    "question_zh": "以下邊本係《天龍八部》？",
+    "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
+    "options_zh": [
+      "其他小說B",
+      "其他小說A",
+      "天龍八部",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Other Novel A",
+      "Demi-Gods and Semi-Devils",
+      "Other Novel C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「天龍八部」。",
+    "explanation_en": "The correct answer is 'Demi-Gods and Semi-Devils'.",
+    "difficulty": 2
+  },
+  {
+    "id": 77,
+    "question_zh": "以下邊本係《天龍八部》？",
+    "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說B",
+      "其他小說C",
+      "天龍八部"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel B",
+      "Other Novel C",
+      "Demi-Gods and Semi-Devils"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「天龍八部」。",
+    "explanation_en": "The correct answer is 'Demi-Gods and Semi-Devils'.",
+    "difficulty": 3
+  },
+  {
+    "id": 78,
+    "question_zh": "以下邊本係《天龍八部》？",
+    "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說C",
+      "其他小說B",
+      "天龍八部"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel C",
+      "Other Novel B",
+      "Demi-Gods and Semi-Devils"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「天龍八部」。",
+    "explanation_en": "The correct answer is 'Demi-Gods and Semi-Devils'.",
+    "difficulty": 1
+  },
+  {
+    "id": 79,
+    "question_zh": "以下邊本係《天龍八部》？",
+    "question_en": "Which one is 'Demi-Gods and Semi-Devils'?",
+    "options_zh": [
+      "其他小說B",
+      "其他小說A",
+      "天龍八部",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Other Novel A",
+      "Demi-Gods and Semi-Devils",
+      "Other Novel C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「天龍八部」。",
+    "explanation_en": "The correct answer is 'Demi-Gods and Semi-Devils'.",
+    "difficulty": 2
+  },
+  {
+    "id": 80,
+    "question_zh": "《天龍八部》嘅作者係邊個？",
+    "question_en": "Who wrote 'Demi-Gods and Semi-Devils'?",
+    "options_zh": [
+      "金庸",
+      "其他作者B",
+      "其他作者A",
+      "其他作者C"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Author B",
+      "Author A",
+      "Author C"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「金庸」。",
+    "explanation_en": "The correct answer is 'Jin Yong'.",
+    "difficulty": 3
+  },
+  {
+    "id": 81,
+    "question_zh": "《天龍八部》嘅作者係邊個？",
+    "question_en": "Who wrote 'Demi-Gods and Semi-Devils'?",
+    "options_zh": [
+      "其他作者A",
+      "金庸",
+      "其他作者C",
+      "其他作者B"
+    ],
+    "options_en": [
+      "Author A",
+      "Jin Yong",
+      "Author C",
+      "Author B"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「金庸」。",
+    "explanation_en": "The correct answer is 'Jin Yong'.",
+    "difficulty": 1
+  },
+  {
+    "id": 82,
+    "question_zh": "《天龍八部》嘅作者係邊個？",
+    "question_en": "Who wrote 'Demi-Gods and Semi-Devils'?",
+    "options_zh": [
+      "金庸",
+      "其他作者C",
+      "其他作者A",
+      "其他作者B"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Author C",
+      "Author A",
+      "Author B"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「金庸」。",
+    "explanation_en": "The correct answer is 'Jin Yong'.",
+    "difficulty": 2
+  },
+  {
+    "id": 83,
+    "question_zh": "《天龍八部》係邊年出版嘅？",
+    "question_en": "What year was 'Demi-Gods and Semi-Devils' published?",
+    "options_zh": [
+      "1968年",
+      "1965年",
+      "1958年",
+      "1963年"
+    ],
+    "options_en": [
+      "1968",
+      "1965",
+      "1958",
+      "1963"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1963年」。",
+    "explanation_en": "The correct answer is '1963'.",
+    "difficulty": 3
+  },
+  {
+    "id": 84,
+    "question_zh": "《天龍八部》係邊年出版嘅？",
+    "question_en": "What year was 'Demi-Gods and Semi-Devils' published?",
+    "options_zh": [
+      "1961年",
+      "1963年",
+      "1968年",
+      "1960年"
+    ],
+    "options_en": [
+      "1961",
+      "1963",
+      "1968",
+      "1960"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「1963年」。",
+    "explanation_en": "The correct answer is '1963'.",
+    "difficulty": 1
+  },
+  {
+    "id": 85,
+    "question_zh": "《天龍八部》係邊年出版嘅？",
+    "question_en": "What year was 'Demi-Gods and Semi-Devils' published?",
+    "options_zh": [
+      "1965年",
+      "1968年",
+      "1963年",
+      "1966年"
+    ],
+    "options_en": [
+      "1965",
+      "1968",
+      "1963",
+      "1966"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「1963年」。",
+    "explanation_en": "The correct answer is '1963'.",
+    "difficulty": 2
+  },
+  {
+    "id": 86,
+    "question_zh": "《天龍八部》係邊國作品？",
+    "question_en": "Which country is 'Demi-Gods and Semi-Devils' from?",
+    "options_zh": [
+      "德國",
+      "法國",
+      "中國",
+      "韓國"
+    ],
+    "options_en": [
+      "Germany",
+      "France",
+      "China",
+      "South Korea"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 3
+  },
+  {
+    "id": 87,
+    "question_zh": "《天龍八部》係邊國作品？",
+    "question_en": "Which country is 'Demi-Gods and Semi-Devils' from?",
+    "options_zh": [
+      "法國",
+      "韓國",
+      "中國",
+      "德國"
+    ],
+    "options_en": [
+      "France",
+      "South Korea",
+      "China",
+      "Germany"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 1
+  },
+  {
+    "id": 88,
+    "question_zh": "《天龍八部》係邊國作品？",
+    "question_en": "Which country is 'Demi-Gods and Semi-Devils' from?",
+    "options_zh": [
+      "中國",
+      "德國",
+      "法國",
+      "韓國"
+    ],
+    "options_en": [
+      "China",
+      "Germany",
+      "France",
+      "South Korea"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 2
+  },
+  {
+    "id": 89,
+    "question_zh": "《天龍八部》主要講咩？",
+    "question_en": "What is 'Demi-Gods and Semi-Devils' mainly about?",
+    "options_zh": [
+      "科幻太空",
+      "財經商戰",
+      "體育競技",
+      "歷史故事同時代變遷"
+    ],
+    "options_en": [
+      "Sci-fi",
+      "Business",
+      "Sports",
+      "Historical story"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
+    "explanation_en": "The correct answer is 'Historical story'.",
+    "difficulty": 3
+  },
+  {
+    "id": 90,
+    "question_zh": "《天龍八部》主要講咩？",
+    "question_en": "What is 'Demi-Gods and Semi-Devils' mainly about?",
+    "options_zh": [
+      "科幻太空",
+      "財經商戰",
+      "體育競技",
+      "歷史故事同時代變遷"
+    ],
+    "options_en": [
+      "Sci-fi",
+      "Business",
+      "Sports",
+      "Historical story"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
+    "explanation_en": "The correct answer is 'Historical story'.",
+    "difficulty": 1
+  },
+  {
+    "id": 91,
+    "question_zh": "《天龍八部》主要講咩？",
+    "question_en": "What is 'Demi-Gods and Semi-Devils' mainly about?",
+    "options_zh": [
+      "歷史故事同時代變遷",
+      "科幻太空",
+      "體育競技",
+      "財經商戰"
+    ],
+    "options_en": [
+      "Historical story",
+      "Sci-fi",
+      "Sports",
+      "Business"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
+    "explanation_en": "The correct answer is 'Historical story'.",
+    "difficulty": 2
+  },
+  {
+    "id": 92,
+    "question_zh": "《天龍八部》入面有咩角色？",
+    "question_en": "What characters are in 'Demi-Gods and Semi-Devils'?",
+    "options_zh": [
+      "主要角色",
+      "動物",
+      "外星人",
+      "機械人"
+    ],
+    "options_en": [
+      "Main characters",
+      "Animals",
+      "Aliens",
+      "Robots"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 3
+  },
+  {
+    "id": 93,
+    "question_zh": "《天龍八部》入面有咩角色？",
+    "question_en": "What characters are in 'Demi-Gods and Semi-Devils'?",
+    "options_zh": [
+      "外星人",
+      "機械人",
+      "動物",
+      "主要角色"
+    ],
+    "options_en": [
+      "Aliens",
+      "Robots",
+      "Animals",
+      "Main characters"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 1
+  },
+  {
+    "id": 94,
+    "question_zh": "《天龍八部》入面有咩角色？",
+    "question_en": "What characters are in 'Demi-Gods and Semi-Devils'?",
+    "options_zh": [
+      "主要角色",
+      "外星人",
+      "動物",
+      "機械人"
+    ],
+    "options_en": [
+      "Main characters",
+      "Aliens",
+      "Animals",
+      "Robots"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 2
+  },
+  {
+    "id": 95,
+    "question_zh": "《天龍八部》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Demi-Gods and Semi-Devils' set?",
+    "options_zh": [
+      "歐洲中世紀",
+      "古代中國",
+      "未來太空",
+      "虛擬世界"
+    ],
+    "options_en": [
+      "Medieval Europe",
+      "Ancient China",
+      "Future space",
+      "Virtual world"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
+    "difficulty": 3
+  },
+  {
+    "id": 96,
+    "question_zh": "《天龍八部》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Demi-Gods and Semi-Devils' set?",
+    "options_zh": [
+      "虛擬世界",
+      "古代中國",
+      "未來太空",
+      "歐洲中世紀"
+    ],
+    "options_en": [
+      "Virtual world",
+      "Ancient China",
+      "Future space",
+      "Medieval Europe"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
+    "difficulty": 1
+  },
+  {
+    "id": 97,
+    "question_zh": "《天龍八部》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Demi-Gods and Semi-Devils' set?",
+    "options_zh": [
+      "未來太空",
+      "古代中國",
+      "虛擬世界",
+      "歐洲中世紀"
+    ],
+    "options_en": [
+      "Future space",
+      "Ancient China",
+      "Virtual world",
+      "Medieval Europe"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
+    "difficulty": 2
+  },
+  {
+    "id": 98,
+    "question_zh": "《天龍八部》係咪好受歡迎？",
+    "question_en": "Is 'Demi-Gods and Semi-Devils' popular?",
+    "options_zh": [
+      "只喺特定地區流行",
+      "已經過氣",
+      "係，非常受歡迎",
+      "唔係，好冷門"
+    ],
+    "options_en": [
+      "Only popular locally",
+      "Outdated",
+      "Yes, very popular",
+      "No, very niche"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 3
+  },
+  {
     "id": 99,
     "question_zh": "《天龍八部》係咪好受歡迎？",
     "question_en": "Is 'Demi-Gods and Semi-Devils' popular?",
     "options_zh": [
       "唔係，好冷門",
-      "係，非常受歡迎",
+      "只喺特定地區流行",
       "已經過氣",
-      "只喺特定地區流行"
+      "係，非常受歡迎"
     ],
     "options_en": [
       "No, very niche",
-      "Yes, very popular",
+      "Only popular locally",
       "Outdated",
-      "Only popular locally"
+      "Yes, very popular"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 1
   },
   {
     "id": 100,
-    "question_zh": "《天龍八部》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Demi-Gods and Semi-Devils' belong to?",
+    "question_zh": "《天龍八部》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Demi-Gods and Semi-Devils'?",
     "options_zh": [
-      "科幻小說",
-      "恐怖小說",
-      "歷史與時代類",
-      "兒童文學"
+      "中國人",
+      "韓國人",
+      "德國人",
+      "法國人"
     ],
     "options_en": [
-      "Sci-fi",
-      "Horror",
-      "Historical & Period",
-      "Children's literature"
+      "Chinese",
+      "Korean",
+      "German",
+      "French"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「歷史與時代類」。",
-    "explanation_en": "The correct answer is 'Historical & Period'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
   }
 ]

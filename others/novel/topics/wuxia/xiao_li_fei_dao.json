@@ -4,18 +4,18 @@
     "question_zh": "以下邊本係《小李飛刀》？",
     "question_en": "Which one is 'The Sentimental Swordsman'?",
     "options_zh": [
-      "其他小說A",
       "其他小說B",
-      "其他小說C",
-      "小李飛刀"
+      "小李飛刀",
+      "其他小說A",
+      "其他小說C"
     ],
     "options_en": [
-      "Other Novel A",
       "Other Novel B",
-      "Other Novel C",
-      "The Sentimental Swordsman"
+      "The Sentimental Swordsman",
+      "Other Novel A",
+      "Other Novel C"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「小李飛刀」。",
     "explanation_en": "The correct answer is 'The Sentimental Swordsman'.",
     "difficulty": 2
@@ -25,18 +25,18 @@
     "question_zh": "以下邊本係《小李飛刀》？",
     "question_en": "Which one is 'The Sentimental Swordsman'?",
     "options_zh": [
-      "其他小說C",
       "其他小說B",
       "小李飛刀",
+      "其他小說C",
       "其他小說A"
     ],
     "options_en": [
-      "Other Novel C",
       "Other Novel B",
       "The Sentimental Swordsman",
+      "Other Novel C",
       "Other Novel A"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「小李飛刀」。",
     "explanation_en": "The correct answer is 'The Sentimental Swordsman'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "以下邊本係《小李飛刀》？",
     "question_en": "Which one is 'The Sentimental Swordsman'?",
     "options_zh": [
-      "其他小說A",
-      "其他小說B",
+      "其他小說C",
       "小李飛刀",
-      "其他小說C"
+      "其他小說A",
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel A",
-      "Other Novel B",
+      "Other Novel C",
       "The Sentimental Swordsman",
-      "Other Novel C"
+      "Other Novel A",
+      "Other Novel B"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「小李飛刀」。",
     "explanation_en": "The correct answer is 'The Sentimental Swordsman'.",
     "difficulty": 1
@@ -67,18 +67,18 @@
     "question_zh": "以下邊本係《小李飛刀》？",
     "question_en": "Which one is 'The Sentimental Swordsman'?",
     "options_zh": [
-      "其他小說A",
       "其他小說C",
-      "小李飛刀",
-      "其他小說B"
+      "其他小說A",
+      "其他小說B",
+      "小李飛刀"
     ],
     "options_en": [
-      "Other Novel A",
       "Other Novel C",
-      "The Sentimental Swordsman",
-      "Other Novel B"
+      "Other Novel A",
+      "Other Novel B",
+      "The Sentimental Swordsman"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「小李飛刀」。",
     "explanation_en": "The correct answer is 'The Sentimental Swordsman'.",
     "difficulty": 2
@@ -88,18 +88,18 @@
     "question_zh": "《小李飛刀》嘅作者係邊個？",
     "question_en": "Who wrote 'The Sentimental Swordsman'?",
     "options_zh": [
-      "其他作者A",
+      "古龍",
       "其他作者C",
       "其他作者B",
-      "古龍"
+      "其他作者A"
     ],
     "options_en": [
-      "Author A",
+      "Gu Long",
       "Author C",
       "Author B",
-      "Gu Long"
+      "Author A"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「古龍」。",
     "explanation_en": "The correct answer is 'Gu Long'.",
     "difficulty": 3
@@ -109,16 +109,16 @@
     "question_zh": "《小李飛刀》嘅作者係邊個？",
     "question_en": "Who wrote 'The Sentimental Swordsman'?",
     "options_zh": [
+      "其他作者C",
       "其他作者B",
-      "其他作者A",
       "古龍",
-      "其他作者C"
+      "其他作者A"
     ],
     "options_en": [
+      "Author C",
       "Author B",
-      "Author A",
       "Gu Long",
-      "Author C"
+      "Author A"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「古龍」。",
@@ -130,18 +130,18 @@
     "question_zh": "《小李飛刀》嘅作者係邊個？",
     "question_en": "Who wrote 'The Sentimental Swordsman'?",
     "options_zh": [
-      "古龍",
-      "其他作者B",
+      "其他作者A",
       "其他作者C",
-      "其他作者A"
+      "古龍",
+      "其他作者B"
     ],
     "options_en": [
-      "Gu Long",
-      "Author B",
+      "Author A",
       "Author C",
-      "Author A"
+      "Gu Long",
+      "Author B"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「古龍」。",
     "explanation_en": "The correct answer is 'Gu Long'.",
     "difficulty": 2
@@ -151,18 +151,18 @@
     "question_zh": "《小李飛刀》係邊年出版嘅？",
     "question_en": "What year was 'The Sentimental Swordsman' published?",
     "options_zh": [
-      "1970年",
+      "1972年",
+      "1967年",
       "1973年",
-      "1968年",
-      "1967年"
+      "1970年"
     ],
     "options_en": [
-      "1970",
+      "1972",
+      "1967",
       "1973",
-      "1968",
-      "1967"
+      "1970"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「1970年」。",
     "explanation_en": "The correct answer is '1970'.",
     "difficulty": 3
@@ -172,18 +172,18 @@
     "question_zh": "《小李飛刀》係邊年出版嘅？",
     "question_en": "What year was 'The Sentimental Swordsman' published?",
     "options_zh": [
-      "1965年",
       "1967年",
-      "1970年",
-      "1975年"
+      "1973年",
+      "1965年",
+      "1970年"
     ],
     "options_en": [
-      "1965",
       "1967",
-      "1970",
-      "1975"
+      "1973",
+      "1965",
+      "1970"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「1970年」。",
     "explanation_en": "The correct answer is '1970'.",
     "difficulty": 1
@@ -193,83 +193,83 @@
     "question_zh": "《小李飛刀》係邊年出版嘅？",
     "question_en": "What year was 'The Sentimental Swordsman' published?",
     "options_zh": [
-      "1968年",
+      "1972年",
+      "1967年",
       "1970年",
-      "1975年",
-      "1965年"
+      "1973年"
     ],
     "options_en": [
-      "1968",
+      "1972",
+      "1967",
       "1970",
-      "1975",
-      "1965"
+      "1973"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「1970年」。",
     "explanation_en": "The correct answer is '1970'.",
     "difficulty": 2
   },
   {
     "id": 11,
-    "question_zh": "《小李飛刀》屬於邊種類型？",
-    "question_en": "What genre is 'The Sentimental Swordsman'?",
+    "question_zh": "《小李飛刀》係邊國作品？",
+    "question_en": "Which country is 'The Sentimental Swordsman' from?",
     "options_zh": [
-      "其他類型A",
-      "其他類型C",
-      "武俠與動作類",
-      "其他類型B"
+      "韓國",
+      "中國",
+      "德國",
+      "法國"
     ],
     "options_en": [
-      "Genre A",
-      "Genre C",
-      "Martial Arts & Action",
-      "Genre B"
+      "South Korea",
+      "China",
+      "Germany",
+      "France"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 12,
-    "question_zh": "《小李飛刀》屬於邊種類型？",
-    "question_en": "What genre is 'The Sentimental Swordsman'?",
+    "question_zh": "《小李飛刀》係邊國作品？",
+    "question_en": "Which country is 'The Sentimental Swordsman' from?",
     "options_zh": [
-      "其他類型A",
-      "武俠與動作類",
-      "其他類型C",
-      "其他類型B"
+      "韓國",
+      "中國",
+      "德國",
+      "法國"
     ],
     "options_en": [
-      "Genre A",
-      "Martial Arts & Action",
-      "Genre C",
-      "Genre B"
+      "South Korea",
+      "China",
+      "Germany",
+      "France"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 13,
-    "question_zh": "《小李飛刀》屬於邊種類型？",
-    "question_en": "What genre is 'The Sentimental Swordsman'?",
+    "question_zh": "《小李飛刀》係邊國作品？",
+    "question_en": "Which country is 'The Sentimental Swordsman' from?",
     "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "其他類型B",
-      "武俠與動作類"
+      "法國",
+      "韓國",
+      "中國",
+      "德國"
     ],
     "options_en": [
-      "Genre C",
-      "Genre A",
-      "Genre B",
-      "Martial Arts & Action"
+      "France",
+      "South Korea",
+      "China",
+      "Germany"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
@@ -277,20 +277,20 @@
     "question_zh": "《小李飛刀》主要講咩？",
     "question_en": "What is 'The Sentimental Swordsman' mainly about?",
     "options_zh": [
-      "財經商戰",
-      "科幻太空",
+      "江湖恩怨同武俠世界",
       "體育競技",
-      "江湖恩怨同武俠世界"
+      "財經商戰",
+      "科幻太空"
     ],
     "options_en": [
-      "Business",
-      "Sci-fi space",
+      "Martial arts world",
       "Sports",
-      "Martial arts world and adventures"
+      "Business",
+      "Sci-fi"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 3
   },
   {
@@ -298,20 +298,20 @@
     "question_zh": "《小李飛刀》主要講咩？",
     "question_en": "What is 'The Sentimental Swordsman' mainly about?",
     "options_zh": [
-      "體育競技",
-      "科幻太空",
+      "財經商戰",
       "江湖恩怨同武俠世界",
-      "財經商戰"
+      "體育競技",
+      "科幻太空"
     ],
     "options_en": [
+      "Business",
+      "Martial arts world",
       "Sports",
-      "Sci-fi space",
-      "Martial arts world and adventures",
-      "Business"
+      "Sci-fi"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 1
   },
   {
@@ -321,43 +321,22 @@
     "options_zh": [
       "財經商戰",
       "體育競技",
-      "科幻太空",
-      "江湖恩怨同武俠世界"
+      "江湖恩怨同武俠世界",
+      "科幻太空"
     ],
     "options_en": [
       "Business",
       "Sports",
-      "Sci-fi space",
-      "Martial arts world and adventures"
+      "Martial arts world",
+      "Sci-fi"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 2
   },
   {
     "id": 17,
-    "question_zh": "《小李飛刀》入面有咩角色？",
-    "question_en": "What characters are in 'The Sentimental Swordsman'?",
-    "options_zh": [
-      "機械人",
-      "武林高手",
-      "外星人",
-      "動物"
-    ],
-    "options_en": [
-      "Robots",
-      "Martial arts masters",
-      "Aliens",
-      "Animals"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「武林高手」。",
-    "explanation_en": "The correct answer is 'Martial arts masters'.",
-    "difficulty": 3
-  },
-  {
-    "id": 18,
     "question_zh": "《小李飛刀》入面有咩角色？",
     "question_en": "What characters are in 'The Sentimental Swordsman'?",
     "options_zh": [
@@ -375,10 +354,10 @@
     "answer": 3,
     "explanation_zh": "正確答案係「武林高手」。",
     "explanation_en": "The correct answer is 'Martial arts masters'.",
-    "difficulty": 1
+    "difficulty": 3
   },
   {
-    "id": 19,
+    "id": 18,
     "question_zh": "《小李飛刀》入面有咩角色？",
     "question_en": "What characters are in 'The Sentimental Swordsman'?",
     "options_zh": [
@@ -396,6 +375,27 @@
     "answer": 0,
     "explanation_zh": "正確答案係「武林高手」。",
     "explanation_en": "The correct answer is 'Martial arts masters'.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "《小李飛刀》入面有咩角色？",
+    "question_en": "What characters are in 'The Sentimental Swordsman'?",
+    "options_zh": [
+      "機械人",
+      "武林高手",
+      "動物",
+      "外星人"
+    ],
+    "options_en": [
+      "Robots",
+      "Martial arts masters",
+      "Animals",
+      "Aliens"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「武林高手」。",
+    "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 2
   },
   {
@@ -403,20 +403,20 @@
     "question_zh": "《小李飛刀》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Sentimental Swordsman' set?",
     "options_zh": [
-      "古代中國江湖",
-      "虛擬世界",
       "歐洲中世紀",
-      "未來太空"
+      "虛擬世界",
+      "未來太空",
+      "古代中國"
     ],
     "options_en": [
-      "Ancient Chinese martial arts world",
-      "Virtual world",
       "Medieval Europe",
-      "Future space"
+      "Virtual world",
+      "Future space",
+      "Ancient China"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
@@ -424,20 +424,20 @@
     "question_zh": "《小李飛刀》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Sentimental Swordsman' set?",
     "options_zh": [
-      "古代中國江湖",
       "未來太空",
-      "歐洲中世紀",
-      "虛擬世界"
+      "虛擬世界",
+      "古代中國",
+      "歐洲中世紀"
     ],
     "options_en": [
-      "Ancient Chinese martial arts world",
       "Future space",
-      "Medieval Europe",
-      "Virtual world"
+      "Virtual world",
+      "Ancient China",
+      "Medieval Europe"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 1
   },
   {
@@ -446,19 +446,19 @@
     "question_en": "Where is 'The Sentimental Swordsman' set?",
     "options_zh": [
       "未來太空",
+      "古代中國",
       "虛擬世界",
-      "古代中國江湖",
       "歐洲中世紀"
     ],
     "options_en": [
       "Future space",
+      "Ancient China",
       "Virtual world",
-      "Ancient Chinese martial arts world",
       "Medieval Europe"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 2
   },
   {
@@ -466,18 +466,18 @@
     "question_zh": "《小李飛刀》係咪好受歡迎？",
     "question_en": "Is 'The Sentimental Swordsman' popular?",
     "options_zh": [
-      "已經過氣",
       "只喺特定地區流行",
       "係，非常受歡迎",
-      "唔係，好冷門"
+      "唔係，好冷門",
+      "已經過氣"
     ],
     "options_en": [
-      "Outdated",
       "Only popular locally",
       "Yes, very popular",
-      "No, very niche"
+      "No, very niche",
+      "Outdated"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -487,41 +487,41 @@
     "question_zh": "《小李飛刀》係咪好受歡迎？",
     "question_en": "Is 'The Sentimental Swordsman' popular?",
     "options_zh": [
-      "唔係，好冷門",
-      "已經過氣",
       "只喺特定地區流行",
-      "係，非常受歡迎"
+      "已經過氣",
+      "係，非常受歡迎",
+      "唔係，好冷門"
     ],
     "options_en": [
-      "No, very niche",
-      "Outdated",
       "Only popular locally",
-      "Yes, very popular"
+      "Outdated",
+      "Yes, very popular",
+      "No, very niche"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 1
   },
   {
     "id": 25,
-    "question_zh": "《小李飛刀》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'The Sentimental Swordsman' belong to?",
+    "question_zh": "《小李飛刀》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'The Sentimental Swordsman'?",
     "options_zh": [
-      "武俠與動作類",
-      "兒童文學",
-      "科幻小說",
-      "恐怖小說"
+      "韓國人",
+      "德國人",
+      "中國人",
+      "法國人"
     ],
     "options_en": [
-      "Martial Arts & Action",
-      "Children's literature",
-      "Sci-fi",
-      "Horror"
+      "Korean",
+      "German",
+      "Chinese",
+      "French"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
   },
   {
@@ -550,16 +550,16 @@
     "question_zh": "以下邊本係《小李飛刀》？",
     "question_en": "Which one is 'The Sentimental Swordsman'?",
     "options_zh": [
-      "其他小說B",
+      "其他小說A",
       "其他小說C",
       "小李飛刀",
-      "其他小說A"
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel B",
+      "Other Novel A",
       "Other Novel C",
       "The Sentimental Swordsman",
-      "Other Novel A"
+      "Other Novel B"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「小李飛刀」。",
@@ -592,14 +592,14 @@
     "question_zh": "以下邊本係《小李飛刀》？",
     "question_en": "Which one is 'The Sentimental Swordsman'?",
     "options_zh": [
-      "其他小說A",
       "其他小說C",
+      "其他小說A",
       "小李飛刀",
       "其他小說B"
     ],
     "options_en": [
-      "Other Novel A",
       "Other Novel C",
+      "Other Novel A",
       "The Sentimental Swordsman",
       "Other Novel B"
     ],
@@ -613,18 +613,18 @@
     "question_zh": "《小李飛刀》嘅作者係邊個？",
     "question_en": "Who wrote 'The Sentimental Swordsman'?",
     "options_zh": [
-      "其他作者C",
       "其他作者A",
-      "古龍",
-      "其他作者B"
+      "其他作者C",
+      "其他作者B",
+      "古龍"
     ],
     "options_en": [
-      "Author C",
       "Author A",
-      "Gu Long",
-      "Author B"
+      "Author C",
+      "Author B",
+      "Gu Long"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「古龍」。",
     "explanation_en": "The correct answer is 'Gu Long'.",
     "difficulty": 1
@@ -634,18 +634,18 @@
     "question_zh": "《小李飛刀》嘅作者係邊個？",
     "question_en": "Who wrote 'The Sentimental Swordsman'?",
     "options_zh": [
-      "古龍",
       "其他作者C",
       "其他作者A",
+      "古龍",
       "其他作者B"
     ],
     "options_en": [
-      "Gu Long",
       "Author C",
       "Author A",
+      "Gu Long",
       "Author B"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「古龍」。",
     "explanation_en": "The correct answer is 'Gu Long'.",
     "difficulty": 2
@@ -655,18 +655,18 @@
     "question_zh": "《小李飛刀》嘅作者係邊個？",
     "question_en": "Who wrote 'The Sentimental Swordsman'?",
     "options_zh": [
-      "其他作者C",
       "其他作者A",
-      "古龍",
-      "其他作者B"
+      "其他作者C",
+      "其他作者B",
+      "古龍"
     ],
     "options_en": [
-      "Author C",
       "Author A",
-      "Gu Long",
-      "Author B"
+      "Author C",
+      "Author B",
+      "Gu Long"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「古龍」。",
     "explanation_en": "The correct answer is 'Gu Long'.",
     "difficulty": 3
@@ -676,18 +676,18 @@
     "question_zh": "《小李飛刀》係邊年出版嘅？",
     "question_en": "What year was 'The Sentimental Swordsman' published?",
     "options_zh": [
-      "1975年",
-      "1970年",
+      "1972年",
       "1973年",
-      "1965年"
+      "1970年",
+      "1968年"
     ],
     "options_en": [
-      "1975",
-      "1970",
+      "1972",
       "1973",
-      "1965"
+      "1970",
+      "1968"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「1970年」。",
     "explanation_en": "The correct answer is '1970'.",
     "difficulty": 1
@@ -697,18 +697,18 @@
     "question_zh": "《小李飛刀》係邊年出版嘅？",
     "question_en": "What year was 'The Sentimental Swordsman' published?",
     "options_zh": [
-      "1970年",
+      "1972年",
+      "1967年",
       "1973年",
-      "1965年",
-      "1972年"
+      "1970年"
     ],
     "options_en": [
-      "1970",
+      "1972",
+      "1967",
       "1973",
-      "1965",
-      "1972"
+      "1970"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「1970年」。",
     "explanation_en": "The correct answer is '1970'.",
     "difficulty": 2
@@ -718,83 +718,83 @@
     "question_zh": "《小李飛刀》係邊年出版嘅？",
     "question_en": "What year was 'The Sentimental Swordsman' published?",
     "options_zh": [
-      "1975年",
-      "1965年",
       "1970年",
+      "1972年",
+      "1965年",
       "1973年"
     ],
     "options_en": [
-      "1975",
-      "1965",
       "1970",
+      "1972",
+      "1965",
       "1973"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「1970年」。",
     "explanation_en": "The correct answer is '1970'.",
     "difficulty": 3
   },
   {
     "id": 36,
-    "question_zh": "《小李飛刀》屬於邊種類型？",
-    "question_en": "What genre is 'The Sentimental Swordsman'?",
+    "question_zh": "《小李飛刀》係邊國作品？",
+    "question_en": "Which country is 'The Sentimental Swordsman' from?",
     "options_zh": [
-      "武俠與動作類",
-      "其他類型C",
-      "其他類型A",
-      "其他類型B"
+      "德國",
+      "中國",
+      "法國",
+      "韓國"
     ],
     "options_en": [
-      "Martial Arts & Action",
-      "Genre C",
-      "Genre A",
-      "Genre B"
+      "Germany",
+      "China",
+      "France",
+      "South Korea"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 37,
-    "question_zh": "《小李飛刀》屬於邊種類型？",
-    "question_en": "What genre is 'The Sentimental Swordsman'?",
+    "question_zh": "《小李飛刀》係邊國作品？",
+    "question_en": "Which country is 'The Sentimental Swordsman' from?",
     "options_zh": [
-      "武俠與動作類",
-      "其他類型C",
-      "其他類型A",
-      "其他類型B"
+      "德國",
+      "法國",
+      "韓國",
+      "中國"
     ],
     "options_en": [
-      "Martial Arts & Action",
-      "Genre C",
-      "Genre A",
-      "Genre B"
+      "Germany",
+      "France",
+      "South Korea",
+      "China"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
     "id": 38,
-    "question_zh": "《小李飛刀》屬於邊種類型？",
-    "question_en": "What genre is 'The Sentimental Swordsman'?",
+    "question_zh": "《小李飛刀》係邊國作品？",
+    "question_en": "Which country is 'The Sentimental Swordsman' from?",
     "options_zh": [
-      "其他類型B",
-      "其他類型C",
-      "武俠與動作類",
-      "其他類型A"
+      "中國",
+      "法國",
+      "韓國",
+      "德國"
     ],
     "options_en": [
-      "Genre B",
-      "Genre C",
-      "Martial Arts & Action",
-      "Genre A"
+      "China",
+      "France",
+      "South Korea",
+      "Germany"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
@@ -803,19 +803,19 @@
     "question_en": "What is 'The Sentimental Swordsman' mainly about?",
     "options_zh": [
       "財經商戰",
-      "體育競技",
+      "江湖恩怨同武俠世界",
       "科幻太空",
-      "江湖恩怨同武俠世界"
+      "體育競技"
     ],
     "options_en": [
       "Business",
-      "Sports",
-      "Sci-fi space",
-      "Martial arts world and adventures"
+      "Martial arts world",
+      "Sci-fi",
+      "Sports"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 1
   },
   {
@@ -823,20 +823,20 @@
     "question_zh": "《小李飛刀》主要講咩？",
     "question_en": "What is 'The Sentimental Swordsman' mainly about?",
     "options_zh": [
-      "財經商戰",
       "科幻太空",
-      "江湖恩怨同武俠世界",
-      "體育競技"
+      "體育競技",
+      "財經商戰",
+      "江湖恩怨同武俠世界"
     ],
     "options_en": [
+      "Sci-fi",
+      "Sports",
       "Business",
-      "Sci-fi space",
-      "Martial arts world and adventures",
-      "Sports"
+      "Martial arts world"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 2
   },
   {
@@ -844,20 +844,20 @@
     "question_zh": "《小李飛刀》主要講咩？",
     "question_en": "What is 'The Sentimental Swordsman' mainly about?",
     "options_zh": [
-      "江湖恩怨同武俠世界",
-      "財經商戰",
       "科幻太空",
-      "體育競技"
+      "江湖恩怨同武俠世界",
+      "體育競技",
+      "財經商戰"
     ],
     "options_en": [
-      "Martial arts world and adventures",
-      "Business",
-      "Sci-fi space",
-      "Sports"
+      "Sci-fi",
+      "Martial arts world",
+      "Sports",
+      "Business"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 3
   },
   {
@@ -866,17 +866,17 @@
     "question_en": "What characters are in 'The Sentimental Swordsman'?",
     "options_zh": [
       "外星人",
-      "機械人",
       "武林高手",
-      "動物"
+      "動物",
+      "機械人"
     ],
     "options_en": [
       "Aliens",
-      "Robots",
       "Martial arts masters",
-      "Animals"
+      "Animals",
+      "Robots"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「武林高手」。",
     "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 1
@@ -886,14 +886,14 @@
     "question_zh": "《小李飛刀》入面有咩角色？",
     "question_en": "What characters are in 'The Sentimental Swordsman'?",
     "options_zh": [
-      "動物",
       "外星人",
+      "動物",
       "機械人",
       "武林高手"
     ],
     "options_en": [
-      "Animals",
       "Aliens",
+      "Animals",
       "Robots",
       "Martial arts masters"
     ],
@@ -907,18 +907,18 @@
     "question_zh": "《小李飛刀》入面有咩角色？",
     "question_en": "What characters are in 'The Sentimental Swordsman'?",
     "options_zh": [
+      "外星人",
       "動物",
       "武林高手",
-      "機械人",
-      "外星人"
+      "機械人"
     ],
     "options_en": [
+      "Aliens",
       "Animals",
       "Martial arts masters",
-      "Robots",
-      "Aliens"
+      "Robots"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「武林高手」。",
     "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 3
@@ -928,20 +928,20 @@
     "question_zh": "《小李飛刀》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Sentimental Swordsman' set?",
     "options_zh": [
-      "虛擬世界",
       "未來太空",
       "歐洲中世紀",
-      "古代中國江湖"
+      "虛擬世界",
+      "古代中國"
     ],
     "options_en": [
-      "Virtual world",
       "Future space",
       "Medieval Europe",
-      "Ancient Chinese martial arts world"
+      "Virtual world",
+      "Ancient China"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 1
   },
   {
@@ -949,20 +949,20 @@
     "question_zh": "《小李飛刀》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Sentimental Swordsman' set?",
     "options_zh": [
-      "歐洲中世紀",
-      "虛擬世界",
+      "古代中國",
       "未來太空",
-      "古代中國江湖"
+      "歐洲中世紀",
+      "虛擬世界"
     ],
     "options_en": [
-      "Medieval Europe",
-      "Virtual world",
+      "Ancient China",
       "Future space",
-      "Ancient Chinese martial arts world"
+      "Medieval Europe",
+      "Virtual world"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 2
   },
   {
@@ -970,45 +970,24 @@
     "question_zh": "《小李飛刀》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Sentimental Swordsman' set?",
     "options_zh": [
-      "未來太空",
+      "古代中國",
       "虛擬世界",
       "歐洲中世紀",
-      "古代中國江湖"
+      "未來太空"
     ],
     "options_en": [
-      "Future space",
+      "Ancient China",
       "Virtual world",
       "Medieval Europe",
-      "Ancient Chinese martial arts world"
+      "Future space"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
     "id": 48,
-    "question_zh": "《小李飛刀》係咪好受歡迎？",
-    "question_en": "Is 'The Sentimental Swordsman' popular?",
-    "options_zh": [
-      "唔係，好冷門",
-      "只喺特定地區流行",
-      "已經過氣",
-      "係，非常受歡迎"
-    ],
-    "options_en": [
-      "No, very niche",
-      "Only popular locally",
-      "Outdated",
-      "Yes, very popular"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 1
-  },
-  {
-    "id": 49,
     "question_zh": "《小李飛刀》係咪好受歡迎？",
     "question_en": "Is 'The Sentimental Swordsman' popular?",
     "options_zh": [
@@ -1026,27 +1005,48 @@
     "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question_zh": "《小李飛刀》係咪好受歡迎？",
+    "question_en": "Is 'The Sentimental Swordsman' popular?",
+    "options_zh": [
+      "只喺特定地區流行",
+      "唔係，好冷門",
+      "已經過氣",
+      "係，非常受歡迎"
+    ],
+    "options_en": [
+      "Only popular locally",
+      "No, very niche",
+      "Outdated",
+      "Yes, very popular"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 2
   },
   {
     "id": 50,
-    "question_zh": "《小李飛刀》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'The Sentimental Swordsman' belong to?",
+    "question_zh": "《小李飛刀》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'The Sentimental Swordsman'?",
     "options_zh": [
-      "武俠與動作類",
-      "兒童文學",
-      "恐怖小說",
-      "科幻小說"
+      "德國人",
+      "中國人",
+      "韓國人",
+      "法國人"
     ],
     "options_en": [
-      "Martial Arts & Action",
-      "Children's literature",
-      "Horror",
-      "Sci-fi"
+      "German",
+      "Chinese",
+      "Korean",
+      "French"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 3
   },
   {
@@ -1055,14 +1055,14 @@
     "question_en": "Which one is 'The Sentimental Swordsman'?",
     "options_zh": [
       "小李飛刀",
-      "其他小說A",
       "其他小說C",
+      "其他小說A",
       "其他小說B"
     ],
     "options_en": [
       "The Sentimental Swordsman",
-      "Other Novel A",
       "Other Novel C",
+      "Other Novel A",
       "Other Novel B"
     ],
     "answer": 0,
@@ -1075,18 +1075,18 @@
     "question_zh": "以下邊本係《小李飛刀》？",
     "question_en": "Which one is 'The Sentimental Swordsman'?",
     "options_zh": [
-      "其他小說A",
       "其他小說B",
-      "小李飛刀",
-      "其他小說C"
+      "其他小說C",
+      "其他小說A",
+      "小李飛刀"
     ],
     "options_en": [
-      "Other Novel A",
       "Other Novel B",
-      "The Sentimental Swordsman",
-      "Other Novel C"
+      "Other Novel C",
+      "Other Novel A",
+      "The Sentimental Swordsman"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「小李飛刀」。",
     "explanation_en": "The correct answer is 'The Sentimental Swordsman'.",
     "difficulty": 2
@@ -1119,16 +1119,16 @@
     "options_zh": [
       "其他小說C",
       "其他小說A",
-      "小李飛刀",
-      "其他小說B"
+      "其他小說B",
+      "小李飛刀"
     ],
     "options_en": [
       "Other Novel C",
       "Other Novel A",
-      "The Sentimental Swordsman",
-      "Other Novel B"
+      "Other Novel B",
+      "The Sentimental Swordsman"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「小李飛刀」。",
     "explanation_en": "The correct answer is 'The Sentimental Swordsman'.",
     "difficulty": 1
@@ -1139,17 +1139,17 @@
     "question_en": "Who wrote 'The Sentimental Swordsman'?",
     "options_zh": [
       "其他作者C",
-      "其他作者B",
       "其他作者A",
-      "古龍"
+      "古龍",
+      "其他作者B"
     ],
     "options_en": [
       "Author C",
-      "Author B",
       "Author A",
-      "Gu Long"
+      "Gu Long",
+      "Author B"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「古龍」。",
     "explanation_en": "The correct answer is 'Gu Long'.",
     "difficulty": 2
@@ -1159,18 +1159,18 @@
     "question_zh": "《小李飛刀》嘅作者係邊個？",
     "question_en": "Who wrote 'The Sentimental Swordsman'?",
     "options_zh": [
-      "其他作者B",
-      "古龍",
       "其他作者C",
-      "其他作者A"
+      "其他作者A",
+      "古龍",
+      "其他作者B"
     ],
     "options_en": [
-      "Author B",
-      "Gu Long",
       "Author C",
-      "Author A"
+      "Author A",
+      "Gu Long",
+      "Author B"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「古龍」。",
     "explanation_en": "The correct answer is 'Gu Long'.",
     "difficulty": 3
@@ -1180,18 +1180,18 @@
     "question_zh": "《小李飛刀》嘅作者係邊個？",
     "question_en": "Who wrote 'The Sentimental Swordsman'?",
     "options_zh": [
-      "古龍",
-      "其他作者C",
       "其他作者B",
+      "其他作者C",
+      "古龍",
       "其他作者A"
     ],
     "options_en": [
-      "Gu Long",
-      "Author C",
       "Author B",
+      "Author C",
+      "Gu Long",
       "Author A"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「古龍」。",
     "explanation_en": "The correct answer is 'Gu Long'.",
     "difficulty": 1
@@ -1201,16 +1201,16 @@
     "question_zh": "《小李飛刀》係邊年出版嘅？",
     "question_en": "What year was 'The Sentimental Swordsman' published?",
     "options_zh": [
+      "1968年",
       "1972年",
-      "1967年",
       "1970年",
-      "1968年"
+      "1973年"
     ],
     "options_en": [
+      "1968",
       "1972",
-      "1967",
       "1970",
-      "1968"
+      "1973"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「1970年」。",
@@ -1223,14 +1223,14 @@
     "question_en": "What year was 'The Sentimental Swordsman' published?",
     "options_zh": [
       "1970年",
+      "1973年",
       "1967年",
-      "1975年",
       "1965年"
     ],
     "options_en": [
       "1970",
+      "1973",
       "1967",
-      "1975",
       "1965"
     ],
     "answer": 0,
@@ -1243,14 +1243,14 @@
     "question_zh": "《小李飛刀》係邊年出版嘅？",
     "question_en": "What year was 'The Sentimental Swordsman' published?",
     "options_zh": [
-      "1972年",
       "1975年",
+      "1965年",
       "1968年",
       "1970年"
     ],
     "options_en": [
-      "1972",
       "1975",
+      "1965",
       "1968",
       "1970"
     ],
@@ -1261,65 +1261,65 @@
   },
   {
     "id": 61,
-    "question_zh": "《小李飛刀》屬於邊種類型？",
-    "question_en": "What genre is 'The Sentimental Swordsman'?",
+    "question_zh": "《小李飛刀》係邊國作品？",
+    "question_en": "Which country is 'The Sentimental Swordsman' from?",
     "options_zh": [
-      "武俠與動作類",
-      "其他類型B",
-      "其他類型A",
-      "其他類型C"
+      "韓國",
+      "德國",
+      "中國",
+      "法國"
     ],
     "options_en": [
-      "Martial Arts & Action",
-      "Genre B",
-      "Genre A",
-      "Genre C"
+      "South Korea",
+      "Germany",
+      "China",
+      "France"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
     "id": 62,
-    "question_zh": "《小李飛刀》屬於邊種類型？",
-    "question_en": "What genre is 'The Sentimental Swordsman'?",
+    "question_zh": "《小李飛刀》係邊國作品？",
+    "question_en": "Which country is 'The Sentimental Swordsman' from?",
     "options_zh": [
-      "武俠與動作類",
-      "其他類型A",
-      "其他類型C",
-      "其他類型B"
+      "韓國",
+      "法國",
+      "中國",
+      "德國"
     ],
     "options_en": [
-      "Martial Arts & Action",
-      "Genre A",
-      "Genre C",
-      "Genre B"
+      "South Korea",
+      "France",
+      "China",
+      "Germany"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 63,
-    "question_zh": "《小李飛刀》屬於邊種類型？",
-    "question_en": "What genre is 'The Sentimental Swordsman'?",
+    "question_zh": "《小李飛刀》係邊國作品？",
+    "question_en": "Which country is 'The Sentimental Swordsman' from?",
     "options_zh": [
-      "武俠與動作類",
-      "其他類型C",
-      "其他類型A",
-      "其他類型B"
+      "韓國",
+      "中國",
+      "德國",
+      "法國"
     ],
     "options_en": [
-      "Martial Arts & Action",
-      "Genre C",
-      "Genre A",
-      "Genre B"
+      "South Korea",
+      "China",
+      "Germany",
+      "France"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
@@ -1327,20 +1327,20 @@
     "question_zh": "《小李飛刀》主要講咩？",
     "question_en": "What is 'The Sentimental Swordsman' mainly about?",
     "options_zh": [
-      "江湖恩怨同武俠世界",
+      "財經商戰",
       "體育競技",
       "科幻太空",
-      "財經商戰"
+      "江湖恩怨同武俠世界"
     ],
     "options_en": [
-      "Martial arts world and adventures",
+      "Business",
       "Sports",
-      "Sci-fi space",
-      "Business"
+      "Sci-fi",
+      "Martial arts world"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 2
   },
   {
@@ -1349,19 +1349,19 @@
     "question_en": "What is 'The Sentimental Swordsman' mainly about?",
     "options_zh": [
       "體育競技",
-      "科幻太空",
+      "財經商戰",
       "江湖恩怨同武俠世界",
-      "財經商戰"
+      "科幻太空"
     ],
     "options_en": [
       "Sports",
-      "Sci-fi space",
-      "Martial arts world and adventures",
-      "Business"
+      "Business",
+      "Martial arts world",
+      "Sci-fi"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 3
   },
   {
@@ -1371,18 +1371,18 @@
     "options_zh": [
       "江湖恩怨同武俠世界",
       "體育競技",
-      "財經商戰",
-      "科幻太空"
+      "科幻太空",
+      "財經商戰"
     ],
     "options_en": [
-      "Martial arts world and adventures",
+      "Martial arts world",
       "Sports",
-      "Business",
-      "Sci-fi space"
+      "Sci-fi",
+      "Business"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 1
   },
   {
@@ -1390,18 +1390,18 @@
     "question_zh": "《小李飛刀》入面有咩角色？",
     "question_en": "What characters are in 'The Sentimental Swordsman'?",
     "options_zh": [
-      "外星人",
       "動物",
       "機械人",
-      "武林高手"
+      "武林高手",
+      "外星人"
     ],
     "options_en": [
-      "Aliens",
       "Animals",
       "Robots",
-      "Martial arts masters"
+      "Martial arts masters",
+      "Aliens"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「武林高手」。",
     "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 2
@@ -1411,18 +1411,18 @@
     "question_zh": "《小李飛刀》入面有咩角色？",
     "question_en": "What characters are in 'The Sentimental Swordsman'?",
     "options_zh": [
-      "武林高手",
       "外星人",
       "動物",
+      "武林高手",
       "機械人"
     ],
     "options_en": [
-      "Martial arts masters",
       "Aliens",
       "Animals",
+      "Martial arts masters",
       "Robots"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「武林高手」。",
     "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 3
@@ -1433,17 +1433,17 @@
     "question_en": "What characters are in 'The Sentimental Swordsman'?",
     "options_zh": [
       "動物",
-      "機械人",
+      "武林高手",
       "外星人",
-      "武林高手"
+      "機械人"
     ],
     "options_en": [
       "Animals",
-      "Robots",
+      "Martial arts masters",
       "Aliens",
-      "Martial arts masters"
+      "Robots"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「武林高手」。",
     "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 1
@@ -1453,20 +1453,20 @@
     "question_zh": "《小李飛刀》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Sentimental Swordsman' set?",
     "options_zh": [
-      "古代中國江湖",
-      "虛擬世界",
+      "古代中國",
       "未來太空",
+      "虛擬世界",
       "歐洲中世紀"
     ],
     "options_en": [
-      "Ancient Chinese martial arts world",
-      "Virtual world",
+      "Ancient China",
       "Future space",
+      "Virtual world",
       "Medieval Europe"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 2
   },
   {
@@ -1475,19 +1475,19 @@
     "question_en": "Where is 'The Sentimental Swordsman' set?",
     "options_zh": [
       "未來太空",
+      "古代中國",
       "歐洲中世紀",
-      "虛擬世界",
-      "古代中國江湖"
+      "虛擬世界"
     ],
     "options_en": [
       "Future space",
+      "Ancient China",
       "Medieval Europe",
-      "Virtual world",
-      "Ancient Chinese martial arts world"
+      "Virtual world"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
@@ -1495,20 +1495,20 @@
     "question_zh": "《小李飛刀》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Sentimental Swordsman' set?",
     "options_zh": [
-      "歐洲中世紀",
-      "古代中國江湖",
+      "古代中國",
       "虛擬世界",
-      "未來太空"
+      "未來太空",
+      "歐洲中世紀"
     ],
     "options_en": [
-      "Medieval Europe",
-      "Ancient Chinese martial arts world",
+      "Ancient China",
       "Virtual world",
-      "Future space"
+      "Future space",
+      "Medieval Europe"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 1
   },
   {
@@ -1517,15 +1517,15 @@
     "question_en": "Is 'The Sentimental Swordsman' popular?",
     "options_zh": [
       "已經過氣",
-      "只喺特定地區流行",
+      "唔係，好冷門",
       "係，非常受歡迎",
-      "唔係，好冷門"
+      "只喺特定地區流行"
     ],
     "options_en": [
       "Outdated",
-      "Only popular locally",
+      "No, very niche",
       "Yes, very popular",
-      "No, very niche"
+      "Only popular locally"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
@@ -1537,45 +1537,108 @@
     "question_zh": "《小李飛刀》係咪好受歡迎？",
     "question_en": "Is 'The Sentimental Swordsman' popular?",
     "options_zh": [
-      "唔係，好冷門",
-      "已經過氣",
       "只喺特定地區流行",
-      "係，非常受歡迎"
+      "唔係，好冷門",
+      "係，非常受歡迎",
+      "已經過氣"
     ],
     "options_en": [
-      "No, very niche",
-      "Outdated",
       "Only popular locally",
-      "Yes, very popular"
+      "No, very niche",
+      "Yes, very popular",
+      "Outdated"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
     "id": 75,
-    "question_zh": "《小李飛刀》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'The Sentimental Swordsman' belong to?",
+    "question_zh": "《小李飛刀》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'The Sentimental Swordsman'?",
     "options_zh": [
-      "科幻小說",
-      "武俠與動作類",
-      "恐怖小說",
-      "兒童文學"
+      "法國人",
+      "中國人",
+      "德國人",
+      "韓國人"
     ],
     "options_en": [
-      "Sci-fi",
-      "Martial Arts & Action",
-      "Horror",
-      "Children's literature"
+      "French",
+      "Chinese",
+      "German",
+      "Korean"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 1
   },
   {
     "id": 76,
+    "question_zh": "以下邊本係《小李飛刀》？",
+    "question_en": "Which one is 'The Sentimental Swordsman'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說C",
+      "小李飛刀",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel C",
+      "The Sentimental Swordsman",
+      "Other Novel B"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「小李飛刀」。",
+    "explanation_en": "The correct answer is 'The Sentimental Swordsman'.",
+    "difficulty": 2
+  },
+  {
+    "id": 77,
+    "question_zh": "以下邊本係《小李飛刀》？",
+    "question_en": "Which one is 'The Sentimental Swordsman'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說B",
+      "其他小說C",
+      "小李飛刀"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel B",
+      "Other Novel C",
+      "The Sentimental Swordsman"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「小李飛刀」。",
+    "explanation_en": "The correct answer is 'The Sentimental Swordsman'.",
+    "difficulty": 3
+  },
+  {
+    "id": 78,
+    "question_zh": "以下邊本係《小李飛刀》？",
+    "question_en": "Which one is 'The Sentimental Swordsman'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說B",
+      "小李飛刀",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel B",
+      "The Sentimental Swordsman",
+      "Other Novel C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「小李飛刀」。",
+    "explanation_en": "The correct answer is 'The Sentimental Swordsman'.",
+    "difficulty": 1
+  },
+  {
+    "id": 79,
     "question_zh": "以下邊本係《小李飛刀》？",
     "question_en": "Which one is 'The Sentimental Swordsman'?",
     "options_zh": [
@@ -1596,83 +1659,20 @@
     "difficulty": 2
   },
   {
-    "id": 77,
-    "question_zh": "以下邊本係《小李飛刀》？",
-    "question_en": "Which one is 'The Sentimental Swordsman'?",
-    "options_zh": [
-      "其他小說C",
-      "小李飛刀",
-      "其他小說A",
-      "其他小說B"
-    ],
-    "options_en": [
-      "Other Novel C",
-      "The Sentimental Swordsman",
-      "Other Novel A",
-      "Other Novel B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「小李飛刀」。",
-    "explanation_en": "The correct answer is 'The Sentimental Swordsman'.",
-    "difficulty": 3
-  },
-  {
-    "id": 78,
-    "question_zh": "以下邊本係《小李飛刀》？",
-    "question_en": "Which one is 'The Sentimental Swordsman'?",
-    "options_zh": [
-      "其他小說C",
-      "小李飛刀",
-      "其他小說A",
-      "其他小說B"
-    ],
-    "options_en": [
-      "Other Novel C",
-      "The Sentimental Swordsman",
-      "Other Novel A",
-      "Other Novel B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「小李飛刀」。",
-    "explanation_en": "The correct answer is 'The Sentimental Swordsman'.",
-    "difficulty": 1
-  },
-  {
-    "id": 79,
-    "question_zh": "以下邊本係《小李飛刀》？",
-    "question_en": "Which one is 'The Sentimental Swordsman'?",
-    "options_zh": [
-      "小李飛刀",
-      "其他小說B",
-      "其他小說A",
-      "其他小說C"
-    ],
-    "options_en": [
-      "The Sentimental Swordsman",
-      "Other Novel B",
-      "Other Novel A",
-      "Other Novel C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「小李飛刀」。",
-    "explanation_en": "The correct answer is 'The Sentimental Swordsman'.",
-    "difficulty": 2
-  },
-  {
     "id": 80,
     "question_zh": "《小李飛刀》嘅作者係邊個？",
     "question_en": "Who wrote 'The Sentimental Swordsman'?",
     "options_zh": [
       "其他作者B",
       "古龍",
-      "其他作者C",
-      "其他作者A"
+      "其他作者A",
+      "其他作者C"
     ],
     "options_en": [
       "Author B",
       "Gu Long",
-      "Author C",
-      "Author A"
+      "Author A",
+      "Author C"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「古龍」。",
@@ -1685,17 +1685,17 @@
     "question_en": "Who wrote 'The Sentimental Swordsman'?",
     "options_zh": [
       "其他作者B",
-      "其他作者A",
       "古龍",
+      "其他作者A",
       "其他作者C"
     ],
     "options_en": [
       "Author B",
-      "Author A",
       "Gu Long",
+      "Author A",
       "Author C"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「古龍」。",
     "explanation_en": "The correct answer is 'Gu Long'.",
     "difficulty": 1
@@ -1705,18 +1705,18 @@
     "question_zh": "《小李飛刀》嘅作者係邊個？",
     "question_en": "Who wrote 'The Sentimental Swordsman'?",
     "options_zh": [
+      "其他作者B",
       "古龍",
       "其他作者C",
-      "其他作者B",
       "其他作者A"
     ],
     "options_en": [
+      "Author B",
       "Gu Long",
       "Author C",
-      "Author B",
       "Author A"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「古龍」。",
     "explanation_en": "The correct answer is 'Gu Long'.",
     "difficulty": 2
@@ -1726,18 +1726,18 @@
     "question_zh": "《小李飛刀》係邊年出版嘅？",
     "question_en": "What year was 'The Sentimental Swordsman' published?",
     "options_zh": [
+      "1972年",
       "1970年",
-      "1973年",
-      "1968年",
-      "1965年"
+      "1967年",
+      "1973年"
     ],
     "options_en": [
+      "1972",
       "1970",
-      "1973",
-      "1968",
-      "1965"
+      "1967",
+      "1973"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「1970年」。",
     "explanation_en": "The correct answer is '1970'.",
     "difficulty": 3
@@ -1747,15 +1747,15 @@
     "question_zh": "《小李飛刀》係邊年出版嘅？",
     "question_en": "What year was 'The Sentimental Swordsman' published?",
     "options_zh": [
-      "1968年",
+      "1975年",
       "1970年",
-      "1965年",
+      "1972年",
       "1967年"
     ],
     "options_en": [
-      "1968",
+      "1975",
       "1970",
-      "1965",
+      "1972",
       "1967"
     ],
     "answer": 1,
@@ -1768,83 +1768,83 @@
     "question_zh": "《小李飛刀》係邊年出版嘅？",
     "question_en": "What year was 'The Sentimental Swordsman' published?",
     "options_zh": [
+      "1967年",
+      "1973年",
       "1970年",
-      "1965年",
-      "1968年",
-      "1975年"
+      "1968年"
     ],
     "options_en": [
+      "1967",
+      "1973",
       "1970",
-      "1965",
-      "1968",
-      "1975"
+      "1968"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「1970年」。",
     "explanation_en": "The correct answer is '1970'.",
     "difficulty": 2
   },
   {
     "id": 86,
-    "question_zh": "《小李飛刀》屬於邊種類型？",
-    "question_en": "What genre is 'The Sentimental Swordsman'?",
+    "question_zh": "《小李飛刀》係邊國作品？",
+    "question_en": "Which country is 'The Sentimental Swordsman' from?",
     "options_zh": [
-      "其他類型A",
-      "武俠與動作類",
-      "其他類型C",
-      "其他類型B"
+      "中國",
+      "德國",
+      "法國",
+      "韓國"
     ],
     "options_en": [
-      "Genre A",
-      "Martial Arts & Action",
-      "Genre C",
-      "Genre B"
+      "China",
+      "Germany",
+      "France",
+      "South Korea"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 87,
-    "question_zh": "《小李飛刀》屬於邊種類型？",
-    "question_en": "What genre is 'The Sentimental Swordsman'?",
+    "question_zh": "《小李飛刀》係邊國作品？",
+    "question_en": "Which country is 'The Sentimental Swordsman' from?",
     "options_zh": [
-      "武俠與動作類",
-      "其他類型C",
-      "其他類型A",
-      "其他類型B"
+      "中國",
+      "韓國",
+      "法國",
+      "德國"
     ],
     "options_en": [
-      "Martial Arts & Action",
-      "Genre C",
-      "Genre A",
-      "Genre B"
+      "China",
+      "South Korea",
+      "France",
+      "Germany"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 88,
-    "question_zh": "《小李飛刀》屬於邊種類型？",
-    "question_en": "What genre is 'The Sentimental Swordsman'?",
+    "question_zh": "《小李飛刀》係邊國作品？",
+    "question_en": "Which country is 'The Sentimental Swordsman' from?",
     "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "其他類型B",
-      "武俠與動作類"
+      "法國",
+      "德國",
+      "韓國",
+      "中國"
     ],
     "options_en": [
-      "Genre C",
-      "Genre A",
-      "Genre B",
-      "Martial Arts & Action"
+      "France",
+      "Germany",
+      "South Korea",
+      "China"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
@@ -1852,20 +1852,20 @@
     "question_zh": "《小李飛刀》主要講咩？",
     "question_en": "What is 'The Sentimental Swordsman' mainly about?",
     "options_zh": [
-      "財經商戰",
       "科幻太空",
       "江湖恩怨同武俠世界",
+      "財經商戰",
       "體育競技"
     ],
     "options_en": [
+      "Sci-fi",
+      "Martial arts world",
       "Business",
-      "Sci-fi space",
-      "Martial arts world and adventures",
       "Sports"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 3
   },
   {
@@ -1874,19 +1874,19 @@
     "question_en": "What is 'The Sentimental Swordsman' mainly about?",
     "options_zh": [
       "體育競技",
+      "財經商戰",
       "江湖恩怨同武俠世界",
-      "科幻太空",
-      "財經商戰"
+      "科幻太空"
     ],
     "options_en": [
       "Sports",
-      "Martial arts world and adventures",
-      "Sci-fi space",
-      "Business"
+      "Business",
+      "Martial arts world",
+      "Sci-fi"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 1
   },
   {
@@ -1896,22 +1896,64 @@
     "options_zh": [
       "科幻太空",
       "江湖恩怨同武俠世界",
-      "財經商戰",
-      "體育競技"
+      "體育競技",
+      "財經商戰"
     ],
     "options_en": [
-      "Sci-fi space",
-      "Martial arts world and adventures",
-      "Business",
-      "Sports"
+      "Sci-fi",
+      "Martial arts world",
+      "Sports",
+      "Business"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 2
   },
   {
     "id": 92,
+    "question_zh": "《小李飛刀》入面有咩角色？",
+    "question_en": "What characters are in 'The Sentimental Swordsman'?",
+    "options_zh": [
+      "動物",
+      "外星人",
+      "武林高手",
+      "機械人"
+    ],
+    "options_en": [
+      "Animals",
+      "Aliens",
+      "Martial arts masters",
+      "Robots"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「武林高手」。",
+    "explanation_en": "The correct answer is 'Martial arts masters'.",
+    "difficulty": 3
+  },
+  {
+    "id": 93,
+    "question_zh": "《小李飛刀》入面有咩角色？",
+    "question_en": "What characters are in 'The Sentimental Swordsman'?",
+    "options_zh": [
+      "武林高手",
+      "外星人",
+      "動物",
+      "機械人"
+    ],
+    "options_en": [
+      "Martial arts masters",
+      "Aliens",
+      "Animals",
+      "Robots"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「武林高手」。",
+    "explanation_en": "The correct answer is 'Martial arts masters'.",
+    "difficulty": 1
+  },
+  {
+    "id": 94,
     "question_zh": "《小李飛刀》入面有咩角色？",
     "question_en": "What characters are in 'The Sentimental Swordsman'?",
     "options_zh": [
@@ -1929,48 +1971,6 @@
     "answer": 3,
     "explanation_zh": "正確答案係「武林高手」。",
     "explanation_en": "The correct answer is 'Martial arts masters'.",
-    "difficulty": 3
-  },
-  {
-    "id": 93,
-    "question_zh": "《小李飛刀》入面有咩角色？",
-    "question_en": "What characters are in 'The Sentimental Swordsman'?",
-    "options_zh": [
-      "武林高手",
-      "動物",
-      "機械人",
-      "外星人"
-    ],
-    "options_en": [
-      "Martial arts masters",
-      "Animals",
-      "Robots",
-      "Aliens"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武林高手」。",
-    "explanation_en": "The correct answer is 'Martial arts masters'.",
-    "difficulty": 1
-  },
-  {
-    "id": 94,
-    "question_zh": "《小李飛刀》入面有咩角色？",
-    "question_en": "What characters are in 'The Sentimental Swordsman'?",
-    "options_zh": [
-      "武林高手",
-      "動物",
-      "外星人",
-      "機械人"
-    ],
-    "options_en": [
-      "Martial arts masters",
-      "Animals",
-      "Aliens",
-      "Robots"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武林高手」。",
-    "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 2
   },
   {
@@ -1978,20 +1978,20 @@
     "question_zh": "《小李飛刀》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Sentimental Swordsman' set?",
     "options_zh": [
-      "虛擬世界",
+      "古代中國",
       "未來太空",
       "歐洲中世紀",
-      "古代中國江湖"
+      "虛擬世界"
     ],
     "options_en": [
-      "Virtual world",
+      "Ancient China",
       "Future space",
       "Medieval Europe",
-      "Ancient Chinese martial arts world"
+      "Virtual world"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
@@ -1999,20 +1999,20 @@
     "question_zh": "《小李飛刀》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Sentimental Swordsman' set?",
     "options_zh": [
-      "未來太空",
-      "歐洲中世紀",
       "虛擬世界",
-      "古代中國江湖"
+      "未來太空",
+      "古代中國",
+      "歐洲中世紀"
     ],
     "options_en": [
-      "Future space",
-      "Medieval Europe",
       "Virtual world",
-      "Ancient Chinese martial arts world"
+      "Future space",
+      "Ancient China",
+      "Medieval Europe"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 1
   },
   {
@@ -2020,20 +2020,20 @@
     "question_zh": "《小李飛刀》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Sentimental Swordsman' set?",
     "options_zh": [
-      "虛擬世界",
       "歐洲中世紀",
-      "未來太空",
-      "古代中國江湖"
+      "古代中國",
+      "虛擬世界",
+      "未來太空"
     ],
     "options_en": [
-      "Virtual world",
       "Medieval Europe",
-      "Future space",
-      "Ancient Chinese martial arts world"
+      "Ancient China",
+      "Virtual world",
+      "Future space"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 2
   },
   {
@@ -2041,18 +2041,18 @@
     "question_zh": "《小李飛刀》係咪好受歡迎？",
     "question_en": "Is 'The Sentimental Swordsman' popular?",
     "options_zh": [
-      "只喺特定地區流行",
-      "係，非常受歡迎",
+      "已經過氣",
       "唔係，好冷門",
-      "已經過氣"
+      "係，非常受歡迎",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "Only popular locally",
-      "Yes, very popular",
+      "Outdated",
       "No, very niche",
-      "Outdated"
+      "Yes, very popular",
+      "Only popular locally"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -2062,41 +2062,41 @@
     "question_zh": "《小李飛刀》係咪好受歡迎？",
     "question_en": "Is 'The Sentimental Swordsman' popular?",
     "options_zh": [
-      "唔係，好冷門",
-      "只喺特定地區流行",
       "已經過氣",
-      "係，非常受歡迎"
+      "只喺特定地區流行",
+      "係，非常受歡迎",
+      "唔係，好冷門"
     ],
     "options_en": [
-      "No, very niche",
-      "Only popular locally",
       "Outdated",
-      "Yes, very popular"
+      "Only popular locally",
+      "Yes, very popular",
+      "No, very niche"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 1
   },
   {
     "id": 100,
-    "question_zh": "《小李飛刀》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'The Sentimental Swordsman' belong to?",
+    "question_zh": "《小李飛刀》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'The Sentimental Swordsman'?",
     "options_zh": [
-      "兒童文學",
-      "恐怖小說",
-      "科幻小說",
-      "武俠與動作類"
+      "韓國人",
+      "法國人",
+      "中國人",
+      "德國人"
     ],
     "options_en": [
-      "Children's literature",
-      "Horror",
-      "Sci-fi",
-      "Martial Arts & Action"
+      "Korean",
+      "French",
+      "Chinese",
+      "German"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
   }
 ]

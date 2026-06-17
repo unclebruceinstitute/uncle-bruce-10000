@@ -4,6 +4,69 @@
     "question_zh": "以下邊本係《活著》？",
     "question_en": "Which one is 'To Live'?",
     "options_zh": [
+      "活著",
+      "其他小說C",
+      "其他小說B",
+      "其他小說A"
+    ],
+    "options_en": [
+      "To Live",
+      "Other Novel C",
+      "Other Novel B",
+      "Other Novel A"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「活著」。",
+    "explanation_en": "The correct answer is 'To Live'.",
+    "difficulty": 2
+  },
+  {
+    "id": 2,
+    "question_zh": "以下邊本係《活著》？",
+    "question_en": "Which one is 'To Live'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說B",
+      "其他小說C",
+      "活著"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel B",
+      "Other Novel C",
+      "To Live"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「活著」。",
+    "explanation_en": "The correct answer is 'To Live'.",
+    "difficulty": 3
+  },
+  {
+    "id": 3,
+    "question_zh": "以下邊本係《活著》？",
+    "question_en": "Which one is 'To Live'?",
+    "options_zh": [
+      "其他小說A",
+      "活著",
+      "其他小說B",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "To Live",
+      "Other Novel B",
+      "Other Novel C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「活著」。",
+    "explanation_en": "The correct answer is 'To Live'.",
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question_zh": "以下邊本係《活著》？",
+    "question_en": "Which one is 'To Live'?",
+    "options_zh": [
       "其他小說C",
       "活著",
       "其他小說A",
@@ -21,91 +84,7 @@
     "difficulty": 2
   },
   {
-    "id": 2,
-    "question_zh": "以下邊本係《活著》？",
-    "question_en": "Which one is 'To Live'?",
-    "options_zh": [
-      "活著",
-      "其他小說A",
-      "其他小說B",
-      "其他小說C"
-    ],
-    "options_en": [
-      "To Live",
-      "Other Novel A",
-      "Other Novel B",
-      "Other Novel C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「活著」。",
-    "explanation_en": "The correct answer is 'To Live'.",
-    "difficulty": 3
-  },
-  {
-    "id": 3,
-    "question_zh": "以下邊本係《活著》？",
-    "question_en": "Which one is 'To Live'?",
-    "options_zh": [
-      "其他小說C",
-      "其他小說B",
-      "其他小說A",
-      "活著"
-    ],
-    "options_en": [
-      "Other Novel C",
-      "Other Novel B",
-      "Other Novel A",
-      "To Live"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「活著」。",
-    "explanation_en": "The correct answer is 'To Live'.",
-    "difficulty": 1
-  },
-  {
-    "id": 4,
-    "question_zh": "以下邊本係《活著》？",
-    "question_en": "Which one is 'To Live'?",
-    "options_zh": [
-      "其他小說C",
-      "活著",
-      "其他小說B",
-      "其他小說A"
-    ],
-    "options_en": [
-      "Other Novel C",
-      "To Live",
-      "Other Novel B",
-      "Other Novel A"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「活著」。",
-    "explanation_en": "The correct answer is 'To Live'.",
-    "difficulty": 2
-  },
-  {
     "id": 5,
-    "question_zh": "《活著》嘅作者係邊個？",
-    "question_en": "Who wrote 'To Live'?",
-    "options_zh": [
-      "余華",
-      "其他作者C",
-      "其他作者A",
-      "其他作者B"
-    ],
-    "options_en": [
-      "Yu Hua",
-      "Author C",
-      "Author A",
-      "Author B"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「余華」。",
-    "explanation_en": "The correct answer is 'Yu Hua'.",
-    "difficulty": 3
-  },
-  {
-    "id": 6,
     "question_zh": "《活著》嘅作者係邊個？",
     "question_en": "Who wrote 'To Live'?",
     "options_zh": [
@@ -123,10 +102,10 @@
     "answer": 2,
     "explanation_zh": "正確答案係「余華」。",
     "explanation_en": "The correct answer is 'Yu Hua'.",
-    "difficulty": 1
+    "difficulty": 3
   },
   {
-    "id": 7,
+    "id": 6,
     "question_zh": "《活著》嘅作者係邊個？",
     "question_en": "Who wrote 'To Live'?",
     "options_zh": [
@@ -144,6 +123,27 @@
     "answer": 0,
     "explanation_zh": "正確答案係「余華」。",
     "explanation_en": "The correct answer is 'Yu Hua'.",
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question_zh": "《活著》嘅作者係邊個？",
+    "question_en": "Who wrote 'To Live'?",
+    "options_zh": [
+      "余華",
+      "其他作者C",
+      "其他作者B",
+      "其他作者A"
+    ],
+    "options_en": [
+      "Yu Hua",
+      "Author C",
+      "Author B",
+      "Author A"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「余華」。",
+    "explanation_en": "The correct answer is 'Yu Hua'.",
     "difficulty": 2
   },
   {
@@ -152,14 +152,14 @@
     "question_en": "What year was 'To Live' published?",
     "options_zh": [
       "1993年",
-      "1995年",
       "1990年",
+      "1996年",
       "1998年"
     ],
     "options_en": [
       "1993",
-      "1995",
       "1990",
+      "1996",
       "1998"
     ],
     "answer": 0,
@@ -172,18 +172,18 @@
     "question_zh": "《活著》係邊年出版嘅？",
     "question_en": "What year was 'To Live' published?",
     "options_zh": [
-      "1995年",
-      "1990年",
       "1998年",
-      "1993年"
+      "1988年",
+      "1993年",
+      "1996年"
     ],
     "options_en": [
-      "1995",
-      "1990",
       "1998",
-      "1993"
+      "1988",
+      "1993",
+      "1996"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「1993年」。",
     "explanation_en": "The correct answer is '1993'.",
     "difficulty": 1
@@ -193,15 +193,15 @@
     "question_zh": "《活著》係邊年出版嘅？",
     "question_en": "What year was 'To Live' published?",
     "options_zh": [
-      "1996年",
-      "1988年",
       "1995年",
+      "1996年",
+      "1990年",
       "1993年"
     ],
     "options_en": [
-      "1996",
-      "1988",
       "1995",
+      "1996",
+      "1990",
       "1993"
     ],
     "answer": 3,
@@ -211,69 +211,90 @@
   },
   {
     "id": 11,
-    "question_zh": "《活著》屬於邊種類型？",
-    "question_en": "What genre is 'To Live'?",
+    "question_zh": "《活著》係邊國作品？",
+    "question_en": "Which country is 'To Live' from?",
     "options_zh": [
-      "其他類型B",
-      "其他類型A",
-      "寫實與文學類",
-      "其他類型C"
+      "法國",
+      "德國",
+      "中國",
+      "韓國"
     ],
     "options_en": [
-      "Genre B",
-      "Genre A",
-      "Realistic & Literary",
-      "Genre C"
+      "France",
+      "Germany",
+      "China",
+      "South Korea"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 12,
-    "question_zh": "《活著》屬於邊種類型？",
-    "question_en": "What genre is 'To Live'?",
+    "question_zh": "《活著》係邊國作品？",
+    "question_en": "Which country is 'To Live' from?",
     "options_zh": [
-      "其他類型B",
-      "其他類型C",
-      "其他類型A",
-      "寫實與文學類"
+      "中國",
+      "法國",
+      "韓國",
+      "德國"
     ],
     "options_en": [
-      "Genre B",
-      "Genre C",
-      "Genre A",
-      "Realistic & Literary"
+      "China",
+      "France",
+      "South Korea",
+      "Germany"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 13,
-    "question_zh": "《活著》屬於邊種類型？",
-    "question_en": "What genre is 'To Live'?",
+    "question_zh": "《活著》係邊國作品？",
+    "question_en": "Which country is 'To Live' from?",
     "options_zh": [
-      "其他類型B",
-      "寫實與文學類",
-      "其他類型C",
-      "其他類型A"
+      "法國",
+      "德國",
+      "中國",
+      "韓國"
     ],
     "options_en": [
-      "Genre B",
-      "Realistic & Literary",
-      "Genre C",
-      "Genre A"
+      "France",
+      "Germany",
+      "China",
+      "South Korea"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
     "id": 14,
+    "question_zh": "《活著》主要講咩？",
+    "question_en": "What is 'To Live' mainly about?",
+    "options_zh": [
+      "財經商戰",
+      "體育競技",
+      "現實生活同文學表達",
+      "科幻太空"
+    ],
+    "options_en": [
+      "Business",
+      "Sports",
+      "Real life and literary",
+      "Sci-fi"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「現實生活同文學表達」。",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
     "question_zh": "《活著》主要講咩？",
     "question_en": "What is 'To Live' mainly about?",
     "options_zh": [
@@ -284,34 +305,13 @@
     ],
     "options_en": [
       "Business",
-      "Sci-fi space",
+      "Sci-fi",
       "Sports",
-      "Real life and literary expression"
+      "Real life and literary"
     ],
     "answer": 3,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
-    "difficulty": 3
-  },
-  {
-    "id": 15,
-    "question_zh": "《活著》主要講咩？",
-    "question_en": "What is 'To Live' mainly about?",
-    "options_zh": [
-      "科幻太空",
-      "現實生活同文學表達",
-      "體育競技",
-      "財經商戰"
-    ],
-    "options_en": [
-      "Sci-fi space",
-      "Real life and literary expression",
-      "Sports",
-      "Business"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 1
   },
   {
@@ -320,19 +320,19 @@
     "question_en": "What is 'To Live' mainly about?",
     "options_zh": [
       "科幻太空",
-      "體育競技",
       "現實生活同文學表達",
+      "體育競技",
       "財經商戰"
     ],
     "options_en": [
-      "Sci-fi space",
+      "Sci-fi",
+      "Real life and literary",
       "Sports",
-      "Real life and literary expression",
       "Business"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 2
   },
   {
@@ -340,18 +340,18 @@
     "question_zh": "《活著》入面有咩角色？",
     "question_en": "What characters are in 'To Live'?",
     "options_zh": [
-      "主要角色",
       "外星人",
-      "動物",
-      "機械人"
+      "主要角色",
+      "機械人",
+      "動物"
     ],
     "options_en": [
-      "Main characters",
       "Aliens",
-      "Animals",
-      "Robots"
+      "Main characters",
+      "Robots",
+      "Animals"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
@@ -361,18 +361,18 @@
     "question_zh": "《活著》入面有咩角色？",
     "question_en": "What characters are in 'To Live'?",
     "options_zh": [
-      "動物",
       "機械人",
-      "主要角色",
-      "外星人"
+      "動物",
+      "外星人",
+      "主要角色"
     ],
     "options_en": [
-      "Animals",
       "Robots",
-      "Main characters",
-      "Aliens"
+      "Animals",
+      "Aliens",
+      "Main characters"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 1
@@ -384,16 +384,16 @@
     "options_zh": [
       "機械人",
       "動物",
-      "主要角色",
-      "外星人"
+      "外星人",
+      "主要角色"
     ],
     "options_en": [
       "Robots",
       "Animals",
-      "Main characters",
-      "Aliens"
+      "Aliens",
+      "Main characters"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 2
@@ -403,18 +403,18 @@
     "question_zh": "《活著》嘅故事背景喺邊度？",
     "question_en": "Where is 'To Live' set?",
     "options_zh": [
+      "歐洲中世紀",
       "中國/亞洲",
       "虛擬世界",
-      "未來太空",
-      "歐洲中世紀"
+      "未來太空"
     ],
     "options_en": [
+      "Medieval Europe",
       "China/Asia",
       "Virtual world",
-      "Future space",
-      "Medieval Europe"
+      "Future space"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
@@ -425,15 +425,15 @@
     "question_en": "Where is 'To Live' set?",
     "options_zh": [
       "中國/亞洲",
-      "虛擬世界",
+      "歐洲中世紀",
       "未來太空",
-      "歐洲中世紀"
+      "虛擬世界"
     ],
     "options_en": [
       "China/Asia",
-      "Virtual world",
+      "Medieval Europe",
       "Future space",
-      "Medieval Europe"
+      "Virtual world"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「中國/亞洲」。",
@@ -446,17 +446,17 @@
     "question_en": "Where is 'To Live' set?",
     "options_zh": [
       "虛擬世界",
-      "未來太空",
       "中國/亞洲",
-      "歐洲中世紀"
+      "歐洲中世紀",
+      "未來太空"
     ],
     "options_en": [
       "Virtual world",
-      "Future space",
       "China/Asia",
-      "Medieval Europe"
+      "Medieval Europe",
+      "Future space"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 2
@@ -466,18 +466,18 @@
     "question_zh": "《活著》係咪好受歡迎？",
     "question_en": "Is 'To Live' popular?",
     "options_zh": [
+      "只喺特定地區流行",
       "已經過氣",
       "係，非常受歡迎",
-      "只喺特定地區流行",
       "唔係，好冷門"
     ],
     "options_en": [
+      "Only popular locally",
       "Outdated",
       "Yes, very popular",
-      "Only popular locally",
       "No, very niche"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -505,23 +505,23 @@
   },
   {
     "id": 25,
-    "question_zh": "《活著》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'To Live' belong to?",
+    "question_zh": "《活著》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'To Live'?",
     "options_zh": [
-      "科幻小說",
-      "恐怖小說",
-      "寫實與文學類",
-      "兒童文學"
+      "韓國人",
+      "德國人",
+      "中國人",
+      "法國人"
     ],
     "options_en": [
-      "Sci-fi",
-      "Horror",
-      "Realistic & Literary",
-      "Children's literature"
+      "Korean",
+      "German",
+      "Chinese",
+      "French"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
   },
   {
@@ -529,14 +529,14 @@
     "question_zh": "以下邊本係《活著》？",
     "question_en": "Which one is 'To Live'?",
     "options_zh": [
-      "其他小說C",
       "其他小說B",
+      "其他小說C",
       "活著",
       "其他小說A"
     ],
     "options_en": [
-      "Other Novel C",
       "Other Novel B",
+      "Other Novel C",
       "To Live",
       "Other Novel A"
     ],
@@ -551,15 +551,15 @@
     "question_en": "Which one is 'To Live'?",
     "options_zh": [
       "活著",
-      "其他小說C",
+      "其他小說A",
       "其他小說B",
-      "其他小說A"
+      "其他小說C"
     ],
     "options_en": [
       "To Live",
-      "Other Novel C",
+      "Other Novel A",
       "Other Novel B",
-      "Other Novel A"
+      "Other Novel C"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「活著」。",
@@ -571,15 +571,15 @@
     "question_zh": "以下邊本係《活著》？",
     "question_en": "Which one is 'To Live'?",
     "options_zh": [
+      "其他小說A",
       "其他小說C",
       "其他小說B",
-      "其他小說A",
       "活著"
     ],
     "options_en": [
+      "Other Novel A",
       "Other Novel C",
       "Other Novel B",
-      "Other Novel A",
       "To Live"
     ],
     "answer": 3,
@@ -593,17 +593,17 @@
     "question_en": "Which one is 'To Live'?",
     "options_zh": [
       "其他小說B",
-      "其他小說C",
       "活著",
+      "其他小說C",
       "其他小說A"
     ],
     "options_en": [
       "Other Novel B",
-      "Other Novel C",
       "To Live",
+      "Other Novel C",
       "Other Novel A"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「活著」。",
     "explanation_en": "The correct answer is 'To Live'.",
     "difficulty": 3
@@ -614,14 +614,14 @@
     "question_en": "Who wrote 'To Live'?",
     "options_zh": [
       "余華",
-      "其他作者C",
       "其他作者B",
+      "其他作者C",
       "其他作者A"
     ],
     "options_en": [
       "Yu Hua",
-      "Author C",
       "Author B",
+      "Author C",
       "Author A"
     ],
     "answer": 0,
@@ -634,18 +634,18 @@
     "question_zh": "《活著》嘅作者係邊個？",
     "question_en": "Who wrote 'To Live'?",
     "options_zh": [
-      "其他作者A",
       "余華",
       "其他作者B",
+      "其他作者A",
       "其他作者C"
     ],
     "options_en": [
-      "Author A",
       "Yu Hua",
       "Author B",
+      "Author A",
       "Author C"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「余華」。",
     "explanation_en": "The correct answer is 'Yu Hua'.",
     "difficulty": 2
@@ -656,17 +656,17 @@
     "question_en": "Who wrote 'To Live'?",
     "options_zh": [
       "其他作者C",
-      "其他作者B",
       "余華",
-      "其他作者A"
+      "其他作者A",
+      "其他作者B"
     ],
     "options_en": [
       "Author C",
-      "Author B",
       "Yu Hua",
-      "Author A"
+      "Author A",
+      "Author B"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「余華」。",
     "explanation_en": "The correct answer is 'Yu Hua'.",
     "difficulty": 3
@@ -676,16 +676,16 @@
     "question_zh": "《活著》係邊年出版嘅？",
     "question_en": "What year was 'To Live' published?",
     "options_zh": [
-      "1990年",
+      "1991年",
       "1995年",
       "1993年",
-      "1996年"
+      "1990年"
     ],
     "options_en": [
-      "1990",
+      "1991",
       "1995",
       "1993",
-      "1996"
+      "1990"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「1993年」。",
@@ -698,14 +698,14 @@
     "question_en": "What year was 'To Live' published?",
     "options_zh": [
       "1993年",
-      "1991年",
-      "1996年",
+      "1988年",
+      "1998年",
       "1990年"
     ],
     "options_en": [
       "1993",
-      "1991",
-      "1996",
+      "1988",
+      "1998",
       "1990"
     ],
     "answer": 0,
@@ -718,16 +718,16 @@
     "question_zh": "《活著》係邊年出版嘅？",
     "question_en": "What year was 'To Live' published?",
     "options_zh": [
-      "1990年",
-      "1993年",
       "1996年",
-      "1995年"
+      "1993年",
+      "1998年",
+      "1990年"
     ],
     "options_en": [
-      "1990",
-      "1993",
       "1996",
-      "1995"
+      "1993",
+      "1998",
+      "1990"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「1993年」。",
@@ -736,65 +736,65 @@
   },
   {
     "id": 36,
-    "question_zh": "《活著》屬於邊種類型？",
-    "question_en": "What genre is 'To Live'?",
+    "question_zh": "《活著》係邊國作品？",
+    "question_en": "Which country is 'To Live' from?",
     "options_zh": [
-      "寫實與文學類",
-      "其他類型A",
-      "其他類型C",
-      "其他類型B"
+      "韓國",
+      "法國",
+      "德國",
+      "中國"
     ],
     "options_en": [
-      "Realistic & Literary",
-      "Genre A",
-      "Genre C",
-      "Genre B"
+      "South Korea",
+      "France",
+      "Germany",
+      "China"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 37,
-    "question_zh": "《活著》屬於邊種類型？",
-    "question_en": "What genre is 'To Live'?",
+    "question_zh": "《活著》係邊國作品？",
+    "question_en": "Which country is 'To Live' from?",
     "options_zh": [
-      "其他類型A",
-      "其他類型C",
-      "寫實與文學類",
-      "其他類型B"
+      "德國",
+      "中國",
+      "法國",
+      "韓國"
     ],
     "options_en": [
-      "Genre A",
-      "Genre C",
-      "Realistic & Literary",
-      "Genre B"
+      "Germany",
+      "China",
+      "France",
+      "South Korea"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
     "id": 38,
-    "question_zh": "《活著》屬於邊種類型？",
-    "question_en": "What genre is 'To Live'?",
+    "question_zh": "《活著》係邊國作品？",
+    "question_en": "Which country is 'To Live' from?",
     "options_zh": [
-      "寫實與文學類",
-      "其他類型C",
-      "其他類型B",
-      "其他類型A"
+      "法國",
+      "中國",
+      "韓國",
+      "德國"
     ],
     "options_en": [
-      "Realistic & Literary",
-      "Genre C",
-      "Genre B",
-      "Genre A"
+      "France",
+      "China",
+      "South Korea",
+      "Germany"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
@@ -802,20 +802,20 @@
     "question_zh": "《活著》主要講咩？",
     "question_en": "What is 'To Live' mainly about?",
     "options_zh": [
-      "體育競技",
-      "科幻太空",
+      "現實生活同文學表達",
       "財經商戰",
-      "現實生活同文學表達"
+      "科幻太空",
+      "體育競技"
     ],
     "options_en": [
-      "Sports",
-      "Sci-fi space",
+      "Real life and literary",
       "Business",
-      "Real life and literary expression"
+      "Sci-fi",
+      "Sports"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 1
   },
   {
@@ -824,19 +824,19 @@
     "question_en": "What is 'To Live' mainly about?",
     "options_zh": [
       "科幻太空",
-      "體育競技",
+      "財經商戰",
       "現實生活同文學表達",
-      "財經商戰"
+      "體育競技"
     ],
     "options_en": [
-      "Sci-fi space",
-      "Sports",
-      "Real life and literary expression",
-      "Business"
+      "Sci-fi",
+      "Business",
+      "Real life and literary",
+      "Sports"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 2
   },
   {
@@ -844,20 +844,20 @@
     "question_zh": "《活著》主要講咩？",
     "question_en": "What is 'To Live' mainly about?",
     "options_zh": [
-      "財經商戰",
+      "現實生活同文學表達",
       "體育競技",
       "科幻太空",
-      "現實生活同文學表達"
+      "財經商戰"
     ],
     "options_en": [
-      "Business",
+      "Real life and literary",
       "Sports",
-      "Sci-fi space",
-      "Real life and literary expression"
+      "Sci-fi",
+      "Business"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 3
   },
   {
@@ -865,18 +865,18 @@
     "question_zh": "《活著》入面有咩角色？",
     "question_en": "What characters are in 'To Live'?",
     "options_zh": [
+      "機械人",
       "主要角色",
       "動物",
-      "機械人",
       "外星人"
     ],
     "options_en": [
+      "Robots",
       "Main characters",
       "Animals",
-      "Robots",
       "Aliens"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 1
@@ -886,18 +886,18 @@
     "question_zh": "《活著》入面有咩角色？",
     "question_en": "What characters are in 'To Live'?",
     "options_zh": [
-      "機械人",
       "動物",
-      "主要角色",
-      "外星人"
+      "外星人",
+      "機械人",
+      "主要角色"
     ],
     "options_en": [
-      "Robots",
       "Animals",
-      "Main characters",
-      "Aliens"
+      "Aliens",
+      "Robots",
+      "Main characters"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 2
@@ -907,24 +907,66 @@
     "question_zh": "《活著》入面有咩角色？",
     "question_en": "What characters are in 'To Live'?",
     "options_zh": [
-      "主要角色",
-      "外星人",
       "機械人",
-      "動物"
+      "主要角色",
+      "動物",
+      "外星人"
     ],
     "options_en": [
-      "Main characters",
-      "Aliens",
       "Robots",
-      "Animals"
+      "Main characters",
+      "Animals",
+      "Aliens"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
     "id": 45,
+    "question_zh": "《活著》嘅故事背景喺邊度？",
+    "question_en": "Where is 'To Live' set?",
+    "options_zh": [
+      "未來太空",
+      "中國/亞洲",
+      "歐洲中世紀",
+      "虛擬世界"
+    ],
+    "options_en": [
+      "Future space",
+      "China/Asia",
+      "Medieval Europe",
+      "Virtual world"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question_zh": "《活著》嘅故事背景喺邊度？",
+    "question_en": "Where is 'To Live' set?",
+    "options_zh": [
+      "中國/亞洲",
+      "虛擬世界",
+      "歐洲中世紀",
+      "未來太空"
+    ],
+    "options_en": [
+      "China/Asia",
+      "Virtual world",
+      "Medieval Europe",
+      "Future space"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 2
+  },
+  {
+    "id": 47,
     "question_zh": "《活著》嘅故事背景喺邊度？",
     "question_en": "Where is 'To Live' set?",
     "options_zh": [
@@ -940,48 +982,6 @@
       "Medieval Europe"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 1
-  },
-  {
-    "id": 46,
-    "question_zh": "《活著》嘅故事背景喺邊度？",
-    "question_en": "Where is 'To Live' set?",
-    "options_zh": [
-      "未來太空",
-      "歐洲中世紀",
-      "虛擬世界",
-      "中國/亞洲"
-    ],
-    "options_en": [
-      "Future space",
-      "Medieval Europe",
-      "Virtual world",
-      "China/Asia"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 2
-  },
-  {
-    "id": 47,
-    "question_zh": "《活著》嘅故事背景喺邊度？",
-    "question_en": "Where is 'To Live' set?",
-    "options_zh": [
-      "歐洲中世紀",
-      "中國/亞洲",
-      "未來太空",
-      "虛擬世界"
-    ],
-    "options_en": [
-      "Medieval Europe",
-      "China/Asia",
-      "Future space",
-      "Virtual world"
-    ],
-    "answer": 1,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
@@ -1012,16 +1012,16 @@
     "question_zh": "《活著》係咪好受歡迎？",
     "question_en": "Is 'To Live' popular?",
     "options_zh": [
-      "只喺特定地區流行",
-      "係，非常受歡迎",
       "唔係，好冷門",
-      "已經過氣"
+      "係，非常受歡迎",
+      "已經過氣",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "Only popular locally",
-      "Yes, very popular",
       "No, very niche",
-      "Outdated"
+      "Yes, very popular",
+      "Outdated",
+      "Only popular locally"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
@@ -1030,23 +1030,23 @@
   },
   {
     "id": 50,
-    "question_zh": "《活著》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'To Live' belong to?",
+    "question_zh": "《活著》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'To Live'?",
     "options_zh": [
-      "科幻小說",
-      "寫實與文學類",
-      "恐怖小說",
-      "兒童文學"
+      "韓國人",
+      "中國人",
+      "法國人",
+      "德國人"
     ],
     "options_en": [
-      "Sci-fi",
-      "Realistic & Literary",
-      "Horror",
-      "Children's literature"
+      "Korean",
+      "Chinese",
+      "French",
+      "German"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 3
   },
   {
@@ -1054,18 +1054,18 @@
     "question_zh": "以下邊本係《活著》？",
     "question_en": "Which one is 'To Live'?",
     "options_zh": [
-      "其他小說B",
-      "活著",
       "其他小說C",
-      "其他小說A"
+      "其他小說A",
+      "活著",
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel B",
-      "To Live",
       "Other Novel C",
-      "Other Novel A"
+      "Other Novel A",
+      "To Live",
+      "Other Novel B"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「活著」。",
     "explanation_en": "The correct answer is 'To Live'.",
     "difficulty": 1
@@ -1075,24 +1075,45 @@
     "question_zh": "以下邊本係《活著》？",
     "question_en": "Which one is 'To Live'?",
     "options_zh": [
-      "活著",
-      "其他小說C",
       "其他小說A",
-      "其他小說B"
+      "活著",
+      "其他小說B",
+      "其他小說C"
     ],
     "options_en": [
-      "To Live",
-      "Other Novel C",
       "Other Novel A",
-      "Other Novel B"
+      "To Live",
+      "Other Novel B",
+      "Other Novel C"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「活著」。",
     "explanation_en": "The correct answer is 'To Live'.",
     "difficulty": 2
   },
   {
     "id": 53,
+    "question_zh": "以下邊本係《活著》？",
+    "question_en": "Which one is 'To Live'?",
+    "options_zh": [
+      "其他小說C",
+      "其他小說B",
+      "活著",
+      "其他小說A"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Novel B",
+      "To Live",
+      "Other Novel A"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「活著」。",
+    "explanation_en": "The correct answer is 'To Live'.",
+    "difficulty": 3
+  },
+  {
+    "id": 54,
     "question_zh": "以下邊本係《活著》？",
     "question_en": "Which one is 'To Live'?",
     "options_zh": [
@@ -1110,31 +1131,31 @@
     "answer": 3,
     "explanation_zh": "正確答案係「活著」。",
     "explanation_en": "The correct answer is 'To Live'.",
-    "difficulty": 3
-  },
-  {
-    "id": 54,
-    "question_zh": "以下邊本係《活著》？",
-    "question_en": "Which one is 'To Live'?",
-    "options_zh": [
-      "活著",
-      "其他小說C",
-      "其他小說A",
-      "其他小說B"
-    ],
-    "options_en": [
-      "To Live",
-      "Other Novel C",
-      "Other Novel A",
-      "Other Novel B"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「活著」。",
-    "explanation_en": "The correct answer is 'To Live'.",
     "difficulty": 1
   },
   {
     "id": 55,
+    "question_zh": "《活著》嘅作者係邊個？",
+    "question_en": "Who wrote 'To Live'?",
+    "options_zh": [
+      "其他作者B",
+      "余華",
+      "其他作者A",
+      "其他作者C"
+    ],
+    "options_en": [
+      "Author B",
+      "Yu Hua",
+      "Author A",
+      "Author C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「余華」。",
+    "explanation_en": "The correct answer is 'Yu Hua'.",
+    "difficulty": 2
+  },
+  {
+    "id": 56,
     "question_zh": "《活著》嘅作者係邊個？",
     "question_en": "Who wrote 'To Live'?",
     "options_zh": [
@@ -1152,27 +1173,6 @@
     "answer": 2,
     "explanation_zh": "正確答案係「余華」。",
     "explanation_en": "The correct answer is 'Yu Hua'.",
-    "difficulty": 2
-  },
-  {
-    "id": 56,
-    "question_zh": "《活著》嘅作者係邊個？",
-    "question_en": "Who wrote 'To Live'?",
-    "options_zh": [
-      "其他作者B",
-      "其他作者A",
-      "其他作者C",
-      "余華"
-    ],
-    "options_en": [
-      "Author B",
-      "Author A",
-      "Author C",
-      "Yu Hua"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「余華」。",
-    "explanation_en": "The correct answer is 'Yu Hua'.",
     "difficulty": 3
   },
   {
@@ -1181,15 +1181,15 @@
     "question_en": "Who wrote 'To Live'?",
     "options_zh": [
       "余華",
-      "其他作者B",
       "其他作者A",
-      "其他作者C"
+      "其他作者C",
+      "其他作者B"
     ],
     "options_en": [
       "Yu Hua",
-      "Author B",
       "Author A",
-      "Author C"
+      "Author C",
+      "Author B"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「余華」。",
@@ -1202,15 +1202,15 @@
     "question_en": "What year was 'To Live' published?",
     "options_zh": [
       "1993年",
+      "1990年",
       "1996年",
-      "1995年",
-      "1990年"
+      "1998年"
     ],
     "options_en": [
       "1993",
+      "1990",
       "1996",
-      "1995",
-      "1990"
+      "1998"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「1993年」。",
@@ -1222,18 +1222,18 @@
     "question_zh": "《活著》係邊年出版嘅？",
     "question_en": "What year was 'To Live' published?",
     "options_zh": [
-      "1993年",
-      "1998年",
+      "1990年",
       "1988年",
-      "1995年"
+      "1998年",
+      "1993年"
     ],
     "options_en": [
-      "1993",
-      "1998",
+      "1990",
       "1988",
-      "1995"
+      "1998",
+      "1993"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「1993年」。",
     "explanation_en": "The correct answer is '1993'.",
     "difficulty": 3
@@ -1243,83 +1243,83 @@
     "question_zh": "《活著》係邊年出版嘅？",
     "question_en": "What year was 'To Live' published?",
     "options_zh": [
-      "1998年",
       "1993年",
       "1995年",
+      "1990年",
       "1996年"
     ],
     "options_en": [
-      "1998",
       "1993",
       "1995",
+      "1990",
       "1996"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「1993年」。",
     "explanation_en": "The correct answer is '1993'.",
     "difficulty": 1
   },
   {
     "id": 61,
-    "question_zh": "《活著》屬於邊種類型？",
-    "question_en": "What genre is 'To Live'?",
+    "question_zh": "《活著》係邊國作品？",
+    "question_en": "Which country is 'To Live' from?",
     "options_zh": [
-      "寫實與文學類",
-      "其他類型A",
-      "其他類型B",
-      "其他類型C"
+      "韓國",
+      "中國",
+      "法國",
+      "德國"
     ],
     "options_en": [
-      "Realistic & Literary",
-      "Genre A",
-      "Genre B",
-      "Genre C"
+      "South Korea",
+      "China",
+      "France",
+      "Germany"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
     "id": 62,
-    "question_zh": "《活著》屬於邊種類型？",
-    "question_en": "What genre is 'To Live'?",
+    "question_zh": "《活著》係邊國作品？",
+    "question_en": "Which country is 'To Live' from?",
     "options_zh": [
-      "其他類型B",
-      "寫實與文學類",
-      "其他類型A",
-      "其他類型C"
+      "中國",
+      "法國",
+      "德國",
+      "韓國"
     ],
     "options_en": [
-      "Genre B",
-      "Realistic & Literary",
-      "Genre A",
-      "Genre C"
+      "China",
+      "France",
+      "Germany",
+      "South Korea"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 63,
-    "question_zh": "《活著》屬於邊種類型？",
-    "question_en": "What genre is 'To Live'?",
+    "question_zh": "《活著》係邊國作品？",
+    "question_en": "Which country is 'To Live' from?",
     "options_zh": [
-      "寫實與文學類",
-      "其他類型C",
-      "其他類型A",
-      "其他類型B"
+      "德國",
+      "法國",
+      "韓國",
+      "中國"
     ],
     "options_en": [
-      "Realistic & Literary",
-      "Genre C",
-      "Genre A",
-      "Genre B"
+      "Germany",
+      "France",
+      "South Korea",
+      "China"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
@@ -1327,20 +1327,20 @@
     "question_zh": "《活著》主要講咩？",
     "question_en": "What is 'To Live' mainly about?",
     "options_zh": [
-      "體育競技",
-      "科幻太空",
+      "現實生活同文學表達",
       "財經商戰",
-      "現實生活同文學表達"
+      "體育競技",
+      "科幻太空"
     ],
     "options_en": [
-      "Sports",
-      "Sci-fi space",
+      "Real life and literary",
       "Business",
-      "Real life and literary expression"
+      "Sports",
+      "Sci-fi"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 2
   },
   {
@@ -1348,20 +1348,20 @@
     "question_zh": "《活著》主要講咩？",
     "question_en": "What is 'To Live' mainly about?",
     "options_zh": [
-      "科幻太空",
       "現實生活同文學表達",
+      "體育競技",
       "財經商戰",
-      "體育競技"
+      "科幻太空"
     ],
     "options_en": [
-      "Sci-fi space",
-      "Real life and literary expression",
+      "Real life and literary",
+      "Sports",
       "Business",
-      "Sports"
+      "Sci-fi"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 3
   },
   {
@@ -1369,20 +1369,20 @@
     "question_zh": "《活著》主要講咩？",
     "question_en": "What is 'To Live' mainly about?",
     "options_zh": [
-      "財經商戰",
-      "體育競技",
       "現實生活同文學表達",
+      "體育競技",
+      "財經商戰",
       "科幻太空"
     ],
     "options_en": [
-      "Business",
+      "Real life and literary",
       "Sports",
-      "Real life and literary expression",
-      "Sci-fi space"
+      "Business",
+      "Sci-fi"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 1
   },
   {
@@ -1390,18 +1390,18 @@
     "question_zh": "《活著》入面有咩角色？",
     "question_en": "What characters are in 'To Live'?",
     "options_zh": [
+      "外星人",
       "機械人",
       "主要角色",
-      "動物",
-      "外星人"
+      "動物"
     ],
     "options_en": [
+      "Aliens",
       "Robots",
       "Main characters",
-      "Animals",
-      "Aliens"
+      "Animals"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 2
@@ -1411,18 +1411,18 @@
     "question_zh": "《活著》入面有咩角色？",
     "question_en": "What characters are in 'To Live'?",
     "options_zh": [
+      "動物",
       "主要角色",
       "機械人",
-      "外星人",
-      "動物"
+      "外星人"
     ],
     "options_en": [
+      "Animals",
       "Main characters",
       "Robots",
-      "Aliens",
-      "Animals"
+      "Aliens"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
@@ -1432,15 +1432,15 @@
     "question_zh": "《活著》入面有咩角色？",
     "question_en": "What characters are in 'To Live'?",
     "options_zh": [
-      "機械人",
-      "外星人",
       "動物",
+      "外星人",
+      "機械人",
       "主要角色"
     ],
     "options_en": [
-      "Robots",
-      "Aliens",
       "Animals",
+      "Aliens",
+      "Robots",
       "Main characters"
     ],
     "answer": 3,
@@ -1453,18 +1453,18 @@
     "question_zh": "《活著》嘅故事背景喺邊度？",
     "question_en": "Where is 'To Live' set?",
     "options_zh": [
+      "虛擬世界",
       "未來太空",
       "中國/亞洲",
-      "虛擬世界",
       "歐洲中世紀"
     ],
     "options_en": [
+      "Virtual world",
       "Future space",
       "China/Asia",
-      "Virtual world",
       "Medieval Europe"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 2
@@ -1474,15 +1474,15 @@
     "question_zh": "《活著》嘅故事背景喺邊度？",
     "question_en": "Where is 'To Live' set?",
     "options_zh": [
-      "歐洲中世紀",
-      "未來太空",
       "虛擬世界",
+      "未來太空",
+      "歐洲中世紀",
       "中國/亞洲"
     ],
     "options_en": [
-      "Medieval Europe",
-      "Future space",
       "Virtual world",
+      "Future space",
+      "Medieval Europe",
       "China/Asia"
     ],
     "answer": 3,
@@ -1495,24 +1495,45 @@
     "question_zh": "《活著》嘅故事背景喺邊度？",
     "question_en": "Where is 'To Live' set?",
     "options_zh": [
-      "中國/亞洲",
-      "虛擬世界",
       "未來太空",
-      "歐洲中世紀"
+      "歐洲中世紀",
+      "中國/亞洲",
+      "虛擬世界"
     ],
     "options_en": [
-      "China/Asia",
-      "Virtual world",
       "Future space",
-      "Medieval Europe"
+      "Medieval Europe",
+      "China/Asia",
+      "Virtual world"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 1
   },
   {
     "id": 73,
+    "question_zh": "《活著》係咪好受歡迎？",
+    "question_en": "Is 'To Live' popular?",
+    "options_zh": [
+      "唔係，好冷門",
+      "係，非常受歡迎",
+      "已經過氣",
+      "只喺特定地區流行"
+    ],
+    "options_en": [
+      "No, very niche",
+      "Yes, very popular",
+      "Outdated",
+      "Only popular locally"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 2
+  },
+  {
+    "id": 74,
     "question_zh": "《活著》係咪好受歡迎？",
     "question_en": "Is 'To Live' popular?",
     "options_zh": [
@@ -1530,48 +1551,27 @@
     "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 2
-  },
-  {
-    "id": 74,
-    "question_zh": "《活著》係咪好受歡迎？",
-    "question_en": "Is 'To Live' popular?",
-    "options_zh": [
-      "唔係，好冷門",
-      "已經過氣",
-      "係，非常受歡迎",
-      "只喺特定地區流行"
-    ],
-    "options_en": [
-      "No, very niche",
-      "Outdated",
-      "Yes, very popular",
-      "Only popular locally"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
     "id": 75,
-    "question_zh": "《活著》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'To Live' belong to?",
+    "question_zh": "《活著》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'To Live'?",
     "options_zh": [
-      "兒童文學",
-      "科幻小說",
-      "寫實與文學類",
-      "恐怖小說"
+      "中國人",
+      "韓國人",
+      "法國人",
+      "德國人"
     ],
     "options_en": [
-      "Children's literature",
-      "Sci-fi",
-      "Realistic & Literary",
-      "Horror"
+      "Chinese",
+      "Korean",
+      "French",
+      "German"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 1
   },
   {
@@ -1579,18 +1579,18 @@
     "question_zh": "以下邊本係《活著》？",
     "question_en": "Which one is 'To Live'?",
     "options_zh": [
-      "活著",
-      "其他小說B",
       "其他小說A",
+      "其他小說B",
+      "活著",
       "其他小說C"
     ],
     "options_en": [
-      "To Live",
-      "Other Novel B",
       "Other Novel A",
+      "Other Novel B",
+      "To Live",
       "Other Novel C"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「活著」。",
     "explanation_en": "The correct answer is 'To Live'.",
     "difficulty": 2
@@ -1600,18 +1600,18 @@
     "question_zh": "以下邊本係《活著》？",
     "question_en": "Which one is 'To Live'?",
     "options_zh": [
-      "其他小說A",
-      "其他小說C",
       "活著",
-      "其他小說B"
+      "其他小說B",
+      "其他小說C",
+      "其他小說A"
     ],
     "options_en": [
-      "Other Novel A",
-      "Other Novel C",
       "To Live",
-      "Other Novel B"
+      "Other Novel B",
+      "Other Novel C",
+      "Other Novel A"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「活著」。",
     "explanation_en": "The correct answer is 'To Live'.",
     "difficulty": 3
@@ -1622,17 +1622,17 @@
     "question_en": "Which one is 'To Live'?",
     "options_zh": [
       "其他小說B",
-      "活著",
       "其他小說C",
+      "活著",
       "其他小說A"
     ],
     "options_en": [
       "Other Novel B",
-      "To Live",
       "Other Novel C",
+      "To Live",
       "Other Novel A"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「活著」。",
     "explanation_en": "The correct answer is 'To Live'.",
     "difficulty": 1
@@ -1642,18 +1642,18 @@
     "question_zh": "以下邊本係《活著》？",
     "question_en": "Which one is 'To Live'?",
     "options_zh": [
+      "活著",
       "其他小說C",
       "其他小說B",
-      "其他小說A",
-      "活著"
+      "其他小說A"
     ],
     "options_en": [
+      "To Live",
       "Other Novel C",
       "Other Novel B",
-      "Other Novel A",
-      "To Live"
+      "Other Novel A"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「活著」。",
     "explanation_en": "The correct answer is 'To Live'.",
     "difficulty": 2
@@ -1663,18 +1663,18 @@
     "question_zh": "《活著》嘅作者係邊個？",
     "question_en": "Who wrote 'To Live'?",
     "options_zh": [
-      "其他作者B",
       "余華",
       "其他作者C",
+      "其他作者B",
       "其他作者A"
     ],
     "options_en": [
-      "Author B",
       "Yu Hua",
       "Author C",
+      "Author B",
       "Author A"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「余華」。",
     "explanation_en": "The correct answer is 'Yu Hua'.",
     "difficulty": 3
@@ -1686,16 +1686,16 @@
     "options_zh": [
       "其他作者C",
       "其他作者B",
-      "余華",
-      "其他作者A"
+      "其他作者A",
+      "余華"
     ],
     "options_en": [
       "Author C",
       "Author B",
-      "Yu Hua",
-      "Author A"
+      "Author A",
+      "Yu Hua"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「余華」。",
     "explanation_en": "The correct answer is 'Yu Hua'.",
     "difficulty": 1
@@ -1706,17 +1706,17 @@
     "question_en": "Who wrote 'To Live'?",
     "options_zh": [
       "其他作者C",
-      "余華",
+      "其他作者A",
       "其他作者B",
-      "其他作者A"
+      "余華"
     ],
     "options_en": [
       "Author C",
-      "Yu Hua",
+      "Author A",
       "Author B",
-      "Author A"
+      "Yu Hua"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「余華」。",
     "explanation_en": "The correct answer is 'Yu Hua'.",
     "difficulty": 2
@@ -1726,16 +1726,16 @@
     "question_zh": "《活著》係邊年出版嘅？",
     "question_en": "What year was 'To Live' published?",
     "options_zh": [
+      "1998年",
       "1995年",
-      "1988年",
       "1993年",
-      "1991年"
+      "1990年"
     ],
     "options_en": [
+      "1998",
       "1995",
-      "1988",
       "1993",
-      "1991"
+      "1990"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「1993年」。",
@@ -1747,18 +1747,18 @@
     "question_zh": "《活著》係邊年出版嘅？",
     "question_en": "What year was 'To Live' published?",
     "options_zh": [
-      "1998年",
       "1988年",
-      "1995年",
-      "1993年"
+      "1991年",
+      "1993年",
+      "1995年"
     ],
     "options_en": [
-      "1998",
       "1988",
-      "1995",
-      "1993"
+      "1991",
+      "1993",
+      "1995"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「1993年」。",
     "explanation_en": "The correct answer is '1993'.",
     "difficulty": 1
@@ -1768,83 +1768,83 @@
     "question_zh": "《活著》係邊年出版嘅？",
     "question_en": "What year was 'To Live' published?",
     "options_zh": [
-      "1998年",
-      "1995年",
+      "1993年",
       "1996年",
-      "1993年"
+      "1995年",
+      "1988年"
     ],
     "options_en": [
-      "1998",
-      "1995",
+      "1993",
       "1996",
-      "1993"
+      "1995",
+      "1988"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「1993年」。",
     "explanation_en": "The correct answer is '1993'.",
     "difficulty": 2
   },
   {
     "id": 86,
-    "question_zh": "《活著》屬於邊種類型？",
-    "question_en": "What genre is 'To Live'?",
+    "question_zh": "《活著》係邊國作品？",
+    "question_en": "Which country is 'To Live' from?",
     "options_zh": [
-      "寫實與文學類",
-      "其他類型C",
-      "其他類型A",
-      "其他類型B"
+      "法國",
+      "中國",
+      "韓國",
+      "德國"
     ],
     "options_en": [
-      "Realistic & Literary",
-      "Genre C",
-      "Genre A",
-      "Genre B"
+      "France",
+      "China",
+      "South Korea",
+      "Germany"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 87,
-    "question_zh": "《活著》屬於邊種類型？",
-    "question_en": "What genre is 'To Live'?",
+    "question_zh": "《活著》係邊國作品？",
+    "question_en": "Which country is 'To Live' from?",
     "options_zh": [
-      "寫實與文學類",
-      "其他類型B",
-      "其他類型C",
-      "其他類型A"
+      "韓國",
+      "法國",
+      "德國",
+      "中國"
     ],
     "options_en": [
-      "Realistic & Literary",
-      "Genre B",
-      "Genre C",
-      "Genre A"
+      "South Korea",
+      "France",
+      "Germany",
+      "China"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 88,
-    "question_zh": "《活著》屬於邊種類型？",
-    "question_en": "What genre is 'To Live'?",
+    "question_zh": "《活著》係邊國作品？",
+    "question_en": "Which country is 'To Live' from?",
     "options_zh": [
-      "寫實與文學類",
-      "其他類型C",
-      "其他類型A",
-      "其他類型B"
+      "韓國",
+      "法國",
+      "中國",
+      "德國"
     ],
     "options_en": [
-      "Realistic & Literary",
-      "Genre C",
-      "Genre A",
-      "Genre B"
+      "South Korea",
+      "France",
+      "China",
+      "Germany"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
@@ -1852,20 +1852,20 @@
     "question_zh": "《活著》主要講咩？",
     "question_en": "What is 'To Live' mainly about?",
     "options_zh": [
+      "財經商戰",
       "科幻太空",
       "體育競技",
-      "現實生活同文學表達",
-      "財經商戰"
+      "現實生活同文學表達"
     ],
     "options_en": [
-      "Sci-fi space",
+      "Business",
+      "Sci-fi",
       "Sports",
-      "Real life and literary expression",
-      "Business"
+      "Real life and literary"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 3
   },
   {
@@ -1873,20 +1873,20 @@
     "question_zh": "《活著》主要講咩？",
     "question_en": "What is 'To Live' mainly about?",
     "options_zh": [
-      "現實生活同文學表達",
-      "體育競技",
       "財經商戰",
+      "體育競技",
+      "現實生活同文學表達",
       "科幻太空"
     ],
     "options_en": [
-      "Real life and literary expression",
-      "Sports",
       "Business",
-      "Sci-fi space"
+      "Sports",
+      "Real life and literary",
+      "Sci-fi"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 1
   },
   {
@@ -1894,20 +1894,20 @@
     "question_zh": "《活著》主要講咩？",
     "question_en": "What is 'To Live' mainly about?",
     "options_zh": [
+      "財經商戰",
       "現實生活同文學表達",
       "科幻太空",
-      "財經商戰",
       "體育競技"
     ],
     "options_en": [
-      "Real life and literary expression",
-      "Sci-fi space",
       "Business",
+      "Real life and literary",
+      "Sci-fi",
       "Sports"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 2
   },
   {
@@ -1916,15 +1916,15 @@
     "question_en": "What characters are in 'To Live'?",
     "options_zh": [
       "主要角色",
-      "機械人",
+      "外星人",
       "動物",
-      "外星人"
+      "機械人"
     ],
     "options_en": [
       "Main characters",
-      "Robots",
+      "Aliens",
       "Animals",
-      "Aliens"
+      "Robots"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「主要角色」。",
@@ -1936,18 +1936,18 @@
     "question_zh": "《活著》入面有咩角色？",
     "question_en": "What characters are in 'To Live'?",
     "options_zh": [
-      "主要角色",
-      "外星人",
+      "動物",
       "機械人",
-      "動物"
+      "外星人",
+      "主要角色"
     ],
     "options_en": [
-      "Main characters",
-      "Aliens",
+      "Animals",
       "Robots",
-      "Animals"
+      "Aliens",
+      "Main characters"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 1
@@ -1957,14 +1957,14 @@
     "question_zh": "《活著》入面有咩角色？",
     "question_en": "What characters are in 'To Live'?",
     "options_zh": [
-      "外星人",
       "機械人",
+      "外星人",
       "主要角色",
       "動物"
     ],
     "options_en": [
-      "Aliens",
       "Robots",
+      "Aliens",
       "Main characters",
       "Animals"
     ],
@@ -1980,14 +1980,14 @@
     "options_zh": [
       "虛擬世界",
       "中國/亞洲",
-      "未來太空",
-      "歐洲中世紀"
+      "歐洲中世紀",
+      "未來太空"
     ],
     "options_en": [
       "Virtual world",
       "China/Asia",
-      "Future space",
-      "Medieval Europe"
+      "Medieval Europe",
+      "Future space"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「中國/亞洲」。",
@@ -1999,18 +1999,18 @@
     "question_zh": "《活著》嘅故事背景喺邊度？",
     "question_en": "Where is 'To Live' set?",
     "options_zh": [
-      "虛擬世界",
       "未來太空",
       "中國/亞洲",
-      "歐洲中世紀"
+      "歐洲中世紀",
+      "虛擬世界"
     ],
     "options_en": [
-      "Virtual world",
       "Future space",
       "China/Asia",
-      "Medieval Europe"
+      "Medieval Europe",
+      "Virtual world"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 1
@@ -2020,18 +2020,18 @@
     "question_zh": "《活著》嘅故事背景喺邊度？",
     "question_en": "Where is 'To Live' set?",
     "options_zh": [
-      "中國/亞洲",
       "未來太空",
+      "歐洲中世紀",
       "虛擬世界",
-      "歐洲中世紀"
+      "中國/亞洲"
     ],
     "options_en": [
-      "China/Asia",
       "Future space",
+      "Medieval Europe",
       "Virtual world",
-      "Medieval Europe"
+      "China/Asia"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 2
@@ -2042,15 +2042,15 @@
     "question_en": "Is 'To Live' popular?",
     "options_zh": [
       "係，非常受歡迎",
-      "只喺特定地區流行",
       "已經過氣",
-      "唔係，好冷門"
+      "唔係，好冷門",
+      "只喺特定地區流行"
     ],
     "options_en": [
       "Yes, very popular",
-      "Only popular locally",
       "Outdated",
-      "No, very niche"
+      "No, very niche",
+      "Only popular locally"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
@@ -2062,41 +2062,41 @@
     "question_zh": "《活著》係咪好受歡迎？",
     "question_en": "Is 'To Live' popular?",
     "options_zh": [
-      "係，非常受歡迎",
       "已經過氣",
       "只喺特定地區流行",
+      "係，非常受歡迎",
       "唔係，好冷門"
     ],
     "options_en": [
-      "Yes, very popular",
       "Outdated",
       "Only popular locally",
+      "Yes, very popular",
       "No, very niche"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 1
   },
   {
     "id": 100,
-    "question_zh": "《活著》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'To Live' belong to?",
+    "question_zh": "《活著》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'To Live'?",
     "options_zh": [
-      "寫實與文學類",
-      "科幻小說",
-      "兒童文學",
-      "恐怖小說"
+      "德國人",
+      "中國人",
+      "韓國人",
+      "法國人"
     ],
     "options_en": [
-      "Realistic & Literary",
-      "Sci-fi",
-      "Children's literature",
-      "Horror"
+      "German",
+      "Chinese",
+      "Korean",
+      "French"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
   }
 ]

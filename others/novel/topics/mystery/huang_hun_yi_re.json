@@ -4,18 +4,18 @@
     "question_zh": "以下邊本係《黃昏以後》？",
     "question_en": "Which one is 'After Dark'?",
     "options_zh": [
-      "其他小說B",
       "黃昏以後",
       "其他小說A",
-      "其他小說C"
+      "其他小說C",
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel B",
       "After Dark",
       "Other Novel A",
-      "Other Novel C"
+      "Other Novel C",
+      "Other Novel B"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「黃昏以後」。",
     "explanation_en": "The correct answer is 'After Dark'.",
     "difficulty": 2
@@ -25,18 +25,18 @@
     "question_zh": "以下邊本係《黃昏以後》？",
     "question_en": "Which one is 'After Dark'?",
     "options_zh": [
-      "其他小說A",
       "其他小說B",
-      "其他小說C",
-      "黃昏以後"
+      "其他小說A",
+      "黃昏以後",
+      "其他小說C"
     ],
     "options_en": [
-      "Other Novel A",
       "Other Novel B",
-      "Other Novel C",
-      "After Dark"
+      "Other Novel A",
+      "After Dark",
+      "Other Novel C"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「黃昏以後」。",
     "explanation_en": "The correct answer is 'After Dark'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "以下邊本係《黃昏以後》？",
     "question_en": "Which one is 'After Dark'?",
     "options_zh": [
-      "其他小說A",
-      "其他小說C",
       "其他小說B",
-      "黃昏以後"
+      "其他小說C",
+      "黃昏以後",
+      "其他小說A"
     ],
     "options_en": [
-      "Other Novel A",
-      "Other Novel C",
       "Other Novel B",
-      "After Dark"
+      "Other Novel C",
+      "After Dark",
+      "Other Novel A"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「黃昏以後」。",
     "explanation_en": "The correct answer is 'After Dark'.",
     "difficulty": 1
@@ -67,18 +67,18 @@
     "question_zh": "以下邊本係《黃昏以後》？",
     "question_en": "Which one is 'After Dark'?",
     "options_zh": [
-      "黃昏以後",
       "其他小說C",
-      "其他小說B",
-      "其他小說A"
+      "其他小說A",
+      "黃昏以後",
+      "其他小說B"
     ],
     "options_en": [
-      "After Dark",
       "Other Novel C",
-      "Other Novel B",
-      "Other Novel A"
+      "Other Novel A",
+      "After Dark",
+      "Other Novel B"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「黃昏以後」。",
     "explanation_en": "The correct answer is 'After Dark'.",
     "difficulty": 2
@@ -88,16 +88,16 @@
     "question_zh": "《黃昏以後》嘅作者係邊個？",
     "question_en": "Who wrote 'After Dark'?",
     "options_zh": [
+      "其他作者B",
       "其他作者C",
-      "其他作者A",
       "村上春樹",
-      "其他作者B"
+      "其他作者A"
     ],
     "options_en": [
+      "Author B",
       "Author C",
-      "Author A",
       "Haruki Murakami",
-      "Author B"
+      "Author A"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「村上春樹」。",
@@ -109,24 +109,528 @@
     "question_zh": "《黃昏以後》嘅作者係邊個？",
     "question_en": "Who wrote 'After Dark'?",
     "options_zh": [
-      "其他作者B",
+      "其他作者C",
       "其他作者A",
-      "村上春樹",
-      "其他作者C"
+      "其他作者B",
+      "村上春樹"
     ],
     "options_en": [
-      "Author B",
+      "Author C",
       "Author A",
-      "Haruki Murakami",
-      "Author C"
+      "Author B",
+      "Haruki Murakami"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「村上春樹」。",
     "explanation_en": "The correct answer is 'Haruki Murakami'.",
     "difficulty": 1
   },
   {
     "id": 7,
+    "question_zh": "《黃昏以後》嘅作者係邊個？",
+    "question_en": "Who wrote 'After Dark'?",
+    "options_zh": [
+      "其他作者A",
+      "其他作者C",
+      "村上春樹",
+      "其他作者B"
+    ],
+    "options_en": [
+      "Author A",
+      "Author C",
+      "Haruki Murakami",
+      "Author B"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「村上春樹」。",
+    "explanation_en": "The correct answer is 'Haruki Murakami'.",
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_zh": "《黃昏以後》係邊年出版嘅？",
+    "question_en": "What year was 'After Dark' published?",
+    "options_zh": [
+      "2001年",
+      "2004年",
+      "2006年",
+      "1999年"
+    ],
+    "options_en": [
+      "2001",
+      "2004",
+      "2006",
+      "1999"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「2004年」。",
+    "explanation_en": "The correct answer is '2004'.",
+    "difficulty": 3
+  },
+  {
+    "id": 9,
+    "question_zh": "《黃昏以後》係邊年出版嘅？",
+    "question_en": "What year was 'After Dark' published?",
+    "options_zh": [
+      "2006年",
+      "2009年",
+      "2001年",
+      "2004年"
+    ],
+    "options_en": [
+      "2006",
+      "2009",
+      "2001",
+      "2004"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「2004年」。",
+    "explanation_en": "The correct answer is '2004'.",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question_zh": "《黃昏以後》係邊年出版嘅？",
+    "question_en": "What year was 'After Dark' published?",
+    "options_zh": [
+      "2007年",
+      "2009年",
+      "2004年",
+      "1999年"
+    ],
+    "options_en": [
+      "2007",
+      "2009",
+      "2004",
+      "1999"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2004年」。",
+    "explanation_en": "The correct answer is '2004'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《黃昏以後》係邊國作品？",
+    "question_en": "Which country is 'After Dark' from?",
+    "options_zh": [
+      "韓國",
+      "日本",
+      "法國",
+      "德國"
+    ],
+    "options_en": [
+      "South Korea",
+      "Japan",
+      "France",
+      "Germany"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《黃昏以後》係邊國作品？",
+    "question_en": "Which country is 'After Dark' from?",
+    "options_zh": [
+      "韓國",
+      "德國",
+      "法國",
+      "日本"
+    ],
+    "options_en": [
+      "South Korea",
+      "Germany",
+      "France",
+      "Japan"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_zh": "《黃昏以後》係邊國作品？",
+    "question_en": "Which country is 'After Dark' from?",
+    "options_zh": [
+      "日本",
+      "韓國",
+      "法國",
+      "德國"
+    ],
+    "options_en": [
+      "Japan",
+      "South Korea",
+      "France",
+      "Germany"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_zh": "《黃昏以後》主要講咩？",
+    "question_en": "What is 'After Dark' mainly about?",
+    "options_zh": [
+      "科幻太空",
+      "推理破案同懸疑故事",
+      "體育競技",
+      "財經商戰"
+    ],
+    "options_en": [
+      "Sci-fi",
+      "Mystery and detective",
+      "Sports",
+      "Business"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《黃昏以後》主要講咩？",
+    "question_en": "What is 'After Dark' mainly about?",
+    "options_zh": [
+      "科幻太空",
+      "推理破案同懸疑故事",
+      "體育競技",
+      "財經商戰"
+    ],
+    "options_en": [
+      "Sci-fi",
+      "Mystery and detective",
+      "Sports",
+      "Business"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "《黃昏以後》主要講咩？",
+    "question_en": "What is 'After Dark' mainly about?",
+    "options_zh": [
+      "推理破案同懸疑故事",
+      "體育競技",
+      "財經商戰",
+      "科幻太空"
+    ],
+    "options_en": [
+      "Mystery and detective",
+      "Sports",
+      "Business",
+      "Sci-fi"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《黃昏以後》入面有咩角色？",
+    "question_en": "What characters are in 'After Dark'?",
+    "options_zh": [
+      "外星人",
+      "偵探/警察",
+      "動物",
+      "機械人"
+    ],
+    "options_en": [
+      "Aliens",
+      "Detective/Police",
+      "Animals",
+      "Robots"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「偵探/警察」。",
+    "explanation_en": "The correct answer is 'Detective/Police'.",
+    "difficulty": 3
+  },
+  {
+    "id": 18,
+    "question_zh": "《黃昏以後》入面有咩角色？",
+    "question_en": "What characters are in 'After Dark'?",
+    "options_zh": [
+      "外星人",
+      "機械人",
+      "動物",
+      "偵探/警察"
+    ],
+    "options_en": [
+      "Aliens",
+      "Robots",
+      "Animals",
+      "Detective/Police"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「偵探/警察」。",
+    "explanation_en": "The correct answer is 'Detective/Police'.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "《黃昏以後》入面有咩角色？",
+    "question_en": "What characters are in 'After Dark'?",
+    "options_zh": [
+      "機械人",
+      "外星人",
+      "偵探/警察",
+      "動物"
+    ],
+    "options_en": [
+      "Robots",
+      "Aliens",
+      "Detective/Police",
+      "Animals"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「偵探/警察」。",
+    "explanation_en": "The correct answer is 'Detective/Police'.",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question_zh": "《黃昏以後》嘅故事背景喺邊度？",
+    "question_en": "Where is 'After Dark' set?",
+    "options_zh": [
+      "虛擬世界",
+      "歐洲中世紀",
+      "中國/亞洲",
+      "未來太空"
+    ],
+    "options_en": [
+      "Virtual world",
+      "Medieval Europe",
+      "China/Asia",
+      "Future space"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 3
+  },
+  {
+    "id": 21,
+    "question_zh": "《黃昏以後》嘅故事背景喺邊度？",
+    "question_en": "Where is 'After Dark' set?",
+    "options_zh": [
+      "中國/亞洲",
+      "歐洲中世紀",
+      "未來太空",
+      "虛擬世界"
+    ],
+    "options_en": [
+      "China/Asia",
+      "Medieval Europe",
+      "Future space",
+      "Virtual world"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question_zh": "《黃昏以後》嘅故事背景喺邊度？",
+    "question_en": "Where is 'After Dark' set?",
+    "options_zh": [
+      "歐洲中世紀",
+      "中國/亞洲",
+      "未來太空",
+      "虛擬世界"
+    ],
+    "options_en": [
+      "Medieval Europe",
+      "China/Asia",
+      "Future space",
+      "Virtual world"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question_zh": "《黃昏以後》係咪好受歡迎？",
+    "question_en": "Is 'After Dark' popular?",
+    "options_zh": [
+      "唔係，好冷門",
+      "係，有一定讀者群",
+      "只喺特定地區流行",
+      "已經過氣"
+    ],
+    "options_en": [
+      "No, very niche",
+      "Yes, has a readership",
+      "Only popular locally",
+      "Outdated"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「係，有一定讀者群」。",
+    "explanation_en": "The correct answer is 'Yes, has a readership'.",
+    "difficulty": 3
+  },
+  {
+    "id": 24,
+    "question_zh": "《黃昏以後》係咪好受歡迎？",
+    "question_en": "Is 'After Dark' popular?",
+    "options_zh": [
+      "只喺特定地區流行",
+      "係，有一定讀者群",
+      "已經過氣",
+      "唔係，好冷門"
+    ],
+    "options_en": [
+      "Only popular locally",
+      "Yes, has a readership",
+      "Outdated",
+      "No, very niche"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「係，有一定讀者群」。",
+    "explanation_en": "The correct answer is 'Yes, has a readership'.",
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question_zh": "《黃昏以後》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'After Dark'?",
+    "options_zh": [
+      "日本人",
+      "韓國人",
+      "德國人",
+      "法國人"
+    ],
+    "options_en": [
+      "Japanese",
+      "Korean",
+      "German",
+      "French"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「日本人」。",
+    "explanation_en": "The correct answer is 'Japanese'.",
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question_zh": "以下邊本係《黃昏以後》？",
+    "question_en": "Which one is 'After Dark'?",
+    "options_zh": [
+      "其他小說C",
+      "其他小說A",
+      "黃昏以後",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Novel A",
+      "After Dark",
+      "Other Novel B"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「黃昏以後」。",
+    "explanation_en": "The correct answer is 'After Dark'.",
+    "difficulty": 3
+  },
+  {
+    "id": 27,
+    "question_zh": "以下邊本係《黃昏以後》？",
+    "question_en": "Which one is 'After Dark'?",
+    "options_zh": [
+      "其他小說C",
+      "其他小說B",
+      "其他小說A",
+      "黃昏以後"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Novel B",
+      "Other Novel A",
+      "After Dark"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「黃昏以後」。",
+    "explanation_en": "The correct answer is 'After Dark'.",
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question_zh": "以下邊本係《黃昏以後》？",
+    "question_en": "Which one is 'After Dark'?",
+    "options_zh": [
+      "其他小說A",
+      "黃昏以後",
+      "其他小說C",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "After Dark",
+      "Other Novel C",
+      "Other Novel B"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「黃昏以後」。",
+    "explanation_en": "The correct answer is 'After Dark'.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "以下邊本係《黃昏以後》？",
+    "question_en": "Which one is 'After Dark'?",
+    "options_zh": [
+      "黃昏以後",
+      "其他小說B",
+      "其他小說C",
+      "其他小說A"
+    ],
+    "options_en": [
+      "After Dark",
+      "Other Novel B",
+      "Other Novel C",
+      "Other Novel A"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「黃昏以後」。",
+    "explanation_en": "The correct answer is 'After Dark'.",
+    "difficulty": 3
+  },
+  {
+    "id": 30,
+    "question_zh": "《黃昏以後》嘅作者係邊個？",
+    "question_en": "Who wrote 'After Dark'?",
+    "options_zh": [
+      "其他作者B",
+      "其他作者A",
+      "其他作者C",
+      "村上春樹"
+    ],
+    "options_en": [
+      "Author B",
+      "Author A",
+      "Author C",
+      "Haruki Murakami"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「村上春樹」。",
+    "explanation_en": "The correct answer is 'Haruki Murakami'.",
+    "difficulty": 1
+  },
+  {
+    "id": 31,
     "question_zh": "《黃昏以後》嘅作者係邊個？",
     "question_en": "Who wrote 'After Dark'?",
     "options_zh": [
@@ -147,259 +651,280 @@
     "difficulty": 2
   },
   {
-    "id": 8,
-    "question_zh": "《黃昏以後》係邊年出版嘅？",
-    "question_en": "What year was 'After Dark' published?",
+    "id": 32,
+    "question_zh": "《黃昏以後》嘅作者係邊個？",
+    "question_en": "Who wrote 'After Dark'?",
     "options_zh": [
-      "2004年",
-      "2002年",
-      "2001年",
-      "2009年"
+      "其他作者B",
+      "村上春樹",
+      "其他作者A",
+      "其他作者C"
     ],
     "options_en": [
-      "2004",
-      "2002",
-      "2001",
-      "2009"
+      "Author B",
+      "Haruki Murakami",
+      "Author A",
+      "Author C"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2004年」。",
-    "explanation_en": "The correct answer is '2004'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「村上春樹」。",
+    "explanation_en": "The correct answer is 'Haruki Murakami'.",
     "difficulty": 3
   },
   {
-    "id": 9,
+    "id": 33,
     "question_zh": "《黃昏以後》係邊年出版嘅？",
     "question_en": "What year was 'After Dark' published?",
     "options_zh": [
+      "2009年",
       "2004年",
-      "2002年",
       "1999年",
       "2001年"
     ],
     "options_en": [
+      "2009",
       "2004",
-      "2002",
       "1999",
       "2001"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2004年」。",
-    "explanation_en": "The correct answer is '2004'.",
-    "difficulty": 1
-  },
-  {
-    "id": 10,
-    "question_zh": "《黃昏以後》係邊年出版嘅？",
-    "question_en": "What year was 'After Dark' published?",
-    "options_zh": [
-      "2002年",
-      "2004年",
-      "2009年",
-      "1999年"
-    ],
-    "options_en": [
-      "2002",
-      "2004",
-      "2009",
-      "1999"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「2004年」。",
     "explanation_en": "The correct answer is '2004'.",
-    "difficulty": 2
-  },
-  {
-    "id": 11,
-    "question_zh": "《黃昏以後》屬於邊種類型？",
-    "question_en": "What genre is 'After Dark'?",
-    "options_zh": [
-      "其他類型A",
-      "其他類型C",
-      "懸疑與推理類",
-      "其他類型B"
-    ],
-    "options_en": [
-      "Genre A",
-      "Genre C",
-      "Mystery & Detective",
-      "Genre B"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
-    "difficulty": 3
-  },
-  {
-    "id": 12,
-    "question_zh": "《黃昏以後》屬於邊種類型？",
-    "question_en": "What genre is 'After Dark'?",
-    "options_zh": [
-      "其他類型B",
-      "其他類型A",
-      "懸疑與推理類",
-      "其他類型C"
-    ],
-    "options_en": [
-      "Genre B",
-      "Genre A",
-      "Mystery & Detective",
-      "Genre C"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
     "difficulty": 1
   },
   {
-    "id": 13,
-    "question_zh": "《黃昏以後》屬於邊種類型？",
-    "question_en": "What genre is 'After Dark'?",
+    "id": 34,
+    "question_zh": "《黃昏以後》係邊年出版嘅？",
+    "question_en": "What year was 'After Dark' published?",
     "options_zh": [
-      "懸疑與推理類",
-      "其他類型C",
-      "其他類型A",
-      "其他類型B"
+      "2004年",
+      "2001年",
+      "1999年",
+      "2007年"
     ],
     "options_en": [
-      "Mystery & Detective",
-      "Genre C",
-      "Genre A",
-      "Genre B"
+      "2004",
+      "2001",
+      "1999",
+      "2007"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
+    "explanation_zh": "正確答案係「2004年」。",
+    "explanation_en": "The correct answer is '2004'.",
     "difficulty": 2
   },
   {
-    "id": 14,
-    "question_zh": "《黃昏以後》主要講咩？",
-    "question_en": "What is 'After Dark' mainly about?",
+    "id": 35,
+    "question_zh": "《黃昏以後》係邊年出版嘅？",
+    "question_en": "What year was 'After Dark' published?",
     "options_zh": [
-      "科幻太空",
-      "體育競技",
-      "財經商戰",
-      "推理破案同懸疑故事"
+      "2001年",
+      "2009年",
+      "2004年",
+      "2007年"
     ],
     "options_en": [
-      "Sci-fi space",
-      "Sports",
-      "Business",
-      "Detective and mystery story"
+      "2001",
+      "2009",
+      "2004",
+      "2007"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2004年」。",
+    "explanation_en": "The correct answer is '2004'.",
+    "difficulty": 3
+  },
+  {
+    "id": 36,
+    "question_zh": "《黃昏以後》係邊國作品？",
+    "question_en": "Which country is 'After Dark' from?",
+    "options_zh": [
+      "韓國",
+      "法國",
+      "德國",
+      "日本"
+    ],
+    "options_en": [
+      "South Korea",
+      "France",
+      "Germany",
+      "Japan"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
-    "difficulty": 3
-  },
-  {
-    "id": 15,
-    "question_zh": "《黃昏以後》主要講咩？",
-    "question_en": "What is 'After Dark' mainly about?",
-    "options_zh": [
-      "推理破案同懸疑故事",
-      "體育競技",
-      "財經商戰",
-      "科幻太空"
-    ],
-    "options_en": [
-      "Detective and mystery story",
-      "Sports",
-      "Business",
-      "Sci-fi space"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 1
   },
   {
-    "id": 16,
+    "id": 37,
+    "question_zh": "《黃昏以後》係邊國作品？",
+    "question_en": "Which country is 'After Dark' from?",
+    "options_zh": [
+      "德國",
+      "日本",
+      "法國",
+      "韓國"
+    ],
+    "options_en": [
+      "Germany",
+      "Japan",
+      "France",
+      "South Korea"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "《黃昏以後》係邊國作品？",
+    "question_en": "Which country is 'After Dark' from?",
+    "options_zh": [
+      "法國",
+      "日本",
+      "德國",
+      "韓國"
+    ],
+    "options_en": [
+      "France",
+      "Japan",
+      "Germany",
+      "South Korea"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 3
+  },
+  {
+    "id": 39,
     "question_zh": "《黃昏以後》主要講咩？",
     "question_en": "What is 'After Dark' mainly about?",
     "options_zh": [
-      "財經商戰",
       "推理破案同懸疑故事",
+      "財經商戰",
       "科幻太空",
       "體育競技"
     ],
     "options_en": [
+      "Mystery and detective",
       "Business",
-      "Detective and mystery story",
-      "Sci-fi space",
+      "Sci-fi",
       "Sports"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question_zh": "《黃昏以後》主要講咩？",
+    "question_en": "What is 'After Dark' mainly about?",
+    "options_zh": [
+      "科幻太空",
+      "體育競技",
+      "推理破案同懸疑故事",
+      "財經商戰"
+    ],
+    "options_en": [
+      "Sci-fi",
+      "Sports",
+      "Mystery and detective",
+      "Business"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
     "difficulty": 2
   },
   {
-    "id": 17,
-    "question_zh": "《黃昏以後》入面有咩角色？",
-    "question_en": "What characters are in 'After Dark'?",
+    "id": 41,
+    "question_zh": "《黃昏以後》主要講咩？",
+    "question_en": "What is 'After Dark' mainly about?",
     "options_zh": [
-      "外星人",
-      "機械人",
-      "主要角色",
-      "動物"
+      "體育競技",
+      "財經商戰",
+      "科幻太空",
+      "推理破案同懸疑故事"
     ],
     "options_en": [
-      "Aliens",
-      "Robots",
-      "Main characters",
-      "Animals"
+      "Sports",
+      "Business",
+      "Sci-fi",
+      "Mystery and detective"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
     "difficulty": 3
   },
   {
-    "id": 18,
+    "id": 42,
     "question_zh": "《黃昏以後》入面有咩角色？",
     "question_en": "What characters are in 'After Dark'?",
     "options_zh": [
       "動物",
+      "外星人",
       "機械人",
-      "主要角色",
-      "外星人"
+      "偵探/警察"
     ],
     "options_en": [
       "Animals",
+      "Aliens",
       "Robots",
-      "Main characters",
-      "Aliens"
+      "Detective/Police"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「偵探/警察」。",
+    "explanation_en": "The correct answer is 'Detective/Police'.",
     "difficulty": 1
   },
   {
-    "id": 19,
+    "id": 43,
     "question_zh": "《黃昏以後》入面有咩角色？",
     "question_en": "What characters are in 'After Dark'?",
     "options_zh": [
-      "機械人",
-      "主要角色",
       "外星人",
-      "動物"
+      "機械人",
+      "動物",
+      "偵探/警察"
     ],
     "options_en": [
-      "Robots",
-      "Main characters",
       "Aliens",
-      "Animals"
+      "Robots",
+      "Animals",
+      "Detective/Police"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「偵探/警察」。",
+    "explanation_en": "The correct answer is 'Detective/Police'.",
     "difficulty": 2
   },
   {
-    "id": 20,
+    "id": 44,
+    "question_zh": "《黃昏以後》入面有咩角色？",
+    "question_en": "What characters are in 'After Dark'?",
+    "options_zh": [
+      "偵探/警察",
+      "動物",
+      "外星人",
+      "機械人"
+    ],
+    "options_en": [
+      "Detective/Police",
+      "Animals",
+      "Aliens",
+      "Robots"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「偵探/警察」。",
+    "explanation_en": "The correct answer is 'Detective/Police'.",
+    "difficulty": 3
+  },
+  {
+    "id": 45,
     "question_zh": "《黃昏以後》嘅故事背景喺邊度？",
     "question_en": "Where is 'After Dark' set?",
     "options_zh": [
@@ -417,514 +942,10 @@
     "answer": 0,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 3
-  },
-  {
-    "id": 21,
-    "question_zh": "《黃昏以後》嘅故事背景喺邊度？",
-    "question_en": "Where is 'After Dark' set?",
-    "options_zh": [
-      "歐洲中世紀",
-      "虛擬世界",
-      "中國/亞洲",
-      "未來太空"
-    ],
-    "options_en": [
-      "Medieval Europe",
-      "Virtual world",
-      "China/Asia",
-      "Future space"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 1
   },
   {
-    "id": 22,
-    "question_zh": "《黃昏以後》嘅故事背景喺邊度？",
-    "question_en": "Where is 'After Dark' set?",
-    "options_zh": [
-      "虛擬世界",
-      "歐洲中世紀",
-      "中國/亞洲",
-      "未來太空"
-    ],
-    "options_en": [
-      "Virtual world",
-      "Medieval Europe",
-      "China/Asia",
-      "Future space"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 2
-  },
-  {
-    "id": 23,
-    "question_zh": "《黃昏以後》係咪好受歡迎？",
-    "question_en": "Is 'After Dark' popular?",
-    "options_zh": [
-      "只喺特定地區流行",
-      "已經過氣",
-      "唔係，好冷門",
-      "係，有一定讀者群"
-    ],
-    "options_en": [
-      "Only popular locally",
-      "Outdated",
-      "No, very niche",
-      "Yes, has a readership"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係，有一定讀者群」。",
-    "explanation_en": "The correct answer is 'Yes, has a readership'.",
-    "difficulty": 3
-  },
-  {
-    "id": 24,
-    "question_zh": "《黃昏以後》係咪好受歡迎？",
-    "question_en": "Is 'After Dark' popular?",
-    "options_zh": [
-      "唔係，好冷門",
-      "係，有一定讀者群",
-      "只喺特定地區流行",
-      "已經過氣"
-    ],
-    "options_en": [
-      "No, very niche",
-      "Yes, has a readership",
-      "Only popular locally",
-      "Outdated"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「係，有一定讀者群」。",
-    "explanation_en": "The correct answer is 'Yes, has a readership'.",
-    "difficulty": 1
-  },
-  {
-    "id": 25,
-    "question_zh": "《黃昏以後》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'After Dark' belong to?",
-    "options_zh": [
-      "懸疑與推理類",
-      "科幻小說",
-      "兒童文學",
-      "恐怖小說"
-    ],
-    "options_en": [
-      "Mystery & Detective",
-      "Sci-fi",
-      "Children's literature",
-      "Horror"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
-    "difficulty": 2
-  },
-  {
-    "id": 26,
-    "question_zh": "以下邊本係《黃昏以後》？",
-    "question_en": "Which one is 'After Dark'?",
-    "options_zh": [
-      "其他小說C",
-      "黃昏以後",
-      "其他小說A",
-      "其他小說B"
-    ],
-    "options_en": [
-      "Other Novel C",
-      "After Dark",
-      "Other Novel A",
-      "Other Novel B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「黃昏以後」。",
-    "explanation_en": "The correct answer is 'After Dark'.",
-    "difficulty": 3
-  },
-  {
-    "id": 27,
-    "question_zh": "以下邊本係《黃昏以後》？",
-    "question_en": "Which one is 'After Dark'?",
-    "options_zh": [
-      "其他小說A",
-      "其他小說C",
-      "黃昏以後",
-      "其他小說B"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "Other Novel C",
-      "After Dark",
-      "Other Novel B"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「黃昏以後」。",
-    "explanation_en": "The correct answer is 'After Dark'.",
-    "difficulty": 1
-  },
-  {
-    "id": 28,
-    "question_zh": "以下邊本係《黃昏以後》？",
-    "question_en": "Which one is 'After Dark'?",
-    "options_zh": [
-      "黃昏以後",
-      "其他小說A",
-      "其他小說B",
-      "其他小說C"
-    ],
-    "options_en": [
-      "After Dark",
-      "Other Novel A",
-      "Other Novel B",
-      "Other Novel C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「黃昏以後」。",
-    "explanation_en": "The correct answer is 'After Dark'.",
-    "difficulty": 2
-  },
-  {
-    "id": 29,
-    "question_zh": "以下邊本係《黃昏以後》？",
-    "question_en": "Which one is 'After Dark'?",
-    "options_zh": [
-      "其他小說B",
-      "其他小說C",
-      "黃昏以後",
-      "其他小說A"
-    ],
-    "options_en": [
-      "Other Novel B",
-      "Other Novel C",
-      "After Dark",
-      "Other Novel A"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「黃昏以後」。",
-    "explanation_en": "The correct answer is 'After Dark'.",
-    "difficulty": 3
-  },
-  {
-    "id": 30,
-    "question_zh": "《黃昏以後》嘅作者係邊個？",
-    "question_en": "Who wrote 'After Dark'?",
-    "options_zh": [
-      "其他作者B",
-      "村上春樹",
-      "其他作者C",
-      "其他作者A"
-    ],
-    "options_en": [
-      "Author B",
-      "Haruki Murakami",
-      "Author C",
-      "Author A"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「村上春樹」。",
-    "explanation_en": "The correct answer is 'Haruki Murakami'.",
-    "difficulty": 1
-  },
-  {
-    "id": 31,
-    "question_zh": "《黃昏以後》嘅作者係邊個？",
-    "question_en": "Who wrote 'After Dark'?",
-    "options_zh": [
-      "其他作者C",
-      "其他作者A",
-      "村上春樹",
-      "其他作者B"
-    ],
-    "options_en": [
-      "Author C",
-      "Author A",
-      "Haruki Murakami",
-      "Author B"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「村上春樹」。",
-    "explanation_en": "The correct answer is 'Haruki Murakami'.",
-    "difficulty": 2
-  },
-  {
-    "id": 32,
-    "question_zh": "《黃昏以後》嘅作者係邊個？",
-    "question_en": "Who wrote 'After Dark'?",
-    "options_zh": [
-      "村上春樹",
-      "其他作者A",
-      "其他作者B",
-      "其他作者C"
-    ],
-    "options_en": [
-      "Haruki Murakami",
-      "Author A",
-      "Author B",
-      "Author C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「村上春樹」。",
-    "explanation_en": "The correct answer is 'Haruki Murakami'.",
-    "difficulty": 3
-  },
-  {
-    "id": 33,
-    "question_zh": "《黃昏以後》係邊年出版嘅？",
-    "question_en": "What year was 'After Dark' published?",
-    "options_zh": [
-      "2006年",
-      "2009年",
-      "2004年",
-      "1999年"
-    ],
-    "options_en": [
-      "2006",
-      "2009",
-      "2004",
-      "1999"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2004年」。",
-    "explanation_en": "The correct answer is '2004'.",
-    "difficulty": 1
-  },
-  {
-    "id": 34,
-    "question_zh": "《黃昏以後》係邊年出版嘅？",
-    "question_en": "What year was 'After Dark' published?",
-    "options_zh": [
-      "2004年",
-      "2009年",
-      "2001年",
-      "2006年"
-    ],
-    "options_en": [
-      "2004",
-      "2009",
-      "2001",
-      "2006"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2004年」。",
-    "explanation_en": "The correct answer is '2004'.",
-    "difficulty": 2
-  },
-  {
-    "id": 35,
-    "question_zh": "《黃昏以後》係邊年出版嘅？",
-    "question_en": "What year was 'After Dark' published?",
-    "options_zh": [
-      "2001年",
-      "2004年",
-      "2006年",
-      "2007年"
-    ],
-    "options_en": [
-      "2001",
-      "2004",
-      "2006",
-      "2007"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2004年」。",
-    "explanation_en": "The correct answer is '2004'.",
-    "difficulty": 3
-  },
-  {
-    "id": 36,
-    "question_zh": "《黃昏以後》屬於邊種類型？",
-    "question_en": "What genre is 'After Dark'?",
-    "options_zh": [
-      "懸疑與推理類",
-      "其他類型A",
-      "其他類型C",
-      "其他類型B"
-    ],
-    "options_en": [
-      "Mystery & Detective",
-      "Genre A",
-      "Genre C",
-      "Genre B"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
-    "difficulty": 1
-  },
-  {
-    "id": 37,
-    "question_zh": "《黃昏以後》屬於邊種類型？",
-    "question_en": "What genre is 'After Dark'?",
-    "options_zh": [
-      "其他類型A",
-      "懸疑與推理類",
-      "其他類型C",
-      "其他類型B"
-    ],
-    "options_en": [
-      "Genre A",
-      "Mystery & Detective",
-      "Genre C",
-      "Genre B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
-    "difficulty": 2
-  },
-  {
-    "id": 38,
-    "question_zh": "《黃昏以後》屬於邊種類型？",
-    "question_en": "What genre is 'After Dark'?",
-    "options_zh": [
-      "其他類型B",
-      "懸疑與推理類",
-      "其他類型C",
-      "其他類型A"
-    ],
-    "options_en": [
-      "Genre B",
-      "Mystery & Detective",
-      "Genre C",
-      "Genre A"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
-    "difficulty": 3
-  },
-  {
-    "id": 39,
-    "question_zh": "《黃昏以後》主要講咩？",
-    "question_en": "What is 'After Dark' mainly about?",
-    "options_zh": [
-      "財經商戰",
-      "科幻太空",
-      "體育競技",
-      "推理破案同懸疑故事"
-    ],
-    "options_en": [
-      "Business",
-      "Sci-fi space",
-      "Sports",
-      "Detective and mystery story"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
-    "difficulty": 1
-  },
-  {
-    "id": 40,
-    "question_zh": "《黃昏以後》主要講咩？",
-    "question_en": "What is 'After Dark' mainly about?",
-    "options_zh": [
-      "科幻太空",
-      "推理破案同懸疑故事",
-      "財經商戰",
-      "體育競技"
-    ],
-    "options_en": [
-      "Sci-fi space",
-      "Detective and mystery story",
-      "Business",
-      "Sports"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
-    "difficulty": 2
-  },
-  {
-    "id": 41,
-    "question_zh": "《黃昏以後》主要講咩？",
-    "question_en": "What is 'After Dark' mainly about?",
-    "options_zh": [
-      "科幻太空",
-      "推理破案同懸疑故事",
-      "體育競技",
-      "財經商戰"
-    ],
-    "options_en": [
-      "Sci-fi space",
-      "Detective and mystery story",
-      "Sports",
-      "Business"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
-    "difficulty": 3
-  },
-  {
-    "id": 42,
-    "question_zh": "《黃昏以後》入面有咩角色？",
-    "question_en": "What characters are in 'After Dark'?",
-    "options_zh": [
-      "機械人",
-      "主要角色",
-      "外星人",
-      "動物"
-    ],
-    "options_en": [
-      "Robots",
-      "Main characters",
-      "Aliens",
-      "Animals"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 1
-  },
-  {
-    "id": 43,
-    "question_zh": "《黃昏以後》入面有咩角色？",
-    "question_en": "What characters are in 'After Dark'?",
-    "options_zh": [
-      "動物",
-      "外星人",
-      "機械人",
-      "主要角色"
-    ],
-    "options_en": [
-      "Animals",
-      "Aliens",
-      "Robots",
-      "Main characters"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 2
-  },
-  {
-    "id": 44,
-    "question_zh": "《黃昏以後》入面有咩角色？",
-    "question_en": "What characters are in 'After Dark'?",
-    "options_zh": [
-      "機械人",
-      "外星人",
-      "主要角色",
-      "動物"
-    ],
-    "options_en": [
-      "Robots",
-      "Aliens",
-      "Main characters",
-      "Animals"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 3
-  },
-  {
-    "id": 45,
+    "id": 46,
     "question_zh": "《黃昏以後》嘅故事背景喺邊度？",
     "question_en": "Where is 'After Dark' set?",
     "options_zh": [
@@ -942,27 +963,6 @@
     "answer": 3,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 1
-  },
-  {
-    "id": 46,
-    "question_zh": "《黃昏以後》嘅故事背景喺邊度？",
-    "question_en": "Where is 'After Dark' set?",
-    "options_zh": [
-      "虛擬世界",
-      "中國/亞洲",
-      "歐洲中世紀",
-      "未來太空"
-    ],
-    "options_en": [
-      "Virtual world",
-      "China/Asia",
-      "Medieval Europe",
-      "Future space"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 2
   },
   {
@@ -970,18 +970,18 @@
     "question_zh": "《黃昏以後》嘅故事背景喺邊度？",
     "question_en": "Where is 'After Dark' set?",
     "options_zh": [
-      "虛擬世界",
       "歐洲中世紀",
       "中國/亞洲",
-      "未來太空"
+      "未來太空",
+      "虛擬世界"
     ],
     "options_en": [
-      "Virtual world",
       "Medieval Europe",
       "China/Asia",
-      "Future space"
+      "Future space",
+      "Virtual world"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
@@ -1012,108 +1012,45 @@
     "question_zh": "《黃昏以後》係咪好受歡迎？",
     "question_en": "Is 'After Dark' popular?",
     "options_zh": [
-      "已經過氣",
       "只喺特定地區流行",
-      "係，有一定讀者群",
-      "唔係，好冷門"
+      "已經過氣",
+      "唔係，好冷門",
+      "係，有一定讀者群"
     ],
     "options_en": [
-      "Outdated",
       "Only popular locally",
-      "Yes, has a readership",
-      "No, very niche"
+      "Outdated",
+      "No, very niche",
+      "Yes, has a readership"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 2
   },
   {
     "id": 50,
-    "question_zh": "《黃昏以後》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'After Dark' belong to?",
+    "question_zh": "《黃昏以後》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'After Dark'?",
     "options_zh": [
-      "恐怖小說",
-      "科幻小說",
-      "兒童文學",
-      "懸疑與推理類"
+      "法國人",
+      "德國人",
+      "日本人",
+      "韓國人"
     ],
     "options_en": [
-      "Horror",
-      "Sci-fi",
-      "Children's literature",
-      "Mystery & Detective"
+      "French",
+      "German",
+      "Japanese",
+      "Korean"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「日本人」。",
+    "explanation_en": "The correct answer is 'Japanese'.",
     "difficulty": 3
   },
   {
     "id": 51,
-    "question_zh": "以下邊本係《黃昏以後》？",
-    "question_en": "Which one is 'After Dark'?",
-    "options_zh": [
-      "黃昏以後",
-      "其他小說A",
-      "其他小說C",
-      "其他小說B"
-    ],
-    "options_en": [
-      "After Dark",
-      "Other Novel A",
-      "Other Novel C",
-      "Other Novel B"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「黃昏以後」。",
-    "explanation_en": "The correct answer is 'After Dark'.",
-    "difficulty": 1
-  },
-  {
-    "id": 52,
-    "question_zh": "以下邊本係《黃昏以後》？",
-    "question_en": "Which one is 'After Dark'?",
-    "options_zh": [
-      "其他小說A",
-      "黃昏以後",
-      "其他小說B",
-      "其他小說C"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "After Dark",
-      "Other Novel B",
-      "Other Novel C"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「黃昏以後」。",
-    "explanation_en": "The correct answer is 'After Dark'.",
-    "difficulty": 2
-  },
-  {
-    "id": 53,
-    "question_zh": "以下邊本係《黃昏以後》？",
-    "question_en": "Which one is 'After Dark'?",
-    "options_zh": [
-      "其他小說A",
-      "黃昏以後",
-      "其他小說C",
-      "其他小說B"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "After Dark",
-      "Other Novel C",
-      "Other Novel B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「黃昏以後」。",
-    "explanation_en": "The correct answer is 'After Dark'.",
-    "difficulty": 3
-  },
-  {
-    "id": 54,
     "question_zh": "以下邊本係《黃昏以後》？",
     "question_en": "Which one is 'After Dark'?",
     "options_zh": [
@@ -1134,22 +1071,85 @@
     "difficulty": 1
   },
   {
+    "id": 52,
+    "question_zh": "以下邊本係《黃昏以後》？",
+    "question_en": "Which one is 'After Dark'?",
+    "options_zh": [
+      "黃昏以後",
+      "其他小說C",
+      "其他小說B",
+      "其他小說A"
+    ],
+    "options_en": [
+      "After Dark",
+      "Other Novel C",
+      "Other Novel B",
+      "Other Novel A"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「黃昏以後」。",
+    "explanation_en": "The correct answer is 'After Dark'.",
+    "difficulty": 2
+  },
+  {
+    "id": 53,
+    "question_zh": "以下邊本係《黃昏以後》？",
+    "question_en": "Which one is 'After Dark'?",
+    "options_zh": [
+      "其他小說B",
+      "黃昏以後",
+      "其他小說C",
+      "其他小說A"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "After Dark",
+      "Other Novel C",
+      "Other Novel A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「黃昏以後」。",
+    "explanation_en": "The correct answer is 'After Dark'.",
+    "difficulty": 3
+  },
+  {
+    "id": 54,
+    "question_zh": "以下邊本係《黃昏以後》？",
+    "question_en": "Which one is 'After Dark'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說B",
+      "黃昏以後",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel B",
+      "After Dark",
+      "Other Novel C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「黃昏以後」。",
+    "explanation_en": "The correct answer is 'After Dark'.",
+    "difficulty": 1
+  },
+  {
     "id": 55,
     "question_zh": "《黃昏以後》嘅作者係邊個？",
     "question_en": "Who wrote 'After Dark'?",
     "options_zh": [
       "其他作者A",
-      "村上春樹",
       "其他作者C",
-      "其他作者B"
+      "其他作者B",
+      "村上春樹"
     ],
     "options_en": [
       "Author A",
-      "Haruki Murakami",
       "Author C",
-      "Author B"
+      "Author B",
+      "Haruki Murakami"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「村上春樹」。",
     "explanation_en": "The correct answer is 'Haruki Murakami'.",
     "difficulty": 2
@@ -1160,17 +1160,17 @@
     "question_en": "Who wrote 'After Dark'?",
     "options_zh": [
       "其他作者C",
-      "其他作者A",
       "其他作者B",
-      "村上春樹"
+      "村上春樹",
+      "其他作者A"
     ],
     "options_en": [
       "Author C",
-      "Author A",
       "Author B",
-      "Haruki Murakami"
+      "Haruki Murakami",
+      "Author A"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「村上春樹」。",
     "explanation_en": "The correct answer is 'Haruki Murakami'.",
     "difficulty": 3
@@ -1180,18 +1180,18 @@
     "question_zh": "《黃昏以後》嘅作者係邊個？",
     "question_en": "Who wrote 'After Dark'?",
     "options_zh": [
-      "其他作者C",
       "村上春樹",
       "其他作者A",
-      "其他作者B"
+      "其他作者B",
+      "其他作者C"
     ],
     "options_en": [
-      "Author C",
       "Haruki Murakami",
       "Author A",
-      "Author B"
+      "Author B",
+      "Author C"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「村上春樹」。",
     "explanation_en": "The correct answer is 'Haruki Murakami'.",
     "difficulty": 1
@@ -1201,18 +1201,18 @@
     "question_zh": "《黃昏以後》係邊年出版嘅？",
     "question_en": "What year was 'After Dark' published?",
     "options_zh": [
-      "2009年",
-      "1999年",
-      "2007年",
-      "2004年"
+      "2004年",
+      "2001年",
+      "2006年",
+      "2007年"
     ],
     "options_en": [
-      "2009",
-      "1999",
-      "2007",
-      "2004"
+      "2004",
+      "2001",
+      "2006",
+      "2007"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「2004年」。",
     "explanation_en": "The correct answer is '2004'.",
     "difficulty": 2
@@ -1222,18 +1222,18 @@
     "question_zh": "《黃昏以後》係邊年出版嘅？",
     "question_en": "What year was 'After Dark' published?",
     "options_zh": [
-      "2009年",
-      "2004年",
+      "2002年",
       "2006年",
-      "2001年"
+      "2007年",
+      "2004年"
     ],
     "options_en": [
-      "2009",
-      "2004",
+      "2002",
       "2006",
-      "2001"
+      "2007",
+      "2004"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「2004年」。",
     "explanation_en": "The correct answer is '2004'.",
     "difficulty": 3
@@ -1243,83 +1243,83 @@
     "question_zh": "《黃昏以後》係邊年出版嘅？",
     "question_en": "What year was 'After Dark' published?",
     "options_zh": [
-      "2009年",
-      "2001年",
+      "1999年",
       "2004年",
-      "2007年"
+      "2009年",
+      "2006年"
     ],
     "options_en": [
-      "2009",
-      "2001",
+      "1999",
       "2004",
-      "2007"
+      "2009",
+      "2006"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「2004年」。",
     "explanation_en": "The correct answer is '2004'.",
     "difficulty": 1
   },
   {
     "id": 61,
-    "question_zh": "《黃昏以後》屬於邊種類型？",
-    "question_en": "What genre is 'After Dark'?",
+    "question_zh": "《黃昏以後》係邊國作品？",
+    "question_en": "Which country is 'After Dark' from?",
     "options_zh": [
-      "懸疑與推理類",
-      "其他類型A",
-      "其他類型C",
-      "其他類型B"
+      "韓國",
+      "法國",
+      "日本",
+      "德國"
     ],
     "options_en": [
-      "Mystery & Detective",
-      "Genre A",
-      "Genre C",
-      "Genre B"
+      "South Korea",
+      "France",
+      "Japan",
+      "Germany"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 2
   },
   {
     "id": 62,
-    "question_zh": "《黃昏以後》屬於邊種類型？",
-    "question_en": "What genre is 'After Dark'?",
+    "question_zh": "《黃昏以後》係邊國作品？",
+    "question_en": "Which country is 'After Dark' from?",
     "options_zh": [
-      "其他類型B",
-      "其他類型C",
-      "懸疑與推理類",
-      "其他類型A"
+      "德國",
+      "法國",
+      "日本",
+      "韓國"
     ],
     "options_en": [
-      "Genre B",
-      "Genre C",
-      "Mystery & Detective",
-      "Genre A"
+      "Germany",
+      "France",
+      "Japan",
+      "South Korea"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 3
   },
   {
     "id": 63,
-    "question_zh": "《黃昏以後》屬於邊種類型？",
-    "question_en": "What genre is 'After Dark'?",
+    "question_zh": "《黃昏以後》係邊國作品？",
+    "question_en": "Which country is 'After Dark' from?",
     "options_zh": [
-      "其他類型B",
-      "其他類型A",
-      "懸疑與推理類",
-      "其他類型C"
+      "韓國",
+      "德國",
+      "日本",
+      "法國"
     ],
     "options_en": [
-      "Genre B",
-      "Genre A",
-      "Mystery & Detective",
-      "Genre C"
+      "South Korea",
+      "Germany",
+      "Japan",
+      "France"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 1
   },
   {
@@ -1327,20 +1327,20 @@
     "question_zh": "《黃昏以後》主要講咩？",
     "question_en": "What is 'After Dark' mainly about?",
     "options_zh": [
+      "推理破案同懸疑故事",
       "財經商戰",
       "體育競技",
-      "推理破案同懸疑故事",
       "科幻太空"
     ],
     "options_en": [
+      "Mystery and detective",
       "Business",
       "Sports",
-      "Detective and mystery story",
-      "Sci-fi space"
+      "Sci-fi"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
     "difficulty": 2
   },
   {
@@ -1350,18 +1350,18 @@
     "options_zh": [
       "財經商戰",
       "推理破案同懸疑故事",
-      "科幻太空",
-      "體育競技"
+      "體育競技",
+      "科幻太空"
     ],
     "options_en": [
       "Business",
-      "Detective and mystery story",
-      "Sci-fi space",
-      "Sports"
+      "Mystery and detective",
+      "Sports",
+      "Sci-fi"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
     "difficulty": 3
   },
   {
@@ -1371,18 +1371,18 @@
     "options_zh": [
       "體育競技",
       "財經商戰",
-      "科幻太空",
-      "推理破案同懸疑故事"
+      "推理破案同懸疑故事",
+      "科幻太空"
     ],
     "options_en": [
       "Sports",
       "Business",
-      "Sci-fi space",
-      "Detective and mystery story"
+      "Mystery and detective",
+      "Sci-fi"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
     "difficulty": 1
   },
   {
@@ -1390,20 +1390,20 @@
     "question_zh": "《黃昏以後》入面有咩角色？",
     "question_en": "What characters are in 'After Dark'?",
     "options_zh": [
+      "偵探/警察",
       "外星人",
-      "動物",
       "機械人",
-      "主要角色"
+      "動物"
     ],
     "options_en": [
+      "Detective/Police",
       "Aliens",
-      "Animals",
       "Robots",
-      "Main characters"
+      "Animals"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「偵探/警察」。",
+    "explanation_en": "The correct answer is 'Detective/Police'.",
     "difficulty": 2
   },
   {
@@ -1412,19 +1412,19 @@
     "question_en": "What characters are in 'After Dark'?",
     "options_zh": [
       "外星人",
-      "主要角色",
-      "動物",
-      "機械人"
+      "偵探/警察",
+      "機械人",
+      "動物"
     ],
     "options_en": [
       "Aliens",
-      "Main characters",
-      "Animals",
-      "Robots"
+      "Detective/Police",
+      "Robots",
+      "Animals"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "explanation_zh": "正確答案係「偵探/警察」。",
+    "explanation_en": "The correct answer is 'Detective/Police'.",
     "difficulty": 3
   },
   {
@@ -1432,20 +1432,20 @@
     "question_zh": "《黃昏以後》入面有咩角色？",
     "question_en": "What characters are in 'After Dark'?",
     "options_zh": [
+      "外星人",
+      "偵探/警察",
       "機械人",
-      "動物",
-      "主要角色",
-      "外星人"
+      "動物"
     ],
     "options_en": [
+      "Aliens",
+      "Detective/Police",
       "Robots",
-      "Animals",
-      "Main characters",
-      "Aliens"
+      "Animals"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「偵探/警察」。",
+    "explanation_en": "The correct answer is 'Detective/Police'.",
     "difficulty": 1
   },
   {
@@ -1453,18 +1453,18 @@
     "question_zh": "《黃昏以後》嘅故事背景喺邊度？",
     "question_en": "Where is 'After Dark' set?",
     "options_zh": [
-      "虛擬世界",
       "中國/亞洲",
       "歐洲中世紀",
+      "虛擬世界",
       "未來太空"
     ],
     "options_en": [
-      "Virtual world",
       "China/Asia",
       "Medieval Europe",
+      "Virtual world",
       "Future space"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 2
@@ -1474,18 +1474,18 @@
     "question_zh": "《黃昏以後》嘅故事背景喺邊度？",
     "question_en": "Where is 'After Dark' set?",
     "options_zh": [
+      "歐洲中世紀",
       "未來太空",
-      "中國/亞洲",
       "虛擬世界",
-      "歐洲中世紀"
+      "中國/亞洲"
     ],
     "options_en": [
+      "Medieval Europe",
       "Future space",
-      "China/Asia",
       "Virtual world",
-      "Medieval Europe"
+      "China/Asia"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
@@ -1495,14 +1495,14 @@
     "question_zh": "《黃昏以後》嘅故事背景喺邊度？",
     "question_en": "Where is 'After Dark' set?",
     "options_zh": [
-      "虛擬世界",
       "未來太空",
+      "虛擬世界",
       "中國/亞洲",
       "歐洲中世紀"
     ],
     "options_en": [
-      "Virtual world",
       "Future space",
+      "Virtual world",
       "China/Asia",
       "Medieval Europe"
     ],
@@ -1516,18 +1516,18 @@
     "question_zh": "《黃昏以後》係咪好受歡迎？",
     "question_en": "Is 'After Dark' popular?",
     "options_zh": [
-      "只喺特定地區流行",
-      "係，有一定讀者群",
       "已經過氣",
-      "唔係，好冷門"
+      "只喺特定地區流行",
+      "唔係，好冷門",
+      "係，有一定讀者群"
     ],
     "options_en": [
-      "Only popular locally",
-      "Yes, has a readership",
       "Outdated",
-      "No, very niche"
+      "Only popular locally",
+      "No, very niche",
+      "Yes, has a readership"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 2
@@ -1537,41 +1537,41 @@
     "question_zh": "《黃昏以後》係咪好受歡迎？",
     "question_en": "Is 'After Dark' popular?",
     "options_zh": [
-      "唔係，好冷門",
+      "係，有一定讀者群",
       "已經過氣",
-      "只喺特定地區流行",
-      "係，有一定讀者群"
+      "唔係，好冷門",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "No, very niche",
+      "Yes, has a readership",
       "Outdated",
-      "Only popular locally",
-      "Yes, has a readership"
+      "No, very niche",
+      "Only popular locally"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 3
   },
   {
     "id": 75,
-    "question_zh": "《黃昏以後》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'After Dark' belong to?",
+    "question_zh": "《黃昏以後》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'After Dark'?",
     "options_zh": [
-      "兒童文學",
-      "科幻小說",
-      "恐怖小說",
-      "懸疑與推理類"
+      "日本人",
+      "德國人",
+      "韓國人",
+      "法國人"
     ],
     "options_en": [
-      "Children's literature",
-      "Sci-fi",
-      "Horror",
-      "Mystery & Detective"
+      "Japanese",
+      "German",
+      "Korean",
+      "French"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「日本人」。",
+    "explanation_en": "The correct answer is 'Japanese'.",
     "difficulty": 1
   },
   {
@@ -1579,18 +1579,18 @@
     "question_zh": "以下邊本係《黃昏以後》？",
     "question_en": "Which one is 'After Dark'?",
     "options_zh": [
-      "黃昏以後",
       "其他小說B",
+      "黃昏以後",
       "其他小說A",
       "其他小說C"
     ],
     "options_en": [
-      "After Dark",
       "Other Novel B",
+      "After Dark",
       "Other Novel A",
       "Other Novel C"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「黃昏以後」。",
     "explanation_en": "The correct answer is 'After Dark'.",
     "difficulty": 2
@@ -1600,24 +1600,45 @@
     "question_zh": "以下邊本係《黃昏以後》？",
     "question_en": "Which one is 'After Dark'?",
     "options_zh": [
-      "其他小說A",
       "其他小說B",
       "其他小說C",
-      "黃昏以後"
+      "黃昏以後",
+      "其他小說A"
     ],
     "options_en": [
-      "Other Novel A",
       "Other Novel B",
       "Other Novel C",
-      "After Dark"
+      "After Dark",
+      "Other Novel A"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「黃昏以後」。",
     "explanation_en": "The correct answer is 'After Dark'.",
     "difficulty": 3
   },
   {
     "id": 78,
+    "question_zh": "以下邊本係《黃昏以後》？",
+    "question_en": "Which one is 'After Dark'?",
+    "options_zh": [
+      "其他小說A",
+      "黃昏以後",
+      "其他小說B",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "After Dark",
+      "Other Novel B",
+      "Other Novel C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「黃昏以後」。",
+    "explanation_en": "The correct answer is 'After Dark'.",
+    "difficulty": 1
+  },
+  {
+    "id": 79,
     "question_zh": "以下邊本係《黃昏以後》？",
     "question_en": "Which one is 'After Dark'?",
     "options_zh": [
@@ -1635,31 +1656,52 @@
     "answer": 2,
     "explanation_zh": "正確答案係「黃昏以後」。",
     "explanation_en": "The correct answer is 'After Dark'.",
-    "difficulty": 1
-  },
-  {
-    "id": 79,
-    "question_zh": "以下邊本係《黃昏以後》？",
-    "question_en": "Which one is 'After Dark'?",
-    "options_zh": [
-      "其他小說A",
-      "其他小說B",
-      "其他小說C",
-      "黃昏以後"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "Other Novel B",
-      "Other Novel C",
-      "After Dark"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「黃昏以後」。",
-    "explanation_en": "The correct answer is 'After Dark'.",
     "difficulty": 2
   },
   {
     "id": 80,
+    "question_zh": "《黃昏以後》嘅作者係邊個？",
+    "question_en": "Who wrote 'After Dark'?",
+    "options_zh": [
+      "其他作者B",
+      "村上春樹",
+      "其他作者C",
+      "其他作者A"
+    ],
+    "options_en": [
+      "Author B",
+      "Haruki Murakami",
+      "Author C",
+      "Author A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「村上春樹」。",
+    "explanation_en": "The correct answer is 'Haruki Murakami'.",
+    "difficulty": 3
+  },
+  {
+    "id": 81,
+    "question_zh": "《黃昏以後》嘅作者係邊個？",
+    "question_en": "Who wrote 'After Dark'?",
+    "options_zh": [
+      "其他作者C",
+      "其他作者B",
+      "其他作者A",
+      "村上春樹"
+    ],
+    "options_en": [
+      "Author C",
+      "Author B",
+      "Author A",
+      "Haruki Murakami"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「村上春樹」。",
+    "explanation_en": "The correct answer is 'Haruki Murakami'.",
+    "difficulty": 1
+  },
+  {
+    "id": 82,
     "question_zh": "《黃昏以後》嘅作者係邊個？",
     "question_en": "Who wrote 'After Dark'?",
     "options_zh": [
@@ -1677,48 +1719,6 @@
     "answer": 3,
     "explanation_zh": "正確答案係「村上春樹」。",
     "explanation_en": "The correct answer is 'Haruki Murakami'.",
-    "difficulty": 3
-  },
-  {
-    "id": 81,
-    "question_zh": "《黃昏以後》嘅作者係邊個？",
-    "question_en": "Who wrote 'After Dark'?",
-    "options_zh": [
-      "其他作者A",
-      "村上春樹",
-      "其他作者B",
-      "其他作者C"
-    ],
-    "options_en": [
-      "Author A",
-      "Haruki Murakami",
-      "Author B",
-      "Author C"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「村上春樹」。",
-    "explanation_en": "The correct answer is 'Haruki Murakami'.",
-    "difficulty": 1
-  },
-  {
-    "id": 82,
-    "question_zh": "《黃昏以後》嘅作者係邊個？",
-    "question_en": "Who wrote 'After Dark'?",
-    "options_zh": [
-      "村上春樹",
-      "其他作者C",
-      "其他作者B",
-      "其他作者A"
-    ],
-    "options_en": [
-      "Haruki Murakami",
-      "Author C",
-      "Author B",
-      "Author A"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「村上春樹」。",
-    "explanation_en": "The correct answer is 'Haruki Murakami'.",
     "difficulty": 2
   },
   {
@@ -1726,18 +1726,18 @@
     "question_zh": "《黃昏以後》係邊年出版嘅？",
     "question_en": "What year was 'After Dark' published?",
     "options_zh": [
-      "1999年",
-      "2009年",
       "2004年",
-      "2006年"
+      "2001年",
+      "2006年",
+      "2002年"
     ],
     "options_en": [
-      "1999",
-      "2009",
       "2004",
-      "2006"
+      "2001",
+      "2006",
+      "2002"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「2004年」。",
     "explanation_en": "The correct answer is '2004'.",
     "difficulty": 3
@@ -1747,18 +1747,18 @@
     "question_zh": "《黃昏以後》係邊年出版嘅？",
     "question_en": "What year was 'After Dark' published?",
     "options_zh": [
-      "1999年",
-      "2009年",
       "2004年",
-      "2006年"
+      "2002年",
+      "2001年",
+      "1999年"
     ],
     "options_en": [
-      "1999",
-      "2009",
       "2004",
-      "2006"
+      "2002",
+      "2001",
+      "1999"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「2004年」。",
     "explanation_en": "The correct answer is '2004'.",
     "difficulty": 1
@@ -1768,83 +1768,83 @@
     "question_zh": "《黃昏以後》係邊年出版嘅？",
     "question_en": "What year was 'After Dark' published?",
     "options_zh": [
-      "2004年",
-      "2006年",
       "1999年",
-      "2002年"
+      "2004年",
+      "2001年",
+      "2009年"
     ],
     "options_en": [
-      "2004",
-      "2006",
       "1999",
-      "2002"
+      "2004",
+      "2001",
+      "2009"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「2004年」。",
     "explanation_en": "The correct answer is '2004'.",
     "difficulty": 2
   },
   {
     "id": 86,
-    "question_zh": "《黃昏以後》屬於邊種類型？",
-    "question_en": "What genre is 'After Dark'?",
+    "question_zh": "《黃昏以後》係邊國作品？",
+    "question_en": "Which country is 'After Dark' from?",
     "options_zh": [
-      "其他類型B",
-      "其他類型C",
-      "懸疑與推理類",
-      "其他類型A"
+      "日本",
+      "德國",
+      "韓國",
+      "法國"
     ],
     "options_en": [
-      "Genre B",
-      "Genre C",
-      "Mystery & Detective",
-      "Genre A"
+      "Japan",
+      "Germany",
+      "South Korea",
+      "France"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 3
   },
   {
     "id": 87,
-    "question_zh": "《黃昏以後》屬於邊種類型？",
-    "question_en": "What genre is 'After Dark'?",
+    "question_zh": "《黃昏以後》係邊國作品？",
+    "question_en": "Which country is 'After Dark' from?",
     "options_zh": [
-      "其他類型C",
-      "懸疑與推理類",
-      "其他類型B",
-      "其他類型A"
+      "韓國",
+      "法國",
+      "日本",
+      "德國"
     ],
     "options_en": [
-      "Genre C",
-      "Mystery & Detective",
-      "Genre B",
-      "Genre A"
+      "South Korea",
+      "France",
+      "Japan",
+      "Germany"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 1
   },
   {
     "id": 88,
-    "question_zh": "《黃昏以後》屬於邊種類型？",
-    "question_en": "What genre is 'After Dark'?",
+    "question_zh": "《黃昏以後》係邊國作品？",
+    "question_en": "Which country is 'After Dark' from?",
     "options_zh": [
-      "其他類型B",
-      "懸疑與推理類",
-      "其他類型A",
-      "其他類型C"
+      "日本",
+      "韓國",
+      "德國",
+      "法國"
     ],
     "options_en": [
-      "Genre B",
-      "Mystery & Detective",
-      "Genre A",
-      "Genre C"
+      "Japan",
+      "South Korea",
+      "Germany",
+      "France"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 2
   },
   {
@@ -1854,18 +1854,18 @@
     "options_zh": [
       "推理破案同懸疑故事",
       "財經商戰",
-      "體育競技",
-      "科幻太空"
+      "科幻太空",
+      "體育競技"
     ],
     "options_en": [
-      "Detective and mystery story",
+      "Mystery and detective",
       "Business",
-      "Sports",
-      "Sci-fi space"
+      "Sci-fi",
+      "Sports"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
     "difficulty": 3
   },
   {
@@ -1879,14 +1879,14 @@
       "財經商戰"
     ],
     "options_en": [
-      "Detective and mystery story",
+      "Mystery and detective",
       "Sports",
-      "Sci-fi space",
+      "Sci-fi",
       "Business"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
     "difficulty": 1
   },
   {
@@ -1894,20 +1894,20 @@
     "question_zh": "《黃昏以後》主要講咩？",
     "question_en": "What is 'After Dark' mainly about?",
     "options_zh": [
-      "體育競技",
-      "財經商戰",
       "科幻太空",
-      "推理破案同懸疑故事"
+      "財經商戰",
+      "推理破案同懸疑故事",
+      "體育競技"
     ],
     "options_en": [
-      "Sports",
+      "Sci-fi",
       "Business",
-      "Sci-fi space",
-      "Detective and mystery story"
+      "Mystery and detective",
+      "Sports"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
     "difficulty": 2
   },
   {
@@ -1915,20 +1915,20 @@
     "question_zh": "《黃昏以後》入面有咩角色？",
     "question_en": "What characters are in 'After Dark'?",
     "options_zh": [
-      "主要角色",
-      "機械人",
       "動物",
-      "外星人"
+      "外星人",
+      "機械人",
+      "偵探/警察"
     ],
     "options_en": [
-      "Main characters",
-      "Robots",
       "Animals",
-      "Aliens"
+      "Aliens",
+      "Robots",
+      "Detective/Police"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「偵探/警察」。",
+    "explanation_en": "The correct answer is 'Detective/Police'.",
     "difficulty": 3
   },
   {
@@ -1936,20 +1936,20 @@
     "question_zh": "《黃昏以後》入面有咩角色？",
     "question_en": "What characters are in 'After Dark'?",
     "options_zh": [
+      "偵探/警察",
+      "機械人",
       "外星人",
-      "動物",
-      "主要角色",
-      "機械人"
+      "動物"
     ],
     "options_en": [
+      "Detective/Police",
+      "Robots",
       "Aliens",
-      "Animals",
-      "Main characters",
-      "Robots"
+      "Animals"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「偵探/警察」。",
+    "explanation_en": "The correct answer is 'Detective/Police'.",
     "difficulty": 1
   },
   {
@@ -1957,66 +1957,24 @@
     "question_zh": "《黃昏以後》入面有咩角色？",
     "question_en": "What characters are in 'After Dark'?",
     "options_zh": [
-      "動物",
       "機械人",
-      "主要角色",
+      "偵探/警察",
+      "動物",
       "外星人"
     ],
     "options_en": [
-      "Animals",
       "Robots",
-      "Main characters",
+      "Detective/Police",
+      "Animals",
       "Aliens"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「偵探/警察」。",
+    "explanation_en": "The correct answer is 'Detective/Police'.",
     "difficulty": 2
   },
   {
     "id": 95,
-    "question_zh": "《黃昏以後》嘅故事背景喺邊度？",
-    "question_en": "Where is 'After Dark' set?",
-    "options_zh": [
-      "虛擬世界",
-      "歐洲中世紀",
-      "未來太空",
-      "中國/亞洲"
-    ],
-    "options_en": [
-      "Virtual world",
-      "Medieval Europe",
-      "Future space",
-      "China/Asia"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 3
-  },
-  {
-    "id": 96,
-    "question_zh": "《黃昏以後》嘅故事背景喺邊度？",
-    "question_en": "Where is 'After Dark' set?",
-    "options_zh": [
-      "虛擬世界",
-      "歐洲中世紀",
-      "未來太空",
-      "中國/亞洲"
-    ],
-    "options_en": [
-      "Virtual world",
-      "Medieval Europe",
-      "Future space",
-      "China/Asia"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 1
-  },
-  {
-    "id": 97,
     "question_zh": "《黃昏以後》嘅故事背景喺邊度？",
     "question_en": "Where is 'After Dark' set?",
     "options_zh": [
@@ -2034,6 +1992,48 @@
     "answer": 2,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 3
+  },
+  {
+    "id": 96,
+    "question_zh": "《黃昏以後》嘅故事背景喺邊度？",
+    "question_en": "Where is 'After Dark' set?",
+    "options_zh": [
+      "歐洲中世紀",
+      "中國/亞洲",
+      "虛擬世界",
+      "未來太空"
+    ],
+    "options_en": [
+      "Medieval Europe",
+      "China/Asia",
+      "Virtual world",
+      "Future space"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 1
+  },
+  {
+    "id": 97,
+    "question_zh": "《黃昏以後》嘅故事背景喺邊度？",
+    "question_en": "Where is 'After Dark' set?",
+    "options_zh": [
+      "中國/亞洲",
+      "未來太空",
+      "歐洲中世紀",
+      "虛擬世界"
+    ],
+    "options_en": [
+      "China/Asia",
+      "Future space",
+      "Medieval Europe",
+      "Virtual world"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 2
   },
   {
@@ -2041,18 +2041,18 @@
     "question_zh": "《黃昏以後》係咪好受歡迎？",
     "question_en": "Is 'After Dark' popular?",
     "options_zh": [
+      "係，有一定讀者群",
       "只喺特定地區流行",
-      "唔係，好冷門",
       "已經過氣",
-      "係，有一定讀者群"
+      "唔係，好冷門"
     ],
     "options_en": [
+      "Yes, has a readership",
       "Only popular locally",
-      "No, very niche",
       "Outdated",
-      "Yes, has a readership"
+      "No, very niche"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 3
@@ -2063,40 +2063,40 @@
     "question_en": "Is 'After Dark' popular?",
     "options_zh": [
       "只喺特定地區流行",
-      "唔係，好冷門",
       "係，有一定讀者群",
+      "唔係，好冷門",
       "已經過氣"
     ],
     "options_en": [
       "Only popular locally",
-      "No, very niche",
       "Yes, has a readership",
+      "No, very niche",
       "Outdated"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 1
   },
   {
     "id": 100,
-    "question_zh": "《黃昏以後》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'After Dark' belong to?",
+    "question_zh": "《黃昏以後》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'After Dark'?",
     "options_zh": [
-      "懸疑與推理類",
-      "科幻小說",
-      "兒童文學",
-      "恐怖小說"
+      "德國人",
+      "日本人",
+      "韓國人",
+      "法國人"
     ],
     "options_en": [
-      "Mystery & Detective",
-      "Sci-fi",
-      "Children's literature",
-      "Horror"
+      "German",
+      "Japanese",
+      "Korean",
+      "French"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「日本人」。",
+    "explanation_en": "The correct answer is 'Japanese'.",
     "difficulty": 2
   }
 ]

@@ -4,18 +4,18 @@
     "question_zh": "以下邊本係《武動乾坤》？",
     "question_en": "Which one is 'Martial Universe'?",
     "options_zh": [
-      "其他小說A",
-      "武動乾坤",
       "其他小說C",
-      "其他小說B"
+      "其他小說B",
+      "其他小說A",
+      "武動乾坤"
     ],
     "options_en": [
-      "Other Novel A",
-      "Martial Universe",
       "Other Novel C",
-      "Other Novel B"
+      "Other Novel B",
+      "Other Novel A",
+      "Martial Universe"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「武動乾坤」。",
     "explanation_en": "The correct answer is 'Martial Universe'.",
     "difficulty": 2
@@ -25,45 +25,24 @@
     "question_zh": "以下邊本係《武動乾坤》？",
     "question_en": "Which one is 'Martial Universe'?",
     "options_zh": [
-      "其他小說C",
-      "其他小說B",
+      "其他小說A",
       "武動乾坤",
-      "其他小說A"
+      "其他小說B",
+      "其他小說C"
     ],
     "options_en": [
-      "Other Novel C",
-      "Other Novel B",
+      "Other Novel A",
       "Martial Universe",
-      "Other Novel A"
+      "Other Novel B",
+      "Other Novel C"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「武動乾坤」。",
     "explanation_en": "The correct answer is 'Martial Universe'.",
     "difficulty": 3
   },
   {
     "id": 3,
-    "question_zh": "以下邊本係《武動乾坤》？",
-    "question_en": "Which one is 'Martial Universe'?",
-    "options_zh": [
-      "武動乾坤",
-      "其他小說A",
-      "其他小說B",
-      "其他小說C"
-    ],
-    "options_en": [
-      "Martial Universe",
-      "Other Novel A",
-      "Other Novel B",
-      "Other Novel C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武動乾坤」。",
-    "explanation_en": "The correct answer is 'Martial Universe'.",
-    "difficulty": 1
-  },
-  {
-    "id": 4,
     "question_zh": "以下邊本係《武動乾坤》？",
     "question_en": "Which one is 'Martial Universe'?",
     "options_zh": [
@@ -81,6 +60,27 @@
     "answer": 3,
     "explanation_zh": "正確答案係「武動乾坤」。",
     "explanation_en": "The correct answer is 'Martial Universe'.",
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question_zh": "以下邊本係《武動乾坤》？",
+    "question_en": "Which one is 'Martial Universe'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說C",
+      "其他小說B",
+      "武動乾坤"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel C",
+      "Other Novel B",
+      "Martial Universe"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「武動乾坤」。",
+    "explanation_en": "The correct answer is 'Martial Universe'.",
     "difficulty": 2
   },
   {
@@ -88,18 +88,18 @@
     "question_zh": "《武動乾坤》嘅作者係邊個？",
     "question_en": "Who wrote 'Martial Universe'?",
     "options_zh": [
-      "天蠶土豆",
       "其他作者A",
       "其他作者C",
-      "其他作者B"
+      "其他作者B",
+      "天蠶土豆"
     ],
     "options_en": [
-      "Heavenly Silkworm Potato",
       "Author A",
       "Author C",
-      "Author B"
+      "Author B",
+      "Heavenly Silkworm Potato"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「天蠶土豆」。",
     "explanation_en": "The correct answer is 'Heavenly Silkworm Potato'.",
     "difficulty": 3
@@ -109,15 +109,15 @@
     "question_zh": "《武動乾坤》嘅作者係邊個？",
     "question_en": "Who wrote 'Martial Universe'?",
     "options_zh": [
-      "其他作者C",
       "其他作者B",
       "其他作者A",
+      "其他作者C",
       "天蠶土豆"
     ],
     "options_en": [
-      "Author C",
       "Author B",
       "Author A",
+      "Author C",
       "Heavenly Silkworm Potato"
     ],
     "answer": 3,
@@ -131,15 +131,15 @@
     "question_en": "Who wrote 'Martial Universe'?",
     "options_zh": [
       "其他作者A",
-      "其他作者C",
+      "其他作者B",
       "天蠶土豆",
-      "其他作者B"
+      "其他作者C"
     ],
     "options_en": [
       "Author A",
-      "Author C",
+      "Author B",
       "Heavenly Silkworm Potato",
-      "Author B"
+      "Author C"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「天蠶土豆」。",
@@ -151,18 +151,18 @@
     "question_zh": "《武動乾坤》係邊年出版嘅？",
     "question_en": "What year was 'Martial Universe' published?",
     "options_zh": [
-      "2008年",
-      "2006年",
+      "2009年",
       "2011年",
-      "2013年"
+      "2014年",
+      "2006年"
     ],
     "options_en": [
-      "2008",
-      "2006",
+      "2009",
       "2011",
-      "2013"
+      "2014",
+      "2006"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「2011年」。",
     "explanation_en": "The correct answer is '2011'.",
     "difficulty": 3
@@ -172,18 +172,18 @@
     "question_zh": "《武動乾坤》係邊年出版嘅？",
     "question_en": "What year was 'Martial Universe' published?",
     "options_zh": [
-      "2011年",
+      "2013年",
       "2008年",
-      "2014年",
-      "2016年"
+      "2006年",
+      "2011年"
     ],
     "options_en": [
-      "2011",
+      "2013",
       "2008",
-      "2014",
-      "2016"
+      "2006",
+      "2011"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「2011年」。",
     "explanation_en": "The correct answer is '2011'.",
     "difficulty": 1
@@ -193,83 +193,83 @@
     "question_zh": "《武動乾坤》係邊年出版嘅？",
     "question_en": "What year was 'Martial Universe' published?",
     "options_zh": [
+      "2016年",
       "2011年",
-      "2008年",
-      "2006年",
-      "2013年"
+      "2013年",
+      "2006年"
     ],
     "options_en": [
+      "2016",
       "2011",
-      "2008",
-      "2006",
-      "2013"
+      "2013",
+      "2006"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「2011年」。",
     "explanation_en": "The correct answer is '2011'.",
     "difficulty": 2
   },
   {
     "id": 11,
-    "question_zh": "《武動乾坤》屬於邊種類型？",
-    "question_en": "What genre is 'Martial Universe'?",
+    "question_zh": "《武動乾坤》係邊國作品？",
+    "question_en": "Which country is 'Martial Universe' from?",
     "options_zh": [
-      "其他類型B",
-      "其他類型A",
-      "幻想與超自然類",
-      "其他類型C"
+      "德國",
+      "韓國",
+      "法國",
+      "中國"
     ],
     "options_en": [
-      "Genre B",
-      "Genre A",
-      "Fantasy & Supernatural",
-      "Genre C"
+      "Germany",
+      "South Korea",
+      "France",
+      "China"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「幻想與超自然類」。",
-    "explanation_en": "The correct answer is 'Fantasy & Supernatural'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 12,
-    "question_zh": "《武動乾坤》屬於邊種類型？",
-    "question_en": "What genre is 'Martial Universe'?",
+    "question_zh": "《武動乾坤》係邊國作品？",
+    "question_en": "Which country is 'Martial Universe' from?",
     "options_zh": [
-      "幻想與超自然類",
-      "其他類型C",
-      "其他類型A",
-      "其他類型B"
+      "法國",
+      "韓國",
+      "德國",
+      "中國"
     ],
     "options_en": [
-      "Fantasy & Supernatural",
-      "Genre C",
-      "Genre A",
-      "Genre B"
+      "France",
+      "South Korea",
+      "Germany",
+      "China"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「幻想與超自然類」。",
-    "explanation_en": "The correct answer is 'Fantasy & Supernatural'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 13,
-    "question_zh": "《武動乾坤》屬於邊種類型？",
-    "question_en": "What genre is 'Martial Universe'?",
+    "question_zh": "《武動乾坤》係邊國作品？",
+    "question_en": "Which country is 'Martial Universe' from?",
     "options_zh": [
-      "其他類型C",
-      "其他類型B",
-      "其他類型A",
-      "幻想與超自然類"
+      "韓國",
+      "法國",
+      "德國",
+      "中國"
     ],
     "options_en": [
-      "Genre C",
-      "Genre B",
-      "Genre A",
-      "Fantasy & Supernatural"
+      "South Korea",
+      "France",
+      "Germany",
+      "China"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「幻想與超自然類」。",
-    "explanation_en": "The correct answer is 'Fantasy & Supernatural'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
@@ -277,20 +277,20 @@
     "question_zh": "《武動乾坤》主要講咩？",
     "question_en": "What is 'Martial Universe' mainly about?",
     "options_zh": [
-      "體育競技",
-      "財經商戰",
       "科幻太空",
+      "財經商戰",
+      "體育競技",
       "奇幻冒險同超自然元素"
     ],
     "options_en": [
-      "Sports",
+      "Sci-fi",
       "Business",
-      "Sci-fi space",
-      "Fantasy adventure and supernatural elements"
+      "Sports",
+      "Fantasy adventure"
     ],
     "answer": 3,
     "explanation_zh": "正確答案係「奇幻冒險同超自然元素」。",
-    "explanation_en": "The correct answer is 'Fantasy adventure and supernatural elements'.",
+    "explanation_en": "The correct answer is 'Fantasy adventure'.",
     "difficulty": 3
   },
   {
@@ -299,19 +299,19 @@
     "question_en": "What is 'Martial Universe' mainly about?",
     "options_zh": [
       "體育競技",
-      "科幻太空",
       "財經商戰",
-      "奇幻冒險同超自然元素"
+      "奇幻冒險同超自然元素",
+      "科幻太空"
     ],
     "options_en": [
       "Sports",
-      "Sci-fi space",
       "Business",
-      "Fantasy adventure and supernatural elements"
+      "Fantasy adventure",
+      "Sci-fi"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「奇幻冒險同超自然元素」。",
-    "explanation_en": "The correct answer is 'Fantasy adventure and supernatural elements'.",
+    "explanation_en": "The correct answer is 'Fantasy adventure'.",
     "difficulty": 1
   },
   {
@@ -319,20 +319,20 @@
     "question_zh": "《武動乾坤》主要講咩？",
     "question_en": "What is 'Martial Universe' mainly about?",
     "options_zh": [
+      "科幻太空",
       "奇幻冒險同超自然元素",
-      "財經商戰",
       "體育競技",
-      "科幻太空"
+      "財經商戰"
     ],
     "options_en": [
-      "Fantasy adventure and supernatural elements",
-      "Business",
+      "Sci-fi",
+      "Fantasy adventure",
       "Sports",
-      "Sci-fi space"
+      "Business"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「奇幻冒險同超自然元素」。",
-    "explanation_en": "The correct answer is 'Fantasy adventure and supernatural elements'.",
+    "explanation_en": "The correct answer is 'Fantasy adventure'.",
     "difficulty": 2
   },
   {
@@ -340,20 +340,20 @@
     "question_zh": "《武動乾坤》入面有咩角色？",
     "question_en": "What characters are in 'Martial Universe'?",
     "options_zh": [
+      "動物",
       "外星人",
-      "主要角色",
-      "機械人",
-      "動物"
+      "修仙者/魔法師",
+      "機械人"
     ],
     "options_en": [
+      "Animals",
       "Aliens",
-      "Main characters",
-      "Robots",
-      "Animals"
+      "Cultivators/Wizards",
+      "Robots"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「修仙者/魔法師」。",
+    "explanation_en": "The correct answer is 'Cultivators/Wizards'.",
     "difficulty": 3
   },
   {
@@ -361,20 +361,20 @@
     "question_zh": "《武動乾坤》入面有咩角色？",
     "question_en": "What characters are in 'Martial Universe'?",
     "options_zh": [
-      "動物",
       "機械人",
-      "主要角色",
-      "外星人"
+      "外星人",
+      "動物",
+      "修仙者/魔法師"
     ],
     "options_en": [
-      "Animals",
       "Robots",
-      "Main characters",
-      "Aliens"
+      "Aliens",
+      "Animals",
+      "Cultivators/Wizards"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「修仙者/魔法師」。",
+    "explanation_en": "The correct answer is 'Cultivators/Wizards'.",
     "difficulty": 1
   },
   {
@@ -382,20 +382,20 @@
     "question_zh": "《武動乾坤》入面有咩角色？",
     "question_en": "What characters are in 'Martial Universe'?",
     "options_zh": [
+      "機械人",
       "外星人",
       "動物",
-      "機械人",
-      "主要角色"
+      "修仙者/魔法師"
     ],
     "options_en": [
+      "Robots",
       "Aliens",
       "Animals",
-      "Robots",
-      "Main characters"
+      "Cultivators/Wizards"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "explanation_zh": "正確答案係「修仙者/魔法師」。",
+    "explanation_en": "The correct answer is 'Cultivators/Wizards'.",
     "difficulty": 2
   },
   {
@@ -404,19 +404,19 @@
     "question_en": "Where is 'Martial Universe' set?",
     "options_zh": [
       "未來太空",
-      "中國/亞洲",
-      "虛擬世界",
-      "歐洲中世紀"
+      "歐洲中世紀",
+      "虛構世界",
+      "虛擬世界"
     ],
     "options_en": [
       "Future space",
-      "China/Asia",
-      "Virtual world",
-      "Medieval Europe"
+      "Medieval Europe",
+      "Fictional world",
+      "Virtual world"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「虛構世界」。",
+    "explanation_en": "The correct answer is 'Fictional world'.",
     "difficulty": 3
   },
   {
@@ -424,20 +424,20 @@
     "question_zh": "《武動乾坤》嘅故事背景喺邊度？",
     "question_en": "Where is 'Martial Universe' set?",
     "options_zh": [
+      "未來太空",
       "虛擬世界",
       "歐洲中世紀",
-      "未來太空",
-      "中國/亞洲"
+      "虛構世界"
     ],
     "options_en": [
+      "Future space",
       "Virtual world",
       "Medieval Europe",
-      "Future space",
-      "China/Asia"
+      "Fictional world"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
+    "explanation_zh": "正確答案係「虛構世界」。",
+    "explanation_en": "The correct answer is 'Fictional world'.",
     "difficulty": 1
   },
   {
@@ -446,19 +446,19 @@
     "question_en": "Where is 'Martial Universe' set?",
     "options_zh": [
       "未來太空",
+      "虛構世界",
       "歐洲中世紀",
-      "中國/亞洲",
       "虛擬世界"
     ],
     "options_en": [
       "Future space",
+      "Fictional world",
       "Medieval Europe",
-      "China/Asia",
       "Virtual world"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「虛構世界」。",
+    "explanation_en": "The correct answer is 'Fictional world'.",
     "difficulty": 2
   },
   {
@@ -466,18 +466,18 @@
     "question_zh": "《武動乾坤》係咪好受歡迎？",
     "question_en": "Is 'Martial Universe' popular?",
     "options_zh": [
-      "係，非常受歡迎",
       "只喺特定地區流行",
-      "唔係，好冷門",
-      "已經過氣"
+      "係，非常受歡迎",
+      "已經過氣",
+      "唔係，好冷門"
     ],
     "options_en": [
-      "Yes, very popular",
       "Only popular locally",
-      "No, very niche",
-      "Outdated"
+      "Yes, very popular",
+      "Outdated",
+      "No, very niche"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -487,16 +487,16 @@
     "question_zh": "《武動乾坤》係咪好受歡迎？",
     "question_en": "Is 'Martial Universe' popular?",
     "options_zh": [
-      "已經過氣",
+      "只喺特定地區流行",
       "係，非常受歡迎",
       "唔係，好冷門",
-      "只喺特定地區流行"
+      "已經過氣"
     ],
     "options_en": [
-      "Outdated",
+      "Only popular locally",
       "Yes, very popular",
       "No, very niche",
-      "Only popular locally"
+      "Outdated"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
@@ -505,23 +505,23 @@
   },
   {
     "id": 25,
-    "question_zh": "《武動乾坤》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Martial Universe' belong to?",
+    "question_zh": "《武動乾坤》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Martial Universe'?",
     "options_zh": [
-      "科幻小說",
-      "兒童文學",
-      "恐怖小說",
-      "幻想與超自然類"
+      "韓國人",
+      "法國人",
+      "德國人",
+      "中國人"
     ],
     "options_en": [
-      "Sci-fi",
-      "Children's literature",
-      "Horror",
-      "Fantasy & Supernatural"
+      "Korean",
+      "French",
+      "German",
+      "Chinese"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「幻想與超自然類」。",
-    "explanation_en": "The correct answer is 'Fantasy & Supernatural'.",
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
   },
   {
@@ -529,18 +529,18 @@
     "question_zh": "以下邊本係《武動乾坤》？",
     "question_en": "Which one is 'Martial Universe'?",
     "options_zh": [
-      "其他小說A",
       "武動乾坤",
       "其他小說B",
+      "其他小說A",
       "其他小說C"
     ],
     "options_en": [
-      "Other Novel A",
       "Martial Universe",
       "Other Novel B",
+      "Other Novel A",
       "Other Novel C"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「武動乾坤」。",
     "explanation_en": "The correct answer is 'Martial Universe'.",
     "difficulty": 3
@@ -551,17 +551,17 @@
     "question_en": "Which one is 'Martial Universe'?",
     "options_zh": [
       "其他小說A",
+      "其他小說C",
       "其他小說B",
-      "武動乾坤",
-      "其他小說C"
+      "武動乾坤"
     ],
     "options_en": [
       "Other Novel A",
+      "Other Novel C",
       "Other Novel B",
-      "Martial Universe",
-      "Other Novel C"
+      "Martial Universe"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「武動乾坤」。",
     "explanation_en": "The correct answer is 'Martial Universe'.",
     "difficulty": 1
@@ -571,18 +571,18 @@
     "question_zh": "以下邊本係《武動乾坤》？",
     "question_en": "Which one is 'Martial Universe'?",
     "options_zh": [
-      "武動乾坤",
-      "其他小說C",
       "其他小說B",
-      "其他小說A"
+      "其他小說A",
+      "其他小說C",
+      "武動乾坤"
     ],
     "options_en": [
-      "Martial Universe",
-      "Other Novel C",
       "Other Novel B",
-      "Other Novel A"
+      "Other Novel A",
+      "Other Novel C",
+      "Martial Universe"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「武動乾坤」。",
     "explanation_en": "The correct answer is 'Martial Universe'.",
     "difficulty": 2
@@ -592,66 +592,24 @@
     "question_zh": "以下邊本係《武動乾坤》？",
     "question_en": "Which one is 'Martial Universe'?",
     "options_zh": [
-      "其他小說C",
-      "其他小說B",
+      "其他小說A",
       "武動乾坤",
-      "其他小說A"
+      "其他小說C",
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel C",
-      "Other Novel B",
+      "Other Novel A",
       "Martial Universe",
-      "Other Novel A"
+      "Other Novel C",
+      "Other Novel B"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「武動乾坤」。",
     "explanation_en": "The correct answer is 'Martial Universe'.",
     "difficulty": 3
   },
   {
     "id": 30,
-    "question_zh": "《武動乾坤》嘅作者係邊個？",
-    "question_en": "Who wrote 'Martial Universe'?",
-    "options_zh": [
-      "天蠶土豆",
-      "其他作者A",
-      "其他作者B",
-      "其他作者C"
-    ],
-    "options_en": [
-      "Heavenly Silkworm Potato",
-      "Author A",
-      "Author B",
-      "Author C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「天蠶土豆」。",
-    "explanation_en": "The correct answer is 'Heavenly Silkworm Potato'.",
-    "difficulty": 1
-  },
-  {
-    "id": 31,
-    "question_zh": "《武動乾坤》嘅作者係邊個？",
-    "question_en": "Who wrote 'Martial Universe'?",
-    "options_zh": [
-      "其他作者B",
-      "其他作者C",
-      "其他作者A",
-      "天蠶土豆"
-    ],
-    "options_en": [
-      "Author B",
-      "Author C",
-      "Author A",
-      "Heavenly Silkworm Potato"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「天蠶土豆」。",
-    "explanation_en": "The correct answer is 'Heavenly Silkworm Potato'.",
-    "difficulty": 2
-  },
-  {
-    "id": 32,
     "question_zh": "《武動乾坤》嘅作者係邊個？",
     "question_en": "Who wrote 'Martial Universe'?",
     "options_zh": [
@@ -669,6 +627,48 @@
     "answer": 0,
     "explanation_zh": "正確答案係「天蠶土豆」。",
     "explanation_en": "The correct answer is 'Heavenly Silkworm Potato'.",
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question_zh": "《武動乾坤》嘅作者係邊個？",
+    "question_en": "Who wrote 'Martial Universe'?",
+    "options_zh": [
+      "其他作者C",
+      "其他作者B",
+      "其他作者A",
+      "天蠶土豆"
+    ],
+    "options_en": [
+      "Author C",
+      "Author B",
+      "Author A",
+      "Heavenly Silkworm Potato"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「天蠶土豆」。",
+    "explanation_en": "The correct answer is 'Heavenly Silkworm Potato'.",
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question_zh": "《武動乾坤》嘅作者係邊個？",
+    "question_en": "Who wrote 'Martial Universe'?",
+    "options_zh": [
+      "其他作者B",
+      "其他作者C",
+      "其他作者A",
+      "天蠶土豆"
+    ],
+    "options_en": [
+      "Author B",
+      "Author C",
+      "Author A",
+      "Heavenly Silkworm Potato"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「天蠶土豆」。",
+    "explanation_en": "The correct answer is 'Heavenly Silkworm Potato'.",
     "difficulty": 3
   },
   {
@@ -676,18 +676,18 @@
     "question_zh": "《武動乾坤》係邊年出版嘅？",
     "question_en": "What year was 'Martial Universe' published?",
     "options_zh": [
-      "2006年",
-      "2008年",
-      "2011年",
-      "2014年"
+      "2016年",
+      "2009年",
+      "2014年",
+      "2011年"
     ],
     "options_en": [
-      "2006",
-      "2008",
-      "2011",
-      "2014"
+      "2016",
+      "2009",
+      "2014",
+      "2011"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「2011年」。",
     "explanation_en": "The correct answer is '2011'.",
     "difficulty": 1
@@ -697,18 +697,18 @@
     "question_zh": "《武動乾坤》係邊年出版嘅？",
     "question_en": "What year was 'Martial Universe' published?",
     "options_zh": [
+      "2016年",
       "2008年",
-      "2011年",
-      "2013年",
-      "2016年"
+      "2009年",
+      "2011年"
     ],
     "options_en": [
+      "2016",
       "2008",
-      "2011",
-      "2013",
-      "2016"
+      "2009",
+      "2011"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「2011年」。",
     "explanation_en": "The correct answer is '2011'.",
     "difficulty": 2
@@ -718,83 +718,83 @@
     "question_zh": "《武動乾坤》係邊年出版嘅？",
     "question_en": "What year was 'Martial Universe' published?",
     "options_zh": [
-      "2006年",
       "2011年",
+      "2013年",
       "2016年",
-      "2008年"
+      "2009年"
     ],
     "options_en": [
-      "2006",
       "2011",
+      "2013",
       "2016",
-      "2008"
+      "2009"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「2011年」。",
     "explanation_en": "The correct answer is '2011'.",
     "difficulty": 3
   },
   {
     "id": 36,
-    "question_zh": "《武動乾坤》屬於邊種類型？",
-    "question_en": "What genre is 'Martial Universe'?",
+    "question_zh": "《武動乾坤》係邊國作品？",
+    "question_en": "Which country is 'Martial Universe' from?",
     "options_zh": [
-      "其他類型C",
-      "其他類型B",
-      "其他類型A",
-      "幻想與超自然類"
+      "法國",
+      "韓國",
+      "中國",
+      "德國"
     ],
     "options_en": [
-      "Genre C",
-      "Genre B",
-      "Genre A",
-      "Fantasy & Supernatural"
+      "France",
+      "South Korea",
+      "China",
+      "Germany"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「幻想與超自然類」。",
-    "explanation_en": "The correct answer is 'Fantasy & Supernatural'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 37,
-    "question_zh": "《武動乾坤》屬於邊種類型？",
-    "question_en": "What genre is 'Martial Universe'?",
+    "question_zh": "《武動乾坤》係邊國作品？",
+    "question_en": "Which country is 'Martial Universe' from?",
     "options_zh": [
-      "其他類型A",
-      "幻想與超自然類",
-      "其他類型C",
-      "其他類型B"
+      "法國",
+      "德國",
+      "中國",
+      "韓國"
     ],
     "options_en": [
-      "Genre A",
-      "Fantasy & Supernatural",
-      "Genre C",
-      "Genre B"
+      "France",
+      "Germany",
+      "China",
+      "South Korea"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「幻想與超自然類」。",
-    "explanation_en": "The correct answer is 'Fantasy & Supernatural'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
     "id": 38,
-    "question_zh": "《武動乾坤》屬於邊種類型？",
-    "question_en": "What genre is 'Martial Universe'?",
+    "question_zh": "《武動乾坤》係邊國作品？",
+    "question_en": "Which country is 'Martial Universe' from?",
     "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "其他類型B",
-      "幻想與超自然類"
+      "法國",
+      "中國",
+      "韓國",
+      "德國"
     ],
     "options_en": [
-      "Genre C",
-      "Genre A",
-      "Genre B",
-      "Fantasy & Supernatural"
+      "France",
+      "China",
+      "South Korea",
+      "Germany"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「幻想與超自然類」。",
-    "explanation_en": "The correct answer is 'Fantasy & Supernatural'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
@@ -803,19 +803,19 @@
     "question_en": "What is 'Martial Universe' mainly about?",
     "options_zh": [
       "財經商戰",
-      "奇幻冒險同超自然元素",
+      "科幻太空",
       "體育競技",
-      "科幻太空"
+      "奇幻冒險同超自然元素"
     ],
     "options_en": [
       "Business",
-      "Fantasy adventure and supernatural elements",
+      "Sci-fi",
       "Sports",
-      "Sci-fi space"
+      "Fantasy adventure"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「奇幻冒險同超自然元素」。",
-    "explanation_en": "The correct answer is 'Fantasy adventure and supernatural elements'.",
+    "explanation_en": "The correct answer is 'Fantasy adventure'.",
     "difficulty": 1
   },
   {
@@ -823,20 +823,20 @@
     "question_zh": "《武動乾坤》主要講咩？",
     "question_en": "What is 'Martial Universe' mainly about?",
     "options_zh": [
-      "科幻太空",
+      "體育競技",
       "財經商戰",
       "奇幻冒險同超自然元素",
-      "體育競技"
+      "科幻太空"
     ],
     "options_en": [
-      "Sci-fi space",
+      "Sports",
       "Business",
-      "Fantasy adventure and supernatural elements",
-      "Sports"
+      "Fantasy adventure",
+      "Sci-fi"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「奇幻冒險同超自然元素」。",
-    "explanation_en": "The correct answer is 'Fantasy adventure and supernatural elements'.",
+    "explanation_en": "The correct answer is 'Fantasy adventure'.",
     "difficulty": 2
   },
   {
@@ -844,20 +844,20 @@
     "question_zh": "《武動乾坤》主要講咩？",
     "question_en": "What is 'Martial Universe' mainly about?",
     "options_zh": [
-      "科幻太空",
       "奇幻冒險同超自然元素",
+      "科幻太空",
       "財經商戰",
       "體育競技"
     ],
     "options_en": [
-      "Sci-fi space",
-      "Fantasy adventure and supernatural elements",
+      "Fantasy adventure",
+      "Sci-fi",
       "Business",
       "Sports"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「奇幻冒險同超自然元素」。",
-    "explanation_en": "The correct answer is 'Fantasy adventure and supernatural elements'.",
+    "explanation_en": "The correct answer is 'Fantasy adventure'.",
     "difficulty": 3
   },
   {
@@ -865,20 +865,20 @@
     "question_zh": "《武動乾坤》入面有咩角色？",
     "question_en": "What characters are in 'Martial Universe'?",
     "options_zh": [
+      "動物",
       "外星人",
       "機械人",
-      "主要角色",
-      "動物"
+      "修仙者/魔法師"
     ],
     "options_en": [
+      "Animals",
       "Aliens",
       "Robots",
-      "Main characters",
-      "Animals"
+      "Cultivators/Wizards"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「修仙者/魔法師」。",
+    "explanation_en": "The correct answer is 'Cultivators/Wizards'.",
     "difficulty": 1
   },
   {
@@ -887,19 +887,19 @@
     "question_en": "What characters are in 'Martial Universe'?",
     "options_zh": [
       "機械人",
-      "動物",
       "外星人",
-      "主要角色"
+      "動物",
+      "修仙者/魔法師"
     ],
     "options_en": [
       "Robots",
-      "Animals",
       "Aliens",
-      "Main characters"
+      "Animals",
+      "Cultivators/Wizards"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "explanation_zh": "正確答案係「修仙者/魔法師」。",
+    "explanation_en": "The correct answer is 'Cultivators/Wizards'.",
     "difficulty": 2
   },
   {
@@ -907,20 +907,20 @@
     "question_zh": "《武動乾坤》入面有咩角色？",
     "question_en": "What characters are in 'Martial Universe'?",
     "options_zh": [
-      "外星人",
-      "機械人",
       "動物",
-      "主要角色"
+      "機械人",
+      "修仙者/魔法師",
+      "外星人"
     ],
     "options_en": [
-      "Aliens",
-      "Robots",
       "Animals",
-      "Main characters"
+      "Robots",
+      "Cultivators/Wizards",
+      "Aliens"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「修仙者/魔法師」。",
+    "explanation_en": "The correct answer is 'Cultivators/Wizards'.",
     "difficulty": 3
   },
   {
@@ -929,19 +929,19 @@
     "question_en": "Where is 'Martial Universe' set?",
     "options_zh": [
       "虛擬世界",
-      "未來太空",
-      "中國/亞洲",
-      "歐洲中世紀"
+      "虛構世界",
+      "歐洲中世紀",
+      "未來太空"
     ],
     "options_en": [
       "Virtual world",
-      "Future space",
-      "China/Asia",
-      "Medieval Europe"
+      "Fictional world",
+      "Medieval Europe",
+      "Future space"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「虛構世界」。",
+    "explanation_en": "The correct answer is 'Fictional world'.",
     "difficulty": 1
   },
   {
@@ -949,20 +949,20 @@
     "question_zh": "《武動乾坤》嘅故事背景喺邊度？",
     "question_en": "Where is 'Martial Universe' set?",
     "options_zh": [
-      "虛擬世界",
-      "中國/亞洲",
+      "未來太空",
       "歐洲中世紀",
-      "未來太空"
+      "虛擬世界",
+      "虛構世界"
     ],
     "options_en": [
-      "Virtual world",
-      "China/Asia",
+      "Future space",
       "Medieval Europe",
-      "Future space"
+      "Virtual world",
+      "Fictional world"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「虛構世界」。",
+    "explanation_en": "The correct answer is 'Fictional world'.",
     "difficulty": 2
   },
   {
@@ -971,19 +971,19 @@
     "question_en": "Where is 'Martial Universe' set?",
     "options_zh": [
       "虛擬世界",
-      "中國/亞洲",
       "歐洲中世紀",
-      "未來太空"
+      "未來太空",
+      "虛構世界"
     ],
     "options_en": [
       "Virtual world",
-      "China/Asia",
       "Medieval Europe",
-      "Future space"
+      "Future space",
+      "Fictional world"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「虛構世界」。",
+    "explanation_en": "The correct answer is 'Fictional world'.",
     "difficulty": 3
   },
   {
@@ -991,18 +991,18 @@
     "question_zh": "《武動乾坤》係咪好受歡迎？",
     "question_en": "Is 'Martial Universe' popular?",
     "options_zh": [
-      "只喺特定地區流行",
-      "唔係，好冷門",
       "係，非常受歡迎",
+      "唔係，好冷門",
+      "只喺特定地區流行",
       "已經過氣"
     ],
     "options_en": [
-      "Only popular locally",
-      "No, very niche",
       "Yes, very popular",
+      "No, very niche",
+      "Only popular locally",
       "Outdated"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 1
@@ -1013,15 +1013,15 @@
     "question_en": "Is 'Martial Universe' popular?",
     "options_zh": [
       "係，非常受歡迎",
+      "唔係，好冷門",
       "只喺特定地區流行",
-      "已經過氣",
-      "唔係，好冷門"
+      "已經過氣"
     ],
     "options_en": [
       "Yes, very popular",
+      "No, very niche",
       "Only popular locally",
-      "Outdated",
-      "No, very niche"
+      "Outdated"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
@@ -1030,23 +1030,23 @@
   },
   {
     "id": 50,
-    "question_zh": "《武動乾坤》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Martial Universe' belong to?",
+    "question_zh": "《武動乾坤》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Martial Universe'?",
     "options_zh": [
-      "科幻小說",
-      "兒童文學",
-      "恐怖小說",
-      "幻想與超自然類"
+      "韓國人",
+      "中國人",
+      "德國人",
+      "法國人"
     ],
     "options_en": [
-      "Sci-fi",
-      "Children's literature",
-      "Horror",
-      "Fantasy & Supernatural"
+      "Korean",
+      "Chinese",
+      "German",
+      "French"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「幻想與超自然類」。",
-    "explanation_en": "The correct answer is 'Fantasy & Supernatural'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 3
   },
   {
@@ -1054,18 +1054,18 @@
     "question_zh": "以下邊本係《武動乾坤》？",
     "question_en": "Which one is 'Martial Universe'?",
     "options_zh": [
-      "其他小說A",
       "武動乾坤",
-      "其他小說B",
-      "其他小說C"
+      "其他小說C",
+      "其他小說A",
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel A",
       "Martial Universe",
-      "Other Novel B",
-      "Other Novel C"
+      "Other Novel C",
+      "Other Novel A",
+      "Other Novel B"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「武動乾坤」。",
     "explanation_en": "The correct answer is 'Martial Universe'.",
     "difficulty": 1
@@ -1075,18 +1075,18 @@
     "question_zh": "以下邊本係《武動乾坤》？",
     "question_en": "Which one is 'Martial Universe'?",
     "options_zh": [
-      "武動乾坤",
-      "其他小說B",
       "其他小說C",
-      "其他小說A"
+      "其他小說A",
+      "其他小說B",
+      "武動乾坤"
     ],
     "options_en": [
-      "Martial Universe",
-      "Other Novel B",
       "Other Novel C",
-      "Other Novel A"
+      "Other Novel A",
+      "Other Novel B",
+      "Martial Universe"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「武動乾坤」。",
     "explanation_en": "The correct answer is 'Martial Universe'.",
     "difficulty": 2
@@ -1098,16 +1098,16 @@
     "options_zh": [
       "其他小說A",
       "其他小說C",
-      "其他小說B",
-      "武動乾坤"
+      "武動乾坤",
+      "其他小說B"
     ],
     "options_en": [
       "Other Novel A",
       "Other Novel C",
-      "Other Novel B",
-      "Martial Universe"
+      "Martial Universe",
+      "Other Novel B"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「武動乾坤」。",
     "explanation_en": "The correct answer is 'Martial Universe'.",
     "difficulty": 3
@@ -1118,17 +1118,17 @@
     "question_en": "Which one is 'Martial Universe'?",
     "options_zh": [
       "其他小說A",
+      "其他小說B",
       "武動乾坤",
-      "其他小說C",
-      "其他小說B"
+      "其他小說C"
     ],
     "options_en": [
       "Other Novel A",
+      "Other Novel B",
       "Martial Universe",
-      "Other Novel C",
-      "Other Novel B"
+      "Other Novel C"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「武動乾坤」。",
     "explanation_en": "The correct answer is 'Martial Universe'.",
     "difficulty": 1
@@ -1138,18 +1138,18 @@
     "question_zh": "《武動乾坤》嘅作者係邊個？",
     "question_en": "Who wrote 'Martial Universe'?",
     "options_zh": [
-      "其他作者A",
-      "其他作者C",
+      "其他作者B",
       "天蠶土豆",
-      "其他作者B"
+      "其他作者C",
+      "其他作者A"
     ],
     "options_en": [
-      "Author A",
-      "Author C",
+      "Author B",
       "Heavenly Silkworm Potato",
-      "Author B"
+      "Author C",
+      "Author A"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「天蠶土豆」。",
     "explanation_en": "The correct answer is 'Heavenly Silkworm Potato'.",
     "difficulty": 2
@@ -1180,18 +1180,18 @@
     "question_zh": "《武動乾坤》嘅作者係邊個？",
     "question_en": "Who wrote 'Martial Universe'?",
     "options_zh": [
-      "其他作者B",
-      "天蠶土豆",
       "其他作者C",
-      "其他作者A"
+      "其他作者A",
+      "天蠶土豆",
+      "其他作者B"
     ],
     "options_en": [
-      "Author B",
-      "Heavenly Silkworm Potato",
       "Author C",
-      "Author A"
+      "Author A",
+      "Heavenly Silkworm Potato",
+      "Author B"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「天蠶土豆」。",
     "explanation_en": "The correct answer is 'Heavenly Silkworm Potato'.",
     "difficulty": 1
@@ -1201,18 +1201,18 @@
     "question_zh": "《武動乾坤》係邊年出版嘅？",
     "question_en": "What year was 'Martial Universe' published?",
     "options_zh": [
-      "2006年",
       "2011年",
       "2008年",
-      "2014年"
+      "2014年",
+      "2006年"
     ],
     "options_en": [
-      "2006",
       "2011",
       "2008",
-      "2014"
+      "2014",
+      "2006"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「2011年」。",
     "explanation_en": "The correct answer is '2011'.",
     "difficulty": 2
@@ -1222,16 +1222,16 @@
     "question_zh": "《武動乾坤》係邊年出版嘅？",
     "question_en": "What year was 'Martial Universe' published?",
     "options_zh": [
-      "2009年",
-      "2014年",
+      "2016年",
+      "2013年",
       "2011年",
-      "2006年"
+      "2008年"
     ],
     "options_en": [
-      "2009",
-      "2014",
+      "2016",
+      "2013",
       "2011",
-      "2006"
+      "2008"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「2011年」。",
@@ -1243,83 +1243,83 @@
     "question_zh": "《武動乾坤》係邊年出版嘅？",
     "question_en": "What year was 'Martial Universe' published?",
     "options_zh": [
-      "2013年",
+      "2011年",
+      "2016年",
       "2014年",
-      "2009年",
-      "2011年"
+      "2006年"
     ],
     "options_en": [
-      "2013",
+      "2011",
+      "2016",
       "2014",
-      "2009",
-      "2011"
+      "2006"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「2011年」。",
     "explanation_en": "The correct answer is '2011'.",
     "difficulty": 1
   },
   {
     "id": 61,
-    "question_zh": "《武動乾坤》屬於邊種類型？",
-    "question_en": "What genre is 'Martial Universe'?",
+    "question_zh": "《武動乾坤》係邊國作品？",
+    "question_en": "Which country is 'Martial Universe' from?",
     "options_zh": [
-      "幻想與超自然類",
-      "其他類型A",
-      "其他類型C",
-      "其他類型B"
+      "中國",
+      "法國",
+      "韓國",
+      "德國"
     ],
     "options_en": [
-      "Fantasy & Supernatural",
-      "Genre A",
-      "Genre C",
-      "Genre B"
+      "China",
+      "France",
+      "South Korea",
+      "Germany"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「幻想與超自然類」。",
-    "explanation_en": "The correct answer is 'Fantasy & Supernatural'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
     "id": 62,
-    "question_zh": "《武動乾坤》屬於邊種類型？",
-    "question_en": "What genre is 'Martial Universe'?",
+    "question_zh": "《武動乾坤》係邊國作品？",
+    "question_en": "Which country is 'Martial Universe' from?",
     "options_zh": [
-      "幻想與超自然類",
-      "其他類型B",
-      "其他類型C",
-      "其他類型A"
+      "法國",
+      "韓國",
+      "德國",
+      "中國"
     ],
     "options_en": [
-      "Fantasy & Supernatural",
-      "Genre B",
-      "Genre C",
-      "Genre A"
+      "France",
+      "South Korea",
+      "Germany",
+      "China"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「幻想與超自然類」。",
-    "explanation_en": "The correct answer is 'Fantasy & Supernatural'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 63,
-    "question_zh": "《武動乾坤》屬於邊種類型？",
-    "question_en": "What genre is 'Martial Universe'?",
+    "question_zh": "《武動乾坤》係邊國作品？",
+    "question_en": "Which country is 'Martial Universe' from?",
     "options_zh": [
-      "其他類型B",
-      "其他類型A",
-      "其他類型C",
-      "幻想與超自然類"
+      "中國",
+      "韓國",
+      "法國",
+      "德國"
     ],
     "options_en": [
-      "Genre B",
-      "Genre A",
-      "Genre C",
-      "Fantasy & Supernatural"
+      "China",
+      "South Korea",
+      "France",
+      "Germany"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「幻想與超自然類」。",
-    "explanation_en": "The correct answer is 'Fantasy & Supernatural'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
@@ -1328,19 +1328,19 @@
     "question_en": "What is 'Martial Universe' mainly about?",
     "options_zh": [
       "體育競技",
-      "奇幻冒險同超自然元素",
+      "財經商戰",
       "科幻太空",
-      "財經商戰"
+      "奇幻冒險同超自然元素"
     ],
     "options_en": [
       "Sports",
-      "Fantasy adventure and supernatural elements",
-      "Sci-fi space",
-      "Business"
+      "Business",
+      "Sci-fi",
+      "Fantasy adventure"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「奇幻冒險同超自然元素」。",
-    "explanation_en": "The correct answer is 'Fantasy adventure and supernatural elements'.",
+    "explanation_en": "The correct answer is 'Fantasy adventure'.",
     "difficulty": 2
   },
   {
@@ -1348,20 +1348,20 @@
     "question_zh": "《武動乾坤》主要講咩？",
     "question_en": "What is 'Martial Universe' mainly about?",
     "options_zh": [
-      "奇幻冒險同超自然元素",
       "體育競技",
-      "科幻太空",
-      "財經商戰"
+      "奇幻冒險同超自然元素",
+      "財經商戰",
+      "科幻太空"
     ],
     "options_en": [
-      "Fantasy adventure and supernatural elements",
       "Sports",
-      "Sci-fi space",
-      "Business"
+      "Fantasy adventure",
+      "Business",
+      "Sci-fi"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「奇幻冒險同超自然元素」。",
-    "explanation_en": "The correct answer is 'Fantasy adventure and supernatural elements'.",
+    "explanation_en": "The correct answer is 'Fantasy adventure'.",
     "difficulty": 3
   },
   {
@@ -1369,20 +1369,20 @@
     "question_zh": "《武動乾坤》主要講咩？",
     "question_en": "What is 'Martial Universe' mainly about?",
     "options_zh": [
+      "財經商戰",
       "奇幻冒險同超自然元素",
-      "體育競技",
       "科幻太空",
-      "財經商戰"
+      "體育競技"
     ],
     "options_en": [
-      "Fantasy adventure and supernatural elements",
-      "Sports",
-      "Sci-fi space",
-      "Business"
+      "Business",
+      "Fantasy adventure",
+      "Sci-fi",
+      "Sports"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「奇幻冒險同超自然元素」。",
-    "explanation_en": "The correct answer is 'Fantasy adventure and supernatural elements'.",
+    "explanation_en": "The correct answer is 'Fantasy adventure'.",
     "difficulty": 1
   },
   {
@@ -1390,20 +1390,20 @@
     "question_zh": "《武動乾坤》入面有咩角色？",
     "question_en": "What characters are in 'Martial Universe'?",
     "options_zh": [
-      "主要角色",
-      "機械人",
       "外星人",
-      "動物"
+      "修仙者/魔法師",
+      "動物",
+      "機械人"
     ],
     "options_en": [
-      "Main characters",
-      "Robots",
       "Aliens",
-      "Animals"
+      "Cultivators/Wizards",
+      "Animals",
+      "Robots"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「修仙者/魔法師」。",
+    "explanation_en": "The correct answer is 'Cultivators/Wizards'.",
     "difficulty": 2
   },
   {
@@ -1411,20 +1411,20 @@
     "question_zh": "《武動乾坤》入面有咩角色？",
     "question_en": "What characters are in 'Martial Universe'?",
     "options_zh": [
-      "主要角色",
-      "動物",
+      "修仙者/魔法師",
+      "機械人",
       "外星人",
-      "機械人"
+      "動物"
     ],
     "options_en": [
-      "Main characters",
-      "Animals",
+      "Cultivators/Wizards",
+      "Robots",
       "Aliens",
-      "Robots"
+      "Animals"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "explanation_zh": "正確答案係「修仙者/魔法師」。",
+    "explanation_en": "The correct answer is 'Cultivators/Wizards'.",
     "difficulty": 3
   },
   {
@@ -1432,20 +1432,20 @@
     "question_zh": "《武動乾坤》入面有咩角色？",
     "question_en": "What characters are in 'Martial Universe'?",
     "options_zh": [
-      "外星人",
-      "動物",
       "機械人",
-      "主要角色"
+      "外星人",
+      "修仙者/魔法師",
+      "動物"
     ],
     "options_en": [
-      "Aliens",
-      "Animals",
       "Robots",
-      "Main characters"
+      "Aliens",
+      "Cultivators/Wizards",
+      "Animals"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「修仙者/魔法師」。",
+    "explanation_en": "The correct answer is 'Cultivators/Wizards'.",
     "difficulty": 1
   },
   {
@@ -1453,20 +1453,20 @@
     "question_zh": "《武動乾坤》嘅故事背景喺邊度？",
     "question_en": "Where is 'Martial Universe' set?",
     "options_zh": [
-      "未來太空",
-      "中國/亞洲",
       "虛擬世界",
+      "虛構世界",
+      "未來太空",
       "歐洲中世紀"
     ],
     "options_en": [
-      "Future space",
-      "China/Asia",
       "Virtual world",
+      "Fictional world",
+      "Future space",
       "Medieval Europe"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
+    "explanation_zh": "正確答案係「虛構世界」。",
+    "explanation_en": "The correct answer is 'Fictional world'.",
     "difficulty": 2
   },
   {
@@ -1474,20 +1474,20 @@
     "question_zh": "《武動乾坤》嘅故事背景喺邊度？",
     "question_en": "Where is 'Martial Universe' set?",
     "options_zh": [
-      "未來太空",
-      "中國/亞洲",
       "虛擬世界",
-      "歐洲中世紀"
+      "未來太空",
+      "歐洲中世紀",
+      "虛構世界"
     ],
     "options_en": [
-      "Future space",
-      "China/Asia",
       "Virtual world",
-      "Medieval Europe"
+      "Future space",
+      "Medieval Europe",
+      "Fictional world"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「虛構世界」。",
+    "explanation_en": "The correct answer is 'Fictional world'.",
     "difficulty": 3
   },
   {
@@ -1495,20 +1495,20 @@
     "question_zh": "《武動乾坤》嘅故事背景喺邊度？",
     "question_en": "Where is 'Martial Universe' set?",
     "options_zh": [
-      "中國/亞洲",
-      "未來太空",
+      "虛構世界",
       "歐洲中世紀",
-      "虛擬世界"
+      "虛擬世界",
+      "未來太空"
     ],
     "options_en": [
-      "China/Asia",
-      "Future space",
+      "Fictional world",
       "Medieval Europe",
-      "Virtual world"
+      "Virtual world",
+      "Future space"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
+    "explanation_zh": "正確答案係「虛構世界」。",
+    "explanation_en": "The correct answer is 'Fictional world'.",
     "difficulty": 1
   },
   {
@@ -1516,18 +1516,18 @@
     "question_zh": "《武動乾坤》係咪好受歡迎？",
     "question_en": "Is 'Martial Universe' popular?",
     "options_zh": [
+      "已經過氣",
       "係，非常受歡迎",
       "唔係，好冷門",
-      "只喺特定地區流行",
-      "已經過氣"
+      "只喺特定地區流行"
     ],
     "options_en": [
+      "Outdated",
       "Yes, very popular",
       "No, very niche",
-      "Only popular locally",
-      "Outdated"
+      "Only popular locally"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 2
@@ -1537,41 +1537,41 @@
     "question_zh": "《武動乾坤》係咪好受歡迎？",
     "question_en": "Is 'Martial Universe' popular?",
     "options_zh": [
-      "只喺特定地區流行",
       "係，非常受歡迎",
       "已經過氣",
+      "只喺特定地區流行",
       "唔係，好冷門"
     ],
     "options_en": [
-      "Only popular locally",
       "Yes, very popular",
       "Outdated",
+      "Only popular locally",
       "No, very niche"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
     "id": 75,
-    "question_zh": "《武動乾坤》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Martial Universe' belong to?",
+    "question_zh": "《武動乾坤》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Martial Universe'?",
     "options_zh": [
-      "科幻小說",
-      "恐怖小說",
-      "幻想與超自然類",
-      "兒童文學"
+      "德國人",
+      "法國人",
+      "韓國人",
+      "中國人"
     ],
     "options_en": [
-      "Sci-fi",
-      "Horror",
-      "Fantasy & Supernatural",
-      "Children's literature"
+      "German",
+      "French",
+      "Korean",
+      "Chinese"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「幻想與超自然類」。",
-    "explanation_en": "The correct answer is 'Fantasy & Supernatural'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 1
   },
   {
@@ -1601,44 +1601,23 @@
     "question_en": "Which one is 'Martial Universe'?",
     "options_zh": [
       "其他小說A",
-      "武動乾坤",
       "其他小說B",
+      "武動乾坤",
       "其他小說C"
     ],
     "options_en": [
       "Other Novel A",
-      "Martial Universe",
       "Other Novel B",
+      "Martial Universe",
       "Other Novel C"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「武動乾坤」。",
     "explanation_en": "The correct answer is 'Martial Universe'.",
     "difficulty": 3
   },
   {
     "id": 78,
-    "question_zh": "以下邊本係《武動乾坤》？",
-    "question_en": "Which one is 'Martial Universe'?",
-    "options_zh": [
-      "其他小說B",
-      "其他小說A",
-      "其他小說C",
-      "武動乾坤"
-    ],
-    "options_en": [
-      "Other Novel B",
-      "Other Novel A",
-      "Other Novel C",
-      "Martial Universe"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「武動乾坤」。",
-    "explanation_en": "The correct answer is 'Martial Universe'.",
-    "difficulty": 1
-  },
-  {
-    "id": 79,
     "question_zh": "以下邊本係《武動乾坤》？",
     "question_en": "Which one is 'Martial Universe'?",
     "options_zh": [
@@ -1656,6 +1635,27 @@
     "answer": 1,
     "explanation_zh": "正確答案係「武動乾坤」。",
     "explanation_en": "The correct answer is 'Martial Universe'.",
+    "difficulty": 1
+  },
+  {
+    "id": 79,
+    "question_zh": "以下邊本係《武動乾坤》？",
+    "question_en": "Which one is 'Martial Universe'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說C",
+      "武動乾坤",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel C",
+      "Martial Universe",
+      "Other Novel B"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「武動乾坤」。",
+    "explanation_en": "The correct answer is 'Martial Universe'.",
     "difficulty": 2
   },
   {
@@ -1663,18 +1663,18 @@
     "question_zh": "《武動乾坤》嘅作者係邊個？",
     "question_en": "Who wrote 'Martial Universe'?",
     "options_zh": [
-      "天蠶土豆",
       "其他作者A",
+      "其他作者B",
       "其他作者C",
-      "其他作者B"
+      "天蠶土豆"
     ],
     "options_en": [
-      "Heavenly Silkworm Potato",
       "Author A",
+      "Author B",
       "Author C",
-      "Author B"
+      "Heavenly Silkworm Potato"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「天蠶土豆」。",
     "explanation_en": "The correct answer is 'Heavenly Silkworm Potato'.",
     "difficulty": 3
@@ -1684,18 +1684,18 @@
     "question_zh": "《武動乾坤》嘅作者係邊個？",
     "question_en": "Who wrote 'Martial Universe'?",
     "options_zh": [
-      "天蠶土豆",
       "其他作者C",
-      "其他作者B",
-      "其他作者A"
+      "其他作者A",
+      "天蠶土豆",
+      "其他作者B"
     ],
     "options_en": [
-      "Heavenly Silkworm Potato",
       "Author C",
-      "Author B",
-      "Author A"
+      "Author A",
+      "Heavenly Silkworm Potato",
+      "Author B"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「天蠶土豆」。",
     "explanation_en": "The correct answer is 'Heavenly Silkworm Potato'.",
     "difficulty": 1
@@ -1705,18 +1705,18 @@
     "question_zh": "《武動乾坤》嘅作者係邊個？",
     "question_en": "Who wrote 'Martial Universe'?",
     "options_zh": [
-      "其他作者C",
-      "其他作者A",
       "其他作者B",
-      "天蠶土豆"
+      "天蠶土豆",
+      "其他作者A",
+      "其他作者C"
     ],
     "options_en": [
-      "Author C",
-      "Author A",
       "Author B",
-      "Heavenly Silkworm Potato"
+      "Heavenly Silkworm Potato",
+      "Author A",
+      "Author C"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「天蠶土豆」。",
     "explanation_en": "The correct answer is 'Heavenly Silkworm Potato'.",
     "difficulty": 2
@@ -1726,18 +1726,18 @@
     "question_zh": "《武動乾坤》係邊年出版嘅？",
     "question_en": "What year was 'Martial Universe' published?",
     "options_zh": [
-      "2006年",
-      "2009年",
+      "2011年",
       "2016年",
-      "2011年"
+      "2009年",
+      "2014年"
     ],
     "options_en": [
-      "2006",
-      "2009",
+      "2011",
       "2016",
-      "2011"
+      "2009",
+      "2014"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「2011年」。",
     "explanation_en": "The correct answer is '2011'.",
     "difficulty": 3
@@ -1749,13 +1749,13 @@
     "options_zh": [
       "2009年",
       "2011年",
-      "2008年",
+      "2014年",
       "2006年"
     ],
     "options_en": [
       "2009",
       "2011",
-      "2008",
+      "2014",
       "2006"
     ],
     "answer": 1,
@@ -1768,83 +1768,83 @@
     "question_zh": "《武動乾坤》係邊年出版嘅？",
     "question_en": "What year was 'Martial Universe' published?",
     "options_zh": [
+      "2006年",
       "2008年",
-      "2013年",
-      "2011年",
-      "2009年"
+      "2016年",
+      "2011年"
     ],
     "options_en": [
+      "2006",
       "2008",
-      "2013",
-      "2011",
-      "2009"
+      "2016",
+      "2011"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「2011年」。",
     "explanation_en": "The correct answer is '2011'.",
     "difficulty": 2
   },
   {
     "id": 86,
-    "question_zh": "《武動乾坤》屬於邊種類型？",
-    "question_en": "What genre is 'Martial Universe'?",
+    "question_zh": "《武動乾坤》係邊國作品？",
+    "question_en": "Which country is 'Martial Universe' from?",
     "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "幻想與超自然類",
-      "其他類型B"
+      "法國",
+      "德國",
+      "中國",
+      "韓國"
     ],
     "options_en": [
-      "Genre C",
-      "Genre A",
-      "Fantasy & Supernatural",
-      "Genre B"
+      "France",
+      "Germany",
+      "China",
+      "South Korea"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「幻想與超自然類」。",
-    "explanation_en": "The correct answer is 'Fantasy & Supernatural'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 87,
-    "question_zh": "《武動乾坤》屬於邊種類型？",
-    "question_en": "What genre is 'Martial Universe'?",
+    "question_zh": "《武動乾坤》係邊國作品？",
+    "question_en": "Which country is 'Martial Universe' from?",
     "options_zh": [
-      "其他類型B",
-      "幻想與超自然類",
-      "其他類型C",
-      "其他類型A"
+      "德國",
+      "中國",
+      "韓國",
+      "法國"
     ],
     "options_en": [
-      "Genre B",
-      "Fantasy & Supernatural",
-      "Genre C",
-      "Genre A"
+      "Germany",
+      "China",
+      "South Korea",
+      "France"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「幻想與超自然類」。",
-    "explanation_en": "The correct answer is 'Fantasy & Supernatural'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 88,
-    "question_zh": "《武動乾坤》屬於邊種類型？",
-    "question_en": "What genre is 'Martial Universe'?",
+    "question_zh": "《武動乾坤》係邊國作品？",
+    "question_en": "Which country is 'Martial Universe' from?",
     "options_zh": [
-      "幻想與超自然類",
-      "其他類型A",
-      "其他類型C",
-      "其他類型B"
+      "法國",
+      "中國",
+      "韓國",
+      "德國"
     ],
     "options_en": [
-      "Fantasy & Supernatural",
-      "Genre A",
-      "Genre C",
-      "Genre B"
+      "France",
+      "China",
+      "South Korea",
+      "Germany"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「幻想與超自然類」。",
-    "explanation_en": "The correct answer is 'Fantasy & Supernatural'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
@@ -1853,19 +1853,19 @@
     "question_en": "What is 'Martial Universe' mainly about?",
     "options_zh": [
       "科幻太空",
-      "體育競技",
       "奇幻冒險同超自然元素",
-      "財經商戰"
+      "財經商戰",
+      "體育競技"
     ],
     "options_en": [
-      "Sci-fi space",
-      "Sports",
-      "Fantasy adventure and supernatural elements",
-      "Business"
+      "Sci-fi",
+      "Fantasy adventure",
+      "Business",
+      "Sports"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「奇幻冒險同超自然元素」。",
-    "explanation_en": "The correct answer is 'Fantasy adventure and supernatural elements'.",
+    "explanation_en": "The correct answer is 'Fantasy adventure'.",
     "difficulty": 3
   },
   {
@@ -1873,20 +1873,20 @@
     "question_zh": "《武動乾坤》主要講咩？",
     "question_en": "What is 'Martial Universe' mainly about?",
     "options_zh": [
-      "體育競技",
-      "奇幻冒險同超自然元素",
+      "科幻太空",
       "財經商戰",
-      "科幻太空"
+      "奇幻冒險同超自然元素",
+      "體育競技"
     ],
     "options_en": [
-      "Sports",
-      "Fantasy adventure and supernatural elements",
+      "Sci-fi",
       "Business",
-      "Sci-fi space"
+      "Fantasy adventure",
+      "Sports"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「奇幻冒險同超自然元素」。",
-    "explanation_en": "The correct answer is 'Fantasy adventure and supernatural elements'.",
+    "explanation_en": "The correct answer is 'Fantasy adventure'.",
     "difficulty": 1
   },
   {
@@ -1894,20 +1894,20 @@
     "question_zh": "《武動乾坤》主要講咩？",
     "question_en": "What is 'Martial Universe' mainly about?",
     "options_zh": [
+      "體育競技",
       "科幻太空",
       "奇幻冒險同超自然元素",
-      "體育競技",
       "財經商戰"
     ],
     "options_en": [
-      "Sci-fi space",
-      "Fantasy adventure and supernatural elements",
       "Sports",
+      "Sci-fi",
+      "Fantasy adventure",
       "Business"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「奇幻冒險同超自然元素」。",
-    "explanation_en": "The correct answer is 'Fantasy adventure and supernatural elements'.",
+    "explanation_en": "The correct answer is 'Fantasy adventure'.",
     "difficulty": 2
   },
   {
@@ -1915,20 +1915,20 @@
     "question_zh": "《武動乾坤》入面有咩角色？",
     "question_en": "What characters are in 'Martial Universe'?",
     "options_zh": [
-      "外星人",
       "機械人",
-      "主要角色",
-      "動物"
+      "修仙者/魔法師",
+      "動物",
+      "外星人"
     ],
     "options_en": [
-      "Aliens",
       "Robots",
-      "Main characters",
-      "Animals"
+      "Cultivators/Wizards",
+      "Animals",
+      "Aliens"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「修仙者/魔法師」。",
+    "explanation_en": "The correct answer is 'Cultivators/Wizards'.",
     "difficulty": 3
   },
   {
@@ -1936,20 +1936,20 @@
     "question_zh": "《武動乾坤》入面有咩角色？",
     "question_en": "What characters are in 'Martial Universe'?",
     "options_zh": [
+      "外星人",
       "機械人",
-      "主要角色",
       "動物",
-      "外星人"
+      "修仙者/魔法師"
     ],
     "options_en": [
+      "Aliens",
       "Robots",
-      "Main characters",
       "Animals",
-      "Aliens"
+      "Cultivators/Wizards"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「修仙者/魔法師」。",
+    "explanation_en": "The correct answer is 'Cultivators/Wizards'.",
     "difficulty": 1
   },
   {
@@ -1957,20 +1957,20 @@
     "question_zh": "《武動乾坤》入面有咩角色？",
     "question_en": "What characters are in 'Martial Universe'?",
     "options_zh": [
+      "機械人",
       "外星人",
-      "動物",
-      "主要角色",
-      "機械人"
+      "修仙者/魔法師",
+      "動物"
     ],
     "options_en": [
+      "Robots",
       "Aliens",
-      "Animals",
-      "Main characters",
-      "Robots"
+      "Cultivators/Wizards",
+      "Animals"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "explanation_zh": "正確答案係「修仙者/魔法師」。",
+    "explanation_en": "The correct answer is 'Cultivators/Wizards'.",
     "difficulty": 2
   },
   {
@@ -1978,20 +1978,20 @@
     "question_zh": "《武動乾坤》嘅故事背景喺邊度？",
     "question_en": "Where is 'Martial Universe' set?",
     "options_zh": [
-      "中國/亞洲",
+      "未來太空",
       "歐洲中世紀",
-      "虛擬世界",
-      "未來太空"
+      "虛構世界",
+      "虛擬世界"
     ],
     "options_en": [
-      "China/Asia",
+      "Future space",
       "Medieval Europe",
-      "Virtual world",
-      "Future space"
+      "Fictional world",
+      "Virtual world"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「虛構世界」。",
+    "explanation_en": "The correct answer is 'Fictional world'.",
     "difficulty": 3
   },
   {
@@ -1999,20 +1999,20 @@
     "question_zh": "《武動乾坤》嘅故事背景喺邊度？",
     "question_en": "Where is 'Martial Universe' set?",
     "options_zh": [
-      "歐洲中世紀",
-      "中國/亞洲",
+      "虛擬世界",
       "未來太空",
-      "虛擬世界"
+      "歐洲中世紀",
+      "虛構世界"
     ],
     "options_en": [
-      "Medieval Europe",
-      "China/Asia",
+      "Virtual world",
       "Future space",
-      "Virtual world"
+      "Medieval Europe",
+      "Fictional world"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「虛構世界」。",
+    "explanation_en": "The correct answer is 'Fictional world'.",
     "difficulty": 1
   },
   {
@@ -2020,20 +2020,20 @@
     "question_zh": "《武動乾坤》嘅故事背景喺邊度？",
     "question_en": "Where is 'Martial Universe' set?",
     "options_zh": [
-      "中國/亞洲",
+      "虛構世界",
       "未來太空",
       "虛擬世界",
       "歐洲中世紀"
     ],
     "options_en": [
-      "China/Asia",
+      "Fictional world",
       "Future space",
       "Virtual world",
       "Medieval Europe"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
+    "explanation_zh": "正確答案係「虛構世界」。",
+    "explanation_en": "The correct answer is 'Fictional world'.",
     "difficulty": 2
   },
   {
@@ -2041,18 +2041,18 @@
     "question_zh": "《武動乾坤》係咪好受歡迎？",
     "question_en": "Is 'Martial Universe' popular?",
     "options_zh": [
-      "唔係，好冷門",
-      "只喺特定地區流行",
+      "已經過氣",
       "係，非常受歡迎",
-      "已經過氣"
+      "唔係，好冷門",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "No, very niche",
-      "Only popular locally",
+      "Outdated",
       "Yes, very popular",
-      "Outdated"
+      "No, very niche",
+      "Only popular locally"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -2080,23 +2080,23 @@
   },
   {
     "id": 100,
-    "question_zh": "《武動乾坤》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Martial Universe' belong to?",
+    "question_zh": "《武動乾坤》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Martial Universe'?",
     "options_zh": [
-      "幻想與超自然類",
-      "科幻小說",
-      "恐怖小說",
-      "兒童文學"
+      "韓國人",
+      "中國人",
+      "法國人",
+      "德國人"
     ],
     "options_en": [
-      "Fantasy & Supernatural",
-      "Sci-fi",
-      "Horror",
-      "Children's literature"
+      "Korean",
+      "Chinese",
+      "French",
+      "German"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「幻想與超自然類」。",
-    "explanation_en": "The correct answer is 'Fantasy & Supernatural'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
   }
 ]

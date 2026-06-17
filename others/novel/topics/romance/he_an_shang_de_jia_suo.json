@@ -4,27 +4,6 @@
     "question_zh": "以下邊本係《何以笙簫默》？",
     "question_en": "Which one is 'Silent Separation'?",
     "options_zh": [
-      "何以笙簫默",
-      "其他小說A",
-      "其他小說C",
-      "其他小說B"
-    ],
-    "options_en": [
-      "Silent Separation",
-      "Other Novel A",
-      "Other Novel C",
-      "Other Novel B"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「何以笙簫默」。",
-    "explanation_en": "The correct answer is 'Silent Separation'.",
-    "difficulty": 2
-  },
-  {
-    "id": 2,
-    "question_zh": "以下邊本係《何以笙簫默》？",
-    "question_en": "Which one is 'Silent Separation'?",
-    "options_zh": [
       "其他小說C",
       "其他小說A",
       "何以笙簫默",
@@ -39,6 +18,27 @@
     "answer": 2,
     "explanation_zh": "正確答案係「何以笙簫默」。",
     "explanation_en": "The correct answer is 'Silent Separation'.",
+    "difficulty": 2
+  },
+  {
+    "id": 2,
+    "question_zh": "以下邊本係《何以笙簫默》？",
+    "question_en": "Which one is 'Silent Separation'?",
+    "options_zh": [
+      "何以笙簫默",
+      "其他小說C",
+      "其他小說A",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Silent Separation",
+      "Other Novel C",
+      "Other Novel A",
+      "Other Novel B"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「何以笙簫默」。",
+    "explanation_en": "The correct answer is 'Silent Separation'.",
     "difficulty": 3
   },
   {
@@ -46,18 +46,18 @@
     "question_zh": "以下邊本係《何以笙簫默》？",
     "question_en": "Which one is 'Silent Separation'?",
     "options_zh": [
-      "其他小說C",
       "何以笙簫默",
+      "其他小說A",
       "其他小說B",
-      "其他小說A"
+      "其他小說C"
     ],
     "options_en": [
-      "Other Novel C",
       "Silent Separation",
+      "Other Novel A",
       "Other Novel B",
-      "Other Novel A"
+      "Other Novel C"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「何以笙簫默」。",
     "explanation_en": "The correct answer is 'Silent Separation'.",
     "difficulty": 1
@@ -67,15 +67,15 @@
     "question_zh": "以下邊本係《何以笙簫默》？",
     "question_en": "Which one is 'Silent Separation'?",
     "options_zh": [
+      "其他小說B",
       "其他小說A",
       "其他小說C",
-      "其他小說B",
       "何以笙簫默"
     ],
     "options_en": [
+      "Other Novel B",
       "Other Novel A",
       "Other Novel C",
-      "Other Novel B",
       "Silent Separation"
     ],
     "answer": 3,
@@ -88,18 +88,18 @@
     "question_zh": "《何以笙簫默》嘅作者係邊個？",
     "question_en": "Who wrote 'Silent Separation'?",
     "options_zh": [
-      "顧漫",
-      "其他作者A",
       "其他作者B",
+      "其他作者A",
+      "顧漫",
       "其他作者C"
     ],
     "options_en": [
-      "Gu Man",
-      "Author A",
       "Author B",
+      "Author A",
+      "Gu Man",
       "Author C"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「顧漫」。",
     "explanation_en": "The correct answer is 'Gu Man'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "《何以笙簫默》嘅作者係邊個？",
     "question_en": "Who wrote 'Silent Separation'?",
     "options_zh": [
-      "顧漫",
+      "其他作者A",
       "其他作者B",
       "其他作者C",
-      "其他作者A"
+      "顧漫"
     ],
     "options_en": [
-      "Gu Man",
+      "Author A",
       "Author B",
       "Author C",
-      "Author A"
+      "Gu Man"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「顧漫」。",
     "explanation_en": "The correct answer is 'Gu Man'.",
     "difficulty": 1
@@ -130,18 +130,18 @@
     "question_zh": "《何以笙簫默》嘅作者係邊個？",
     "question_en": "Who wrote 'Silent Separation'?",
     "options_zh": [
-      "其他作者C",
       "其他作者B",
       "其他作者A",
-      "顧漫"
+      "顧漫",
+      "其他作者C"
     ],
     "options_en": [
-      "Author C",
       "Author B",
       "Author A",
-      "Gu Man"
+      "Gu Man",
+      "Author C"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「顧漫」。",
     "explanation_en": "The correct answer is 'Gu Man'.",
     "difficulty": 2
@@ -151,18 +151,18 @@
     "question_zh": "《何以笙簫默》係邊年出版嘅？",
     "question_en": "What year was 'Silent Separation' published?",
     "options_zh": [
+      "2006年",
       "2003年",
-      "2001年",
-      "2008年",
-      "1998年"
+      "1998年",
+      "2008年"
     ],
     "options_en": [
+      "2006",
       "2003",
-      "2001",
-      "2008",
-      "1998"
+      "1998",
+      "2008"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「2003年」。",
     "explanation_en": "The correct answer is '2003'.",
     "difficulty": 3
@@ -172,18 +172,18 @@
     "question_zh": "《何以笙簫默》係邊年出版嘅？",
     "question_en": "What year was 'Silent Separation' published?",
     "options_zh": [
-      "2006年",
-      "2001年",
       "2003年",
-      "2005年"
+      "2000年",
+      "1998年",
+      "2001年"
     ],
     "options_en": [
-      "2006",
-      "2001",
       "2003",
-      "2005"
+      "2000",
+      "1998",
+      "2001"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「2003年」。",
     "explanation_en": "The correct answer is '2003'.",
     "difficulty": 1
@@ -193,83 +193,83 @@
     "question_zh": "《何以笙簫默》係邊年出版嘅？",
     "question_en": "What year was 'Silent Separation' published?",
     "options_zh": [
+      "2008年",
+      "2006年",
       "2003年",
-      "2000年",
-      "1998年",
-      "2008年"
+      "2005年"
     ],
     "options_en": [
+      "2008",
+      "2006",
       "2003",
-      "2000",
-      "1998",
-      "2008"
+      "2005"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「2003年」。",
     "explanation_en": "The correct answer is '2003'.",
     "difficulty": 2
   },
   {
     "id": 11,
-    "question_zh": "《何以笙簫默》屬於邊種類型？",
-    "question_en": "What genre is 'Silent Separation'?",
+    "question_zh": "《何以笙簫默》係邊國作品？",
+    "question_en": "Which country is 'Silent Separation' from?",
     "options_zh": [
-      "其他類型B",
-      "情愛與關係類",
-      "其他類型A",
-      "其他類型C"
+      "韓國",
+      "德國",
+      "中國",
+      "法國"
     ],
     "options_en": [
-      "Genre B",
-      "Romance & Relationships",
-      "Genre A",
-      "Genre C"
+      "South Korea",
+      "Germany",
+      "China",
+      "France"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 12,
-    "question_zh": "《何以笙簫默》屬於邊種類型？",
-    "question_en": "What genre is 'Silent Separation'?",
+    "question_zh": "《何以笙簫默》係邊國作品？",
+    "question_en": "Which country is 'Silent Separation' from?",
     "options_zh": [
-      "情愛與關係類",
-      "其他類型A",
-      "其他類型B",
-      "其他類型C"
+      "法國",
+      "德國",
+      "韓國",
+      "中國"
     ],
     "options_en": [
-      "Romance & Relationships",
-      "Genre A",
-      "Genre B",
-      "Genre C"
+      "France",
+      "Germany",
+      "South Korea",
+      "China"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 13,
-    "question_zh": "《何以笙簫默》屬於邊種類型？",
-    "question_en": "What genre is 'Silent Separation'?",
+    "question_zh": "《何以笙簫默》係邊國作品？",
+    "question_en": "Which country is 'Silent Separation' from?",
     "options_zh": [
-      "其他類型B",
-      "情愛與關係類",
-      "其他類型A",
-      "其他類型C"
+      "韓國",
+      "法國",
+      "德國",
+      "中國"
     ],
     "options_en": [
-      "Genre B",
-      "Romance & Relationships",
-      "Genre A",
-      "Genre C"
+      "South Korea",
+      "France",
+      "Germany",
+      "China"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
@@ -277,20 +277,20 @@
     "question_zh": "《何以笙簫默》主要講咩？",
     "question_en": "What is 'Silent Separation' mainly about?",
     "options_zh": [
-      "愛情故事同人物關係",
       "體育競技",
+      "科幻太空",
       "財經商戰",
-      "科幻太空"
+      "愛情故事同人物關係"
     ],
     "options_en": [
-      "Love story and relationships",
       "Sports",
+      "Sci-fi",
       "Business",
-      "Sci-fi space"
+      "Love story"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
+    "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 3
   },
   {
@@ -298,20 +298,20 @@
     "question_zh": "《何以笙簫默》主要講咩？",
     "question_en": "What is 'Silent Separation' mainly about?",
     "options_zh": [
-      "財經商戰",
       "愛情故事同人物關係",
+      "財經商戰",
       "科幻太空",
       "體育競技"
     ],
     "options_en": [
+      "Love story",
       "Business",
-      "Love story and relationships",
-      "Sci-fi space",
+      "Sci-fi",
       "Sports"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
+    "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 1
   },
   {
@@ -319,20 +319,20 @@
     "question_zh": "《何以笙簫默》主要講咩？",
     "question_en": "What is 'Silent Separation' mainly about?",
     "options_zh": [
-      "體育競技",
       "科幻太空",
+      "財經商戰",
       "愛情故事同人物關係",
-      "財經商戰"
+      "體育競技"
     ],
     "options_en": [
-      "Sports",
-      "Sci-fi space",
-      "Love story and relationships",
-      "Business"
+      "Sci-fi",
+      "Business",
+      "Love story",
+      "Sports"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
+    "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 2
   },
   {
@@ -340,18 +340,18 @@
     "question_zh": "《何以笙簫默》入面有咩角色？",
     "question_en": "What characters are in 'Silent Separation'?",
     "options_zh": [
-      "機械人",
-      "動物",
       "主要角色",
-      "外星人"
+      "機械人",
+      "外星人",
+      "動物"
     ],
     "options_en": [
-      "Robots",
-      "Animals",
       "Main characters",
-      "Aliens"
+      "Robots",
+      "Aliens",
+      "Animals"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
@@ -361,18 +361,18 @@
     "question_zh": "《何以笙簫默》入面有咩角色？",
     "question_en": "What characters are in 'Silent Separation'?",
     "options_zh": [
-      "外星人",
-      "動物",
       "機械人",
-      "主要角色"
+      "主要角色",
+      "外星人",
+      "動物"
     ],
     "options_en": [
-      "Aliens",
-      "Animals",
       "Robots",
-      "Main characters"
+      "Main characters",
+      "Aliens",
+      "Animals"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 1
@@ -383,15 +383,15 @@
     "question_en": "What characters are in 'Silent Separation'?",
     "options_zh": [
       "動物",
-      "機械人",
+      "外星人",
       "主要角色",
-      "外星人"
+      "機械人"
     ],
     "options_en": [
       "Animals",
-      "Robots",
+      "Aliens",
       "Main characters",
-      "Aliens"
+      "Robots"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「主要角色」。",
@@ -403,18 +403,18 @@
     "question_zh": "《何以笙簫默》嘅故事背景喺邊度？",
     "question_en": "Where is 'Silent Separation' set?",
     "options_zh": [
-      "未來太空",
       "中國/亞洲",
-      "歐洲中世紀",
-      "虛擬世界"
+      "虛擬世界",
+      "未來太空",
+      "歐洲中世紀"
     ],
     "options_en": [
-      "Future space",
       "China/Asia",
-      "Medieval Europe",
-      "Virtual world"
+      "Virtual world",
+      "Future space",
+      "Medieval Europe"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
@@ -424,27 +424,6 @@
     "question_zh": "《何以笙簫默》嘅故事背景喺邊度？",
     "question_en": "Where is 'Silent Separation' set?",
     "options_zh": [
-      "虛擬世界",
-      "歐洲中世紀",
-      "未來太空",
-      "中國/亞洲"
-    ],
-    "options_en": [
-      "Virtual world",
-      "Medieval Europe",
-      "Future space",
-      "China/Asia"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 1
-  },
-  {
-    "id": 22,
-    "question_zh": "《何以笙簫默》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Silent Separation' set?",
-    "options_zh": [
       "中國/亞洲",
       "歐洲中世紀",
       "未來太空",
@@ -459,6 +438,27 @@
     "answer": 0,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question_zh": "《何以笙簫默》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Silent Separation' set?",
+    "options_zh": [
+      "未來太空",
+      "虛擬世界",
+      "歐洲中世紀",
+      "中國/亞洲"
+    ],
+    "options_en": [
+      "Future space",
+      "Virtual world",
+      "Medieval Europe",
+      "China/Asia"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 2
   },
   {
@@ -466,18 +466,18 @@
     "question_zh": "《何以笙簫默》係咪好受歡迎？",
     "question_en": "Is 'Silent Separation' popular?",
     "options_zh": [
-      "只喺特定地區流行",
       "係，非常受歡迎",
       "唔係，好冷門",
-      "已經過氣"
+      "已經過氣",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "Only popular locally",
       "Yes, very popular",
       "No, very niche",
-      "Outdated"
+      "Outdated",
+      "Only popular locally"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -487,41 +487,41 @@
     "question_zh": "《何以笙簫默》係咪好受歡迎？",
     "question_en": "Is 'Silent Separation' popular?",
     "options_zh": [
-      "係，非常受歡迎",
       "只喺特定地區流行",
       "已經過氣",
-      "唔係，好冷門"
+      "唔係，好冷門",
+      "係，非常受歡迎"
     ],
     "options_en": [
-      "Yes, very popular",
       "Only popular locally",
       "Outdated",
-      "No, very niche"
+      "No, very niche",
+      "Yes, very popular"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 1
   },
   {
     "id": 25,
-    "question_zh": "《何以笙簫默》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Silent Separation' belong to?",
+    "question_zh": "《何以笙簫默》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Silent Separation'?",
     "options_zh": [
-      "恐怖小說",
-      "兒童文學",
-      "科幻小說",
-      "情愛與關係類"
+      "韓國人",
+      "法國人",
+      "德國人",
+      "中國人"
     ],
     "options_en": [
-      "Horror",
-      "Children's literature",
-      "Sci-fi",
-      "Romance & Relationships"
+      "Korean",
+      "French",
+      "German",
+      "Chinese"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
   },
   {
@@ -530,15 +530,15 @@
     "question_en": "Which one is 'Silent Separation'?",
     "options_zh": [
       "何以笙簫默",
+      "其他小說B",
       "其他小說C",
-      "其他小說A",
-      "其他小說B"
+      "其他小說A"
     ],
     "options_en": [
       "Silent Separation",
+      "Other Novel B",
       "Other Novel C",
-      "Other Novel A",
-      "Other Novel B"
+      "Other Novel A"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「何以笙簫默」。",
@@ -571,18 +571,18 @@
     "question_zh": "以下邊本係《何以笙簫默》？",
     "question_en": "Which one is 'Silent Separation'?",
     "options_zh": [
-      "其他小說A",
-      "何以笙簫默",
       "其他小說C",
-      "其他小說B"
+      "其他小說B",
+      "其他小說A",
+      "何以笙簫默"
     ],
     "options_en": [
-      "Other Novel A",
-      "Silent Separation",
       "Other Novel C",
-      "Other Novel B"
+      "Other Novel B",
+      "Other Novel A",
+      "Silent Separation"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「何以笙簫默」。",
     "explanation_en": "The correct answer is 'Silent Separation'.",
     "difficulty": 2
@@ -592,18 +592,18 @@
     "question_zh": "以下邊本係《何以笙簫默》？",
     "question_en": "Which one is 'Silent Separation'?",
     "options_zh": [
-      "其他小說A",
       "其他小說B",
-      "何以笙簫默",
-      "其他小說C"
+      "其他小說A",
+      "其他小說C",
+      "何以笙簫默"
     ],
     "options_en": [
-      "Other Novel A",
       "Other Novel B",
-      "Silent Separation",
-      "Other Novel C"
+      "Other Novel A",
+      "Other Novel C",
+      "Silent Separation"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「何以笙簫默」。",
     "explanation_en": "The correct answer is 'Silent Separation'.",
     "difficulty": 3
@@ -613,18 +613,18 @@
     "question_zh": "《何以笙簫默》嘅作者係邊個？",
     "question_en": "Who wrote 'Silent Separation'?",
     "options_zh": [
-      "其他作者C",
-      "顧漫",
+      "其他作者A",
       "其他作者B",
-      "其他作者A"
+      "其他作者C",
+      "顧漫"
     ],
     "options_en": [
-      "Author C",
-      "Gu Man",
+      "Author A",
       "Author B",
-      "Author A"
+      "Author C",
+      "Gu Man"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「顧漫」。",
     "explanation_en": "The correct answer is 'Gu Man'.",
     "difficulty": 1
@@ -634,18 +634,18 @@
     "question_zh": "《何以笙簫默》嘅作者係邊個？",
     "question_en": "Who wrote 'Silent Separation'?",
     "options_zh": [
-      "顧漫",
-      "其他作者B",
+      "其他作者C",
       "其他作者A",
-      "其他作者C"
+      "其他作者B",
+      "顧漫"
     ],
     "options_en": [
-      "Gu Man",
-      "Author B",
+      "Author C",
       "Author A",
-      "Author C"
+      "Author B",
+      "Gu Man"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「顧漫」。",
     "explanation_en": "The correct answer is 'Gu Man'.",
     "difficulty": 2
@@ -655,15 +655,15 @@
     "question_zh": "《何以笙簫默》嘅作者係邊個？",
     "question_en": "Who wrote 'Silent Separation'?",
     "options_zh": [
+      "其他作者A",
       "其他作者B",
       "其他作者C",
-      "其他作者A",
       "顧漫"
     ],
     "options_en": [
+      "Author A",
       "Author B",
       "Author C",
-      "Author A",
       "Gu Man"
     ],
     "answer": 3,
@@ -676,18 +676,18 @@
     "question_zh": "《何以笙簫默》係邊年出版嘅？",
     "question_en": "What year was 'Silent Separation' published?",
     "options_zh": [
-      "2000年",
-      "2008年",
+      "2003年",
+      "2005年",
       "2001年",
-      "2003年"
+      "2006年"
     ],
     "options_en": [
-      "2000",
-      "2008",
+      "2003",
+      "2005",
       "2001",
-      "2003"
+      "2006"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「2003年」。",
     "explanation_en": "The correct answer is '2003'.",
     "difficulty": 1
@@ -697,18 +697,18 @@
     "question_zh": "《何以笙簫默》係邊年出版嘅？",
     "question_en": "What year was 'Silent Separation' published?",
     "options_zh": [
-      "2008年",
       "2003年",
       "2001年",
-      "2005年"
+      "1998年",
+      "2000年"
     ],
     "options_en": [
-      "2008",
       "2003",
       "2001",
-      "2005"
+      "1998",
+      "2000"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「2003年」。",
     "explanation_en": "The correct answer is '2003'.",
     "difficulty": 2
@@ -718,13 +718,13 @@
     "question_zh": "《何以笙簫默》係邊年出版嘅？",
     "question_en": "What year was 'Silent Separation' published?",
     "options_zh": [
-      "2000年",
+      "2008年",
       "2001年",
       "2005年",
       "2003年"
     ],
     "options_en": [
-      "2000",
+      "2008",
       "2001",
       "2005",
       "2003"
@@ -736,111 +736,69 @@
   },
   {
     "id": 36,
-    "question_zh": "《何以笙簫默》屬於邊種類型？",
-    "question_en": "What genre is 'Silent Separation'?",
+    "question_zh": "《何以笙簫默》係邊國作品？",
+    "question_en": "Which country is 'Silent Separation' from?",
     "options_zh": [
-      "其他類型A",
-      "其他類型B",
-      "情愛與關係類",
-      "其他類型C"
+      "韓國",
+      "德國",
+      "中國",
+      "法國"
     ],
     "options_en": [
-      "Genre A",
-      "Genre B",
-      "Romance & Relationships",
-      "Genre C"
+      "South Korea",
+      "Germany",
+      "China",
+      "France"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 37,
-    "question_zh": "《何以笙簫默》屬於邊種類型？",
-    "question_en": "What genre is 'Silent Separation'?",
+    "question_zh": "《何以笙簫默》係邊國作品？",
+    "question_en": "Which country is 'Silent Separation' from?",
     "options_zh": [
-      "其他類型B",
-      "其他類型A",
-      "情愛與關係類",
-      "其他類型C"
+      "法國",
+      "德國",
+      "韓國",
+      "中國"
     ],
     "options_en": [
-      "Genre B",
-      "Genre A",
-      "Romance & Relationships",
-      "Genre C"
+      "France",
+      "Germany",
+      "South Korea",
+      "China"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
     "id": 38,
-    "question_zh": "《何以笙簫默》屬於邊種類型？",
-    "question_en": "What genre is 'Silent Separation'?",
+    "question_zh": "《何以笙簫默》係邊國作品？",
+    "question_en": "Which country is 'Silent Separation' from?",
     "options_zh": [
-      "其他類型C",
-      "情愛與關係類",
-      "其他類型A",
-      "其他類型B"
+      "中國",
+      "法國",
+      "德國",
+      "韓國"
     ],
     "options_en": [
-      "Genre C",
-      "Romance & Relationships",
-      "Genre A",
-      "Genre B"
+      "China",
+      "France",
+      "Germany",
+      "South Korea"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 39,
-    "question_zh": "《何以笙簫默》主要講咩？",
-    "question_en": "What is 'Silent Separation' mainly about?",
-    "options_zh": [
-      "愛情故事同人物關係",
-      "財經商戰",
-      "體育競技",
-      "科幻太空"
-    ],
-    "options_en": [
-      "Love story and relationships",
-      "Business",
-      "Sports",
-      "Sci-fi space"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
-    "difficulty": 1
-  },
-  {
-    "id": 40,
-    "question_zh": "《何以笙簫默》主要講咩？",
-    "question_en": "What is 'Silent Separation' mainly about?",
-    "options_zh": [
-      "科幻太空",
-      "體育競技",
-      "財經商戰",
-      "愛情故事同人物關係"
-    ],
-    "options_en": [
-      "Sci-fi space",
-      "Sports",
-      "Business",
-      "Love story and relationships"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
-    "difficulty": 2
-  },
-  {
-    "id": 41,
     "question_zh": "《何以笙簫默》主要講咩？",
     "question_en": "What is 'Silent Separation' mainly about?",
     "options_zh": [
@@ -850,14 +808,56 @@
       "財經商戰"
     ],
     "options_en": [
-      "Love story and relationships",
-      "Sci-fi space",
+      "Love story",
+      "Sci-fi",
       "Sports",
       "Business"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
+    "explanation_en": "The correct answer is 'Love story'.",
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question_zh": "《何以笙簫默》主要講咩？",
+    "question_en": "What is 'Silent Separation' mainly about?",
+    "options_zh": [
+      "財經商戰",
+      "體育競技",
+      "愛情故事同人物關係",
+      "科幻太空"
+    ],
+    "options_en": [
+      "Business",
+      "Sports",
+      "Love story",
+      "Sci-fi"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「愛情故事同人物關係」。",
+    "explanation_en": "The correct answer is 'Love story'.",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question_zh": "《何以笙簫默》主要講咩？",
+    "question_en": "What is 'Silent Separation' mainly about?",
+    "options_zh": [
+      "體育競技",
+      "財經商戰",
+      "愛情故事同人物關係",
+      "科幻太空"
+    ],
+    "options_en": [
+      "Sports",
+      "Business",
+      "Love story",
+      "Sci-fi"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「愛情故事同人物關係」。",
+    "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 3
   },
   {
@@ -865,18 +865,18 @@
     "question_zh": "《何以笙簫默》入面有咩角色？",
     "question_en": "What characters are in 'Silent Separation'?",
     "options_zh": [
+      "機械人",
       "外星人",
-      "主要角色",
       "動物",
-      "機械人"
+      "主要角色"
     ],
     "options_en": [
+      "Robots",
       "Aliens",
-      "Main characters",
       "Animals",
-      "Robots"
+      "Main characters"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 1
@@ -886,18 +886,18 @@
     "question_zh": "《何以笙簫默》入面有咩角色？",
     "question_en": "What characters are in 'Silent Separation'?",
     "options_zh": [
-      "外星人",
       "機械人",
-      "主要角色",
-      "動物"
+      "外星人",
+      "動物",
+      "主要角色"
     ],
     "options_en": [
-      "Aliens",
       "Robots",
-      "Main characters",
-      "Animals"
+      "Aliens",
+      "Animals",
+      "Main characters"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 2
@@ -907,18 +907,18 @@
     "question_zh": "《何以笙簫默》入面有咩角色？",
     "question_en": "What characters are in 'Silent Separation'?",
     "options_zh": [
+      "主要角色",
       "外星人",
-      "動物",
       "機械人",
-      "主要角色"
+      "動物"
     ],
     "options_en": [
+      "Main characters",
       "Aliens",
-      "Animals",
       "Robots",
-      "Main characters"
+      "Animals"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
@@ -929,14 +929,14 @@
     "question_en": "Where is 'Silent Separation' set?",
     "options_zh": [
       "未來太空",
-      "虛擬世界",
       "歐洲中世紀",
+      "虛擬世界",
       "中國/亞洲"
     ],
     "options_en": [
       "Future space",
-      "Virtual world",
       "Medieval Europe",
+      "Virtual world",
       "China/Asia"
     ],
     "answer": 3,
@@ -950,15 +950,15 @@
     "question_en": "Where is 'Silent Separation' set?",
     "options_zh": [
       "歐洲中世紀",
-      "未來太空",
+      "虛擬世界",
       "中國/亞洲",
-      "虛擬世界"
+      "未來太空"
     ],
     "options_en": [
       "Medieval Europe",
-      "Future space",
+      "Virtual world",
       "China/Asia",
-      "Virtual world"
+      "Future space"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「中國/亞洲」。",
@@ -970,18 +970,18 @@
     "question_zh": "《何以笙簫默》嘅故事背景喺邊度？",
     "question_en": "Where is 'Silent Separation' set?",
     "options_zh": [
-      "歐洲中世紀",
       "未來太空",
       "中國/亞洲",
+      "歐洲中世紀",
       "虛擬世界"
     ],
     "options_en": [
-      "Medieval Europe",
       "Future space",
       "China/Asia",
+      "Medieval Europe",
       "Virtual world"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
@@ -991,18 +991,18 @@
     "question_zh": "《何以笙簫默》係咪好受歡迎？",
     "question_en": "Is 'Silent Separation' popular?",
     "options_zh": [
-      "只喺特定地區流行",
-      "已經過氣",
+      "唔係，好冷門",
       "係，非常受歡迎",
-      "唔係，好冷門"
+      "只喺特定地區流行",
+      "已經過氣"
     ],
     "options_en": [
-      "Only popular locally",
-      "Outdated",
+      "No, very niche",
       "Yes, very popular",
-      "No, very niche"
+      "Only popular locally",
+      "Outdated"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 1
@@ -1012,41 +1012,41 @@
     "question_zh": "《何以笙簫默》係咪好受歡迎？",
     "question_en": "Is 'Silent Separation' popular?",
     "options_zh": [
-      "已經過氣",
+      "係，非常受歡迎",
       "只喺特定地區流行",
-      "唔係，好冷門",
-      "係，非常受歡迎"
+      "已經過氣",
+      "唔係，好冷門"
     ],
     "options_en": [
-      "Outdated",
+      "Yes, very popular",
       "Only popular locally",
-      "No, very niche",
-      "Yes, very popular"
+      "Outdated",
+      "No, very niche"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 2
   },
   {
     "id": 50,
-    "question_zh": "《何以笙簫默》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Silent Separation' belong to?",
+    "question_zh": "《何以笙簫默》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Silent Separation'?",
     "options_zh": [
-      "情愛與關係類",
-      "兒童文學",
-      "恐怖小說",
-      "科幻小說"
+      "法國人",
+      "德國人",
+      "中國人",
+      "韓國人"
     ],
     "options_en": [
-      "Romance & Relationships",
-      "Children's literature",
-      "Horror",
-      "Sci-fi"
+      "French",
+      "German",
+      "Chinese",
+      "Korean"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 3
   },
   {
@@ -1076,15 +1076,15 @@
     "question_en": "Which one is 'Silent Separation'?",
     "options_zh": [
       "何以笙簫默",
-      "其他小說B",
       "其他小說A",
-      "其他小說C"
+      "其他小說C",
+      "其他小說B"
     ],
     "options_en": [
       "Silent Separation",
-      "Other Novel B",
       "Other Novel A",
-      "Other Novel C"
+      "Other Novel C",
+      "Other Novel B"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「何以笙簫默」。",
@@ -1093,27 +1093,6 @@
   },
   {
     "id": 53,
-    "question_zh": "以下邊本係《何以笙簫默》？",
-    "question_en": "Which one is 'Silent Separation'?",
-    "options_zh": [
-      "何以笙簫默",
-      "其他小說A",
-      "其他小說B",
-      "其他小說C"
-    ],
-    "options_en": [
-      "Silent Separation",
-      "Other Novel A",
-      "Other Novel B",
-      "Other Novel C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「何以笙簫默」。",
-    "explanation_en": "The correct answer is 'Silent Separation'.",
-    "difficulty": 3
-  },
-  {
-    "id": 54,
     "question_zh": "以下邊本係《何以笙簫默》？",
     "question_en": "Which one is 'Silent Separation'?",
     "options_zh": [
@@ -1131,6 +1110,27 @@
     "answer": 0,
     "explanation_zh": "正確答案係「何以笙簫默」。",
     "explanation_en": "The correct answer is 'Silent Separation'.",
+    "difficulty": 3
+  },
+  {
+    "id": 54,
+    "question_zh": "以下邊本係《何以笙簫默》？",
+    "question_en": "Which one is 'Silent Separation'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說C",
+      "其他小說B",
+      "何以笙簫默"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel C",
+      "Other Novel B",
+      "Silent Separation"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「何以笙簫默」。",
+    "explanation_en": "The correct answer is 'Silent Separation'.",
     "difficulty": 1
   },
   {
@@ -1138,18 +1138,18 @@
     "question_zh": "《何以笙簫默》嘅作者係邊個？",
     "question_en": "Who wrote 'Silent Separation'?",
     "options_zh": [
+      "顧漫",
       "其他作者C",
       "其他作者B",
-      "顧漫",
       "其他作者A"
     ],
     "options_en": [
+      "Gu Man",
       "Author C",
       "Author B",
-      "Gu Man",
       "Author A"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「顧漫」。",
     "explanation_en": "The correct answer is 'Gu Man'.",
     "difficulty": 2
@@ -1159,18 +1159,18 @@
     "question_zh": "《何以笙簫默》嘅作者係邊個？",
     "question_en": "Who wrote 'Silent Separation'?",
     "options_zh": [
+      "顧漫",
       "其他作者B",
       "其他作者A",
-      "顧漫",
       "其他作者C"
     ],
     "options_en": [
+      "Gu Man",
       "Author B",
       "Author A",
-      "Gu Man",
       "Author C"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「顧漫」。",
     "explanation_en": "The correct answer is 'Gu Man'.",
     "difficulty": 3
@@ -1180,18 +1180,18 @@
     "question_zh": "《何以笙簫默》嘅作者係邊個？",
     "question_en": "Who wrote 'Silent Separation'?",
     "options_zh": [
-      "其他作者A",
-      "顧漫",
+      "其他作者B",
       "其他作者C",
-      "其他作者B"
+      "顧漫",
+      "其他作者A"
     ],
     "options_en": [
-      "Author A",
-      "Gu Man",
+      "Author B",
       "Author C",
-      "Author B"
+      "Gu Man",
+      "Author A"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「顧漫」。",
     "explanation_en": "The correct answer is 'Gu Man'.",
     "difficulty": 1
@@ -1201,18 +1201,18 @@
     "question_zh": "《何以笙簫默》係邊年出版嘅？",
     "question_en": "What year was 'Silent Separation' published?",
     "options_zh": [
-      "2005年",
+      "2008年",
+      "2001年",
       "2003年",
-      "2006年",
-      "2001年"
+      "1998年"
     ],
     "options_en": [
-      "2005",
+      "2008",
+      "2001",
       "2003",
-      "2006",
-      "2001"
+      "1998"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「2003年」。",
     "explanation_en": "The correct answer is '2003'.",
     "difficulty": 2
@@ -1222,18 +1222,18 @@
     "question_zh": "《何以笙簫默》係邊年出版嘅？",
     "question_en": "What year was 'Silent Separation' published?",
     "options_zh": [
-      "2003年",
-      "2005年",
+      "2006年",
       "1998年",
-      "2001年"
+      "2003年",
+      "2005年"
     ],
     "options_en": [
-      "2003",
-      "2005",
+      "2006",
       "1998",
-      "2001"
+      "2003",
+      "2005"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「2003年」。",
     "explanation_en": "The correct answer is '2003'.",
     "difficulty": 3
@@ -1243,83 +1243,83 @@
     "question_zh": "《何以笙簫默》係邊年出版嘅？",
     "question_en": "What year was 'Silent Separation' published?",
     "options_zh": [
-      "2008年",
-      "2006年",
+      "2000年",
       "2001年",
-      "2003年"
+      "2003年",
+      "2005年"
     ],
     "options_en": [
-      "2008",
-      "2006",
+      "2000",
       "2001",
-      "2003"
+      "2003",
+      "2005"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「2003年」。",
     "explanation_en": "The correct answer is '2003'.",
     "difficulty": 1
   },
   {
     "id": 61,
-    "question_zh": "《何以笙簫默》屬於邊種類型？",
-    "question_en": "What genre is 'Silent Separation'?",
+    "question_zh": "《何以笙簫默》係邊國作品？",
+    "question_en": "Which country is 'Silent Separation' from?",
     "options_zh": [
-      "其他類型A",
-      "其他類型C",
-      "其他類型B",
-      "情愛與關係類"
+      "法國",
+      "德國",
+      "韓國",
+      "中國"
     ],
     "options_en": [
-      "Genre A",
-      "Genre C",
-      "Genre B",
-      "Romance & Relationships"
+      "France",
+      "Germany",
+      "South Korea",
+      "China"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
     "id": 62,
-    "question_zh": "《何以笙簫默》屬於邊種類型？",
-    "question_en": "What genre is 'Silent Separation'?",
+    "question_zh": "《何以笙簫默》係邊國作品？",
+    "question_en": "Which country is 'Silent Separation' from?",
     "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "其他類型B",
-      "情愛與關係類"
+      "法國",
+      "韓國",
+      "中國",
+      "德國"
     ],
     "options_en": [
-      "Genre C",
-      "Genre A",
-      "Genre B",
-      "Romance & Relationships"
+      "France",
+      "South Korea",
+      "China",
+      "Germany"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 63,
-    "question_zh": "《何以笙簫默》屬於邊種類型？",
-    "question_en": "What genre is 'Silent Separation'?",
+    "question_zh": "《何以笙簫默》係邊國作品？",
+    "question_en": "Which country is 'Silent Separation' from?",
     "options_zh": [
-      "其他類型A",
-      "其他類型C",
-      "情愛與關係類",
-      "其他類型B"
+      "韓國",
+      "德國",
+      "法國",
+      "中國"
     ],
     "options_en": [
-      "Genre A",
-      "Genre C",
-      "Romance & Relationships",
-      "Genre B"
+      "South Korea",
+      "Germany",
+      "France",
+      "China"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
@@ -1327,20 +1327,20 @@
     "question_zh": "《何以笙簫默》主要講咩？",
     "question_en": "What is 'Silent Separation' mainly about?",
     "options_zh": [
-      "財經商戰",
-      "科幻太空",
       "體育競技",
-      "愛情故事同人物關係"
+      "愛情故事同人物關係",
+      "科幻太空",
+      "財經商戰"
     ],
     "options_en": [
-      "Business",
-      "Sci-fi space",
       "Sports",
-      "Love story and relationships"
+      "Love story",
+      "Sci-fi",
+      "Business"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
+    "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 2
   },
   {
@@ -1348,20 +1348,20 @@
     "question_zh": "《何以笙簫默》主要講咩？",
     "question_en": "What is 'Silent Separation' mainly about?",
     "options_zh": [
-      "科幻太空",
+      "愛情故事同人物關係",
       "財經商戰",
       "體育競技",
-      "愛情故事同人物關係"
+      "科幻太空"
     ],
     "options_en": [
-      "Sci-fi space",
+      "Love story",
       "Business",
       "Sports",
-      "Love story and relationships"
+      "Sci-fi"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
+    "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 3
   },
   {
@@ -1370,19 +1370,19 @@
     "question_en": "What is 'Silent Separation' mainly about?",
     "options_zh": [
       "體育競技",
-      "科幻太空",
       "財經商戰",
+      "科幻太空",
       "愛情故事同人物關係"
     ],
     "options_en": [
       "Sports",
-      "Sci-fi space",
       "Business",
-      "Love story and relationships"
+      "Sci-fi",
+      "Love story"
     ],
     "answer": 3,
     "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
+    "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 1
   },
   {
@@ -1411,18 +1411,18 @@
     "question_zh": "《何以笙簫默》入面有咩角色？",
     "question_en": "What characters are in 'Silent Separation'?",
     "options_zh": [
-      "機械人",
       "外星人",
-      "主要角色",
-      "動物"
+      "機械人",
+      "動物",
+      "主要角色"
     ],
     "options_en": [
-      "Robots",
       "Aliens",
-      "Main characters",
-      "Animals"
+      "Robots",
+      "Animals",
+      "Main characters"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
@@ -1432,18 +1432,18 @@
     "question_zh": "《何以笙簫默》入面有咩角色？",
     "question_en": "What characters are in 'Silent Separation'?",
     "options_zh": [
-      "動物",
       "主要角色",
       "機械人",
+      "動物",
       "外星人"
     ],
     "options_en": [
-      "Animals",
       "Main characters",
       "Robots",
+      "Animals",
       "Aliens"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 1
@@ -1453,18 +1453,18 @@
     "question_zh": "《何以笙簫默》嘅故事背景喺邊度？",
     "question_en": "Where is 'Silent Separation' set?",
     "options_zh": [
-      "歐洲中世紀",
       "中國/亞洲",
+      "未來太空",
       "虛擬世界",
-      "未來太空"
+      "歐洲中世紀"
     ],
     "options_en": [
-      "Medieval Europe",
       "China/Asia",
+      "Future space",
       "Virtual world",
-      "Future space"
+      "Medieval Europe"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 2
@@ -1474,18 +1474,18 @@
     "question_zh": "《何以笙簫默》嘅故事背景喺邊度？",
     "question_en": "Where is 'Silent Separation' set?",
     "options_zh": [
-      "歐洲中世紀",
+      "中國/亞洲",
       "未來太空",
-      "虛擬世界",
-      "中國/亞洲"
+      "歐洲中世紀",
+      "虛擬世界"
     ],
     "options_en": [
-      "Medieval Europe",
+      "China/Asia",
       "Future space",
-      "Virtual world",
-      "China/Asia"
+      "Medieval Europe",
+      "Virtual world"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
@@ -1497,16 +1497,16 @@
     "options_zh": [
       "虛擬世界",
       "未來太空",
-      "中國/亞洲",
-      "歐洲中世紀"
+      "歐洲中世紀",
+      "中國/亞洲"
     ],
     "options_en": [
       "Virtual world",
       "Future space",
-      "China/Asia",
-      "Medieval Europe"
+      "Medieval Europe",
+      "China/Asia"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 1
@@ -1516,16 +1516,16 @@
     "question_zh": "《何以笙簫默》係咪好受歡迎？",
     "question_en": "Is 'Silent Separation' popular?",
     "options_zh": [
-      "只喺特定地區流行",
-      "係，非常受歡迎",
       "唔係，好冷門",
-      "已經過氣"
+      "係，非常受歡迎",
+      "已經過氣",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "Only popular locally",
-      "Yes, very popular",
       "No, very niche",
-      "Outdated"
+      "Yes, very popular",
+      "Outdated",
+      "Only popular locally"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
@@ -1538,14 +1538,14 @@
     "question_en": "Is 'Silent Separation' popular?",
     "options_zh": [
       "係，非常受歡迎",
-      "只喺特定地區流行",
       "已經過氣",
+      "只喺特定地區流行",
       "唔係，好冷門"
     ],
     "options_en": [
       "Yes, very popular",
-      "Only popular locally",
       "Outdated",
+      "Only popular locally",
       "No, very niche"
     ],
     "answer": 0,
@@ -1555,23 +1555,23 @@
   },
   {
     "id": 75,
-    "question_zh": "《何以笙簫默》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Silent Separation' belong to?",
+    "question_zh": "《何以笙簫默》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Silent Separation'?",
     "options_zh": [
-      "兒童文學",
-      "科幻小說",
-      "恐怖小說",
-      "情愛與關係類"
+      "法國人",
+      "韓國人",
+      "中國人",
+      "德國人"
     ],
     "options_en": [
-      "Children's literature",
-      "Sci-fi",
-      "Horror",
-      "Romance & Relationships"
+      "French",
+      "Korean",
+      "Chinese",
+      "German"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 1
   },
   {
@@ -1579,18 +1579,18 @@
     "question_zh": "以下邊本係《何以笙簫默》？",
     "question_en": "Which one is 'Silent Separation'?",
     "options_zh": [
-      "其他小說B",
       "其他小說A",
       "其他小說C",
-      "何以笙簫默"
+      "何以笙簫默",
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel B",
       "Other Novel A",
       "Other Novel C",
-      "Silent Separation"
+      "Silent Separation",
+      "Other Novel B"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「何以笙簫默」。",
     "explanation_en": "The correct answer is 'Silent Separation'.",
     "difficulty": 2
@@ -1600,45 +1600,24 @@
     "question_zh": "以下邊本係《何以笙簫默》？",
     "question_en": "Which one is 'Silent Separation'?",
     "options_zh": [
-      "何以笙簫默",
-      "其他小說A",
       "其他小說C",
+      "其他小說A",
+      "何以笙簫默",
       "其他小說B"
     ],
     "options_en": [
-      "Silent Separation",
-      "Other Novel A",
       "Other Novel C",
+      "Other Novel A",
+      "Silent Separation",
       "Other Novel B"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「何以笙簫默」。",
     "explanation_en": "The correct answer is 'Silent Separation'.",
     "difficulty": 3
   },
   {
     "id": 78,
-    "question_zh": "以下邊本係《何以笙簫默》？",
-    "question_en": "Which one is 'Silent Separation'?",
-    "options_zh": [
-      "其他小說B",
-      "其他小說A",
-      "何以笙簫默",
-      "其他小說C"
-    ],
-    "options_en": [
-      "Other Novel B",
-      "Other Novel A",
-      "Silent Separation",
-      "Other Novel C"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「何以笙簫默」。",
-    "explanation_en": "The correct answer is 'Silent Separation'.",
-    "difficulty": 1
-  },
-  {
-    "id": 79,
     "question_zh": "以下邊本係《何以笙簫默》？",
     "question_en": "Which one is 'Silent Separation'?",
     "options_zh": [
@@ -1656,6 +1635,27 @@
     "answer": 2,
     "explanation_zh": "正確答案係「何以笙簫默」。",
     "explanation_en": "The correct answer is 'Silent Separation'.",
+    "difficulty": 1
+  },
+  {
+    "id": 79,
+    "question_zh": "以下邊本係《何以笙簫默》？",
+    "question_en": "Which one is 'Silent Separation'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說C",
+      "何以笙簫默",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel C",
+      "Silent Separation",
+      "Other Novel B"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「何以笙簫默」。",
+    "explanation_en": "The correct answer is 'Silent Separation'.",
     "difficulty": 2
   },
   {
@@ -1663,18 +1663,18 @@
     "question_zh": "《何以笙簫默》嘅作者係邊個？",
     "question_en": "Who wrote 'Silent Separation'?",
     "options_zh": [
-      "其他作者A",
       "顧漫",
+      "其他作者B",
       "其他作者C",
-      "其他作者B"
+      "其他作者A"
     ],
     "options_en": [
-      "Author A",
       "Gu Man",
+      "Author B",
       "Author C",
-      "Author B"
+      "Author A"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「顧漫」。",
     "explanation_en": "The correct answer is 'Gu Man'.",
     "difficulty": 3
@@ -1684,16 +1684,16 @@
     "question_zh": "《何以笙簫默》嘅作者係邊個？",
     "question_en": "Who wrote 'Silent Separation'?",
     "options_zh": [
-      "其他作者B",
-      "顧漫",
       "其他作者C",
-      "其他作者A"
+      "顧漫",
+      "其他作者A",
+      "其他作者B"
     ],
     "options_en": [
-      "Author B",
-      "Gu Man",
       "Author C",
-      "Author A"
+      "Gu Man",
+      "Author A",
+      "Author B"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「顧漫」。",
@@ -1705,16 +1705,16 @@
     "question_zh": "《何以笙簫默》嘅作者係邊個？",
     "question_en": "Who wrote 'Silent Separation'?",
     "options_zh": [
-      "其他作者C",
-      "顧漫",
       "其他作者B",
-      "其他作者A"
+      "顧漫",
+      "其他作者A",
+      "其他作者C"
     ],
     "options_en": [
-      "Author C",
-      "Gu Man",
       "Author B",
-      "Author A"
+      "Gu Man",
+      "Author A",
+      "Author C"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「顧漫」。",
@@ -1726,18 +1726,18 @@
     "question_zh": "《何以笙簫默》係邊年出版嘅？",
     "question_en": "What year was 'Silent Separation' published?",
     "options_zh": [
+      "2000年",
+      "2008年",
       "2003年",
-      "2005年",
-      "1998年",
-      "2008年"
+      "1998年"
     ],
     "options_en": [
+      "2000",
+      "2008",
       "2003",
-      "2005",
-      "1998",
-      "2008"
+      "1998"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「2003年」。",
     "explanation_en": "The correct answer is '2003'.",
     "difficulty": 3
@@ -1747,18 +1747,18 @@
     "question_zh": "《何以笙簫默》係邊年出版嘅？",
     "question_en": "What year was 'Silent Separation' published?",
     "options_zh": [
-      "2008年",
-      "2005年",
       "2000年",
-      "2003年"
+      "2008年",
+      "2003年",
+      "2006年"
     ],
     "options_en": [
-      "2008",
-      "2005",
       "2000",
-      "2003"
+      "2008",
+      "2003",
+      "2006"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「2003年」。",
     "explanation_en": "The correct answer is '2003'.",
     "difficulty": 1
@@ -1768,108 +1768,87 @@
     "question_zh": "《何以笙簫默》係邊年出版嘅？",
     "question_en": "What year was 'Silent Separation' published?",
     "options_zh": [
-      "2003年",
+      "2001年",
       "2006年",
-      "1998年",
+      "2003年",
       "2008年"
     ],
     "options_en": [
-      "2003",
+      "2001",
       "2006",
-      "1998",
+      "2003",
       "2008"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「2003年」。",
     "explanation_en": "The correct answer is '2003'.",
     "difficulty": 2
   },
   {
     "id": 86,
-    "question_zh": "《何以笙簫默》屬於邊種類型？",
-    "question_en": "What genre is 'Silent Separation'?",
+    "question_zh": "《何以笙簫默》係邊國作品？",
+    "question_en": "Which country is 'Silent Separation' from?",
     "options_zh": [
-      "情愛與關係類",
-      "其他類型B",
-      "其他類型A",
-      "其他類型C"
+      "中國",
+      "韓國",
+      "法國",
+      "德國"
     ],
     "options_en": [
-      "Romance & Relationships",
-      "Genre B",
-      "Genre A",
-      "Genre C"
+      "China",
+      "South Korea",
+      "France",
+      "Germany"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 87,
-    "question_zh": "《何以笙簫默》屬於邊種類型？",
-    "question_en": "What genre is 'Silent Separation'?",
+    "question_zh": "《何以笙簫默》係邊國作品？",
+    "question_en": "Which country is 'Silent Separation' from?",
     "options_zh": [
-      "其他類型C",
-      "情愛與關係類",
-      "其他類型B",
-      "其他類型A"
+      "法國",
+      "德國",
+      "中國",
+      "韓國"
     ],
     "options_en": [
-      "Genre C",
-      "Romance & Relationships",
-      "Genre B",
-      "Genre A"
+      "France",
+      "Germany",
+      "China",
+      "South Korea"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 88,
-    "question_zh": "《何以笙簫默》屬於邊種類型？",
-    "question_en": "What genre is 'Silent Separation'?",
+    "question_zh": "《何以笙簫默》係邊國作品？",
+    "question_en": "Which country is 'Silent Separation' from?",
     "options_zh": [
-      "情愛與關係類",
-      "其他類型B",
-      "其他類型C",
-      "其他類型A"
+      "韓國",
+      "法國",
+      "中國",
+      "德國"
     ],
     "options_en": [
-      "Romance & Relationships",
-      "Genre B",
-      "Genre C",
-      "Genre A"
+      "South Korea",
+      "France",
+      "China",
+      "Germany"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
     "id": 89,
-    "question_zh": "《何以笙簫默》主要講咩？",
-    "question_en": "What is 'Silent Separation' mainly about?",
-    "options_zh": [
-      "財經商戰",
-      "愛情故事同人物關係",
-      "科幻太空",
-      "體育競技"
-    ],
-    "options_en": [
-      "Business",
-      "Love story and relationships",
-      "Sci-fi space",
-      "Sports"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
-    "difficulty": 3
-  },
-  {
-    "id": 90,
     "question_zh": "《何以笙簫默》主要講咩？",
     "question_en": "What is 'Silent Separation' mainly about?",
     "options_zh": [
@@ -1880,17 +1859,17 @@
     ],
     "options_en": [
       "Business",
-      "Sci-fi space",
+      "Sci-fi",
       "Sports",
-      "Love story and relationships"
+      "Love story"
     ],
     "answer": 3,
     "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
-    "difficulty": 1
+    "explanation_en": "The correct answer is 'Love story'.",
+    "difficulty": 3
   },
   {
-    "id": 91,
+    "id": 90,
     "question_zh": "《何以笙簫默》主要講咩？",
     "question_en": "What is 'Silent Separation' mainly about?",
     "options_zh": [
@@ -1900,14 +1879,35 @@
       "體育競技"
     ],
     "options_en": [
-      "Sci-fi space",
-      "Love story and relationships",
+      "Sci-fi",
+      "Love story",
       "Business",
       "Sports"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
+    "explanation_en": "The correct answer is 'Love story'.",
+    "difficulty": 1
+  },
+  {
+    "id": 91,
+    "question_zh": "《何以笙簫默》主要講咩？",
+    "question_en": "What is 'Silent Separation' mainly about?",
+    "options_zh": [
+      "愛情故事同人物關係",
+      "科幻太空",
+      "財經商戰",
+      "體育競技"
+    ],
+    "options_en": [
+      "Love story",
+      "Sci-fi",
+      "Business",
+      "Sports"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「愛情故事同人物關係」。",
+    "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 2
   },
   {
@@ -1915,24 +1915,45 @@
     "question_zh": "《何以笙簫默》入面有咩角色？",
     "question_en": "What characters are in 'Silent Separation'?",
     "options_zh": [
-      "主要角色",
-      "機械人",
       "外星人",
-      "動物"
+      "機械人",
+      "動物",
+      "主要角色"
     ],
     "options_en": [
-      "Main characters",
-      "Robots",
       "Aliens",
-      "Animals"
+      "Robots",
+      "Animals",
+      "Main characters"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
     "id": 93,
+    "question_zh": "《何以笙簫默》入面有咩角色？",
+    "question_en": "What characters are in 'Silent Separation'?",
+    "options_zh": [
+      "外星人",
+      "主要角色",
+      "動物",
+      "機械人"
+    ],
+    "options_en": [
+      "Aliens",
+      "Main characters",
+      "Animals",
+      "Robots"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 1
+  },
+  {
+    "id": 94,
     "question_zh": "《何以笙簫默》入面有咩角色？",
     "question_en": "What characters are in 'Silent Separation'?",
     "options_zh": [
@@ -1950,27 +1971,6 @@
     "answer": 1,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 1
-  },
-  {
-    "id": 94,
-    "question_zh": "《何以笙簫默》入面有咩角色？",
-    "question_en": "What characters are in 'Silent Separation'?",
-    "options_zh": [
-      "外星人",
-      "主要角色",
-      "機械人",
-      "動物"
-    ],
-    "options_en": [
-      "Aliens",
-      "Main characters",
-      "Robots",
-      "Animals"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 2
   },
   {
@@ -1978,18 +1978,18 @@
     "question_zh": "《何以笙簫默》嘅故事背景喺邊度？",
     "question_en": "Where is 'Silent Separation' set?",
     "options_zh": [
-      "未來太空",
       "中國/亞洲",
       "虛擬世界",
+      "未來太空",
       "歐洲中世紀"
     ],
     "options_en": [
-      "Future space",
       "China/Asia",
       "Virtual world",
+      "Future space",
       "Medieval Europe"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
@@ -1999,18 +1999,18 @@
     "question_zh": "《何以笙簫默》嘅故事背景喺邊度？",
     "question_en": "Where is 'Silent Separation' set?",
     "options_zh": [
-      "歐洲中世紀",
-      "中國/亞洲",
       "虛擬世界",
-      "未來太空"
+      "未來太空",
+      "歐洲中世紀",
+      "中國/亞洲"
     ],
     "options_en": [
-      "Medieval Europe",
-      "China/Asia",
       "Virtual world",
-      "Future space"
+      "Future space",
+      "Medieval Europe",
+      "China/Asia"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 1
@@ -2020,18 +2020,18 @@
     "question_zh": "《何以笙簫默》嘅故事背景喺邊度？",
     "question_en": "Where is 'Silent Separation' set?",
     "options_zh": [
-      "未來太空",
-      "歐洲中世紀",
       "中國/亞洲",
-      "虛擬世界"
+      "歐洲中世紀",
+      "虛擬世界",
+      "未來太空"
     ],
     "options_en": [
-      "Future space",
-      "Medieval Europe",
       "China/Asia",
-      "Virtual world"
+      "Medieval Europe",
+      "Virtual world",
+      "Future space"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 2
@@ -2041,18 +2041,18 @@
     "question_zh": "《何以笙簫默》係咪好受歡迎？",
     "question_en": "Is 'Silent Separation' popular?",
     "options_zh": [
-      "係，非常受歡迎",
-      "唔係，好冷門",
+      "只喺特定地區流行",
       "已經過氣",
-      "只喺特定地區流行"
+      "唔係，好冷門",
+      "係，非常受歡迎"
     ],
     "options_en": [
-      "Yes, very popular",
-      "No, very niche",
+      "Only popular locally",
       "Outdated",
-      "Only popular locally"
+      "No, very niche",
+      "Yes, very popular"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -2062,41 +2062,41 @@
     "question_zh": "《何以笙簫默》係咪好受歡迎？",
     "question_en": "Is 'Silent Separation' popular?",
     "options_zh": [
-      "已經過氣",
       "只喺特定地區流行",
-      "唔係，好冷門",
-      "係，非常受歡迎"
+      "係，非常受歡迎",
+      "已經過氣",
+      "唔係，好冷門"
     ],
     "options_en": [
-      "Outdated",
       "Only popular locally",
-      "No, very niche",
-      "Yes, very popular"
+      "Yes, very popular",
+      "Outdated",
+      "No, very niche"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 1
   },
   {
     "id": 100,
-    "question_zh": "《何以笙簫默》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Silent Separation' belong to?",
+    "question_zh": "《何以笙簫默》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Silent Separation'?",
     "options_zh": [
-      "兒童文學",
-      "科幻小說",
-      "恐怖小說",
-      "情愛與關係類"
+      "德國人",
+      "法國人",
+      "中國人",
+      "韓國人"
     ],
     "options_en": [
-      "Children's literature",
-      "Sci-fi",
-      "Horror",
-      "Romance & Relationships"
+      "German",
+      "French",
+      "Chinese",
+      "Korean"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
   }
 ]

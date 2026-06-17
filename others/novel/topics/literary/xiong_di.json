@@ -4,18 +4,18 @@
     "question_zh": "以下邊本係《兄弟》？",
     "question_en": "Which one is 'Brothers'?",
     "options_zh": [
-      "其他小說B",
-      "其他小說C",
+      "兄弟",
       "其他小說A",
-      "兄弟"
+      "其他小說B",
+      "其他小說C"
     ],
     "options_en": [
-      "Other Novel B",
-      "Other Novel C",
+      "Brothers",
       "Other Novel A",
-      "Brothers"
+      "Other Novel B",
+      "Other Novel C"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「兄弟」。",
     "explanation_en": "The correct answer is 'Brothers'.",
     "difficulty": 2
@@ -25,18 +25,18 @@
     "question_zh": "以下邊本係《兄弟》？",
     "question_en": "Which one is 'Brothers'?",
     "options_zh": [
-      "其他小說C",
-      "其他小說B",
       "其他小說A",
-      "兄弟"
+      "兄弟",
+      "其他小說C",
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel C",
-      "Other Novel B",
       "Other Novel A",
-      "Brothers"
+      "Brothers",
+      "Other Novel C",
+      "Other Novel B"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「兄弟」。",
     "explanation_en": "The correct answer is 'Brothers'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "以下邊本係《兄弟》？",
     "question_en": "Which one is 'Brothers'?",
     "options_zh": [
+      "其他小說B",
       "其他小說A",
       "其他小說C",
-      "兄弟",
-      "其他小說B"
+      "兄弟"
     ],
     "options_en": [
+      "Other Novel B",
       "Other Novel A",
       "Other Novel C",
-      "Brothers",
-      "Other Novel B"
+      "Brothers"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「兄弟」。",
     "explanation_en": "The correct answer is 'Brothers'.",
     "difficulty": 1
@@ -88,18 +88,18 @@
     "question_zh": "《兄弟》嘅作者係邊個？",
     "question_en": "Who wrote 'Brothers'?",
     "options_zh": [
-      "余華",
       "其他作者C",
-      "其他作者B",
-      "其他作者A"
+      "其他作者A",
+      "余華",
+      "其他作者B"
     ],
     "options_en": [
-      "Yu Hua",
       "Author C",
-      "Author B",
-      "Author A"
+      "Author A",
+      "Yu Hua",
+      "Author B"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「余華」。",
     "explanation_en": "The correct answer is 'Yu Hua'.",
     "difficulty": 3
@@ -109,14 +109,14 @@
     "question_zh": "《兄弟》嘅作者係邊個？",
     "question_en": "Who wrote 'Brothers'?",
     "options_zh": [
-      "其他作者A",
       "其他作者C",
+      "其他作者A",
       "余華",
       "其他作者B"
     ],
     "options_en": [
-      "Author A",
       "Author C",
+      "Author A",
       "Yu Hua",
       "Author B"
     ],
@@ -130,15 +130,15 @@
     "question_zh": "《兄弟》嘅作者係邊個？",
     "question_en": "Who wrote 'Brothers'?",
     "options_zh": [
-      "其他作者B",
-      "余華",
       "其他作者A",
+      "余華",
+      "其他作者B",
       "其他作者C"
     ],
     "options_en": [
-      "Author B",
-      "Yu Hua",
       "Author A",
+      "Yu Hua",
+      "Author B",
       "Author C"
     ],
     "answer": 1,
@@ -151,18 +151,18 @@
     "question_zh": "《兄弟》係邊年出版嘅？",
     "question_en": "What year was 'Brothers' published?",
     "options_zh": [
+      "2000年",
+      "2003年",
       "2008年",
-      "2010年",
-      "2005年",
-      "2003年"
+      "2005年"
     ],
     "options_en": [
+      "2000",
+      "2003",
       "2008",
-      "2010",
-      "2005",
-      "2003"
+      "2005"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 3
@@ -172,18 +172,18 @@
     "question_zh": "《兄弟》係邊年出版嘅？",
     "question_en": "What year was 'Brothers' published?",
     "options_zh": [
-      "2005年",
+      "2010年",
       "2007年",
-      "2000年",
-      "2010年"
+      "2003年",
+      "2005年"
     ],
     "options_en": [
-      "2005",
+      "2010",
       "2007",
-      "2000",
-      "2010"
+      "2003",
+      "2005"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 1
@@ -193,83 +193,83 @@
     "question_zh": "《兄弟》係邊年出版嘅？",
     "question_en": "What year was 'Brothers' published?",
     "options_zh": [
-      "2008年",
-      "2002年",
+      "2010年",
       "2005年",
-      "2007年"
+      "2007年",
+      "2008年"
     ],
     "options_en": [
-      "2008",
-      "2002",
+      "2010",
       "2005",
-      "2007"
+      "2007",
+      "2008"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 2
   },
   {
     "id": 11,
-    "question_zh": "《兄弟》屬於邊種類型？",
-    "question_en": "What genre is 'Brothers'?",
+    "question_zh": "《兄弟》係邊國作品？",
+    "question_en": "Which country is 'Brothers' from?",
     "options_zh": [
-      "其他類型A",
-      "其他類型B",
-      "其他類型C",
-      "寫實與文學類"
+      "中國",
+      "德國",
+      "韓國",
+      "法國"
     ],
     "options_en": [
-      "Genre A",
-      "Genre B",
-      "Genre C",
-      "Realistic & Literary"
+      "China",
+      "Germany",
+      "South Korea",
+      "France"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 12,
-    "question_zh": "《兄弟》屬於邊種類型？",
-    "question_en": "What genre is 'Brothers'?",
+    "question_zh": "《兄弟》係邊國作品？",
+    "question_en": "Which country is 'Brothers' from?",
     "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "其他類型B",
-      "寫實與文學類"
+      "韓國",
+      "中國",
+      "法國",
+      "德國"
     ],
     "options_en": [
-      "Genre C",
-      "Genre A",
-      "Genre B",
-      "Realistic & Literary"
+      "South Korea",
+      "China",
+      "France",
+      "Germany"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 13,
-    "question_zh": "《兄弟》屬於邊種類型？",
-    "question_en": "What genre is 'Brothers'?",
+    "question_zh": "《兄弟》係邊國作品？",
+    "question_en": "Which country is 'Brothers' from?",
     "options_zh": [
-      "其他類型B",
-      "寫實與文學類",
-      "其他類型C",
-      "其他類型A"
+      "德國",
+      "韓國",
+      "中國",
+      "法國"
     ],
     "options_en": [
-      "Genre B",
-      "Realistic & Literary",
-      "Genre C",
-      "Genre A"
+      "Germany",
+      "South Korea",
+      "China",
+      "France"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
@@ -277,20 +277,20 @@
     "question_zh": "《兄弟》主要講咩？",
     "question_en": "What is 'Brothers' mainly about?",
     "options_zh": [
-      "財經商戰",
-      "現實生活同文學表達",
       "科幻太空",
-      "體育競技"
+      "體育競技",
+      "現實生活同文學表達",
+      "財經商戰"
     ],
     "options_en": [
-      "Business",
-      "Real life and literary expression",
-      "Sci-fi space",
-      "Sports"
+      "Sci-fi",
+      "Sports",
+      "Real life and literary",
+      "Business"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 3
   },
   {
@@ -298,20 +298,20 @@
     "question_zh": "《兄弟》主要講咩？",
     "question_en": "What is 'Brothers' mainly about?",
     "options_zh": [
+      "體育競技",
       "科幻太空",
-      "現實生活同文學表達",
       "財經商戰",
-      "體育競技"
+      "現實生活同文學表達"
     ],
     "options_en": [
-      "Sci-fi space",
-      "Real life and literary expression",
+      "Sports",
+      "Sci-fi",
       "Business",
-      "Sports"
+      "Real life and literary"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 1
   },
   {
@@ -319,20 +319,20 @@
     "question_zh": "《兄弟》主要講咩？",
     "question_en": "What is 'Brothers' mainly about?",
     "options_zh": [
-      "現實生活同文學表達",
       "體育競技",
-      "財經商戰",
-      "科幻太空"
+      "科幻太空",
+      "現實生活同文學表達",
+      "財經商戰"
     ],
     "options_en": [
-      "Real life and literary expression",
       "Sports",
-      "Business",
-      "Sci-fi space"
+      "Sci-fi",
+      "Real life and literary",
+      "Business"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 2
   },
   {
@@ -340,18 +340,18 @@
     "question_zh": "《兄弟》入面有咩角色？",
     "question_en": "What characters are in 'Brothers'?",
     "options_zh": [
-      "動物",
       "外星人",
-      "主要角色",
-      "機械人"
+      "機械人",
+      "動物",
+      "主要角色"
     ],
     "options_en": [
-      "Animals",
       "Aliens",
-      "Main characters",
-      "Robots"
+      "Robots",
+      "Animals",
+      "Main characters"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
@@ -361,18 +361,18 @@
     "question_zh": "《兄弟》入面有咩角色？",
     "question_en": "What characters are in 'Brothers'?",
     "options_zh": [
-      "主要角色",
-      "機械人",
       "動物",
-      "外星人"
+      "機械人",
+      "外星人",
+      "主要角色"
     ],
     "options_en": [
-      "Main characters",
-      "Robots",
       "Animals",
-      "Aliens"
+      "Robots",
+      "Aliens",
+      "Main characters"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 1
@@ -382,45 +382,24 @@
     "question_zh": "《兄弟》入面有咩角色？",
     "question_en": "What characters are in 'Brothers'?",
     "options_zh": [
-      "外星人",
       "動物",
-      "主要角色",
-      "機械人"
+      "機械人",
+      "外星人",
+      "主要角色"
     ],
     "options_en": [
-      "Aliens",
       "Animals",
-      "Main characters",
-      "Robots"
+      "Robots",
+      "Aliens",
+      "Main characters"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 2
   },
   {
     "id": 20,
-    "question_zh": "《兄弟》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Brothers' set?",
-    "options_zh": [
-      "歐洲中世紀",
-      "中國/亞洲",
-      "未來太空",
-      "虛擬世界"
-    ],
-    "options_en": [
-      "Medieval Europe",
-      "China/Asia",
-      "Future space",
-      "Virtual world"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 3
-  },
-  {
-    "id": 21,
     "question_zh": "《兄弟》嘅故事背景喺邊度？",
     "question_en": "Where is 'Brothers' set?",
     "options_zh": [
@@ -433,6 +412,27 @@
       "Virtual world",
       "Medieval Europe",
       "Future space",
+      "China/Asia"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 3
+  },
+  {
+    "id": 21,
+    "question_zh": "《兄弟》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Brothers' set?",
+    "options_zh": [
+      "歐洲中世紀",
+      "未來太空",
+      "虛擬世界",
+      "中國/亞洲"
+    ],
+    "options_en": [
+      "Medieval Europe",
+      "Future space",
+      "Virtual world",
       "China/Asia"
     ],
     "answer": 3,
@@ -447,16 +447,16 @@
     "options_zh": [
       "未來太空",
       "歐洲中世紀",
-      "中國/亞洲",
-      "虛擬世界"
+      "虛擬世界",
+      "中國/亞洲"
     ],
     "options_en": [
       "Future space",
       "Medieval Europe",
-      "China/Asia",
-      "Virtual world"
+      "Virtual world",
+      "China/Asia"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 2
@@ -466,16 +466,16 @@
     "question_zh": "《兄弟》係咪好受歡迎？",
     "question_en": "Is 'Brothers' popular?",
     "options_zh": [
-      "只喺特定地區流行",
+      "已經過氣",
       "唔係，好冷門",
       "係，非常受歡迎",
-      "已經過氣"
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "Only popular locally",
+      "Outdated",
       "No, very niche",
       "Yes, very popular",
-      "Outdated"
+      "Only popular locally"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
@@ -487,41 +487,41 @@
     "question_zh": "《兄弟》係咪好受歡迎？",
     "question_en": "Is 'Brothers' popular?",
     "options_zh": [
-      "唔係，好冷門",
       "係，非常受歡迎",
       "已經過氣",
+      "唔係，好冷門",
       "只喺特定地區流行"
     ],
     "options_en": [
-      "No, very niche",
       "Yes, very popular",
       "Outdated",
+      "No, very niche",
       "Only popular locally"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 1
   },
   {
     "id": 25,
-    "question_zh": "《兄弟》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Brothers' belong to?",
+    "question_zh": "《兄弟》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Brothers'?",
     "options_zh": [
-      "兒童文學",
-      "科幻小說",
-      "恐怖小說",
-      "寫實與文學類"
+      "韓國人",
+      "中國人",
+      "法國人",
+      "德國人"
     ],
     "options_en": [
-      "Children's literature",
-      "Sci-fi",
-      "Horror",
-      "Realistic & Literary"
+      "Korean",
+      "Chinese",
+      "French",
+      "German"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
   },
   {
@@ -530,15 +530,15 @@
     "question_en": "Which one is 'Brothers'?",
     "options_zh": [
       "兄弟",
+      "其他小說C",
       "其他小說A",
-      "其他小說B",
-      "其他小說C"
+      "其他小說B"
     ],
     "options_en": [
       "Brothers",
+      "Other Novel C",
       "Other Novel A",
-      "Other Novel B",
-      "Other Novel C"
+      "Other Novel B"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「兄弟」。",
@@ -551,17 +551,17 @@
     "question_en": "Which one is 'Brothers'?",
     "options_zh": [
       "其他小說B",
+      "其他小說C",
       "其他小說A",
-      "兄弟",
-      "其他小說C"
+      "兄弟"
     ],
     "options_en": [
       "Other Novel B",
+      "Other Novel C",
       "Other Novel A",
-      "Brothers",
-      "Other Novel C"
+      "Brothers"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「兄弟」。",
     "explanation_en": "The correct answer is 'Brothers'.",
     "difficulty": 1
@@ -571,18 +571,18 @@
     "question_zh": "以下邊本係《兄弟》？",
     "question_en": "Which one is 'Brothers'?",
     "options_zh": [
-      "兄弟",
+      "其他小說C",
       "其他小說A",
-      "其他小說B",
-      "其他小說C"
+      "兄弟",
+      "其他小說B"
     ],
     "options_en": [
-      "Brothers",
+      "Other Novel C",
       "Other Novel A",
-      "Other Novel B",
-      "Other Novel C"
+      "Brothers",
+      "Other Novel B"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「兄弟」。",
     "explanation_en": "The correct answer is 'Brothers'.",
     "difficulty": 2
@@ -593,14 +593,14 @@
     "question_en": "Which one is 'Brothers'?",
     "options_zh": [
       "兄弟",
-      "其他小說B",
       "其他小說A",
+      "其他小說B",
       "其他小說C"
     ],
     "options_en": [
       "Brothers",
-      "Other Novel B",
       "Other Novel A",
+      "Other Novel B",
       "Other Novel C"
     ],
     "answer": 0,
@@ -613,45 +613,24 @@
     "question_zh": "《兄弟》嘅作者係邊個？",
     "question_en": "Who wrote 'Brothers'?",
     "options_zh": [
-      "其他作者A",
-      "其他作者B",
+      "其他作者C",
       "余華",
-      "其他作者C"
+      "其他作者A",
+      "其他作者B"
     ],
     "options_en": [
-      "Author A",
-      "Author B",
+      "Author C",
       "Yu Hua",
-      "Author C"
+      "Author A",
+      "Author B"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「余華」。",
     "explanation_en": "The correct answer is 'Yu Hua'.",
     "difficulty": 1
   },
   {
     "id": 31,
-    "question_zh": "《兄弟》嘅作者係邊個？",
-    "question_en": "Who wrote 'Brothers'?",
-    "options_zh": [
-      "其他作者A",
-      "其他作者C",
-      "余華",
-      "其他作者B"
-    ],
-    "options_en": [
-      "Author A",
-      "Author C",
-      "Yu Hua",
-      "Author B"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「余華」。",
-    "explanation_en": "The correct answer is 'Yu Hua'.",
-    "difficulty": 2
-  },
-  {
-    "id": 32,
     "question_zh": "《兄弟》嘅作者係邊個？",
     "question_en": "Who wrote 'Brothers'?",
     "options_zh": [
@@ -669,6 +648,27 @@
     "answer": 1,
     "explanation_zh": "正確答案係「余華」。",
     "explanation_en": "The correct answer is 'Yu Hua'.",
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question_zh": "《兄弟》嘅作者係邊個？",
+    "question_en": "Who wrote 'Brothers'?",
+    "options_zh": [
+      "其他作者C",
+      "余華",
+      "其他作者B",
+      "其他作者A"
+    ],
+    "options_en": [
+      "Author C",
+      "Yu Hua",
+      "Author B",
+      "Author A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「余華」。",
+    "explanation_en": "The correct answer is 'Yu Hua'.",
     "difficulty": 3
   },
   {
@@ -676,18 +676,18 @@
     "question_zh": "《兄弟》係邊年出版嘅？",
     "question_en": "What year was 'Brothers' published?",
     "options_zh": [
-      "2002年",
-      "2000年",
       "2005年",
-      "2008年"
+      "2007年",
+      "2000年",
+      "2010年"
     ],
     "options_en": [
-      "2002",
-      "2000",
       "2005",
-      "2008"
+      "2007",
+      "2000",
+      "2010"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 1
@@ -697,15 +697,15 @@
     "question_zh": "《兄弟》係邊年出版嘅？",
     "question_en": "What year was 'Brothers' published?",
     "options_zh": [
-      "2003年",
-      "2007年",
       "2000年",
+      "2008年",
+      "2007年",
       "2005年"
     ],
     "options_en": [
-      "2003",
-      "2007",
       "2000",
+      "2008",
+      "2007",
       "2005"
     ],
     "answer": 3,
@@ -718,83 +718,83 @@
     "question_zh": "《兄弟》係邊年出版嘅？",
     "question_en": "What year was 'Brothers' published?",
     "options_zh": [
+      "2010年",
       "2005年",
-      "2007年",
-      "2003年",
-      "2010年"
+      "2008年",
+      "2007年"
     ],
     "options_en": [
+      "2010",
       "2005",
-      "2007",
-      "2003",
-      "2010"
+      "2008",
+      "2007"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 3
   },
   {
     "id": 36,
-    "question_zh": "《兄弟》屬於邊種類型？",
-    "question_en": "What genre is 'Brothers'?",
+    "question_zh": "《兄弟》係邊國作品？",
+    "question_en": "Which country is 'Brothers' from?",
     "options_zh": [
-      "寫實與文學類",
-      "其他類型B",
-      "其他類型A",
-      "其他類型C"
+      "韓國",
+      "中國",
+      "德國",
+      "法國"
     ],
     "options_en": [
-      "Realistic & Literary",
-      "Genre B",
-      "Genre A",
-      "Genre C"
+      "South Korea",
+      "China",
+      "Germany",
+      "France"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 37,
-    "question_zh": "《兄弟》屬於邊種類型？",
-    "question_en": "What genre is 'Brothers'?",
+    "question_zh": "《兄弟》係邊國作品？",
+    "question_en": "Which country is 'Brothers' from?",
     "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "其他類型B",
-      "寫實與文學類"
+      "德國",
+      "韓國",
+      "中國",
+      "法國"
     ],
     "options_en": [
-      "Genre C",
-      "Genre A",
-      "Genre B",
-      "Realistic & Literary"
+      "Germany",
+      "South Korea",
+      "China",
+      "France"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
     "id": 38,
-    "question_zh": "《兄弟》屬於邊種類型？",
-    "question_en": "What genre is 'Brothers'?",
+    "question_zh": "《兄弟》係邊國作品？",
+    "question_en": "Which country is 'Brothers' from?",
     "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "寫實與文學類",
-      "其他類型B"
+      "德國",
+      "中國",
+      "法國",
+      "韓國"
     ],
     "options_en": [
-      "Genre C",
-      "Genre A",
-      "Realistic & Literary",
-      "Genre B"
+      "Germany",
+      "China",
+      "France",
+      "South Korea"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
@@ -802,20 +802,20 @@
     "question_zh": "《兄弟》主要講咩？",
     "question_en": "What is 'Brothers' mainly about?",
     "options_zh": [
-      "科幻太空",
-      "現實生活同文學表達",
       "體育競技",
-      "財經商戰"
+      "財經商戰",
+      "現實生活同文學表達",
+      "科幻太空"
     ],
     "options_en": [
-      "Sci-fi space",
-      "Real life and literary expression",
       "Sports",
-      "Business"
+      "Business",
+      "Real life and literary",
+      "Sci-fi"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 1
   },
   {
@@ -823,20 +823,20 @@
     "question_zh": "《兄弟》主要講咩？",
     "question_en": "What is 'Brothers' mainly about?",
     "options_zh": [
-      "現實生活同文學表達",
       "科幻太空",
-      "財經商戰",
-      "體育競技"
+      "體育競技",
+      "現實生活同文學表達",
+      "財經商戰"
     ],
     "options_en": [
-      "Real life and literary expression",
-      "Sci-fi space",
-      "Business",
-      "Sports"
+      "Sci-fi",
+      "Sports",
+      "Real life and literary",
+      "Business"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 2
   },
   {
@@ -844,20 +844,20 @@
     "question_zh": "《兄弟》主要講咩？",
     "question_en": "What is 'Brothers' mainly about?",
     "options_zh": [
-      "體育競技",
-      "現實生活同文學表達",
       "科幻太空",
-      "財經商戰"
+      "財經商戰",
+      "體育競技",
+      "現實生活同文學表達"
     ],
     "options_en": [
+      "Sci-fi",
+      "Business",
       "Sports",
-      "Real life and literary expression",
-      "Sci-fi space",
-      "Business"
+      "Real life and literary"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 3
   },
   {
@@ -865,18 +865,18 @@
     "question_zh": "《兄弟》入面有咩角色？",
     "question_en": "What characters are in 'Brothers'?",
     "options_zh": [
+      "機械人",
       "主要角色",
-      "外星人",
       "動物",
-      "機械人"
+      "外星人"
     ],
     "options_en": [
+      "Robots",
       "Main characters",
-      "Aliens",
       "Animals",
-      "Robots"
+      "Aliens"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 1
@@ -887,17 +887,17 @@
     "question_en": "What characters are in 'Brothers'?",
     "options_zh": [
       "動物",
+      "主要角色",
       "機械人",
-      "外星人",
-      "主要角色"
+      "外星人"
     ],
     "options_en": [
       "Animals",
+      "Main characters",
       "Robots",
-      "Aliens",
-      "Main characters"
+      "Aliens"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 2
@@ -909,16 +909,16 @@
     "options_zh": [
       "外星人",
       "機械人",
-      "動物",
-      "主要角色"
+      "主要角色",
+      "動物"
     ],
     "options_en": [
       "Aliens",
       "Robots",
-      "Animals",
-      "Main characters"
+      "Main characters",
+      "Animals"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
@@ -928,18 +928,18 @@
     "question_zh": "《兄弟》嘅故事背景喺邊度？",
     "question_en": "Where is 'Brothers' set?",
     "options_zh": [
-      "中國/亞洲",
       "歐洲中世紀",
-      "虛擬世界",
-      "未來太空"
+      "未來太空",
+      "中國/亞洲",
+      "虛擬世界"
     ],
     "options_en": [
-      "China/Asia",
       "Medieval Europe",
-      "Virtual world",
-      "Future space"
+      "Future space",
+      "China/Asia",
+      "Virtual world"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 1
@@ -950,14 +950,14 @@
     "question_en": "Where is 'Brothers' set?",
     "options_zh": [
       "歐洲中世紀",
-      "未來太空",
       "虛擬世界",
+      "未來太空",
       "中國/亞洲"
     ],
     "options_en": [
       "Medieval Europe",
-      "Future space",
       "Virtual world",
+      "Future space",
       "China/Asia"
     ],
     "answer": 3,
@@ -970,18 +970,18 @@
     "question_zh": "《兄弟》嘅故事背景喺邊度？",
     "question_en": "Where is 'Brothers' set?",
     "options_zh": [
-      "虛擬世界",
       "中國/亞洲",
       "歐洲中世紀",
+      "虛擬世界",
       "未來太空"
     ],
     "options_en": [
-      "Virtual world",
       "China/Asia",
       "Medieval Europe",
+      "Virtual world",
       "Future space"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
@@ -991,18 +991,18 @@
     "question_zh": "《兄弟》係咪好受歡迎？",
     "question_en": "Is 'Brothers' popular?",
     "options_zh": [
-      "已經過氣",
       "唔係，好冷門",
+      "係，非常受歡迎",
       "只喺特定地區流行",
-      "係，非常受歡迎"
+      "已經過氣"
     ],
     "options_en": [
-      "Outdated",
       "No, very niche",
+      "Yes, very popular",
       "Only popular locally",
-      "Yes, very popular"
+      "Outdated"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 1
@@ -1012,45 +1012,87 @@
     "question_zh": "《兄弟》係咪好受歡迎？",
     "question_en": "Is 'Brothers' popular?",
     "options_zh": [
-      "已經過氣",
-      "只喺特定地區流行",
       "唔係，好冷門",
-      "係，非常受歡迎"
+      "已經過氣",
+      "係，非常受歡迎",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "Outdated",
-      "Only popular locally",
       "No, very niche",
-      "Yes, very popular"
+      "Outdated",
+      "Yes, very popular",
+      "Only popular locally"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 2
   },
   {
     "id": 50,
-    "question_zh": "《兄弟》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Brothers' belong to?",
+    "question_zh": "《兄弟》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Brothers'?",
     "options_zh": [
-      "科幻小說",
-      "恐怖小說",
-      "兒童文學",
-      "寫實與文學類"
+      "韓國人",
+      "法國人",
+      "德國人",
+      "中國人"
     ],
     "options_en": [
-      "Sci-fi",
-      "Horror",
-      "Children's literature",
-      "Realistic & Literary"
+      "Korean",
+      "French",
+      "German",
+      "Chinese"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 3
   },
   {
     "id": 51,
+    "question_zh": "以下邊本係《兄弟》？",
+    "question_en": "Which one is 'Brothers'?",
+    "options_zh": [
+      "兄弟",
+      "其他小說B",
+      "其他小說C",
+      "其他小說A"
+    ],
+    "options_en": [
+      "Brothers",
+      "Other Novel B",
+      "Other Novel C",
+      "Other Novel A"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「兄弟」。",
+    "explanation_en": "The correct answer is 'Brothers'.",
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "question_zh": "以下邊本係《兄弟》？",
+    "question_en": "Which one is 'Brothers'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說B",
+      "其他小說C",
+      "兄弟"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel B",
+      "Other Novel C",
+      "Brothers"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「兄弟」。",
+    "explanation_en": "The correct answer is 'Brothers'.",
+    "difficulty": 2
+  },
+  {
+    "id": 53,
     "question_zh": "以下邊本係《兄弟》？",
     "question_en": "Which one is 'Brothers'?",
     "options_zh": [
@@ -1068,48 +1110,6 @@
     "answer": 2,
     "explanation_zh": "正確答案係「兄弟」。",
     "explanation_en": "The correct answer is 'Brothers'.",
-    "difficulty": 1
-  },
-  {
-    "id": 52,
-    "question_zh": "以下邊本係《兄弟》？",
-    "question_en": "Which one is 'Brothers'?",
-    "options_zh": [
-      "其他小說A",
-      "兄弟",
-      "其他小說C",
-      "其他小說B"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "Brothers",
-      "Other Novel C",
-      "Other Novel B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「兄弟」。",
-    "explanation_en": "The correct answer is 'Brothers'.",
-    "difficulty": 2
-  },
-  {
-    "id": 53,
-    "question_zh": "以下邊本係《兄弟》？",
-    "question_en": "Which one is 'Brothers'?",
-    "options_zh": [
-      "其他小說A",
-      "兄弟",
-      "其他小說C",
-      "其他小說B"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "Brothers",
-      "Other Novel C",
-      "Other Novel B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「兄弟」。",
-    "explanation_en": "The correct answer is 'Brothers'.",
     "difficulty": 3
   },
   {
@@ -1117,18 +1117,18 @@
     "question_zh": "以下邊本係《兄弟》？",
     "question_en": "Which one is 'Brothers'?",
     "options_zh": [
-      "其他小說C",
       "兄弟",
       "其他小說A",
+      "其他小說C",
       "其他小說B"
     ],
     "options_en": [
-      "Other Novel C",
       "Brothers",
       "Other Novel A",
+      "Other Novel C",
       "Other Novel B"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「兄弟」。",
     "explanation_en": "The correct answer is 'Brothers'.",
     "difficulty": 1
@@ -1138,16 +1138,16 @@
     "question_zh": "《兄弟》嘅作者係邊個？",
     "question_en": "Who wrote 'Brothers'?",
     "options_zh": [
-      "其他作者A",
-      "余華",
       "其他作者C",
-      "其他作者B"
+      "余華",
+      "其他作者B",
+      "其他作者A"
     ],
     "options_en": [
-      "Author A",
-      "Yu Hua",
       "Author C",
-      "Author B"
+      "Yu Hua",
+      "Author B",
+      "Author A"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「余華」。",
@@ -1159,18 +1159,18 @@
     "question_zh": "《兄弟》嘅作者係邊個？",
     "question_en": "Who wrote 'Brothers'?",
     "options_zh": [
-      "余華",
-      "其他作者A",
+      "其他作者B",
       "其他作者C",
-      "其他作者B"
+      "余華",
+      "其他作者A"
     ],
     "options_en": [
-      "Yu Hua",
-      "Author A",
+      "Author B",
       "Author C",
-      "Author B"
+      "Yu Hua",
+      "Author A"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「余華」。",
     "explanation_en": "The correct answer is 'Yu Hua'.",
     "difficulty": 3
@@ -1201,18 +1201,18 @@
     "question_zh": "《兄弟》係邊年出版嘅？",
     "question_en": "What year was 'Brothers' published?",
     "options_zh": [
-      "2008年",
       "2007年",
       "2005年",
-      "2000年"
+      "2010年",
+      "2002年"
     ],
     "options_en": [
-      "2008",
       "2007",
       "2005",
-      "2000"
+      "2010",
+      "2002"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 2
@@ -1224,14 +1224,14 @@
     "options_zh": [
       "2002年",
       "2005年",
-      "2010年",
-      "2000年"
+      "2000年",
+      "2003年"
     ],
     "options_en": [
       "2002",
       "2005",
-      "2010",
-      "2000"
+      "2000",
+      "2003"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「2005年」。",
@@ -1243,83 +1243,83 @@
     "question_zh": "《兄弟》係邊年出版嘅？",
     "question_en": "What year was 'Brothers' published?",
     "options_zh": [
+      "2003年",
       "2005年",
-      "2010年",
       "2008年",
-      "2003年"
+      "2010年"
     ],
     "options_en": [
+      "2003",
       "2005",
-      "2010",
       "2008",
-      "2003"
+      "2010"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 1
   },
   {
     "id": 61,
-    "question_zh": "《兄弟》屬於邊種類型？",
-    "question_en": "What genre is 'Brothers'?",
+    "question_zh": "《兄弟》係邊國作品？",
+    "question_en": "Which country is 'Brothers' from?",
     "options_zh": [
-      "其他類型B",
-      "寫實與文學類",
-      "其他類型A",
-      "其他類型C"
+      "中國",
+      "韓國",
+      "德國",
+      "法國"
     ],
     "options_en": [
-      "Genre B",
-      "Realistic & Literary",
-      "Genre A",
-      "Genre C"
+      "China",
+      "South Korea",
+      "Germany",
+      "France"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
     "id": 62,
-    "question_zh": "《兄弟》屬於邊種類型？",
-    "question_en": "What genre is 'Brothers'?",
+    "question_zh": "《兄弟》係邊國作品？",
+    "question_en": "Which country is 'Brothers' from?",
     "options_zh": [
-      "寫實與文學類",
-      "其他類型C",
-      "其他類型A",
-      "其他類型B"
+      "韓國",
+      "法國",
+      "中國",
+      "德國"
     ],
     "options_en": [
-      "Realistic & Literary",
-      "Genre C",
-      "Genre A",
-      "Genre B"
+      "South Korea",
+      "France",
+      "China",
+      "Germany"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 63,
-    "question_zh": "《兄弟》屬於邊種類型？",
-    "question_en": "What genre is 'Brothers'?",
+    "question_zh": "《兄弟》係邊國作品？",
+    "question_en": "Which country is 'Brothers' from?",
     "options_zh": [
-      "寫實與文學類",
-      "其他類型C",
-      "其他類型B",
-      "其他類型A"
+      "中國",
+      "韓國",
+      "法國",
+      "德國"
     ],
     "options_en": [
-      "Realistic & Literary",
-      "Genre C",
-      "Genre B",
-      "Genre A"
+      "China",
+      "South Korea",
+      "France",
+      "Germany"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
@@ -1328,19 +1328,19 @@
     "question_en": "What is 'Brothers' mainly about?",
     "options_zh": [
       "體育競技",
-      "現實生活同文學表達",
       "財經商戰",
-      "科幻太空"
+      "科幻太空",
+      "現實生活同文學表達"
     ],
     "options_en": [
       "Sports",
-      "Real life and literary expression",
       "Business",
-      "Sci-fi space"
+      "Sci-fi",
+      "Real life and literary"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 2
   },
   {
@@ -1354,14 +1354,14 @@
       "科幻太空"
     ],
     "options_en": [
-      "Real life and literary expression",
+      "Real life and literary",
       "Sports",
       "Business",
-      "Sci-fi space"
+      "Sci-fi"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 3
   },
   {
@@ -1370,19 +1370,19 @@
     "question_en": "What is 'Brothers' mainly about?",
     "options_zh": [
       "科幻太空",
-      "財經商戰",
       "體育競技",
+      "財經商戰",
       "現實生活同文學表達"
     ],
     "options_en": [
-      "Sci-fi space",
-      "Business",
+      "Sci-fi",
       "Sports",
-      "Real life and literary expression"
+      "Business",
+      "Real life and literary"
     ],
     "answer": 3,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 1
   },
   {
@@ -1390,18 +1390,18 @@
     "question_zh": "《兄弟》入面有咩角色？",
     "question_en": "What characters are in 'Brothers'?",
     "options_zh": [
-      "機械人",
       "動物",
-      "主要角色",
-      "外星人"
+      "機械人",
+      "外星人",
+      "主要角色"
     ],
     "options_en": [
-      "Robots",
       "Animals",
-      "Main characters",
-      "Aliens"
+      "Robots",
+      "Aliens",
+      "Main characters"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 2
@@ -1411,18 +1411,18 @@
     "question_zh": "《兄弟》入面有咩角色？",
     "question_en": "What characters are in 'Brothers'?",
     "options_zh": [
-      "動物",
       "主要角色",
-      "機械人",
-      "外星人"
+      "動物",
+      "外星人",
+      "機械人"
     ],
     "options_en": [
-      "Animals",
       "Main characters",
-      "Robots",
-      "Aliens"
+      "Animals",
+      "Aliens",
+      "Robots"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
@@ -1432,24 +1432,66 @@
     "question_zh": "《兄弟》入面有咩角色？",
     "question_en": "What characters are in 'Brothers'?",
     "options_zh": [
+      "機械人",
       "外星人",
       "主要角色",
-      "動物",
-      "機械人"
+      "動物"
     ],
     "options_en": [
+      "Robots",
       "Aliens",
       "Main characters",
-      "Animals",
-      "Robots"
+      "Animals"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 1
   },
   {
     "id": 70,
+    "question_zh": "《兄弟》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Brothers' set?",
+    "options_zh": [
+      "未來太空",
+      "中國/亞洲",
+      "歐洲中世紀",
+      "虛擬世界"
+    ],
+    "options_en": [
+      "Future space",
+      "China/Asia",
+      "Medieval Europe",
+      "Virtual world"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 2
+  },
+  {
+    "id": 71,
+    "question_zh": "《兄弟》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Brothers' set?",
+    "options_zh": [
+      "虛擬世界",
+      "歐洲中世紀",
+      "未來太空",
+      "中國/亞洲"
+    ],
+    "options_en": [
+      "Virtual world",
+      "Medieval Europe",
+      "Future space",
+      "China/Asia"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 3
+  },
+  {
+    "id": 72,
     "question_zh": "《兄弟》嘅故事背景喺邊度？",
     "question_en": "Where is 'Brothers' set?",
     "options_zh": [
@@ -1467,48 +1509,6 @@
     "answer": 0,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 2
-  },
-  {
-    "id": 71,
-    "question_zh": "《兄弟》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Brothers' set?",
-    "options_zh": [
-      "中國/亞洲",
-      "歐洲中世紀",
-      "未來太空",
-      "虛擬世界"
-    ],
-    "options_en": [
-      "China/Asia",
-      "Medieval Europe",
-      "Future space",
-      "Virtual world"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 3
-  },
-  {
-    "id": 72,
-    "question_zh": "《兄弟》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Brothers' set?",
-    "options_zh": [
-      "虛擬世界",
-      "未來太空",
-      "歐洲中世紀",
-      "中國/亞洲"
-    ],
-    "options_en": [
-      "Virtual world",
-      "Future space",
-      "Medieval Europe",
-      "China/Asia"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 1
   },
   {
@@ -1516,18 +1516,18 @@
     "question_zh": "《兄弟》係咪好受歡迎？",
     "question_en": "Is 'Brothers' popular?",
     "options_zh": [
-      "唔係，好冷門",
-      "係，非常受歡迎",
       "只喺特定地區流行",
-      "已經過氣"
+      "已經過氣",
+      "唔係，好冷門",
+      "係，非常受歡迎"
     ],
     "options_en": [
-      "No, very niche",
-      "Yes, very popular",
       "Only popular locally",
-      "Outdated"
+      "Outdated",
+      "No, very niche",
+      "Yes, very popular"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 2
@@ -1537,41 +1537,41 @@
     "question_zh": "《兄弟》係咪好受歡迎？",
     "question_en": "Is 'Brothers' popular?",
     "options_zh": [
-      "係，非常受歡迎",
+      "只喺特定地區流行",
       "已經過氣",
       "唔係，好冷門",
-      "只喺特定地區流行"
+      "係，非常受歡迎"
     ],
     "options_en": [
-      "Yes, very popular",
+      "Only popular locally",
       "Outdated",
       "No, very niche",
-      "Only popular locally"
+      "Yes, very popular"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
     "id": 75,
-    "question_zh": "《兄弟》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Brothers' belong to?",
+    "question_zh": "《兄弟》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Brothers'?",
     "options_zh": [
-      "科幻小說",
-      "恐怖小說",
-      "兒童文學",
-      "寫實與文學類"
+      "韓國人",
+      "法國人",
+      "德國人",
+      "中國人"
     ],
     "options_en": [
-      "Sci-fi",
-      "Horror",
-      "Children's literature",
-      "Realistic & Literary"
+      "Korean",
+      "French",
+      "German",
+      "Chinese"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 1
   },
   {
@@ -1579,16 +1579,16 @@
     "question_zh": "以下邊本係《兄弟》？",
     "question_en": "Which one is 'Brothers'?",
     "options_zh": [
-      "其他小說B",
+      "其他小說C",
       "兄弟",
-      "其他小說A",
-      "其他小說C"
+      "其他小說B",
+      "其他小說A"
     ],
     "options_en": [
-      "Other Novel B",
+      "Other Novel C",
       "Brothers",
-      "Other Novel A",
-      "Other Novel C"
+      "Other Novel B",
+      "Other Novel A"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「兄弟」。",
@@ -1601,15 +1601,15 @@
     "question_en": "Which one is 'Brothers'?",
     "options_zh": [
       "兄弟",
-      "其他小說A",
+      "其他小說C",
       "其他小說B",
-      "其他小說C"
+      "其他小說A"
     ],
     "options_en": [
       "Brothers",
-      "Other Novel A",
+      "Other Novel C",
       "Other Novel B",
-      "Other Novel C"
+      "Other Novel A"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「兄弟」。",
@@ -1622,14 +1622,14 @@
     "question_en": "Which one is 'Brothers'?",
     "options_zh": [
       "其他小說C",
-      "其他小說A",
       "其他小說B",
+      "其他小說A",
       "兄弟"
     ],
     "options_en": [
       "Other Novel C",
-      "Other Novel A",
       "Other Novel B",
+      "Other Novel A",
       "Brothers"
     ],
     "answer": 3,
@@ -1642,18 +1642,18 @@
     "question_zh": "以下邊本係《兄弟》？",
     "question_en": "Which one is 'Brothers'?",
     "options_zh": [
-      "其他小說A",
+      "其他小說C",
       "其他小說B",
-      "兄弟",
-      "其他小說C"
+      "其他小說A",
+      "兄弟"
     ],
     "options_en": [
-      "Other Novel A",
+      "Other Novel C",
       "Other Novel B",
-      "Brothers",
-      "Other Novel C"
+      "Other Novel A",
+      "Brothers"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「兄弟」。",
     "explanation_en": "The correct answer is 'Brothers'.",
     "difficulty": 2
@@ -1663,18 +1663,18 @@
     "question_zh": "《兄弟》嘅作者係邊個？",
     "question_en": "Who wrote 'Brothers'?",
     "options_zh": [
-      "其他作者B",
-      "余華",
       "其他作者C",
-      "其他作者A"
+      "其他作者A",
+      "其他作者B",
+      "余華"
     ],
     "options_en": [
-      "Author B",
-      "Yu Hua",
       "Author C",
-      "Author A"
+      "Author A",
+      "Author B",
+      "Yu Hua"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「余華」。",
     "explanation_en": "The correct answer is 'Yu Hua'.",
     "difficulty": 3
@@ -1684,18 +1684,18 @@
     "question_zh": "《兄弟》嘅作者係邊個？",
     "question_en": "Who wrote 'Brothers'?",
     "options_zh": [
-      "其他作者C",
       "其他作者B",
-      "余華",
-      "其他作者A"
+      "其他作者A",
+      "其他作者C",
+      "余華"
     ],
     "options_en": [
-      "Author C",
       "Author B",
-      "Yu Hua",
-      "Author A"
+      "Author A",
+      "Author C",
+      "Yu Hua"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「余華」。",
     "explanation_en": "The correct answer is 'Yu Hua'.",
     "difficulty": 1
@@ -1705,18 +1705,18 @@
     "question_zh": "《兄弟》嘅作者係邊個？",
     "question_en": "Who wrote 'Brothers'?",
     "options_zh": [
-      "其他作者A",
-      "其他作者C",
       "余華",
-      "其他作者B"
+      "其他作者C",
+      "其他作者B",
+      "其他作者A"
     ],
     "options_en": [
-      "Author A",
-      "Author C",
       "Yu Hua",
-      "Author B"
+      "Author C",
+      "Author B",
+      "Author A"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「余華」。",
     "explanation_en": "The correct answer is 'Yu Hua'.",
     "difficulty": 2
@@ -1726,18 +1726,18 @@
     "question_zh": "《兄弟》係邊年出版嘅？",
     "question_en": "What year was 'Brothers' published?",
     "options_zh": [
-      "2010年",
-      "2002年",
       "2005年",
-      "2008年"
+      "2008年",
+      "2003年",
+      "2000年"
     ],
     "options_en": [
-      "2010",
-      "2002",
       "2005",
-      "2008"
+      "2008",
+      "2003",
+      "2000"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 3
@@ -1747,18 +1747,18 @@
     "question_zh": "《兄弟》係邊年出版嘅？",
     "question_en": "What year was 'Brothers' published?",
     "options_zh": [
-      "2003年",
-      "2008年",
       "2005年",
-      "2002年"
+      "2010年",
+      "2003年",
+      "2007年"
     ],
     "options_en": [
-      "2003",
-      "2008",
       "2005",
-      "2002"
+      "2010",
+      "2003",
+      "2007"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 1
@@ -1768,83 +1768,83 @@
     "question_zh": "《兄弟》係邊年出版嘅？",
     "question_en": "What year was 'Brothers' published?",
     "options_zh": [
-      "2002年",
       "2003年",
-      "2008年",
-      "2005年"
+      "2000年",
+      "2005年",
+      "2007年"
     ],
     "options_en": [
-      "2002",
       "2003",
-      "2008",
-      "2005"
+      "2000",
+      "2005",
+      "2007"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 2
   },
   {
     "id": 86,
-    "question_zh": "《兄弟》屬於邊種類型？",
-    "question_en": "What genre is 'Brothers'?",
+    "question_zh": "《兄弟》係邊國作品？",
+    "question_en": "Which country is 'Brothers' from?",
     "options_zh": [
-      "其他類型B",
-      "其他類型C",
-      "其他類型A",
-      "寫實與文學類"
+      "德國",
+      "中國",
+      "法國",
+      "韓國"
     ],
     "options_en": [
-      "Genre B",
-      "Genre C",
-      "Genre A",
-      "Realistic & Literary"
+      "Germany",
+      "China",
+      "France",
+      "South Korea"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 87,
-    "question_zh": "《兄弟》屬於邊種類型？",
-    "question_en": "What genre is 'Brothers'?",
+    "question_zh": "《兄弟》係邊國作品？",
+    "question_en": "Which country is 'Brothers' from?",
     "options_zh": [
-      "寫實與文學類",
-      "其他類型A",
-      "其他類型B",
-      "其他類型C"
+      "法國",
+      "韓國",
+      "德國",
+      "中國"
     ],
     "options_en": [
-      "Realistic & Literary",
-      "Genre A",
-      "Genre B",
-      "Genre C"
+      "France",
+      "South Korea",
+      "Germany",
+      "China"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 88,
-    "question_zh": "《兄弟》屬於邊種類型？",
-    "question_en": "What genre is 'Brothers'?",
+    "question_zh": "《兄弟》係邊國作品？",
+    "question_en": "Which country is 'Brothers' from?",
     "options_zh": [
-      "其他類型A",
-      "寫實與文學類",
-      "其他類型B",
-      "其他類型C"
+      "法國",
+      "德國",
+      "韓國",
+      "中國"
     ],
     "options_en": [
-      "Genre A",
-      "Realistic & Literary",
-      "Genre B",
-      "Genre C"
+      "France",
+      "Germany",
+      "South Korea",
+      "China"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
@@ -1852,20 +1852,20 @@
     "question_zh": "《兄弟》主要講咩？",
     "question_en": "What is 'Brothers' mainly about?",
     "options_zh": [
-      "現實生活同文學表達",
-      "體育競技",
+      "科幻太空",
       "財經商戰",
-      "科幻太空"
+      "現實生活同文學表達",
+      "體育競技"
     ],
     "options_en": [
-      "Real life and literary expression",
-      "Sports",
+      "Sci-fi",
       "Business",
-      "Sci-fi space"
+      "Real life and literary",
+      "Sports"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 3
   },
   {
@@ -1873,20 +1873,20 @@
     "question_zh": "《兄弟》主要講咩？",
     "question_en": "What is 'Brothers' mainly about?",
     "options_zh": [
-      "財經商戰",
       "現實生活同文學表達",
       "科幻太空",
+      "財經商戰",
       "體育競技"
     ],
     "options_en": [
+      "Real life and literary",
+      "Sci-fi",
       "Business",
-      "Real life and literary expression",
-      "Sci-fi space",
       "Sports"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 1
   },
   {
@@ -1901,13 +1901,13 @@
     ],
     "options_en": [
       "Sports",
-      "Real life and literary expression",
-      "Sci-fi space",
+      "Real life and literary",
+      "Sci-fi",
       "Business"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
-    "explanation_en": "The correct answer is 'Real life and literary expression'.",
+    "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 2
   },
   {
@@ -1915,18 +1915,18 @@
     "question_zh": "《兄弟》入面有咩角色？",
     "question_en": "What characters are in 'Brothers'?",
     "options_zh": [
-      "主要角色",
-      "機械人",
       "外星人",
-      "動物"
+      "動物",
+      "主要角色",
+      "機械人"
     ],
     "options_en": [
-      "Main characters",
-      "Robots",
       "Aliens",
-      "Animals"
+      "Animals",
+      "Main characters",
+      "Robots"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
@@ -1936,18 +1936,18 @@
     "question_zh": "《兄弟》入面有咩角色？",
     "question_en": "What characters are in 'Brothers'?",
     "options_zh": [
-      "主要角色",
+      "外星人",
       "機械人",
-      "動物",
-      "外星人"
+      "主要角色",
+      "動物"
     ],
     "options_en": [
-      "Main characters",
+      "Aliens",
       "Robots",
-      "Animals",
-      "Aliens"
+      "Main characters",
+      "Animals"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 1
@@ -1978,18 +1978,18 @@
     "question_zh": "《兄弟》嘅故事背景喺邊度？",
     "question_en": "Where is 'Brothers' set?",
     "options_zh": [
-      "未來太空",
-      "中國/亞洲",
       "歐洲中世紀",
-      "虛擬世界"
+      "虛擬世界",
+      "中國/亞洲",
+      "未來太空"
     ],
     "options_en": [
-      "Future space",
-      "China/Asia",
       "Medieval Europe",
-      "Virtual world"
+      "Virtual world",
+      "China/Asia",
+      "Future space"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
@@ -1999,18 +1999,18 @@
     "question_zh": "《兄弟》嘅故事背景喺邊度？",
     "question_en": "Where is 'Brothers' set?",
     "options_zh": [
-      "未來太空",
+      "歐洲中世紀",
       "虛擬世界",
-      "中國/亞洲",
-      "歐洲中世紀"
+      "未來太空",
+      "中國/亞洲"
     ],
     "options_en": [
-      "Future space",
+      "Medieval Europe",
       "Virtual world",
-      "China/Asia",
-      "Medieval Europe"
+      "Future space",
+      "China/Asia"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 1
@@ -2020,15 +2020,15 @@
     "question_zh": "《兄弟》嘅故事背景喺邊度？",
     "question_en": "Where is 'Brothers' set?",
     "options_zh": [
-      "未來太空",
-      "中國/亞洲",
       "虛擬世界",
+      "中國/亞洲",
+      "未來太空",
       "歐洲中世紀"
     ],
     "options_en": [
-      "Future space",
-      "China/Asia",
       "Virtual world",
+      "China/Asia",
+      "Future space",
       "Medieval Europe"
     ],
     "answer": 1,
@@ -2042,17 +2042,17 @@
     "question_en": "Is 'Brothers' popular?",
     "options_zh": [
       "只喺特定地區流行",
+      "係，非常受歡迎",
       "唔係，好冷門",
-      "已經過氣",
-      "係，非常受歡迎"
+      "已經過氣"
     ],
     "options_en": [
       "Only popular locally",
+      "Yes, very popular",
       "No, very niche",
-      "Outdated",
-      "Yes, very popular"
+      "Outdated"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -2062,41 +2062,41 @@
     "question_zh": "《兄弟》係咪好受歡迎？",
     "question_en": "Is 'Brothers' popular?",
     "options_zh": [
-      "係，非常受歡迎",
       "已經過氣",
+      "只喺特定地區流行",
       "唔係，好冷門",
-      "只喺特定地區流行"
+      "係，非常受歡迎"
     ],
     "options_en": [
-      "Yes, very popular",
       "Outdated",
+      "Only popular locally",
       "No, very niche",
-      "Only popular locally"
+      "Yes, very popular"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 1
   },
   {
     "id": 100,
-    "question_zh": "《兄弟》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Brothers' belong to?",
+    "question_zh": "《兄弟》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Brothers'?",
     "options_zh": [
-      "兒童文學",
-      "科幻小說",
-      "恐怖小說",
-      "寫實與文學類"
+      "韓國人",
+      "法國人",
+      "德國人",
+      "中國人"
     ],
     "options_en": [
-      "Children's literature",
-      "Sci-fi",
-      "Horror",
-      "Realistic & Literary"
+      "Korean",
+      "French",
+      "German",
+      "Chinese"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「寫實與文學類」。",
-    "explanation_en": "The correct answer is 'Realistic & Literary'.",
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
   }
 ]

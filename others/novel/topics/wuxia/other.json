@@ -4,6 +4,594 @@
     "question_zh": "以下邊本係《其他武俠小說》？",
     "question_en": "Which one is 'Other Martial Arts'?",
     "options_zh": [
+      "其他武俠小說",
+      "其他小說A",
+      "其他小說C",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Martial Arts",
+      "Other Novel A",
+      "Other Novel C",
+      "Other Novel B"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「其他武俠小說」。",
+    "explanation_en": "The correct answer is 'Other Martial Arts'.",
+    "difficulty": 2
+  },
+  {
+    "id": 2,
+    "question_zh": "以下邊本係《其他武俠小說》？",
+    "question_en": "Which one is 'Other Martial Arts'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說C",
+      "其他小說B",
+      "其他武俠小說"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel C",
+      "Other Novel B",
+      "Other Martial Arts"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「其他武俠小說」。",
+    "explanation_en": "The correct answer is 'Other Martial Arts'.",
+    "difficulty": 3
+  },
+  {
+    "id": 3,
+    "question_zh": "以下邊本係《其他武俠小說》？",
+    "question_en": "Which one is 'Other Martial Arts'?",
+    "options_zh": [
+      "其他小說C",
+      "其他小說A",
+      "其他武俠小說",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Novel A",
+      "Other Martial Arts",
+      "Other Novel B"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「其他武俠小說」。",
+    "explanation_en": "The correct answer is 'Other Martial Arts'.",
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question_zh": "以下邊本係《其他武俠小說》？",
+    "question_en": "Which one is 'Other Martial Arts'?",
+    "options_zh": [
+      "其他小說A",
+      "其他武俠小說",
+      "其他小說C",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Martial Arts",
+      "Other Novel C",
+      "Other Novel B"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「其他武俠小說」。",
+    "explanation_en": "The correct answer is 'Other Martial Arts'.",
+    "difficulty": 2
+  },
+  {
+    "id": 5,
+    "question_zh": "《其他武俠小說》屬於邊種類型？",
+    "question_en": "What genre is 'Other Martial Arts'?",
+    "options_zh": [
+      "戲劇",
+      "小說",
+      "散文",
+      "詩歌"
+    ],
+    "options_en": [
+      "Drama",
+      "Novel",
+      "Essay",
+      "Poetry"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
+    "difficulty": 3
+  },
+  {
+    "id": 6,
+    "question_zh": "《其他武俠小說》屬於邊種類型？",
+    "question_en": "What genre is 'Other Martial Arts'?",
+    "options_zh": [
+      "散文",
+      "詩歌",
+      "小說",
+      "戲劇"
+    ],
+    "options_en": [
+      "Essay",
+      "Poetry",
+      "Novel",
+      "Drama"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question_zh": "《其他武俠小說》屬於邊種類型？",
+    "question_en": "What genre is 'Other Martial Arts'?",
+    "options_zh": [
+      "詩歌",
+      "散文",
+      "戲劇",
+      "小說"
+    ],
+    "options_en": [
+      "Poetry",
+      "Essay",
+      "Drama",
+      "Novel"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_zh": "《其他武俠小說》係邊個類別？",
+    "question_en": "What category is 'Other Martial Arts'?",
+    "options_zh": [
+      "散文",
+      "戲劇",
+      "詩歌",
+      "小說"
+    ],
+    "options_en": [
+      "Essay",
+      "Drama",
+      "Poetry",
+      "Novel"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
+    "difficulty": 3
+  },
+  {
+    "id": 9,
+    "question_zh": "《其他武俠小說》係邊個類別？",
+    "question_en": "What category is 'Other Martial Arts'?",
+    "options_zh": [
+      "小說",
+      "散文",
+      "詩歌",
+      "戲劇"
+    ],
+    "options_en": [
+      "Novel",
+      "Essay",
+      "Poetry",
+      "Drama"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question_zh": "《其他武俠小說》係邊個類別？",
+    "question_en": "What category is 'Other Martial Arts'?",
+    "options_zh": [
+      "詩歌",
+      "散文",
+      "戲劇",
+      "小說"
+    ],
+    "options_en": [
+      "Poetry",
+      "Essay",
+      "Drama",
+      "Novel"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《其他武俠小說》係邊國作品？",
+    "question_en": "Which country is 'Other Martial Arts' from?",
+    "options_zh": [
+      "韓國",
+      "德國",
+      "法國",
+      "中國"
+    ],
+    "options_en": [
+      "South Korea",
+      "Germany",
+      "France",
+      "China"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《其他武俠小說》係邊國作品？",
+    "question_en": "Which country is 'Other Martial Arts' from?",
+    "options_zh": [
+      "中國",
+      "德國",
+      "韓國",
+      "法國"
+    ],
+    "options_en": [
+      "China",
+      "Germany",
+      "South Korea",
+      "France"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_zh": "《其他武俠小說》係邊國作品？",
+    "question_en": "Which country is 'Other Martial Arts' from?",
+    "options_zh": [
+      "韓國",
+      "中國",
+      "德國",
+      "法國"
+    ],
+    "options_en": [
+      "South Korea",
+      "China",
+      "Germany",
+      "France"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_zh": "《其他武俠小說》主要講咩？",
+    "question_en": "What is 'Other Martial Arts' mainly about?",
+    "options_zh": [
+      "科幻太空",
+      "財經商戰",
+      "體育競技",
+      "江湖恩怨同武俠世界"
+    ],
+    "options_en": [
+      "Sci-fi",
+      "Business",
+      "Sports",
+      "Martial arts world"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《其他武俠小說》主要講咩？",
+    "question_en": "What is 'Other Martial Arts' mainly about?",
+    "options_zh": [
+      "科幻太空",
+      "體育競技",
+      "財經商戰",
+      "江湖恩怨同武俠世界"
+    ],
+    "options_en": [
+      "Sci-fi",
+      "Sports",
+      "Business",
+      "Martial arts world"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "《其他武俠小說》主要講咩？",
+    "question_en": "What is 'Other Martial Arts' mainly about?",
+    "options_zh": [
+      "江湖恩怨同武俠世界",
+      "財經商戰",
+      "科幻太空",
+      "體育競技"
+    ],
+    "options_en": [
+      "Martial arts world",
+      "Business",
+      "Sci-fi",
+      "Sports"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《其他武俠小說》入面有咩角色？",
+    "question_en": "What characters are in 'Other Martial Arts'?",
+    "options_zh": [
+      "機械人",
+      "外星人",
+      "動物",
+      "武林高手"
+    ],
+    "options_en": [
+      "Robots",
+      "Aliens",
+      "Animals",
+      "Martial arts masters"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「武林高手」。",
+    "explanation_en": "The correct answer is 'Martial arts masters'.",
+    "difficulty": 3
+  },
+  {
+    "id": 18,
+    "question_zh": "《其他武俠小說》入面有咩角色？",
+    "question_en": "What characters are in 'Other Martial Arts'?",
+    "options_zh": [
+      "動物",
+      "武林高手",
+      "外星人",
+      "機械人"
+    ],
+    "options_en": [
+      "Animals",
+      "Martial arts masters",
+      "Aliens",
+      "Robots"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「武林高手」。",
+    "explanation_en": "The correct answer is 'Martial arts masters'.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "《其他武俠小說》入面有咩角色？",
+    "question_en": "What characters are in 'Other Martial Arts'?",
+    "options_zh": [
+      "機械人",
+      "武林高手",
+      "外星人",
+      "動物"
+    ],
+    "options_en": [
+      "Robots",
+      "Martial arts masters",
+      "Aliens",
+      "Animals"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「武林高手」。",
+    "explanation_en": "The correct answer is 'Martial arts masters'.",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question_zh": "《其他武俠小說》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Other Martial Arts' set?",
+    "options_zh": [
+      "未來太空",
+      "虛擬世界",
+      "歐洲中世紀",
+      "古代中國"
+    ],
+    "options_en": [
+      "Future space",
+      "Virtual world",
+      "Medieval Europe",
+      "Ancient China"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
+    "difficulty": 3
+  },
+  {
+    "id": 21,
+    "question_zh": "《其他武俠小說》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Other Martial Arts' set?",
+    "options_zh": [
+      "歐洲中世紀",
+      "古代中國",
+      "未來太空",
+      "虛擬世界"
+    ],
+    "options_en": [
+      "Medieval Europe",
+      "Ancient China",
+      "Future space",
+      "Virtual world"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question_zh": "《其他武俠小說》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Other Martial Arts' set?",
+    "options_zh": [
+      "虛擬世界",
+      "歐洲中世紀",
+      "未來太空",
+      "古代中國"
+    ],
+    "options_en": [
+      "Virtual world",
+      "Medieval Europe",
+      "Future space",
+      "Ancient China"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question_zh": "《其他武俠小說》係咪好受歡迎？",
+    "question_en": "Is 'Other Martial Arts' popular?",
+    "options_zh": [
+      "係，有一定讀者群",
+      "唔係，好冷門",
+      "只喺特定地區流行",
+      "已經過氣"
+    ],
+    "options_en": [
+      "Yes, has a readership",
+      "No, very niche",
+      "Only popular locally",
+      "Outdated"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「係，有一定讀者群」。",
+    "explanation_en": "The correct answer is 'Yes, has a readership'.",
+    "difficulty": 3
+  },
+  {
+    "id": 24,
+    "question_zh": "《其他武俠小說》係咪好受歡迎？",
+    "question_en": "Is 'Other Martial Arts' popular?",
+    "options_zh": [
+      "已經過氣",
+      "只喺特定地區流行",
+      "唔係，好冷門",
+      "係，有一定讀者群"
+    ],
+    "options_en": [
+      "Outdated",
+      "Only popular locally",
+      "No, very niche",
+      "Yes, has a readership"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「係，有一定讀者群」。",
+    "explanation_en": "The correct answer is 'Yes, has a readership'.",
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question_zh": "《其他武俠小說》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Other Martial Arts'?",
+    "options_zh": [
+      "德國人",
+      "韓國人",
+      "中國人",
+      "法國人"
+    ],
+    "options_en": [
+      "German",
+      "Korean",
+      "Chinese",
+      "French"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question_zh": "以下邊本係《其他武俠小說》？",
+    "question_en": "Which one is 'Other Martial Arts'?",
+    "options_zh": [
+      "其他小說B",
+      "其他武俠小說",
+      "其他小說A",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Other Martial Arts",
+      "Other Novel A",
+      "Other Novel C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「其他武俠小說」。",
+    "explanation_en": "The correct answer is 'Other Martial Arts'.",
+    "difficulty": 3
+  },
+  {
+    "id": 27,
+    "question_zh": "以下邊本係《其他武俠小說》？",
+    "question_en": "Which one is 'Other Martial Arts'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說C",
+      "其他武俠小說",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel C",
+      "Other Martial Arts",
+      "Other Novel B"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「其他武俠小說」。",
+    "explanation_en": "The correct answer is 'Other Martial Arts'.",
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question_zh": "以下邊本係《其他武俠小說》？",
+    "question_en": "Which one is 'Other Martial Arts'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說C",
+      "其他小說B",
+      "其他武俠小說"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel C",
+      "Other Novel B",
+      "Other Martial Arts"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「其他武俠小說」。",
+    "explanation_en": "The correct answer is 'Other Martial Arts'.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "以下邊本係《其他武俠小說》？",
+    "question_en": "Which one is 'Other Martial Arts'?",
+    "options_zh": [
       "其他小說C",
       "其他武俠小說",
       "其他小說A",
@@ -18,594 +606,6 @@
     "answer": 1,
     "explanation_zh": "正確答案係「其他武俠小說」。",
     "explanation_en": "The correct answer is 'Other Martial Arts'.",
-    "difficulty": 2
-  },
-  {
-    "id": 2,
-    "question_zh": "以下邊本係《其他武俠小說》？",
-    "question_en": "Which one is 'Other Martial Arts'?",
-    "options_zh": [
-      "其他小說B",
-      "其他小說C",
-      "其他小說A",
-      "其他武俠小說"
-    ],
-    "options_en": [
-      "Other Novel B",
-      "Other Novel C",
-      "Other Novel A",
-      "Other Martial Arts"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「其他武俠小說」。",
-    "explanation_en": "The correct answer is 'Other Martial Arts'.",
-    "difficulty": 3
-  },
-  {
-    "id": 3,
-    "question_zh": "以下邊本係《其他武俠小說》？",
-    "question_en": "Which one is 'Other Martial Arts'?",
-    "options_zh": [
-      "其他小說B",
-      "其他小說C",
-      "其他小說A",
-      "其他武俠小說"
-    ],
-    "options_en": [
-      "Other Novel B",
-      "Other Novel C",
-      "Other Novel A",
-      "Other Martial Arts"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「其他武俠小說」。",
-    "explanation_en": "The correct answer is 'Other Martial Arts'.",
-    "difficulty": 1
-  },
-  {
-    "id": 4,
-    "question_zh": "以下邊本係《其他武俠小說》？",
-    "question_en": "Which one is 'Other Martial Arts'?",
-    "options_zh": [
-      "其他小說B",
-      "其他小說C",
-      "其他武俠小說",
-      "其他小說A"
-    ],
-    "options_en": [
-      "Other Novel B",
-      "Other Novel C",
-      "Other Martial Arts",
-      "Other Novel A"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「其他武俠小說」。",
-    "explanation_en": "The correct answer is 'Other Martial Arts'.",
-    "difficulty": 2
-  },
-  {
-    "id": 5,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
-    "options_zh": [
-      "武俠與動作類",
-      "其他類型B",
-      "其他類型A",
-      "其他類型C"
-    ],
-    "options_en": [
-      "Martial Arts & Action",
-      "Genre B",
-      "Genre A",
-      "Genre C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
-    "difficulty": 3
-  },
-  {
-    "id": 6,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
-    "options_zh": [
-      "其他類型A",
-      "其他類型B",
-      "其他類型C",
-      "武俠與動作類"
-    ],
-    "options_en": [
-      "Genre A",
-      "Genre B",
-      "Genre C",
-      "Martial Arts & Action"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
-    "difficulty": 1
-  },
-  {
-    "id": 7,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
-    "options_zh": [
-      "武俠與動作類",
-      "其他類型B",
-      "其他類型C",
-      "其他類型A"
-    ],
-    "options_en": [
-      "Martial Arts & Action",
-      "Genre B",
-      "Genre C",
-      "Genre A"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
-    "difficulty": 2
-  },
-  {
-    "id": 8,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
-    "options_zh": [
-      "其他類型A",
-      "武俠與動作類",
-      "其他類型B",
-      "其他類型C"
-    ],
-    "options_en": [
-      "Genre A",
-      "Martial Arts & Action",
-      "Genre B",
-      "Genre C"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
-    "difficulty": 3
-  },
-  {
-    "id": 9,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
-    "options_zh": [
-      "其他類型C",
-      "其他類型B",
-      "武俠與動作類",
-      "其他類型A"
-    ],
-    "options_en": [
-      "Genre C",
-      "Genre B",
-      "Martial Arts & Action",
-      "Genre A"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
-    "difficulty": 1
-  },
-  {
-    "id": 10,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
-    "options_zh": [
-      "其他類型B",
-      "其他類型C",
-      "其他類型A",
-      "武俠與動作類"
-    ],
-    "options_en": [
-      "Genre B",
-      "Genre C",
-      "Genre A",
-      "Martial Arts & Action"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
-    "difficulty": 2
-  },
-  {
-    "id": 11,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
-    "options_zh": [
-      "武俠與動作類",
-      "其他類型B",
-      "其他類型C",
-      "其他類型A"
-    ],
-    "options_en": [
-      "Martial Arts & Action",
-      "Genre B",
-      "Genre C",
-      "Genre A"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
-    "difficulty": 3
-  },
-  {
-    "id": 12,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
-    "options_zh": [
-      "其他類型B",
-      "武俠與動作類",
-      "其他類型C",
-      "其他類型A"
-    ],
-    "options_en": [
-      "Genre B",
-      "Martial Arts & Action",
-      "Genre C",
-      "Genre A"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
-    "difficulty": 1
-  },
-  {
-    "id": 13,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
-    "options_zh": [
-      "其他類型B",
-      "武俠與動作類",
-      "其他類型C",
-      "其他類型A"
-    ],
-    "options_en": [
-      "Genre B",
-      "Martial Arts & Action",
-      "Genre C",
-      "Genre A"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
-    "difficulty": 2
-  },
-  {
-    "id": 14,
-    "question_zh": "《其他武俠小說》主要講咩？",
-    "question_en": "What is 'Other Martial Arts' mainly about?",
-    "options_zh": [
-      "江湖恩怨同武俠世界",
-      "科幻太空",
-      "財經商戰",
-      "體育競技"
-    ],
-    "options_en": [
-      "Martial arts world and adventures",
-      "Sci-fi space",
-      "Business",
-      "Sports"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
-    "difficulty": 3
-  },
-  {
-    "id": 15,
-    "question_zh": "《其他武俠小說》主要講咩？",
-    "question_en": "What is 'Other Martial Arts' mainly about?",
-    "options_zh": [
-      "科幻太空",
-      "江湖恩怨同武俠世界",
-      "財經商戰",
-      "體育競技"
-    ],
-    "options_en": [
-      "Sci-fi space",
-      "Martial arts world and adventures",
-      "Business",
-      "Sports"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
-    "difficulty": 1
-  },
-  {
-    "id": 16,
-    "question_zh": "《其他武俠小說》主要講咩？",
-    "question_en": "What is 'Other Martial Arts' mainly about?",
-    "options_zh": [
-      "江湖恩怨同武俠世界",
-      "科幻太空",
-      "財經商戰",
-      "體育競技"
-    ],
-    "options_en": [
-      "Martial arts world and adventures",
-      "Sci-fi space",
-      "Business",
-      "Sports"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
-    "difficulty": 2
-  },
-  {
-    "id": 17,
-    "question_zh": "《其他武俠小說》入面有咩角色？",
-    "question_en": "What characters are in 'Other Martial Arts'?",
-    "options_zh": [
-      "外星人",
-      "機械人",
-      "動物",
-      "主要角色"
-    ],
-    "options_en": [
-      "Aliens",
-      "Robots",
-      "Animals",
-      "Main characters"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 3
-  },
-  {
-    "id": 18,
-    "question_zh": "《其他武俠小說》入面有咩角色？",
-    "question_en": "What characters are in 'Other Martial Arts'?",
-    "options_zh": [
-      "機械人",
-      "動物",
-      "主要角色",
-      "外星人"
-    ],
-    "options_en": [
-      "Robots",
-      "Animals",
-      "Main characters",
-      "Aliens"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 1
-  },
-  {
-    "id": 19,
-    "question_zh": "《其他武俠小說》入面有咩角色？",
-    "question_en": "What characters are in 'Other Martial Arts'?",
-    "options_zh": [
-      "動物",
-      "外星人",
-      "機械人",
-      "主要角色"
-    ],
-    "options_en": [
-      "Animals",
-      "Aliens",
-      "Robots",
-      "Main characters"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 2
-  },
-  {
-    "id": 20,
-    "question_zh": "《其他武俠小說》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Other Martial Arts' set?",
-    "options_zh": [
-      "歐洲中世紀",
-      "未來太空",
-      "虛擬世界",
-      "古代中國江湖"
-    ],
-    "options_en": [
-      "Medieval Europe",
-      "Future space",
-      "Virtual world",
-      "Ancient Chinese martial arts world"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
-    "difficulty": 3
-  },
-  {
-    "id": 21,
-    "question_zh": "《其他武俠小說》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Other Martial Arts' set?",
-    "options_zh": [
-      "虛擬世界",
-      "古代中國江湖",
-      "未來太空",
-      "歐洲中世紀"
-    ],
-    "options_en": [
-      "Virtual world",
-      "Ancient Chinese martial arts world",
-      "Future space",
-      "Medieval Europe"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
-    "difficulty": 1
-  },
-  {
-    "id": 22,
-    "question_zh": "《其他武俠小說》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Other Martial Arts' set?",
-    "options_zh": [
-      "古代中國江湖",
-      "虛擬世界",
-      "歐洲中世紀",
-      "未來太空"
-    ],
-    "options_en": [
-      "Ancient Chinese martial arts world",
-      "Virtual world",
-      "Medieval Europe",
-      "Future space"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
-    "difficulty": 2
-  },
-  {
-    "id": 23,
-    "question_zh": "《其他武俠小說》係咪好受歡迎？",
-    "question_en": "Is 'Other Martial Arts' popular?",
-    "options_zh": [
-      "係，有一定讀者群",
-      "只喺特定地區流行",
-      "已經過氣",
-      "唔係，好冷門"
-    ],
-    "options_en": [
-      "Yes, has a readership",
-      "Only popular locally",
-      "Outdated",
-      "No, very niche"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「係，有一定讀者群」。",
-    "explanation_en": "The correct answer is 'Yes, has a readership'.",
-    "difficulty": 3
-  },
-  {
-    "id": 24,
-    "question_zh": "《其他武俠小說》係咪好受歡迎？",
-    "question_en": "Is 'Other Martial Arts' popular?",
-    "options_zh": [
-      "唔係，好冷門",
-      "只喺特定地區流行",
-      "已經過氣",
-      "係，有一定讀者群"
-    ],
-    "options_en": [
-      "No, very niche",
-      "Only popular locally",
-      "Outdated",
-      "Yes, has a readership"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係，有一定讀者群」。",
-    "explanation_en": "The correct answer is 'Yes, has a readership'.",
-    "difficulty": 1
-  },
-  {
-    "id": 25,
-    "question_zh": "《其他武俠小說》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Other Martial Arts' belong to?",
-    "options_zh": [
-      "恐怖小說",
-      "兒童文學",
-      "武俠與動作類",
-      "科幻小說"
-    ],
-    "options_en": [
-      "Horror",
-      "Children's literature",
-      "Martial Arts & Action",
-      "Sci-fi"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
-    "difficulty": 2
-  },
-  {
-    "id": 26,
-    "question_zh": "以下邊本係《其他武俠小說》？",
-    "question_en": "Which one is 'Other Martial Arts'?",
-    "options_zh": [
-      "其他小說A",
-      "其他小說B",
-      "其他武俠小說",
-      "其他小說C"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "Other Novel B",
-      "Other Martial Arts",
-      "Other Novel C"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「其他武俠小說」。",
-    "explanation_en": "The correct answer is 'Other Martial Arts'.",
-    "difficulty": 3
-  },
-  {
-    "id": 27,
-    "question_zh": "以下邊本係《其他武俠小說》？",
-    "question_en": "Which one is 'Other Martial Arts'?",
-    "options_zh": [
-      "其他小說A",
-      "其他小說B",
-      "其他小說C",
-      "其他武俠小說"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "Other Novel B",
-      "Other Novel C",
-      "Other Martial Arts"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「其他武俠小說」。",
-    "explanation_en": "The correct answer is 'Other Martial Arts'.",
-    "difficulty": 1
-  },
-  {
-    "id": 28,
-    "question_zh": "以下邊本係《其他武俠小說》？",
-    "question_en": "Which one is 'Other Martial Arts'?",
-    "options_zh": [
-      "其他小說A",
-      "其他武俠小說",
-      "其他小說B",
-      "其他小說C"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "Other Martial Arts",
-      "Other Novel B",
-      "Other Novel C"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「其他武俠小說」。",
-    "explanation_en": "The correct answer is 'Other Martial Arts'.",
-    "difficulty": 2
-  },
-  {
-    "id": 29,
-    "question_zh": "以下邊本係《其他武俠小說》？",
-    "question_en": "Which one is 'Other Martial Arts'?",
-    "options_zh": [
-      "其他小說B",
-      "其他小說C",
-      "其他小說A",
-      "其他武俠小說"
-    ],
-    "options_en": [
-      "Other Novel B",
-      "Other Novel C",
-      "Other Novel A",
-      "Other Martial Arts"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「其他武俠小說」。",
-    "explanation_en": "The correct answer is 'Other Martial Arts'.",
     "difficulty": 3
   },
   {
@@ -613,20 +613,20 @@
     "question_zh": "《其他武俠小說》屬於邊種類型？",
     "question_en": "What genre is 'Other Martial Arts'?",
     "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "其他類型B",
-      "武俠與動作類"
+      "詩歌",
+      "散文",
+      "戲劇",
+      "小說"
     ],
     "options_en": [
-      "Genre C",
-      "Genre A",
-      "Genre B",
-      "Martial Arts & Action"
+      "Poetry",
+      "Essay",
+      "Drama",
+      "Novel"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 1
   },
   {
@@ -634,20 +634,20 @@
     "question_zh": "《其他武俠小說》屬於邊種類型？",
     "question_en": "What genre is 'Other Martial Arts'?",
     "options_zh": [
-      "武俠與動作類",
-      "其他類型A",
-      "其他類型C",
-      "其他類型B"
+      "散文",
+      "小說",
+      "戲劇",
+      "詩歌"
     ],
     "options_en": [
-      "Martial Arts & Action",
-      "Genre A",
-      "Genre C",
-      "Genre B"
+      "Essay",
+      "Novel",
+      "Drama",
+      "Poetry"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 2
   },
   {
@@ -655,146 +655,146 @@
     "question_zh": "《其他武俠小說》屬於邊種類型？",
     "question_en": "What genre is 'Other Martial Arts'?",
     "options_zh": [
-      "其他類型B",
-      "武俠與動作類",
-      "其他類型A",
-      "其他類型C"
+      "詩歌",
+      "戲劇",
+      "小說",
+      "散文"
     ],
     "options_en": [
-      "Genre B",
-      "Martial Arts & Action",
-      "Genre A",
-      "Genre C"
+      "Poetry",
+      "Drama",
+      "Novel",
+      "Essay"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 3
   },
   {
     "id": 33,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
+    "question_zh": "《其他武俠小說》係邊個類別？",
+    "question_en": "What category is 'Other Martial Arts'?",
     "options_zh": [
-      "武俠與動作類",
-      "其他類型B",
-      "其他類型A",
-      "其他類型C"
+      "詩歌",
+      "小說",
+      "散文",
+      "戲劇"
     ],
     "options_en": [
-      "Martial Arts & Action",
-      "Genre B",
-      "Genre A",
-      "Genre C"
+      "Poetry",
+      "Novel",
+      "Essay",
+      "Drama"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 1
   },
   {
     "id": 34,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
+    "question_zh": "《其他武俠小說》係邊個類別？",
+    "question_en": "What category is 'Other Martial Arts'?",
     "options_zh": [
-      "其他類型C",
-      "其他類型B",
-      "其他類型A",
-      "武俠與動作類"
+      "詩歌",
+      "小說",
+      "戲劇",
+      "散文"
     ],
     "options_en": [
-      "Genre C",
-      "Genre B",
-      "Genre A",
-      "Martial Arts & Action"
+      "Poetry",
+      "Novel",
+      "Drama",
+      "Essay"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 2
   },
   {
     "id": 35,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
+    "question_zh": "《其他武俠小說》係邊個類別？",
+    "question_en": "What category is 'Other Martial Arts'?",
     "options_zh": [
-      "其他類型B",
-      "武俠與動作類",
-      "其他類型A",
-      "其他類型C"
+      "小說",
+      "散文",
+      "戲劇",
+      "詩歌"
     ],
     "options_en": [
-      "Genre B",
-      "Martial Arts & Action",
-      "Genre A",
-      "Genre C"
+      "Novel",
+      "Essay",
+      "Drama",
+      "Poetry"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 3
   },
   {
     "id": 36,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
+    "question_zh": "《其他武俠小說》係邊國作品？",
+    "question_en": "Which country is 'Other Martial Arts' from?",
     "options_zh": [
-      "其他類型A",
-      "武俠與動作類",
-      "其他類型C",
-      "其他類型B"
+      "法國",
+      "德國",
+      "韓國",
+      "中國"
     ],
     "options_en": [
-      "Genre A",
-      "Martial Arts & Action",
-      "Genre C",
-      "Genre B"
+      "France",
+      "Germany",
+      "South Korea",
+      "China"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 37,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
+    "question_zh": "《其他武俠小說》係邊國作品？",
+    "question_en": "Which country is 'Other Martial Arts' from?",
     "options_zh": [
-      "其他類型A",
-      "武俠與動作類",
-      "其他類型B",
-      "其他類型C"
+      "中國",
+      "韓國",
+      "法國",
+      "德國"
     ],
     "options_en": [
-      "Genre A",
-      "Martial Arts & Action",
-      "Genre B",
-      "Genre C"
+      "China",
+      "South Korea",
+      "France",
+      "Germany"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
     "id": 38,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
+    "question_zh": "《其他武俠小說》係邊國作品？",
+    "question_en": "Which country is 'Other Martial Arts' from?",
     "options_zh": [
-      "其他類型C",
-      "武俠與動作類",
-      "其他類型A",
-      "其他類型B"
+      "德國",
+      "中國",
+      "韓國",
+      "法國"
     ],
     "options_en": [
-      "Genre C",
-      "Martial Arts & Action",
-      "Genre A",
-      "Genre B"
+      "Germany",
+      "China",
+      "South Korea",
+      "France"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
@@ -803,19 +803,19 @@
     "question_en": "What is 'Other Martial Arts' mainly about?",
     "options_zh": [
       "財經商戰",
-      "科幻太空",
+      "體育競技",
       "江湖恩怨同武俠世界",
-      "體育競技"
+      "科幻太空"
     ],
     "options_en": [
       "Business",
-      "Sci-fi space",
-      "Martial arts world and adventures",
-      "Sports"
+      "Sports",
+      "Martial arts world",
+      "Sci-fi"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 1
   },
   {
@@ -823,20 +823,20 @@
     "question_zh": "《其他武俠小說》主要講咩？",
     "question_en": "What is 'Other Martial Arts' mainly about?",
     "options_zh": [
-      "財經商戰",
       "科幻太空",
       "體育競技",
-      "江湖恩怨同武俠世界"
+      "江湖恩怨同武俠世界",
+      "財經商戰"
     ],
     "options_en": [
-      "Business",
-      "Sci-fi space",
+      "Sci-fi",
       "Sports",
-      "Martial arts world and adventures"
+      "Martial arts world",
+      "Business"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 2
   },
   {
@@ -844,20 +844,20 @@
     "question_zh": "《其他武俠小說》主要講咩？",
     "question_en": "What is 'Other Martial Arts' mainly about?",
     "options_zh": [
-      "財經商戰",
       "科幻太空",
+      "江湖恩怨同武俠世界",
       "體育競技",
-      "江湖恩怨同武俠世界"
+      "財經商戰"
     ],
     "options_en": [
-      "Business",
-      "Sci-fi space",
+      "Sci-fi",
+      "Martial arts world",
       "Sports",
-      "Martial arts world and adventures"
+      "Business"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 3
   },
   {
@@ -865,20 +865,20 @@
     "question_zh": "《其他武俠小說》入面有咩角色？",
     "question_en": "What characters are in 'Other Martial Arts'?",
     "options_zh": [
-      "動物",
       "外星人",
-      "主要角色",
-      "機械人"
+      "機械人",
+      "武林高手",
+      "動物"
     ],
     "options_en": [
-      "Animals",
       "Aliens",
-      "Main characters",
-      "Robots"
+      "Robots",
+      "Martial arts masters",
+      "Animals"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "explanation_zh": "正確答案係「武林高手」。",
+    "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 1
   },
   {
@@ -886,20 +886,20 @@
     "question_zh": "《其他武俠小說》入面有咩角色？",
     "question_en": "What characters are in 'Other Martial Arts'?",
     "options_zh": [
-      "動物",
-      "主要角色",
       "機械人",
-      "外星人"
+      "動物",
+      "外星人",
+      "武林高手"
     ],
     "options_en": [
-      "Animals",
-      "Main characters",
       "Robots",
-      "Aliens"
+      "Animals",
+      "Aliens",
+      "Martial arts masters"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「武林高手」。",
+    "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 2
   },
   {
@@ -907,20 +907,20 @@
     "question_zh": "《其他武俠小說》入面有咩角色？",
     "question_en": "What characters are in 'Other Martial Arts'?",
     "options_zh": [
-      "主要角色",
-      "外星人",
+      "機械人",
+      "武林高手",
       "動物",
-      "機械人"
+      "外星人"
     ],
     "options_en": [
-      "Main characters",
-      "Aliens",
+      "Robots",
+      "Martial arts masters",
       "Animals",
-      "Robots"
+      "Aliens"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「武林高手」。",
+    "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 3
   },
   {
@@ -928,20 +928,20 @@
     "question_zh": "《其他武俠小說》嘅故事背景喺邊度？",
     "question_en": "Where is 'Other Martial Arts' set?",
     "options_zh": [
-      "虛擬世界",
+      "古代中國",
       "歐洲中世紀",
-      "古代中國江湖",
+      "虛擬世界",
       "未來太空"
     ],
     "options_en": [
-      "Virtual world",
+      "Ancient China",
       "Medieval Europe",
-      "Ancient Chinese martial arts world",
+      "Virtual world",
       "Future space"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 1
   },
   {
@@ -950,19 +950,19 @@
     "question_en": "Where is 'Other Martial Arts' set?",
     "options_zh": [
       "虛擬世界",
-      "未來太空",
       "歐洲中世紀",
-      "古代中國江湖"
+      "古代中國",
+      "未來太空"
     ],
     "options_en": [
       "Virtual world",
-      "Future space",
       "Medieval Europe",
-      "Ancient Chinese martial arts world"
+      "Ancient China",
+      "Future space"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 2
   },
   {
@@ -970,20 +970,20 @@
     "question_zh": "《其他武俠小說》嘅故事背景喺邊度？",
     "question_en": "Where is 'Other Martial Arts' set?",
     "options_zh": [
-      "歐洲中世紀",
-      "古代中國江湖",
+      "古代中國",
       "未來太空",
+      "歐洲中世紀",
       "虛擬世界"
     ],
     "options_en": [
-      "Medieval Europe",
-      "Ancient Chinese martial arts world",
+      "Ancient China",
       "Future space",
+      "Medieval Europe",
       "Virtual world"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
@@ -991,18 +991,18 @@
     "question_zh": "《其他武俠小說》係咪好受歡迎？",
     "question_en": "Is 'Other Martial Arts' popular?",
     "options_zh": [
+      "係，有一定讀者群",
       "只喺特定地區流行",
       "唔係，好冷門",
-      "係，有一定讀者群",
       "已經過氣"
     ],
     "options_en": [
+      "Yes, has a readership",
       "Only popular locally",
       "No, very niche",
-      "Yes, has a readership",
       "Outdated"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 1
@@ -1012,66 +1012,45 @@
     "question_zh": "《其他武俠小說》係咪好受歡迎？",
     "question_en": "Is 'Other Martial Arts' popular?",
     "options_zh": [
-      "已經過氣",
       "只喺特定地區流行",
       "係，有一定讀者群",
+      "已經過氣",
       "唔係，好冷門"
     ],
     "options_en": [
-      "Outdated",
       "Only popular locally",
       "Yes, has a readership",
+      "Outdated",
       "No, very niche"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 2
   },
   {
     "id": 50,
-    "question_zh": "《其他武俠小說》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Other Martial Arts' belong to?",
+    "question_zh": "《其他武俠小說》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Other Martial Arts'?",
     "options_zh": [
-      "科幻小說",
-      "兒童文學",
-      "恐怖小說",
-      "武俠與動作類"
+      "中國人",
+      "法國人",
+      "德國人",
+      "韓國人"
     ],
     "options_en": [
-      "Sci-fi",
-      "Children's literature",
-      "Horror",
-      "Martial Arts & Action"
+      "Chinese",
+      "French",
+      "German",
+      "Korean"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 3
   },
   {
     "id": 51,
-    "question_zh": "以下邊本係《其他武俠小說》？",
-    "question_en": "Which one is 'Other Martial Arts'?",
-    "options_zh": [
-      "其他小說A",
-      "其他小說B",
-      "其他武俠小說",
-      "其他小說C"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "Other Novel B",
-      "Other Martial Arts",
-      "Other Novel C"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「其他武俠小說」。",
-    "explanation_en": "The correct answer is 'Other Martial Arts'.",
-    "difficulty": 1
-  },
-  {
-    "id": 52,
     "question_zh": "以下邊本係《其他武俠小說》？",
     "question_en": "Which one is 'Other Martial Arts'?",
     "options_zh": [
@@ -1089,6 +1068,27 @@
     "answer": 1,
     "explanation_zh": "正確答案係「其他武俠小說」。",
     "explanation_en": "The correct answer is 'Other Martial Arts'.",
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "question_zh": "以下邊本係《其他武俠小說》？",
+    "question_en": "Which one is 'Other Martial Arts'?",
+    "options_zh": [
+      "其他小說C",
+      "其他小說A",
+      "其他武俠小說",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Novel A",
+      "Other Martial Arts",
+      "Other Novel B"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「其他武俠小說」。",
+    "explanation_en": "The correct answer is 'Other Martial Arts'.",
     "difficulty": 2
   },
   {
@@ -1096,18 +1096,18 @@
     "question_zh": "以下邊本係《其他武俠小說》？",
     "question_en": "Which one is 'Other Martial Arts'?",
     "options_zh": [
-      "其他小說B",
+      "其他武俠小說",
       "其他小說C",
       "其他小說A",
-      "其他武俠小說"
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel B",
+      "Other Martial Arts",
       "Other Novel C",
       "Other Novel A",
-      "Other Martial Arts"
+      "Other Novel B"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「其他武俠小說」。",
     "explanation_en": "The correct answer is 'Other Martial Arts'.",
     "difficulty": 3
@@ -1119,16 +1119,16 @@
     "options_zh": [
       "其他小說B",
       "其他小說A",
-      "其他小說C",
-      "其他武俠小說"
+      "其他武俠小說",
+      "其他小說C"
     ],
     "options_en": [
       "Other Novel B",
       "Other Novel A",
-      "Other Novel C",
-      "Other Martial Arts"
+      "Other Martial Arts",
+      "Other Novel C"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「其他武俠小說」。",
     "explanation_en": "The correct answer is 'Other Martial Arts'.",
     "difficulty": 1
@@ -1138,20 +1138,20 @@
     "question_zh": "《其他武俠小說》屬於邊種類型？",
     "question_en": "What genre is 'Other Martial Arts'?",
     "options_zh": [
-      "其他類型B",
-      "武俠與動作類",
-      "其他類型A",
-      "其他類型C"
+      "小說",
+      "戲劇",
+      "散文",
+      "詩歌"
     ],
     "options_en": [
-      "Genre B",
-      "Martial Arts & Action",
-      "Genre A",
-      "Genre C"
+      "Novel",
+      "Drama",
+      "Essay",
+      "Poetry"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 2
   },
   {
@@ -1159,20 +1159,20 @@
     "question_zh": "《其他武俠小說》屬於邊種類型？",
     "question_en": "What genre is 'Other Martial Arts'?",
     "options_zh": [
-      "其他類型A",
-      "武俠與動作類",
-      "其他類型C",
-      "其他類型B"
+      "小說",
+      "散文",
+      "詩歌",
+      "戲劇"
     ],
     "options_en": [
-      "Genre A",
-      "Martial Arts & Action",
-      "Genre C",
-      "Genre B"
+      "Novel",
+      "Essay",
+      "Poetry",
+      "Drama"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 3
   },
   {
@@ -1180,146 +1180,146 @@
     "question_zh": "《其他武俠小說》屬於邊種類型？",
     "question_en": "What genre is 'Other Martial Arts'?",
     "options_zh": [
-      "其他類型C",
-      "武俠與動作類",
-      "其他類型A",
-      "其他類型B"
+      "散文",
+      "詩歌",
+      "小說",
+      "戲劇"
     ],
     "options_en": [
-      "Genre C",
-      "Martial Arts & Action",
-      "Genre A",
-      "Genre B"
+      "Essay",
+      "Poetry",
+      "Novel",
+      "Drama"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 1
   },
   {
     "id": 58,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
+    "question_zh": "《其他武俠小說》係邊個類別？",
+    "question_en": "What category is 'Other Martial Arts'?",
     "options_zh": [
-      "其他類型A",
-      "其他類型B",
-      "武俠與動作類",
-      "其他類型C"
+      "散文",
+      "戲劇",
+      "小說",
+      "詩歌"
     ],
     "options_en": [
-      "Genre A",
-      "Genre B",
-      "Martial Arts & Action",
-      "Genre C"
+      "Essay",
+      "Drama",
+      "Novel",
+      "Poetry"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 2
   },
   {
     "id": 59,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
+    "question_zh": "《其他武俠小說》係邊個類別？",
+    "question_en": "What category is 'Other Martial Arts'?",
     "options_zh": [
-      "其他類型C",
-      "武俠與動作類",
-      "其他類型B",
-      "其他類型A"
+      "詩歌",
+      "戲劇",
+      "散文",
+      "小說"
     ],
     "options_en": [
-      "Genre C",
-      "Martial Arts & Action",
-      "Genre B",
-      "Genre A"
+      "Poetry",
+      "Drama",
+      "Essay",
+      "Novel"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 3
   },
   {
     "id": 60,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
+    "question_zh": "《其他武俠小說》係邊個類別？",
+    "question_en": "What category is 'Other Martial Arts'?",
     "options_zh": [
-      "武俠與動作類",
-      "其他類型A",
-      "其他類型C",
-      "其他類型B"
+      "戲劇",
+      "詩歌",
+      "散文",
+      "小說"
     ],
     "options_en": [
-      "Martial Arts & Action",
-      "Genre A",
-      "Genre C",
-      "Genre B"
+      "Drama",
+      "Poetry",
+      "Essay",
+      "Novel"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 1
   },
   {
     "id": 61,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
+    "question_zh": "《其他武俠小說》係邊國作品？",
+    "question_en": "Which country is 'Other Martial Arts' from?",
     "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "武俠與動作類",
-      "其他類型B"
+      "韓國",
+      "中國",
+      "法國",
+      "德國"
     ],
     "options_en": [
-      "Genre C",
-      "Genre A",
-      "Martial Arts & Action",
-      "Genre B"
+      "South Korea",
+      "China",
+      "France",
+      "Germany"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
     "id": 62,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
+    "question_zh": "《其他武俠小說》係邊國作品？",
+    "question_en": "Which country is 'Other Martial Arts' from?",
     "options_zh": [
-      "其他類型B",
-      "武俠與動作類",
-      "其他類型C",
-      "其他類型A"
+      "法國",
+      "中國",
+      "德國",
+      "韓國"
     ],
     "options_en": [
-      "Genre B",
-      "Martial Arts & Action",
-      "Genre C",
-      "Genre A"
+      "France",
+      "China",
+      "Germany",
+      "South Korea"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 63,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
+    "question_zh": "《其他武俠小說》係邊國作品？",
+    "question_en": "Which country is 'Other Martial Arts' from?",
     "options_zh": [
-      "其他類型B",
-      "武俠與動作類",
-      "其他類型C",
-      "其他類型A"
+      "德國",
+      "中國",
+      "韓國",
+      "法國"
     ],
     "options_en": [
-      "Genre B",
-      "Martial Arts & Action",
-      "Genre C",
-      "Genre A"
+      "Germany",
+      "China",
+      "South Korea",
+      "France"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
@@ -1327,20 +1327,20 @@
     "question_zh": "《其他武俠小說》主要講咩？",
     "question_en": "What is 'Other Martial Arts' mainly about?",
     "options_zh": [
-      "江湖恩怨同武俠世界",
-      "科幻太空",
+      "體育競技",
       "財經商戰",
-      "體育競技"
+      "江湖恩怨同武俠世界",
+      "科幻太空"
     ],
     "options_en": [
-      "Martial arts world and adventures",
-      "Sci-fi space",
+      "Sports",
       "Business",
-      "Sports"
+      "Martial arts world",
+      "Sci-fi"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 2
   },
   {
@@ -1348,20 +1348,20 @@
     "question_zh": "《其他武俠小說》主要講咩？",
     "question_en": "What is 'Other Martial Arts' mainly about?",
     "options_zh": [
-      "科幻太空",
-      "江湖恩怨同武俠世界",
       "體育競技",
-      "財經商戰"
+      "科幻太空",
+      "財經商戰",
+      "江湖恩怨同武俠世界"
     ],
     "options_en": [
-      "Sci-fi space",
-      "Martial arts world and adventures",
       "Sports",
-      "Business"
+      "Sci-fi",
+      "Business",
+      "Martial arts world"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 3
   },
   {
@@ -1370,19 +1370,19 @@
     "question_en": "What is 'Other Martial Arts' mainly about?",
     "options_zh": [
       "科幻太空",
-      "江湖恩怨同武俠世界",
+      "體育競技",
       "財經商戰",
-      "體育競技"
+      "江湖恩怨同武俠世界"
     ],
     "options_en": [
-      "Sci-fi space",
-      "Martial arts world and adventures",
+      "Sci-fi",
+      "Sports",
       "Business",
-      "Sports"
+      "Martial arts world"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 1
   },
   {
@@ -1390,20 +1390,20 @@
     "question_zh": "《其他武俠小說》入面有咩角色？",
     "question_en": "What characters are in 'Other Martial Arts'?",
     "options_zh": [
-      "外星人",
+      "機械人",
+      "武林高手",
       "動物",
-      "主要角色",
-      "機械人"
+      "外星人"
     ],
     "options_en": [
-      "Aliens",
+      "Robots",
+      "Martial arts masters",
       "Animals",
-      "Main characters",
-      "Robots"
+      "Aliens"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「武林高手」。",
+    "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 2
   },
   {
@@ -1411,20 +1411,20 @@
     "question_zh": "《其他武俠小說》入面有咩角色？",
     "question_en": "What characters are in 'Other Martial Arts'?",
     "options_zh": [
-      "機械人",
       "外星人",
+      "機械人",
       "動物",
-      "主要角色"
+      "武林高手"
     ],
     "options_en": [
-      "Robots",
       "Aliens",
+      "Robots",
       "Animals",
-      "Main characters"
+      "Martial arts masters"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "explanation_zh": "正確答案係「武林高手」。",
+    "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 3
   },
   {
@@ -1432,20 +1432,20 @@
     "question_zh": "《其他武俠小說》入面有咩角色？",
     "question_en": "What characters are in 'Other Martial Arts'?",
     "options_zh": [
-      "外星人",
-      "主要角色",
       "機械人",
-      "動物"
+      "動物",
+      "外星人",
+      "武林高手"
     ],
     "options_en": [
-      "Aliens",
-      "Main characters",
       "Robots",
-      "Animals"
+      "Animals",
+      "Aliens",
+      "Martial arts masters"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「武林高手」。",
+    "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 1
   },
   {
@@ -1453,20 +1453,20 @@
     "question_zh": "《其他武俠小說》嘅故事背景喺邊度？",
     "question_en": "Where is 'Other Martial Arts' set?",
     "options_zh": [
-      "虛擬世界",
+      "未來太空",
       "歐洲中世紀",
-      "古代中國江湖",
-      "未來太空"
+      "古代中國",
+      "虛擬世界"
     ],
     "options_en": [
-      "Virtual world",
+      "Future space",
       "Medieval Europe",
-      "Ancient Chinese martial arts world",
-      "Future space"
+      "Ancient China",
+      "Virtual world"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 2
   },
   {
@@ -1474,20 +1474,20 @@
     "question_zh": "《其他武俠小說》嘅故事背景喺邊度？",
     "question_en": "Where is 'Other Martial Arts' set?",
     "options_zh": [
+      "未來太空",
+      "古代中國",
       "歐洲中世紀",
-      "古代中國江湖",
-      "虛擬世界",
-      "未來太空"
+      "虛擬世界"
     ],
     "options_en": [
+      "Future space",
+      "Ancient China",
       "Medieval Europe",
-      "Ancient Chinese martial arts world",
-      "Virtual world",
-      "Future space"
+      "Virtual world"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
@@ -1496,19 +1496,19 @@
     "question_en": "Where is 'Other Martial Arts' set?",
     "options_zh": [
       "未來太空",
+      "古代中國",
       "虛擬世界",
-      "歐洲中世紀",
-      "古代中國江湖"
+      "歐洲中世紀"
     ],
     "options_en": [
       "Future space",
+      "Ancient China",
       "Virtual world",
-      "Medieval Europe",
-      "Ancient Chinese martial arts world"
+      "Medieval Europe"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 1
   },
   {
@@ -1516,15 +1516,15 @@
     "question_zh": "《其他武俠小說》係咪好受歡迎？",
     "question_en": "Is 'Other Martial Arts' popular?",
     "options_zh": [
+      "唔係，好冷門",
       "只喺特定地區流行",
       "已經過氣",
-      "唔係，好冷門",
       "係，有一定讀者群"
     ],
     "options_en": [
+      "No, very niche",
       "Only popular locally",
       "Outdated",
-      "No, very niche",
       "Yes, has a readership"
     ],
     "answer": 3,
@@ -1537,14 +1537,14 @@
     "question_zh": "《其他武俠小說》係咪好受歡迎？",
     "question_en": "Is 'Other Martial Arts' popular?",
     "options_zh": [
-      "已經過氣",
       "只喺特定地區流行",
+      "已經過氣",
       "唔係，好冷門",
       "係，有一定讀者群"
     ],
     "options_en": [
-      "Outdated",
       "Only popular locally",
+      "Outdated",
       "No, very niche",
       "Yes, has a readership"
     ],
@@ -1555,23 +1555,23 @@
   },
   {
     "id": 75,
-    "question_zh": "《其他武俠小說》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Other Martial Arts' belong to?",
+    "question_zh": "《其他武俠小說》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Other Martial Arts'?",
     "options_zh": [
-      "武俠與動作類",
-      "兒童文學",
-      "恐怖小說",
-      "科幻小說"
+      "法國人",
+      "韓國人",
+      "德國人",
+      "中國人"
     ],
     "options_en": [
-      "Martial Arts & Action",
-      "Children's literature",
-      "Horror",
-      "Sci-fi"
+      "French",
+      "Korean",
+      "German",
+      "Chinese"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 1
   },
   {
@@ -1579,15 +1579,15 @@
     "question_zh": "以下邊本係《其他武俠小說》？",
     "question_en": "Which one is 'Other Martial Arts'?",
     "options_zh": [
-      "其他小說B",
       "其他小說A",
       "其他小說C",
+      "其他小說B",
       "其他武俠小說"
     ],
     "options_en": [
-      "Other Novel B",
       "Other Novel A",
       "Other Novel C",
+      "Other Novel B",
       "Other Martial Arts"
     ],
     "answer": 3,
@@ -1600,18 +1600,18 @@
     "question_zh": "以下邊本係《其他武俠小說》？",
     "question_en": "Which one is 'Other Martial Arts'?",
     "options_zh": [
-      "其他武俠小說",
-      "其他小說B",
       "其他小說C",
-      "其他小說A"
+      "其他小說A",
+      "其他小說B",
+      "其他武俠小說"
     ],
     "options_en": [
-      "Other Martial Arts",
-      "Other Novel B",
       "Other Novel C",
-      "Other Novel A"
+      "Other Novel A",
+      "Other Novel B",
+      "Other Martial Arts"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「其他武俠小說」。",
     "explanation_en": "The correct answer is 'Other Martial Arts'.",
     "difficulty": 3
@@ -1621,18 +1621,18 @@
     "question_zh": "以下邊本係《其他武俠小說》？",
     "question_en": "Which one is 'Other Martial Arts'?",
     "options_zh": [
-      "其他小說B",
-      "其他小說A",
       "其他小說C",
-      "其他武俠小說"
+      "其他武俠小說",
+      "其他小說B",
+      "其他小說A"
     ],
     "options_en": [
-      "Other Novel B",
-      "Other Novel A",
       "Other Novel C",
-      "Other Martial Arts"
+      "Other Martial Arts",
+      "Other Novel B",
+      "Other Novel A"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「其他武俠小說」。",
     "explanation_en": "The correct answer is 'Other Martial Arts'.",
     "difficulty": 1
@@ -1642,18 +1642,18 @@
     "question_zh": "以下邊本係《其他武俠小說》？",
     "question_en": "Which one is 'Other Martial Arts'?",
     "options_zh": [
-      "其他小說B",
       "其他小說C",
-      "其他武俠小說",
-      "其他小說A"
+      "其他小說A",
+      "其他小說B",
+      "其他武俠小說"
     ],
     "options_en": [
-      "Other Novel B",
       "Other Novel C",
-      "Other Martial Arts",
-      "Other Novel A"
+      "Other Novel A",
+      "Other Novel B",
+      "Other Martial Arts"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「其他武俠小說」。",
     "explanation_en": "The correct answer is 'Other Martial Arts'.",
     "difficulty": 2
@@ -1663,20 +1663,20 @@
     "question_zh": "《其他武俠小說》屬於邊種類型？",
     "question_en": "What genre is 'Other Martial Arts'?",
     "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "其他類型B",
-      "武俠與動作類"
+      "散文",
+      "詩歌",
+      "戲劇",
+      "小說"
     ],
     "options_en": [
-      "Genre C",
-      "Genre A",
-      "Genre B",
-      "Martial Arts & Action"
+      "Essay",
+      "Poetry",
+      "Drama",
+      "Novel"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 3
   },
   {
@@ -1684,20 +1684,20 @@
     "question_zh": "《其他武俠小說》屬於邊種類型？",
     "question_en": "What genre is 'Other Martial Arts'?",
     "options_zh": [
-      "武俠與動作類",
-      "其他類型A",
-      "其他類型C",
-      "其他類型B"
+      "小說",
+      "散文",
+      "詩歌",
+      "戲劇"
     ],
     "options_en": [
-      "Martial Arts & Action",
-      "Genre A",
-      "Genre C",
-      "Genre B"
+      "Novel",
+      "Essay",
+      "Poetry",
+      "Drama"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 1
   },
   {
@@ -1705,146 +1705,146 @@
     "question_zh": "《其他武俠小說》屬於邊種類型？",
     "question_en": "What genre is 'Other Martial Arts'?",
     "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "其他類型B",
-      "武俠與動作類"
+      "戲劇",
+      "詩歌",
+      "散文",
+      "小說"
     ],
     "options_en": [
-      "Genre C",
-      "Genre A",
-      "Genre B",
-      "Martial Arts & Action"
+      "Drama",
+      "Poetry",
+      "Essay",
+      "Novel"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 2
   },
   {
     "id": 83,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
+    "question_zh": "《其他武俠小說》係邊個類別？",
+    "question_en": "What category is 'Other Martial Arts'?",
     "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "其他類型B",
-      "武俠與動作類"
+      "小說",
+      "詩歌",
+      "散文",
+      "戲劇"
     ],
     "options_en": [
-      "Genre C",
-      "Genre A",
-      "Genre B",
-      "Martial Arts & Action"
+      "Novel",
+      "Poetry",
+      "Essay",
+      "Drama"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 3
   },
   {
     "id": 84,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
+    "question_zh": "《其他武俠小說》係邊個類別？",
+    "question_en": "What category is 'Other Martial Arts'?",
     "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "武俠與動作類",
-      "其他類型B"
+      "小說",
+      "詩歌",
+      "戲劇",
+      "散文"
     ],
     "options_en": [
-      "Genre C",
-      "Genre A",
-      "Martial Arts & Action",
-      "Genre B"
+      "Novel",
+      "Poetry",
+      "Drama",
+      "Essay"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 1
   },
   {
     "id": 85,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
+    "question_zh": "《其他武俠小說》係邊個類別？",
+    "question_en": "What category is 'Other Martial Arts'?",
     "options_zh": [
-      "其他類型C",
-      "武俠與動作類",
-      "其他類型B",
-      "其他類型A"
+      "詩歌",
+      "散文",
+      "小說",
+      "戲劇"
     ],
     "options_en": [
-      "Genre C",
-      "Martial Arts & Action",
-      "Genre B",
-      "Genre A"
+      "Poetry",
+      "Essay",
+      "Novel",
+      "Drama"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「小說」。",
+    "explanation_en": "The correct answer is 'Novel'.",
     "difficulty": 2
   },
   {
     "id": 86,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
+    "question_zh": "《其他武俠小說》係邊國作品？",
+    "question_en": "Which country is 'Other Martial Arts' from?",
     "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "其他類型B",
-      "武俠與動作類"
+      "德國",
+      "法國",
+      "中國",
+      "韓國"
     ],
     "options_en": [
-      "Genre C",
-      "Genre A",
-      "Genre B",
-      "Martial Arts & Action"
+      "Germany",
+      "France",
+      "China",
+      "South Korea"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 87,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
+    "question_zh": "《其他武俠小說》係邊國作品？",
+    "question_en": "Which country is 'Other Martial Arts' from?",
     "options_zh": [
-      "武俠與動作類",
-      "其他類型C",
-      "其他類型A",
-      "其他類型B"
+      "中國",
+      "法國",
+      "韓國",
+      "德國"
     ],
     "options_en": [
-      "Martial Arts & Action",
-      "Genre C",
-      "Genre A",
-      "Genre B"
+      "China",
+      "France",
+      "South Korea",
+      "Germany"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 88,
-    "question_zh": "《其他武俠小說》屬於邊種類型？",
-    "question_en": "What genre is 'Other Martial Arts'?",
+    "question_zh": "《其他武俠小說》係邊國作品？",
+    "question_en": "Which country is 'Other Martial Arts' from?",
     "options_zh": [
-      "其他類型A",
-      "武俠與動作類",
-      "其他類型C",
-      "其他類型B"
+      "韓國",
+      "德國",
+      "法國",
+      "中國"
     ],
     "options_en": [
-      "Genre A",
-      "Martial Arts & Action",
-      "Genre C",
-      "Genre B"
+      "South Korea",
+      "Germany",
+      "France",
+      "China"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
@@ -1854,43 +1854,22 @@
     "options_zh": [
       "江湖恩怨同武俠世界",
       "科幻太空",
-      "體育競技",
-      "財經商戰"
+      "財經商戰",
+      "體育競技"
     ],
     "options_en": [
-      "Martial arts world and adventures",
-      "Sci-fi space",
-      "Sports",
-      "Business"
+      "Martial arts world",
+      "Sci-fi",
+      "Business",
+      "Sports"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 3
   },
   {
     "id": 90,
-    "question_zh": "《其他武俠小說》主要講咩？",
-    "question_en": "What is 'Other Martial Arts' mainly about?",
-    "options_zh": [
-      "財經商戰",
-      "科幻太空",
-      "江湖恩怨同武俠世界",
-      "體育競技"
-    ],
-    "options_en": [
-      "Business",
-      "Sci-fi space",
-      "Martial arts world and adventures",
-      "Sports"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
-    "difficulty": 1
-  },
-  {
-    "id": 91,
     "question_zh": "《其他武俠小說》主要講咩？",
     "question_en": "What is 'Other Martial Arts' mainly about?",
     "options_zh": [
@@ -1901,13 +1880,34 @@
     ],
     "options_en": [
       "Business",
-      "Sci-fi space",
+      "Sci-fi",
       "Sports",
-      "Martial arts world and adventures"
+      "Martial arts world"
     ],
     "answer": 3,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
+    "difficulty": 1
+  },
+  {
+    "id": 91,
+    "question_zh": "《其他武俠小說》主要講咩？",
+    "question_en": "What is 'Other Martial Arts' mainly about?",
+    "options_zh": [
+      "財經商戰",
+      "江湖恩怨同武俠世界",
+      "科幻太空",
+      "體育競技"
+    ],
+    "options_en": [
+      "Business",
+      "Martial arts world",
+      "Sci-fi",
+      "Sports"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 2
   },
   {
@@ -1915,20 +1915,20 @@
     "question_zh": "《其他武俠小說》入面有咩角色？",
     "question_en": "What characters are in 'Other Martial Arts'?",
     "options_zh": [
-      "動物",
-      "機械人",
       "外星人",
-      "主要角色"
+      "武林高手",
+      "機械人",
+      "動物"
     ],
     "options_en": [
-      "Animals",
-      "Robots",
       "Aliens",
-      "Main characters"
+      "Martial arts masters",
+      "Robots",
+      "Animals"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「武林高手」。",
+    "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 3
   },
   {
@@ -1937,19 +1937,19 @@
     "question_en": "What characters are in 'Other Martial Arts'?",
     "options_zh": [
       "機械人",
+      "外星人",
       "動物",
-      "主要角色",
-      "外星人"
+      "武林高手"
     ],
     "options_en": [
       "Robots",
+      "Aliens",
       "Animals",
-      "Main characters",
-      "Aliens"
+      "Martial arts masters"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「武林高手」。",
+    "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 1
   },
   {
@@ -1957,20 +1957,20 @@
     "question_zh": "《其他武俠小說》入面有咩角色？",
     "question_en": "What characters are in 'Other Martial Arts'?",
     "options_zh": [
-      "動物",
-      "主要角色",
       "外星人",
-      "機械人"
+      "武林高手",
+      "機械人",
+      "動物"
     ],
     "options_en": [
-      "Animals",
-      "Main characters",
       "Aliens",
-      "Robots"
+      "Martial arts masters",
+      "Robots",
+      "Animals"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
+    "explanation_zh": "正確答案係「武林高手」。",
+    "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 2
   },
   {
@@ -1978,20 +1978,20 @@
     "question_zh": "《其他武俠小說》嘅故事背景喺邊度？",
     "question_en": "Where is 'Other Martial Arts' set?",
     "options_zh": [
-      "古代中國江湖",
       "未來太空",
       "虛擬世界",
-      "歐洲中世紀"
+      "歐洲中世紀",
+      "古代中國"
     ],
     "options_en": [
-      "Ancient Chinese martial arts world",
       "Future space",
       "Virtual world",
-      "Medieval Europe"
+      "Medieval Europe",
+      "Ancient China"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
@@ -1999,20 +1999,20 @@
     "question_zh": "《其他武俠小說》嘅故事背景喺邊度？",
     "question_en": "Where is 'Other Martial Arts' set?",
     "options_zh": [
-      "古代中國江湖",
+      "歐洲中世紀",
       "虛擬世界",
       "未來太空",
-      "歐洲中世紀"
+      "古代中國"
     ],
     "options_en": [
-      "Ancient Chinese martial arts world",
+      "Medieval Europe",
       "Virtual world",
       "Future space",
-      "Medieval Europe"
+      "Ancient China"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 1
   },
   {
@@ -2020,20 +2020,20 @@
     "question_zh": "《其他武俠小說》嘅故事背景喺邊度？",
     "question_en": "Where is 'Other Martial Arts' set?",
     "options_zh": [
-      "古代中國江湖",
-      "歐洲中世紀",
       "未來太空",
+      "古代中國",
+      "歐洲中世紀",
       "虛擬世界"
     ],
     "options_en": [
-      "Ancient Chinese martial arts world",
-      "Medieval Europe",
       "Future space",
+      "Ancient China",
+      "Medieval Europe",
       "Virtual world"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 2
   },
   {
@@ -2042,15 +2042,15 @@
     "question_en": "Is 'Other Martial Arts' popular?",
     "options_zh": [
       "係，有一定讀者群",
+      "唔係，好冷門",
       "已經過氣",
-      "只喺特定地區流行",
-      "唔係，好冷門"
+      "只喺特定地區流行"
     ],
     "options_en": [
       "Yes, has a readership",
+      "No, very niche",
       "Outdated",
-      "Only popular locally",
-      "No, very niche"
+      "Only popular locally"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
@@ -2062,41 +2062,41 @@
     "question_zh": "《其他武俠小說》係咪好受歡迎？",
     "question_en": "Is 'Other Martial Arts' popular?",
     "options_zh": [
+      "係，有一定讀者群",
       "唔係，好冷門",
       "只喺特定地區流行",
-      "係，有一定讀者群",
       "已經過氣"
     ],
     "options_en": [
+      "Yes, has a readership",
       "No, very niche",
       "Only popular locally",
-      "Yes, has a readership",
       "Outdated"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 1
   },
   {
     "id": 100,
-    "question_zh": "《其他武俠小說》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Other Martial Arts' belong to?",
+    "question_zh": "《其他武俠小說》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Other Martial Arts'?",
     "options_zh": [
-      "恐怖小說",
-      "武俠與動作類",
-      "科幻小說",
-      "兒童文學"
+      "法國人",
+      "韓國人",
+      "德國人",
+      "中國人"
     ],
     "options_en": [
-      "Horror",
-      "Martial Arts & Action",
-      "Sci-fi",
-      "Children's literature"
+      "French",
+      "Korean",
+      "German",
+      "Chinese"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
   }
 ]

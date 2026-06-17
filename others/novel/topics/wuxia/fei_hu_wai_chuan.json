@@ -4,15 +4,15 @@
     "question_zh": "以下邊本係《飛狐外傳》？",
     "question_en": "Which one is 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
-      "其他小說A",
-      "飛狐外傳",
       "其他小說B",
+      "飛狐外傳",
+      "其他小說A",
       "其他小說C"
     ],
     "options_en": [
-      "Other Novel A",
-      "Fox Volant of the Snowy Mountain",
       "Other Novel B",
+      "Fox Volant of the Snowy Mountain",
+      "Other Novel A",
       "Other Novel C"
     ],
     "answer": 1,
@@ -25,18 +25,18 @@
     "question_zh": "以下邊本係《飛狐外傳》？",
     "question_en": "Which one is 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
-      "其他小說A",
-      "其他小說B",
+      "其他小說C",
       "飛狐外傳",
-      "其他小說C"
+      "其他小說A",
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel A",
-      "Other Novel B",
+      "Other Novel C",
       "Fox Volant of the Snowy Mountain",
-      "Other Novel C"
+      "Other Novel A",
+      "Other Novel B"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「飛狐外傳」。",
     "explanation_en": "The correct answer is 'Fox Volant of the Snowy Mountain'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "以下邊本係《飛狐外傳》？",
     "question_en": "Which one is 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
-      "其他小說B",
       "其他小說C",
       "飛狐外傳",
-      "其他小說A"
+      "其他小說A",
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel B",
       "Other Novel C",
       "Fox Volant of the Snowy Mountain",
-      "Other Novel A"
+      "Other Novel A",
+      "Other Novel B"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「飛狐外傳」。",
     "explanation_en": "The correct answer is 'Fox Volant of the Snowy Mountain'.",
     "difficulty": 1
@@ -68,65 +68,23 @@
     "question_en": "Which one is 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
       "其他小說A",
-      "飛狐外傳",
       "其他小說B",
+      "飛狐外傳",
       "其他小說C"
     ],
     "options_en": [
       "Other Novel A",
-      "Fox Volant of the Snowy Mountain",
       "Other Novel B",
+      "Fox Volant of the Snowy Mountain",
       "Other Novel C"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「飛狐外傳」。",
     "explanation_en": "The correct answer is 'Fox Volant of the Snowy Mountain'.",
     "difficulty": 2
   },
   {
     "id": 5,
-    "question_zh": "《飛狐外傳》嘅作者係邊個？",
-    "question_en": "Who wrote 'Fox Volant of the Snowy Mountain'?",
-    "options_zh": [
-      "金庸",
-      "其他作者B",
-      "其他作者A",
-      "其他作者C"
-    ],
-    "options_en": [
-      "Jin Yong",
-      "Author B",
-      "Author A",
-      "Author C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「金庸」。",
-    "explanation_en": "The correct answer is 'Jin Yong'.",
-    "difficulty": 3
-  },
-  {
-    "id": 6,
-    "question_zh": "《飛狐外傳》嘅作者係邊個？",
-    "question_en": "Who wrote 'Fox Volant of the Snowy Mountain'?",
-    "options_zh": [
-      "金庸",
-      "其他作者C",
-      "其他作者B",
-      "其他作者A"
-    ],
-    "options_en": [
-      "Jin Yong",
-      "Author C",
-      "Author B",
-      "Author A"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「金庸」。",
-    "explanation_en": "The correct answer is 'Jin Yong'.",
-    "difficulty": 1
-  },
-  {
-    "id": 7,
     "question_zh": "《飛狐外傳》嘅作者係邊個？",
     "question_en": "Who wrote 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
@@ -144,6 +102,48 @@
     "answer": 2,
     "explanation_zh": "正確答案係「金庸」。",
     "explanation_en": "The correct answer is 'Jin Yong'.",
+    "difficulty": 3
+  },
+  {
+    "id": 6,
+    "question_zh": "《飛狐外傳》嘅作者係邊個？",
+    "question_en": "Who wrote 'Fox Volant of the Snowy Mountain'?",
+    "options_zh": [
+      "金庸",
+      "其他作者A",
+      "其他作者C",
+      "其他作者B"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Author A",
+      "Author C",
+      "Author B"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「金庸」。",
+    "explanation_en": "The correct answer is 'Jin Yong'.",
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question_zh": "《飛狐外傳》嘅作者係邊個？",
+    "question_en": "Who wrote 'Fox Volant of the Snowy Mountain'?",
+    "options_zh": [
+      "其他作者B",
+      "金庸",
+      "其他作者A",
+      "其他作者C"
+    ],
+    "options_en": [
+      "Author B",
+      "Jin Yong",
+      "Author A",
+      "Author C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「金庸」。",
+    "explanation_en": "The correct answer is 'Jin Yong'.",
     "difficulty": 2
   },
   {
@@ -151,18 +151,18 @@
     "question_zh": "《飛狐外傳》係邊年出版嘅？",
     "question_en": "What year was 'Fox Volant of the Snowy Mountain' published?",
     "options_zh": [
-      "1957年",
-      "1960年",
-      "1963年",
-      "1955年"
+      "1955年",
+      "1962年",
+      "1965年",
+      "1960年"
     ],
     "options_en": [
-      "1957",
-      "1960",
-      "1963",
-      "1955"
+      "1955",
+      "1962",
+      "1965",
+      "1960"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「1960年」。",
     "explanation_en": "The correct answer is '1960'.",
     "difficulty": 3
@@ -172,14 +172,14 @@
     "question_zh": "《飛狐外傳》係邊年出版嘅？",
     "question_en": "What year was 'Fox Volant of the Snowy Mountain' published?",
     "options_zh": [
-      "1957年",
       "1962年",
+      "1955年",
       "1960年",
       "1963年"
     ],
     "options_en": [
-      "1957",
       "1962",
+      "1955",
       "1960",
       "1963"
     ],
@@ -193,16 +193,16 @@
     "question_zh": "《飛狐外傳》係邊年出版嘅？",
     "question_en": "What year was 'Fox Volant of the Snowy Mountain' published?",
     "options_zh": [
-      "1955年",
+      "1958年",
       "1960年",
-      "1965年",
-      "1958年"
+      "1962年",
+      "1963年"
     ],
     "options_en": [
-      "1955",
+      "1958",
       "1960",
-      "1965",
-      "1958"
+      "1962",
+      "1963"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「1960年」。",
@@ -211,90 +211,69 @@
   },
   {
     "id": 11,
-    "question_zh": "《飛狐外傳》屬於邊種類型？",
-    "question_en": "What genre is 'Fox Volant of the Snowy Mountain'?",
+    "question_zh": "《飛狐外傳》係邊國作品？",
+    "question_en": "Which country is 'Fox Volant of the Snowy Mountain' from?",
     "options_zh": [
-      "其他類型A",
-      "其他類型B",
-      "其他類型C",
-      "武俠與動作類"
+      "中國",
+      "法國",
+      "韓國",
+      "德國"
     ],
     "options_en": [
-      "Genre A",
-      "Genre B",
-      "Genre C",
-      "Martial Arts & Action"
+      "China",
+      "France",
+      "South Korea",
+      "Germany"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 12,
-    "question_zh": "《飛狐外傳》屬於邊種類型？",
-    "question_en": "What genre is 'Fox Volant of the Snowy Mountain'?",
+    "question_zh": "《飛狐外傳》係邊國作品？",
+    "question_en": "Which country is 'Fox Volant of the Snowy Mountain' from?",
     "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "武俠與動作類",
-      "其他類型B"
+      "中國",
+      "德國",
+      "法國",
+      "韓國"
     ],
     "options_en": [
-      "Genre C",
-      "Genre A",
-      "Martial Arts & Action",
-      "Genre B"
+      "China",
+      "Germany",
+      "France",
+      "South Korea"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 13,
-    "question_zh": "《飛狐外傳》屬於邊種類型？",
-    "question_en": "What genre is 'Fox Volant of the Snowy Mountain'?",
+    "question_zh": "《飛狐外傳》係邊國作品？",
+    "question_en": "Which country is 'Fox Volant of the Snowy Mountain' from?",
     "options_zh": [
-      "其他類型A",
-      "武俠與動作類",
-      "其他類型B",
-      "其他類型C"
+      "德國",
+      "中國",
+      "韓國",
+      "法國"
     ],
     "options_en": [
-      "Genre A",
-      "Martial Arts & Action",
-      "Genre B",
-      "Genre C"
+      "Germany",
+      "China",
+      "South Korea",
+      "France"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
     "id": 14,
-    "question_zh": "《飛狐外傳》主要講咩？",
-    "question_en": "What is 'Fox Volant of the Snowy Mountain' mainly about?",
-    "options_zh": [
-      "財經商戰",
-      "江湖恩怨同武俠世界",
-      "體育競技",
-      "科幻太空"
-    ],
-    "options_en": [
-      "Business",
-      "Martial arts world and adventures",
-      "Sports",
-      "Sci-fi space"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
-    "difficulty": 3
-  },
-  {
-    "id": 15,
     "question_zh": "《飛狐外傳》主要講咩？",
     "question_en": "What is 'Fox Volant of the Snowy Mountain' mainly about?",
     "options_zh": [
@@ -306,12 +285,33 @@
     "options_en": [
       "Business",
       "Sports",
-      "Sci-fi space",
-      "Martial arts world and adventures"
+      "Sci-fi",
+      "Martial arts world"
     ],
     "answer": 3,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《飛狐外傳》主要講咩？",
+    "question_en": "What is 'Fox Volant of the Snowy Mountain' mainly about?",
+    "options_zh": [
+      "體育競技",
+      "財經商戰",
+      "科幻太空",
+      "江湖恩怨同武俠世界"
+    ],
+    "options_en": [
+      "Sports",
+      "Business",
+      "Sci-fi",
+      "Martial arts world"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 1
   },
   {
@@ -319,20 +319,20 @@
     "question_zh": "《飛狐外傳》主要講咩？",
     "question_en": "What is 'Fox Volant of the Snowy Mountain' mainly about?",
     "options_zh": [
-      "財經商戰",
       "江湖恩怨同武俠世界",
-      "科幻太空",
-      "體育競技"
+      "財經商戰",
+      "體育競技",
+      "科幻太空"
     ],
     "options_en": [
+      "Martial arts world",
       "Business",
-      "Martial arts world and adventures",
-      "Sci-fi space",
-      "Sports"
+      "Sports",
+      "Sci-fi"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 2
   },
   {
@@ -340,18 +340,18 @@
     "question_zh": "《飛狐外傳》入面有咩角色？",
     "question_en": "What characters are in 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
-      "機械人",
       "武林高手",
+      "機械人",
       "動物",
       "外星人"
     ],
     "options_en": [
-      "Robots",
       "Martial arts masters",
+      "Robots",
       "Animals",
       "Aliens"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「武林高手」。",
     "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 3
@@ -361,18 +361,18 @@
     "question_zh": "《飛狐外傳》入面有咩角色？",
     "question_en": "What characters are in 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
-      "武林高手",
       "動物",
+      "外星人",
       "機械人",
-      "外星人"
+      "武林高手"
     ],
     "options_en": [
-      "Martial arts masters",
       "Animals",
+      "Aliens",
       "Robots",
-      "Aliens"
+      "Martial arts masters"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「武林高手」。",
     "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 1
@@ -382,18 +382,18 @@
     "question_zh": "《飛狐外傳》入面有咩角色？",
     "question_en": "What characters are in 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
-      "機械人",
-      "武林高手",
       "外星人",
-      "動物"
+      "機械人",
+      "動物",
+      "武林高手"
     ],
     "options_en": [
-      "Robots",
-      "Martial arts masters",
       "Aliens",
-      "Animals"
+      "Robots",
+      "Animals",
+      "Martial arts masters"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「武林高手」。",
     "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 2
@@ -403,20 +403,20 @@
     "question_zh": "《飛狐外傳》嘅故事背景喺邊度？",
     "question_en": "Where is 'Fox Volant of the Snowy Mountain' set?",
     "options_zh": [
-      "未來太空",
       "虛擬世界",
-      "古代中國江湖",
-      "歐洲中世紀"
+      "歐洲中世紀",
+      "未來太空",
+      "古代中國"
     ],
     "options_en": [
-      "Future space",
       "Virtual world",
-      "Ancient Chinese martial arts world",
-      "Medieval Europe"
+      "Medieval Europe",
+      "Future space",
+      "Ancient China"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
@@ -424,20 +424,20 @@
     "question_zh": "《飛狐外傳》嘅故事背景喺邊度？",
     "question_en": "Where is 'Fox Volant of the Snowy Mountain' set?",
     "options_zh": [
-      "古代中國江湖",
       "未來太空",
       "歐洲中世紀",
+      "古代中國",
       "虛擬世界"
     ],
     "options_en": [
-      "Ancient Chinese martial arts world",
       "Future space",
       "Medieval Europe",
+      "Ancient China",
       "Virtual world"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 1
   },
   {
@@ -445,20 +445,20 @@
     "question_zh": "《飛狐外傳》嘅故事背景喺邊度？",
     "question_en": "Where is 'Fox Volant of the Snowy Mountain' set?",
     "options_zh": [
+      "虛擬世界",
       "歐洲中世紀",
-      "古代中國江湖",
-      "未來太空",
-      "虛擬世界"
+      "古代中國",
+      "未來太空"
     ],
     "options_en": [
+      "Virtual world",
       "Medieval Europe",
-      "Ancient Chinese martial arts world",
-      "Future space",
-      "Virtual world"
+      "Ancient China",
+      "Future space"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 2
   },
   {
@@ -466,18 +466,18 @@
     "question_zh": "《飛狐外傳》係咪好受歡迎？",
     "question_en": "Is 'Fox Volant of the Snowy Mountain' popular?",
     "options_zh": [
+      "係，有一定讀者群",
       "已經過氣",
       "只喺特定地區流行",
-      "唔係，好冷門",
-      "係，有一定讀者群"
+      "唔係，好冷門"
     ],
     "options_en": [
+      "Yes, has a readership",
       "Outdated",
       "Only popular locally",
-      "No, very niche",
-      "Yes, has a readership"
+      "No, very niche"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 3
@@ -488,86 +488,44 @@
     "question_en": "Is 'Fox Volant of the Snowy Mountain' popular?",
     "options_zh": [
       "只喺特定地區流行",
-      "係，有一定讀者群",
       "唔係，好冷門",
+      "係，有一定讀者群",
       "已經過氣"
     ],
     "options_en": [
       "Only popular locally",
-      "Yes, has a readership",
       "No, very niche",
+      "Yes, has a readership",
       "Outdated"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 1
   },
   {
     "id": 25,
-    "question_zh": "《飛狐外傳》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Fox Volant of the Snowy Mountain' belong to?",
+    "question_zh": "《飛狐外傳》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
-      "武俠與動作類",
-      "恐怖小說",
-      "科幻小說",
-      "兒童文學"
+      "韓國人",
+      "法國人",
+      "德國人",
+      "中國人"
     ],
     "options_en": [
-      "Martial Arts & Action",
-      "Horror",
-      "Sci-fi",
-      "Children's literature"
+      "Korean",
+      "French",
+      "German",
+      "Chinese"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
   },
   {
     "id": 26,
-    "question_zh": "以下邊本係《飛狐外傳》？",
-    "question_en": "Which one is 'Fox Volant of the Snowy Mountain'?",
-    "options_zh": [
-      "其他小說A",
-      "其他小說B",
-      "其他小說C",
-      "飛狐外傳"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "Other Novel B",
-      "Other Novel C",
-      "Fox Volant of the Snowy Mountain"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「飛狐外傳」。",
-    "explanation_en": "The correct answer is 'Fox Volant of the Snowy Mountain'.",
-    "difficulty": 3
-  },
-  {
-    "id": 27,
-    "question_zh": "以下邊本係《飛狐外傳》？",
-    "question_en": "Which one is 'Fox Volant of the Snowy Mountain'?",
-    "options_zh": [
-      "飛狐外傳",
-      "其他小說C",
-      "其他小說A",
-      "其他小說B"
-    ],
-    "options_en": [
-      "Fox Volant of the Snowy Mountain",
-      "Other Novel C",
-      "Other Novel A",
-      "Other Novel B"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「飛狐外傳」。",
-    "explanation_en": "The correct answer is 'Fox Volant of the Snowy Mountain'.",
-    "difficulty": 1
-  },
-  {
-    "id": 28,
     "question_zh": "以下邊本係《飛狐外傳》？",
     "question_en": "Which one is 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
@@ -585,10 +543,577 @@
     "answer": 2,
     "explanation_zh": "正確答案係「飛狐外傳」。",
     "explanation_en": "The correct answer is 'Fox Volant of the Snowy Mountain'.",
+    "difficulty": 3
+  },
+  {
+    "id": 27,
+    "question_zh": "以下邊本係《飛狐外傳》？",
+    "question_en": "Which one is 'Fox Volant of the Snowy Mountain'?",
+    "options_zh": [
+      "飛狐外傳",
+      "其他小說A",
+      "其他小說B",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Fox Volant of the Snowy Mountain",
+      "Other Novel A",
+      "Other Novel B",
+      "Other Novel C"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「飛狐外傳」。",
+    "explanation_en": "The correct answer is 'Fox Volant of the Snowy Mountain'.",
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question_zh": "以下邊本係《飛狐外傳》？",
+    "question_en": "Which one is 'Fox Volant of the Snowy Mountain'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說C",
+      "其他小說B",
+      "飛狐外傳"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel C",
+      "Other Novel B",
+      "Fox Volant of the Snowy Mountain"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「飛狐外傳」。",
+    "explanation_en": "The correct answer is 'Fox Volant of the Snowy Mountain'.",
     "difficulty": 2
   },
   {
     "id": 29,
+    "question_zh": "以下邊本係《飛狐外傳》？",
+    "question_en": "Which one is 'Fox Volant of the Snowy Mountain'?",
+    "options_zh": [
+      "其他小說B",
+      "其他小說A",
+      "其他小說C",
+      "飛狐外傳"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Other Novel A",
+      "Other Novel C",
+      "Fox Volant of the Snowy Mountain"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「飛狐外傳」。",
+    "explanation_en": "The correct answer is 'Fox Volant of the Snowy Mountain'.",
+    "difficulty": 3
+  },
+  {
+    "id": 30,
+    "question_zh": "《飛狐外傳》嘅作者係邊個？",
+    "question_en": "Who wrote 'Fox Volant of the Snowy Mountain'?",
+    "options_zh": [
+      "金庸",
+      "其他作者C",
+      "其他作者B",
+      "其他作者A"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Author C",
+      "Author B",
+      "Author A"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「金庸」。",
+    "explanation_en": "The correct answer is 'Jin Yong'.",
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question_zh": "《飛狐外傳》嘅作者係邊個？",
+    "question_en": "Who wrote 'Fox Volant of the Snowy Mountain'?",
+    "options_zh": [
+      "其他作者B",
+      "其他作者C",
+      "金庸",
+      "其他作者A"
+    ],
+    "options_en": [
+      "Author B",
+      "Author C",
+      "Jin Yong",
+      "Author A"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「金庸」。",
+    "explanation_en": "The correct answer is 'Jin Yong'.",
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question_zh": "《飛狐外傳》嘅作者係邊個？",
+    "question_en": "Who wrote 'Fox Volant of the Snowy Mountain'?",
+    "options_zh": [
+      "其他作者A",
+      "其他作者B",
+      "金庸",
+      "其他作者C"
+    ],
+    "options_en": [
+      "Author A",
+      "Author B",
+      "Jin Yong",
+      "Author C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「金庸」。",
+    "explanation_en": "The correct answer is 'Jin Yong'.",
+    "difficulty": 3
+  },
+  {
+    "id": 33,
+    "question_zh": "《飛狐外傳》係邊年出版嘅？",
+    "question_en": "What year was 'Fox Volant of the Snowy Mountain' published?",
+    "options_zh": [
+      "1960年",
+      "1965年",
+      "1957年",
+      "1963年"
+    ],
+    "options_en": [
+      "1960",
+      "1965",
+      "1957",
+      "1963"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「1960年」。",
+    "explanation_en": "The correct answer is '1960'.",
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question_zh": "《飛狐外傳》係邊年出版嘅？",
+    "question_en": "What year was 'Fox Volant of the Snowy Mountain' published?",
+    "options_zh": [
+      "1963年",
+      "1960年",
+      "1965年",
+      "1962年"
+    ],
+    "options_en": [
+      "1963",
+      "1960",
+      "1965",
+      "1962"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「1960年」。",
+    "explanation_en": "The correct answer is '1960'.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question_zh": "《飛狐外傳》係邊年出版嘅？",
+    "question_en": "What year was 'Fox Volant of the Snowy Mountain' published?",
+    "options_zh": [
+      "1957年",
+      "1955年",
+      "1958年",
+      "1960年"
+    ],
+    "options_en": [
+      "1957",
+      "1955",
+      "1958",
+      "1960"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1960年」。",
+    "explanation_en": "The correct answer is '1960'.",
+    "difficulty": 3
+  },
+  {
+    "id": 36,
+    "question_zh": "《飛狐外傳》係邊國作品？",
+    "question_en": "Which country is 'Fox Volant of the Snowy Mountain' from?",
+    "options_zh": [
+      "德國",
+      "中國",
+      "韓國",
+      "法國"
+    ],
+    "options_en": [
+      "Germany",
+      "China",
+      "South Korea",
+      "France"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question_zh": "《飛狐外傳》係邊國作品？",
+    "question_en": "Which country is 'Fox Volant of the Snowy Mountain' from?",
+    "options_zh": [
+      "韓國",
+      "德國",
+      "中國",
+      "法國"
+    ],
+    "options_en": [
+      "South Korea",
+      "Germany",
+      "China",
+      "France"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "《飛狐外傳》係邊國作品？",
+    "question_en": "Which country is 'Fox Volant of the Snowy Mountain' from?",
+    "options_zh": [
+      "韓國",
+      "德國",
+      "法國",
+      "中國"
+    ],
+    "options_en": [
+      "South Korea",
+      "Germany",
+      "France",
+      "China"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 3
+  },
+  {
+    "id": 39,
+    "question_zh": "《飛狐外傳》主要講咩？",
+    "question_en": "What is 'Fox Volant of the Snowy Mountain' mainly about?",
+    "options_zh": [
+      "財經商戰",
+      "科幻太空",
+      "江湖恩怨同武俠世界",
+      "體育競技"
+    ],
+    "options_en": [
+      "Business",
+      "Sci-fi",
+      "Martial arts world",
+      "Sports"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question_zh": "《飛狐外傳》主要講咩？",
+    "question_en": "What is 'Fox Volant of the Snowy Mountain' mainly about?",
+    "options_zh": [
+      "江湖恩怨同武俠世界",
+      "科幻太空",
+      "財經商戰",
+      "體育競技"
+    ],
+    "options_en": [
+      "Martial arts world",
+      "Sci-fi",
+      "Business",
+      "Sports"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question_zh": "《飛狐外傳》主要講咩？",
+    "question_en": "What is 'Fox Volant of the Snowy Mountain' mainly about?",
+    "options_zh": [
+      "科幻太空",
+      "財經商戰",
+      "江湖恩怨同武俠世界",
+      "體育競技"
+    ],
+    "options_en": [
+      "Sci-fi",
+      "Business",
+      "Martial arts world",
+      "Sports"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
+    "difficulty": 3
+  },
+  {
+    "id": 42,
+    "question_zh": "《飛狐外傳》入面有咩角色？",
+    "question_en": "What characters are in 'Fox Volant of the Snowy Mountain'?",
+    "options_zh": [
+      "外星人",
+      "機械人",
+      "武林高手",
+      "動物"
+    ],
+    "options_en": [
+      "Aliens",
+      "Robots",
+      "Martial arts masters",
+      "Animals"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「武林高手」。",
+    "explanation_en": "The correct answer is 'Martial arts masters'.",
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question_zh": "《飛狐外傳》入面有咩角色？",
+    "question_en": "What characters are in 'Fox Volant of the Snowy Mountain'?",
+    "options_zh": [
+      "外星人",
+      "機械人",
+      "動物",
+      "武林高手"
+    ],
+    "options_en": [
+      "Aliens",
+      "Robots",
+      "Animals",
+      "Martial arts masters"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「武林高手」。",
+    "explanation_en": "The correct answer is 'Martial arts masters'.",
+    "difficulty": 2
+  },
+  {
+    "id": 44,
+    "question_zh": "《飛狐外傳》入面有咩角色？",
+    "question_en": "What characters are in 'Fox Volant of the Snowy Mountain'?",
+    "options_zh": [
+      "外星人",
+      "機械人",
+      "動物",
+      "武林高手"
+    ],
+    "options_en": [
+      "Aliens",
+      "Robots",
+      "Animals",
+      "Martial arts masters"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「武林高手」。",
+    "explanation_en": "The correct answer is 'Martial arts masters'.",
+    "difficulty": 3
+  },
+  {
+    "id": 45,
+    "question_zh": "《飛狐外傳》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Fox Volant of the Snowy Mountain' set?",
+    "options_zh": [
+      "未來太空",
+      "古代中國",
+      "虛擬世界",
+      "歐洲中世紀"
+    ],
+    "options_en": [
+      "Future space",
+      "Ancient China",
+      "Virtual world",
+      "Medieval Europe"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question_zh": "《飛狐外傳》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Fox Volant of the Snowy Mountain' set?",
+    "options_zh": [
+      "未來太空",
+      "歐洲中世紀",
+      "古代中國",
+      "虛擬世界"
+    ],
+    "options_en": [
+      "Future space",
+      "Medieval Europe",
+      "Ancient China",
+      "Virtual world"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
+    "difficulty": 2
+  },
+  {
+    "id": 47,
+    "question_zh": "《飛狐外傳》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Fox Volant of the Snowy Mountain' set?",
+    "options_zh": [
+      "未來太空",
+      "歐洲中世紀",
+      "古代中國",
+      "虛擬世界"
+    ],
+    "options_en": [
+      "Future space",
+      "Medieval Europe",
+      "Ancient China",
+      "Virtual world"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
+    "difficulty": 3
+  },
+  {
+    "id": 48,
+    "question_zh": "《飛狐外傳》係咪好受歡迎？",
+    "question_en": "Is 'Fox Volant of the Snowy Mountain' popular?",
+    "options_zh": [
+      "只喺特定地區流行",
+      "唔係，好冷門",
+      "已經過氣",
+      "係，有一定讀者群"
+    ],
+    "options_en": [
+      "Only popular locally",
+      "No, very niche",
+      "Outdated",
+      "Yes, has a readership"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「係，有一定讀者群」。",
+    "explanation_en": "The correct answer is 'Yes, has a readership'.",
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question_zh": "《飛狐外傳》係咪好受歡迎？",
+    "question_en": "Is 'Fox Volant of the Snowy Mountain' popular?",
+    "options_zh": [
+      "只喺特定地區流行",
+      "唔係，好冷門",
+      "已經過氣",
+      "係，有一定讀者群"
+    ],
+    "options_en": [
+      "Only popular locally",
+      "No, very niche",
+      "Outdated",
+      "Yes, has a readership"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「係，有一定讀者群」。",
+    "explanation_en": "The correct answer is 'Yes, has a readership'.",
+    "difficulty": 2
+  },
+  {
+    "id": 50,
+    "question_zh": "《飛狐外傳》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Fox Volant of the Snowy Mountain'?",
+    "options_zh": [
+      "德國人",
+      "韓國人",
+      "法國人",
+      "中國人"
+    ],
+    "options_en": [
+      "German",
+      "Korean",
+      "French",
+      "Chinese"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 3
+  },
+  {
+    "id": 51,
+    "question_zh": "以下邊本係《飛狐外傳》？",
+    "question_en": "Which one is 'Fox Volant of the Snowy Mountain'?",
+    "options_zh": [
+      "其他小說C",
+      "其他小說B",
+      "飛狐外傳",
+      "其他小說A"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Novel B",
+      "Fox Volant of the Snowy Mountain",
+      "Other Novel A"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「飛狐外傳」。",
+    "explanation_en": "The correct answer is 'Fox Volant of the Snowy Mountain'.",
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "question_zh": "以下邊本係《飛狐外傳》？",
+    "question_en": "Which one is 'Fox Volant of the Snowy Mountain'?",
+    "options_zh": [
+      "飛狐外傳",
+      "其他小說B",
+      "其他小說C",
+      "其他小說A"
+    ],
+    "options_en": [
+      "Fox Volant of the Snowy Mountain",
+      "Other Novel B",
+      "Other Novel C",
+      "Other Novel A"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「飛狐外傳」。",
+    "explanation_en": "The correct answer is 'Fox Volant of the Snowy Mountain'.",
+    "difficulty": 2
+  },
+  {
+    "id": 53,
+    "question_zh": "以下邊本係《飛狐外傳》？",
+    "question_en": "Which one is 'Fox Volant of the Snowy Mountain'?",
+    "options_zh": [
+      "其他小說B",
+      "其他小說A",
+      "飛狐外傳",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Other Novel A",
+      "Fox Volant of the Snowy Mountain",
+      "Other Novel C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「飛狐外傳」。",
+    "explanation_en": "The correct answer is 'Fox Volant of the Snowy Mountain'.",
+    "difficulty": 3
+  },
+  {
+    "id": 54,
     "question_zh": "以下邊本係《飛狐外傳》？",
     "question_en": "Which one is 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
@@ -606,10 +1131,52 @@
     "answer": 1,
     "explanation_zh": "正確答案係「飛狐外傳」。",
     "explanation_en": "The correct answer is 'Fox Volant of the Snowy Mountain'.",
+    "difficulty": 1
+  },
+  {
+    "id": 55,
+    "question_zh": "《飛狐外傳》嘅作者係邊個？",
+    "question_en": "Who wrote 'Fox Volant of the Snowy Mountain'?",
+    "options_zh": [
+      "其他作者C",
+      "其他作者A",
+      "金庸",
+      "其他作者B"
+    ],
+    "options_en": [
+      "Author C",
+      "Author A",
+      "Jin Yong",
+      "Author B"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「金庸」。",
+    "explanation_en": "The correct answer is 'Jin Yong'.",
+    "difficulty": 2
+  },
+  {
+    "id": 56,
+    "question_zh": "《飛狐外傳》嘅作者係邊個？",
+    "question_en": "Who wrote 'Fox Volant of the Snowy Mountain'?",
+    "options_zh": [
+      "其他作者B",
+      "其他作者C",
+      "其他作者A",
+      "金庸"
+    ],
+    "options_en": [
+      "Author B",
+      "Author C",
+      "Author A",
+      "Jin Yong"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「金庸」。",
+    "explanation_en": "The correct answer is 'Jin Yong'.",
     "difficulty": 3
   },
   {
-    "id": 30,
+    "id": 57,
     "question_zh": "《飛狐外傳》嘅作者係邊個？",
     "question_en": "Who wrote 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
@@ -630,589 +1197,22 @@
     "difficulty": 1
   },
   {
-    "id": 31,
-    "question_zh": "《飛狐外傳》嘅作者係邊個？",
-    "question_en": "Who wrote 'Fox Volant of the Snowy Mountain'?",
-    "options_zh": [
-      "其他作者C",
-      "其他作者A",
-      "其他作者B",
-      "金庸"
-    ],
-    "options_en": [
-      "Author C",
-      "Author A",
-      "Author B",
-      "Jin Yong"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「金庸」。",
-    "explanation_en": "The correct answer is 'Jin Yong'.",
-    "difficulty": 2
-  },
-  {
-    "id": 32,
-    "question_zh": "《飛狐外傳》嘅作者係邊個？",
-    "question_en": "Who wrote 'Fox Volant of the Snowy Mountain'?",
-    "options_zh": [
-      "其他作者B",
-      "其他作者A",
-      "金庸",
-      "其他作者C"
-    ],
-    "options_en": [
-      "Author B",
-      "Author A",
-      "Jin Yong",
-      "Author C"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「金庸」。",
-    "explanation_en": "The correct answer is 'Jin Yong'.",
-    "difficulty": 3
-  },
-  {
-    "id": 33,
-    "question_zh": "《飛狐外傳》係邊年出版嘅？",
-    "question_en": "What year was 'Fox Volant of the Snowy Mountain' published?",
-    "options_zh": [
-      "1958年",
-      "1962年",
-      "1957年",
-      "1960年"
-    ],
-    "options_en": [
-      "1958",
-      "1962",
-      "1957",
-      "1960"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「1960年」。",
-    "explanation_en": "The correct answer is '1960'.",
-    "difficulty": 1
-  },
-  {
-    "id": 34,
-    "question_zh": "《飛狐外傳》係邊年出版嘅？",
-    "question_en": "What year was 'Fox Volant of the Snowy Mountain' published?",
-    "options_zh": [
-      "1965年",
-      "1957年",
-      "1958年",
-      "1960年"
-    ],
-    "options_en": [
-      "1965",
-      "1957",
-      "1958",
-      "1960"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「1960年」。",
-    "explanation_en": "The correct answer is '1960'.",
-    "difficulty": 2
-  },
-  {
-    "id": 35,
-    "question_zh": "《飛狐外傳》係邊年出版嘅？",
-    "question_en": "What year was 'Fox Volant of the Snowy Mountain' published?",
-    "options_zh": [
-      "1958年",
-      "1963年",
-      "1960年",
-      "1965年"
-    ],
-    "options_en": [
-      "1958",
-      "1963",
-      "1960",
-      "1965"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「1960年」。",
-    "explanation_en": "The correct answer is '1960'.",
-    "difficulty": 3
-  },
-  {
-    "id": 36,
-    "question_zh": "《飛狐外傳》屬於邊種類型？",
-    "question_en": "What genre is 'Fox Volant of the Snowy Mountain'?",
-    "options_zh": [
-      "其他類型B",
-      "武俠與動作類",
-      "其他類型A",
-      "其他類型C"
-    ],
-    "options_en": [
-      "Genre B",
-      "Martial Arts & Action",
-      "Genre A",
-      "Genre C"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
-    "difficulty": 1
-  },
-  {
-    "id": 37,
-    "question_zh": "《飛狐外傳》屬於邊種類型？",
-    "question_en": "What genre is 'Fox Volant of the Snowy Mountain'?",
-    "options_zh": [
-      "其他類型B",
-      "其他類型A",
-      "武俠與動作類",
-      "其他類型C"
-    ],
-    "options_en": [
-      "Genre B",
-      "Genre A",
-      "Martial Arts & Action",
-      "Genre C"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
-    "difficulty": 2
-  },
-  {
-    "id": 38,
-    "question_zh": "《飛狐外傳》屬於邊種類型？",
-    "question_en": "What genre is 'Fox Volant of the Snowy Mountain'?",
-    "options_zh": [
-      "其他類型A",
-      "武俠與動作類",
-      "其他類型C",
-      "其他類型B"
-    ],
-    "options_en": [
-      "Genre A",
-      "Martial Arts & Action",
-      "Genre C",
-      "Genre B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
-    "difficulty": 3
-  },
-  {
-    "id": 39,
-    "question_zh": "《飛狐外傳》主要講咩？",
-    "question_en": "What is 'Fox Volant of the Snowy Mountain' mainly about?",
-    "options_zh": [
-      "江湖恩怨同武俠世界",
-      "體育競技",
-      "科幻太空",
-      "財經商戰"
-    ],
-    "options_en": [
-      "Martial arts world and adventures",
-      "Sports",
-      "Sci-fi space",
-      "Business"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
-    "difficulty": 1
-  },
-  {
-    "id": 40,
-    "question_zh": "《飛狐外傳》主要講咩？",
-    "question_en": "What is 'Fox Volant of the Snowy Mountain' mainly about?",
-    "options_zh": [
-      "體育競技",
-      "科幻太空",
-      "江湖恩怨同武俠世界",
-      "財經商戰"
-    ],
-    "options_en": [
-      "Sports",
-      "Sci-fi space",
-      "Martial arts world and adventures",
-      "Business"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
-    "difficulty": 2
-  },
-  {
-    "id": 41,
-    "question_zh": "《飛狐外傳》主要講咩？",
-    "question_en": "What is 'Fox Volant of the Snowy Mountain' mainly about?",
-    "options_zh": [
-      "財經商戰",
-      "江湖恩怨同武俠世界",
-      "科幻太空",
-      "體育競技"
-    ],
-    "options_en": [
-      "Business",
-      "Martial arts world and adventures",
-      "Sci-fi space",
-      "Sports"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
-    "difficulty": 3
-  },
-  {
-    "id": 42,
-    "question_zh": "《飛狐外傳》入面有咩角色？",
-    "question_en": "What characters are in 'Fox Volant of the Snowy Mountain'?",
-    "options_zh": [
-      "動物",
-      "外星人",
-      "武林高手",
-      "機械人"
-    ],
-    "options_en": [
-      "Animals",
-      "Aliens",
-      "Martial arts masters",
-      "Robots"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「武林高手」。",
-    "explanation_en": "The correct answer is 'Martial arts masters'.",
-    "difficulty": 1
-  },
-  {
-    "id": 43,
-    "question_zh": "《飛狐外傳》入面有咩角色？",
-    "question_en": "What characters are in 'Fox Volant of the Snowy Mountain'?",
-    "options_zh": [
-      "武林高手",
-      "機械人",
-      "外星人",
-      "動物"
-    ],
-    "options_en": [
-      "Martial arts masters",
-      "Robots",
-      "Aliens",
-      "Animals"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武林高手」。",
-    "explanation_en": "The correct answer is 'Martial arts masters'.",
-    "difficulty": 2
-  },
-  {
-    "id": 44,
-    "question_zh": "《飛狐外傳》入面有咩角色？",
-    "question_en": "What characters are in 'Fox Volant of the Snowy Mountain'?",
-    "options_zh": [
-      "武林高手",
-      "機械人",
-      "動物",
-      "外星人"
-    ],
-    "options_en": [
-      "Martial arts masters",
-      "Robots",
-      "Animals",
-      "Aliens"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武林高手」。",
-    "explanation_en": "The correct answer is 'Martial arts masters'.",
-    "difficulty": 3
-  },
-  {
-    "id": 45,
-    "question_zh": "《飛狐外傳》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Fox Volant of the Snowy Mountain' set?",
-    "options_zh": [
-      "古代中國江湖",
-      "虛擬世界",
-      "歐洲中世紀",
-      "未來太空"
-    ],
-    "options_en": [
-      "Ancient Chinese martial arts world",
-      "Virtual world",
-      "Medieval Europe",
-      "Future space"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
-    "difficulty": 1
-  },
-  {
-    "id": 46,
-    "question_zh": "《飛狐外傳》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Fox Volant of the Snowy Mountain' set?",
-    "options_zh": [
-      "未來太空",
-      "虛擬世界",
-      "歐洲中世紀",
-      "古代中國江湖"
-    ],
-    "options_en": [
-      "Future space",
-      "Virtual world",
-      "Medieval Europe",
-      "Ancient Chinese martial arts world"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
-    "difficulty": 2
-  },
-  {
-    "id": 47,
-    "question_zh": "《飛狐外傳》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Fox Volant of the Snowy Mountain' set?",
-    "options_zh": [
-      "未來太空",
-      "虛擬世界",
-      "歐洲中世紀",
-      "古代中國江湖"
-    ],
-    "options_en": [
-      "Future space",
-      "Virtual world",
-      "Medieval Europe",
-      "Ancient Chinese martial arts world"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
-    "difficulty": 3
-  },
-  {
-    "id": 48,
-    "question_zh": "《飛狐外傳》係咪好受歡迎？",
-    "question_en": "Is 'Fox Volant of the Snowy Mountain' popular?",
-    "options_zh": [
-      "係，有一定讀者群",
-      "唔係，好冷門",
-      "只喺特定地區流行",
-      "已經過氣"
-    ],
-    "options_en": [
-      "Yes, has a readership",
-      "No, very niche",
-      "Only popular locally",
-      "Outdated"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「係，有一定讀者群」。",
-    "explanation_en": "The correct answer is 'Yes, has a readership'.",
-    "difficulty": 1
-  },
-  {
-    "id": 49,
-    "question_zh": "《飛狐外傳》係咪好受歡迎？",
-    "question_en": "Is 'Fox Volant of the Snowy Mountain' popular?",
-    "options_zh": [
-      "只喺特定地區流行",
-      "已經過氣",
-      "係，有一定讀者群",
-      "唔係，好冷門"
-    ],
-    "options_en": [
-      "Only popular locally",
-      "Outdated",
-      "Yes, has a readership",
-      "No, very niche"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「係，有一定讀者群」。",
-    "explanation_en": "The correct answer is 'Yes, has a readership'.",
-    "difficulty": 2
-  },
-  {
-    "id": 50,
-    "question_zh": "《飛狐外傳》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Fox Volant of the Snowy Mountain' belong to?",
-    "options_zh": [
-      "武俠與動作類",
-      "兒童文學",
-      "科幻小說",
-      "恐怖小說"
-    ],
-    "options_en": [
-      "Martial Arts & Action",
-      "Children's literature",
-      "Sci-fi",
-      "Horror"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
-    "difficulty": 3
-  },
-  {
-    "id": 51,
-    "question_zh": "以下邊本係《飛狐外傳》？",
-    "question_en": "Which one is 'Fox Volant of the Snowy Mountain'?",
-    "options_zh": [
-      "飛狐外傳",
-      "其他小說A",
-      "其他小說C",
-      "其他小說B"
-    ],
-    "options_en": [
-      "Fox Volant of the Snowy Mountain",
-      "Other Novel A",
-      "Other Novel C",
-      "Other Novel B"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「飛狐外傳」。",
-    "explanation_en": "The correct answer is 'Fox Volant of the Snowy Mountain'.",
-    "difficulty": 1
-  },
-  {
-    "id": 52,
-    "question_zh": "以下邊本係《飛狐外傳》？",
-    "question_en": "Which one is 'Fox Volant of the Snowy Mountain'?",
-    "options_zh": [
-      "飛狐外傳",
-      "其他小說B",
-      "其他小說A",
-      "其他小說C"
-    ],
-    "options_en": [
-      "Fox Volant of the Snowy Mountain",
-      "Other Novel B",
-      "Other Novel A",
-      "Other Novel C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「飛狐外傳」。",
-    "explanation_en": "The correct answer is 'Fox Volant of the Snowy Mountain'.",
-    "difficulty": 2
-  },
-  {
-    "id": 53,
-    "question_zh": "以下邊本係《飛狐外傳》？",
-    "question_en": "Which one is 'Fox Volant of the Snowy Mountain'?",
-    "options_zh": [
-      "其他小說B",
-      "飛狐外傳",
-      "其他小說C",
-      "其他小說A"
-    ],
-    "options_en": [
-      "Other Novel B",
-      "Fox Volant of the Snowy Mountain",
-      "Other Novel C",
-      "Other Novel A"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「飛狐外傳」。",
-    "explanation_en": "The correct answer is 'Fox Volant of the Snowy Mountain'.",
-    "difficulty": 3
-  },
-  {
-    "id": 54,
-    "question_zh": "以下邊本係《飛狐外傳》？",
-    "question_en": "Which one is 'Fox Volant of the Snowy Mountain'?",
-    "options_zh": [
-      "飛狐外傳",
-      "其他小說B",
-      "其他小說C",
-      "其他小說A"
-    ],
-    "options_en": [
-      "Fox Volant of the Snowy Mountain",
-      "Other Novel B",
-      "Other Novel C",
-      "Other Novel A"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「飛狐外傳」。",
-    "explanation_en": "The correct answer is 'Fox Volant of the Snowy Mountain'.",
-    "difficulty": 1
-  },
-  {
-    "id": 55,
-    "question_zh": "《飛狐外傳》嘅作者係邊個？",
-    "question_en": "Who wrote 'Fox Volant of the Snowy Mountain'?",
-    "options_zh": [
-      "其他作者A",
-      "其他作者C",
-      "金庸",
-      "其他作者B"
-    ],
-    "options_en": [
-      "Author A",
-      "Author C",
-      "Jin Yong",
-      "Author B"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「金庸」。",
-    "explanation_en": "The correct answer is 'Jin Yong'.",
-    "difficulty": 2
-  },
-  {
-    "id": 56,
-    "question_zh": "《飛狐外傳》嘅作者係邊個？",
-    "question_en": "Who wrote 'Fox Volant of the Snowy Mountain'?",
-    "options_zh": [
-      "其他作者C",
-      "其他作者A",
-      "其他作者B",
-      "金庸"
-    ],
-    "options_en": [
-      "Author C",
-      "Author A",
-      "Author B",
-      "Jin Yong"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「金庸」。",
-    "explanation_en": "The correct answer is 'Jin Yong'.",
-    "difficulty": 3
-  },
-  {
-    "id": 57,
-    "question_zh": "《飛狐外傳》嘅作者係邊個？",
-    "question_en": "Who wrote 'Fox Volant of the Snowy Mountain'?",
-    "options_zh": [
-      "其他作者A",
-      "其他作者C",
-      "金庸",
-      "其他作者B"
-    ],
-    "options_en": [
-      "Author A",
-      "Author C",
-      "Jin Yong",
-      "Author B"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「金庸」。",
-    "explanation_en": "The correct answer is 'Jin Yong'.",
-    "difficulty": 1
-  },
-  {
     "id": 58,
     "question_zh": "《飛狐外傳》係邊年出版嘅？",
     "question_en": "What year was 'Fox Volant of the Snowy Mountain' published?",
     "options_zh": [
-      "1960年",
+      "1955年",
       "1962年",
       "1958年",
-      "1965年"
+      "1960年"
     ],
     "options_en": [
-      "1960",
+      "1955",
       "1962",
       "1958",
-      "1965"
+      "1960"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「1960年」。",
     "explanation_en": "The correct answer is '1960'.",
     "difficulty": 2
@@ -1222,13 +1222,13 @@
     "question_zh": "《飛狐外傳》係邊年出版嘅？",
     "question_en": "What year was 'Fox Volant of the Snowy Mountain' published?",
     "options_zh": [
-      "1955年",
+      "1965年",
       "1957年",
       "1962年",
       "1960年"
     ],
     "options_en": [
-      "1955",
+      "1965",
       "1957",
       "1962",
       "1960"
@@ -1243,83 +1243,83 @@
     "question_zh": "《飛狐外傳》係邊年出版嘅？",
     "question_en": "What year was 'Fox Volant of the Snowy Mountain' published?",
     "options_zh": [
-      "1963年",
-      "1955年",
-      "1960年",
-      "1958年"
+      "1962年",
+      "1957年",
+      "1965年",
+      "1960年"
     ],
     "options_en": [
-      "1963",
-      "1955",
-      "1960",
-      "1958"
+      "1962",
+      "1957",
+      "1965",
+      "1960"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「1960年」。",
     "explanation_en": "The correct answer is '1960'.",
     "difficulty": 1
   },
   {
     "id": 61,
-    "question_zh": "《飛狐外傳》屬於邊種類型？",
-    "question_en": "What genre is 'Fox Volant of the Snowy Mountain'?",
+    "question_zh": "《飛狐外傳》係邊國作品？",
+    "question_en": "Which country is 'Fox Volant of the Snowy Mountain' from?",
     "options_zh": [
-      "其他類型A",
-      "武俠與動作類",
-      "其他類型B",
-      "其他類型C"
+      "中國",
+      "德國",
+      "韓國",
+      "法國"
     ],
     "options_en": [
-      "Genre A",
-      "Martial Arts & Action",
-      "Genre B",
-      "Genre C"
+      "China",
+      "Germany",
+      "South Korea",
+      "France"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
     "id": 62,
-    "question_zh": "《飛狐外傳》屬於邊種類型？",
-    "question_en": "What genre is 'Fox Volant of the Snowy Mountain'?",
+    "question_zh": "《飛狐外傳》係邊國作品？",
+    "question_en": "Which country is 'Fox Volant of the Snowy Mountain' from?",
     "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "武俠與動作類",
-      "其他類型B"
+      "韓國",
+      "法國",
+      "中國",
+      "德國"
     ],
     "options_en": [
-      "Genre C",
-      "Genre A",
-      "Martial Arts & Action",
-      "Genre B"
+      "South Korea",
+      "France",
+      "China",
+      "Germany"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 63,
-    "question_zh": "《飛狐外傳》屬於邊種類型？",
-    "question_en": "What genre is 'Fox Volant of the Snowy Mountain'?",
+    "question_zh": "《飛狐外傳》係邊國作品？",
+    "question_en": "Which country is 'Fox Volant of the Snowy Mountain' from?",
     "options_zh": [
-      "其他類型B",
-      "其他類型C",
-      "其他類型A",
-      "武俠與動作類"
+      "法國",
+      "韓國",
+      "中國",
+      "德國"
     ],
     "options_en": [
-      "Genre B",
-      "Genre C",
-      "Genre A",
-      "Martial Arts & Action"
+      "France",
+      "South Korea",
+      "China",
+      "Germany"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
@@ -1327,20 +1327,20 @@
     "question_zh": "《飛狐外傳》主要講咩？",
     "question_en": "What is 'Fox Volant of the Snowy Mountain' mainly about?",
     "options_zh": [
+      "體育競技",
       "財經商戰",
       "江湖恩怨同武俠世界",
-      "科幻太空",
-      "體育競技"
+      "科幻太空"
     ],
     "options_en": [
+      "Sports",
       "Business",
-      "Martial arts world and adventures",
-      "Sci-fi space",
-      "Sports"
+      "Martial arts world",
+      "Sci-fi"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 2
   },
   {
@@ -1348,20 +1348,20 @@
     "question_zh": "《飛狐外傳》主要講咩？",
     "question_en": "What is 'Fox Volant of the Snowy Mountain' mainly about?",
     "options_zh": [
+      "體育競技",
       "江湖恩怨同武俠世界",
       "科幻太空",
-      "體育競技",
       "財經商戰"
     ],
     "options_en": [
-      "Martial arts world and adventures",
-      "Sci-fi space",
       "Sports",
+      "Martial arts world",
+      "Sci-fi",
       "Business"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 3
   },
   {
@@ -1369,20 +1369,20 @@
     "question_zh": "《飛狐外傳》主要講咩？",
     "question_en": "What is 'Fox Volant of the Snowy Mountain' mainly about?",
     "options_zh": [
-      "江湖恩怨同武俠世界",
       "財經商戰",
       "科幻太空",
+      "江湖恩怨同武俠世界",
       "體育競技"
     ],
     "options_en": [
-      "Martial arts world and adventures",
       "Business",
-      "Sci-fi space",
+      "Sci-fi",
+      "Martial arts world",
       "Sports"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 1
   },
   {
@@ -1391,15 +1391,15 @@
     "question_en": "What characters are in 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
       "武林高手",
+      "外星人",
       "動物",
-      "機械人",
-      "外星人"
+      "機械人"
     ],
     "options_en": [
       "Martial arts masters",
+      "Aliens",
       "Animals",
-      "Robots",
-      "Aliens"
+      "Robots"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「武林高手」。",
@@ -1411,18 +1411,18 @@
     "question_zh": "《飛狐外傳》入面有咩角色？",
     "question_en": "What characters are in 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
+      "武林高手",
       "動物",
-      "機械人",
       "外星人",
-      "武林高手"
+      "機械人"
     ],
     "options_en": [
+      "Martial arts masters",
       "Animals",
-      "Robots",
       "Aliens",
-      "Martial arts masters"
+      "Robots"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「武林高手」。",
     "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 3
@@ -1433,14 +1433,14 @@
     "question_en": "What characters are in 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
       "機械人",
-      "動物",
       "外星人",
+      "動物",
       "武林高手"
     ],
     "options_en": [
       "Robots",
-      "Animals",
       "Aliens",
+      "Animals",
       "Martial arts masters"
     ],
     "answer": 3,
@@ -1453,20 +1453,20 @@
     "question_zh": "《飛狐外傳》嘅故事背景喺邊度？",
     "question_en": "Where is 'Fox Volant of the Snowy Mountain' set?",
     "options_zh": [
-      "虛擬世界",
+      "歐洲中世紀",
       "未來太空",
-      "古代中國江湖",
-      "歐洲中世紀"
+      "虛擬世界",
+      "古代中國"
     ],
     "options_en": [
-      "Virtual world",
+      "Medieval Europe",
       "Future space",
-      "Ancient Chinese martial arts world",
-      "Medieval Europe"
+      "Virtual world",
+      "Ancient China"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 2
   },
   {
@@ -1474,20 +1474,20 @@
     "question_zh": "《飛狐外傳》嘅故事背景喺邊度？",
     "question_en": "Where is 'Fox Volant of the Snowy Mountain' set?",
     "options_zh": [
-      "古代中國江湖",
       "歐洲中世紀",
-      "未來太空",
-      "虛擬世界"
+      "古代中國",
+      "虛擬世界",
+      "未來太空"
     ],
     "options_en": [
-      "Ancient Chinese martial arts world",
       "Medieval Europe",
-      "Future space",
-      "Virtual world"
+      "Ancient China",
+      "Virtual world",
+      "Future space"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
@@ -1498,17 +1498,17 @@
       "虛擬世界",
       "歐洲中世紀",
       "未來太空",
-      "古代中國江湖"
+      "古代中國"
     ],
     "options_en": [
       "Virtual world",
       "Medieval Europe",
       "Future space",
-      "Ancient Chinese martial arts world"
+      "Ancient China"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 1
   },
   {
@@ -1516,18 +1516,18 @@
     "question_zh": "《飛狐外傳》係咪好受歡迎？",
     "question_en": "Is 'Fox Volant of the Snowy Mountain' popular?",
     "options_zh": [
-      "唔係，好冷門",
-      "只喺特定地區流行",
       "係，有一定讀者群",
-      "已經過氣"
+      "唔係，好冷門",
+      "已經過氣",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "No, very niche",
-      "Only popular locally",
       "Yes, has a readership",
-      "Outdated"
+      "No, very niche",
+      "Outdated",
+      "Only popular locally"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 2
@@ -1538,40 +1538,40 @@
     "question_en": "Is 'Fox Volant of the Snowy Mountain' popular?",
     "options_zh": [
       "唔係，好冷門",
-      "只喺特定地區流行",
       "係，有一定讀者群",
+      "只喺特定地區流行",
       "已經過氣"
     ],
     "options_en": [
       "No, very niche",
-      "Only popular locally",
       "Yes, has a readership",
+      "Only popular locally",
       "Outdated"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 3
   },
   {
     "id": 75,
-    "question_zh": "《飛狐外傳》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Fox Volant of the Snowy Mountain' belong to?",
+    "question_zh": "《飛狐外傳》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
-      "武俠與動作類",
-      "恐怖小說",
-      "兒童文學",
-      "科幻小說"
+      "中國人",
+      "韓國人",
+      "法國人",
+      "德國人"
     ],
     "options_en": [
-      "Martial Arts & Action",
-      "Horror",
-      "Children's literature",
-      "Sci-fi"
+      "Chinese",
+      "Korean",
+      "French",
+      "German"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 1
   },
   {
@@ -1580,14 +1580,14 @@
     "question_en": "Which one is 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
       "飛狐外傳",
-      "其他小說C",
       "其他小說B",
+      "其他小說C",
       "其他小說A"
     ],
     "options_en": [
       "Fox Volant of the Snowy Mountain",
-      "Other Novel C",
       "Other Novel B",
+      "Other Novel C",
       "Other Novel A"
     ],
     "answer": 0,
@@ -1600,18 +1600,18 @@
     "question_zh": "以下邊本係《飛狐外傳》？",
     "question_en": "Which one is 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
-      "其他小說B",
-      "飛狐外傳",
       "其他小說C",
-      "其他小說A"
+      "其他小說B",
+      "其他小說A",
+      "飛狐外傳"
     ],
     "options_en": [
-      "Other Novel B",
-      "Fox Volant of the Snowy Mountain",
       "Other Novel C",
-      "Other Novel A"
+      "Other Novel B",
+      "Other Novel A",
+      "Fox Volant of the Snowy Mountain"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「飛狐外傳」。",
     "explanation_en": "The correct answer is 'Fox Volant of the Snowy Mountain'.",
     "difficulty": 3
@@ -1621,18 +1621,18 @@
     "question_zh": "以下邊本係《飛狐外傳》？",
     "question_en": "Which one is 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
-      "其他小說B",
-      "其他小說C",
+      "其他小說A",
       "飛狐外傳",
-      "其他小說A"
+      "其他小說B",
+      "其他小說C"
     ],
     "options_en": [
-      "Other Novel B",
-      "Other Novel C",
+      "Other Novel A",
       "Fox Volant of the Snowy Mountain",
-      "Other Novel A"
+      "Other Novel B",
+      "Other Novel C"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「飛狐外傳」。",
     "explanation_en": "The correct answer is 'Fox Volant of the Snowy Mountain'.",
     "difficulty": 1
@@ -1642,18 +1642,18 @@
     "question_zh": "以下邊本係《飛狐外傳》？",
     "question_en": "Which one is 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
+      "其他小說B",
       "其他小說C",
       "其他小說A",
-      "飛狐外傳",
-      "其他小說B"
+      "飛狐外傳"
     ],
     "options_en": [
+      "Other Novel B",
       "Other Novel C",
       "Other Novel A",
-      "Fox Volant of the Snowy Mountain",
-      "Other Novel B"
+      "Fox Volant of the Snowy Mountain"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「飛狐外傳」。",
     "explanation_en": "The correct answer is 'Fox Volant of the Snowy Mountain'.",
     "difficulty": 2
@@ -1663,16 +1663,16 @@
     "question_zh": "《飛狐外傳》嘅作者係邊個？",
     "question_en": "Who wrote 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
-      "其他作者C",
-      "金庸",
       "其他作者B",
-      "其他作者A"
+      "金庸",
+      "其他作者A",
+      "其他作者C"
     ],
     "options_en": [
-      "Author C",
-      "Jin Yong",
       "Author B",
-      "Author A"
+      "Jin Yong",
+      "Author A",
+      "Author C"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「金庸」。",
@@ -1684,16 +1684,16 @@
     "question_zh": "《飛狐外傳》嘅作者係邊個？",
     "question_en": "Who wrote 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
-      "其他作者C",
       "其他作者A",
+      "其他作者B",
       "金庸",
-      "其他作者B"
+      "其他作者C"
     ],
     "options_en": [
-      "Author C",
       "Author A",
+      "Author B",
       "Jin Yong",
-      "Author B"
+      "Author C"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「金庸」。",
@@ -1705,18 +1705,18 @@
     "question_zh": "《飛狐外傳》嘅作者係邊個？",
     "question_en": "Who wrote 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
-      "其他作者C",
-      "其他作者B",
       "其他作者A",
-      "金庸"
+      "金庸",
+      "其他作者C",
+      "其他作者B"
     ],
     "options_en": [
-      "Author C",
-      "Author B",
       "Author A",
-      "Jin Yong"
+      "Jin Yong",
+      "Author C",
+      "Author B"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「金庸」。",
     "explanation_en": "The correct answer is 'Jin Yong'.",
     "difficulty": 2
@@ -1726,14 +1726,14 @@
     "question_zh": "《飛狐外傳》係邊年出版嘅？",
     "question_en": "What year was 'Fox Volant of the Snowy Mountain' published?",
     "options_zh": [
+      "1958年",
       "1962年",
-      "1957年",
       "1955年",
       "1960年"
     ],
     "options_en": [
+      "1958",
       "1962",
-      "1957",
       "1955",
       "1960"
     ],
@@ -1749,13 +1749,13 @@
     "options_zh": [
       "1960年",
       "1958年",
-      "1963年",
+      "1962年",
       "1955年"
     ],
     "options_en": [
       "1960",
       "1958",
-      "1963",
+      "1962",
       "1955"
     ],
     "answer": 0,
@@ -1768,16 +1768,16 @@
     "question_zh": "《飛狐外傳》係邊年出版嘅？",
     "question_en": "What year was 'Fox Volant of the Snowy Mountain' published?",
     "options_zh": [
-      "1958年",
       "1957年",
+      "1955年",
       "1960年",
-      "1962年"
+      "1963年"
     ],
     "options_en": [
-      "1958",
       "1957",
+      "1955",
       "1960",
-      "1962"
+      "1963"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「1960年」。",
@@ -1786,65 +1786,65 @@
   },
   {
     "id": 86,
-    "question_zh": "《飛狐外傳》屬於邊種類型？",
-    "question_en": "What genre is 'Fox Volant of the Snowy Mountain'?",
+    "question_zh": "《飛狐外傳》係邊國作品？",
+    "question_en": "Which country is 'Fox Volant of the Snowy Mountain' from?",
     "options_zh": [
-      "其他類型A",
-      "其他類型C",
-      "武俠與動作類",
-      "其他類型B"
+      "德國",
+      "法國",
+      "韓國",
+      "中國"
     ],
     "options_en": [
-      "Genre A",
-      "Genre C",
-      "Martial Arts & Action",
-      "Genre B"
+      "Germany",
+      "France",
+      "South Korea",
+      "China"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 87,
-    "question_zh": "《飛狐外傳》屬於邊種類型？",
-    "question_en": "What genre is 'Fox Volant of the Snowy Mountain'?",
+    "question_zh": "《飛狐外傳》係邊國作品？",
+    "question_en": "Which country is 'Fox Volant of the Snowy Mountain' from?",
     "options_zh": [
-      "其他類型A",
-      "其他類型C",
-      "其他類型B",
-      "武俠與動作類"
+      "韓國",
+      "法國",
+      "德國",
+      "中國"
     ],
     "options_en": [
-      "Genre A",
-      "Genre C",
-      "Genre B",
-      "Martial Arts & Action"
+      "South Korea",
+      "France",
+      "Germany",
+      "China"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 88,
-    "question_zh": "《飛狐外傳》屬於邊種類型？",
-    "question_en": "What genre is 'Fox Volant of the Snowy Mountain'?",
+    "question_zh": "《飛狐外傳》係邊國作品？",
+    "question_en": "Which country is 'Fox Volant of the Snowy Mountain' from?",
     "options_zh": [
-      "其他類型B",
-      "其他類型A",
-      "武俠與動作類",
-      "其他類型C"
+      "法國",
+      "韓國",
+      "德國",
+      "中國"
     ],
     "options_en": [
-      "Genre B",
-      "Genre A",
-      "Martial Arts & Action",
-      "Genre C"
+      "France",
+      "South Korea",
+      "Germany",
+      "China"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
@@ -1852,20 +1852,20 @@
     "question_zh": "《飛狐外傳》主要講咩？",
     "question_en": "What is 'Fox Volant of the Snowy Mountain' mainly about?",
     "options_zh": [
-      "江湖恩怨同武俠世界",
-      "財經商戰",
       "體育競技",
-      "科幻太空"
+      "科幻太空",
+      "江湖恩怨同武俠世界",
+      "財經商戰"
     ],
     "options_en": [
-      "Martial arts world and adventures",
-      "Business",
       "Sports",
-      "Sci-fi space"
+      "Sci-fi",
+      "Martial arts world",
+      "Business"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 3
   },
   {
@@ -1873,20 +1873,20 @@
     "question_zh": "《飛狐外傳》主要講咩？",
     "question_en": "What is 'Fox Volant of the Snowy Mountain' mainly about?",
     "options_zh": [
-      "科幻太空",
       "江湖恩怨同武俠世界",
+      "科幻太空",
       "財經商戰",
       "體育競技"
     ],
     "options_en": [
-      "Sci-fi space",
-      "Martial arts world and adventures",
+      "Martial arts world",
+      "Sci-fi",
       "Business",
       "Sports"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 1
   },
   {
@@ -1895,19 +1895,19 @@
     "question_en": "What is 'Fox Volant of the Snowy Mountain' mainly about?",
     "options_zh": [
       "江湖恩怨同武俠世界",
-      "體育競技",
       "科幻太空",
-      "財經商戰"
+      "財經商戰",
+      "體育競技"
     ],
     "options_en": [
-      "Martial arts world and adventures",
-      "Sports",
-      "Sci-fi space",
-      "Business"
+      "Martial arts world",
+      "Sci-fi",
+      "Business",
+      "Sports"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
-    "explanation_en": "The correct answer is 'Martial arts world and adventures'.",
+    "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 2
   },
   {
@@ -1915,18 +1915,18 @@
     "question_zh": "《飛狐外傳》入面有咩角色？",
     "question_en": "What characters are in 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
+      "武林高手",
       "機械人",
-      "動物",
       "外星人",
-      "武林高手"
+      "動物"
     ],
     "options_en": [
+      "Martial arts masters",
       "Robots",
-      "Animals",
       "Aliens",
-      "Martial arts masters"
+      "Animals"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「武林高手」。",
     "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 3
@@ -1936,16 +1936,16 @@
     "question_zh": "《飛狐外傳》入面有咩角色？",
     "question_en": "What characters are in 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
-      "機械人",
+      "外星人",
       "武林高手",
-      "動物",
-      "外星人"
+      "機械人",
+      "動物"
     ],
     "options_en": [
-      "Robots",
+      "Aliens",
       "Martial arts masters",
-      "Animals",
-      "Aliens"
+      "Robots",
+      "Animals"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「武林高手」。",
@@ -1958,14 +1958,14 @@
     "question_en": "What characters are in 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
       "機械人",
-      "外星人",
       "動物",
+      "外星人",
       "武林高手"
     ],
     "options_en": [
       "Robots",
-      "Aliens",
       "Animals",
+      "Aliens",
       "Martial arts masters"
     ],
     "answer": 3,
@@ -1978,20 +1978,20 @@
     "question_zh": "《飛狐外傳》嘅故事背景喺邊度？",
     "question_en": "Where is 'Fox Volant of the Snowy Mountain' set?",
     "options_zh": [
-      "古代中國江湖",
+      "古代中國",
+      "虛擬世界",
       "未來太空",
-      "歐洲中世紀",
-      "虛擬世界"
+      "歐洲中世紀"
     ],
     "options_en": [
-      "Ancient Chinese martial arts world",
+      "Ancient China",
+      "Virtual world",
       "Future space",
-      "Medieval Europe",
-      "Virtual world"
+      "Medieval Europe"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
@@ -1999,20 +1999,20 @@
     "question_zh": "《飛狐外傳》嘅故事背景喺邊度？",
     "question_en": "Where is 'Fox Volant of the Snowy Mountain' set?",
     "options_zh": [
+      "虛擬世界",
+      "古代中國",
       "未來太空",
-      "歐洲中世紀",
-      "古代中國江湖",
-      "虛擬世界"
+      "歐洲中世紀"
     ],
     "options_en": [
+      "Virtual world",
+      "Ancient China",
       "Future space",
-      "Medieval Europe",
-      "Ancient Chinese martial arts world",
-      "Virtual world"
+      "Medieval Europe"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 1
   },
   {
@@ -2020,20 +2020,20 @@
     "question_zh": "《飛狐外傳》嘅故事背景喺邊度？",
     "question_en": "Where is 'Fox Volant of the Snowy Mountain' set?",
     "options_zh": [
-      "虛擬世界",
       "未來太空",
-      "古代中國江湖",
-      "歐洲中世紀"
+      "虛擬世界",
+      "歐洲中世紀",
+      "古代中國"
     ],
     "options_en": [
-      "Virtual world",
       "Future space",
-      "Ancient Chinese martial arts world",
-      "Medieval Europe"
+      "Virtual world",
+      "Medieval Europe",
+      "Ancient China"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「古代中國江湖」。",
-    "explanation_en": "The correct answer is 'Ancient Chinese martial arts world'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「古代中國」。",
+    "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 2
   },
   {
@@ -2042,17 +2042,17 @@
     "question_en": "Is 'Fox Volant of the Snowy Mountain' popular?",
     "options_zh": [
       "唔係，好冷門",
-      "已經過氣",
       "係，有一定讀者群",
+      "已經過氣",
       "只喺特定地區流行"
     ],
     "options_en": [
       "No, very niche",
-      "Outdated",
       "Yes, has a readership",
+      "Outdated",
       "Only popular locally"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 3
@@ -2062,41 +2062,41 @@
     "question_zh": "《飛狐外傳》係咪好受歡迎？",
     "question_en": "Is 'Fox Volant of the Snowy Mountain' popular?",
     "options_zh": [
-      "係，有一定讀者群",
-      "已經過氣",
       "只喺特定地區流行",
-      "唔係，好冷門"
+      "已經過氣",
+      "唔係，好冷門",
+      "係，有一定讀者群"
     ],
     "options_en": [
-      "Yes, has a readership",
-      "Outdated",
       "Only popular locally",
-      "No, very niche"
+      "Outdated",
+      "No, very niche",
+      "Yes, has a readership"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 1
   },
   {
     "id": 100,
-    "question_zh": "《飛狐外傳》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Fox Volant of the Snowy Mountain' belong to?",
+    "question_zh": "《飛狐外傳》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
-      "武俠與動作類",
-      "恐怖小說",
-      "兒童文學",
-      "科幻小說"
+      "韓國人",
+      "法國人",
+      "中國人",
+      "德國人"
     ],
     "options_en": [
-      "Martial Arts & Action",
-      "Horror",
-      "Children's literature",
-      "Sci-fi"
+      "Korean",
+      "French",
+      "Chinese",
+      "German"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「武俠與動作類」。",
-    "explanation_en": "The correct answer is 'Martial Arts & Action'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
   }
 ]

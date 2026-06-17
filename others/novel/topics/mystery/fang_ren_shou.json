@@ -4,18 +4,18 @@
     "question_zh": "以下邊本係《嫌疑人X的獻身》？",
     "question_en": "Which one is 'The Devotion of Suspect X'?",
     "options_zh": [
-      "其他小說A",
-      "嫌疑人X的獻身",
       "其他小說B",
-      "其他小說C"
+      "其他小說C",
+      "其他小說A",
+      "嫌疑人X的獻身"
     ],
     "options_en": [
-      "Other Novel A",
-      "The Devotion of Suspect X",
       "Other Novel B",
-      "Other Novel C"
+      "Other Novel C",
+      "Other Novel A",
+      "The Devotion of Suspect X"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「嫌疑人X的獻身」。",
     "explanation_en": "The correct answer is 'The Devotion of Suspect X'.",
     "difficulty": 2
@@ -25,18 +25,18 @@
     "question_zh": "以下邊本係《嫌疑人X的獻身》？",
     "question_en": "Which one is 'The Devotion of Suspect X'?",
     "options_zh": [
-      "其他小說B",
       "嫌疑人X的獻身",
+      "其他小說B",
       "其他小說C",
       "其他小說A"
     ],
     "options_en": [
-      "Other Novel B",
       "The Devotion of Suspect X",
+      "Other Novel B",
       "Other Novel C",
       "Other Novel A"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「嫌疑人X的獻身」。",
     "explanation_en": "The correct answer is 'The Devotion of Suspect X'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "以下邊本係《嫌疑人X的獻身》？",
     "question_en": "Which one is 'The Devotion of Suspect X'?",
     "options_zh": [
-      "嫌疑人X的獻身",
-      "其他小說A",
       "其他小說B",
-      "其他小說C"
+      "其他小說A",
+      "其他小說C",
+      "嫌疑人X的獻身"
     ],
     "options_en": [
-      "The Devotion of Suspect X",
-      "Other Novel A",
       "Other Novel B",
-      "Other Novel C"
+      "Other Novel A",
+      "Other Novel C",
+      "The Devotion of Suspect X"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「嫌疑人X的獻身」。",
     "explanation_en": "The correct answer is 'The Devotion of Suspect X'.",
     "difficulty": 1
@@ -88,6 +88,27 @@
     "question_zh": "《嫌疑人X的獻身》嘅作者係邊個？",
     "question_en": "Who wrote 'The Devotion of Suspect X'?",
     "options_zh": [
+      "東野圭吾",
+      "其他作者C",
+      "其他作者B",
+      "其他作者A"
+    ],
+    "options_en": [
+      "Keigo Higashino",
+      "Author C",
+      "Author B",
+      "Author A"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「東野圭吾」。",
+    "explanation_en": "The correct answer is 'Keigo Higashino'.",
+    "difficulty": 3
+  },
+  {
+    "id": 6,
+    "question_zh": "《嫌疑人X的獻身》嘅作者係邊個？",
+    "question_en": "Who wrote 'The Devotion of Suspect X'?",
+    "options_zh": [
       "其他作者B",
       "其他作者C",
       "東野圭吾",
@@ -102,10 +123,10 @@
     "answer": 2,
     "explanation_zh": "正確答案係「東野圭吾」。",
     "explanation_en": "The correct answer is 'Keigo Higashino'.",
-    "difficulty": 3
+    "difficulty": 1
   },
   {
-    "id": 6,
+    "id": 7,
     "question_zh": "《嫌疑人X的獻身》嘅作者係邊個？",
     "question_en": "Who wrote 'The Devotion of Suspect X'?",
     "options_zh": [
@@ -123,27 +144,6 @@
     "answer": 0,
     "explanation_zh": "正確答案係「東野圭吾」。",
     "explanation_en": "The correct answer is 'Keigo Higashino'.",
-    "difficulty": 1
-  },
-  {
-    "id": 7,
-    "question_zh": "《嫌疑人X的獻身》嘅作者係邊個？",
-    "question_en": "Who wrote 'The Devotion of Suspect X'?",
-    "options_zh": [
-      "其他作者B",
-      "其他作者A",
-      "東野圭吾",
-      "其他作者C"
-    ],
-    "options_en": [
-      "Author B",
-      "Author A",
-      "Keigo Higashino",
-      "Author C"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「東野圭吾」。",
-    "explanation_en": "The correct answer is 'Keigo Higashino'.",
     "difficulty": 2
   },
   {
@@ -151,18 +151,18 @@
     "question_zh": "《嫌疑人X的獻身》係邊年出版嘅？",
     "question_en": "What year was 'The Devotion of Suspect X' published?",
     "options_zh": [
-      "2008年",
       "2000年",
-      "2002年",
-      "2005年"
+      "2005年",
+      "2007年",
+      "2008年"
     ],
     "options_en": [
-      "2008",
       "2000",
-      "2002",
-      "2005"
+      "2005",
+      "2007",
+      "2008"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 3
@@ -172,18 +172,18 @@
     "question_zh": "《嫌疑人X的獻身》係邊年出版嘅？",
     "question_en": "What year was 'The Devotion of Suspect X' published?",
     "options_zh": [
-      "2000年",
-      "2003年",
-      "2007年",
-      "2005年"
+      "2002年",
+      "2005年",
+      "2008年",
+      "2003年"
     ],
     "options_en": [
-      "2000",
-      "2003",
-      "2007",
-      "2005"
+      "2002",
+      "2005",
+      "2008",
+      "2003"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 1
@@ -193,83 +193,83 @@
     "question_zh": "《嫌疑人X的獻身》係邊年出版嘅？",
     "question_en": "What year was 'The Devotion of Suspect X' published?",
     "options_zh": [
-      "2005年",
+      "2003年",
       "2000年",
       "2002年",
-      "2003年"
+      "2005年"
     ],
     "options_en": [
-      "2005",
+      "2003",
       "2000",
       "2002",
-      "2003"
+      "2005"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 2
   },
   {
     "id": 11,
-    "question_zh": "《嫌疑人X的獻身》屬於邊種類型？",
-    "question_en": "What genre is 'The Devotion of Suspect X'?",
+    "question_zh": "《嫌疑人X的獻身》係邊國作品？",
+    "question_en": "Which country is 'The Devotion of Suspect X' from?",
     "options_zh": [
-      "其他類型C",
-      "其他類型B",
-      "其他類型A",
-      "懸疑與推理類"
+      "日本",
+      "德國",
+      "法國",
+      "韓國"
     ],
     "options_en": [
-      "Genre C",
-      "Genre B",
-      "Genre A",
-      "Mystery & Detective"
+      "Japan",
+      "Germany",
+      "France",
+      "South Korea"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 3
   },
   {
     "id": 12,
-    "question_zh": "《嫌疑人X的獻身》屬於邊種類型？",
-    "question_en": "What genre is 'The Devotion of Suspect X'?",
+    "question_zh": "《嫌疑人X的獻身》係邊國作品？",
+    "question_en": "Which country is 'The Devotion of Suspect X' from?",
     "options_zh": [
-      "其他類型A",
-      "其他類型C",
-      "懸疑與推理類",
-      "其他類型B"
+      "日本",
+      "德國",
+      "法國",
+      "韓國"
     ],
     "options_en": [
-      "Genre A",
-      "Genre C",
-      "Mystery & Detective",
-      "Genre B"
+      "Japan",
+      "Germany",
+      "France",
+      "South Korea"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 1
   },
   {
     "id": 13,
-    "question_zh": "《嫌疑人X的獻身》屬於邊種類型？",
-    "question_en": "What genre is 'The Devotion of Suspect X'?",
+    "question_zh": "《嫌疑人X的獻身》係邊國作品？",
+    "question_en": "Which country is 'The Devotion of Suspect X' from?",
     "options_zh": [
-      "懸疑與推理類",
-      "其他類型A",
-      "其他類型C",
-      "其他類型B"
+      "日本",
+      "法國",
+      "德國",
+      "韓國"
     ],
     "options_en": [
-      "Mystery & Detective",
-      "Genre A",
-      "Genre C",
-      "Genre B"
+      "Japan",
+      "France",
+      "Germany",
+      "South Korea"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 2
   },
   {
@@ -277,20 +277,20 @@
     "question_zh": "《嫌疑人X的獻身》主要講咩？",
     "question_en": "What is 'The Devotion of Suspect X' mainly about?",
     "options_zh": [
-      "推理破案同懸疑故事",
-      "體育競技",
       "科幻太空",
-      "財經商戰"
+      "體育競技",
+      "財經商戰",
+      "推理破案同懸疑故事"
     ],
     "options_en": [
-      "Detective and mystery story",
+      "Sci-fi",
       "Sports",
-      "Sci-fi space",
-      "Business"
+      "Business",
+      "Mystery and detective"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
     "difficulty": 3
   },
   {
@@ -298,20 +298,20 @@
     "question_zh": "《嫌疑人X的獻身》主要講咩？",
     "question_en": "What is 'The Devotion of Suspect X' mainly about?",
     "options_zh": [
-      "科幻太空",
       "推理破案同懸疑故事",
+      "體育競技",
       "財經商戰",
-      "體育競技"
+      "科幻太空"
     ],
     "options_en": [
-      "Sci-fi space",
-      "Detective and mystery story",
+      "Mystery and detective",
+      "Sports",
       "Business",
-      "Sports"
+      "Sci-fi"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
     "difficulty": 1
   },
   {
@@ -319,20 +319,20 @@
     "question_zh": "《嫌疑人X的獻身》主要講咩？",
     "question_en": "What is 'The Devotion of Suspect X' mainly about?",
     "options_zh": [
-      "科幻太空",
-      "推理破案同懸疑故事",
       "財經商戰",
-      "體育競技"
+      "體育競技",
+      "推理破案同懸疑故事",
+      "科幻太空"
     ],
     "options_en": [
-      "Sci-fi space",
-      "Detective and mystery story",
       "Business",
-      "Sports"
+      "Sports",
+      "Mystery and detective",
+      "Sci-fi"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
     "difficulty": 2
   },
   {
@@ -340,18 +340,18 @@
     "question_zh": "《嫌疑人X的獻身》入面有咩角色？",
     "question_en": "What characters are in 'The Devotion of Suspect X'?",
     "options_zh": [
-      "偵探/警察",
-      "機械人",
+      "外星人",
       "動物",
-      "外星人"
+      "偵探/警察",
+      "機械人"
     ],
     "options_en": [
-      "Detective/Police",
-      "Robots",
+      "Aliens",
       "Animals",
-      "Aliens"
+      "Detective/Police",
+      "Robots"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「偵探/警察」。",
     "explanation_en": "The correct answer is 'Detective/Police'.",
     "difficulty": 3
@@ -382,18 +382,18 @@
     "question_zh": "《嫌疑人X的獻身》入面有咩角色？",
     "question_en": "What characters are in 'The Devotion of Suspect X'?",
     "options_zh": [
+      "偵探/警察",
       "外星人",
       "動物",
-      "偵探/警察",
       "機械人"
     ],
     "options_en": [
+      "Detective/Police",
       "Aliens",
       "Animals",
-      "Detective/Police",
       "Robots"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「偵探/警察」。",
     "explanation_en": "The correct answer is 'Detective/Police'.",
     "difficulty": 2
@@ -403,16 +403,16 @@
     "question_zh": "《嫌疑人X的獻身》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Devotion of Suspect X' set?",
     "options_zh": [
-      "未來太空",
       "虛擬世界",
+      "歐洲中世紀",
       "中國/亞洲",
-      "歐洲中世紀"
+      "未來太空"
     ],
     "options_en": [
-      "Future space",
       "Virtual world",
+      "Medieval Europe",
       "China/Asia",
-      "Medieval Europe"
+      "Future space"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「中國/亞洲」。",
@@ -424,18 +424,18 @@
     "question_zh": "《嫌疑人X的獻身》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Devotion of Suspect X' set?",
     "options_zh": [
-      "未來太空",
-      "歐洲中世紀",
+      "中國/亞洲",
       "虛擬世界",
-      "中國/亞洲"
+      "歐洲中世紀",
+      "未來太空"
     ],
     "options_en": [
-      "Future space",
-      "Medieval Europe",
+      "China/Asia",
       "Virtual world",
-      "China/Asia"
+      "Medieval Europe",
+      "Future space"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 1
@@ -447,14 +447,14 @@
     "options_zh": [
       "未來太空",
       "中國/亞洲",
-      "歐洲中世紀",
-      "虛擬世界"
+      "虛擬世界",
+      "歐洲中世紀"
     ],
     "options_en": [
       "Future space",
       "China/Asia",
-      "Medieval Europe",
-      "Virtual world"
+      "Virtual world",
+      "Medieval Europe"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「中國/亞洲」。",
@@ -467,17 +467,17 @@
     "question_en": "Is 'The Devotion of Suspect X' popular?",
     "options_zh": [
       "唔係，好冷門",
-      "係，非常受歡迎",
       "只喺特定地區流行",
-      "已經過氣"
+      "已經過氣",
+      "係，非常受歡迎"
     ],
     "options_en": [
       "No, very niche",
-      "Yes, very popular",
       "Only popular locally",
-      "Outdated"
+      "Outdated",
+      "Yes, very popular"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -488,14 +488,14 @@
     "question_en": "Is 'The Devotion of Suspect X' popular?",
     "options_zh": [
       "已經過氣",
-      "只喺特定地區流行",
       "唔係，好冷門",
+      "只喺特定地區流行",
       "係，非常受歡迎"
     ],
     "options_en": [
       "Outdated",
-      "Only popular locally",
       "No, very niche",
+      "Only popular locally",
       "Yes, very popular"
     ],
     "answer": 3,
@@ -505,23 +505,23 @@
   },
   {
     "id": 25,
-    "question_zh": "《嫌疑人X的獻身》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'The Devotion of Suspect X' belong to?",
+    "question_zh": "《嫌疑人X的獻身》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'The Devotion of Suspect X'?",
     "options_zh": [
-      "科幻小說",
-      "兒童文學",
-      "恐怖小說",
-      "懸疑與推理類"
+      "德國人",
+      "法國人",
+      "韓國人",
+      "日本人"
     ],
     "options_en": [
-      "Sci-fi",
-      "Children's literature",
-      "Horror",
-      "Mystery & Detective"
+      "German",
+      "French",
+      "Korean",
+      "Japanese"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
+    "explanation_zh": "正確答案係「日本人」。",
+    "explanation_en": "The correct answer is 'Japanese'.",
     "difficulty": 2
   },
   {
@@ -529,18 +529,18 @@
     "question_zh": "以下邊本係《嫌疑人X的獻身》？",
     "question_en": "Which one is 'The Devotion of Suspect X'?",
     "options_zh": [
-      "其他小說C",
-      "嫌疑人X的獻身",
       "其他小說B",
-      "其他小說A"
+      "其他小說C",
+      "其他小說A",
+      "嫌疑人X的獻身"
     ],
     "options_en": [
-      "Other Novel C",
-      "The Devotion of Suspect X",
       "Other Novel B",
-      "Other Novel A"
+      "Other Novel C",
+      "Other Novel A",
+      "The Devotion of Suspect X"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「嫌疑人X的獻身」。",
     "explanation_en": "The correct answer is 'The Devotion of Suspect X'.",
     "difficulty": 3
@@ -550,24 +550,549 @@
     "question_zh": "以下邊本係《嫌疑人X的獻身》？",
     "question_en": "Which one is 'The Devotion of Suspect X'?",
     "options_zh": [
-      "其他小說B",
+      "其他小說A",
       "其他小說C",
-      "嫌疑人X的獻身",
-      "其他小說A"
+      "其他小說B",
+      "嫌疑人X的獻身"
     ],
     "options_en": [
-      "Other Novel B",
+      "Other Novel A",
       "Other Novel C",
-      "The Devotion of Suspect X",
-      "Other Novel A"
+      "Other Novel B",
+      "The Devotion of Suspect X"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「嫌疑人X的獻身」。",
     "explanation_en": "The correct answer is 'The Devotion of Suspect X'.",
     "difficulty": 1
   },
   {
     "id": 28,
+    "question_zh": "以下邊本係《嫌疑人X的獻身》？",
+    "question_en": "Which one is 'The Devotion of Suspect X'?",
+    "options_zh": [
+      "其他小說C",
+      "其他小說A",
+      "嫌疑人X的獻身",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Novel A",
+      "The Devotion of Suspect X",
+      "Other Novel B"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「嫌疑人X的獻身」。",
+    "explanation_en": "The correct answer is 'The Devotion of Suspect X'.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "以下邊本係《嫌疑人X的獻身》？",
+    "question_en": "Which one is 'The Devotion of Suspect X'?",
+    "options_zh": [
+      "嫌疑人X的獻身",
+      "其他小說C",
+      "其他小說A",
+      "其他小說B"
+    ],
+    "options_en": [
+      "The Devotion of Suspect X",
+      "Other Novel C",
+      "Other Novel A",
+      "Other Novel B"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「嫌疑人X的獻身」。",
+    "explanation_en": "The correct answer is 'The Devotion of Suspect X'.",
+    "difficulty": 3
+  },
+  {
+    "id": 30,
+    "question_zh": "《嫌疑人X的獻身》嘅作者係邊個？",
+    "question_en": "Who wrote 'The Devotion of Suspect X'?",
+    "options_zh": [
+      "其他作者C",
+      "其他作者B",
+      "東野圭吾",
+      "其他作者A"
+    ],
+    "options_en": [
+      "Author C",
+      "Author B",
+      "Keigo Higashino",
+      "Author A"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「東野圭吾」。",
+    "explanation_en": "The correct answer is 'Keigo Higashino'.",
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question_zh": "《嫌疑人X的獻身》嘅作者係邊個？",
+    "question_en": "Who wrote 'The Devotion of Suspect X'?",
+    "options_zh": [
+      "其他作者A",
+      "其他作者B",
+      "東野圭吾",
+      "其他作者C"
+    ],
+    "options_en": [
+      "Author A",
+      "Author B",
+      "Keigo Higashino",
+      "Author C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「東野圭吾」。",
+    "explanation_en": "The correct answer is 'Keigo Higashino'.",
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question_zh": "《嫌疑人X的獻身》嘅作者係邊個？",
+    "question_en": "Who wrote 'The Devotion of Suspect X'?",
+    "options_zh": [
+      "其他作者B",
+      "東野圭吾",
+      "其他作者A",
+      "其他作者C"
+    ],
+    "options_en": [
+      "Author B",
+      "Keigo Higashino",
+      "Author A",
+      "Author C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「東野圭吾」。",
+    "explanation_en": "The correct answer is 'Keigo Higashino'.",
+    "difficulty": 3
+  },
+  {
+    "id": 33,
+    "question_zh": "《嫌疑人X的獻身》係邊年出版嘅？",
+    "question_en": "What year was 'The Devotion of Suspect X' published?",
+    "options_zh": [
+      "2002年",
+      "2007年",
+      "2008年",
+      "2005年"
+    ],
+    "options_en": [
+      "2002",
+      "2007",
+      "2008",
+      "2005"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「2005年」。",
+    "explanation_en": "The correct answer is '2005'.",
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question_zh": "《嫌疑人X的獻身》係邊年出版嘅？",
+    "question_en": "What year was 'The Devotion of Suspect X' published?",
+    "options_zh": [
+      "2010年",
+      "2005年",
+      "2003年",
+      "2000年"
+    ],
+    "options_en": [
+      "2010",
+      "2005",
+      "2003",
+      "2000"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「2005年」。",
+    "explanation_en": "The correct answer is '2005'.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question_zh": "《嫌疑人X的獻身》係邊年出版嘅？",
+    "question_en": "What year was 'The Devotion of Suspect X' published?",
+    "options_zh": [
+      "2007年",
+      "2010年",
+      "2000年",
+      "2005年"
+    ],
+    "options_en": [
+      "2007",
+      "2010",
+      "2000",
+      "2005"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「2005年」。",
+    "explanation_en": "The correct answer is '2005'.",
+    "difficulty": 3
+  },
+  {
+    "id": 36,
+    "question_zh": "《嫌疑人X的獻身》係邊國作品？",
+    "question_en": "Which country is 'The Devotion of Suspect X' from?",
+    "options_zh": [
+      "日本",
+      "韓國",
+      "德國",
+      "法國"
+    ],
+    "options_en": [
+      "Japan",
+      "South Korea",
+      "Germany",
+      "France"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question_zh": "《嫌疑人X的獻身》係邊國作品？",
+    "question_en": "Which country is 'The Devotion of Suspect X' from?",
+    "options_zh": [
+      "日本",
+      "德國",
+      "法國",
+      "韓國"
+    ],
+    "options_en": [
+      "Japan",
+      "Germany",
+      "France",
+      "South Korea"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "《嫌疑人X的獻身》係邊國作品？",
+    "question_en": "Which country is 'The Devotion of Suspect X' from?",
+    "options_zh": [
+      "法國",
+      "日本",
+      "德國",
+      "韓國"
+    ],
+    "options_en": [
+      "France",
+      "Japan",
+      "Germany",
+      "South Korea"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 3
+  },
+  {
+    "id": 39,
+    "question_zh": "《嫌疑人X的獻身》主要講咩？",
+    "question_en": "What is 'The Devotion of Suspect X' mainly about?",
+    "options_zh": [
+      "體育競技",
+      "科幻太空",
+      "財經商戰",
+      "推理破案同懸疑故事"
+    ],
+    "options_en": [
+      "Sports",
+      "Sci-fi",
+      "Business",
+      "Mystery and detective"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question_zh": "《嫌疑人X的獻身》主要講咩？",
+    "question_en": "What is 'The Devotion of Suspect X' mainly about?",
+    "options_zh": [
+      "推理破案同懸疑故事",
+      "財經商戰",
+      "體育競技",
+      "科幻太空"
+    ],
+    "options_en": [
+      "Mystery and detective",
+      "Business",
+      "Sports",
+      "Sci-fi"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question_zh": "《嫌疑人X的獻身》主要講咩？",
+    "question_en": "What is 'The Devotion of Suspect X' mainly about?",
+    "options_zh": [
+      "財經商戰",
+      "推理破案同懸疑故事",
+      "科幻太空",
+      "體育競技"
+    ],
+    "options_en": [
+      "Business",
+      "Mystery and detective",
+      "Sci-fi",
+      "Sports"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
+    "difficulty": 3
+  },
+  {
+    "id": 42,
+    "question_zh": "《嫌疑人X的獻身》入面有咩角色？",
+    "question_en": "What characters are in 'The Devotion of Suspect X'?",
+    "options_zh": [
+      "機械人",
+      "外星人",
+      "偵探/警察",
+      "動物"
+    ],
+    "options_en": [
+      "Robots",
+      "Aliens",
+      "Detective/Police",
+      "Animals"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「偵探/警察」。",
+    "explanation_en": "The correct answer is 'Detective/Police'.",
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question_zh": "《嫌疑人X的獻身》入面有咩角色？",
+    "question_en": "What characters are in 'The Devotion of Suspect X'?",
+    "options_zh": [
+      "外星人",
+      "動物",
+      "機械人",
+      "偵探/警察"
+    ],
+    "options_en": [
+      "Aliens",
+      "Animals",
+      "Robots",
+      "Detective/Police"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「偵探/警察」。",
+    "explanation_en": "The correct answer is 'Detective/Police'.",
+    "difficulty": 2
+  },
+  {
+    "id": 44,
+    "question_zh": "《嫌疑人X的獻身》入面有咩角色？",
+    "question_en": "What characters are in 'The Devotion of Suspect X'?",
+    "options_zh": [
+      "動物",
+      "外星人",
+      "偵探/警察",
+      "機械人"
+    ],
+    "options_en": [
+      "Animals",
+      "Aliens",
+      "Detective/Police",
+      "Robots"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「偵探/警察」。",
+    "explanation_en": "The correct answer is 'Detective/Police'.",
+    "difficulty": 3
+  },
+  {
+    "id": 45,
+    "question_zh": "《嫌疑人X的獻身》嘅故事背景喺邊度？",
+    "question_en": "Where is 'The Devotion of Suspect X' set?",
+    "options_zh": [
+      "中國/亞洲",
+      "虛擬世界",
+      "歐洲中世紀",
+      "未來太空"
+    ],
+    "options_en": [
+      "China/Asia",
+      "Virtual world",
+      "Medieval Europe",
+      "Future space"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question_zh": "《嫌疑人X的獻身》嘅故事背景喺邊度？",
+    "question_en": "Where is 'The Devotion of Suspect X' set?",
+    "options_zh": [
+      "中國/亞洲",
+      "歐洲中世紀",
+      "未來太空",
+      "虛擬世界"
+    ],
+    "options_en": [
+      "China/Asia",
+      "Medieval Europe",
+      "Future space",
+      "Virtual world"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 2
+  },
+  {
+    "id": 47,
+    "question_zh": "《嫌疑人X的獻身》嘅故事背景喺邊度？",
+    "question_en": "Where is 'The Devotion of Suspect X' set?",
+    "options_zh": [
+      "虛擬世界",
+      "歐洲中世紀",
+      "中國/亞洲",
+      "未來太空"
+    ],
+    "options_en": [
+      "Virtual world",
+      "Medieval Europe",
+      "China/Asia",
+      "Future space"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 3
+  },
+  {
+    "id": 48,
+    "question_zh": "《嫌疑人X的獻身》係咪好受歡迎？",
+    "question_en": "Is 'The Devotion of Suspect X' popular?",
+    "options_zh": [
+      "只喺特定地區流行",
+      "唔係，好冷門",
+      "已經過氣",
+      "係，非常受歡迎"
+    ],
+    "options_en": [
+      "Only popular locally",
+      "No, very niche",
+      "Outdated",
+      "Yes, very popular"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question_zh": "《嫌疑人X的獻身》係咪好受歡迎？",
+    "question_en": "Is 'The Devotion of Suspect X' popular?",
+    "options_zh": [
+      "只喺特定地區流行",
+      "唔係，好冷門",
+      "係，非常受歡迎",
+      "已經過氣"
+    ],
+    "options_en": [
+      "Only popular locally",
+      "No, very niche",
+      "Yes, very popular",
+      "Outdated"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 2
+  },
+  {
+    "id": 50,
+    "question_zh": "《嫌疑人X的獻身》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'The Devotion of Suspect X'?",
+    "options_zh": [
+      "法國人",
+      "韓國人",
+      "德國人",
+      "日本人"
+    ],
+    "options_en": [
+      "French",
+      "Korean",
+      "German",
+      "Japanese"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「日本人」。",
+    "explanation_en": "The correct answer is 'Japanese'.",
+    "difficulty": 3
+  },
+  {
+    "id": 51,
+    "question_zh": "以下邊本係《嫌疑人X的獻身》？",
+    "question_en": "Which one is 'The Devotion of Suspect X'?",
+    "options_zh": [
+      "其他小說C",
+      "嫌疑人X的獻身",
+      "其他小說A",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "The Devotion of Suspect X",
+      "Other Novel A",
+      "Other Novel B"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「嫌疑人X的獻身」。",
+    "explanation_en": "The correct answer is 'The Devotion of Suspect X'.",
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "question_zh": "以下邊本係《嫌疑人X的獻身》？",
+    "question_en": "Which one is 'The Devotion of Suspect X'?",
+    "options_zh": [
+      "其他小說B",
+      "嫌疑人X的獻身",
+      "其他小說C",
+      "其他小說A"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "The Devotion of Suspect X",
+      "Other Novel C",
+      "Other Novel A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「嫌疑人X的獻身」。",
+    "explanation_en": "The correct answer is 'The Devotion of Suspect X'.",
+    "difficulty": 2
+  },
+  {
+    "id": 53,
     "question_zh": "以下邊本係《嫌疑人X的獻身》？",
     "question_en": "Which one is 'The Devotion of Suspect X'?",
     "options_zh": [
@@ -585,148 +1110,127 @@
     "answer": 1,
     "explanation_zh": "正確答案係「嫌疑人X的獻身」。",
     "explanation_en": "The correct answer is 'The Devotion of Suspect X'.",
-    "difficulty": 2
-  },
-  {
-    "id": 29,
-    "question_zh": "以下邊本係《嫌疑人X的獻身》？",
-    "question_en": "Which one is 'The Devotion of Suspect X'?",
-    "options_zh": [
-      "其他小說A",
-      "嫌疑人X的獻身",
-      "其他小說C",
-      "其他小說B"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "The Devotion of Suspect X",
-      "Other Novel C",
-      "Other Novel B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「嫌疑人X的獻身」。",
-    "explanation_en": "The correct answer is 'The Devotion of Suspect X'.",
     "difficulty": 3
   },
   {
-    "id": 30,
+    "id": 54,
+    "question_zh": "以下邊本係《嫌疑人X的獻身》？",
+    "question_en": "Which one is 'The Devotion of Suspect X'?",
+    "options_zh": [
+      "其他小說B",
+      "其他小說A",
+      "其他小說C",
+      "嫌疑人X的獻身"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Other Novel A",
+      "Other Novel C",
+      "The Devotion of Suspect X"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「嫌疑人X的獻身」。",
+    "explanation_en": "The correct answer is 'The Devotion of Suspect X'.",
+    "difficulty": 1
+  },
+  {
+    "id": 55,
     "question_zh": "《嫌疑人X的獻身》嘅作者係邊個？",
     "question_en": "Who wrote 'The Devotion of Suspect X'?",
     "options_zh": [
+      "其他作者C",
+      "其他作者B",
+      "其他作者A",
+      "東野圭吾"
+    ],
+    "options_en": [
+      "Author C",
+      "Author B",
+      "Author A",
+      "Keigo Higashino"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「東野圭吾」。",
+    "explanation_en": "The correct answer is 'Keigo Higashino'.",
+    "difficulty": 2
+  },
+  {
+    "id": 56,
+    "question_zh": "《嫌疑人X的獻身》嘅作者係邊個？",
+    "question_en": "Who wrote 'The Devotion of Suspect X'?",
+    "options_zh": [
+      "其他作者A",
       "東野圭吾",
       "其他作者C",
-      "其他作者A",
       "其他作者B"
     ],
     "options_en": [
+      "Author A",
       "Keigo Higashino",
       "Author C",
-      "Author A",
       "Author B"
     ],
-    "answer": 0,
+    "answer": 1,
+    "explanation_zh": "正確答案係「東野圭吾」。",
+    "explanation_en": "The correct answer is 'Keigo Higashino'.",
+    "difficulty": 3
+  },
+  {
+    "id": 57,
+    "question_zh": "《嫌疑人X的獻身》嘅作者係邊個？",
+    "question_en": "Who wrote 'The Devotion of Suspect X'?",
+    "options_zh": [
+      "其他作者A",
+      "其他作者B",
+      "東野圭吾",
+      "其他作者C"
+    ],
+    "options_en": [
+      "Author A",
+      "Author B",
+      "Keigo Higashino",
+      "Author C"
+    ],
+    "answer": 2,
     "explanation_zh": "正確答案係「東野圭吾」。",
     "explanation_en": "The correct answer is 'Keigo Higashino'.",
     "difficulty": 1
   },
   {
-    "id": 31,
-    "question_zh": "《嫌疑人X的獻身》嘅作者係邊個？",
-    "question_en": "Who wrote 'The Devotion of Suspect X'?",
-    "options_zh": [
-      "其他作者B",
-      "其他作者C",
-      "東野圭吾",
-      "其他作者A"
-    ],
-    "options_en": [
-      "Author B",
-      "Author C",
-      "Keigo Higashino",
-      "Author A"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「東野圭吾」。",
-    "explanation_en": "The correct answer is 'Keigo Higashino'.",
-    "difficulty": 2
-  },
-  {
-    "id": 32,
-    "question_zh": "《嫌疑人X的獻身》嘅作者係邊個？",
-    "question_en": "Who wrote 'The Devotion of Suspect X'?",
-    "options_zh": [
-      "東野圭吾",
-      "其他作者B",
-      "其他作者A",
-      "其他作者C"
-    ],
-    "options_en": [
-      "Keigo Higashino",
-      "Author B",
-      "Author A",
-      "Author C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「東野圭吾」。",
-    "explanation_en": "The correct answer is 'Keigo Higashino'.",
-    "difficulty": 3
-  },
-  {
-    "id": 33,
+    "id": 58,
     "question_zh": "《嫌疑人X的獻身》係邊年出版嘅？",
     "question_en": "What year was 'The Devotion of Suspect X' published?",
     "options_zh": [
       "2002年",
-      "2010年",
       "2005年",
+      "2007年",
       "2008年"
     ],
     "options_en": [
       "2002",
-      "2010",
       "2005",
+      "2007",
       "2008"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2005年」。",
-    "explanation_en": "The correct answer is '2005'.",
-    "difficulty": 1
-  },
-  {
-    "id": 34,
-    "question_zh": "《嫌疑人X的獻身》係邊年出版嘅？",
-    "question_en": "What year was 'The Devotion of Suspect X' published?",
-    "options_zh": [
-      "2000年",
-      "2008年",
-      "2005年",
-      "2007年"
-    ],
-    "options_en": [
-      "2000",
-      "2008",
-      "2005",
-      "2007"
-    ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 2
   },
   {
-    "id": 35,
+    "id": 59,
     "question_zh": "《嫌疑人X的獻身》係邊年出版嘅？",
     "question_en": "What year was 'The Devotion of Suspect X' published?",
     "options_zh": [
       "2005年",
-      "2010年",
       "2002年",
+      "2008年",
       "2003年"
     ],
     "options_en": [
       "2005",
-      "2010",
       "2002",
+      "2008",
       "2003"
     ],
     "answer": 0,
@@ -735,196 +1239,217 @@
     "difficulty": 3
   },
   {
-    "id": 36,
-    "question_zh": "《嫌疑人X的獻身》屬於邊種類型？",
-    "question_en": "What genre is 'The Devotion of Suspect X'?",
+    "id": 60,
+    "question_zh": "《嫌疑人X的獻身》係邊年出版嘅？",
+    "question_en": "What year was 'The Devotion of Suspect X' published?",
     "options_zh": [
-      "懸疑與推理類",
-      "其他類型A",
-      "其他類型B",
-      "其他類型C"
+      "2005年",
+      "2008年",
+      "2007年",
+      "2003年"
     ],
     "options_en": [
-      "Mystery & Detective",
-      "Genre A",
-      "Genre B",
-      "Genre C"
+      "2005",
+      "2008",
+      "2007",
+      "2003"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
+    "explanation_zh": "正確答案係「2005年」。",
+    "explanation_en": "The correct answer is '2005'.",
     "difficulty": 1
   },
   {
-    "id": 37,
-    "question_zh": "《嫌疑人X的獻身》屬於邊種類型？",
-    "question_en": "What genre is 'The Devotion of Suspect X'?",
+    "id": 61,
+    "question_zh": "《嫌疑人X的獻身》係邊國作品？",
+    "question_en": "Which country is 'The Devotion of Suspect X' from?",
     "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "懸疑與推理類",
-      "其他類型B"
+      "日本",
+      "法國",
+      "德國",
+      "韓國"
     ],
     "options_en": [
-      "Genre C",
-      "Genre A",
-      "Mystery & Detective",
-      "Genre B"
+      "Japan",
+      "France",
+      "Germany",
+      "South Korea"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 2
   },
   {
-    "id": 38,
-    "question_zh": "《嫌疑人X的獻身》屬於邊種類型？",
-    "question_en": "What genre is 'The Devotion of Suspect X'?",
+    "id": 62,
+    "question_zh": "《嫌疑人X的獻身》係邊國作品？",
+    "question_en": "Which country is 'The Devotion of Suspect X' from?",
     "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "其他類型B",
-      "懸疑與推理類"
+      "德國",
+      "法國",
+      "日本",
+      "韓國"
     ],
     "options_en": [
-      "Genre C",
-      "Genre A",
-      "Genre B",
-      "Mystery & Detective"
+      "Germany",
+      "France",
+      "Japan",
+      "South Korea"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 3
   },
   {
-    "id": 39,
+    "id": 63,
+    "question_zh": "《嫌疑人X的獻身》係邊國作品？",
+    "question_en": "Which country is 'The Devotion of Suspect X' from?",
+    "options_zh": [
+      "韓國",
+      "日本",
+      "德國",
+      "法國"
+    ],
+    "options_en": [
+      "South Korea",
+      "Japan",
+      "Germany",
+      "France"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 1
+  },
+  {
+    "id": 64,
     "question_zh": "《嫌疑人X的獻身》主要講咩？",
     "question_en": "What is 'The Devotion of Suspect X' mainly about?",
     "options_zh": [
-      "科幻太空",
+      "體育競技",
       "財經商戰",
       "推理破案同懸疑故事",
+      "科幻太空"
+    ],
+    "options_en": [
+      "Sports",
+      "Business",
+      "Mystery and detective",
+      "Sci-fi"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
+    "difficulty": 2
+  },
+  {
+    "id": 65,
+    "question_zh": "《嫌疑人X的獻身》主要講咩？",
+    "question_en": "What is 'The Devotion of Suspect X' mainly about?",
+    "options_zh": [
+      "推理破案同懸疑故事",
+      "科幻太空",
+      "財經商戰",
       "體育競技"
     ],
     "options_en": [
-      "Sci-fi space",
+      "Mystery and detective",
+      "Sci-fi",
       "Business",
-      "Detective and mystery story",
       "Sports"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
-    "difficulty": 1
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
+    "difficulty": 3
   },
   {
-    "id": 40,
+    "id": 66,
     "question_zh": "《嫌疑人X的獻身》主要講咩？",
     "question_en": "What is 'The Devotion of Suspect X' mainly about?",
     "options_zh": [
+      "體育競技",
       "科幻太空",
       "推理破案同懸疑故事",
-      "體育競技",
       "財經商戰"
     ],
     "options_en": [
-      "Sci-fi space",
-      "Detective and mystery story",
       "Sports",
+      "Sci-fi",
+      "Mystery and detective",
       "Business"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
-    "difficulty": 2
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
+    "difficulty": 1
   },
   {
-    "id": 41,
-    "question_zh": "《嫌疑人X的獻身》主要講咩？",
-    "question_en": "What is 'The Devotion of Suspect X' mainly about?",
-    "options_zh": [
-      "體育競技",
-      "財經商戰",
-      "科幻太空",
-      "推理破案同懸疑故事"
-    ],
-    "options_en": [
-      "Sports",
-      "Business",
-      "Sci-fi space",
-      "Detective and mystery story"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
-    "difficulty": 3
-  },
-  {
-    "id": 42,
+    "id": 67,
     "question_zh": "《嫌疑人X的獻身》入面有咩角色？",
     "question_en": "What characters are in 'The Devotion of Suspect X'?",
     "options_zh": [
-      "外星人",
-      "偵探/警察",
       "動物",
-      "機械人"
+      "機械人",
+      "外星人",
+      "偵探/警察"
     ],
     "options_en": [
+      "Animals",
+      "Robots",
+      "Aliens",
+      "Detective/Police"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「偵探/警察」。",
+    "explanation_en": "The correct answer is 'Detective/Police'.",
+    "difficulty": 2
+  },
+  {
+    "id": 68,
+    "question_zh": "《嫌疑人X的獻身》入面有咩角色？",
+    "question_en": "What characters are in 'The Devotion of Suspect X'?",
+    "options_zh": [
+      "動物",
+      "機械人",
+      "外星人",
+      "偵探/警察"
+    ],
+    "options_en": [
+      "Animals",
+      "Robots",
+      "Aliens",
+      "Detective/Police"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「偵探/警察」。",
+    "explanation_en": "The correct answer is 'Detective/Police'.",
+    "difficulty": 3
+  },
+  {
+    "id": 69,
+    "question_zh": "《嫌疑人X的獻身》入面有咩角色？",
+    "question_en": "What characters are in 'The Devotion of Suspect X'?",
+    "options_zh": [
+      "機械人",
+      "外星人",
+      "偵探/警察",
+      "動物"
+    ],
+    "options_en": [
+      "Robots",
       "Aliens",
       "Detective/Police",
-      "Animals",
-      "Robots"
+      "Animals"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「偵探/警察」。",
     "explanation_en": "The correct answer is 'Detective/Police'.",
     "difficulty": 1
   },
   {
-    "id": 43,
-    "question_zh": "《嫌疑人X的獻身》入面有咩角色？",
-    "question_en": "What characters are in 'The Devotion of Suspect X'?",
-    "options_zh": [
-      "動物",
-      "機械人",
-      "偵探/警察",
-      "外星人"
-    ],
-    "options_en": [
-      "Animals",
-      "Robots",
-      "Detective/Police",
-      "Aliens"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「偵探/警察」。",
-    "explanation_en": "The correct answer is 'Detective/Police'.",
-    "difficulty": 2
-  },
-  {
-    "id": 44,
-    "question_zh": "《嫌疑人X的獻身》入面有咩角色？",
-    "question_en": "What characters are in 'The Devotion of Suspect X'?",
-    "options_zh": [
-      "偵探/警察",
-      "動物",
-      "機械人",
-      "外星人"
-    ],
-    "options_en": [
-      "Detective/Police",
-      "Animals",
-      "Robots",
-      "Aliens"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「偵探/警察」。",
-    "explanation_en": "The correct answer is 'Detective/Police'.",
-    "difficulty": 3
-  },
-  {
-    "id": 45,
+    "id": 70,
     "question_zh": "《嫌疑人X的獻身》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Devotion of Suspect X' set?",
     "options_zh": [
@@ -942,531 +1467,6 @@
     "answer": 0,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 1
-  },
-  {
-    "id": 46,
-    "question_zh": "《嫌疑人X的獻身》嘅故事背景喺邊度？",
-    "question_en": "Where is 'The Devotion of Suspect X' set?",
-    "options_zh": [
-      "中國/亞洲",
-      "未來太空",
-      "虛擬世界",
-      "歐洲中世紀"
-    ],
-    "options_en": [
-      "China/Asia",
-      "Future space",
-      "Virtual world",
-      "Medieval Europe"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 2
-  },
-  {
-    "id": 47,
-    "question_zh": "《嫌疑人X的獻身》嘅故事背景喺邊度？",
-    "question_en": "Where is 'The Devotion of Suspect X' set?",
-    "options_zh": [
-      "未來太空",
-      "虛擬世界",
-      "中國/亞洲",
-      "歐洲中世紀"
-    ],
-    "options_en": [
-      "Future space",
-      "Virtual world",
-      "China/Asia",
-      "Medieval Europe"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 3
-  },
-  {
-    "id": 48,
-    "question_zh": "《嫌疑人X的獻身》係咪好受歡迎？",
-    "question_en": "Is 'The Devotion of Suspect X' popular?",
-    "options_zh": [
-      "已經過氣",
-      "係，非常受歡迎",
-      "只喺特定地區流行",
-      "唔係，好冷門"
-    ],
-    "options_en": [
-      "Outdated",
-      "Yes, very popular",
-      "Only popular locally",
-      "No, very niche"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 1
-  },
-  {
-    "id": 49,
-    "question_zh": "《嫌疑人X的獻身》係咪好受歡迎？",
-    "question_en": "Is 'The Devotion of Suspect X' popular?",
-    "options_zh": [
-      "只喺特定地區流行",
-      "已經過氣",
-      "唔係，好冷門",
-      "係，非常受歡迎"
-    ],
-    "options_en": [
-      "Only popular locally",
-      "Outdated",
-      "No, very niche",
-      "Yes, very popular"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 2
-  },
-  {
-    "id": 50,
-    "question_zh": "《嫌疑人X的獻身》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'The Devotion of Suspect X' belong to?",
-    "options_zh": [
-      "恐怖小說",
-      "兒童文學",
-      "懸疑與推理類",
-      "科幻小說"
-    ],
-    "options_en": [
-      "Horror",
-      "Children's literature",
-      "Mystery & Detective",
-      "Sci-fi"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
-    "difficulty": 3
-  },
-  {
-    "id": 51,
-    "question_zh": "以下邊本係《嫌疑人X的獻身》？",
-    "question_en": "Which one is 'The Devotion of Suspect X'?",
-    "options_zh": [
-      "其他小說C",
-      "嫌疑人X的獻身",
-      "其他小說B",
-      "其他小說A"
-    ],
-    "options_en": [
-      "Other Novel C",
-      "The Devotion of Suspect X",
-      "Other Novel B",
-      "Other Novel A"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「嫌疑人X的獻身」。",
-    "explanation_en": "The correct answer is 'The Devotion of Suspect X'.",
-    "difficulty": 1
-  },
-  {
-    "id": 52,
-    "question_zh": "以下邊本係《嫌疑人X的獻身》？",
-    "question_en": "Which one is 'The Devotion of Suspect X'?",
-    "options_zh": [
-      "其他小說A",
-      "其他小說B",
-      "其他小說C",
-      "嫌疑人X的獻身"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "Other Novel B",
-      "Other Novel C",
-      "The Devotion of Suspect X"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「嫌疑人X的獻身」。",
-    "explanation_en": "The correct answer is 'The Devotion of Suspect X'.",
-    "difficulty": 2
-  },
-  {
-    "id": 53,
-    "question_zh": "以下邊本係《嫌疑人X的獻身》？",
-    "question_en": "Which one is 'The Devotion of Suspect X'?",
-    "options_zh": [
-      "其他小說B",
-      "其他小說A",
-      "其他小說C",
-      "嫌疑人X的獻身"
-    ],
-    "options_en": [
-      "Other Novel B",
-      "Other Novel A",
-      "Other Novel C",
-      "The Devotion of Suspect X"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「嫌疑人X的獻身」。",
-    "explanation_en": "The correct answer is 'The Devotion of Suspect X'.",
-    "difficulty": 3
-  },
-  {
-    "id": 54,
-    "question_zh": "以下邊本係《嫌疑人X的獻身》？",
-    "question_en": "Which one is 'The Devotion of Suspect X'?",
-    "options_zh": [
-      "嫌疑人X的獻身",
-      "其他小說C",
-      "其他小說B",
-      "其他小說A"
-    ],
-    "options_en": [
-      "The Devotion of Suspect X",
-      "Other Novel C",
-      "Other Novel B",
-      "Other Novel A"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「嫌疑人X的獻身」。",
-    "explanation_en": "The correct answer is 'The Devotion of Suspect X'.",
-    "difficulty": 1
-  },
-  {
-    "id": 55,
-    "question_zh": "《嫌疑人X的獻身》嘅作者係邊個？",
-    "question_en": "Who wrote 'The Devotion of Suspect X'?",
-    "options_zh": [
-      "其他作者B",
-      "其他作者C",
-      "其他作者A",
-      "東野圭吾"
-    ],
-    "options_en": [
-      "Author B",
-      "Author C",
-      "Author A",
-      "Keigo Higashino"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「東野圭吾」。",
-    "explanation_en": "The correct answer is 'Keigo Higashino'.",
-    "difficulty": 2
-  },
-  {
-    "id": 56,
-    "question_zh": "《嫌疑人X的獻身》嘅作者係邊個？",
-    "question_en": "Who wrote 'The Devotion of Suspect X'?",
-    "options_zh": [
-      "東野圭吾",
-      "其他作者A",
-      "其他作者C",
-      "其他作者B"
-    ],
-    "options_en": [
-      "Keigo Higashino",
-      "Author A",
-      "Author C",
-      "Author B"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「東野圭吾」。",
-    "explanation_en": "The correct answer is 'Keigo Higashino'.",
-    "difficulty": 3
-  },
-  {
-    "id": 57,
-    "question_zh": "《嫌疑人X的獻身》嘅作者係邊個？",
-    "question_en": "Who wrote 'The Devotion of Suspect X'?",
-    "options_zh": [
-      "東野圭吾",
-      "其他作者B",
-      "其他作者A",
-      "其他作者C"
-    ],
-    "options_en": [
-      "Keigo Higashino",
-      "Author B",
-      "Author A",
-      "Author C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「東野圭吾」。",
-    "explanation_en": "The correct answer is 'Keigo Higashino'.",
-    "difficulty": 1
-  },
-  {
-    "id": 58,
-    "question_zh": "《嫌疑人X的獻身》係邊年出版嘅？",
-    "question_en": "What year was 'The Devotion of Suspect X' published?",
-    "options_zh": [
-      "2005年",
-      "2007年",
-      "2010年",
-      "2000年"
-    ],
-    "options_en": [
-      "2005",
-      "2007",
-      "2010",
-      "2000"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2005年」。",
-    "explanation_en": "The correct answer is '2005'.",
-    "difficulty": 2
-  },
-  {
-    "id": 59,
-    "question_zh": "《嫌疑人X的獻身》係邊年出版嘅？",
-    "question_en": "What year was 'The Devotion of Suspect X' published?",
-    "options_zh": [
-      "2002年",
-      "2010年",
-      "2005年",
-      "2003年"
-    ],
-    "options_en": [
-      "2002",
-      "2010",
-      "2005",
-      "2003"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2005年」。",
-    "explanation_en": "The correct answer is '2005'.",
-    "difficulty": 3
-  },
-  {
-    "id": 60,
-    "question_zh": "《嫌疑人X的獻身》係邊年出版嘅？",
-    "question_en": "What year was 'The Devotion of Suspect X' published?",
-    "options_zh": [
-      "2007年",
-      "2010年",
-      "2005年",
-      "2008年"
-    ],
-    "options_en": [
-      "2007",
-      "2010",
-      "2005",
-      "2008"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2005年」。",
-    "explanation_en": "The correct answer is '2005'.",
-    "difficulty": 1
-  },
-  {
-    "id": 61,
-    "question_zh": "《嫌疑人X的獻身》屬於邊種類型？",
-    "question_en": "What genre is 'The Devotion of Suspect X'?",
-    "options_zh": [
-      "其他類型A",
-      "懸疑與推理類",
-      "其他類型C",
-      "其他類型B"
-    ],
-    "options_en": [
-      "Genre A",
-      "Mystery & Detective",
-      "Genre C",
-      "Genre B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
-    "difficulty": 2
-  },
-  {
-    "id": 62,
-    "question_zh": "《嫌疑人X的獻身》屬於邊種類型？",
-    "question_en": "What genre is 'The Devotion of Suspect X'?",
-    "options_zh": [
-      "其他類型B",
-      "懸疑與推理類",
-      "其他類型C",
-      "其他類型A"
-    ],
-    "options_en": [
-      "Genre B",
-      "Mystery & Detective",
-      "Genre C",
-      "Genre A"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
-    "difficulty": 3
-  },
-  {
-    "id": 63,
-    "question_zh": "《嫌疑人X的獻身》屬於邊種類型？",
-    "question_en": "What genre is 'The Devotion of Suspect X'?",
-    "options_zh": [
-      "其他類型B",
-      "懸疑與推理類",
-      "其他類型A",
-      "其他類型C"
-    ],
-    "options_en": [
-      "Genre B",
-      "Mystery & Detective",
-      "Genre A",
-      "Genre C"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
-    "difficulty": 1
-  },
-  {
-    "id": 64,
-    "question_zh": "《嫌疑人X的獻身》主要講咩？",
-    "question_en": "What is 'The Devotion of Suspect X' mainly about?",
-    "options_zh": [
-      "財經商戰",
-      "推理破案同懸疑故事",
-      "科幻太空",
-      "體育競技"
-    ],
-    "options_en": [
-      "Business",
-      "Detective and mystery story",
-      "Sci-fi space",
-      "Sports"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
-    "difficulty": 2
-  },
-  {
-    "id": 65,
-    "question_zh": "《嫌疑人X的獻身》主要講咩？",
-    "question_en": "What is 'The Devotion of Suspect X' mainly about?",
-    "options_zh": [
-      "科幻太空",
-      "財經商戰",
-      "推理破案同懸疑故事",
-      "體育競技"
-    ],
-    "options_en": [
-      "Sci-fi space",
-      "Business",
-      "Detective and mystery story",
-      "Sports"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
-    "difficulty": 3
-  },
-  {
-    "id": 66,
-    "question_zh": "《嫌疑人X的獻身》主要講咩？",
-    "question_en": "What is 'The Devotion of Suspect X' mainly about?",
-    "options_zh": [
-      "財經商戰",
-      "體育競技",
-      "科幻太空",
-      "推理破案同懸疑故事"
-    ],
-    "options_en": [
-      "Business",
-      "Sports",
-      "Sci-fi space",
-      "Detective and mystery story"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
-    "difficulty": 1
-  },
-  {
-    "id": 67,
-    "question_zh": "《嫌疑人X的獻身》入面有咩角色？",
-    "question_en": "What characters are in 'The Devotion of Suspect X'?",
-    "options_zh": [
-      "動物",
-      "偵探/警察",
-      "外星人",
-      "機械人"
-    ],
-    "options_en": [
-      "Animals",
-      "Detective/Police",
-      "Aliens",
-      "Robots"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「偵探/警察」。",
-    "explanation_en": "The correct answer is 'Detective/Police'.",
-    "difficulty": 2
-  },
-  {
-    "id": 68,
-    "question_zh": "《嫌疑人X的獻身》入面有咩角色？",
-    "question_en": "What characters are in 'The Devotion of Suspect X'?",
-    "options_zh": [
-      "偵探/警察",
-      "機械人",
-      "外星人",
-      "動物"
-    ],
-    "options_en": [
-      "Detective/Police",
-      "Robots",
-      "Aliens",
-      "Animals"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「偵探/警察」。",
-    "explanation_en": "The correct answer is 'Detective/Police'.",
-    "difficulty": 3
-  },
-  {
-    "id": 69,
-    "question_zh": "《嫌疑人X的獻身》入面有咩角色？",
-    "question_en": "What characters are in 'The Devotion of Suspect X'?",
-    "options_zh": [
-      "外星人",
-      "機械人",
-      "動物",
-      "偵探/警察"
-    ],
-    "options_en": [
-      "Aliens",
-      "Robots",
-      "Animals",
-      "Detective/Police"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「偵探/警察」。",
-    "explanation_en": "The correct answer is 'Detective/Police'.",
-    "difficulty": 1
-  },
-  {
-    "id": 70,
-    "question_zh": "《嫌疑人X的獻身》嘅故事背景喺邊度？",
-    "question_en": "Where is 'The Devotion of Suspect X' set?",
-    "options_zh": [
-      "未來太空",
-      "虛擬世界",
-      "歐洲中世紀",
-      "中國/亞洲"
-    ],
-    "options_en": [
-      "Future space",
-      "Virtual world",
-      "Medieval Europe",
-      "China/Asia"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 2
   },
   {
@@ -1474,18 +1474,18 @@
     "question_zh": "《嫌疑人X的獻身》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Devotion of Suspect X' set?",
     "options_zh": [
-      "未來太空",
       "中國/亞洲",
+      "歐洲中世紀",
       "虛擬世界",
-      "歐洲中世紀"
+      "未來太空"
     ],
     "options_en": [
-      "Future space",
       "China/Asia",
+      "Medieval Europe",
       "Virtual world",
-      "Medieval Europe"
+      "Future space"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
@@ -1495,18 +1495,18 @@
     "question_zh": "《嫌疑人X的獻身》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Devotion of Suspect X' set?",
     "options_zh": [
-      "歐洲中世紀",
+      "中國/亞洲",
       "未來太空",
       "虛擬世界",
-      "中國/亞洲"
+      "歐洲中世紀"
     ],
     "options_en": [
-      "Medieval Europe",
+      "China/Asia",
       "Future space",
       "Virtual world",
-      "China/Asia"
+      "Medieval Europe"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 1
@@ -1517,17 +1517,17 @@
     "question_en": "Is 'The Devotion of Suspect X' popular?",
     "options_zh": [
       "只喺特定地區流行",
-      "唔係，好冷門",
       "係，非常受歡迎",
+      "唔係，好冷門",
       "已經過氣"
     ],
     "options_en": [
       "Only popular locally",
-      "No, very niche",
       "Yes, very popular",
+      "No, very niche",
       "Outdated"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 2
@@ -1538,40 +1538,40 @@
     "question_en": "Is 'The Devotion of Suspect X' popular?",
     "options_zh": [
       "已經過氣",
+      "唔係，好冷門",
       "係，非常受歡迎",
-      "只喺特定地區流行",
-      "唔係，好冷門"
+      "只喺特定地區流行"
     ],
     "options_en": [
       "Outdated",
+      "No, very niche",
       "Yes, very popular",
-      "Only popular locally",
-      "No, very niche"
+      "Only popular locally"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
     "id": 75,
-    "question_zh": "《嫌疑人X的獻身》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'The Devotion of Suspect X' belong to?",
+    "question_zh": "《嫌疑人X的獻身》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'The Devotion of Suspect X'?",
     "options_zh": [
-      "懸疑與推理類",
-      "科幻小說",
-      "兒童文學",
-      "恐怖小說"
+      "日本人",
+      "德國人",
+      "韓國人",
+      "法國人"
     ],
     "options_en": [
-      "Mystery & Detective",
-      "Sci-fi",
-      "Children's literature",
-      "Horror"
+      "Japanese",
+      "German",
+      "Korean",
+      "French"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
+    "explanation_zh": "正確答案係「日本人」。",
+    "explanation_en": "The correct answer is 'Japanese'.",
     "difficulty": 1
   },
   {
@@ -1580,15 +1580,15 @@
     "question_en": "Which one is 'The Devotion of Suspect X'?",
     "options_zh": [
       "嫌疑人X的獻身",
-      "其他小說C",
+      "其他小說A",
       "其他小說B",
-      "其他小說A"
+      "其他小說C"
     ],
     "options_en": [
       "The Devotion of Suspect X",
-      "Other Novel C",
+      "Other Novel A",
       "Other Novel B",
-      "Other Novel A"
+      "Other Novel C"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「嫌疑人X的獻身」。",
@@ -1600,18 +1600,18 @@
     "question_zh": "以下邊本係《嫌疑人X的獻身》？",
     "question_en": "Which one is 'The Devotion of Suspect X'?",
     "options_zh": [
-      "其他小說C",
-      "其他小說A",
+      "嫌疑人X的獻身",
       "其他小說B",
-      "嫌疑人X的獻身"
+      "其他小說A",
+      "其他小說C"
     ],
     "options_en": [
-      "Other Novel C",
-      "Other Novel A",
+      "The Devotion of Suspect X",
       "Other Novel B",
-      "The Devotion of Suspect X"
+      "Other Novel A",
+      "Other Novel C"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「嫌疑人X的獻身」。",
     "explanation_en": "The correct answer is 'The Devotion of Suspect X'.",
     "difficulty": 3
@@ -1621,18 +1621,18 @@
     "question_zh": "以下邊本係《嫌疑人X的獻身》？",
     "question_en": "Which one is 'The Devotion of Suspect X'?",
     "options_zh": [
-      "其他小說C",
+      "嫌疑人X的獻身",
       "其他小說A",
       "其他小說B",
-      "嫌疑人X的獻身"
+      "其他小說C"
     ],
     "options_en": [
-      "Other Novel C",
+      "The Devotion of Suspect X",
       "Other Novel A",
       "Other Novel B",
-      "The Devotion of Suspect X"
+      "Other Novel C"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「嫌疑人X的獻身」。",
     "explanation_en": "The correct answer is 'The Devotion of Suspect X'.",
     "difficulty": 1
@@ -1642,18 +1642,18 @@
     "question_zh": "以下邊本係《嫌疑人X的獻身》？",
     "question_en": "Which one is 'The Devotion of Suspect X'?",
     "options_zh": [
-      "嫌疑人X的獻身",
+      "其他小說B",
       "其他小說C",
       "其他小說A",
-      "其他小說B"
+      "嫌疑人X的獻身"
     ],
     "options_en": [
-      "The Devotion of Suspect X",
+      "Other Novel B",
       "Other Novel C",
       "Other Novel A",
-      "Other Novel B"
+      "The Devotion of Suspect X"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「嫌疑人X的獻身」。",
     "explanation_en": "The correct answer is 'The Devotion of Suspect X'.",
     "difficulty": 2
@@ -1664,14 +1664,14 @@
     "question_en": "Who wrote 'The Devotion of Suspect X'?",
     "options_zh": [
       "東野圭吾",
-      "其他作者A",
       "其他作者C",
+      "其他作者A",
       "其他作者B"
     ],
     "options_en": [
       "Keigo Higashino",
-      "Author A",
       "Author C",
+      "Author A",
       "Author B"
     ],
     "answer": 0,
@@ -1684,18 +1684,18 @@
     "question_zh": "《嫌疑人X的獻身》嘅作者係邊個？",
     "question_en": "Who wrote 'The Devotion of Suspect X'?",
     "options_zh": [
-      "其他作者A",
       "東野圭吾",
       "其他作者C",
+      "其他作者A",
       "其他作者B"
     ],
     "options_en": [
-      "Author A",
       "Keigo Higashino",
       "Author C",
+      "Author A",
       "Author B"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「東野圭吾」。",
     "explanation_en": "The correct answer is 'Keigo Higashino'.",
     "difficulty": 1
@@ -1705,18 +1705,18 @@
     "question_zh": "《嫌疑人X的獻身》嘅作者係邊個？",
     "question_en": "Who wrote 'The Devotion of Suspect X'?",
     "options_zh": [
-      "其他作者C",
-      "其他作者A",
       "其他作者B",
-      "東野圭吾"
+      "東野圭吾",
+      "其他作者A",
+      "其他作者C"
     ],
     "options_en": [
-      "Author C",
-      "Author A",
       "Author B",
-      "Keigo Higashino"
+      "Keigo Higashino",
+      "Author A",
+      "Author C"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「東野圭吾」。",
     "explanation_en": "The correct answer is 'Keigo Higashino'.",
     "difficulty": 2
@@ -1726,18 +1726,18 @@
     "question_zh": "《嫌疑人X的獻身》係邊年出版嘅？",
     "question_en": "What year was 'The Devotion of Suspect X' published?",
     "options_zh": [
+      "2002年",
       "2000年",
       "2005年",
-      "2003年",
-      "2008年"
+      "2007年"
     ],
     "options_en": [
+      "2002",
       "2000",
       "2005",
-      "2003",
-      "2008"
+      "2007"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 3
@@ -1747,18 +1747,18 @@
     "question_zh": "《嫌疑人X的獻身》係邊年出版嘅？",
     "question_en": "What year was 'The Devotion of Suspect X' published?",
     "options_zh": [
-      "2008年",
-      "2010年",
+      "2003年",
       "2005年",
-      "2002年"
+      "2002年",
+      "2007年"
     ],
     "options_en": [
-      "2008",
-      "2010",
+      "2003",
       "2005",
-      "2002"
+      "2002",
+      "2007"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 1
@@ -1768,83 +1768,83 @@
     "question_zh": "《嫌疑人X的獻身》係邊年出版嘅？",
     "question_en": "What year was 'The Devotion of Suspect X' published?",
     "options_zh": [
-      "2007年",
-      "2000年",
       "2008年",
-      "2005年"
+      "2005年",
+      "2007年",
+      "2003年"
     ],
     "options_en": [
-      "2007",
-      "2000",
       "2008",
-      "2005"
+      "2005",
+      "2007",
+      "2003"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 2
   },
   {
     "id": 86,
-    "question_zh": "《嫌疑人X的獻身》屬於邊種類型？",
-    "question_en": "What genre is 'The Devotion of Suspect X'?",
+    "question_zh": "《嫌疑人X的獻身》係邊國作品？",
+    "question_en": "Which country is 'The Devotion of Suspect X' from?",
     "options_zh": [
-      "懸疑與推理類",
-      "其他類型A",
-      "其他類型C",
-      "其他類型B"
+      "法國",
+      "韓國",
+      "日本",
+      "德國"
     ],
     "options_en": [
-      "Mystery & Detective",
-      "Genre A",
-      "Genre C",
-      "Genre B"
+      "France",
+      "South Korea",
+      "Japan",
+      "Germany"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 3
   },
   {
     "id": 87,
-    "question_zh": "《嫌疑人X的獻身》屬於邊種類型？",
-    "question_en": "What genre is 'The Devotion of Suspect X'?",
+    "question_zh": "《嫌疑人X的獻身》係邊國作品？",
+    "question_en": "Which country is 'The Devotion of Suspect X' from?",
     "options_zh": [
-      "懸疑與推理類",
-      "其他類型B",
-      "其他類型C",
-      "其他類型A"
+      "德國",
+      "韓國",
+      "日本",
+      "法國"
     ],
     "options_en": [
-      "Mystery & Detective",
-      "Genre B",
-      "Genre C",
-      "Genre A"
+      "Germany",
+      "South Korea",
+      "Japan",
+      "France"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 1
   },
   {
     "id": 88,
-    "question_zh": "《嫌疑人X的獻身》屬於邊種類型？",
-    "question_en": "What genre is 'The Devotion of Suspect X'?",
+    "question_zh": "《嫌疑人X的獻身》係邊國作品？",
+    "question_en": "Which country is 'The Devotion of Suspect X' from?",
     "options_zh": [
-      "其他類型B",
-      "其他類型A",
-      "其他類型C",
-      "懸疑與推理類"
+      "法國",
+      "德國",
+      "韓國",
+      "日本"
     ],
     "options_en": [
-      "Genre B",
-      "Genre A",
-      "Genre C",
-      "Mystery & Detective"
+      "France",
+      "Germany",
+      "South Korea",
+      "Japan"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
+    "explanation_zh": "正確答案係「日本」。",
+    "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 2
   },
   {
@@ -1852,20 +1852,20 @@
     "question_zh": "《嫌疑人X的獻身》主要講咩？",
     "question_en": "What is 'The Devotion of Suspect X' mainly about?",
     "options_zh": [
-      "體育競技",
-      "科幻太空",
       "推理破案同懸疑故事",
-      "財經商戰"
+      "財經商戰",
+      "科幻太空",
+      "體育競技"
     ],
     "options_en": [
-      "Sports",
-      "Sci-fi space",
-      "Detective and mystery story",
-      "Business"
+      "Mystery and detective",
+      "Business",
+      "Sci-fi",
+      "Sports"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
     "difficulty": 3
   },
   {
@@ -1873,20 +1873,20 @@
     "question_zh": "《嫌疑人X的獻身》主要講咩？",
     "question_en": "What is 'The Devotion of Suspect X' mainly about?",
     "options_zh": [
-      "科幻太空",
-      "財經商戰",
+      "體育競技",
       "推理破案同懸疑故事",
-      "體育競技"
+      "科幻太空",
+      "財經商戰"
     ],
     "options_en": [
-      "Sci-fi space",
-      "Business",
-      "Detective and mystery story",
-      "Sports"
+      "Sports",
+      "Mystery and detective",
+      "Sci-fi",
+      "Business"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
     "difficulty": 1
   },
   {
@@ -1896,18 +1896,18 @@
     "options_zh": [
       "科幻太空",
       "財經商戰",
-      "體育競技",
-      "推理破案同懸疑故事"
+      "推理破案同懸疑故事",
+      "體育競技"
     ],
     "options_en": [
-      "Sci-fi space",
+      "Sci-fi",
       "Business",
-      "Sports",
-      "Detective and mystery story"
+      "Mystery and detective",
+      "Sports"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Detective and mystery story'.",
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
     "difficulty": 2
   },
   {
@@ -1915,18 +1915,18 @@
     "question_zh": "《嫌疑人X的獻身》入面有咩角色？",
     "question_en": "What characters are in 'The Devotion of Suspect X'?",
     "options_zh": [
-      "動物",
       "外星人",
+      "偵探/警察",
       "機械人",
-      "偵探/警察"
+      "動物"
     ],
     "options_en": [
-      "Animals",
       "Aliens",
+      "Detective/Police",
       "Robots",
-      "Detective/Police"
+      "Animals"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「偵探/警察」。",
     "explanation_en": "The correct answer is 'Detective/Police'.",
     "difficulty": 3
@@ -1936,18 +1936,18 @@
     "question_zh": "《嫌疑人X的獻身》入面有咩角色？",
     "question_en": "What characters are in 'The Devotion of Suspect X'?",
     "options_zh": [
-      "動物",
-      "機械人",
+      "外星人",
       "偵探/警察",
-      "外星人"
+      "機械人",
+      "動物"
     ],
     "options_en": [
-      "Animals",
-      "Robots",
+      "Aliens",
       "Detective/Police",
-      "Aliens"
+      "Robots",
+      "Animals"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「偵探/警察」。",
     "explanation_en": "The correct answer is 'Detective/Police'.",
     "difficulty": 1
@@ -1978,18 +1978,18 @@
     "question_zh": "《嫌疑人X的獻身》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Devotion of Suspect X' set?",
     "options_zh": [
-      "未來太空",
-      "虛擬世界",
       "歐洲中世紀",
-      "中國/亞洲"
+      "中國/亞洲",
+      "虛擬世界",
+      "未來太空"
     ],
     "options_en": [
-      "Future space",
-      "Virtual world",
       "Medieval Europe",
-      "China/Asia"
+      "China/Asia",
+      "Virtual world",
+      "Future space"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
@@ -1999,18 +1999,18 @@
     "question_zh": "《嫌疑人X的獻身》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Devotion of Suspect X' set?",
     "options_zh": [
+      "虛擬世界",
       "中國/亞洲",
       "未來太空",
-      "歐洲中世紀",
-      "虛擬世界"
+      "歐洲中世紀"
     ],
     "options_en": [
+      "Virtual world",
       "China/Asia",
       "Future space",
-      "Medieval Europe",
-      "Virtual world"
+      "Medieval Europe"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 1
@@ -2020,18 +2020,18 @@
     "question_zh": "《嫌疑人X的獻身》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Devotion of Suspect X' set?",
     "options_zh": [
-      "未來太空",
-      "中國/亞洲",
+      "歐洲中世紀",
       "虛擬世界",
-      "歐洲中世紀"
+      "中國/亞洲",
+      "未來太空"
     ],
     "options_en": [
-      "Future space",
-      "China/Asia",
+      "Medieval Europe",
       "Virtual world",
-      "Medieval Europe"
+      "China/Asia",
+      "Future space"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 2
@@ -2041,18 +2041,18 @@
     "question_zh": "《嫌疑人X的獻身》係咪好受歡迎？",
     "question_en": "Is 'The Devotion of Suspect X' popular?",
     "options_zh": [
-      "係，非常受歡迎",
       "唔係，好冷門",
-      "只喺特定地區流行",
-      "已經過氣"
+      "已經過氣",
+      "係，非常受歡迎",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "Yes, very popular",
       "No, very niche",
-      "Only popular locally",
-      "Outdated"
+      "Outdated",
+      "Yes, very popular",
+      "Only popular locally"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -2062,41 +2062,41 @@
     "question_zh": "《嫌疑人X的獻身》係咪好受歡迎？",
     "question_en": "Is 'The Devotion of Suspect X' popular?",
     "options_zh": [
-      "係，非常受歡迎",
       "唔係，好冷門",
-      "只喺特定地區流行",
-      "已經過氣"
+      "已經過氣",
+      "係，非常受歡迎",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "Yes, very popular",
       "No, very niche",
-      "Only popular locally",
-      "Outdated"
+      "Outdated",
+      "Yes, very popular",
+      "Only popular locally"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 1
   },
   {
     "id": 100,
-    "question_zh": "《嫌疑人X的獻身》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'The Devotion of Suspect X' belong to?",
+    "question_zh": "《嫌疑人X的獻身》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'The Devotion of Suspect X'?",
     "options_zh": [
-      "恐怖小說",
-      "兒童文學",
-      "懸疑與推理類",
-      "科幻小說"
+      "法國人",
+      "德國人",
+      "日本人",
+      "韓國人"
     ],
     "options_en": [
-      "Horror",
-      "Children's literature",
-      "Mystery & Detective",
-      "Sci-fi"
+      "French",
+      "German",
+      "Japanese",
+      "Korean"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「懸疑與推理類」。",
-    "explanation_en": "The correct answer is 'Mystery & Detective'.",
+    "explanation_zh": "正確答案係「日本人」。",
+    "explanation_en": "The correct answer is 'Japanese'.",
     "difficulty": 2
   }
 ]

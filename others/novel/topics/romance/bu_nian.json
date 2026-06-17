@@ -4,69 +4,6 @@
     "question_zh": "以下邊本係《步步驚心》？",
     "question_en": "Which one is 'Scarerta: The Startling'?",
     "options_zh": [
-      "步步驚心",
-      "其他小說C",
-      "其他小說A",
-      "其他小說B"
-    ],
-    "options_en": [
-      "Scarerta: The Startling",
-      "Other Novel C",
-      "Other Novel A",
-      "Other Novel B"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「步步驚心」。",
-    "explanation_en": "The correct answer is 'Scarerta: The Startling'.",
-    "difficulty": 2
-  },
-  {
-    "id": 2,
-    "question_zh": "以下邊本係《步步驚心》？",
-    "question_en": "Which one is 'Scarerta: The Startling'?",
-    "options_zh": [
-      "步步驚心",
-      "其他小說A",
-      "其他小說B",
-      "其他小說C"
-    ],
-    "options_en": [
-      "Scarerta: The Startling",
-      "Other Novel A",
-      "Other Novel B",
-      "Other Novel C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「步步驚心」。",
-    "explanation_en": "The correct answer is 'Scarerta: The Startling'.",
-    "difficulty": 3
-  },
-  {
-    "id": 3,
-    "question_zh": "以下邊本係《步步驚心》？",
-    "question_en": "Which one is 'Scarerta: The Startling'?",
-    "options_zh": [
-      "步步驚心",
-      "其他小說A",
-      "其他小說B",
-      "其他小說C"
-    ],
-    "options_en": [
-      "Scarerta: The Startling",
-      "Other Novel A",
-      "Other Novel B",
-      "Other Novel C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「步步驚心」。",
-    "explanation_en": "The correct answer is 'Scarerta: The Startling'.",
-    "difficulty": 1
-  },
-  {
-    "id": 4,
-    "question_zh": "以下邊本係《步步驚心》？",
-    "question_en": "Which one is 'Scarerta: The Startling'?",
-    "options_zh": [
       "其他小說A",
       "其他小說B",
       "步步驚心",
@@ -84,22 +21,85 @@
     "difficulty": 2
   },
   {
+    "id": 2,
+    "question_zh": "以下邊本係《步步驚心》？",
+    "question_en": "Which one is 'Scarerta: The Startling'?",
+    "options_zh": [
+      "步步驚心",
+      "其他小說C",
+      "其他小說B",
+      "其他小說A"
+    ],
+    "options_en": [
+      "Scarerta: The Startling",
+      "Other Novel C",
+      "Other Novel B",
+      "Other Novel A"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「步步驚心」。",
+    "explanation_en": "The correct answer is 'Scarerta: The Startling'.",
+    "difficulty": 3
+  },
+  {
+    "id": 3,
+    "question_zh": "以下邊本係《步步驚心》？",
+    "question_en": "Which one is 'Scarerta: The Startling'?",
+    "options_zh": [
+      "其他小說A",
+      "步步驚心",
+      "其他小說B",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Scarerta: The Startling",
+      "Other Novel B",
+      "Other Novel C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「步步驚心」。",
+    "explanation_en": "The correct answer is 'Scarerta: The Startling'.",
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question_zh": "以下邊本係《步步驚心》？",
+    "question_en": "Which one is 'Scarerta: The Startling'?",
+    "options_zh": [
+      "其他小說C",
+      "步步驚心",
+      "其他小說A",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Scarerta: The Startling",
+      "Other Novel A",
+      "Other Novel B"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「步步驚心」。",
+    "explanation_en": "The correct answer is 'Scarerta: The Startling'.",
+    "difficulty": 2
+  },
+  {
     "id": 5,
     "question_zh": "《步步驚心》嘅作者係邊個？",
     "question_en": "Who wrote 'Scarerta: The Startling'?",
     "options_zh": [
-      "桐華",
       "其他作者B",
-      "其他作者A",
-      "其他作者C"
+      "其他作者C",
+      "桐華",
+      "其他作者A"
     ],
     "options_en": [
-      "Tong Hua",
       "Author B",
-      "Author A",
-      "Author C"
+      "Author C",
+      "Tong Hua",
+      "Author A"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「桐華」。",
     "explanation_en": "The correct answer is 'Tong Hua'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "《步步驚心》嘅作者係邊個？",
     "question_en": "Who wrote 'Scarerta: The Startling'?",
     "options_zh": [
-      "其他作者C",
       "其他作者A",
-      "其他作者B",
-      "桐華"
+      "桐華",
+      "其他作者C",
+      "其他作者B"
     ],
     "options_en": [
-      "Author C",
       "Author A",
-      "Author B",
-      "Tong Hua"
+      "Tong Hua",
+      "Author C",
+      "Author B"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「桐華」。",
     "explanation_en": "The correct answer is 'Tong Hua'.",
     "difficulty": 1
@@ -131,14 +131,14 @@
     "question_en": "Who wrote 'Scarerta: The Startling'?",
     "options_zh": [
       "其他作者A",
-      "其他作者B",
       "其他作者C",
+      "其他作者B",
       "桐華"
     ],
     "options_en": [
       "Author A",
-      "Author B",
       "Author C",
+      "Author B",
       "Tong Hua"
     ],
     "answer": 3,
@@ -151,18 +151,18 @@
     "question_zh": "《步步驚心》係邊年出版嘅？",
     "question_en": "What year was 'Scarerta: The Startling' published?",
     "options_zh": [
-      "2002年",
       "2008年",
       "2005年",
-      "2000年"
+      "2000年",
+      "2002年"
     ],
     "options_en": [
-      "2002",
       "2008",
       "2005",
-      "2000"
+      "2000",
+      "2002"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 3
@@ -173,17 +173,17 @@
     "question_en": "What year was 'Scarerta: The Startling' published?",
     "options_zh": [
       "2000年",
-      "2007年",
+      "2005年",
       "2003年",
-      "2005年"
+      "2008年"
     ],
     "options_en": [
       "2000",
-      "2007",
+      "2005",
       "2003",
-      "2005"
+      "2008"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 1
@@ -193,83 +193,83 @@
     "question_zh": "《步步驚心》係邊年出版嘅？",
     "question_en": "What year was 'Scarerta: The Startling' published?",
     "options_zh": [
-      "2002年",
       "2008年",
-      "2010年",
-      "2005年"
+      "2005年",
+      "2002年",
+      "2010年"
     ],
     "options_en": [
-      "2002",
       "2008",
-      "2010",
-      "2005"
+      "2005",
+      "2002",
+      "2010"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 2
   },
   {
     "id": 11,
-    "question_zh": "《步步驚心》屬於邊種類型？",
-    "question_en": "What genre is 'Scarerta: The Startling'?",
+    "question_zh": "《步步驚心》係邊國作品？",
+    "question_en": "Which country is 'Scarerta: The Startling' from?",
     "options_zh": [
-      "其他類型B",
-      "其他類型C",
-      "情愛與關係類",
-      "其他類型A"
+      "德國",
+      "中國",
+      "韓國",
+      "法國"
     ],
     "options_en": [
-      "Genre B",
-      "Genre C",
-      "Romance & Relationships",
-      "Genre A"
+      "Germany",
+      "China",
+      "South Korea",
+      "France"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 12,
-    "question_zh": "《步步驚心》屬於邊種類型？",
-    "question_en": "What genre is 'Scarerta: The Startling'?",
+    "question_zh": "《步步驚心》係邊國作品？",
+    "question_en": "Which country is 'Scarerta: The Startling' from?",
     "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "其他類型B",
-      "情愛與關係類"
+      "德國",
+      "法國",
+      "中國",
+      "韓國"
     ],
     "options_en": [
-      "Genre C",
-      "Genre A",
-      "Genre B",
-      "Romance & Relationships"
+      "Germany",
+      "France",
+      "China",
+      "South Korea"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 13,
-    "question_zh": "《步步驚心》屬於邊種類型？",
-    "question_en": "What genre is 'Scarerta: The Startling'?",
+    "question_zh": "《步步驚心》係邊國作品？",
+    "question_en": "Which country is 'Scarerta: The Startling' from?",
     "options_zh": [
-      "其他類型C",
-      "其他類型A",
-      "其他類型B",
-      "情愛與關係類"
+      "韓國",
+      "德國",
+      "中國",
+      "法國"
     ],
     "options_en": [
-      "Genre C",
-      "Genre A",
-      "Genre B",
-      "Romance & Relationships"
+      "South Korea",
+      "Germany",
+      "China",
+      "France"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
@@ -277,20 +277,20 @@
     "question_zh": "《步步驚心》主要講咩？",
     "question_en": "What is 'Scarerta: The Startling' mainly about?",
     "options_zh": [
-      "愛情故事同人物關係",
+      "體育競技",
       "財經商戰",
-      "科幻太空",
-      "體育競技"
+      "愛情故事同人物關係",
+      "科幻太空"
     ],
     "options_en": [
-      "Love story and relationships",
+      "Sports",
       "Business",
-      "Sci-fi space",
-      "Sports"
+      "Love story",
+      "Sci-fi"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
+    "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 3
   },
   {
@@ -298,20 +298,20 @@
     "question_zh": "《步步驚心》主要講咩？",
     "question_en": "What is 'Scarerta: The Startling' mainly about?",
     "options_zh": [
-      "財經商戰",
       "科幻太空",
       "愛情故事同人物關係",
-      "體育競技"
+      "體育競技",
+      "財經商戰"
     ],
     "options_en": [
-      "Business",
-      "Sci-fi space",
-      "Love story and relationships",
-      "Sports"
+      "Sci-fi",
+      "Love story",
+      "Sports",
+      "Business"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
+    "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 1
   },
   {
@@ -319,20 +319,20 @@
     "question_zh": "《步步驚心》主要講咩？",
     "question_en": "What is 'Scarerta: The Startling' mainly about?",
     "options_zh": [
-      "財經商戰",
       "科幻太空",
+      "體育競技",
       "愛情故事同人物關係",
-      "體育競技"
+      "財經商戰"
     ],
     "options_en": [
-      "Business",
-      "Sci-fi space",
-      "Love story and relationships",
-      "Sports"
+      "Sci-fi",
+      "Sports",
+      "Love story",
+      "Business"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
+    "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 2
   },
   {
@@ -340,18 +340,18 @@
     "question_zh": "《步步驚心》入面有咩角色？",
     "question_en": "What characters are in 'Scarerta: The Startling'?",
     "options_zh": [
-      "外星人",
       "動物",
-      "機械人",
-      "主要角色"
+      "外星人",
+      "主要角色",
+      "機械人"
     ],
     "options_en": [
-      "Aliens",
       "Animals",
-      "Robots",
-      "Main characters"
+      "Aliens",
+      "Main characters",
+      "Robots"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
@@ -362,17 +362,17 @@
     "question_en": "What characters are in 'Scarerta: The Startling'?",
     "options_zh": [
       "外星人",
+      "主要角色",
       "動物",
-      "機械人",
-      "主要角色"
+      "機械人"
     ],
     "options_en": [
       "Aliens",
+      "Main characters",
       "Animals",
-      "Robots",
-      "Main characters"
+      "Robots"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 1
@@ -382,18 +382,18 @@
     "question_zh": "《步步驚心》入面有咩角色？",
     "question_en": "What characters are in 'Scarerta: The Startling'?",
     "options_zh": [
-      "主要角色",
-      "外星人",
       "機械人",
-      "動物"
+      "動物",
+      "主要角色",
+      "外星人"
     ],
     "options_en": [
-      "Main characters",
-      "Aliens",
       "Robots",
-      "Animals"
+      "Animals",
+      "Main characters",
+      "Aliens"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 2
@@ -403,549 +403,24 @@
     "question_zh": "《步步驚心》嘅故事背景喺邊度？",
     "question_en": "Where is 'Scarerta: The Startling' set?",
     "options_zh": [
-      "未來太空",
       "虛擬世界",
-      "歐洲中世紀",
-      "中國/亞洲"
+      "未來太空",
+      "中國/亞洲",
+      "歐洲中世紀"
     ],
     "options_en": [
-      "Future space",
       "Virtual world",
-      "Medieval Europe",
-      "China/Asia"
+      "Future space",
+      "China/Asia",
+      "Medieval Europe"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
   },
   {
     "id": 21,
-    "question_zh": "《步步驚心》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Scarerta: The Startling' set?",
-    "options_zh": [
-      "未來太空",
-      "中國/亞洲",
-      "虛擬世界",
-      "歐洲中世紀"
-    ],
-    "options_en": [
-      "Future space",
-      "China/Asia",
-      "Virtual world",
-      "Medieval Europe"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 1
-  },
-  {
-    "id": 22,
-    "question_zh": "《步步驚心》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Scarerta: The Startling' set?",
-    "options_zh": [
-      "未來太空",
-      "中國/亞洲",
-      "歐洲中世紀",
-      "虛擬世界"
-    ],
-    "options_en": [
-      "Future space",
-      "China/Asia",
-      "Medieval Europe",
-      "Virtual world"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 2
-  },
-  {
-    "id": 23,
-    "question_zh": "《步步驚心》係咪好受歡迎？",
-    "question_en": "Is 'Scarerta: The Startling' popular?",
-    "options_zh": [
-      "唔係，好冷門",
-      "只喺特定地區流行",
-      "已經過氣",
-      "係，非常受歡迎"
-    ],
-    "options_en": [
-      "No, very niche",
-      "Only popular locally",
-      "Outdated",
-      "Yes, very popular"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 3
-  },
-  {
-    "id": 24,
-    "question_zh": "《步步驚心》係咪好受歡迎？",
-    "question_en": "Is 'Scarerta: The Startling' popular?",
-    "options_zh": [
-      "已經過氣",
-      "唔係，好冷門",
-      "只喺特定地區流行",
-      "係，非常受歡迎"
-    ],
-    "options_en": [
-      "Outdated",
-      "No, very niche",
-      "Only popular locally",
-      "Yes, very popular"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 1
-  },
-  {
-    "id": 25,
-    "question_zh": "《步步驚心》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Scarerta: The Startling' belong to?",
-    "options_zh": [
-      "兒童文學",
-      "恐怖小說",
-      "情愛與關係類",
-      "科幻小說"
-    ],
-    "options_en": [
-      "Children's literature",
-      "Horror",
-      "Romance & Relationships",
-      "Sci-fi"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
-    "difficulty": 2
-  },
-  {
-    "id": 26,
-    "question_zh": "以下邊本係《步步驚心》？",
-    "question_en": "Which one is 'Scarerta: The Startling'?",
-    "options_zh": [
-      "其他小說A",
-      "其他小說C",
-      "其他小說B",
-      "步步驚心"
-    ],
-    "options_en": [
-      "Other Novel A",
-      "Other Novel C",
-      "Other Novel B",
-      "Scarerta: The Startling"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「步步驚心」。",
-    "explanation_en": "The correct answer is 'Scarerta: The Startling'.",
-    "difficulty": 3
-  },
-  {
-    "id": 27,
-    "question_zh": "以下邊本係《步步驚心》？",
-    "question_en": "Which one is 'Scarerta: The Startling'?",
-    "options_zh": [
-      "其他小說C",
-      "其他小說B",
-      "其他小說A",
-      "步步驚心"
-    ],
-    "options_en": [
-      "Other Novel C",
-      "Other Novel B",
-      "Other Novel A",
-      "Scarerta: The Startling"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「步步驚心」。",
-    "explanation_en": "The correct answer is 'Scarerta: The Startling'.",
-    "difficulty": 1
-  },
-  {
-    "id": 28,
-    "question_zh": "以下邊本係《步步驚心》？",
-    "question_en": "Which one is 'Scarerta: The Startling'?",
-    "options_zh": [
-      "其他小說C",
-      "其他小說B",
-      "其他小說A",
-      "步步驚心"
-    ],
-    "options_en": [
-      "Other Novel C",
-      "Other Novel B",
-      "Other Novel A",
-      "Scarerta: The Startling"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「步步驚心」。",
-    "explanation_en": "The correct answer is 'Scarerta: The Startling'.",
-    "difficulty": 2
-  },
-  {
-    "id": 29,
-    "question_zh": "以下邊本係《步步驚心》？",
-    "question_en": "Which one is 'Scarerta: The Startling'?",
-    "options_zh": [
-      "其他小說B",
-      "步步驚心",
-      "其他小說C",
-      "其他小說A"
-    ],
-    "options_en": [
-      "Other Novel B",
-      "Scarerta: The Startling",
-      "Other Novel C",
-      "Other Novel A"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「步步驚心」。",
-    "explanation_en": "The correct answer is 'Scarerta: The Startling'.",
-    "difficulty": 3
-  },
-  {
-    "id": 30,
-    "question_zh": "《步步驚心》嘅作者係邊個？",
-    "question_en": "Who wrote 'Scarerta: The Startling'?",
-    "options_zh": [
-      "其他作者A",
-      "其他作者B",
-      "桐華",
-      "其他作者C"
-    ],
-    "options_en": [
-      "Author A",
-      "Author B",
-      "Tong Hua",
-      "Author C"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「桐華」。",
-    "explanation_en": "The correct answer is 'Tong Hua'.",
-    "difficulty": 1
-  },
-  {
-    "id": 31,
-    "question_zh": "《步步驚心》嘅作者係邊個？",
-    "question_en": "Who wrote 'Scarerta: The Startling'?",
-    "options_zh": [
-      "其他作者A",
-      "其他作者C",
-      "桐華",
-      "其他作者B"
-    ],
-    "options_en": [
-      "Author A",
-      "Author C",
-      "Tong Hua",
-      "Author B"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「桐華」。",
-    "explanation_en": "The correct answer is 'Tong Hua'.",
-    "difficulty": 2
-  },
-  {
-    "id": 32,
-    "question_zh": "《步步驚心》嘅作者係邊個？",
-    "question_en": "Who wrote 'Scarerta: The Startling'?",
-    "options_zh": [
-      "其他作者C",
-      "其他作者A",
-      "其他作者B",
-      "桐華"
-    ],
-    "options_en": [
-      "Author C",
-      "Author A",
-      "Author B",
-      "Tong Hua"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「桐華」。",
-    "explanation_en": "The correct answer is 'Tong Hua'.",
-    "difficulty": 3
-  },
-  {
-    "id": 33,
-    "question_zh": "《步步驚心》係邊年出版嘅？",
-    "question_en": "What year was 'Scarerta: The Startling' published?",
-    "options_zh": [
-      "2003年",
-      "2008年",
-      "2005年",
-      "2002年"
-    ],
-    "options_en": [
-      "2003",
-      "2008",
-      "2005",
-      "2002"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2005年」。",
-    "explanation_en": "The correct answer is '2005'.",
-    "difficulty": 1
-  },
-  {
-    "id": 34,
-    "question_zh": "《步步驚心》係邊年出版嘅？",
-    "question_en": "What year was 'Scarerta: The Startling' published?",
-    "options_zh": [
-      "2003年",
-      "2005年",
-      "2000年",
-      "2007年"
-    ],
-    "options_en": [
-      "2003",
-      "2005",
-      "2000",
-      "2007"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2005年」。",
-    "explanation_en": "The correct answer is '2005'.",
-    "difficulty": 2
-  },
-  {
-    "id": 35,
-    "question_zh": "《步步驚心》係邊年出版嘅？",
-    "question_en": "What year was 'Scarerta: The Startling' published?",
-    "options_zh": [
-      "2003年",
-      "2007年",
-      "2005年",
-      "2000年"
-    ],
-    "options_en": [
-      "2003",
-      "2007",
-      "2005",
-      "2000"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2005年」。",
-    "explanation_en": "The correct answer is '2005'.",
-    "difficulty": 3
-  },
-  {
-    "id": 36,
-    "question_zh": "《步步驚心》屬於邊種類型？",
-    "question_en": "What genre is 'Scarerta: The Startling'?",
-    "options_zh": [
-      "其他類型B",
-      "其他類型A",
-      "其他類型C",
-      "情愛與關係類"
-    ],
-    "options_en": [
-      "Genre B",
-      "Genre A",
-      "Genre C",
-      "Romance & Relationships"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
-    "difficulty": 1
-  },
-  {
-    "id": 37,
-    "question_zh": "《步步驚心》屬於邊種類型？",
-    "question_en": "What genre is 'Scarerta: The Startling'?",
-    "options_zh": [
-      "其他類型C",
-      "其他類型B",
-      "其他類型A",
-      "情愛與關係類"
-    ],
-    "options_en": [
-      "Genre C",
-      "Genre B",
-      "Genre A",
-      "Romance & Relationships"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
-    "difficulty": 2
-  },
-  {
-    "id": 38,
-    "question_zh": "《步步驚心》屬於邊種類型？",
-    "question_en": "What genre is 'Scarerta: The Startling'?",
-    "options_zh": [
-      "其他類型A",
-      "其他類型B",
-      "情愛與關係類",
-      "其他類型C"
-    ],
-    "options_en": [
-      "Genre A",
-      "Genre B",
-      "Romance & Relationships",
-      "Genre C"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
-    "difficulty": 3
-  },
-  {
-    "id": 39,
-    "question_zh": "《步步驚心》主要講咩？",
-    "question_en": "What is 'Scarerta: The Startling' mainly about?",
-    "options_zh": [
-      "體育競技",
-      "愛情故事同人物關係",
-      "科幻太空",
-      "財經商戰"
-    ],
-    "options_en": [
-      "Sports",
-      "Love story and relationships",
-      "Sci-fi space",
-      "Business"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
-    "difficulty": 1
-  },
-  {
-    "id": 40,
-    "question_zh": "《步步驚心》主要講咩？",
-    "question_en": "What is 'Scarerta: The Startling' mainly about?",
-    "options_zh": [
-      "體育競技",
-      "愛情故事同人物關係",
-      "科幻太空",
-      "財經商戰"
-    ],
-    "options_en": [
-      "Sports",
-      "Love story and relationships",
-      "Sci-fi space",
-      "Business"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
-    "difficulty": 2
-  },
-  {
-    "id": 41,
-    "question_zh": "《步步驚心》主要講咩？",
-    "question_en": "What is 'Scarerta: The Startling' mainly about?",
-    "options_zh": [
-      "財經商戰",
-      "體育競技",
-      "愛情故事同人物關係",
-      "科幻太空"
-    ],
-    "options_en": [
-      "Business",
-      "Sports",
-      "Love story and relationships",
-      "Sci-fi space"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
-    "difficulty": 3
-  },
-  {
-    "id": 42,
-    "question_zh": "《步步驚心》入面有咩角色？",
-    "question_en": "What characters are in 'Scarerta: The Startling'?",
-    "options_zh": [
-      "機械人",
-      "主要角色",
-      "動物",
-      "外星人"
-    ],
-    "options_en": [
-      "Robots",
-      "Main characters",
-      "Animals",
-      "Aliens"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 1
-  },
-  {
-    "id": 43,
-    "question_zh": "《步步驚心》入面有咩角色？",
-    "question_en": "What characters are in 'Scarerta: The Startling'?",
-    "options_zh": [
-      "主要角色",
-      "動物",
-      "機械人",
-      "外星人"
-    ],
-    "options_en": [
-      "Main characters",
-      "Animals",
-      "Robots",
-      "Aliens"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 2
-  },
-  {
-    "id": 44,
-    "question_zh": "《步步驚心》入面有咩角色？",
-    "question_en": "What characters are in 'Scarerta: The Startling'?",
-    "options_zh": [
-      "機械人",
-      "主要角色",
-      "外星人",
-      "動物"
-    ],
-    "options_en": [
-      "Robots",
-      "Main characters",
-      "Aliens",
-      "Animals"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 3
-  },
-  {
-    "id": 45,
-    "question_zh": "《步步驚心》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Scarerta: The Startling' set?",
-    "options_zh": [
-      "虛擬世界",
-      "中國/亞洲",
-      "未來太空",
-      "歐洲中世紀"
-    ],
-    "options_en": [
-      "Virtual world",
-      "China/Asia",
-      "Future space",
-      "Medieval Europe"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 1
-  },
-  {
-    "id": 46,
     "question_zh": "《步步驚心》嘅故事背景喺邊度？",
     "question_en": "Where is 'Scarerta: The Startling' set?",
     "options_zh": [
@@ -963,136 +438,136 @@
     "answer": 2,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 2
+    "difficulty": 1
   },
   {
-    "id": 47,
+    "id": 22,
     "question_zh": "《步步驚心》嘅故事背景喺邊度？",
     "question_en": "Where is 'Scarerta: The Startling' set?",
     "options_zh": [
-      "歐洲中世紀",
+      "虛擬世界",
       "未來太空",
-      "中國/亞洲",
-      "虛擬世界"
+      "歐洲中世紀",
+      "中國/亞洲"
     ],
     "options_en": [
-      "Medieval Europe",
+      "Virtual world",
       "Future space",
-      "China/Asia",
-      "Virtual world"
+      "Medieval Europe",
+      "China/Asia"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 3
+    "difficulty": 2
   },
   {
-    "id": 48,
+    "id": 23,
     "question_zh": "《步步驚心》係咪好受歡迎？",
     "question_en": "Is 'Scarerta: The Startling' popular?",
     "options_zh": [
-      "已經過氣",
-      "唔係，好冷門",
       "係，非常受歡迎",
-      "只喺特定地區流行"
+      "已經過氣",
+      "只喺特定地區流行",
+      "唔係，好冷門"
     ],
     "options_en": [
-      "Outdated",
-      "No, very niche",
       "Yes, very popular",
-      "Only popular locally"
+      "Outdated",
+      "Only popular locally",
+      "No, very niche"
     ],
-    "answer": 2,
+    "answer": 0,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 3
+  },
+  {
+    "id": 24,
+    "question_zh": "《步步驚心》係咪好受歡迎？",
+    "question_en": "Is 'Scarerta: The Startling' popular?",
+    "options_zh": [
+      "只喺特定地區流行",
+      "唔係，好冷門",
+      "已經過氣",
+      "係，非常受歡迎"
+    ],
+    "options_en": [
+      "Only popular locally",
+      "No, very niche",
+      "Outdated",
+      "Yes, very popular"
+    ],
+    "answer": 3,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 1
   },
   {
-    "id": 49,
-    "question_zh": "《步步驚心》係咪好受歡迎？",
-    "question_en": "Is 'Scarerta: The Startling' popular?",
+    "id": 25,
+    "question_zh": "《步步驚心》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Scarerta: The Startling'?",
     "options_zh": [
-      "唔係，好冷門",
-      "係，非常受歡迎",
-      "已經過氣",
-      "只喺特定地區流行"
+      "法國人",
+      "德國人",
+      "韓國人",
+      "中國人"
     ],
     "options_en": [
-      "No, very niche",
-      "Yes, very popular",
-      "Outdated",
-      "Only popular locally"
+      "French",
+      "German",
+      "Korean",
+      "Chinese"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question_zh": "以下邊本係《步步驚心》？",
+    "question_en": "Which one is 'Scarerta: The Startling'?",
+    "options_zh": [
+      "其他小說C",
+      "其他小說B",
+      "其他小說A",
+      "步步驚心"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Novel B",
+      "Other Novel A",
+      "Scarerta: The Startling"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「步步驚心」。",
+    "explanation_en": "The correct answer is 'Scarerta: The Startling'.",
+    "difficulty": 3
+  },
+  {
+    "id": 27,
+    "question_zh": "以下邊本係《步步驚心》？",
+    "question_en": "Which one is 'Scarerta: The Startling'?",
+    "options_zh": [
+      "其他小說B",
+      "步步驚心",
+      "其他小說A",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Scarerta: The Startling",
+      "Other Novel A",
+      "Other Novel C"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 2
-  },
-  {
-    "id": 50,
-    "question_zh": "《步步驚心》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Scarerta: The Startling' belong to?",
-    "options_zh": [
-      "恐怖小說",
-      "兒童文學",
-      "情愛與關係類",
-      "科幻小說"
-    ],
-    "options_en": [
-      "Horror",
-      "Children's literature",
-      "Romance & Relationships",
-      "Sci-fi"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
-    "difficulty": 3
-  },
-  {
-    "id": 51,
-    "question_zh": "以下邊本係《步步驚心》？",
-    "question_en": "Which one is 'Scarerta: The Startling'?",
-    "options_zh": [
-      "其他小說C",
-      "其他小說B",
-      "其他小說A",
-      "步步驚心"
-    ],
-    "options_en": [
-      "Other Novel C",
-      "Other Novel B",
-      "Other Novel A",
-      "Scarerta: The Startling"
-    ],
-    "answer": 3,
     "explanation_zh": "正確答案係「步步驚心」。",
     "explanation_en": "The correct answer is 'Scarerta: The Startling'.",
     "difficulty": 1
   },
   {
-    "id": 52,
-    "question_zh": "以下邊本係《步步驚心》？",
-    "question_en": "Which one is 'Scarerta: The Startling'?",
-    "options_zh": [
-      "其他小說C",
-      "其他小說A",
-      "其他小說B",
-      "步步驚心"
-    ],
-    "options_en": [
-      "Other Novel C",
-      "Other Novel A",
-      "Other Novel B",
-      "Scarerta: The Startling"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「步步驚心」。",
-    "explanation_en": "The correct answer is 'Scarerta: The Startling'.",
-    "difficulty": 2
-  },
-  {
-    "id": 53,
+    "id": 28,
     "question_zh": "以下邊本係《步步驚心》？",
     "question_en": "Which one is 'Scarerta: The Startling'?",
     "options_zh": [
@@ -1110,6 +585,531 @@
     "answer": 2,
     "explanation_zh": "正確答案係「步步驚心」。",
     "explanation_en": "The correct answer is 'Scarerta: The Startling'.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "以下邊本係《步步驚心》？",
+    "question_en": "Which one is 'Scarerta: The Startling'?",
+    "options_zh": [
+      "其他小說C",
+      "其他小說B",
+      "步步驚心",
+      "其他小說A"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Novel B",
+      "Scarerta: The Startling",
+      "Other Novel A"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「步步驚心」。",
+    "explanation_en": "The correct answer is 'Scarerta: The Startling'.",
+    "difficulty": 3
+  },
+  {
+    "id": 30,
+    "question_zh": "《步步驚心》嘅作者係邊個？",
+    "question_en": "Who wrote 'Scarerta: The Startling'?",
+    "options_zh": [
+      "其他作者C",
+      "其他作者A",
+      "其他作者B",
+      "桐華"
+    ],
+    "options_en": [
+      "Author C",
+      "Author A",
+      "Author B",
+      "Tong Hua"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「桐華」。",
+    "explanation_en": "The correct answer is 'Tong Hua'.",
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question_zh": "《步步驚心》嘅作者係邊個？",
+    "question_en": "Who wrote 'Scarerta: The Startling'?",
+    "options_zh": [
+      "桐華",
+      "其他作者B",
+      "其他作者C",
+      "其他作者A"
+    ],
+    "options_en": [
+      "Tong Hua",
+      "Author B",
+      "Author C",
+      "Author A"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「桐華」。",
+    "explanation_en": "The correct answer is 'Tong Hua'.",
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question_zh": "《步步驚心》嘅作者係邊個？",
+    "question_en": "Who wrote 'Scarerta: The Startling'?",
+    "options_zh": [
+      "其他作者A",
+      "其他作者B",
+      "其他作者C",
+      "桐華"
+    ],
+    "options_en": [
+      "Author A",
+      "Author B",
+      "Author C",
+      "Tong Hua"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「桐華」。",
+    "explanation_en": "The correct answer is 'Tong Hua'.",
+    "difficulty": 3
+  },
+  {
+    "id": 33,
+    "question_zh": "《步步驚心》係邊年出版嘅？",
+    "question_en": "What year was 'Scarerta: The Startling' published?",
+    "options_zh": [
+      "2002年",
+      "2010年",
+      "2008年",
+      "2005年"
+    ],
+    "options_en": [
+      "2002",
+      "2010",
+      "2008",
+      "2005"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「2005年」。",
+    "explanation_en": "The correct answer is '2005'.",
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question_zh": "《步步驚心》係邊年出版嘅？",
+    "question_en": "What year was 'Scarerta: The Startling' published?",
+    "options_zh": [
+      "2005年",
+      "2002年",
+      "2008年",
+      "2007年"
+    ],
+    "options_en": [
+      "2005",
+      "2002",
+      "2008",
+      "2007"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2005年」。",
+    "explanation_en": "The correct answer is '2005'.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question_zh": "《步步驚心》係邊年出版嘅？",
+    "question_en": "What year was 'Scarerta: The Startling' published?",
+    "options_zh": [
+      "2008年",
+      "2010年",
+      "2005年",
+      "2000年"
+    ],
+    "options_en": [
+      "2008",
+      "2010",
+      "2005",
+      "2000"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2005年」。",
+    "explanation_en": "The correct answer is '2005'.",
+    "difficulty": 3
+  },
+  {
+    "id": 36,
+    "question_zh": "《步步驚心》係邊國作品？",
+    "question_en": "Which country is 'Scarerta: The Startling' from?",
+    "options_zh": [
+      "韓國",
+      "中國",
+      "法國",
+      "德國"
+    ],
+    "options_en": [
+      "South Korea",
+      "China",
+      "France",
+      "Germany"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question_zh": "《步步驚心》係邊國作品？",
+    "question_en": "Which country is 'Scarerta: The Startling' from?",
+    "options_zh": [
+      "法國",
+      "中國",
+      "韓國",
+      "德國"
+    ],
+    "options_en": [
+      "France",
+      "China",
+      "South Korea",
+      "Germany"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "《步步驚心》係邊國作品？",
+    "question_en": "Which country is 'Scarerta: The Startling' from?",
+    "options_zh": [
+      "中國",
+      "韓國",
+      "德國",
+      "法國"
+    ],
+    "options_en": [
+      "China",
+      "South Korea",
+      "Germany",
+      "France"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 3
+  },
+  {
+    "id": 39,
+    "question_zh": "《步步驚心》主要講咩？",
+    "question_en": "What is 'Scarerta: The Startling' mainly about?",
+    "options_zh": [
+      "體育競技",
+      "愛情故事同人物關係",
+      "科幻太空",
+      "財經商戰"
+    ],
+    "options_en": [
+      "Sports",
+      "Love story",
+      "Sci-fi",
+      "Business"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「愛情故事同人物關係」。",
+    "explanation_en": "The correct answer is 'Love story'.",
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question_zh": "《步步驚心》主要講咩？",
+    "question_en": "What is 'Scarerta: The Startling' mainly about?",
+    "options_zh": [
+      "科幻太空",
+      "體育競技",
+      "財經商戰",
+      "愛情故事同人物關係"
+    ],
+    "options_en": [
+      "Sci-fi",
+      "Sports",
+      "Business",
+      "Love story"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「愛情故事同人物關係」。",
+    "explanation_en": "The correct answer is 'Love story'.",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question_zh": "《步步驚心》主要講咩？",
+    "question_en": "What is 'Scarerta: The Startling' mainly about?",
+    "options_zh": [
+      "科幻太空",
+      "體育競技",
+      "愛情故事同人物關係",
+      "財經商戰"
+    ],
+    "options_en": [
+      "Sci-fi",
+      "Sports",
+      "Love story",
+      "Business"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「愛情故事同人物關係」。",
+    "explanation_en": "The correct answer is 'Love story'.",
+    "difficulty": 3
+  },
+  {
+    "id": 42,
+    "question_zh": "《步步驚心》入面有咩角色？",
+    "question_en": "What characters are in 'Scarerta: The Startling'?",
+    "options_zh": [
+      "動物",
+      "機械人",
+      "外星人",
+      "主要角色"
+    ],
+    "options_en": [
+      "Animals",
+      "Robots",
+      "Aliens",
+      "Main characters"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question_zh": "《步步驚心》入面有咩角色？",
+    "question_en": "What characters are in 'Scarerta: The Startling'?",
+    "options_zh": [
+      "外星人",
+      "機械人",
+      "動物",
+      "主要角色"
+    ],
+    "options_en": [
+      "Aliens",
+      "Robots",
+      "Animals",
+      "Main characters"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 2
+  },
+  {
+    "id": 44,
+    "question_zh": "《步步驚心》入面有咩角色？",
+    "question_en": "What characters are in 'Scarerta: The Startling'?",
+    "options_zh": [
+      "外星人",
+      "動物",
+      "主要角色",
+      "機械人"
+    ],
+    "options_en": [
+      "Aliens",
+      "Animals",
+      "Main characters",
+      "Robots"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 3
+  },
+  {
+    "id": 45,
+    "question_zh": "《步步驚心》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Scarerta: The Startling' set?",
+    "options_zh": [
+      "歐洲中世紀",
+      "未來太空",
+      "中國/亞洲",
+      "虛擬世界"
+    ],
+    "options_en": [
+      "Medieval Europe",
+      "Future space",
+      "China/Asia",
+      "Virtual world"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question_zh": "《步步驚心》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Scarerta: The Startling' set?",
+    "options_zh": [
+      "歐洲中世紀",
+      "虛擬世界",
+      "未來太空",
+      "中國/亞洲"
+    ],
+    "options_en": [
+      "Medieval Europe",
+      "Virtual world",
+      "Future space",
+      "China/Asia"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 2
+  },
+  {
+    "id": 47,
+    "question_zh": "《步步驚心》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Scarerta: The Startling' set?",
+    "options_zh": [
+      "未來太空",
+      "虛擬世界",
+      "中國/亞洲",
+      "歐洲中世紀"
+    ],
+    "options_en": [
+      "Future space",
+      "Virtual world",
+      "China/Asia",
+      "Medieval Europe"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 3
+  },
+  {
+    "id": 48,
+    "question_zh": "《步步驚心》係咪好受歡迎？",
+    "question_en": "Is 'Scarerta: The Startling' popular?",
+    "options_zh": [
+      "只喺特定地區流行",
+      "已經過氣",
+      "係，非常受歡迎",
+      "唔係，好冷門"
+    ],
+    "options_en": [
+      "Only popular locally",
+      "Outdated",
+      "Yes, very popular",
+      "No, very niche"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question_zh": "《步步驚心》係咪好受歡迎？",
+    "question_en": "Is 'Scarerta: The Startling' popular?",
+    "options_zh": [
+      "係，非常受歡迎",
+      "已經過氣",
+      "唔係，好冷門",
+      "只喺特定地區流行"
+    ],
+    "options_en": [
+      "Yes, very popular",
+      "Outdated",
+      "No, very niche",
+      "Only popular locally"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 2
+  },
+  {
+    "id": 50,
+    "question_zh": "《步步驚心》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Scarerta: The Startling'?",
+    "options_zh": [
+      "法國人",
+      "德國人",
+      "韓國人",
+      "中國人"
+    ],
+    "options_en": [
+      "French",
+      "German",
+      "Korean",
+      "Chinese"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 3
+  },
+  {
+    "id": 51,
+    "question_zh": "以下邊本係《步步驚心》？",
+    "question_en": "Which one is 'Scarerta: The Startling'?",
+    "options_zh": [
+      "其他小說B",
+      "步步驚心",
+      "其他小說C",
+      "其他小說A"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Scarerta: The Startling",
+      "Other Novel C",
+      "Other Novel A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「步步驚心」。",
+    "explanation_en": "The correct answer is 'Scarerta: The Startling'.",
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "question_zh": "以下邊本係《步步驚心》？",
+    "question_en": "Which one is 'Scarerta: The Startling'?",
+    "options_zh": [
+      "其他小說C",
+      "步步驚心",
+      "其他小說A",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Scarerta: The Startling",
+      "Other Novel A",
+      "Other Novel B"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「步步驚心」。",
+    "explanation_en": "The correct answer is 'Scarerta: The Startling'.",
+    "difficulty": 2
+  },
+  {
+    "id": 53,
+    "question_zh": "以下邊本係《步步驚心》？",
+    "question_en": "Which one is 'Scarerta: The Startling'?",
+    "options_zh": [
+      "步步驚心",
+      "其他小說B",
+      "其他小說A",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Scarerta: The Startling",
+      "Other Novel B",
+      "Other Novel A",
+      "Other Novel C"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「步步驚心」。",
+    "explanation_en": "The correct answer is 'Scarerta: The Startling'.",
     "difficulty": 3
   },
   {
@@ -1117,18 +1117,18 @@
     "question_zh": "以下邊本係《步步驚心》？",
     "question_en": "Which one is 'Scarerta: The Startling'?",
     "options_zh": [
+      "步步驚心",
       "其他小說A",
       "其他小說C",
-      "步步驚心",
       "其他小說B"
     ],
     "options_en": [
+      "Scarerta: The Startling",
       "Other Novel A",
       "Other Novel C",
-      "Scarerta: The Startling",
       "Other Novel B"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「步步驚心」。",
     "explanation_en": "The correct answer is 'Scarerta: The Startling'.",
     "difficulty": 1
@@ -1159,18 +1159,18 @@
     "question_zh": "《步步驚心》嘅作者係邊個？",
     "question_en": "Who wrote 'Scarerta: The Startling'?",
     "options_zh": [
-      "其他作者B",
       "其他作者C",
       "其他作者A",
-      "桐華"
+      "桐華",
+      "其他作者B"
     ],
     "options_en": [
-      "Author B",
       "Author C",
       "Author A",
-      "Tong Hua"
+      "Tong Hua",
+      "Author B"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「桐華」。",
     "explanation_en": "The correct answer is 'Tong Hua'.",
     "difficulty": 3
@@ -1180,18 +1180,18 @@
     "question_zh": "《步步驚心》嘅作者係邊個？",
     "question_en": "Who wrote 'Scarerta: The Startling'?",
     "options_zh": [
-      "其他作者A",
       "桐華",
-      "其他作者C",
-      "其他作者B"
+      "其他作者B",
+      "其他作者A",
+      "其他作者C"
     ],
     "options_en": [
-      "Author A",
       "Tong Hua",
-      "Author C",
-      "Author B"
+      "Author B",
+      "Author A",
+      "Author C"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「桐華」。",
     "explanation_en": "The correct answer is 'Tong Hua'.",
     "difficulty": 1
@@ -1201,18 +1201,18 @@
     "question_zh": "《步步驚心》係邊年出版嘅？",
     "question_en": "What year was 'Scarerta: The Startling' published?",
     "options_zh": [
+      "2008年",
       "2007年",
-      "2000年",
-      "2005年",
-      "2002年"
+      "2003年",
+      "2005年"
     ],
     "options_en": [
+      "2008",
       "2007",
-      "2000",
-      "2005",
-      "2002"
+      "2003",
+      "2005"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 2
@@ -1222,18 +1222,18 @@
     "question_zh": "《步步驚心》係邊年出版嘅？",
     "question_en": "What year was 'Scarerta: The Startling' published?",
     "options_zh": [
+      "2008年",
+      "2003年",
       "2007年",
-      "2000年",
-      "2005年",
-      "2010年"
+      "2005年"
     ],
     "options_en": [
+      "2008",
+      "2003",
       "2007",
-      "2000",
-      "2005",
-      "2010"
+      "2005"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 3
@@ -1243,16 +1243,16 @@
     "question_zh": "《步步驚心》係邊年出版嘅？",
     "question_en": "What year was 'Scarerta: The Startling' published?",
     "options_zh": [
-      "2010年",
       "2002年",
+      "2010年",
       "2005年",
-      "2008年"
+      "2000年"
     ],
     "options_en": [
-      "2010",
       "2002",
+      "2010",
       "2005",
-      "2008"
+      "2000"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「2005年」。",
@@ -1261,65 +1261,65 @@
   },
   {
     "id": 61,
-    "question_zh": "《步步驚心》屬於邊種類型？",
-    "question_en": "What genre is 'Scarerta: The Startling'?",
+    "question_zh": "《步步驚心》係邊國作品？",
+    "question_en": "Which country is 'Scarerta: The Startling' from?",
     "options_zh": [
-      "其他類型A",
-      "其他類型B",
-      "情愛與關係類",
-      "其他類型C"
+      "韓國",
+      "法國",
+      "中國",
+      "德國"
     ],
     "options_en": [
-      "Genre A",
-      "Genre B",
-      "Romance & Relationships",
-      "Genre C"
+      "South Korea",
+      "France",
+      "China",
+      "Germany"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
     "id": 62,
-    "question_zh": "《步步驚心》屬於邊種類型？",
-    "question_en": "What genre is 'Scarerta: The Startling'?",
+    "question_zh": "《步步驚心》係邊國作品？",
+    "question_en": "Which country is 'Scarerta: The Startling' from?",
     "options_zh": [
-      "其他類型B",
-      "其他類型C",
-      "其他類型A",
-      "情愛與關係類"
+      "法國",
+      "韓國",
+      "中國",
+      "德國"
     ],
     "options_en": [
-      "Genre B",
-      "Genre C",
-      "Genre A",
-      "Romance & Relationships"
+      "France",
+      "South Korea",
+      "China",
+      "Germany"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 63,
-    "question_zh": "《步步驚心》屬於邊種類型？",
-    "question_en": "What genre is 'Scarerta: The Startling'?",
+    "question_zh": "《步步驚心》係邊國作品？",
+    "question_en": "Which country is 'Scarerta: The Startling' from?",
     "options_zh": [
-      "其他類型A",
-      "其他類型B",
-      "情愛與關係類",
-      "其他類型C"
+      "韓國",
+      "中國",
+      "法國",
+      "德國"
     ],
     "options_en": [
-      "Genre A",
-      "Genre B",
-      "Romance & Relationships",
-      "Genre C"
+      "South Korea",
+      "China",
+      "France",
+      "Germany"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
@@ -1328,19 +1328,19 @@
     "question_en": "What is 'Scarerta: The Startling' mainly about?",
     "options_zh": [
       "體育競技",
+      "財經商戰",
       "科幻太空",
-      "愛情故事同人物關係",
-      "財經商戰"
+      "愛情故事同人物關係"
     ],
     "options_en": [
       "Sports",
-      "Sci-fi space",
-      "Love story and relationships",
-      "Business"
+      "Business",
+      "Sci-fi",
+      "Love story"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
+    "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 2
   },
   {
@@ -1350,18 +1350,18 @@
     "options_zh": [
       "愛情故事同人物關係",
       "財經商戰",
-      "體育競技",
-      "科幻太空"
+      "科幻太空",
+      "體育競技"
     ],
     "options_en": [
-      "Love story and relationships",
+      "Love story",
       "Business",
-      "Sports",
-      "Sci-fi space"
+      "Sci-fi",
+      "Sports"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
+    "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 3
   },
   {
@@ -1369,20 +1369,20 @@
     "question_zh": "《步步驚心》主要講咩？",
     "question_en": "What is 'Scarerta: The Startling' mainly about?",
     "options_zh": [
-      "科幻太空",
-      "愛情故事同人物關係",
+      "財經商戰",
       "體育競技",
-      "財經商戰"
+      "科幻太空",
+      "愛情故事同人物關係"
     ],
     "options_en": [
-      "Sci-fi space",
-      "Love story and relationships",
+      "Business",
       "Sports",
-      "Business"
+      "Sci-fi",
+      "Love story"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
+    "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 1
   },
   {
@@ -1391,17 +1391,17 @@
     "question_en": "What characters are in 'Scarerta: The Startling'?",
     "options_zh": [
       "動物",
-      "主要角色",
       "外星人",
-      "機械人"
+      "機械人",
+      "主要角色"
     ],
     "options_en": [
       "Animals",
-      "Main characters",
       "Aliens",
-      "Robots"
+      "Robots",
+      "Main characters"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 2
@@ -1411,18 +1411,18 @@
     "question_zh": "《步步驚心》入面有咩角色？",
     "question_en": "What characters are in 'Scarerta: The Startling'?",
     "options_zh": [
+      "動物",
       "機械人",
       "主要角色",
-      "動物",
       "外星人"
     ],
     "options_en": [
+      "Animals",
       "Robots",
       "Main characters",
-      "Animals",
       "Aliens"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
@@ -1432,18 +1432,18 @@
     "question_zh": "《步步驚心》入面有咩角色？",
     "question_en": "What characters are in 'Scarerta: The Startling'?",
     "options_zh": [
-      "動物",
       "主要角色",
+      "動物",
       "外星人",
       "機械人"
     ],
     "options_en": [
-      "Animals",
       "Main characters",
+      "Animals",
       "Aliens",
       "Robots"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 1
@@ -1453,18 +1453,18 @@
     "question_zh": "《步步驚心》嘅故事背景喺邊度？",
     "question_en": "Where is 'Scarerta: The Startling' set?",
     "options_zh": [
-      "未來太空",
       "虛擬世界",
-      "中國/亞洲",
-      "歐洲中世紀"
+      "歐洲中世紀",
+      "未來太空",
+      "中國/亞洲"
     ],
     "options_en": [
-      "Future space",
       "Virtual world",
-      "China/Asia",
-      "Medieval Europe"
+      "Medieval Europe",
+      "Future space",
+      "China/Asia"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 2
@@ -1475,17 +1475,17 @@
     "question_en": "Where is 'Scarerta: The Startling' set?",
     "options_zh": [
       "虛擬世界",
-      "中國/亞洲",
+      "歐洲中世紀",
       "未來太空",
-      "歐洲中世紀"
+      "中國/亞洲"
     ],
     "options_en": [
       "Virtual world",
-      "China/Asia",
+      "Medieval Europe",
       "Future space",
-      "Medieval Europe"
+      "China/Asia"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
@@ -1496,15 +1496,15 @@
     "question_en": "Where is 'Scarerta: The Startling' set?",
     "options_zh": [
       "歐洲中世紀",
-      "虛擬世界",
+      "未來太空",
       "中國/亞洲",
-      "未來太空"
+      "虛擬世界"
     ],
     "options_en": [
       "Medieval Europe",
-      "Virtual world",
+      "Future space",
       "China/Asia",
-      "Future space"
+      "Virtual world"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「中國/亞洲」。",
@@ -1516,18 +1516,18 @@
     "question_zh": "《步步驚心》係咪好受歡迎？",
     "question_en": "Is 'Scarerta: The Startling' popular?",
     "options_zh": [
-      "只喺特定地區流行",
-      "唔係，好冷門",
+      "係，非常受歡迎",
       "已經過氣",
-      "係，非常受歡迎"
+      "唔係，好冷門",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "Only popular locally",
-      "No, very niche",
+      "Yes, very popular",
       "Outdated",
-      "Yes, very popular"
+      "No, very niche",
+      "Only popular locally"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 2
@@ -1537,41 +1537,41 @@
     "question_zh": "《步步驚心》係咪好受歡迎？",
     "question_en": "Is 'Scarerta: The Startling' popular?",
     "options_zh": [
-      "係，非常受歡迎",
       "只喺特定地區流行",
-      "已經過氣",
-      "唔係，好冷門"
+      "唔係，好冷門",
+      "係，非常受歡迎",
+      "已經過氣"
     ],
     "options_en": [
-      "Yes, very popular",
       "Only popular locally",
-      "Outdated",
-      "No, very niche"
+      "No, very niche",
+      "Yes, very popular",
+      "Outdated"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
     "id": 75,
-    "question_zh": "《步步驚心》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Scarerta: The Startling' belong to?",
+    "question_zh": "《步步驚心》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Scarerta: The Startling'?",
     "options_zh": [
-      "恐怖小說",
-      "情愛與關係類",
-      "科幻小說",
-      "兒童文學"
+      "中國人",
+      "韓國人",
+      "德國人",
+      "法國人"
     ],
     "options_en": [
-      "Horror",
-      "Romance & Relationships",
-      "Sci-fi",
-      "Children's literature"
+      "Chinese",
+      "Korean",
+      "German",
+      "French"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 1
   },
   {
@@ -1579,18 +1579,18 @@
     "question_zh": "以下邊本係《步步驚心》？",
     "question_en": "Which one is 'Scarerta: The Startling'?",
     "options_zh": [
-      "步步驚心",
-      "其他小說B",
+      "其他小說C",
       "其他小說A",
-      "其他小說C"
+      "其他小說B",
+      "步步驚心"
     ],
     "options_en": [
-      "Scarerta: The Startling",
-      "Other Novel B",
+      "Other Novel C",
       "Other Novel A",
-      "Other Novel C"
+      "Other Novel B",
+      "Scarerta: The Startling"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「步步驚心」。",
     "explanation_en": "The correct answer is 'Scarerta: The Startling'.",
     "difficulty": 2
@@ -1621,18 +1621,18 @@
     "question_zh": "以下邊本係《步步驚心》？",
     "question_en": "Which one is 'Scarerta: The Startling'?",
     "options_zh": [
-      "其他小說A",
       "步步驚心",
-      "其他小說C",
-      "其他小說B"
+      "其他小說A",
+      "其他小說B",
+      "其他小說C"
     ],
     "options_en": [
-      "Other Novel A",
       "Scarerta: The Startling",
-      "Other Novel C",
-      "Other Novel B"
+      "Other Novel A",
+      "Other Novel B",
+      "Other Novel C"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「步步驚心」。",
     "explanation_en": "The correct answer is 'Scarerta: The Startling'.",
     "difficulty": 1
@@ -1642,18 +1642,18 @@
     "question_zh": "以下邊本係《步步驚心》？",
     "question_en": "Which one is 'Scarerta: The Startling'?",
     "options_zh": [
-      "其他小說A",
       "其他小說C",
       "步步驚心",
-      "其他小說B"
+      "其他小說B",
+      "其他小說A"
     ],
     "options_en": [
-      "Other Novel A",
       "Other Novel C",
       "Scarerta: The Startling",
-      "Other Novel B"
+      "Other Novel B",
+      "Other Novel A"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「步步驚心」。",
     "explanation_en": "The correct answer is 'Scarerta: The Startling'.",
     "difficulty": 2
@@ -1663,18 +1663,18 @@
     "question_zh": "《步步驚心》嘅作者係邊個？",
     "question_en": "Who wrote 'Scarerta: The Startling'?",
     "options_zh": [
-      "其他作者B",
-      "其他作者C",
+      "其他作者A",
       "桐華",
-      "其他作者A"
+      "其他作者B",
+      "其他作者C"
     ],
     "options_en": [
-      "Author B",
-      "Author C",
+      "Author A",
       "Tong Hua",
-      "Author A"
+      "Author B",
+      "Author C"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「桐華」。",
     "explanation_en": "The correct answer is 'Tong Hua'.",
     "difficulty": 3
@@ -1684,18 +1684,18 @@
     "question_zh": "《步步驚心》嘅作者係邊個？",
     "question_en": "Who wrote 'Scarerta: The Startling'?",
     "options_zh": [
-      "其他作者C",
       "其他作者B",
-      "桐華",
-      "其他作者A"
+      "其他作者C",
+      "其他作者A",
+      "桐華"
     ],
     "options_en": [
-      "Author C",
       "Author B",
-      "Tong Hua",
-      "Author A"
+      "Author C",
+      "Author A",
+      "Tong Hua"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「桐華」。",
     "explanation_en": "The correct answer is 'Tong Hua'.",
     "difficulty": 1
@@ -1705,18 +1705,18 @@
     "question_zh": "《步步驚心》嘅作者係邊個？",
     "question_en": "Who wrote 'Scarerta: The Startling'?",
     "options_zh": [
-      "其他作者A",
+      "桐華",
       "其他作者B",
       "其他作者C",
-      "桐華"
+      "其他作者A"
     ],
     "options_en": [
-      "Author A",
+      "Tong Hua",
       "Author B",
       "Author C",
-      "Tong Hua"
+      "Author A"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「桐華」。",
     "explanation_en": "The correct answer is 'Tong Hua'.",
     "difficulty": 2
@@ -1726,18 +1726,18 @@
     "question_zh": "《步步驚心》係邊年出版嘅？",
     "question_en": "What year was 'Scarerta: The Startling' published?",
     "options_zh": [
-      "2010年",
-      "2007年",
+      "2003年",
       "2005年",
-      "2002年"
+      "2010年",
+      "2008年"
     ],
     "options_en": [
-      "2010",
-      "2007",
+      "2003",
       "2005",
-      "2002"
+      "2010",
+      "2008"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 3
@@ -1748,17 +1748,17 @@
     "question_en": "What year was 'Scarerta: The Startling' published?",
     "options_zh": [
       "2010年",
-      "2002年",
-      "2000年",
-      "2005年"
+      "2003年",
+      "2005年",
+      "2000年"
     ],
     "options_en": [
       "2010",
-      "2002",
-      "2000",
-      "2005"
+      "2003",
+      "2005",
+      "2000"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 1
@@ -1769,15 +1769,15 @@
     "question_en": "What year was 'Scarerta: The Startling' published?",
     "options_zh": [
       "2005年",
-      "2003年",
       "2010年",
-      "2008年"
+      "2003年",
+      "2007年"
     ],
     "options_en": [
       "2005",
-      "2003",
       "2010",
-      "2008"
+      "2003",
+      "2007"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「2005年」。",
@@ -1786,65 +1786,65 @@
   },
   {
     "id": 86,
-    "question_zh": "《步步驚心》屬於邊種類型？",
-    "question_en": "What genre is 'Scarerta: The Startling'?",
+    "question_zh": "《步步驚心》係邊國作品？",
+    "question_en": "Which country is 'Scarerta: The Startling' from?",
     "options_zh": [
-      "情愛與關係類",
-      "其他類型B",
-      "其他類型A",
-      "其他類型C"
+      "法國",
+      "韓國",
+      "德國",
+      "中國"
     ],
     "options_en": [
-      "Romance & Relationships",
-      "Genre B",
-      "Genre A",
-      "Genre C"
+      "France",
+      "South Korea",
+      "Germany",
+      "China"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
     "id": 87,
-    "question_zh": "《步步驚心》屬於邊種類型？",
-    "question_en": "What genre is 'Scarerta: The Startling'?",
+    "question_zh": "《步步驚心》係邊國作品？",
+    "question_en": "Which country is 'Scarerta: The Startling' from?",
     "options_zh": [
-      "其他類型C",
-      "其他類型B",
-      "情愛與關係類",
-      "其他類型A"
+      "中國",
+      "韓國",
+      "法國",
+      "德國"
     ],
     "options_en": [
-      "Genre C",
-      "Genre B",
-      "Romance & Relationships",
-      "Genre A"
+      "China",
+      "South Korea",
+      "France",
+      "Germany"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 88,
-    "question_zh": "《步步驚心》屬於邊種類型？",
-    "question_en": "What genre is 'Scarerta: The Startling'?",
+    "question_zh": "《步步驚心》係邊國作品？",
+    "question_en": "Which country is 'Scarerta: The Startling' from?",
     "options_zh": [
-      "其他類型A",
-      "情愛與關係類",
-      "其他類型B",
-      "其他類型C"
+      "法國",
+      "德國",
+      "中國",
+      "韓國"
     ],
     "options_en": [
-      "Genre A",
-      "Romance & Relationships",
-      "Genre B",
-      "Genre C"
+      "France",
+      "Germany",
+      "China",
+      "South Korea"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 2
   },
   {
@@ -1858,39 +1858,18 @@
       "體育競技"
     ],
     "options_en": [
-      "Love story and relationships",
-      "Sci-fi space",
+      "Love story",
+      "Sci-fi",
       "Business",
       "Sports"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
+    "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 3
   },
   {
     "id": 90,
-    "question_zh": "《步步驚心》主要講咩？",
-    "question_en": "What is 'Scarerta: The Startling' mainly about?",
-    "options_zh": [
-      "體育競技",
-      "科幻太空",
-      "愛情故事同人物關係",
-      "財經商戰"
-    ],
-    "options_en": [
-      "Sports",
-      "Sci-fi space",
-      "Love story and relationships",
-      "Business"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
-    "difficulty": 1
-  },
-  {
-    "id": 91,
     "question_zh": "《步步驚心》主要講咩？",
     "question_en": "What is 'Scarerta: The Startling' mainly about?",
     "options_zh": [
@@ -1900,14 +1879,35 @@
       "體育競技"
     ],
     "options_en": [
-      "Sci-fi space",
-      "Love story and relationships",
+      "Sci-fi",
+      "Love story",
       "Business",
       "Sports"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「愛情故事同人物關係」。",
-    "explanation_en": "The correct answer is 'Love story and relationships'.",
+    "explanation_en": "The correct answer is 'Love story'.",
+    "difficulty": 1
+  },
+  {
+    "id": 91,
+    "question_zh": "《步步驚心》主要講咩？",
+    "question_en": "What is 'Scarerta: The Startling' mainly about?",
+    "options_zh": [
+      "科幻太空",
+      "愛情故事同人物關係",
+      "體育競技",
+      "財經商戰"
+    ],
+    "options_en": [
+      "Sci-fi",
+      "Love story",
+      "Sports",
+      "Business"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「愛情故事同人物關係」。",
+    "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 2
   },
   {
@@ -1915,18 +1915,18 @@
     "question_zh": "《步步驚心》入面有咩角色？",
     "question_en": "What characters are in 'Scarerta: The Startling'?",
     "options_zh": [
-      "外星人",
       "機械人",
-      "主要角色",
-      "動物"
+      "外星人",
+      "動物",
+      "主要角色"
     ],
     "options_en": [
-      "Aliens",
       "Robots",
-      "Main characters",
-      "Animals"
+      "Aliens",
+      "Animals",
+      "Main characters"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
@@ -1937,27 +1937,6 @@
     "question_en": "What characters are in 'Scarerta: The Startling'?",
     "options_zh": [
       "動物",
-      "外星人",
-      "主要角色",
-      "機械人"
-    ],
-    "options_en": [
-      "Animals",
-      "Aliens",
-      "Main characters",
-      "Robots"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「主要角色」。",
-    "explanation_en": "The correct answer is 'Main characters'.",
-    "difficulty": 1
-  },
-  {
-    "id": 94,
-    "question_zh": "《步步驚心》入面有咩角色？",
-    "question_en": "What characters are in 'Scarerta: The Startling'?",
-    "options_zh": [
-      "動物",
       "主要角色",
       "外星人",
       "機械人"
@@ -1971,6 +1950,27 @@
     "answer": 1,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
+    "difficulty": 1
+  },
+  {
+    "id": 94,
+    "question_zh": "《步步驚心》入面有咩角色？",
+    "question_en": "What characters are in 'Scarerta: The Startling'?",
+    "options_zh": [
+      "動物",
+      "外星人",
+      "主要角色",
+      "機械人"
+    ],
+    "options_en": [
+      "Animals",
+      "Aliens",
+      "Main characters",
+      "Robots"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「主要角色」。",
+    "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 2
   },
   {
@@ -1978,15 +1978,15 @@
     "question_zh": "《步步驚心》嘅故事背景喺邊度？",
     "question_en": "Where is 'Scarerta: The Startling' set?",
     "options_zh": [
-      "歐洲中世紀",
-      "中國/亞洲",
       "未來太空",
+      "中國/亞洲",
+      "歐洲中世紀",
       "虛擬世界"
     ],
     "options_en": [
-      "Medieval Europe",
-      "China/Asia",
       "Future space",
+      "China/Asia",
+      "Medieval Europe",
       "Virtual world"
     ],
     "answer": 1,
@@ -1999,18 +1999,18 @@
     "question_zh": "《步步驚心》嘅故事背景喺邊度？",
     "question_en": "Where is 'Scarerta: The Startling' set?",
     "options_zh": [
-      "未來太空",
-      "歐洲中世紀",
       "虛擬世界",
-      "中國/亞洲"
+      "歐洲中世紀",
+      "中國/亞洲",
+      "未來太空"
     ],
     "options_en": [
-      "Future space",
-      "Medieval Europe",
       "Virtual world",
-      "China/Asia"
+      "Medieval Europe",
+      "China/Asia",
+      "Future space"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 1
@@ -2020,18 +2020,18 @@
     "question_zh": "《步步驚心》嘅故事背景喺邊度？",
     "question_en": "Where is 'Scarerta: The Startling' set?",
     "options_zh": [
-      "未來太空",
       "中國/亞洲",
       "虛擬世界",
-      "歐洲中世紀"
+      "歐洲中世紀",
+      "未來太空"
     ],
     "options_en": [
-      "Future space",
       "China/Asia",
       "Virtual world",
-      "Medieval Europe"
+      "Medieval Europe",
+      "Future space"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 2
@@ -2042,17 +2042,17 @@
     "question_en": "Is 'Scarerta: The Startling' popular?",
     "options_zh": [
       "只喺特定地區流行",
+      "係，非常受歡迎",
       "已經過氣",
-      "唔係，好冷門",
-      "係，非常受歡迎"
+      "唔係，好冷門"
     ],
     "options_en": [
       "Only popular locally",
+      "Yes, very popular",
       "Outdated",
-      "No, very niche",
-      "Yes, very popular"
+      "No, very niche"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -2064,14 +2064,14 @@
     "options_zh": [
       "係，非常受歡迎",
       "只喺特定地區流行",
-      "唔係，好冷門",
-      "已經過氣"
+      "已經過氣",
+      "唔係，好冷門"
     ],
     "options_en": [
       "Yes, very popular",
       "Only popular locally",
-      "No, very niche",
-      "Outdated"
+      "Outdated",
+      "No, very niche"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
@@ -2080,23 +2080,23 @@
   },
   {
     "id": 100,
-    "question_zh": "《步步驚心》屬於邊個小說類別？",
-    "question_en": "Which novel category does 'Scarerta: The Startling' belong to?",
+    "question_zh": "《步步驚心》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Scarerta: The Startling'?",
     "options_zh": [
-      "恐怖小說",
-      "兒童文學",
-      "情愛與關係類",
-      "科幻小說"
+      "德國人",
+      "中國人",
+      "法國人",
+      "韓國人"
     ],
     "options_en": [
-      "Horror",
-      "Children's literature",
-      "Romance & Relationships",
-      "Sci-fi"
+      "German",
+      "Chinese",
+      "French",
+      "Korean"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「情愛與關係類」。",
-    "explanation_en": "The correct answer is 'Romance & Relationships'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
   }
 ]
