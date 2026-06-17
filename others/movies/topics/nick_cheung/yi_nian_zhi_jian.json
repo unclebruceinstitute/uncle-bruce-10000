@@ -4,16 +4,58 @@
     "question_zh": "以下邊部電影係張家輝主演嘅？",
     "question_en": "Which movie stars Nick Cheung?",
     "options_zh": [
-      "其他電影B",
+      "雙龍",
+      "證人",
       "激戰",
-      "其他電影A",
-      "其他電影C"
+      "陀地驅魔人"
     ],
     "options_en": [
-      "Other Movie B",
+      "The Ghost Inside",
+      "Beast Stalker",
       "Unbeatable",
-      "Other Movie A",
-      "Other Movie C"
+      "The Stool Pigeon"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「激戰」。",
+    "explanation_en": "The correct answer is 'Unbeatable'.",
+    "difficulty": 2
+  },
+  {
+    "id": 2,
+    "question_zh": "以下邊部電影係張家輝主演嘅？",
+    "question_en": "Which movie stars Nick Cheung?",
+    "options_zh": [
+      "證人",
+      "激戰",
+      "雙龍",
+      "線人"
+    ],
+    "options_en": [
+      "The Stool Pigeon",
+      "Unbeatable",
+      "The Ghost Inside",
+      "Beast Stalker"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「激戰」。",
+    "explanation_en": "The correct answer is 'Unbeatable'.",
+    "difficulty": 3
+  },
+  {
+    "id": 3,
+    "question_zh": "以下邊部電影係張家輝主演嘅？",
+    "question_en": "Which movie stars Nick Cheung?",
+    "options_zh": [
+      "線人",
+      "激戰",
+      "陀地驅魔人",
+      "雙龍"
+    ],
+    "options_en": [
+      "The Ghost Inside",
+      "Unbeatable",
+      "The Trough",
+      "Beast Stalker"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「激戰」。",
@@ -21,20 +63,83 @@
     "difficulty": 1
   },
   {
-    "id": 2,
-    "question_zh": "《激戰》係邊年上映嘅？",
-    "question_en": "《激戰》係邊年上映嘅？",
+    "id": 4,
+    "question_zh": "以下邊部電影係張家輝主演嘅？",
+    "question_en": "Which movie stars Nick Cheung?",
     "options_zh": [
-      "2011年",
-      "2018年",
-      "2013年",
-      "2015年"
+      "證人",
+      "激戰",
+      "線人",
+      "雙龍"
     ],
     "options_en": [
+      "Beast Stalker",
+      "Unbeatable",
+      "The Trough",
+      "The Ghost Inside"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「激戰」。",
+    "explanation_en": "The correct answer is 'Unbeatable'.",
+    "difficulty": 2
+  },
+  {
+    "id": 5,
+    "question_zh": "以下邊部電影係張家輝主演嘅？",
+    "question_en": "Which movie stars Nick Cheung?",
+    "options_zh": [
+      "雙龍",
+      "激戰",
+      "線人",
+      "證人"
+    ],
+    "options_en": [
+      "The Trough",
+      "Unbeatable",
+      "Beast Stalker",
+      "The Ghost Inside"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「激戰」。",
+    "explanation_en": "The correct answer is 'Unbeatable'.",
+    "difficulty": 3
+  },
+  {
+    "id": 6,
+    "question_zh": "《激戰》係邊年上映嘅？",
+    "question_en": "What year was \"Unbeatable\" released?",
+    "options_zh": [
+      "2015年",
+      "2010年",
+      "2011年",
+      "2013年"
+    ],
+    "options_en": [
+      "2015",
+      "2010",
       "2011",
-      "2018",
+      "2013"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「2013年」。",
+    "explanation_en": "The correct answer is '2013'.",
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question_zh": "《激戰》係邊年上映嘅？",
+    "question_en": "What year was \"Unbeatable\" released?",
+    "options_zh": [
+      "2016年",
+      "2015年",
+      "2013年",
+      "2010年"
+    ],
+    "options_en": [
+      "2016",
+      "2015",
       "2013",
-      "2015"
+      "2010"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「2013年」。",
@@ -42,9 +147,303 @@
     "difficulty": 2
   },
   {
-    "id": 3,
-    "question_zh": "《激戰》入面，張家輝飾演嘅角色叫咩名？",
-    "question_en": "《激戰》入面，張家輝飾演嘅角色叫咩名？",
+    "id": 8,
+    "question_zh": "《激戰》係邊年上映嘅？",
+    "question_en": "What year was \"Unbeatable\" released?",
+    "options_zh": [
+      "2016年",
+      "2015年",
+      "2013年",
+      "2011年"
+    ],
+    "options_en": [
+      "2016",
+      "2015",
+      "2013",
+      "2011"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2013年」。",
+    "explanation_en": "The correct answer is '2013'.",
+    "difficulty": 3
+  },
+  {
+    "id": 9,
+    "question_zh": "《激戰》係邊年上映嘅？",
+    "question_en": "What year was \"Unbeatable\" released?",
+    "options_zh": [
+      "2010年",
+      "2011年",
+      "2013年",
+      "2016年"
+    ],
+    "options_en": [
+      "2010",
+      "2011",
+      "2013",
+      "2016"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2013年」。",
+    "explanation_en": "The correct answer is '2013'.",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question_zh": "《激戰》係邊年上映嘅？",
+    "question_en": "What year was \"Unbeatable\" released?",
+    "options_zh": [
+      "2015年",
+      "2011年",
+      "2013年",
+      "2010年"
+    ],
+    "options_en": [
+      "2015",
+      "2011",
+      "2013",
+      "2010"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2013年」。",
+    "explanation_en": "The correct answer is '2013'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《激戰》係咩類型嘅電影？",
+    "question_en": "What genre is \"Unbeatable\"?",
+    "options_zh": [
+      "喜劇",
+      "動畫",
+      "紀錄片",
+      "動作"
+    ],
+    "options_en": [
+      "Comedy",
+      "Animation",
+      "Documentary",
+      "動作"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is '動作'.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《激戰》係咩類型嘅電影？",
+    "question_en": "What genre is \"Unbeatable\"?",
+    "options_zh": [
+      "動作",
+      "動畫",
+      "紀錄片",
+      "喜劇"
+    ],
+    "options_en": [
+      "動作",
+      "Animation",
+      "Documentary",
+      "Comedy"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is '動作'.",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_zh": "《激戰》係咩類型嘅電影？",
+    "question_en": "What genre is \"Unbeatable\"?",
+    "options_zh": [
+      "動畫",
+      "紀錄片",
+      "動作",
+      "喜劇"
+    ],
+    "options_en": [
+      "Animation",
+      "Documentary",
+      "動作",
+      "Comedy"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is '動作'.",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_zh": "《激戰》係咩類型嘅電影？",
+    "question_en": "What genre is \"Unbeatable\"?",
+    "options_zh": [
+      "喜劇",
+      "動作",
+      "紀錄片",
+      "動畫"
+    ],
+    "options_en": [
+      "Comedy",
+      "動作",
+      "Documentary",
+      "Animation"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is '動作'.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《激戰》係咩類型嘅電影？",
+    "question_en": "What genre is \"Unbeatable\"?",
+    "options_zh": [
+      "紀錄片",
+      "動畫",
+      "動作",
+      "喜劇"
+    ],
+    "options_en": [
+      "Documentary",
+      "Animation",
+      "動作",
+      "Comedy"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is '動作'.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "《激戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Unbeatable\"?",
+    "options_zh": [
+      "杜琪峰",
+      "王晶",
+      "林超賢",
+      "劉偉強"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Wong Jing",
+      "Dante Lam",
+      "Andrew Lau"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「林超賢」。",
+    "explanation_en": "The correct answer is 'Dante Lam'.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《激戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Unbeatable\"?",
+    "options_zh": [
+      "杜琪峰",
+      "劉偉強",
+      "王晶",
+      "林超賢"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Andrew Lau",
+      "Wong Jing",
+      "Dante Lam"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「林超賢」。",
+    "explanation_en": "The correct answer is 'Dante Lam'.",
+    "difficulty": 3
+  },
+  {
+    "id": 18,
+    "question_zh": "《激戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Unbeatable\"?",
+    "options_zh": [
+      "劉偉強",
+      "杜琪峰",
+      "王晶",
+      "林超賢"
+    ],
+    "options_en": [
+      "Andrew Lau",
+      "Johnnie To",
+      "Wong Jing",
+      "Dante Lam"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「林超賢」。",
+    "explanation_en": "The correct answer is 'Dante Lam'.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "《激戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Unbeatable\"?",
+    "options_zh": [
+      "劉偉強",
+      "王晶",
+      "杜琪峰",
+      "林超賢"
+    ],
+    "options_en": [
+      "Andrew Lau",
+      "Wong Jing",
+      "Johnnie To",
+      "Dante Lam"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「林超賢」。",
+    "explanation_en": "The correct answer is 'Dante Lam'.",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question_zh": "《激戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Unbeatable\"?",
+    "options_zh": [
+      "王晶",
+      "劉偉強",
+      "杜琪峰",
+      "林超賢"
+    ],
+    "options_en": [
+      "Wong Jing",
+      "Andrew Lau",
+      "Johnnie To",
+      "Dante Lam"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「林超賢」。",
+    "explanation_en": "The correct answer is 'Dante Lam'.",
+    "difficulty": 3
+  },
+  {
+    "id": 21,
+    "question_zh": "《激戰》入面張家輝飾演咩角色？",
+    "question_en": "What role does Nick Cheung play in \"Unbeatable\"?",
+    "options_zh": [
+      "程輝",
+      "配角C",
+      "配角A",
+      "配角B"
+    ],
+    "options_en": [
+      "Cheng Fai",
+      "Supporting C",
+      "Supporting A",
+      "Supporting B"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「程輝」。",
+    "explanation_en": "The correct answer is 'Cheng Fai'.",
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question_zh": "《激戰》入面張家輝飾演咩角色？",
+    "question_en": "What role does Nick Cheung play in \"Unbeatable\"?",
     "options_zh": [
       "配角A",
       "配角B",
@@ -60,69 +459,1644 @@
     "answer": 3,
     "explanation_zh": "正確答案係「程輝」。",
     "explanation_en": "The correct answer is 'Cheng Fai'.",
-    "difficulty": 3
-  },
-  {
-    "id": 4,
-    "question_zh": "《激戰》嘅導演係邊個？",
-    "question_en": "《激戰》嘅導演係邊個？",
-    "options_zh": [
-      "導演D",
-      "導演A",
-      "導演B",
-      "導演C"
-    ],
-    "options_en": [
-      "Director D",
-      "Director A",
-      "Director B",
-      "Director C"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「導演A」。",
-    "explanation_en": "The correct answer is 'Director A'.",
-    "difficulty": 1
-  },
-  {
-    "id": 5,
-    "question_zh": "《激戰》嘅故事主要講咩？",
-    "question_en": "《激戰》嘅故事主要講咩？",
-    "options_zh": [
-      "恐怖驚慄",
-      "科幻冒險",
-      "浪漫喜劇",
-      "劇情精彩"
-    ],
-    "options_en": [
-      "Horror thriller",
-      "Sci-fi adventure",
-      "Romantic comedy",
-      "Exciting plot"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劇情精彩」。",
-    "explanation_en": "The correct answer is 'Exciting plot'.",
     "difficulty": 2
   },
   {
-    "id": 6,
+    "id": 23,
+    "question_zh": "《激戰》入面張家輝飾演咩角色？",
+    "question_en": "What role does Nick Cheung play in \"Unbeatable\"?",
+    "options_zh": [
+      "配角B",
+      "程輝",
+      "配角C",
+      "配角A"
+    ],
+    "options_en": [
+      "Supporting B",
+      "Cheng Fai",
+      "Supporting C",
+      "Supporting A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「程輝」。",
+    "explanation_en": "The correct answer is 'Cheng Fai'.",
+    "difficulty": 3
+  },
+  {
+    "id": 24,
+    "question_zh": "張家輝有冇憑《激戰》攞獎？",
+    "question_en": "Did Nick Cheung win awards for \"Unbeatable\"?",
+    "options_zh": [
+      "冇",
+      "有，攞過最佳男主角",
+      "唔知",
+      "唔記得"
+    ],
+    "options_en": [
+      "No",
+      "Yes, Best Actor",
+      "Unknown",
+      "Forgot"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「有，攞過最佳男主角」。",
+    "explanation_en": "The correct answer is 'Yes, Best Actor'.",
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question_zh": "張家輝有冇憑《激戰》攞獎？",
+    "question_en": "Did Nick Cheung win awards for \"Unbeatable\"?",
+    "options_zh": [
+      "唔記得",
+      "有，攞過最佳男主角",
+      "冇",
+      "唔知"
+    ],
+    "options_en": [
+      "Forgot",
+      "Yes, Best Actor",
+      "No",
+      "Unknown"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「有，攞過最佳男主角」。",
+    "explanation_en": "The correct answer is 'Yes, Best Actor'.",
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question_zh": "以下邊部電影係張家輝主演嘅？",
+    "question_en": "Which movie stars Nick Cheung?",
+    "options_zh": [
+      "線人",
+      "激戰",
+      "雙龍",
+      "陀地驅魔人"
+    ],
+    "options_en": [
+      "The Stool Pigeon",
+      "Unbeatable",
+      "The Trough",
+      "Beast Stalker"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「激戰」。",
+    "explanation_en": "The correct answer is 'Unbeatable'.",
+    "difficulty": 3
+  },
+  {
+    "id": 27,
+    "question_zh": "以下邊部電影係張家輝主演嘅？",
+    "question_en": "Which movie stars Nick Cheung?",
+    "options_zh": [
+      "陀地驅魔人",
+      "激戰",
+      "雙龍",
+      "線人"
+    ],
+    "options_en": [
+      "The Trough",
+      "Unbeatable",
+      "The Ghost Inside",
+      "The Stool Pigeon"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「激戰」。",
+    "explanation_en": "The correct answer is 'Unbeatable'.",
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question_zh": "以下邊部電影係張家輝主演嘅？",
+    "question_en": "Which movie stars Nick Cheung?",
+    "options_zh": [
+      "激戰",
+      "線人",
+      "陀地驅魔人",
+      "證人"
+    ],
+    "options_en": [
+      "Unbeatable",
+      "The Trough",
+      "The Stool Pigeon",
+      "Beast Stalker"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「激戰」。",
+    "explanation_en": "The correct answer is 'Unbeatable'.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "以下邊部電影係張家輝主演嘅？",
+    "question_en": "Which movie stars Nick Cheung?",
+    "options_zh": [
+      "激戰",
+      "線人",
+      "證人",
+      "陀地驅魔人"
+    ],
+    "options_en": [
+      "Unbeatable",
+      "The Ghost Inside",
+      "The Stool Pigeon",
+      "Beast Stalker"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「激戰」。",
+    "explanation_en": "The correct answer is 'Unbeatable'.",
+    "difficulty": 3
+  },
+  {
+    "id": 30,
+    "question_zh": "以下邊部電影係張家輝主演嘅？",
+    "question_en": "Which movie stars Nick Cheung?",
+    "options_zh": [
+      "證人",
+      "激戰",
+      "雙龍",
+      "線人"
+    ],
+    "options_en": [
+      "The Stool Pigeon",
+      "Unbeatable",
+      "The Ghost Inside",
+      "Beast Stalker"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「激戰」。",
+    "explanation_en": "The correct answer is 'Unbeatable'.",
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question_zh": "《激戰》係邊年上映嘅？",
+    "question_en": "What year was \"Unbeatable\" released?",
+    "options_zh": [
+      "2010年",
+      "2013年",
+      "2016年",
+      "2011年"
+    ],
+    "options_en": [
+      "2010",
+      "2013",
+      "2016",
+      "2011"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「2013年」。",
+    "explanation_en": "The correct answer is '2013'.",
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question_zh": "《激戰》係邊年上映嘅？",
+    "question_en": "What year was \"Unbeatable\" released?",
+    "options_zh": [
+      "2010年",
+      "2015年",
+      "2013年",
+      "2016年"
+    ],
+    "options_en": [
+      "2010",
+      "2015",
+      "2013",
+      "2016"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2013年」。",
+    "explanation_en": "The correct answer is '2013'.",
+    "difficulty": 3
+  },
+  {
+    "id": 33,
+    "question_zh": "《激戰》係邊年上映嘅？",
+    "question_en": "What year was \"Unbeatable\" released?",
+    "options_zh": [
+      "2011年",
+      "2015年",
+      "2016年",
+      "2013年"
+    ],
+    "options_en": [
+      "2011",
+      "2015",
+      "2016",
+      "2013"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「2013年」。",
+    "explanation_en": "The correct answer is '2013'.",
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question_zh": "《激戰》係邊年上映嘅？",
+    "question_en": "What year was \"Unbeatable\" released?",
+    "options_zh": [
+      "2010年",
+      "2016年",
+      "2013年",
+      "2011年"
+    ],
+    "options_en": [
+      "2010",
+      "2016",
+      "2013",
+      "2011"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2013年」。",
+    "explanation_en": "The correct answer is '2013'.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question_zh": "《激戰》係邊年上映嘅？",
+    "question_en": "What year was \"Unbeatable\" released?",
+    "options_zh": [
+      "2013年",
+      "2010年",
+      "2016年",
+      "2011年"
+    ],
+    "options_en": [
+      "2013",
+      "2010",
+      "2016",
+      "2011"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2013年」。",
+    "explanation_en": "The correct answer is '2013'.",
+    "difficulty": 3
+  },
+  {
+    "id": 36,
     "question_zh": "《激戰》係咩類型嘅電影？",
-    "question_en": "《激戰》係咩類型嘅電影？",
+    "question_en": "What genre is \"Unbeatable\"?",
+    "options_zh": [
+      "紀錄片",
+      "喜劇",
+      "動作",
+      "動畫"
+    ],
+    "options_en": [
+      "Documentary",
+      "Comedy",
+      "動作",
+      "Animation"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is '動作'.",
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question_zh": "《激戰》係咩類型嘅電影？",
+    "question_en": "What genre is \"Unbeatable\"?",
     "options_zh": [
       "動畫",
-      "音樂劇",
-      "動作/劇情",
+      "喜劇",
+      "動作",
       "紀錄片"
     ],
     "options_en": [
       "Animation",
-      "Musical",
-      "Action/Drama",
+      "Comedy",
+      "動作",
       "Documentary"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「動作/劇情」。",
-    "explanation_en": "The correct answer is 'Action/Drama'.",
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is '動作'.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "《激戰》係咩類型嘅電影？",
+    "question_en": "What genre is \"Unbeatable\"?",
+    "options_zh": [
+      "動畫",
+      "紀錄片",
+      "喜劇",
+      "動作"
+    ],
+    "options_en": [
+      "Animation",
+      "Documentary",
+      "Comedy",
+      "動作"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is '動作'.",
     "difficulty": 3
+  },
+  {
+    "id": 39,
+    "question_zh": "《激戰》係咩類型嘅電影？",
+    "question_en": "What genre is \"Unbeatable\"?",
+    "options_zh": [
+      "動畫",
+      "動作",
+      "喜劇",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Animation",
+      "動作",
+      "Comedy",
+      "Documentary"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is '動作'.",
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question_zh": "《激戰》係咩類型嘅電影？",
+    "question_en": "What genre is \"Unbeatable\"?",
+    "options_zh": [
+      "喜劇",
+      "動畫",
+      "動作",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Comedy",
+      "Animation",
+      "動作",
+      "Documentary"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is '動作'.",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question_zh": "《激戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Unbeatable\"?",
+    "options_zh": [
+      "杜琪峰",
+      "劉偉強",
+      "林超賢",
+      "王晶"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Andrew Lau",
+      "Dante Lam",
+      "Wong Jing"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「林超賢」。",
+    "explanation_en": "The correct answer is 'Dante Lam'.",
+    "difficulty": 3
+  },
+  {
+    "id": 42,
+    "question_zh": "《激戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Unbeatable\"?",
+    "options_zh": [
+      "劉偉強",
+      "林超賢",
+      "杜琪峰",
+      "王晶"
+    ],
+    "options_en": [
+      "Andrew Lau",
+      "Dante Lam",
+      "Johnnie To",
+      "Wong Jing"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「林超賢」。",
+    "explanation_en": "The correct answer is 'Dante Lam'.",
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question_zh": "《激戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Unbeatable\"?",
+    "options_zh": [
+      "林超賢",
+      "杜琪峰",
+      "劉偉強",
+      "王晶"
+    ],
+    "options_en": [
+      "Dante Lam",
+      "Johnnie To",
+      "Andrew Lau",
+      "Wong Jing"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「林超賢」。",
+    "explanation_en": "The correct answer is 'Dante Lam'.",
+    "difficulty": 2
+  },
+  {
+    "id": 44,
+    "question_zh": "《激戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Unbeatable\"?",
+    "options_zh": [
+      "林超賢",
+      "杜琪峰",
+      "王晶",
+      "劉偉強"
+    ],
+    "options_en": [
+      "Dante Lam",
+      "Johnnie To",
+      "Wong Jing",
+      "Andrew Lau"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「林超賢」。",
+    "explanation_en": "The correct answer is 'Dante Lam'.",
+    "difficulty": 3
+  },
+  {
+    "id": 45,
+    "question_zh": "《激戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Unbeatable\"?",
+    "options_zh": [
+      "杜琪峰",
+      "王晶",
+      "劉偉強",
+      "林超賢"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Wong Jing",
+      "Andrew Lau",
+      "Dante Lam"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「林超賢」。",
+    "explanation_en": "The correct answer is 'Dante Lam'.",
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question_zh": "《激戰》入面張家輝飾演咩角色？",
+    "question_en": "What role does Nick Cheung play in \"Unbeatable\"?",
+    "options_zh": [
+      "配角B",
+      "程輝",
+      "配角A",
+      "配角C"
+    ],
+    "options_en": [
+      "Supporting B",
+      "Cheng Fai",
+      "Supporting A",
+      "Supporting C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「程輝」。",
+    "explanation_en": "The correct answer is 'Cheng Fai'.",
+    "difficulty": 2
+  },
+  {
+    "id": 47,
+    "question_zh": "《激戰》入面張家輝飾演咩角色？",
+    "question_en": "What role does Nick Cheung play in \"Unbeatable\"?",
+    "options_zh": [
+      "配角B",
+      "配角C",
+      "配角A",
+      "程輝"
+    ],
+    "options_en": [
+      "Supporting B",
+      "Supporting C",
+      "Supporting A",
+      "Cheng Fai"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「程輝」。",
+    "explanation_en": "The correct answer is 'Cheng Fai'.",
+    "difficulty": 3
+  },
+  {
+    "id": 48,
+    "question_zh": "《激戰》入面張家輝飾演咩角色？",
+    "question_en": "What role does Nick Cheung play in \"Unbeatable\"?",
+    "options_zh": [
+      "配角A",
+      "配角B",
+      "配角C",
+      "程輝"
+    ],
+    "options_en": [
+      "Supporting A",
+      "Supporting B",
+      "Supporting C",
+      "Cheng Fai"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「程輝」。",
+    "explanation_en": "The correct answer is 'Cheng Fai'.",
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question_zh": "張家輝有冇憑《激戰》攞獎？",
+    "question_en": "Did Nick Cheung win awards for \"Unbeatable\"?",
+    "options_zh": [
+      "有，攞過最佳男主角",
+      "冇",
+      "唔記得",
+      "唔知"
+    ],
+    "options_en": [
+      "Yes, Best Actor",
+      "No",
+      "Forgot",
+      "Unknown"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「有，攞過最佳男主角」。",
+    "explanation_en": "The correct answer is 'Yes, Best Actor'.",
+    "difficulty": 2
+  },
+  {
+    "id": 50,
+    "question_zh": "張家輝有冇憑《激戰》攞獎？",
+    "question_en": "Did Nick Cheung win awards for \"Unbeatable\"?",
+    "options_zh": [
+      "唔記得",
+      "唔知",
+      "冇",
+      "有，攞過最佳男主角"
+    ],
+    "options_en": [
+      "Forgot",
+      "Unknown",
+      "No",
+      "Yes, Best Actor"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「有，攞過最佳男主角」。",
+    "explanation_en": "The correct answer is 'Yes, Best Actor'.",
+    "difficulty": 3
+  },
+  {
+    "id": 51,
+    "question_zh": "以下邊部電影係張家輝主演嘅？",
+    "question_en": "Which movie stars Nick Cheung?",
+    "options_zh": [
+      "激戰",
+      "證人",
+      "線人",
+      "雙龍"
+    ],
+    "options_en": [
+      "Unbeatable",
+      "Beast Stalker",
+      "The Ghost Inside",
+      "The Trough"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「激戰」。",
+    "explanation_en": "The correct answer is 'Unbeatable'.",
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "question_zh": "以下邊部電影係張家輝主演嘅？",
+    "question_en": "Which movie stars Nick Cheung?",
+    "options_zh": [
+      "證人",
+      "雙龍",
+      "激戰",
+      "陀地驅魔人"
+    ],
+    "options_en": [
+      "The Stool Pigeon",
+      "The Trough",
+      "Unbeatable",
+      "Beast Stalker"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「激戰」。",
+    "explanation_en": "The correct answer is 'Unbeatable'.",
+    "difficulty": 2
+  },
+  {
+    "id": 53,
+    "question_zh": "以下邊部電影係張家輝主演嘅？",
+    "question_en": "Which movie stars Nick Cheung?",
+    "options_zh": [
+      "證人",
+      "陀地驅魔人",
+      "激戰",
+      "線人"
+    ],
+    "options_en": [
+      "The Trough",
+      "The Ghost Inside",
+      "Unbeatable",
+      "Beast Stalker"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「激戰」。",
+    "explanation_en": "The correct answer is 'Unbeatable'.",
+    "difficulty": 3
+  },
+  {
+    "id": 54,
+    "question_zh": "以下邊部電影係張家輝主演嘅？",
+    "question_en": "Which movie stars Nick Cheung?",
+    "options_zh": [
+      "激戰",
+      "陀地驅魔人",
+      "雙龍",
+      "證人"
+    ],
+    "options_en": [
+      "Unbeatable",
+      "Beast Stalker",
+      "The Ghost Inside",
+      "The Stool Pigeon"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「激戰」。",
+    "explanation_en": "The correct answer is 'Unbeatable'.",
+    "difficulty": 1
+  },
+  {
+    "id": 55,
+    "question_zh": "以下邊部電影係張家輝主演嘅？",
+    "question_en": "Which movie stars Nick Cheung?",
+    "options_zh": [
+      "激戰",
+      "雙龍",
+      "證人",
+      "陀地驅魔人"
+    ],
+    "options_en": [
+      "Unbeatable",
+      "The Stool Pigeon",
+      "The Trough",
+      "The Ghost Inside"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「激戰」。",
+    "explanation_en": "The correct answer is 'Unbeatable'.",
+    "difficulty": 2
+  },
+  {
+    "id": 56,
+    "question_zh": "《激戰》係邊年上映嘅？",
+    "question_en": "What year was \"Unbeatable\" released?",
+    "options_zh": [
+      "2013年",
+      "2010年",
+      "2015年",
+      "2016年"
+    ],
+    "options_en": [
+      "2013",
+      "2010",
+      "2015",
+      "2016"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2013年」。",
+    "explanation_en": "The correct answer is '2013'.",
+    "difficulty": 3
+  },
+  {
+    "id": 57,
+    "question_zh": "《激戰》係邊年上映嘅？",
+    "question_en": "What year was \"Unbeatable\" released?",
+    "options_zh": [
+      "2013年",
+      "2016年",
+      "2011年",
+      "2015年"
+    ],
+    "options_en": [
+      "2013",
+      "2016",
+      "2011",
+      "2015"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2013年」。",
+    "explanation_en": "The correct answer is '2013'.",
+    "difficulty": 1
+  },
+  {
+    "id": 58,
+    "question_zh": "《激戰》係邊年上映嘅？",
+    "question_en": "What year was \"Unbeatable\" released?",
+    "options_zh": [
+      "2016年",
+      "2010年",
+      "2011年",
+      "2013年"
+    ],
+    "options_en": [
+      "2016",
+      "2010",
+      "2011",
+      "2013"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「2013年」。",
+    "explanation_en": "The correct answer is '2013'.",
+    "difficulty": 2
+  },
+  {
+    "id": 59,
+    "question_zh": "《激戰》係邊年上映嘅？",
+    "question_en": "What year was \"Unbeatable\" released?",
+    "options_zh": [
+      "2013年",
+      "2015年",
+      "2016年",
+      "2010年"
+    ],
+    "options_en": [
+      "2013",
+      "2015",
+      "2016",
+      "2010"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2013年」。",
+    "explanation_en": "The correct answer is '2013'.",
+    "difficulty": 3
+  },
+  {
+    "id": 60,
+    "question_zh": "《激戰》係邊年上映嘅？",
+    "question_en": "What year was \"Unbeatable\" released?",
+    "options_zh": [
+      "2016年",
+      "2010年",
+      "2013年",
+      "2015年"
+    ],
+    "options_en": [
+      "2016",
+      "2010",
+      "2013",
+      "2015"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2013年」。",
+    "explanation_en": "The correct answer is '2013'.",
+    "difficulty": 1
+  },
+  {
+    "id": 61,
+    "question_zh": "《激戰》係咩類型嘅電影？",
+    "question_en": "What genre is \"Unbeatable\"?",
+    "options_zh": [
+      "喜劇",
+      "動畫",
+      "紀錄片",
+      "動作"
+    ],
+    "options_en": [
+      "Comedy",
+      "Animation",
+      "Documentary",
+      "動作"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is '動作'.",
+    "difficulty": 2
+  },
+  {
+    "id": 62,
+    "question_zh": "《激戰》係咩類型嘅電影？",
+    "question_en": "What genre is \"Unbeatable\"?",
+    "options_zh": [
+      "動作",
+      "喜劇",
+      "動畫",
+      "紀錄片"
+    ],
+    "options_en": [
+      "動作",
+      "Comedy",
+      "Animation",
+      "Documentary"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is '動作'.",
+    "difficulty": 3
+  },
+  {
+    "id": 63,
+    "question_zh": "《激戰》係咩類型嘅電影？",
+    "question_en": "What genre is \"Unbeatable\"?",
+    "options_zh": [
+      "喜劇",
+      "動作",
+      "動畫",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Comedy",
+      "動作",
+      "Animation",
+      "Documentary"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is '動作'.",
+    "difficulty": 1
+  },
+  {
+    "id": 64,
+    "question_zh": "《激戰》係咩類型嘅電影？",
+    "question_en": "What genre is \"Unbeatable\"?",
+    "options_zh": [
+      "動作",
+      "喜劇",
+      "動畫",
+      "紀錄片"
+    ],
+    "options_en": [
+      "動作",
+      "Comedy",
+      "Animation",
+      "Documentary"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is '動作'.",
+    "difficulty": 2
+  },
+  {
+    "id": 65,
+    "question_zh": "《激戰》係咩類型嘅電影？",
+    "question_en": "What genre is \"Unbeatable\"?",
+    "options_zh": [
+      "喜劇",
+      "動作",
+      "動畫",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Comedy",
+      "動作",
+      "Animation",
+      "Documentary"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is '動作'.",
+    "difficulty": 3
+  },
+  {
+    "id": 66,
+    "question_zh": "《激戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Unbeatable\"?",
+    "options_zh": [
+      "王晶",
+      "杜琪峰",
+      "劉偉強",
+      "林超賢"
+    ],
+    "options_en": [
+      "Wong Jing",
+      "Johnnie To",
+      "Andrew Lau",
+      "Dante Lam"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「林超賢」。",
+    "explanation_en": "The correct answer is 'Dante Lam'.",
+    "difficulty": 1
+  },
+  {
+    "id": 67,
+    "question_zh": "《激戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Unbeatable\"?",
+    "options_zh": [
+      "杜琪峰",
+      "王晶",
+      "林超賢",
+      "劉偉強"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Wong Jing",
+      "Dante Lam",
+      "Andrew Lau"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「林超賢」。",
+    "explanation_en": "The correct answer is 'Dante Lam'.",
+    "difficulty": 2
+  },
+  {
+    "id": 68,
+    "question_zh": "《激戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Unbeatable\"?",
+    "options_zh": [
+      "杜琪峰",
+      "王晶",
+      "劉偉強",
+      "林超賢"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Wong Jing",
+      "Andrew Lau",
+      "Dante Lam"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「林超賢」。",
+    "explanation_en": "The correct answer is 'Dante Lam'.",
+    "difficulty": 3
+  },
+  {
+    "id": 69,
+    "question_zh": "《激戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Unbeatable\"?",
+    "options_zh": [
+      "王晶",
+      "林超賢",
+      "劉偉強",
+      "杜琪峰"
+    ],
+    "options_en": [
+      "Wong Jing",
+      "Dante Lam",
+      "Andrew Lau",
+      "Johnnie To"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「林超賢」。",
+    "explanation_en": "The correct answer is 'Dante Lam'.",
+    "difficulty": 1
+  },
+  {
+    "id": 70,
+    "question_zh": "《激戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Unbeatable\"?",
+    "options_zh": [
+      "王晶",
+      "杜琪峰",
+      "劉偉強",
+      "林超賢"
+    ],
+    "options_en": [
+      "Wong Jing",
+      "Johnnie To",
+      "Andrew Lau",
+      "Dante Lam"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「林超賢」。",
+    "explanation_en": "The correct answer is 'Dante Lam'.",
+    "difficulty": 2
+  },
+  {
+    "id": 71,
+    "question_zh": "《激戰》入面張家輝飾演咩角色？",
+    "question_en": "What role does Nick Cheung play in \"Unbeatable\"?",
+    "options_zh": [
+      "配角A",
+      "程輝",
+      "配角B",
+      "配角C"
+    ],
+    "options_en": [
+      "Supporting A",
+      "Cheng Fai",
+      "Supporting B",
+      "Supporting C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「程輝」。",
+    "explanation_en": "The correct answer is 'Cheng Fai'.",
+    "difficulty": 3
+  },
+  {
+    "id": 72,
+    "question_zh": "《激戰》入面張家輝飾演咩角色？",
+    "question_en": "What role does Nick Cheung play in \"Unbeatable\"?",
+    "options_zh": [
+      "程輝",
+      "配角B",
+      "配角C",
+      "配角A"
+    ],
+    "options_en": [
+      "Cheng Fai",
+      "Supporting B",
+      "Supporting C",
+      "Supporting A"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「程輝」。",
+    "explanation_en": "The correct answer is 'Cheng Fai'.",
+    "difficulty": 1
+  },
+  {
+    "id": 73,
+    "question_zh": "《激戰》入面張家輝飾演咩角色？",
+    "question_en": "What role does Nick Cheung play in \"Unbeatable\"?",
+    "options_zh": [
+      "程輝",
+      "配角B",
+      "配角A",
+      "配角C"
+    ],
+    "options_en": [
+      "Cheng Fai",
+      "Supporting B",
+      "Supporting A",
+      "Supporting C"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「程輝」。",
+    "explanation_en": "The correct answer is 'Cheng Fai'.",
+    "difficulty": 2
+  },
+  {
+    "id": 74,
+    "question_zh": "張家輝有冇憑《激戰》攞獎？",
+    "question_en": "Did Nick Cheung win awards for \"Unbeatable\"?",
+    "options_zh": [
+      "唔記得",
+      "冇",
+      "有，攞過最佳男主角",
+      "唔知"
+    ],
+    "options_en": [
+      "Forgot",
+      "No",
+      "Yes, Best Actor",
+      "Unknown"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「有，攞過最佳男主角」。",
+    "explanation_en": "The correct answer is 'Yes, Best Actor'.",
+    "difficulty": 3
+  },
+  {
+    "id": 75,
+    "question_zh": "張家輝有冇憑《激戰》攞獎？",
+    "question_en": "Did Nick Cheung win awards for \"Unbeatable\"?",
+    "options_zh": [
+      "冇",
+      "有，攞過最佳男主角",
+      "唔記得",
+      "唔知"
+    ],
+    "options_en": [
+      "No",
+      "Yes, Best Actor",
+      "Forgot",
+      "Unknown"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「有，攞過最佳男主角」。",
+    "explanation_en": "The correct answer is 'Yes, Best Actor'.",
+    "difficulty": 1
+  },
+  {
+    "id": 76,
+    "question_zh": "以下邊部電影係張家輝主演嘅？",
+    "question_en": "Which movie stars Nick Cheung?",
+    "options_zh": [
+      "證人",
+      "線人",
+      "陀地驅魔人",
+      "激戰"
+    ],
+    "options_en": [
+      "The Trough",
+      "The Ghost Inside",
+      "The Stool Pigeon",
+      "Unbeatable"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「激戰」。",
+    "explanation_en": "The correct answer is 'Unbeatable'.",
+    "difficulty": 2
+  },
+  {
+    "id": 77,
+    "question_zh": "以下邊部電影係張家輝主演嘅？",
+    "question_en": "Which movie stars Nick Cheung?",
+    "options_zh": [
+      "線人",
+      "證人",
+      "激戰",
+      "雙龍"
+    ],
+    "options_en": [
+      "Beast Stalker",
+      "The Ghost Inside",
+      "Unbeatable",
+      "The Trough"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「激戰」。",
+    "explanation_en": "The correct answer is 'Unbeatable'.",
+    "difficulty": 3
+  },
+  {
+    "id": 78,
+    "question_zh": "以下邊部電影係張家輝主演嘅？",
+    "question_en": "Which movie stars Nick Cheung?",
+    "options_zh": [
+      "證人",
+      "激戰",
+      "雙龍",
+      "線人"
+    ],
+    "options_en": [
+      "The Trough",
+      "Unbeatable",
+      "The Stool Pigeon",
+      "The Ghost Inside"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「激戰」。",
+    "explanation_en": "The correct answer is 'Unbeatable'.",
+    "difficulty": 1
+  },
+  {
+    "id": 79,
+    "question_zh": "以下邊部電影係張家輝主演嘅？",
+    "question_en": "Which movie stars Nick Cheung?",
+    "options_zh": [
+      "激戰",
+      "證人",
+      "線人",
+      "雙龍"
+    ],
+    "options_en": [
+      "Unbeatable",
+      "The Stool Pigeon",
+      "The Trough",
+      "Beast Stalker"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「激戰」。",
+    "explanation_en": "The correct answer is 'Unbeatable'.",
+    "difficulty": 2
+  },
+  {
+    "id": 80,
+    "question_zh": "以下邊部電影係張家輝主演嘅？",
+    "question_en": "Which movie stars Nick Cheung?",
+    "options_zh": [
+      "陀地驅魔人",
+      "線人",
+      "激戰",
+      "證人"
+    ],
+    "options_en": [
+      "The Stool Pigeon",
+      "The Trough",
+      "Unbeatable",
+      "Beast Stalker"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「激戰」。",
+    "explanation_en": "The correct answer is 'Unbeatable'.",
+    "difficulty": 3
+  },
+  {
+    "id": 81,
+    "question_zh": "《激戰》係邊年上映嘅？",
+    "question_en": "What year was \"Unbeatable\" released?",
+    "options_zh": [
+      "2011年",
+      "2010年",
+      "2016年",
+      "2013年"
+    ],
+    "options_en": [
+      "2011",
+      "2010",
+      "2016",
+      "2013"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「2013年」。",
+    "explanation_en": "The correct answer is '2013'.",
+    "difficulty": 1
+  },
+  {
+    "id": 82,
+    "question_zh": "《激戰》係邊年上映嘅？",
+    "question_en": "What year was \"Unbeatable\" released?",
+    "options_zh": [
+      "2015年",
+      "2010年",
+      "2013年",
+      "2011年"
+    ],
+    "options_en": [
+      "2015",
+      "2010",
+      "2013",
+      "2011"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2013年」。",
+    "explanation_en": "The correct answer is '2013'.",
+    "difficulty": 2
+  },
+  {
+    "id": 83,
+    "question_zh": "《激戰》係邊年上映嘅？",
+    "question_en": "What year was \"Unbeatable\" released?",
+    "options_zh": [
+      "2011年",
+      "2013年",
+      "2016年",
+      "2010年"
+    ],
+    "options_en": [
+      "2011",
+      "2013",
+      "2016",
+      "2010"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「2013年」。",
+    "explanation_en": "The correct answer is '2013'.",
+    "difficulty": 3
+  },
+  {
+    "id": 84,
+    "question_zh": "《激戰》係邊年上映嘅？",
+    "question_en": "What year was \"Unbeatable\" released?",
+    "options_zh": [
+      "2013年",
+      "2011年",
+      "2015年",
+      "2010年"
+    ],
+    "options_en": [
+      "2013",
+      "2011",
+      "2015",
+      "2010"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2013年」。",
+    "explanation_en": "The correct answer is '2013'.",
+    "difficulty": 1
+  },
+  {
+    "id": 85,
+    "question_zh": "《激戰》係邊年上映嘅？",
+    "question_en": "What year was \"Unbeatable\" released?",
+    "options_zh": [
+      "2015年",
+      "2011年",
+      "2013年",
+      "2016年"
+    ],
+    "options_en": [
+      "2015",
+      "2011",
+      "2013",
+      "2016"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2013年」。",
+    "explanation_en": "The correct answer is '2013'.",
+    "difficulty": 2
+  },
+  {
+    "id": 86,
+    "question_zh": "《激戰》係咩類型嘅電影？",
+    "question_en": "What genre is \"Unbeatable\"?",
+    "options_zh": [
+      "動作",
+      "動畫",
+      "喜劇",
+      "紀錄片"
+    ],
+    "options_en": [
+      "動作",
+      "Animation",
+      "Comedy",
+      "Documentary"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is '動作'.",
+    "difficulty": 3
+  },
+  {
+    "id": 87,
+    "question_zh": "《激戰》係咩類型嘅電影？",
+    "question_en": "What genre is \"Unbeatable\"?",
+    "options_zh": [
+      "喜劇",
+      "動畫",
+      "紀錄片",
+      "動作"
+    ],
+    "options_en": [
+      "Comedy",
+      "Animation",
+      "Documentary",
+      "動作"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is '動作'.",
+    "difficulty": 1
+  },
+  {
+    "id": 88,
+    "question_zh": "《激戰》係咩類型嘅電影？",
+    "question_en": "What genre is \"Unbeatable\"?",
+    "options_zh": [
+      "動作",
+      "動畫",
+      "喜劇",
+      "紀錄片"
+    ],
+    "options_en": [
+      "動作",
+      "Animation",
+      "Comedy",
+      "Documentary"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is '動作'.",
+    "difficulty": 2
+  },
+  {
+    "id": 89,
+    "question_zh": "《激戰》係咩類型嘅電影？",
+    "question_en": "What genre is \"Unbeatable\"?",
+    "options_zh": [
+      "喜劇",
+      "動畫",
+      "紀錄片",
+      "動作"
+    ],
+    "options_en": [
+      "Comedy",
+      "Animation",
+      "Documentary",
+      "動作"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is '動作'.",
+    "difficulty": 3
+  },
+  {
+    "id": 90,
+    "question_zh": "《激戰》係咩類型嘅電影？",
+    "question_en": "What genre is \"Unbeatable\"?",
+    "options_zh": [
+      "動畫",
+      "動作",
+      "喜劇",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Animation",
+      "動作",
+      "Comedy",
+      "Documentary"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is '動作'.",
+    "difficulty": 1
+  },
+  {
+    "id": 91,
+    "question_zh": "《激戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Unbeatable\"?",
+    "options_zh": [
+      "林超賢",
+      "劉偉強",
+      "杜琪峰",
+      "王晶"
+    ],
+    "options_en": [
+      "Dante Lam",
+      "Andrew Lau",
+      "Johnnie To",
+      "Wong Jing"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「林超賢」。",
+    "explanation_en": "The correct answer is 'Dante Lam'.",
+    "difficulty": 2
+  },
+  {
+    "id": 92,
+    "question_zh": "《激戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Unbeatable\"?",
+    "options_zh": [
+      "王晶",
+      "杜琪峰",
+      "林超賢",
+      "劉偉強"
+    ],
+    "options_en": [
+      "Wong Jing",
+      "Johnnie To",
+      "Dante Lam",
+      "Andrew Lau"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「林超賢」。",
+    "explanation_en": "The correct answer is 'Dante Lam'.",
+    "difficulty": 3
+  },
+  {
+    "id": 93,
+    "question_zh": "《激戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Unbeatable\"?",
+    "options_zh": [
+      "劉偉強",
+      "杜琪峰",
+      "林超賢",
+      "王晶"
+    ],
+    "options_en": [
+      "Andrew Lau",
+      "Johnnie To",
+      "Dante Lam",
+      "Wong Jing"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「林超賢」。",
+    "explanation_en": "The correct answer is 'Dante Lam'.",
+    "difficulty": 1
+  },
+  {
+    "id": 94,
+    "question_zh": "《激戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Unbeatable\"?",
+    "options_zh": [
+      "杜琪峰",
+      "劉偉強",
+      "王晶",
+      "林超賢"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Andrew Lau",
+      "Wong Jing",
+      "Dante Lam"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「林超賢」。",
+    "explanation_en": "The correct answer is 'Dante Lam'.",
+    "difficulty": 2
+  },
+  {
+    "id": 95,
+    "question_zh": "《激戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Unbeatable\"?",
+    "options_zh": [
+      "王晶",
+      "杜琪峰",
+      "林超賢",
+      "劉偉強"
+    ],
+    "options_en": [
+      "Wong Jing",
+      "Johnnie To",
+      "Dante Lam",
+      "Andrew Lau"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「林超賢」。",
+    "explanation_en": "The correct answer is 'Dante Lam'.",
+    "difficulty": 3
+  },
+  {
+    "id": 96,
+    "question_zh": "《激戰》入面張家輝飾演咩角色？",
+    "question_en": "What role does Nick Cheung play in \"Unbeatable\"?",
+    "options_zh": [
+      "配角A",
+      "配角C",
+      "程輝",
+      "配角B"
+    ],
+    "options_en": [
+      "Supporting A",
+      "Supporting C",
+      "Cheng Fai",
+      "Supporting B"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「程輝」。",
+    "explanation_en": "The correct answer is 'Cheng Fai'.",
+    "difficulty": 1
+  },
+  {
+    "id": 97,
+    "question_zh": "《激戰》入面張家輝飾演咩角色？",
+    "question_en": "What role does Nick Cheung play in \"Unbeatable\"?",
+    "options_zh": [
+      "配角B",
+      "配角C",
+      "程輝",
+      "配角A"
+    ],
+    "options_en": [
+      "Supporting B",
+      "Supporting C",
+      "Cheng Fai",
+      "Supporting A"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「程輝」。",
+    "explanation_en": "The correct answer is 'Cheng Fai'.",
+    "difficulty": 2
+  },
+  {
+    "id": 98,
+    "question_zh": "《激戰》入面張家輝飾演咩角色？",
+    "question_en": "What role does Nick Cheung play in \"Unbeatable\"?",
+    "options_zh": [
+      "程輝",
+      "配角A",
+      "配角B",
+      "配角C"
+    ],
+    "options_en": [
+      "Cheng Fai",
+      "Supporting A",
+      "Supporting B",
+      "Supporting C"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「程輝」。",
+    "explanation_en": "The correct answer is 'Cheng Fai'.",
+    "difficulty": 3
+  },
+  {
+    "id": 99,
+    "question_zh": "張家輝有冇憑《激戰》攞獎？",
+    "question_en": "Did Nick Cheung win awards for \"Unbeatable\"?",
+    "options_zh": [
+      "有，攞過最佳男主角",
+      "冇",
+      "唔記得",
+      "唔知"
+    ],
+    "options_en": [
+      "Yes, Best Actor",
+      "No",
+      "Forgot",
+      "Unknown"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「有，攞過最佳男主角」。",
+    "explanation_en": "The correct answer is 'Yes, Best Actor'.",
+    "difficulty": 1
+  },
+  {
+    "id": 100,
+    "question_zh": "張家輝有冇憑《激戰》攞獎？",
+    "question_en": "Did Nick Cheung win awards for \"Unbeatable\"?",
+    "options_zh": [
+      "冇",
+      "有，攞過最佳男主角",
+      "唔記得",
+      "唔知"
+    ],
+    "options_en": [
+      "No",
+      "Yes, Best Actor",
+      "Forgot",
+      "Unknown"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「有，攞過最佳男主角」。",
+    "explanation_en": "The correct answer is 'Yes, Best Actor'.",
+    "difficulty": 2
   }
 ]

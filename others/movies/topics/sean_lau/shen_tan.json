@@ -4,36 +4,141 @@
     "question_zh": "以下邊部電影係劉青雲主演嘅？",
     "question_en": "Which movie stars Sean Lau?",
     "options_zh": [
-      "其他電影A",
-      "其他電影B",
-      "其他電影C",
-      "神探"
+      "竊聽風雲",
+      "神探",
+      "大師兄",
+      "我要成名"
     ],
     "options_en": [
-      "Other Movie A",
-      "Other Movie B",
-      "Other Movie C",
-      "Mad Detective"
+      "The Vanished Murderer",
+      "Mad Detective",
+      "My Name Is Fame",
+      "Overheard"
     ],
-    "answer": 3,
+    "answer": 1,
+    "explanation_zh": "正確答案係「神探」。",
+    "explanation_en": "The correct answer is 'Mad Detective'.",
+    "difficulty": 2
+  },
+  {
+    "id": 2,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？",
+    "question_en": "Which movie stars Sean Lau?",
+    "options_zh": [
+      "消失的兇手",
+      "神探",
+      "竊聽風雲",
+      "大師兄"
+    ],
+    "options_en": [
+      "Big Brother",
+      "Mad Detective",
+      "My Name Is Fame",
+      "Overheard"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「神探」。",
+    "explanation_en": "The correct answer is 'Mad Detective'.",
+    "difficulty": 3
+  },
+  {
+    "id": 3,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？",
+    "question_en": "Which movie stars Sean Lau?",
+    "options_zh": [
+      "竊聽風雲",
+      "神探",
+      "大師兄",
+      "消失的兇手"
+    ],
+    "options_en": [
+      "The Vanished Murderer",
+      "Mad Detective",
+      "My Name Is Fame",
+      "Overheard"
+    ],
+    "answer": 1,
     "explanation_zh": "正確答案係「神探」。",
     "explanation_en": "The correct answer is 'Mad Detective'.",
     "difficulty": 1
   },
   {
-    "id": 2,
+    "id": 4,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？",
+    "question_en": "Which movie stars Sean Lau?",
+    "options_zh": [
+      "神探",
+      "竊聽風雲",
+      "大師兄",
+      "我要成名"
+    ],
+    "options_en": [
+      "Mad Detective",
+      "My Name Is Fame",
+      "Big Brother",
+      "Overheard"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「神探」。",
+    "explanation_en": "The correct answer is 'Mad Detective'.",
+    "difficulty": 2
+  },
+  {
+    "id": 5,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？",
+    "question_en": "Which movie stars Sean Lau?",
+    "options_zh": [
+      "我要成名",
+      "竊聽風雲",
+      "消失的兇手",
+      "神探"
+    ],
+    "options_en": [
+      "Overheard",
+      "Big Brother",
+      "The Vanished Murderer",
+      "Mad Detective"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「神探」。",
+    "explanation_en": "The correct answer is 'Mad Detective'.",
+    "difficulty": 3
+  },
+  {
+    "id": 6,
     "question_zh": "《神探》係邊年上映嘅？",
-    "question_en": "《神探》係邊年上映嘅？",
+    "question_en": "What year was \"Mad Detective\" released?",
+    "options_zh": [
+      "2009年",
+      "2004年",
+      "2007年",
+      "2005年"
+    ],
+    "options_en": [
+      "2009",
+      "2004",
+      "2007",
+      "2005"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2007年」。",
+    "explanation_en": "The correct answer is '2007'.",
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question_zh": "《神探》係邊年上映嘅？",
+    "question_en": "What year was \"Mad Detective\" released?",
     "options_zh": [
       "2007年",
       "2005年",
-      "2012年",
+      "2010年",
       "2009年"
     ],
     "options_en": [
       "2007",
       "2005",
-      "2012",
+      "2010",
       "2009"
     ],
     "answer": 0,
@@ -42,19 +147,271 @@
     "difficulty": 2
   },
   {
-    "id": 3,
-    "question_zh": "《神探》入面，劉青雲飾演嘅角色叫咩名？",
-    "question_en": "《神探》入面，劉青雲飾演嘅角色叫咩名？",
+    "id": 8,
+    "question_zh": "《神探》係邊年上映嘅？",
+    "question_en": "What year was \"Mad Detective\" released?",
     "options_zh": [
-      "配角B",
-      "配角A",
+      "2007年",
+      "2005年",
+      "2009年",
+      "2004年"
+    ],
+    "options_en": [
+      "2007",
+      "2005",
+      "2009",
+      "2004"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2007年」。",
+    "explanation_en": "The correct answer is '2007'.",
+    "difficulty": 3
+  },
+  {
+    "id": 9,
+    "question_zh": "《神探》係邊年上映嘅？",
+    "question_en": "What year was \"Mad Detective\" released?",
+    "options_zh": [
+      "2005年",
+      "2007年",
+      "2010年",
+      "2009年"
+    ],
+    "options_en": [
+      "2005",
+      "2007",
+      "2010",
+      "2009"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「2007年」。",
+    "explanation_en": "The correct answer is '2007'.",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question_zh": "《神探》係邊年上映嘅？",
+    "question_en": "What year was \"Mad Detective\" released?",
+    "options_zh": [
+      "2005年",
+      "2010年",
+      "2007年",
+      "2004年"
+    ],
+    "options_en": [
+      "2005",
+      "2010",
+      "2007",
+      "2004"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2007年」。",
+    "explanation_en": "The correct answer is '2007'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《神探》嘅導演係邊個？",
+    "question_en": "Who directed \"Mad Detective\"?",
+    "options_zh": [
+      "劉偉強",
+      "王晶",
+      "導演",
+      "杜琪峰"
+    ],
+    "options_en": [
+      "Andrew Lau",
+      "Wong Jing",
+      "Director",
+      "Johnnie To"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《神探》嘅導演係邊個？",
+    "question_en": "Who directed \"Mad Detective\"?",
+    "options_zh": [
+      "王晶",
+      "導演",
+      "杜琪峰",
+      "劉偉強"
+    ],
+    "options_en": [
+      "Wong Jing",
+      "Director",
+      "Johnnie To",
+      "Andrew Lau"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_zh": "《神探》嘅導演係邊個？",
+    "question_en": "Who directed \"Mad Detective\"?",
+    "options_zh": [
+      "杜琪峰",
+      "王晶",
+      "導演",
+      "劉偉強"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Wong Jing",
+      "Director",
+      "Andrew Lau"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_zh": "《神探》嘅導演係邊個？",
+    "question_en": "Who directed \"Mad Detective\"?",
+    "options_zh": [
+      "王晶",
+      "杜琪峰",
+      "劉偉強",
+      "導演"
+    ],
+    "options_en": [
+      "Wong Jing",
+      "Johnnie To",
+      "Andrew Lau",
+      "Director"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《神探》嘅導演係邊個？",
+    "question_en": "Who directed \"Mad Detective\"?",
+    "options_zh": [
+      "杜琪峰",
+      "王晶",
+      "劉偉強",
+      "導演"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Wong Jing",
+      "Andrew Lau",
+      "Director"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "劉青雲喺《神探》入面飾演咩角色？",
+    "question_en": "What role does Sean Lau play in \"Mad Detective\"?",
+    "options_zh": [
       "配角C",
+      "配角A",
+      "配角B",
       "主角"
     ],
     "options_en": [
+      "Supporting C",
+      "Supporting A",
       "Supporting B",
+      "Main Character"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "劉青雲喺《神探》入面飾演咩角色？",
+    "question_en": "What role does Sean Lau play in \"Mad Detective\"?",
+    "options_zh": [
+      "主角",
+      "配角B",
+      "配角C",
+      "配角A"
+    ],
+    "options_en": [
+      "Main Character",
+      "Supporting B",
+      "Supporting C",
+      "Supporting A"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 3
+  },
+  {
+    "id": 18,
+    "question_zh": "劉青雲喺《神探》入面飾演咩角色？",
+    "question_en": "What role does Sean Lau play in \"Mad Detective\"?",
+    "options_zh": [
+      "主角",
+      "配角A",
+      "配角C",
+      "配角B"
+    ],
+    "options_en": [
+      "Main Character",
       "Supporting A",
       "Supporting C",
+      "Supporting B"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "劉青雲喺《神探》入面飾演咩角色？",
+    "question_en": "What role does Sean Lau play in \"Mad Detective\"?",
+    "options_zh": [
+      "配角C",
+      "配角A",
+      "配角B",
+      "主角"
+    ],
+    "options_en": [
+      "Supporting C",
+      "Supporting A",
+      "Supporting B",
+      "Main Character"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question_zh": "劉青雲喺《神探》入面飾演咩角色？",
+    "question_en": "What role does Sean Lau play in \"Mad Detective\"?",
+    "options_zh": [
+      "配角C",
+      "配角B",
+      "配角A",
+      "主角"
+    ],
+    "options_en": [
+      "Supporting C",
+      "Supporting B",
+      "Supporting A",
       "Main Character"
     ],
     "answer": 3,
@@ -63,66 +420,1683 @@
     "difficulty": 3
   },
   {
-    "id": 4,
-    "question_zh": "《神探》嘅導演係邊個？",
-    "question_en": "《神探》嘅導演係邊個？",
+    "id": 21,
+    "question_zh": "《神探》係咩類型嘅電影？",
+    "question_en": "What genre is \"Mad Detective\"?",
     "options_zh": [
-      "導演D",
-      "導演A",
-      "導演B",
-      "導演C"
+      "動畫",
+      "音樂劇",
+      "劇情",
+      "紀錄片"
     ],
     "options_en": [
-      "Director D",
-      "Director A",
-      "Director B",
-      "Director C"
+      "Animation",
+      "Musical",
+      "Drama",
+      "Documentary"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「導演A」。",
-    "explanation_en": "The correct answer is 'Director A'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
     "difficulty": 1
   },
   {
-    "id": 5,
-    "question_zh": "《神探》嘅故事主要講咩？",
-    "question_en": "《神探》嘅故事主要講咩？",
-    "options_zh": [
-      "劇情精彩",
-      "科幻冒險",
-      "恐怖驚慄",
-      "浪漫喜劇"
-    ],
-    "options_en": [
-      "Exciting plot",
-      "Sci-fi adventure",
-      "Horror thriller",
-      "Romantic comedy"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劇情精彩」。",
-    "explanation_en": "The correct answer is 'Exciting plot'.",
-    "difficulty": 2
-  },
-  {
-    "id": 6,
+    "id": 22,
     "question_zh": "《神探》係咩類型嘅電影？",
-    "question_en": "《神探》係咩類型嘅電影？",
+    "question_en": "What genre is \"Mad Detective\"?",
     "options_zh": [
-      "劇情",
       "紀錄片",
+      "劇情",
       "動畫",
       "音樂劇"
     ],
     "options_en": [
-      "Drama",
       "Documentary",
+      "Drama",
       "Animation",
       "Musical"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question_zh": "《神探》係咩類型嘅電影？",
+    "question_en": "What genre is \"Mad Detective\"?",
+    "options_zh": [
+      "動畫",
+      "紀錄片",
+      "劇情",
+      "音樂劇"
+    ],
+    "options_en": [
+      "Animation",
+      "Documentary",
+      "Drama",
+      "Musical"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 3
+  },
+  {
+    "id": 24,
+    "question_zh": "《神探》係咩類型嘅電影？",
+    "question_en": "What genre is \"Mad Detective\"?",
+    "options_zh": [
+      "紀錄片",
+      "音樂劇",
+      "動畫",
+      "劇情"
+    ],
+    "options_en": [
+      "Documentary",
+      "Musical",
+      "Animation",
+      "Drama"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question_zh": "《神探》係咩類型嘅電影？",
+    "question_en": "What genre is \"Mad Detective\"?",
+    "options_zh": [
+      "紀錄片",
+      "音樂劇",
+      "動畫",
+      "劇情"
+    ],
+    "options_en": [
+      "Documentary",
+      "Musical",
+      "Animation",
+      "Drama"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？",
+    "question_en": "Which movie stars Sean Lau?",
+    "options_zh": [
+      "消失的兇手",
+      "大師兄",
+      "竊聽風雲",
+      "神探"
+    ],
+    "options_en": [
+      "Big Brother",
+      "Overheard",
+      "The Vanished Murderer",
+      "Mad Detective"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「神探」。",
+    "explanation_en": "The correct answer is 'Mad Detective'.",
+    "difficulty": 3
+  },
+  {
+    "id": 27,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？",
+    "question_en": "Which movie stars Sean Lau?",
+    "options_zh": [
+      "消失的兇手",
+      "大師兄",
+      "神探",
+      "我要成名"
+    ],
+    "options_en": [
+      "The Vanished Murderer",
+      "My Name Is Fame",
+      "Mad Detective",
+      "Overheard"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「神探」。",
+    "explanation_en": "The correct answer is 'Mad Detective'.",
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？",
+    "question_en": "Which movie stars Sean Lau?",
+    "options_zh": [
+      "我要成名",
+      "消失的兇手",
+      "神探",
+      "竊聽風雲"
+    ],
+    "options_en": [
+      "The Vanished Murderer",
+      "Big Brother",
+      "Mad Detective",
+      "My Name Is Fame"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「神探」。",
+    "explanation_en": "The correct answer is 'Mad Detective'.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？",
+    "question_en": "Which movie stars Sean Lau?",
+    "options_zh": [
+      "大師兄",
+      "神探",
+      "竊聽風雲",
+      "消失的兇手"
+    ],
+    "options_en": [
+      "The Vanished Murderer",
+      "Mad Detective",
+      "My Name Is Fame",
+      "Big Brother"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「神探」。",
+    "explanation_en": "The correct answer is 'Mad Detective'.",
+    "difficulty": 3
+  },
+  {
+    "id": 30,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？",
+    "question_en": "Which movie stars Sean Lau?",
+    "options_zh": [
+      "大師兄",
+      "我要成名",
+      "神探",
+      "竊聽風雲"
+    ],
+    "options_en": [
+      "The Vanished Murderer",
+      "My Name Is Fame",
+      "Mad Detective",
+      "Overheard"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「神探」。",
+    "explanation_en": "The correct answer is 'Mad Detective'.",
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question_zh": "《神探》係邊年上映嘅？",
+    "question_en": "What year was \"Mad Detective\" released?",
+    "options_zh": [
+      "2010年",
+      "2004年",
+      "2007年",
+      "2009年"
+    ],
+    "options_en": [
+      "2010",
+      "2004",
+      "2007",
+      "2009"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2007年」。",
+    "explanation_en": "The correct answer is '2007'.",
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question_zh": "《神探》係邊年上映嘅？",
+    "question_en": "What year was \"Mad Detective\" released?",
+    "options_zh": [
+      "2007年",
+      "2005年",
+      "2004年",
+      "2009年"
+    ],
+    "options_en": [
+      "2007",
+      "2005",
+      "2004",
+      "2009"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2007年」。",
+    "explanation_en": "The correct answer is '2007'.",
+    "difficulty": 3
+  },
+  {
+    "id": 33,
+    "question_zh": "《神探》係邊年上映嘅？",
+    "question_en": "What year was \"Mad Detective\" released?",
+    "options_zh": [
+      "2009年",
+      "2005年",
+      "2007年",
+      "2004年"
+    ],
+    "options_en": [
+      "2009",
+      "2005",
+      "2007",
+      "2004"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2007年」。",
+    "explanation_en": "The correct answer is '2007'.",
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question_zh": "《神探》係邊年上映嘅？",
+    "question_en": "What year was \"Mad Detective\" released?",
+    "options_zh": [
+      "2007年",
+      "2005年",
+      "2009年",
+      "2004年"
+    ],
+    "options_en": [
+      "2007",
+      "2005",
+      "2009",
+      "2004"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2007年」。",
+    "explanation_en": "The correct answer is '2007'.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question_zh": "《神探》係邊年上映嘅？",
+    "question_en": "What year was \"Mad Detective\" released?",
+    "options_zh": [
+      "2005年",
+      "2010年",
+      "2009年",
+      "2007年"
+    ],
+    "options_en": [
+      "2005",
+      "2010",
+      "2009",
+      "2007"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「2007年」。",
+    "explanation_en": "The correct answer is '2007'.",
+    "difficulty": 3
+  },
+  {
+    "id": 36,
+    "question_zh": "《神探》嘅導演係邊個？",
+    "question_en": "Who directed \"Mad Detective\"?",
+    "options_zh": [
+      "杜琪峰",
+      "劉偉強",
+      "導演",
+      "王晶"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Andrew Lau",
+      "Director",
+      "Wong Jing"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question_zh": "《神探》嘅導演係邊個？",
+    "question_en": "Who directed \"Mad Detective\"?",
+    "options_zh": [
+      "杜琪峰",
+      "劉偉強",
+      "導演",
+      "王晶"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Andrew Lau",
+      "Director",
+      "Wong Jing"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "《神探》嘅導演係邊個？",
+    "question_en": "Who directed \"Mad Detective\"?",
+    "options_zh": [
+      "杜琪峰",
+      "導演",
+      "王晶",
+      "劉偉強"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Director",
+      "Wong Jing",
+      "Andrew Lau"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 3
+  },
+  {
+    "id": 39,
+    "question_zh": "《神探》嘅導演係邊個？",
+    "question_en": "Who directed \"Mad Detective\"?",
+    "options_zh": [
+      "杜琪峰",
+      "王晶",
+      "劉偉強",
+      "導演"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Wong Jing",
+      "Andrew Lau",
+      "Director"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question_zh": "《神探》嘅導演係邊個？",
+    "question_en": "Who directed \"Mad Detective\"?",
+    "options_zh": [
+      "劉偉強",
+      "杜琪峰",
+      "導演",
+      "王晶"
+    ],
+    "options_en": [
+      "Andrew Lau",
+      "Johnnie To",
+      "Director",
+      "Wong Jing"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question_zh": "劉青雲喺《神探》入面飾演咩角色？",
+    "question_en": "What role does Sean Lau play in \"Mad Detective\"?",
+    "options_zh": [
+      "主角",
+      "配角B",
+      "配角A",
+      "配角C"
+    ],
+    "options_en": [
+      "Main Character",
+      "Supporting B",
+      "Supporting A",
+      "Supporting C"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 3
+  },
+  {
+    "id": 42,
+    "question_zh": "劉青雲喺《神探》入面飾演咩角色？",
+    "question_en": "What role does Sean Lau play in \"Mad Detective\"?",
+    "options_zh": [
+      "配角B",
+      "主角",
+      "配角A",
+      "配角C"
+    ],
+    "options_en": [
+      "Supporting B",
+      "Main Character",
+      "Supporting A",
+      "Supporting C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question_zh": "劉青雲喺《神探》入面飾演咩角色？",
+    "question_en": "What role does Sean Lau play in \"Mad Detective\"?",
+    "options_zh": [
+      "配角C",
+      "主角",
+      "配角B",
+      "配角A"
+    ],
+    "options_en": [
+      "Supporting C",
+      "Main Character",
+      "Supporting B",
+      "Supporting A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 2
+  },
+  {
+    "id": 44,
+    "question_zh": "劉青雲喺《神探》入面飾演咩角色？",
+    "question_en": "What role does Sean Lau play in \"Mad Detective\"?",
+    "options_zh": [
+      "配角B",
+      "主角",
+      "配角C",
+      "配角A"
+    ],
+    "options_en": [
+      "Supporting B",
+      "Main Character",
+      "Supporting C",
+      "Supporting A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 3
+  },
+  {
+    "id": 45,
+    "question_zh": "劉青雲喺《神探》入面飾演咩角色？",
+    "question_en": "What role does Sean Lau play in \"Mad Detective\"?",
+    "options_zh": [
+      "配角A",
+      "配角B",
+      "主角",
+      "配角C"
+    ],
+    "options_en": [
+      "Supporting A",
+      "Supporting B",
+      "Main Character",
+      "Supporting C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question_zh": "《神探》係咩類型嘅電影？",
+    "question_en": "What genre is \"Mad Detective\"?",
+    "options_zh": [
+      "音樂劇",
+      "紀錄片",
+      "動畫",
+      "劇情"
+    ],
+    "options_en": [
+      "Musical",
+      "Documentary",
+      "Animation",
+      "Drama"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 2
+  },
+  {
+    "id": 47,
+    "question_zh": "《神探》係咩類型嘅電影？",
+    "question_en": "What genre is \"Mad Detective\"?",
+    "options_zh": [
+      "動畫",
+      "音樂劇",
+      "紀錄片",
+      "劇情"
+    ],
+    "options_en": [
+      "Animation",
+      "Musical",
+      "Documentary",
+      "Drama"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 3
+  },
+  {
+    "id": 48,
+    "question_zh": "《神探》係咩類型嘅電影？",
+    "question_en": "What genre is \"Mad Detective\"?",
+    "options_zh": [
+      "音樂劇",
+      "劇情",
+      "紀錄片",
+      "動畫"
+    ],
+    "options_en": [
+      "Musical",
+      "Drama",
+      "Documentary",
+      "Animation"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question_zh": "《神探》係咩類型嘅電影？",
+    "question_en": "What genre is \"Mad Detective\"?",
+    "options_zh": [
+      "音樂劇",
+      "紀錄片",
+      "動畫",
+      "劇情"
+    ],
+    "options_en": [
+      "Musical",
+      "Documentary",
+      "Animation",
+      "Drama"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 2
+  },
+  {
+    "id": 50,
+    "question_zh": "《神探》係咩類型嘅電影？",
+    "question_en": "What genre is \"Mad Detective\"?",
+    "options_zh": [
+      "動畫",
+      "音樂劇",
+      "劇情",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Animation",
+      "Musical",
+      "Drama",
+      "Documentary"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 3
+  },
+  {
+    "id": 51,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？",
+    "question_en": "Which movie stars Sean Lau?",
+    "options_zh": [
+      "神探",
+      "大師兄",
+      "我要成名",
+      "消失的兇手"
+    ],
+    "options_en": [
+      "Mad Detective",
+      "Big Brother",
+      "My Name Is Fame",
+      "The Vanished Murderer"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「神探」。",
+    "explanation_en": "The correct answer is 'Mad Detective'.",
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？",
+    "question_en": "Which movie stars Sean Lau?",
+    "options_zh": [
+      "消失的兇手",
+      "神探",
+      "大師兄",
+      "我要成名"
+    ],
+    "options_en": [
+      "The Vanished Murderer",
+      "Mad Detective",
+      "Big Brother",
+      "Overheard"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「神探」。",
+    "explanation_en": "The correct answer is 'Mad Detective'.",
+    "difficulty": 2
+  },
+  {
+    "id": 53,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？",
+    "question_en": "Which movie stars Sean Lau?",
+    "options_zh": [
+      "神探",
+      "竊聽風雲",
+      "消失的兇手",
+      "大師兄"
+    ],
+    "options_en": [
+      "Mad Detective",
+      "Big Brother",
+      "Overheard",
+      "My Name Is Fame"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「神探」。",
+    "explanation_en": "The correct answer is 'Mad Detective'.",
+    "difficulty": 3
+  },
+  {
+    "id": 54,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？",
+    "question_en": "Which movie stars Sean Lau?",
+    "options_zh": [
+      "消失的兇手",
+      "神探",
+      "大師兄",
+      "竊聽風雲"
+    ],
+    "options_en": [
+      "Big Brother",
+      "Mad Detective",
+      "Overheard",
+      "The Vanished Murderer"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「神探」。",
+    "explanation_en": "The correct answer is 'Mad Detective'.",
+    "difficulty": 1
+  },
+  {
+    "id": 55,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？",
+    "question_en": "Which movie stars Sean Lau?",
+    "options_zh": [
+      "竊聽風雲",
+      "消失的兇手",
+      "我要成名",
+      "神探"
+    ],
+    "options_en": [
+      "The Vanished Murderer",
+      "Big Brother",
+      "Overheard",
+      "Mad Detective"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「神探」。",
+    "explanation_en": "The correct answer is 'Mad Detective'.",
+    "difficulty": 2
+  },
+  {
+    "id": 56,
+    "question_zh": "《神探》係邊年上映嘅？",
+    "question_en": "What year was \"Mad Detective\" released?",
+    "options_zh": [
+      "2005年",
+      "2007年",
+      "2009年",
+      "2004年"
+    ],
+    "options_en": [
+      "2005",
+      "2007",
+      "2009",
+      "2004"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「2007年」。",
+    "explanation_en": "The correct answer is '2007'.",
+    "difficulty": 3
+  },
+  {
+    "id": 57,
+    "question_zh": "《神探》係邊年上映嘅？",
+    "question_en": "What year was \"Mad Detective\" released?",
+    "options_zh": [
+      "2005年",
+      "2004年",
+      "2010年",
+      "2007年"
+    ],
+    "options_en": [
+      "2005",
+      "2004",
+      "2010",
+      "2007"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「2007年」。",
+    "explanation_en": "The correct answer is '2007'.",
+    "difficulty": 1
+  },
+  {
+    "id": 58,
+    "question_zh": "《神探》係邊年上映嘅？",
+    "question_en": "What year was \"Mad Detective\" released?",
+    "options_zh": [
+      "2007年",
+      "2004年",
+      "2010年",
+      "2005年"
+    ],
+    "options_en": [
+      "2007",
+      "2004",
+      "2010",
+      "2005"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2007年」。",
+    "explanation_en": "The correct answer is '2007'.",
+    "difficulty": 2
+  },
+  {
+    "id": 59,
+    "question_zh": "《神探》係邊年上映嘅？",
+    "question_en": "What year was \"Mad Detective\" released?",
+    "options_zh": [
+      "2007年",
+      "2010年",
+      "2005年",
+      "2009年"
+    ],
+    "options_en": [
+      "2007",
+      "2010",
+      "2005",
+      "2009"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2007年」。",
+    "explanation_en": "The correct answer is '2007'.",
+    "difficulty": 3
+  },
+  {
+    "id": 60,
+    "question_zh": "《神探》係邊年上映嘅？",
+    "question_en": "What year was \"Mad Detective\" released?",
+    "options_zh": [
+      "2007年",
+      "2010年",
+      "2004年",
+      "2005年"
+    ],
+    "options_en": [
+      "2007",
+      "2010",
+      "2004",
+      "2005"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2007年」。",
+    "explanation_en": "The correct answer is '2007'.",
+    "difficulty": 1
+  },
+  {
+    "id": 61,
+    "question_zh": "《神探》嘅導演係邊個？",
+    "question_en": "Who directed \"Mad Detective\"?",
+    "options_zh": [
+      "導演",
+      "劉偉強",
+      "杜琪峰",
+      "王晶"
+    ],
+    "options_en": [
+      "Director",
+      "Andrew Lau",
+      "Johnnie To",
+      "Wong Jing"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 2
+  },
+  {
+    "id": 62,
+    "question_zh": "《神探》嘅導演係邊個？",
+    "question_en": "Who directed \"Mad Detective\"?",
+    "options_zh": [
+      "杜琪峰",
+      "王晶",
+      "劉偉強",
+      "導演"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Wong Jing",
+      "Andrew Lau",
+      "Director"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 3
+  },
+  {
+    "id": 63,
+    "question_zh": "《神探》嘅導演係邊個？",
+    "question_en": "Who directed \"Mad Detective\"?",
+    "options_zh": [
+      "導演",
+      "杜琪峰",
+      "劉偉強",
+      "王晶"
+    ],
+    "options_en": [
+      "Director",
+      "Johnnie To",
+      "Andrew Lau",
+      "Wong Jing"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 1
+  },
+  {
+    "id": 64,
+    "question_zh": "《神探》嘅導演係邊個？",
+    "question_en": "Who directed \"Mad Detective\"?",
+    "options_zh": [
+      "劉偉強",
+      "導演",
+      "王晶",
+      "杜琪峰"
+    ],
+    "options_en": [
+      "Andrew Lau",
+      "Director",
+      "Wong Jing",
+      "Johnnie To"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 2
+  },
+  {
+    "id": 65,
+    "question_zh": "《神探》嘅導演係邊個？",
+    "question_en": "Who directed \"Mad Detective\"?",
+    "options_zh": [
+      "杜琪峰",
+      "王晶",
+      "劉偉強",
+      "導演"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Wong Jing",
+      "Andrew Lau",
+      "Director"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 3
+  },
+  {
+    "id": 66,
+    "question_zh": "劉青雲喺《神探》入面飾演咩角色？",
+    "question_en": "What role does Sean Lau play in \"Mad Detective\"?",
+    "options_zh": [
+      "配角B",
+      "主角",
+      "配角C",
+      "配角A"
+    ],
+    "options_en": [
+      "Supporting B",
+      "Main Character",
+      "Supporting C",
+      "Supporting A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 1
+  },
+  {
+    "id": 67,
+    "question_zh": "劉青雲喺《神探》入面飾演咩角色？",
+    "question_en": "What role does Sean Lau play in \"Mad Detective\"?",
+    "options_zh": [
+      "配角B",
+      "主角",
+      "配角A",
+      "配角C"
+    ],
+    "options_en": [
+      "Supporting B",
+      "Main Character",
+      "Supporting A",
+      "Supporting C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 2
+  },
+  {
+    "id": 68,
+    "question_zh": "劉青雲喺《神探》入面飾演咩角色？",
+    "question_en": "What role does Sean Lau play in \"Mad Detective\"?",
+    "options_zh": [
+      "主角",
+      "配角B",
+      "配角C",
+      "配角A"
+    ],
+    "options_en": [
+      "Main Character",
+      "Supporting B",
+      "Supporting C",
+      "Supporting A"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 3
+  },
+  {
+    "id": 69,
+    "question_zh": "劉青雲喺《神探》入面飾演咩角色？",
+    "question_en": "What role does Sean Lau play in \"Mad Detective\"?",
+    "options_zh": [
+      "主角",
+      "配角A",
+      "配角C",
+      "配角B"
+    ],
+    "options_en": [
+      "Main Character",
+      "Supporting A",
+      "Supporting C",
+      "Supporting B"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 1
+  },
+  {
+    "id": 70,
+    "question_zh": "劉青雲喺《神探》入面飾演咩角色？",
+    "question_en": "What role does Sean Lau play in \"Mad Detective\"?",
+    "options_zh": [
+      "配角A",
+      "主角",
+      "配角C",
+      "配角B"
+    ],
+    "options_en": [
+      "Supporting A",
+      "Main Character",
+      "Supporting C",
+      "Supporting B"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 2
+  },
+  {
+    "id": 71,
+    "question_zh": "《神探》係咩類型嘅電影？",
+    "question_en": "What genre is \"Mad Detective\"?",
+    "options_zh": [
+      "音樂劇",
+      "紀錄片",
+      "動畫",
+      "劇情"
+    ],
+    "options_en": [
+      "Musical",
+      "Documentary",
+      "Animation",
+      "Drama"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 3
+  },
+  {
+    "id": 72,
+    "question_zh": "《神探》係咩類型嘅電影？",
+    "question_en": "What genre is \"Mad Detective\"?",
+    "options_zh": [
+      "動畫",
+      "音樂劇",
+      "紀錄片",
+      "劇情"
+    ],
+    "options_en": [
+      "Animation",
+      "Musical",
+      "Documentary",
+      "Drama"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 1
+  },
+  {
+    "id": 73,
+    "question_zh": "《神探》係咩類型嘅電影？",
+    "question_en": "What genre is \"Mad Detective\"?",
+    "options_zh": [
+      "劇情",
+      "音樂劇",
+      "紀錄片",
+      "動畫"
+    ],
+    "options_en": [
+      "Drama",
+      "Musical",
+      "Documentary",
+      "Animation"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「劇情」。",
     "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 2
+  },
+  {
+    "id": 74,
+    "question_zh": "《神探》係咩類型嘅電影？",
+    "question_en": "What genre is \"Mad Detective\"?",
+    "options_zh": [
+      "紀錄片",
+      "音樂劇",
+      "動畫",
+      "劇情"
+    ],
+    "options_en": [
+      "Documentary",
+      "Musical",
+      "Animation",
+      "Drama"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
     "difficulty": 3
+  },
+  {
+    "id": 75,
+    "question_zh": "《神探》係咩類型嘅電影？",
+    "question_en": "What genre is \"Mad Detective\"?",
+    "options_zh": [
+      "紀錄片",
+      "劇情",
+      "音樂劇",
+      "動畫"
+    ],
+    "options_en": [
+      "Documentary",
+      "Drama",
+      "Musical",
+      "Animation"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 1
+  },
+  {
+    "id": 76,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？",
+    "question_en": "Which movie stars Sean Lau?",
+    "options_zh": [
+      "大師兄",
+      "消失的兇手",
+      "竊聽風雲",
+      "神探"
+    ],
+    "options_en": [
+      "Overheard",
+      "The Vanished Murderer",
+      "Big Brother",
+      "Mad Detective"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「神探」。",
+    "explanation_en": "The correct answer is 'Mad Detective'.",
+    "difficulty": 2
+  },
+  {
+    "id": 77,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？",
+    "question_en": "Which movie stars Sean Lau?",
+    "options_zh": [
+      "竊聽風雲",
+      "大師兄",
+      "我要成名",
+      "神探"
+    ],
+    "options_en": [
+      "Overheard",
+      "The Vanished Murderer",
+      "My Name Is Fame",
+      "Mad Detective"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「神探」。",
+    "explanation_en": "The correct answer is 'Mad Detective'.",
+    "difficulty": 3
+  },
+  {
+    "id": 78,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？",
+    "question_en": "Which movie stars Sean Lau?",
+    "options_zh": [
+      "竊聽風雲",
+      "神探",
+      "消失的兇手",
+      "大師兄"
+    ],
+    "options_en": [
+      "Overheard",
+      "Mad Detective",
+      "My Name Is Fame",
+      "The Vanished Murderer"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「神探」。",
+    "explanation_en": "The correct answer is 'Mad Detective'.",
+    "difficulty": 1
+  },
+  {
+    "id": 79,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？",
+    "question_en": "Which movie stars Sean Lau?",
+    "options_zh": [
+      "神探",
+      "消失的兇手",
+      "我要成名",
+      "大師兄"
+    ],
+    "options_en": [
+      "Mad Detective",
+      "Big Brother",
+      "The Vanished Murderer",
+      "Overheard"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「神探」。",
+    "explanation_en": "The correct answer is 'Mad Detective'.",
+    "difficulty": 2
+  },
+  {
+    "id": 80,
+    "question_zh": "以下邊部電影係劉青雲主演嘅？",
+    "question_en": "Which movie stars Sean Lau?",
+    "options_zh": [
+      "大師兄",
+      "竊聽風雲",
+      "消失的兇手",
+      "神探"
+    ],
+    "options_en": [
+      "Overheard",
+      "My Name Is Fame",
+      "The Vanished Murderer",
+      "Mad Detective"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「神探」。",
+    "explanation_en": "The correct answer is 'Mad Detective'.",
+    "difficulty": 3
+  },
+  {
+    "id": 81,
+    "question_zh": "《神探》係邊年上映嘅？",
+    "question_en": "What year was \"Mad Detective\" released?",
+    "options_zh": [
+      "2010年",
+      "2009年",
+      "2007年",
+      "2004年"
+    ],
+    "options_en": [
+      "2010",
+      "2009",
+      "2007",
+      "2004"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2007年」。",
+    "explanation_en": "The correct answer is '2007'.",
+    "difficulty": 1
+  },
+  {
+    "id": 82,
+    "question_zh": "《神探》係邊年上映嘅？",
+    "question_en": "What year was \"Mad Detective\" released?",
+    "options_zh": [
+      "2007年",
+      "2010年",
+      "2004年",
+      "2009年"
+    ],
+    "options_en": [
+      "2007",
+      "2010",
+      "2004",
+      "2009"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2007年」。",
+    "explanation_en": "The correct answer is '2007'.",
+    "difficulty": 2
+  },
+  {
+    "id": 83,
+    "question_zh": "《神探》係邊年上映嘅？",
+    "question_en": "What year was \"Mad Detective\" released?",
+    "options_zh": [
+      "2007年",
+      "2004年",
+      "2009年",
+      "2005年"
+    ],
+    "options_en": [
+      "2007",
+      "2004",
+      "2009",
+      "2005"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2007年」。",
+    "explanation_en": "The correct answer is '2007'.",
+    "difficulty": 3
+  },
+  {
+    "id": 84,
+    "question_zh": "《神探》係邊年上映嘅？",
+    "question_en": "What year was \"Mad Detective\" released?",
+    "options_zh": [
+      "2009年",
+      "2007年",
+      "2004年",
+      "2005年"
+    ],
+    "options_en": [
+      "2009",
+      "2007",
+      "2004",
+      "2005"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「2007年」。",
+    "explanation_en": "The correct answer is '2007'.",
+    "difficulty": 1
+  },
+  {
+    "id": 85,
+    "question_zh": "《神探》係邊年上映嘅？",
+    "question_en": "What year was \"Mad Detective\" released?",
+    "options_zh": [
+      "2009年",
+      "2005年",
+      "2007年",
+      "2004年"
+    ],
+    "options_en": [
+      "2009",
+      "2005",
+      "2007",
+      "2004"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2007年」。",
+    "explanation_en": "The correct answer is '2007'.",
+    "difficulty": 2
+  },
+  {
+    "id": 86,
+    "question_zh": "《神探》嘅導演係邊個？",
+    "question_en": "Who directed \"Mad Detective\"?",
+    "options_zh": [
+      "杜琪峰",
+      "導演",
+      "王晶",
+      "劉偉強"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Director",
+      "Wong Jing",
+      "Andrew Lau"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 3
+  },
+  {
+    "id": 87,
+    "question_zh": "《神探》嘅導演係邊個？",
+    "question_en": "Who directed \"Mad Detective\"?",
+    "options_zh": [
+      "劉偉強",
+      "導演",
+      "杜琪峰",
+      "王晶"
+    ],
+    "options_en": [
+      "Andrew Lau",
+      "Director",
+      "Johnnie To",
+      "Wong Jing"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 1
+  },
+  {
+    "id": 88,
+    "question_zh": "《神探》嘅導演係邊個？",
+    "question_en": "Who directed \"Mad Detective\"?",
+    "options_zh": [
+      "杜琪峰",
+      "劉偉強",
+      "導演",
+      "王晶"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Andrew Lau",
+      "Director",
+      "Wong Jing"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 2
+  },
+  {
+    "id": 89,
+    "question_zh": "《神探》嘅導演係邊個？",
+    "question_en": "Who directed \"Mad Detective\"?",
+    "options_zh": [
+      "導演",
+      "劉偉強",
+      "王晶",
+      "杜琪峰"
+    ],
+    "options_en": [
+      "Director",
+      "Andrew Lau",
+      "Wong Jing",
+      "Johnnie To"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 3
+  },
+  {
+    "id": 90,
+    "question_zh": "《神探》嘅導演係邊個？",
+    "question_en": "Who directed \"Mad Detective\"?",
+    "options_zh": [
+      "導演",
+      "劉偉強",
+      "王晶",
+      "杜琪峰"
+    ],
+    "options_en": [
+      "Director",
+      "Andrew Lau",
+      "Wong Jing",
+      "Johnnie To"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 1
+  },
+  {
+    "id": 91,
+    "question_zh": "劉青雲喺《神探》入面飾演咩角色？",
+    "question_en": "What role does Sean Lau play in \"Mad Detective\"?",
+    "options_zh": [
+      "配角C",
+      "主角",
+      "配角B",
+      "配角A"
+    ],
+    "options_en": [
+      "Supporting C",
+      "Main Character",
+      "Supporting B",
+      "Supporting A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 2
+  },
+  {
+    "id": 92,
+    "question_zh": "劉青雲喺《神探》入面飾演咩角色？",
+    "question_en": "What role does Sean Lau play in \"Mad Detective\"?",
+    "options_zh": [
+      "配角C",
+      "配角A",
+      "配角B",
+      "主角"
+    ],
+    "options_en": [
+      "Supporting C",
+      "Supporting A",
+      "Supporting B",
+      "Main Character"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 3
+  },
+  {
+    "id": 93,
+    "question_zh": "劉青雲喺《神探》入面飾演咩角色？",
+    "question_en": "What role does Sean Lau play in \"Mad Detective\"?",
+    "options_zh": [
+      "配角A",
+      "主角",
+      "配角C",
+      "配角B"
+    ],
+    "options_en": [
+      "Supporting A",
+      "Main Character",
+      "Supporting C",
+      "Supporting B"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 1
+  },
+  {
+    "id": 94,
+    "question_zh": "劉青雲喺《神探》入面飾演咩角色？",
+    "question_en": "What role does Sean Lau play in \"Mad Detective\"?",
+    "options_zh": [
+      "配角A",
+      "配角B",
+      "配角C",
+      "主角"
+    ],
+    "options_en": [
+      "Supporting A",
+      "Supporting B",
+      "Supporting C",
+      "Main Character"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 2
+  },
+  {
+    "id": 95,
+    "question_zh": "劉青雲喺《神探》入面飾演咩角色？",
+    "question_en": "What role does Sean Lau play in \"Mad Detective\"?",
+    "options_zh": [
+      "主角",
+      "配角C",
+      "配角A",
+      "配角B"
+    ],
+    "options_en": [
+      "Main Character",
+      "Supporting C",
+      "Supporting A",
+      "Supporting B"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 3
+  },
+  {
+    "id": 96,
+    "question_zh": "《神探》係咩類型嘅電影？",
+    "question_en": "What genre is \"Mad Detective\"?",
+    "options_zh": [
+      "動畫",
+      "紀錄片",
+      "劇情",
+      "音樂劇"
+    ],
+    "options_en": [
+      "Animation",
+      "Documentary",
+      "Drama",
+      "Musical"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 1
+  },
+  {
+    "id": 97,
+    "question_zh": "《神探》係咩類型嘅電影？",
+    "question_en": "What genre is \"Mad Detective\"?",
+    "options_zh": [
+      "動畫",
+      "紀錄片",
+      "音樂劇",
+      "劇情"
+    ],
+    "options_en": [
+      "Animation",
+      "Documentary",
+      "Musical",
+      "Drama"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 2
+  },
+  {
+    "id": 98,
+    "question_zh": "《神探》係咩類型嘅電影？",
+    "question_en": "What genre is \"Mad Detective\"?",
+    "options_zh": [
+      "音樂劇",
+      "劇情",
+      "動畫",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Musical",
+      "Drama",
+      "Animation",
+      "Documentary"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 3
+  },
+  {
+    "id": 99,
+    "question_zh": "《神探》係咩類型嘅電影？",
+    "question_en": "What genre is \"Mad Detective\"?",
+    "options_zh": [
+      "音樂劇",
+      "動畫",
+      "劇情",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Musical",
+      "Animation",
+      "Drama",
+      "Documentary"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 1
+  },
+  {
+    "id": 100,
+    "question_zh": "《神探》係咩類型嘅電影？",
+    "question_en": "What genre is \"Mad Detective\"?",
+    "options_zh": [
+      "音樂劇",
+      "動畫",
+      "紀錄片",
+      "劇情"
+    ],
+    "options_en": [
+      "Musical",
+      "Animation",
+      "Documentary",
+      "Drama"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 2
   }
 ]

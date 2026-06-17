@@ -4,15 +4,561 @@
     "question_zh": "以下邊部電影係周潤發主演嘅？",
     "question_en": "Which movie stars Chow Yun-fat?",
     "options_zh": [
-      "其他電影C",
-      "其他電影A",
-      "其他電影B",
+      "流星蝴蝶劍",
+      "英雄本色",
+      "讓子彈飛",
+      "臥虎藏龍"
+    ],
+    "options_en": [
+      "God of Gamblers",
+      "A Better Tomorrow",
+      "Killer Butterfly",
+      "Let the Bullets Fly"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「英雄本色」。",
+    "explanation_en": "The correct answer is 'A Better Tomorrow'.",
+    "difficulty": 2
+  },
+  {
+    "id": 2,
+    "question_zh": "以下邊部電影係周潤發主演嘅？",
+    "question_en": "Which movie stars Chow Yun-fat?",
+    "options_zh": [
+      "流星蝴蝶劍",
+      "英雄本色",
+      "臥虎藏龍",
+      "讓子彈飛"
+    ],
+    "options_en": [
+      "Crouching Tiger, Hidden Dragon",
+      "A Better Tomorrow",
+      "Killer Butterfly",
+      "God of Gamblers"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「英雄本色」。",
+    "explanation_en": "The correct answer is 'A Better Tomorrow'.",
+    "difficulty": 3
+  },
+  {
+    "id": 3,
+    "question_zh": "以下邊部電影係周潤發主演嘅？",
+    "question_en": "Which movie stars Chow Yun-fat?",
+    "options_zh": [
+      "流星蝴蝶劍",
+      "賭神",
+      "英雄本色",
+      "讓子彈飛"
+    ],
+    "options_en": [
+      "Let the Bullets Fly",
+      "God of Gamblers",
+      "A Better Tomorrow",
+      "Crouching Tiger, Hidden Dragon"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「英雄本色」。",
+    "explanation_en": "The correct answer is 'A Better Tomorrow'.",
+    "difficulty": 1
+  },
+  {
+    "id": 4,
+    "question_zh": "以下邊部電影係周潤發主演嘅？",
+    "question_en": "Which movie stars Chow Yun-fat?",
+    "options_zh": [
+      "賭神",
+      "臥虎藏龍",
+      "英雄本色",
+      "讓子彈飛"
+    ],
+    "options_en": [
+      "Killer Butterfly",
+      "God of Gamblers",
+      "A Better Tomorrow",
+      "Crouching Tiger, Hidden Dragon"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「英雄本色」。",
+    "explanation_en": "The correct answer is 'A Better Tomorrow'.",
+    "difficulty": 2
+  },
+  {
+    "id": 5,
+    "question_zh": "以下邊部電影係周潤發主演嘅？",
+    "question_en": "Which movie stars Chow Yun-fat?",
+    "options_zh": [
+      "臥虎藏龍",
+      "流星蝴蝶劍",
+      "讓子彈飛",
       "英雄本色"
     ],
     "options_en": [
-      "Other Movie C",
-      "Other Movie A",
-      "Other Movie B",
+      "Killer Butterfly",
+      "Let the Bullets Fly",
+      "God of Gamblers",
+      "A Better Tomorrow"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「英雄本色」。",
+    "explanation_en": "The correct answer is 'A Better Tomorrow'.",
+    "difficulty": 3
+  },
+  {
+    "id": 6,
+    "question_zh": "《英雄本色》係邊年上映嘅？",
+    "question_en": "What year was \"A Better Tomorrow\" released?",
+    "options_zh": [
+      "1984年",
+      "1989年",
+      "1986年",
+      "1983年"
+    ],
+    "options_en": [
+      "1984",
+      "1989",
+      "1986",
+      "1983"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「1986年」。",
+    "explanation_en": "The correct answer is '1986'.",
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question_zh": "《英雄本色》係邊年上映嘅？",
+    "question_en": "What year was \"A Better Tomorrow\" released?",
+    "options_zh": [
+      "1986年",
+      "1984年",
+      "1983年",
+      "1989年"
+    ],
+    "options_en": [
+      "1986",
+      "1984",
+      "1983",
+      "1989"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「1986年」。",
+    "explanation_en": "The correct answer is '1986'.",
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_zh": "《英雄本色》係邊年上映嘅？",
+    "question_en": "What year was \"A Better Tomorrow\" released?",
+    "options_zh": [
+      "1983年",
+      "1989年",
+      "1984年",
+      "1986年"
+    ],
+    "options_en": [
+      "1983",
+      "1989",
+      "1984",
+      "1986"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1986年」。",
+    "explanation_en": "The correct answer is '1986'.",
+    "difficulty": 3
+  },
+  {
+    "id": 9,
+    "question_zh": "《英雄本色》係邊年上映嘅？",
+    "question_en": "What year was \"A Better Tomorrow\" released?",
+    "options_zh": [
+      "1983年",
+      "1986年",
+      "1989年",
+      "1984年"
+    ],
+    "options_en": [
+      "1983",
+      "1986",
+      "1989",
+      "1984"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「1986年」。",
+    "explanation_en": "The correct answer is '1986'.",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question_zh": "《英雄本色》係邊年上映嘅？",
+    "question_en": "What year was \"A Better Tomorrow\" released?",
+    "options_zh": [
+      "1989年",
+      "1986年",
+      "1983年",
+      "1988年"
+    ],
+    "options_en": [
+      "1989",
+      "1986",
+      "1983",
+      "1988"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「1986年」。",
+    "explanation_en": "The correct answer is '1986'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《英雄本色》嘅導演係邊個？",
+    "question_en": "Who directed \"A Better Tomorrow\"?",
+    "options_zh": [
+      "王晶",
+      "劉偉強",
+      "杜琪峰",
+      "導演"
+    ],
+    "options_en": [
+      "Wong Jing",
+      "Andrew Lau",
+      "Johnnie To",
+      "Director"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《英雄本色》嘅導演係邊個？",
+    "question_en": "Who directed \"A Better Tomorrow\"?",
+    "options_zh": [
+      "王晶",
+      "導演",
+      "杜琪峰",
+      "劉偉強"
+    ],
+    "options_en": [
+      "Wong Jing",
+      "Director",
+      "Johnnie To",
+      "Andrew Lau"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_zh": "《英雄本色》嘅導演係邊個？",
+    "question_en": "Who directed \"A Better Tomorrow\"?",
+    "options_zh": [
+      "杜琪峰",
+      "導演",
+      "劉偉強",
+      "王晶"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Director",
+      "Andrew Lau",
+      "Wong Jing"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_zh": "《英雄本色》嘅導演係邊個？",
+    "question_en": "Who directed \"A Better Tomorrow\"?",
+    "options_zh": [
+      "導演",
+      "王晶",
+      "劉偉強",
+      "杜琪峰"
+    ],
+    "options_en": [
+      "Director",
+      "Wong Jing",
+      "Andrew Lau",
+      "Johnnie To"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《英雄本色》嘅導演係邊個？",
+    "question_en": "Who directed \"A Better Tomorrow\"?",
+    "options_zh": [
+      "劉偉強",
+      "導演",
+      "王晶",
+      "杜琪峰"
+    ],
+    "options_en": [
+      "Andrew Lau",
+      "Director",
+      "Wong Jing",
+      "Johnnie To"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "周潤發喺《英雄本色》入面飾演咩角色？",
+    "question_en": "What role does Chow Yun-fat play in \"A Better Tomorrow\"?",
+    "options_zh": [
+      "配角C",
+      "配角B",
+      "主角",
+      "配角A"
+    ],
+    "options_en": [
+      "Supporting C",
+      "Supporting B",
+      "Main Character",
+      "Supporting A"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "周潤發喺《英雄本色》入面飾演咩角色？",
+    "question_en": "What role does Chow Yun-fat play in \"A Better Tomorrow\"?",
+    "options_zh": [
+      "配角C",
+      "配角B",
+      "配角A",
+      "主角"
+    ],
+    "options_en": [
+      "Supporting C",
+      "Supporting B",
+      "Supporting A",
+      "Main Character"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 3
+  },
+  {
+    "id": 18,
+    "question_zh": "周潤發喺《英雄本色》入面飾演咩角色？",
+    "question_en": "What role does Chow Yun-fat play in \"A Better Tomorrow\"?",
+    "options_zh": [
+      "配角A",
+      "主角",
+      "配角C",
+      "配角B"
+    ],
+    "options_en": [
+      "Supporting A",
+      "Main Character",
+      "Supporting C",
+      "Supporting B"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "周潤發喺《英雄本色》入面飾演咩角色？",
+    "question_en": "What role does Chow Yun-fat play in \"A Better Tomorrow\"?",
+    "options_zh": [
+      "配角A",
+      "配角B",
+      "配角C",
+      "主角"
+    ],
+    "options_en": [
+      "Supporting A",
+      "Supporting B",
+      "Supporting C",
+      "Main Character"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question_zh": "周潤發喺《英雄本色》入面飾演咩角色？",
+    "question_en": "What role does Chow Yun-fat play in \"A Better Tomorrow\"?",
+    "options_zh": [
+      "配角B",
+      "主角",
+      "配角A",
+      "配角C"
+    ],
+    "options_en": [
+      "Supporting B",
+      "Main Character",
+      "Supporting A",
+      "Supporting C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 3
+  },
+  {
+    "id": 21,
+    "question_zh": "《英雄本色》係咩類型嘅電影？",
+    "question_en": "What genre is \"A Better Tomorrow\"?",
+    "options_zh": [
+      "紀錄片",
+      "劇情",
+      "動畫",
+      "音樂劇"
+    ],
+    "options_en": [
+      "Documentary",
+      "Drama",
+      "Animation",
+      "Musical"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 1
+  },
+  {
+    "id": 22,
+    "question_zh": "《英雄本色》係咩類型嘅電影？",
+    "question_en": "What genre is \"A Better Tomorrow\"?",
+    "options_zh": [
+      "動畫",
+      "劇情",
+      "紀錄片",
+      "音樂劇"
+    ],
+    "options_en": [
+      "Animation",
+      "Drama",
+      "Documentary",
+      "Musical"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question_zh": "《英雄本色》係咩類型嘅電影？",
+    "question_en": "What genre is \"A Better Tomorrow\"?",
+    "options_zh": [
+      "音樂劇",
+      "紀錄片",
+      "劇情",
+      "動畫"
+    ],
+    "options_en": [
+      "Musical",
+      "Documentary",
+      "Drama",
+      "Animation"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 3
+  },
+  {
+    "id": 24,
+    "question_zh": "《英雄本色》係咩類型嘅電影？",
+    "question_en": "What genre is \"A Better Tomorrow\"?",
+    "options_zh": [
+      "動畫",
+      "音樂劇",
+      "紀錄片",
+      "劇情"
+    ],
+    "options_en": [
+      "Animation",
+      "Musical",
+      "Documentary",
+      "Drama"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 1
+  },
+  {
+    "id": 25,
+    "question_zh": "《英雄本色》係咩類型嘅電影？",
+    "question_en": "What genre is \"A Better Tomorrow\"?",
+    "options_zh": [
+      "音樂劇",
+      "紀錄片",
+      "動畫",
+      "劇情"
+    ],
+    "options_en": [
+      "Musical",
+      "Documentary",
+      "Animation",
+      "Drama"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question_zh": "以下邊部電影係周潤發主演嘅？",
+    "question_en": "Which movie stars Chow Yun-fat?",
+    "options_zh": [
+      "賭神",
+      "英雄本色",
+      "讓子彈飛",
+      "臥虎藏龍"
+    ],
+    "options_en": [
+      "God of Gamblers",
+      "A Better Tomorrow",
+      "Let the Bullets Fly",
+      "Crouching Tiger, Hidden Dragon"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「英雄本色」。",
+    "explanation_en": "The correct answer is 'A Better Tomorrow'.",
+    "difficulty": 3
+  },
+  {
+    "id": 27,
+    "question_zh": "以下邊部電影係周潤發主演嘅？",
+    "question_en": "Which movie stars Chow Yun-fat?",
+    "options_zh": [
+      "臥虎藏龍",
+      "賭神",
+      "讓子彈飛",
+      "英雄本色"
+    ],
+    "options_en": [
+      "Killer Butterfly",
+      "Crouching Tiger, Hidden Dragon",
+      "Let the Bullets Fly",
       "A Better Tomorrow"
     ],
     "answer": 3,
@@ -21,20 +567,1154 @@
     "difficulty": 1
   },
   {
-    "id": 2,
+    "id": 28,
+    "question_zh": "以下邊部電影係周潤發主演嘅？",
+    "question_en": "Which movie stars Chow Yun-fat?",
+    "options_zh": [
+      "賭神",
+      "讓子彈飛",
+      "流星蝴蝶劍",
+      "英雄本色"
+    ],
+    "options_en": [
+      "Crouching Tiger, Hidden Dragon",
+      "Let the Bullets Fly",
+      "God of Gamblers",
+      "A Better Tomorrow"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「英雄本色」。",
+    "explanation_en": "The correct answer is 'A Better Tomorrow'.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "以下邊部電影係周潤發主演嘅？",
+    "question_en": "Which movie stars Chow Yun-fat?",
+    "options_zh": [
+      "讓子彈飛",
+      "賭神",
+      "英雄本色",
+      "流星蝴蝶劍"
+    ],
+    "options_en": [
+      "Killer Butterfly",
+      "God of Gamblers",
+      "A Better Tomorrow",
+      "Crouching Tiger, Hidden Dragon"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「英雄本色」。",
+    "explanation_en": "The correct answer is 'A Better Tomorrow'.",
+    "difficulty": 3
+  },
+  {
+    "id": 30,
+    "question_zh": "以下邊部電影係周潤發主演嘅？",
+    "question_en": "Which movie stars Chow Yun-fat?",
+    "options_zh": [
+      "讓子彈飛",
+      "流星蝴蝶劍",
+      "英雄本色",
+      "臥虎藏龍"
+    ],
+    "options_en": [
+      "Killer Butterfly",
+      "God of Gamblers",
+      "A Better Tomorrow",
+      "Crouching Tiger, Hidden Dragon"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「英雄本色」。",
+    "explanation_en": "The correct answer is 'A Better Tomorrow'.",
+    "difficulty": 1
+  },
+  {
+    "id": 31,
     "question_zh": "《英雄本色》係邊年上映嘅？",
-    "question_en": "《英雄本色》係邊年上映嘅？",
+    "question_en": "What year was \"A Better Tomorrow\" released?",
+    "options_zh": [
+      "1986年",
+      "1988年",
+      "1984年",
+      "1989年"
+    ],
+    "options_en": [
+      "1986",
+      "1988",
+      "1984",
+      "1989"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「1986年」。",
+    "explanation_en": "The correct answer is '1986'.",
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question_zh": "《英雄本色》係邊年上映嘅？",
+    "question_en": "What year was \"A Better Tomorrow\" released?",
+    "options_zh": [
+      "1988年",
+      "1984年",
+      "1983年",
+      "1986年"
+    ],
+    "options_en": [
+      "1988",
+      "1984",
+      "1983",
+      "1986"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1986年」。",
+    "explanation_en": "The correct answer is '1986'.",
+    "difficulty": 3
+  },
+  {
+    "id": 33,
+    "question_zh": "《英雄本色》係邊年上映嘅？",
+    "question_en": "What year was \"A Better Tomorrow\" released?",
+    "options_zh": [
+      "1983年",
+      "1984年",
+      "1986年",
+      "1989年"
+    ],
+    "options_en": [
+      "1983",
+      "1984",
+      "1986",
+      "1989"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「1986年」。",
+    "explanation_en": "The correct answer is '1986'.",
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question_zh": "《英雄本色》係邊年上映嘅？",
+    "question_en": "What year was \"A Better Tomorrow\" released?",
+    "options_zh": [
+      "1984年",
+      "1983年",
+      "1989年",
+      "1986年"
+    ],
+    "options_en": [
+      "1984",
+      "1983",
+      "1989",
+      "1986"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1986年」。",
+    "explanation_en": "The correct answer is '1986'.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question_zh": "《英雄本色》係邊年上映嘅？",
+    "question_en": "What year was \"A Better Tomorrow\" released?",
+    "options_zh": [
+      "1988年",
+      "1984年",
+      "1986年",
+      "1989年"
+    ],
+    "options_en": [
+      "1988",
+      "1984",
+      "1986",
+      "1989"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「1986年」。",
+    "explanation_en": "The correct answer is '1986'.",
+    "difficulty": 3
+  },
+  {
+    "id": 36,
+    "question_zh": "《英雄本色》嘅導演係邊個？",
+    "question_en": "Who directed \"A Better Tomorrow\"?",
+    "options_zh": [
+      "王晶",
+      "杜琪峰",
+      "劉偉強",
+      "導演"
+    ],
+    "options_en": [
+      "Wong Jing",
+      "Johnnie To",
+      "Andrew Lau",
+      "Director"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question_zh": "《英雄本色》嘅導演係邊個？",
+    "question_en": "Who directed \"A Better Tomorrow\"?",
+    "options_zh": [
+      "杜琪峰",
+      "王晶",
+      "導演",
+      "劉偉強"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Wong Jing",
+      "Director",
+      "Andrew Lau"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "《英雄本色》嘅導演係邊個？",
+    "question_en": "Who directed \"A Better Tomorrow\"?",
+    "options_zh": [
+      "導演",
+      "劉偉強",
+      "王晶",
+      "杜琪峰"
+    ],
+    "options_en": [
+      "Director",
+      "Andrew Lau",
+      "Wong Jing",
+      "Johnnie To"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 3
+  },
+  {
+    "id": 39,
+    "question_zh": "《英雄本色》嘅導演係邊個？",
+    "question_en": "Who directed \"A Better Tomorrow\"?",
+    "options_zh": [
+      "杜琪峰",
+      "劉偉強",
+      "王晶",
+      "導演"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Andrew Lau",
+      "Wong Jing",
+      "Director"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question_zh": "《英雄本色》嘅導演係邊個？",
+    "question_en": "Who directed \"A Better Tomorrow\"?",
+    "options_zh": [
+      "劉偉強",
+      "導演",
+      "杜琪峰",
+      "王晶"
+    ],
+    "options_en": [
+      "Andrew Lau",
+      "Director",
+      "Johnnie To",
+      "Wong Jing"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question_zh": "周潤發喺《英雄本色》入面飾演咩角色？",
+    "question_en": "What role does Chow Yun-fat play in \"A Better Tomorrow\"?",
+    "options_zh": [
+      "配角A",
+      "主角",
+      "配角B",
+      "配角C"
+    ],
+    "options_en": [
+      "Supporting A",
+      "Main Character",
+      "Supporting B",
+      "Supporting C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 3
+  },
+  {
+    "id": 42,
+    "question_zh": "周潤發喺《英雄本色》入面飾演咩角色？",
+    "question_en": "What role does Chow Yun-fat play in \"A Better Tomorrow\"?",
+    "options_zh": [
+      "主角",
+      "配角B",
+      "配角A",
+      "配角C"
+    ],
+    "options_en": [
+      "Main Character",
+      "Supporting B",
+      "Supporting A",
+      "Supporting C"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question_zh": "周潤發喺《英雄本色》入面飾演咩角色？",
+    "question_en": "What role does Chow Yun-fat play in \"A Better Tomorrow\"?",
+    "options_zh": [
+      "配角C",
+      "主角",
+      "配角A",
+      "配角B"
+    ],
+    "options_en": [
+      "Supporting C",
+      "Main Character",
+      "Supporting A",
+      "Supporting B"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 2
+  },
+  {
+    "id": 44,
+    "question_zh": "周潤發喺《英雄本色》入面飾演咩角色？",
+    "question_en": "What role does Chow Yun-fat play in \"A Better Tomorrow\"?",
+    "options_zh": [
+      "配角B",
+      "配角C",
+      "配角A",
+      "主角"
+    ],
+    "options_en": [
+      "Supporting B",
+      "Supporting C",
+      "Supporting A",
+      "Main Character"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 3
+  },
+  {
+    "id": 45,
+    "question_zh": "周潤發喺《英雄本色》入面飾演咩角色？",
+    "question_en": "What role does Chow Yun-fat play in \"A Better Tomorrow\"?",
+    "options_zh": [
+      "配角B",
+      "配角C",
+      "配角A",
+      "主角"
+    ],
+    "options_en": [
+      "Supporting B",
+      "Supporting C",
+      "Supporting A",
+      "Main Character"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question_zh": "《英雄本色》係咩類型嘅電影？",
+    "question_en": "What genre is \"A Better Tomorrow\"?",
+    "options_zh": [
+      "紀錄片",
+      "音樂劇",
+      "動畫",
+      "劇情"
+    ],
+    "options_en": [
+      "Documentary",
+      "Musical",
+      "Animation",
+      "Drama"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 2
+  },
+  {
+    "id": 47,
+    "question_zh": "《英雄本色》係咩類型嘅電影？",
+    "question_en": "What genre is \"A Better Tomorrow\"?",
+    "options_zh": [
+      "音樂劇",
+      "動畫",
+      "劇情",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Musical",
+      "Animation",
+      "Drama",
+      "Documentary"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 3
+  },
+  {
+    "id": 48,
+    "question_zh": "《英雄本色》係咩類型嘅電影？",
+    "question_en": "What genre is \"A Better Tomorrow\"?",
+    "options_zh": [
+      "音樂劇",
+      "劇情",
+      "動畫",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Musical",
+      "Drama",
+      "Animation",
+      "Documentary"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question_zh": "《英雄本色》係咩類型嘅電影？",
+    "question_en": "What genre is \"A Better Tomorrow\"?",
+    "options_zh": [
+      "劇情",
+      "音樂劇",
+      "紀錄片",
+      "動畫"
+    ],
+    "options_en": [
+      "Drama",
+      "Musical",
+      "Documentary",
+      "Animation"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 2
+  },
+  {
+    "id": 50,
+    "question_zh": "《英雄本色》係咩類型嘅電影？",
+    "question_en": "What genre is \"A Better Tomorrow\"?",
+    "options_zh": [
+      "劇情",
+      "動畫",
+      "紀錄片",
+      "音樂劇"
+    ],
+    "options_en": [
+      "Drama",
+      "Animation",
+      "Documentary",
+      "Musical"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 3
+  },
+  {
+    "id": 51,
+    "question_zh": "以下邊部電影係周潤發主演嘅？",
+    "question_en": "Which movie stars Chow Yun-fat?",
+    "options_zh": [
+      "英雄本色",
+      "賭神",
+      "臥虎藏龍",
+      "讓子彈飛"
+    ],
+    "options_en": [
+      "A Better Tomorrow",
+      "Crouching Tiger, Hidden Dragon",
+      "Killer Butterfly",
+      "God of Gamblers"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「英雄本色」。",
+    "explanation_en": "The correct answer is 'A Better Tomorrow'.",
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "question_zh": "以下邊部電影係周潤發主演嘅？",
+    "question_en": "Which movie stars Chow Yun-fat?",
+    "options_zh": [
+      "流星蝴蝶劍",
+      "英雄本色",
+      "讓子彈飛",
+      "賭神"
+    ],
+    "options_en": [
+      "Let the Bullets Fly",
+      "A Better Tomorrow",
+      "God of Gamblers",
+      "Killer Butterfly"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「英雄本色」。",
+    "explanation_en": "The correct answer is 'A Better Tomorrow'.",
+    "difficulty": 2
+  },
+  {
+    "id": 53,
+    "question_zh": "以下邊部電影係周潤發主演嘅？",
+    "question_en": "Which movie stars Chow Yun-fat?",
+    "options_zh": [
+      "流星蝴蝶劍",
+      "臥虎藏龍",
+      "讓子彈飛",
+      "英雄本色"
+    ],
+    "options_en": [
+      "Let the Bullets Fly",
+      "Crouching Tiger, Hidden Dragon",
+      "Killer Butterfly",
+      "A Better Tomorrow"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「英雄本色」。",
+    "explanation_en": "The correct answer is 'A Better Tomorrow'.",
+    "difficulty": 3
+  },
+  {
+    "id": 54,
+    "question_zh": "以下邊部電影係周潤發主演嘅？",
+    "question_en": "Which movie stars Chow Yun-fat?",
+    "options_zh": [
+      "讓子彈飛",
+      "英雄本色",
+      "臥虎藏龍",
+      "流星蝴蝶劍"
+    ],
+    "options_en": [
+      "Killer Butterfly",
+      "A Better Tomorrow",
+      "Crouching Tiger, Hidden Dragon",
+      "Let the Bullets Fly"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「英雄本色」。",
+    "explanation_en": "The correct answer is 'A Better Tomorrow'.",
+    "difficulty": 1
+  },
+  {
+    "id": 55,
+    "question_zh": "以下邊部電影係周潤發主演嘅？",
+    "question_en": "Which movie stars Chow Yun-fat?",
+    "options_zh": [
+      "臥虎藏龍",
+      "讓子彈飛",
+      "流星蝴蝶劍",
+      "英雄本色"
+    ],
+    "options_en": [
+      "God of Gamblers",
+      "Let the Bullets Fly",
+      "Crouching Tiger, Hidden Dragon",
+      "A Better Tomorrow"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「英雄本色」。",
+    "explanation_en": "The correct answer is 'A Better Tomorrow'.",
+    "difficulty": 2
+  },
+  {
+    "id": 56,
+    "question_zh": "《英雄本色》係邊年上映嘅？",
+    "question_en": "What year was \"A Better Tomorrow\" released?",
+    "options_zh": [
+      "1983年",
+      "1986年",
+      "1984年",
+      "1989年"
+    ],
+    "options_en": [
+      "1983",
+      "1986",
+      "1984",
+      "1989"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「1986年」。",
+    "explanation_en": "The correct answer is '1986'.",
+    "difficulty": 3
+  },
+  {
+    "id": 57,
+    "question_zh": "《英雄本色》係邊年上映嘅？",
+    "question_en": "What year was \"A Better Tomorrow\" released?",
+    "options_zh": [
+      "1989年",
+      "1984年",
+      "1988年",
+      "1986年"
+    ],
+    "options_en": [
+      "1989",
+      "1984",
+      "1988",
+      "1986"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1986年」。",
+    "explanation_en": "The correct answer is '1986'.",
+    "difficulty": 1
+  },
+  {
+    "id": 58,
+    "question_zh": "《英雄本色》係邊年上映嘅？",
+    "question_en": "What year was \"A Better Tomorrow\" released?",
+    "options_zh": [
+      "1989年",
+      "1988年",
+      "1983年",
+      "1986年"
+    ],
+    "options_en": [
+      "1989",
+      "1988",
+      "1983",
+      "1986"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1986年」。",
+    "explanation_en": "The correct answer is '1986'.",
+    "difficulty": 2
+  },
+  {
+    "id": 59,
+    "question_zh": "《英雄本色》係邊年上映嘅？",
+    "question_en": "What year was \"A Better Tomorrow\" released?",
+    "options_zh": [
+      "1986年",
+      "1984年",
+      "1983年",
+      "1989年"
+    ],
+    "options_en": [
+      "1986",
+      "1984",
+      "1983",
+      "1989"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「1986年」。",
+    "explanation_en": "The correct answer is '1986'.",
+    "difficulty": 3
+  },
+  {
+    "id": 60,
+    "question_zh": "《英雄本色》係邊年上映嘅？",
+    "question_en": "What year was \"A Better Tomorrow\" released?",
+    "options_zh": [
+      "1986年",
+      "1989年",
+      "1988年",
+      "1983年"
+    ],
+    "options_en": [
+      "1986",
+      "1989",
+      "1988",
+      "1983"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「1986年」。",
+    "explanation_en": "The correct answer is '1986'.",
+    "difficulty": 1
+  },
+  {
+    "id": 61,
+    "question_zh": "《英雄本色》嘅導演係邊個？",
+    "question_en": "Who directed \"A Better Tomorrow\"?",
+    "options_zh": [
+      "王晶",
+      "杜琪峰",
+      "劉偉強",
+      "導演"
+    ],
+    "options_en": [
+      "Wong Jing",
+      "Johnnie To",
+      "Andrew Lau",
+      "Director"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 2
+  },
+  {
+    "id": 62,
+    "question_zh": "《英雄本色》嘅導演係邊個？",
+    "question_en": "Who directed \"A Better Tomorrow\"?",
+    "options_zh": [
+      "導演",
+      "劉偉強",
+      "杜琪峰",
+      "王晶"
+    ],
+    "options_en": [
+      "Director",
+      "Andrew Lau",
+      "Johnnie To",
+      "Wong Jing"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 3
+  },
+  {
+    "id": 63,
+    "question_zh": "《英雄本色》嘅導演係邊個？",
+    "question_en": "Who directed \"A Better Tomorrow\"?",
+    "options_zh": [
+      "王晶",
+      "導演",
+      "杜琪峰",
+      "劉偉強"
+    ],
+    "options_en": [
+      "Wong Jing",
+      "Director",
+      "Johnnie To",
+      "Andrew Lau"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 1
+  },
+  {
+    "id": 64,
+    "question_zh": "《英雄本色》嘅導演係邊個？",
+    "question_en": "Who directed \"A Better Tomorrow\"?",
+    "options_zh": [
+      "劉偉強",
+      "杜琪峰",
+      "導演",
+      "王晶"
+    ],
+    "options_en": [
+      "Andrew Lau",
+      "Johnnie To",
+      "Director",
+      "Wong Jing"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 2
+  },
+  {
+    "id": 65,
+    "question_zh": "《英雄本色》嘅導演係邊個？",
+    "question_en": "Who directed \"A Better Tomorrow\"?",
+    "options_zh": [
+      "杜琪峰",
+      "導演",
+      "劉偉強",
+      "王晶"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Director",
+      "Andrew Lau",
+      "Wong Jing"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 3
+  },
+  {
+    "id": 66,
+    "question_zh": "周潤發喺《英雄本色》入面飾演咩角色？",
+    "question_en": "What role does Chow Yun-fat play in \"A Better Tomorrow\"?",
+    "options_zh": [
+      "配角B",
+      "主角",
+      "配角A",
+      "配角C"
+    ],
+    "options_en": [
+      "Supporting B",
+      "Main Character",
+      "Supporting A",
+      "Supporting C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 1
+  },
+  {
+    "id": 67,
+    "question_zh": "周潤發喺《英雄本色》入面飾演咩角色？",
+    "question_en": "What role does Chow Yun-fat play in \"A Better Tomorrow\"?",
+    "options_zh": [
+      "配角A",
+      "配角B",
+      "配角C",
+      "主角"
+    ],
+    "options_en": [
+      "Supporting A",
+      "Supporting B",
+      "Supporting C",
+      "Main Character"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 2
+  },
+  {
+    "id": 68,
+    "question_zh": "周潤發喺《英雄本色》入面飾演咩角色？",
+    "question_en": "What role does Chow Yun-fat play in \"A Better Tomorrow\"?",
+    "options_zh": [
+      "配角C",
+      "配角B",
+      "主角",
+      "配角A"
+    ],
+    "options_en": [
+      "Supporting C",
+      "Supporting B",
+      "Main Character",
+      "Supporting A"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 3
+  },
+  {
+    "id": 69,
+    "question_zh": "周潤發喺《英雄本色》入面飾演咩角色？",
+    "question_en": "What role does Chow Yun-fat play in \"A Better Tomorrow\"?",
+    "options_zh": [
+      "配角C",
+      "主角",
+      "配角A",
+      "配角B"
+    ],
+    "options_en": [
+      "Supporting C",
+      "Main Character",
+      "Supporting A",
+      "Supporting B"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 1
+  },
+  {
+    "id": 70,
+    "question_zh": "周潤發喺《英雄本色》入面飾演咩角色？",
+    "question_en": "What role does Chow Yun-fat play in \"A Better Tomorrow\"?",
+    "options_zh": [
+      "配角C",
+      "主角",
+      "配角B",
+      "配角A"
+    ],
+    "options_en": [
+      "Supporting C",
+      "Main Character",
+      "Supporting B",
+      "Supporting A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 2
+  },
+  {
+    "id": 71,
+    "question_zh": "《英雄本色》係咩類型嘅電影？",
+    "question_en": "What genre is \"A Better Tomorrow\"?",
+    "options_zh": [
+      "音樂劇",
+      "紀錄片",
+      "動畫",
+      "劇情"
+    ],
+    "options_en": [
+      "Musical",
+      "Documentary",
+      "Animation",
+      "Drama"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 3
+  },
+  {
+    "id": 72,
+    "question_zh": "《英雄本色》係咩類型嘅電影？",
+    "question_en": "What genre is \"A Better Tomorrow\"?",
+    "options_zh": [
+      "劇情",
+      "紀錄片",
+      "音樂劇",
+      "動畫"
+    ],
+    "options_en": [
+      "Drama",
+      "Documentary",
+      "Musical",
+      "Animation"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 1
+  },
+  {
+    "id": 73,
+    "question_zh": "《英雄本色》係咩類型嘅電影？",
+    "question_en": "What genre is \"A Better Tomorrow\"?",
+    "options_zh": [
+      "紀錄片",
+      "劇情",
+      "動畫",
+      "音樂劇"
+    ],
+    "options_en": [
+      "Documentary",
+      "Drama",
+      "Animation",
+      "Musical"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 2
+  },
+  {
+    "id": 74,
+    "question_zh": "《英雄本色》係咩類型嘅電影？",
+    "question_en": "What genre is \"A Better Tomorrow\"?",
+    "options_zh": [
+      "動畫",
+      "音樂劇",
+      "紀錄片",
+      "劇情"
+    ],
+    "options_en": [
+      "Animation",
+      "Musical",
+      "Documentary",
+      "Drama"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 3
+  },
+  {
+    "id": 75,
+    "question_zh": "《英雄本色》係咩類型嘅電影？",
+    "question_en": "What genre is \"A Better Tomorrow\"?",
+    "options_zh": [
+      "動畫",
+      "音樂劇",
+      "劇情",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Animation",
+      "Musical",
+      "Drama",
+      "Documentary"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 1
+  },
+  {
+    "id": 76,
+    "question_zh": "以下邊部電影係周潤發主演嘅？",
+    "question_en": "Which movie stars Chow Yun-fat?",
+    "options_zh": [
+      "讓子彈飛",
+      "流星蝴蝶劍",
+      "賭神",
+      "英雄本色"
+    ],
+    "options_en": [
+      "Crouching Tiger, Hidden Dragon",
+      "Let the Bullets Fly",
+      "Killer Butterfly",
+      "A Better Tomorrow"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「英雄本色」。",
+    "explanation_en": "The correct answer is 'A Better Tomorrow'.",
+    "difficulty": 2
+  },
+  {
+    "id": 77,
+    "question_zh": "以下邊部電影係周潤發主演嘅？",
+    "question_en": "Which movie stars Chow Yun-fat?",
+    "options_zh": [
+      "英雄本色",
+      "讓子彈飛",
+      "流星蝴蝶劍",
+      "臥虎藏龍"
+    ],
+    "options_en": [
+      "A Better Tomorrow",
+      "Killer Butterfly",
+      "God of Gamblers",
+      "Crouching Tiger, Hidden Dragon"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「英雄本色」。",
+    "explanation_en": "The correct answer is 'A Better Tomorrow'.",
+    "difficulty": 3
+  },
+  {
+    "id": 78,
+    "question_zh": "以下邊部電影係周潤發主演嘅？",
+    "question_en": "Which movie stars Chow Yun-fat?",
+    "options_zh": [
+      "英雄本色",
+      "流星蝴蝶劍",
+      "臥虎藏龍",
+      "讓子彈飛"
+    ],
+    "options_en": [
+      "A Better Tomorrow",
+      "Crouching Tiger, Hidden Dragon",
+      "Killer Butterfly",
+      "God of Gamblers"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「英雄本色」。",
+    "explanation_en": "The correct answer is 'A Better Tomorrow'.",
+    "difficulty": 1
+  },
+  {
+    "id": 79,
+    "question_zh": "以下邊部電影係周潤發主演嘅？",
+    "question_en": "Which movie stars Chow Yun-fat?",
+    "options_zh": [
+      "英雄本色",
+      "賭神",
+      "流星蝴蝶劍",
+      "臥虎藏龍"
+    ],
+    "options_en": [
+      "A Better Tomorrow",
+      "Crouching Tiger, Hidden Dragon",
+      "God of Gamblers",
+      "Let the Bullets Fly"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「英雄本色」。",
+    "explanation_en": "The correct answer is 'A Better Tomorrow'.",
+    "difficulty": 2
+  },
+  {
+    "id": 80,
+    "question_zh": "以下邊部電影係周潤發主演嘅？",
+    "question_en": "Which movie stars Chow Yun-fat?",
+    "options_zh": [
+      "賭神",
+      "英雄本色",
+      "流星蝴蝶劍",
+      "臥虎藏龍"
+    ],
+    "options_en": [
+      "Crouching Tiger, Hidden Dragon",
+      "A Better Tomorrow",
+      "Killer Butterfly",
+      "God of Gamblers"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「英雄本色」。",
+    "explanation_en": "The correct answer is 'A Better Tomorrow'.",
+    "difficulty": 3
+  },
+  {
+    "id": 81,
+    "question_zh": "《英雄本色》係邊年上映嘅？",
+    "question_en": "What year was \"A Better Tomorrow\" released?",
+    "options_zh": [
+      "1986年",
+      "1989年",
+      "1988年",
+      "1984年"
+    ],
+    "options_en": [
+      "1986",
+      "1989",
+      "1988",
+      "1984"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「1986年」。",
+    "explanation_en": "The correct answer is '1986'.",
+    "difficulty": 1
+  },
+  {
+    "id": 82,
+    "question_zh": "《英雄本色》係邊年上映嘅？",
+    "question_en": "What year was \"A Better Tomorrow\" released?",
     "options_zh": [
       "1984年",
       "1986年",
-      "1988年",
-      "1991年"
+      "1989年",
+      "1983年"
     ],
     "options_en": [
       "1984",
       "1986",
-      "1988",
-      "1991"
+      "1989",
+      "1983"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「1986年」。",
@@ -42,87 +1722,381 @@
     "difficulty": 2
   },
   {
-    "id": 3,
-    "question_zh": "《英雄本色》入面，周潤發飾演嘅角色叫咩名？",
-    "question_en": "《英雄本色》入面，周潤發飾演嘅角色叫咩名？",
+    "id": 83,
+    "question_zh": "《英雄本色》係邊年上映嘅？",
+    "question_en": "What year was \"A Better Tomorrow\" released?",
+    "options_zh": [
+      "1989年",
+      "1988年",
+      "1983年",
+      "1986年"
+    ],
+    "options_en": [
+      "1989",
+      "1988",
+      "1983",
+      "1986"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1986年」。",
+    "explanation_en": "The correct answer is '1986'.",
+    "difficulty": 3
+  },
+  {
+    "id": 84,
+    "question_zh": "《英雄本色》係邊年上映嘅？",
+    "question_en": "What year was \"A Better Tomorrow\" released?",
+    "options_zh": [
+      "1988年",
+      "1986年",
+      "1983年",
+      "1989年"
+    ],
+    "options_en": [
+      "1988",
+      "1986",
+      "1983",
+      "1989"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「1986年」。",
+    "explanation_en": "The correct answer is '1986'.",
+    "difficulty": 1
+  },
+  {
+    "id": 85,
+    "question_zh": "《英雄本色》係邊年上映嘅？",
+    "question_en": "What year was \"A Better Tomorrow\" released?",
+    "options_zh": [
+      "1988年",
+      "1986年",
+      "1984年",
+      "1983年"
+    ],
+    "options_en": [
+      "1988",
+      "1986",
+      "1984",
+      "1983"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「1986年」。",
+    "explanation_en": "The correct answer is '1986'.",
+    "difficulty": 2
+  },
+  {
+    "id": 86,
+    "question_zh": "《英雄本色》嘅導演係邊個？",
+    "question_en": "Who directed \"A Better Tomorrow\"?",
+    "options_zh": [
+      "杜琪峰",
+      "王晶",
+      "導演",
+      "劉偉強"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Wong Jing",
+      "Director",
+      "Andrew Lau"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 3
+  },
+  {
+    "id": 87,
+    "question_zh": "《英雄本色》嘅導演係邊個？",
+    "question_en": "Who directed \"A Better Tomorrow\"?",
+    "options_zh": [
+      "導演",
+      "杜琪峰",
+      "劉偉強",
+      "王晶"
+    ],
+    "options_en": [
+      "Director",
+      "Johnnie To",
+      "Andrew Lau",
+      "Wong Jing"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 1
+  },
+  {
+    "id": 88,
+    "question_zh": "《英雄本色》嘅導演係邊個？",
+    "question_en": "Who directed \"A Better Tomorrow\"?",
+    "options_zh": [
+      "導演",
+      "王晶",
+      "劉偉強",
+      "杜琪峰"
+    ],
+    "options_en": [
+      "Director",
+      "Wong Jing",
+      "Andrew Lau",
+      "Johnnie To"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 2
+  },
+  {
+    "id": 89,
+    "question_zh": "《英雄本色》嘅導演係邊個？",
+    "question_en": "Who directed \"A Better Tomorrow\"?",
+    "options_zh": [
+      "王晶",
+      "杜琪峰",
+      "導演",
+      "劉偉強"
+    ],
+    "options_en": [
+      "Wong Jing",
+      "Johnnie To",
+      "Director",
+      "Andrew Lau"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 3
+  },
+  {
+    "id": 90,
+    "question_zh": "《英雄本色》嘅導演係邊個？",
+    "question_en": "Who directed \"A Better Tomorrow\"?",
+    "options_zh": [
+      "劉偉強",
+      "杜琪峰",
+      "王晶",
+      "導演"
+    ],
+    "options_en": [
+      "Andrew Lau",
+      "Johnnie To",
+      "Wong Jing",
+      "Director"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「導演」。",
+    "explanation_en": "The correct answer is 'Director'.",
+    "difficulty": 1
+  },
+  {
+    "id": 91,
+    "question_zh": "周潤發喺《英雄本色》入面飾演咩角色？",
+    "question_en": "What role does Chow Yun-fat play in \"A Better Tomorrow\"?",
+    "options_zh": [
+      "配角B",
+      "主角",
+      "配角A",
+      "配角C"
+    ],
+    "options_en": [
+      "Supporting B",
+      "Main Character",
+      "Supporting A",
+      "Supporting C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 2
+  },
+  {
+    "id": 92,
+    "question_zh": "周潤發喺《英雄本色》入面飾演咩角色？",
+    "question_en": "What role does Chow Yun-fat play in \"A Better Tomorrow\"?",
+    "options_zh": [
+      "配角B",
+      "主角",
+      "配角A",
+      "配角C"
+    ],
+    "options_en": [
+      "Supporting B",
+      "Main Character",
+      "Supporting A",
+      "Supporting C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 3
+  },
+  {
+    "id": 93,
+    "question_zh": "周潤發喺《英雄本色》入面飾演咩角色？",
+    "question_en": "What role does Chow Yun-fat play in \"A Better Tomorrow\"?",
+    "options_zh": [
+      "主角",
+      "配角B",
+      "配角A",
+      "配角C"
+    ],
+    "options_en": [
+      "Main Character",
+      "Supporting B",
+      "Supporting A",
+      "Supporting C"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 1
+  },
+  {
+    "id": 94,
+    "question_zh": "周潤發喺《英雄本色》入面飾演咩角色？",
+    "question_en": "What role does Chow Yun-fat play in \"A Better Tomorrow\"?",
+    "options_zh": [
+      "配角C",
+      "配角B",
+      "主角",
+      "配角A"
+    ],
+    "options_en": [
+      "Supporting C",
+      "Supporting B",
+      "Main Character",
+      "Supporting A"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 2
+  },
+  {
+    "id": 95,
+    "question_zh": "周潤發喺《英雄本色》入面飾演咩角色？",
+    "question_en": "What role does Chow Yun-fat play in \"A Better Tomorrow\"?",
     "options_zh": [
       "配角A",
-      "小馬哥",
+      "主角",
       "配角B",
       "配角C"
     ],
     "options_en": [
       "Supporting A",
-      "Mark Lee",
+      "Main Character",
       "Supporting B",
       "Supporting C"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「小馬哥」。",
-    "explanation_en": "The correct answer is 'Mark Lee'.",
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
     "difficulty": 3
   },
   {
-    "id": 4,
-    "question_zh": "《英雄本色》嘅導演係邊個？",
-    "question_en": "《英雄本色》嘅導演係邊個？",
+    "id": 96,
+    "question_zh": "《英雄本色》係咩類型嘅電影？",
+    "question_en": "What genre is \"A Better Tomorrow\"?",
     "options_zh": [
-      "吳宇森",
-      "導演B",
-      "導演D",
-      "導演C"
+      "劇情",
+      "動畫",
+      "音樂劇",
+      "紀錄片"
     ],
     "options_en": [
-      "John Woo",
-      "Director B",
-      "Director D",
-      "Director C"
+      "Drama",
+      "Animation",
+      "Musical",
+      "Documentary"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「吳宇森」。",
-    "explanation_en": "The correct answer is 'John Woo'.",
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
     "difficulty": 1
   },
   {
-    "id": 5,
-    "question_zh": "《英雄本色》嘅故事主要講咩？",
-    "question_en": "《英雄本色》嘅故事主要講咩？",
+    "id": 97,
+    "question_zh": "《英雄本色》係咩類型嘅電影？",
+    "question_en": "What genre is \"A Better Tomorrow\"?",
     "options_zh": [
-      "浪漫喜劇",
-      "恐怖驚慄",
-      "科幻冒險",
-      "兄弟情義同黑社會"
+      "紀錄片",
+      "劇情",
+      "音樂劇",
+      "動畫"
     ],
     "options_en": [
-      "Romantic comedy",
-      "Horror thriller",
-      "Sci-fi adventure",
-      "Brotherhood and triad society"
+      "Documentary",
+      "Drama",
+      "Musical",
+      "Animation"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「兄弟情義同黑社會」。",
-    "explanation_en": "The correct answer is 'Brotherhood and triad society'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
     "difficulty": 2
   },
   {
-    "id": 6,
+    "id": 98,
     "question_zh": "《英雄本色》係咩類型嘅電影？",
-    "question_en": "《英雄本色》係咩類型嘅電影？",
+    "question_en": "What genre is \"A Better Tomorrow\"?",
     "options_zh": [
-      "動作/犯罪",
+      "音樂劇",
+      "劇情",
       "紀錄片",
+      "動畫"
+    ],
+    "options_en": [
+      "Musical",
+      "Drama",
+      "Documentary",
+      "Animation"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 3
+  },
+  {
+    "id": 99,
+    "question_zh": "《英雄本色》係咩類型嘅電影？",
+    "question_en": "What genre is \"A Better Tomorrow\"?",
+    "options_zh": [
+      "劇情",
+      "音樂劇",
+      "動畫",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Drama",
+      "Musical",
+      "Animation",
+      "Documentary"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 1
+  },
+  {
+    "id": 100,
+    "question_zh": "《英雄本色》係咩類型嘅電影？",
+    "question_en": "What genre is \"A Better Tomorrow\"?",
+    "options_zh": [
+      "紀錄片",
+      "劇情",
       "動畫",
       "音樂劇"
     ],
     "options_en": [
-      "Action/Crime",
       "Documentary",
+      "Drama",
       "Animation",
       "Musical"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「動作/犯罪」。",
-    "explanation_en": "The correct answer is 'Action/Crime'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 2
   }
 ]
