@@ -122,7 +122,20 @@ chow_yun_fat:{zh:'🔫 周潤發系列',en:'🔫 Chow Yun-fat',color:'#8e44ad'},
 sean_lau:{zh:'🎭 劉青雲系列',en:'🎭 Sean Lau',color:'#16a085'},
 tony_leung_ka_fai:{zh:'🎪 梁家輝系列',en:'🎪 Tony Leung Ka-fai',color:'#d35400'},
 nick_cheung:{zh:'🏆 張家輝系列',en:'🏆 Nick Cheung',color:'#c0392b'},
-actresses:{zh:'👩‍🎤 著名女演員',en:'👩‍🎤 Famous Actresses',color:'#e91e63'}
+sammi_cheng:{zh:'💃 鄭秀文',en:'💃 Sammi Cheng',color:'#e91e63'},
+miriam_yeung:{zh:'🌸 楊千嬅',en:'🌸 Miriam Yeung',color:'#ff69b4'},
+charlene_choi:{zh:'🎀 蔡卓妍',en:'🎀 Charlene Choi',color:'#ff1493'},
+gigi_leung:{zh:'🎵 梁詠琪',en:'🎵 Gigi Leung',color:'#db7093'},
+anita_yuen:{zh:'🌹 袁詠儀',en:'🌹 Anita Yuen',color:'#c71585'},
+anita_mui:{zh:'🎤 梅艷芳',en:'🎤 Anita Mui',color:'#9c27b0'},
+maggie_cheung:{zh:'🏆 張曼玉',en:'🏆 Maggie Cheung',color:'#673ab7'},
+kara_hui:{zh:'🎭 惠英紅',en:'🎭 Kara Hui',color:'#3f51b5'},
+carina_lau:{zh:'💃 劉嘉玲',en:'💃 Carina Lau',color:'#2196f3'},
+jennifer_yu:{zh:'🌟 余香凝',en:'🌟 Jennifer Yu',color:'#00bcd4'},
+stephy_tang:{zh:'🎀 鄧麗欣',en:'🎀 Stephy Tang',color:'#009688'},
+cherry_ngan:{zh:'🌸 顏卓靈',en:'🌸 Cherry Ngan',color:'#4caf50'},
+ceci_so:{zh:'🎵 蔡思韻',en:'🎵 Ceci So',color:'#8bc34a'},
+michelle_wai:{zh:'✨ 衛詩雅',en:'✨ Michelle Wai',color:'#ff9800'}
 };
 
 async function init(){
@@ -130,8 +143,17 @@ const grid=document.getElementById('seriesGrid');
 grid.innerHTML='';
 for(const[sid,sinfo]of Object.entries(SERIES)){
 try{
+// Try loading from subdirectory first, then individual file
+let films;
+try{
 const resp=await fetch('topics/'+sid+'/index.json');
-const films=await resp.json();
+films=await resp.json();
+}catch(e){
+// If subdirectory doesn't exist, load individual JSON
+const resp=await fetch('topics/'+sid+'.json');
+const data=await resp.json();
+films=[{id:sid,name_zh:sinfo.zh.substring(2),name_en:sinfo.en.substring(2),emoji:sinfo.zh.split(' ')[0],file:sid+'.json',count:data.length}];
+}
 seriesData[sid]=films;
 const card=document.createElement('div');
 card.className='tc';
@@ -164,8 +186,15 @@ document.getElementById('resultView').classList.add('h');
 async function startQuiz(sid,file){
 currentFilm=file;
 try{
+// Try loading from subdirectory first, then individual file
+try{
 const resp=await fetch('topics/'+sid+'/'+file);
 questions=await resp.json();
+}catch(e){
+// If subdirectory doesn't exist, load individual JSON
+const resp=await fetch('topics/'+sid+'.json');
+questions=await resp.json();
+}
 }catch(e){alert('載入失敗');return}
 document.getElementById('totalQ').textContent=questions.length;
 shuffle(questions);
