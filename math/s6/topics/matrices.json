@@ -3,16 +3,16 @@
     "question_zh": "求矩陣 [[4,1],[5,1]] 的行列式。",
     "question_en": "Find the determinant of [[4,1],[5,1]].",
     "options_zh": [
+      "5 (備選)",
       "5",
-      "0",
       "-1",
-      "5 (備選)"
+      "0"
     ],
     "options_en": [
+      "5 (alt)",
       "5",
-      "0",
       "-1",
-      "5 (alt)"
+      "0"
     ],
     "answer": 2,
     "explanation_zh": "det = (4)(1) - (1)(5) = 4 - 5 = -1",
@@ -31,18 +31,18 @@
     "question_zh": "矩陣 [[4,5],[3,1]] 的跡(trace)是：",
     "question_en": "The trace of [[4,5],[3,1]] is:",
     "options_zh": [
-      "5",
-      "13",
+      "4",
       "-11",
-      "4"
+      "13",
+      "5"
     ],
     "options_en": [
-      "5",
-      "13",
+      "4",
       "-11",
-      "4"
+      "13",
+      "5"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 1 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 1 = 5",
     "difficulty": 1,
@@ -59,18 +59,18 @@
     "question_zh": "求矩陣 [[2,5],[3,3]] 的行列式。",
     "question_en": "Find the determinant of [[2,5],[3,3]].",
     "options_zh": [
-      "15",
-      "5",
+      "-9",
       "-8",
-      "-9"
+      "5",
+      "15"
     ],
     "options_en": [
-      "15",
-      "5",
+      "-9",
       "-8",
-      "-9"
+      "5",
+      "15"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "det = (2)(3) - (5)(3) = 6 - 15 = -9",
     "explanation_en": "det = (2)(3) - (5)(3) = 6 - 15 = -9",
     "difficulty": 1,
@@ -117,14 +117,14 @@
     "options_zh": [
       "-5",
       "-4",
-      "10",
-      "6"
+      "6",
+      "10"
     ],
     "options_en": [
       "-5",
       "-4",
-      "10",
-      "6"
+      "6",
+      "10"
     ],
     "answer": 0,
     "explanation_zh": "det = (1)(5) - (2)(5) = 5 - 10 = -5",
@@ -143,18 +143,18 @@
     "question_zh": "矩陣 [[2,5],[3,5]] 的跡(trace)是：",
     "question_en": "The trace of [[2,5],[3,5]] is:",
     "options_zh": [
-      "10",
       "15",
       "7",
-      "-5"
+      "-5",
+      "10"
     ],
     "options_en": [
-      "10",
       "15",
       "7",
-      "-5"
+      "-5",
+      "10"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 5 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 5 = 7",
     "difficulty": 1,
@@ -171,18 +171,18 @@
     "question_zh": "求矩陣 [[4,4],[1,3]] 的行列式。",
     "question_en": "Find the determinant of [[4,4],[1,3]].",
     "options_zh": [
+      "4",
       "9",
-      "8",
       "7",
-      "4"
+      "8"
     ],
     "options_en": [
+      "4",
       "9",
-      "8",
       "7",
-      "4"
+      "8"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "det = (4)(3) - (4)(1) = 12 - 4 = 8",
     "explanation_en": "det = (4)(3) - (4)(1) = 12 - 4 = 8",
     "difficulty": 1,
@@ -200,17 +200,17 @@
     "question_en": "The trace of [[5,4],[2,4]] is:",
     "options_zh": [
       "12",
-      "9",
+      "20",
       "15",
-      "20"
+      "9"
     ],
     "options_en": [
       "12",
-      "9",
+      "20",
       "15",
-      "20"
+      "9"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 4 = 9",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 4 = 9",
     "difficulty": 1,
@@ -228,17 +228,17 @@
     "question_en": "Find the determinant of [[5,2],[4,5]].",
     "options_zh": [
       "8",
-      "18",
       "17",
+      "18",
       "10"
     ],
     "options_en": [
       "8",
-      "18",
       "17",
+      "18",
       "10"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "det = (5)(5) - (2)(4) = 25 - 8 = 17",
     "explanation_en": "det = (5)(5) - (2)(4) = 25 - 8 = 17",
     "difficulty": 1,
@@ -255,18 +255,18 @@
     "question_zh": "矩陣 [[1,1],[4,2]] 的跡(trace)是：",
     "question_en": "The trace of [[1,1],[4,2]] is:",
     "options_zh": [
-      "8",
-      "2",
       "-2",
-      "3"
+      "2",
+      "3",
+      "8"
     ],
     "options_en": [
-      "8",
-      "2",
       "-2",
-      "3"
+      "2",
+      "3",
+      "8"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 2 = 3",
     "explanation_en": "Trace = sum of diagonal elements = 1 + 2 = 3",
     "difficulty": 1,
@@ -283,18 +283,18 @@
     "question_zh": "求矩陣 [[2,1],[5,3]] 的行列式。",
     "question_en": "Find the determinant of [[2,1],[5,3]].",
     "options_zh": [
-      "1",
-      "2",
       "5 (備選)",
-      "5"
+      "2",
+      "5",
+      "1"
     ],
     "options_en": [
-      "1",
-      "2",
       "5 (alt)",
-      "5"
+      "2",
+      "5",
+      "1"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "det = (2)(3) - (1)(5) = 6 - 5 = 1",
     "explanation_en": "det = (2)(3) - (1)(5) = 6 - 5 = 1",
     "difficulty": 1,
@@ -311,18 +311,18 @@
     "question_zh": "矩陣 [[2,2],[4,5]] 的跡(trace)是：",
     "question_en": "The trace of [[2,2],[4,5]] is:",
     "options_zh": [
-      "2",
-      "13",
       "7",
-      "10"
+      "10",
+      "13",
+      "2"
     ],
     "options_en": [
-      "2",
-      "13",
       "7",
-      "10"
+      "10",
+      "13",
+      "2"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 5 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 5 = 7",
     "difficulty": 1,
@@ -339,18 +339,18 @@
     "question_zh": "求矩陣 [[4,3],[2,4]] 的行列式。",
     "question_en": "Find the determinant of [[4,3],[2,4]].",
     "options_zh": [
-      "6",
-      "8",
       "11",
-      "10"
+      "6",
+      "10",
+      "8"
     ],
     "options_en": [
-      "6",
-      "8",
       "11",
-      "10"
+      "6",
+      "10",
+      "8"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "det = (4)(4) - (3)(2) = 16 - 6 = 10",
     "explanation_en": "det = (4)(4) - (3)(2) = 16 - 6 = 10",
     "difficulty": 1,
@@ -368,15 +368,15 @@
     "question_en": "The trace of [[5,3],[3,3]] is:",
     "options_zh": [
       "8",
-      "14",
       "6",
-      "15"
+      "15",
+      "14"
     ],
     "options_en": [
       "8",
-      "14",
       "6",
-      "15"
+      "15",
+      "14"
     ],
     "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 3 = 8",
@@ -395,18 +395,18 @@
     "question_zh": "求矩陣 [[1,3],[5,5]] 的行列式。",
     "question_en": "Find the determinant of [[1,3],[5,5]].",
     "options_zh": [
-      "15",
       "6",
-      "-10",
-      "-9"
+      "15",
+      "-9",
+      "-10"
     ],
     "options_en": [
-      "15",
       "6",
-      "-10",
-      "-9"
+      "15",
+      "-9",
+      "-10"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "det = (1)(5) - (3)(5) = 5 - 15 = -10",
     "explanation_en": "det = (1)(5) - (3)(5) = 5 - 15 = -10",
     "difficulty": 1,
@@ -423,18 +423,18 @@
     "question_zh": "矩陣 [[5,4],[2,4]] 的跡(trace)是： (變體1)",
     "question_en": "The trace of [[5,4],[2,4]] is: (v1)",
     "options_zh": [
-      "20",
       "9",
       "15",
+      "20",
       "12"
     ],
     "options_en": [
-      "20",
       "9",
       "15",
+      "20",
       "12"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 4 = 9",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 4 = 9",
     "difficulty": 1,
@@ -453,16 +453,16 @@
     "options_zh": [
       "8",
       "5",
-      "12",
-      "4"
+      "4",
+      "12"
     ],
     "options_en": [
       "8",
       "5",
-      "12",
-      "4"
+      "4",
+      "12"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "det = (4)(4) - (4)(3) = 16 - 12 = 4",
     "explanation_en": "det = (4)(4) - (4)(3) = 16 - 12 = 4",
     "difficulty": 1,
@@ -479,18 +479,18 @@
     "question_zh": "矩陣 [[2,2],[4,3]] 的跡(trace)是：",
     "question_en": "The trace of [[2,2],[4,3]] is:",
     "options_zh": [
-      "-2",
-      "11",
       "6",
-      "5"
+      "5",
+      "11",
+      "-2"
     ],
     "options_en": [
-      "-2",
-      "11",
       "6",
-      "5"
+      "5",
+      "11",
+      "-2"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 3 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 3 = 5",
     "difficulty": 1,
@@ -507,18 +507,18 @@
     "question_zh": "求矩陣 [[1,5],[3,4]] 的行列式。",
     "question_en": "Find the determinant of [[1,5],[3,4]].",
     "options_zh": [
-      "-11",
+      "15",
       "-10",
       "5",
-      "15"
+      "-11"
     ],
     "options_en": [
-      "-11",
+      "15",
       "-10",
       "5",
-      "15"
+      "-11"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "det = (1)(4) - (5)(3) = 4 - 15 = -11",
     "explanation_en": "det = (1)(4) - (5)(3) = 4 - 15 = -11",
     "difficulty": 1,
@@ -535,16 +535,16 @@
     "question_zh": "矩陣 [[2,1],[4,5]] 的跡(trace)是：",
     "question_en": "The trace of [[2,1],[4,5]] is:",
     "options_zh": [
-      "10",
       "6",
+      "12",
       "7",
-      "12"
+      "10"
     ],
     "options_en": [
-      "10",
       "6",
+      "12",
       "7",
-      "12"
+      "10"
     ],
     "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 5 = 7",
@@ -563,15 +563,15 @@
     "question_zh": "求矩陣 [[4,4],[4,2]] 的行列式。",
     "question_en": "Find the determinant of [[4,4],[4,2]].",
     "options_zh": [
+      "-7",
       "16",
       "6",
-      "-7",
       "-8"
     ],
     "options_en": [
+      "-7",
       "16",
       "6",
-      "-7",
       "-8"
     ],
     "answer": 3,
@@ -591,18 +591,18 @@
     "question_zh": "矩陣 [[1,5],[2,2]] 的跡(trace)是：",
     "question_en": "The trace of [[1,5],[2,2]] is:",
     "options_zh": [
-      "2",
       "3",
-      "-8",
-      "10"
+      "2",
+      "10",
+      "-8"
     ],
     "options_en": [
-      "2",
       "3",
-      "-8",
-      "10"
+      "2",
+      "10",
+      "-8"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 2 = 3",
     "explanation_en": "Trace = sum of diagonal elements = 1 + 2 = 3",
     "difficulty": 1,
@@ -619,18 +619,18 @@
     "question_zh": "求矩陣 [[5,5],[5,1]] 的行列式。",
     "question_en": "Find the determinant of [[5,5],[5,1]].",
     "options_zh": [
-      "-20",
-      "-19",
+      "6",
       "25",
-      "6"
+      "-20",
+      "-19"
     ],
     "options_en": [
-      "-20",
-      "-19",
+      "6",
       "25",
-      "6"
+      "-20",
+      "-19"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "det = (5)(1) - (5)(5) = 5 - 25 = -20",
     "explanation_en": "det = (5)(1) - (5)(5) = 5 - 25 = -20",
     "difficulty": 1,
@@ -647,18 +647,18 @@
     "question_zh": "矩陣 [[5,5],[4,1]] 的跡(trace)是：",
     "question_en": "The trace of [[5,5],[4,1]] is:",
     "options_zh": [
-      "-15",
+      "6",
       "5",
       "15",
-      "6"
+      "-15"
     ],
     "options_en": [
-      "-15",
+      "6",
       "5",
       "15",
-      "6"
+      "-15"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 1 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 1 = 6",
     "difficulty": 1,
@@ -675,18 +675,18 @@
     "question_zh": "求矩陣 [[3,5],[2,2]] 的行列式。",
     "question_en": "Find the determinant of [[3,5],[2,2]].",
     "options_zh": [
-      "10",
-      "5",
       "-4",
+      "5",
+      "10",
       "-3"
     ],
     "options_en": [
-      "10",
-      "5",
       "-4",
+      "5",
+      "10",
       "-3"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "det = (3)(2) - (5)(2) = 6 - 10 = -4",
     "explanation_en": "det = (3)(2) - (5)(2) = 6 - 10 = -4",
     "difficulty": 1,
@@ -703,18 +703,18 @@
     "question_zh": "矩陣 [[5,4],[1,3]] 的跡(trace)是：",
     "question_en": "The trace of [[5,4],[1,3]] is:",
     "options_zh": [
+      "8",
       "13",
       "15",
-      "8",
       "11"
     ],
     "options_en": [
+      "8",
       "13",
       "15",
-      "8",
       "11"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 3 = 8",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 3 = 8",
     "difficulty": 1,
@@ -731,18 +731,18 @@
     "question_zh": "求矩陣 [[1,5],[4,5]] 的行列式。",
     "question_en": "Find the determinant of [[1,5],[4,5]].",
     "options_zh": [
-      "6",
       "20",
-      "-14",
-      "-15"
+      "6",
+      "-15",
+      "-14"
     ],
     "options_en": [
-      "6",
       "20",
-      "-14",
-      "-15"
+      "6",
+      "-15",
+      "-14"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "det = (1)(5) - (5)(4) = 5 - 20 = -15",
     "explanation_en": "det = (1)(5) - (5)(4) = 5 - 20 = -15",
     "difficulty": 1,
@@ -759,18 +759,18 @@
     "question_zh": "矩陣 [[5,2],[2,4]] 的跡(trace)是：",
     "question_en": "The trace of [[5,2],[2,4]] is:",
     "options_zh": [
-      "16",
-      "9",
       "13",
-      "20"
+      "16",
+      "20",
+      "9"
     ],
     "options_en": [
-      "16",
-      "9",
       "13",
-      "20"
+      "16",
+      "20",
+      "9"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 4 = 9",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 4 = 9",
     "difficulty": 1,
@@ -787,18 +787,18 @@
     "question_zh": "求矩陣 [[3,2],[2,4]] 的行列式。",
     "question_en": "Find the determinant of [[3,2],[2,4]].",
     "options_zh": [
-      "8",
-      "4",
+      "9",
       "7",
-      "9"
+      "8",
+      "4"
     ],
     "options_en": [
-      "8",
-      "4",
+      "9",
       "7",
-      "9"
+      "8",
+      "4"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "det = (3)(4) - (2)(2) = 12 - 4 = 8",
     "explanation_en": "det = (3)(4) - (2)(2) = 12 - 4 = 8",
     "difficulty": 1,
@@ -815,18 +815,18 @@
     "question_zh": "矩陣 [[2,3],[2,3]] 的跡(trace)是：",
     "question_en": "The trace of [[2,3],[2,3]] is:",
     "options_zh": [
-      "0",
-      "10",
       "5",
+      "10",
+      "0",
       "6"
     ],
     "options_en": [
-      "0",
-      "10",
       "5",
+      "10",
+      "0",
       "6"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 3 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 3 = 5",
     "difficulty": 1,
@@ -843,18 +843,18 @@
     "question_zh": "求矩陣 [[1,1],[2,5]] 的行列式。",
     "question_en": "Find the determinant of [[1,1],[2,5]].",
     "options_zh": [
-      "4",
       "2",
-      "3",
-      "6"
+      "4",
+      "6",
+      "3"
     ],
     "options_en": [
-      "4",
       "2",
-      "3",
-      "6"
+      "4",
+      "6",
+      "3"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "det = (1)(5) - (1)(2) = 5 - 2 = 3",
     "explanation_en": "det = (1)(5) - (1)(2) = 5 - 2 = 3",
     "difficulty": 1,
@@ -871,18 +871,18 @@
     "question_zh": "矩陣 [[4,4],[2,5]] 的跡(trace)是：",
     "question_en": "The trace of [[4,4],[2,5]] is:",
     "options_zh": [
-      "20",
-      "12",
       "9",
-      "15"
+      "12",
+      "15",
+      "20"
     ],
     "options_en": [
-      "20",
-      "12",
       "9",
-      "15"
+      "12",
+      "15",
+      "20"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 5 = 9",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 5 = 9",
     "difficulty": 1,
@@ -901,16 +901,16 @@
     "options_zh": [
       "4",
       "8",
-      "13",
-      "12"
+      "12",
+      "13"
     ],
     "options_en": [
       "4",
       "8",
-      "13",
-      "12"
+      "12",
+      "13"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "det = (4)(4) - (2)(2) = 16 - 4 = 12",
     "explanation_en": "det = (4)(4) - (2)(2) = 16 - 4 = 12",
     "difficulty": 1,
@@ -927,18 +927,18 @@
     "question_zh": "矩陣 [[5,1],[5,3]] 的跡(trace)是：",
     "question_en": "The trace of [[5,1],[5,3]] is:",
     "options_zh": [
-      "10",
-      "14",
       "15",
-      "8"
+      "8",
+      "10",
+      "14"
     ],
     "options_en": [
-      "10",
-      "14",
       "15",
-      "8"
+      "8",
+      "10",
+      "14"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 3 = 8",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 3 = 8",
     "difficulty": 1,
@@ -957,16 +957,16 @@
     "options_zh": [
       "-5",
       "8",
-      "3",
-      "-6"
+      "-6",
+      "3"
     ],
     "options_en": [
       "-5",
       "8",
-      "3",
-      "-6"
+      "-6",
+      "3"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "det = (2)(1) - (2)(4) = 2 - 8 = -6",
     "explanation_en": "det = (2)(1) - (2)(4) = 2 - 8 = -6",
     "difficulty": 1,
@@ -983,18 +983,18 @@
     "question_zh": "矩陣 [[1,1],[4,5]] 的跡(trace)是：",
     "question_en": "The trace of [[1,1],[4,5]] is:",
     "options_zh": [
-      "6",
       "11",
       "5",
+      "6",
       "1"
     ],
     "options_en": [
-      "6",
       "11",
       "5",
+      "6",
       "1"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 5 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 1 + 5 = 6",
     "difficulty": 1,
@@ -1012,17 +1012,17 @@
     "question_en": "Find the determinant of [[4,4],[1,4]].",
     "options_zh": [
       "13",
-      "12",
       "8",
-      "4"
+      "4",
+      "12"
     ],
     "options_en": [
       "13",
-      "12",
       "8",
-      "4"
+      "4",
+      "12"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "det = (4)(4) - (4)(1) = 16 - 4 = 12",
     "explanation_en": "det = (4)(4) - (4)(1) = 16 - 4 = 12",
     "difficulty": 1,
@@ -1039,18 +1039,18 @@
     "question_zh": "矩陣 [[3,5],[1,5]] 的跡(trace)是：",
     "question_en": "The trace of [[3,5],[1,5]] is:",
     "options_zh": [
-      "15",
-      "14",
       "8",
-      "10"
+      "10",
+      "15",
+      "14"
     ],
     "options_en": [
-      "15",
-      "14",
       "8",
-      "10"
+      "10",
+      "15",
+      "14"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 5 = 8",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 5 = 8",
     "difficulty": 1,
@@ -1069,14 +1069,14 @@
     "options_zh": [
       "16",
       "9",
-      "17",
-      "4"
+      "4",
+      "17"
     ],
     "options_en": [
       "16",
       "9",
-      "17",
-      "4"
+      "4",
+      "17"
     ],
     "answer": 0,
     "explanation_zh": "det = (5)(4) - (1)(4) = 20 - 4 = 16",
@@ -1095,18 +1095,18 @@
     "question_zh": "矩陣 [[1,3],[4,1]] 的跡(trace)是：",
     "question_en": "The trace of [[1,3],[4,1]] is:",
     "options_zh": [
+      "1",
       "2",
-      "9",
       "-11",
-      "1"
+      "9"
     ],
     "options_en": [
+      "1",
       "2",
-      "9",
       "-11",
-      "1"
+      "9"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 1 = 2",
     "explanation_en": "Trace = sum of diagonal elements = 1 + 1 = 2",
     "difficulty": 1,
@@ -1123,18 +1123,18 @@
     "question_zh": "求矩陣 [[3,4],[5,4]] 的行列式。",
     "question_en": "Find the determinant of [[3,4],[5,4]].",
     "options_zh": [
-      "20",
-      "-7",
       "7",
-      "-8"
+      "-8",
+      "20",
+      "-7"
     ],
     "options_en": [
-      "20",
-      "-7",
       "7",
-      "-8"
+      "-8",
+      "20",
+      "-7"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "det = (3)(4) - (4)(5) = 12 - 20 = -8",
     "explanation_en": "det = (3)(4) - (4)(5) = 12 - 20 = -8",
     "difficulty": 1,
@@ -1151,18 +1151,18 @@
     "question_zh": "矩陣 [[4,1],[1,2]] 的跡(trace)是：",
     "question_en": "The trace of [[4,1],[1,2]] is:",
     "options_zh": [
-      "8",
       "6",
       "8 (備選)",
-      "7"
+      "7",
+      "8"
     ],
     "options_en": [
-      "8",
       "6",
       "8 (alt)",
-      "7"
+      "7",
+      "8"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 2 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 2 = 6",
     "difficulty": 1,
@@ -1179,18 +1179,18 @@
     "question_zh": "求矩陣 [[3,5],[1,2]] 的行列式。",
     "question_en": "Find the determinant of [[3,5],[1,2]].",
     "options_zh": [
-      "5",
       "5 (備選)",
-      "1",
-      "2"
+      "2",
+      "5",
+      "1"
     ],
     "options_en": [
-      "5",
       "5 (alt)",
-      "1",
-      "2"
+      "2",
+      "5",
+      "1"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "det = (3)(2) - (5)(1) = 6 - 5 = 1",
     "explanation_en": "det = (3)(2) - (5)(1) = 6 - 5 = 1",
     "difficulty": 1,
@@ -1207,18 +1207,18 @@
     "question_zh": "矩陣 [[3,4],[3,2]] 的跡(trace)是：",
     "question_en": "The trace of [[3,4],[3,2]] is:",
     "options_zh": [
+      "5",
       "-6",
-      "12",
       "6",
-      "5"
+      "12"
     ],
     "options_en": [
+      "5",
       "-6",
-      "12",
       "6",
-      "5"
+      "12"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 2 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 2 = 5",
     "difficulty": 1,
@@ -1236,14 +1236,14 @@
     "question_en": "Find the determinant of [[2,4],[2,3]].",
     "options_zh": [
       "-2",
-      "5",
       "8",
+      "5",
       "-1"
     ],
     "options_en": [
       "-2",
-      "5",
       "8",
+      "5",
       "-1"
     ],
     "answer": 0,
@@ -1263,18 +1263,18 @@
     "question_zh": "矩陣 [[1,3],[1,4]] 的跡(trace)是：",
     "question_en": "The trace of [[1,3],[1,4]] is:",
     "options_zh": [
-      "5",
+      "1",
       "4",
       "9",
-      "1"
+      "5"
     ],
     "options_en": [
-      "5",
+      "1",
       "4",
       "9",
-      "1"
+      "5"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 4 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 1 + 4 = 5",
     "difficulty": 1,
@@ -1291,18 +1291,18 @@
     "question_zh": "求矩陣 [[4,2],[3,3]] 的行列式。",
     "question_en": "Find the determinant of [[4,2],[3,3]].",
     "options_zh": [
+      "7",
       "6 (備選)",
-      "6",
       "7 (備選)",
-      "7"
+      "6"
     ],
     "options_en": [
+      "7",
       "6 (alt)",
-      "6",
       "7 (alt)",
-      "7"
+      "6"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "det = (4)(3) - (2)(3) = 12 - 6 = 6",
     "explanation_en": "det = (4)(3) - (2)(3) = 12 - 6 = 6",
     "difficulty": 1,
@@ -1319,18 +1319,18 @@
     "question_zh": "矩陣 [[3,4],[3,4]] 的跡(trace)是：",
     "question_en": "The trace of [[3,4],[3,4]] is:",
     "options_zh": [
-      "0",
-      "12",
       "7",
-      "14"
+      "14",
+      "12",
+      "0"
     ],
     "options_en": [
-      "0",
-      "12",
       "7",
-      "14"
+      "14",
+      "12",
+      "0"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 4 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 4 = 7",
     "difficulty": 1,
@@ -1347,18 +1347,18 @@
     "question_zh": "求矩陣 [[3,5],[3,5]] 的行列式。",
     "question_en": "Find the determinant of [[3,5],[3,5]].",
     "options_zh": [
-      "0",
       "1",
+      "8",
       "15",
-      "8"
+      "0"
     ],
     "options_en": [
-      "0",
       "1",
+      "8",
       "15",
-      "8"
+      "0"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "det = (3)(5) - (5)(3) = 15 - 15 = 0",
     "explanation_en": "det = (3)(5) - (5)(3) = 15 - 15 = 0",
     "difficulty": 1,
@@ -1375,18 +1375,18 @@
     "question_zh": "矩陣 [[1,2],[2,5]] 的跡(trace)是：",
     "question_en": "The trace of [[1,2],[2,5]] is:",
     "options_zh": [
-      "1",
-      "6",
       "5",
-      "10"
+      "10",
+      "6",
+      "1"
     ],
     "options_en": [
-      "1",
-      "6",
       "5",
-      "10"
+      "10",
+      "6",
+      "1"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 5 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 1 + 5 = 6",
     "difficulty": 1,
@@ -1403,18 +1403,18 @@
     "question_zh": "求矩陣 [[3,1],[2,3]] 的行列式。",
     "question_en": "Find the determinant of [[3,1],[2,3]].",
     "options_zh": [
+      "8",
       "6",
       "7",
-      "2",
-      "8"
+      "2"
     ],
     "options_en": [
+      "8",
       "6",
       "7",
-      "2",
-      "8"
+      "2"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "det = (3)(3) - (1)(2) = 9 - 2 = 7",
     "explanation_en": "det = (3)(3) - (1)(2) = 9 - 2 = 7",
     "difficulty": 1,
@@ -1431,18 +1431,18 @@
     "question_zh": "矩陣 [[5,3],[3,3]] 的跡(trace)是： (變體1)",
     "question_en": "The trace of [[5,3],[3,3]] is: (v1)",
     "options_zh": [
-      "8",
-      "6",
       "15",
-      "14"
+      "14",
+      "6",
+      "8"
     ],
     "options_en": [
-      "8",
-      "6",
       "15",
-      "14"
+      "14",
+      "6",
+      "8"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 3 = 8",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 3 = 8",
     "difficulty": 1,
@@ -1459,18 +1459,18 @@
     "question_zh": "求矩陣 [[2,5],[3,4]] 的行列式。",
     "question_en": "Find the determinant of [[2,5],[3,4]].",
     "options_zh": [
-      "-7",
       "6",
-      "15",
-      "-6"
+      "-7",
+      "-6",
+      "15"
     ],
     "options_en": [
-      "-7",
       "6",
-      "15",
-      "-6"
+      "-7",
+      "-6",
+      "15"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "det = (2)(4) - (5)(3) = 8 - 15 = -7",
     "explanation_en": "det = (2)(4) - (5)(3) = 8 - 15 = -7",
     "difficulty": 1,
@@ -1487,18 +1487,18 @@
     "question_zh": "矩陣 [[4,3],[2,2]] 的跡(trace)是：",
     "question_en": "The trace of [[4,3],[2,2]] is:",
     "options_zh": [
-      "6",
       "8",
       "11",
+      "6",
       "2"
     ],
     "options_en": [
-      "6",
       "8",
       "11",
+      "6",
       "2"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 2 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 2 = 6",
     "difficulty": 1,
@@ -1517,16 +1517,16 @@
     "options_zh": [
       "6",
       "15",
-      "-6",
-      "-7"
+      "-7",
+      "-6"
     ],
     "options_en": [
       "6",
       "15",
-      "-6",
-      "-7"
+      "-7",
+      "-6"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "det = (2)(4) - (5)(3) = 8 - 15 = -7",
     "explanation_en": "det = (2)(4) - (5)(3) = 8 - 15 = -7",
     "difficulty": 1,
@@ -1571,18 +1571,18 @@
     "question_zh": "求矩陣 [[5,3],[2,5]] 的行列式。",
     "question_en": "Find the determinant of [[5,3],[2,5]].",
     "options_zh": [
-      "20",
-      "10",
       "6",
-      "19"
+      "19",
+      "20",
+      "10"
     ],
     "options_en": [
-      "20",
-      "10",
       "6",
-      "19"
+      "19",
+      "20",
+      "10"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "det = (5)(5) - (3)(2) = 25 - 6 = 19",
     "explanation_en": "det = (5)(5) - (3)(2) = 25 - 6 = 19",
     "difficulty": 1,
@@ -1599,18 +1599,18 @@
     "question_zh": "矩陣 [[1,3],[3,5]] 的跡(trace)是：",
     "question_en": "The trace of [[1,3],[3,5]] is:",
     "options_zh": [
-      "6",
       "12",
       "-4",
-      "5"
+      "5",
+      "6"
     ],
     "options_en": [
-      "6",
       "12",
       "-4",
-      "5"
+      "5",
+      "6"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 5 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 1 + 5 = 6",
     "difficulty": 1,
@@ -1627,18 +1627,18 @@
     "question_zh": "求矩陣 [[5,4],[4,5]] 的行列式。",
     "question_en": "Find the determinant of [[5,4],[4,5]].",
     "options_zh": [
-      "9",
       "10",
       "16",
-      "10 (備選)"
+      "10 (備選)",
+      "9"
     ],
     "options_en": [
-      "9",
       "10",
       "16",
-      "10 (alt)"
+      "10 (alt)",
+      "9"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "det = (5)(5) - (4)(4) = 25 - 16 = 9",
     "explanation_en": "det = (5)(5) - (4)(4) = 25 - 16 = 9",
     "difficulty": 1,
@@ -1656,15 +1656,15 @@
     "question_en": "The trace of [[2,3],[2,5]] is:",
     "options_zh": [
       "7",
-      "10",
       "12",
-      "4"
+      "4",
+      "10"
     ],
     "options_en": [
       "7",
-      "10",
       "12",
-      "4"
+      "4",
+      "10"
     ],
     "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 5 = 7",
@@ -1683,16 +1683,16 @@
     "question_zh": "求矩陣 [[5,3],[5,3]] 的行列式。",
     "question_en": "Find the determinant of [[5,3],[5,3]].",
     "options_zh": [
-      "1",
-      "0",
       "15",
-      "8"
+      "0",
+      "8",
+      "1"
     ],
     "options_en": [
-      "1",
-      "0",
       "15",
-      "8"
+      "0",
+      "8",
+      "1"
     ],
     "answer": 1,
     "explanation_zh": "det = (5)(3) - (3)(5) = 15 - 15 = 0",
@@ -1711,18 +1711,18 @@
     "question_zh": "矩陣 [[4,4],[2,5]] 的跡(trace)是： (變體1)",
     "question_en": "The trace of [[4,4],[2,5]] is: (v1)",
     "options_zh": [
-      "12",
-      "20",
+      "15",
       "9",
-      "15"
+      "12",
+      "20"
     ],
     "options_en": [
-      "12",
-      "20",
+      "15",
       "9",
-      "15"
+      "12",
+      "20"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 5 = 9",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 5 = 9",
     "difficulty": 1,
@@ -1740,14 +1740,14 @@
     "question_en": "Find the determinant of [[4,2],[4,4]].",
     "options_zh": [
       "8 (備選) (備選)",
-      "9",
       "8 (備選)",
+      "9",
       "8"
     ],
     "options_en": [
       "8 (alt) (alt)",
-      "9",
       "8 (alt)",
+      "9",
       "8"
     ],
     "answer": 3,
@@ -1767,18 +1767,18 @@
     "question_zh": "矩陣 [[1,1],[3,2]] 的跡(trace)是：",
     "question_en": "The trace of [[1,1],[3,2]] is:",
     "options_zh": [
-      "7",
-      "-1",
+      "2",
       "3",
-      "2"
+      "7",
+      "-1"
     ],
     "options_en": [
-      "7",
-      "-1",
+      "2",
       "3",
-      "2"
+      "7",
+      "-1"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 2 = 3",
     "explanation_en": "Trace = sum of diagonal elements = 1 + 2 = 3",
     "difficulty": 1,
@@ -1795,16 +1795,16 @@
     "question_zh": "求矩陣 [[3,2],[2,2]] 的行列式。",
     "question_en": "Find the determinant of [[3,2],[2,2]].",
     "options_zh": [
+      "3",
       "5",
-      "4",
       "2",
-      "3"
+      "4"
     ],
     "options_en": [
+      "3",
       "5",
-      "4",
       "2",
-      "3"
+      "4"
     ],
     "answer": 2,
     "explanation_zh": "det = (3)(2) - (2)(2) = 6 - 4 = 2",
@@ -1824,17 +1824,17 @@
     "question_en": "The trace of [[3,5],[1,2]] is:",
     "options_zh": [
       "6",
-      "5",
+      "1",
       "11",
-      "1"
+      "5"
     ],
     "options_en": [
       "6",
-      "5",
+      "1",
       "11",
-      "1"
+      "5"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 2 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 2 = 5",
     "difficulty": 1,
@@ -1853,14 +1853,14 @@
     "options_zh": [
       "-1",
       "16",
-      "8",
-      "0"
+      "0",
+      "8"
     ],
     "options_en": [
       "-1",
       "16",
-      "8",
-      "0"
+      "0",
+      "8"
     ],
     "answer": 0,
     "explanation_zh": "det = (3)(5) - (4)(4) = 15 - 16 = -1",
@@ -1880,17 +1880,17 @@
     "question_en": "The trace of [[1,5],[2,2]] is: (v1)",
     "options_zh": [
       "10",
-      "-8",
+      "3",
       "2",
-      "3"
+      "-8"
     ],
     "options_en": [
       "10",
-      "-8",
+      "3",
       "2",
-      "3"
+      "-8"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 2 = 3",
     "explanation_en": "Trace = sum of diagonal elements = 1 + 2 = 3",
     "difficulty": 1,
@@ -1907,18 +1907,18 @@
     "question_zh": "求矩陣 [[3,1],[4,1]] 的行列式。",
     "question_en": "Find the determinant of [[3,1],[4,1]].",
     "options_zh": [
-      "-1",
-      "0",
+      "4 (備選)",
       "4",
-      "4 (備選)"
+      "0",
+      "-1"
     ],
     "options_en": [
-      "-1",
-      "0",
+      "4 (alt)",
       "4",
-      "4 (alt)"
+      "0",
+      "-1"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "det = (3)(1) - (1)(4) = 3 - 4 = -1",
     "explanation_en": "det = (3)(1) - (1)(4) = 3 - 4 = -1",
     "difficulty": 1,
@@ -1937,14 +1937,14 @@
     "options_zh": [
       "6",
       "4",
-      "12",
-      "9"
+      "9",
+      "12"
     ],
     "options_en": [
       "6",
       "4",
-      "12",
-      "9"
+      "9",
+      "12"
     ],
     "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 3 = 6",
@@ -1964,15 +1964,15 @@
     "question_en": "Find the determinant of [[5,5],[5,1]]. (v1)",
     "options_zh": [
       "-20",
+      "25",
       "-19",
-      "6",
-      "25"
+      "6"
     ],
     "options_en": [
       "-20",
+      "25",
       "-19",
-      "6",
-      "25"
+      "6"
     ],
     "answer": 0,
     "explanation_zh": "det = (5)(1) - (5)(5) = 5 - 25 = -20",
@@ -1991,16 +1991,16 @@
     "question_zh": "矩陣 [[1,4],[5,5]] 的跡(trace)是：",
     "question_en": "The trace of [[1,4],[5,5]] is:",
     "options_zh": [
-      "-15",
+      "15",
       "6",
       "5",
-      "15"
+      "-15"
     ],
     "options_en": [
-      "-15",
+      "15",
       "6",
       "5",
-      "15"
+      "-15"
     ],
     "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 5 = 6",
@@ -2019,18 +2019,18 @@
     "question_zh": "求矩陣 [[2,2],[3,2]] 的行列式。",
     "question_en": "Find the determinant of [[2,2],[3,2]].",
     "options_zh": [
+      "6",
       "-1",
-      "-2",
       "4",
-      "6"
+      "-2"
     ],
     "options_en": [
+      "6",
       "-1",
-      "-2",
       "4",
-      "6"
+      "-2"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "det = (2)(2) - (2)(3) = 4 - 6 = -2",
     "explanation_en": "det = (2)(2) - (2)(3) = 4 - 6 = -2",
     "difficulty": 1,
@@ -2047,18 +2047,18 @@
     "question_zh": "矩陣 [[2,2],[4,2]] 的跡(trace)是：",
     "question_en": "The trace of [[2,2],[4,2]] is:",
     "options_zh": [
-      "4",
       "10",
+      "4",
       "-4",
       "4 (備選)"
     ],
     "options_en": [
-      "4",
       "10",
+      "4",
       "-4",
       "4 (alt)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 2 = 4",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 2 = 4",
     "difficulty": 1,
@@ -2076,15 +2076,15 @@
     "question_en": "Find the determinant of [[1,5],[3,5]].",
     "options_zh": [
       "-10",
-      "6",
       "-9",
-      "15"
+      "15",
+      "6"
     ],
     "options_en": [
       "-10",
-      "6",
       "-9",
-      "15"
+      "15",
+      "6"
     ],
     "answer": 0,
     "explanation_zh": "det = (1)(5) - (5)(3) = 5 - 15 = -10",
@@ -2105,14 +2105,14 @@
     "options_zh": [
       "7",
       "4",
-      "1",
-      "3"
+      "3",
+      "1"
     ],
     "options_en": [
       "7",
       "4",
-      "1",
-      "3"
+      "3",
+      "1"
     ],
     "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 1 = 4",
@@ -2131,18 +2131,18 @@
     "question_zh": "求矩陣 [[2,5],[3,1]] 的行列式。",
     "question_en": "Find the determinant of [[2,5],[3,1]].",
     "options_zh": [
-      "15",
       "3",
       "-13",
-      "-12"
+      "-12",
+      "15"
     ],
     "options_en": [
-      "15",
       "3",
       "-13",
-      "-12"
+      "-12",
+      "15"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "det = (2)(1) - (5)(3) = 2 - 15 = -13",
     "explanation_en": "det = (2)(1) - (5)(3) = 2 - 15 = -13",
     "difficulty": 1,
@@ -2159,18 +2159,18 @@
     "question_zh": "矩陣 [[2,2],[2,5]] 的跡(trace)是：",
     "question_en": "The trace of [[2,2],[2,5]] is:",
     "options_zh": [
-      "10",
       "11",
       "6",
-      "7"
+      "7",
+      "10"
     ],
     "options_en": [
-      "10",
       "11",
       "6",
-      "7"
+      "7",
+      "10"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 5 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 5 = 7",
     "difficulty": 1,
@@ -2215,18 +2215,18 @@
     "question_zh": "矩陣 [[5,1],[3,1]] 的跡(trace)是：",
     "question_en": "The trace of [[5,1],[3,1]] is:",
     "options_zh": [
+      "5",
       "6",
-      "10",
       "2",
-      "5"
+      "10"
     ],
     "options_en": [
+      "5",
       "6",
-      "10",
       "2",
-      "5"
+      "10"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 1 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 1 = 6",
     "difficulty": 1,
@@ -2243,18 +2243,18 @@
     "question_zh": "求矩陣 [[2,4],[1,4]] 的行列式。",
     "question_en": "Find the determinant of [[2,4],[1,4]].",
     "options_zh": [
-      "4",
+      "5",
       "6",
-      "4 (備選)",
-      "5"
+      "4",
+      "4 (備選)"
     ],
     "options_en": [
-      "4",
+      "5",
       "6",
-      "4 (alt)",
-      "5"
+      "4",
+      "4 (alt)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "det = (2)(4) - (4)(1) = 8 - 4 = 4",
     "explanation_en": "det = (2)(4) - (4)(1) = 8 - 4 = 4",
     "difficulty": 1,
@@ -2271,16 +2271,16 @@
     "question_zh": "矩陣 [[1,4],[2,1]] 的跡(trace)是：",
     "question_en": "The trace of [[1,4],[2,1]] is:",
     "options_zh": [
-      "-7",
+      "1",
       "2",
-      "8",
-      "1"
+      "-7",
+      "8"
     ],
     "options_en": [
-      "-7",
+      "1",
       "2",
-      "8",
-      "1"
+      "-7",
+      "8"
     ],
     "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 1 = 2",
@@ -2299,18 +2299,18 @@
     "question_zh": "求矩陣 [[5,5],[2,5]] 的行列式。",
     "question_en": "Find the determinant of [[5,5],[2,5]].",
     "options_zh": [
-      "15",
-      "10",
       "10 (備選)",
-      "16"
+      "16",
+      "15",
+      "10"
     ],
     "options_en": [
-      "15",
-      "10",
       "10 (alt)",
-      "16"
+      "16",
+      "15",
+      "10"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "det = (5)(5) - (5)(2) = 25 - 10 = 15",
     "explanation_en": "det = (5)(5) - (5)(2) = 25 - 10 = 15",
     "difficulty": 1,
@@ -2327,18 +2327,18 @@
     "question_zh": "矩陣 [[4,3],[5,1]] 的跡(trace)是：",
     "question_en": "The trace of [[4,3],[5,1]] is:",
     "options_zh": [
-      "4",
-      "13",
       "5",
-      "-11"
+      "-11",
+      "4",
+      "13"
     ],
     "options_en": [
-      "4",
-      "13",
       "5",
-      "-11"
+      "-11",
+      "4",
+      "13"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 1 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 1 = 5",
     "difficulty": 1,
@@ -2355,18 +2355,18 @@
     "question_zh": "求矩陣 [[5,4],[1,4]] 的行列式。",
     "question_en": "Find the determinant of [[5,4],[1,4]].",
     "options_zh": [
-      "4",
-      "17",
       "16",
-      "9"
+      "17",
+      "9",
+      "4"
     ],
     "options_en": [
-      "4",
-      "17",
       "16",
-      "9"
+      "17",
+      "9",
+      "4"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "det = (5)(4) - (4)(1) = 20 - 4 = 16",
     "explanation_en": "det = (5)(4) - (4)(1) = 20 - 4 = 16",
     "difficulty": 1,
@@ -2383,18 +2383,18 @@
     "question_zh": "矩陣 [[2,5],[5,4]] 的跡(trace)是：",
     "question_en": "The trace of [[2,5],[5,4]] is:",
     "options_zh": [
-      "-17",
       "16",
       "8",
-      "6"
+      "6",
+      "-17"
     ],
     "options_en": [
-      "-17",
       "16",
       "8",
-      "6"
+      "6",
+      "-17"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 4 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 4 = 6",
     "difficulty": 1,
@@ -2411,18 +2411,18 @@
     "question_zh": "求矩陣 [[1,3],[4,5]] 的行列式。",
     "question_en": "Find the determinant of [[1,3],[4,5]].",
     "options_zh": [
-      "6",
       "-7",
-      "12",
-      "-6"
+      "6",
+      "-6",
+      "12"
     ],
     "options_en": [
-      "6",
       "-7",
-      "12",
-      "-6"
+      "6",
+      "-6",
+      "12"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "det = (1)(5) - (3)(4) = 5 - 12 = -7",
     "explanation_en": "det = (1)(5) - (3)(4) = 5 - 12 = -7",
     "difficulty": 1,
@@ -2439,18 +2439,18 @@
     "question_zh": "矩陣 [[3,4],[2,3]] 的跡(trace)是：",
     "question_en": "The trace of [[3,4],[2,3]] is:",
     "options_zh": [
-      "9",
+      "6",
       "1",
       "12",
-      "6"
+      "9"
     ],
     "options_en": [
-      "9",
+      "6",
       "1",
       "12",
-      "6"
+      "9"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 3 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 3 = 6",
     "difficulty": 1,
@@ -2467,18 +2467,18 @@
     "question_zh": "求矩陣 [[5,4],[5,3]] 的行列式。",
     "question_en": "Find the determinant of [[5,4],[5,3]].",
     "options_zh": [
+      "-5",
       "-4",
       "8",
-      "-5",
       "20"
     ],
     "options_en": [
+      "-5",
       "-4",
       "8",
-      "-5",
       "20"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "det = (5)(3) - (4)(5) = 15 - 20 = -5",
     "explanation_en": "det = (5)(3) - (4)(5) = 15 - 20 = -5",
     "difficulty": 1,
@@ -2495,15 +2495,15 @@
     "question_zh": "矩陣 [[3,3],[5,2]] 的跡(trace)是：",
     "question_en": "The trace of [[3,3],[5,2]] is:",
     "options_zh": [
-      "-9",
-      "13",
       "6",
+      "13",
+      "-9",
       "5"
     ],
     "options_en": [
-      "-9",
-      "13",
       "6",
+      "13",
+      "-9",
       "5"
     ],
     "answer": 3,
@@ -2523,15 +2523,15 @@
     "question_zh": "求矩陣 [[3,3],[5,5]] 的行列式。",
     "question_en": "Find the determinant of [[3,3],[5,5]].",
     "options_zh": [
+      "15",
       "1",
       "8",
-      "15",
       "0"
     ],
     "options_en": [
+      "15",
       "1",
       "8",
-      "15",
       "0"
     ],
     "answer": 3,
@@ -2579,18 +2579,18 @@
     "question_zh": "求矩陣 [[4,1],[3,5]] 的行列式。",
     "question_en": "Find the determinant of [[4,1],[3,5]].",
     "options_zh": [
-      "17",
       "18",
       "9",
+      "17",
       "3"
     ],
     "options_en": [
-      "17",
       "18",
       "9",
+      "17",
       "3"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "det = (4)(5) - (1)(3) = 20 - 3 = 17",
     "explanation_en": "det = (4)(5) - (1)(3) = 20 - 3 = 17",
     "difficulty": 1,
@@ -2607,15 +2607,15 @@
     "question_zh": "矩陣 [[4,4],[2,2]] 的跡(trace)是：",
     "question_en": "The trace of [[4,4],[2,2]] is:",
     "options_zh": [
+      "8",
       "12",
       "0",
-      "8",
       "6"
     ],
     "options_en": [
+      "8",
       "12",
       "0",
-      "8",
       "6"
     ],
     "answer": 3,
@@ -2635,18 +2635,18 @@
     "question_zh": "求矩陣 [[1,4],[3,1]] 的行列式。",
     "question_en": "Find the determinant of [[1,4],[3,1]].",
     "options_zh": [
-      "12",
-      "-11",
+      "-10",
       "2",
-      "-10"
+      "12",
+      "-11"
     ],
     "options_en": [
-      "12",
-      "-11",
+      "-10",
       "2",
-      "-10"
+      "12",
+      "-11"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "det = (1)(1) - (4)(3) = 1 - 12 = -11",
     "explanation_en": "det = (1)(1) - (4)(3) = 1 - 12 = -11",
     "difficulty": 1,
@@ -2691,18 +2691,18 @@
     "question_zh": "求矩陣 [[2,1],[2,2]] 的行列式。",
     "question_en": "Find the determinant of [[2,1],[2,2]].",
     "options_zh": [
-      "2 (備選)",
-      "3",
+      "2",
       "4",
-      "2"
+      "2 (備選)",
+      "3"
     ],
     "options_en": [
-      "2 (alt)",
-      "3",
+      "2",
       "4",
-      "2"
+      "2 (alt)",
+      "3"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "det = (2)(2) - (1)(2) = 4 - 2 = 2",
     "explanation_en": "det = (2)(2) - (1)(2) = 4 - 2 = 2",
     "difficulty": 1,
@@ -2719,18 +2719,18 @@
     "question_zh": "矩陣 [[3,5],[3,3]] 的跡(trace)是：",
     "question_en": "The trace of [[3,5],[3,3]] is:",
     "options_zh": [
-      "6",
-      "-6",
       "9",
-      "14"
+      "6",
+      "14",
+      "-6"
     ],
     "options_en": [
-      "6",
-      "-6",
       "9",
-      "14"
+      "6",
+      "14",
+      "-6"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 3 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 3 = 6",
     "difficulty": 1,
@@ -2748,17 +2748,17 @@
     "question_en": "Find the determinant of [[5,4],[1,3]].",
     "options_zh": [
       "8",
-      "11",
       "4",
+      "11",
       "12"
     ],
     "options_en": [
       "8",
-      "11",
       "4",
+      "11",
       "12"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "det = (5)(3) - (4)(1) = 15 - 4 = 11",
     "explanation_en": "det = (5)(3) - (4)(1) = 15 - 4 = 11",
     "difficulty": 1,
@@ -2775,18 +2775,18 @@
     "question_zh": "矩陣 [[5,2],[5,2]] 的跡(trace)是：",
     "question_en": "The trace of [[5,2],[5,2]] is:",
     "options_zh": [
-      "7",
       "0",
       "10",
+      "7",
       "14"
     ],
     "options_en": [
-      "7",
       "0",
       "10",
+      "7",
       "14"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 2 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 2 = 7",
     "difficulty": 1,
@@ -2803,15 +2803,15 @@
     "question_zh": "求矩陣 [[3,2],[2,4]] 的行列式。 (變體1)",
     "question_en": "Find the determinant of [[3,2],[2,4]]. (v1)",
     "options_zh": [
-      "9",
-      "8",
       "7",
+      "8",
+      "9",
       "4"
     ],
     "options_en": [
-      "9",
-      "8",
       "7",
+      "8",
+      "9",
       "4"
     ],
     "answer": 1,
@@ -2831,18 +2831,18 @@
     "question_zh": "矩陣 [[2,2],[5,2]] 的跡(trace)是：",
     "question_en": "The trace of [[2,2],[5,2]] is:",
     "options_zh": [
-      "11",
       "4 (備選)",
-      "-6",
-      "4"
+      "11",
+      "4",
+      "-6"
     ],
     "options_en": [
-      "11",
       "4 (alt)",
-      "-6",
-      "4"
+      "11",
+      "4",
+      "-6"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 2 = 4",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 2 = 4",
     "difficulty": 1,
@@ -2859,18 +2859,18 @@
     "question_zh": "求矩陣 [[3,5],[4,5]] 的行列式。",
     "question_en": "Find the determinant of [[3,5],[4,5]].",
     "options_zh": [
-      "-5",
+      "20",
       "-4",
-      "8",
-      "20"
+      "-5",
+      "8"
     ],
     "options_en": [
-      "-5",
+      "20",
       "-4",
-      "8",
-      "20"
+      "-5",
+      "8"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "det = (3)(5) - (5)(4) = 15 - 20 = -5",
     "explanation_en": "det = (3)(5) - (5)(4) = 15 - 20 = -5",
     "difficulty": 1,
@@ -2888,17 +2888,17 @@
     "question_en": "The trace of [[4,3],[2,3]] is:",
     "options_zh": [
       "12",
+      "12 (備選)",
       "6",
-      "7",
-      "12 (備選)"
+      "7"
     ],
     "options_en": [
       "12",
+      "12 (alt)",
       "6",
-      "7",
-      "12 (alt)"
+      "7"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 3 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 3 = 7",
     "difficulty": 1,
@@ -2916,17 +2916,17 @@
     "question_en": "Find the determinant of [[4,3],[3,2]].",
     "options_zh": [
       "9",
-      "-1",
+      "0",
       "6",
-      "0"
+      "-1"
     ],
     "options_en": [
       "9",
-      "-1",
+      "0",
       "6",
-      "0"
+      "-1"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "det = (4)(2) - (3)(3) = 8 - 9 = -1",
     "explanation_en": "det = (4)(2) - (3)(3) = 8 - 9 = -1",
     "difficulty": 1,
@@ -2944,17 +2944,17 @@
     "question_en": "The trace of [[3,3],[3,3]] is:",
     "options_zh": [
       "12",
-      "6",
       "9",
-      "0"
+      "0",
+      "6"
     ],
     "options_en": [
       "12",
-      "6",
       "9",
-      "0"
+      "0",
+      "6"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 3 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 3 = 6",
     "difficulty": 1,
@@ -2972,17 +2972,17 @@
     "question_en": "Find the determinant of [[4,3],[4,5]].",
     "options_zh": [
       "9 (備選)",
-      "12",
       "8",
-      "9"
+      "9",
+      "12"
     ],
     "options_en": [
       "9 (alt)",
-      "12",
       "8",
-      "9"
+      "9",
+      "12"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "det = (4)(5) - (3)(4) = 20 - 12 = 8",
     "explanation_en": "det = (4)(5) - (3)(4) = 20 - 12 = 8",
     "difficulty": 1,
@@ -2999,18 +2999,18 @@
     "question_zh": "矩陣 [[4,4],[1,4]] 的跡(trace)是：",
     "question_en": "The trace of [[4,4],[1,4]] is:",
     "options_zh": [
-      "12",
-      "16",
       "13",
-      "8"
+      "8",
+      "16",
+      "12"
     ],
     "options_en": [
-      "12",
-      "16",
       "13",
-      "8"
+      "8",
+      "16",
+      "12"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 4 = 8",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 4 = 8",
     "difficulty": 1,
@@ -3027,18 +3027,18 @@
     "question_zh": "求矩陣 [[1,4],[3,2]] 的行列式。",
     "question_en": "Find the determinant of [[1,4],[3,2]].",
     "options_zh": [
+      "3",
       "12",
-      "-10",
       "-9",
-      "3"
+      "-10"
     ],
     "options_en": [
+      "3",
       "12",
-      "-10",
       "-9",
-      "3"
+      "-10"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "det = (1)(2) - (4)(3) = 2 - 12 = -10",
     "explanation_en": "det = (1)(2) - (4)(3) = 2 - 12 = -10",
     "difficulty": 1,
@@ -3055,16 +3055,16 @@
     "question_zh": "矩陣 [[4,3],[1,2]] 的跡(trace)是：",
     "question_en": "The trace of [[4,3],[1,2]] is:",
     "options_zh": [
-      "10",
+      "5",
       "6",
       "8",
-      "5"
+      "10"
     ],
     "options_en": [
-      "10",
+      "5",
       "6",
       "8",
-      "5"
+      "10"
     ],
     "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 2 = 6",
@@ -3085,16 +3085,16 @@
     "options_zh": [
       "-2",
       "5",
-      "9",
-      "-3"
+      "-3",
+      "9"
     ],
     "options_en": [
       "-2",
       "5",
-      "9",
-      "-3"
+      "-3",
+      "9"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "det = (2)(3) - (3)(3) = 6 - 9 = -3",
     "explanation_en": "det = (2)(3) - (3)(3) = 6 - 9 = -3",
     "difficulty": 1,
@@ -3111,18 +3111,18 @@
     "question_zh": "矩陣 [[1,3],[4,4]] 的跡(trace)是：",
     "question_en": "The trace of [[1,3],[4,4]] is:",
     "options_zh": [
-      "5",
+      "4",
       "-8",
-      "12",
-      "4"
+      "5",
+      "12"
     ],
     "options_en": [
-      "5",
+      "4",
       "-8",
-      "12",
-      "4"
+      "5",
+      "12"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 4 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 1 + 4 = 5",
     "difficulty": 1,
@@ -3141,16 +3141,16 @@
     "options_zh": [
       "25",
       "-18",
-      "5",
-      "-19"
+      "-19",
+      "5"
     ],
     "options_en": [
       "25",
       "-18",
-      "5",
-      "-19"
+      "-19",
+      "5"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "det = (3)(2) - (5)(5) = 6 - 25 = -19",
     "explanation_en": "det = (3)(2) - (5)(5) = 6 - 25 = -19",
     "difficulty": 1,
@@ -3168,17 +3168,17 @@
     "question_en": "The trace of [[2,5],[5,4]] is: (v1)",
     "options_zh": [
       "8",
-      "6",
       "-17",
-      "16"
+      "16",
+      "6"
     ],
     "options_en": [
       "8",
-      "6",
       "-17",
-      "16"
+      "16",
+      "6"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 4 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 4 = 6",
     "difficulty": 1,
@@ -3195,18 +3195,18 @@
     "question_zh": "求矩陣 [[3,1],[1,2]] 的行列式。",
     "question_en": "Find the determinant of [[3,1],[1,2]].",
     "options_zh": [
+      "5",
       "6",
-      "1",
       "5 (備選)",
-      "5"
+      "1"
     ],
     "options_en": [
+      "5",
       "6",
-      "1",
       "5 (alt)",
-      "5"
+      "1"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "det = (3)(2) - (1)(1) = 6 - 1 = 5",
     "explanation_en": "det = (3)(2) - (1)(1) = 6 - 1 = 5",
     "difficulty": 1,
@@ -3224,15 +3224,15 @@
     "question_en": "The trace of [[2,3],[4,5]] is:",
     "options_zh": [
       "7",
-      "14",
       "-2",
-      "10"
+      "10",
+      "14"
     ],
     "options_en": [
       "7",
-      "14",
       "-2",
-      "10"
+      "10",
+      "14"
     ],
     "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 5 = 7",
@@ -3251,18 +3251,18 @@
     "question_zh": "求矩陣 [[4,1],[4,4]] 的行列式。",
     "question_en": "Find the determinant of [[4,1],[4,4]].",
     "options_zh": [
+      "13",
       "12",
       "8",
-      "13",
       "4"
     ],
     "options_en": [
+      "13",
       "12",
       "8",
-      "13",
       "4"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "det = (4)(4) - (1)(4) = 16 - 4 = 12",
     "explanation_en": "det = (4)(4) - (1)(4) = 16 - 4 = 12",
     "difficulty": 1,
@@ -3279,18 +3279,18 @@
     "question_zh": "矩陣 [[2,3],[5,5]] 的跡(trace)是：",
     "question_en": "The trace of [[2,3],[5,5]] is:",
     "options_zh": [
+      "-5",
       "15",
       "7",
-      "-5",
       "10"
     ],
     "options_en": [
+      "-5",
       "15",
       "7",
-      "-5",
       "10"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 5 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 5 = 7",
     "difficulty": 1,
@@ -3307,18 +3307,18 @@
     "question_zh": "求矩陣 [[4,1],[1,1]] 的行列式。",
     "question_en": "Find the determinant of [[4,1],[1,1]].",
     "options_zh": [
-      "5",
-      "4",
+      "3",
       "1",
-      "3"
+      "5",
+      "4"
     ],
     "options_en": [
-      "5",
-      "4",
+      "3",
       "1",
-      "3"
+      "5",
+      "4"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "det = (4)(1) - (1)(1) = 4 - 1 = 3",
     "explanation_en": "det = (4)(1) - (1)(1) = 4 - 1 = 3",
     "difficulty": 1,
@@ -3335,18 +3335,18 @@
     "question_zh": "矩陣 [[3,3],[5,3]] 的跡(trace)是：",
     "question_en": "The trace of [[3,3],[5,3]] is:",
     "options_zh": [
-      "9",
-      "6",
       "-6",
-      "14"
+      "9",
+      "14",
+      "6"
     ],
     "options_en": [
-      "9",
-      "6",
       "-6",
-      "14"
+      "9",
+      "14",
+      "6"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 3 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 3 = 6",
     "difficulty": 1,
@@ -3363,14 +3363,14 @@
     "question_zh": "求矩陣 [[4,3],[1,4]] 的行列式。",
     "question_en": "Find the determinant of [[4,3],[1,4]].",
     "options_zh": [
-      "3",
       "14",
+      "3",
       "8",
       "13"
     ],
     "options_en": [
-      "3",
       "14",
+      "3",
       "8",
       "13"
     ],
@@ -3391,16 +3391,16 @@
     "question_zh": "矩陣 [[2,1],[3,4]] 的跡(trace)是：",
     "question_en": "The trace of [[2,1],[3,4]] is:",
     "options_zh": [
+      "5",
       "10",
-      "8",
       "6",
-      "5"
+      "8"
     ],
     "options_en": [
+      "5",
       "10",
-      "8",
       "6",
-      "5"
+      "8"
     ],
     "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 4 = 6",
@@ -3419,18 +3419,18 @@
     "question_zh": "求矩陣 [[2,2],[5,3]] 的行列式。",
     "question_en": "Find the determinant of [[2,2],[5,3]].",
     "options_zh": [
-      "-3",
       "-4",
       "5",
-      "10"
+      "10",
+      "-3"
     ],
     "options_en": [
-      "-3",
       "-4",
       "5",
-      "10"
+      "10",
+      "-3"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "det = (2)(3) - (2)(5) = 6 - 10 = -4",
     "explanation_en": "det = (2)(3) - (2)(5) = 6 - 10 = -4",
     "difficulty": 1,
@@ -3447,18 +3447,18 @@
     "question_zh": "矩陣 [[5,2],[5,1]] 的跡(trace)是：",
     "question_en": "The trace of [[5,2],[5,1]] is:",
     "options_zh": [
-      "5",
-      "13",
+      "6",
       "-5",
-      "6"
+      "13",
+      "5"
     ],
     "options_en": [
-      "5",
-      "13",
+      "6",
       "-5",
-      "6"
+      "13",
+      "5"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 1 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 1 = 6",
     "difficulty": 1,
@@ -3475,18 +3475,18 @@
     "question_zh": "求矩陣 [[4,2],[3,5]] 的行列式。",
     "question_en": "Find the determinant of [[4,2],[3,5]].",
     "options_zh": [
-      "15",
       "6",
-      "14",
-      "9"
+      "9",
+      "15",
+      "14"
     ],
     "options_en": [
-      "15",
       "6",
-      "14",
-      "9"
+      "9",
+      "15",
+      "14"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "det = (4)(5) - (2)(3) = 20 - 6 = 14",
     "explanation_en": "det = (4)(5) - (2)(3) = 20 - 6 = 14",
     "difficulty": 1,
@@ -3503,18 +3503,18 @@
     "question_zh": "矩陣 [[5,3],[5,5]] 的跡(trace)是：",
     "question_en": "The trace of [[5,3],[5,5]] is:",
     "options_zh": [
-      "10",
       "10 (備選)",
+      "10",
       "18",
       "25"
     ],
     "options_en": [
-      "10",
       "10 (alt)",
+      "10",
       "18",
       "25"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 5 = 10",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 5 = 10",
     "difficulty": 1,
@@ -3533,16 +3533,16 @@
     "options_zh": [
       "2 (備選)",
       "2",
-      "1",
-      "4"
+      "4",
+      "1"
     ],
     "options_en": [
       "2 (alt)",
       "2",
-      "1",
-      "4"
+      "4",
+      "1"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "det = (3)(1) - (1)(2) = 3 - 2 = 1",
     "explanation_en": "det = (3)(1) - (1)(2) = 3 - 2 = 1",
     "difficulty": 1,
@@ -3559,18 +3559,18 @@
     "question_zh": "矩陣 [[3,3],[4,2]] 的跡(trace)是：",
     "question_en": "The trace of [[3,3],[4,2]] is:",
     "options_zh": [
-      "12",
-      "6",
       "-6",
-      "5"
+      "5",
+      "6",
+      "12"
     ],
     "options_en": [
-      "12",
-      "6",
       "-6",
-      "5"
+      "5",
+      "6",
+      "12"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 2 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 2 = 5",
     "difficulty": 1,
@@ -3587,16 +3587,16 @@
     "question_zh": "求矩陣 [[2,3],[4,2]] 的行列式。",
     "question_en": "Find the determinant of [[2,3],[4,2]].",
     "options_zh": [
-      "-7",
+      "4",
       "-8",
-      "12",
-      "4"
+      "-7",
+      "12"
     ],
     "options_en": [
-      "-7",
+      "4",
       "-8",
-      "12",
-      "4"
+      "-7",
+      "12"
     ],
     "answer": 1,
     "explanation_zh": "det = (2)(2) - (3)(4) = 4 - 12 = -8",
@@ -3615,18 +3615,18 @@
     "question_zh": "矩陣 [[4,3],[3,2]] 的跡(trace)是：",
     "question_en": "The trace of [[4,3],[3,2]] is:",
     "options_zh": [
+      "12",
       "6",
       "8",
-      "12",
       "-1"
     ],
     "options_en": [
+      "12",
       "6",
       "8",
-      "12",
       "-1"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 2 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 2 = 6",
     "difficulty": 1,
@@ -3643,18 +3643,18 @@
     "question_zh": "求矩陣 [[3,3],[5,1]] 的行列式。",
     "question_en": "Find the determinant of [[3,3],[5,1]].",
     "options_zh": [
-      "15",
       "4",
+      "-12",
       "-11",
-      "-12"
+      "15"
     ],
     "options_en": [
-      "15",
       "4",
+      "-12",
       "-11",
-      "-12"
+      "15"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "det = (3)(1) - (3)(5) = 3 - 15 = -12",
     "explanation_en": "det = (3)(1) - (3)(5) = 3 - 15 = -12",
     "difficulty": 1,
@@ -3671,18 +3671,18 @@
     "question_zh": "矩陣 [[2,1],[4,4]] 的跡(trace)是：",
     "question_en": "The trace of [[2,1],[4,4]] is:",
     "options_zh": [
-      "6",
       "8",
       "11",
-      "4"
+      "4",
+      "6"
     ],
     "options_en": [
-      "6",
       "8",
       "11",
-      "4"
+      "4",
+      "6"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 4 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 4 = 6",
     "difficulty": 1,
@@ -3699,18 +3699,18 @@
     "question_zh": "求矩陣 [[4,4],[1,5]] 的行列式。",
     "question_en": "Find the determinant of [[4,4],[1,5]].",
     "options_zh": [
-      "17",
-      "9",
       "16",
+      "9",
+      "17",
       "4"
     ],
     "options_en": [
-      "17",
-      "9",
       "16",
+      "9",
+      "17",
       "4"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "det = (4)(5) - (4)(1) = 20 - 4 = 16",
     "explanation_en": "det = (4)(5) - (4)(1) = 20 - 4 = 16",
     "difficulty": 1,
@@ -3727,18 +3727,18 @@
     "question_zh": "矩陣 [[1,5],[3,1]] 的跡(trace)是：",
     "question_en": "The trace of [[1,5],[3,1]] is:",
     "options_zh": [
+      "2",
       "1",
       "10",
-      "-14",
-      "2"
+      "-14"
     ],
     "options_en": [
+      "2",
       "1",
       "10",
-      "-14",
-      "2"
+      "-14"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 1 = 2",
     "explanation_en": "Trace = sum of diagonal elements = 1 + 1 = 2",
     "difficulty": 1,
@@ -3757,16 +3757,16 @@
     "options_zh": [
       "22",
       "4",
-      "10",
-      "21"
+      "21",
+      "10"
     ],
     "options_en": [
       "22",
       "4",
-      "10",
-      "21"
+      "21",
+      "10"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "det = (5)(5) - (4)(1) = 25 - 4 = 21",
     "explanation_en": "det = (5)(5) - (4)(1) = 25 - 4 = 21",
     "difficulty": 1,
@@ -3783,18 +3783,18 @@
     "question_zh": "矩陣 [[3,5],[4,3]] 的跡(trace)是：",
     "question_en": "The trace of [[3,5],[4,3]] is:",
     "options_zh": [
-      "9",
       "-11",
       "15",
-      "6"
+      "6",
+      "9"
     ],
     "options_en": [
-      "9",
       "-11",
       "15",
-      "6"
+      "6",
+      "9"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 3 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 3 = 6",
     "difficulty": 1,
@@ -3811,16 +3811,16 @@
     "question_zh": "求矩陣 [[5,3],[1,1]] 的行列式。",
     "question_en": "Find the determinant of [[5,3],[1,1]].",
     "options_zh": [
-      "3 (備選)",
+      "3",
       "2",
       "6",
-      "3"
+      "3 (備選)"
     ],
     "options_en": [
-      "3 (alt)",
+      "3",
       "2",
       "6",
-      "3"
+      "3 (alt)"
     ],
     "answer": 1,
     "explanation_zh": "det = (5)(1) - (3)(1) = 5 - 3 = 2",
@@ -3839,18 +3839,18 @@
     "question_zh": "矩陣 [[5,1],[5,1]] 的跡(trace)是：",
     "question_en": "The trace of [[5,1],[5,1]] is:",
     "options_zh": [
-      "12",
-      "0",
       "5",
-      "6"
+      "6",
+      "0",
+      "12"
     ],
     "options_en": [
-      "12",
-      "0",
       "5",
-      "6"
+      "6",
+      "0",
+      "12"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 1 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 1 = 6",
     "difficulty": 1,
@@ -3868,17 +3868,17 @@
     "question_en": "Find the determinant of [[5,2],[5,1]].",
     "options_zh": [
       "10",
-      "-4",
       "6",
-      "-5"
+      "-5",
+      "-4"
     ],
     "options_en": [
       "10",
-      "-4",
       "6",
-      "-5"
+      "-5",
+      "-4"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "det = (5)(1) - (2)(5) = 5 - 10 = -5",
     "explanation_en": "det = (5)(1) - (2)(5) = 5 - 10 = -5",
     "difficulty": 1,
@@ -3895,18 +3895,18 @@
     "question_zh": "矩陣 [[5,4],[5,2]] 的跡(trace)是：",
     "question_en": "The trace of [[5,4],[5,2]] is:",
     "options_zh": [
-      "7",
       "-10",
-      "10",
-      "16"
+      "7",
+      "16",
+      "10"
     ],
     "options_en": [
-      "7",
       "-10",
-      "10",
-      "16"
+      "7",
+      "16",
+      "10"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 2 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 2 = 7",
     "difficulty": 1,
@@ -3923,18 +3923,18 @@
     "question_zh": "求矩陣 [[1,4],[3,4]] 的行列式。",
     "question_en": "Find the determinant of [[1,4],[3,4]].",
     "options_zh": [
-      "-7",
-      "-8",
       "5",
-      "12"
+      "12",
+      "-7",
+      "-8"
     ],
     "options_en": [
-      "-7",
-      "-8",
       "5",
-      "12"
+      "12",
+      "-7",
+      "-8"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "det = (1)(4) - (4)(3) = 4 - 12 = -8",
     "explanation_en": "det = (1)(4) - (4)(3) = 4 - 12 = -8",
     "difficulty": 1,
@@ -3951,18 +3951,18 @@
     "question_zh": "矩陣 [[4,2],[3,1]] 的跡(trace)是：",
     "question_en": "The trace of [[4,2],[3,1]] is:",
     "options_zh": [
-      "-2",
       "5",
+      "10",
       "4",
-      "10"
+      "-2"
     ],
     "options_en": [
-      "-2",
       "5",
+      "10",
       "4",
-      "10"
+      "-2"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 1 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 1 = 5",
     "difficulty": 1,
@@ -3979,18 +3979,18 @@
     "question_zh": "求矩陣 [[2,5],[3,4]] 的行列式。 (變體2)",
     "question_en": "Find the determinant of [[2,5],[3,4]]. (v2)",
     "options_zh": [
-      "6",
       "-7",
       "15",
+      "6",
       "-6"
     ],
     "options_en": [
-      "6",
       "-7",
       "15",
+      "6",
       "-6"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "det = (2)(4) - (5)(3) = 8 - 15 = -7",
     "explanation_en": "det = (2)(4) - (5)(3) = 8 - 15 = -7",
     "difficulty": 1,
@@ -4008,17 +4008,17 @@
     "question_en": "The trace of [[5,4],[1,4]] is:",
     "options_zh": [
       "14",
+      "20",
       "9",
-      "16",
-      "20"
+      "16"
     ],
     "options_en": [
       "14",
+      "20",
       "9",
-      "16",
-      "20"
+      "16"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 4 = 9",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 4 = 9",
     "difficulty": 1,
@@ -4035,18 +4035,18 @@
     "question_zh": "求矩陣 [[5,3],[1,5]] 的行列式。",
     "question_en": "Find the determinant of [[5,3],[1,5]].",
     "options_zh": [
-      "23",
       "22",
-      "10",
-      "3"
+      "3",
+      "23",
+      "10"
     ],
     "options_en": [
-      "23",
       "22",
-      "10",
-      "3"
+      "3",
+      "23",
+      "10"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "det = (5)(5) - (3)(1) = 25 - 3 = 22",
     "explanation_en": "det = (5)(5) - (3)(1) = 25 - 3 = 22",
     "difficulty": 1,
@@ -4063,16 +4063,16 @@
     "question_zh": "矩陣 [[4,1],[1,2]] 的跡(trace)是： (變體1)",
     "question_en": "The trace of [[4,1],[1,2]] is: (v1)",
     "options_zh": [
+      "8 (備選)",
       "8",
-      "7",
       "6",
-      "8 (備選)"
+      "7"
     ],
     "options_en": [
+      "8 (alt)",
       "8",
-      "7",
       "6",
-      "8 (alt)"
+      "7"
     ],
     "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 2 = 6",
@@ -4119,18 +4119,18 @@
     "question_zh": "矩陣 [[2,5],[3,5]] 的跡(trace)是： (變體1)",
     "question_en": "The trace of [[2,5],[3,5]] is: (v1)",
     "options_zh": [
-      "10",
-      "15",
       "-5",
-      "7"
+      "7",
+      "10",
+      "15"
     ],
     "options_en": [
-      "10",
-      "15",
       "-5",
-      "7"
+      "7",
+      "10",
+      "15"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 5 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 5 = 7",
     "difficulty": 1,
@@ -4148,17 +4148,17 @@
     "question_en": "Find the determinant of [[4,2],[5,3]].",
     "options_zh": [
       "10",
-      "2",
       "3",
+      "2",
       "7"
     ],
     "options_en": [
       "10",
-      "2",
       "3",
+      "2",
       "7"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "det = (4)(3) - (2)(5) = 12 - 10 = 2",
     "explanation_en": "det = (4)(3) - (2)(5) = 12 - 10 = 2",
     "difficulty": 1,
@@ -4175,18 +4175,18 @@
     "question_zh": "矩陣 [[5,2],[2,2]] 的跡(trace)是：",
     "question_en": "The trace of [[5,2],[2,2]] is:",
     "options_zh": [
-      "7",
+      "10",
       "11",
       "6",
-      "10"
+      "7"
     ],
     "options_en": [
-      "7",
+      "10",
       "11",
       "6",
-      "10"
+      "7"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 2 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 2 = 7",
     "difficulty": 1,
@@ -4203,18 +4203,18 @@
     "question_zh": "求矩陣 [[2,3],[2,1]] 的行列式。",
     "question_en": "Find the determinant of [[2,3],[2,1]].",
     "options_zh": [
-      "3",
       "-4",
-      "-3",
-      "6"
+      "6",
+      "3",
+      "-3"
     ],
     "options_en": [
-      "3",
       "-4",
-      "-3",
-      "6"
+      "6",
+      "3",
+      "-3"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "det = (2)(1) - (3)(2) = 2 - 6 = -4",
     "explanation_en": "det = (2)(1) - (3)(2) = 2 - 6 = -4",
     "difficulty": 1,
@@ -4231,18 +4231,18 @@
     "question_zh": "矩陣 [[1,5],[5,1]] 的跡(trace)是：",
     "question_en": "The trace of [[1,5],[5,1]] is:",
     "options_zh": [
-      "12",
-      "1",
       "-24",
-      "2"
+      "1",
+      "2",
+      "12"
     ],
     "options_en": [
-      "12",
-      "1",
       "-24",
-      "2"
+      "1",
+      "2",
+      "12"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 1 = 2",
     "explanation_en": "Trace = sum of diagonal elements = 1 + 1 = 2",
     "difficulty": 1,
@@ -4259,18 +4259,18 @@
     "question_zh": "求矩陣 [[2,5],[3,1]] 的行列式。 (變體1)",
     "question_en": "Find the determinant of [[2,5],[3,1]]. (v1)",
     "options_zh": [
+      "-13",
       "3",
       "15",
-      "-13",
       "-12"
     ],
     "options_en": [
+      "-13",
       "3",
       "15",
-      "-13",
       "-12"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "det = (2)(1) - (5)(3) = 2 - 15 = -13",
     "explanation_en": "det = (2)(1) - (5)(3) = 2 - 15 = -13",
     "difficulty": 1,
@@ -4287,18 +4287,18 @@
     "question_zh": "矩陣 [[3,3],[2,2]] 的跡(trace)是：",
     "question_en": "The trace of [[3,3],[2,2]] is:",
     "options_zh": [
-      "6",
       "5",
-      "10",
-      "0"
+      "6",
+      "0",
+      "10"
     ],
     "options_en": [
-      "6",
       "5",
-      "10",
-      "0"
+      "6",
+      "0",
+      "10"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 2 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 2 = 5",
     "difficulty": 1,
@@ -4316,15 +4316,15 @@
     "question_en": "Find the determinant of [[2,3],[2,4]].",
     "options_zh": [
       "6 (備選)",
-      "6",
+      "3",
       "2",
-      "3"
+      "6"
     ],
     "options_en": [
       "6 (alt)",
-      "6",
+      "3",
       "2",
-      "3"
+      "6"
     ],
     "answer": 2,
     "explanation_zh": "det = (2)(4) - (3)(2) = 8 - 6 = 2",
@@ -4344,17 +4344,17 @@
     "question_en": "The trace of [[3,2],[2,3]] is:",
     "options_zh": [
       "9",
+      "6",
       "10",
-      "5",
-      "6"
+      "5"
     ],
     "options_en": [
       "9",
+      "6",
       "10",
-      "5",
-      "6"
+      "5"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 3 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 3 = 6",
     "difficulty": 1,
@@ -4373,14 +4373,14 @@
     "options_zh": [
       "-7",
       "2",
-      "8",
-      "-6"
+      "-6",
+      "8"
     ],
     "options_en": [
       "-7",
       "2",
-      "8",
-      "-6"
+      "-6",
+      "8"
     ],
     "answer": 0,
     "explanation_zh": "det = (1)(1) - (2)(4) = 1 - 8 = -7",
@@ -4401,14 +4401,14 @@
     "options_zh": [
       "4",
       "6",
-      "11",
-      "8"
+      "8",
+      "11"
     ],
     "options_en": [
       "4",
       "6",
-      "11",
-      "8"
+      "8",
+      "11"
     ],
     "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 2 = 6",
@@ -4427,18 +4427,18 @@
     "question_zh": "求矩陣 [[4,1],[4,4]] 的行列式。 (變體1)",
     "question_en": "Find the determinant of [[4,1],[4,4]]. (v1)",
     "options_zh": [
-      "12",
-      "4",
       "8",
-      "13"
+      "13",
+      "12",
+      "4"
     ],
     "options_en": [
-      "12",
-      "4",
       "8",
-      "13"
+      "13",
+      "12",
+      "4"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "det = (4)(4) - (1)(4) = 16 - 4 = 12",
     "explanation_en": "det = (4)(4) - (1)(4) = 16 - 4 = 12",
     "difficulty": 1,
@@ -4455,18 +4455,18 @@
     "question_zh": "矩陣 [[4,2],[2,4]] 的跡(trace)是：",
     "question_en": "The trace of [[4,2],[2,4]] is:",
     "options_zh": [
-      "8",
-      "16",
       "12",
-      "12 (備選)"
+      "12 (備選)",
+      "16",
+      "8"
     ],
     "options_en": [
-      "8",
-      "16",
       "12",
-      "12 (alt)"
+      "12 (alt)",
+      "16",
+      "8"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 4 = 8",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 4 = 8",
     "difficulty": 1,
@@ -4483,18 +4483,18 @@
     "question_zh": "求矩陣 [[5,1],[1,2]] 的行列式。",
     "question_en": "Find the determinant of [[5,1],[1,2]].",
     "options_zh": [
-      "10",
-      "9",
       "7",
-      "1"
+      "1",
+      "9",
+      "10"
     ],
     "options_en": [
-      "10",
-      "9",
       "7",
-      "1"
+      "1",
+      "9",
+      "10"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "det = (5)(2) - (1)(1) = 10 - 1 = 9",
     "explanation_en": "det = (5)(2) - (1)(1) = 10 - 1 = 9",
     "difficulty": 1,
@@ -4511,18 +4511,18 @@
     "question_zh": "矩陣 [[5,5],[5,1]] 的跡(trace)是：",
     "question_en": "The trace of [[5,5],[5,1]] is:",
     "options_zh": [
-      "5",
       "16",
-      "-20",
-      "6"
+      "5",
+      "6",
+      "-20"
     ],
     "options_en": [
-      "5",
       "16",
-      "-20",
-      "6"
+      "5",
+      "6",
+      "-20"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 1 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 1 = 6",
     "difficulty": 1,
@@ -4539,15 +4539,15 @@
     "question_zh": "求矩陣 [[2,2],[1,4]] 的行列式。",
     "question_en": "Find the determinant of [[2,2],[1,4]].",
     "options_zh": [
-      "6 (備選)",
-      "2",
       "7",
+      "2",
+      "6 (備選)",
       "6"
     ],
     "options_en": [
-      "6 (alt)",
-      "2",
       "7",
+      "2",
+      "6 (alt)",
       "6"
     ],
     "answer": 3,
@@ -4567,18 +4567,18 @@
     "question_zh": "矩陣 [[5,3],[3,4]] 的跡(trace)是：",
     "question_en": "The trace of [[5,3],[3,4]] is:",
     "options_zh": [
-      "20",
-      "9",
+      "11",
       "15",
-      "11"
+      "9",
+      "20"
     ],
     "options_en": [
-      "20",
-      "9",
+      "11",
       "15",
-      "11"
+      "9",
+      "20"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 4 = 9",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 4 = 9",
     "difficulty": 1,
@@ -4595,18 +4595,18 @@
     "question_zh": "求矩陣 [[2,2],[1,5]] 的行列式。",
     "question_en": "Find the determinant of [[2,2],[1,5]].",
     "options_zh": [
+      "8",
       "2",
       "9",
-      "7",
-      "8"
+      "7"
     ],
     "options_en": [
+      "8",
       "2",
       "9",
-      "7",
-      "8"
+      "7"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "det = (2)(5) - (2)(1) = 10 - 2 = 8",
     "explanation_en": "det = (2)(5) - (2)(1) = 10 - 2 = 8",
     "difficulty": 1,
@@ -4623,18 +4623,18 @@
     "question_zh": "矩陣 [[3,4],[3,5]] 的跡(trace)是：",
     "question_en": "The trace of [[3,4],[3,5]] is:",
     "options_zh": [
-      "15",
-      "15 (備選)",
+      "3",
       "8",
-      "3"
+      "15",
+      "15 (備選)"
     ],
     "options_en": [
-      "15",
-      "15 (alt)",
+      "3",
       "8",
-      "3"
+      "15",
+      "15 (alt)"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 5 = 8",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 5 = 8",
     "difficulty": 1,
@@ -4652,15 +4652,15 @@
     "question_en": "Find the determinant of [[1,4],[1,1]].",
     "options_zh": [
       "-3",
-      "4",
       "-2",
-      "2"
+      "2",
+      "4"
     ],
     "options_en": [
       "-3",
-      "4",
       "-2",
-      "2"
+      "2",
+      "4"
     ],
     "answer": 0,
     "explanation_zh": "det = (1)(1) - (4)(1) = 1 - 4 = -3",
@@ -4679,16 +4679,16 @@
     "question_zh": "矩陣 [[4,4],[4,1]] 的跡(trace)是：",
     "question_en": "The trace of [[4,4],[4,1]] is:",
     "options_zh": [
-      "4",
-      "5",
       "-12",
-      "13"
+      "5",
+      "13",
+      "4"
     ],
     "options_en": [
-      "4",
-      "5",
       "-12",
-      "13"
+      "5",
+      "13",
+      "4"
     ],
     "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 1 = 5",
@@ -4707,18 +4707,18 @@
     "question_zh": "求矩陣 [[3,3],[3,1]] 的行列式。",
     "question_en": "Find the determinant of [[3,3],[3,1]].",
     "options_zh": [
+      "-6",
       "-5",
-      "9",
       "4",
-      "-6"
+      "9"
     ],
     "options_en": [
+      "-6",
       "-5",
-      "9",
       "4",
-      "-6"
+      "9"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "det = (3)(1) - (3)(3) = 3 - 9 = -6",
     "explanation_en": "det = (3)(1) - (3)(3) = 3 - 9 = -6",
     "difficulty": 1,
@@ -4735,18 +4735,18 @@
     "question_zh": "矩陣 [[4,3],[2,1]] 的跡(trace)是：",
     "question_en": "The trace of [[4,3],[2,1]] is:",
     "options_zh": [
+      "4",
       "5",
       "10",
-      "4",
       "-2"
     ],
     "options_en": [
+      "4",
       "5",
       "10",
-      "4",
       "-2"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 1 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 1 = 5",
     "difficulty": 1,
@@ -4763,18 +4763,18 @@
     "question_zh": "求矩陣 [[4,4],[1,3]] 的行列式。 (變體1)",
     "question_en": "Find the determinant of [[4,4],[1,3]]. (v1)",
     "options_zh": [
+      "9",
       "4",
-      "8",
       "7",
-      "9"
+      "8"
     ],
     "options_en": [
+      "9",
       "4",
-      "8",
       "7",
-      "9"
+      "8"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "det = (4)(3) - (4)(1) = 12 - 4 = 8",
     "explanation_en": "det = (4)(3) - (4)(1) = 12 - 4 = 8",
     "difficulty": 1,
@@ -4791,18 +4791,18 @@
     "question_zh": "矩陣 [[3,1],[2,2]] 的跡(trace)是：",
     "question_en": "The trace of [[3,1],[2,2]] is:",
     "options_zh": [
+      "6",
       "8",
-      "5",
       "4",
-      "6"
+      "5"
     ],
     "options_en": [
+      "6",
       "8",
-      "5",
       "4",
-      "6"
+      "5"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 2 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 2 = 5",
     "difficulty": 1,
@@ -4819,18 +4819,18 @@
     "question_zh": "求矩陣 [[2,5],[1,2]] 的行列式。",
     "question_en": "Find the determinant of [[2,5],[1,2]].",
     "options_zh": [
-      "-1",
       "4",
-      "0",
-      "5"
+      "5",
+      "-1",
+      "0"
     ],
     "options_en": [
-      "-1",
       "4",
-      "0",
-      "5"
+      "5",
+      "-1",
+      "0"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "det = (2)(2) - (5)(1) = 4 - 5 = -1",
     "explanation_en": "det = (2)(2) - (5)(1) = 4 - 5 = -1",
     "difficulty": 1,
@@ -4847,18 +4847,18 @@
     "question_zh": "矩陣 [[5,2],[2,4]] 的跡(trace)是： (變體1)",
     "question_en": "The trace of [[5,2],[2,4]] is: (v1)",
     "options_zh": [
-      "16",
       "13",
       "9",
+      "16",
       "20"
     ],
     "options_en": [
-      "16",
       "13",
       "9",
+      "16",
       "20"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 4 = 9",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 4 = 9",
     "difficulty": 1,
@@ -4875,18 +4875,18 @@
     "question_zh": "求矩陣 [[1,1],[5,2]] 的行列式。",
     "question_en": "Find the determinant of [[1,1],[5,2]].",
     "options_zh": [
-      "3",
-      "-2",
       "-3",
-      "5"
+      "5",
+      "-2",
+      "3"
     ],
     "options_en": [
-      "3",
-      "-2",
       "-3",
-      "5"
+      "5",
+      "-2",
+      "3"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "det = (1)(2) - (1)(5) = 2 - 5 = -3",
     "explanation_en": "det = (1)(2) - (1)(5) = 2 - 5 = -3",
     "difficulty": 1,
@@ -4903,18 +4903,18 @@
     "question_zh": "矩陣 [[3,3],[5,4]] 的跡(trace)是：",
     "question_en": "The trace of [[3,3],[5,4]] is:",
     "options_zh": [
+      "12",
       "-3",
       "7",
-      "15",
-      "12"
+      "15"
     ],
     "options_en": [
+      "12",
       "-3",
       "7",
-      "15",
-      "12"
+      "15"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 4 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 4 = 7",
     "difficulty": 1,
@@ -4931,18 +4931,18 @@
     "question_zh": "求矩陣 [[2,4],[2,2]] 的行列式。",
     "question_en": "Find the determinant of [[2,4],[2,2]].",
     "options_zh": [
-      "-4",
+      "8",
       "-3",
       "4",
-      "8"
+      "-4"
     ],
     "options_en": [
-      "-4",
+      "8",
       "-3",
       "4",
-      "8"
+      "-4"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "det = (2)(2) - (4)(2) = 4 - 8 = -4",
     "explanation_en": "det = (2)(2) - (4)(2) = 4 - 8 = -4",
     "difficulty": 1,
@@ -4987,18 +4987,18 @@
     "question_zh": "求矩陣 [[1,2],[1,4]] 的行列式。",
     "question_en": "Find the determinant of [[1,2],[1,4]].",
     "options_zh": [
-      "2",
-      "3",
+      "2 (備選)",
       "5",
-      "2 (備選)"
+      "2",
+      "3"
     ],
     "options_en": [
-      "2",
-      "3",
+      "2 (alt)",
       "5",
-      "2 (alt)"
+      "2",
+      "3"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "det = (1)(4) - (2)(1) = 4 - 2 = 2",
     "explanation_en": "det = (1)(4) - (2)(1) = 4 - 2 = 2",
     "difficulty": 1,
@@ -5015,18 +5015,18 @@
     "question_zh": "矩陣 [[2,3],[4,3]] 的跡(trace)是：",
     "question_en": "The trace of [[2,3],[4,3]] is:",
     "options_zh": [
-      "5",
       "12",
-      "-6",
-      "6"
+      "5",
+      "6",
+      "-6"
     ],
     "options_en": [
-      "5",
       "12",
-      "-6",
-      "6"
+      "5",
+      "6",
+      "-6"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 3 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 3 = 5",
     "difficulty": 1,
@@ -5043,18 +5043,18 @@
     "question_zh": "求矩陣 [[3,5],[3,1]] 的行列式。",
     "question_en": "Find the determinant of [[3,5],[3,1]].",
     "options_zh": [
-      "-11",
-      "15",
       "-12",
+      "15",
+      "-11",
       "4"
     ],
     "options_en": [
-      "-11",
-      "15",
       "-12",
+      "15",
+      "-11",
       "4"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "det = (3)(1) - (5)(3) = 3 - 15 = -12",
     "explanation_en": "det = (3)(1) - (5)(3) = 3 - 15 = -12",
     "difficulty": 1,
@@ -5071,16 +5071,16 @@
     "question_zh": "矩陣 [[1,3],[1,4]] 的跡(trace)是： (變體1)",
     "question_en": "The trace of [[1,3],[1,4]] is: (v1)",
     "options_zh": [
-      "1",
+      "9",
       "4",
       "5",
-      "9"
+      "1"
     ],
     "options_en": [
-      "1",
+      "9",
       "4",
       "5",
-      "9"
+      "1"
     ],
     "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 4 = 5",
@@ -5101,16 +5101,16 @@
     "options_zh": [
       "-6",
       "2",
-      "8",
-      "-7"
+      "-7",
+      "8"
     ],
     "options_en": [
       "-6",
       "2",
-      "8",
-      "-7"
+      "-7",
+      "8"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "det = (1)(1) - (2)(4) = 1 - 8 = -7",
     "explanation_en": "det = (1)(1) - (2)(4) = 1 - 8 = -7",
     "difficulty": 1,
@@ -5127,18 +5127,18 @@
     "question_zh": "矩陣 [[5,4],[5,5]] 的跡(trace)是：",
     "question_en": "The trace of [[5,4],[5,5]] is:",
     "options_zh": [
-      "10",
+      "5",
       "19",
       "25",
-      "5"
+      "10"
     ],
     "options_en": [
-      "10",
+      "5",
       "19",
       "25",
-      "5"
+      "10"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 5 = 10",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 5 = 10",
     "difficulty": 1,
@@ -5155,18 +5155,18 @@
     "question_zh": "求矩陣 [[2,2],[1,1]] 的行列式。",
     "question_en": "Find the determinant of [[2,2],[1,1]].",
     "options_zh": [
-      "0",
-      "3",
       "1",
-      "2"
+      "3",
+      "2",
+      "0"
     ],
     "options_en": [
-      "0",
-      "3",
       "1",
-      "2"
+      "3",
+      "2",
+      "0"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "det = (2)(1) - (2)(1) = 2 - 2 = 0",
     "explanation_en": "det = (2)(1) - (2)(1) = 2 - 2 = 0",
     "difficulty": 1,
@@ -5184,17 +5184,17 @@
     "question_en": "The trace of [[3,2],[1,4]] is:",
     "options_zh": [
       "10 (備選)",
+      "12",
       "10",
-      "7",
-      "12"
+      "7"
     ],
     "options_en": [
       "10 (alt)",
+      "12",
       "10",
-      "7",
-      "12"
+      "7"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 4 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 4 = 7",
     "difficulty": 1,
@@ -5212,15 +5212,15 @@
     "question_en": "Find the determinant of [[1,1],[4,4]].",
     "options_zh": [
       "4",
-      "5",
+      "1",
       "0",
-      "1"
+      "5"
     ],
     "options_en": [
       "4",
-      "5",
+      "1",
       "0",
-      "1"
+      "5"
     ],
     "answer": 2,
     "explanation_zh": "det = (1)(4) - (1)(4) = 4 - 4 = 0",
@@ -5239,18 +5239,18 @@
     "question_zh": "矩陣 [[4,5],[4,2]] 的跡(trace)是：",
     "question_en": "The trace of [[4,5],[4,2]] is:",
     "options_zh": [
-      "15",
-      "6",
       "-12",
-      "8"
+      "8",
+      "15",
+      "6"
     ],
     "options_en": [
-      "15",
-      "6",
       "-12",
-      "8"
+      "8",
+      "15",
+      "6"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 2 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 2 = 6",
     "difficulty": 1,
@@ -5267,18 +5267,18 @@
     "question_zh": "求矩陣 [[5,1],[3,4]] 的行列式。",
     "question_en": "Find the determinant of [[5,1],[3,4]].",
     "options_zh": [
-      "9",
-      "3",
+      "17",
       "18",
-      "17"
+      "3",
+      "9"
     ],
     "options_en": [
-      "9",
-      "3",
+      "17",
       "18",
-      "17"
+      "3",
+      "9"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "det = (5)(4) - (1)(3) = 20 - 3 = 17",
     "explanation_en": "det = (5)(4) - (1)(3) = 20 - 3 = 17",
     "difficulty": 1,
@@ -5295,18 +5295,18 @@
     "question_zh": "矩陣 [[4,3],[2,3]] 的跡(trace)是： (變體1)",
     "question_en": "The trace of [[4,3],[2,3]] is: (v1)",
     "options_zh": [
-      "7",
       "12",
-      "12 (備選)",
-      "6"
+      "6",
+      "7",
+      "12 (備選)"
     ],
     "options_en": [
-      "7",
       "12",
-      "12 (alt)",
-      "6"
+      "6",
+      "7",
+      "12 (alt)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 3 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 3 = 7",
     "difficulty": 1,
@@ -5323,18 +5323,18 @@
     "question_zh": "求矩陣 [[5,3],[5,1]] 的行列式。",
     "question_en": "Find the determinant of [[5,3],[5,1]].",
     "options_zh": [
-      "-10",
       "-9",
-      "15",
-      "6"
+      "6",
+      "-10",
+      "15"
     ],
     "options_en": [
-      "-10",
       "-9",
-      "15",
-      "6"
+      "6",
+      "-10",
+      "15"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "det = (5)(1) - (3)(5) = 5 - 15 = -10",
     "explanation_en": "det = (5)(1) - (3)(5) = 5 - 15 = -10",
     "difficulty": 1,
@@ -5351,18 +5351,18 @@
     "question_zh": "矩陣 [[4,4],[5,2]] 的跡(trace)是：",
     "question_en": "The trace of [[4,4],[5,2]] is:",
     "options_zh": [
+      "15",
       "8",
       "-12",
-      "6",
-      "15"
+      "6"
     ],
     "options_en": [
+      "15",
       "8",
       "-12",
-      "6",
-      "15"
+      "6"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 2 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 2 = 6",
     "difficulty": 1,
@@ -5379,18 +5379,18 @@
     "question_zh": "求矩陣 [[2,2],[5,2]] 的行列式。",
     "question_en": "Find the determinant of [[2,2],[5,2]].",
     "options_zh": [
+      "-6",
       "10",
       "4",
-      "-5",
-      "-6"
+      "-5"
     ],
     "options_en": [
+      "-6",
       "10",
       "4",
-      "-5",
-      "-6"
+      "-5"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "det = (2)(2) - (2)(5) = 4 - 10 = -6",
     "explanation_en": "det = (2)(2) - (2)(5) = 4 - 10 = -6",
     "difficulty": 1,
@@ -5407,18 +5407,18 @@
     "question_zh": "矩陣 [[2,2],[1,1]] 的跡(trace)是：",
     "question_en": "The trace of [[2,2],[1,1]] is:",
     "options_zh": [
-      "2",
       "0",
       "3",
+      "2",
       "6"
     ],
     "options_en": [
-      "2",
       "0",
       "3",
+      "2",
       "6"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 1 = 3",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 1 = 3",
     "difficulty": 1,
@@ -5436,15 +5436,15 @@
     "question_en": "Find the determinant of [[4,3],[5,1]].",
     "options_zh": [
       "5",
-      "-10",
+      "15",
       "-11",
-      "15"
+      "-10"
     ],
     "options_en": [
       "5",
-      "-10",
+      "15",
       "-11",
-      "15"
+      "-10"
     ],
     "answer": 2,
     "explanation_zh": "det = (4)(1) - (3)(5) = 4 - 15 = -11",
@@ -5463,18 +5463,18 @@
     "question_zh": "矩陣 [[2,2],[3,2]] 的跡(trace)是：",
     "question_en": "The trace of [[2,2],[3,2]] is:",
     "options_zh": [
-      "4 (備選)",
-      "9",
       "-2",
-      "4"
+      "4 (備選)",
+      "4",
+      "9"
     ],
     "options_en": [
-      "4 (alt)",
-      "9",
       "-2",
-      "4"
+      "4 (alt)",
+      "4",
+      "9"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 2 = 4",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 2 = 4",
     "difficulty": 1,
@@ -5492,14 +5492,14 @@
     "question_en": "Find the determinant of [[3,3],[4,5]].",
     "options_zh": [
       "3",
-      "8",
       "4",
+      "8",
       "12"
     ],
     "options_en": [
       "3",
-      "8",
       "4",
+      "8",
       "12"
     ],
     "answer": 0,
@@ -5519,18 +5519,18 @@
     "question_zh": "矩陣 [[5,5],[5,3]] 的跡(trace)是：",
     "question_en": "The trace of [[5,5],[5,3]] is:",
     "options_zh": [
+      "15",
       "18",
-      "8",
       "-10",
-      "15"
+      "8"
     ],
     "options_en": [
+      "15",
       "18",
-      "8",
       "-10",
-      "15"
+      "8"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 3 = 8",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 3 = 8",
     "difficulty": 1,
@@ -5547,18 +5547,18 @@
     "question_zh": "求矩陣 [[2,3],[4,3]] 的行列式。",
     "question_en": "Find the determinant of [[2,3],[4,3]].",
     "options_zh": [
+      "-5",
       "-6",
       "5",
-      "-5",
       "12"
     ],
     "options_en": [
+      "-5",
       "-6",
       "5",
-      "-5",
       "12"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "det = (2)(3) - (3)(4) = 6 - 12 = -6",
     "explanation_en": "det = (2)(3) - (3)(4) = 6 - 12 = -6",
     "difficulty": 1,
@@ -5577,16 +5577,16 @@
     "options_zh": [
       "3",
       "12",
-      "8",
-      "6"
+      "6",
+      "8"
     ],
     "options_en": [
       "3",
       "12",
-      "8",
-      "6"
+      "6",
+      "8"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 4 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 4 = 6",
     "difficulty": 1,
@@ -5603,18 +5603,18 @@
     "question_zh": "求矩陣 [[1,2],[2,1]] 的行列式。",
     "question_en": "Find the determinant of [[1,2],[2,1]].",
     "options_zh": [
-      "4",
-      "2",
       "-3",
-      "-2"
+      "4",
+      "-2",
+      "2"
     ],
     "options_en": [
-      "4",
-      "2",
       "-3",
-      "-2"
+      "4",
+      "-2",
+      "2"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "det = (1)(1) - (2)(2) = 1 - 4 = -3",
     "explanation_en": "det = (1)(1) - (2)(2) = 1 - 4 = -3",
     "difficulty": 1,
@@ -5631,18 +5631,18 @@
     "question_zh": "矩陣 [[2,1],[2,2]] 的跡(trace)是：",
     "question_en": "The trace of [[2,1],[2,2]] is:",
     "options_zh": [
+      "2",
       "7",
       "4 (備選)",
-      "4",
-      "2"
+      "4"
     ],
     "options_en": [
+      "2",
       "7",
       "4 (alt)",
-      "4",
-      "2"
+      "4"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 2 = 4",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 2 = 4",
     "difficulty": 1,
@@ -5660,17 +5660,17 @@
     "question_en": "Find the determinant of [[4,3],[1,5]].",
     "options_zh": [
       "3",
+      "17",
       "18",
-      "9",
-      "17"
+      "9"
     ],
     "options_en": [
       "3",
+      "17",
       "18",
-      "9",
-      "17"
+      "9"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "det = (4)(5) - (3)(1) = 20 - 3 = 17",
     "explanation_en": "det = (4)(5) - (3)(1) = 20 - 3 = 17",
     "difficulty": 1,
@@ -5688,14 +5688,14 @@
     "question_en": "The trace of [[4,4],[3,2]] is:",
     "options_zh": [
       "13",
-      "-4",
       "8",
+      "-4",
       "6"
     ],
     "options_en": [
       "13",
-      "-4",
       "8",
+      "-4",
       "6"
     ],
     "answer": 3,
@@ -5715,18 +5715,18 @@
     "question_zh": "求矩陣 [[5,4],[4,2]] 的行列式。",
     "question_en": "Find the determinant of [[5,4],[4,2]].",
     "options_zh": [
+      "16",
       "-5",
       "-6",
-      "7",
-      "16"
+      "7"
     ],
     "options_en": [
+      "16",
       "-5",
       "-6",
-      "7",
-      "16"
+      "7"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "det = (5)(2) - (4)(4) = 10 - 16 = -6",
     "explanation_en": "det = (5)(2) - (4)(4) = 10 - 16 = -6",
     "difficulty": 1,
@@ -5743,18 +5743,18 @@
     "question_zh": "矩陣 [[4,5],[3,5]] 的跡(trace)是：",
     "question_en": "The trace of [[4,5],[3,5]] is:",
     "options_zh": [
-      "5",
       "9",
-      "17",
-      "20"
+      "20",
+      "5",
+      "17"
     ],
     "options_en": [
-      "5",
       "9",
-      "17",
-      "20"
+      "20",
+      "5",
+      "17"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 5 = 9",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 5 = 9",
     "difficulty": 1,
@@ -5771,18 +5771,18 @@
     "question_zh": "求矩陣 [[4,1],[3,5]] 的行列式。 (變體1)",
     "question_en": "Find the determinant of [[4,1],[3,5]]. (v1)",
     "options_zh": [
-      "3",
-      "18",
+      "9",
       "17",
-      "9"
+      "3",
+      "18"
     ],
     "options_en": [
-      "3",
-      "18",
+      "9",
       "17",
-      "9"
+      "3",
+      "18"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "det = (4)(5) - (1)(3) = 20 - 3 = 17",
     "explanation_en": "det = (4)(5) - (1)(3) = 20 - 3 = 17",
     "difficulty": 1,
@@ -5800,14 +5800,14 @@
     "question_en": "The trace of [[3,3],[2,3]] is:",
     "options_zh": [
       "6",
-      "3",
       "9",
+      "3",
       "11"
     ],
     "options_en": [
       "6",
-      "3",
       "9",
+      "3",
       "11"
     ],
     "answer": 0,
@@ -5827,18 +5827,18 @@
     "question_zh": "求矩陣 [[3,4],[5,4]] 的行列式。 (變體1)",
     "question_en": "Find the determinant of [[3,4],[5,4]]. (v1)",
     "options_zh": [
-      "-8",
       "20",
-      "-7",
-      "7"
+      "-8",
+      "7",
+      "-7"
     ],
     "options_en": [
-      "-8",
       "20",
-      "-7",
-      "7"
+      "-8",
+      "7",
+      "-7"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "det = (3)(4) - (4)(5) = 12 - 20 = -8",
     "explanation_en": "det = (3)(4) - (4)(5) = 12 - 20 = -8",
     "difficulty": 1,
@@ -5855,16 +5855,16 @@
     "question_zh": "矩陣 [[1,3],[5,3]] 的跡(trace)是：",
     "question_en": "The trace of [[1,3],[5,3]] is:",
     "options_zh": [
-      "12",
+      "-12",
       "3",
       "4",
-      "-12"
+      "12"
     ],
     "options_en": [
-      "12",
+      "-12",
       "3",
       "4",
-      "-12"
+      "12"
     ],
     "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 3 = 4",
@@ -5883,18 +5883,18 @@
     "question_zh": "求矩陣 [[1,3],[4,1]] 的行列式。",
     "question_en": "Find the determinant of [[1,3],[4,1]].",
     "options_zh": [
+      "12",
       "-11",
-      "2",
       "-10",
-      "12"
+      "2"
     ],
     "options_en": [
+      "12",
       "-11",
-      "2",
       "-10",
-      "12"
+      "2"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "det = (1)(1) - (3)(4) = 1 - 12 = -11",
     "explanation_en": "det = (1)(1) - (3)(4) = 1 - 12 = -11",
     "difficulty": 1,
@@ -5911,18 +5911,18 @@
     "question_zh": "矩陣 [[5,2],[1,2]] 的跡(trace)是：",
     "question_en": "The trace of [[5,2],[1,2]] is:",
     "options_zh": [
-      "7",
-      "10",
+      "10 (備選)",
       "8",
-      "10 (備選)"
+      "10",
+      "7"
     ],
     "options_en": [
-      "7",
-      "10",
+      "10 (alt)",
       "8",
-      "10 (alt)"
+      "10",
+      "7"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 2 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 2 = 7",
     "difficulty": 1,
@@ -5939,18 +5939,18 @@
     "question_zh": "求矩陣 [[4,1],[1,5]] 的行列式。",
     "question_en": "Find the determinant of [[4,1],[1,5]].",
     "options_zh": [
-      "20",
-      "1",
       "19",
-      "9"
+      "9",
+      "20",
+      "1"
     ],
     "options_en": [
-      "20",
-      "1",
       "19",
-      "9"
+      "9",
+      "20",
+      "1"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "det = (4)(5) - (1)(1) = 20 - 1 = 19",
     "explanation_en": "det = (4)(5) - (1)(1) = 20 - 1 = 19",
     "difficulty": 1,
@@ -5967,15 +5967,15 @@
     "question_zh": "矩陣 [[3,2],[3,3]] 的跡(trace)是：",
     "question_en": "The trace of [[3,2],[3,3]] is:",
     "options_zh": [
+      "11",
       "9",
       "3",
-      "11",
       "6"
     ],
     "options_en": [
+      "11",
       "9",
       "3",
-      "11",
       "6"
     ],
     "answer": 3,
@@ -5995,18 +5995,18 @@
     "question_zh": "求矩陣 [[4,4],[5,1]] 的行列式。",
     "question_en": "Find the determinant of [[4,4],[5,1]].",
     "options_zh": [
-      "-15",
       "20",
       "-16",
-      "5"
+      "5",
+      "-15"
     ],
     "options_en": [
-      "-15",
       "20",
       "-16",
-      "5"
+      "5",
+      "-15"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "det = (4)(1) - (4)(5) = 4 - 20 = -16",
     "explanation_en": "det = (4)(1) - (4)(5) = 4 - 20 = -16",
     "difficulty": 1,
@@ -6024,17 +6024,17 @@
     "question_en": "The trace of [[5,2],[4,5]] is:",
     "options_zh": [
       "16",
+      "17",
       "10",
-      "25",
-      "17"
+      "25"
     ],
     "options_en": [
       "16",
+      "17",
       "10",
-      "25",
-      "17"
+      "25"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 5 = 10",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 5 = 10",
     "difficulty": 1,
@@ -6051,18 +6051,18 @@
     "question_zh": "求矩陣 [[2,2],[2,1]] 的行列式。",
     "question_en": "Find the determinant of [[2,2],[2,1]].",
     "options_zh": [
-      "4",
       "-2",
-      "3",
-      "-1"
+      "4",
+      "-1",
+      "3"
     ],
     "options_en": [
-      "4",
       "-2",
-      "3",
-      "-1"
+      "4",
+      "-1",
+      "3"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "det = (2)(1) - (2)(2) = 2 - 4 = -2",
     "explanation_en": "det = (2)(1) - (2)(2) = 2 - 4 = -2",
     "difficulty": 1,
@@ -6080,17 +6080,17 @@
     "question_en": "The trace of [[2,3],[5,5]] is: (v1)",
     "options_zh": [
       "10",
+      "7",
       "15",
-      "-5",
-      "7"
+      "-5"
     ],
     "options_en": [
       "10",
+      "7",
       "15",
-      "-5",
-      "7"
+      "-5"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 5 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 5 = 7",
     "difficulty": 1,
@@ -6108,17 +6108,17 @@
     "question_en": "Find the determinant of [[2,5],[5,5]].",
     "options_zh": [
       "7",
+      "25",
       "-15",
-      "-14",
-      "25"
+      "-14"
     ],
     "options_en": [
       "7",
+      "25",
       "-15",
-      "-14",
-      "25"
+      "-14"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "det = (2)(5) - (5)(5) = 10 - 25 = -15",
     "explanation_en": "det = (2)(5) - (5)(5) = 10 - 25 = -15",
     "difficulty": 1,
@@ -6135,16 +6135,16 @@
     "question_zh": "矩陣 [[1,5],[3,5]] 的跡(trace)是：",
     "question_en": "The trace of [[1,5],[3,5]] is:",
     "options_zh": [
-      "-10",
       "5",
+      "14",
       "6",
-      "14"
+      "-10"
     ],
     "options_en": [
-      "-10",
       "5",
+      "14",
       "6",
-      "14"
+      "-10"
     ],
     "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 5 = 6",
@@ -6163,18 +6163,18 @@
     "question_zh": "求矩陣 [[2,5],[2,3]] 的行列式。",
     "question_en": "Find the determinant of [[2,5],[2,3]].",
     "options_zh": [
-      "-4",
       "5",
-      "-3",
-      "10"
+      "-4",
+      "10",
+      "-3"
     ],
     "options_en": [
-      "-4",
       "5",
-      "-3",
-      "10"
+      "-4",
+      "10",
+      "-3"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "det = (2)(3) - (5)(2) = 6 - 10 = -4",
     "explanation_en": "det = (2)(3) - (5)(2) = 6 - 10 = -4",
     "difficulty": 1,
@@ -6219,18 +6219,18 @@
     "question_zh": "求矩陣 [[2,2],[5,5]] 的行列式。",
     "question_en": "Find the determinant of [[2,2],[5,5]].",
     "options_zh": [
-      "7",
-      "10",
       "1",
-      "0"
+      "0",
+      "7",
+      "10"
     ],
     "options_en": [
-      "7",
-      "10",
       "1",
-      "0"
+      "0",
+      "7",
+      "10"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "det = (2)(5) - (2)(5) = 10 - 10 = 0",
     "explanation_en": "det = (2)(5) - (2)(5) = 10 - 10 = 0",
     "difficulty": 1,
@@ -6247,18 +6247,18 @@
     "question_zh": "矩陣 [[4,2],[3,1]] 的跡(trace)是： (變體1)",
     "question_en": "The trace of [[4,2],[3,1]] is: (v1)",
     "options_zh": [
-      "10",
+      "5",
       "4",
       "-2",
-      "5"
+      "10"
     ],
     "options_en": [
-      "10",
+      "5",
       "4",
       "-2",
-      "5"
+      "10"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 1 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 1 = 5",
     "difficulty": 1,
@@ -6275,18 +6275,18 @@
     "question_zh": "求矩陣 [[4,3],[4,5]] 的行列式。 (變體1)",
     "question_en": "Find the determinant of [[4,3],[4,5]]. (v1)",
     "options_zh": [
-      "9",
-      "9 (備選)",
       "12",
-      "8"
+      "8",
+      "9",
+      "9 (備選)"
     ],
     "options_en": [
-      "9",
-      "9 (alt)",
       "12",
-      "8"
+      "8",
+      "9",
+      "9 (alt)"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "det = (4)(5) - (3)(4) = 20 - 12 = 8",
     "explanation_en": "det = (4)(5) - (3)(4) = 20 - 12 = 8",
     "difficulty": 1,
@@ -6303,18 +6303,18 @@
     "question_zh": "矩陣 [[4,4],[4,3]] 的跡(trace)是：",
     "question_en": "The trace of [[4,4],[4,3]] is:",
     "options_zh": [
-      "-4",
-      "12",
       "15",
-      "7"
+      "7",
+      "-4",
+      "12"
     ],
     "options_en": [
-      "-4",
-      "12",
       "15",
-      "7"
+      "7",
+      "-4",
+      "12"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 3 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 3 = 7",
     "difficulty": 1,
@@ -6331,18 +6331,18 @@
     "question_zh": "求矩陣 [[2,3],[1,1]] 的行列式。",
     "question_en": "Find the determinant of [[2,3],[1,1]].",
     "options_zh": [
-      "3 (備選)",
       "-1",
       "0",
-      "3"
+      "3",
+      "3 (備選)"
     ],
     "options_en": [
-      "3 (alt)",
       "-1",
       "0",
-      "3"
+      "3",
+      "3 (alt)"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "det = (2)(1) - (3)(1) = 2 - 3 = -1",
     "explanation_en": "det = (2)(1) - (3)(1) = 2 - 3 = -1",
     "difficulty": 1,
@@ -6359,18 +6359,18 @@
     "question_zh": "矩陣 [[3,5],[3,2]] 的跡(trace)是：",
     "question_en": "The trace of [[3,5],[3,2]] is:",
     "options_zh": [
-      "-9",
       "5",
+      "6",
       "13",
-      "6"
+      "-9"
     ],
     "options_en": [
-      "-9",
       "5",
+      "6",
       "13",
-      "6"
+      "-9"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 2 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 2 = 5",
     "difficulty": 1,
@@ -6388,15 +6388,15 @@
     "question_en": "Find the determinant of [[5,5],[1,1]].",
     "options_zh": [
       "0",
-      "1",
       "5",
-      "6"
+      "6",
+      "1"
     ],
     "options_en": [
       "0",
-      "1",
       "5",
-      "6"
+      "6",
+      "1"
     ],
     "answer": 0,
     "explanation_zh": "det = (5)(1) - (5)(1) = 5 - 5 = 0",
@@ -6415,18 +6415,18 @@
     "question_zh": "矩陣 [[4,2],[2,4]] 的跡(trace)是： (變體1)",
     "question_en": "The trace of [[4,2],[2,4]] is: (v1)",
     "options_zh": [
-      "8",
       "12 (備選)",
+      "12",
       "16",
-      "12"
+      "8"
     ],
     "options_en": [
-      "8",
       "12 (alt)",
+      "12",
       "16",
-      "12"
+      "8"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 4 = 8",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 4 = 8",
     "difficulty": 1,
@@ -6443,18 +6443,18 @@
     "question_zh": "求矩陣 [[2,2],[4,2]] 的行列式。",
     "question_en": "Find the determinant of [[2,2],[4,2]].",
     "options_zh": [
-      "8",
-      "-4",
       "4",
-      "-3"
+      "-3",
+      "8",
+      "-4"
     ],
     "options_en": [
-      "8",
-      "-4",
       "4",
-      "-3"
+      "-3",
+      "8",
+      "-4"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "det = (2)(2) - (2)(4) = 4 - 8 = -4",
     "explanation_en": "det = (2)(2) - (2)(4) = 4 - 8 = -4",
     "difficulty": 1,
@@ -6472,17 +6472,17 @@
     "question_en": "The trace of [[4,4],[5,2]] is: (v1)",
     "options_zh": [
       "8",
-      "-12",
+      "6",
       "15",
-      "6"
+      "-12"
     ],
     "options_en": [
       "8",
-      "-12",
+      "6",
       "15",
-      "6"
+      "-12"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 2 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 2 = 6",
     "difficulty": 1,
@@ -6499,18 +6499,18 @@
     "question_zh": "求矩陣 [[2,3],[1,2]] 的行列式。",
     "question_en": "Find the determinant of [[2,3],[1,2]].",
     "options_zh": [
-      "4",
-      "3",
       "2",
-      "1"
+      "4",
+      "1",
+      "3"
     ],
     "options_en": [
-      "4",
-      "3",
       "2",
-      "1"
+      "4",
+      "1",
+      "3"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "det = (2)(2) - (3)(1) = 4 - 3 = 1",
     "explanation_en": "det = (2)(2) - (3)(1) = 4 - 3 = 1",
     "difficulty": 1,
@@ -6527,18 +6527,18 @@
     "question_zh": "矩陣 [[3,2],[4,1]] 的跡(trace)是：",
     "question_en": "The trace of [[3,2],[4,1]] is:",
     "options_zh": [
-      "4",
-      "3",
       "-5",
+      "3",
+      "4",
       "10"
     ],
     "options_en": [
-      "4",
-      "3",
       "-5",
+      "3",
+      "4",
       "10"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 1 = 4",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 1 = 4",
     "difficulty": 1,
@@ -6556,14 +6556,14 @@
     "question_en": "Find the determinant of [[5,2],[2,4]].",
     "options_zh": [
       "4",
-      "9",
       "17",
+      "9",
       "16"
     ],
     "options_en": [
       "4",
-      "9",
       "17",
+      "9",
       "16"
     ],
     "answer": 3,
@@ -6583,18 +6583,18 @@
     "question_zh": "矩陣 [[2,3],[3,1]] 的跡(trace)是：",
     "question_en": "The trace of [[2,3],[3,1]] is:",
     "options_zh": [
+      "3",
       "2",
       "-7",
-      "3",
       "9"
     ],
     "options_en": [
+      "3",
       "2",
       "-7",
-      "3",
       "9"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 1 = 3",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 1 = 3",
     "difficulty": 1,
@@ -6611,18 +6611,18 @@
     "question_zh": "求矩陣 [[1,5],[3,5]] 的行列式。 (變體1)",
     "question_en": "Find the determinant of [[1,5],[3,5]]. (v1)",
     "options_zh": [
-      "-10",
-      "15",
       "6",
-      "-9"
+      "-9",
+      "15",
+      "-10"
     ],
     "options_en": [
-      "-10",
-      "15",
       "6",
-      "-9"
+      "-9",
+      "15",
+      "-10"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "det = (1)(5) - (5)(3) = 5 - 15 = -10",
     "explanation_en": "det = (1)(5) - (5)(3) = 5 - 15 = -10",
     "difficulty": 1,
@@ -6639,18 +6639,18 @@
     "question_zh": "矩陣 [[1,5],[4,2]] 的跡(trace)是：",
     "question_en": "The trace of [[1,5],[4,2]] is:",
     "options_zh": [
-      "3",
+      "12",
       "-18",
       "2",
-      "12"
+      "3"
     ],
     "options_en": [
-      "3",
+      "12",
       "-18",
       "2",
-      "12"
+      "3"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 2 = 3",
     "explanation_en": "Trace = sum of diagonal elements = 1 + 2 = 3",
     "difficulty": 1,
@@ -6667,18 +6667,18 @@
     "question_zh": "求矩陣 [[4,3],[1,5]] 的行列式。 (變體1)",
     "question_en": "Find the determinant of [[4,3],[1,5]]. (v1)",
     "options_zh": [
-      "17",
+      "9",
       "18",
-      "3",
-      "9"
+      "17",
+      "3"
     ],
     "options_en": [
-      "17",
+      "9",
       "18",
-      "3",
-      "9"
+      "17",
+      "3"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "det = (4)(5) - (3)(1) = 20 - 3 = 17",
     "explanation_en": "det = (4)(5) - (3)(1) = 20 - 3 = 17",
     "difficulty": 1,
@@ -6695,18 +6695,18 @@
     "question_zh": "矩陣 [[5,4],[2,1]] 的跡(trace)是：",
     "question_en": "The trace of [[5,4],[2,1]] is:",
     "options_zh": [
-      "5",
       "-3",
-      "12",
-      "6"
+      "6",
+      "5",
+      "12"
     ],
     "options_en": [
-      "5",
       "-3",
-      "12",
-      "6"
+      "6",
+      "5",
+      "12"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 1 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 1 = 6",
     "difficulty": 1,
@@ -6724,17 +6724,17 @@
     "question_en": "Find the determinant of [[3,3],[1,4]].",
     "options_zh": [
       "10",
-      "7",
       "9",
-      "3"
+      "3",
+      "7"
     ],
     "options_en": [
       "10",
-      "7",
       "9",
-      "3"
+      "3",
+      "7"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "det = (3)(4) - (3)(1) = 12 - 3 = 9",
     "explanation_en": "det = (3)(4) - (3)(1) = 12 - 3 = 9",
     "difficulty": 1,
@@ -6753,16 +6753,16 @@
     "options_zh": [
       "12 (備選)",
       "8",
-      "12",
-      "7"
+      "7",
+      "12"
     ],
     "options_en": [
       "12 (alt)",
       "8",
-      "12",
-      "7"
+      "7",
+      "12"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 4 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 4 = 7",
     "difficulty": 1,
@@ -6779,18 +6779,18 @@
     "question_zh": "求矩陣 [[5,2],[4,3]] 的行列式。",
     "question_en": "Find the determinant of [[5,2],[4,3]].",
     "options_zh": [
-      "8 (備選)",
-      "8",
+      "8 (備選) (備選)",
       "7",
-      "8 (備選) (備選)"
+      "8",
+      "8 (備選)"
     ],
     "options_en": [
-      "8 (alt)",
-      "8",
+      "8 (alt) (alt)",
       "7",
-      "8 (alt) (alt)"
+      "8",
+      "8 (alt)"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "det = (5)(3) - (2)(4) = 15 - 8 = 7",
     "explanation_en": "det = (5)(3) - (2)(4) = 15 - 8 = 7",
     "difficulty": 1,
@@ -6809,14 +6809,14 @@
     "options_zh": [
       "-3",
       "3",
-      "9",
-      "2"
+      "2",
+      "9"
     ],
     "options_en": [
       "-3",
       "3",
-      "9",
-      "2"
+      "2",
+      "9"
     ],
     "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 1 = 3",
@@ -6835,14 +6835,14 @@
     "question_zh": "求矩陣 [[5,5],[3,2]] 的行列式。",
     "question_en": "Find the determinant of [[5,5],[3,2]].",
     "options_zh": [
-      "15",
       "-4",
+      "15",
       "-5",
       "7"
     ],
     "options_en": [
-      "15",
       "-4",
+      "15",
       "-5",
       "7"
     ],
@@ -6863,18 +6863,18 @@
     "question_zh": "矩陣 [[4,4],[4,1]] 的跡(trace)是： (變體1)",
     "question_en": "The trace of [[4,4],[4,1]] is: (v1)",
     "options_zh": [
-      "5",
+      "13",
       "4",
       "-12",
-      "13"
+      "5"
     ],
     "options_en": [
-      "5",
+      "13",
       "4",
       "-12",
-      "13"
+      "5"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 1 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 1 = 5",
     "difficulty": 1,
@@ -6891,18 +6891,18 @@
     "question_zh": "求矩陣 [[1,3],[3,3]] 的行列式。",
     "question_en": "Find the determinant of [[1,3],[3,3]].",
     "options_zh": [
-      "-5",
-      "4",
+      "-6",
       "9",
-      "-6"
+      "4",
+      "-5"
     ],
     "options_en": [
-      "-5",
-      "4",
+      "-6",
       "9",
-      "-6"
+      "4",
+      "-5"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "det = (1)(3) - (3)(3) = 3 - 9 = -6",
     "explanation_en": "det = (1)(3) - (3)(3) = 3 - 9 = -6",
     "difficulty": 1,
@@ -6919,18 +6919,18 @@
     "question_zh": "矩陣 [[5,3],[4,3]] 的跡(trace)是：",
     "question_en": "The trace of [[5,3],[4,3]] is:",
     "options_zh": [
-      "15 (備選)",
       "3",
       "15",
-      "8"
+      "8",
+      "15 (備選)"
     ],
     "options_en": [
-      "15 (alt)",
       "3",
       "15",
-      "8"
+      "8",
+      "15 (alt)"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 3 = 8",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 3 = 8",
     "difficulty": 1,
@@ -6947,18 +6947,18 @@
     "question_zh": "求矩陣 [[3,1],[1,1]] 的行列式。",
     "question_en": "Find the determinant of [[3,1],[1,1]].",
     "options_zh": [
-      "1",
-      "4",
       "3",
-      "2"
+      "2",
+      "1",
+      "4"
     ],
     "options_en": [
-      "1",
-      "4",
       "3",
-      "2"
+      "2",
+      "1",
+      "4"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "det = (3)(1) - (1)(1) = 3 - 1 = 2",
     "explanation_en": "det = (3)(1) - (1)(1) = 3 - 1 = 2",
     "difficulty": 1,
@@ -6975,18 +6975,18 @@
     "question_zh": "矩陣 [[4,2],[5,4]] 的跡(trace)是：",
     "question_en": "The trace of [[4,2],[5,4]] is:",
     "options_zh": [
-      "8",
-      "15",
       "6",
-      "16"
+      "8",
+      "16",
+      "15"
     ],
     "options_en": [
-      "8",
-      "15",
       "6",
-      "16"
+      "8",
+      "16",
+      "15"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 4 = 8",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 4 = 8",
     "difficulty": 1,
@@ -7004,17 +7004,17 @@
     "question_en": "Find the determinant of [[2,5],[4,3]].",
     "options_zh": [
       "-13",
+      "5",
       "-14",
-      "20",
-      "5"
+      "20"
     ],
     "options_en": [
       "-13",
+      "5",
       "-14",
-      "20",
-      "5"
+      "20"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "det = (2)(3) - (5)(4) = 6 - 20 = -14",
     "explanation_en": "det = (2)(3) - (5)(4) = 6 - 20 = -14",
     "difficulty": 1,
@@ -7031,18 +7031,18 @@
     "question_zh": "矩陣 [[1,4],[5,5]] 的跡(trace)是： (變體1)",
     "question_en": "The trace of [[1,4],[5,5]] is: (v1)",
     "options_zh": [
-      "5",
       "-15",
       "6",
+      "5",
       "15"
     ],
     "options_en": [
-      "5",
       "-15",
       "6",
+      "5",
       "15"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 5 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 1 + 5 = 6",
     "difficulty": 1,
@@ -7059,18 +7059,18 @@
     "question_zh": "求矩陣 [[5,4],[5,5]] 的行列式。",
     "question_en": "Find the determinant of [[5,4],[5,5]].",
     "options_zh": [
-      "20",
-      "5",
       "10",
-      "6"
+      "6",
+      "5",
+      "20"
     ],
     "options_en": [
-      "20",
-      "5",
       "10",
-      "6"
+      "6",
+      "5",
+      "20"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "det = (5)(5) - (4)(5) = 25 - 20 = 5",
     "explanation_en": "det = (5)(5) - (4)(5) = 25 - 20 = 5",
     "difficulty": 1,
@@ -7087,18 +7087,18 @@
     "question_zh": "矩陣 [[4,1],[5,1]] 的跡(trace)是：",
     "question_en": "The trace of [[4,1],[5,1]] is:",
     "options_zh": [
-      "5",
-      "-1",
       "11",
-      "4"
+      "4",
+      "5",
+      "-1"
     ],
     "options_en": [
-      "5",
-      "-1",
       "11",
-      "4"
+      "4",
+      "5",
+      "-1"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 1 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 1 = 5",
     "difficulty": 1,
@@ -7115,18 +7115,18 @@
     "question_zh": "求矩陣 [[5,1],[5,1]] 的行列式。",
     "question_en": "Find the determinant of [[5,1],[5,1]].",
     "options_zh": [
-      "6",
-      "0",
       "1",
-      "5"
+      "6",
+      "5",
+      "0"
     ],
     "options_en": [
-      "6",
-      "0",
       "1",
-      "5"
+      "6",
+      "5",
+      "0"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "det = (5)(1) - (1)(5) = 5 - 5 = 0",
     "explanation_en": "det = (5)(1) - (1)(5) = 5 - 5 = 0",
     "difficulty": 1,
@@ -7143,15 +7143,15 @@
     "question_zh": "矩陣 [[1,2],[3,5]] 的跡(trace)是：",
     "question_en": "The trace of [[1,2],[3,5]] is:",
     "options_zh": [
-      "5",
-      "6",
       "-1",
+      "6",
+      "5",
       "11"
     ],
     "options_en": [
-      "5",
-      "6",
       "-1",
+      "6",
+      "5",
       "11"
     ],
     "answer": 1,
@@ -7199,18 +7199,18 @@
     "question_zh": "矩陣 [[3,4],[4,5]] 的跡(trace)是：",
     "question_en": "The trace of [[3,4],[4,5]] is:",
     "options_zh": [
+      "-1",
       "15",
       "8",
-      "-1",
       "16"
     ],
     "options_en": [
+      "-1",
       "15",
       "8",
-      "-1",
       "16"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 5 = 8",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 5 = 8",
     "difficulty": 1,
@@ -7227,18 +7227,18 @@
     "question_zh": "求矩陣 [[5,1],[4,4]] 的行列式。 (變體1)",
     "question_en": "Find the determinant of [[5,1],[4,4]]. (v1)",
     "options_zh": [
-      "16",
-      "17",
       "9",
-      "4"
+      "16",
+      "4",
+      "17"
     ],
     "options_en": [
-      "16",
-      "17",
       "9",
-      "4"
+      "16",
+      "4",
+      "17"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "det = (5)(4) - (1)(4) = 20 - 4 = 16",
     "explanation_en": "det = (5)(4) - (1)(4) = 20 - 4 = 16",
     "difficulty": 1,
@@ -7255,16 +7255,16 @@
     "question_zh": "矩陣 [[1,2],[5,2]] 的跡(trace)是：",
     "question_en": "The trace of [[1,2],[5,2]] is:",
     "options_zh": [
+      "10",
       "2",
-      "-8",
       "3",
-      "10"
+      "-8"
     ],
     "options_en": [
+      "10",
       "2",
-      "-8",
       "3",
-      "10"
+      "-8"
     ],
     "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 2 = 3",
@@ -7283,18 +7283,18 @@
     "question_zh": "求矩陣 [[1,3],[1,3]] 的行列式。",
     "question_en": "Find the determinant of [[1,3],[1,3]].",
     "options_zh": [
-      "3",
       "4",
       "0",
+      "3",
       "1"
     ],
     "options_en": [
-      "3",
       "4",
       "0",
+      "3",
       "1"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "det = (1)(3) - (3)(1) = 3 - 3 = 0",
     "explanation_en": "det = (1)(3) - (3)(1) = 3 - 3 = 0",
     "difficulty": 1,
@@ -7311,18 +7311,18 @@
     "question_zh": "矩陣 [[4,1],[4,3]] 的跡(trace)是：",
     "question_en": "The trace of [[4,1],[4,3]] is:",
     "options_zh": [
-      "12",
-      "7",
       "8",
-      "12 (備選)"
+      "12 (備選)",
+      "12",
+      "7"
     ],
     "options_en": [
-      "12",
-      "7",
       "8",
-      "12 (alt)"
+      "12 (alt)",
+      "12",
+      "7"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 3 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 3 = 7",
     "difficulty": 1,
@@ -7339,18 +7339,18 @@
     "question_zh": "求矩陣 [[3,3],[3,2]] 的行列式。",
     "question_en": "Find the determinant of [[3,3],[3,2]].",
     "options_zh": [
-      "5",
-      "-3",
+      "-2",
       "9",
-      "-2"
+      "-3",
+      "5"
     ],
     "options_en": [
-      "5",
-      "-3",
+      "-2",
       "9",
-      "-2"
+      "-3",
+      "5"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "det = (3)(2) - (3)(3) = 6 - 9 = -3",
     "explanation_en": "det = (3)(2) - (3)(3) = 6 - 9 = -3",
     "difficulty": 1,
@@ -7368,17 +7368,17 @@
     "question_en": "The trace of [[3,4],[1,3]] is:",
     "options_zh": [
       "11",
-      "6",
+      "5",
       "9",
-      "5"
+      "6"
     ],
     "options_en": [
       "11",
-      "6",
+      "5",
       "9",
-      "5"
+      "6"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 3 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 3 = 6",
     "difficulty": 1,
@@ -7397,14 +7397,14 @@
     "options_zh": [
       "2",
       "6",
-      "6 (備選)",
-      "3"
+      "3",
+      "6 (備選)"
     ],
     "options_en": [
       "2",
       "6",
-      "6 (alt)",
-      "3"
+      "3",
+      "6 (alt)"
     ],
     "answer": 0,
     "explanation_zh": "det = (4)(2) - (3)(2) = 8 - 6 = 2",
@@ -7423,18 +7423,18 @@
     "question_zh": "矩陣 [[5,5],[3,4]] 的跡(trace)是：",
     "question_en": "The trace of [[5,5],[3,4]] is:",
     "options_zh": [
-      "17",
-      "5",
       "20",
-      "9"
+      "9",
+      "5",
+      "17"
     ],
     "options_en": [
-      "17",
-      "5",
       "20",
-      "9"
+      "9",
+      "5",
+      "17"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 4 = 9",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 4 = 9",
     "difficulty": 1,
@@ -7451,18 +7451,18 @@
     "question_zh": "求矩陣 [[3,2],[4,1]] 的行列式。",
     "question_en": "Find the determinant of [[3,2],[4,1]].",
     "options_zh": [
-      "-4",
       "-5",
+      "-4",
       "4",
       "8"
     ],
     "options_en": [
-      "-4",
       "-5",
+      "-4",
       "4",
       "8"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "det = (3)(1) - (2)(4) = 3 - 8 = -5",
     "explanation_en": "det = (3)(1) - (2)(4) = 3 - 8 = -5",
     "difficulty": 1,
@@ -7479,18 +7479,18 @@
     "question_zh": "矩陣 [[3,3],[5,5]] 的跡(trace)是：",
     "question_en": "The trace of [[3,3],[5,5]] is:",
     "options_zh": [
+      "8",
       "0",
       "15",
-      "8",
       "16"
     ],
     "options_en": [
+      "8",
       "0",
       "15",
-      "8",
       "16"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 5 = 8",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 5 = 8",
     "difficulty": 1,
@@ -7508,15 +7508,15 @@
     "question_en": "Find the determinant of [[2,3],[3,1]].",
     "options_zh": [
       "-7",
+      "9",
       "3",
-      "-6",
-      "9"
+      "-6"
     ],
     "options_en": [
       "-7",
+      "9",
       "3",
-      "-6",
-      "9"
+      "-6"
     ],
     "answer": 0,
     "explanation_zh": "det = (2)(1) - (3)(3) = 2 - 9 = -7",
@@ -7535,18 +7535,18 @@
     "question_zh": "矩陣 [[1,4],[3,5]] 的跡(trace)是：",
     "question_en": "The trace of [[1,4],[3,5]] is:",
     "options_zh": [
-      "13",
-      "5",
       "6",
+      "5",
+      "13",
       "-7"
     ],
     "options_en": [
-      "13",
-      "5",
       "6",
+      "5",
+      "13",
       "-7"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 5 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 1 + 5 = 6",
     "difficulty": 1,
@@ -7564,17 +7564,17 @@
     "question_en": "Find the determinant of [[4,2],[4,2]].",
     "options_zh": [
       "8",
+      "6",
       "0",
-      "1",
-      "6"
+      "1"
     ],
     "options_en": [
       "8",
+      "6",
       "0",
-      "1",
-      "6"
+      "1"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "det = (4)(2) - (2)(4) = 8 - 8 = 0",
     "explanation_en": "det = (4)(2) - (2)(4) = 8 - 8 = 0",
     "difficulty": 1,
@@ -7591,18 +7591,18 @@
     "question_zh": "矩陣 [[3,4],[3,3]] 的跡(trace)是：",
     "question_en": "The trace of [[3,4],[3,3]] is:",
     "options_zh": [
-      "6",
-      "13",
+      "-3",
       "9",
-      "-3"
+      "13",
+      "6"
     ],
     "options_en": [
-      "6",
-      "13",
+      "-3",
       "9",
-      "-3"
+      "13",
+      "6"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 3 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 3 = 6",
     "difficulty": 1,
@@ -7619,18 +7619,18 @@
     "question_zh": "求矩陣 [[4,3],[2,2]] 的行列式。 (變體1)",
     "question_en": "Find the determinant of [[4,3],[2,2]]. (v1)",
     "options_zh": [
-      "3",
-      "6",
+      "6 (備選)",
       "2",
-      "6 (備選)"
+      "6",
+      "3"
     ],
     "options_en": [
-      "3",
-      "6",
+      "6 (alt)",
       "2",
-      "6 (alt)"
+      "6",
+      "3"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "det = (4)(2) - (3)(2) = 8 - 6 = 2",
     "explanation_en": "det = (4)(2) - (3)(2) = 8 - 6 = 2",
     "difficulty": 1,
@@ -7649,14 +7649,14 @@
     "options_zh": [
       "7",
       "5",
-      "6",
-      "5 (備選)"
+      "5 (備選)",
+      "6"
     ],
     "options_en": [
       "7",
       "5",
-      "6",
-      "5 (alt)"
+      "5 (alt)",
+      "6"
     ],
     "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 2 = 5",
@@ -7675,18 +7675,18 @@
     "question_zh": "求矩陣 [[5,3],[5,5]] 的行列式。",
     "question_en": "Find the determinant of [[5,3],[5,5]].",
     "options_zh": [
-      "10",
       "11",
-      "10 (備選)",
-      "15"
+      "15",
+      "10",
+      "10 (備選)"
     ],
     "options_en": [
-      "10",
       "11",
-      "10 (alt)",
-      "15"
+      "15",
+      "10",
+      "10 (alt)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "det = (5)(5) - (3)(5) = 25 - 15 = 10",
     "explanation_en": "det = (5)(5) - (3)(5) = 25 - 15 = 10",
     "difficulty": 1,
@@ -7703,18 +7703,18 @@
     "question_zh": "矩陣 [[3,5],[5,2]] 的跡(trace)是：",
     "question_en": "The trace of [[3,5],[5,2]] is:",
     "options_zh": [
-      "6",
+      "5",
       "-19",
-      "15",
-      "5"
+      "6",
+      "15"
     ],
     "options_en": [
-      "6",
+      "5",
       "-19",
-      "15",
-      "5"
+      "6",
+      "15"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 2 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 2 = 5",
     "difficulty": 1,
@@ -7731,18 +7731,18 @@
     "question_zh": "求矩陣 [[4,5],[1,2]] 的行列式。",
     "question_en": "Find the determinant of [[4,5],[1,2]].",
     "options_zh": [
-      "6",
-      "3",
+      "5",
       "4",
-      "5"
+      "3",
+      "6"
     ],
     "options_en": [
-      "6",
-      "3",
+      "5",
       "4",
-      "5"
+      "3",
+      "6"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "det = (4)(2) - (5)(1) = 8 - 5 = 3",
     "explanation_en": "det = (4)(2) - (5)(1) = 8 - 5 = 3",
     "difficulty": 1,
@@ -7759,18 +7759,18 @@
     "question_zh": "矩陣 [[1,1],[5,4]] 的跡(trace)是：",
     "question_en": "The trace of [[1,1],[5,4]] is:",
     "options_zh": [
-      "4",
+      "5",
       "11",
-      "-1",
-      "5"
+      "4",
+      "-1"
     ],
     "options_en": [
-      "4",
+      "5",
       "11",
-      "-1",
-      "5"
+      "4",
+      "-1"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 4 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 1 + 4 = 5",
     "difficulty": 1,
@@ -7787,18 +7787,18 @@
     "question_zh": "求矩陣 [[3,2],[3,5]] 的行列式。",
     "question_en": "Find the determinant of [[3,2],[3,5]].",
     "options_zh": [
-      "8",
-      "10",
       "9",
-      "6"
+      "6",
+      "8",
+      "10"
     ],
     "options_en": [
-      "8",
-      "10",
       "9",
-      "6"
+      "6",
+      "8",
+      "10"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "det = (3)(5) - (2)(3) = 15 - 6 = 9",
     "explanation_en": "det = (3)(5) - (2)(3) = 15 - 6 = 9",
     "difficulty": 1,
@@ -7815,18 +7815,18 @@
     "question_zh": "矩陣 [[3,4],[2,4]] 的跡(trace)是：",
     "question_en": "The trace of [[3,4],[2,4]] is:",
     "options_zh": [
+      "4",
       "7",
       "13",
-      "4",
       "12"
     ],
     "options_en": [
+      "4",
       "7",
       "13",
-      "4",
       "12"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 4 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 4 = 7",
     "difficulty": 1,
@@ -7843,18 +7843,18 @@
     "question_zh": "求矩陣 [[1,3],[5,5]] 的行列式。 (變體1)",
     "question_en": "Find the determinant of [[1,3],[5,5]]. (v1)",
     "options_zh": [
-      "15",
-      "-9",
       "-10",
-      "6"
+      "-9",
+      "6",
+      "15"
     ],
     "options_en": [
-      "15",
-      "-9",
       "-10",
-      "6"
+      "-9",
+      "6",
+      "15"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "det = (1)(5) - (3)(5) = 5 - 15 = -10",
     "explanation_en": "det = (1)(5) - (3)(5) = 5 - 15 = -10",
     "difficulty": 1,
@@ -7873,14 +7873,14 @@
     "options_zh": [
       "-2",
       "5",
-      "10",
-      "4"
+      "4",
+      "10"
     ],
     "options_en": [
       "-2",
       "5",
-      "10",
-      "4"
+      "4",
+      "10"
     ],
     "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 4 = 5",
@@ -7901,14 +7901,14 @@
     "options_zh": [
       "-7",
       "-8",
-      "10",
-      "3"
+      "3",
+      "10"
     ],
     "options_en": [
       "-7",
       "-8",
-      "10",
-      "3"
+      "3",
+      "10"
     ],
     "answer": 1,
     "explanation_zh": "det = (1)(2) - (2)(5) = 2 - 10 = -8",
@@ -7927,18 +7927,18 @@
     "question_zh": "矩陣 [[3,1],[4,2]] 的跡(trace)是：",
     "question_en": "The trace of [[3,1],[4,2]] is:",
     "options_zh": [
+      "5",
       "6",
       "10",
-      "5",
       "2"
     ],
     "options_en": [
+      "5",
       "6",
       "10",
-      "5",
       "2"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 2 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 2 = 5",
     "difficulty": 1,
@@ -7955,18 +7955,18 @@
     "question_zh": "求矩陣 [[2,2],[2,4]] 的行列式。",
     "question_en": "Find the determinant of [[2,2],[2,4]].",
     "options_zh": [
-      "5",
-      "6",
+      "4",
       "4 (備選)",
-      "4"
+      "6",
+      "5"
     ],
     "options_en": [
-      "5",
-      "6",
+      "4",
       "4 (alt)",
-      "4"
+      "6",
+      "5"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "det = (2)(4) - (2)(2) = 8 - 4 = 4",
     "explanation_en": "det = (2)(4) - (2)(2) = 8 - 4 = 4",
     "difficulty": 1,
@@ -7983,18 +7983,18 @@
     "question_zh": "矩陣 [[2,2],[1,3]] 的跡(trace)是：",
     "question_en": "The trace of [[2,2],[1,3]] is:",
     "options_zh": [
-      "4",
-      "6",
       "5",
-      "8"
+      "6",
+      "8",
+      "4"
     ],
     "options_en": [
-      "4",
-      "6",
       "5",
-      "8"
+      "6",
+      "8",
+      "4"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 3 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 3 = 5",
     "difficulty": 1,
@@ -8011,18 +8011,18 @@
     "question_zh": "求矩陣 [[2,1],[5,4]] 的行列式。",
     "question_en": "Find the determinant of [[2,1],[5,4]].",
     "options_zh": [
-      "6",
-      "3",
       "4",
-      "5"
+      "6",
+      "5",
+      "3"
     ],
     "options_en": [
-      "6",
-      "3",
       "4",
-      "5"
+      "6",
+      "5",
+      "3"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "det = (2)(4) - (1)(5) = 8 - 5 = 3",
     "explanation_en": "det = (2)(4) - (1)(5) = 8 - 5 = 3",
     "difficulty": 1,
@@ -8040,15 +8040,15 @@
     "question_en": "The trace of [[4,4],[5,5]] is:",
     "options_zh": [
       "9",
-      "20",
+      "0",
       "18",
-      "0"
+      "20"
     ],
     "options_en": [
       "9",
-      "20",
+      "0",
       "18",
-      "0"
+      "20"
     ],
     "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 5 = 9",
@@ -8067,15 +8067,15 @@
     "question_zh": "求矩陣 [[5,2],[4,2]] 的行列式。",
     "question_en": "Find the determinant of [[5,2],[4,2]].",
     "options_zh": [
-      "8",
-      "7",
       "3",
+      "7",
+      "8",
       "2"
     ],
     "options_en": [
-      "8",
-      "7",
       "3",
+      "7",
+      "8",
       "2"
     ],
     "answer": 3,
@@ -8095,18 +8095,18 @@
     "question_zh": "矩陣 [[5,5],[4,5]] 的跡(trace)是：",
     "question_en": "The trace of [[5,5],[4,5]] is:",
     "options_zh": [
-      "5",
       "19",
       "25",
-      "10"
+      "10",
+      "5"
     ],
     "options_en": [
-      "5",
       "19",
       "25",
-      "10"
+      "10",
+      "5"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 5 = 10",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 5 = 10",
     "difficulty": 1,
@@ -8124,15 +8124,15 @@
     "question_en": "Find the determinant of [[4,3],[3,3]].",
     "options_zh": [
       "3",
-      "7",
       "9",
-      "4"
+      "4",
+      "7"
     ],
     "options_en": [
       "3",
-      "7",
       "9",
-      "4"
+      "4",
+      "7"
     ],
     "answer": 0,
     "explanation_zh": "det = (4)(3) - (3)(3) = 12 - 9 = 3",
@@ -8151,15 +8151,15 @@
     "question_zh": "矩陣 [[4,3],[3,2]] 的跡(trace)是： (變體1)",
     "question_en": "The trace of [[4,3],[3,2]] is: (v1)",
     "options_zh": [
-      "12",
-      "-1",
       "8",
+      "-1",
+      "12",
       "6"
     ],
     "options_en": [
-      "12",
-      "-1",
       "8",
+      "-1",
+      "12",
       "6"
     ],
     "answer": 3,
@@ -8179,18 +8179,18 @@
     "question_zh": "求矩陣 [[3,5],[3,1]] 的行列式。 (變體1)",
     "question_en": "Find the determinant of [[3,5],[3,1]]. (v1)",
     "options_zh": [
+      "-12",
       "4",
       "15",
-      "-11",
-      "-12"
+      "-11"
     ],
     "options_en": [
+      "-12",
       "4",
       "15",
-      "-11",
-      "-12"
+      "-11"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "det = (3)(1) - (5)(3) = 3 - 15 = -12",
     "explanation_en": "det = (3)(1) - (5)(3) = 3 - 15 = -12",
     "difficulty": 1,
@@ -8207,18 +8207,18 @@
     "question_zh": "矩陣 [[2,3],[2,5]] 的跡(trace)是： (變體1)",
     "question_en": "The trace of [[2,3],[2,5]] is: (v1)",
     "options_zh": [
-      "7",
       "10",
       "4",
+      "7",
       "12"
     ],
     "options_en": [
-      "7",
       "10",
       "4",
+      "7",
       "12"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 5 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 5 = 7",
     "difficulty": 1,
@@ -8235,16 +8235,16 @@
     "question_zh": "求矩陣 [[5,2],[1,5]] 的行列式。",
     "question_en": "Find the determinant of [[5,2],[1,5]].",
     "options_zh": [
-      "2",
+      "10",
       "23",
-      "24",
-      "10"
+      "2",
+      "24"
     ],
     "options_en": [
-      "2",
+      "10",
       "23",
-      "24",
-      "10"
+      "2",
+      "24"
     ],
     "answer": 1,
     "explanation_zh": "det = (5)(5) - (2)(1) = 25 - 2 = 23",
@@ -8264,17 +8264,17 @@
     "question_en": "The trace of [[4,5],[3,1]] is: (v1)",
     "options_zh": [
       "-11",
+      "13",
       "4",
-      "5",
-      "13"
+      "5"
     ],
     "options_en": [
       "-11",
+      "13",
       "4",
-      "5",
-      "13"
+      "5"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 1 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 1 = 5",
     "difficulty": 1,
@@ -8292,15 +8292,15 @@
     "question_en": "Find the determinant of [[5,2],[3,5]].",
     "options_zh": [
       "19",
+      "10",
       "6",
-      "20",
-      "10"
+      "20"
     ],
     "options_en": [
       "19",
+      "10",
       "6",
-      "20",
-      "10"
+      "20"
     ],
     "answer": 0,
     "explanation_zh": "det = (5)(5) - (2)(3) = 25 - 6 = 19",
@@ -8319,18 +8319,18 @@
     "question_zh": "矩陣 [[2,4],[3,5]] 的跡(trace)是：",
     "question_en": "The trace of [[2,4],[3,5]] is:",
     "options_zh": [
+      "-2",
       "10",
-      "7",
       "14",
-      "-2"
+      "7"
     ],
     "options_en": [
+      "-2",
       "10",
-      "7",
       "14",
-      "-2"
+      "7"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 5 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 5 = 7",
     "difficulty": 1,
@@ -8347,18 +8347,18 @@
     "question_zh": "求矩陣 [[1,4],[5,4]] 的行列式。",
     "question_en": "Find the determinant of [[1,4],[5,4]].",
     "options_zh": [
-      "20",
       "-16",
+      "5",
       "-15",
-      "5"
+      "20"
     ],
     "options_en": [
-      "20",
       "-16",
+      "5",
       "-15",
-      "5"
+      "20"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "det = (1)(4) - (4)(5) = 4 - 20 = -16",
     "explanation_en": "det = (1)(4) - (4)(5) = 4 - 20 = -16",
     "difficulty": 1,
@@ -8375,18 +8375,18 @@
     "question_zh": "矩陣 [[4,5],[4,1]] 的跡(trace)是：",
     "question_en": "The trace of [[4,5],[4,1]] is:",
     "options_zh": [
-      "5",
+      "-16",
       "4",
-      "14",
-      "-16"
+      "5",
+      "14"
     ],
     "options_en": [
-      "5",
+      "-16",
       "4",
-      "14",
-      "-16"
+      "5",
+      "14"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 1 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 1 = 5",
     "difficulty": 1,
@@ -8404,15 +8404,15 @@
     "question_en": "Find the determinant of [[2,1],[5,4]]. (v1)",
     "options_zh": [
       "3",
-      "5",
+      "4",
       "6",
-      "4"
+      "5"
     ],
     "options_en": [
       "3",
-      "5",
+      "4",
       "6",
-      "4"
+      "5"
     ],
     "answer": 0,
     "explanation_zh": "det = (2)(4) - (1)(5) = 8 - 5 = 3",
@@ -8431,18 +8431,18 @@
     "question_zh": "矩陣 [[5,1],[3,4]] 的跡(trace)是：",
     "question_en": "The trace of [[5,1],[3,4]] is:",
     "options_zh": [
+      "20",
       "9",
       "13",
-      "20",
       "17"
     ],
     "options_en": [
+      "20",
       "9",
       "13",
-      "20",
       "17"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 4 = 9",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 4 = 9",
     "difficulty": 1,
@@ -8459,18 +8459,18 @@
     "question_zh": "求矩陣 [[2,1],[3,1]] 的行列式。",
     "question_en": "Find the determinant of [[2,1],[3,1]].",
     "options_zh": [
-      "3 (備選)",
-      "-1",
       "0",
-      "3"
+      "3",
+      "3 (備選)",
+      "-1"
     ],
     "options_en": [
-      "3 (alt)",
-      "-1",
       "0",
-      "3"
+      "3",
+      "3 (alt)",
+      "-1"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "det = (2)(1) - (1)(3) = 2 - 3 = -1",
     "explanation_en": "det = (2)(1) - (1)(3) = 2 - 3 = -1",
     "difficulty": 1,
@@ -8487,18 +8487,18 @@
     "question_zh": "矩陣 [[3,5],[3,1]] 的跡(trace)是：",
     "question_en": "The trace of [[3,5],[3,1]] is:",
     "options_zh": [
+      "4",
       "3",
       "12",
-      "-12",
-      "4"
+      "-12"
     ],
     "options_en": [
+      "4",
       "3",
       "12",
-      "-12",
-      "4"
+      "-12"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 1 = 4",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 1 = 4",
     "difficulty": 1,
@@ -8515,18 +8515,18 @@
     "question_zh": "求矩陣 [[5,4],[4,2]] 的行列式。 (變體1)",
     "question_en": "Find the determinant of [[5,4],[4,2]]. (v1)",
     "options_zh": [
-      "16",
       "-5",
       "-6",
+      "16",
       "7"
     ],
     "options_en": [
-      "16",
       "-5",
       "-6",
+      "16",
       "7"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "det = (5)(2) - (4)(4) = 10 - 16 = -6",
     "explanation_en": "det = (5)(2) - (4)(4) = 10 - 16 = -6",
     "difficulty": 1,
@@ -8543,18 +8543,18 @@
     "question_zh": "矩陣 [[4,2],[4,3]] 的跡(trace)是：",
     "question_en": "The trace of [[4,2],[4,3]] is:",
     "options_zh": [
-      "13",
-      "12",
       "7",
-      "4"
+      "4",
+      "13",
+      "12"
     ],
     "options_en": [
-      "13",
-      "12",
       "7",
-      "4"
+      "4",
+      "13",
+      "12"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 3 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 3 = 7",
     "difficulty": 1,
@@ -8571,18 +8571,18 @@
     "question_zh": "求矩陣 [[5,3],[3,2]] 的行列式。",
     "question_en": "Find the determinant of [[5,3],[3,2]].",
     "options_zh": [
+      "9",
       "2",
       "7",
-      "1",
-      "9"
+      "1"
     ],
     "options_en": [
+      "9",
       "2",
       "7",
-      "1",
-      "9"
+      "1"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "det = (5)(2) - (3)(3) = 10 - 9 = 1",
     "explanation_en": "det = (5)(2) - (3)(3) = 10 - 9 = 1",
     "difficulty": 1,
@@ -8599,18 +8599,18 @@
     "question_zh": "矩陣 [[5,5],[4,2]] 的跡(trace)是：",
     "question_en": "The trace of [[5,5],[4,2]] is:",
     "options_zh": [
-      "16",
       "-10",
-      "7",
-      "10"
+      "16",
+      "10",
+      "7"
     ],
     "options_en": [
-      "16",
       "-10",
-      "7",
-      "10"
+      "16",
+      "10",
+      "7"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 2 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 2 = 7",
     "difficulty": 1,
@@ -8627,18 +8627,18 @@
     "question_zh": "求矩陣 [[5,5],[3,1]] 的行列式。",
     "question_en": "Find the determinant of [[5,5],[3,1]].",
     "options_zh": [
+      "-9",
       "-10",
       "15",
-      "-9",
       "6"
     ],
     "options_en": [
+      "-9",
       "-10",
       "15",
-      "-9",
       "6"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "det = (5)(1) - (5)(3) = 5 - 15 = -10",
     "explanation_en": "det = (5)(1) - (5)(3) = 5 - 15 = -10",
     "difficulty": 1,
@@ -8655,18 +8655,18 @@
     "question_zh": "矩陣 [[5,1],[3,5]] 的跡(trace)是：",
     "question_en": "The trace of [[5,1],[3,5]] is:",
     "options_zh": [
-      "25",
-      "10",
       "14",
-      "22"
+      "25",
+      "22",
+      "10"
     ],
     "options_en": [
-      "25",
-      "10",
       "14",
-      "22"
+      "25",
+      "22",
+      "10"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 5 = 10",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 5 = 10",
     "difficulty": 1,
@@ -8683,18 +8683,18 @@
     "question_zh": "求矩陣 [[1,1],[5,1]] 的行列式。",
     "question_en": "Find the determinant of [[1,1],[5,1]].",
     "options_zh": [
-      "-3",
-      "5",
       "-4",
-      "2"
+      "2",
+      "-3",
+      "5"
     ],
     "options_en": [
-      "-3",
-      "5",
       "-4",
-      "2"
+      "2",
+      "-3",
+      "5"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "det = (1)(1) - (1)(5) = 1 - 5 = -4",
     "explanation_en": "det = (1)(1) - (1)(5) = 1 - 5 = -4",
     "difficulty": 1,
@@ -8711,15 +8711,15 @@
     "question_zh": "矩陣 [[5,4],[2,2]] 的跡(trace)是：",
     "question_en": "The trace of [[5,4],[2,2]] is:",
     "options_zh": [
+      "10",
       "13",
       "2",
-      "10",
       "7"
     ],
     "options_en": [
+      "10",
       "13",
       "2",
-      "10",
       "7"
     ],
     "answer": 3,
@@ -8739,15 +8739,15 @@
     "question_zh": "求矩陣 [[2,5],[2,2]] 的行列式。",
     "question_en": "Find the determinant of [[2,5],[2,2]].",
     "options_zh": [
-      "-5",
-      "4",
       "10",
+      "4",
+      "-5",
       "-6"
     ],
     "options_en": [
-      "-5",
-      "4",
       "10",
+      "4",
+      "-5",
       "-6"
     ],
     "answer": 3,
@@ -8767,18 +8767,18 @@
     "question_zh": "矩陣 [[1,4],[1,3]] 的跡(trace)是：",
     "question_en": "The trace of [[1,4],[1,3]] is:",
     "options_zh": [
-      "4",
-      "3",
       "9",
-      "-1"
+      "4",
+      "-1",
+      "3"
     ],
     "options_en": [
-      "4",
-      "3",
       "9",
-      "-1"
+      "4",
+      "-1",
+      "3"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 3 = 4",
     "explanation_en": "Trace = sum of diagonal elements = 1 + 3 = 4",
     "difficulty": 1,
@@ -8795,18 +8795,18 @@
     "question_zh": "求矩陣 [[1,1],[4,5]] 的行列式。",
     "question_en": "Find the determinant of [[1,1],[4,5]].",
     "options_zh": [
-      "1",
       "2",
       "6",
-      "4"
+      "4",
+      "1"
     ],
     "options_en": [
-      "1",
       "2",
       "6",
-      "4"
+      "4",
+      "1"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "det = (1)(5) - (1)(4) = 5 - 4 = 1",
     "explanation_en": "det = (1)(5) - (1)(4) = 5 - 4 = 1",
     "difficulty": 1,
@@ -8851,18 +8851,18 @@
     "question_zh": "求矩陣 [[2,3],[2,1]] 的行列式。 (變體1)",
     "question_en": "Find the determinant of [[2,3],[2,1]]. (v1)",
     "options_zh": [
-      "-4",
+      "3",
       "-3",
       "6",
-      "3"
+      "-4"
     ],
     "options_en": [
-      "-4",
+      "3",
       "-3",
       "6",
-      "3"
+      "-4"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "det = (2)(1) - (3)(2) = 2 - 6 = -4",
     "explanation_en": "det = (2)(1) - (3)(2) = 2 - 6 = -4",
     "difficulty": 1,
@@ -8879,18 +8879,18 @@
     "question_zh": "矩陣 [[3,3],[2,4]] 的跡(trace)是：",
     "question_en": "The trace of [[3,3],[2,4]] is:",
     "options_zh": [
-      "12 (備選)",
-      "6",
+      "7",
       "12",
-      "7"
+      "12 (備選)",
+      "6"
     ],
     "options_en": [
-      "12 (alt)",
-      "6",
+      "7",
       "12",
-      "7"
+      "12 (alt)",
+      "6"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 4 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 4 = 7",
     "difficulty": 1,
@@ -8907,14 +8907,14 @@
     "question_zh": "求矩陣 [[3,4],[1,2]] 的行列式。",
     "question_en": "Find the determinant of [[3,4],[1,2]].",
     "options_zh": [
-      "5",
       "3",
+      "5",
       "4",
       "2"
     ],
     "options_en": [
-      "5",
       "3",
+      "5",
       "4",
       "2"
     ],
@@ -8935,18 +8935,18 @@
     "question_zh": "矩陣 [[3,4],[2,2]] 的跡(trace)是：",
     "question_en": "The trace of [[3,4],[2,2]] is:",
     "options_zh": [
-      "6",
-      "11",
       "5",
-      "-2"
+      "-2",
+      "6",
+      "11"
     ],
     "options_en": [
-      "6",
-      "11",
       "5",
-      "-2"
+      "-2",
+      "6",
+      "11"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 2 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 2 = 5",
     "difficulty": 1,
@@ -8963,18 +8963,18 @@
     "question_zh": "求矩陣 [[3,1],[3,4]] 的行列式。",
     "question_en": "Find the determinant of [[3,1],[3,4]].",
     "options_zh": [
-      "3",
-      "9",
       "10",
-      "7"
+      "7",
+      "9",
+      "3"
     ],
     "options_en": [
-      "3",
-      "9",
       "10",
-      "7"
+      "7",
+      "9",
+      "3"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "det = (3)(4) - (1)(3) = 12 - 3 = 9",
     "explanation_en": "det = (3)(4) - (1)(3) = 12 - 3 = 9",
     "difficulty": 1,
@@ -8993,14 +8993,14 @@
     "options_zh": [
       "-14",
       "2",
-      "10",
-      "1"
+      "1",
+      "10"
     ],
     "options_en": [
       "-14",
       "2",
-      "10",
-      "1"
+      "1",
+      "10"
     ],
     "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 1 = 2",
@@ -9020,15 +9020,15 @@
     "question_en": "Find the determinant of [[5,1],[5,1]]. (v1)",
     "options_zh": [
       "5",
-      "1",
+      "6",
       "0",
-      "6"
+      "1"
     ],
     "options_en": [
       "5",
-      "1",
+      "6",
       "0",
-      "6"
+      "1"
     ],
     "answer": 2,
     "explanation_zh": "det = (5)(1) - (1)(5) = 5 - 5 = 0",
@@ -9049,14 +9049,14 @@
     "options_zh": [
       "7",
       "4",
-      "3",
-      "1"
+      "1",
+      "3"
     ],
     "options_en": [
       "7",
       "4",
-      "3",
-      "1"
+      "1",
+      "3"
     ],
     "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 1 = 4",
@@ -9075,16 +9075,16 @@
     "question_zh": "求矩陣 [[5,1],[1,3]] 的行列式。",
     "question_en": "Find the determinant of [[5,1],[1,3]].",
     "options_zh": [
-      "1",
+      "15",
       "14",
-      "8",
-      "15"
+      "1",
+      "8"
     ],
     "options_en": [
-      "1",
+      "15",
       "14",
-      "8",
-      "15"
+      "1",
+      "8"
     ],
     "answer": 1,
     "explanation_zh": "det = (5)(3) - (1)(1) = 15 - 1 = 14",
@@ -9103,18 +9103,18 @@
     "question_zh": "矩陣 [[4,3],[1,5]] 的跡(trace)是：",
     "question_en": "The trace of [[4,3],[1,5]] is:",
     "options_zh": [
-      "13",
-      "20",
+      "9",
       "17",
-      "9"
+      "20",
+      "13"
     ],
     "options_en": [
-      "13",
-      "20",
+      "9",
       "17",
-      "9"
+      "20",
+      "13"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 5 = 9",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 5 = 9",
     "difficulty": 1,
@@ -9131,14 +9131,14 @@
     "question_zh": "求矩陣 [[5,3],[1,2]] 的行列式。",
     "question_en": "Find the determinant of [[5,3],[1,2]].",
     "options_zh": [
-      "3",
       "8",
+      "3",
       "7",
       "7 (備選)"
     ],
     "options_en": [
-      "3",
       "8",
+      "3",
       "7",
       "7 (alt)"
     ],
@@ -9159,18 +9159,18 @@
     "question_zh": "矩陣 [[2,5],[4,2]] 的跡(trace)是：",
     "question_en": "The trace of [[2,5],[4,2]] is:",
     "options_zh": [
-      "13",
-      "4",
+      "-16",
       "4 (備選)",
-      "-16"
+      "13",
+      "4"
     ],
     "options_en": [
-      "13",
-      "4",
+      "-16",
       "4 (alt)",
-      "-16"
+      "13",
+      "4"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 2 = 4",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 2 = 4",
     "difficulty": 1,
@@ -9187,18 +9187,18 @@
     "question_zh": "求矩陣 [[5,2],[3,1]] 的行列式。",
     "question_en": "Find the determinant of [[5,2],[3,1]].",
     "options_zh": [
-      "6 (備選)",
-      "6",
+      "0",
       "-1",
-      "0"
+      "6",
+      "6 (備選)"
     ],
     "options_en": [
-      "6 (alt)",
-      "6",
+      "0",
       "-1",
-      "0"
+      "6",
+      "6 (alt)"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "det = (5)(1) - (2)(3) = 5 - 6 = -1",
     "explanation_en": "det = (5)(1) - (2)(3) = 5 - 6 = -1",
     "difficulty": 1,
@@ -9215,18 +9215,18 @@
     "question_zh": "矩陣 [[2,5],[3,5]] 的跡(trace)是： (變體2)",
     "question_en": "The trace of [[2,5],[3,5]] is: (v2)",
     "options_zh": [
-      "7",
-      "15",
       "10",
-      "-5"
+      "7",
+      "-5",
+      "15"
     ],
     "options_en": [
-      "7",
-      "15",
       "10",
-      "-5"
+      "7",
+      "-5",
+      "15"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 5 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 5 = 7",
     "difficulty": 1,
@@ -9243,18 +9243,18 @@
     "question_zh": "求矩陣 [[2,4],[2,5]] 的行列式。",
     "question_en": "Find the determinant of [[2,4],[2,5]].",
     "options_zh": [
-      "8",
+      "2",
       "7",
-      "3",
-      "2"
+      "8",
+      "3"
     ],
     "options_en": [
-      "8",
+      "2",
       "7",
-      "3",
-      "2"
+      "8",
+      "3"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "det = (2)(5) - (4)(2) = 10 - 8 = 2",
     "explanation_en": "det = (2)(5) - (4)(2) = 10 - 8 = 2",
     "difficulty": 1,
@@ -9272,17 +9272,17 @@
     "question_en": "The trace of [[2,4],[1,5]] is:",
     "options_zh": [
       "6",
-      "12",
       "7",
+      "12",
       "10"
     ],
     "options_en": [
       "6",
-      "12",
       "7",
+      "12",
       "10"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 5 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 5 = 7",
     "difficulty": 1,
@@ -9300,17 +9300,17 @@
     "question_en": "Find the determinant of [[1,5],[1,3]].",
     "options_zh": [
       "-1",
+      "-2",
       "5",
-      "4",
-      "-2"
+      "4"
     ],
     "options_en": [
       "-1",
+      "-2",
       "5",
-      "4",
-      "-2"
+      "4"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "det = (1)(3) - (5)(1) = 3 - 5 = -2",
     "explanation_en": "det = (1)(3) - (5)(1) = 3 - 5 = -2",
     "difficulty": 1,
@@ -9327,18 +9327,18 @@
     "question_zh": "矩陣 [[3,1],[3,2]] 的跡(trace)是：",
     "question_en": "The trace of [[3,1],[3,2]] is:",
     "options_zh": [
-      "6",
       "5",
       "3",
-      "9"
+      "9",
+      "6"
     ],
     "options_en": [
-      "6",
       "5",
       "3",
-      "9"
+      "9",
+      "6"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 2 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 2 = 5",
     "difficulty": 1,
@@ -9355,18 +9355,18 @@
     "question_zh": "求矩陣 [[5,5],[2,1]] 的行列式。",
     "question_en": "Find the determinant of [[5,5],[2,1]].",
     "options_zh": [
+      "-5",
       "10",
       "-4",
-      "-5",
       "6"
     ],
     "options_en": [
+      "-5",
       "10",
       "-4",
-      "-5",
       "6"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "det = (5)(1) - (5)(2) = 5 - 10 = -5",
     "explanation_en": "det = (5)(1) - (5)(2) = 5 - 10 = -5",
     "difficulty": 1,
@@ -9383,18 +9383,18 @@
     "question_zh": "矩陣 [[4,2],[5,2]] 的跡(trace)是：",
     "question_en": "The trace of [[4,2],[5,2]] is:",
     "options_zh": [
-      "6",
       "-2",
+      "8",
       "13",
-      "8"
+      "6"
     ],
     "options_en": [
-      "6",
       "-2",
+      "8",
       "13",
-      "8"
+      "6"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 2 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 2 = 6",
     "difficulty": 1,
@@ -9411,18 +9411,18 @@
     "question_zh": "求矩陣 [[5,3],[4,5]] 的行列式。",
     "question_en": "Find the determinant of [[5,3],[4,5]].",
     "options_zh": [
-      "13",
-      "12",
       "14",
-      "10"
+      "10",
+      "13",
+      "12"
     ],
     "options_en": [
-      "13",
-      "12",
       "14",
-      "10"
+      "10",
+      "13",
+      "12"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "det = (5)(5) - (3)(4) = 25 - 12 = 13",
     "explanation_en": "det = (5)(5) - (3)(4) = 25 - 12 = 13",
     "difficulty": 1,
@@ -9467,18 +9467,18 @@
     "question_zh": "求矩陣 [[1,3],[2,3]] 的行列式。",
     "question_en": "Find the determinant of [[1,3],[2,3]].",
     "options_zh": [
+      "-2",
       "-3",
-      "4",
       "6",
-      "-2"
+      "4"
     ],
     "options_en": [
+      "-2",
       "-3",
-      "4",
       "6",
-      "-2"
+      "4"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "det = (1)(3) - (3)(2) = 3 - 6 = -3",
     "explanation_en": "det = (1)(3) - (3)(2) = 3 - 6 = -3",
     "difficulty": 1,
@@ -9496,15 +9496,15 @@
     "question_en": "The trace of [[2,2],[4,2]] is: (v1)",
     "options_zh": [
       "4",
-      "10",
+      "4 (備選)",
       "-4",
-      "4 (備選)"
+      "10"
     ],
     "options_en": [
       "4",
-      "10",
+      "4 (alt)",
       "-4",
-      "4 (alt)"
+      "10"
     ],
     "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 2 = 4",
@@ -9524,15 +9524,15 @@
     "question_en": "Find the determinant of [[4,1],[3,1]].",
     "options_zh": [
       "1",
-      "5",
+      "2",
       "3",
-      "2"
+      "5"
     ],
     "options_en": [
       "1",
-      "5",
+      "2",
       "3",
-      "2"
+      "5"
     ],
     "answer": 0,
     "explanation_zh": "det = (4)(1) - (1)(3) = 4 - 3 = 1",
@@ -9551,18 +9551,18 @@
     "question_zh": "矩陣 [[4,5],[1,5]] 的跡(trace)是：",
     "question_en": "The trace of [[4,5],[1,5]] is:",
     "options_zh": [
+      "15",
       "15 (備選)",
       "9",
-      "15",
       "20"
     ],
     "options_en": [
+      "15",
       "15 (alt)",
       "9",
-      "15",
       "20"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 5 = 9",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 5 = 9",
     "difficulty": 1,
@@ -9579,18 +9579,18 @@
     "question_zh": "求矩陣 [[1,3],[5,5]] 的行列式。 (變體2)",
     "question_en": "Find the determinant of [[1,3],[5,5]]. (v2)",
     "options_zh": [
-      "-9",
+      "-10",
       "6",
-      "15",
-      "-10"
+      "-9",
+      "15"
     ],
     "options_en": [
-      "-9",
+      "-10",
       "6",
-      "15",
-      "-10"
+      "-9",
+      "15"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "det = (1)(5) - (3)(5) = 5 - 15 = -10",
     "explanation_en": "det = (1)(5) - (3)(5) = 5 - 15 = -10",
     "difficulty": 1,
@@ -9607,18 +9607,18 @@
     "question_zh": "矩陣 [[5,5],[5,4]] 的跡(trace)是：",
     "question_en": "The trace of [[5,5],[5,4]] is:",
     "options_zh": [
-      "19",
       "20",
       "-5",
-      "9"
+      "9",
+      "19"
     ],
     "options_en": [
-      "19",
       "20",
       "-5",
-      "9"
+      "9",
+      "19"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 4 = 9",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 4 = 9",
     "difficulty": 1,
@@ -9635,18 +9635,18 @@
     "question_zh": "求矩陣 [[5,2],[3,3]] 的行列式。",
     "question_en": "Find the determinant of [[5,2],[3,3]].",
     "options_zh": [
+      "6",
       "9",
       "8",
-      "6",
       "10"
     ],
     "options_en": [
+      "6",
       "9",
       "8",
-      "6",
       "10"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "det = (5)(3) - (2)(3) = 15 - 6 = 9",
     "explanation_en": "det = (5)(3) - (2)(3) = 15 - 6 = 9",
     "difficulty": 1,
@@ -9663,14 +9663,14 @@
     "question_zh": "矩陣 [[2,4],[2,3]] 的跡(trace)是：",
     "question_en": "The trace of [[2,4],[2,3]] is:",
     "options_zh": [
-      "11",
       "-2",
+      "11",
       "6",
       "5"
     ],
     "options_en": [
-      "11",
       "-2",
+      "11",
       "6",
       "5"
     ],
@@ -9691,18 +9691,18 @@
     "question_zh": "求矩陣 [[4,4],[4,4]] 的行列式。",
     "question_en": "Find the determinant of [[4,4],[4,4]].",
     "options_zh": [
-      "1",
       "0",
+      "8",
       "16",
-      "8"
+      "1"
     ],
     "options_en": [
-      "1",
       "0",
+      "8",
       "16",
-      "8"
+      "1"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "det = (4)(4) - (4)(4) = 16 - 16 = 0",
     "explanation_en": "det = (4)(4) - (4)(4) = 16 - 16 = 0",
     "difficulty": 1,
@@ -9720,15 +9720,15 @@
     "question_en": "The trace of [[1,4],[1,4]] is:",
     "options_zh": [
       "10",
-      "0",
+      "4",
       "5",
-      "4"
+      "0"
     ],
     "options_en": [
       "10",
-      "0",
+      "4",
       "5",
-      "4"
+      "0"
     ],
     "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 4 = 5",
@@ -9747,18 +9747,18 @@
     "question_zh": "求矩陣 [[1,3],[5,4]] 的行列式。",
     "question_en": "Find the determinant of [[1,3],[5,4]].",
     "options_zh": [
-      "-11",
-      "5",
       "-10",
-      "15"
+      "-11",
+      "15",
+      "5"
     ],
     "options_en": [
-      "-11",
-      "5",
       "-10",
-      "15"
+      "-11",
+      "15",
+      "5"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "det = (1)(4) - (3)(5) = 4 - 15 = -11",
     "explanation_en": "det = (1)(4) - (3)(5) = 4 - 15 = -11",
     "difficulty": 1,
@@ -9776,17 +9776,17 @@
     "question_en": "The trace of [[5,4],[3,4]] is:",
     "options_zh": [
       "8",
-      "9",
       "16",
+      "9",
       "20"
     ],
     "options_en": [
       "8",
-      "9",
       "16",
+      "9",
       "20"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 4 = 9",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 4 = 9",
     "difficulty": 1,
@@ -9803,18 +9803,18 @@
     "question_zh": "求矩陣 [[3,1],[5,1]] 的行列式。",
     "question_en": "Find the determinant of [[3,1],[5,1]].",
     "options_zh": [
-      "-2",
       "-1",
       "4",
-      "5"
+      "5",
+      "-2"
     ],
     "options_en": [
-      "-2",
       "-1",
       "4",
-      "5"
+      "5",
+      "-2"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "det = (3)(1) - (1)(5) = 3 - 5 = -2",
     "explanation_en": "det = (3)(1) - (1)(5) = 3 - 5 = -2",
     "difficulty": 1,
@@ -9831,14 +9831,14 @@
     "question_zh": "矩陣 [[2,1],[3,5]] 的跡(trace)是：",
     "question_en": "The trace of [[2,1],[3,5]] is:",
     "options_zh": [
-      "11",
       "7 (備選)",
+      "11",
       "7",
       "10"
     ],
     "options_en": [
-      "11",
       "7 (alt)",
+      "11",
       "7",
       "10"
     ],
@@ -9859,18 +9859,18 @@
     "question_zh": "求矩陣 [[5,5],[2,3]] 的行列式。",
     "question_en": "Find the determinant of [[5,5],[2,3]].",
     "options_zh": [
-      "6",
       "5",
+      "10",
       "8",
-      "10"
+      "6"
     ],
     "options_en": [
-      "6",
       "5",
+      "10",
       "8",
-      "10"
+      "6"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "det = (5)(3) - (5)(2) = 15 - 10 = 5",
     "explanation_en": "det = (5)(3) - (5)(2) = 15 - 10 = 5",
     "difficulty": 1,
@@ -9888,14 +9888,14 @@
     "question_en": "The trace of [[1,5],[1,1]] is:",
     "options_zh": [
       "2",
-      "-4",
       "1",
+      "-4",
       "8"
     ],
     "options_en": [
       "2",
-      "-4",
       "1",
+      "-4",
       "8"
     ],
     "answer": 0,
@@ -9915,16 +9915,16 @@
     "question_zh": "求矩陣 [[3,4],[2,3]] 的行列式。 (變體1)",
     "question_en": "Find the determinant of [[3,4],[2,3]]. (v1)",
     "options_zh": [
-      "2",
+      "6",
       "8",
       "1",
-      "6"
+      "2"
     ],
     "options_en": [
-      "2",
+      "6",
       "8",
       "1",
-      "6"
+      "2"
     ],
     "answer": 2,
     "explanation_zh": "det = (3)(3) - (4)(2) = 9 - 8 = 1",
@@ -9943,18 +9943,18 @@
     "question_zh": "矩陣 [[5,1],[4,5]] 的跡(trace)是：",
     "question_en": "The trace of [[5,1],[4,5]] is:",
     "options_zh": [
+      "21",
       "15",
       "10",
-      "25",
-      "21"
+      "25"
     ],
     "options_en": [
+      "21",
       "15",
       "10",
-      "25",
-      "21"
+      "25"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 5 = 10",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 5 = 10",
     "difficulty": 1,
@@ -9971,18 +9971,18 @@
     "question_zh": "求矩陣 [[5,2],[5,3]] 的行列式。",
     "question_en": "Find the determinant of [[5,2],[5,3]].",
     "options_zh": [
-      "6",
       "8",
-      "5",
-      "10"
+      "6",
+      "10",
+      "5"
     ],
     "options_en": [
-      "6",
       "8",
-      "5",
-      "10"
+      "6",
+      "10",
+      "5"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "det = (5)(3) - (2)(5) = 15 - 10 = 5",
     "explanation_en": "det = (5)(3) - (2)(5) = 15 - 10 = 5",
     "difficulty": 1,
@@ -10000,17 +10000,17 @@
     "question_en": "The trace of [[1,2],[1,4]] is:",
     "options_zh": [
       "8",
-      "2",
+      "5",
       "4",
-      "5"
+      "2"
     ],
     "options_en": [
       "8",
-      "2",
+      "5",
       "4",
-      "5"
+      "2"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 4 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 1 + 4 = 5",
     "difficulty": 1,
@@ -10027,18 +10027,18 @@
     "question_zh": "求矩陣 [[2,2],[3,1]] 的行列式。",
     "question_en": "Find the determinant of [[2,2],[3,1]].",
     "options_zh": [
-      "-3",
       "3",
-      "-4",
-      "6"
+      "-3",
+      "6",
+      "-4"
     ],
     "options_en": [
-      "-3",
       "3",
-      "-4",
-      "6"
+      "-3",
+      "6",
+      "-4"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "det = (2)(1) - (2)(3) = 2 - 6 = -4",
     "explanation_en": "det = (2)(1) - (2)(3) = 2 - 6 = -4",
     "difficulty": 1,
@@ -10056,15 +10056,15 @@
     "question_en": "The trace of [[2,4],[2,5]] is:",
     "options_zh": [
       "7",
-      "10",
       "2",
-      "13"
+      "13",
+      "10"
     ],
     "options_en": [
       "7",
-      "10",
       "2",
-      "13"
+      "13",
+      "10"
     ],
     "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 5 = 7",
@@ -10083,18 +10083,18 @@
     "question_zh": "求矩陣 [[5,1],[1,4]] 的行列式。",
     "question_en": "Find the determinant of [[5,1],[1,4]].",
     "options_zh": [
-      "20",
-      "19",
       "9",
-      "1"
+      "20",
+      "1",
+      "19"
     ],
     "options_en": [
-      "20",
-      "19",
       "9",
-      "1"
+      "20",
+      "1",
+      "19"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "det = (5)(4) - (1)(1) = 20 - 1 = 19",
     "explanation_en": "det = (5)(4) - (1)(1) = 20 - 1 = 19",
     "difficulty": 1,
@@ -10111,18 +10111,18 @@
     "question_zh": "矩陣 [[2,1],[3,1]] 的跡(trace)是：",
     "question_en": "The trace of [[2,1],[3,1]] is:",
     "options_zh": [
-      "3",
-      "7",
       "2",
+      "7",
+      "3",
       "-1"
     ],
     "options_en": [
-      "3",
-      "7",
       "2",
+      "7",
+      "3",
       "-1"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 1 = 3",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 1 = 3",
     "difficulty": 1,
@@ -10140,17 +10140,17 @@
     "question_en": "Find the determinant of [[2,3],[2,4]]. (v1)",
     "options_zh": [
       "6 (備選)",
-      "6",
       "3",
-      "2"
+      "2",
+      "6"
     ],
     "options_en": [
       "6 (alt)",
-      "6",
       "3",
-      "2"
+      "2",
+      "6"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "det = (2)(4) - (3)(2) = 8 - 6 = 2",
     "explanation_en": "det = (2)(4) - (3)(2) = 8 - 6 = 2",
     "difficulty": 1,
@@ -10168,17 +10168,17 @@
     "question_en": "The trace of [[2,3],[4,1]] is:",
     "options_zh": [
       "10",
-      "3",
       "-10",
-      "2"
+      "2",
+      "3"
     ],
     "options_en": [
       "10",
-      "3",
       "-10",
-      "2"
+      "2",
+      "3"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 1 = 3",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 1 = 3",
     "difficulty": 1,
@@ -10196,17 +10196,17 @@
     "question_en": "Find the determinant of [[2,2],[5,2]]. (v1)",
     "options_zh": [
       "-5",
-      "-6",
+      "4",
       "10",
-      "4"
+      "-6"
     ],
     "options_en": [
       "-5",
-      "-6",
+      "4",
       "10",
-      "4"
+      "-6"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "det = (2)(2) - (2)(5) = 4 - 10 = -6",
     "explanation_en": "det = (2)(2) - (2)(5) = 4 - 10 = -6",
     "difficulty": 1,
@@ -10223,18 +10223,18 @@
     "question_zh": "矩陣 [[5,3],[4,5]] 的跡(trace)是：",
     "question_en": "The trace of [[5,3],[4,5]] is:",
     "options_zh": [
-      "25",
+      "10",
       "17",
       "13",
-      "10"
+      "25"
     ],
     "options_en": [
-      "25",
+      "10",
       "17",
       "13",
-      "10"
+      "25"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 5 = 10",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 5 = 10",
     "difficulty": 1,
@@ -10251,18 +10251,18 @@
     "question_zh": "求矩陣 [[3,2],[3,4]] 的行列式。",
     "question_en": "Find the determinant of [[3,2],[3,4]].",
     "options_zh": [
+      "7 (備選)",
       "7",
       "6",
-      "6 (備選)",
-      "7 (備選)"
+      "6 (備選)"
     ],
     "options_en": [
+      "7 (alt)",
       "7",
       "6",
-      "6 (alt)",
-      "7 (alt)"
+      "6 (alt)"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "det = (3)(4) - (2)(3) = 12 - 6 = 6",
     "explanation_en": "det = (3)(4) - (2)(3) = 12 - 6 = 6",
     "difficulty": 1,
@@ -10279,16 +10279,16 @@
     "question_zh": "矩陣 [[1,4],[4,4]] 的跡(trace)是：",
     "question_en": "The trace of [[1,4],[4,4]] is:",
     "options_zh": [
-      "13",
+      "-12",
       "5",
       "4",
-      "-12"
+      "13"
     ],
     "options_en": [
-      "13",
+      "-12",
       "5",
       "4",
-      "-12"
+      "13"
     ],
     "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 4 = 5",
@@ -10307,18 +10307,18 @@
     "question_zh": "求矩陣 [[3,2],[4,3]] 的行列式。",
     "question_en": "Find the determinant of [[3,2],[4,3]].",
     "options_zh": [
+      "2",
       "1",
-      "8",
       "6",
-      "2"
+      "8"
     ],
     "options_en": [
+      "2",
       "1",
-      "8",
       "6",
-      "2"
+      "8"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "det = (3)(3) - (2)(4) = 9 - 8 = 1",
     "explanation_en": "det = (3)(3) - (2)(4) = 9 - 8 = 1",
     "difficulty": 1,
@@ -10335,16 +10335,16 @@
     "question_zh": "矩陣 [[5,1],[4,1]] 的跡(trace)是：",
     "question_en": "The trace of [[5,1],[4,1]] is:",
     "options_zh": [
-      "1",
+      "11",
       "6",
       "5",
-      "11"
+      "1"
     ],
     "options_en": [
-      "1",
+      "11",
       "6",
       "5",
-      "11"
+      "1"
     ],
     "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 1 = 6",
@@ -10363,15 +10363,15 @@
     "question_zh": "求矩陣 [[4,2],[2,1]] 的行列式。",
     "question_en": "Find the determinant of [[4,2],[2,1]].",
     "options_zh": [
-      "1",
-      "5",
       "4",
+      "5",
+      "1",
       "0"
     ],
     "options_en": [
-      "1",
-      "5",
       "4",
+      "5",
+      "1",
       "0"
     ],
     "answer": 3,
@@ -10391,18 +10391,18 @@
     "question_zh": "矩陣 [[1,1],[2,4]] 的跡(trace)是：",
     "question_en": "The trace of [[1,1],[2,4]] is:",
     "options_zh": [
+      "8",
       "5",
       "4",
-      "2",
-      "8"
+      "2"
     ],
     "options_en": [
+      "8",
       "5",
       "4",
-      "2",
-      "8"
+      "2"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 4 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 1 + 4 = 5",
     "difficulty": 1,
@@ -10420,15 +10420,15 @@
     "question_en": "Find the determinant of [[1,2],[5,3]].",
     "options_zh": [
       "-7",
-      "-6",
+      "4",
       "10",
-      "4"
+      "-6"
     ],
     "options_en": [
       "-7",
-      "-6",
+      "4",
       "10",
-      "4"
+      "-6"
     ],
     "answer": 0,
     "explanation_zh": "det = (1)(3) - (2)(5) = 3 - 10 = -7",
@@ -10447,18 +10447,18 @@
     "question_zh": "矩陣 [[2,3],[4,3]] 的跡(trace)是： (變體1)",
     "question_en": "The trace of [[2,3],[4,3]] is: (v1)",
     "options_zh": [
+      "6",
       "5",
       "12",
-      "6",
       "-6"
     ],
     "options_en": [
+      "6",
       "5",
       "12",
-      "6",
       "-6"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 3 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 3 = 5",
     "difficulty": 1,
@@ -10475,18 +10475,18 @@
     "question_zh": "求矩陣 [[5,3],[3,5]] 的行列式。",
     "question_en": "Find the determinant of [[5,3],[3,5]].",
     "options_zh": [
-      "17",
+      "10",
       "9",
-      "16",
-      "10"
+      "17",
+      "16"
     ],
     "options_en": [
-      "17",
+      "10",
       "9",
-      "16",
-      "10"
+      "17",
+      "16"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "det = (5)(5) - (3)(3) = 25 - 9 = 16",
     "explanation_en": "det = (5)(5) - (3)(3) = 25 - 9 = 16",
     "difficulty": 1,
@@ -10503,18 +10503,18 @@
     "question_zh": "矩陣 [[3,1],[1,4]] 的跡(trace)是：",
     "question_en": "The trace of [[3,1],[1,4]] is:",
     "options_zh": [
-      "11",
-      "9",
       "12",
-      "7"
+      "7",
+      "9",
+      "11"
     ],
     "options_en": [
-      "11",
-      "9",
       "12",
-      "7"
+      "7",
+      "9",
+      "11"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 3 + 4 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 3 + 4 = 7",
     "difficulty": 1,
@@ -10560,17 +10560,17 @@
     "question_en": "The trace of [[2,2],[5,1]] is:",
     "options_zh": [
       "10",
-      "3",
       "2",
-      "-8"
+      "-8",
+      "3"
     ],
     "options_en": [
       "10",
-      "3",
       "2",
-      "-8"
+      "-8",
+      "3"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 1 = 3",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 1 = 3",
     "difficulty": 1,
@@ -10587,18 +10587,18 @@
     "question_zh": "求矩陣 [[4,4],[1,1]] 的行列式。",
     "question_en": "Find the determinant of [[4,4],[1,1]].",
     "options_zh": [
-      "5",
-      "1",
       "0",
-      "4"
+      "1",
+      "4",
+      "5"
     ],
     "options_en": [
-      "5",
-      "1",
       "0",
-      "4"
+      "1",
+      "4",
+      "5"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "det = (4)(1) - (4)(1) = 4 - 4 = 0",
     "explanation_en": "det = (4)(1) - (4)(1) = 4 - 4 = 0",
     "difficulty": 1,
@@ -10643,18 +10643,18 @@
     "question_zh": "求矩陣 [[1,1],[2,4]] 的行列式。",
     "question_en": "Find the determinant of [[1,1],[2,4]].",
     "options_zh": [
-      "2 (備選)",
       "2",
+      "3",
       "5",
-      "3"
+      "2 (備選)"
     ],
     "options_en": [
-      "2 (alt)",
       "2",
+      "3",
       "5",
-      "3"
+      "2 (alt)"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "det = (1)(4) - (1)(2) = 4 - 2 = 2",
     "explanation_en": "det = (1)(4) - (1)(2) = 4 - 2 = 2",
     "difficulty": 1,
@@ -10671,18 +10671,18 @@
     "question_zh": "矩陣 [[5,3],[4,2]] 的跡(trace)是：",
     "question_en": "The trace of [[5,3],[4,2]] is:",
     "options_zh": [
-      "-2",
-      "14",
       "10",
-      "7"
+      "14",
+      "7",
+      "-2"
     ],
     "options_en": [
-      "-2",
-      "14",
       "10",
-      "7"
+      "14",
+      "7",
+      "-2"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 2 = 7",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 2 = 7",
     "difficulty": 1,
@@ -10699,18 +10699,18 @@
     "question_zh": "求矩陣 [[4,5],[1,5]] 的行列式。",
     "question_en": "Find the determinant of [[4,5],[1,5]].",
     "options_zh": [
-      "9",
       "5",
-      "16",
-      "15"
+      "15",
+      "9",
+      "16"
     ],
     "options_en": [
-      "9",
       "5",
-      "16",
-      "15"
+      "15",
+      "9",
+      "16"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "det = (4)(5) - (5)(1) = 20 - 5 = 15",
     "explanation_en": "det = (4)(5) - (5)(1) = 20 - 5 = 15",
     "difficulty": 1,
@@ -10755,18 +10755,18 @@
     "question_zh": "求矩陣 [[5,1],[2,3]] 的行列式。",
     "question_en": "Find the determinant of [[5,1],[2,3]].",
     "options_zh": [
-      "13",
       "2",
+      "13",
       "14",
       "8"
     ],
     "options_en": [
-      "13",
       "2",
+      "13",
       "14",
       "8"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "det = (5)(3) - (1)(2) = 15 - 2 = 13",
     "explanation_en": "det = (5)(3) - (1)(2) = 15 - 2 = 13",
     "difficulty": 1,
@@ -10783,15 +10783,15 @@
     "question_zh": "矩陣 [[3,2],[3,4]] 的跡(trace)是：",
     "question_en": "The trace of [[3,2],[3,4]] is:",
     "options_zh": [
-      "6",
-      "7",
       "12 (備選)",
+      "7",
+      "6",
       "12"
     ],
     "options_en": [
-      "6",
-      "7",
       "12 (alt)",
+      "7",
+      "6",
       "12"
     ],
     "answer": 1,
@@ -10811,18 +10811,18 @@
     "question_zh": "求矩陣 [[2,1],[4,4]] 的行列式。",
     "question_en": "Find the determinant of [[2,1],[4,4]].",
     "options_zh": [
-      "4 (備選)",
       "6",
-      "4",
-      "5"
+      "4 (備選)",
+      "5",
+      "4"
     ],
     "options_en": [
-      "4 (alt)",
       "6",
-      "4",
-      "5"
+      "4 (alt)",
+      "5",
+      "4"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "det = (2)(4) - (1)(4) = 8 - 4 = 4",
     "explanation_en": "det = (2)(4) - (1)(4) = 8 - 4 = 4",
     "difficulty": 1,
@@ -10840,17 +10840,17 @@
     "question_en": "The trace of [[2,3],[5,1]] is:",
     "options_zh": [
       "2",
+      "11",
       "3",
-      "-13",
-      "11"
+      "-13"
     ],
     "options_en": [
       "2",
+      "11",
       "3",
-      "-13",
-      "11"
+      "-13"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 2 + 1 = 3",
     "explanation_en": "Trace = sum of diagonal elements = 2 + 1 = 3",
     "difficulty": 1,
@@ -10867,18 +10867,18 @@
     "question_zh": "求矩陣 [[2,2],[2,3]] 的行列式。",
     "question_en": "Find the determinant of [[2,2],[2,3]].",
     "options_zh": [
-      "5",
-      "4",
+      "3",
       "2",
-      "3"
+      "5",
+      "4"
     ],
     "options_en": [
-      "5",
-      "4",
+      "3",
       "2",
-      "3"
+      "5",
+      "4"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "det = (2)(3) - (2)(2) = 6 - 4 = 2",
     "explanation_en": "det = (2)(3) - (2)(2) = 6 - 4 = 2",
     "difficulty": 1,
@@ -10895,14 +10895,14 @@
     "question_zh": "矩陣 [[4,1],[4,1]] 的跡(trace)是：",
     "question_en": "The trace of [[4,1],[4,1]] is:",
     "options_zh": [
-      "0",
       "10",
+      "0",
       "5",
       "4"
     ],
     "options_en": [
-      "0",
       "10",
+      "0",
       "5",
       "4"
     ],
@@ -10951,18 +10951,18 @@
     "question_zh": "矩陣 [[5,2],[2,5]] 的跡(trace)是：",
     "question_en": "The trace of [[5,2],[2,5]] is:",
     "options_zh": [
-      "21",
       "25",
-      "10",
-      "14"
+      "21",
+      "14",
+      "10"
     ],
     "options_en": [
-      "21",
       "25",
-      "10",
-      "14"
+      "21",
+      "14",
+      "10"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "跡 = 主對角線元素之和 = 5 + 5 = 10",
     "explanation_en": "Trace = sum of diagonal elements = 5 + 5 = 10",
     "difficulty": 1,
@@ -10979,18 +10979,18 @@
     "question_zh": "求矩陣 [[3,1],[1,1]] 的行列式。 (變體1)",
     "question_en": "Find the determinant of [[3,1],[1,1]]. (v1)",
     "options_zh": [
-      "2",
+      "3",
       "4",
       "1",
-      "3"
+      "2"
     ],
     "options_en": [
-      "2",
+      "3",
       "4",
       "1",
-      "3"
+      "2"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "det = (3)(1) - (1)(1) = 3 - 1 = 2",
     "explanation_en": "det = (3)(1) - (1)(1) = 3 - 1 = 2",
     "difficulty": 1,
@@ -11007,18 +11007,18 @@
     "question_zh": "矩陣 [[4,5],[5,1]] 的跡(trace)是：",
     "question_en": "The trace of [[4,5],[5,1]] is:",
     "options_zh": [
+      "4",
       "5",
       "15",
-      "-21",
-      "4"
+      "-21"
     ],
     "options_en": [
+      "4",
       "5",
       "15",
-      "-21",
-      "4"
+      "-21"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 4 + 1 = 5",
     "explanation_en": "Trace = sum of diagonal elements = 4 + 1 = 5",
     "difficulty": 1,
@@ -11035,16 +11035,16 @@
     "question_zh": "求矩陣 [[5,2],[3,3]] 的行列式。 (變體1)",
     "question_en": "Find the determinant of [[5,2],[3,3]]. (v1)",
     "options_zh": [
-      "6",
       "8",
+      "10",
       "9",
-      "10"
+      "6"
     ],
     "options_en": [
-      "6",
       "8",
+      "10",
       "9",
-      "10"
+      "6"
     ],
     "answer": 2,
     "explanation_zh": "det = (5)(3) - (2)(3) = 15 - 6 = 9",
@@ -11063,15 +11063,15 @@
     "question_zh": "矩陣 [[1,2],[1,2]] 的跡(trace)是：",
     "question_en": "The trace of [[1,2],[1,2]] is:",
     "options_zh": [
-      "6",
       "0",
       "2",
+      "6",
       "3"
     ],
     "options_en": [
-      "6",
       "0",
       "2",
+      "6",
       "3"
     ],
     "answer": 3,
@@ -11091,18 +11091,18 @@
     "question_zh": "求矩陣 [[1,4],[1,5]] 的行列式。",
     "question_en": "Find the determinant of [[1,4],[1,5]].",
     "options_zh": [
+      "2",
       "1",
       "4",
-      "2",
       "6"
     ],
     "options_en": [
+      "2",
       "1",
       "4",
-      "2",
       "6"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "det = (1)(5) - (4)(1) = 5 - 4 = 1",
     "explanation_en": "det = (1)(5) - (4)(1) = 5 - 4 = 1",
     "difficulty": 1,
@@ -11119,18 +11119,18 @@
     "question_zh": "矩陣 [[1,4],[5,1]] 的跡(trace)是：",
     "question_en": "The trace of [[1,4],[5,1]] is:",
     "options_zh": [
-      "-19",
       "1",
-      "11",
-      "2"
+      "2",
+      "-19",
+      "11"
     ],
     "options_en": [
-      "-19",
       "1",
-      "11",
-      "2"
+      "2",
+      "-19",
+      "11"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 1 = 2",
     "explanation_en": "Trace = sum of diagonal elements = 1 + 1 = 2",
     "difficulty": 1,
@@ -11147,18 +11147,18 @@
     "question_zh": "求矩陣 [[2,1],[5,5]] 的行列式。",
     "question_en": "Find the determinant of [[2,1],[5,5]].",
     "options_zh": [
+      "5 (備選)",
       "7",
-      "5",
       "6",
-      "5 (備選)"
+      "5"
     ],
     "options_en": [
+      "5 (alt)",
       "7",
-      "5",
       "6",
-      "5 (alt)"
+      "5"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "det = (2)(5) - (1)(5) = 10 - 5 = 5",
     "explanation_en": "det = (2)(5) - (1)(5) = 10 - 5 = 5",
     "difficulty": 1,
@@ -11176,17 +11176,17 @@
     "question_en": "The trace of [[1,1],[4,5]] is: (v1)",
     "options_zh": [
       "5",
-      "6",
       "1",
+      "6",
       "11"
     ],
     "options_en": [
       "5",
-      "6",
       "1",
+      "6",
       "11"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "跡 = 主對角線元素之和 = 1 + 5 = 6",
     "explanation_en": "Trace = sum of diagonal elements = 1 + 5 = 6",
     "difficulty": 1,

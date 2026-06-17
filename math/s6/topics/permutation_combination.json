@@ -3,18 +3,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^3 的係數是：",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^3 is:",
     "options_zh": [
-      "0",
-      "3 (備選)",
       "3",
-      "1"
+      "0",
+      "1",
+      "3 (備選)"
     ],
     "options_en": [
-      "0",
-      "3 (alt)",
       "3",
-      "1"
+      "0",
+      "1",
+      "3 (alt)"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(3,3) = 1",
     "explanation_en": "C(3,3) = 1",
     "difficulty": 2,
@@ -31,18 +31,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^2 的係數是：",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^2 is:",
     "options_zh": [
-      "7",
-      "35",
       "21",
+      "35",
+      "7",
       "2"
     ],
     "options_en": [
-      "7",
-      "35",
       "21",
+      "35",
+      "7",
       "2"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "C(7,2) = 21",
     "explanation_en": "C(7,2) = 21",
     "difficulty": 2,
@@ -59,18 +59,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^1 的係數是：",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^1 is:",
     "options_zh": [
-      "3 (備選) (備選)",
       "1",
+      "3",
       "3 (備選)",
-      "3"
+      "3 (備選) (備選)"
     ],
     "options_en": [
-      "3 (alt) (alt)",
       "1",
+      "3",
       "3 (alt)",
-      "3"
+      "3 (alt) (alt)"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(3,1) = 3",
     "explanation_en": "C(3,1) = 3",
     "difficulty": 2,
@@ -87,18 +87,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^4 的係數是：",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^4 is:",
     "options_zh": [
-      "1",
       "5 (備選)",
       "5",
-      "4"
+      "4",
+      "1"
     ],
     "options_en": [
-      "1",
       "5 (alt)",
       "5",
-      "4"
+      "4",
+      "1"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(5,4) = 5",
     "explanation_en": "C(5,4) = 5",
     "difficulty": 2,
@@ -115,18 +115,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^1 的係數是：",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^1 is:",
     "options_zh": [
+      "1",
       "6 (備選)",
       "6",
-      "1",
       "15"
     ],
     "options_en": [
+      "1",
       "6 (alt)",
       "6",
-      "1",
       "15"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(6,1) = 6",
     "explanation_en": "C(6,1) = 6",
     "difficulty": 2,
@@ -144,17 +144,17 @@
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^5 is:",
     "options_zh": [
       "7 (備選)",
+      "5",
       "7",
-      "21",
-      "5"
+      "21"
     ],
     "options_en": [
       "7 (alt)",
+      "5",
       "7",
-      "21",
-      "5"
+      "21"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(7,5) = 21",
     "explanation_en": "C(7,5) = 21",
     "difficulty": 2,
@@ -171,18 +171,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^6 的係數是：",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^6 is:",
     "options_zh": [
-      "6",
-      "6 (備選)",
       "0",
-      "1"
+      "6 (備選)",
+      "1",
+      "6"
     ],
     "options_en": [
-      "6",
-      "6 (alt)",
       "0",
-      "1"
+      "6 (alt)",
+      "1",
+      "6"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(6,6) = 1",
     "explanation_en": "C(6,6) = 1",
     "difficulty": 2,
@@ -199,18 +199,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^7 的係數是：",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^7 is:",
     "options_zh": [
+      "0",
       "1",
       "7 (備選)",
-      "7",
-      "0"
+      "7"
     ],
     "options_en": [
+      "0",
       "1",
       "7 (alt)",
-      "7",
-      "0"
+      "7"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "C(7,7) = 1",
     "explanation_en": "C(7,7) = 1",
     "difficulty": 2,
@@ -227,18 +227,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^3 的係數是：",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^3 is:",
     "options_zh": [
-      "4 (備選)",
       "1",
       "4",
+      "4 (備選)",
       "3"
     ],
     "options_en": [
-      "4 (alt)",
       "1",
       "4",
+      "4 (alt)",
       "3"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(4,3) = 4",
     "explanation_en": "C(4,3) = 4",
     "difficulty": 2,
@@ -255,18 +255,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^4 的係數是：",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^4 is:",
     "options_zh": [
-      "1",
       "4 (備選)",
-      "4",
-      "0"
+      "0",
+      "1",
+      "4"
     ],
     "options_en": [
-      "1",
       "4 (alt)",
-      "4",
-      "0"
+      "0",
+      "1",
+      "4"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(4,4) = 1",
     "explanation_en": "C(4,4) = 1",
     "difficulty": 2,
@@ -284,17 +284,17 @@
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^0 is:",
     "options_zh": [
       "4 (備選)",
-      "4",
+      "1",
       "0",
-      "1"
+      "4"
     ],
     "options_en": [
       "4 (alt)",
-      "4",
+      "1",
       "0",
-      "1"
+      "4"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(4,0) = 1",
     "explanation_en": "C(4,0) = 1",
     "difficulty": 2,
@@ -311,18 +311,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^2 的係數是： (變體1)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^2 is: (v1)",
     "options_zh": [
-      "35",
       "7",
-      "21",
-      "2"
+      "2",
+      "35",
+      "21"
     ],
     "options_en": [
-      "35",
       "7",
-      "21",
-      "2"
+      "2",
+      "35",
+      "21"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(7,2) = 21",
     "explanation_en": "C(7,2) = 21",
     "difficulty": 2,
@@ -339,18 +339,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^5 的係數是： (變體1)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^5 is: (v1)",
     "options_zh": [
-      "7 (備選)",
-      "21",
+      "5",
       "7",
-      "5"
+      "21",
+      "7 (備選)"
     ],
     "options_en": [
-      "7 (alt)",
-      "21",
+      "5",
       "7",
-      "5"
+      "21",
+      "7 (alt)"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(7,5) = 21",
     "explanation_en": "C(7,5) = 21",
     "difficulty": 2,
@@ -369,16 +369,16 @@
     "options_zh": [
       "0",
       "6",
-      "1",
-      "6 (備選)"
+      "6 (備選)",
+      "1"
     ],
     "options_en": [
       "0",
       "6",
-      "1",
-      "6 (alt)"
+      "6 (alt)",
+      "1"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(6,0) = 1",
     "explanation_en": "C(6,0) = 1",
     "difficulty": 2,
@@ -395,18 +395,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^1 的係數是：",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^1 is:",
     "options_zh": [
-      "5 (備選)",
-      "10",
       "5",
-      "1"
+      "10",
+      "1",
+      "5 (備選)"
     ],
     "options_en": [
-      "5 (alt)",
-      "10",
       "5",
-      "1"
+      "10",
+      "1",
+      "5 (alt)"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "C(5,1) = 5",
     "explanation_en": "C(5,1) = 5",
     "difficulty": 2,
@@ -424,17 +424,17 @@
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^7 is: (v1)",
     "options_zh": [
       "0",
-      "1",
       "7 (備選)",
+      "1",
       "7"
     ],
     "options_en": [
       "0",
-      "1",
       "7 (alt)",
+      "1",
       "7"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(7,7) = 1",
     "explanation_en": "C(7,7) = 1",
     "difficulty": 2,
@@ -451,18 +451,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^3 的係數是： (變體1)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^3 is: (v1)",
     "options_zh": [
+      "3",
       "0",
       "1",
-      "3 (備選)",
-      "3"
+      "3 (備選)"
     ],
     "options_en": [
+      "3",
       "0",
       "1",
-      "3 (alt)",
-      "3"
+      "3 (alt)"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(3,3) = 1",
     "explanation_en": "C(3,3) = 1",
     "difficulty": 2,
@@ -479,18 +479,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^6 的係數是：",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^6 is:",
     "options_zh": [
-      "7",
       "7 (備選)",
       "1",
-      "6"
+      "6",
+      "7"
     ],
     "options_en": [
-      "7",
       "7 (alt)",
       "1",
-      "6"
+      "6",
+      "7"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(7,6) = 7",
     "explanation_en": "C(7,6) = 7",
     "difficulty": 2,
@@ -508,17 +508,17 @@
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^5 is:",
     "options_zh": [
       "6 (備選)",
+      "6",
       "5",
-      "1",
-      "6"
+      "1"
     ],
     "options_en": [
       "6 (alt)",
+      "6",
       "5",
-      "1",
-      "6"
+      "1"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(6,5) = 6",
     "explanation_en": "C(6,5) = 6",
     "difficulty": 2,
@@ -535,16 +535,16 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^3 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^3 is: (v2)",
     "options_zh": [
-      "3",
       "0",
+      "3 (備選)",
       "1",
-      "3 (備選)"
+      "3"
     ],
     "options_en": [
-      "3",
       "0",
+      "3 (alt)",
       "1",
-      "3 (alt)"
+      "3"
     ],
     "answer": 2,
     "explanation_zh": "C(3,3) = 1",
@@ -564,17 +564,17 @@
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^5 is: (v1)",
     "options_zh": [
       "1",
+      "5",
       "6",
-      "6 (備選)",
-      "5"
+      "6 (備選)"
     ],
     "options_en": [
       "1",
+      "5",
       "6",
-      "6 (alt)",
-      "5"
+      "6 (alt)"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(6,5) = 6",
     "explanation_en": "C(6,5) = 6",
     "difficulty": 2,
@@ -591,18 +591,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^3 的係數是： (變體3)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^3 is: (v3)",
     "options_zh": [
-      "1",
-      "0",
+      "3",
       "3 (備選)",
-      "3"
+      "1",
+      "0"
     ],
     "options_en": [
-      "1",
-      "0",
+      "3",
       "3 (alt)",
-      "3"
+      "1",
+      "0"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(3,3) = 1",
     "explanation_en": "C(3,3) = 1",
     "difficulty": 2,
@@ -619,18 +619,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^1 的係數是： (變體1)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^1 is: (v1)",
     "options_zh": [
-      "1",
-      "15",
       "6 (備選)",
-      "6"
+      "6",
+      "15",
+      "1"
     ],
     "options_en": [
-      "1",
-      "15",
       "6 (alt)",
-      "6"
+      "6",
+      "15",
+      "1"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(6,1) = 6",
     "explanation_en": "C(6,1) = 6",
     "difficulty": 2,
@@ -647,18 +647,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^4 的係數是：",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^4 is:",
     "options_zh": [
-      "6 (備選)",
-      "15",
       "6",
-      "4"
+      "6 (備選)",
+      "4",
+      "15"
     ],
     "options_en": [
-      "6 (alt)",
-      "15",
       "6",
-      "4"
+      "6 (alt)",
+      "4",
+      "15"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(6,4) = 15",
     "explanation_en": "C(6,4) = 15",
     "difficulty": 2,
@@ -703,18 +703,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^0 的係數是：",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^0 is:",
     "options_zh": [
-      "5",
-      "5 (備選)",
+      "1",
       "0",
-      "1"
+      "5 (備選)",
+      "5"
     ],
     "options_en": [
-      "5",
-      "5 (alt)",
+      "1",
       "0",
-      "1"
+      "5 (alt)",
+      "5"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(5,0) = 1",
     "explanation_en": "C(5,0) = 1",
     "difficulty": 2,
@@ -732,17 +732,17 @@
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^4 is: (v1)",
     "options_zh": [
       "4",
-      "15",
       "6 (備選)",
-      "6"
+      "6",
+      "15"
     ],
     "options_en": [
       "4",
-      "15",
       "6 (alt)",
-      "6"
+      "6",
+      "15"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(6,4) = 15",
     "explanation_en": "C(6,4) = 15",
     "difficulty": 2,
@@ -759,18 +759,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^0 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^0 is: (v2)",
     "options_zh": [
+      "1",
       "4",
       "0",
-      "1",
       "4 (備選)"
     ],
     "options_en": [
+      "1",
       "4",
       "0",
-      "1",
       "4 (alt)"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "C(4,0) = 1",
     "explanation_en": "C(4,0) = 1",
     "difficulty": 2,
@@ -788,15 +788,15 @@
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^1 is:",
     "options_zh": [
       "4",
-      "6",
+      "1",
       "4 (備選)",
-      "1"
+      "6"
     ],
     "options_en": [
       "4",
-      "6",
+      "1",
       "4 (alt)",
-      "1"
+      "6"
     ],
     "answer": 0,
     "explanation_zh": "C(4,1) = 4",
@@ -844,14 +844,14 @@
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^5 is:",
     "options_zh": [
       "0",
-      "5",
       "5 (備選)",
+      "5",
       "1"
     ],
     "options_en": [
       "0",
-      "5",
       "5 (alt)",
+      "5",
       "1"
     ],
     "answer": 3,
@@ -871,18 +871,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^0 的係數是： (變體3)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^0 is: (v3)",
     "options_zh": [
-      "1",
+      "4",
       "4 (備選)",
-      "0",
-      "4"
+      "1",
+      "0"
     ],
     "options_en": [
-      "1",
+      "4",
       "4 (alt)",
-      "0",
-      "4"
+      "1",
+      "0"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(4,0) = 1",
     "explanation_en": "C(4,0) = 1",
     "difficulty": 2,
@@ -899,18 +899,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^5 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^5 is: (v2)",
     "options_zh": [
+      "6 (備選)",
       "6",
-      "5",
       "1",
-      "6 (備選)"
+      "5"
     ],
     "options_en": [
+      "6 (alt)",
       "6",
-      "5",
       "1",
-      "6 (alt)"
+      "5"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "C(6,5) = 6",
     "explanation_en": "C(6,5) = 6",
     "difficulty": 2,
@@ -927,14 +927,14 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^0 的係數是： (變體1)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^0 is: (v1)",
     "options_zh": [
-      "5 (備選)",
       "0",
+      "5 (備選)",
       "1",
       "5"
     ],
     "options_en": [
-      "5 (alt)",
       "0",
+      "5 (alt)",
       "1",
       "5"
     ],
@@ -955,18 +955,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^4 的係數是： (變體1)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^4 is: (v1)",
     "options_zh": [
+      "5",
       "5 (備選)",
-      "1",
       "4",
-      "5"
+      "1"
     ],
     "options_en": [
+      "5",
       "5 (alt)",
-      "1",
       "4",
-      "5"
+      "1"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(5,4) = 5",
     "explanation_en": "C(5,4) = 5",
     "difficulty": 2,
@@ -983,18 +983,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^0 的係數是： (變體1)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^0 is: (v1)",
     "options_zh": [
-      "6",
       "6 (備選)",
       "0",
-      "1"
+      "1",
+      "6"
     ],
     "options_en": [
-      "6",
       "6 (alt)",
       "0",
-      "1"
+      "1",
+      "6"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(6,0) = 1",
     "explanation_en": "C(6,0) = 1",
     "difficulty": 2,
@@ -1012,17 +1012,17 @@
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^3 is:",
     "options_zh": [
       "5",
+      "5 (備選)",
       "3",
-      "10",
-      "5 (備選)"
+      "10"
     ],
     "options_en": [
       "5",
+      "5 (alt)",
       "3",
-      "10",
-      "5 (alt)"
+      "10"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(5,3) = 10",
     "explanation_en": "C(5,3) = 10",
     "difficulty": 2,
@@ -1039,16 +1039,16 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^2 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^2 is: (v2)",
     "options_zh": [
-      "35",
-      "21",
       "2",
-      "7"
+      "21",
+      "7",
+      "35"
     ],
     "options_en": [
-      "35",
-      "21",
       "2",
-      "7"
+      "21",
+      "7",
+      "35"
     ],
     "answer": 1,
     "explanation_zh": "C(7,2) = 21",
@@ -1067,14 +1067,14 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^1 的係數是： (變體1)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^1 is: (v1)",
     "options_zh": [
-      "1",
       "3 (備選)",
+      "1",
       "3 (備選) (備選)",
       "3"
     ],
     "options_en": [
-      "1",
       "3 (alt)",
+      "1",
       "3 (alt) (alt)",
       "3"
     ],
@@ -1095,18 +1095,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^1 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^1 is: (v2)",
     "options_zh": [
-      "3",
-      "3 (備選)",
       "3 (備選) (備選)",
+      "3 (備選)",
+      "3",
       "1"
     ],
     "options_en": [
-      "3",
-      "3 (alt)",
       "3 (alt) (alt)",
+      "3 (alt)",
+      "3",
       "1"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(3,1) = 3",
     "explanation_en": "C(3,1) = 3",
     "difficulty": 2,
@@ -1123,18 +1123,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^4 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^4 is: (v2)",
     "options_zh": [
-      "5 (備選)",
-      "4",
+      "1",
       "5",
-      "1"
+      "5 (備選)",
+      "4"
     ],
     "options_en": [
-      "5 (alt)",
-      "4",
+      "1",
       "5",
-      "1"
+      "5 (alt)",
+      "4"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(5,4) = 5",
     "explanation_en": "C(5,4) = 5",
     "difficulty": 2,
@@ -1151,18 +1151,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^3 的係數是：",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^3 is:",
     "options_zh": [
-      "15",
       "6",
-      "20",
-      "3"
+      "15",
+      "3",
+      "20"
     ],
     "options_en": [
-      "15",
       "6",
-      "20",
-      "3"
+      "15",
+      "3",
+      "20"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(6,3) = 20",
     "explanation_en": "C(6,3) = 20",
     "difficulty": 2,
@@ -1179,18 +1179,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^0 的係數是：",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^0 is:",
     "options_zh": [
-      "7",
+      "0",
       "7 (備選)",
-      "1",
-      "0"
+      "7",
+      "1"
     ],
     "options_en": [
-      "7",
+      "0",
       "7 (alt)",
-      "1",
-      "0"
+      "7",
+      "1"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(7,0) = 1",
     "explanation_en": "C(7,0) = 1",
     "difficulty": 2,
@@ -1207,18 +1207,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^4 的係數是：",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^4 is:",
     "options_zh": [
-      "35",
       "4",
-      "7",
-      "21"
+      "35",
+      "21",
+      "7"
     ],
     "options_en": [
-      "35",
       "4",
-      "7",
-      "21"
+      "35",
+      "21",
+      "7"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "C(7,4) = 35",
     "explanation_en": "C(7,4) = 35",
     "difficulty": 2,
@@ -1235,18 +1235,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^3 的係數是： (變體1)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^3 is: (v1)",
     "options_zh": [
-      "1",
       "4",
-      "3",
-      "4 (備選)"
+      "1",
+      "4 (備選)",
+      "3"
     ],
     "options_en": [
-      "1",
       "4",
-      "3",
-      "4 (alt)"
+      "1",
+      "4 (alt)",
+      "3"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(4,3) = 4",
     "explanation_en": "C(4,3) = 4",
     "difficulty": 2,
@@ -1263,18 +1263,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^4 的係數是： (變體1)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^4 is: (v1)",
     "options_zh": [
-      "4",
-      "35",
       "21",
-      "7"
+      "7",
+      "35",
+      "4"
     ],
     "options_en": [
-      "4",
-      "35",
       "21",
-      "7"
+      "7",
+      "35",
+      "4"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(7,4) = 35",
     "explanation_en": "C(7,4) = 35",
     "difficulty": 2,
@@ -1291,15 +1291,15 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^0 的係數是： (變體1)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^0 is: (v1)",
     "options_zh": [
+      "7",
       "0",
       "7 (備選)",
-      "7",
       "1"
     ],
     "options_en": [
+      "7",
       "0",
       "7 (alt)",
-      "7",
       "1"
     ],
     "answer": 3,
@@ -1319,18 +1319,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^1 的係數是： (變體1)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^1 is: (v1)",
     "options_zh": [
+      "4",
       "6",
-      "1",
       "4 (備選)",
-      "4"
+      "1"
     ],
     "options_en": [
+      "4",
       "6",
-      "1",
       "4 (alt)",
-      "4"
+      "1"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(4,1) = 4",
     "explanation_en": "C(4,1) = 4",
     "difficulty": 2,
@@ -1347,16 +1347,16 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^2 的係數是：",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^2 is:",
     "options_zh": [
-      "1",
+      "3 (備選)",
       "3",
       "2",
-      "3 (備選)"
+      "1"
     ],
     "options_en": [
-      "1",
+      "3 (alt)",
       "3",
       "2",
-      "3 (alt)"
+      "1"
     ],
     "answer": 1,
     "explanation_zh": "C(3,2) = 3",
@@ -1375,16 +1375,16 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^1 的係數是： (變體3)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^1 is: (v3)",
     "options_zh": [
-      "3 (備選) (備選)",
+      "3 (備選)",
       "1",
       "3",
-      "3 (備選)"
+      "3 (備選) (備選)"
     ],
     "options_en": [
-      "3 (alt) (alt)",
+      "3 (alt)",
       "1",
       "3",
-      "3 (alt)"
+      "3 (alt) (alt)"
     ],
     "answer": 2,
     "explanation_zh": "C(3,1) = 3",
@@ -1403,18 +1403,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^6 的係數是： (變體1)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^6 is: (v1)",
     "options_zh": [
-      "7 (備選)",
-      "1",
       "6",
-      "7"
+      "1",
+      "7",
+      "7 (備選)"
     ],
     "options_en": [
-      "7 (alt)",
-      "1",
       "6",
-      "7"
+      "1",
+      "7",
+      "7 (alt)"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(7,6) = 7",
     "explanation_en": "C(7,6) = 7",
     "difficulty": 2,
@@ -1431,18 +1431,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^4 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^4 is: (v2)",
     "options_zh": [
-      "4",
       "35",
+      "21",
       "7",
-      "21"
+      "4"
     ],
     "options_en": [
-      "4",
       "35",
+      "21",
       "7",
-      "21"
+      "4"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(7,4) = 35",
     "explanation_en": "C(7,4) = 35",
     "difficulty": 2,
@@ -1460,14 +1460,14 @@
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^4 is: (v3)",
     "options_zh": [
       "35",
-      "21",
       "7",
+      "21",
       "4"
     ],
     "options_en": [
       "35",
-      "21",
       "7",
+      "21",
       "4"
     ],
     "answer": 0,
@@ -1487,18 +1487,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^2 的係數是： (變體1)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^2 is: (v1)",
     "options_zh": [
-      "4",
       "6",
+      "4 (備選)",
       "2",
-      "4 (備選)"
+      "4"
     ],
     "options_en": [
-      "4",
       "6",
+      "4 (alt)",
       "2",
-      "4 (alt)"
+      "4"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(4,2) = 6",
     "explanation_en": "C(4,2) = 6",
     "difficulty": 2,
@@ -1515,18 +1515,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^5 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^5 is: (v2)",
     "options_zh": [
-      "21",
+      "5",
       "7",
-      "7 (備選)",
-      "5"
+      "21",
+      "7 (備選)"
     ],
     "options_en": [
-      "21",
+      "5",
       "7",
-      "7 (alt)",
-      "5"
+      "21",
+      "7 (alt)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(7,5) = 21",
     "explanation_en": "C(7,5) = 21",
     "difficulty": 2,
@@ -1543,18 +1543,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^1 的係數是：",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^1 is:",
     "options_zh": [
-      "7",
-      "7 (備選)",
+      "1",
       "21",
-      "1"
+      "7",
+      "7 (備選)"
     ],
     "options_en": [
-      "7",
-      "7 (alt)",
+      "1",
       "21",
-      "1"
+      "7",
+      "7 (alt)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(7,1) = 7",
     "explanation_en": "C(7,1) = 7",
     "difficulty": 2,
@@ -1571,18 +1571,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^2 的係數是： (變體1)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^2 is: (v1)",
     "options_zh": [
-      "3 (備選)",
-      "1",
+      "2",
       "3",
-      "2"
+      "1",
+      "3 (備選)"
     ],
     "options_en": [
-      "3 (alt)",
-      "1",
+      "2",
       "3",
-      "2"
+      "1",
+      "3 (alt)"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(3,2) = 3",
     "explanation_en": "C(3,2) = 3",
     "difficulty": 2,
@@ -1599,18 +1599,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^3 的係數是： (變體1)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^3 is: (v1)",
     "options_zh": [
-      "3",
-      "10",
       "5",
-      "5 (備選)"
+      "3",
+      "5 (備選)",
+      "10"
     ],
     "options_en": [
-      "3",
-      "10",
       "5",
-      "5 (alt)"
+      "3",
+      "5 (alt)",
+      "10"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(5,3) = 10",
     "explanation_en": "C(5,3) = 10",
     "difficulty": 2,
@@ -1627,18 +1627,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^7 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^7 is: (v2)",
     "options_zh": [
-      "0",
       "1",
-      "7 (備選)",
-      "7"
+      "0",
+      "7",
+      "7 (備選)"
     ],
     "options_en": [
-      "0",
       "1",
-      "7 (alt)",
-      "7"
+      "0",
+      "7",
+      "7 (alt)"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(7,7) = 1",
     "explanation_en": "C(7,7) = 1",
     "difficulty": 2,
@@ -1655,18 +1655,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^3 的係數是： (變體4)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^3 is: (v4)",
     "options_zh": [
-      "1",
-      "0",
       "3",
-      "3 (備選)"
+      "1",
+      "3 (備選)",
+      "0"
     ],
     "options_en": [
-      "1",
-      "0",
       "3",
-      "3 (alt)"
+      "1",
+      "3 (alt)",
+      "0"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "C(3,3) = 1",
     "explanation_en": "C(3,3) = 1",
     "difficulty": 2,
@@ -1683,18 +1683,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^2 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^2 is: (v2)",
     "options_zh": [
-      "1",
-      "2",
       "3 (備選)",
-      "3"
+      "2",
+      "3",
+      "1"
     ],
     "options_en": [
-      "1",
-      "2",
       "3 (alt)",
-      "3"
+      "2",
+      "3",
+      "1"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(3,2) = 3",
     "explanation_en": "C(3,2) = 3",
     "difficulty": 2,
@@ -1711,18 +1711,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^1 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^1 is: (v2)",
     "options_zh": [
-      "4 (備選)",
-      "4",
+      "1",
       "6",
-      "1"
+      "4 (備選)",
+      "4"
     ],
     "options_en": [
-      "4 (alt)",
-      "4",
+      "1",
       "6",
-      "1"
+      "4 (alt)",
+      "4"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(4,1) = 4",
     "explanation_en": "C(4,1) = 4",
     "difficulty": 2,
@@ -1739,18 +1739,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^6 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^6 is: (v2)",
     "options_zh": [
-      "7 (備選)",
       "1",
       "7",
+      "7 (備選)",
       "6"
     ],
     "options_en": [
-      "7 (alt)",
       "1",
       "7",
+      "7 (alt)",
       "6"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(7,6) = 7",
     "explanation_en": "C(7,6) = 7",
     "difficulty": 2,
@@ -1767,18 +1767,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^3 的係數是： (變體1)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^3 is: (v1)",
     "options_zh": [
-      "20",
+      "6",
       "15",
-      "3",
-      "6"
+      "20",
+      "3"
     ],
     "options_en": [
-      "20",
+      "6",
       "15",
-      "3",
-      "6"
+      "20",
+      "3"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(6,3) = 20",
     "explanation_en": "C(6,3) = 20",
     "difficulty": 2,
@@ -1795,18 +1795,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^1 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^1 is: (v2)",
     "options_zh": [
+      "6",
       "1",
       "15",
-      "6 (備選)",
-      "6"
+      "6 (備選)"
     ],
     "options_en": [
+      "6",
       "1",
       "15",
-      "6 (alt)",
-      "6"
+      "6 (alt)"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(6,1) = 6",
     "explanation_en": "C(6,1) = 6",
     "difficulty": 2,
@@ -1823,18 +1823,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^2 的係數是： (變體3)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^2 is: (v3)",
     "options_zh": [
-      "2",
       "21",
-      "7",
-      "35"
+      "35",
+      "2",
+      "7"
     ],
     "options_en": [
-      "2",
       "21",
-      "7",
-      "35"
+      "35",
+      "2",
+      "7"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(7,2) = 21",
     "explanation_en": "C(7,2) = 21",
     "difficulty": 2,
@@ -1851,18 +1851,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^3 的係數是： (變體5)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^3 is: (v5)",
     "options_zh": [
-      "1",
-      "3",
       "3 (備選)",
-      "0"
+      "0",
+      "3",
+      "1"
     ],
     "options_en": [
-      "1",
-      "3",
       "3 (alt)",
-      "0"
+      "0",
+      "3",
+      "1"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(3,3) = 1",
     "explanation_en": "C(3,3) = 1",
     "difficulty": 2,
@@ -1879,14 +1879,14 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^3 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^3 is: (v2)",
     "options_zh": [
-      "5 (備選)",
       "5",
+      "5 (備選)",
       "3",
       "10"
     ],
     "options_en": [
-      "5 (alt)",
       "5",
+      "5 (alt)",
       "3",
       "10"
     ],
@@ -1909,16 +1909,16 @@
     "options_zh": [
       "3 (備選)",
       "0",
-      "1",
-      "3"
+      "3",
+      "1"
     ],
     "options_en": [
       "3 (alt)",
       "0",
-      "1",
-      "3"
+      "3",
+      "1"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(3,0) = 1",
     "explanation_en": "C(3,0) = 1",
     "difficulty": 2,
@@ -1935,18 +1935,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^3 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^3 is: (v2)",
     "options_zh": [
-      "3",
       "6",
       "20",
-      "15"
+      "15",
+      "3"
     ],
     "options_en": [
-      "3",
       "6",
       "20",
-      "15"
+      "15",
+      "3"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(6,3) = 20",
     "explanation_en": "C(6,3) = 20",
     "difficulty": 2,
@@ -1963,18 +1963,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^7 的係數是： (變體3)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^7 is: (v3)",
     "options_zh": [
-      "1",
       "7",
       "7 (備選)",
+      "1",
       "0"
     ],
     "options_en": [
-      "1",
       "7",
       "7 (alt)",
+      "1",
       "0"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(7,7) = 1",
     "explanation_en": "C(7,7) = 1",
     "difficulty": 2,
@@ -1993,16 +1993,16 @@
     "options_zh": [
       "6",
       "4",
-      "15",
-      "6 (備選)"
+      "6 (備選)",
+      "15"
     ],
     "options_en": [
       "6",
       "4",
-      "15",
-      "6 (alt)"
+      "6 (alt)",
+      "15"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(6,4) = 15",
     "explanation_en": "C(6,4) = 15",
     "difficulty": 2,
@@ -2019,18 +2019,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^4 的係數是： (變體1)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^4 is: (v1)",
     "options_zh": [
+      "0",
       "4",
       "1",
-      "4 (備選)",
-      "0"
+      "4 (備選)"
     ],
     "options_en": [
+      "0",
       "4",
       "1",
-      "4 (alt)",
-      "0"
+      "4 (alt)"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(4,4) = 1",
     "explanation_en": "C(4,4) = 1",
     "difficulty": 2,
@@ -2047,18 +2047,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^6 的係數是： (變體3)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^6 is: (v3)",
     "options_zh": [
-      "6",
-      "7 (備選)",
       "1",
-      "7"
+      "7",
+      "6",
+      "7 (備選)"
     ],
     "options_en": [
-      "6",
-      "7 (alt)",
       "1",
-      "7"
+      "7",
+      "6",
+      "7 (alt)"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(7,6) = 7",
     "explanation_en": "C(7,6) = 7",
     "difficulty": 2,
@@ -2075,18 +2075,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^7 的係數是： (變體4)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^7 is: (v4)",
     "options_zh": [
+      "1",
       "7 (備選)",
-      "0",
       "7",
-      "1"
+      "0"
     ],
     "options_en": [
+      "1",
       "7 (alt)",
-      "0",
       "7",
-      "1"
+      "0"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(7,7) = 1",
     "explanation_en": "C(7,7) = 1",
     "difficulty": 2,
@@ -2103,15 +2103,15 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^1 的係數是： (變體3)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^1 is: (v3)",
     "options_zh": [
-      "1",
-      "4 (備選)",
       "6",
+      "4 (備選)",
+      "1",
       "4"
     ],
     "options_en": [
-      "1",
-      "4 (alt)",
       "6",
+      "4 (alt)",
+      "1",
       "4"
     ],
     "answer": 3,
@@ -2131,18 +2131,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^4 的係數是： (變體3)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^4 is: (v3)",
     "options_zh": [
+      "5",
       "1",
       "4",
-      "5 (備選)",
-      "5"
+      "5 (備選)"
     ],
     "options_en": [
+      "5",
       "1",
       "4",
-      "5 (alt)",
-      "5"
+      "5 (alt)"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(5,4) = 5",
     "explanation_en": "C(5,4) = 5",
     "difficulty": 2,
@@ -2187,18 +2187,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^5 的係數是： (變體3)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^5 is: (v3)",
     "options_zh": [
-      "6 (備選)",
+      "6",
       "1",
       "5",
-      "6"
+      "6 (備選)"
     ],
     "options_en": [
-      "6 (alt)",
+      "6",
       "1",
       "5",
-      "6"
+      "6 (alt)"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(6,5) = 6",
     "explanation_en": "C(6,5) = 6",
     "difficulty": 2,
@@ -2215,18 +2215,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^2 的係數是： (變體3)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^2 is: (v3)",
     "options_zh": [
-      "3 (備選)",
       "3",
       "2",
+      "3 (備選)",
       "1"
     ],
     "options_en": [
-      "3 (alt)",
       "3",
       "2",
+      "3 (alt)",
       "1"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(3,2) = 3",
     "explanation_en": "C(3,2) = 3",
     "difficulty": 2,
@@ -2243,18 +2243,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^0 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^0 is: (v2)",
     "options_zh": [
-      "7 (備選)",
       "0",
-      "7",
-      "1"
+      "1",
+      "7 (備選)",
+      "7"
     ],
     "options_en": [
-      "7 (alt)",
       "0",
-      "7",
-      "1"
+      "1",
+      "7 (alt)",
+      "7"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(7,0) = 1",
     "explanation_en": "C(7,0) = 1",
     "difficulty": 2,
@@ -2272,17 +2272,17 @@
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^5 is: (v4)",
     "options_zh": [
       "1",
-      "6 (備選)",
       "6",
+      "6 (備選)",
       "5"
     ],
     "options_en": [
       "1",
-      "6 (alt)",
       "6",
+      "6 (alt)",
       "5"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(6,5) = 6",
     "explanation_en": "C(6,5) = 6",
     "difficulty": 2,
@@ -2299,18 +2299,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^1 的係數是： (變體4)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^1 is: (v4)",
     "options_zh": [
-      "4 (備選)",
       "4",
-      "1",
-      "6"
+      "4 (備選)",
+      "6",
+      "1"
     ],
     "options_en": [
-      "4 (alt)",
       "4",
-      "1",
-      "6"
+      "4 (alt)",
+      "6",
+      "1"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(4,1) = 4",
     "explanation_en": "C(4,1) = 4",
     "difficulty": 2,
@@ -2327,18 +2327,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^0 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^0 is: (v2)",
     "options_zh": [
-      "0",
       "5 (備選)",
-      "5",
-      "1"
+      "1",
+      "0",
+      "5"
     ],
     "options_en": [
-      "0",
       "5 (alt)",
-      "5",
-      "1"
+      "1",
+      "0",
+      "5"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(5,0) = 1",
     "explanation_en": "C(5,0) = 1",
     "difficulty": 2,
@@ -2357,16 +2357,16 @@
     "options_zh": [
       "5 (備選)",
       "0",
-      "1",
-      "5"
+      "5",
+      "1"
     ],
     "options_en": [
       "5 (alt)",
       "0",
-      "1",
-      "5"
+      "5",
+      "1"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(5,0) = 1",
     "explanation_en": "C(5,0) = 1",
     "difficulty": 2,
@@ -2383,18 +2383,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^3 的係數是： (變體3)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^3 is: (v3)",
     "options_zh": [
-      "3",
-      "10",
       "5 (備選)",
-      "5"
+      "3",
+      "5",
+      "10"
     ],
     "options_en": [
-      "3",
-      "10",
       "5 (alt)",
-      "5"
+      "3",
+      "5",
+      "10"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(5,3) = 10",
     "explanation_en": "C(5,3) = 10",
     "difficulty": 2,
@@ -2411,18 +2411,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^5 的係數是： (變體5)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^5 is: (v5)",
     "options_zh": [
-      "1",
-      "6 (備選)",
       "5",
-      "6"
+      "1",
+      "6",
+      "6 (備選)"
     ],
     "options_en": [
-      "1",
-      "6 (alt)",
       "5",
-      "6"
+      "1",
+      "6",
+      "6 (alt)"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(6,5) = 6",
     "explanation_en": "C(6,5) = 6",
     "difficulty": 2,
@@ -2439,18 +2439,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^5 的係數是： (變體3)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^5 is: (v3)",
     "options_zh": [
-      "7 (備選)",
-      "7",
+      "5",
       "21",
-      "5"
+      "7 (備選)",
+      "7"
     ],
     "options_en": [
-      "7 (alt)",
-      "7",
+      "5",
       "21",
-      "5"
+      "7 (alt)",
+      "7"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(7,5) = 21",
     "explanation_en": "C(7,5) = 21",
     "difficulty": 2,
@@ -2468,17 +2468,17 @@
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^4 is: (v3)",
     "options_zh": [
       "6",
-      "15",
       "4",
+      "15",
       "6 (備選)"
     ],
     "options_en": [
       "6",
-      "15",
       "4",
+      "15",
       "6 (alt)"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(6,4) = 15",
     "explanation_en": "C(6,4) = 15",
     "difficulty": 2,
@@ -2495,16 +2495,16 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^0 的係數是： (變體1)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^0 is: (v1)",
     "options_zh": [
-      "3",
       "3 (備選)",
+      "0",
       "1",
-      "0"
+      "3"
     ],
     "options_en": [
-      "3",
       "3 (alt)",
+      "0",
       "1",
-      "0"
+      "3"
     ],
     "answer": 2,
     "explanation_zh": "C(3,0) = 1",
@@ -2523,18 +2523,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^1 的係數是： (變體4)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^1 is: (v4)",
     "options_zh": [
-      "3",
-      "3 (備選)",
+      "3 (備選) (備選)",
       "1",
-      "3 (備選) (備選)"
+      "3 (備選)",
+      "3"
     ],
     "options_en": [
-      "3",
-      "3 (alt)",
+      "3 (alt) (alt)",
       "1",
-      "3 (alt) (alt)"
+      "3 (alt)",
+      "3"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(3,1) = 3",
     "explanation_en": "C(3,1) = 3",
     "difficulty": 2,
@@ -2552,15 +2552,15 @@
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^4 is: (v4)",
     "options_zh": [
       "5",
+      "1",
       "4",
-      "5 (備選)",
-      "1"
+      "5 (備選)"
     ],
     "options_en": [
       "5",
+      "1",
       "4",
-      "5 (alt)",
-      "1"
+      "5 (alt)"
     ],
     "answer": 0,
     "explanation_zh": "C(5,4) = 5",
@@ -2580,17 +2580,17 @@
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^2 is: (v2)",
     "options_zh": [
       "4",
-      "4 (備選)",
       "6",
-      "2"
+      "2",
+      "4 (備選)"
     ],
     "options_en": [
       "4",
-      "4 (alt)",
       "6",
-      "2"
+      "2",
+      "4 (alt)"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(4,2) = 6",
     "explanation_en": "C(4,2) = 6",
     "difficulty": 2,
@@ -2607,16 +2607,16 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^2 的係數是：",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^2 is:",
     "options_zh": [
+      "5",
       "10 (備選)",
-      "2",
       "10",
-      "5"
+      "2"
     ],
     "options_en": [
+      "5",
       "10 (alt)",
-      "2",
       "10",
-      "5"
+      "2"
     ],
     "answer": 2,
     "explanation_zh": "C(5,2) = 10",
@@ -2635,18 +2635,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^1 的係數是： (變體1)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^1 is: (v1)",
     "options_zh": [
-      "5 (備選)",
-      "5",
       "1",
-      "10"
+      "10",
+      "5",
+      "5 (備選)"
     ],
     "options_en": [
-      "5 (alt)",
-      "5",
       "1",
-      "10"
+      "10",
+      "5",
+      "5 (alt)"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(5,1) = 5",
     "explanation_en": "C(5,1) = 5",
     "difficulty": 2,
@@ -2663,18 +2663,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^6 的係數是： (變體4)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^6 is: (v4)",
     "options_zh": [
+      "6",
       "7",
       "1",
-      "7 (備選)",
-      "6"
+      "7 (備選)"
     ],
     "options_en": [
+      "6",
       "7",
       "1",
-      "7 (alt)",
-      "6"
+      "7 (alt)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "C(7,6) = 7",
     "explanation_en": "C(7,6) = 7",
     "difficulty": 2,
@@ -2692,17 +2692,17 @@
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^4 is: (v4)",
     "options_zh": [
       "6",
-      "15",
       "6 (備選)",
-      "4"
+      "4",
+      "15"
     ],
     "options_en": [
       "6",
-      "15",
       "6 (alt)",
-      "4"
+      "4",
+      "15"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(6,4) = 15",
     "explanation_en": "C(6,4) = 15",
     "difficulty": 2,
@@ -2719,18 +2719,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^1 的係數是： (變體3)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^1 is: (v3)",
     "options_zh": [
-      "6",
       "1",
-      "6 (備選)",
-      "15"
+      "6",
+      "15",
+      "6 (備選)"
     ],
     "options_en": [
-      "6",
       "1",
-      "6 (alt)",
-      "15"
+      "6",
+      "15",
+      "6 (alt)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "C(6,1) = 6",
     "explanation_en": "C(6,1) = 6",
     "difficulty": 2,
@@ -2748,17 +2748,17 @@
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^2 is: (v3)",
     "options_zh": [
       "2",
-      "4",
       "6",
-      "4 (備選)"
+      "4 (備選)",
+      "4"
     ],
     "options_en": [
       "2",
-      "4",
       "6",
-      "4 (alt)"
+      "4 (alt)",
+      "4"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(4,2) = 6",
     "explanation_en": "C(4,2) = 6",
     "difficulty": 2,
@@ -2776,17 +2776,17 @@
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^4 is: (v4)",
     "options_zh": [
       "4",
-      "35",
       "21",
-      "7"
+      "7",
+      "35"
     ],
     "options_en": [
       "4",
-      "35",
       "21",
-      "7"
+      "7",
+      "35"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(7,4) = 35",
     "explanation_en": "C(7,4) = 35",
     "difficulty": 2,
@@ -2803,18 +2803,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^1 的係數是： (變體5)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^1 is: (v5)",
     "options_zh": [
-      "1",
       "4",
+      "6",
       "4 (備選)",
-      "6"
+      "1"
     ],
     "options_en": [
-      "1",
       "4",
+      "6",
       "4 (alt)",
-      "6"
+      "1"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(4,1) = 4",
     "explanation_en": "C(4,1) = 4",
     "difficulty": 2,
@@ -2831,18 +2831,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^4 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^4 is: (v2)",
     "options_zh": [
-      "0",
-      "1",
+      "4",
       "4 (備選)",
-      "4"
+      "0",
+      "1"
     ],
     "options_en": [
-      "0",
-      "1",
+      "4",
       "4 (alt)",
-      "4"
+      "0",
+      "1"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(4,4) = 1",
     "explanation_en": "C(4,4) = 1",
     "difficulty": 2,
@@ -2859,18 +2859,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^4 的係數是： (變體5)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^4 is: (v5)",
     "options_zh": [
+      "4",
       "21",
-      "35",
       "7",
-      "4"
+      "35"
     ],
     "options_en": [
+      "4",
       "21",
-      "35",
       "7",
-      "4"
+      "35"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(7,4) = 35",
     "explanation_en": "C(7,4) = 35",
     "difficulty": 2,
@@ -2889,16 +2889,16 @@
     "options_zh": [
       "6",
       "6 (備選)",
-      "1",
-      "0"
+      "0",
+      "1"
     ],
     "options_en": [
       "6",
       "6 (alt)",
-      "1",
-      "0"
+      "0",
+      "1"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(6,6) = 1",
     "explanation_en": "C(6,6) = 1",
     "difficulty": 2,
@@ -2915,18 +2915,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^1 的係數是： (變體6)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^1 is: (v6)",
     "options_zh": [
-      "6",
+      "1",
       "4 (備選)",
-      "4",
-      "1"
+      "6",
+      "4"
     ],
     "options_en": [
-      "6",
+      "1",
       "4 (alt)",
-      "4",
-      "1"
+      "6",
+      "4"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(4,1) = 4",
     "explanation_en": "C(4,1) = 4",
     "difficulty": 2,
@@ -2943,18 +2943,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^1 的係數是： (變體1)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^1 is: (v1)",
     "options_zh": [
-      "7",
-      "7 (備選)",
       "1",
-      "21"
+      "7",
+      "21",
+      "7 (備選)"
     ],
     "options_en": [
-      "7",
-      "7 (alt)",
       "1",
-      "21"
+      "7",
+      "21",
+      "7 (alt)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "C(7,1) = 7",
     "explanation_en": "C(7,1) = 7",
     "difficulty": 2,
@@ -2971,18 +2971,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^3 的係數是： (變體4)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^3 is: (v4)",
     "options_zh": [
-      "3",
-      "5 (備選)",
       "10",
-      "5"
+      "3",
+      "5",
+      "5 (備選)"
     ],
     "options_en": [
-      "3",
-      "5 (alt)",
       "10",
-      "5"
+      "3",
+      "5",
+      "5 (alt)"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "C(5,3) = 10",
     "explanation_en": "C(5,3) = 10",
     "difficulty": 2,
@@ -2999,18 +2999,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^2 的係數是： (變體4)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^2 is: (v4)",
     "options_zh": [
-      "4 (備選)",
-      "4",
       "2",
-      "6"
+      "4",
+      "6",
+      "4 (備選)"
     ],
     "options_en": [
-      "4 (alt)",
-      "4",
       "2",
-      "6"
+      "4",
+      "6",
+      "4 (alt)"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(4,2) = 6",
     "explanation_en": "C(4,2) = 6",
     "difficulty": 2,
@@ -3027,18 +3027,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^2 的係數是： (變體4)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^2 is: (v4)",
     "options_zh": [
-      "3 (備選)",
       "1",
-      "2",
-      "3"
+      "3 (備選)",
+      "3",
+      "2"
     ],
     "options_en": [
-      "3 (alt)",
       "1",
-      "2",
-      "3"
+      "3 (alt)",
+      "3",
+      "2"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(3,2) = 3",
     "explanation_en": "C(3,2) = 3",
     "difficulty": 2,
@@ -3056,17 +3056,17 @@
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^4 is: (v3)",
     "options_zh": [
       "4",
-      "4 (備選)",
       "1",
-      "0"
+      "0",
+      "4 (備選)"
     ],
     "options_en": [
       "4",
-      "4 (alt)",
       "1",
-      "0"
+      "0",
+      "4 (alt)"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(4,4) = 1",
     "explanation_en": "C(4,4) = 1",
     "difficulty": 2,
@@ -3083,18 +3083,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^5 的係數是： (變體1)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^5 is: (v1)",
     "options_zh": [
-      "1",
       "5",
-      "5 (備選)",
-      "0"
+      "0",
+      "1",
+      "5 (備選)"
     ],
     "options_en": [
-      "1",
       "5",
-      "5 (alt)",
-      "0"
+      "0",
+      "1",
+      "5 (alt)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(5,5) = 1",
     "explanation_en": "C(5,5) = 1",
     "difficulty": 2,
@@ -3111,18 +3111,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^1 的係數是： (變體4)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^1 is: (v4)",
     "options_zh": [
-      "6",
       "1",
+      "6 (備選)",
       "15",
-      "6 (備選)"
+      "6"
     ],
     "options_en": [
-      "6",
       "1",
+      "6 (alt)",
       "15",
-      "6 (alt)"
+      "6"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(6,1) = 6",
     "explanation_en": "C(6,1) = 6",
     "difficulty": 2,
@@ -3139,18 +3139,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^3 的係數是： (變體5)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^3 is: (v5)",
     "options_zh": [
+      "5",
       "10",
       "5 (備選)",
-      "5",
       "3"
     ],
     "options_en": [
+      "5",
       "10",
       "5 (alt)",
-      "5",
       "3"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "C(5,3) = 10",
     "explanation_en": "C(5,3) = 10",
     "difficulty": 2,
@@ -3168,17 +3168,17 @@
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^4 is: (v4)",
     "options_zh": [
       "4",
-      "0",
       "4 (備選)",
-      "1"
+      "1",
+      "0"
     ],
     "options_en": [
       "4",
-      "0",
       "4 (alt)",
-      "1"
+      "1",
+      "0"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(4,4) = 1",
     "explanation_en": "C(4,4) = 1",
     "difficulty": 2,
@@ -3195,18 +3195,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^3 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^3 is: (v2)",
     "options_zh": [
-      "1",
       "4",
       "3",
+      "1",
       "4 (備選)"
     ],
     "options_en": [
-      "1",
       "4",
       "3",
+      "1",
       "4 (alt)"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(4,3) = 4",
     "explanation_en": "C(4,3) = 4",
     "difficulty": 2,
@@ -3224,17 +3224,17 @@
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^3 is: (v1)",
     "options_zh": [
       "35 (備選)",
+      "35",
       "7",
-      "3",
-      "35"
+      "3"
     ],
     "options_en": [
       "35 (alt)",
+      "35",
       "7",
-      "3",
-      "35"
+      "3"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(7,3) = 35",
     "explanation_en": "C(7,3) = 35",
     "difficulty": 2,
@@ -3251,18 +3251,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^2 的係數是： (變體5)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^2 is: (v5)",
     "options_zh": [
-      "6",
-      "2",
       "4 (備選)",
-      "4"
+      "6",
+      "4",
+      "2"
     ],
     "options_en": [
-      "6",
-      "2",
       "4 (alt)",
-      "4"
+      "6",
+      "4",
+      "2"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "C(4,2) = 6",
     "explanation_en": "C(4,2) = 6",
     "difficulty": 2,
@@ -3279,18 +3279,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^5 的係數是： (變體4)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^5 is: (v4)",
     "options_zh": [
-      "7 (備選)",
       "21",
-      "5",
-      "7"
+      "7",
+      "7 (備選)",
+      "5"
     ],
     "options_en": [
-      "7 (alt)",
       "21",
-      "5",
-      "7"
+      "7",
+      "7 (alt)",
+      "5"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(7,5) = 21",
     "explanation_en": "C(7,5) = 21",
     "difficulty": 2,
@@ -3335,16 +3335,16 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^1 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^1 is: (v2)",
     "options_zh": [
+      "7 (備選)",
       "1",
-      "21",
       "7",
-      "7 (備選)"
+      "21"
     ],
     "options_en": [
+      "7 (alt)",
       "1",
-      "21",
       "7",
-      "7 (alt)"
+      "21"
     ],
     "answer": 2,
     "explanation_zh": "C(7,1) = 7",
@@ -3363,18 +3363,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^6 的係數是： (變體5)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^6 is: (v5)",
     "options_zh": [
-      "7",
-      "6",
       "7 (備選)",
-      "1"
+      "6",
+      "1",
+      "7"
     ],
     "options_en": [
-      "7",
-      "6",
       "7 (alt)",
-      "1"
+      "6",
+      "1",
+      "7"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(7,6) = 7",
     "explanation_en": "C(7,6) = 7",
     "difficulty": 2,
@@ -3392,17 +3392,17 @@
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^2 is: (v1)",
     "options_zh": [
       "2",
-      "10 (備選)",
       "5",
-      "10"
+      "10",
+      "10 (備選)"
     ],
     "options_en": [
       "2",
-      "10 (alt)",
       "5",
-      "10"
+      "10",
+      "10 (alt)"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(5,2) = 10",
     "explanation_en": "C(5,2) = 10",
     "difficulty": 2,
@@ -3419,18 +3419,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^3 的係數是： (變體6)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^3 is: (v6)",
     "options_zh": [
-      "1",
-      "0",
       "3",
-      "3 (備選)"
+      "0",
+      "3 (備選)",
+      "1"
     ],
     "options_en": [
-      "1",
-      "0",
       "3",
-      "3 (alt)"
+      "0",
+      "3 (alt)",
+      "1"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(3,3) = 1",
     "explanation_en": "C(3,3) = 1",
     "difficulty": 2,
@@ -3447,15 +3447,15 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^4 的係數是： (變體6)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^4 is: (v6)",
     "options_zh": [
-      "21",
-      "35",
       "4",
+      "35",
+      "21",
       "7"
     ],
     "options_en": [
-      "21",
-      "35",
       "4",
+      "35",
+      "21",
       "7"
     ],
     "answer": 1,
@@ -3476,17 +3476,17 @@
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^6 is: (v2)",
     "options_zh": [
       "0",
+      "1",
       "6",
-      "6 (備選)",
-      "1"
+      "6 (備選)"
     ],
     "options_en": [
       "0",
+      "1",
       "6",
-      "6 (alt)",
-      "1"
+      "6 (alt)"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(6,6) = 1",
     "explanation_en": "C(6,6) = 1",
     "difficulty": 2,
@@ -3504,17 +3504,17 @@
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^5 is: (v5)",
     "options_zh": [
       "5",
-      "7",
+      "21",
       "7 (備選)",
-      "21"
+      "7"
     ],
     "options_en": [
       "5",
-      "7",
+      "21",
       "7 (alt)",
-      "21"
+      "7"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(7,5) = 21",
     "explanation_en": "C(7,5) = 21",
     "difficulty": 2,
@@ -3531,16 +3531,16 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^2 的係數是： (變體5)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^2 is: (v5)",
     "options_zh": [
-      "3 (備選)",
+      "2",
       "1",
       "3",
-      "2"
+      "3 (備選)"
     ],
     "options_en": [
-      "3 (alt)",
+      "2",
       "1",
       "3",
-      "2"
+      "3 (alt)"
     ],
     "answer": 2,
     "explanation_zh": "C(3,2) = 3",
@@ -3560,17 +3560,17 @@
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^6 is: (v3)",
     "options_zh": [
       "6 (備選)",
-      "1",
       "6",
+      "1",
       "0"
     ],
     "options_en": [
       "6 (alt)",
-      "1",
       "6",
+      "1",
       "0"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(6,6) = 1",
     "explanation_en": "C(6,6) = 1",
     "difficulty": 2,
@@ -3587,18 +3587,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^2 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^2 is: (v2)",
     "options_zh": [
-      "5",
-      "2",
       "10",
-      "10 (備選)"
+      "5",
+      "10 (備選)",
+      "2"
     ],
     "options_en": [
-      "5",
-      "2",
       "10",
-      "10 (alt)"
+      "5",
+      "10 (alt)",
+      "2"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "C(5,2) = 10",
     "explanation_en": "C(5,2) = 10",
     "difficulty": 2,
@@ -3615,18 +3615,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^0 的係數是： (變體4)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^0 is: (v4)",
     "options_zh": [
+      "4 (備選)",
       "1",
-      "0",
       "4",
-      "4 (備選)"
+      "0"
     ],
     "options_en": [
+      "4 (alt)",
       "1",
-      "0",
       "4",
-      "4 (alt)"
+      "0"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "C(4,0) = 1",
     "explanation_en": "C(4,0) = 1",
     "difficulty": 2,
@@ -3643,18 +3643,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^2 的係數是： (變體6)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^2 is: (v6)",
     "options_zh": [
-      "4 (備選)",
-      "4",
       "6",
+      "4",
+      "4 (備選)",
       "2"
     ],
     "options_en": [
-      "4 (alt)",
-      "4",
       "6",
+      "4",
+      "4 (alt)",
       "2"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "C(4,2) = 6",
     "explanation_en": "C(4,2) = 6",
     "difficulty": 2,
@@ -3671,18 +3671,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^1 的係數是： (變體3)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^1 is: (v3)",
     "options_zh": [
+      "7",
       "7 (備選)",
-      "21",
       "1",
-      "7"
+      "21"
     ],
     "options_en": [
+      "7",
       "7 (alt)",
-      "21",
       "1",
-      "7"
+      "21"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(7,1) = 7",
     "explanation_en": "C(7,1) = 7",
     "difficulty": 2,
@@ -3699,18 +3699,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^1 的係數是： (變體4)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^1 is: (v4)",
     "options_zh": [
-      "7",
-      "21",
       "1",
-      "7 (備選)"
+      "21",
+      "7 (備選)",
+      "7"
     ],
     "options_en": [
-      "7",
-      "21",
       "1",
-      "7 (alt)"
+      "21",
+      "7 (alt)",
+      "7"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(7,1) = 7",
     "explanation_en": "C(7,1) = 7",
     "difficulty": 2,
@@ -3727,15 +3727,15 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^3 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^3 is: (v7)",
     "options_zh": [
+      "3",
       "0",
       "3 (備選)",
-      "3",
       "1"
     ],
     "options_en": [
+      "3",
       "0",
       "3 (alt)",
-      "3",
       "1"
     ],
     "answer": 3,
@@ -3755,15 +3755,15 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^7 的係數是： (變體5)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^7 is: (v5)",
     "options_zh": [
-      "0",
       "7 (備選)",
       "7",
+      "0",
       "1"
     ],
     "options_en": [
-      "0",
       "7 (alt)",
       "7",
+      "0",
       "1"
     ],
     "answer": 3,
@@ -3783,18 +3783,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^0 的係數是： (變體5)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^0 is: (v5)",
     "options_zh": [
-      "0",
-      "4",
       "1",
-      "4 (備選)"
+      "4 (備選)",
+      "0",
+      "4"
     ],
     "options_en": [
-      "0",
-      "4",
       "1",
-      "4 (alt)"
+      "4 (alt)",
+      "0",
+      "4"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "C(4,0) = 1",
     "explanation_en": "C(4,0) = 1",
     "difficulty": 2,
@@ -3811,18 +3811,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^4 的係數是： (變體5)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^4 is: (v5)",
     "options_zh": [
-      "0",
-      "4",
+      "1",
       "4 (備選)",
-      "1"
+      "0",
+      "4"
     ],
     "options_en": [
-      "0",
-      "4",
+      "1",
       "4 (alt)",
-      "1"
+      "0",
+      "4"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(4,4) = 1",
     "explanation_en": "C(4,4) = 1",
     "difficulty": 2,
@@ -3840,17 +3840,17 @@
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^4 is: (v5)",
     "options_zh": [
       "5 (備選)",
-      "5",
       "1",
-      "4"
+      "4",
+      "5"
     ],
     "options_en": [
       "5 (alt)",
-      "5",
       "1",
-      "4"
+      "4",
+      "5"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(5,4) = 5",
     "explanation_en": "C(5,4) = 5",
     "difficulty": 2,
@@ -3867,18 +3867,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^2 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^2 is: (v7)",
     "options_zh": [
-      "4",
-      "2",
+      "6",
       "4 (備選)",
-      "6"
+      "2",
+      "4"
     ],
     "options_en": [
-      "4",
-      "2",
+      "6",
       "4 (alt)",
-      "6"
+      "2",
+      "4"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(4,2) = 6",
     "explanation_en": "C(4,2) = 6",
     "difficulty": 2,
@@ -3897,14 +3897,14 @@
     "options_zh": [
       "3 (備選)",
       "1",
-      "3",
-      "0"
+      "0",
+      "3"
     ],
     "options_en": [
       "3 (alt)",
       "1",
-      "3",
-      "0"
+      "0",
+      "3"
     ],
     "answer": 1,
     "explanation_zh": "C(3,0) = 1",
@@ -3923,18 +3923,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^1 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^1 is: (v2)",
     "options_zh": [
+      "5",
       "1",
       "10",
-      "5",
       "5 (備選)"
     ],
     "options_en": [
+      "5",
       "1",
       "10",
-      "5",
       "5 (alt)"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "C(5,1) = 5",
     "explanation_en": "C(5,1) = 5",
     "difficulty": 2,
@@ -3952,17 +3952,17 @@
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^2 is:",
     "options_zh": [
       "6",
-      "2",
       "15",
+      "2",
       "20"
     ],
     "options_en": [
       "6",
-      "2",
       "15",
+      "2",
       "20"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(6,2) = 15",
     "explanation_en": "C(6,2) = 15",
     "difficulty": 2,
@@ -3981,16 +3981,16 @@
     "options_zh": [
       "2",
       "3 (備選)",
-      "3",
-      "1"
+      "1",
+      "3"
     ],
     "options_en": [
       "2",
       "3 (alt)",
-      "3",
-      "1"
+      "1",
+      "3"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(3,2) = 3",
     "explanation_en": "C(3,2) = 3",
     "difficulty": 2,
@@ -4007,18 +4007,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^3 的係數是： (變體6)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^3 is: (v6)",
     "options_zh": [
-      "3",
-      "10",
       "5",
-      "5 (備選)"
+      "3",
+      "5 (備選)",
+      "10"
     ],
     "options_en": [
-      "3",
-      "10",
       "5",
-      "5 (alt)"
+      "3",
+      "5 (alt)",
+      "10"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(5,3) = 10",
     "explanation_en": "C(5,3) = 10",
     "difficulty": 2,
@@ -4035,18 +4035,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^2 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^2 is: (v7)",
     "options_zh": [
-      "3 (備選)",
-      "1",
+      "2",
       "3",
-      "2"
+      "3 (備選)",
+      "1"
     ],
     "options_en": [
-      "3 (alt)",
-      "1",
+      "2",
       "3",
-      "2"
+      "3 (alt)",
+      "1"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(3,2) = 3",
     "explanation_en": "C(3,2) = 3",
     "difficulty": 2,
@@ -4063,16 +4063,16 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^1 的係數是： (變體3)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^1 is: (v3)",
     "options_zh": [
-      "1",
+      "10",
       "5 (備選)",
       "5",
-      "10"
+      "1"
     ],
     "options_en": [
-      "1",
+      "10",
       "5 (alt)",
       "5",
-      "10"
+      "1"
     ],
     "answer": 2,
     "explanation_zh": "C(5,1) = 5",
@@ -4091,16 +4091,16 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^1 的係數是： (變體6)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^1 is: (v6)",
     "options_zh": [
-      "3 (備選)",
+      "3 (備選) (備選)",
       "1",
       "3",
-      "3 (備選) (備選)"
+      "3 (備選)"
     ],
     "options_en": [
-      "3 (alt)",
+      "3 (alt) (alt)",
       "1",
       "3",
-      "3 (alt) (alt)"
+      "3 (alt)"
     ],
     "answer": 2,
     "explanation_zh": "C(3,1) = 3",
@@ -4119,18 +4119,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^2 的係數是： (變體8)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^2 is: (v8)",
     "options_zh": [
-      "6",
       "4",
       "2",
-      "4 (備選)"
+      "4 (備選)",
+      "6"
     ],
     "options_en": [
-      "6",
       "4",
       "2",
-      "4 (alt)"
+      "4 (alt)",
+      "6"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(4,2) = 6",
     "explanation_en": "C(4,2) = 6",
     "difficulty": 2,
@@ -4147,18 +4147,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^3 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^3 is: (v2)",
     "options_zh": [
+      "35 (備選)",
       "3",
       "35",
-      "35 (備選)",
       "7"
     ],
     "options_en": [
+      "35 (alt)",
       "3",
       "35",
-      "35 (alt)",
       "7"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(7,3) = 35",
     "explanation_en": "C(7,3) = 35",
     "difficulty": 2,
@@ -4175,18 +4175,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^3 的係數是： (變體3)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^3 is: (v3)",
     "options_zh": [
-      "3",
-      "6",
       "20",
-      "15"
+      "3",
+      "15",
+      "6"
     ],
     "options_en": [
-      "3",
-      "6",
       "20",
-      "15"
+      "3",
+      "15",
+      "6"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "C(6,3) = 20",
     "explanation_en": "C(6,3) = 20",
     "difficulty": 2,
@@ -4205,16 +4205,16 @@
     "options_zh": [
       "1",
       "7 (備選)",
-      "7",
-      "21"
+      "21",
+      "7"
     ],
     "options_en": [
       "1",
       "7 (alt)",
-      "7",
-      "21"
+      "21",
+      "7"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(7,1) = 7",
     "explanation_en": "C(7,1) = 7",
     "difficulty": 2,
@@ -4231,18 +4231,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^3 的係數是： (變體3)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^3 is: (v3)",
     "options_zh": [
-      "1",
       "3",
-      "4",
-      "4 (備選)"
+      "4 (備選)",
+      "1",
+      "4"
     ],
     "options_en": [
-      "1",
       "3",
-      "4",
-      "4 (alt)"
+      "4 (alt)",
+      "1",
+      "4"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(4,3) = 4",
     "explanation_en": "C(4,3) = 4",
     "difficulty": 2,
@@ -4259,18 +4259,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^6 的係數是： (變體4)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^6 is: (v4)",
     "options_zh": [
-      "6 (備選)",
       "6",
       "1",
-      "0"
+      "0",
+      "6 (備選)"
     ],
     "options_en": [
-      "6 (alt)",
       "6",
       "1",
-      "0"
+      "0",
+      "6 (alt)"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(6,6) = 1",
     "explanation_en": "C(6,6) = 1",
     "difficulty": 2,
@@ -4287,18 +4287,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^0 的係數是： (變體4)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^0 is: (v4)",
     "options_zh": [
-      "1",
       "5",
-      "5 (備選)",
-      "0"
+      "0",
+      "1",
+      "5 (備選)"
     ],
     "options_en": [
-      "1",
       "5",
-      "5 (alt)",
-      "0"
+      "0",
+      "1",
+      "5 (alt)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(5,0) = 1",
     "explanation_en": "C(5,0) = 1",
     "difficulty": 2,
@@ -4316,17 +4316,17 @@
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^2 is: (v8)",
     "options_zh": [
       "1",
-      "3",
+      "3 (備選)",
       "2",
-      "3 (備選)"
+      "3"
     ],
     "options_en": [
       "1",
-      "3",
+      "3 (alt)",
       "2",
-      "3 (alt)"
+      "3"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(3,2) = 3",
     "explanation_en": "C(3,2) = 3",
     "difficulty": 2,
@@ -4343,18 +4343,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^0 的係數是： (變體6)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^0 is: (v6)",
     "options_zh": [
-      "4",
       "0",
       "4 (備選)",
-      "1"
+      "1",
+      "4"
     ],
     "options_en": [
-      "4",
       "0",
       "4 (alt)",
-      "1"
+      "1",
+      "4"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(4,0) = 1",
     "explanation_en": "C(4,0) = 1",
     "difficulty": 2,
@@ -4372,17 +4372,17 @@
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^0 is: (v5)",
     "options_zh": [
       "0",
-      "1",
+      "5",
       "5 (備選)",
-      "5"
+      "1"
     ],
     "options_en": [
       "0",
-      "1",
+      "5",
       "5 (alt)",
-      "5"
+      "1"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(5,0) = 1",
     "explanation_en": "C(5,0) = 1",
     "difficulty": 2,
@@ -4399,18 +4399,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^2 的係數是： (變體9)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^2 is: (v9)",
     "options_zh": [
-      "3",
-      "1",
       "3 (備選)",
+      "1",
+      "3",
       "2"
     ],
     "options_en": [
-      "3",
-      "1",
       "3 (alt)",
+      "1",
+      "3",
       "2"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(3,2) = 3",
     "explanation_en": "C(3,2) = 3",
     "difficulty": 2,
@@ -4427,18 +4427,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^3 的係數是： (變體4)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^3 is: (v4)",
     "options_zh": [
-      "3",
       "4 (備選)",
-      "1",
-      "4"
+      "3",
+      "4",
+      "1"
     ],
     "options_en": [
-      "3",
       "4 (alt)",
-      "1",
-      "4"
+      "3",
+      "4",
+      "1"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(4,3) = 4",
     "explanation_en": "C(4,3) = 4",
     "difficulty": 2,
@@ -4455,18 +4455,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^4 的係數是： (變體5)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^4 is: (v5)",
     "options_zh": [
-      "15",
-      "4",
       "6",
-      "6 (備選)"
+      "4",
+      "6 (備選)",
+      "15"
     ],
     "options_en": [
-      "15",
-      "4",
       "6",
-      "6 (alt)"
+      "4",
+      "6 (alt)",
+      "15"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(6,4) = 15",
     "explanation_en": "C(6,4) = 15",
     "difficulty": 2,
@@ -4483,18 +4483,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^1 的係數是： (變體6)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^1 is: (v6)",
     "options_zh": [
-      "7",
-      "7 (備選)",
       "1",
-      "21"
+      "21",
+      "7",
+      "7 (備選)"
     ],
     "options_en": [
-      "7",
-      "7 (alt)",
       "1",
-      "21"
+      "21",
+      "7",
+      "7 (alt)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(7,1) = 7",
     "explanation_en": "C(7,1) = 7",
     "difficulty": 2,
@@ -4511,16 +4511,16 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^7 的係數是： (變體6)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^7 is: (v6)",
     "options_zh": [
-      "7",
+      "0",
       "7 (備選)",
       "1",
-      "0"
+      "7"
     ],
     "options_en": [
-      "7",
+      "0",
       "7 (alt)",
       "1",
-      "0"
+      "7"
     ],
     "answer": 2,
     "explanation_zh": "C(7,7) = 1",
@@ -4539,18 +4539,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^0 的係數是： (變體3)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^0 is: (v3)",
     "options_zh": [
-      "0",
-      "1",
       "7",
-      "7 (備選)"
+      "7 (備選)",
+      "0",
+      "1"
     ],
     "options_en": [
-      "0",
-      "1",
       "7",
-      "7 (alt)"
+      "7 (alt)",
+      "0",
+      "1"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(7,0) = 1",
     "explanation_en": "C(7,0) = 1",
     "difficulty": 2,
@@ -4567,18 +4567,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^2 的係數是： (變體4)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^2 is: (v4)",
     "options_zh": [
+      "21",
       "7",
       "35",
-      "2",
-      "21"
+      "2"
     ],
     "options_en": [
+      "21",
       "7",
       "35",
-      "2",
-      "21"
+      "2"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(7,2) = 21",
     "explanation_en": "C(7,2) = 21",
     "difficulty": 2,
@@ -4596,14 +4596,14 @@
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^0 is: (v2)",
     "options_zh": [
       "1",
-      "6",
       "6 (備選)",
+      "6",
       "0"
     ],
     "options_en": [
       "1",
-      "6",
       "6 (alt)",
+      "6",
       "0"
     ],
     "answer": 0,
@@ -4623,18 +4623,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^2 的係數是： (變體3)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^2 is: (v3)",
     "options_zh": [
-      "2",
       "10 (備選)",
-      "5",
-      "10"
+      "10",
+      "2",
+      "5"
     ],
     "options_en": [
-      "2",
       "10 (alt)",
-      "5",
-      "10"
+      "10",
+      "2",
+      "5"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(5,2) = 10",
     "explanation_en": "C(5,2) = 10",
     "difficulty": 2,
@@ -4651,18 +4651,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^1 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^1 is: (v7)",
     "options_zh": [
-      "1",
-      "4",
+      "4 (備選)",
       "6",
-      "4 (備選)"
+      "4",
+      "1"
     ],
     "options_en": [
-      "1",
-      "4",
+      "4 (alt)",
       "6",
-      "4 (alt)"
+      "4",
+      "1"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(4,1) = 4",
     "explanation_en": "C(4,1) = 4",
     "difficulty": 2,
@@ -4680,17 +4680,17 @@
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^5 is: (v6)",
     "options_zh": [
       "7",
+      "7 (備選)",
       "21",
-      "5",
-      "7 (備選)"
+      "5"
     ],
     "options_en": [
       "7",
+      "7 (alt)",
       "21",
-      "5",
-      "7 (alt)"
+      "5"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(7,5) = 21",
     "explanation_en": "C(7,5) = 21",
     "difficulty": 2,
@@ -4707,18 +4707,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^1 的係數是： (變體5)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^1 is: (v5)",
     "options_zh": [
-      "6 (備選)",
-      "15",
       "1",
-      "6"
+      "6",
+      "6 (備選)",
+      "15"
     ],
     "options_en": [
-      "6 (alt)",
-      "15",
       "1",
-      "6"
+      "6",
+      "6 (alt)",
+      "15"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(6,1) = 6",
     "explanation_en": "C(6,1) = 6",
     "difficulty": 2,
@@ -4735,18 +4735,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^2 的係數是： (變體9)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^2 is: (v9)",
     "options_zh": [
-      "2",
+      "6",
       "4",
       "4 (備選)",
-      "6"
+      "2"
     ],
     "options_en": [
-      "2",
+      "6",
       "4",
       "4 (alt)",
-      "6"
+      "2"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(4,2) = 6",
     "explanation_en": "C(4,2) = 6",
     "difficulty": 2,
@@ -4763,18 +4763,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^6 的係數是： (變體6)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^6 is: (v6)",
     "options_zh": [
+      "7",
       "6",
-      "7 (備選)",
       "1",
-      "7"
+      "7 (備選)"
     ],
     "options_en": [
+      "7",
       "6",
-      "7 (alt)",
       "1",
-      "7"
+      "7 (alt)"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(7,6) = 7",
     "explanation_en": "C(7,6) = 7",
     "difficulty": 2,
@@ -4791,15 +4791,15 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^0 的係數是： (變體3)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^0 is: (v3)",
     "options_zh": [
-      "6 (備選)",
-      "0",
       "6",
+      "0",
+      "6 (備選)",
       "1"
     ],
     "options_en": [
-      "6 (alt)",
-      "0",
       "6",
+      "0",
+      "6 (alt)",
       "1"
     ],
     "answer": 3,
@@ -4819,18 +4819,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^4 的係數是： (變體6)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^4 is: (v6)",
     "options_zh": [
-      "5",
       "1",
-      "5 (備選)",
-      "4"
+      "5",
+      "4",
+      "5 (備選)"
     ],
     "options_en": [
-      "5",
       "1",
-      "5 (alt)",
-      "4"
+      "5",
+      "4",
+      "5 (alt)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "C(5,4) = 5",
     "explanation_en": "C(5,4) = 5",
     "difficulty": 2,
@@ -4847,18 +4847,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^6 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^6 is: (v7)",
     "options_zh": [
-      "7",
       "1",
-      "7 (備選)",
-      "6"
+      "7",
+      "6",
+      "7 (備選)"
     ],
     "options_en": [
-      "7",
       "1",
-      "7 (alt)",
-      "6"
+      "7",
+      "6",
+      "7 (alt)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "C(7,6) = 7",
     "explanation_en": "C(7,6) = 7",
     "difficulty": 2,
@@ -4875,18 +4875,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^4 的係數是： (變體6)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^4 is: (v6)",
     "options_zh": [
-      "15",
       "4",
-      "6 (備選)",
-      "6"
+      "6",
+      "15",
+      "6 (備選)"
     ],
     "options_en": [
-      "15",
       "4",
-      "6 (alt)",
-      "6"
+      "6",
+      "15",
+      "6 (alt)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(6,4) = 15",
     "explanation_en": "C(6,4) = 15",
     "difficulty": 2,
@@ -4903,18 +4903,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^2 的係數是： (變體1)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^2 is: (v1)",
     "options_zh": [
-      "2",
-      "15",
+      "6",
       "20",
-      "6"
+      "2",
+      "15"
     ],
     "options_en": [
-      "2",
-      "15",
+      "6",
       "20",
-      "6"
+      "2",
+      "15"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(6,2) = 15",
     "explanation_en": "C(6,2) = 15",
     "difficulty": 2,
@@ -4931,16 +4931,16 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^1 的係數是： (變體4)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^1 is: (v4)",
     "options_zh": [
-      "5 (備選)",
-      "5",
       "10",
-      "1"
+      "5",
+      "1",
+      "5 (備選)"
     ],
     "options_en": [
-      "5 (alt)",
-      "5",
       "10",
-      "1"
+      "5",
+      "1",
+      "5 (alt)"
     ],
     "answer": 1,
     "explanation_zh": "C(5,1) = 5",
@@ -4959,18 +4959,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^3 的係數是： (變體5)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^3 is: (v5)",
     "options_zh": [
-      "4",
-      "3",
       "4 (備選)",
-      "1"
+      "4",
+      "1",
+      "3"
     ],
     "options_en": [
-      "4",
-      "3",
       "4 (alt)",
-      "1"
+      "4",
+      "1",
+      "3"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "C(4,3) = 4",
     "explanation_en": "C(4,3) = 4",
     "difficulty": 2,
@@ -4987,18 +4987,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^4 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^4 is: (v7)",
     "options_zh": [
-      "4",
       "5",
       "1",
+      "4",
       "5 (備選)"
     ],
     "options_en": [
-      "4",
       "5",
       "1",
+      "4",
       "5 (alt)"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(5,4) = 5",
     "explanation_en": "C(5,4) = 5",
     "difficulty": 2,
@@ -5015,18 +5015,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^5 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^5 is: (v2)",
     "options_zh": [
-      "5",
-      "0",
       "5 (備選)",
-      "1"
+      "1",
+      "0",
+      "5"
     ],
     "options_en": [
-      "5",
-      "0",
       "5 (alt)",
-      "1"
+      "1",
+      "0",
+      "5"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(5,5) = 1",
     "explanation_en": "C(5,5) = 1",
     "difficulty": 2,
@@ -5043,18 +5043,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^4 的係數是： (變體8)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^4 is: (v8)",
     "options_zh": [
-      "4",
       "5",
       "5 (備選)",
-      "1"
+      "1",
+      "4"
     ],
     "options_en": [
-      "4",
       "5",
       "5 (alt)",
-      "1"
+      "1",
+      "4"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(5,4) = 5",
     "explanation_en": "C(5,4) = 5",
     "difficulty": 2,
@@ -5072,17 +5072,17 @@
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^5 is: (v3)",
     "options_zh": [
       "0",
+      "1",
       "5 (備選)",
-      "5",
-      "1"
+      "5"
     ],
     "options_en": [
       "0",
+      "1",
       "5 (alt)",
-      "5",
-      "1"
+      "5"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(5,5) = 1",
     "explanation_en": "C(5,5) = 1",
     "difficulty": 2,
@@ -5099,14 +5099,14 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^6 的係數是： (變體8)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^6 is: (v8)",
     "options_zh": [
-      "6",
       "1",
+      "6",
       "7 (備選)",
       "7"
     ],
     "options_en": [
-      "6",
       "1",
+      "6",
       "7 (alt)",
       "7"
     ],
@@ -5128,17 +5128,17 @@
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^2 is: (v4)",
     "options_zh": [
       "5",
-      "10",
+      "2",
       "10 (備選)",
-      "2"
+      "10"
     ],
     "options_en": [
       "5",
-      "10",
+      "2",
       "10 (alt)",
-      "2"
+      "10"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(5,2) = 10",
     "explanation_en": "C(5,2) = 10",
     "difficulty": 2,
@@ -5155,16 +5155,16 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^4 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^4 is: (v7)",
     "options_zh": [
-      "4",
       "21",
+      "7",
       "35",
-      "7"
+      "4"
     ],
     "options_en": [
-      "4",
       "21",
+      "7",
       "35",
-      "7"
+      "4"
     ],
     "answer": 2,
     "explanation_zh": "C(7,4) = 35",
@@ -5183,18 +5183,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^4 的係數是： (變體6)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^4 is: (v6)",
     "options_zh": [
-      "4",
       "4 (備選)",
-      "0",
-      "1"
+      "1",
+      "4",
+      "0"
     ],
     "options_en": [
-      "4",
       "4 (alt)",
-      "0",
-      "1"
+      "1",
+      "4",
+      "0"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(4,4) = 1",
     "explanation_en": "C(4,4) = 1",
     "difficulty": 2,
@@ -5211,18 +5211,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^2 的係數是： (變體10)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^2 is: (v10)",
     "options_zh": [
+      "4 (備選)",
       "2",
       "4",
-      "6",
-      "4 (備選)"
+      "6"
     ],
     "options_en": [
+      "4 (alt)",
       "2",
       "4",
-      "6",
-      "4 (alt)"
+      "6"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(4,2) = 6",
     "explanation_en": "C(4,2) = 6",
     "difficulty": 2,
@@ -5239,18 +5239,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^1 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^1 is: (v7)",
     "options_zh": [
-      "7",
-      "21",
       "7 (備選)",
-      "1"
+      "21",
+      "1",
+      "7"
     ],
     "options_en": [
-      "7",
-      "21",
       "7 (alt)",
-      "1"
+      "21",
+      "1",
+      "7"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(7,1) = 7",
     "explanation_en": "C(7,1) = 7",
     "difficulty": 2,
@@ -5267,18 +5267,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^3 的係數是： (變體8)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^3 is: (v8)",
     "options_zh": [
-      "0",
-      "3",
       "1",
-      "3 (備選)"
+      "3 (備選)",
+      "0",
+      "3"
     ],
     "options_en": [
-      "0",
-      "3",
       "1",
-      "3 (alt)"
+      "3 (alt)",
+      "0",
+      "3"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "C(3,3) = 1",
     "explanation_en": "C(3,3) = 1",
     "difficulty": 2,
@@ -5296,17 +5296,17 @@
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^0 is: (v6)",
     "options_zh": [
       "5 (備選)",
-      "5",
       "0",
-      "1"
+      "1",
+      "5"
     ],
     "options_en": [
       "5 (alt)",
-      "5",
       "0",
-      "1"
+      "1",
+      "5"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(5,0) = 1",
     "explanation_en": "C(5,0) = 1",
     "difficulty": 2,
@@ -5323,18 +5323,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^0 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^0 is: (v7)",
     "options_zh": [
-      "4 (備選)",
       "1",
-      "4",
-      "0"
+      "0",
+      "4 (備選)",
+      "4"
     ],
     "options_en": [
-      "4 (alt)",
       "1",
-      "4",
-      "0"
+      "0",
+      "4 (alt)",
+      "4"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(4,0) = 1",
     "explanation_en": "C(4,0) = 1",
     "difficulty": 2,
@@ -5351,18 +5351,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^0 的係數是： (變體3)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^0 is: (v3)",
     "options_zh": [
-      "1",
       "0",
+      "3",
       "3 (備選)",
-      "3"
+      "1"
     ],
     "options_en": [
-      "1",
       "0",
+      "3",
       "3 (alt)",
-      "3"
+      "1"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(3,0) = 1",
     "explanation_en": "C(3,0) = 1",
     "difficulty": 2,
@@ -5379,18 +5379,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^2 的係數是： (變體11)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^2 is: (v11)",
     "options_zh": [
-      "4",
-      "6",
       "2",
-      "4 (備選)"
+      "4 (備選)",
+      "4",
+      "6"
     ],
     "options_en": [
-      "4",
-      "6",
       "2",
-      "4 (alt)"
+      "4 (alt)",
+      "4",
+      "6"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(4,2) = 6",
     "explanation_en": "C(4,2) = 6",
     "difficulty": 2,
@@ -5407,16 +5407,16 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^5 的係數是： (變體4)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^5 is: (v4)",
     "options_zh": [
-      "5",
+      "0",
       "5 (備選)",
       "1",
-      "0"
+      "5"
     ],
     "options_en": [
-      "5",
+      "0",
       "5 (alt)",
       "1",
-      "0"
+      "5"
     ],
     "answer": 2,
     "explanation_zh": "C(5,5) = 1",
@@ -5435,18 +5435,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^4 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^4 is: (v7)",
     "options_zh": [
-      "4 (備選)",
-      "4",
       "0",
-      "1"
+      "4",
+      "1",
+      "4 (備選)"
     ],
     "options_en": [
-      "4 (alt)",
-      "4",
       "0",
-      "1"
+      "4",
+      "1",
+      "4 (alt)"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(4,4) = 1",
     "explanation_en": "C(4,4) = 1",
     "difficulty": 2,
@@ -5463,16 +5463,16 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^0 的係數是： (變體8)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^0 is: (v8)",
     "options_zh": [
-      "0",
-      "1",
       "4 (備選)",
-      "4"
+      "1",
+      "4",
+      "0"
     ],
     "options_en": [
-      "0",
-      "1",
       "4 (alt)",
-      "4"
+      "1",
+      "4",
+      "0"
     ],
     "answer": 1,
     "explanation_zh": "C(4,0) = 1",
@@ -5491,18 +5491,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^1 的係數是： (變體8)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^1 is: (v8)",
     "options_zh": [
-      "4 (備選)",
       "1",
       "4",
-      "6"
+      "6",
+      "4 (備選)"
     ],
     "options_en": [
-      "4 (alt)",
       "1",
       "4",
-      "6"
+      "6",
+      "4 (alt)"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(4,1) = 4",
     "explanation_en": "C(4,1) = 4",
     "difficulty": 2,
@@ -5521,16 +5521,16 @@
     "options_zh": [
       "1",
       "2",
-      "3 (備選)",
-      "3"
+      "3",
+      "3 (備選)"
     ],
     "options_en": [
       "1",
       "2",
-      "3 (alt)",
-      "3"
+      "3",
+      "3 (alt)"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(3,2) = 3",
     "explanation_en": "C(3,2) = 3",
     "difficulty": 2,
@@ -5547,15 +5547,15 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^0 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^0 is: (v7)",
     "options_zh": [
+      "0",
       "5 (備選)",
       "5",
-      "0",
       "1"
     ],
     "options_en": [
+      "0",
       "5 (alt)",
       "5",
-      "0",
       "1"
     ],
     "answer": 3,
@@ -5576,17 +5576,17 @@
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^0 is: (v9)",
     "options_zh": [
       "4 (備選)",
-      "4",
+      "1",
       "0",
-      "1"
+      "4"
     ],
     "options_en": [
       "4 (alt)",
-      "4",
+      "1",
       "0",
-      "1"
+      "4"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(4,0) = 1",
     "explanation_en": "C(4,0) = 1",
     "difficulty": 2,
@@ -5631,18 +5631,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^0 的係數是： (變體4)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^0 is: (v4)",
     "options_zh": [
+      "6 (備選)",
       "6",
       "0",
-      "1",
-      "6 (備選)"
+      "1"
     ],
     "options_en": [
+      "6 (alt)",
       "6",
       "0",
-      "1",
-      "6 (alt)"
+      "1"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(6,0) = 1",
     "explanation_en": "C(6,0) = 1",
     "difficulty": 2,
@@ -5659,18 +5659,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^3 的係數是： (變體3)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^3 is: (v3)",
     "options_zh": [
-      "3",
-      "35",
       "7",
-      "35 (備選)"
+      "35 (備選)",
+      "3",
+      "35"
     ],
     "options_en": [
-      "3",
-      "35",
       "7",
-      "35 (alt)"
+      "35 (alt)",
+      "3",
+      "35"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(7,3) = 35",
     "explanation_en": "C(7,3) = 35",
     "difficulty": 2,
@@ -5687,18 +5687,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^4 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^4 is: (v7)",
     "options_zh": [
+      "15",
       "6 (備選)",
       "4",
-      "15",
       "6"
     ],
     "options_en": [
+      "15",
       "6 (alt)",
       "4",
-      "15",
       "6"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "C(6,4) = 15",
     "explanation_en": "C(6,4) = 15",
     "difficulty": 2,
@@ -5715,16 +5715,16 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^0 的係數是： (變體10)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^0 is: (v10)",
     "options_zh": [
-      "4 (備選)",
+      "4",
       "1",
       "0",
-      "4"
+      "4 (備選)"
     ],
     "options_en": [
-      "4 (alt)",
+      "4",
       "1",
       "0",
-      "4"
+      "4 (alt)"
     ],
     "answer": 1,
     "explanation_zh": "C(4,0) = 1",
@@ -5744,15 +5744,15 @@
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^2 is: (v6)",
     "options_zh": [
       "10",
+      "5",
       "2",
-      "10 (備選)",
-      "5"
+      "10 (備選)"
     ],
     "options_en": [
       "10",
+      "5",
       "2",
-      "10 (alt)",
-      "5"
+      "10 (alt)"
     ],
     "answer": 0,
     "explanation_zh": "C(5,2) = 10",
@@ -5771,18 +5771,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^4 的係數是： (變體9)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^4 is: (v9)",
     "options_zh": [
+      "5 (備選)",
       "5",
       "4",
-      "5 (備選)",
       "1"
     ],
     "options_en": [
+      "5 (alt)",
       "5",
       "4",
-      "5 (alt)",
       "1"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "C(5,4) = 5",
     "explanation_en": "C(5,4) = 5",
     "difficulty": 2,
@@ -5799,15 +5799,15 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^6 的係數是： (變體9)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^6 is: (v9)",
     "options_zh": [
-      "1",
-      "7 (備選)",
       "6",
+      "7 (備選)",
+      "1",
       "7"
     ],
     "options_en": [
-      "1",
-      "7 (alt)",
       "6",
+      "7 (alt)",
+      "1",
       "7"
     ],
     "answer": 3,
@@ -5827,18 +5827,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^4 的係數是： (變體8)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^4 is: (v8)",
     "options_zh": [
-      "6",
       "15",
       "6 (備選)",
+      "6",
       "4"
     ],
     "options_en": [
-      "6",
       "15",
       "6 (alt)",
+      "6",
       "4"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(6,4) = 15",
     "explanation_en": "C(6,4) = 15",
     "difficulty": 2,
@@ -5857,14 +5857,14 @@
     "options_zh": [
       "1",
       "7 (備選)",
-      "7",
-      "0"
+      "0",
+      "7"
     ],
     "options_en": [
       "1",
       "7 (alt)",
-      "7",
-      "0"
+      "0",
+      "7"
     ],
     "answer": 0,
     "explanation_zh": "C(7,7) = 1",
@@ -5885,16 +5885,16 @@
     "options_zh": [
       "4 (備選)",
       "3",
-      "4",
-      "1"
+      "1",
+      "4"
     ],
     "options_en": [
       "4 (alt)",
       "3",
-      "4",
-      "1"
+      "1",
+      "4"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(4,3) = 4",
     "explanation_en": "C(4,3) = 4",
     "difficulty": 2,
@@ -5911,18 +5911,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^3 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^3 is: (v7)",
     "options_zh": [
-      "4",
+      "1",
       "3",
-      "4 (備選)",
-      "1"
+      "4",
+      "4 (備選)"
     ],
     "options_en": [
-      "4",
+      "1",
       "3",
-      "4 (alt)",
-      "1"
+      "4",
+      "4 (alt)"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(4,3) = 4",
     "explanation_en": "C(4,3) = 4",
     "difficulty": 2,
@@ -5939,18 +5939,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^5 的係數是： (變體6)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^5 is: (v6)",
     "options_zh": [
-      "6",
-      "6 (備選)",
       "5",
+      "6 (備選)",
+      "6",
       "1"
     ],
     "options_en": [
-      "6",
-      "6 (alt)",
       "5",
+      "6 (alt)",
+      "6",
       "1"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(6,5) = 6",
     "explanation_en": "C(6,5) = 6",
     "difficulty": 2,
@@ -5967,18 +5967,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^5 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^5 is: (v7)",
     "options_zh": [
-      "6",
-      "5",
+      "1",
       "6 (備選)",
-      "1"
+      "5",
+      "6"
     ],
     "options_en": [
-      "6",
-      "5",
+      "1",
       "6 (alt)",
-      "1"
+      "5",
+      "6"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(6,5) = 6",
     "explanation_en": "C(6,5) = 6",
     "difficulty": 2,
@@ -5995,18 +5995,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^5 的係數是： (變體5)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^5 is: (v5)",
     "options_zh": [
-      "0",
-      "1",
       "5 (備選)",
-      "5"
+      "0",
+      "5",
+      "1"
     ],
     "options_en": [
-      "0",
-      "1",
       "5 (alt)",
-      "5"
+      "0",
+      "5",
+      "1"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(5,5) = 1",
     "explanation_en": "C(5,5) = 1",
     "difficulty": 2,
@@ -6023,18 +6023,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^1 的係數是： (變體6)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^1 is: (v6)",
     "options_zh": [
-      "1",
       "6 (備選)",
       "15",
-      "6"
+      "6",
+      "1"
     ],
     "options_en": [
-      "1",
       "6 (alt)",
       "15",
-      "6"
+      "6",
+      "1"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(6,1) = 6",
     "explanation_en": "C(6,1) = 6",
     "difficulty": 2,
@@ -6051,16 +6051,16 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^1 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^1 is: (v7)",
     "options_zh": [
-      "1",
-      "3",
       "3 (備選)",
-      "3 (備選) (備選)"
+      "3",
+      "3 (備選) (備選)",
+      "1"
     ],
     "options_en": [
-      "1",
-      "3",
       "3 (alt)",
-      "3 (alt) (alt)"
+      "3",
+      "3 (alt) (alt)",
+      "1"
     ],
     "answer": 1,
     "explanation_zh": "C(3,1) = 3",
@@ -6079,18 +6079,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^4 的係數是： (變體10)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^4 is: (v10)",
     "options_zh": [
-      "5 (備選)",
       "1",
-      "5",
-      "4"
+      "5 (備選)",
+      "4",
+      "5"
     ],
     "options_en": [
-      "5 (alt)",
       "1",
-      "5",
-      "4"
+      "5 (alt)",
+      "4",
+      "5"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(5,4) = 5",
     "explanation_en": "C(5,4) = 5",
     "difficulty": 2,
@@ -6107,18 +6107,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^2 的係數是： (變體12)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^2 is: (v12)",
     "options_zh": [
-      "4 (備選)",
-      "2",
       "6",
-      "4"
+      "4",
+      "4 (備選)",
+      "2"
     ],
     "options_en": [
-      "4 (alt)",
-      "2",
       "6",
-      "4"
+      "4",
+      "4 (alt)",
+      "2"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "C(4,2) = 6",
     "explanation_en": "C(4,2) = 6",
     "difficulty": 2,
@@ -6135,18 +6135,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^1 的係數是： (變體5)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^1 is: (v5)",
     "options_zh": [
-      "1",
       "10",
+      "5",
       "5 (備選)",
-      "5"
+      "1"
     ],
     "options_en": [
-      "1",
       "10",
+      "5",
       "5 (alt)",
-      "5"
+      "1"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(5,1) = 5",
     "explanation_en": "C(5,1) = 5",
     "difficulty": 2,
@@ -6163,18 +6163,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^1 的係數是： (變體8)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^1 is: (v8)",
     "options_zh": [
-      "1",
-      "3 (備選)",
       "3",
-      "3 (備選) (備選)"
+      "3 (備選) (備選)",
+      "1",
+      "3 (備選)"
     ],
     "options_en": [
-      "1",
-      "3 (alt)",
       "3",
-      "3 (alt) (alt)"
+      "3 (alt) (alt)",
+      "1",
+      "3 (alt)"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "C(3,1) = 3",
     "explanation_en": "C(3,1) = 3",
     "difficulty": 2,
@@ -6191,18 +6191,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^4 的係數是： (變體8)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^4 is: (v8)",
     "options_zh": [
-      "4 (備選)",
+      "1",
       "4",
       "0",
-      "1"
+      "4 (備選)"
     ],
     "options_en": [
-      "4 (alt)",
+      "1",
       "4",
       "0",
-      "1"
+      "4 (alt)"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(4,4) = 1",
     "explanation_en": "C(4,4) = 1",
     "difficulty": 2,
@@ -6221,16 +6221,16 @@
     "options_zh": [
       "1",
       "3 (備選)",
-      "3 (備選) (備選)",
-      "3"
+      "3",
+      "3 (備選) (備選)"
     ],
     "options_en": [
       "1",
       "3 (alt)",
-      "3 (alt) (alt)",
-      "3"
+      "3",
+      "3 (alt) (alt)"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(3,1) = 3",
     "explanation_en": "C(3,1) = 3",
     "difficulty": 2,
@@ -6247,18 +6247,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^0 的係數是： (變體11)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^0 is: (v11)",
     "options_zh": [
-      "1",
       "4",
       "4 (備選)",
-      "0"
+      "0",
+      "1"
     ],
     "options_en": [
-      "1",
       "4",
       "4 (alt)",
-      "0"
+      "0",
+      "1"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(4,0) = 1",
     "explanation_en": "C(4,0) = 1",
     "difficulty": 2,
@@ -6275,18 +6275,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^1 的係數是： (變體9)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^1 is: (v9)",
     "options_zh": [
+      "6",
       "4 (備選)",
       "4",
-      "1",
-      "6"
+      "1"
     ],
     "options_en": [
+      "6",
       "4 (alt)",
       "4",
-      "1",
-      "6"
+      "1"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(4,1) = 4",
     "explanation_en": "C(4,1) = 4",
     "difficulty": 2,
@@ -6304,17 +6304,17 @@
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^2 is: (v5)",
     "options_zh": [
       "7",
-      "21",
       "2",
+      "21",
       "35"
     ],
     "options_en": [
       "7",
-      "21",
       "2",
+      "21",
       "35"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(7,2) = 21",
     "explanation_en": "C(7,2) = 21",
     "difficulty": 2,
@@ -6332,14 +6332,14 @@
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^2 is: (v11)",
     "options_zh": [
       "3",
-      "1",
       "2",
+      "1",
       "3 (備選)"
     ],
     "options_en": [
       "3",
-      "1",
       "2",
+      "1",
       "3 (alt)"
     ],
     "answer": 0,
@@ -6360,17 +6360,17 @@
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^1 is: (v8)",
     "options_zh": [
       "7 (備選)",
-      "1",
+      "7",
       "21",
-      "7"
+      "1"
     ],
     "options_en": [
       "7 (alt)",
-      "1",
+      "7",
       "21",
-      "7"
+      "1"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(7,1) = 7",
     "explanation_en": "C(7,1) = 7",
     "difficulty": 2,
@@ -6387,18 +6387,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^3 的係數是： (變體9)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^3 is: (v9)",
     "options_zh": [
-      "1",
       "3 (備選)",
-      "3",
-      "0"
+      "0",
+      "1",
+      "3"
     ],
     "options_en": [
-      "1",
       "3 (alt)",
-      "3",
-      "0"
+      "0",
+      "1",
+      "3"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(3,3) = 1",
     "explanation_en": "C(3,3) = 1",
     "difficulty": 2,
@@ -6416,17 +6416,17 @@
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^0 is: (v4)",
     "options_zh": [
       "0",
+      "3",
       "3 (備選)",
-      "1",
-      "3"
+      "1"
     ],
     "options_en": [
       "0",
+      "3",
       "3 (alt)",
-      "1",
-      "3"
+      "1"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(3,0) = 1",
     "explanation_en": "C(3,0) = 1",
     "difficulty": 2,
@@ -6443,18 +6443,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^3 的係數是： (變體4)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^3 is: (v4)",
     "options_zh": [
-      "7",
       "35",
-      "3",
-      "35 (備選)"
+      "7",
+      "35 (備選)",
+      "3"
     ],
     "options_en": [
-      "7",
       "35",
-      "3",
-      "35 (alt)"
+      "7",
+      "35 (alt)",
+      "3"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(7,3) = 35",
     "explanation_en": "C(7,3) = 35",
     "difficulty": 2,
@@ -6471,18 +6471,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^2 的係數是： (變體2)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^2 is: (v2)",
     "options_zh": [
-      "2",
-      "20",
       "15",
-      "6"
+      "6",
+      "20",
+      "2"
     ],
     "options_en": [
-      "2",
-      "20",
       "15",
-      "6"
+      "6",
+      "20",
+      "2"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "C(6,2) = 15",
     "explanation_en": "C(6,2) = 15",
     "difficulty": 2,
@@ -6499,18 +6499,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^1 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^1 is: (v7)",
     "options_zh": [
-      "1",
-      "6 (備選)",
+      "15",
       "6",
-      "15"
+      "6 (備選)",
+      "1"
     ],
     "options_en": [
-      "1",
-      "6 (alt)",
+      "15",
       "6",
-      "15"
+      "6 (alt)",
+      "1"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(6,1) = 6",
     "explanation_en": "C(6,1) = 6",
     "difficulty": 2,
@@ -6555,18 +6555,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^2 的係數是： (變體3)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^2 is: (v3)",
     "options_zh": [
+      "20",
       "15",
-      "6",
       "2",
-      "20"
+      "6"
     ],
     "options_en": [
+      "20",
       "15",
-      "6",
       "2",
-      "20"
+      "6"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "C(6,2) = 15",
     "explanation_en": "C(6,2) = 15",
     "difficulty": 2,
@@ -6583,16 +6583,16 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^1 的係數是： (變體10)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^1 is: (v10)",
     "options_zh": [
-      "3 (備選)",
       "3 (備選) (備選)",
+      "1",
       "3",
-      "1"
+      "3 (備選)"
     ],
     "options_en": [
-      "3 (alt)",
       "3 (alt) (alt)",
+      "1",
       "3",
-      "1"
+      "3 (alt)"
     ],
     "answer": 2,
     "explanation_zh": "C(3,1) = 3",
@@ -6611,16 +6611,16 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^3 的係數是： (變體4)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^3 is: (v4)",
     "options_zh": [
-      "6",
       "15",
+      "3",
       "20",
-      "3"
+      "6"
     ],
     "options_en": [
-      "6",
       "15",
+      "3",
       "20",
-      "3"
+      "6"
     ],
     "answer": 2,
     "explanation_zh": "C(6,3) = 20",
@@ -6639,18 +6639,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^1 的係數是： (變體9)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^1 is: (v9)",
     "options_zh": [
-      "7 (備選)",
-      "7",
       "21",
-      "1"
+      "7 (備選)",
+      "1",
+      "7"
     ],
     "options_en": [
-      "7 (alt)",
-      "7",
       "21",
-      "1"
+      "7 (alt)",
+      "1",
+      "7"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(7,1) = 7",
     "explanation_en": "C(7,1) = 7",
     "difficulty": 2,
@@ -6667,15 +6667,15 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^1 的係數是： (變體8)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^1 is: (v8)",
     "options_zh": [
-      "6 (備選)",
       "1",
       "15",
+      "6 (備選)",
       "6"
     ],
     "options_en": [
-      "6 (alt)",
       "1",
       "15",
+      "6 (alt)",
       "6"
     ],
     "answer": 3,
@@ -6695,16 +6695,16 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^2 的係數是： (變體13)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^2 is: (v13)",
     "options_zh": [
-      "4",
+      "2",
       "4 (備選)",
       "6",
-      "2"
+      "4"
     ],
     "options_en": [
-      "4",
+      "2",
       "4 (alt)",
       "6",
-      "2"
+      "4"
     ],
     "answer": 2,
     "explanation_zh": "C(4,2) = 6",
@@ -6723,18 +6723,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^3 的係數是： (變體5)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^3 is: (v5)",
     "options_zh": [
-      "3",
-      "15",
       "20",
+      "15",
+      "3",
       "6"
     ],
     "options_en": [
-      "3",
-      "15",
       "20",
+      "15",
+      "3",
       "6"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "C(6,3) = 20",
     "explanation_en": "C(6,3) = 20",
     "difficulty": 2,
@@ -6751,18 +6751,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^2 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^2 is: (v7)",
     "options_zh": [
-      "10",
-      "10 (備選)",
+      "2",
       "5",
-      "2"
+      "10 (備選)",
+      "10"
     ],
     "options_en": [
-      "10",
-      "10 (alt)",
+      "2",
       "5",
-      "2"
+      "10 (alt)",
+      "10"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(5,2) = 10",
     "explanation_en": "C(5,2) = 10",
     "difficulty": 2,
@@ -6779,18 +6779,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^4 的係數是： (變體11)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^4 is: (v11)",
     "options_zh": [
-      "1",
+      "4",
       "5 (備選)",
-      "5",
-      "4"
+      "1",
+      "5"
     ],
     "options_en": [
-      "1",
+      "4",
       "5 (alt)",
-      "5",
-      "4"
+      "1",
+      "5"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(5,4) = 5",
     "explanation_en": "C(5,4) = 5",
     "difficulty": 2,
@@ -6807,18 +6807,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^3 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^3 is: (v7)",
     "options_zh": [
-      "3",
-      "5",
+      "10",
       "5 (備選)",
-      "10"
+      "3",
+      "5"
     ],
     "options_en": [
-      "3",
-      "5",
+      "10",
       "5 (alt)",
-      "10"
+      "3",
+      "5"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(5,3) = 10",
     "explanation_en": "C(5,3) = 10",
     "difficulty": 2,
@@ -6835,18 +6835,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^3 的係數是： (變體8)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^3 is: (v8)",
     "options_zh": [
-      "3",
-      "1",
       "4 (備選)",
-      "4"
+      "1",
+      "4",
+      "3"
     ],
     "options_en": [
-      "3",
-      "1",
       "4 (alt)",
-      "4"
+      "1",
+      "4",
+      "3"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(4,3) = 4",
     "explanation_en": "C(4,3) = 4",
     "difficulty": 2,
@@ -6863,18 +6863,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^4 的係數是： (變體10)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^4 is: (v10)",
     "options_zh": [
-      "1",
+      "4 (備選)",
       "0",
       "4",
-      "4 (備選)"
+      "1"
     ],
     "options_en": [
-      "1",
+      "4 (alt)",
       "0",
       "4",
-      "4 (alt)"
+      "1"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(4,4) = 1",
     "explanation_en": "C(4,4) = 1",
     "difficulty": 2,
@@ -6891,18 +6891,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^2 的係數是： (變體12)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^2 is: (v12)",
     "options_zh": [
-      "1",
       "3",
-      "2",
-      "3 (備選)"
+      "1",
+      "3 (備選)",
+      "2"
     ],
     "options_en": [
-      "1",
       "3",
-      "2",
-      "3 (alt)"
+      "1",
+      "3 (alt)",
+      "2"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(3,2) = 3",
     "explanation_en": "C(3,2) = 3",
     "difficulty": 2,
@@ -6919,18 +6919,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^4 的係數是： (變體11)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^4 is: (v11)",
     "options_zh": [
-      "1",
       "0",
       "4",
-      "4 (備選)"
+      "4 (備選)",
+      "1"
     ],
     "options_en": [
-      "1",
       "0",
       "4",
-      "4 (alt)"
+      "4 (alt)",
+      "1"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(4,4) = 1",
     "explanation_en": "C(4,4) = 1",
     "difficulty": 2,
@@ -6947,18 +6947,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^3 的係數是： (變體10)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^3 is: (v10)",
     "options_zh": [
-      "3",
       "3 (備選)",
-      "0",
-      "1"
+      "3",
+      "1",
+      "0"
     ],
     "options_en": [
-      "3",
       "3 (alt)",
-      "0",
-      "1"
+      "3",
+      "1",
+      "0"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(3,3) = 1",
     "explanation_en": "C(3,3) = 1",
     "difficulty": 2,
@@ -6975,18 +6975,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^5 的係數是： (變體8)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^5 is: (v8)",
     "options_zh": [
-      "5",
-      "6 (備選)",
       "6",
-      "1"
+      "6 (備選)",
+      "1",
+      "5"
     ],
     "options_en": [
-      "5",
-      "6 (alt)",
       "6",
-      "1"
+      "6 (alt)",
+      "1",
+      "5"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "C(6,5) = 6",
     "explanation_en": "C(6,5) = 6",
     "difficulty": 2,
@@ -7003,18 +7003,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^3 的係數是： (變體5)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^3 is: (v5)",
     "options_zh": [
-      "7",
       "35 (備選)",
       "3",
-      "35"
+      "35",
+      "7"
     ],
     "options_en": [
-      "7",
       "35 (alt)",
       "3",
-      "35"
+      "35",
+      "7"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(7,3) = 35",
     "explanation_en": "C(7,3) = 35",
     "difficulty": 2,
@@ -7032,14 +7032,14 @@
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^3 is: (v11)",
     "options_zh": [
       "0",
-      "3 (備選)",
       "3",
+      "3 (備選)",
       "1"
     ],
     "options_en": [
       "0",
-      "3 (alt)",
       "3",
+      "3 (alt)",
       "1"
     ],
     "answer": 3,
@@ -7060,17 +7060,17 @@
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^1 is: (v11)",
     "options_zh": [
       "1",
-      "3 (備選)",
       "3 (備選) (備選)",
-      "3"
+      "3",
+      "3 (備選)"
     ],
     "options_en": [
       "1",
-      "3 (alt)",
       "3 (alt) (alt)",
-      "3"
+      "3",
+      "3 (alt)"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(3,1) = 3",
     "explanation_en": "C(3,1) = 3",
     "difficulty": 2,
@@ -7089,16 +7089,16 @@
     "options_zh": [
       "6 (備選)",
       "0",
-      "6",
-      "1"
+      "1",
+      "6"
     ],
     "options_en": [
       "6 (alt)",
       "0",
-      "6",
-      "1"
+      "1",
+      "6"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(6,0) = 1",
     "explanation_en": "C(6,0) = 1",
     "difficulty": 2,
@@ -7115,18 +7115,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^1 的係數是： (變體9)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^1 is: (v9)",
     "options_zh": [
-      "6",
-      "15",
       "1",
-      "6 (備選)"
+      "15",
+      "6 (備選)",
+      "6"
     ],
     "options_en": [
-      "6",
-      "15",
       "1",
-      "6 (alt)"
+      "15",
+      "6 (alt)",
+      "6"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(6,1) = 6",
     "explanation_en": "C(6,1) = 6",
     "difficulty": 2,
@@ -7143,15 +7143,15 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^3 的係數是： (變體12)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^3 is: (v12)",
     "options_zh": [
-      "0",
-      "1",
       "3",
+      "1",
+      "0",
       "3 (備選)"
     ],
     "options_en": [
-      "0",
-      "1",
       "3",
+      "1",
+      "0",
       "3 (alt)"
     ],
     "answer": 1,
@@ -7171,14 +7171,14 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^1 的係數是： (變體10)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^1 is: (v10)",
     "options_zh": [
-      "6",
       "4 (備選)",
+      "6",
       "4",
       "1"
     ],
     "options_en": [
-      "6",
       "4 (alt)",
+      "6",
       "4",
       "1"
     ],
@@ -7199,18 +7199,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^6 的係數是： (變體5)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^6 is: (v5)",
     "options_zh": [
+      "1",
       "0",
-      "6 (備選)",
       "6",
-      "1"
+      "6 (備選)"
     ],
     "options_en": [
+      "1",
       "0",
-      "6 (alt)",
       "6",
-      "1"
+      "6 (alt)"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(6,6) = 1",
     "explanation_en": "C(6,6) = 1",
     "difficulty": 2,
@@ -7228,17 +7228,17 @@
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^4 is: (v12)",
     "options_zh": [
       "4 (備選)",
+      "1",
       "0",
-      "4",
-      "1"
+      "4"
     ],
     "options_en": [
       "4 (alt)",
+      "1",
       "0",
-      "4",
-      "1"
+      "4"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(4,4) = 1",
     "explanation_en": "C(4,4) = 1",
     "difficulty": 2,
@@ -7255,18 +7255,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^2 的係數是： (變體6)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^2 is: (v6)",
     "options_zh": [
-      "2",
-      "7",
       "21",
-      "35"
+      "7",
+      "35",
+      "2"
     ],
     "options_en": [
-      "2",
-      "7",
       "21",
-      "35"
+      "7",
+      "35",
+      "2"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "C(7,2) = 21",
     "explanation_en": "C(7,2) = 21",
     "difficulty": 2,
@@ -7283,18 +7283,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^2 的係數是： (變體13)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^2 is: (v13)",
     "options_zh": [
-      "3",
-      "2",
       "3 (備選)",
-      "1"
+      "1",
+      "2",
+      "3"
     ],
     "options_en": [
-      "3",
-      "2",
       "3 (alt)",
-      "1"
+      "1",
+      "2",
+      "3"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(3,2) = 3",
     "explanation_en": "C(3,2) = 3",
     "difficulty": 2,
@@ -7311,16 +7311,16 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^1 的係數是： (變體11)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^1 is: (v11)",
     "options_zh": [
-      "6",
+      "1",
       "4",
       "4 (備選)",
-      "1"
+      "6"
     ],
     "options_en": [
-      "6",
+      "1",
       "4",
       "4 (alt)",
-      "1"
+      "6"
     ],
     "answer": 1,
     "explanation_zh": "C(4,1) = 4",
@@ -7339,18 +7339,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^4 的係數是： (變體13)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^4 is: (v13)",
     "options_zh": [
-      "4",
-      "4 (備選)",
       "0",
-      "1"
+      "1",
+      "4",
+      "4 (備選)"
     ],
     "options_en": [
-      "4",
-      "4 (alt)",
       "0",
-      "1"
+      "1",
+      "4",
+      "4 (alt)"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(4,4) = 1",
     "explanation_en": "C(4,4) = 1",
     "difficulty": 2,
@@ -7367,18 +7367,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^3 的係數是： (變體6)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^3 is: (v6)",
     "options_zh": [
-      "7",
-      "35 (備選)",
       "3",
-      "35"
+      "35",
+      "7",
+      "35 (備選)"
     ],
     "options_en": [
-      "7",
-      "35 (alt)",
       "3",
-      "35"
+      "35",
+      "7",
+      "35 (alt)"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(7,3) = 35",
     "explanation_en": "C(7,3) = 35",
     "difficulty": 2,
@@ -7395,18 +7395,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^1 的係數是： (變體10)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^1 is: (v10)",
     "options_zh": [
-      "6 (備選)",
+      "6",
       "1",
-      "15",
-      "6"
+      "6 (備選)",
+      "15"
     ],
     "options_en": [
-      "6 (alt)",
+      "6",
       "1",
-      "15",
-      "6"
+      "6 (alt)",
+      "15"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(6,1) = 6",
     "explanation_en": "C(6,1) = 6",
     "difficulty": 2,
@@ -7423,18 +7423,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^3 的係數是： (變體13)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^3 is: (v13)",
     "options_zh": [
+      "1",
       "3 (備選)",
       "3",
-      "1",
       "0"
     ],
     "options_en": [
+      "1",
       "3 (alt)",
       "3",
-      "1",
       "0"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "C(3,3) = 1",
     "explanation_en": "C(3,3) = 1",
     "difficulty": 2,
@@ -7452,14 +7452,14 @@
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^5 is: (v6)",
     "options_zh": [
       "5",
-      "5 (備選)",
       "0",
+      "5 (備選)",
       "1"
     ],
     "options_en": [
       "5",
-      "5 (alt)",
       "0",
+      "5 (alt)",
       "1"
     ],
     "answer": 3,
@@ -7480,17 +7480,17 @@
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^1 is: (v10)",
     "options_zh": [
       "1",
-      "7",
+      "7 (備選)",
       "21",
-      "7 (備選)"
+      "7"
     ],
     "options_en": [
       "1",
-      "7",
+      "7 (alt)",
       "21",
-      "7 (alt)"
+      "7"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(7,1) = 7",
     "explanation_en": "C(7,1) = 7",
     "difficulty": 2,
@@ -7535,15 +7535,15 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^2 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^2 is: (v7)",
     "options_zh": [
-      "7",
-      "21",
       "35",
+      "21",
+      "7",
       "2"
     ],
     "options_en": [
-      "7",
-      "21",
       "35",
+      "21",
+      "7",
       "2"
     ],
     "answer": 1,
@@ -7563,18 +7563,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^1 的係數是： (變體12)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^1 is: (v12)",
     "options_zh": [
-      "4 (備選)",
       "1",
+      "4",
       "6",
-      "4"
+      "4 (備選)"
     ],
     "options_en": [
-      "4 (alt)",
       "1",
+      "4",
       "6",
-      "4"
+      "4 (alt)"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(4,1) = 4",
     "explanation_en": "C(4,1) = 4",
     "difficulty": 2,
@@ -7593,16 +7593,16 @@
     "options_zh": [
       "5",
       "0",
-      "5 (備選)",
-      "1"
+      "1",
+      "5 (備選)"
     ],
     "options_en": [
       "5",
       "0",
-      "5 (alt)",
-      "1"
+      "1",
+      "5 (alt)"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(5,5) = 1",
     "explanation_en": "C(5,5) = 1",
     "difficulty": 2,
@@ -7619,18 +7619,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^5 的係數是： (變體8)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^5 is: (v8)",
     "options_zh": [
+      "0",
       "5 (備選)",
-      "1",
       "5",
-      "0"
+      "1"
     ],
     "options_en": [
+      "0",
       "5 (alt)",
-      "1",
       "5",
-      "0"
+      "1"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(5,5) = 1",
     "explanation_en": "C(5,5) = 1",
     "difficulty": 2,
@@ -7647,18 +7647,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^4 的係數是： (變體14)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^4 is: (v14)",
     "options_zh": [
-      "4 (備選)",
       "4",
-      "1",
-      "0"
+      "4 (備選)",
+      "0",
+      "1"
     ],
     "options_en": [
-      "4 (alt)",
       "4",
-      "1",
-      "0"
+      "4 (alt)",
+      "0",
+      "1"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(4,4) = 1",
     "explanation_en": "C(4,4) = 1",
     "difficulty": 2,
@@ -7676,17 +7676,17 @@
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^3 is: (v7)",
     "options_zh": [
       "3",
-      "35",
       "35 (備選)",
+      "35",
       "7"
     ],
     "options_en": [
       "3",
-      "35",
       "35 (alt)",
+      "35",
       "7"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(7,3) = 35",
     "explanation_en": "C(7,3) = 35",
     "difficulty": 2,
@@ -7703,18 +7703,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^4 的係數是： (變體12)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^4 is: (v12)",
     "options_zh": [
-      "5 (備選)",
       "1",
-      "5",
-      "4"
+      "4",
+      "5 (備選)",
+      "5"
     ],
     "options_en": [
-      "5 (alt)",
       "1",
-      "5",
-      "4"
+      "4",
+      "5 (alt)",
+      "5"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(5,4) = 5",
     "explanation_en": "C(5,4) = 5",
     "difficulty": 2,
@@ -7732,17 +7732,17 @@
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^2 is: (v8)",
     "options_zh": [
       "5",
-      "10",
       "10 (備選)",
-      "2"
+      "2",
+      "10"
     ],
     "options_en": [
       "5",
-      "10",
       "10 (alt)",
-      "2"
+      "2",
+      "10"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(5,2) = 10",
     "explanation_en": "C(5,2) = 10",
     "difficulty": 2,
@@ -7759,18 +7759,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^0 的係數是： (變體6)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^0 is: (v6)",
     "options_zh": [
-      "6 (備選)",
       "1",
       "6",
-      "0"
+      "0",
+      "6 (備選)"
     ],
     "options_en": [
-      "6 (alt)",
       "1",
       "6",
-      "0"
+      "0",
+      "6 (alt)"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(6,0) = 1",
     "explanation_en": "C(6,0) = 1",
     "difficulty": 2,
@@ -7788,17 +7788,17 @@
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^5 is: (v9)",
     "options_zh": [
       "5",
-      "6",
       "1",
-      "6 (備選)"
+      "6 (備選)",
+      "6"
     ],
     "options_en": [
       "5",
-      "6",
       "1",
-      "6 (alt)"
+      "6 (alt)",
+      "6"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(6,5) = 6",
     "explanation_en": "C(6,5) = 6",
     "difficulty": 2,
@@ -7815,18 +7815,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^5 的係數是： (變體10)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^5 is: (v10)",
     "options_zh": [
-      "6 (備選)",
       "6",
       "1",
-      "5"
+      "5",
+      "6 (備選)"
     ],
     "options_en": [
-      "6 (alt)",
       "6",
       "1",
-      "5"
+      "5",
+      "6 (alt)"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(6,5) = 6",
     "explanation_en": "C(6,5) = 6",
     "difficulty": 2,
@@ -7843,18 +7843,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^1 的係數是： (變體11)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^1 is: (v11)",
     "options_zh": [
-      "15",
-      "1",
       "6",
-      "6 (備選)"
+      "1",
+      "6 (備選)",
+      "15"
     ],
     "options_en": [
-      "15",
-      "1",
       "6",
-      "6 (alt)"
+      "1",
+      "6 (alt)",
+      "15"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "C(6,1) = 6",
     "explanation_en": "C(6,1) = 6",
     "difficulty": 2,
@@ -7871,16 +7871,16 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^3 的係數是： (變體9)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^3 is: (v9)",
     "options_zh": [
-      "1",
-      "4",
       "3",
-      "4 (備選)"
+      "4",
+      "4 (備選)",
+      "1"
     ],
     "options_en": [
-      "1",
-      "4",
       "3",
-      "4 (alt)"
+      "4",
+      "4 (alt)",
+      "1"
     ],
     "answer": 1,
     "explanation_zh": "C(4,3) = 4",
@@ -7899,18 +7899,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^1 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^1 is: (v7)",
     "options_zh": [
-      "10",
-      "5 (備選)",
+      "5",
       "1",
-      "5"
+      "5 (備選)",
+      "10"
     ],
     "options_en": [
-      "10",
-      "5 (alt)",
+      "5",
       "1",
-      "5"
+      "5 (alt)",
+      "10"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(5,1) = 5",
     "explanation_en": "C(5,1) = 5",
     "difficulty": 2,
@@ -7927,18 +7927,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^2 的係數是： (變體14)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^2 is: (v14)",
     "options_zh": [
-      "3 (備選)",
       "3",
       "2",
-      "1"
+      "1",
+      "3 (備選)"
     ],
     "options_en": [
-      "3 (alt)",
       "3",
       "2",
-      "1"
+      "1",
+      "3 (alt)"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(3,2) = 3",
     "explanation_en": "C(3,2) = 3",
     "difficulty": 2,
@@ -7956,15 +7956,15 @@
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^2 is: (v9)",
     "options_zh": [
       "10",
-      "2",
       "5",
-      "10 (備選)"
+      "10 (備選)",
+      "2"
     ],
     "options_en": [
       "10",
-      "2",
       "5",
-      "10 (alt)"
+      "10 (alt)",
+      "2"
     ],
     "answer": 0,
     "explanation_zh": "C(5,2) = 10",
@@ -7983,18 +7983,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^7 的係數是： (變體8)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^7 is: (v8)",
     "options_zh": [
-      "1",
       "0",
       "7",
-      "7 (備選)"
+      "7 (備選)",
+      "1"
     ],
     "options_en": [
-      "1",
       "0",
       "7",
-      "7 (alt)"
+      "7 (alt)",
+      "1"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(7,7) = 1",
     "explanation_en": "C(7,7) = 1",
     "difficulty": 2,
@@ -8011,18 +8011,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^1 的係數是： (變體11)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^1 is: (v11)",
     "options_zh": [
-      "1",
-      "7 (備選)",
       "7",
-      "21"
+      "21",
+      "1",
+      "7 (備選)"
     ],
     "options_en": [
-      "1",
-      "7 (alt)",
       "7",
-      "21"
+      "21",
+      "1",
+      "7 (alt)"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "C(7,1) = 7",
     "explanation_en": "C(7,1) = 7",
     "difficulty": 2,
@@ -8039,15 +8039,15 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^3 的係數是： (變體10)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^3 is: (v10)",
     "options_zh": [
-      "4 (備選)",
-      "1",
       "3",
+      "1",
+      "4 (備選)",
       "4"
     ],
     "options_en": [
-      "4 (alt)",
-      "1",
       "3",
+      "1",
+      "4 (alt)",
       "4"
     ],
     "answer": 3,
@@ -8067,18 +8067,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^7 的係數是： (變體9)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^7 is: (v9)",
     "options_zh": [
-      "7 (備選)",
-      "7",
+      "1",
       "0",
-      "1"
+      "7 (備選)",
+      "7"
     ],
     "options_en": [
-      "7 (alt)",
-      "7",
+      "1",
       "0",
-      "1"
+      "7 (alt)",
+      "7"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(7,7) = 1",
     "explanation_en": "C(7,7) = 1",
     "difficulty": 2,
@@ -8095,18 +8095,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^1 的係數是： (變體12)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^1 is: (v12)",
     "options_zh": [
-      "3 (備選) (備選)",
-      "1",
+      "3 (備選)",
       "3",
-      "3 (備選)"
+      "3 (備選) (備選)",
+      "1"
     ],
     "options_en": [
-      "3 (alt) (alt)",
-      "1",
+      "3 (alt)",
       "3",
-      "3 (alt)"
+      "3 (alt) (alt)",
+      "1"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(3,1) = 3",
     "explanation_en": "C(3,1) = 3",
     "difficulty": 2,
@@ -8123,18 +8123,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^2 的係數是： (變體8)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^2 is: (v8)",
     "options_zh": [
-      "2",
-      "35",
       "7",
-      "21"
+      "2",
+      "21",
+      "35"
     ],
     "options_en": [
-      "2",
-      "35",
       "7",
-      "21"
+      "2",
+      "21",
+      "35"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(7,2) = 21",
     "explanation_en": "C(7,2) = 21",
     "difficulty": 2,
@@ -8151,18 +8151,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^0 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^0 is: (v7)",
     "options_zh": [
-      "6 (備選)",
       "0",
+      "1",
       "6",
-      "1"
+      "6 (備選)"
     ],
     "options_en": [
-      "6 (alt)",
       "0",
+      "1",
       "6",
-      "1"
+      "6 (alt)"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(6,0) = 1",
     "explanation_en": "C(6,0) = 1",
     "difficulty": 2,
@@ -8179,18 +8179,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^0 的係數是： (變體12)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^0 is: (v12)",
     "options_zh": [
-      "4 (備選)",
+      "0",
       "4",
-      "1",
-      "0"
+      "4 (備選)",
+      "1"
     ],
     "options_en": [
-      "4 (alt)",
+      "0",
       "4",
-      "1",
-      "0"
+      "4 (alt)",
+      "1"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(4,0) = 1",
     "explanation_en": "C(4,0) = 1",
     "difficulty": 2,
@@ -8207,16 +8207,16 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^1 的係數是： (變體8)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^1 is: (v8)",
     "options_zh": [
-      "10",
+      "1",
       "5",
-      "5 (備選)",
-      "1"
+      "10",
+      "5 (備選)"
     ],
     "options_en": [
-      "10",
+      "1",
       "5",
-      "5 (alt)",
-      "1"
+      "10",
+      "5 (alt)"
     ],
     "answer": 1,
     "explanation_zh": "C(5,1) = 5",
@@ -8235,18 +8235,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^7 的係數是： (變體10)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^7 is: (v10)",
     "options_zh": [
-      "7",
       "1",
+      "7 (備選)",
       "0",
-      "7 (備選)"
+      "7"
     ],
     "options_en": [
-      "7",
       "1",
+      "7 (alt)",
       "0",
-      "7 (alt)"
+      "7"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(7,7) = 1",
     "explanation_en": "C(7,7) = 1",
     "difficulty": 2,
@@ -8263,16 +8263,16 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^7 的係數是： (變體11)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^7 is: (v11)",
     "options_zh": [
-      "7 (備選)",
+      "7",
       "1",
       "0",
-      "7"
+      "7 (備選)"
     ],
     "options_en": [
-      "7 (alt)",
+      "7",
       "1",
       "0",
-      "7"
+      "7 (alt)"
     ],
     "answer": 1,
     "explanation_zh": "C(7,7) = 1",
@@ -8291,18 +8291,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^1 的係數是： (變體13)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^1 is: (v13)",
     "options_zh": [
-      "3 (備選)",
       "3 (備選) (備選)",
       "3",
+      "3 (備選)",
       "1"
     ],
     "options_en": [
-      "3 (alt)",
       "3 (alt) (alt)",
       "3",
+      "3 (alt)",
       "1"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(3,1) = 3",
     "explanation_en": "C(3,1) = 3",
     "difficulty": 2,
@@ -8319,18 +8319,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^5 的係數是： (變體11)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^5 is: (v11)",
     "options_zh": [
+      "5",
       "6",
-      "6 (備選)",
       "1",
-      "5"
+      "6 (備選)"
     ],
     "options_en": [
+      "5",
       "6",
-      "6 (alt)",
       "1",
-      "5"
+      "6 (alt)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "C(6,5) = 6",
     "explanation_en": "C(6,5) = 6",
     "difficulty": 2,
@@ -8375,18 +8375,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^3 的係數是： (變體8)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^3 is: (v8)",
     "options_zh": [
-      "35 (備選)",
-      "3",
+      "7",
       "35",
-      "7"
+      "35 (備選)",
+      "3"
     ],
     "options_en": [
-      "35 (alt)",
-      "3",
+      "7",
       "35",
-      "7"
+      "35 (alt)",
+      "3"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(7,3) = 35",
     "explanation_en": "C(7,3) = 35",
     "difficulty": 2,
@@ -8403,18 +8403,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^1 的係數是： (變體13)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^1 is: (v13)",
     "options_zh": [
-      "6",
       "4",
-      "1",
-      "4 (備選)"
+      "4 (備選)",
+      "6",
+      "1"
     ],
     "options_en": [
-      "6",
       "4",
-      "1",
-      "4 (alt)"
+      "4 (alt)",
+      "6",
+      "1"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(4,1) = 4",
     "explanation_en": "C(4,1) = 4",
     "difficulty": 2,
@@ -8432,17 +8432,17 @@
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^0 is: (v5)",
     "options_zh": [
       "0",
+      "3 (備選)",
       "3",
-      "1",
-      "3 (備選)"
+      "1"
     ],
     "options_en": [
       "0",
+      "3 (alt)",
       "3",
-      "1",
-      "3 (alt)"
+      "1"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(3,0) = 1",
     "explanation_en": "C(3,0) = 1",
     "difficulty": 2,
@@ -8460,14 +8460,14 @@
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^2 is: (v14)",
     "options_zh": [
       "4",
-      "2",
       "4 (備選)",
+      "2",
       "6"
     ],
     "options_en": [
       "4",
-      "2",
       "4 (alt)",
+      "2",
       "6"
     ],
     "answer": 3,
@@ -8487,18 +8487,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^5 的係數是： (變體12)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^5 is: (v12)",
     "options_zh": [
-      "1",
       "6 (備選)",
-      "5",
-      "6"
+      "6",
+      "1",
+      "5"
     ],
     "options_en": [
-      "1",
       "6 (alt)",
-      "5",
-      "6"
+      "6",
+      "1",
+      "5"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(6,5) = 6",
     "explanation_en": "C(6,5) = 6",
     "difficulty": 2,
@@ -8516,17 +8516,17 @@
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^1 is: (v14)",
     "options_zh": [
       "3 (備選) (備選)",
-      "3 (備選)",
       "1",
-      "3"
+      "3",
+      "3 (備選)"
     ],
     "options_en": [
       "3 (alt) (alt)",
-      "3 (alt)",
       "1",
-      "3"
+      "3",
+      "3 (alt)"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(3,1) = 3",
     "explanation_en": "C(3,1) = 3",
     "difficulty": 2,
@@ -8544,17 +8544,17 @@
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^0 is: (v13)",
     "options_zh": [
       "0",
-      "4",
       "4 (備選)",
-      "1"
+      "1",
+      "4"
     ],
     "options_en": [
       "0",
-      "4",
       "4 (alt)",
-      "1"
+      "1",
+      "4"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(4,0) = 1",
     "explanation_en": "C(4,0) = 1",
     "difficulty": 2,
@@ -8571,18 +8571,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^2 的係數是： (變體15)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^2 is: (v15)",
     "options_zh": [
-      "3",
       "2",
+      "3",
       "1",
       "3 (備選)"
     ],
     "options_en": [
-      "3",
       "2",
+      "3",
       "1",
       "3 (alt)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "C(3,2) = 3",
     "explanation_en": "C(3,2) = 3",
     "difficulty": 2,
@@ -8600,17 +8600,17 @@
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^7 is: (v12)",
     "options_zh": [
       "0",
-      "7",
       "1",
+      "7",
       "7 (備選)"
     ],
     "options_en": [
       "0",
-      "7",
       "1",
+      "7",
       "7 (alt)"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(7,7) = 1",
     "explanation_en": "C(7,7) = 1",
     "difficulty": 2,
@@ -8627,18 +8627,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^7 的係數是： (變體13)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^7 is: (v13)",
     "options_zh": [
-      "1",
       "7",
-      "0",
-      "7 (備選)"
+      "7 (備選)",
+      "1",
+      "0"
     ],
     "options_en": [
-      "1",
       "7",
-      "0",
-      "7 (alt)"
+      "7 (alt)",
+      "1",
+      "0"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(7,7) = 1",
     "explanation_en": "C(7,7) = 1",
     "difficulty": 2,
@@ -8655,18 +8655,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^7 的係數是： (變體14)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^7 is: (v14)",
     "options_zh": [
-      "1",
       "7 (備選)",
+      "0",
       "7",
-      "0"
+      "1"
     ],
     "options_en": [
-      "1",
       "7 (alt)",
+      "0",
       "7",
-      "0"
+      "1"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(7,7) = 1",
     "explanation_en": "C(7,7) = 1",
     "difficulty": 2,
@@ -8711,18 +8711,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^2 的係數是： (變體15)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^2 is: (v15)",
     "options_zh": [
-      "6",
       "4",
-      "2",
-      "4 (備選)"
+      "6",
+      "4 (備選)",
+      "2"
     ],
     "options_en": [
-      "6",
       "4",
-      "2",
-      "4 (alt)"
+      "6",
+      "4 (alt)",
+      "2"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "C(4,2) = 6",
     "explanation_en": "C(4,2) = 6",
     "difficulty": 2,
@@ -8740,17 +8740,17 @@
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^5 is: (v7)",
     "options_zh": [
       "7 (備選)",
-      "21",
       "7",
+      "21",
       "5"
     ],
     "options_en": [
       "7 (alt)",
-      "21",
       "7",
+      "21",
       "5"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(7,5) = 21",
     "explanation_en": "C(7,5) = 21",
     "difficulty": 2,
@@ -8767,18 +8767,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^1 的係數是： (變體14)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^1 is: (v14)",
     "options_zh": [
-      "4 (備選)",
-      "6",
+      "1",
       "4",
-      "1"
+      "4 (備選)",
+      "6"
     ],
     "options_en": [
-      "4 (alt)",
-      "6",
+      "1",
       "4",
-      "1"
+      "4 (alt)",
+      "6"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(4,1) = 4",
     "explanation_en": "C(4,1) = 4",
     "difficulty": 2,
@@ -8795,18 +8795,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^6 的係數是： (變體10)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^6 is: (v10)",
     "options_zh": [
-      "6",
-      "7",
       "1",
-      "7 (備選)"
+      "7 (備選)",
+      "7",
+      "6"
     ],
     "options_en": [
-      "6",
-      "7",
       "1",
-      "7 (alt)"
+      "7 (alt)",
+      "7",
+      "6"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(7,6) = 7",
     "explanation_en": "C(7,6) = 7",
     "difficulty": 2,
@@ -8823,18 +8823,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^0 的係數是： (變體6)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^0 is: (v6)",
     "options_zh": [
-      "1",
+      "3 (備選)",
       "3",
-      "0",
-      "3 (備選)"
+      "1",
+      "0"
     ],
     "options_en": [
-      "1",
+      "3 (alt)",
       "3",
-      "0",
-      "3 (alt)"
+      "1",
+      "0"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(3,0) = 1",
     "explanation_en": "C(3,0) = 1",
     "difficulty": 2,
@@ -8852,17 +8852,17 @@
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^0 is: (v14)",
     "options_zh": [
       "0",
-      "4 (備選)",
       "4",
-      "1"
+      "1",
+      "4 (備選)"
     ],
     "options_en": [
       "0",
-      "4 (alt)",
       "4",
-      "1"
+      "1",
+      "4 (alt)"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(4,0) = 1",
     "explanation_en": "C(4,0) = 1",
     "difficulty": 2,
@@ -8879,15 +8879,15 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^2 的係數是： (變體10)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^2 is: (v10)",
     "options_zh": [
+      "10 (備選)",
       "2",
       "5",
-      "10 (備選)",
       "10"
     ],
     "options_en": [
+      "10 (alt)",
       "2",
       "5",
-      "10 (alt)",
       "10"
     ],
     "answer": 3,
@@ -8907,18 +8907,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^3 的係數是： (變體11)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^3 is: (v11)",
     "options_zh": [
-      "1",
-      "3",
       "4",
-      "4 (備選)"
+      "1",
+      "4 (備選)",
+      "3"
     ],
     "options_en": [
-      "1",
-      "3",
       "4",
-      "4 (alt)"
+      "1",
+      "4 (alt)",
+      "3"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "C(4,3) = 4",
     "explanation_en": "C(4,3) = 4",
     "difficulty": 2,
@@ -8935,18 +8935,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^2 的係數是： (變體16)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^2 is: (v16)",
     "options_zh": [
-      "1",
-      "3",
       "3 (備選)",
-      "2"
+      "1",
+      "2",
+      "3"
     ],
     "options_en": [
-      "1",
-      "3",
       "3 (alt)",
-      "2"
+      "1",
+      "2",
+      "3"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(3,2) = 3",
     "explanation_en": "C(3,2) = 3",
     "difficulty": 2,
@@ -8963,18 +8963,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^3 的係數是： (變體14)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^3 is: (v14)",
     "options_zh": [
-      "3",
       "1",
       "0",
+      "3",
       "3 (備選)"
     ],
     "options_en": [
-      "3",
       "1",
       "0",
+      "3",
       "3 (alt)"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(3,3) = 1",
     "explanation_en": "C(3,3) = 1",
     "difficulty": 2,
@@ -9019,18 +9019,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^1 的係數是： (變體15)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^1 is: (v15)",
     "options_zh": [
+      "6",
       "4",
       "1",
-      "6",
       "4 (備選)"
     ],
     "options_en": [
+      "6",
       "4",
       "1",
-      "6",
       "4 (alt)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "C(4,1) = 4",
     "explanation_en": "C(4,1) = 4",
     "difficulty": 2,
@@ -9047,18 +9047,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^1 的係數是： (變體12)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^1 is: (v12)",
     "options_zh": [
-      "7",
-      "1",
       "7 (備選)",
-      "21"
+      "1",
+      "21",
+      "7"
     ],
     "options_en": [
-      "7",
-      "1",
       "7 (alt)",
-      "21"
+      "1",
+      "21",
+      "7"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(7,1) = 7",
     "explanation_en": "C(7,1) = 7",
     "difficulty": 2,
@@ -9075,16 +9075,16 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^1 的係數是： (變體15)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^1 is: (v15)",
     "options_zh": [
-      "3 (備選)",
+      "3 (備選) (備選)",
       "3",
       "1",
-      "3 (備選) (備選)"
+      "3 (備選)"
     ],
     "options_en": [
-      "3 (alt)",
+      "3 (alt) (alt)",
       "3",
       "1",
-      "3 (alt) (alt)"
+      "3 (alt)"
     ],
     "answer": 1,
     "explanation_zh": "C(3,1) = 3",
@@ -9104,17 +9104,17 @@
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^2 is: (v9)",
     "options_zh": [
       "7",
+      "35",
       "21",
-      "2",
-      "35"
+      "2"
     ],
     "options_en": [
       "7",
+      "35",
       "21",
-      "2",
-      "35"
+      "2"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(7,2) = 21",
     "explanation_en": "C(7,2) = 21",
     "difficulty": 2,
@@ -9131,18 +9131,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^5 的係數是： (變體8)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^5 is: (v8)",
     "options_zh": [
-      "7",
-      "7 (備選)",
+      "5",
       "21",
-      "5"
+      "7",
+      "7 (備選)"
     ],
     "options_en": [
-      "7",
-      "7 (alt)",
+      "5",
       "21",
-      "5"
+      "7",
+      "7 (alt)"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(7,5) = 21",
     "explanation_en": "C(7,5) = 21",
     "difficulty": 2,
@@ -9159,18 +9159,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^0 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^0 is: (v7)",
     "options_zh": [
-      "3 (備選)",
       "0",
       "1",
+      "3 (備選)",
       "3"
     ],
     "options_en": [
-      "3 (alt)",
       "0",
       "1",
+      "3 (alt)",
       "3"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(3,0) = 1",
     "explanation_en": "C(3,0) = 1",
     "difficulty": 2,
@@ -9215,18 +9215,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^2 的係數是： (變體4)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^2 is: (v4)",
     "options_zh": [
-      "6",
-      "20",
       "2",
-      "15"
+      "20",
+      "15",
+      "6"
     ],
     "options_en": [
-      "6",
-      "20",
       "2",
-      "15"
+      "20",
+      "15",
+      "6"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(6,2) = 15",
     "explanation_en": "C(6,2) = 15",
     "difficulty": 2,
@@ -9243,18 +9243,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^3 的係數是： (變體9)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^3 is: (v9)",
     "options_zh": [
-      "35",
       "35 (備選)",
       "7",
+      "35",
       "3"
     ],
     "options_en": [
-      "35",
       "35 (alt)",
       "7",
+      "35",
       "3"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(7,3) = 35",
     "explanation_en": "C(7,3) = 35",
     "difficulty": 2,
@@ -9271,18 +9271,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^1 的係數是： (變體16)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^1 is: (v16)",
     "options_zh": [
-      "3 (備選)",
+      "3",
       "1",
       "3 (備選) (備選)",
-      "3"
+      "3 (備選)"
     ],
     "options_en": [
-      "3 (alt)",
+      "3",
       "1",
       "3 (alt) (alt)",
-      "3"
+      "3 (alt)"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(3,1) = 3",
     "explanation_en": "C(3,1) = 3",
     "difficulty": 2,
@@ -9299,18 +9299,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^3 的係數是： (變體15)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^3 is: (v15)",
     "options_zh": [
-      "1",
       "0",
+      "1",
       "3",
       "3 (備選)"
     ],
     "options_en": [
-      "1",
       "0",
+      "1",
       "3",
       "3 (alt)"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "C(3,3) = 1",
     "explanation_en": "C(3,3) = 1",
     "difficulty": 2,
@@ -9328,17 +9328,17 @@
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^0 is: (v8)",
     "options_zh": [
       "6 (備選)",
-      "6",
+      "1",
       "0",
-      "1"
+      "6"
     ],
     "options_en": [
       "6 (alt)",
-      "6",
+      "1",
       "0",
-      "1"
+      "6"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(6,0) = 1",
     "explanation_en": "C(6,0) = 1",
     "difficulty": 2,
@@ -9355,18 +9355,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^4 的係數是： (變體15)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^4 is: (v15)",
     "options_zh": [
-      "4",
       "1",
+      "4",
       "0",
       "4 (備選)"
     ],
     "options_en": [
-      "4",
       "1",
+      "4",
       "0",
       "4 (alt)"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(4,4) = 1",
     "explanation_en": "C(4,4) = 1",
     "difficulty": 2,
@@ -9384,15 +9384,15 @@
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^0 is: (v9)",
     "options_zh": [
       "6",
-      "0",
+      "6 (備選)",
       "1",
-      "6 (備選)"
+      "0"
     ],
     "options_en": [
       "6",
-      "0",
+      "6 (alt)",
       "1",
-      "6 (alt)"
+      "0"
     ],
     "answer": 2,
     "explanation_zh": "C(6,0) = 1",
@@ -9411,18 +9411,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^1 的係數是： (變體13)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^1 is: (v13)",
     "options_zh": [
-      "1",
       "7 (備選)",
       "21",
-      "7"
+      "7",
+      "1"
     ],
     "options_en": [
-      "1",
       "7 (alt)",
       "21",
-      "7"
+      "7",
+      "1"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(7,1) = 7",
     "explanation_en": "C(7,1) = 7",
     "difficulty": 2,
@@ -9439,18 +9439,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^3 的係數是： (變體12)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^3 is: (v12)",
     "options_zh": [
-      "4",
       "4 (備選)",
       "3",
-      "1"
+      "1",
+      "4"
     ],
     "options_en": [
-      "4",
       "4 (alt)",
       "3",
-      "1"
+      "1",
+      "4"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(4,3) = 4",
     "explanation_en": "C(4,3) = 4",
     "difficulty": 2,
@@ -9467,18 +9467,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^1 的係數是： (變體17)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^1 is: (v17)",
     "options_zh": [
-      "1",
       "3",
       "3 (備選) (備選)",
+      "1",
       "3 (備選)"
     ],
     "options_en": [
-      "1",
       "3",
       "3 (alt) (alt)",
+      "1",
       "3 (alt)"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(3,1) = 3",
     "explanation_en": "C(3,1) = 3",
     "difficulty": 2,
@@ -9496,17 +9496,17 @@
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^0 is: (v15)",
     "options_zh": [
       "0",
+      "4 (備選)",
       "4",
-      "1",
-      "4 (備選)"
+      "1"
     ],
     "options_en": [
       "0",
+      "4 (alt)",
       "4",
-      "1",
-      "4 (alt)"
+      "1"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(4,0) = 1",
     "explanation_en": "C(4,0) = 1",
     "difficulty": 2,
@@ -9523,18 +9523,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^1 的係數是： (變體16)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^1 is: (v16)",
     "options_zh": [
-      "6",
+      "4",
       "1",
       "4 (備選)",
-      "4"
+      "6"
     ],
     "options_en": [
-      "6",
+      "4",
       "1",
       "4 (alt)",
-      "4"
+      "6"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(4,1) = 4",
     "explanation_en": "C(4,1) = 4",
     "difficulty": 2,
@@ -9552,17 +9552,17 @@
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^3 is: (v16)",
     "options_zh": [
       "0",
-      "1",
       "3 (備選)",
-      "3"
+      "3",
+      "1"
     ],
     "options_en": [
       "0",
-      "1",
       "3 (alt)",
-      "3"
+      "3",
+      "1"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(3,3) = 1",
     "explanation_en": "C(3,3) = 1",
     "difficulty": 2,
@@ -9579,18 +9579,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^3 的係數是： (變體6)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^3 is: (v6)",
     "options_zh": [
+      "15",
       "20",
-      "3",
       "6",
-      "15"
+      "3"
     ],
     "options_en": [
+      "15",
       "20",
-      "3",
       "6",
-      "15"
+      "3"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "C(6,3) = 20",
     "explanation_en": "C(6,3) = 20",
     "difficulty": 2,
@@ -9608,14 +9608,14 @@
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^0 is: (v16)",
     "options_zh": [
       "0",
-      "4 (備選)",
       "4",
+      "4 (備選)",
       "1"
     ],
     "options_en": [
       "0",
-      "4 (alt)",
       "4",
+      "4 (alt)",
       "1"
     ],
     "answer": 3,
@@ -9635,18 +9635,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^0 的係數是： (變體8)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^0 is: (v8)",
     "options_zh": [
+      "3 (備選)",
       "3",
       "1",
-      "3 (備選)",
       "0"
     ],
     "options_en": [
+      "3 (alt)",
       "3",
       "1",
-      "3 (alt)",
       "0"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(3,0) = 1",
     "explanation_en": "C(3,0) = 1",
     "difficulty": 2,
@@ -9663,16 +9663,16 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^0 的係數是： (變體9)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^0 is: (v9)",
     "options_zh": [
-      "3 (備選)",
+      "0",
       "3",
       "1",
-      "0"
+      "3 (備選)"
     ],
     "options_en": [
-      "3 (alt)",
+      "0",
       "3",
       "1",
-      "0"
+      "3 (alt)"
     ],
     "answer": 2,
     "explanation_zh": "C(3,0) = 1",
@@ -9691,18 +9691,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^3 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^3 is: (v7)",
     "options_zh": [
-      "20",
-      "6",
+      "3",
       "15",
-      "3"
+      "20",
+      "6"
     ],
     "options_en": [
-      "20",
-      "6",
+      "3",
       "15",
-      "3"
+      "20",
+      "6"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(6,3) = 20",
     "explanation_en": "C(6,3) = 20",
     "difficulty": 2,
@@ -9747,16 +9747,16 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^0 的係數是： (變體17)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^0 is: (v17)",
     "options_zh": [
+      "4 (備選)",
       "4",
-      "0",
       "1",
-      "4 (備選)"
+      "0"
     ],
     "options_en": [
+      "4 (alt)",
       "4",
-      "0",
       "1",
-      "4 (alt)"
+      "0"
     ],
     "answer": 2,
     "explanation_zh": "C(4,0) = 1",
@@ -9775,18 +9775,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^0 的係數是： (變體10)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^0 is: (v10)",
     "options_zh": [
-      "3",
-      "0",
       "3 (備選)",
-      "1"
+      "0",
+      "1",
+      "3"
     ],
     "options_en": [
-      "3",
-      "0",
       "3 (alt)",
-      "1"
+      "0",
+      "1",
+      "3"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(3,0) = 1",
     "explanation_en": "C(3,0) = 1",
     "difficulty": 2,
@@ -9831,16 +9831,16 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^5 的係數是： (變體10)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^5 is: (v10)",
     "options_zh": [
-      "0",
-      "1",
       "5",
-      "5 (備選)"
+      "1",
+      "5 (備選)",
+      "0"
     ],
     "options_en": [
-      "0",
-      "1",
       "5",
-      "5 (alt)"
+      "1",
+      "5 (alt)",
+      "0"
     ],
     "answer": 1,
     "explanation_zh": "C(5,5) = 1",
@@ -9887,18 +9887,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^1 的係數是： (變體17)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^1 is: (v17)",
     "options_zh": [
-      "1",
-      "4",
       "4 (備選)",
-      "6"
+      "6",
+      "1",
+      "4"
     ],
     "options_en": [
-      "1",
-      "4",
       "4 (alt)",
-      "6"
+      "6",
+      "1",
+      "4"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(4,1) = 4",
     "explanation_en": "C(4,1) = 4",
     "difficulty": 2,
@@ -9915,18 +9915,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^3 的係數是： (變體10)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^3 is: (v10)",
     "options_zh": [
+      "35",
       "7",
-      "35 (備選)",
       "3",
-      "35"
+      "35 (備選)"
     ],
     "options_en": [
+      "35",
       "7",
-      "35 (alt)",
       "3",
-      "35"
+      "35 (alt)"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(7,3) = 35",
     "explanation_en": "C(7,3) = 35",
     "difficulty": 2,
@@ -9971,18 +9971,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^3 的係數是： (變體11)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^3 is: (v11)",
     "options_zh": [
-      "3",
       "35",
       "35 (備選)",
-      "7"
+      "7",
+      "3"
     ],
     "options_en": [
-      "3",
       "35",
       "35 (alt)",
-      "7"
+      "7",
+      "3"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(7,3) = 35",
     "explanation_en": "C(7,3) = 35",
     "difficulty": 2,
@@ -9999,18 +9999,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^3 的係數是： (變體8)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^3 is: (v8)",
     "options_zh": [
-      "6",
-      "3",
+      "15",
       "20",
-      "15"
+      "3",
+      "6"
     ],
     "options_en": [
-      "6",
-      "3",
+      "15",
       "20",
-      "15"
+      "3",
+      "6"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(6,3) = 20",
     "explanation_en": "C(6,3) = 20",
     "difficulty": 2,
@@ -10029,16 +10029,16 @@
     "options_zh": [
       "5 (備選)",
       "10",
-      "1",
-      "5"
+      "5",
+      "1"
     ],
     "options_en": [
       "5 (alt)",
       "10",
-      "1",
-      "5"
+      "5",
+      "1"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(5,1) = 5",
     "explanation_en": "C(5,1) = 5",
     "difficulty": 2,
@@ -10055,18 +10055,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^0 的係數是： (變體4)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^0 is: (v4)",
     "options_zh": [
-      "7",
-      "1",
+      "7 (備選)",
       "0",
-      "7 (備選)"
+      "1",
+      "7"
     ],
     "options_en": [
-      "7",
-      "1",
+      "7 (alt)",
       "0",
-      "7 (alt)"
+      "1",
+      "7"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(7,0) = 1",
     "explanation_en": "C(7,0) = 1",
     "difficulty": 2,
@@ -10083,18 +10083,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^3 的係數是： (變體13)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^3 is: (v13)",
     "options_zh": [
+      "4",
       "1",
-      "4 (備選)",
       "3",
-      "4"
+      "4 (備選)"
     ],
     "options_en": [
+      "4",
       "1",
-      "4 (alt)",
       "3",
-      "4"
+      "4 (alt)"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(4,3) = 4",
     "explanation_en": "C(4,3) = 4",
     "difficulty": 2,
@@ -10111,18 +10111,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^4 的係數是： (變體13)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^4 is: (v13)",
     "options_zh": [
-      "4",
       "1",
       "5 (備選)",
-      "5"
+      "5",
+      "4"
     ],
     "options_en": [
-      "4",
       "1",
       "5 (alt)",
-      "5"
+      "5",
+      "4"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(5,4) = 5",
     "explanation_en": "C(5,4) = 5",
     "difficulty": 2,
@@ -10139,18 +10139,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^1 的係數是： (變體19)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^1 is: (v19)",
     "options_zh": [
-      "3 (備選) (備選)",
       "3",
       "1",
+      "3 (備選) (備選)",
       "3 (備選)"
     ],
     "options_en": [
-      "3 (alt) (alt)",
       "3",
       "1",
+      "3 (alt) (alt)",
       "3 (alt)"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(3,1) = 3",
     "explanation_en": "C(3,1) = 3",
     "difficulty": 2,
@@ -10167,18 +10167,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^1 的係數是： (變體12)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^1 is: (v12)",
     "options_zh": [
-      "5",
-      "10",
       "1",
-      "5 (備選)"
+      "10",
+      "5 (備選)",
+      "5"
     ],
     "options_en": [
-      "5",
-      "10",
       "1",
-      "5 (alt)"
+      "10",
+      "5 (alt)",
+      "5"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(5,1) = 5",
     "explanation_en": "C(5,1) = 5",
     "difficulty": 2,
@@ -10196,17 +10196,17 @@
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^0 is: (v11)",
     "options_zh": [
       "3",
+      "0",
       "1",
-      "3 (備選)",
-      "0"
+      "3 (備選)"
     ],
     "options_en": [
       "3",
+      "0",
       "1",
-      "3 (alt)",
-      "0"
+      "3 (alt)"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(3,0) = 1",
     "explanation_en": "C(3,0) = 1",
     "difficulty": 2,
@@ -10223,18 +10223,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^0 的係數是： (變體8)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^0 is: (v8)",
     "options_zh": [
-      "5 (備選)",
       "1",
       "0",
-      "5"
+      "5",
+      "5 (備選)"
     ],
     "options_en": [
-      "5 (alt)",
       "1",
       "0",
-      "5"
+      "5",
+      "5 (alt)"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "C(5,0) = 1",
     "explanation_en": "C(5,0) = 1",
     "difficulty": 2,
@@ -10251,16 +10251,16 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^6 的係數是： (變體11)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^6 is: (v11)",
     "options_zh": [
-      "6",
+      "7 (備選)",
       "7",
-      "1",
-      "7 (備選)"
+      "6",
+      "1"
     ],
     "options_en": [
-      "6",
+      "7 (alt)",
       "7",
-      "1",
-      "7 (alt)"
+      "6",
+      "1"
     ],
     "answer": 1,
     "explanation_zh": "C(7,6) = 7",
@@ -10279,15 +10279,15 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^2 的係數是： (變體10)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^2 is: (v10)",
     "options_zh": [
-      "2",
-      "35",
       "7",
+      "35",
+      "2",
       "21"
     ],
     "options_en": [
-      "2",
-      "35",
       "7",
+      "35",
+      "2",
       "21"
     ],
     "answer": 3,
@@ -10308,15 +10308,15 @@
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^0 is: (v9)",
     "options_zh": [
       "5 (備選)",
-      "0",
+      "5",
       "1",
-      "5"
+      "0"
     ],
     "options_en": [
       "5 (alt)",
-      "0",
+      "5",
       "1",
-      "5"
+      "0"
     ],
     "answer": 2,
     "explanation_zh": "C(5,0) = 1",
@@ -10335,18 +10335,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^5 的係數是： (變體9)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^5 is: (v9)",
     "options_zh": [
-      "7 (備選)",
-      "5",
+      "21",
       "7",
-      "21"
+      "5",
+      "7 (備選)"
     ],
     "options_en": [
-      "7 (alt)",
-      "5",
+      "21",
       "7",
-      "21"
+      "5",
+      "7 (alt)"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(7,5) = 21",
     "explanation_en": "C(7,5) = 21",
     "difficulty": 2,
@@ -10363,18 +10363,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^1 的係數是： (變體18)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^1 is: (v18)",
     "options_zh": [
+      "1",
       "4 (備選)",
       "6",
-      "4",
-      "1"
+      "4"
     ],
     "options_en": [
+      "1",
       "4 (alt)",
       "6",
-      "4",
-      "1"
+      "4"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(4,1) = 4",
     "explanation_en": "C(4,1) = 4",
     "difficulty": 2,
@@ -10392,17 +10392,17 @@
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^4 is: (v8)",
     "options_zh": [
       "4",
-      "7",
+      "35",
       "21",
-      "35"
+      "7"
     ],
     "options_en": [
       "4",
-      "7",
+      "35",
       "21",
-      "35"
+      "7"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(7,4) = 35",
     "explanation_en": "C(7,4) = 35",
     "difficulty": 2,
@@ -10419,18 +10419,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^1 的係數是： (變體13)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^1 is: (v13)",
     "options_zh": [
-      "6",
-      "6 (備選)",
       "1",
-      "15"
+      "6 (備選)",
+      "15",
+      "6"
     ],
     "options_en": [
-      "6",
-      "6 (alt)",
       "1",
-      "15"
+      "6 (alt)",
+      "15",
+      "6"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(6,1) = 6",
     "explanation_en": "C(6,1) = 6",
     "difficulty": 2,
@@ -10447,15 +10447,15 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^1 的係數是： (變體20)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^1 is: (v20)",
     "options_zh": [
-      "1",
       "3 (備選) (備選)",
       "3 (備選)",
+      "1",
       "3"
     ],
     "options_en": [
-      "1",
       "3 (alt) (alt)",
       "3 (alt)",
+      "1",
       "3"
     ],
     "answer": 3,
@@ -10475,18 +10475,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^2 的係數是： (變體11)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^2 is: (v11)",
     "options_zh": [
-      "10",
-      "5",
+      "10 (備選)",
       "2",
-      "10 (備選)"
+      "10",
+      "5"
     ],
     "options_en": [
-      "10",
-      "5",
+      "10 (alt)",
       "2",
-      "10 (alt)"
+      "10",
+      "5"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(5,2) = 10",
     "explanation_en": "C(5,2) = 10",
     "difficulty": 2,
@@ -10503,18 +10503,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^6 的係數是： (變體6)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^6 is: (v6)",
     "options_zh": [
+      "6",
       "1",
-      "0",
       "6 (備選)",
-      "6"
+      "0"
     ],
     "options_en": [
+      "6",
       "1",
-      "0",
       "6 (alt)",
-      "6"
+      "0"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "C(6,6) = 1",
     "explanation_en": "C(6,6) = 1",
     "difficulty": 2,
@@ -10531,18 +10531,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^0 的係數是： (變體12)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^0 is: (v12)",
     "options_zh": [
-      "1",
+      "3",
       "0",
       "3 (備選)",
-      "3"
+      "1"
     ],
     "options_en": [
-      "1",
+      "3",
       "0",
       "3 (alt)",
-      "3"
+      "1"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "C(3,0) = 1",
     "explanation_en": "C(3,0) = 1",
     "difficulty": 2,
@@ -10559,16 +10559,16 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^4 的係數是： (變體16)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^4 is: (v16)",
     "options_zh": [
-      "4 (備選)",
-      "1",
       "4",
-      "0"
+      "1",
+      "0",
+      "4 (備選)"
     ],
     "options_en": [
-      "4 (alt)",
-      "1",
       "4",
-      "0"
+      "1",
+      "0",
+      "4 (alt)"
     ],
     "answer": 1,
     "explanation_zh": "C(4,4) = 1",
@@ -10587,18 +10587,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^5 的係數是： (變體10)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^5 is: (v10)",
     "options_zh": [
-      "21",
-      "7",
       "5",
-      "7 (備選)"
+      "21",
+      "7 (備選)",
+      "7"
     ],
     "options_en": [
-      "21",
-      "7",
       "5",
-      "7 (alt)"
+      "21",
+      "7 (alt)",
+      "7"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "C(7,5) = 21",
     "explanation_en": "C(7,5) = 21",
     "difficulty": 2,
@@ -10615,18 +10615,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^4 的係數是： (變體17)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^4 is: (v17)",
     "options_zh": [
+      "4 (備選)",
       "0",
-      "1",
       "4",
-      "4 (備選)"
+      "1"
     ],
     "options_en": [
+      "4 (alt)",
       "0",
-      "1",
       "4",
-      "4 (alt)"
+      "1"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(4,4) = 1",
     "explanation_en": "C(4,4) = 1",
     "difficulty": 2,
@@ -10644,17 +10644,17 @@
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^6 is: (v7)",
     "options_zh": [
       "6",
+      "6 (備選)",
       "1",
-      "0",
-      "6 (備選)"
+      "0"
     ],
     "options_en": [
       "6",
+      "6 (alt)",
       "1",
-      "0",
-      "6 (alt)"
+      "0"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(6,6) = 1",
     "explanation_en": "C(6,6) = 1",
     "difficulty": 2,
@@ -10673,16 +10673,16 @@
     "options_zh": [
       "3",
       "0",
-      "1",
-      "3 (備選)"
+      "3 (備選)",
+      "1"
     ],
     "options_en": [
       "3",
       "0",
-      "1",
-      "3 (alt)"
+      "3 (alt)",
+      "1"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "C(3,0) = 1",
     "explanation_en": "C(3,0) = 1",
     "difficulty": 2,
@@ -10699,18 +10699,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^3 的係數是： (變體14)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^3 is: (v14)",
     "options_zh": [
-      "4 (備選)",
-      "3",
       "4",
-      "1"
+      "4 (備選)",
+      "1",
+      "3"
     ],
     "options_en": [
-      "4 (alt)",
-      "3",
       "4",
-      "1"
+      "4 (alt)",
+      "1",
+      "3"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "C(4,3) = 4",
     "explanation_en": "C(4,3) = 4",
     "difficulty": 2,
@@ -10727,18 +10727,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^1 的係數是： (變體21)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^1 is: (v21)",
     "options_zh": [
-      "3 (備選) (備選)",
-      "3",
       "3 (備選)",
-      "1"
+      "3 (備選) (備選)",
+      "1",
+      "3"
     ],
     "options_en": [
-      "3 (alt) (alt)",
-      "3",
       "3 (alt)",
-      "1"
+      "3 (alt) (alt)",
+      "1",
+      "3"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "C(3,1) = 3",
     "explanation_en": "C(3,1) = 3",
     "difficulty": 2,
@@ -10755,18 +10755,18 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^1 的係數是： (變體13)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^1 is: (v13)",
     "options_zh": [
-      "10",
-      "1",
+      "5 (備選)",
       "5",
-      "5 (備選)"
+      "10",
+      "1"
     ],
     "options_en": [
-      "10",
-      "1",
+      "5 (alt)",
       "5",
-      "5 (alt)"
+      "10",
+      "1"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(5,1) = 5",
     "explanation_en": "C(5,1) = 5",
     "difficulty": 2,
@@ -10783,18 +10783,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^2 的係數是： (變體5)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^2 is: (v5)",
     "options_zh": [
-      "20",
-      "2",
       "15",
-      "6"
+      "2",
+      "6",
+      "20"
     ],
     "options_en": [
-      "20",
-      "2",
       "15",
-      "6"
+      "2",
+      "6",
+      "20"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "C(6,2) = 15",
     "explanation_en": "C(6,2) = 15",
     "difficulty": 2,
@@ -10811,18 +10811,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^5 的係數是： (變體11)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^5 is: (v11)",
     "options_zh": [
-      "7",
       "7 (備選)",
       "5",
-      "21"
+      "21",
+      "7"
     ],
     "options_en": [
-      "7",
       "7 (alt)",
       "5",
-      "21"
+      "21",
+      "7"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(7,5) = 21",
     "explanation_en": "C(7,5) = 21",
     "difficulty": 2,
@@ -10839,18 +10839,18 @@
     "question_zh": "在 (1+x)^7 的展開式中，x^5 的係數是： (變體12)",
     "question_en": "In the expansion of (1+x)^7, the coefficient of x^5 is: (v12)",
     "options_zh": [
-      "21",
       "5",
       "7 (備選)",
+      "21",
       "7"
     ],
     "options_en": [
-      "21",
       "5",
       "7 (alt)",
+      "21",
       "7"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(7,5) = 21",
     "explanation_en": "C(7,5) = 21",
     "difficulty": 2,
@@ -10867,18 +10867,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^2 的係數是： (變體6)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^2 is: (v6)",
     "options_zh": [
-      "15",
-      "6",
       "20",
+      "6",
+      "15",
       "2"
     ],
     "options_en": [
-      "15",
-      "6",
       "20",
+      "6",
+      "15",
       "2"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(6,2) = 15",
     "explanation_en": "C(6,2) = 15",
     "difficulty": 2,
@@ -10895,18 +10895,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^1 的係數是： (變體19)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^1 is: (v19)",
     "options_zh": [
-      "4 (備選)",
       "1",
-      "6",
-      "4"
+      "4",
+      "4 (備選)",
+      "6"
     ],
     "options_en": [
-      "4 (alt)",
       "1",
-      "6",
-      "4"
+      "4",
+      "4 (alt)",
+      "6"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "C(4,1) = 4",
     "explanation_en": "C(4,1) = 4",
     "difficulty": 2,
@@ -10923,16 +10923,16 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^2 的係數是： (變體19)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^2 is: (v19)",
     "options_zh": [
-      "1",
+      "3 (備選)",
       "3",
       "2",
-      "3 (備選)"
+      "1"
     ],
     "options_en": [
-      "1",
+      "3 (alt)",
       "3",
       "2",
-      "3 (alt)"
+      "1"
     ],
     "answer": 1,
     "explanation_zh": "C(3,2) = 3",
@@ -10951,18 +10951,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^1 的係數是： (變體22)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^1 is: (v22)",
     "options_zh": [
-      "1",
       "3 (備選) (備選)",
       "3",
+      "1",
       "3 (備選)"
     ],
     "options_en": [
-      "1",
       "3 (alt) (alt)",
       "3",
+      "1",
       "3 (alt)"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "C(3,1) = 3",
     "explanation_en": "C(3,1) = 3",
     "difficulty": 2,
@@ -10979,18 +10979,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^1 的係數是： (變體23)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^1 is: (v23)",
     "options_zh": [
+      "3",
       "3 (備選) (備選)",
-      "1",
       "3 (備選)",
-      "3"
+      "1"
     ],
     "options_en": [
+      "3",
       "3 (alt) (alt)",
-      "1",
       "3 (alt)",
-      "3"
+      "1"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(3,1) = 3",
     "explanation_en": "C(3,1) = 3",
     "difficulty": 2,
@@ -11007,18 +11007,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^0 的係數是： (變體10)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^0 is: (v10)",
     "options_zh": [
-      "0",
-      "6",
+      "1",
       "6 (備選)",
-      "1"
+      "6",
+      "0"
     ],
     "options_en": [
-      "0",
-      "6",
+      "1",
       "6 (alt)",
-      "1"
+      "6",
+      "0"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "C(6,0) = 1",
     "explanation_en": "C(6,0) = 1",
     "difficulty": 2,
@@ -11036,17 +11036,17 @@
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^0 is: (v11)",
     "options_zh": [
       "6 (備選)",
-      "1",
       "6",
+      "1",
       "0"
     ],
     "options_en": [
       "6 (alt)",
-      "1",
       "6",
+      "1",
       "0"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(6,0) = 1",
     "explanation_en": "C(6,0) = 1",
     "difficulty": 2,
@@ -11063,15 +11063,15 @@
     "question_zh": "在 (1+x)^5 的展開式中，x^4 的係數是： (變體14)",
     "question_en": "In the expansion of (1+x)^5, the coefficient of x^4 is: (v14)",
     "options_zh": [
-      "5 (備選)",
-      "1",
       "4",
+      "1",
+      "5 (備選)",
       "5"
     ],
     "options_en": [
-      "5 (alt)",
-      "1",
       "4",
+      "1",
+      "5 (alt)",
       "5"
     ],
     "answer": 3,
@@ -11091,18 +11091,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^3 的係數是： (變體15)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^3 is: (v15)",
     "options_zh": [
-      "4",
-      "3",
+      "4 (備選)",
       "1",
-      "4 (備選)"
+      "4",
+      "3"
     ],
     "options_en": [
-      "4",
-      "3",
+      "4 (alt)",
       "1",
-      "4 (alt)"
+      "4",
+      "3"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(4,3) = 4",
     "explanation_en": "C(4,3) = 4",
     "difficulty": 2,
@@ -11119,18 +11119,18 @@
     "question_zh": "在 (1+x)^4 的展開式中，x^4 的係數是： (變體18)",
     "question_en": "In the expansion of (1+x)^4, the coefficient of x^4 is: (v18)",
     "options_zh": [
-      "1",
-      "0",
+      "4 (備選)",
       "4",
-      "4 (備選)"
+      "1",
+      "0"
     ],
     "options_en": [
-      "1",
-      "0",
+      "4 (alt)",
       "4",
-      "4 (alt)"
+      "1",
+      "0"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "C(4,4) = 1",
     "explanation_en": "C(4,4) = 1",
     "difficulty": 2,
@@ -11147,18 +11147,18 @@
     "question_zh": "在 (1+x)^6 的展開式中，x^2 的係數是： (變體7)",
     "question_en": "In the expansion of (1+x)^6, the coefficient of x^2 is: (v7)",
     "options_zh": [
-      "20",
-      "6",
       "2",
-      "15"
+      "20",
+      "15",
+      "6"
     ],
     "options_en": [
-      "20",
-      "6",
       "2",
-      "15"
+      "20",
+      "15",
+      "6"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "C(6,2) = 15",
     "explanation_en": "C(6,2) = 15",
     "difficulty": 2,
@@ -11175,18 +11175,18 @@
     "question_zh": "在 (1+x)^3 的展開式中，x^1 的係數是： (變體24)",
     "question_en": "In the expansion of (1+x)^3, the coefficient of x^1 is: (v24)",
     "options_zh": [
-      "1",
-      "3",
+      "3 (備選)",
       "3 (備選) (備選)",
-      "3 (備選)"
+      "3",
+      "1"
     ],
     "options_en": [
-      "1",
-      "3",
+      "3 (alt)",
       "3 (alt) (alt)",
-      "3 (alt)"
+      "3",
+      "1"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "C(3,1) = 3",
     "explanation_en": "C(3,1) = 3",
     "difficulty": 2,
