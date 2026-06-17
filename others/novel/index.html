@@ -48,6 +48,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK
 .bb{padding:8px 16px;border:1px solid #ddd;border-radius:8px;background:#fff;cursor:pointer;font-size:14px;text-decoration:none;color:#333;display:inline-block;margin-bottom:12px}
 .bb:hover{background:#f5f5f5}
 .ft{margin-top:30px;color:#888;font-size:.75rem;text-align:center}
+.form-badge{display:inline-block;margin-top:8px;padding:4px 14px;border-radius:20px;font-size:12px;font-weight:600;background:#e8f5e9;color:#2e7d32}
 .tabs{display:flex;gap:8px;margin-bottom:20px;flex-wrap:wrap;justify-content:center}
 .tab{padding:8px 16px;border:2px solid #8e44ad;border-radius:20px;background:#fff;cursor:pointer;font-size:14px;transition:.2s;color:#8e44ad;font-weight:500}
 .tab.a{background:#8e44ad;color:#fff}
@@ -135,13 +136,13 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK
 let lang='zh',seriesData={},currentSeries='',currentNovel='',questions=[],curQ=0,correct=0,answered=0,currentCat='all',currentNovelFilter='all';
 
 const SERIES={
-fantasy:{zh:'🧙 幻想與超自然類',en:'🧙 Fantasy & Supernatural',color:'#9b59b6'},
-mystery:{zh:'🔍 懸疑與推理類',en:'🔍 Mystery & Detective',color:'#e74c3c'},
-romance:{zh:'💕 情愛與關係類',en:'💕 Romance & Relationships',color:'#e91e63'},
-historical:{zh:'📜 歷史與時代類',en:'📜 Historical & Period',color:'#795548'},
-wuxia:{zh:'⚔️ 武俠與動作類',en:'⚔️ Martial Arts & Action',color:'#ff5722'},
-literary:{zh:'📖 寫實與文學類',en:'📖 Realistic & Literary',color:'#607d8b'},
-popular:{zh:'📚 大眾與輕小說類',en:'📚 Popular & Light Novel',color:'#ff9800'}
+fantasy:{zh:'🧙 幻想與超自然類',en:'🧙 Fantasy & Supernatural',desc_zh:'奇幻·科幻·魔幻·玄幻·末日',desc_en:'Fantasy·Sci-fi·Magic·Xuanhuan·Apocalyptic',color:'#9b59b6'},
+mystery:{zh:'🔍 懸疑與推理類',en:'🔍 Mystery & Detective',desc_zh:'偵探解謎·心理驚悚·恐怖冒險',desc_en:'Detective·Psychological Thriller·Horror',color:'#e74c3c'},
+romance:{zh:'💕 情愛與關係類',en:'💕 Romance & Relationships',desc_zh:'言情·浪漫·浪漫耽美·家庭倫理',desc_en:'Romance·BL·Family Drama',color:'#e91e63'},
+historical:{zh:'📜 歷史與時代類',en:'📜 Historical & Period',desc_zh:'歷史演義·架空歷史·時代劇小說',desc_en:'Historical·Alternative History·Period Drama',color:'#795548'},
+wuxia:{zh:'⚔️ 武俠與動作類',en:'⚔️ Martial Arts & Action',desc_zh:'傳統武俠·現代諜報·軍事戰爭',desc_en:'Martial Arts·Spy·Military',color:'#ff5722'},
+literary:{zh:'📖 寫實與文學類',en:'📖 Realistic & Literary',desc_zh:'社會寫實·純文學·成長小說',desc_en:'Social Realism·Literary·Coming-of-age',color:'#607d8b'},
+popular:{zh:'📚 大眾與輕小說類',en:'📚 Popular & Light Novel',desc_zh:'動漫風格輕小說·青少年成長·都市通俗',desc_en:'Light Novel·YA·Urban Fiction',color:'#ff9800'}
 };
 
 async function init(){
@@ -156,7 +157,7 @@ const card=document.createElement('div');
 card.className='tc';
 card.style.borderColor=sinfo.color;
 card.dataset.cat=sid;
-card.innerHTML=`<div class="e">${sinfo.zh.split(' ')[0]}</div><div class="n">${sinfo.zh.substring(2)}</div><div class="ct">${novels.length} 本小說</div>`;
+card.innerHTML=`<div class="e">${sinfo.zh.split(' ')[0]}</div><div class="n">${sinfo.zh.substring(2)}</div><div class="ct" data-zh="${sinfo.desc_zh}" data-en="${sinfo.desc_en}">${sinfo.desc_zh}</div><div class="form-badge">${novels.length} 本</div>`;
 card.onclick=()=>showNovels(sid);
 grid.appendChild(card);
 }catch(e){console.error(sid,e)}
