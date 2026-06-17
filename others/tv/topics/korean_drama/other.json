@@ -1,186 +1,186 @@
 [
   {
     "id": 1,
-    "question_zh": "以下邊套係其他韓劇？",
+    "question_zh": "以下邊套係《其他韓劇》？",
     "question_en": "Which one is 'Other Korean Dramas'?",
     "options_zh": [
-      "其他劇集A",
-      "其他劇集C",
       "其他劇集B",
-      "其他韓劇"
+      "其他韓劇",
+      "其他劇集C",
+      "其他劇集A"
     ],
     "options_en": [
-      "Other Show A",
-      "Other Show C",
       "Other Show B",
-      "Other Korean Dramas"
+      "Other Korean Dramas",
+      "Other Show C",
+      "Other Show A"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「其他韓劇」。",
     "explanation_en": "The correct answer is 'Other Korean Dramas'.",
     "difficulty": 1
   },
   {
     "id": 2,
-    "question_zh": "以下邊套係韓劇？",
-    "question_en": "Which one is a Korean Drama?",
+    "question_zh": "以下邊套係其他韓劇？",
+    "question_en": "Which one is Other Korean Dramas?",
     "options_zh": [
-      "其他劇集A",
-      "其他劇集C",
       "其他韓劇",
-      "其他劇集B"
+      "其他C",
+      "其他B",
+      "其他A"
     ],
     "options_en": [
-      "Other Show A",
-      "Other Show C",
       "Other Korean Dramas",
-      "Other Show B"
+      "Other C",
+      "Other B",
+      "Other A"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「其他韓劇」。",
     "explanation_en": "The correct answer is 'Other Korean Dramas'.",
     "difficulty": 2
   },
   {
     "id": 3,
-    "question_zh": "《其他韓劇》係咩類型嘅節目？",
+    "question_zh": "《其他韓劇》係咩類型？",
     "question_en": "What genre is 'Other Korean Dramas'?",
     "options_zh": [
-      "喜劇",
       "新聞",
-      "綜合",
-      "紀錄片"
+      "紀錄片",
+      "喜劇",
+      "綜合"
     ],
     "options_en": [
-      "Comedy",
       "News",
-      "綜合",
-      "Documentary"
+      "Documentary",
+      "Comedy",
+      "綜合"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「綜合」。",
     "explanation_en": "The correct answer is '綜合'.",
     "difficulty": 3
   },
   {
     "id": 4,
-    "question_zh": "《其他韓劇》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'Other Korean Dramas'?",
+    "question_zh": "《其他韓劇》係咩地區出品？",
+    "question_en": "Where is 'Other Korean Dramas' from?",
     "options_zh": [
-      "YouTube",
-      "tvN/SBS",
-      "ViuTV",
-      "Amazon"
+      "泰國",
+      "印度",
+      "巴西",
+      "韓國"
     ],
     "options_en": [
-      "YouTube",
-      "tvN/SBS",
-      "ViuTV",
-      "Amazon"
+      "Thailand",
+      "India",
+      "Brazil",
+      "South Korea"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「tvN/SBS」。",
-    "explanation_en": "The correct answer is 'tvN/SBS'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「韓國」。",
+    "explanation_en": "The correct answer is 'South Korea'.",
     "difficulty": 1
   },
   {
     "id": 5,
-    "question_zh": "《其他韓劇》嘅故事主要講咩？",
+    "question_zh": "《其他韓劇》主要講咩？",
     "question_en": "What is 'Other Korean Dramas' mainly about?",
     "options_zh": [
-      "精彩劇情",
-      "財經新聞",
       "天氣報告",
+      "財經新聞",
+      "精彩劇情",
       "體育賽事"
     ],
     "options_en": [
-      "Exciting plot",
-      "Financial news",
       "Weather",
+      "Finance",
+      "Exciting plot",
       "Sports"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「精彩劇情」。",
     "explanation_en": "The correct answer is 'Exciting plot'.",
     "difficulty": 2
   },
   {
     "id": 6,
-    "question_zh": "《其他韓劇》係咩地區出品嘅？",
-    "question_en": "Where is 'Other Korean Dramas' from?",
+    "question_zh": "《其他韓劇》係邊個平台播出？",
+    "question_en": "Which platform aired 'Other Korean Dramas'?",
     "options_zh": [
-      "泰國",
-      "巴西",
-      "印度",
-      "韓國"
+      "tvN/Netflix",
+      "ViuTV",
+      "YouTube",
+      "Amazon"
     ],
     "options_en": [
-      "Thailand",
-      "Brazil",
-      "India",
-      "South Korea"
+      "tvN/Netflix",
+      "ViuTV",
+      "YouTube",
+      "Amazon"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「韓國」。",
-    "explanation_en": "The correct answer is 'South Korea'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「tvN/Netflix」。",
+    "explanation_en": "The correct answer is 'tvN/Netflix'.",
     "difficulty": 3
   },
   {
     "id": 7,
-    "question_zh": "以下邊套係其他韓劇？",
+    "question_zh": "以下邊套係《其他韓劇》？",
     "question_en": "Which one is 'Other Korean Dramas'?",
     "options_zh": [
-      "其他韓劇",
       "其他劇集B",
+      "其他劇集C",
       "其他劇集A",
-      "其他劇集C"
+      "其他韓劇"
     ],
     "options_en": [
-      "Other Korean Dramas",
       "Other Show B",
+      "Other Show C",
       "Other Show A",
-      "Other Show C"
+      "Other Korean Dramas"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「其他韓劇」。",
     "explanation_en": "The correct answer is 'Other Korean Dramas'.",
     "difficulty": 1
   },
   {
     "id": 8,
-    "question_zh": "以下邊套係韓劇？",
-    "question_en": "Which one is a Korean Drama?",
+    "question_zh": "以下邊套係其他韓劇？",
+    "question_en": "Which one is Other Korean Dramas?",
     "options_zh": [
-      "其他劇集B",
-      "其他劇集A",
-      "其他劇集C",
-      "其他韓劇"
+      "其他A",
+      "其他C",
+      "其他韓劇",
+      "其他B"
     ],
     "options_en": [
-      "Other Show B",
-      "Other Show A",
-      "Other Show C",
-      "Other Korean Dramas"
+      "Other A",
+      "Other C",
+      "Other Korean Dramas",
+      "Other B"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「其他韓劇」。",
     "explanation_en": "The correct answer is 'Other Korean Dramas'.",
     "difficulty": 2
   },
   {
     "id": 9,
-    "question_zh": "《其他韓劇》係咩類型嘅節目？",
+    "question_zh": "《其他韓劇》係咩類型？",
     "question_en": "What genre is 'Other Korean Dramas'?",
     "options_zh": [
       "紀錄片",
-      "新聞",
       "喜劇",
+      "新聞",
       "綜合"
     ],
     "options_en": [
       "Documentary",
-      "News",
       "Comedy",
+      "News",
       "綜合"
     ],
     "answer": 3,
@@ -190,165 +190,39 @@
   },
   {
     "id": 10,
-    "question_zh": "《其他韓劇》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'Other Korean Dramas'?",
+    "question_zh": "《其他韓劇》係咩地區出品？",
+    "question_en": "Where is 'Other Korean Dramas' from?",
     "options_zh": [
-      "tvN/SBS",
-      "YouTube",
-      "Amazon",
-      "ViuTV"
+      "巴西",
+      "韓國",
+      "印度",
+      "泰國"
     ],
     "options_en": [
-      "tvN/SBS",
-      "YouTube",
-      "Amazon",
-      "ViuTV"
+      "Brazil",
+      "South Korea",
+      "India",
+      "Thailand"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「tvN/SBS」。",
-    "explanation_en": "The correct answer is 'tvN/SBS'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「韓國」。",
+    "explanation_en": "The correct answer is 'South Korea'.",
     "difficulty": 1
   },
   {
     "id": 11,
-    "question_zh": "《其他韓劇》嘅故事主要講咩？",
+    "question_zh": "《其他韓劇》主要講咩？",
     "question_en": "What is 'Other Korean Dramas' mainly about?",
     "options_zh": [
+      "天氣報告",
       "財經新聞",
-      "天氣報告",
-      "精彩劇情",
-      "體育賽事"
-    ],
-    "options_en": [
-      "Financial news",
-      "Weather",
-      "Exciting plot",
-      "Sports"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「精彩劇情」。",
-    "explanation_en": "The correct answer is 'Exciting plot'.",
-    "difficulty": 2
-  },
-  {
-    "id": 12,
-    "question_zh": "《其他韓劇》係咩地區出品嘅？",
-    "question_en": "Where is 'Other Korean Dramas' from?",
-    "options_zh": [
-      "韓國",
-      "泰國",
-      "巴西",
-      "印度"
-    ],
-    "options_en": [
-      "South Korea",
-      "Thailand",
-      "Brazil",
-      "India"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「韓國」。",
-    "explanation_en": "The correct answer is 'South Korea'.",
-    "difficulty": 3
-  },
-  {
-    "id": 13,
-    "question_zh": "以下邊套係其他韓劇？",
-    "question_en": "Which one is 'Other Korean Dramas'?",
-    "options_zh": [
-      "其他劇集C",
-      "其他劇集A",
-      "其他韓劇",
-      "其他劇集B"
-    ],
-    "options_en": [
-      "Other Show C",
-      "Other Show A",
-      "Other Korean Dramas",
-      "Other Show B"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「其他韓劇」。",
-    "explanation_en": "The correct answer is 'Other Korean Dramas'.",
-    "difficulty": 1
-  },
-  {
-    "id": 14,
-    "question_zh": "以下邊套係韓劇？",
-    "question_en": "Which one is a Korean Drama?",
-    "options_zh": [
-      "其他韓劇",
-      "其他劇集B",
-      "其他劇集A",
-      "其他劇集C"
-    ],
-    "options_en": [
-      "Other Korean Dramas",
-      "Other Show B",
-      "Other Show A",
-      "Other Show C"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「其他韓劇」。",
-    "explanation_en": "The correct answer is 'Other Korean Dramas'.",
-    "difficulty": 2
-  },
-  {
-    "id": 15,
-    "question_zh": "《其他韓劇》係咩類型嘅節目？",
-    "question_en": "What genre is 'Other Korean Dramas'?",
-    "options_zh": [
-      "紀錄片",
-      "新聞",
-      "喜劇",
-      "綜合"
-    ],
-    "options_en": [
-      "Documentary",
-      "News",
-      "Comedy",
-      "綜合"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「綜合」。",
-    "explanation_en": "The correct answer is '綜合'.",
-    "difficulty": 3
-  },
-  {
-    "id": 16,
-    "question_zh": "《其他韓劇》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'Other Korean Dramas'?",
-    "options_zh": [
-      "YouTube",
-      "tvN/SBS",
-      "Amazon",
-      "ViuTV"
-    ],
-    "options_en": [
-      "YouTube",
-      "tvN/SBS",
-      "Amazon",
-      "ViuTV"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「tvN/SBS」。",
-    "explanation_en": "The correct answer is 'tvN/SBS'.",
-    "difficulty": 1
-  },
-  {
-    "id": 17,
-    "question_zh": "《其他韓劇》嘅故事主要講咩？",
-    "question_en": "What is 'Other Korean Dramas' mainly about?",
-    "options_zh": [
-      "天氣報告",
       "體育賽事",
-      "財經新聞",
       "精彩劇情"
     ],
     "options_en": [
       "Weather",
+      "Finance",
       "Sports",
-      "Financial news",
       "Exciting plot"
     ],
     "answer": 3,
@@ -357,41 +231,167 @@
     "difficulty": 2
   },
   {
-    "id": 18,
-    "question_zh": "《其他韓劇》係咩地區出品嘅？",
+    "id": 12,
+    "question_zh": "《其他韓劇》係邊個平台播出？",
+    "question_en": "Which platform aired 'Other Korean Dramas'?",
+    "options_zh": [
+      "Amazon",
+      "tvN/Netflix",
+      "ViuTV",
+      "YouTube"
+    ],
+    "options_en": [
+      "Amazon",
+      "tvN/Netflix",
+      "ViuTV",
+      "YouTube"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「tvN/Netflix」。",
+    "explanation_en": "The correct answer is 'tvN/Netflix'.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "以下邊套係《其他韓劇》？",
+    "question_en": "Which one is 'Other Korean Dramas'?",
+    "options_zh": [
+      "其他劇集B",
+      "其他劇集A",
+      "其他劇集C",
+      "其他韓劇"
+    ],
+    "options_en": [
+      "Other Show B",
+      "Other Show A",
+      "Other Show C",
+      "Other Korean Dramas"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「其他韓劇」。",
+    "explanation_en": "The correct answer is 'Other Korean Dramas'.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "以下邊套係其他韓劇？",
+    "question_en": "Which one is Other Korean Dramas?",
+    "options_zh": [
+      "其他B",
+      "其他C",
+      "其他A",
+      "其他韓劇"
+    ],
+    "options_en": [
+      "Other B",
+      "Other C",
+      "Other A",
+      "Other Korean Dramas"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「其他韓劇」。",
+    "explanation_en": "The correct answer is 'Other Korean Dramas'.",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_zh": "《其他韓劇》係咩類型？",
+    "question_en": "What genre is 'Other Korean Dramas'?",
+    "options_zh": [
+      "新聞",
+      "綜合",
+      "紀錄片",
+      "喜劇"
+    ],
+    "options_en": [
+      "News",
+      "綜合",
+      "Documentary",
+      "Comedy"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「綜合」。",
+    "explanation_en": "The correct answer is '綜合'.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "《其他韓劇》係咩地區出品？",
     "question_en": "Where is 'Other Korean Dramas' from?",
     "options_zh": [
       "巴西",
-      "韓國",
       "泰國",
+      "韓國",
       "印度"
     ],
     "options_en": [
       "Brazil",
-      "South Korea",
       "Thailand",
+      "South Korea",
       "India"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「韓國」。",
     "explanation_en": "The correct answer is 'South Korea'.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《其他韓劇》主要講咩？",
+    "question_en": "What is 'Other Korean Dramas' mainly about?",
+    "options_zh": [
+      "天氣報告",
+      "體育賽事",
+      "精彩劇情",
+      "財經新聞"
+    ],
+    "options_en": [
+      "Weather",
+      "Sports",
+      "Exciting plot",
+      "Finance"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「精彩劇情」。",
+    "explanation_en": "The correct answer is 'Exciting plot'.",
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question_zh": "《其他韓劇》係邊個平台播出？",
+    "question_en": "Which platform aired 'Other Korean Dramas'?",
+    "options_zh": [
+      "YouTube",
+      "Amazon",
+      "tvN/Netflix",
+      "ViuTV"
+    ],
+    "options_en": [
+      "YouTube",
+      "Amazon",
+      "tvN/Netflix",
+      "ViuTV"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「tvN/Netflix」。",
+    "explanation_en": "The correct answer is 'tvN/Netflix'.",
     "difficulty": 3
   },
   {
     "id": 19,
-    "question_zh": "以下邊套係其他韓劇？",
+    "question_zh": "以下邊套係《其他韓劇》？",
     "question_en": "Which one is 'Other Korean Dramas'?",
     "options_zh": [
       "其他韓劇",
-      "其他劇集A",
       "其他劇集B",
-      "其他劇集C"
+      "其他劇集C",
+      "其他劇集A"
     ],
     "options_en": [
       "Other Korean Dramas",
-      "Other Show A",
       "Other Show B",
-      "Other Show C"
+      "Other Show C",
+      "Other Show A"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「其他韓劇」。",
@@ -400,39 +400,39 @@
   },
   {
     "id": 20,
-    "question_zh": "以下邊套係韓劇？",
-    "question_en": "Which one is a Korean Drama?",
+    "question_zh": "以下邊套係其他韓劇？",
+    "question_en": "Which one is Other Korean Dramas?",
     "options_zh": [
-      "其他劇集B",
       "其他韓劇",
-      "其他劇集A",
-      "其他劇集C"
+      "其他B",
+      "其他A",
+      "其他C"
     ],
     "options_en": [
-      "Other Show B",
       "Other Korean Dramas",
-      "Other Show A",
-      "Other Show C"
+      "Other B",
+      "Other A",
+      "Other C"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「其他韓劇」。",
     "explanation_en": "The correct answer is 'Other Korean Dramas'.",
     "difficulty": 2
   },
   {
     "id": 21,
-    "question_zh": "《其他韓劇》係咩類型嘅節目？",
+    "question_zh": "《其他韓劇》係咩類型？",
     "question_en": "What genre is 'Other Korean Dramas'?",
     "options_zh": [
-      "新聞",
-      "綜合",
       "喜劇",
+      "綜合",
+      "新聞",
       "紀錄片"
     ],
     "options_en": [
-      "News",
-      "綜合",
       "Comedy",
+      "綜合",
+      "News",
       "Documentary"
     ],
     "answer": 1,
@@ -442,49 +442,7 @@
   },
   {
     "id": 22,
-    "question_zh": "《其他韓劇》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'Other Korean Dramas'?",
-    "options_zh": [
-      "YouTube",
-      "ViuTV",
-      "tvN/SBS",
-      "Amazon"
-    ],
-    "options_en": [
-      "YouTube",
-      "ViuTV",
-      "tvN/SBS",
-      "Amazon"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「tvN/SBS」。",
-    "explanation_en": "The correct answer is 'tvN/SBS'.",
-    "difficulty": 1
-  },
-  {
-    "id": 23,
-    "question_zh": "《其他韓劇》嘅故事主要講咩？",
-    "question_en": "What is 'Other Korean Dramas' mainly about?",
-    "options_zh": [
-      "天氣報告",
-      "財經新聞",
-      "精彩劇情",
-      "體育賽事"
-    ],
-    "options_en": [
-      "Weather",
-      "Financial news",
-      "Exciting plot",
-      "Sports"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「精彩劇情」。",
-    "explanation_en": "The correct answer is 'Exciting plot'.",
-    "difficulty": 2
-  },
-  {
-    "id": 24,
-    "question_zh": "《其他韓劇》係咩地區出品嘅？",
+    "question_zh": "《其他韓劇》係咩地區出品？",
     "question_en": "Where is 'Other Korean Dramas' from?",
     "options_zh": [
       "泰國",
@@ -501,132 +459,174 @@
     "answer": 2,
     "explanation_zh": "正確答案係「韓國」。",
     "explanation_en": "The correct answer is 'South Korea'.",
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question_zh": "《其他韓劇》主要講咩？",
+    "question_en": "What is 'Other Korean Dramas' mainly about?",
+    "options_zh": [
+      "天氣報告",
+      "財經新聞",
+      "體育賽事",
+      "精彩劇情"
+    ],
+    "options_en": [
+      "Weather",
+      "Finance",
+      "Sports",
+      "Exciting plot"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「精彩劇情」。",
+    "explanation_en": "The correct answer is 'Exciting plot'.",
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question_zh": "《其他韓劇》係邊個平台播出？",
+    "question_en": "Which platform aired 'Other Korean Dramas'?",
+    "options_zh": [
+      "Amazon",
+      "ViuTV",
+      "tvN/Netflix",
+      "YouTube"
+    ],
+    "options_en": [
+      "Amazon",
+      "ViuTV",
+      "tvN/Netflix",
+      "YouTube"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「tvN/Netflix」。",
+    "explanation_en": "The correct answer is 'tvN/Netflix'.",
     "difficulty": 3
   },
   {
     "id": 25,
-    "question_zh": "以下邊套係其他韓劇？",
+    "question_zh": "以下邊套係《其他韓劇》？",
     "question_en": "Which one is 'Other Korean Dramas'?",
     "options_zh": [
-      "其他劇集A",
+      "其他劇集C",
       "其他劇集B",
-      "其他韓劇",
-      "其他劇集C"
+      "其他劇集A",
+      "其他韓劇"
     ],
     "options_en": [
-      "Other Show A",
+      "Other Show C",
       "Other Show B",
-      "Other Korean Dramas",
-      "Other Show C"
+      "Other Show A",
+      "Other Korean Dramas"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「其他韓劇」。",
     "explanation_en": "The correct answer is 'Other Korean Dramas'.",
     "difficulty": 1
   },
   {
     "id": 26,
-    "question_zh": "以下邊套係韓劇？",
-    "question_en": "Which one is a Korean Drama?",
+    "question_zh": "以下邊套係其他韓劇？",
+    "question_en": "Which one is Other Korean Dramas?",
     "options_zh": [
-      "其他劇集C",
-      "其他劇集B",
-      "其他韓劇",
-      "其他劇集A"
+      "其他A",
+      "其他B",
+      "其他C",
+      "其他韓劇"
     ],
     "options_en": [
-      "Other Show C",
-      "Other Show B",
-      "Other Korean Dramas",
-      "Other Show A"
+      "Other A",
+      "Other B",
+      "Other C",
+      "Other Korean Dramas"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「其他韓劇」。",
     "explanation_en": "The correct answer is 'Other Korean Dramas'.",
     "difficulty": 2
   },
   {
     "id": 27,
-    "question_zh": "《其他韓劇》係咩類型嘅節目？",
+    "question_zh": "《其他韓劇》係咩類型？",
     "question_en": "What genre is 'Other Korean Dramas'?",
     "options_zh": [
-      "綜合",
+      "紀錄片",
       "喜劇",
       "新聞",
-      "紀錄片"
+      "綜合"
     ],
     "options_en": [
-      "綜合",
+      "Documentary",
       "Comedy",
       "News",
-      "Documentary"
+      "綜合"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「綜合」。",
     "explanation_en": "The correct answer is '綜合'.",
     "difficulty": 3
   },
   {
     "id": 28,
-    "question_zh": "《其他韓劇》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'Other Korean Dramas'?",
+    "question_zh": "《其他韓劇》係咩地區出品？",
+    "question_en": "Where is 'Other Korean Dramas' from?",
     "options_zh": [
-      "ViuTV",
-      "tvN/SBS",
-      "YouTube",
-      "Amazon"
+      "泰國",
+      "巴西",
+      "印度",
+      "韓國"
     ],
     "options_en": [
-      "ViuTV",
-      "tvN/SBS",
-      "YouTube",
-      "Amazon"
+      "Thailand",
+      "Brazil",
+      "India",
+      "South Korea"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「tvN/SBS」。",
-    "explanation_en": "The correct answer is 'tvN/SBS'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「韓國」。",
+    "explanation_en": "The correct answer is 'South Korea'.",
     "difficulty": 1
   },
   {
     "id": 29,
-    "question_zh": "《其他韓劇》嘅故事主要講咩？",
+    "question_zh": "《其他韓劇》主要講咩？",
     "question_en": "What is 'Other Korean Dramas' mainly about?",
     "options_zh": [
-      "精彩劇情",
       "天氣報告",
       "體育賽事",
+      "精彩劇情",
       "財經新聞"
     ],
     "options_en": [
-      "Exciting plot",
       "Weather",
       "Sports",
-      "Financial news"
+      "Exciting plot",
+      "Finance"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「精彩劇情」。",
     "explanation_en": "The correct answer is 'Exciting plot'.",
     "difficulty": 2
   },
   {
     "id": 30,
-    "question_zh": "《其他韓劇》係咩地區出品嘅？",
-    "question_en": "Where is 'Other Korean Dramas' from?",
+    "question_zh": "《其他韓劇》係邊個平台播出？",
+    "question_en": "Which platform aired 'Other Korean Dramas'?",
     "options_zh": [
-      "巴西",
-      "印度",
-      "泰國",
-      "韓國"
+      "Amazon",
+      "tvN/Netflix",
+      "ViuTV",
+      "YouTube"
     ],
     "options_en": [
-      "Brazil",
-      "India",
-      "Thailand",
-      "South Korea"
+      "Amazon",
+      "tvN/Netflix",
+      "ViuTV",
+      "YouTube"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「韓國」。",
-    "explanation_en": "The correct answer is 'South Korea'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「tvN/Netflix」。",
+    "explanation_en": "The correct answer is 'tvN/Netflix'.",
     "difficulty": 3
   }
 ]

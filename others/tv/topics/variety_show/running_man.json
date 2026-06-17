@@ -1,21 +1,21 @@
 [
   {
     "id": 1,
-    "question_zh": "以下邊套係Running Man？",
+    "question_zh": "以下邊套係《Running Man》？",
     "question_en": "Which one is 'Running Man'?",
     "options_zh": [
-      "其他劇集C",
       "Running Man",
+      "其他劇集B",
       "其他劇集A",
-      "其他劇集B"
+      "其他劇集C"
     ],
     "options_en": [
-      "Other Show C",
       "Running Man",
+      "Other Show B",
       "Other Show A",
-      "Other Show B"
+      "Other Show C"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「Running Man」。",
     "explanation_en": "The correct answer is 'Running Man'.",
     "difficulty": 1
@@ -25,36 +25,36 @@
     "question_zh": "《Running Man》係邊年首播嘅？",
     "question_en": "What year did 'Running Man' first air?",
     "options_zh": [
-      "2012年",
-      "2008年",
       "2010年",
-      "2015年"
+      "2015年",
+      "2008年",
+      "2012年"
     ],
     "options_en": [
-      "2012",
-      "2008",
       "2010",
-      "2015"
+      "2015",
+      "2008",
+      "2012"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「2010年」。",
     "explanation_en": "The correct answer is '2010'.",
     "difficulty": 2
   },
   {
     "id": 3,
-    "question_zh": "《Running Man》係咩類型嘅節目？",
+    "question_zh": "《Running Man》係咩類型？",
     "question_en": "What genre is 'Running Man'?",
     "options_zh": [
-      "新聞",
-      "綜藝",
       "喜劇",
+      "綜藝",
+      "新聞",
       "紀錄片"
     ],
     "options_en": [
-      "News",
-      "綜藝",
       "Comedy",
+      "綜藝",
+      "News",
       "Documentary"
     ],
     "answer": 1,
@@ -64,8 +64,50 @@
   },
   {
     "id": 4,
-    "question_zh": "《Running Man》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'Running Man'?",
+    "question_zh": "《Running Man》係咩地區出品？",
+    "question_en": "Where is 'Running Man' from?",
+    "options_zh": [
+      "泰國",
+      "印度",
+      "巴西",
+      "亞洲"
+    ],
+    "options_en": [
+      "Thailand",
+      "India",
+      "Brazil",
+      "Asia"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「亞洲」。",
+    "explanation_en": "The correct answer is 'Asia'.",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question_zh": "《Running Man》主要講咩？",
+    "question_en": "What is 'Running Man' mainly about?",
+    "options_zh": [
+      "體育賽事",
+      "精彩劇情",
+      "天氣報告",
+      "財經新聞"
+    ],
+    "options_en": [
+      "Sports",
+      "Exciting plot",
+      "Weather",
+      "Finance"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「精彩劇情」。",
+    "explanation_en": "The correct answer is 'Exciting plot'.",
+    "difficulty": 2
+  },
+  {
+    "id": 6,
+    "question_zh": "《Running Man》係邊個平台播出？",
+    "question_en": "Which platform aired 'Running Man'?",
     "options_zh": [
       "YouTube",
       "ViuTV",
@@ -76,68 +118,26 @@
       "YouTube",
       "ViuTV",
       "Amazon",
-      "Various platforms"
+      "Various"
     ],
     "answer": 3,
     "explanation_zh": "正確答案係「各大平台」。",
-    "explanation_en": "The correct answer is 'Various platforms'.",
-    "difficulty": 1
-  },
-  {
-    "id": 5,
-    "question_zh": "《Running Man》嘅故事主要講咩？",
-    "question_en": "What is 'Running Man' mainly about?",
-    "options_zh": [
-      "財經新聞",
-      "天氣報告",
-      "體育賽事",
-      "精彩劇情"
-    ],
-    "options_en": [
-      "Financial news",
-      "Weather",
-      "Sports",
-      "Exciting plot"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「精彩劇情」。",
-    "explanation_en": "The correct answer is 'Exciting plot'.",
-    "difficulty": 2
-  },
-  {
-    "id": 6,
-    "question_zh": "《Running Man》係咩地區出品嘅？",
-    "question_en": "Where is 'Running Man' from?",
-    "options_zh": [
-      "泰國",
-      "巴西",
-      "印度",
-      "亞洲"
-    ],
-    "options_en": [
-      "Thailand",
-      "Brazil",
-      "India",
-      "Asia"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「亞洲」。",
-    "explanation_en": "The correct answer is 'Asia'.",
+    "explanation_en": "The correct answer is 'Various'.",
     "difficulty": 3
   },
   {
     "id": 7,
-    "question_zh": "以下邊套係Running Man？",
+    "question_zh": "以下邊套係《Running Man》？",
     "question_en": "Which one is 'Running Man'?",
     "options_zh": [
-      "其他劇集B",
       "其他劇集A",
+      "其他劇集B",
       "Running Man",
       "其他劇集C"
     ],
     "options_en": [
-      "Other Show B",
       "Other Show A",
+      "Other Show B",
       "Running Man",
       "Other Show C"
     ],
@@ -151,37 +151,37 @@
     "question_zh": "《Running Man》係邊年首播嘅？",
     "question_en": "What year did 'Running Man' first air?",
     "options_zh": [
-      "2015年",
-      "2012年",
+      "2008年",
       "2010年",
-      "2008年"
+      "2015年",
+      "2012年"
     ],
     "options_en": [
-      "2015",
-      "2012",
+      "2008",
       "2010",
-      "2008"
+      "2015",
+      "2012"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「2010年」。",
     "explanation_en": "The correct answer is '2010'.",
     "difficulty": 2
   },
   {
     "id": 9,
-    "question_zh": "《Running Man》係咩類型嘅節目？",
+    "question_zh": "《Running Man》係咩類型？",
     "question_en": "What genre is 'Running Man'?",
     "options_zh": [
       "喜劇",
-      "紀錄片",
+      "新聞",
       "綜藝",
-      "新聞"
+      "紀錄片"
     ],
     "options_en": [
       "Comedy",
-      "Documentary",
+      "News",
       "綜藝",
-      "News"
+      "Documentary"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「綜藝」。",
@@ -190,175 +190,7 @@
   },
   {
     "id": 10,
-    "question_zh": "《Running Man》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'Running Man'?",
-    "options_zh": [
-      "各大平台",
-      "Amazon",
-      "ViuTV",
-      "YouTube"
-    ],
-    "options_en": [
-      "Various platforms",
-      "Amazon",
-      "ViuTV",
-      "YouTube"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「各大平台」。",
-    "explanation_en": "The correct answer is 'Various platforms'.",
-    "difficulty": 1
-  },
-  {
-    "id": 11,
-    "question_zh": "《Running Man》嘅故事主要講咩？",
-    "question_en": "What is 'Running Man' mainly about?",
-    "options_zh": [
-      "精彩劇情",
-      "體育賽事",
-      "財經新聞",
-      "天氣報告"
-    ],
-    "options_en": [
-      "Exciting plot",
-      "Sports",
-      "Financial news",
-      "Weather"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「精彩劇情」。",
-    "explanation_en": "The correct answer is 'Exciting plot'.",
-    "difficulty": 2
-  },
-  {
-    "id": 12,
-    "question_zh": "《Running Man》係咩地區出品嘅？",
-    "question_en": "Where is 'Running Man' from?",
-    "options_zh": [
-      "泰國",
-      "亞洲",
-      "印度",
-      "巴西"
-    ],
-    "options_en": [
-      "Thailand",
-      "Asia",
-      "India",
-      "Brazil"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「亞洲」。",
-    "explanation_en": "The correct answer is 'Asia'.",
-    "difficulty": 3
-  },
-  {
-    "id": 13,
-    "question_zh": "以下邊套係Running Man？",
-    "question_en": "Which one is 'Running Man'?",
-    "options_zh": [
-      "Running Man",
-      "其他劇集C",
-      "其他劇集A",
-      "其他劇集B"
-    ],
-    "options_en": [
-      "Running Man",
-      "Other Show C",
-      "Other Show A",
-      "Other Show B"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「Running Man」。",
-    "explanation_en": "The correct answer is 'Running Man'.",
-    "difficulty": 1
-  },
-  {
-    "id": 14,
-    "question_zh": "《Running Man》係邊年首播嘅？",
-    "question_en": "What year did 'Running Man' first air?",
-    "options_zh": [
-      "2008年",
-      "2012年",
-      "2015年",
-      "2010年"
-    ],
-    "options_en": [
-      "2008",
-      "2012",
-      "2015",
-      "2010"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2010年」。",
-    "explanation_en": "The correct answer is '2010'.",
-    "difficulty": 2
-  },
-  {
-    "id": 15,
-    "question_zh": "《Running Man》係咩類型嘅節目？",
-    "question_en": "What genre is 'Running Man'?",
-    "options_zh": [
-      "喜劇",
-      "綜藝",
-      "紀錄片",
-      "新聞"
-    ],
-    "options_en": [
-      "Comedy",
-      "綜藝",
-      "Documentary",
-      "News"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「綜藝」。",
-    "explanation_en": "The correct answer is '綜藝'.",
-    "difficulty": 3
-  },
-  {
-    "id": 16,
-    "question_zh": "《Running Man》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'Running Man'?",
-    "options_zh": [
-      "YouTube",
-      "ViuTV",
-      "Amazon",
-      "各大平台"
-    ],
-    "options_en": [
-      "YouTube",
-      "ViuTV",
-      "Amazon",
-      "Various platforms"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「各大平台」。",
-    "explanation_en": "The correct answer is 'Various platforms'.",
-    "difficulty": 1
-  },
-  {
-    "id": 17,
-    "question_zh": "《Running Man》嘅故事主要講咩？",
-    "question_en": "What is 'Running Man' mainly about?",
-    "options_zh": [
-      "財經新聞",
-      "天氣報告",
-      "精彩劇情",
-      "體育賽事"
-    ],
-    "options_en": [
-      "Financial news",
-      "Weather",
-      "Exciting plot",
-      "Sports"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「精彩劇情」。",
-    "explanation_en": "The correct answer is 'Exciting plot'.",
-    "difficulty": 2
-  },
-  {
-    "id": 18,
-    "question_zh": "《Running Man》係咩地區出品嘅？",
+    "question_zh": "《Running Man》係咩地區出品？",
     "question_en": "Where is 'Running Man' from?",
     "options_zh": [
       "印度",
@@ -375,25 +207,193 @@
     "answer": 3,
     "explanation_zh": "正確答案係「亞洲」。",
     "explanation_en": "The correct answer is 'Asia'.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "《Running Man》主要講咩？",
+    "question_en": "What is 'Running Man' mainly about?",
+    "options_zh": [
+      "體育賽事",
+      "天氣報告",
+      "精彩劇情",
+      "財經新聞"
+    ],
+    "options_en": [
+      "Sports",
+      "Weather",
+      "Exciting plot",
+      "Finance"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「精彩劇情」。",
+    "explanation_en": "The correct answer is 'Exciting plot'.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《Running Man》係邊個平台播出？",
+    "question_en": "Which platform aired 'Running Man'?",
+    "options_zh": [
+      "YouTube",
+      "ViuTV",
+      "各大平台",
+      "Amazon"
+    ],
+    "options_en": [
+      "YouTube",
+      "ViuTV",
+      "Various",
+      "Amazon"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「各大平台」。",
+    "explanation_en": "The correct answer is 'Various'.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "以下邊套係《Running Man》？",
+    "question_en": "Which one is 'Running Man'?",
+    "options_zh": [
+      "Running Man",
+      "其他劇集A",
+      "其他劇集B",
+      "其他劇集C"
+    ],
+    "options_en": [
+      "Running Man",
+      "Other Show A",
+      "Other Show B",
+      "Other Show C"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「Running Man」。",
+    "explanation_en": "The correct answer is 'Running Man'.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《Running Man》係邊年首播嘅？",
+    "question_en": "What year did 'Running Man' first air?",
+    "options_zh": [
+      "2008年",
+      "2015年",
+      "2012年",
+      "2010年"
+    ],
+    "options_en": [
+      "2008",
+      "2015",
+      "2012",
+      "2010"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「2010年」。",
+    "explanation_en": "The correct answer is '2010'.",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_zh": "《Running Man》係咩類型？",
+    "question_en": "What genre is 'Running Man'?",
+    "options_zh": [
+      "新聞",
+      "喜劇",
+      "紀錄片",
+      "綜藝"
+    ],
+    "options_en": [
+      "News",
+      "Comedy",
+      "Documentary",
+      "綜藝"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「綜藝」。",
+    "explanation_en": "The correct answer is '綜藝'.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "《Running Man》係咩地區出品？",
+    "question_en": "Where is 'Running Man' from?",
+    "options_zh": [
+      "印度",
+      "巴西",
+      "亞洲",
+      "泰國"
+    ],
+    "options_en": [
+      "India",
+      "Brazil",
+      "Asia",
+      "Thailand"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「亞洲」。",
+    "explanation_en": "The correct answer is 'Asia'.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《Running Man》主要講咩？",
+    "question_en": "What is 'Running Man' mainly about?",
+    "options_zh": [
+      "天氣報告",
+      "體育賽事",
+      "精彩劇情",
+      "財經新聞"
+    ],
+    "options_en": [
+      "Weather",
+      "Sports",
+      "Exciting plot",
+      "Finance"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「精彩劇情」。",
+    "explanation_en": "The correct answer is 'Exciting plot'.",
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question_zh": "《Running Man》係邊個平台播出？",
+    "question_en": "Which platform aired 'Running Man'?",
+    "options_zh": [
+      "各大平台",
+      "YouTube",
+      "ViuTV",
+      "Amazon"
+    ],
+    "options_en": [
+      "Various",
+      "YouTube",
+      "ViuTV",
+      "Amazon"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「各大平台」。",
+    "explanation_en": "The correct answer is 'Various'.",
     "difficulty": 3
   },
   {
     "id": 19,
-    "question_zh": "以下邊套係Running Man？",
+    "question_zh": "以下邊套係《Running Man》？",
     "question_en": "Which one is 'Running Man'?",
     "options_zh": [
-      "其他劇集A",
       "Running Man",
       "其他劇集C",
-      "其他劇集B"
+      "其他劇集B",
+      "其他劇集A"
     ],
     "options_en": [
-      "Other Show A",
       "Running Man",
       "Other Show C",
-      "Other Show B"
+      "Other Show B",
+      "Other Show A"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「Running Man」。",
     "explanation_en": "The correct answer is 'Running Man'.",
     "difficulty": 1
@@ -403,37 +403,37 @@
     "question_zh": "《Running Man》係邊年首播嘅？",
     "question_en": "What year did 'Running Man' first air?",
     "options_zh": [
-      "2010年",
-      "2015年",
       "2012年",
-      "2008年"
+      "2015年",
+      "2008年",
+      "2010年"
     ],
     "options_en": [
-      "2010",
-      "2015",
       "2012",
-      "2008"
+      "2015",
+      "2008",
+      "2010"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「2010年」。",
     "explanation_en": "The correct answer is '2010'.",
     "difficulty": 2
   },
   {
     "id": 21,
-    "question_zh": "《Running Man》係咩類型嘅節目？",
+    "question_zh": "《Running Man》係咩類型？",
     "question_en": "What genre is 'Running Man'?",
     "options_zh": [
-      "新聞",
-      "綜藝",
       "喜劇",
-      "紀錄片"
+      "綜藝",
+      "紀錄片",
+      "新聞"
     ],
     "options_en": [
-      "News",
-      "綜藝",
       "Comedy",
-      "Documentary"
+      "綜藝",
+      "Documentary",
+      "News"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「綜藝」。",
@@ -442,84 +442,84 @@
   },
   {
     "id": 22,
-    "question_zh": "《Running Man》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'Running Man'?",
+    "question_zh": "《Running Man》係咩地區出品？",
+    "question_en": "Where is 'Running Man' from?",
     "options_zh": [
-      "ViuTV",
-      "YouTube",
-      "Amazon",
-      "各大平台"
+      "泰國",
+      "亞洲",
+      "印度",
+      "巴西"
     ],
     "options_en": [
-      "ViuTV",
-      "YouTube",
-      "Amazon",
-      "Various platforms"
+      "Thailand",
+      "Asia",
+      "India",
+      "Brazil"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「各大平台」。",
-    "explanation_en": "The correct answer is 'Various platforms'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「亞洲」。",
+    "explanation_en": "The correct answer is 'Asia'.",
     "difficulty": 1
   },
   {
     "id": 23,
-    "question_zh": "《Running Man》嘅故事主要講咩？",
+    "question_zh": "《Running Man》主要講咩？",
     "question_en": "What is 'Running Man' mainly about?",
     "options_zh": [
-      "精彩劇情",
       "體育賽事",
+      "財經新聞",
       "天氣報告",
-      "財經新聞"
+      "精彩劇情"
     ],
     "options_en": [
-      "Exciting plot",
       "Sports",
+      "Finance",
       "Weather",
-      "Financial news"
+      "Exciting plot"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「精彩劇情」。",
     "explanation_en": "The correct answer is 'Exciting plot'.",
     "difficulty": 2
   },
   {
     "id": 24,
-    "question_zh": "《Running Man》係咩地區出品嘅？",
-    "question_en": "Where is 'Running Man' from?",
+    "question_zh": "《Running Man》係邊個平台播出？",
+    "question_en": "Which platform aired 'Running Man'?",
     "options_zh": [
-      "亞洲",
-      "巴西",
-      "泰國",
-      "印度"
+      "各大平台",
+      "ViuTV",
+      "Amazon",
+      "YouTube"
     ],
     "options_en": [
-      "Asia",
-      "Brazil",
-      "Thailand",
-      "India"
+      "Various",
+      "ViuTV",
+      "Amazon",
+      "YouTube"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「亞洲」。",
-    "explanation_en": "The correct answer is 'Asia'.",
+    "explanation_zh": "正確答案係「各大平台」。",
+    "explanation_en": "The correct answer is 'Various'.",
     "difficulty": 3
   },
   {
     "id": 25,
-    "question_zh": "以下邊套係Running Man？",
+    "question_zh": "以下邊套係《Running Man》？",
     "question_en": "Which one is 'Running Man'?",
     "options_zh": [
-      "其他劇集A",
-      "Running Man",
+      "其他劇集B",
       "其他劇集C",
-      "其他劇集B"
+      "Running Man",
+      "其他劇集A"
     ],
     "options_en": [
-      "Other Show A",
-      "Running Man",
+      "Other Show B",
       "Other Show C",
-      "Other Show B"
+      "Running Man",
+      "Other Show A"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「Running Man」。",
     "explanation_en": "The correct answer is 'Running Man'.",
     "difficulty": 1
@@ -529,104 +529,104 @@
     "question_zh": "《Running Man》係邊年首播嘅？",
     "question_en": "What year did 'Running Man' first air?",
     "options_zh": [
-      "2015年",
-      "2010年",
+      "2012年",
       "2008年",
-      "2012年"
+      "2015年",
+      "2010年"
     ],
     "options_en": [
-      "2015",
-      "2010",
+      "2012",
       "2008",
-      "2012"
+      "2015",
+      "2010"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「2010年」。",
     "explanation_en": "The correct answer is '2010'.",
     "difficulty": 2
   },
   {
     "id": 27,
-    "question_zh": "《Running Man》係咩類型嘅節目？",
+    "question_zh": "《Running Man》係咩類型？",
     "question_en": "What genre is 'Running Man'?",
     "options_zh": [
-      "新聞",
-      "綜藝",
+      "紀錄片",
       "喜劇",
-      "紀錄片"
+      "新聞",
+      "綜藝"
     ],
     "options_en": [
-      "News",
-      "綜藝",
+      "Documentary",
       "Comedy",
-      "Documentary"
+      "News",
+      "綜藝"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「綜藝」。",
     "explanation_en": "The correct answer is '綜藝'.",
     "difficulty": 3
   },
   {
     "id": 28,
-    "question_zh": "《Running Man》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'Running Man'?",
+    "question_zh": "《Running Man》係咩地區出品？",
+    "question_en": "Where is 'Running Man' from?",
     "options_zh": [
-      "Amazon",
-      "ViuTV",
-      "YouTube",
-      "各大平台"
+      "亞洲",
+      "泰國",
+      "巴西",
+      "印度"
     ],
     "options_en": [
-      "Amazon",
-      "ViuTV",
-      "YouTube",
-      "Various platforms"
+      "Asia",
+      "Thailand",
+      "Brazil",
+      "India"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「各大平台」。",
-    "explanation_en": "The correct answer is 'Various platforms'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「亞洲」。",
+    "explanation_en": "The correct answer is 'Asia'.",
     "difficulty": 1
   },
   {
     "id": 29,
-    "question_zh": "《Running Man》嘅故事主要講咩？",
+    "question_zh": "《Running Man》主要講咩？",
     "question_en": "What is 'Running Man' mainly about?",
     "options_zh": [
-      "精彩劇情",
-      "財經新聞",
       "體育賽事",
-      "天氣報告"
+      "精彩劇情",
+      "天氣報告",
+      "財經新聞"
     ],
     "options_en": [
-      "Exciting plot",
-      "Financial news",
       "Sports",
-      "Weather"
+      "Exciting plot",
+      "Weather",
+      "Finance"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「精彩劇情」。",
     "explanation_en": "The correct answer is 'Exciting plot'.",
     "difficulty": 2
   },
   {
     "id": 30,
-    "question_zh": "《Running Man》係咩地區出品嘅？",
-    "question_en": "Where is 'Running Man' from?",
+    "question_zh": "《Running Man》係邊個平台播出？",
+    "question_en": "Which platform aired 'Running Man'?",
     "options_zh": [
-      "印度",
-      "泰國",
-      "亞洲",
-      "巴西"
+      "ViuTV",
+      "YouTube",
+      "Amazon",
+      "各大平台"
     ],
     "options_en": [
-      "India",
-      "Thailand",
-      "Asia",
-      "Brazil"
+      "ViuTV",
+      "YouTube",
+      "Amazon",
+      "Various"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「亞洲」。",
-    "explanation_en": "The correct answer is 'Asia'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「各大平台」。",
+    "explanation_en": "The correct answer is 'Various'.",
     "difficulty": 3
   }
 ]

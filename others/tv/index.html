@@ -48,14 +48,10 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK
 .bb{padding:8px 16px;border:1px solid #ddd;border-radius:8px;background:#fff;cursor:pointer;font-size:14px;text-decoration:none;color:#333;display:inline-block;margin-bottom:12px}
 .bb:hover{background:#f5f5f5}
 .ft{margin-top:30px;color:#888;font-size:.75rem;text-align:center}
-/* Subcategory tabs */
 .tabs{display:flex;gap:8px;margin-bottom:20px;flex-wrap:wrap;justify-content:center}
 .tab{padding:8px 16px;border:2px solid #e74c3c;border-radius:20px;background:#fff;cursor:pointer;font-size:14px;transition:.2s;color:#e74c3c;font-weight:500}
 .tab.a{background:#e74c3c;color:#fff}
 .tab:hover{opacity:.8}
-.region-header{text-align:center;margin:20px 0 16px}
-.region-header h2{font-size:20px;color:#e74c3c;margin-bottom:4px}
-.region-header p{font-size:13px;color:#888}
 </style>
 </head>
 <body>
@@ -78,8 +74,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK
 <div class="st"><div class="sn" id="accuracy">0%</div><div class="sl" data-zh="正確率" data-en="Accuracy">正確率</div></div>
 </div>
 
-<!-- Subcategory Tabs -->
-<div class="tabs" id="tabsDiv">
+<!-- Region Tabs -->
+<div class="tabs" id="regionTabs">
 <button class="tab a" onclick="filterRegion('all')" data-zh="全部" data-en="All">全部</button>
 <button class="tab" onclick="filterRegion('hk')" data-zh="港劇" data-en="HK Drama">港劇</button>
 <button class="tab" onclick="filterRegion('korean')" data-zh="韓劇" data-en="Korean">韓劇</button>
@@ -93,9 +89,14 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK
 <div class="g" id="seriesGrid"></div>
 </div>
 
-<!-- Shows View -->
+<!-- Shows View (with sub-tabs) -->
 <div id="showsView" class="h">
 <a class="bb" href="#" onclick="backToSeries();return false" data-zh="← 返回地區" data-en="← Back to Region">← 返回地區</a>
+<div class="tabs" id="showTabs">
+<button class="tab a" onclick="filterShows('all')" data-zh="全部" data-en="All">全部</button>
+<button class="tab" onclick="filterShows('hot')" data-zh="🔥 熱門" data-en="🔥 Hot">🔥 熱門</button>
+<button class="tab" onclick="filterShows('other')" data-zh="其他" data-en="Others">其他</button>
+</div>
 <div class="g" id="showsGrid"></div>
 </div>
 
@@ -129,7 +130,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'PingFang HK
 </div>
 
 <script>
-let lang='zh',seriesData={},currentSeries='',currentFilm='',questions=[],curQ=0,correct=0,answered=0,currentFilter='all';
+let lang='zh',seriesData={},currentSeries='',currentFilm='',questions=[],curQ=0,correct=0,answered=0,currentRegion='all',currentShowFilter='all';
 
 const SERIES={
 hk_drama:{zh:'📺 港劇（武俠）',en:'📺 HK Drama (Martial Arts)',color:'#e74c3c',region:'hk'},
@@ -162,34 +163,48 @@ updateTotalQ();
 }
 
 function filterRegion(region){
-currentFilter=region;
-document.querySelectorAll('.tab').forEach(t=>t.classList.remove('a'));
-document.querySelector(`.tab[onclick*="${region}"]`).classList.add('a');
-document.querySelectorAll('.tc').forEach(card=>{
-if(region==='all'||card.dataset.region===region){
-card.style.display='';
-}else{
-card.style.display='none';
-}
+currentRegion=region;
+document.querySelectorAll('#regionTabs .tab').forEach(t=>t.classList.remove('a'));
+document.querySelector(`#regionTabs .tab[onclick*="${region}"]`).classList.add('a');
+document.querySelectorAll('#seriesGrid .tc').forEach(card=>{
+card.style.display=(region==='all'||card.dataset.region===region)?'':'none';
 });
 }
 
 function showShows(sid){
 currentSeries=sid;
-const shows=seriesData[sid];
-const grid=document.getElementById('showsGrid');
-grid.innerHTML='';
-shows.forEach(s=>{
-const card=document.createElement('div');
-card.className='tc';
-card.innerHTML=`<div class="e">${s.emoji||'📺'}</div><div class="n" data-zh="${s.name_zh}" data-en="${s.name_en}">${s.name_zh}</div><div class="ct">${s.name_en}</div>`;
-card.onclick=()=>startQuiz(sid,s.file);
-grid.appendChild(card);
-});
+currentShowFilter='all';
+document.querySelectorAll('#showTabs .tab').forEach(t=>t.classList.remove('a'));
+document.querySelector('#showTabs .tab[onclick*="all"]').classList.add('a');
+renderShows(sid,'all');
 document.getElementById('seriesView').classList.add('h');
 document.getElementById('showsView').classList.remove('h');
 document.getElementById('quizView').classList.add('h');
 document.getElementById('resultView').classList.add('h');
+}
+
+function renderShows(sid,filter){
+const shows=seriesData[sid];
+const grid=document.getElementById('showsGrid');
+grid.innerHTML='';
+shows.forEach(s=>{
+const isHot=s.hot===true;
+const isOther=s.id==='other';
+if(filter==='hot'&&!isHot)return;
+if(filter==='other'&&!isOther)return;
+const card=document.createElement('div');
+card.className='tc';
+card.innerHTML=`<div class="e">${isHot?'🔥':s.emoji||'📺'}</div><div class="n" data-zh="${s.name_zh}" data-en="${s.name_en}">${s.name_zh}</div><div class="ct">${s.name_en}</div>`;
+card.onclick=()=>startQuiz(sid,s.file);
+grid.appendChild(card);
+});
+}
+
+function filterShows(filter){
+currentShowFilter=filter;
+document.querySelectorAll('#showTabs .tab').forEach(t=>t.classList.remove('a'));
+document.querySelector(`#showTabs .tab[onclick*="${filter}"]`).classList.add('a');
+renderShows(currentSeries,filter);
 }
 
 async function startQuiz(sid,file){
@@ -261,9 +276,9 @@ document.getElementById('quizView').classList.add('h');
 document.getElementById('resultView').classList.remove('h');
 const pct=Math.round(correct/answered*100)||0;
 document.getElementById('resultTitle').textContent=`${correct}/${answered} (${pct}%)`;
-const msgs=lang==='zh'?['繼續努力！🖒 hợ🖒 hợ◜','唔錯！🖒 hợ◜','好犀利！🖒 hợ◜','完美！🖒 hợ◜']:'Keep trying!,Not bad!,Excellent!,Perfect!'.split(',');
+const msgs=lang==='zh'?['繼續努力！🖒 hợ◜','唔錯！🖒 hợ◜','好犀利！🖒 hợ◜','完美！🖒 hợ◜']:'Keep trying!,Not bad!,Excellent!,Perfect!';
 const mi=pct<50?0:pct<70?1:pct<90?2:3;
-document.getElementById('resultText').textContent=Array.isArray(msgs)?msgs[mi]:msgs.split(',')[mi];
+document.getElementById('resultText').textContent=Array.isArray(msgs)?msgs[mi]:msgs[mi];
 }
 
 function backToSeries(){
@@ -299,7 +314,6 @@ if(!document.getElementById('quizView').classList.contains('h'))showQ();
 }
 init();
 </script>
-<!-- 上一頁 button -->
 <div style="text-align:center;padding:20px 16px 40px">
   <button onclick="window.history.back()" style="padding:12px 32px;border:2px solid #e0e0e0;border-radius:10px;background:#fff;cursor:pointer;font-size:15px;color:#555">← 上一頁</button>
 </div>

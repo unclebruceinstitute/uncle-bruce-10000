@@ -1,133 +1,7 @@
 [
   {
     "id": 1,
-    "question_zh": "以下邊套係流星花園？",
-    "question_en": "Which one is 'Meteor Garden'?",
-    "options_zh": [
-      "其他劇集A",
-      "流星花園",
-      "其他劇集C",
-      "其他劇集B"
-    ],
-    "options_en": [
-      "Other Show A",
-      "Meteor Garden",
-      "Other Show C",
-      "Other Show B"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「流星花園」。",
-    "explanation_en": "The correct answer is 'Meteor Garden'.",
-    "difficulty": 1
-  },
-  {
-    "id": 2,
-    "question_zh": "《流星花園》係邊年首播嘅？",
-    "question_en": "What year did 'Meteor Garden' first air?",
-    "options_zh": [
-      "2023年",
-      "2018年",
-      "2020年",
-      "2016年"
-    ],
-    "options_en": [
-      "2023",
-      "2018",
-      "2020",
-      "2016"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2018年」。",
-    "explanation_en": "The correct answer is '2018'.",
-    "difficulty": 2
-  },
-  {
-    "id": 3,
-    "question_zh": "《流星花園》係咩類型嘅節目？",
-    "question_en": "What genre is 'Meteor Garden'?",
-    "options_zh": [
-      "愛情",
-      "喜劇",
-      "新聞",
-      "紀錄片"
-    ],
-    "options_en": [
-      "愛情",
-      "Comedy",
-      "News",
-      "Documentary"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「愛情」。",
-    "explanation_en": "The correct answer is '愛情'.",
-    "difficulty": 3
-  },
-  {
-    "id": 4,
-    "question_zh": "《流星花園》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'Meteor Garden'?",
-    "options_zh": [
-      "Amazon",
-      "ViuTV",
-      "YouTube",
-      "愛奇藝/騰訊"
-    ],
-    "options_en": [
-      "Amazon",
-      "ViuTV",
-      "YouTube",
-      "iQiyi/Tencent"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「愛奇藝/騰訊」。",
-    "explanation_en": "The correct answer is 'iQiyi/Tencent'.",
-    "difficulty": 1
-  },
-  {
-    "id": 5,
-    "question_zh": "《流星花園》嘅故事主要講咩？",
-    "question_en": "What is 'Meteor Garden' mainly about?",
-    "options_zh": [
-      "愛情故事",
-      "天氣報告",
-      "體育賽事",
-      "財經新聞"
-    ],
-    "options_en": [
-      "Love story",
-      "Weather",
-      "Sports",
-      "Financial news"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「愛情故事」。",
-    "explanation_en": "The correct answer is 'Love story'.",
-    "difficulty": 2
-  },
-  {
-    "id": 6,
-    "question_zh": "《流星花園》係咩地區出品嘅？",
-    "question_en": "Where is 'Meteor Garden' from?",
-    "options_zh": [
-      "巴西",
-      "泰國",
-      "印度",
-      "中國大陸"
-    ],
-    "options_en": [
-      "Brazil",
-      "Thailand",
-      "India",
-      "China"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「中國大陸」。",
-    "explanation_en": "The correct answer is 'China'.",
-    "difficulty": 3
-  },
-  {
-    "id": 7,
-    "question_zh": "以下邊套係流星花園？",
+    "question_zh": "以下邊套係《流星花園》？",
     "question_en": "Which one is 'Meteor Garden'?",
     "options_zh": [
       "其他劇集A",
@@ -147,7 +21,7 @@
     "difficulty": 1
   },
   {
-    "id": 8,
+    "id": 2,
     "question_zh": "《流星花園》係邊年首播嘅？",
     "question_en": "What year did 'Meteor Garden' first air?",
     "options_zh": [
@@ -159,6 +33,132 @@
     "options_en": [
       "2020",
       "2023",
+      "2018",
+      "2016"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2018年」。",
+    "explanation_en": "The correct answer is '2018'.",
+    "difficulty": 2
+  },
+  {
+    "id": 3,
+    "question_zh": "《流星花園》係咩類型？",
+    "question_en": "What genre is 'Meteor Garden'?",
+    "options_zh": [
+      "愛情",
+      "紀錄片",
+      "喜劇",
+      "新聞"
+    ],
+    "options_en": [
+      "愛情",
+      "Documentary",
+      "Comedy",
+      "News"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「愛情」。",
+    "explanation_en": "The correct answer is '愛情'.",
+    "difficulty": 3
+  },
+  {
+    "id": 4,
+    "question_zh": "《流星花園》係咩地區出品？",
+    "question_en": "Where is 'Meteor Garden' from?",
+    "options_zh": [
+      "泰國",
+      "巴西",
+      "印度",
+      "中國大陸"
+    ],
+    "options_en": [
+      "Thailand",
+      "Brazil",
+      "India",
+      "China"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「中國大陸」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question_zh": "《流星花園》主要講咩？",
+    "question_en": "What is 'Meteor Garden' mainly about?",
+    "options_zh": [
+      "愛情故事",
+      "財經新聞",
+      "體育賽事",
+      "天氣報告"
+    ],
+    "options_en": [
+      "Love story",
+      "Finance",
+      "Sports",
+      "Weather"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「愛情故事」。",
+    "explanation_en": "The correct answer is 'Love story'.",
+    "difficulty": 2
+  },
+  {
+    "id": 6,
+    "question_zh": "《流星花園》係邊個平台播出？",
+    "question_en": "Which platform aired 'Meteor Garden'?",
+    "options_zh": [
+      "Amazon",
+      "YouTube",
+      "愛奇藝/騰訊",
+      "ViuTV"
+    ],
+    "options_en": [
+      "Amazon",
+      "YouTube",
+      "iQiyi/Tencent",
+      "ViuTV"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「愛奇藝/騰訊」。",
+    "explanation_en": "The correct answer is 'iQiyi/Tencent'.",
+    "difficulty": 3
+  },
+  {
+    "id": 7,
+    "question_zh": "以下邊套係《流星花園》？",
+    "question_en": "Which one is 'Meteor Garden'?",
+    "options_zh": [
+      "流星花園",
+      "其他劇集A",
+      "其他劇集C",
+      "其他劇集B"
+    ],
+    "options_en": [
+      "Meteor Garden",
+      "Other Show A",
+      "Other Show C",
+      "Other Show B"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「流星花園」。",
+    "explanation_en": "The correct answer is 'Meteor Garden'.",
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question_zh": "《流星花園》係邊年首播嘅？",
+    "question_en": "What year did 'Meteor Garden' first air?",
+    "options_zh": [
+      "2023年",
+      "2020年",
+      "2018年",
+      "2016年"
+    ],
+    "options_en": [
+      "2023",
+      "2020",
       "2018",
       "2016"
     ],
@@ -169,105 +169,105 @@
   },
   {
     "id": 9,
-    "question_zh": "《流星花園》係咩類型嘅節目？",
+    "question_zh": "《流星花園》係咩類型？",
     "question_en": "What genre is 'Meteor Garden'?",
     "options_zh": [
       "喜劇",
-      "愛情",
+      "新聞",
       "紀錄片",
-      "新聞"
+      "愛情"
     ],
     "options_en": [
       "Comedy",
-      "愛情",
+      "News",
       "Documentary",
-      "News"
+      "愛情"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「愛情」。",
     "explanation_en": "The correct answer is '愛情'.",
     "difficulty": 3
   },
   {
     "id": 10,
-    "question_zh": "《流星花園》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'Meteor Garden'?",
+    "question_zh": "《流星花園》係咩地區出品？",
+    "question_en": "Where is 'Meteor Garden' from?",
     "options_zh": [
-      "Amazon",
-      "YouTube",
-      "愛奇藝/騰訊",
-      "ViuTV"
+      "印度",
+      "巴西",
+      "中國大陸",
+      "泰國"
     ],
     "options_en": [
-      "Amazon",
-      "YouTube",
-      "iQiyi/Tencent",
-      "ViuTV"
+      "India",
+      "Brazil",
+      "China",
+      "Thailand"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「愛奇藝/騰訊」。",
-    "explanation_en": "The correct answer is 'iQiyi/Tencent'.",
+    "explanation_zh": "正確答案係「中國大陸」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 11,
-    "question_zh": "《流星花園》嘅故事主要講咩？",
+    "question_zh": "《流星花園》主要講咩？",
     "question_en": "What is 'Meteor Garden' mainly about?",
     "options_zh": [
-      "財經新聞",
       "愛情故事",
+      "天氣報告",
       "體育賽事",
-      "天氣報告"
+      "財經新聞"
     ],
     "options_en": [
-      "Financial news",
       "Love story",
+      "Weather",
       "Sports",
-      "Weather"
+      "Finance"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「愛情故事」。",
     "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 2
   },
   {
     "id": 12,
-    "question_zh": "《流星花園》係咩地區出品嘅？",
-    "question_en": "Where is 'Meteor Garden' from?",
+    "question_zh": "《流星花園》係邊個平台播出？",
+    "question_en": "Which platform aired 'Meteor Garden'?",
     "options_zh": [
-      "巴西",
-      "中國大陸",
-      "印度",
-      "泰國"
+      "愛奇藝/騰訊",
+      "ViuTV",
+      "YouTube",
+      "Amazon"
     ],
     "options_en": [
-      "Brazil",
-      "China",
-      "India",
-      "Thailand"
+      "iQiyi/Tencent",
+      "ViuTV",
+      "YouTube",
+      "Amazon"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「中國大陸」。",
-    "explanation_en": "The correct answer is 'China'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「愛奇藝/騰訊」。",
+    "explanation_en": "The correct answer is 'iQiyi/Tencent'.",
     "difficulty": 3
   },
   {
     "id": 13,
-    "question_zh": "以下邊套係流星花園？",
+    "question_zh": "以下邊套係《流星花園》？",
     "question_en": "Which one is 'Meteor Garden'?",
     "options_zh": [
-      "其他劇集C",
       "其他劇集B",
-      "流星花園",
-      "其他劇集A"
+      "其他劇集A",
+      "其他劇集C",
+      "流星花園"
     ],
     "options_en": [
-      "Other Show C",
       "Other Show B",
-      "Meteor Garden",
-      "Other Show A"
+      "Other Show A",
+      "Other Show C",
+      "Meteor Garden"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「流星花園」。",
     "explanation_en": "The correct answer is 'Meteor Garden'.",
     "difficulty": 1
@@ -277,15 +277,15 @@
     "question_zh": "《流星花園》係邊年首播嘅？",
     "question_en": "What year did 'Meteor Garden' first air?",
     "options_zh": [
+      "2023年",
       "2020年",
       "2016年",
-      "2023年",
       "2018年"
     ],
     "options_en": [
+      "2023",
       "2020",
       "2016",
-      "2023",
       "2018"
     ],
     "answer": 3,
@@ -295,19 +295,19 @@
   },
   {
     "id": 15,
-    "question_zh": "《流星花園》係咩類型嘅節目？",
+    "question_zh": "《流星花園》係咩類型？",
     "question_en": "What genre is 'Meteor Garden'?",
     "options_zh": [
-      "紀錄片",
+      "喜劇",
       "新聞",
       "愛情",
-      "喜劇"
+      "紀錄片"
     ],
     "options_en": [
-      "Documentary",
+      "Comedy",
       "News",
       "愛情",
-      "Comedy"
+      "Documentary"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「愛情」。",
@@ -316,84 +316,84 @@
   },
   {
     "id": 16,
-    "question_zh": "《流星花園》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'Meteor Garden'?",
+    "question_zh": "《流星花園》係咩地區出品？",
+    "question_en": "Where is 'Meteor Garden' from?",
     "options_zh": [
-      "Amazon",
-      "ViuTV",
-      "YouTube",
-      "愛奇藝/騰訊"
+      "泰國",
+      "印度",
+      "巴西",
+      "中國大陸"
     ],
     "options_en": [
-      "Amazon",
-      "ViuTV",
-      "YouTube",
-      "iQiyi/Tencent"
+      "Thailand",
+      "India",
+      "Brazil",
+      "China"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「愛奇藝/騰訊」。",
-    "explanation_en": "The correct answer is 'iQiyi/Tencent'.",
+    "explanation_zh": "正確答案係「中國大陸」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 17,
-    "question_zh": "《流星花園》嘅故事主要講咩？",
+    "question_zh": "《流星花園》主要講咩？",
     "question_en": "What is 'Meteor Garden' mainly about?",
     "options_zh": [
-      "天氣報告",
-      "財經新聞",
       "體育賽事",
-      "愛情故事"
+      "愛情故事",
+      "天氣報告",
+      "財經新聞"
     ],
     "options_en": [
-      "Weather",
-      "Financial news",
       "Sports",
-      "Love story"
+      "Love story",
+      "Weather",
+      "Finance"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「愛情故事」。",
     "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 2
   },
   {
     "id": 18,
-    "question_zh": "《流星花園》係咩地區出品嘅？",
-    "question_en": "Where is 'Meteor Garden' from?",
+    "question_zh": "《流星花園》係邊個平台播出？",
+    "question_en": "Which platform aired 'Meteor Garden'?",
     "options_zh": [
-      "中國大陸",
-      "泰國",
-      "印度",
-      "巴西"
+      "YouTube",
+      "愛奇藝/騰訊",
+      "Amazon",
+      "ViuTV"
     ],
     "options_en": [
-      "China",
-      "Thailand",
-      "India",
-      "Brazil"
+      "YouTube",
+      "iQiyi/Tencent",
+      "Amazon",
+      "ViuTV"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「中國大陸」。",
-    "explanation_en": "The correct answer is 'China'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「愛奇藝/騰訊」。",
+    "explanation_en": "The correct answer is 'iQiyi/Tencent'.",
     "difficulty": 3
   },
   {
     "id": 19,
-    "question_zh": "以下邊套係流星花園？",
+    "question_zh": "以下邊套係《流星花園》？",
     "question_en": "Which one is 'Meteor Garden'?",
     "options_zh": [
       "其他劇集B",
+      "流星花園",
       "其他劇集C",
-      "其他劇集A",
-      "流星花園"
+      "其他劇集A"
     ],
     "options_en": [
       "Other Show B",
+      "Meteor Garden",
       "Other Show C",
-      "Other Show A",
-      "Meteor Garden"
+      "Other Show A"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「流星花園」。",
     "explanation_en": "The correct answer is 'Meteor Garden'.",
     "difficulty": 1
@@ -404,15 +404,15 @@
     "question_en": "What year did 'Meteor Garden' first air?",
     "options_zh": [
       "2018年",
-      "2020年",
+      "2023年",
       "2016年",
-      "2023年"
+      "2020年"
     ],
     "options_en": [
       "2018",
-      "2020",
+      "2023",
       "2016",
-      "2023"
+      "2020"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「2018年」。",
@@ -421,105 +421,105 @@
   },
   {
     "id": 21,
-    "question_zh": "《流星花園》係咩類型嘅節目？",
+    "question_zh": "《流星花園》係咩類型？",
     "question_en": "What genre is 'Meteor Garden'?",
     "options_zh": [
+      "新聞",
       "紀錄片",
       "愛情",
-      "喜劇",
-      "新聞"
+      "喜劇"
     ],
     "options_en": [
+      "News",
       "Documentary",
       "愛情",
-      "Comedy",
-      "News"
+      "Comedy"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「愛情」。",
     "explanation_en": "The correct answer is '愛情'.",
     "difficulty": 3
   },
   {
     "id": 22,
-    "question_zh": "《流星花園》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'Meteor Garden'?",
+    "question_zh": "《流星花園》係咩地區出品？",
+    "question_en": "Where is 'Meteor Garden' from?",
     "options_zh": [
-      "愛奇藝/騰訊",
-      "YouTube",
-      "Amazon",
-      "ViuTV"
+      "巴西",
+      "中國大陸",
+      "印度",
+      "泰國"
     ],
     "options_en": [
-      "iQiyi/Tencent",
-      "YouTube",
-      "Amazon",
-      "ViuTV"
+      "Brazil",
+      "China",
+      "India",
+      "Thailand"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「愛奇藝/騰訊」。",
-    "explanation_en": "The correct answer is 'iQiyi/Tencent'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國大陸」。",
+    "explanation_en": "The correct answer is 'China'.",
     "difficulty": 1
   },
   {
     "id": 23,
-    "question_zh": "《流星花園》嘅故事主要講咩？",
+    "question_zh": "《流星花園》主要講咩？",
     "question_en": "What is 'Meteor Garden' mainly about?",
     "options_zh": [
       "天氣報告",
       "財經新聞",
-      "愛情故事",
-      "體育賽事"
+      "體育賽事",
+      "愛情故事"
     ],
     "options_en": [
       "Weather",
-      "Financial news",
-      "Love story",
-      "Sports"
+      "Finance",
+      "Sports",
+      "Love story"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「愛情故事」。",
     "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 2
   },
   {
     "id": 24,
-    "question_zh": "《流星花園》係咩地區出品嘅？",
-    "question_en": "Where is 'Meteor Garden' from?",
+    "question_zh": "《流星花園》係邊個平台播出？",
+    "question_en": "Which platform aired 'Meteor Garden'?",
     "options_zh": [
-      "巴西",
-      "泰國",
-      "印度",
-      "中國大陸"
+      "YouTube",
+      "ViuTV",
+      "Amazon",
+      "愛奇藝/騰訊"
     ],
     "options_en": [
-      "Brazil",
-      "Thailand",
-      "India",
-      "China"
+      "YouTube",
+      "ViuTV",
+      "Amazon",
+      "iQiyi/Tencent"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「中國大陸」。",
-    "explanation_en": "The correct answer is 'China'.",
+    "explanation_zh": "正確答案係「愛奇藝/騰訊」。",
+    "explanation_en": "The correct answer is 'iQiyi/Tencent'.",
     "difficulty": 3
   },
   {
     "id": 25,
-    "question_zh": "以下邊套係流星花園？",
+    "question_zh": "以下邊套係《流星花園》？",
     "question_en": "Which one is 'Meteor Garden'?",
     "options_zh": [
-      "其他劇集A",
       "流星花園",
-      "其他劇集B",
-      "其他劇集C"
+      "其他劇集C",
+      "其他劇集A",
+      "其他劇集B"
     ],
     "options_en": [
-      "Other Show A",
       "Meteor Garden",
-      "Other Show B",
-      "Other Show C"
+      "Other Show C",
+      "Other Show A",
+      "Other Show B"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「流星花園」。",
     "explanation_en": "The correct answer is 'Meteor Garden'.",
     "difficulty": 1
@@ -529,104 +529,104 @@
     "question_zh": "《流星花園》係邊年首播嘅？",
     "question_en": "What year did 'Meteor Garden' first air?",
     "options_zh": [
-      "2023年",
-      "2018年",
+      "2016年",
       "2020年",
-      "2016年"
+      "2018年",
+      "2023年"
     ],
     "options_en": [
-      "2023",
-      "2018",
+      "2016",
       "2020",
-      "2016"
+      "2018",
+      "2023"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「2018年」。",
     "explanation_en": "The correct answer is '2018'.",
     "difficulty": 2
   },
   {
     "id": 27,
-    "question_zh": "《流星花園》係咩類型嘅節目？",
+    "question_zh": "《流星花園》係咩類型？",
     "question_en": "What genre is 'Meteor Garden'?",
     "options_zh": [
+      "新聞",
       "紀錄片",
-      "愛情",
       "喜劇",
-      "新聞"
+      "愛情"
     ],
     "options_en": [
+      "News",
       "Documentary",
-      "愛情",
       "Comedy",
-      "News"
+      "愛情"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「愛情」。",
     "explanation_en": "The correct answer is '愛情'.",
     "difficulty": 3
   },
   {
     "id": 28,
-    "question_zh": "《流星花園》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'Meteor Garden'?",
-    "options_zh": [
-      "YouTube",
-      "Amazon",
-      "愛奇藝/騰訊",
-      "ViuTV"
-    ],
-    "options_en": [
-      "YouTube",
-      "Amazon",
-      "iQiyi/Tencent",
-      "ViuTV"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「愛奇藝/騰訊」。",
-    "explanation_en": "The correct answer is 'iQiyi/Tencent'.",
-    "difficulty": 1
-  },
-  {
-    "id": 29,
-    "question_zh": "《流星花園》嘅故事主要講咩？",
-    "question_en": "What is 'Meteor Garden' mainly about?",
-    "options_zh": [
-      "體育賽事",
-      "天氣報告",
-      "愛情故事",
-      "財經新聞"
-    ],
-    "options_en": [
-      "Sports",
-      "Weather",
-      "Love story",
-      "Financial news"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「愛情故事」。",
-    "explanation_en": "The correct answer is 'Love story'.",
-    "difficulty": 2
-  },
-  {
-    "id": 30,
-    "question_zh": "《流星花園》係咩地區出品嘅？",
+    "question_zh": "《流星花園》係咩地區出品？",
     "question_en": "Where is 'Meteor Garden' from?",
     "options_zh": [
-      "巴西",
       "印度",
+      "巴西",
       "中國大陸",
       "泰國"
     ],
     "options_en": [
-      "Brazil",
       "India",
+      "Brazil",
       "China",
       "Thailand"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「中國大陸」。",
     "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question_zh": "《流星花園》主要講咩？",
+    "question_en": "What is 'Meteor Garden' mainly about?",
+    "options_zh": [
+      "財經新聞",
+      "體育賽事",
+      "天氣報告",
+      "愛情故事"
+    ],
+    "options_en": [
+      "Finance",
+      "Sports",
+      "Weather",
+      "Love story"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「愛情故事」。",
+    "explanation_en": "The correct answer is 'Love story'.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "《流星花園》係邊個平台播出？",
+    "question_en": "Which platform aired 'Meteor Garden'?",
+    "options_zh": [
+      "Amazon",
+      "愛奇藝/騰訊",
+      "YouTube",
+      "ViuTV"
+    ],
+    "options_en": [
+      "Amazon",
+      "iQiyi/Tencent",
+      "YouTube",
+      "ViuTV"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「愛奇藝/騰訊」。",
+    "explanation_en": "The correct answer is 'iQiyi/Tencent'.",
     "difficulty": 3
   }
 ]

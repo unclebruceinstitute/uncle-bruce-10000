@@ -1,21 +1,21 @@
 [
   {
     "id": 1,
-    "question_zh": "以下邊套係來自星星的你？",
+    "question_zh": "以下邊套係《來自星星的你》？",
     "question_en": "Which one is 'My Love from the Star'?",
     "options_zh": [
-      "其他劇集B",
-      "來自星星的你",
       "其他劇集A",
-      "其他劇集C"
+      "其他劇集B",
+      "其他劇集C",
+      "來自星星的你"
     ],
     "options_en": [
-      "Other Show B",
-      "My Love from the Star",
       "Other Show A",
-      "Other Show C"
+      "Other Show B",
+      "Other Show C",
+      "My Love from the Star"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「來自星星的你」。",
     "explanation_en": "The correct answer is 'My Love from the Star'.",
     "difficulty": 1
@@ -25,37 +25,37 @@
     "question_zh": "《來自星星的你》係邊年首播嘅？",
     "question_en": "What year did 'My Love from the Star' first air?",
     "options_zh": [
+      "2018年",
       "2011年",
       "2013年",
-      "2015年",
-      "2018年"
+      "2015年"
     ],
     "options_en": [
+      "2018",
       "2011",
       "2013",
-      "2015",
-      "2018"
+      "2015"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「2013年」。",
     "explanation_en": "The correct answer is '2013'.",
     "difficulty": 2
   },
   {
     "id": 3,
-    "question_zh": "《來自星星的你》係咩類型嘅節目？",
+    "question_zh": "《來自星星的你》係咩類型？",
     "question_en": "What genre is 'My Love from the Star'?",
     "options_zh": [
-      "喜劇",
+      "紀錄片",
       "愛情",
       "新聞",
-      "紀錄片"
+      "喜劇"
     ],
     "options_en": [
-      "Comedy",
+      "Documentary",
       "愛情",
       "News",
-      "Documentary"
+      "Comedy"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「愛情」。",
@@ -64,70 +64,70 @@
   },
   {
     "id": 4,
-    "question_zh": "《來自星星的你》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'My Love from the Star'?",
+    "question_zh": "《來自星星的你》係咩地區出品？",
+    "question_en": "Where is 'My Love from the Star' from?",
     "options_zh": [
-      "ViuTV",
-      "Amazon",
-      "tvN/SBS",
-      "YouTube"
+      "印度",
+      "巴西",
+      "泰國",
+      "韓國"
     ],
     "options_en": [
-      "ViuTV",
-      "Amazon",
-      "tvN/SBS",
-      "YouTube"
+      "India",
+      "Brazil",
+      "Thailand",
+      "South Korea"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「tvN/SBS」。",
-    "explanation_en": "The correct answer is 'tvN/SBS'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「韓國」。",
+    "explanation_en": "The correct answer is 'South Korea'.",
     "difficulty": 1
   },
   {
     "id": 5,
-    "question_zh": "《來自星星的你》嘅故事主要講咩？",
+    "question_zh": "《來自星星的你》主要講咩？",
     "question_en": "What is 'My Love from the Star' mainly about?",
     "options_zh": [
-      "愛情故事",
-      "體育賽事",
       "天氣報告",
-      "財經新聞"
+      "愛情故事",
+      "財經新聞",
+      "體育賽事"
     ],
     "options_en": [
-      "Love story",
-      "Sports",
       "Weather",
-      "Financial news"
+      "Love story",
+      "Finance",
+      "Sports"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「愛情故事」。",
     "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 2
   },
   {
     "id": 6,
-    "question_zh": "《來自星星的你》係咩地區出品嘅？",
-    "question_en": "Where is 'My Love from the Star' from?",
+    "question_zh": "《來自星星的你》係邊個平台播出？",
+    "question_en": "Which platform aired 'My Love from the Star'?",
     "options_zh": [
-      "泰國",
-      "巴西",
-      "印度",
-      "韓國"
+      "ViuTV",
+      "Amazon",
+      "YouTube",
+      "tvN/Netflix"
     ],
     "options_en": [
-      "Thailand",
-      "Brazil",
-      "India",
-      "South Korea"
+      "ViuTV",
+      "Amazon",
+      "YouTube",
+      "tvN/Netflix"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「韓國」。",
-    "explanation_en": "The correct answer is 'South Korea'.",
+    "explanation_zh": "正確答案係「tvN/Netflix」。",
+    "explanation_en": "The correct answer is 'tvN/Netflix'.",
     "difficulty": 3
   },
   {
     "id": 7,
-    "question_zh": "以下邊套係來自星星的你？",
+    "question_zh": "以下邊套係《來自星星的你》？",
     "question_en": "Which one is 'My Love from the Star'?",
     "options_zh": [
       "其他劇集A",
@@ -151,37 +151,37 @@
     "question_zh": "《來自星星的你》係邊年首播嘅？",
     "question_en": "What year did 'My Love from the Star' first air?",
     "options_zh": [
-      "2018年",
-      "2015年",
       "2011年",
-      "2013年"
+      "2013年",
+      "2018年",
+      "2015年"
     ],
     "options_en": [
-      "2018",
-      "2015",
       "2011",
-      "2013"
+      "2013",
+      "2018",
+      "2015"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「2013年」。",
     "explanation_en": "The correct answer is '2013'.",
     "difficulty": 2
   },
   {
     "id": 9,
-    "question_zh": "《來自星星的你》係咩類型嘅節目？",
+    "question_zh": "《來自星星的你》係咩類型？",
     "question_en": "What genre is 'My Love from the Star'?",
     "options_zh": [
       "愛情",
-      "紀錄片",
+      "新聞",
       "喜劇",
-      "新聞"
+      "紀錄片"
     ],
     "options_en": [
       "愛情",
-      "Documentary",
+      "News",
       "Comedy",
-      "News"
+      "Documentary"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「愛情」。",
@@ -190,39 +190,39 @@
   },
   {
     "id": 10,
-    "question_zh": "《來自星星的你》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'My Love from the Star'?",
+    "question_zh": "《來自星星的你》係咩地區出品？",
+    "question_en": "Where is 'My Love from the Star' from?",
     "options_zh": [
-      "Amazon",
-      "YouTube",
-      "tvN/SBS",
-      "ViuTV"
+      "韓國",
+      "印度",
+      "巴西",
+      "泰國"
     ],
     "options_en": [
-      "Amazon",
-      "YouTube",
-      "tvN/SBS",
-      "ViuTV"
+      "South Korea",
+      "India",
+      "Brazil",
+      "Thailand"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「tvN/SBS」。",
-    "explanation_en": "The correct answer is 'tvN/SBS'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「韓國」。",
+    "explanation_en": "The correct answer is 'South Korea'.",
     "difficulty": 1
   },
   {
     "id": 11,
-    "question_zh": "《來自星星的你》嘅故事主要講咩？",
+    "question_zh": "《來自星星的你》主要講咩？",
     "question_en": "What is 'My Love from the Star' mainly about?",
     "options_zh": [
       "天氣報告",
-      "財經新聞",
       "體育賽事",
+      "財經新聞",
       "愛情故事"
     ],
     "options_en": [
       "Weather",
-      "Financial news",
       "Sports",
+      "Finance",
       "Love story"
     ],
     "answer": 3,
@@ -232,38 +232,38 @@
   },
   {
     "id": 12,
-    "question_zh": "《來自星星的你》係咩地區出品嘅？",
-    "question_en": "Where is 'My Love from the Star' from?",
+    "question_zh": "《來自星星的你》係邊個平台播出？",
+    "question_en": "Which platform aired 'My Love from the Star'?",
     "options_zh": [
-      "韓國",
-      "巴西",
-      "印度",
-      "泰國"
+      "tvN/Netflix",
+      "Amazon",
+      "YouTube",
+      "ViuTV"
     ],
     "options_en": [
-      "South Korea",
-      "Brazil",
-      "India",
-      "Thailand"
+      "tvN/Netflix",
+      "Amazon",
+      "YouTube",
+      "ViuTV"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「韓國」。",
-    "explanation_en": "The correct answer is 'South Korea'.",
+    "explanation_zh": "正確答案係「tvN/Netflix」。",
+    "explanation_en": "The correct answer is 'tvN/Netflix'.",
     "difficulty": 3
   },
   {
     "id": 13,
-    "question_zh": "以下邊套係來自星星的你？",
+    "question_zh": "以下邊套係《來自星星的你》？",
     "question_en": "Which one is 'My Love from the Star'?",
     "options_zh": [
-      "其他劇集A",
       "其他劇集C",
+      "其他劇集A",
       "來自星星的你",
       "其他劇集B"
     ],
     "options_en": [
-      "Other Show A",
       "Other Show C",
+      "Other Show A",
       "My Love from the Star",
       "Other Show B"
     ],
@@ -295,61 +295,61 @@
   },
   {
     "id": 15,
-    "question_zh": "《來自星星的你》係咩類型嘅節目？",
+    "question_zh": "《來自星星的你》係咩類型？",
     "question_en": "What genre is 'My Love from the Star'?",
     "options_zh": [
-      "愛情",
-      "紀錄片",
       "新聞",
+      "紀錄片",
+      "愛情",
       "喜劇"
     ],
     "options_en": [
-      "愛情",
-      "Documentary",
       "News",
+      "Documentary",
+      "愛情",
       "Comedy"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「愛情」。",
     "explanation_en": "The correct answer is '愛情'.",
     "difficulty": 3
   },
   {
     "id": 16,
-    "question_zh": "《來自星星的你》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'My Love from the Star'?",
+    "question_zh": "《來自星星的你》係咩地區出品？",
+    "question_en": "Where is 'My Love from the Star' from?",
     "options_zh": [
-      "tvN/SBS",
-      "ViuTV",
-      "YouTube",
-      "Amazon"
+      "韓國",
+      "巴西",
+      "泰國",
+      "印度"
     ],
     "options_en": [
-      "tvN/SBS",
-      "ViuTV",
-      "YouTube",
-      "Amazon"
+      "South Korea",
+      "Brazil",
+      "Thailand",
+      "India"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「tvN/SBS」。",
-    "explanation_en": "The correct answer is 'tvN/SBS'.",
+    "explanation_zh": "正確答案係「韓國」。",
+    "explanation_en": "The correct answer is 'South Korea'.",
     "difficulty": 1
   },
   {
     "id": 17,
-    "question_zh": "《來自星星的你》嘅故事主要講咩？",
+    "question_zh": "《來自星星的你》主要講咩？",
     "question_en": "What is 'My Love from the Star' mainly about?",
     "options_zh": [
+      "天氣報告",
       "體育賽事",
-      "財經新聞",
       "愛情故事",
-      "天氣報告"
+      "財經新聞"
     ],
     "options_en": [
+      "Weather",
       "Sports",
-      "Financial news",
       "Love story",
-      "Weather"
+      "Finance"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「愛情故事」。",
@@ -358,40 +358,40 @@
   },
   {
     "id": 18,
-    "question_zh": "《來自星星的你》係咩地區出品嘅？",
-    "question_en": "Where is 'My Love from the Star' from?",
+    "question_zh": "《來自星星的你》係邊個平台播出？",
+    "question_en": "Which platform aired 'My Love from the Star'?",
     "options_zh": [
-      "印度",
-      "巴西",
-      "韓國",
-      "泰國"
+      "YouTube",
+      "Amazon",
+      "ViuTV",
+      "tvN/Netflix"
     ],
     "options_en": [
-      "India",
-      "Brazil",
-      "South Korea",
-      "Thailand"
+      "YouTube",
+      "Amazon",
+      "ViuTV",
+      "tvN/Netflix"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「韓國」。",
-    "explanation_en": "The correct answer is 'South Korea'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「tvN/Netflix」。",
+    "explanation_en": "The correct answer is 'tvN/Netflix'.",
     "difficulty": 3
   },
   {
     "id": 19,
-    "question_zh": "以下邊套係來自星星的你？",
+    "question_zh": "以下邊套係《來自星星的你》？",
     "question_en": "Which one is 'My Love from the Star'?",
     "options_zh": [
       "來自星星的你",
-      "其他劇集A",
       "其他劇集C",
-      "其他劇集B"
+      "其他劇集B",
+      "其他劇集A"
     ],
     "options_en": [
       "My Love from the Star",
-      "Other Show A",
       "Other Show C",
-      "Other Show B"
+      "Other Show B",
+      "Other Show A"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「來自星星的你」。",
@@ -403,16 +403,16 @@
     "question_zh": "《來自星星的你》係邊年首播嘅？",
     "question_en": "What year did 'My Love from the Star' first air?",
     "options_zh": [
-      "2018年",
+      "2011年",
       "2015年",
       "2013年",
-      "2011年"
+      "2018年"
     ],
     "options_en": [
-      "2018",
+      "2011",
       "2015",
       "2013",
-      "2011"
+      "2018"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「2013年」。",
@@ -421,18 +421,18 @@
   },
   {
     "id": 21,
-    "question_zh": "《來自星星的你》係咩類型嘅節目？",
+    "question_zh": "《來自星星的你》係咩類型？",
     "question_en": "What genre is 'My Love from the Star'?",
     "options_zh": [
-      "新聞",
-      "愛情",
       "喜劇",
+      "愛情",
+      "新聞",
       "紀錄片"
     ],
     "options_en": [
-      "News",
-      "愛情",
       "Comedy",
+      "愛情",
+      "News",
       "Documentary"
     ],
     "answer": 1,
@@ -442,84 +442,84 @@
   },
   {
     "id": 22,
-    "question_zh": "《來自星星的你》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'My Love from the Star'?",
+    "question_zh": "《來自星星的你》係咩地區出品？",
+    "question_en": "Where is 'My Love from the Star' from?",
     "options_zh": [
-      "ViuTV",
-      "YouTube",
-      "Amazon",
-      "tvN/SBS"
+      "泰國",
+      "巴西",
+      "印度",
+      "韓國"
     ],
     "options_en": [
-      "ViuTV",
-      "YouTube",
-      "Amazon",
-      "tvN/SBS"
+      "Thailand",
+      "Brazil",
+      "India",
+      "South Korea"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「tvN/SBS」。",
-    "explanation_en": "The correct answer is 'tvN/SBS'.",
+    "explanation_zh": "正確答案係「韓國」。",
+    "explanation_en": "The correct answer is 'South Korea'.",
     "difficulty": 1
   },
   {
     "id": 23,
-    "question_zh": "《來自星星的你》嘅故事主要講咩？",
+    "question_zh": "《來自星星的你》主要講咩？",
     "question_en": "What is 'My Love from the Star' mainly about?",
     "options_zh": [
-      "愛情故事",
-      "體育賽事",
       "財經新聞",
+      "體育賽事",
+      "愛情故事",
       "天氣報告"
     ],
     "options_en": [
-      "Love story",
+      "Finance",
       "Sports",
-      "Financial news",
+      "Love story",
       "Weather"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「愛情故事」。",
     "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 2
   },
   {
     "id": 24,
-    "question_zh": "《來自星星的你》係咩地區出品嘅？",
-    "question_en": "Where is 'My Love from the Star' from?",
+    "question_zh": "《來自星星的你》係邊個平台播出？",
+    "question_en": "Which platform aired 'My Love from the Star'?",
     "options_zh": [
-      "韓國",
-      "印度",
-      "泰國",
-      "巴西"
+      "ViuTV",
+      "tvN/Netflix",
+      "Amazon",
+      "YouTube"
     ],
     "options_en": [
-      "South Korea",
-      "India",
-      "Thailand",
-      "Brazil"
+      "ViuTV",
+      "tvN/Netflix",
+      "Amazon",
+      "YouTube"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「韓國」。",
-    "explanation_en": "The correct answer is 'South Korea'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「tvN/Netflix」。",
+    "explanation_en": "The correct answer is 'tvN/Netflix'.",
     "difficulty": 3
   },
   {
     "id": 25,
-    "question_zh": "以下邊套係來自星星的你？",
+    "question_zh": "以下邊套係《來自星星的你》？",
     "question_en": "Which one is 'My Love from the Star'?",
     "options_zh": [
-      "其他劇集A",
-      "其他劇集B",
       "其他劇集C",
-      "來自星星的你"
+      "來自星星的你",
+      "其他劇集B",
+      "其他劇集A"
     ],
     "options_en": [
-      "Other Show A",
-      "Other Show B",
       "Other Show C",
-      "My Love from the Star"
+      "My Love from the Star",
+      "Other Show B",
+      "Other Show A"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「來自星星的你」。",
     "explanation_en": "The correct answer is 'My Love from the Star'.",
     "difficulty": 1
@@ -529,16 +529,16 @@
     "question_zh": "《來自星星的你》係邊年首播嘅？",
     "question_en": "What year did 'My Love from the Star' first air?",
     "options_zh": [
-      "2011年",
+      "2015年",
       "2013年",
       "2018年",
-      "2015年"
+      "2011年"
     ],
     "options_en": [
-      "2011",
+      "2015",
       "2013",
       "2018",
-      "2015"
+      "2011"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「2013年」。",
@@ -547,18 +547,18 @@
   },
   {
     "id": 27,
-    "question_zh": "《來自星星的你》係咩類型嘅節目？",
+    "question_zh": "《來自星星的你》係咩類型？",
     "question_en": "What genre is 'My Love from the Star'?",
     "options_zh": [
+      "喜劇",
       "新聞",
       "紀錄片",
-      "喜劇",
       "愛情"
     ],
     "options_en": [
+      "Comedy",
       "News",
       "Documentary",
-      "Comedy",
       "愛情"
     ],
     "answer": 3,
@@ -568,49 +568,7 @@
   },
   {
     "id": 28,
-    "question_zh": "《來自星星的你》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'My Love from the Star'?",
-    "options_zh": [
-      "tvN/SBS",
-      "Amazon",
-      "YouTube",
-      "ViuTV"
-    ],
-    "options_en": [
-      "tvN/SBS",
-      "Amazon",
-      "YouTube",
-      "ViuTV"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「tvN/SBS」。",
-    "explanation_en": "The correct answer is 'tvN/SBS'.",
-    "difficulty": 1
-  },
-  {
-    "id": 29,
-    "question_zh": "《來自星星的你》嘅故事主要講咩？",
-    "question_en": "What is 'My Love from the Star' mainly about?",
-    "options_zh": [
-      "體育賽事",
-      "天氣報告",
-      "愛情故事",
-      "財經新聞"
-    ],
-    "options_en": [
-      "Sports",
-      "Weather",
-      "Love story",
-      "Financial news"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「愛情故事」。",
-    "explanation_en": "The correct answer is 'Love story'.",
-    "difficulty": 2
-  },
-  {
-    "id": 30,
-    "question_zh": "《來自星星的你》係咩地區出品嘅？",
+    "question_zh": "《來自星星的你》係咩地區出品？",
     "question_en": "Where is 'My Love from the Star' from?",
     "options_zh": [
       "泰國",
@@ -627,6 +585,48 @@
     "answer": 3,
     "explanation_zh": "正確答案係「韓國」。",
     "explanation_en": "The correct answer is 'South Korea'.",
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question_zh": "《來自星星的你》主要講咩？",
+    "question_en": "What is 'My Love from the Star' mainly about?",
+    "options_zh": [
+      "財經新聞",
+      "天氣報告",
+      "體育賽事",
+      "愛情故事"
+    ],
+    "options_en": [
+      "Finance",
+      "Weather",
+      "Sports",
+      "Love story"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「愛情故事」。",
+    "explanation_en": "The correct answer is 'Love story'.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "《來自星星的你》係邊個平台播出？",
+    "question_en": "Which platform aired 'My Love from the Star'?",
+    "options_zh": [
+      "tvN/Netflix",
+      "Amazon",
+      "YouTube",
+      "ViuTV"
+    ],
+    "options_en": [
+      "tvN/Netflix",
+      "Amazon",
+      "YouTube",
+      "ViuTV"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「tvN/Netflix」。",
+    "explanation_en": "The correct answer is 'tvN/Netflix'.",
     "difficulty": 3
   }
 ]

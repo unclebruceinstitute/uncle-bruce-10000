@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "question_zh": "以下邊套係老友記？",
+    "question_zh": "以下邊套係《老友記》？",
     "question_en": "Which one is 'Friends'?",
     "options_zh": [
       "其他劇集B",
@@ -25,6 +25,384 @@
     "question_zh": "《老友記》係邊年首播嘅？",
     "question_en": "What year did 'Friends' first air?",
     "options_zh": [
+      "1994年",
+      "1992年",
+      "1996年",
+      "1999年"
+    ],
+    "options_en": [
+      "1994",
+      "1992",
+      "1996",
+      "1999"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「1994年」。",
+    "explanation_en": "The correct answer is '1994'.",
+    "difficulty": 2
+  },
+  {
+    "id": 3,
+    "question_zh": "《老友記》係咩類型？",
+    "question_en": "What genre is 'Friends'?",
+    "options_zh": [
+      "喜劇",
+      "喜劇",
+      "新聞",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Comedy",
+      "喜劇",
+      "News",
+      "Documentary"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「喜劇」。",
+    "explanation_en": "The correct answer is '喜劇'.",
+    "difficulty": 3
+  },
+  {
+    "id": 4,
+    "question_zh": "《老友記》係咩地區出品？",
+    "question_en": "Where is 'Friends' from?",
+    "options_zh": [
+      "泰國",
+      "印度",
+      "巴西",
+      "歐美"
+    ],
+    "options_en": [
+      "Thailand",
+      "India",
+      "Brazil",
+      "Western"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「歐美」。",
+    "explanation_en": "The correct answer is 'Western'.",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question_zh": "《老友記》主要講咩？",
+    "question_en": "What is 'Friends' mainly about?",
+    "options_zh": [
+      "天氣報告",
+      "財經新聞",
+      "體育賽事",
+      "搞笑生活"
+    ],
+    "options_en": [
+      "Weather",
+      "Finance",
+      "Sports",
+      "Comedy"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「搞笑生活」。",
+    "explanation_en": "The correct answer is 'Comedy'.",
+    "difficulty": 2
+  },
+  {
+    "id": 6,
+    "question_zh": "《老友記》係邊個平台播出？",
+    "question_en": "Which platform aired 'Friends'?",
+    "options_zh": [
+      "Amazon",
+      "HBO/Netflix",
+      "ViuTV",
+      "YouTube"
+    ],
+    "options_en": [
+      "Amazon",
+      "HBO/Netflix",
+      "ViuTV",
+      "YouTube"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「HBO/Netflix」。",
+    "explanation_en": "The correct answer is 'HBO/Netflix'.",
+    "difficulty": 3
+  },
+  {
+    "id": 7,
+    "question_zh": "以下邊套係《老友記》？",
+    "question_en": "Which one is 'Friends'?",
+    "options_zh": [
+      "其他劇集A",
+      "其他劇集B",
+      "老友記",
+      "其他劇集C"
+    ],
+    "options_en": [
+      "Other Show A",
+      "Other Show B",
+      "Friends",
+      "Other Show C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「老友記」。",
+    "explanation_en": "The correct answer is 'Friends'.",
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question_zh": "《老友記》係邊年首播嘅？",
+    "question_en": "What year did 'Friends' first air?",
+    "options_zh": [
+      "1996年",
+      "1992年",
+      "1999年",
+      "1994年"
+    ],
+    "options_en": [
+      "1996",
+      "1992",
+      "1999",
+      "1994"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1994年」。",
+    "explanation_en": "The correct answer is '1994'.",
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question_zh": "《老友記》係咩類型？",
+    "question_en": "What genre is 'Friends'?",
+    "options_zh": [
+      "紀錄片",
+      "新聞",
+      "喜劇",
+      "喜劇"
+    ],
+    "options_en": [
+      "Documentary",
+      "News",
+      "喜劇",
+      "Comedy"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「喜劇」。",
+    "explanation_en": "The correct answer is '喜劇'.",
+    "difficulty": 3
+  },
+  {
+    "id": 10,
+    "question_zh": "《老友記》係咩地區出品？",
+    "question_en": "Where is 'Friends' from?",
+    "options_zh": [
+      "歐美",
+      "巴西",
+      "印度",
+      "泰國"
+    ],
+    "options_en": [
+      "Western",
+      "Brazil",
+      "India",
+      "Thailand"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「歐美」。",
+    "explanation_en": "The correct answer is 'Western'.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "《老友記》主要講咩？",
+    "question_en": "What is 'Friends' mainly about?",
+    "options_zh": [
+      "體育賽事",
+      "天氣報告",
+      "財經新聞",
+      "搞笑生活"
+    ],
+    "options_en": [
+      "Sports",
+      "Weather",
+      "Finance",
+      "Comedy"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「搞笑生活」。",
+    "explanation_en": "The correct answer is 'Comedy'.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《老友記》係邊個平台播出？",
+    "question_en": "Which platform aired 'Friends'?",
+    "options_zh": [
+      "ViuTV",
+      "YouTube",
+      "HBO/Netflix",
+      "Amazon"
+    ],
+    "options_en": [
+      "ViuTV",
+      "YouTube",
+      "HBO/Netflix",
+      "Amazon"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「HBO/Netflix」。",
+    "explanation_en": "The correct answer is 'HBO/Netflix'.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "以下邊套係《老友記》？",
+    "question_en": "Which one is 'Friends'?",
+    "options_zh": [
+      "其他劇集A",
+      "其他劇集C",
+      "老友記",
+      "其他劇集B"
+    ],
+    "options_en": [
+      "Other Show A",
+      "Other Show C",
+      "Friends",
+      "Other Show B"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「老友記」。",
+    "explanation_en": "The correct answer is 'Friends'.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《老友記》係邊年首播嘅？",
+    "question_en": "What year did 'Friends' first air?",
+    "options_zh": [
+      "1992年",
+      "1999年",
+      "1996年",
+      "1994年"
+    ],
+    "options_en": [
+      "1992",
+      "1999",
+      "1996",
+      "1994"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1994年」。",
+    "explanation_en": "The correct answer is '1994'.",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_zh": "《老友記》係咩類型？",
+    "question_en": "What genre is 'Friends'?",
+    "options_zh": [
+      "紀錄片",
+      "喜劇",
+      "新聞",
+      "喜劇"
+    ],
+    "options_en": [
+      "Documentary",
+      "喜劇",
+      "News",
+      "Comedy"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「喜劇」。",
+    "explanation_en": "The correct answer is '喜劇'.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "《老友記》係咩地區出品？",
+    "question_en": "Where is 'Friends' from?",
+    "options_zh": [
+      "印度",
+      "泰國",
+      "巴西",
+      "歐美"
+    ],
+    "options_en": [
+      "India",
+      "Thailand",
+      "Brazil",
+      "Western"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「歐美」。",
+    "explanation_en": "The correct answer is 'Western'.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《老友記》主要講咩？",
+    "question_en": "What is 'Friends' mainly about?",
+    "options_zh": [
+      "財經新聞",
+      "天氣報告",
+      "搞笑生活",
+      "體育賽事"
+    ],
+    "options_en": [
+      "Finance",
+      "Weather",
+      "Comedy",
+      "Sports"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「搞笑生活」。",
+    "explanation_en": "The correct answer is 'Comedy'.",
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question_zh": "《老友記》係邊個平台播出？",
+    "question_en": "Which platform aired 'Friends'?",
+    "options_zh": [
+      "ViuTV",
+      "Amazon",
+      "YouTube",
+      "HBO/Netflix"
+    ],
+    "options_en": [
+      "ViuTV",
+      "Amazon",
+      "YouTube",
+      "HBO/Netflix"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「HBO/Netflix」。",
+    "explanation_en": "The correct answer is 'HBO/Netflix'.",
+    "difficulty": 3
+  },
+  {
+    "id": 19,
+    "question_zh": "以下邊套係《老友記》？",
+    "question_en": "Which one is 'Friends'?",
+    "options_zh": [
+      "老友記",
+      "其他劇集A",
+      "其他劇集C",
+      "其他劇集B"
+    ],
+    "options_en": [
+      "Friends",
+      "Other Show A",
+      "Other Show C",
+      "Other Show B"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「老友記」。",
+    "explanation_en": "The correct answer is 'Friends'.",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question_zh": "《老友記》係邊年首播嘅？",
+    "question_en": "What year did 'Friends' first air?",
+    "options_zh": [
       "1999年",
       "1992年",
       "1996年",
@@ -42,386 +420,8 @@
     "difficulty": 2
   },
   {
-    "id": 3,
-    "question_zh": "《老友記》係咩類型嘅節目？",
-    "question_en": "What genre is 'Friends'?",
-    "options_zh": [
-      "喜劇",
-      "喜劇",
-      "紀錄片",
-      "新聞"
-    ],
-    "options_en": [
-      "Comedy",
-      "喜劇",
-      "Documentary",
-      "News"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「喜劇」。",
-    "explanation_en": "The correct answer is '喜劇'.",
-    "difficulty": 3
-  },
-  {
-    "id": 4,
-    "question_zh": "《老友記》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'Friends'?",
-    "options_zh": [
-      "HBO/Netflix",
-      "YouTube",
-      "Amazon",
-      "ViuTV"
-    ],
-    "options_en": [
-      "HBO/Netflix",
-      "YouTube",
-      "Amazon",
-      "ViuTV"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「HBO/Netflix」。",
-    "explanation_en": "The correct answer is 'HBO/Netflix'.",
-    "difficulty": 1
-  },
-  {
-    "id": 5,
-    "question_zh": "《老友記》嘅故事主要講咩？",
-    "question_en": "What is 'Friends' mainly about?",
-    "options_zh": [
-      "搞笑生活",
-      "財經新聞",
-      "體育賽事",
-      "天氣報告"
-    ],
-    "options_en": [
-      "Comedy and daily life",
-      "Financial news",
-      "Sports",
-      "Weather"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「搞笑生活」。",
-    "explanation_en": "The correct answer is 'Comedy and daily life'.",
-    "difficulty": 2
-  },
-  {
-    "id": 6,
-    "question_zh": "《老友記》係咩地區出品嘅？",
-    "question_en": "Where is 'Friends' from?",
-    "options_zh": [
-      "巴西",
-      "印度",
-      "泰國",
-      "歐美"
-    ],
-    "options_en": [
-      "Brazil",
-      "India",
-      "Thailand",
-      "Western"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「歐美」。",
-    "explanation_en": "The correct answer is 'Western'.",
-    "difficulty": 3
-  },
-  {
-    "id": 7,
-    "question_zh": "以下邊套係老友記？",
-    "question_en": "Which one is 'Friends'?",
-    "options_zh": [
-      "其他劇集A",
-      "老友記",
-      "其他劇集B",
-      "其他劇集C"
-    ],
-    "options_en": [
-      "Other Show A",
-      "Friends",
-      "Other Show B",
-      "Other Show C"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「老友記」。",
-    "explanation_en": "The correct answer is 'Friends'.",
-    "difficulty": 1
-  },
-  {
-    "id": 8,
-    "question_zh": "《老友記》係邊年首播嘅？",
-    "question_en": "What year did 'Friends' first air?",
-    "options_zh": [
-      "1996年",
-      "1994年",
-      "1999年",
-      "1992年"
-    ],
-    "options_en": [
-      "1996",
-      "1994",
-      "1999",
-      "1992"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「1994年」。",
-    "explanation_en": "The correct answer is '1994'.",
-    "difficulty": 2
-  },
-  {
-    "id": 9,
-    "question_zh": "《老友記》係咩類型嘅節目？",
-    "question_en": "What genre is 'Friends'?",
-    "options_zh": [
-      "喜劇",
-      "紀錄片",
-      "喜劇",
-      "新聞"
-    ],
-    "options_en": [
-      "喜劇",
-      "Documentary",
-      "Comedy",
-      "News"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「喜劇」。",
-    "explanation_en": "The correct answer is '喜劇'.",
-    "difficulty": 3
-  },
-  {
-    "id": 10,
-    "question_zh": "《老友記》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'Friends'?",
-    "options_zh": [
-      "YouTube",
-      "ViuTV",
-      "HBO/Netflix",
-      "Amazon"
-    ],
-    "options_en": [
-      "YouTube",
-      "ViuTV",
-      "HBO/Netflix",
-      "Amazon"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「HBO/Netflix」。",
-    "explanation_en": "The correct answer is 'HBO/Netflix'.",
-    "difficulty": 1
-  },
-  {
-    "id": 11,
-    "question_zh": "《老友記》嘅故事主要講咩？",
-    "question_en": "What is 'Friends' mainly about?",
-    "options_zh": [
-      "體育賽事",
-      "天氣報告",
-      "財經新聞",
-      "搞笑生活"
-    ],
-    "options_en": [
-      "Sports",
-      "Weather",
-      "Financial news",
-      "Comedy and daily life"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「搞笑生活」。",
-    "explanation_en": "The correct answer is 'Comedy and daily life'.",
-    "difficulty": 2
-  },
-  {
-    "id": 12,
-    "question_zh": "《老友記》係咩地區出品嘅？",
-    "question_en": "Where is 'Friends' from?",
-    "options_zh": [
-      "歐美",
-      "泰國",
-      "印度",
-      "巴西"
-    ],
-    "options_en": [
-      "Western",
-      "Thailand",
-      "India",
-      "Brazil"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「歐美」。",
-    "explanation_en": "The correct answer is 'Western'.",
-    "difficulty": 3
-  },
-  {
-    "id": 13,
-    "question_zh": "以下邊套係老友記？",
-    "question_en": "Which one is 'Friends'?",
-    "options_zh": [
-      "其他劇集C",
-      "其他劇集A",
-      "其他劇集B",
-      "老友記"
-    ],
-    "options_en": [
-      "Other Show C",
-      "Other Show A",
-      "Other Show B",
-      "Friends"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「老友記」。",
-    "explanation_en": "The correct answer is 'Friends'.",
-    "difficulty": 1
-  },
-  {
-    "id": 14,
-    "question_zh": "《老友記》係邊年首播嘅？",
-    "question_en": "What year did 'Friends' first air?",
-    "options_zh": [
-      "1994年",
-      "1992年",
-      "1996年",
-      "1999年"
-    ],
-    "options_en": [
-      "1994",
-      "1992",
-      "1996",
-      "1999"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「1994年」。",
-    "explanation_en": "The correct answer is '1994'.",
-    "difficulty": 2
-  },
-  {
-    "id": 15,
-    "question_zh": "《老友記》係咩類型嘅節目？",
-    "question_en": "What genre is 'Friends'?",
-    "options_zh": [
-      "紀錄片",
-      "喜劇",
-      "喜劇",
-      "新聞"
-    ],
-    "options_en": [
-      "Documentary",
-      "喜劇",
-      "Comedy",
-      "News"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「喜劇」。",
-    "explanation_en": "The correct answer is '喜劇'.",
-    "difficulty": 3
-  },
-  {
-    "id": 16,
-    "question_zh": "《老友記》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'Friends'?",
-    "options_zh": [
-      "Amazon",
-      "ViuTV",
-      "YouTube",
-      "HBO/Netflix"
-    ],
-    "options_en": [
-      "Amazon",
-      "ViuTV",
-      "YouTube",
-      "HBO/Netflix"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「HBO/Netflix」。",
-    "explanation_en": "The correct answer is 'HBO/Netflix'.",
-    "difficulty": 1
-  },
-  {
-    "id": 17,
-    "question_zh": "《老友記》嘅故事主要講咩？",
-    "question_en": "What is 'Friends' mainly about?",
-    "options_zh": [
-      "體育賽事",
-      "搞笑生活",
-      "天氣報告",
-      "財經新聞"
-    ],
-    "options_en": [
-      "Sports",
-      "Comedy and daily life",
-      "Weather",
-      "Financial news"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「搞笑生活」。",
-    "explanation_en": "The correct answer is 'Comedy and daily life'.",
-    "difficulty": 2
-  },
-  {
-    "id": 18,
-    "question_zh": "《老友記》係咩地區出品嘅？",
-    "question_en": "Where is 'Friends' from?",
-    "options_zh": [
-      "歐美",
-      "印度",
-      "巴西",
-      "泰國"
-    ],
-    "options_en": [
-      "Western",
-      "India",
-      "Brazil",
-      "Thailand"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「歐美」。",
-    "explanation_en": "The correct answer is 'Western'.",
-    "difficulty": 3
-  },
-  {
-    "id": 19,
-    "question_zh": "以下邊套係老友記？",
-    "question_en": "Which one is 'Friends'?",
-    "options_zh": [
-      "其他劇集A",
-      "其他劇集B",
-      "老友記",
-      "其他劇集C"
-    ],
-    "options_en": [
-      "Other Show A",
-      "Other Show B",
-      "Friends",
-      "Other Show C"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「老友記」。",
-    "explanation_en": "The correct answer is 'Friends'.",
-    "difficulty": 1
-  },
-  {
-    "id": 20,
-    "question_zh": "《老友記》係邊年首播嘅？",
-    "question_en": "What year did 'Friends' first air?",
-    "options_zh": [
-      "1996年",
-      "1994年",
-      "1992年",
-      "1999年"
-    ],
-    "options_en": [
-      "1996",
-      "1994",
-      "1992",
-      "1999"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「1994年」。",
-    "explanation_en": "The correct answer is '1994'.",
-    "difficulty": 2
-  },
-  {
     "id": 21,
-    "question_zh": "《老友記》係咩類型嘅節目？",
+    "question_zh": "《老友記》係咩類型？",
     "question_en": "What genre is 'Friends'?",
     "options_zh": [
       "喜劇",
@@ -442,28 +442,28 @@
   },
   {
     "id": 22,
-    "question_zh": "《老友記》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'Friends'?",
+    "question_zh": "《老友記》係咩地區出品？",
+    "question_en": "Where is 'Friends' from?",
     "options_zh": [
-      "ViuTV",
-      "HBO/Netflix",
-      "YouTube",
-      "Amazon"
+      "巴西",
+      "印度",
+      "泰國",
+      "歐美"
     ],
     "options_en": [
-      "ViuTV",
-      "HBO/Netflix",
-      "YouTube",
-      "Amazon"
+      "Brazil",
+      "India",
+      "Thailand",
+      "Western"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「HBO/Netflix」。",
-    "explanation_en": "The correct answer is 'HBO/Netflix'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「歐美」。",
+    "explanation_en": "The correct answer is 'Western'.",
     "difficulty": 1
   },
   {
     "id": 23,
-    "question_zh": "《老友記》嘅故事主要講咩？",
+    "question_zh": "《老友記》主要講咩？",
     "question_en": "What is 'Friends' mainly about?",
     "options_zh": [
       "財經新聞",
@@ -472,54 +472,54 @@
       "搞笑生活"
     ],
     "options_en": [
-      "Financial news",
+      "Finance",
       "Sports",
       "Weather",
-      "Comedy and daily life"
+      "Comedy"
     ],
     "answer": 3,
     "explanation_zh": "正確答案係「搞笑生活」。",
-    "explanation_en": "The correct answer is 'Comedy and daily life'.",
+    "explanation_en": "The correct answer is 'Comedy'.",
     "difficulty": 2
   },
   {
     "id": 24,
-    "question_zh": "《老友記》係咩地區出品嘅？",
-    "question_en": "Where is 'Friends' from?",
+    "question_zh": "《老友記》係邊個平台播出？",
+    "question_en": "Which platform aired 'Friends'?",
     "options_zh": [
-      "泰國",
-      "歐美",
-      "印度",
-      "巴西"
+      "Amazon",
+      "YouTube",
+      "ViuTV",
+      "HBO/Netflix"
     ],
     "options_en": [
-      "Thailand",
-      "Western",
-      "India",
-      "Brazil"
+      "Amazon",
+      "YouTube",
+      "ViuTV",
+      "HBO/Netflix"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「歐美」。",
-    "explanation_en": "The correct answer is 'Western'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「HBO/Netflix」。",
+    "explanation_en": "The correct answer is 'HBO/Netflix'.",
     "difficulty": 3
   },
   {
     "id": 25,
-    "question_zh": "以下邊套係老友記？",
+    "question_zh": "以下邊套係《老友記》？",
     "question_en": "Which one is 'Friends'?",
     "options_zh": [
-      "其他劇集A",
       "老友記",
+      "其他劇集C",
       "其他劇集B",
-      "其他劇集C"
+      "其他劇集A"
     ],
     "options_en": [
-      "Other Show A",
       "Friends",
+      "Other Show C",
       "Other Show B",
-      "Other Show C"
+      "Other Show A"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「老友記」。",
     "explanation_en": "The correct answer is 'Friends'.",
     "difficulty": 1
@@ -529,104 +529,104 @@
     "question_zh": "《老友記》係邊年首播嘅？",
     "question_en": "What year did 'Friends' first air?",
     "options_zh": [
+      "1994年",
       "1996年",
       "1999年",
-      "1992年",
-      "1994年"
+      "1992年"
     ],
     "options_en": [
+      "1994",
       "1996",
       "1999",
-      "1992",
-      "1994"
+      "1992"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「1994年」。",
     "explanation_en": "The correct answer is '1994'.",
     "difficulty": 2
   },
   {
     "id": 27,
-    "question_zh": "《老友記》係咩類型嘅節目？",
+    "question_zh": "《老友記》係咩類型？",
     "question_en": "What genre is 'Friends'?",
     "options_zh": [
-      "紀錄片",
       "喜劇",
       "喜劇",
-      "新聞"
+      "新聞",
+      "紀錄片"
     ],
     "options_en": [
-      "Documentary",
-      "Comedy",
       "喜劇",
-      "News"
+      "Comedy",
+      "News",
+      "Documentary"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「喜劇」。",
     "explanation_en": "The correct answer is '喜劇'.",
     "difficulty": 3
   },
   {
     "id": 28,
-    "question_zh": "《老友記》係邊個平台/電視台播出？",
-    "question_en": "Which platform/channel aired 'Friends'?",
-    "options_zh": [
-      "Amazon",
-      "HBO/Netflix",
-      "ViuTV",
-      "YouTube"
-    ],
-    "options_en": [
-      "Amazon",
-      "HBO/Netflix",
-      "ViuTV",
-      "YouTube"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「HBO/Netflix」。",
-    "explanation_en": "The correct answer is 'HBO/Netflix'.",
-    "difficulty": 1
-  },
-  {
-    "id": 29,
-    "question_zh": "《老友記》嘅故事主要講咩？",
-    "question_en": "What is 'Friends' mainly about?",
-    "options_zh": [
-      "財經新聞",
-      "天氣報告",
-      "體育賽事",
-      "搞笑生活"
-    ],
-    "options_en": [
-      "Financial news",
-      "Weather",
-      "Sports",
-      "Comedy and daily life"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「搞笑生活」。",
-    "explanation_en": "The correct answer is 'Comedy and daily life'.",
-    "difficulty": 2
-  },
-  {
-    "id": 30,
-    "question_zh": "《老友記》係咩地區出品嘅？",
+    "question_zh": "《老友記》係咩地區出品？",
     "question_en": "Where is 'Friends' from?",
     "options_zh": [
       "印度",
       "泰國",
-      "巴西",
-      "歐美"
+      "歐美",
+      "巴西"
     ],
     "options_en": [
       "India",
       "Thailand",
-      "Brazil",
-      "Western"
+      "Western",
+      "Brazil"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「歐美」。",
     "explanation_en": "The correct answer is 'Western'.",
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question_zh": "《老友記》主要講咩？",
+    "question_en": "What is 'Friends' mainly about?",
+    "options_zh": [
+      "搞笑生活",
+      "財經新聞",
+      "體育賽事",
+      "天氣報告"
+    ],
+    "options_en": [
+      "Comedy",
+      "Finance",
+      "Sports",
+      "Weather"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「搞笑生活」。",
+    "explanation_en": "The correct answer is 'Comedy'.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "《老友記》係邊個平台播出？",
+    "question_en": "Which platform aired 'Friends'?",
+    "options_zh": [
+      "YouTube",
+      "HBO/Netflix",
+      "Amazon",
+      "ViuTV"
+    ],
+    "options_en": [
+      "YouTube",
+      "HBO/Netflix",
+      "Amazon",
+      "ViuTV"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「HBO/Netflix」。",
+    "explanation_en": "The correct answer is 'HBO/Netflix'.",
     "difficulty": 3
   }
 ]
