@@ -1,732 +1,102 @@
 [
   {
     "id": 1,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
+    "question_zh": "以下邊部電影係梁家輝主演嘅？",
+    "question_en": "Which movie stars Tony Leung Ka-fai?",
     "options_zh": [
-      "其他電影Y",
       "其他電影X",
+      "寒戰",
       "其他電影Z",
-      "寒戰"
+      "其他電影Y"
     ],
     "options_en": [
-      "Other Movie Y",
-      "Other Movie X",
-      "Other Movie Z",
-      "Cold War"
+      "Other X",
+      "Cold War",
+      "Other Z",
+      "Other Y"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「寒戰」。",
     "explanation_en": "The correct answer is 'Cold War'.",
     "difficulty": 1
   },
   {
     "id": 2,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
+    "question_zh": "邊部電影有梁家輝演出？",
+    "question_en": "Which movie features Tony Leung Ka-fai?",
     "options_zh": [
-      "其他電影Z",
-      "其他電影Y",
-      "寒戰",
-      "其他電影X"
+      "2017年",
+      "2009年",
+      "2012年",
+      "2014年"
     ],
     "options_en": [
-      "Other Movie Z",
-      "Other Movie Y",
-      "Cold War",
-      "Other Movie X"
+      "2017",
+      "2009",
+      "2012",
+      "2014"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
+    "explanation_zh": "正確答案係「2012年」。",
+    "explanation_en": "The correct answer is '2012'.",
     "difficulty": 2
   },
   {
     "id": 3,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
+    "question_zh": "梁家輝主演過邊部電影？",
+    "question_en": "Which movie did Tony Leung Ka-fai star in?",
     "options_zh": [
-      "寒戰",
-      "其他電影X",
-      "其他電影Z",
-      "其他電影Y"
+      "劉偉強",
+      "梁樂民",
+      "王晶",
+      "杜琪峰"
     ],
     "options_en": [
-      "Cold War",
-      "Other Movie X",
-      "Other Movie Z",
-      "Other Movie Y"
+      "Andrew Lau",
+      "Longman Leung",
+      "Wong Jing",
+      "Johnnie To"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「梁樂民」。",
+    "explanation_en": "The correct answer is 'Longman Leung'.",
     "difficulty": 3
   },
   {
     "id": 4,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
+    "question_zh": "以下邊部係梁家輝嘅電影？",
+    "question_en": "Which is a movie by Tony Leung Ka-fai?",
     "options_zh": [
-      "2012年",
-      "2009年",
-      "2014年",
-      "2017年"
+      "紀錄片",
+      "動畫",
+      "音樂劇",
+      "動作"
     ],
     "options_en": [
-      "2012",
-      "2009",
-      "2014",
-      "2017"
+      "Documentary",
+      "Animation",
+      "Musical",
+      "Action"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is 'Action'.",
     "difficulty": 1
   },
   {
     "id": 5,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
-    "options_zh": [
-      "2012年",
-      "2009年",
-      "2017年",
-      "2014年"
-    ],
-    "options_en": [
-      "2012",
-      "2009",
-      "2017",
-      "2014"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 2
-  },
-  {
-    "id": 6,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
-    "options_zh": [
-      "2014年",
-      "2012年",
-      "2017年",
-      "2009年"
-    ],
-    "options_en": [
-      "2014",
-      "2012",
-      "2017",
-      "2009"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 3
-  },
-  {
-    "id": 7,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
-    "options_zh": [
-      "劉偉強",
-      "王晶",
-      "杜琪峰",
-      "梁樂民"
-    ],
-    "options_en": [
-      "Andrew Lau",
-      "Wong Jing",
-      "Johnnie To",
-      "梁樂民"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「梁樂民」。",
-    "explanation_en": "The correct answer is '梁樂民'.",
-    "difficulty": 1
-  },
-  {
-    "id": 8,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
-    "options_zh": [
-      "王晶",
-      "梁樂民",
-      "杜琪峰",
-      "劉偉強"
-    ],
-    "options_en": [
-      "Wong Jing",
-      "梁樂民",
-      "Johnnie To",
-      "Andrew Lau"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「梁樂民」。",
-    "explanation_en": "The correct answer is '梁樂民'.",
-    "difficulty": 2
-  },
-  {
-    "id": 9,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
-    "options_zh": [
-      "梁樂民",
-      "杜琪峰",
-      "劉偉強",
-      "王晶"
-    ],
-    "options_en": [
-      "梁樂民",
-      "Johnnie To",
-      "Andrew Lau",
-      "Wong Jing"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「梁樂民」。",
-    "explanation_en": "The correct answer is '梁樂民'.",
-    "difficulty": 3
-  },
-  {
-    "id": 10,
-    "question_zh": "《寒戰》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
-    "options_zh": [
-      "係",
-      "唔知",
-      "唔係",
-      "只係客串"
-    ],
-    "options_en": [
-      "Yes",
-      "Unknown",
-      "No",
-      "Cameo only"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 1
-  },
-  {
-    "id": 11,
-    "question_zh": "《寒戰》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
-    "options_zh": [
-      "只係客串",
-      "唔知",
-      "係",
-      "唔係"
-    ],
-    "options_en": [
-      "Cameo only",
-      "Unknown",
-      "Yes",
-      "No"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 2
-  },
-  {
-    "id": 12,
-    "question_zh": "《寒戰》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
-    "options_zh": [
-      "唔知",
-      "係",
-      "唔係",
-      "只係客串"
-    ],
-    "options_en": [
-      "Unknown",
-      "Yes",
-      "No",
-      "Cameo only"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 3
-  },
-  {
-    "id": 13,
-    "question_zh": "《寒戰》係邊度出品？",
-    "question_en": "Where was \"Cold War\" produced?",
-    "options_zh": [
-      "台灣",
-      "美國",
-      "香港",
-      "中國"
-    ],
-    "options_en": [
-      "Taiwan",
-      "USA",
-      "Hong Kong",
-      "China"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 1
-  },
-  {
-    "id": 14,
-    "question_zh": "《寒戰》係邊度出品？",
-    "question_en": "Where was \"Cold War\" produced?",
-    "options_zh": [
-      "香港",
-      "台灣",
-      "美國",
-      "中國"
-    ],
-    "options_en": [
-      "Hong Kong",
-      "Taiwan",
-      "USA",
-      "China"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 2
-  },
-  {
-    "id": 15,
-    "question_zh": "《寒戰》係邊度出品？",
-    "question_en": "Where was \"Cold War\" produced?",
-    "options_zh": [
-      "香港",
-      "美國",
-      "中國",
-      "台灣"
-    ],
-    "options_en": [
-      "Hong Kong",
-      "USA",
-      "China",
-      "Taiwan"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 3
-  },
-  {
-    "id": 16,
-    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
-    "options_zh": [
-      "麻麻地",
-      "非常出色",
-      "普通",
-      "唔好"
-    ],
-    "options_en": [
-      "So-so",
-      "Excellent",
-      "Average",
-      "Bad"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 1
-  },
-  {
-    "id": 17,
-    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
-    "options_zh": [
-      "普通",
-      "麻麻地",
-      "唔好",
-      "非常出色"
-    ],
-    "options_en": [
-      "Average",
-      "So-so",
-      "Bad",
-      "Excellent"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 2
-  },
-  {
-    "id": 18,
-    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
-    "options_zh": [
-      "唔好",
-      "麻麻地",
-      "非常出色",
-      "普通"
-    ],
-    "options_en": [
-      "Bad",
-      "So-so",
-      "Excellent",
-      "Average"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 3
-  },
-  {
-    "id": 19,
-    "question_zh": "你會推薦《寒戰》俾朋友？",
-    "question_en": "Would you recommend \"Cold War\" to friends?",
-    "options_zh": [
-      "睇情況",
-      "唔會",
-      "唔知",
-      "會，非常推薦"
-    ],
-    "options_en": [
-      "Depends",
-      "No",
-      "Unknown",
-      "Yes, highly recommended"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 1
-  },
-  {
-    "id": 20,
-    "question_zh": "你會推薦《寒戰》俾朋友？",
-    "question_en": "Would you recommend \"Cold War\" to friends?",
-    "options_zh": [
-      "唔知",
-      "睇情況",
-      "會，非常推薦",
-      "唔會"
-    ],
-    "options_en": [
-      "Unknown",
-      "Depends",
-      "Yes, highly recommended",
-      "No"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 2
-  },
-  {
-    "id": 21,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
-    "options_zh": [
-      "其他電影Y",
-      "寒戰",
-      "其他電影Z",
-      "其他電影X"
-    ],
-    "options_en": [
-      "Other Movie Y",
-      "Cold War",
-      "Other Movie Z",
-      "Other Movie X"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
-    "difficulty": 3
-  },
-  {
-    "id": 22,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
-    "options_zh": [
-      "寒戰",
-      "其他電影Y",
-      "其他電影X",
-      "其他電影Z"
-    ],
-    "options_en": [
-      "Cold War",
-      "Other Movie Y",
-      "Other Movie X",
-      "Other Movie Z"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
-    "difficulty": 1
-  },
-  {
-    "id": 23,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
-    "options_zh": [
-      "其他電影X",
-      "其他電影Y",
-      "其他電影Z",
-      "寒戰"
-    ],
-    "options_en": [
-      "Other Movie X",
-      "Other Movie Y",
-      "Other Movie Z",
-      "Cold War"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
-    "difficulty": 2
-  },
-  {
-    "id": 24,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
-    "options_zh": [
-      "2012年",
-      "2014年",
-      "2017年",
-      "2009年"
-    ],
-    "options_en": [
-      "2012",
-      "2014",
-      "2017",
-      "2009"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 3
-  },
-  {
-    "id": 25,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
-    "options_zh": [
-      "2012年",
-      "2009年",
-      "2017年",
-      "2014年"
-    ],
-    "options_en": [
-      "2012",
-      "2009",
-      "2017",
-      "2014"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 1
-  },
-  {
-    "id": 26,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
-    "options_zh": [
-      "2012年",
-      "2014年",
-      "2017年",
-      "2009年"
-    ],
-    "options_en": [
-      "2012",
-      "2014",
-      "2017",
-      "2009"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 2
-  },
-  {
-    "id": 27,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
-    "options_zh": [
-      "梁樂民",
-      "王晶",
-      "劉偉強",
-      "杜琪峰"
-    ],
-    "options_en": [
-      "梁樂民",
-      "Wong Jing",
-      "Andrew Lau",
-      "Johnnie To"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「梁樂民」。",
-    "explanation_en": "The correct answer is '梁樂民'.",
-    "difficulty": 3
-  },
-  {
-    "id": 28,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
-    "options_zh": [
-      "梁樂民",
-      "杜琪峰",
-      "王晶",
-      "劉偉強"
-    ],
-    "options_en": [
-      "梁樂民",
-      "Johnnie To",
-      "Wong Jing",
-      "Andrew Lau"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「梁樂民」。",
-    "explanation_en": "The correct answer is '梁樂民'.",
-    "difficulty": 1
-  },
-  {
-    "id": 29,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
-    "options_zh": [
-      "劉偉強",
-      "王晶",
-      "梁樂民",
-      "杜琪峰"
-    ],
-    "options_en": [
-      "Andrew Lau",
-      "Wong Jing",
-      "梁樂民",
-      "Johnnie To"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「梁樂民」。",
-    "explanation_en": "The correct answer is '梁樂民'.",
-    "difficulty": 2
-  },
-  {
-    "id": 30,
-    "question_zh": "《寒戰》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
-    "options_zh": [
-      "只係客串",
-      "唔係",
-      "唔知",
-      "係"
-    ],
-    "options_en": [
-      "Cameo only",
-      "No",
-      "Unknown",
-      "Yes"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 3
-  },
-  {
-    "id": 31,
-    "question_zh": "《寒戰》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
-    "options_zh": [
-      "唔係",
-      "只係客串",
-      "唔知",
-      "係"
-    ],
-    "options_en": [
-      "No",
-      "Cameo only",
-      "Unknown",
-      "Yes"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 1
-  },
-  {
-    "id": 32,
-    "question_zh": "《寒戰》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
-    "options_zh": [
-      "係",
-      "唔知",
-      "唔係",
-      "只係客串"
-    ],
-    "options_en": [
-      "Yes",
-      "Unknown",
-      "No",
-      "Cameo only"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 2
-  },
-  {
-    "id": 33,
-    "question_zh": "《寒戰》係邊度出品？",
-    "question_en": "Where was \"Cold War\" produced?",
+    "question_zh": "梁家輝有份演出邊部電影？",
+    "question_en": "Which movie did Tony Leung Ka-fai appear in?",
     "options_zh": [
       "中國",
       "台灣",
-      "香港",
-      "美國"
-    ],
-    "options_en": [
-      "China",
-      "Taiwan",
-      "Hong Kong",
-      "USA"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 3
-  },
-  {
-    "id": 34,
-    "question_zh": "《寒戰》係邊度出品？",
-    "question_en": "Where was \"Cold War\" produced?",
-    "options_zh": [
-      "台灣",
-      "香港",
       "美國",
-      "中國"
-    ],
-    "options_en": [
-      "Taiwan",
-      "Hong Kong",
-      "USA",
-      "China"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 1
-  },
-  {
-    "id": 35,
-    "question_zh": "《寒戰》係邊度出品？",
-    "question_en": "Where was \"Cold War\" produced?",
-    "options_zh": [
-      "美國",
-      "台灣",
-      "中國",
       "香港"
     ],
     "options_en": [
-      "USA",
-      "Taiwan",
       "China",
+      "Taiwan",
+      "USA",
       "Hong Kong"
     ],
     "answer": 3,
@@ -735,587 +105,335 @@
     "difficulty": 2
   },
   {
-    "id": 36,
-    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
-    "options_zh": [
-      "普通",
-      "非常出色",
-      "麻麻地",
-      "唔好"
-    ],
-    "options_en": [
-      "Average",
-      "Excellent",
-      "So-so",
-      "Bad"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 3
-  },
-  {
-    "id": 37,
-    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
-    "options_zh": [
-      "麻麻地",
-      "唔好",
-      "普通",
-      "非常出色"
-    ],
-    "options_en": [
-      "So-so",
-      "Bad",
-      "Average",
-      "Excellent"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 1
-  },
-  {
-    "id": 38,
-    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
-    "options_zh": [
-      "普通",
-      "唔好",
-      "非常出色",
-      "麻麻地"
-    ],
-    "options_en": [
-      "Average",
-      "Bad",
-      "Excellent",
-      "So-so"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 2
-  },
-  {
-    "id": 39,
-    "question_zh": "你會推薦《寒戰》俾朋友？",
-    "question_en": "Would you recommend \"Cold War\" to friends?",
-    "options_zh": [
-      "會，非常推薦",
-      "唔知",
-      "睇情況",
-      "唔會"
-    ],
-    "options_en": [
-      "Yes, highly recommended",
-      "Unknown",
-      "Depends",
-      "No"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 3
-  },
-  {
-    "id": 40,
-    "question_zh": "你會推薦《寒戰》俾朋友？",
-    "question_en": "Would you recommend \"Cold War\" to friends?",
-    "options_zh": [
-      "會，非常推薦",
-      "唔知",
-      "睇情況",
-      "唔會"
-    ],
-    "options_en": [
-      "Yes, highly recommended",
-      "Unknown",
-      "Depends",
-      "No"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 1
-  },
-  {
-    "id": 41,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
-    "options_zh": [
-      "其他電影Y",
-      "寒戰",
-      "其他電影Z",
-      "其他電影X"
-    ],
-    "options_en": [
-      "Other Movie Y",
-      "Cold War",
-      "Other Movie Z",
-      "Other Movie X"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
-    "difficulty": 2
-  },
-  {
-    "id": 42,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
-    "options_zh": [
-      "其他電影X",
-      "其他電影Z",
-      "寒戰",
-      "其他電影Y"
-    ],
-    "options_en": [
-      "Other Movie X",
-      "Other Movie Z",
-      "Cold War",
-      "Other Movie Y"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
-    "difficulty": 3
-  },
-  {
-    "id": 43,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
-    "options_zh": [
-      "寒戰",
-      "其他電影Z",
-      "其他電影Y",
-      "其他電影X"
-    ],
-    "options_en": [
-      "Cold War",
-      "Other Movie Z",
-      "Other Movie Y",
-      "Other Movie X"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
-    "difficulty": 1
-  },
-  {
-    "id": 44,
+    "id": 6,
     "question_zh": "《寒戰》係邊年上映嘅？",
     "question_en": "What year was \"Cold War\" released?",
     "options_zh": [
-      "2017年",
-      "2012年",
-      "2009年",
-      "2014年"
+      "客串",
+      "路人",
+      "主角",
+      "配角"
     ],
     "options_en": [
-      "2017",
-      "2012",
-      "2009",
-      "2014"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 2
-  },
-  {
-    "id": 45,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
-    "options_zh": [
-      "2012年",
-      "2009年",
-      "2014年",
-      "2017年"
-    ],
-    "options_en": [
-      "2012",
-      "2009",
-      "2014",
-      "2017"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 3
-  },
-  {
-    "id": 46,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
-    "options_zh": [
-      "2017年",
-      "2014年",
-      "2012年",
-      "2009年"
-    ],
-    "options_en": [
-      "2017",
-      "2014",
-      "2012",
-      "2009"
+      "Cameo",
+      "Passerby",
+      "Main Character",
+      "Supporting"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 1
-  },
-  {
-    "id": 47,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
-    "options_zh": [
-      "劉偉強",
-      "王晶",
-      "杜琪峰",
-      "梁樂民"
-    ],
-    "options_en": [
-      "Andrew Lau",
-      "Wong Jing",
-      "Johnnie To",
-      "梁樂民"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「梁樂民」。",
-    "explanation_en": "The correct answer is '梁樂民'.",
-    "difficulty": 2
-  },
-  {
-    "id": 48,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
-    "options_zh": [
-      "王晶",
-      "梁樂民",
-      "杜琪峰",
-      "劉偉強"
-    ],
-    "options_en": [
-      "Wong Jing",
-      "梁樂民",
-      "Johnnie To",
-      "Andrew Lau"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「梁樂民」。",
-    "explanation_en": "The correct answer is '梁樂民'.",
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
     "difficulty": 3
   },
   {
-    "id": 49,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
-    "options_zh": [
-      "劉偉強",
-      "王晶",
-      "杜琪峰",
-      "梁樂民"
-    ],
-    "options_en": [
-      "Andrew Lau",
-      "Wong Jing",
-      "Johnnie To",
-      "梁樂民"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「梁樂民」。",
-    "explanation_en": "The correct answer is '梁樂民'.",
-    "difficulty": 1
-  },
-  {
-    "id": 50,
-    "question_zh": "《寒戰》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
-    "options_zh": [
-      "唔係",
-      "係",
-      "只係客串",
-      "唔知"
-    ],
-    "options_en": [
-      "No",
-      "Yes",
-      "Cameo only",
-      "Unknown"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 2
-  },
-  {
-    "id": 51,
-    "question_zh": "《寒戰》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
-    "options_zh": [
-      "唔係",
-      "係",
-      "只係客串",
-      "唔知"
-    ],
-    "options_en": [
-      "No",
-      "Yes",
-      "Cameo only",
-      "Unknown"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 3
-  },
-  {
-    "id": 52,
-    "question_zh": "《寒戰》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
-    "options_zh": [
-      "唔知",
-      "唔係",
-      "只係客串",
-      "係"
-    ],
-    "options_en": [
-      "Unknown",
-      "No",
-      "Cameo only",
-      "Yes"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 1
-  },
-  {
-    "id": 53,
-    "question_zh": "《寒戰》係邊度出品？",
-    "question_en": "Where was \"Cold War\" produced?",
-    "options_zh": [
-      "香港",
-      "台灣",
-      "中國",
-      "美國"
-    ],
-    "options_en": [
-      "Hong Kong",
-      "Taiwan",
-      "China",
-      "USA"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 2
-  },
-  {
-    "id": 54,
-    "question_zh": "《寒戰》係邊度出品？",
-    "question_en": "Where was \"Cold War\" produced?",
-    "options_zh": [
-      "香港",
-      "美國",
-      "台灣",
-      "中國"
-    ],
-    "options_en": [
-      "Hong Kong",
-      "USA",
-      "Taiwan",
-      "China"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 3
-  },
-  {
-    "id": 55,
-    "question_zh": "《寒戰》係邊度出品？",
-    "question_en": "Where was \"Cold War\" produced?",
-    "options_zh": [
-      "美國",
-      "香港",
-      "台灣",
-      "中國"
-    ],
-    "options_en": [
-      "USA",
-      "Hong Kong",
-      "Taiwan",
-      "China"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 1
-  },
-  {
-    "id": 56,
-    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
-    "options_zh": [
-      "麻麻地",
-      "唔好",
-      "普通",
-      "非常出色"
-    ],
-    "options_en": [
-      "So-so",
-      "Bad",
-      "Average",
-      "Excellent"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 2
-  },
-  {
-    "id": 57,
-    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
-    "options_zh": [
-      "麻麻地",
-      "非常出色",
-      "普通",
-      "唔好"
-    ],
-    "options_en": [
-      "So-so",
-      "Excellent",
-      "Average",
-      "Bad"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 3
-  },
-  {
-    "id": 58,
-    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
-    "options_zh": [
-      "唔好",
-      "非常出色",
-      "麻麻地",
-      "普通"
-    ],
-    "options_en": [
-      "Bad",
-      "Excellent",
-      "So-so",
-      "Average"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 1
-  },
-  {
-    "id": 59,
-    "question_zh": "你會推薦《寒戰》俾朋友？",
-    "question_en": "Would you recommend \"Cold War\" to friends?",
-    "options_zh": [
-      "會，非常推薦",
-      "睇情況",
-      "唔知",
-      "唔會"
-    ],
-    "options_en": [
-      "Yes, highly recommended",
-      "Depends",
-      "Unknown",
-      "No"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 2
-  },
-  {
-    "id": 60,
-    "question_zh": "你會推薦《寒戰》俾朋友？",
-    "question_en": "Would you recommend \"Cold War\" to friends?",
+    "id": 7,
+    "question_zh": "《寒戰》幾時出嘅？",
+    "question_en": "When was \"Cold War\" released?",
     "options_zh": [
       "唔會",
-      "唔知",
       "會，非常推薦",
+      "唔知",
       "睇情況"
     ],
     "options_en": [
       "No",
-      "Unknown",
       "Yes, highly recommended",
+      "Unknown",
       "Depends"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「會，非常推薦」。",
     "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 3
-  },
-  {
-    "id": 61,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
-    "options_zh": [
-      "寒戰",
-      "其他電影Z",
-      "其他電影Y",
-      "其他電影X"
-    ],
-    "options_en": [
-      "Cold War",
-      "Other Movie Z",
-      "Other Movie Y",
-      "Other Movie X"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
     "difficulty": 1
   },
   {
-    "id": 62,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
+    "id": 8,
+    "question_zh": "《寒戰》嘅上映年份係？",
+    "question_en": "What is the release year of \"Cold War\"?",
     "options_zh": [
-      "其他電影Y",
-      "其他電影X",
-      "其他電影Z",
-      "寒戰"
+      "低質素",
+      "高質素",
+      "普通",
+      "參差"
     ],
     "options_en": [
-      "Other Movie Y",
-      "Other Movie X",
-      "Other Movie Z",
-      "Cold War"
+      "Low",
+      "High quality",
+      "Average",
+      "Mixed"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question_zh": "《寒戰》係幾年前出嘅？",
+    "question_en": "How many years ago was \"Cold War\" released?",
+    "options_zh": [
+      "只喺本地",
+      "非常受歡迎",
+      "已經過氣",
+      "唔受歡迎"
+    ],
+    "options_en": [
+      "Local only",
+      "Very popular",
+      "Outdated",
+      "Unpopular"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Very popular'.",
+    "difficulty": 3
+  },
+  {
+    "id": 10,
+    "question_zh": "《寒戰》係邊個年代嘅電影？",
+    "question_en": "What decade is \"Cold War\" from?",
+    "options_zh": [
+      "有攞過獎",
+      "冇",
+      "唔知",
+      "只有提名"
+    ],
+    "options_en": [
+      "Yes, won awards",
+      "No",
+      "Unknown",
+      "Only nominated"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「有攞過獎」。",
+    "explanation_en": "The correct answer is 'Yes, won awards'.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "《寒戰》嘅導演係邊個？",
+    "question_en": "Who directed \"Cold War\"?",
+    "options_zh": [
+      "其他演員C",
+      "梁家輝",
+      "其他演員B",
+      "其他演員A"
+    ],
+    "options_en": [
+      "Actor C",
+      "Tony Leung Ka-fai",
+      "Actor B",
+      "Actor A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「梁家輝」。",
+    "explanation_en": "The correct answer is 'Tony Leung Ka-fai'.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "邊個導演拍《寒戰》？",
+    "question_en": "Who directed \"Cold War\"?",
+    "options_zh": [
+      "精彩故事",
+      "體育賽事",
+      "音樂會",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Exciting story",
+      "Sports",
+      "Concert",
+      "Documentary"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「精彩故事」。",
+    "explanation_en": "The correct answer is 'Exciting story'.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "《寒戰》係邊個執導？",
+    "question_en": "Who helmed \"Cold War\"?",
+    "options_zh": [
+      "約2小時",
+      "約4小時",
+      "約30分鐘",
+      "約6小時"
+    ],
+    "options_en": [
+      "About 2 hours",
+      "4 hours",
+      "30 min",
+      "6 hours"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「約2小時」。",
+    "explanation_en": "The correct answer is 'About 2 hours'.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《寒戰》嘅導演叫咩名？",
+    "question_en": "What is the director's name for \"Cold War\"?",
+    "options_zh": [
+      "2012s",
+      "1950s",
+      "1930s",
+      "2020s"
+    ],
+    "options_en": [
+      "2012s",
+      "1950s",
+      "1930s",
+      "2020s"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2012s」。",
+    "explanation_en": "The correct answer is '2012s'.",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_zh": "《寒戰》係邊個拍嘅？",
+    "question_en": "Who made \"Cold War\"?",
+    "options_zh": [
+      "韓語",
+      "日語",
+      "英語",
+      "粵語"
+    ],
+    "options_en": [
+      "Korean",
+      "Japanese",
+      "English",
+      "Cantonese"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
+    "explanation_zh": "正確答案係「粵語」。",
+    "explanation_en": "The correct answer is 'Cantonese'.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "《寒戰》係咩類型嘅電影？",
+    "question_en": "What genre is \"Cold War\"?",
+    "options_zh": [
+      "冇上映",
+      "票房差",
+      "票房理想",
+      "唔知"
+    ],
+    "options_en": [
+      "Not released",
+      "Poor",
+      "Good box office",
+      "Unknown"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「票房理想」。",
+    "explanation_en": "The correct answer is 'Good box office'.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《寒戰》屬於邊種類型？",
+    "question_en": "What type is \"Cold War\"?",
+    "options_zh": [
+      "唔知",
+      "有續集",
+      "只有前傳",
+      "冇續集"
+    ],
+    "options_en": [
+      "Unknown",
+      "Yes, has sequel",
+      "Only prequel",
+      "No sequel"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「有續集」。",
+    "explanation_en": "The correct answer is 'Yes, has sequel'.",
     "difficulty": 2
   },
   {
-    "id": 63,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
+    "id": 18,
+    "question_zh": "你會點分類《寒戰》？",
+    "question_en": "How would you classify \"Cold War\"?",
+    "options_zh": [
+      "差",
+      "普通",
+      "好聽",
+      "冇音樂"
+    ],
+    "options_en": [
+      "Bad",
+      "Average",
+      "Great music",
+      "No music"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「好聽」。",
+    "explanation_en": "The correct answer is 'Great music'.",
+    "difficulty": 3
+  },
+  {
+    "id": 19,
+    "question_zh": "《寒戰》係動作片定文藝片？",
+    "question_en": "Is \"Cold War\" action or drama?",
+    "options_zh": [
+      "歐洲",
+      "美國",
+      "香港",
+      "日本"
+    ],
+    "options_en": [
+      "Europe",
+      "USA",
+      "Hong Kong",
+      "Japan"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question_zh": "《寒戰》嘅電影類型係？",
+    "question_en": "What is the movie type of \"Cold War\"?",
+    "options_zh": [
+      "冇影響",
+      "好大影響",
+      "負面影響",
+      "唔知"
+    ],
+    "options_en": [
+      "No impact",
+      "Great impact",
+      "Negative",
+      "Unknown"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「好大影響」。",
+    "explanation_en": "The correct answer is 'Great impact'.",
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "question_zh": "《寒戰》係邊度出品？",
+    "question_en": "Where was \"Cold War\" produced?",
     "options_zh": [
       "寒戰",
-      "其他電影Y",
       "其他電影Z",
+      "其他電影Y",
       "其他電影X"
     ],
     "options_en": [
       "Cold War",
-      "Other Movie Y",
-      "Other Movie Z",
-      "Other Movie X"
+      "Other Z",
+      "Other Y",
+      "Other X"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「寒戰」。",
@@ -1323,240 +441,492 @@
     "difficulty": 3
   },
   {
-    "id": 64,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
+    "id": 22,
+    "question_zh": "《寒戰》係邊個國家嘅電影？",
+    "question_en": "Which country is \"Cold War\" from?",
     "options_zh": [
-      "2014年",
       "2009年",
-      "2012年",
-      "2017年"
-    ],
-    "options_en": [
-      "2014",
-      "2009",
-      "2012",
-      "2017"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 1
-  },
-  {
-    "id": 65,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
-    "options_zh": [
-      "2012年",
-      "2017年",
       "2014年",
-      "2009年"
-    ],
-    "options_en": [
-      "2012",
-      "2017",
-      "2014",
-      "2009"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 2
-  },
-  {
-    "id": 66,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
-    "options_zh": [
-      "2014年",
-      "2009年",
       "2017年",
       "2012年"
     ],
     "options_en": [
-      "2014",
       "2009",
+      "2014",
       "2017",
       "2012"
     ],
     "answer": 3,
     "explanation_zh": "正確答案係「2012年」。",
     "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 3
-  },
-  {
-    "id": 67,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
-    "options_zh": [
-      "劉偉強",
-      "梁樂民",
-      "王晶",
-      "杜琪峰"
-    ],
-    "options_en": [
-      "Andrew Lau",
-      "梁樂民",
-      "Wong Jing",
-      "Johnnie To"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「梁樂民」。",
-    "explanation_en": "The correct answer is '梁樂民'.",
     "difficulty": 1
   },
   {
-    "id": 68,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
+    "id": 23,
+    "question_zh": "《寒戰》係港產片？",
+    "question_en": "Is \"Cold War\" a Hong Kong movie?",
     "options_zh": [
+      "梁樂民",
+      "王晶",
       "杜琪峰",
-      "梁樂民",
-      "劉偉強",
-      "王晶"
+      "劉偉強"
     ],
     "options_en": [
-      "Johnnie To",
-      "梁樂民",
-      "Andrew Lau",
-      "Wong Jing"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「梁樂民」。",
-    "explanation_en": "The correct answer is '梁樂民'.",
-    "difficulty": 2
-  },
-  {
-    "id": 69,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
-    "options_zh": [
-      "劉偉強",
-      "王晶",
-      "梁樂民",
-      "杜琪峰"
-    ],
-    "options_en": [
-      "Andrew Lau",
+      "Longman Leung",
       "Wong Jing",
-      "梁樂民",
-      "Johnnie To"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「梁樂民」。",
-    "explanation_en": "The correct answer is '梁樂民'.",
-    "difficulty": 3
-  },
-  {
-    "id": 70,
-    "question_zh": "《寒戰》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
-    "options_zh": [
-      "唔係",
-      "唔知",
-      "係",
-      "只係客串"
-    ],
-    "options_en": [
-      "No",
-      "Unknown",
-      "Yes",
-      "Cameo only"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 1
-  },
-  {
-    "id": 71,
-    "question_zh": "《寒戰》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
-    "options_zh": [
-      "唔係",
-      "只係客串",
-      "唔知",
-      "係"
-    ],
-    "options_en": [
-      "No",
-      "Cameo only",
-      "Unknown",
-      "Yes"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 2
-  },
-  {
-    "id": 72,
-    "question_zh": "《寒戰》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
-    "options_zh": [
-      "係",
-      "唔係",
-      "唔知",
-      "只係客串"
-    ],
-    "options_en": [
-      "Yes",
-      "No",
-      "Unknown",
-      "Cameo only"
+      "Johnnie To",
+      "Andrew Lau"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "explanation_zh": "正確答案係「梁樂民」。",
+    "explanation_en": "The correct answer is 'Longman Leung'.",
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question_zh": "《寒戰》嘅出品地方係？",
+    "question_en": "Where is \"Cold War\" from?",
+    "options_zh": [
+      "音樂劇",
+      "紀錄片",
+      "動作",
+      "動畫"
+    ],
+    "options_en": [
+      "Musical",
+      "Documentary",
+      "Action",
+      "Animation"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is 'Action'.",
     "difficulty": 3
   },
   {
-    "id": 73,
-    "question_zh": "《寒戰》係邊度出品？",
-    "question_en": "Where was \"Cold War\" produced?",
+    "id": 25,
+    "question_zh": "《寒戰》係邊度拍嘅？",
+    "question_en": "Where was \"Cold War\" made?",
     "options_zh": [
       "中國",
-      "香港",
-      "美國",
-      "台灣"
-    ],
-    "options_en": [
-      "China",
-      "Hong Kong",
-      "USA",
-      "Taiwan"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 1
-  },
-  {
-    "id": 74,
-    "question_zh": "《寒戰》係邊度出品？",
-    "question_en": "Where was \"Cold War\" produced?",
-    "options_zh": [
-      "香港",
       "台灣",
-      "中國",
+      "香港",
       "美國"
     ],
     "options_en": [
-      "Hong Kong",
-      "Taiwan",
       "China",
+      "Taiwan",
+      "Hong Kong",
       "USA"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「香港」。",
     "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question_zh": "梁家輝喺《寒戰》入面演咩角色？",
+    "question_en": "What role does Tony Leung Ka-fai play in \"Cold War\"?",
+    "options_zh": [
+      "客串",
+      "主角",
+      "路人",
+      "配角"
+    ],
+    "options_en": [
+      "Cameo",
+      "Main Character",
+      "Passerby",
+      "Supporting"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
     "difficulty": 2
   },
   {
-    "id": 75,
-    "question_zh": "《寒戰》係邊度出品？",
-    "question_en": "Where was \"Cold War\" produced?",
+    "id": 27,
+    "question_zh": "梁家輝喺《寒戰》係咩身分？",
+    "question_en": "What is Tony Leung Ka-fai's role in \"Cold War\"?",
+    "options_zh": [
+      "唔知",
+      "會，非常推薦",
+      "唔會",
+      "睇情況"
+    ],
+    "options_en": [
+      "Unknown",
+      "Yes, highly recommended",
+      "No",
+      "Depends"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
+  },
+  {
+    "id": 28,
+    "question_zh": "《寒戰》入面梁家輝係咩人？",
+    "question_en": "Who is Tony Leung Ka-fai in \"Cold War\"?",
+    "options_zh": [
+      "低質素",
+      "參差",
+      "普通",
+      "高質素"
+    ],
+    "options_en": [
+      "Low",
+      "Mixed",
+      "Average",
+      "High quality"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question_zh": "梁家輝喺《寒戰》嘅角色叫咩？",
+    "question_en": "What is Tony Leung Ka-fai's character name in \"Cold War\"?",
+    "options_zh": [
+      "非常受歡迎",
+      "唔受歡迎",
+      "只喺本地",
+      "已經過氣"
+    ],
+    "options_en": [
+      "Very popular",
+      "Unpopular",
+      "Local only",
+      "Outdated"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Very popular'.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "《寒戰》入面梁家輝做咩？",
+    "question_en": "What does Tony Leung Ka-fai do in \"Cold War\"?",
+    "options_zh": [
+      "有攞過獎",
+      "唔知",
+      "只有提名",
+      "冇"
+    ],
+    "options_en": [
+      "Yes, won awards",
+      "Unknown",
+      "Only nominated",
+      "No"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「有攞過獎」。",
+    "explanation_en": "The correct answer is 'Yes, won awards'.",
+    "difficulty": 3
+  },
+  {
+    "id": 31,
+    "question_zh": "你會推薦《寒戰》俾朋友？",
+    "question_en": "Would you recommend \"Cold War\"?",
+    "options_zh": [
+      "梁家輝",
+      "其他演員B",
+      "其他演員A",
+      "其他演員C"
+    ],
+    "options_en": [
+      "Tony Leung Ka-fai",
+      "Actor B",
+      "Actor A",
+      "Actor C"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「梁家輝」。",
+    "explanation_en": "The correct answer is 'Tony Leung Ka-fai'.",
+    "difficulty": 1
+  },
+  {
+    "id": 32,
+    "question_zh": "《寒戰》值唔值得睇？",
+    "question_en": "Is \"Cold War\" worth watching?",
+    "options_zh": [
+      "精彩故事",
+      "紀錄片",
+      "體育賽事",
+      "音樂會"
+    ],
+    "options_en": [
+      "Exciting story",
+      "Documentary",
+      "Sports",
+      "Concert"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「精彩故事」。",
+    "explanation_en": "The correct answer is 'Exciting story'.",
+    "difficulty": 2
+  },
+  {
+    "id": 33,
+    "question_zh": "《寒戰》好唔好睇？",
+    "question_en": "Is \"Cold War\" good?",
+    "options_zh": [
+      "約30分鐘",
+      "約2小時",
+      "約6小時",
+      "約4小時"
+    ],
+    "options_en": [
+      "30 min",
+      "About 2 hours",
+      "6 hours",
+      "4 hours"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「約2小時」。",
+    "explanation_en": "The correct answer is 'About 2 hours'.",
+    "difficulty": 3
+  },
+  {
+    "id": 34,
+    "question_zh": "你鍾唔鍾意《寒戰》？",
+    "question_en": "Do you like \"Cold War\"?",
+    "options_zh": [
+      "2012s",
+      "1950s",
+      "1930s",
+      "2020s"
+    ],
+    "options_en": [
+      "2012s",
+      "1950s",
+      "1930s",
+      "2020s"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2012s」。",
+    "explanation_en": "The correct answer is '2012s'.",
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question_zh": "《寒戰》正唔正？",
+    "question_en": "Is \"Cold War\" great?",
+    "options_zh": [
+      "韓語",
+      "英語",
+      "粵語",
+      "日語"
+    ],
+    "options_en": [
+      "Korean",
+      "English",
+      "Cantonese",
+      "Japanese"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「粵語」。",
+    "explanation_en": "The correct answer is 'Cantonese'.",
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "question_zh": "《寒戰》嘅質素如何？",
+    "question_en": "How is the quality of \"Cold War\"?",
+    "options_zh": [
+      "票房差",
+      "冇上映",
+      "票房理想",
+      "唔知"
+    ],
+    "options_en": [
+      "Poor",
+      "Not released",
+      "Good box office",
+      "Unknown"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「票房理想」。",
+    "explanation_en": "The correct answer is 'Good box office'.",
+    "difficulty": 3
+  },
+  {
+    "id": 37,
+    "question_zh": "《寒戰》拍得好唔好？",
+    "question_en": "Is \"Cold War\" well-made?",
+    "options_zh": [
+      "唔知",
+      "有續集",
+      "只有前傳",
+      "冇續集"
+    ],
+    "options_en": [
+      "Unknown",
+      "Yes, has sequel",
+      "Only prequel",
+      "No sequel"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「有續集」。",
+    "explanation_en": "The correct answer is 'Yes, has sequel'.",
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "question_zh": "《寒戰》嘅製作水平如何？",
+    "question_en": "How is the production quality of \"Cold War\"?",
+    "options_zh": [
+      "冇音樂",
+      "差",
+      "好聽",
+      "普通"
+    ],
+    "options_en": [
+      "No music",
+      "Bad",
+      "Great music",
+      "Average"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「好聽」。",
+    "explanation_en": "The correct answer is 'Great music'.",
+    "difficulty": 2
+  },
+  {
+    "id": 39,
+    "question_zh": "《寒戰》嘅劇本如何？",
+    "question_en": "How is the script of \"Cold War\"?",
+    "options_zh": [
+      "日本",
+      "香港",
+      "美國",
+      "歐洲"
+    ],
+    "options_en": [
+      "Japan",
+      "Hong Kong",
+      "USA",
+      "Europe"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
+  },
+  {
+    "id": 40,
+    "question_zh": "《寒戰》嘅攝影如何？",
+    "question_en": "How is the cinematography of \"Cold War\"?",
+    "options_zh": [
+      "負面影響",
+      "冇影響",
+      "唔知",
+      "好大影響"
+    ],
+    "options_en": [
+      "Negative",
+      "No impact",
+      "Unknown",
+      "Great impact"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「好大影響」。",
+    "explanation_en": "The correct answer is 'Great impact'.",
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question_zh": "《寒戰》受唔受歡迎？",
+    "question_en": "Is \"Cold War\" popular?",
+    "options_zh": [
+      "寒戰",
+      "其他電影X",
+      "其他電影Z",
+      "其他電影Y"
+    ],
+    "options_en": [
+      "Cold War",
+      "Other X",
+      "Other Z",
+      "Other Y"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「寒戰」。",
+    "explanation_en": "The correct answer is 'Cold War'.",
+    "difficulty": 2
+  },
+  {
+    "id": 42,
+    "question_zh": "《寒戰》紅唔紅？",
+    "question_en": "Is \"Cold War\" famous?",
+    "options_zh": [
+      "2014年",
+      "2012年",
+      "2009年",
+      "2017年"
+    ],
+    "options_en": [
+      "2014",
+      "2012",
+      "2009",
+      "2017"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「2012年」。",
+    "explanation_en": "The correct answer is '2012'.",
+    "difficulty": 3
+  },
+  {
+    "id": 43,
+    "question_zh": "《寒戰》嘅知名度如何？",
+    "question_en": "How well-known is \"Cold War\"?",
+    "options_zh": [
+      "王晶",
+      "梁樂民",
+      "杜琪峰",
+      "劉偉強"
+    ],
+    "options_en": [
+      "Wong Jing",
+      "Longman Leung",
+      "Johnnie To",
+      "Andrew Lau"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「梁樂民」。",
+    "explanation_en": "The correct answer is 'Longman Leung'.",
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "question_zh": "《寒戰》有冇人睇？",
+    "question_en": "Does anyone watch \"Cold War\"?",
+    "options_zh": [
+      "紀錄片",
+      "動作",
+      "動畫",
+      "音樂劇"
+    ],
+    "options_en": [
+      "Documentary",
+      "Action",
+      "Animation",
+      "Musical"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is 'Action'.",
+    "difficulty": 2
+  },
+  {
+    "id": 45,
+    "question_zh": "《寒戰》嘅人氣如何？",
+    "question_en": "How popular is \"Cold War\"?",
     "options_zh": [
       "香港",
       "台灣",
@@ -1575,177 +945,345 @@
     "difficulty": 3
   },
   {
-    "id": 76,
-    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
+    "id": 46,
+    "question_zh": "《寒戰》有冇攞過獎？",
+    "question_en": "Did \"Cold War\" win awards?",
     "options_zh": [
-      "非常出色",
-      "普通",
-      "麻麻地",
-      "唔好"
+      "客串",
+      "主角",
+      "配角",
+      "路人"
     ],
     "options_en": [
-      "Excellent",
+      "Cameo",
+      "Main Character",
+      "Supporting",
+      "Passerby"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 1
+  },
+  {
+    "id": 47,
+    "question_zh": "《寒戰》嘅獎項如何？",
+    "question_en": "What awards did \"Cold War\" win?",
+    "options_zh": [
+      "睇情況",
+      "唔會",
+      "會，非常推薦",
+      "唔知"
+    ],
+    "options_en": [
+      "Depends",
+      "No",
+      "Yes, highly recommended",
+      "Unknown"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 2
+  },
+  {
+    "id": 48,
+    "question_zh": "《寒戰》有冇提名？",
+    "question_en": "Was \"Cold War\" nominated?",
+    "options_zh": [
+      "高質素",
+      "普通",
+      "低質素",
+      "參差"
+    ],
+    "options_en": [
+      "High quality",
       "Average",
-      "So-so",
+      "Low",
+      "Mixed"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
+    "difficulty": 3
+  },
+  {
+    "id": 49,
+    "question_zh": "《寒戰》喺頒獎禮表現如何？",
+    "question_en": "How did \"Cold War\" do at award shows?",
+    "options_zh": [
+      "非常受歡迎",
+      "只喺本地",
+      "唔受歡迎",
+      "已經過氣"
+    ],
+    "options_en": [
+      "Very popular",
+      "Local only",
+      "Unpopular",
+      "Outdated"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Very popular'.",
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question_zh": "《寒戰》攞過咩獎？",
+    "question_en": "What awards did \"Cold War\" receive?",
+    "options_zh": [
+      "有攞過獎",
+      "唔知",
+      "只有提名",
+      "冇"
+    ],
+    "options_en": [
+      "Yes, won awards",
+      "Unknown",
+      "Only nominated",
+      "No"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「有攞過獎」。",
+    "explanation_en": "The correct answer is 'Yes, won awards'.",
+    "difficulty": 2
+  },
+  {
+    "id": 51,
+    "question_zh": "《寒戰》嘅主要演員係邊個？",
+    "question_en": "Who are the main actors in \"Cold War\"?",
+    "options_zh": [
+      "其他演員B",
+      "其他演員C",
+      "梁家輝",
+      "其他演員A"
+    ],
+    "options_en": [
+      "Actor B",
+      "Actor C",
+      "Tony Leung Ka-fai",
+      "Actor A"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「梁家輝」。",
+    "explanation_en": "The correct answer is 'Tony Leung Ka-fai'.",
+    "difficulty": 3
+  },
+  {
+    "id": 52,
+    "question_zh": "《寒戰》有邊啲演員？",
+    "question_en": "Who stars in \"Cold War\"?",
+    "options_zh": [
+      "紀錄片",
+      "體育賽事",
+      "音樂會",
+      "精彩故事"
+    ],
+    "options_en": [
+      "Documentary",
+      "Sports",
+      "Concert",
+      "Exciting story"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「精彩故事」。",
+    "explanation_en": "The correct answer is 'Exciting story'.",
+    "difficulty": 1
+  },
+  {
+    "id": 53,
+    "question_zh": "《寒戰》嘅卡士如何？",
+    "question_en": "How is the cast of \"Cold War\"?",
+    "options_zh": [
+      "約6小時",
+      "約30分鐘",
+      "約4小時",
+      "約2小時"
+    ],
+    "options_en": [
+      "6 hours",
+      "30 min",
+      "4 hours",
+      "About 2 hours"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「約2小時」。",
+    "explanation_en": "The correct answer is 'About 2 hours'.",
+    "difficulty": 2
+  },
+  {
+    "id": 54,
+    "question_zh": "《寒戰》邊個做主角？",
+    "question_en": "Who is the lead in \"Cold War\"?",
+    "options_zh": [
+      "2012s",
+      "1950s",
+      "2020s",
+      "1930s"
+    ],
+    "options_en": [
+      "2012s",
+      "1950s",
+      "2020s",
+      "1930s"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2012s」。",
+    "explanation_en": "The correct answer is '2012s'.",
+    "difficulty": 3
+  },
+  {
+    "id": 55,
+    "question_zh": "《寒戰》嘅演員陣容如何？",
+    "question_en": "How is the ensemble of \"Cold War\"?",
+    "options_zh": [
+      "英語",
+      "粵語",
+      "韓語",
+      "日語"
+    ],
+    "options_en": [
+      "English",
+      "Cantonese",
+      "Korean",
+      "Japanese"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「粵語」。",
+    "explanation_en": "The correct answer is 'Cantonese'.",
+    "difficulty": 1
+  },
+  {
+    "id": 56,
+    "question_zh": "《寒戰》嘅故事講咩？",
+    "question_en": "What is \"Cold War\" about?",
+    "options_zh": [
+      "票房理想",
+      "唔知",
+      "票房差",
+      "冇上映"
+    ],
+    "options_en": [
+      "Good box office",
+      "Unknown",
+      "Poor",
+      "Not released"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「票房理想」。",
+    "explanation_en": "The correct answer is 'Good box office'.",
+    "difficulty": 2
+  },
+  {
+    "id": 57,
+    "question_zh": "《寒戰》嘅劇情係？",
+    "question_en": "What is the plot of \"Cold War\"?",
+    "options_zh": [
+      "有續集",
+      "只有前傳",
+      "冇續集",
+      "唔知"
+    ],
+    "options_en": [
+      "Yes, has sequel",
+      "Only prequel",
+      "No sequel",
+      "Unknown"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「有續集」。",
+    "explanation_en": "The correct answer is 'Yes, has sequel'.",
+    "difficulty": 3
+  },
+  {
+    "id": 58,
+    "question_zh": "《寒戰》嘅故事大綱係？",
+    "question_en": "What is the synopsis of \"Cold War\"?",
+    "options_zh": [
+      "好聽",
+      "冇音樂",
+      "普通",
+      "差"
+    ],
+    "options_en": [
+      "Great music",
+      "No music",
+      "Average",
       "Bad"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "explanation_zh": "正確答案係「好聽」。",
+    "explanation_en": "The correct answer is 'Great music'.",
     "difficulty": 1
   },
   {
-    "id": 77,
-    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
+    "id": 59,
+    "question_zh": "《寒戰》講緊咩嘢？",
+    "question_en": "What is \"Cold War\" about?",
     "options_zh": [
-      "唔好",
-      "非常出色",
-      "普通",
-      "麻麻地"
+      "香港",
+      "日本",
+      "歐洲",
+      "美國"
     ],
     "options_en": [
-      "Bad",
-      "Excellent",
-      "Average",
-      "So-so"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 2
-  },
-  {
-    "id": 78,
-    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
-    "options_zh": [
-      "麻麻地",
-      "普通",
-      "唔好",
-      "非常出色"
-    ],
-    "options_en": [
-      "So-so",
-      "Average",
-      "Bad",
-      "Excellent"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 3
-  },
-  {
-    "id": 79,
-    "question_zh": "你會推薦《寒戰》俾朋友？",
-    "question_en": "Would you recommend \"Cold War\" to friends?",
-    "options_zh": [
-      "睇情況",
-      "會，非常推薦",
-      "唔知",
-      "唔會"
-    ],
-    "options_en": [
-      "Depends",
-      "Yes, highly recommended",
-      "Unknown",
-      "No"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 1
-  },
-  {
-    "id": 80,
-    "question_zh": "你會推薦《寒戰》俾朋友？",
-    "question_en": "Would you recommend \"Cold War\" to friends?",
-    "options_zh": [
-      "會，非常推薦",
-      "唔知",
-      "睇情況",
-      "唔會"
-    ],
-    "options_en": [
-      "Yes, highly recommended",
-      "Unknown",
-      "Depends",
-      "No"
+      "Hong Kong",
+      "Japan",
+      "Europe",
+      "USA"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
     "difficulty": 2
   },
   {
-    "id": 81,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
+    "id": 60,
+    "question_zh": "《寒戰》嘅內容係？",
+    "question_en": "What is the content of \"Cold War\"?",
     "options_zh": [
-      "其他電影Z",
-      "其他電影Y",
-      "其他電影X",
-      "寒戰"
+      "唔知",
+      "好大影響",
+      "負面影響",
+      "冇影響"
     ],
     "options_en": [
-      "Other Movie Z",
-      "Other Movie Y",
-      "Other Movie X",
-      "Cold War"
+      "Unknown",
+      "Great impact",
+      "Negative",
+      "No impact"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「好大影響」。",
+    "explanation_en": "The correct answer is 'Great impact'.",
     "difficulty": 3
   },
   {
-    "id": 82,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
+    "id": 61,
+    "question_zh": "《寒戰》大約幾長？",
+    "question_en": "How long is \"Cold War\"?",
     "options_zh": [
-      "其他電影Z",
-      "其他電影X",
       "其他電影Y",
-      "寒戰"
-    ],
-    "options_en": [
-      "Other Movie Z",
-      "Other Movie X",
-      "Other Movie Y",
-      "Cold War"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「寒戰」。",
-    "explanation_en": "The correct answer is 'Cold War'.",
-    "difficulty": 1
-  },
-  {
-    "id": 83,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（寒戰）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Cold War)",
-    "options_zh": [
       "其他電影Z",
-      "其他電影X",
       "寒戰",
-      "其他電影Y"
+      "其他電影X"
     ],
     "options_en": [
-      "Other Movie Z",
-      "Other Movie X",
+      "Other Y",
+      "Other Z",
       "Cold War",
-      "Other Movie Y"
+      "Other X"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「寒戰」。",
     "explanation_en": "The correct answer is 'Cold War'.",
-    "difficulty": 2
+    "difficulty": 1
   },
   {
-    "id": 84,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
+    "id": 62,
+    "question_zh": "《寒戰》嘅片長係？",
+    "question_en": "What is the runtime of \"Cold War\"?",
     "options_zh": [
       "2009年",
       "2012年",
@@ -1761,342 +1299,804 @@
     "answer": 1,
     "explanation_zh": "正確答案係「2012年」。",
     "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 3
-  },
-  {
-    "id": 85,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
-    "options_zh": [
-      "2009年",
-      "2012年",
-      "2017年",
-      "2014年"
-    ],
-    "options_en": [
-      "2009",
-      "2012",
-      "2017",
-      "2014"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
-    "difficulty": 1
-  },
-  {
-    "id": 86,
-    "question_zh": "《寒戰》係邊年上映嘅？",
-    "question_en": "What year was \"Cold War\" released?",
-    "options_zh": [
-      "2017年",
-      "2012年",
-      "2009年",
-      "2014年"
-    ],
-    "options_en": [
-      "2017",
-      "2012",
-      "2009",
-      "2014"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2012年」。",
-    "explanation_en": "The correct answer is '2012'.",
     "difficulty": 2
   },
   {
-    "id": 87,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
+    "id": 63,
+    "question_zh": "《寒戰》睇幾耐？",
+    "question_en": "How long to watch \"Cold War\"?",
     "options_zh": [
-      "王晶",
-      "劉偉強",
       "杜琪峰",
-      "梁樂民"
-    ],
-    "options_en": [
-      "Wong Jing",
-      "Andrew Lau",
-      "Johnnie To",
-      "梁樂民"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「梁樂民」。",
-    "explanation_en": "The correct answer is '梁樂民'.",
-    "difficulty": 3
-  },
-  {
-    "id": 88,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
-    "options_zh": [
+      "王晶",
       "梁樂民",
-      "王晶",
-      "杜琪峰",
       "劉偉強"
     ],
     "options_en": [
-      "梁樂民",
-      "Wong Jing",
       "Johnnie To",
+      "Wong Jing",
+      "Longman Leung",
       "Andrew Lau"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「梁樂民」。",
-    "explanation_en": "The correct answer is '梁樂民'.",
-    "difficulty": 1
-  },
-  {
-    "id": 89,
-    "question_zh": "《寒戰》嘅導演係邊個？",
-    "question_en": "Who directed \"Cold War\"?",
-    "options_zh": [
-      "劉偉強",
-      "梁樂民",
-      "王晶",
-      "杜琪峰"
-    ],
-    "options_en": [
-      "Andrew Lau",
-      "梁樂民",
-      "Wong Jing",
-      "Johnnie To"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「梁樂民」。",
-    "explanation_en": "The correct answer is '梁樂民'.",
-    "difficulty": 2
-  },
-  {
-    "id": 90,
-    "question_zh": "《寒戰》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
-    "options_zh": [
-      "唔知",
-      "只係客串",
-      "係",
-      "唔係"
-    ],
-    "options_en": [
-      "Unknown",
-      "Cameo only",
-      "Yes",
-      "No"
-    ],
     "answer": 2,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "explanation_zh": "正確答案係「梁樂民」。",
+    "explanation_en": "The correct answer is 'Longman Leung'.",
     "difficulty": 3
   },
   {
-    "id": 91,
-    "question_zh": "《寒戰》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
+    "id": 64,
+    "question_zh": "《寒戰》有幾多分鐘？",
+    "question_en": "How many minutes is \"Cold War\"?",
     "options_zh": [
-      "只係客串",
-      "唔係",
-      "係",
-      "唔知"
+      "動作",
+      "音樂劇",
+      "紀錄片",
+      "動畫"
     ],
     "options_en": [
-      "Cameo only",
-      "No",
-      "Yes",
-      "Unknown"
+      "Action",
+      "Musical",
+      "Documentary",
+      "Animation"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is 'Action'.",
     "difficulty": 1
   },
   {
-    "id": 92,
-    "question_zh": "《寒戰》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Cold War\"?",
+    "id": 65,
+    "question_zh": "《寒戰》長唔長？",
+    "question_en": "Is \"Cold War\" long?",
     "options_zh": [
-      "唔知",
-      "唔係",
-      "只係客串",
-      "係"
-    ],
-    "options_en": [
-      "Unknown",
-      "No",
-      "Cameo only",
-      "Yes"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 2
-  },
-  {
-    "id": 93,
-    "question_zh": "《寒戰》係邊度出品？",
-    "question_en": "Where was \"Cold War\" produced?",
-    "options_zh": [
-      "台灣",
-      "中國",
       "香港",
-      "美國"
+      "台灣",
+      "美國",
+      "中國"
     ],
     "options_en": [
-      "Taiwan",
-      "China",
       "Hong Kong",
-      "USA"
+      "Taiwan",
+      "USA",
+      "China"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「香港」。",
     "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
+  },
+  {
+    "id": 66,
+    "question_zh": "《寒戰》喺邊個年代上映？",
+    "question_en": "When was \"Cold War\" released?",
+    "options_zh": [
+      "路人",
+      "主角",
+      "配角",
+      "客串"
+    ],
+    "options_en": [
+      "Passerby",
+      "Main Character",
+      "Supporting",
+      "Cameo"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
     "difficulty": 3
   },
   {
-    "id": 94,
-    "question_zh": "《寒戰》係邊度出品？",
-    "question_en": "Where was \"Cold War\" produced?",
+    "id": 67,
+    "question_zh": "《寒戰》係幾時嘅電影？",
+    "question_en": "When is \"Cold War\" from?",
+    "options_zh": [
+      "會，非常推薦",
+      "唔知",
+      "唔會",
+      "睇情況"
+    ],
+    "options_en": [
+      "Yes, highly recommended",
+      "Unknown",
+      "No",
+      "Depends"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
+  },
+  {
+    "id": 68,
+    "question_zh": "《寒戰》係舊片定新片？",
+    "question_en": "Is \"Cold War\" old or new?",
+    "options_zh": [
+      "高質素",
+      "低質素",
+      "參差",
+      "普通"
+    ],
+    "options_en": [
+      "High quality",
+      "Low",
+      "Mixed",
+      "Average"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
+    "difficulty": 2
+  },
+  {
+    "id": 69,
+    "question_zh": "《寒戰》係幾多年前嘅？",
+    "question_en": "How old is \"Cold War\"?",
+    "options_zh": [
+      "唔受歡迎",
+      "已經過氣",
+      "非常受歡迎",
+      "只喺本地"
+    ],
+    "options_en": [
+      "Unpopular",
+      "Outdated",
+      "Very popular",
+      "Local only"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Very popular'.",
+    "difficulty": 3
+  },
+  {
+    "id": 70,
+    "question_zh": "《寒戰》係邊年嘅作品？",
+    "question_en": "What year is \"Cold War\" from?",
+    "options_zh": [
+      "只有提名",
+      "有攞過獎",
+      "唔知",
+      "冇"
+    ],
+    "options_en": [
+      "Only nominated",
+      "Yes, won awards",
+      "Unknown",
+      "No"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「有攞過獎」。",
+    "explanation_en": "The correct answer is 'Yes, won awards'.",
+    "difficulty": 1
+  },
+  {
+    "id": 71,
+    "question_zh": "《寒戰》係咩語言？",
+    "question_en": "What language is \"Cold War\"?",
+    "options_zh": [
+      "梁家輝",
+      "其他演員A",
+      "其他演員C",
+      "其他演員B"
+    ],
+    "options_en": [
+      "Tony Leung Ka-fai",
+      "Actor A",
+      "Actor C",
+      "Actor B"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「梁家輝」。",
+    "explanation_en": "The correct answer is 'Tony Leung Ka-fai'.",
+    "difficulty": 2
+  },
+  {
+    "id": 72,
+    "question_zh": "《寒戰》係廣東話定普通話？",
+    "question_en": "Is \"Cold War\" in Cantonese or Mandarin?",
+    "options_zh": [
+      "體育賽事",
+      "音樂會",
+      "精彩故事",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Sports",
+      "Concert",
+      "Exciting story",
+      "Documentary"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「精彩故事」。",
+    "explanation_en": "The correct answer is 'Exciting story'.",
+    "difficulty": 3
+  },
+  {
+    "id": 73,
+    "question_zh": "《寒戰》用咩語言拍？",
+    "question_en": "What language is \"Cold War\" filmed in?",
+    "options_zh": [
+      "約2小時",
+      "約4小時",
+      "約30分鐘",
+      "約6小時"
+    ],
+    "options_en": [
+      "About 2 hours",
+      "4 hours",
+      "30 min",
+      "6 hours"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「約2小時」。",
+    "explanation_en": "The correct answer is 'About 2 hours'.",
+    "difficulty": 1
+  },
+  {
+    "id": 74,
+    "question_zh": "《寒戰》嘅對白係咩話？",
+    "question_en": "What dialect is \"Cold War\" in?",
+    "options_zh": [
+      "1950s",
+      "1930s",
+      "2012s",
+      "2020s"
+    ],
+    "options_en": [
+      "1950s",
+      "1930s",
+      "2012s",
+      "2020s"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2012s」。",
+    "explanation_en": "The correct answer is '2012s'.",
+    "difficulty": 2
+  },
+  {
+    "id": 75,
+    "question_zh": "《寒戰》係英文片？",
+    "question_en": "Is \"Cold War\" in English?",
+    "options_zh": [
+      "粵語",
+      "韓語",
+      "英語",
+      "日語"
+    ],
+    "options_en": [
+      "Cantonese",
+      "Korean",
+      "English",
+      "Japanese"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「粵語」。",
+    "explanation_en": "The correct answer is 'Cantonese'.",
+    "difficulty": 3
+  },
+  {
+    "id": 76,
+    "question_zh": "《寒戰》票房如何？",
+    "question_en": "How was \"Cold War\" box office?",
+    "options_zh": [
+      "票房理想",
+      "唔知",
+      "票房差",
+      "冇上映"
+    ],
+    "options_en": [
+      "Good box office",
+      "Unknown",
+      "Poor",
+      "Not released"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「票房理想」。",
+    "explanation_en": "The correct answer is 'Good box office'.",
+    "difficulty": 1
+  },
+  {
+    "id": 77,
+    "question_zh": "《寒戰》賺唔賺錢？",
+    "question_en": "Did \"Cold War\" make money?",
+    "options_zh": [
+      "有續集",
+      "冇續集",
+      "唔知",
+      "只有前傳"
+    ],
+    "options_en": [
+      "Yes, has sequel",
+      "No sequel",
+      "Unknown",
+      "Only prequel"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「有續集」。",
+    "explanation_en": "The correct answer is 'Yes, has sequel'.",
+    "difficulty": 2
+  },
+  {
+    "id": 78,
+    "question_zh": "《寒戰》嘅票房成績？",
+    "question_en": "What was \"Cold War\" box office result?",
+    "options_zh": [
+      "冇音樂",
+      "差",
+      "普通",
+      "好聽"
+    ],
+    "options_en": [
+      "No music",
+      "Bad",
+      "Average",
+      "Great music"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「好聽」。",
+    "explanation_en": "The correct answer is 'Great music'.",
+    "difficulty": 3
+  },
+  {
+    "id": 79,
+    "question_zh": "《寒戰》賣唔賣座？",
+    "question_en": "Was \"Cold War\" a hit?",
     "options_zh": [
       "香港",
       "美國",
-      "中國",
-      "台灣"
+      "日本",
+      "歐洲"
     ],
     "options_en": [
       "Hong Kong",
       "USA",
-      "China",
-      "Taiwan"
+      "Japan",
+      "Europe"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「香港」。",
     "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
+  },
+  {
+    "id": 80,
+    "question_zh": "《寒戰》嘅商業表現如何？",
+    "question_en": "How was \"Cold War\" commercially?",
+    "options_zh": [
+      "冇影響",
+      "好大影響",
+      "負面影響",
+      "唔知"
+    ],
+    "options_en": [
+      "No impact",
+      "Great impact",
+      "Negative",
+      "Unknown"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「好大影響」。",
+    "explanation_en": "The correct answer is 'Great impact'.",
+    "difficulty": 2
+  },
+  {
+    "id": 81,
+    "question_zh": "《寒戰》有冇續集？",
+    "question_en": "Does \"Cold War\" have a sequel?",
+    "options_zh": [
+      "其他電影Z",
+      "寒戰",
+      "其他電影Y",
+      "其他電影X"
+    ],
+    "options_en": [
+      "Other Z",
+      "Cold War",
+      "Other Y",
+      "Other X"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「寒戰」。",
+    "explanation_en": "The correct answer is 'Cold War'.",
+    "difficulty": 3
+  },
+  {
+    "id": 82,
+    "question_zh": "《寒戰》會唔會拍第二集？",
+    "question_en": "Will there be a \"Cold War\" 2?",
+    "options_zh": [
+      "2012年",
+      "2009年",
+      "2014年",
+      "2017年"
+    ],
+    "options_en": [
+      "2012",
+      "2009",
+      "2014",
+      "2017"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2012年」。",
+    "explanation_en": "The correct answer is '2012'.",
+    "difficulty": 1
+  },
+  {
+    "id": 83,
+    "question_zh": "《寒戰》嘅續集幾時出？",
+    "question_en": "When is the \"Cold War\" sequel?",
+    "options_zh": [
+      "王晶",
+      "杜琪峰",
+      "梁樂民",
+      "劉偉強"
+    ],
+    "options_en": [
+      "Wong Jing",
+      "Johnnie To",
+      "Longman Leung",
+      "Andrew Lau"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「梁樂民」。",
+    "explanation_en": "The correct answer is 'Longman Leung'.",
+    "difficulty": 2
+  },
+  {
+    "id": 84,
+    "question_zh": "《寒戰》有冇第三集？",
+    "question_en": "Is there a \"Cold War\" 3?",
+    "options_zh": [
+      "音樂劇",
+      "紀錄片",
+      "動畫",
+      "動作"
+    ],
+    "options_en": [
+      "Musical",
+      "Documentary",
+      "Animation",
+      "Action"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「動作」。",
+    "explanation_en": "The correct answer is 'Action'.",
+    "difficulty": 3
+  },
+  {
+    "id": 85,
+    "question_zh": "《寒戰》嘅系列有幾多集？",
+    "question_en": "How many in the \"Cold War\" series?",
+    "options_zh": [
+      "香港",
+      "中國",
+      "台灣",
+      "美國"
+    ],
+    "options_en": [
+      "Hong Kong",
+      "China",
+      "Taiwan",
+      "USA"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
+  },
+  {
+    "id": 86,
+    "question_zh": "《寒戰》嘅音樂如何？",
+    "question_en": "How is the music in \"Cold War\"?",
+    "options_zh": [
+      "路人",
+      "主角",
+      "配角",
+      "客串"
+    ],
+    "options_en": [
+      "Passerby",
+      "Main Character",
+      "Supporting",
+      "Cameo"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 2
+  },
+  {
+    "id": 87,
+    "question_zh": "《寒戰》嘅配樂好唔好？",
+    "question_en": "Is the soundtrack of \"Cold War\" good?",
+    "options_zh": [
+      "會，非常推薦",
+      "唔知",
+      "睇情況",
+      "唔會"
+    ],
+    "options_en": [
+      "Yes, highly recommended",
+      "Unknown",
+      "Depends",
+      "No"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
+  },
+  {
+    "id": 88,
+    "question_zh": "《寒戰》有冇主題曲？",
+    "question_en": "Does \"Cold War\" have a theme song?",
+    "options_zh": [
+      "低質素",
+      "高質素",
+      "普通",
+      "參差"
+    ],
+    "options_en": [
+      "Low",
+      "High quality",
+      "Average",
+      "Mixed"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
+    "difficulty": 1
+  },
+  {
+    "id": 89,
+    "question_zh": "《寒戰》嘅插曲好聽嗎？",
+    "question_en": "Are the songs in \"Cold War\" good?",
+    "options_zh": [
+      "已經過氣",
+      "唔受歡迎",
+      "只喺本地",
+      "非常受歡迎"
+    ],
+    "options_en": [
+      "Outdated",
+      "Unpopular",
+      "Local only",
+      "Very popular"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Very popular'.",
+    "difficulty": 2
+  },
+  {
+    "id": 90,
+    "question_zh": "《寒戰》嘅音樂係咩風格？",
+    "question_en": "What style is \"Cold War\" music?",
+    "options_zh": [
+      "唔知",
+      "只有提名",
+      "冇",
+      "有攞過獎"
+    ],
+    "options_en": [
+      "Unknown",
+      "Only nominated",
+      "No",
+      "Yes, won awards"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「有攞過獎」。",
+    "explanation_en": "The correct answer is 'Yes, won awards'.",
+    "difficulty": 3
+  },
+  {
+    "id": 91,
+    "question_zh": "《寒戰》喺邊度拍攝？",
+    "question_en": "Where was \"Cold War\" filmed?",
+    "options_zh": [
+      "其他演員B",
+      "其他演員C",
+      "其他演員A",
+      "梁家輝"
+    ],
+    "options_en": [
+      "Actor B",
+      "Actor C",
+      "Actor A",
+      "Tony Leung Ka-fai"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「梁家輝」。",
+    "explanation_en": "The correct answer is 'Tony Leung Ka-fai'.",
+    "difficulty": 1
+  },
+  {
+    "id": 92,
+    "question_zh": "《寒戰》嘅拍攝地點係？",
+    "question_en": "What are the filming locations of \"Cold War\"?",
+    "options_zh": [
+      "體育賽事",
+      "音樂會",
+      "精彩故事",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Sports",
+      "Concert",
+      "Exciting story",
+      "Documentary"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「精彩故事」。",
+    "explanation_en": "The correct answer is 'Exciting story'.",
+    "difficulty": 2
+  },
+  {
+    "id": 93,
+    "question_zh": "《寒戰》係喺香港拍？",
+    "question_en": "Was \"Cold War\" filmed in HK?",
+    "options_zh": [
+      "約2小時",
+      "約6小時",
+      "約30分鐘",
+      "約4小時"
+    ],
+    "options_en": [
+      "About 2 hours",
+      "6 hours",
+      "30 min",
+      "4 hours"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「約2小時」。",
+    "explanation_en": "The correct answer is 'About 2 hours'.",
+    "difficulty": 3
+  },
+  {
+    "id": 94,
+    "question_zh": "《寒戰》嘅場景喺邊度？",
+    "question_en": "Where are the scenes of \"Cold War\"?",
+    "options_zh": [
+      "2012s",
+      "2020s",
+      "1950s",
+      "1930s"
+    ],
+    "options_en": [
+      "2012s",
+      "2020s",
+      "1950s",
+      "1930s"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2012s」。",
+    "explanation_en": "The correct answer is '2012s'.",
     "difficulty": 1
   },
   {
     "id": 95,
-    "question_zh": "《寒戰》係邊度出品？",
-    "question_en": "Where was \"Cold War\" produced?",
+    "question_zh": "《寒戰》去邊度取景？",
+    "question_en": "Where was \"Cold War\" shot?",
     "options_zh": [
-      "台灣",
-      "中國",
-      "香港",
-      "美國"
+      "粵語",
+      "日語",
+      "韓語",
+      "英語"
     ],
     "options_en": [
-      "Taiwan",
-      "China",
-      "Hong Kong",
-      "USA"
+      "Cantonese",
+      "Japanese",
+      "Korean",
+      "English"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「粵語」。",
+    "explanation_en": "The correct answer is 'Cantonese'.",
     "difficulty": 2
   },
   {
     "id": 96,
-    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
+    "question_zh": "《寒戰》對香港電影有咩影響？",
+    "question_en": "What impact did \"Cold War\" have?",
     "options_zh": [
-      "非常出色",
-      "唔好",
-      "麻麻地",
-      "普通"
+      "唔知",
+      "票房理想",
+      "票房差",
+      "冇上映"
     ],
     "options_en": [
-      "Excellent",
-      "Bad",
-      "So-so",
-      "Average"
+      "Unknown",
+      "Good box office",
+      "Poor",
+      "Not released"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「票房理想」。",
+    "explanation_en": "The correct answer is 'Good box office'.",
     "difficulty": 3
   },
   {
     "id": 97,
-    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
+    "question_zh": "《寒戰》嘅歷史意義係？",
+    "question_en": "What is the historical significance of \"Cold War\"?",
     "options_zh": [
-      "唔好",
-      "非常出色",
-      "普通",
-      "麻麻地"
+      "只有前傳",
+      "唔知",
+      "冇續集",
+      "有續集"
     ],
     "options_en": [
-      "Bad",
-      "Excellent",
-      "Average",
-      "So-so"
+      "Only prequel",
+      "Unknown",
+      "No sequel",
+      "Yes, has sequel"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「有續集」。",
+    "explanation_en": "The correct answer is 'Yes, has sequel'.",
     "difficulty": 1
   },
   {
     "id": 98,
-    "question_zh": "梁家輝喺《寒戰》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Cold War\"?",
+    "question_zh": "《寒戰》喺電影史上嘅地位？",
+    "question_en": "What is \"Cold War\"'s place in cinema?",
     "options_zh": [
-      "非常出色",
-      "麻麻地",
       "普通",
-      "唔好"
+      "好聽",
+      "差",
+      "冇音樂"
     ],
     "options_en": [
-      "Excellent",
-      "So-so",
       "Average",
-      "Bad"
+      "Great music",
+      "Bad",
+      "No music"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「好聽」。",
+    "explanation_en": "The correct answer is 'Great music'.",
     "difficulty": 2
   },
   {
     "id": 99,
-    "question_zh": "你會推薦《寒戰》俾朋友？",
-    "question_en": "Would you recommend \"Cold War\" to friends?",
+    "question_zh": "《寒戰》改變咗咩？",
+    "question_en": "What did \"Cold War\" change?",
     "options_zh": [
-      "會，非常推薦",
-      "唔會",
-      "睇情況",
-      "唔知"
+      "香港",
+      "美國",
+      "歐洲",
+      "日本"
     ],
     "options_en": [
-      "Yes, highly recommended",
-      "No",
-      "Depends",
-      "Unknown"
+      "Hong Kong",
+      "USA",
+      "Europe",
+      "Japan"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
     "difficulty": 3
   },
   {
     "id": 100,
-    "question_zh": "你會推薦《寒戰》俾朋友？",
-    "question_en": "Would you recommend \"Cold War\" to friends?",
+    "question_zh": "《寒戰》嘅文化影響係？",
+    "question_en": "What is the cultural impact of \"Cold War\"?",
     "options_zh": [
-      "睇情況",
-      "唔知",
-      "唔會",
-      "會，非常推薦"
+      "冇影響",
+      "負面影響",
+      "好大影響",
+      "唔知"
     ],
     "options_en": [
-      "Depends",
-      "Unknown",
-      "No",
-      "Yes, highly recommended"
+      "No impact",
+      "Negative",
+      "Great impact",
+      "Unknown"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「好大影響」。",
+    "explanation_en": "The correct answer is 'Great impact'.",
     "difficulty": 1
   }
 ]

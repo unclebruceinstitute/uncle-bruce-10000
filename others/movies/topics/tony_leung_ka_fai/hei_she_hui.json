@@ -1,107 +1,107 @@
 [
   {
     "id": 1,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（黑社會）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Election)",
+    "question_zh": "以下邊部電影係梁家輝主演嘅？",
+    "question_en": "Which movie stars Tony Leung Ka-fai?",
     "options_zh": [
-      "其他電影Y",
       "黑社會",
       "其他電影Z",
+      "其他電影Y",
       "其他電影X"
     ],
     "options_en": [
-      "Other Movie Y",
       "Election",
-      "Other Movie Z",
-      "Other Movie X"
+      "Other Z",
+      "Other Y",
+      "Other X"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「黑社會」。",
     "explanation_en": "The correct answer is 'Election'.",
     "difficulty": 1
   },
   {
     "id": 2,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（黑社會）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Election)",
+    "question_zh": "邊部電影有梁家輝演出？",
+    "question_en": "Which movie features Tony Leung Ka-fai?",
     "options_zh": [
-      "其他電影Y",
-      "黑社會",
-      "其他電影Z",
-      "其他電影X"
-    ],
-    "options_en": [
-      "Other Movie Y",
-      "Election",
-      "Other Movie Z",
-      "Other Movie X"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「黑社會」。",
-    "explanation_en": "The correct answer is 'Election'.",
-    "difficulty": 2
-  },
-  {
-    "id": 3,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（黑社會）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Election)",
-    "options_zh": [
-      "其他電影Y",
-      "黑社會",
-      "其他電影X",
-      "其他電影Z"
-    ],
-    "options_en": [
-      "Other Movie Y",
-      "Election",
-      "Other Movie X",
-      "Other Movie Z"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「黑社會」。",
-    "explanation_en": "The correct answer is 'Election'.",
-    "difficulty": 3
-  },
-  {
-    "id": 4,
-    "question_zh": "《黑社會》係邊年上映嘅？",
-    "question_en": "What year was \"Election\" released?",
-    "options_zh": [
-      "2007年",
-      "2005年",
       "2010年",
-      "2002年"
-    ],
-    "options_en": [
-      "2007",
-      "2005",
-      "2010",
-      "2002"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2005年」。",
-    "explanation_en": "The correct answer is '2005'.",
-    "difficulty": 1
-  },
-  {
-    "id": 5,
-    "question_zh": "《黑社會》係邊年上映嘅？",
-    "question_en": "What year was \"Election\" released?",
-    "options_zh": [
-      "2007年",
       "2002年",
       "2005年",
-      "2010年"
+      "2007年"
     ],
     "options_en": [
-      "2007",
+      "2010",
       "2002",
       "2005",
-      "2010"
+      "2007"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
+    "difficulty": 2
+  },
+  {
+    "id": 3,
+    "question_zh": "梁家輝主演過邊部電影？",
+    "question_en": "Which movie did Tony Leung Ka-fai star in?",
+    "options_zh": [
+      "劉偉強",
+      "杜琪峰",
+      "杜琪峰",
+      "王晶"
+    ],
+    "options_en": [
+      "Andrew Lau",
+      "Johnnie To",
+      "Johnnie To",
+      "Wong Jing"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「杜琪峰」。",
+    "explanation_en": "The correct answer is 'Johnnie To'.",
+    "difficulty": 3
+  },
+  {
+    "id": 4,
+    "question_zh": "以下邊部係梁家輝嘅電影？",
+    "question_en": "Which is a movie by Tony Leung Ka-fai?",
+    "options_zh": [
+      "犯罪",
+      "音樂劇",
+      "紀錄片",
+      "動畫"
+    ],
+    "options_en": [
+      "Crime",
+      "Musical",
+      "Documentary",
+      "Animation"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「犯罪」。",
+    "explanation_en": "The correct answer is 'Crime'.",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question_zh": "梁家輝有份演出邊部電影？",
+    "question_en": "Which movie did Tony Leung Ka-fai appear in?",
+    "options_zh": [
+      "香港",
+      "中國",
+      "美國",
+      "台灣"
+    ],
+    "options_en": [
+      "Hong Kong",
+      "China",
+      "USA",
+      "Taiwan"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
     "difficulty": 2
   },
   {
@@ -109,614 +109,824 @@
     "question_zh": "《黑社會》係邊年上映嘅？",
     "question_en": "What year was \"Election\" released?",
     "options_zh": [
-      "2007年",
-      "2002年",
-      "2005年",
-      "2010年"
+      "配角",
+      "主角",
+      "客串",
+      "路人"
     ],
     "options_en": [
-      "2007",
-      "2002",
-      "2005",
-      "2010"
+      "Supporting",
+      "Main Character",
+      "Cameo",
+      "Passerby"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2005年」。",
-    "explanation_en": "The correct answer is '2005'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
     "difficulty": 3
   },
   {
     "id": 7,
-    "question_zh": "《黑社會》嘅導演係邊個？",
-    "question_en": "Who directed \"Election\"?",
-    "options_zh": [
-      "杜琪峰",
-      "杜琪峰",
-      "王晶",
-      "劉偉強"
-    ],
-    "options_en": [
-      "杜琪峰",
-      "Johnnie To",
-      "Wong Jing",
-      "Andrew Lau"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「杜琪峰」。",
-    "explanation_en": "The correct answer is '杜琪峰'.",
-    "difficulty": 1
-  },
-  {
-    "id": 8,
-    "question_zh": "《黑社會》嘅導演係邊個？",
-    "question_en": "Who directed \"Election\"?",
-    "options_zh": [
-      "王晶",
-      "劉偉強",
-      "杜琪峰",
-      "杜琪峰"
-    ],
-    "options_en": [
-      "Wong Jing",
-      "Andrew Lau",
-      "杜琪峰",
-      "Johnnie To"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「杜琪峰」。",
-    "explanation_en": "The correct answer is '杜琪峰'.",
-    "difficulty": 2
-  },
-  {
-    "id": 9,
-    "question_zh": "《黑社會》嘅導演係邊個？",
-    "question_en": "Who directed \"Election\"?",
-    "options_zh": [
-      "王晶",
-      "杜琪峰",
-      "劉偉強",
-      "杜琪峰"
-    ],
-    "options_en": [
-      "Wong Jing",
-      "Johnnie To",
-      "Andrew Lau",
-      "杜琪峰"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「杜琪峰」。",
-    "explanation_en": "The correct answer is '杜琪峰'.",
-    "difficulty": 3
-  },
-  {
-    "id": 10,
-    "question_zh": "《黑社會》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Election\"?",
-    "options_zh": [
-      "唔係",
-      "唔知",
-      "只係客串",
-      "係"
-    ],
-    "options_en": [
-      "No",
-      "Unknown",
-      "Cameo only",
-      "Yes"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 1
-  },
-  {
-    "id": 11,
-    "question_zh": "《黑社會》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Election\"?",
-    "options_zh": [
-      "係",
-      "只係客串",
-      "唔係",
-      "唔知"
-    ],
-    "options_en": [
-      "Yes",
-      "Cameo only",
-      "No",
-      "Unknown"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 2
-  },
-  {
-    "id": 12,
-    "question_zh": "《黑社會》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Election\"?",
-    "options_zh": [
-      "只係客串",
-      "唔知",
-      "唔係",
-      "係"
-    ],
-    "options_en": [
-      "Cameo only",
-      "Unknown",
-      "No",
-      "Yes"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 3
-  },
-  {
-    "id": 13,
-    "question_zh": "《黑社會》係邊度出品？",
-    "question_en": "Where was \"Election\" produced?",
-    "options_zh": [
-      "香港",
-      "美國",
-      "中國",
-      "台灣"
-    ],
-    "options_en": [
-      "Hong Kong",
-      "USA",
-      "China",
-      "Taiwan"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 1
-  },
-  {
-    "id": 14,
-    "question_zh": "《黑社會》係邊度出品？",
-    "question_en": "Where was \"Election\" produced?",
-    "options_zh": [
-      "香港",
-      "中國",
-      "美國",
-      "台灣"
-    ],
-    "options_en": [
-      "Hong Kong",
-      "China",
-      "USA",
-      "Taiwan"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 2
-  },
-  {
-    "id": 15,
-    "question_zh": "《黑社會》係邊度出品？",
-    "question_en": "Where was \"Election\" produced?",
-    "options_zh": [
-      "香港",
-      "台灣",
-      "美國",
-      "中國"
-    ],
-    "options_en": [
-      "Hong Kong",
-      "Taiwan",
-      "USA",
-      "China"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 3
-  },
-  {
-    "id": 16,
-    "question_zh": "梁家輝喺《黑社會》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Election\"?",
-    "options_zh": [
-      "麻麻地",
-      "非常出色",
-      "普通",
-      "唔好"
-    ],
-    "options_en": [
-      "So-so",
-      "Excellent",
-      "Average",
-      "Bad"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 1
-  },
-  {
-    "id": 17,
-    "question_zh": "梁家輝喺《黑社會》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Election\"?",
-    "options_zh": [
-      "非常出色",
-      "麻麻地",
-      "普通",
-      "唔好"
-    ],
-    "options_en": [
-      "Excellent",
-      "So-so",
-      "Average",
-      "Bad"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 2
-  },
-  {
-    "id": 18,
-    "question_zh": "梁家輝喺《黑社會》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Election\"?",
-    "options_zh": [
-      "唔好",
-      "非常出色",
-      "麻麻地",
-      "普通"
-    ],
-    "options_en": [
-      "Bad",
-      "Excellent",
-      "So-so",
-      "Average"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 3
-  },
-  {
-    "id": 19,
-    "question_zh": "你會推薦《黑社會》俾朋友？",
-    "question_en": "Would you recommend \"Election\" to friends?",
-    "options_zh": [
-      "睇情況",
-      "唔知",
-      "唔會",
-      "會，非常推薦"
-    ],
-    "options_en": [
-      "Depends",
-      "Unknown",
-      "No",
-      "Yes, highly recommended"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 1
-  },
-  {
-    "id": 20,
-    "question_zh": "你會推薦《黑社會》俾朋友？",
-    "question_en": "Would you recommend \"Election\" to friends?",
+    "question_zh": "《黑社會》幾時出嘅？",
+    "question_en": "When was \"Election\" released?",
     "options_zh": [
       "會，非常推薦",
-      "唔會",
       "睇情況",
+      "唔會",
       "唔知"
     ],
     "options_en": [
       "Yes, highly recommended",
-      "No",
       "Depends",
+      "No",
       "Unknown"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「會，非常推薦」。",
     "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
+  },
+  {
+    "id": 8,
+    "question_zh": "《黑社會》嘅上映年份係？",
+    "question_en": "What is the release year of \"Election\"?",
+    "options_zh": [
+      "高質素",
+      "普通",
+      "參差",
+      "低質素"
+    ],
+    "options_en": [
+      "High quality",
+      "Average",
+      "Mixed",
+      "Low"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question_zh": "《黑社會》係幾年前出嘅？",
+    "question_en": "How many years ago was \"Election\" released?",
+    "options_zh": [
+      "非常受歡迎",
+      "唔受歡迎",
+      "只喺本地",
+      "已經過氣"
+    ],
+    "options_en": [
+      "Very popular",
+      "Unpopular",
+      "Local only",
+      "Outdated"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Very popular'.",
+    "difficulty": 3
+  },
+  {
+    "id": 10,
+    "question_zh": "《黑社會》係邊個年代嘅電影？",
+    "question_en": "What decade is \"Election\" from?",
+    "options_zh": [
+      "唔知",
+      "只有提名",
+      "有攞過獎",
+      "冇"
+    ],
+    "options_en": [
+      "Unknown",
+      "Only nominated",
+      "Yes, won awards",
+      "No"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「有攞過獎」。",
+    "explanation_en": "The correct answer is 'Yes, won awards'.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "《黑社會》嘅導演係邊個？",
+    "question_en": "Who directed \"Election\"?",
+    "options_zh": [
+      "其他演員C",
+      "其他演員B",
+      "梁家輝",
+      "其他演員A"
+    ],
+    "options_en": [
+      "Actor C",
+      "Actor B",
+      "Tony Leung Ka-fai",
+      "Actor A"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「梁家輝」。",
+    "explanation_en": "The correct answer is 'Tony Leung Ka-fai'.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "邊個導演拍《黑社會》？",
+    "question_en": "Who directed \"Election\"?",
+    "options_zh": [
+      "體育賽事",
+      "紀錄片",
+      "音樂會",
+      "精彩故事"
+    ],
+    "options_en": [
+      "Sports",
+      "Documentary",
+      "Concert",
+      "Exciting story"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「精彩故事」。",
+    "explanation_en": "The correct answer is 'Exciting story'.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "《黑社會》係邊個執導？",
+    "question_en": "Who helmed \"Election\"?",
+    "options_zh": [
+      "約30分鐘",
+      "約2小時",
+      "約6小時",
+      "約4小時"
+    ],
+    "options_en": [
+      "30 min",
+      "About 2 hours",
+      "6 hours",
+      "4 hours"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「約2小時」。",
+    "explanation_en": "The correct answer is 'About 2 hours'.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《黑社會》嘅導演叫咩名？",
+    "question_en": "What is the director's name for \"Election\"?",
+    "options_zh": [
+      "2020s",
+      "1950s",
+      "2005s",
+      "1930s"
+    ],
+    "options_en": [
+      "2020s",
+      "1950s",
+      "2005s",
+      "1930s"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2005s」。",
+    "explanation_en": "The correct answer is '2005s'.",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_zh": "《黑社會》係邊個拍嘅？",
+    "question_en": "Who made \"Election\"?",
+    "options_zh": [
+      "英語",
+      "日語",
+      "粵語",
+      "韓語"
+    ],
+    "options_en": [
+      "English",
+      "Japanese",
+      "Cantonese",
+      "Korean"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「粵語」。",
+    "explanation_en": "The correct answer is 'Cantonese'.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "《黑社會》係咩類型嘅電影？",
+    "question_en": "What genre is \"Election\"?",
+    "options_zh": [
+      "票房差",
+      "冇上映",
+      "票房理想",
+      "唔知"
+    ],
+    "options_en": [
+      "Poor",
+      "Not released",
+      "Good box office",
+      "Unknown"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「票房理想」。",
+    "explanation_en": "The correct answer is 'Good box office'.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《黑社會》屬於邊種類型？",
+    "question_en": "What type is \"Election\"?",
+    "options_zh": [
+      "唔知",
+      "只有前傳",
+      "有續集",
+      "冇續集"
+    ],
+    "options_en": [
+      "Unknown",
+      "Only prequel",
+      "Yes, has sequel",
+      "No sequel"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「有續集」。",
+    "explanation_en": "The correct answer is 'Yes, has sequel'.",
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question_zh": "你會點分類《黑社會》？",
+    "question_en": "How would you classify \"Election\"?",
+    "options_zh": [
+      "冇音樂",
+      "好聽",
+      "普通",
+      "差"
+    ],
+    "options_en": [
+      "No music",
+      "Great music",
+      "Average",
+      "Bad"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「好聽」。",
+    "explanation_en": "The correct answer is 'Great music'.",
+    "difficulty": 3
+  },
+  {
+    "id": 19,
+    "question_zh": "《黑社會》係動作片定文藝片？",
+    "question_en": "Is \"Election\" action or drama?",
+    "options_zh": [
+      "日本",
+      "歐洲",
+      "香港",
+      "美國"
+    ],
+    "options_en": [
+      "Japan",
+      "Europe",
+      "Hong Kong",
+      "USA"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question_zh": "《黑社會》嘅電影類型係？",
+    "question_en": "What is the movie type of \"Election\"?",
+    "options_zh": [
+      "唔知",
+      "好大影響",
+      "冇影響",
+      "負面影響"
+    ],
+    "options_en": [
+      "Unknown",
+      "Great impact",
+      "No impact",
+      "Negative"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「好大影響」。",
+    "explanation_en": "The correct answer is 'Great impact'.",
     "difficulty": 2
   },
   {
     "id": 21,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（黑社會）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Election)",
+    "question_zh": "《黑社會》係邊度出品？",
+    "question_en": "Where was \"Election\" produced?",
     "options_zh": [
-      "黑社會",
       "其他電影X",
       "其他電影Z",
+      "黑社會",
       "其他電影Y"
     ],
     "options_en": [
+      "Other X",
+      "Other Z",
       "Election",
-      "Other Movie X",
-      "Other Movie Z",
-      "Other Movie Y"
+      "Other Y"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「黑社會」。",
     "explanation_en": "The correct answer is 'Election'.",
     "difficulty": 3
   },
   {
     "id": 22,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（黑社會）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Election)",
+    "question_zh": "《黑社會》係邊個國家嘅電影？",
+    "question_en": "Which country is \"Election\" from?",
     "options_zh": [
-      "其他電影Y",
-      "其他電影X",
-      "黑社會",
-      "其他電影Z"
+      "2007年",
+      "2002年",
+      "2010年",
+      "2005年"
     ],
     "options_en": [
-      "Other Movie Y",
-      "Other Movie X",
-      "Election",
-      "Other Movie Z"
+      "2007",
+      "2002",
+      "2010",
+      "2005"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「黑社會」。",
-    "explanation_en": "The correct answer is 'Election'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「2005年」。",
+    "explanation_en": "The correct answer is '2005'.",
     "difficulty": 1
   },
   {
     "id": 23,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（黑社會）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Election)",
+    "question_zh": "《黑社會》係港產片？",
+    "question_en": "Is \"Election\" a Hong Kong movie?",
     "options_zh": [
-      "其他電影X",
-      "黑社會",
-      "其他電影Y",
-      "其他電影Z"
+      "杜琪峰",
+      "王晶",
+      "劉偉強",
+      "杜琪峰"
     ],
     "options_en": [
-      "Other Movie X",
-      "Election",
-      "Other Movie Y",
-      "Other Movie Z"
+      "Johnnie To",
+      "Wong Jing",
+      "Andrew Lau",
+      "Johnnie To"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「杜琪峰」。",
+    "explanation_en": "The correct answer is 'Johnnie To'.",
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question_zh": "《黑社會》嘅出品地方係？",
+    "question_en": "Where is \"Election\" from?",
+    "options_zh": [
+      "動畫",
+      "紀錄片",
+      "犯罪",
+      "音樂劇"
+    ],
+    "options_en": [
+      "Animation",
+      "Documentary",
+      "Crime",
+      "Musical"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「犯罪」。",
+    "explanation_en": "The correct answer is 'Crime'.",
+    "difficulty": 3
+  },
+  {
+    "id": 25,
+    "question_zh": "《黑社會》係邊度拍嘅？",
+    "question_en": "Where was \"Election\" made?",
+    "options_zh": [
+      "台灣",
+      "美國",
+      "中國",
+      "香港"
+    ],
+    "options_en": [
+      "Taiwan",
+      "USA",
+      "China",
+      "Hong Kong"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question_zh": "梁家輝喺《黑社會》入面演咩角色？",
+    "question_en": "What role does Tony Leung Ka-fai play in \"Election\"?",
+    "options_zh": [
+      "主角",
+      "配角",
+      "客串",
+      "路人"
+    ],
+    "options_en": [
+      "Main Character",
+      "Supporting",
+      "Cameo",
+      "Passerby"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question_zh": "梁家輝喺《黑社會》係咩身分？",
+    "question_en": "What is Tony Leung Ka-fai's role in \"Election\"?",
+    "options_zh": [
+      "唔知",
+      "睇情況",
+      "會，非常推薦",
+      "唔會"
+    ],
+    "options_en": [
+      "Unknown",
+      "Depends",
+      "Yes, highly recommended",
+      "No"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
+  },
+  {
+    "id": 28,
+    "question_zh": "《黑社會》入面梁家輝係咩人？",
+    "question_en": "Who is Tony Leung Ka-fai in \"Election\"?",
+    "options_zh": [
+      "高質素",
+      "普通",
+      "低質素",
+      "參差"
+    ],
+    "options_en": [
+      "High quality",
+      "Average",
+      "Low",
+      "Mixed"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question_zh": "梁家輝喺《黑社會》嘅角色叫咩？",
+    "question_en": "What is Tony Leung Ka-fai's character name in \"Election\"?",
+    "options_zh": [
+      "只喺本地",
+      "非常受歡迎",
+      "唔受歡迎",
+      "已經過氣"
+    ],
+    "options_en": [
+      "Local only",
+      "Very popular",
+      "Unpopular",
+      "Outdated"
     ],
     "answer": 1,
+    "explanation_zh": "正確答案係「非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Very popular'.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "《黑社會》入面梁家輝做咩？",
+    "question_en": "What does Tony Leung Ka-fai do in \"Election\"?",
+    "options_zh": [
+      "唔知",
+      "冇",
+      "有攞過獎",
+      "只有提名"
+    ],
+    "options_en": [
+      "Unknown",
+      "No",
+      "Yes, won awards",
+      "Only nominated"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「有攞過獎」。",
+    "explanation_en": "The correct answer is 'Yes, won awards'.",
+    "difficulty": 3
+  },
+  {
+    "id": 31,
+    "question_zh": "你會推薦《黑社會》俾朋友？",
+    "question_en": "Would you recommend \"Election\"?",
+    "options_zh": [
+      "其他演員B",
+      "其他演員C",
+      "梁家輝",
+      "其他演員A"
+    ],
+    "options_en": [
+      "Actor B",
+      "Actor C",
+      "Tony Leung Ka-fai",
+      "Actor A"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「梁家輝」。",
+    "explanation_en": "The correct answer is 'Tony Leung Ka-fai'.",
+    "difficulty": 1
+  },
+  {
+    "id": 32,
+    "question_zh": "《黑社會》值唔值得睇？",
+    "question_en": "Is \"Election\" worth watching?",
+    "options_zh": [
+      "體育賽事",
+      "紀錄片",
+      "音樂會",
+      "精彩故事"
+    ],
+    "options_en": [
+      "Sports",
+      "Documentary",
+      "Concert",
+      "Exciting story"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「精彩故事」。",
+    "explanation_en": "The correct answer is 'Exciting story'.",
+    "difficulty": 2
+  },
+  {
+    "id": 33,
+    "question_zh": "《黑社會》好唔好睇？",
+    "question_en": "Is \"Election\" good?",
+    "options_zh": [
+      "約2小時",
+      "約30分鐘",
+      "約4小時",
+      "約6小時"
+    ],
+    "options_en": [
+      "About 2 hours",
+      "30 min",
+      "4 hours",
+      "6 hours"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「約2小時」。",
+    "explanation_en": "The correct answer is 'About 2 hours'.",
+    "difficulty": 3
+  },
+  {
+    "id": 34,
+    "question_zh": "你鍾唔鍾意《黑社會》？",
+    "question_en": "Do you like \"Election\"?",
+    "options_zh": [
+      "2005s",
+      "1950s",
+      "1930s",
+      "2020s"
+    ],
+    "options_en": [
+      "2005s",
+      "1950s",
+      "1930s",
+      "2020s"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2005s」。",
+    "explanation_en": "The correct answer is '2005s'.",
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question_zh": "《黑社會》正唔正？",
+    "question_en": "Is \"Election\" great?",
+    "options_zh": [
+      "英語",
+      "日語",
+      "韓語",
+      "粵語"
+    ],
+    "options_en": [
+      "English",
+      "Japanese",
+      "Korean",
+      "Cantonese"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「粵語」。",
+    "explanation_en": "The correct answer is 'Cantonese'.",
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "question_zh": "《黑社會》嘅質素如何？",
+    "question_en": "How is the quality of \"Election\"?",
+    "options_zh": [
+      "冇上映",
+      "票房差",
+      "唔知",
+      "票房理想"
+    ],
+    "options_en": [
+      "Not released",
+      "Poor",
+      "Unknown",
+      "Good box office"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「票房理想」。",
+    "explanation_en": "The correct answer is 'Good box office'.",
+    "difficulty": 3
+  },
+  {
+    "id": 37,
+    "question_zh": "《黑社會》拍得好唔好？",
+    "question_en": "Is \"Election\" well-made?",
+    "options_zh": [
+      "有續集",
+      "冇續集",
+      "只有前傳",
+      "唔知"
+    ],
+    "options_en": [
+      "Yes, has sequel",
+      "No sequel",
+      "Only prequel",
+      "Unknown"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「有續集」。",
+    "explanation_en": "The correct answer is 'Yes, has sequel'.",
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "question_zh": "《黑社會》嘅製作水平如何？",
+    "question_en": "How is the production quality of \"Election\"?",
+    "options_zh": [
+      "差",
+      "冇音樂",
+      "好聽",
+      "普通"
+    ],
+    "options_en": [
+      "Bad",
+      "No music",
+      "Great music",
+      "Average"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「好聽」。",
+    "explanation_en": "The correct answer is 'Great music'.",
+    "difficulty": 2
+  },
+  {
+    "id": 39,
+    "question_zh": "《黑社會》嘅劇本如何？",
+    "question_en": "How is the script of \"Election\"?",
+    "options_zh": [
+      "美國",
+      "歐洲",
+      "日本",
+      "香港"
+    ],
+    "options_en": [
+      "USA",
+      "Europe",
+      "Japan",
+      "Hong Kong"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
+  },
+  {
+    "id": 40,
+    "question_zh": "《黑社會》嘅攝影如何？",
+    "question_en": "How is the cinematography of \"Election\"?",
+    "options_zh": [
+      "好大影響",
+      "冇影響",
+      "負面影響",
+      "唔知"
+    ],
+    "options_en": [
+      "Great impact",
+      "No impact",
+      "Negative",
+      "Unknown"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「好大影響」。",
+    "explanation_en": "The correct answer is 'Great impact'.",
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question_zh": "《黑社會》受唔受歡迎？",
+    "question_en": "Is \"Election\" popular?",
+    "options_zh": [
+      "其他電影X",
+      "其他電影Y",
+      "其他電影Z",
+      "黑社會"
+    ],
+    "options_en": [
+      "Other X",
+      "Other Y",
+      "Other Z",
+      "Election"
+    ],
+    "answer": 3,
     "explanation_zh": "正確答案係「黑社會」。",
     "explanation_en": "The correct answer is 'Election'.",
     "difficulty": 2
   },
   {
-    "id": 24,
-    "question_zh": "《黑社會》係邊年上映嘅？",
-    "question_en": "What year was \"Election\" released?",
-    "options_zh": [
-      "2007年",
-      "2010年",
-      "2002年",
-      "2005年"
-    ],
-    "options_en": [
-      "2007",
-      "2010",
-      "2002",
-      "2005"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2005年」。",
-    "explanation_en": "The correct answer is '2005'.",
-    "difficulty": 3
-  },
-  {
-    "id": 25,
-    "question_zh": "《黑社會》係邊年上映嘅？",
-    "question_en": "What year was \"Election\" released?",
+    "id": 42,
+    "question_zh": "《黑社會》紅唔紅？",
+    "question_en": "Is \"Election\" famous?",
     "options_zh": [
       "2002年",
-      "2010年",
       "2005年",
-      "2007年"
-    ],
-    "options_en": [
-      "2002",
-      "2010",
-      "2005",
-      "2007"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2005年」。",
-    "explanation_en": "The correct answer is '2005'.",
-    "difficulty": 1
-  },
-  {
-    "id": 26,
-    "question_zh": "《黑社會》係邊年上映嘅？",
-    "question_en": "What year was \"Election\" released?",
-    "options_zh": [
-      "2010年",
       "2007年",
-      "2002年",
-      "2005年"
+      "2010年"
     ],
     "options_en": [
-      "2010",
-      "2007",
       "2002",
-      "2005"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2005年」。",
-    "explanation_en": "The correct answer is '2005'.",
-    "difficulty": 2
-  },
-  {
-    "id": 27,
-    "question_zh": "《黑社會》嘅導演係邊個？",
-    "question_en": "Who directed \"Election\"?",
-    "options_zh": [
-      "劉偉強",
-      "王晶",
-      "杜琪峰",
-      "杜琪峰"
-    ],
-    "options_en": [
-      "Andrew Lau",
-      "Wong Jing",
-      "Johnnie To",
-      "杜琪峰"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「杜琪峰」。",
-    "explanation_en": "The correct answer is '杜琪峰'.",
-    "difficulty": 3
-  },
-  {
-    "id": 28,
-    "question_zh": "《黑社會》嘅導演係邊個？",
-    "question_en": "Who directed \"Election\"?",
-    "options_zh": [
-      "杜琪峰",
-      "杜琪峰",
-      "劉偉強",
-      "王晶"
-    ],
-    "options_en": [
-      "Johnnie To",
-      "杜琪峰",
-      "Andrew Lau",
-      "Wong Jing"
+      "2005",
+      "2007",
+      "2010"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「杜琪峰」。",
-    "explanation_en": "The correct answer is '杜琪峰'.",
-    "difficulty": 1
+    "explanation_zh": "正確答案係「2005年」。",
+    "explanation_en": "The correct answer is '2005'.",
+    "difficulty": 3
   },
   {
-    "id": 29,
-    "question_zh": "《黑社會》嘅導演係邊個？",
-    "question_en": "Who directed \"Election\"?",
+    "id": 43,
+    "question_zh": "《黑社會》嘅知名度如何？",
+    "question_en": "How well-known is \"Election\"?",
     "options_zh": [
-      "王晶",
       "杜琪峰",
+      "王晶",
       "劉偉強",
       "杜琪峰"
     ],
     "options_en": [
+      "Johnnie To",
       "Wong Jing",
-      "杜琪峰",
       "Andrew Lau",
       "Johnnie To"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「杜琪峰」。",
-    "explanation_en": "The correct answer is '杜琪峰'.",
-    "difficulty": 2
-  },
-  {
-    "id": 30,
-    "question_zh": "《黑社會》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Election\"?",
-    "options_zh": [
-      "唔知",
-      "係",
-      "只係客串",
-      "唔係"
-    ],
-    "options_en": [
-      "Unknown",
-      "Yes",
-      "Cameo only",
-      "No"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 3
-  },
-  {
-    "id": 31,
-    "question_zh": "《黑社會》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Election\"?",
-    "options_zh": [
-      "唔係",
-      "只係客串",
-      "唔知",
-      "係"
-    ],
-    "options_en": [
-      "No",
-      "Cameo only",
-      "Unknown",
-      "Yes"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "explanation_en": "The correct answer is 'Johnnie To'.",
     "difficulty": 1
   },
   {
-    "id": 32,
-    "question_zh": "《黑社會》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Election\"?",
+    "id": 44,
+    "question_zh": "《黑社會》有冇人睇？",
+    "question_en": "Does anyone watch \"Election\"?",
     "options_zh": [
-      "只係客串",
-      "唔知",
-      "唔係",
-      "係"
+      "動畫",
+      "音樂劇",
+      "紀錄片",
+      "犯罪"
     ],
     "options_en": [
-      "Cameo only",
-      "Unknown",
-      "No",
-      "Yes"
+      "Animation",
+      "Musical",
+      "Documentary",
+      "Crime"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "explanation_zh": "正確答案係「犯罪」。",
+    "explanation_en": "The correct answer is 'Crime'.",
     "difficulty": 2
   },
   {
-    "id": 33,
-    "question_zh": "《黑社會》係邊度出品？",
-    "question_en": "Where was \"Election\" produced?",
-    "options_zh": [
-      "美國",
-      "台灣",
-      "香港",
-      "中國"
-    ],
-    "options_en": [
-      "USA",
-      "Taiwan",
-      "Hong Kong",
-      "China"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 3
-  },
-  {
-    "id": 34,
-    "question_zh": "《黑社會》係邊度出品？",
-    "question_en": "Where was \"Election\" produced?",
-    "options_zh": [
-      "香港",
-      "美國",
-      "台灣",
-      "中國"
-    ],
-    "options_en": [
-      "Hong Kong",
-      "USA",
-      "Taiwan",
-      "China"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 1
-  },
-  {
-    "id": 35,
-    "question_zh": "《黑社會》係邊度出品？",
-    "question_en": "Where was \"Election\" produced?",
+    "id": 45,
+    "question_zh": "《黑社會》嘅人氣如何？",
+    "question_en": "How popular is \"Election\"?",
     "options_zh": [
       "香港",
       "台灣",
@@ -732,1371 +942,1161 @@
     "answer": 0,
     "explanation_zh": "正確答案係「香港」。",
     "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 2
-  },
-  {
-    "id": 36,
-    "question_zh": "梁家輝喺《黑社會》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Election\"?",
-    "options_zh": [
-      "唔好",
-      "非常出色",
-      "麻麻地",
-      "普通"
-    ],
-    "options_en": [
-      "Bad",
-      "Excellent",
-      "So-so",
-      "Average"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 3
-  },
-  {
-    "id": 37,
-    "question_zh": "梁家輝喺《黑社會》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Election\"?",
-    "options_zh": [
-      "普通",
-      "非常出色",
-      "唔好",
-      "麻麻地"
-    ],
-    "options_en": [
-      "Average",
-      "Excellent",
-      "Bad",
-      "So-so"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 1
-  },
-  {
-    "id": 38,
-    "question_zh": "梁家輝喺《黑社會》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Election\"?",
-    "options_zh": [
-      "普通",
-      "麻麻地",
-      "唔好",
-      "非常出色"
-    ],
-    "options_en": [
-      "Average",
-      "So-so",
-      "Bad",
-      "Excellent"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 2
-  },
-  {
-    "id": 39,
-    "question_zh": "你會推薦《黑社會》俾朋友？",
-    "question_en": "Would you recommend \"Election\" to friends?",
-    "options_zh": [
-      "睇情況",
-      "會，非常推薦",
-      "唔會",
-      "唔知"
-    ],
-    "options_en": [
-      "Depends",
-      "Yes, highly recommended",
-      "No",
-      "Unknown"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 3
-  },
-  {
-    "id": 40,
-    "question_zh": "你會推薦《黑社會》俾朋友？",
-    "question_en": "Would you recommend \"Election\" to friends?",
-    "options_zh": [
-      "唔知",
-      "會，非常推薦",
-      "睇情況",
-      "唔會"
-    ],
-    "options_en": [
-      "Unknown",
-      "Yes, highly recommended",
-      "Depends",
-      "No"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 1
-  },
-  {
-    "id": 41,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（黑社會）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Election)",
-    "options_zh": [
-      "其他電影Y",
-      "其他電影X",
-      "黑社會",
-      "其他電影Z"
-    ],
-    "options_en": [
-      "Other Movie Y",
-      "Other Movie X",
-      "Election",
-      "Other Movie Z"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「黑社會」。",
-    "explanation_en": "The correct answer is 'Election'.",
-    "difficulty": 2
-  },
-  {
-    "id": 42,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（黑社會）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Election)",
-    "options_zh": [
-      "其他電影Y",
-      "其他電影Z",
-      "黑社會",
-      "其他電影X"
-    ],
-    "options_en": [
-      "Other Movie Y",
-      "Other Movie Z",
-      "Election",
-      "Other Movie X"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「黑社會」。",
-    "explanation_en": "The correct answer is 'Election'.",
-    "difficulty": 3
-  },
-  {
-    "id": 43,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（黑社會）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Election)",
-    "options_zh": [
-      "其他電影X",
-      "其他電影Y",
-      "黑社會",
-      "其他電影Z"
-    ],
-    "options_en": [
-      "Other Movie X",
-      "Other Movie Y",
-      "Election",
-      "Other Movie Z"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「黑社會」。",
-    "explanation_en": "The correct answer is 'Election'.",
-    "difficulty": 1
-  },
-  {
-    "id": 44,
-    "question_zh": "《黑社會》係邊年上映嘅？",
-    "question_en": "What year was \"Election\" released?",
-    "options_zh": [
-      "2002年",
-      "2005年",
-      "2007年",
-      "2010年"
-    ],
-    "options_en": [
-      "2002",
-      "2005",
-      "2007",
-      "2010"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2005年」。",
-    "explanation_en": "The correct answer is '2005'.",
-    "difficulty": 2
-  },
-  {
-    "id": 45,
-    "question_zh": "《黑社會》係邊年上映嘅？",
-    "question_en": "What year was \"Election\" released?",
-    "options_zh": [
-      "2010年",
-      "2007年",
-      "2002年",
-      "2005年"
-    ],
-    "options_en": [
-      "2010",
-      "2007",
-      "2002",
-      "2005"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2005年」。",
-    "explanation_en": "The correct answer is '2005'.",
     "difficulty": 3
   },
   {
     "id": 46,
-    "question_zh": "《黑社會》係邊年上映嘅？",
-    "question_en": "What year was \"Election\" released?",
+    "question_zh": "《黑社會》有冇攞過獎？",
+    "question_en": "Did \"Election\" win awards?",
     "options_zh": [
-      "2007年",
-      "2010年",
-      "2002年",
-      "2005年"
+      "配角",
+      "主角",
+      "客串",
+      "路人"
     ],
     "options_en": [
-      "2007",
-      "2010",
-      "2002",
-      "2005"
+      "Supporting",
+      "Main Character",
+      "Cameo",
+      "Passerby"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2005年」。",
-    "explanation_en": "The correct answer is '2005'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
     "difficulty": 1
   },
   {
     "id": 47,
-    "question_zh": "《黑社會》嘅導演係邊個？",
-    "question_en": "Who directed \"Election\"?",
+    "question_zh": "《黑社會》嘅獎項如何？",
+    "question_en": "What awards did \"Election\" win?",
     "options_zh": [
-      "杜琪峰",
-      "劉偉強",
-      "杜琪峰",
-      "王晶"
+      "會，非常推薦",
+      "唔知",
+      "唔會",
+      "睇情況"
     ],
     "options_en": [
-      "杜琪峰",
-      "Andrew Lau",
-      "Johnnie To",
-      "Wong Jing"
+      "Yes, highly recommended",
+      "Unknown",
+      "No",
+      "Depends"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「杜琪峰」。",
-    "explanation_en": "The correct answer is '杜琪峰'.",
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 2
   },
   {
     "id": 48,
-    "question_zh": "《黑社會》嘅導演係邊個？",
-    "question_en": "Who directed \"Election\"?",
+    "question_zh": "《黑社會》有冇提名？",
+    "question_en": "Was \"Election\" nominated?",
     "options_zh": [
-      "劉偉強",
-      "王晶",
-      "杜琪峰",
-      "杜琪峰"
+      "普通",
+      "高質素",
+      "參差",
+      "低質素"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Wong Jing",
-      "Johnnie To",
-      "杜琪峰"
+      "Average",
+      "High quality",
+      "Mixed",
+      "Low"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「杜琪峰」。",
-    "explanation_en": "The correct answer is '杜琪峰'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 3
   },
   {
     "id": 49,
-    "question_zh": "《黑社會》嘅導演係邊個？",
-    "question_en": "Who directed \"Election\"?",
+    "question_zh": "《黑社會》喺頒獎禮表現如何？",
+    "question_en": "How did \"Election\" do at award shows?",
     "options_zh": [
-      "杜琪峰",
-      "杜琪峰",
-      "劉偉強",
-      "王晶"
+      "只喺本地",
+      "唔受歡迎",
+      "已經過氣",
+      "非常受歡迎"
     ],
     "options_en": [
-      "杜琪峰",
-      "Johnnie To",
-      "Andrew Lau",
-      "Wong Jing"
+      "Local only",
+      "Unpopular",
+      "Outdated",
+      "Very popular"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「杜琪峰」。",
-    "explanation_en": "The correct answer is '杜琪峰'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Very popular'.",
     "difficulty": 1
   },
   {
     "id": 50,
-    "question_zh": "《黑社會》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Election\"?",
+    "question_zh": "《黑社會》攞過咩獎？",
+    "question_en": "What awards did \"Election\" receive?",
     "options_zh": [
       "唔知",
-      "只係客串",
-      "係",
-      "唔係"
+      "只有提名",
+      "有攞過獎",
+      "冇"
     ],
     "options_en": [
       "Unknown",
-      "Cameo only",
-      "Yes",
+      "Only nominated",
+      "Yes, won awards",
       "No"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "explanation_zh": "正確答案係「有攞過獎」。",
+    "explanation_en": "The correct answer is 'Yes, won awards'.",
     "difficulty": 2
   },
   {
     "id": 51,
-    "question_zh": "《黑社會》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Election\"?",
+    "question_zh": "《黑社會》嘅主要演員係邊個？",
+    "question_en": "Who are the main actors in \"Election\"?",
     "options_zh": [
-      "係",
-      "唔係",
-      "只係客串",
-      "唔知"
+      "梁家輝",
+      "其他演員C",
+      "其他演員B",
+      "其他演員A"
     ],
     "options_en": [
-      "Yes",
-      "No",
-      "Cameo only",
-      "Unknown"
+      "Tony Leung Ka-fai",
+      "Actor C",
+      "Actor B",
+      "Actor A"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "explanation_zh": "正確答案係「梁家輝」。",
+    "explanation_en": "The correct answer is 'Tony Leung Ka-fai'.",
     "difficulty": 3
   },
   {
     "id": 52,
-    "question_zh": "《黑社會》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Election\"?",
+    "question_zh": "《黑社會》有邊啲演員？",
+    "question_en": "Who stars in \"Election\"?",
     "options_zh": [
-      "唔係",
-      "只係客串",
-      "係",
-      "唔知"
+      "紀錄片",
+      "體育賽事",
+      "音樂會",
+      "精彩故事"
     ],
     "options_en": [
-      "No",
-      "Cameo only",
-      "Yes",
-      "Unknown"
+      "Documentary",
+      "Sports",
+      "Concert",
+      "Exciting story"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「精彩故事」。",
+    "explanation_en": "The correct answer is 'Exciting story'.",
     "difficulty": 1
   },
   {
     "id": 53,
-    "question_zh": "《黑社會》係邊度出品？",
-    "question_en": "Where was \"Election\" produced?",
+    "question_zh": "《黑社會》嘅卡士如何？",
+    "question_en": "How is the cast of \"Election\"?",
     "options_zh": [
-      "中國",
-      "美國",
-      "香港",
-      "台灣"
+      "約4小時",
+      "約30分鐘",
+      "約6小時",
+      "約2小時"
     ],
     "options_en": [
-      "China",
-      "USA",
-      "Hong Kong",
-      "Taiwan"
+      "4 hours",
+      "30 min",
+      "6 hours",
+      "About 2 hours"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「約2小時」。",
+    "explanation_en": "The correct answer is 'About 2 hours'.",
     "difficulty": 2
   },
   {
     "id": 54,
-    "question_zh": "《黑社會》係邊度出品？",
-    "question_en": "Where was \"Election\" produced?",
+    "question_zh": "《黑社會》邊個做主角？",
+    "question_en": "Who is the lead in \"Election\"?",
     "options_zh": [
-      "中國",
-      "香港",
-      "美國",
-      "台灣"
+      "2020s",
+      "1930s",
+      "1950s",
+      "2005s"
     ],
     "options_en": [
-      "China",
-      "Hong Kong",
-      "USA",
-      "Taiwan"
+      "2020s",
+      "1930s",
+      "1950s",
+      "2005s"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「2005s」。",
+    "explanation_en": "The correct answer is '2005s'.",
     "difficulty": 3
   },
   {
     "id": 55,
-    "question_zh": "《黑社會》係邊度出品？",
-    "question_en": "Where was \"Election\" produced?",
+    "question_zh": "《黑社會》嘅演員陣容如何？",
+    "question_en": "How is the ensemble of \"Election\"?",
     "options_zh": [
-      "香港",
-      "美國",
-      "台灣",
-      "中國"
+      "英語",
+      "日語",
+      "韓語",
+      "粵語"
     ],
     "options_en": [
-      "Hong Kong",
-      "USA",
-      "Taiwan",
-      "China"
+      "English",
+      "Japanese",
+      "Korean",
+      "Cantonese"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「粵語」。",
+    "explanation_en": "The correct answer is 'Cantonese'.",
     "difficulty": 1
   },
   {
     "id": 56,
-    "question_zh": "梁家輝喺《黑社會》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Election\"?",
+    "question_zh": "《黑社會》嘅故事講咩？",
+    "question_en": "What is \"Election\" about?",
     "options_zh": [
-      "普通",
-      "非常出色",
-      "麻麻地",
-      "唔好"
+      "唔知",
+      "冇上映",
+      "票房差",
+      "票房理想"
     ],
     "options_en": [
-      "Average",
-      "Excellent",
-      "So-so",
-      "Bad"
+      "Unknown",
+      "Not released",
+      "Poor",
+      "Good box office"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「票房理想」。",
+    "explanation_en": "The correct answer is 'Good box office'.",
     "difficulty": 2
   },
   {
     "id": 57,
-    "question_zh": "梁家輝喺《黑社會》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Election\"?",
+    "question_zh": "《黑社會》嘅劇情係？",
+    "question_en": "What is the plot of \"Election\"?",
     "options_zh": [
-      "麻麻地",
-      "唔好",
-      "非常出色",
-      "普通"
+      "只有前傳",
+      "唔知",
+      "有續集",
+      "冇續集"
     ],
     "options_en": [
-      "So-so",
-      "Bad",
-      "Excellent",
-      "Average"
+      "Only prequel",
+      "Unknown",
+      "Yes, has sequel",
+      "No sequel"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "explanation_zh": "正確答案係「有續集」。",
+    "explanation_en": "The correct answer is 'Yes, has sequel'.",
     "difficulty": 3
   },
   {
     "id": 58,
-    "question_zh": "梁家輝喺《黑社會》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Election\"?",
+    "question_zh": "《黑社會》嘅故事大綱係？",
+    "question_en": "What is the synopsis of \"Election\"?",
     "options_zh": [
-      "唔好",
-      "普通",
-      "麻麻地",
-      "非常出色"
+      "差",
+      "好聽",
+      "冇音樂",
+      "普通"
     ],
     "options_en": [
       "Bad",
-      "Average",
-      "So-so",
-      "Excellent"
+      "Great music",
+      "No music",
+      "Average"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「好聽」。",
+    "explanation_en": "The correct answer is 'Great music'.",
     "difficulty": 1
   },
   {
     "id": 59,
-    "question_zh": "你會推薦《黑社會》俾朋友？",
-    "question_en": "Would you recommend \"Election\" to friends?",
+    "question_zh": "《黑社會》講緊咩嘢？",
+    "question_en": "What is \"Election\" about?",
     "options_zh": [
-      "唔知",
-      "睇情況",
-      "唔會",
-      "會，非常推薦"
+      "香港",
+      "美國",
+      "歐洲",
+      "日本"
     ],
     "options_en": [
-      "Unknown",
-      "Depends",
-      "No",
-      "Yes, highly recommended"
+      "Hong Kong",
+      "USA",
+      "Europe",
+      "Japan"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
     "difficulty": 2
   },
   {
     "id": 60,
-    "question_zh": "你會推薦《黑社會》俾朋友？",
-    "question_en": "Would you recommend \"Election\" to friends?",
+    "question_zh": "《黑社會》嘅內容係？",
+    "question_en": "What is the content of \"Election\"?",
     "options_zh": [
-      "唔會",
+      "好大影響",
+      "冇影響",
       "唔知",
-      "會，非常推薦",
-      "睇情況"
+      "負面影響"
     ],
     "options_en": [
-      "No",
+      "Great impact",
+      "No impact",
       "Unknown",
-      "Yes, highly recommended",
-      "Depends"
+      "Negative"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「好大影響」。",
+    "explanation_en": "The correct answer is 'Great impact'.",
     "difficulty": 3
   },
   {
     "id": 61,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（黑社會）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Election)",
+    "question_zh": "《黑社會》大約幾長？",
+    "question_en": "How long is \"Election\"?",
     "options_zh": [
-      "其他電影Z",
-      "其他電影Y",
       "黑社會",
-      "其他電影X"
+      "其他電影X",
+      "其他電影Y",
+      "其他電影Z"
     ],
     "options_en": [
-      "Other Movie Z",
-      "Other Movie Y",
       "Election",
-      "Other Movie X"
+      "Other X",
+      "Other Y",
+      "Other Z"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「黑社會」。",
     "explanation_en": "The correct answer is 'Election'.",
     "difficulty": 1
   },
   {
     "id": 62,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（黑社會）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Election)",
+    "question_zh": "《黑社會》嘅片長係？",
+    "question_en": "What is the runtime of \"Election\"?",
     "options_zh": [
-      "黑社會",
-      "其他電影Y",
-      "其他電影Z",
-      "其他電影X"
+      "2002年",
+      "2005年",
+      "2010年",
+      "2007年"
     ],
     "options_en": [
-      "Election",
-      "Other Movie Y",
-      "Other Movie Z",
-      "Other Movie X"
+      "2002",
+      "2005",
+      "2010",
+      "2007"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「黑社會」。",
-    "explanation_en": "The correct answer is 'Election'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「2005年」。",
+    "explanation_en": "The correct answer is '2005'.",
     "difficulty": 2
   },
   {
     "id": 63,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（黑社會）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Election)",
+    "question_zh": "《黑社會》睇幾耐？",
+    "question_en": "How long to watch \"Election\"?",
     "options_zh": [
-      "其他電影X",
-      "黑社會",
-      "其他電影Y",
-      "其他電影Z"
+      "杜琪峰",
+      "杜琪峰",
+      "劉偉強",
+      "王晶"
     ],
     "options_en": [
-      "Other Movie X",
-      "Election",
-      "Other Movie Y",
-      "Other Movie Z"
+      "Johnnie To",
+      "Johnnie To",
+      "Andrew Lau",
+      "Wong Jing"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「黑社會」。",
-    "explanation_en": "The correct answer is 'Election'.",
+    "explanation_zh": "正確答案係「杜琪峰」。",
+    "explanation_en": "The correct answer is 'Johnnie To'.",
     "difficulty": 3
   },
   {
     "id": 64,
-    "question_zh": "《黑社會》係邊年上映嘅？",
-    "question_en": "What year was \"Election\" released?",
+    "question_zh": "《黑社會》有幾多分鐘？",
+    "question_en": "How many minutes is \"Election\"?",
     "options_zh": [
-      "2010年",
-      "2002年",
-      "2005年",
-      "2007年"
+      "犯罪",
+      "音樂劇",
+      "紀錄片",
+      "動畫"
     ],
     "options_en": [
-      "2010",
-      "2002",
-      "2005",
-      "2007"
+      "Crime",
+      "Musical",
+      "Documentary",
+      "Animation"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2005年」。",
-    "explanation_en": "The correct answer is '2005'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「犯罪」。",
+    "explanation_en": "The correct answer is 'Crime'.",
     "difficulty": 1
   },
   {
     "id": 65,
-    "question_zh": "《黑社會》係邊年上映嘅？",
-    "question_en": "What year was \"Election\" released?",
+    "question_zh": "《黑社會》長唔長？",
+    "question_en": "Is \"Election\" long?",
     "options_zh": [
-      "2007年",
-      "2010年",
-      "2002年",
-      "2005年"
+      "台灣",
+      "中國",
+      "香港",
+      "美國"
     ],
     "options_en": [
-      "2007",
-      "2010",
-      "2002",
-      "2005"
+      "Taiwan",
+      "China",
+      "Hong Kong",
+      "USA"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2005年」。",
-    "explanation_en": "The correct answer is '2005'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
     "difficulty": 2
   },
   {
     "id": 66,
-    "question_zh": "《黑社會》係邊年上映嘅？",
-    "question_en": "What year was \"Election\" released?",
+    "question_zh": "《黑社會》喺邊個年代上映？",
+    "question_en": "When was \"Election\" released?",
     "options_zh": [
-      "2005年",
-      "2007年",
-      "2010年",
-      "2002年"
+      "主角",
+      "配角",
+      "客串",
+      "路人"
     ],
     "options_en": [
-      "2005",
-      "2007",
-      "2010",
-      "2002"
+      "Main Character",
+      "Supporting",
+      "Cameo",
+      "Passerby"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「2005年」。",
-    "explanation_en": "The correct answer is '2005'.",
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
     "difficulty": 3
   },
   {
     "id": 67,
-    "question_zh": "《黑社會》嘅導演係邊個？",
-    "question_en": "Who directed \"Election\"?",
+    "question_zh": "《黑社會》係幾時嘅電影？",
+    "question_en": "When is \"Election\" from?",
     "options_zh": [
-      "劉偉強",
-      "王晶",
-      "杜琪峰",
-      "杜琪峰"
+      "會，非常推薦",
+      "唔會",
+      "睇情況",
+      "唔知"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Wong Jing",
-      "杜琪峰",
-      "Johnnie To"
+      "Yes, highly recommended",
+      "No",
+      "Depends",
+      "Unknown"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「杜琪峰」。",
-    "explanation_en": "The correct answer is '杜琪峰'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 1
   },
   {
     "id": 68,
-    "question_zh": "《黑社會》嘅導演係邊個？",
-    "question_en": "Who directed \"Election\"?",
+    "question_zh": "《黑社會》係舊片定新片？",
+    "question_en": "Is \"Election\" old or new?",
     "options_zh": [
-      "劉偉強",
-      "王晶",
-      "杜琪峰",
-      "杜琪峰"
+      "普通",
+      "高質素",
+      "低質素",
+      "參差"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Wong Jing",
-      "杜琪峰",
-      "Johnnie To"
+      "Average",
+      "High quality",
+      "Low",
+      "Mixed"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「杜琪峰」。",
-    "explanation_en": "The correct answer is '杜琪峰'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 2
   },
   {
     "id": 69,
-    "question_zh": "《黑社會》嘅導演係邊個？",
-    "question_en": "Who directed \"Election\"?",
+    "question_zh": "《黑社會》係幾多年前嘅？",
+    "question_en": "How old is \"Election\"?",
     "options_zh": [
-      "杜琪峰",
-      "王晶",
-      "杜琪峰",
-      "劉偉強"
+      "已經過氣",
+      "只喺本地",
+      "非常受歡迎",
+      "唔受歡迎"
     ],
     "options_en": [
-      "Johnnie To",
-      "Wong Jing",
-      "杜琪峰",
-      "Andrew Lau"
+      "Outdated",
+      "Local only",
+      "Very popular",
+      "Unpopular"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「杜琪峰」。",
-    "explanation_en": "The correct answer is '杜琪峰'.",
+    "explanation_zh": "正確答案係「非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Very popular'.",
     "difficulty": 3
   },
   {
     "id": 70,
-    "question_zh": "《黑社會》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Election\"?",
+    "question_zh": "《黑社會》係邊年嘅作品？",
+    "question_en": "What year is \"Election\" from?",
     "options_zh": [
-      "係",
-      "只係客串",
-      "唔係",
-      "唔知"
+      "有攞過獎",
+      "冇",
+      "唔知",
+      "只有提名"
     ],
     "options_en": [
-      "Yes",
-      "Cameo only",
+      "Yes, won awards",
       "No",
-      "Unknown"
+      "Unknown",
+      "Only nominated"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "explanation_zh": "正確答案係「有攞過獎」。",
+    "explanation_en": "The correct answer is 'Yes, won awards'.",
     "difficulty": 1
   },
   {
     "id": 71,
-    "question_zh": "《黑社會》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Election\"?",
+    "question_zh": "《黑社會》係咩語言？",
+    "question_en": "What language is \"Election\"?",
     "options_zh": [
-      "係",
-      "只係客串",
-      "唔知",
-      "唔係"
+      "梁家輝",
+      "其他演員C",
+      "其他演員A",
+      "其他演員B"
     ],
     "options_en": [
-      "Yes",
-      "Cameo only",
-      "Unknown",
-      "No"
+      "Tony Leung Ka-fai",
+      "Actor C",
+      "Actor A",
+      "Actor B"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "explanation_zh": "正確答案係「梁家輝」。",
+    "explanation_en": "The correct answer is 'Tony Leung Ka-fai'.",
     "difficulty": 2
   },
   {
     "id": 72,
-    "question_zh": "《黑社會》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Election\"?",
+    "question_zh": "《黑社會》係廣東話定普通話？",
+    "question_en": "Is \"Election\" in Cantonese or Mandarin?",
     "options_zh": [
-      "只係客串",
-      "係",
-      "唔係",
-      "唔知"
+      "音樂會",
+      "體育賽事",
+      "精彩故事",
+      "紀錄片"
     ],
     "options_en": [
-      "Cameo only",
-      "Yes",
-      "No",
-      "Unknown"
+      "Concert",
+      "Sports",
+      "Exciting story",
+      "Documentary"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「精彩故事」。",
+    "explanation_en": "The correct answer is 'Exciting story'.",
     "difficulty": 3
   },
   {
     "id": 73,
-    "question_zh": "《黑社會》係邊度出品？",
-    "question_en": "Where was \"Election\" produced?",
+    "question_zh": "《黑社會》用咩語言拍？",
+    "question_en": "What language is \"Election\" filmed in?",
     "options_zh": [
-      "中國",
-      "台灣",
-      "美國",
-      "香港"
+      "約6小時",
+      "約30分鐘",
+      "約4小時",
+      "約2小時"
     ],
     "options_en": [
-      "China",
-      "Taiwan",
-      "USA",
-      "Hong Kong"
+      "6 hours",
+      "30 min",
+      "4 hours",
+      "About 2 hours"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "explanation_zh": "正確答案係「約2小時」。",
+    "explanation_en": "The correct answer is 'About 2 hours'.",
     "difficulty": 1
   },
   {
     "id": 74,
-    "question_zh": "《黑社會》係邊度出品？",
-    "question_en": "Where was \"Election\" produced?",
+    "question_zh": "《黑社會》嘅對白係咩話？",
+    "question_en": "What dialect is \"Election\" in?",
     "options_zh": [
-      "台灣",
-      "美國",
-      "香港",
-      "中國"
+      "1930s",
+      "2020s",
+      "2005s",
+      "1950s"
     ],
     "options_en": [
-      "Taiwan",
-      "USA",
-      "Hong Kong",
-      "China"
+      "1930s",
+      "2020s",
+      "2005s",
+      "1950s"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "explanation_zh": "正確答案係「2005s」。",
+    "explanation_en": "The correct answer is '2005s'.",
     "difficulty": 2
   },
   {
     "id": 75,
-    "question_zh": "《黑社會》係邊度出品？",
-    "question_en": "Where was \"Election\" produced?",
+    "question_zh": "《黑社會》係英文片？",
+    "question_en": "Is \"Election\" in English?",
     "options_zh": [
-      "美國",
-      "香港",
-      "台灣",
-      "中國"
+      "日語",
+      "粵語",
+      "英語",
+      "韓語"
     ],
     "options_en": [
-      "USA",
-      "Hong Kong",
-      "Taiwan",
-      "China"
+      "Japanese",
+      "Cantonese",
+      "English",
+      "Korean"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "explanation_zh": "正確答案係「粵語」。",
+    "explanation_en": "The correct answer is 'Cantonese'.",
     "difficulty": 3
   },
   {
     "id": 76,
-    "question_zh": "梁家輝喺《黑社會》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Election\"?",
+    "question_zh": "《黑社會》票房如何？",
+    "question_en": "How was \"Election\" box office?",
     "options_zh": [
-      "唔好",
-      "普通",
-      "非常出色",
-      "麻麻地"
+      "唔知",
+      "票房差",
+      "票房理想",
+      "冇上映"
     ],
     "options_en": [
-      "Bad",
-      "Average",
-      "Excellent",
-      "So-so"
+      "Unknown",
+      "Poor",
+      "Good box office",
+      "Not released"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "explanation_zh": "正確答案係「票房理想」。",
+    "explanation_en": "The correct answer is 'Good box office'.",
     "difficulty": 1
   },
   {
     "id": 77,
-    "question_zh": "梁家輝喺《黑社會》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Election\"?",
+    "question_zh": "《黑社會》賺唔賺錢？",
+    "question_en": "Did \"Election\" make money?",
     "options_zh": [
-      "麻麻地",
-      "非常出色",
-      "普通",
-      "唔好"
+      "冇續集",
+      "唔知",
+      "有續集",
+      "只有前傳"
     ],
     "options_en": [
-      "So-so",
-      "Excellent",
-      "Average",
-      "Bad"
+      "No sequel",
+      "Unknown",
+      "Yes, has sequel",
+      "Only prequel"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「有續集」。",
+    "explanation_en": "The correct answer is 'Yes, has sequel'.",
     "difficulty": 2
   },
   {
     "id": 78,
-    "question_zh": "梁家輝喺《黑社會》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Election\"?",
+    "question_zh": "《黑社會》嘅票房成績？",
+    "question_en": "What was \"Election\" box office result?",
     "options_zh": [
-      "麻麻地",
+      "差",
       "普通",
-      "非常出色",
-      "唔好"
+      "冇音樂",
+      "好聽"
     ],
     "options_en": [
-      "So-so",
+      "Bad",
       "Average",
-      "Excellent",
-      "Bad"
+      "No music",
+      "Great music"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「好聽」。",
+    "explanation_en": "The correct answer is 'Great music'.",
     "difficulty": 3
   },
   {
     "id": 79,
-    "question_zh": "你會推薦《黑社會》俾朋友？",
-    "question_en": "Would you recommend \"Election\" to friends?",
+    "question_zh": "《黑社會》賣唔賣座？",
+    "question_en": "Was \"Election\" a hit?",
     "options_zh": [
-      "睇情況",
-      "唔會",
-      "會，非常推薦",
-      "唔知"
+      "歐洲",
+      "日本",
+      "香港",
+      "美國"
     ],
     "options_en": [
-      "Depends",
-      "No",
-      "Yes, highly recommended",
-      "Unknown"
+      "Europe",
+      "Japan",
+      "Hong Kong",
+      "USA"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
     "difficulty": 1
   },
   {
     "id": 80,
-    "question_zh": "你會推薦《黑社會》俾朋友？",
-    "question_en": "Would you recommend \"Election\" to friends?",
+    "question_zh": "《黑社會》嘅商業表現如何？",
+    "question_en": "How was \"Election\" commercially?",
     "options_zh": [
+      "冇影響",
       "唔知",
-      "會，非常推薦",
-      "唔會",
-      "睇情況"
+      "好大影響",
+      "負面影響"
     ],
     "options_en": [
+      "No impact",
       "Unknown",
-      "Yes, highly recommended",
-      "No",
-      "Depends"
+      "Great impact",
+      "Negative"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「好大影響」。",
+    "explanation_en": "The correct answer is 'Great impact'.",
     "difficulty": 2
   },
   {
     "id": 81,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（黑社會）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Election)",
+    "question_zh": "《黑社會》有冇續集？",
+    "question_en": "Does \"Election\" have a sequel?",
     "options_zh": [
-      "其他電影Y",
-      "黑社會",
+      "其他電影X",
       "其他電影Z",
-      "其他電影X"
+      "其他電影Y",
+      "黑社會"
     ],
     "options_en": [
-      "Other Movie Y",
-      "Election",
-      "Other Movie Z",
-      "Other Movie X"
+      "Other X",
+      "Other Z",
+      "Other Y",
+      "Election"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「黑社會」。",
     "explanation_en": "The correct answer is 'Election'.",
     "difficulty": 3
   },
   {
     "id": 82,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（黑社會）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Election)",
-    "options_zh": [
-      "其他電影X",
-      "其他電影Z",
-      "其他電影Y",
-      "黑社會"
-    ],
-    "options_en": [
-      "Other Movie X",
-      "Other Movie Z",
-      "Other Movie Y",
-      "Election"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「黑社會」。",
-    "explanation_en": "The correct answer is 'Election'.",
-    "difficulty": 1
-  },
-  {
-    "id": 83,
-    "question_zh": "以下邊部電影係梁家輝主演嘅？（黑社會）",
-    "question_en": "Which movie stars Tony Leung Ka-fai? (Election)",
-    "options_zh": [
-      "其他電影X",
-      "其他電影Z",
-      "其他電影Y",
-      "黑社會"
-    ],
-    "options_en": [
-      "Other Movie X",
-      "Other Movie Z",
-      "Other Movie Y",
-      "Election"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「黑社會」。",
-    "explanation_en": "The correct answer is 'Election'.",
-    "difficulty": 2
-  },
-  {
-    "id": 84,
-    "question_zh": "《黑社會》係邊年上映嘅？",
-    "question_en": "What year was \"Election\" released?",
+    "question_zh": "《黑社會》會唔會拍第二集？",
+    "question_en": "Will there be a \"Election\" 2?",
     "options_zh": [
       "2005年",
-      "2002年",
       "2007年",
+      "2002年",
       "2010年"
     ],
     "options_en": [
       "2005",
-      "2002",
       "2007",
+      "2002",
       "2010"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
-    "difficulty": 3
-  },
-  {
-    "id": 85,
-    "question_zh": "《黑社會》係邊年上映嘅？",
-    "question_en": "What year was \"Election\" released?",
-    "options_zh": [
-      "2002年",
-      "2007年",
-      "2010年",
-      "2005年"
-    ],
-    "options_en": [
-      "2002",
-      "2007",
-      "2010",
-      "2005"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2005年」。",
-    "explanation_en": "The correct answer is '2005'.",
     "difficulty": 1
   },
   {
-    "id": 86,
-    "question_zh": "《黑社會》係邊年上映嘅？",
-    "question_en": "What year was \"Election\" released?",
+    "id": 83,
+    "question_zh": "《黑社會》嘅續集幾時出？",
+    "question_en": "When is the \"Election\" sequel?",
     "options_zh": [
-      "2010年",
-      "2002年",
-      "2005年",
-      "2007年"
-    ],
-    "options_en": [
-      "2010",
-      "2002",
-      "2005",
-      "2007"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2005年」。",
-    "explanation_en": "The correct answer is '2005'.",
-    "difficulty": 2
-  },
-  {
-    "id": 87,
-    "question_zh": "《黑社會》嘅導演係邊個？",
-    "question_en": "Who directed \"Election\"?",
-    "options_zh": [
-      "劉偉強",
+      "杜琪峰",
       "杜琪峰",
       "王晶",
-      "杜琪峰"
-    ],
-    "options_en": [
-      "Andrew Lau",
-      "杜琪峰",
-      "Wong Jing",
-      "Johnnie To"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「杜琪峰」。",
-    "explanation_en": "The correct answer is '杜琪峰'.",
-    "difficulty": 3
-  },
-  {
-    "id": 88,
-    "question_zh": "《黑社會》嘅導演係邊個？",
-    "question_en": "Who directed \"Election\"?",
-    "options_zh": [
-      "王晶",
-      "劉偉強",
-      "杜琪峰",
-      "杜琪峰"
-    ],
-    "options_en": [
-      "Wong Jing",
-      "Andrew Lau",
-      "Johnnie To",
-      "杜琪峰"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「杜琪峰」。",
-    "explanation_en": "The correct answer is '杜琪峰'.",
-    "difficulty": 1
-  },
-  {
-    "id": 89,
-    "question_zh": "《黑社會》嘅導演係邊個？",
-    "question_en": "Who directed \"Election\"?",
-    "options_zh": [
-      "杜琪峰",
-      "王晶",
-      "杜琪峰",
       "劉偉強"
     ],
     "options_en": [
       "Johnnie To",
+      "Johnnie To",
       "Wong Jing",
-      "杜琪峰",
       "Andrew Lau"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「杜琪峰」。",
-    "explanation_en": "The correct answer is '杜琪峰'.",
+    "explanation_en": "The correct answer is 'Johnnie To'.",
+    "difficulty": 2
+  },
+  {
+    "id": 84,
+    "question_zh": "《黑社會》有冇第三集？",
+    "question_en": "Is there a \"Election\" 3?",
+    "options_zh": [
+      "紀錄片",
+      "犯罪",
+      "音樂劇",
+      "動畫"
+    ],
+    "options_en": [
+      "Documentary",
+      "Crime",
+      "Musical",
+      "Animation"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「犯罪」。",
+    "explanation_en": "The correct answer is 'Crime'.",
+    "difficulty": 3
+  },
+  {
+    "id": 85,
+    "question_zh": "《黑社會》嘅系列有幾多集？",
+    "question_en": "How many in the \"Election\" series?",
+    "options_zh": [
+      "台灣",
+      "美國",
+      "香港",
+      "中國"
+    ],
+    "options_en": [
+      "Taiwan",
+      "USA",
+      "Hong Kong",
+      "China"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
+  },
+  {
+    "id": 86,
+    "question_zh": "《黑社會》嘅音樂如何？",
+    "question_en": "How is the music in \"Election\"?",
+    "options_zh": [
+      "路人",
+      "配角",
+      "主角",
+      "客串"
+    ],
+    "options_en": [
+      "Passerby",
+      "Supporting",
+      "Main Character",
+      "Cameo"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 2
+  },
+  {
+    "id": 87,
+    "question_zh": "《黑社會》嘅配樂好唔好？",
+    "question_en": "Is the soundtrack of \"Election\" good?",
+    "options_zh": [
+      "睇情況",
+      "會，非常推薦",
+      "唔會",
+      "唔知"
+    ],
+    "options_en": [
+      "Depends",
+      "Yes, highly recommended",
+      "No",
+      "Unknown"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
+  },
+  {
+    "id": 88,
+    "question_zh": "《黑社會》有冇主題曲？",
+    "question_en": "Does \"Election\" have a theme song?",
+    "options_zh": [
+      "低質素",
+      "高質素",
+      "參差",
+      "普通"
+    ],
+    "options_en": [
+      "Low",
+      "High quality",
+      "Mixed",
+      "Average"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
+    "difficulty": 1
+  },
+  {
+    "id": 89,
+    "question_zh": "《黑社會》嘅插曲好聽嗎？",
+    "question_en": "Are the songs in \"Election\" good?",
+    "options_zh": [
+      "只喺本地",
+      "唔受歡迎",
+      "非常受歡迎",
+      "已經過氣"
+    ],
+    "options_en": [
+      "Local only",
+      "Unpopular",
+      "Very popular",
+      "Outdated"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Very popular'.",
     "difficulty": 2
   },
   {
     "id": 90,
-    "question_zh": "《黑社會》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Election\"?",
+    "question_zh": "《黑社會》嘅音樂係咩風格？",
+    "question_en": "What style is \"Election\" music?",
     "options_zh": [
+      "冇",
       "唔知",
-      "只係客串",
-      "唔係",
-      "係"
+      "只有提名",
+      "有攞過獎"
     ],
     "options_en": [
-      "Unknown",
-      "Cameo only",
       "No",
-      "Yes"
+      "Unknown",
+      "Only nominated",
+      "Yes, won awards"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "explanation_zh": "正確答案係「有攞過獎」。",
+    "explanation_en": "The correct answer is 'Yes, won awards'.",
     "difficulty": 3
   },
   {
     "id": 91,
-    "question_zh": "《黑社會》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Election\"?",
+    "question_zh": "《黑社會》喺邊度拍攝？",
+    "question_en": "Where was \"Election\" filmed?",
     "options_zh": [
-      "唔係",
-      "唔知",
-      "係",
-      "只係客串"
+      "梁家輝",
+      "其他演員B",
+      "其他演員C",
+      "其他演員A"
     ],
     "options_en": [
-      "No",
-      "Unknown",
-      "Yes",
-      "Cameo only"
+      "Tony Leung Ka-fai",
+      "Actor B",
+      "Actor C",
+      "Actor A"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「梁家輝」。",
+    "explanation_en": "The correct answer is 'Tony Leung Ka-fai'.",
     "difficulty": 1
   },
   {
     "id": 92,
-    "question_zh": "《黑社會》入面梁家輝係主角？",
-    "question_en": "Is Tony Leung Ka-fai the lead in \"Election\"?",
+    "question_zh": "《黑社會》嘅拍攝地點係？",
+    "question_en": "What are the filming locations of \"Election\"?",
     "options_zh": [
-      "只係客串",
-      "唔係",
-      "唔知",
-      "係"
+      "紀錄片",
+      "體育賽事",
+      "音樂會",
+      "精彩故事"
     ],
     "options_en": [
-      "Cameo only",
-      "No",
-      "Unknown",
-      "Yes"
+      "Documentary",
+      "Sports",
+      "Concert",
+      "Exciting story"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "explanation_zh": "正確答案係「精彩故事」。",
+    "explanation_en": "The correct answer is 'Exciting story'.",
     "difficulty": 2
   },
   {
     "id": 93,
-    "question_zh": "《黑社會》係邊度出品？",
-    "question_en": "Where was \"Election\" produced?",
+    "question_zh": "《黑社會》係喺香港拍？",
+    "question_en": "Was \"Election\" filmed in HK?",
     "options_zh": [
-      "美國",
-      "香港",
-      "台灣",
-      "中國"
+      "約4小時",
+      "約30分鐘",
+      "約6小時",
+      "約2小時"
     ],
     "options_en": [
-      "USA",
-      "Hong Kong",
-      "Taiwan",
-      "China"
+      "4 hours",
+      "30 min",
+      "6 hours",
+      "About 2 hours"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「約2小時」。",
+    "explanation_en": "The correct answer is 'About 2 hours'.",
     "difficulty": 3
   },
   {
     "id": 94,
-    "question_zh": "《黑社會》係邊度出品？",
-    "question_en": "Where was \"Election\" produced?",
+    "question_zh": "《黑社會》嘅場景喺邊度？",
+    "question_en": "Where are the scenes of \"Election\"?",
     "options_zh": [
-      "香港",
-      "中國",
-      "美國",
-      "台灣"
+      "1950s",
+      "2020s",
+      "1930s",
+      "2005s"
     ],
     "options_en": [
-      "Hong Kong",
-      "China",
-      "USA",
-      "Taiwan"
+      "1950s",
+      "2020s",
+      "1930s",
+      "2005s"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「2005s」。",
+    "explanation_en": "The correct answer is '2005s'.",
     "difficulty": 1
   },
   {
     "id": 95,
-    "question_zh": "《黑社會》係邊度出品？",
-    "question_en": "Where was \"Election\" produced?",
+    "question_zh": "《黑社會》去邊度取景？",
+    "question_en": "Where was \"Election\" shot?",
     "options_zh": [
-      "中國",
-      "香港",
-      "美國",
-      "台灣"
+      "粵語",
+      "英語",
+      "日語",
+      "韓語"
     ],
     "options_en": [
-      "China",
-      "Hong Kong",
-      "USA",
-      "Taiwan"
+      "Cantonese",
+      "English",
+      "Japanese",
+      "Korean"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「粵語」。",
+    "explanation_en": "The correct answer is 'Cantonese'.",
     "difficulty": 2
   },
   {
     "id": 96,
-    "question_zh": "梁家輝喺《黑社會》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Election\"?",
+    "question_zh": "《黑社會》對香港電影有咩影響？",
+    "question_en": "What impact did \"Election\" have?",
     "options_zh": [
-      "麻麻地",
-      "普通",
-      "唔好",
-      "非常出色"
+      "票房理想",
+      "唔知",
+      "冇上映",
+      "票房差"
     ],
     "options_en": [
-      "So-so",
-      "Average",
-      "Bad",
-      "Excellent"
+      "Good box office",
+      "Unknown",
+      "Not released",
+      "Poor"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「票房理想」。",
+    "explanation_en": "The correct answer is 'Good box office'.",
     "difficulty": 3
   },
   {
     "id": 97,
-    "question_zh": "梁家輝喺《黑社會》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Election\"?",
+    "question_zh": "《黑社會》嘅歷史意義係？",
+    "question_en": "What is the historical significance of \"Election\"?",
     "options_zh": [
-      "麻麻地",
-      "非常出色",
-      "唔好",
-      "普通"
+      "冇續集",
+      "只有前傳",
+      "唔知",
+      "有續集"
     ],
     "options_en": [
-      "So-so",
-      "Excellent",
-      "Bad",
-      "Average"
+      "No sequel",
+      "Only prequel",
+      "Unknown",
+      "Yes, has sequel"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「有續集」。",
+    "explanation_en": "The correct answer is 'Yes, has sequel'.",
     "difficulty": 1
   },
   {
     "id": 98,
-    "question_zh": "梁家輝喺《黑社會》嘅表現如何？",
-    "question_en": "How is Tony Leung Ka-fai's performance in \"Election\"?",
+    "question_zh": "《黑社會》喺電影史上嘅地位？",
+    "question_en": "What is \"Election\"'s place in cinema?",
     "options_zh": [
-      "非常出色",
-      "麻麻地",
+      "差",
       "普通",
-      "唔好"
+      "冇音樂",
+      "好聽"
     ],
     "options_en": [
-      "Excellent",
-      "So-so",
+      "Bad",
       "Average",
-      "Bad"
+      "No music",
+      "Great music"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「好聽」。",
+    "explanation_en": "The correct answer is 'Great music'.",
     "difficulty": 2
   },
   {
     "id": 99,
-    "question_zh": "你會推薦《黑社會》俾朋友？",
-    "question_en": "Would you recommend \"Election\" to friends?",
+    "question_zh": "《黑社會》改變咗咩？",
+    "question_en": "What did \"Election\" change?",
     "options_zh": [
-      "會，非常推薦",
-      "唔會",
-      "睇情況",
-      "唔知"
+      "日本",
+      "香港",
+      "美國",
+      "歐洲"
     ],
     "options_en": [
-      "Yes, highly recommended",
-      "No",
-      "Depends",
-      "Unknown"
+      "Japan",
+      "Hong Kong",
+      "USA",
+      "Europe"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
     "difficulty": 3
   },
   {
     "id": 100,
-    "question_zh": "你會推薦《黑社會》俾朋友？",
-    "question_en": "Would you recommend \"Election\" to friends?",
+    "question_zh": "《黑社會》嘅文化影響係？",
+    "question_en": "What is the cultural impact of \"Election\"?",
     "options_zh": [
-      "會，非常推薦",
-      "睇情況",
-      "唔會",
-      "唔知"
+      "負面影響",
+      "唔知",
+      "冇影響",
+      "好大影響"
     ],
     "options_en": [
-      "Yes, highly recommended",
-      "Depends",
-      "No",
-      "Unknown"
+      "Negative",
+      "Unknown",
+      "No impact",
+      "Great impact"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「好大影響」。",
+    "explanation_en": "The correct answer is 'Great impact'.",
     "difficulty": 1
   }
 ]

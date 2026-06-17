@@ -1,18 +1,18 @@
 [
   {
     "id": 1,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（消失的兇手）",
-    "question_en": "Which movie stars Sean Lau? (The Vanished Murderer)",
+    "question_zh": "以下邊部電影係劉青雲主演嘅？",
+    "question_en": "Which movie stars Sean Lau?",
     "options_zh": [
-      "其他電影Y",
-      "其他電影X",
       "其他電影Z",
+      "其他電影X",
+      "其他電影Y",
       "消失的兇手"
     ],
     "options_en": [
-      "Other Movie Y",
-      "Other Movie X",
-      "Other Movie Z",
+      "Other Z",
+      "Other X",
+      "Other Y",
       "The Vanished Murderer"
     ],
     "answer": 3,
@@ -22,1100 +22,71 @@
   },
   {
     "id": 2,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（消失的兇手）",
-    "question_en": "Which movie stars Sean Lau? (The Vanished Murderer)",
+    "question_zh": "邊部電影有劉青雲演出？",
+    "question_en": "Which movie features Sean Lau?",
     "options_zh": [
-      "其他電影X",
-      "其他電影Y",
-      "消失的兇手",
-      "其他電影Z"
+      "2012年",
+      "2020年",
+      "2017年",
+      "2015年"
     ],
     "options_en": [
-      "Other Movie X",
-      "Other Movie Y",
-      "The Vanished Murderer",
-      "Other Movie Z"
+      "2012",
+      "2020",
+      "2017",
+      "2015"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「消失的兇手」。",
-    "explanation_en": "The correct answer is 'The Vanished Murderer'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「2015年」。",
+    "explanation_en": "The correct answer is '2015'.",
     "difficulty": 2
   },
   {
     "id": 3,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（消失的兇手）",
-    "question_en": "Which movie stars Sean Lau? (The Vanished Murderer)",
+    "question_zh": "劉青雲主演過邊部電影？",
+    "question_en": "Which movie did Sean Lau star in?",
     "options_zh": [
-      "其他電影Z",
-      "其他電影Y",
-      "其他電影X",
-      "消失的兇手"
+      "爾冬陞",
+      "王晶",
+      "劉偉強",
+      "杜琪峰"
     ],
     "options_en": [
-      "Other Movie Z",
-      "Other Movie Y",
-      "Other Movie X",
-      "The Vanished Murderer"
+      "Derek Yee",
+      "Wong Jing",
+      "Andrew Lau",
+      "Johnnie To"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「消失的兇手」。",
-    "explanation_en": "The correct answer is 'The Vanished Murderer'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「爾冬陞」。",
+    "explanation_en": "The correct answer is 'Derek Yee'.",
     "difficulty": 3
   },
   {
     "id": 4,
-    "question_zh": "《消失的兇手》係邊年上映嘅？",
-    "question_en": "What year was \"The Vanished Murderer\" released?",
+    "question_zh": "以下邊部係劉青雲嘅電影？",
+    "question_en": "Which is a movie by Sean Lau?",
     "options_zh": [
-      "2017年",
-      "2012年",
-      "2015年",
-      "2020年"
+      "音樂劇",
+      "動畫",
+      "犯罪",
+      "紀錄片"
     ],
     "options_en": [
-      "2017",
-      "2012",
-      "2015",
-      "2020"
+      "Musical",
+      "Animation",
+      "Crime",
+      "Documentary"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「2015年」。",
-    "explanation_en": "The correct answer is '2015'.",
+    "explanation_zh": "正確答案係「犯罪」。",
+    "explanation_en": "The correct answer is 'Crime'.",
     "difficulty": 1
   },
   {
     "id": 5,
-    "question_zh": "《消失的兇手》係邊年上映嘅？",
-    "question_en": "What year was \"The Vanished Murderer\" released?",
-    "options_zh": [
-      "2017年",
-      "2020年",
-      "2012年",
-      "2015年"
-    ],
-    "options_en": [
-      "2017",
-      "2020",
-      "2012",
-      "2015"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2015年」。",
-    "explanation_en": "The correct answer is '2015'.",
-    "difficulty": 2
-  },
-  {
-    "id": 6,
-    "question_zh": "《消失的兇手》係邊年上映嘅？",
-    "question_en": "What year was \"The Vanished Murderer\" released?",
-    "options_zh": [
-      "2012年",
-      "2017年",
-      "2020年",
-      "2015年"
-    ],
-    "options_en": [
-      "2012",
-      "2017",
-      "2020",
-      "2015"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2015年」。",
-    "explanation_en": "The correct answer is '2015'.",
-    "difficulty": 3
-  },
-  {
-    "id": 7,
-    "question_zh": "《消失的兇手》嘅導演係邊個？",
-    "question_en": "Who directed \"The Vanished Murderer\"?",
-    "options_zh": [
-      "爾冬陞",
-      "劉偉強",
-      "王晶",
-      "杜琪峰"
-    ],
-    "options_en": [
-      "爾冬陞",
-      "Andrew Lau",
-      "Wong Jing",
-      "Johnnie To"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「爾冬陞」。",
-    "explanation_en": "The correct answer is '爾冬陞'.",
-    "difficulty": 1
-  },
-  {
-    "id": 8,
-    "question_zh": "《消失的兇手》嘅導演係邊個？",
-    "question_en": "Who directed \"The Vanished Murderer\"?",
-    "options_zh": [
-      "王晶",
-      "杜琪峰",
-      "爾冬陞",
-      "劉偉強"
-    ],
-    "options_en": [
-      "Wong Jing",
-      "Johnnie To",
-      "爾冬陞",
-      "Andrew Lau"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「爾冬陞」。",
-    "explanation_en": "The correct answer is '爾冬陞'.",
-    "difficulty": 2
-  },
-  {
-    "id": 9,
-    "question_zh": "《消失的兇手》嘅導演係邊個？",
-    "question_en": "Who directed \"The Vanished Murderer\"?",
-    "options_zh": [
-      "爾冬陞",
-      "王晶",
-      "劉偉強",
-      "杜琪峰"
-    ],
-    "options_en": [
-      "爾冬陞",
-      "Wong Jing",
-      "Andrew Lau",
-      "Johnnie To"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「爾冬陞」。",
-    "explanation_en": "The correct answer is '爾冬陞'.",
-    "difficulty": 3
-  },
-  {
-    "id": 10,
-    "question_zh": "《消失的兇手》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"The Vanished Murderer\"?",
-    "options_zh": [
-      "係",
-      "唔知",
-      "唔係",
-      "只係客串"
-    ],
-    "options_en": [
-      "Yes",
-      "Unknown",
-      "No",
-      "Cameo only"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 1
-  },
-  {
-    "id": 11,
-    "question_zh": "《消失的兇手》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"The Vanished Murderer\"?",
-    "options_zh": [
-      "只係客串",
-      "唔知",
-      "唔係",
-      "係"
-    ],
-    "options_en": [
-      "Cameo only",
-      "Unknown",
-      "No",
-      "Yes"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 2
-  },
-  {
-    "id": 12,
-    "question_zh": "《消失的兇手》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"The Vanished Murderer\"?",
-    "options_zh": [
-      "唔知",
-      "係",
-      "只係客串",
-      "唔係"
-    ],
-    "options_en": [
-      "Unknown",
-      "Yes",
-      "Cameo only",
-      "No"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 3
-  },
-  {
-    "id": 13,
-    "question_zh": "《消失的兇手》係邊度出品？",
-    "question_en": "Where was \"The Vanished Murderer\" produced?",
-    "options_zh": [
-      "美國",
-      "香港",
-      "台灣",
-      "中國"
-    ],
-    "options_en": [
-      "USA",
-      "Hong Kong",
-      "Taiwan",
-      "China"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 1
-  },
-  {
-    "id": 14,
-    "question_zh": "《消失的兇手》係邊度出品？",
-    "question_en": "Where was \"The Vanished Murderer\" produced?",
-    "options_zh": [
-      "香港",
-      "台灣",
-      "美國",
-      "中國"
-    ],
-    "options_en": [
-      "Hong Kong",
-      "Taiwan",
-      "USA",
-      "China"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 2
-  },
-  {
-    "id": 15,
-    "question_zh": "《消失的兇手》係邊度出品？",
-    "question_en": "Where was \"The Vanished Murderer\" produced?",
-    "options_zh": [
-      "香港",
-      "中國",
-      "台灣",
-      "美國"
-    ],
-    "options_en": [
-      "Hong Kong",
-      "China",
-      "Taiwan",
-      "USA"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 3
-  },
-  {
-    "id": 16,
-    "question_zh": "劉青雲喺《消失的兇手》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"The Vanished Murderer\"?",
-    "options_zh": [
-      "非常出色",
-      "普通",
-      "麻麻地",
-      "唔好"
-    ],
-    "options_en": [
-      "Excellent",
-      "Average",
-      "So-so",
-      "Bad"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 1
-  },
-  {
-    "id": 17,
-    "question_zh": "劉青雲喺《消失的兇手》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"The Vanished Murderer\"?",
-    "options_zh": [
-      "非常出色",
-      "唔好",
-      "麻麻地",
-      "普通"
-    ],
-    "options_en": [
-      "Excellent",
-      "Bad",
-      "So-so",
-      "Average"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 2
-  },
-  {
-    "id": 18,
-    "question_zh": "劉青雲喺《消失的兇手》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"The Vanished Murderer\"?",
-    "options_zh": [
-      "唔好",
-      "非常出色",
-      "麻麻地",
-      "普通"
-    ],
-    "options_en": [
-      "Bad",
-      "Excellent",
-      "So-so",
-      "Average"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 3
-  },
-  {
-    "id": 19,
-    "question_zh": "你會推薦《消失的兇手》俾朋友？",
-    "question_en": "Would you recommend \"The Vanished Murderer\" to friends?",
-    "options_zh": [
-      "睇情況",
-      "唔會",
-      "唔知",
-      "會，非常推薦"
-    ],
-    "options_en": [
-      "Depends",
-      "No",
-      "Unknown",
-      "Yes, highly recommended"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 1
-  },
-  {
-    "id": 20,
-    "question_zh": "你會推薦《消失的兇手》俾朋友？",
-    "question_en": "Would you recommend \"The Vanished Murderer\" to friends?",
-    "options_zh": [
-      "睇情況",
-      "會，非常推薦",
-      "唔知",
-      "唔會"
-    ],
-    "options_en": [
-      "Depends",
-      "Yes, highly recommended",
-      "Unknown",
-      "No"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 2
-  },
-  {
-    "id": 21,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（消失的兇手）",
-    "question_en": "Which movie stars Sean Lau? (The Vanished Murderer)",
-    "options_zh": [
-      "其他電影Y",
-      "其他電影X",
-      "消失的兇手",
-      "其他電影Z"
-    ],
-    "options_en": [
-      "Other Movie Y",
-      "Other Movie X",
-      "The Vanished Murderer",
-      "Other Movie Z"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「消失的兇手」。",
-    "explanation_en": "The correct answer is 'The Vanished Murderer'.",
-    "difficulty": 3
-  },
-  {
-    "id": 22,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（消失的兇手）",
-    "question_en": "Which movie stars Sean Lau? (The Vanished Murderer)",
-    "options_zh": [
-      "消失的兇手",
-      "其他電影Z",
-      "其他電影Y",
-      "其他電影X"
-    ],
-    "options_en": [
-      "The Vanished Murderer",
-      "Other Movie Z",
-      "Other Movie Y",
-      "Other Movie X"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「消失的兇手」。",
-    "explanation_en": "The correct answer is 'The Vanished Murderer'.",
-    "difficulty": 1
-  },
-  {
-    "id": 23,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（消失的兇手）",
-    "question_en": "Which movie stars Sean Lau? (The Vanished Murderer)",
-    "options_zh": [
-      "消失的兇手",
-      "其他電影Z",
-      "其他電影X",
-      "其他電影Y"
-    ],
-    "options_en": [
-      "The Vanished Murderer",
-      "Other Movie Z",
-      "Other Movie X",
-      "Other Movie Y"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「消失的兇手」。",
-    "explanation_en": "The correct answer is 'The Vanished Murderer'.",
-    "difficulty": 2
-  },
-  {
-    "id": 24,
-    "question_zh": "《消失的兇手》係邊年上映嘅？",
-    "question_en": "What year was \"The Vanished Murderer\" released?",
-    "options_zh": [
-      "2012年",
-      "2015年",
-      "2017年",
-      "2020年"
-    ],
-    "options_en": [
-      "2012",
-      "2015",
-      "2017",
-      "2020"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2015年」。",
-    "explanation_en": "The correct answer is '2015'.",
-    "difficulty": 3
-  },
-  {
-    "id": 25,
-    "question_zh": "《消失的兇手》係邊年上映嘅？",
-    "question_en": "What year was \"The Vanished Murderer\" released?",
-    "options_zh": [
-      "2012年",
-      "2020年",
-      "2017年",
-      "2015年"
-    ],
-    "options_en": [
-      "2012",
-      "2020",
-      "2017",
-      "2015"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2015年」。",
-    "explanation_en": "The correct answer is '2015'.",
-    "difficulty": 1
-  },
-  {
-    "id": 26,
-    "question_zh": "《消失的兇手》係邊年上映嘅？",
-    "question_en": "What year was \"The Vanished Murderer\" released?",
-    "options_zh": [
-      "2020年",
-      "2017年",
-      "2015年",
-      "2012年"
-    ],
-    "options_en": [
-      "2020",
-      "2017",
-      "2015",
-      "2012"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2015年」。",
-    "explanation_en": "The correct answer is '2015'.",
-    "difficulty": 2
-  },
-  {
-    "id": 27,
-    "question_zh": "《消失的兇手》嘅導演係邊個？",
-    "question_en": "Who directed \"The Vanished Murderer\"?",
-    "options_zh": [
-      "杜琪峰",
-      "爾冬陞",
-      "王晶",
-      "劉偉強"
-    ],
-    "options_en": [
-      "Johnnie To",
-      "爾冬陞",
-      "Wong Jing",
-      "Andrew Lau"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「爾冬陞」。",
-    "explanation_en": "The correct answer is '爾冬陞'.",
-    "difficulty": 3
-  },
-  {
-    "id": 28,
-    "question_zh": "《消失的兇手》嘅導演係邊個？",
-    "question_en": "Who directed \"The Vanished Murderer\"?",
-    "options_zh": [
-      "杜琪峰",
-      "劉偉強",
-      "王晶",
-      "爾冬陞"
-    ],
-    "options_en": [
-      "Johnnie To",
-      "Andrew Lau",
-      "Wong Jing",
-      "爾冬陞"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「爾冬陞」。",
-    "explanation_en": "The correct answer is '爾冬陞'.",
-    "difficulty": 1
-  },
-  {
-    "id": 29,
-    "question_zh": "《消失的兇手》嘅導演係邊個？",
-    "question_en": "Who directed \"The Vanished Murderer\"?",
-    "options_zh": [
-      "爾冬陞",
-      "劉偉強",
-      "杜琪峰",
-      "王晶"
-    ],
-    "options_en": [
-      "爾冬陞",
-      "Andrew Lau",
-      "Johnnie To",
-      "Wong Jing"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「爾冬陞」。",
-    "explanation_en": "The correct answer is '爾冬陞'.",
-    "difficulty": 2
-  },
-  {
-    "id": 30,
-    "question_zh": "《消失的兇手》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"The Vanished Murderer\"?",
-    "options_zh": [
-      "只係客串",
-      "唔係",
-      "唔知",
-      "係"
-    ],
-    "options_en": [
-      "Cameo only",
-      "No",
-      "Unknown",
-      "Yes"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 3
-  },
-  {
-    "id": 31,
-    "question_zh": "《消失的兇手》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"The Vanished Murderer\"?",
-    "options_zh": [
-      "唔知",
-      "只係客串",
-      "唔係",
-      "係"
-    ],
-    "options_en": [
-      "Unknown",
-      "Cameo only",
-      "No",
-      "Yes"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 1
-  },
-  {
-    "id": 32,
-    "question_zh": "《消失的兇手》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"The Vanished Murderer\"?",
-    "options_zh": [
-      "係",
-      "唔係",
-      "只係客串",
-      "唔知"
-    ],
-    "options_en": [
-      "Yes",
-      "No",
-      "Cameo only",
-      "Unknown"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 2
-  },
-  {
-    "id": 33,
-    "question_zh": "《消失的兇手》係邊度出品？",
-    "question_en": "Where was \"The Vanished Murderer\" produced?",
-    "options_zh": [
-      "台灣",
-      "中國",
-      "美國",
-      "香港"
-    ],
-    "options_en": [
-      "Taiwan",
-      "China",
-      "USA",
-      "Hong Kong"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 3
-  },
-  {
-    "id": 34,
-    "question_zh": "《消失的兇手》係邊度出品？",
-    "question_en": "Where was \"The Vanished Murderer\" produced?",
-    "options_zh": [
-      "美國",
-      "中國",
-      "台灣",
-      "香港"
-    ],
-    "options_en": [
-      "USA",
-      "China",
-      "Taiwan",
-      "Hong Kong"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 1
-  },
-  {
-    "id": 35,
-    "question_zh": "《消失的兇手》係邊度出品？",
-    "question_en": "Where was \"The Vanished Murderer\" produced?",
-    "options_zh": [
-      "中國",
-      "美國",
-      "台灣",
-      "香港"
-    ],
-    "options_en": [
-      "China",
-      "USA",
-      "Taiwan",
-      "Hong Kong"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 2
-  },
-  {
-    "id": 36,
-    "question_zh": "劉青雲喺《消失的兇手》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"The Vanished Murderer\"?",
-    "options_zh": [
-      "麻麻地",
-      "普通",
-      "非常出色",
-      "唔好"
-    ],
-    "options_en": [
-      "So-so",
-      "Average",
-      "Excellent",
-      "Bad"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 3
-  },
-  {
-    "id": 37,
-    "question_zh": "劉青雲喺《消失的兇手》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"The Vanished Murderer\"?",
-    "options_zh": [
-      "非常出色",
-      "唔好",
-      "麻麻地",
-      "普通"
-    ],
-    "options_en": [
-      "Excellent",
-      "Bad",
-      "So-so",
-      "Average"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 1
-  },
-  {
-    "id": 38,
-    "question_zh": "劉青雲喺《消失的兇手》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"The Vanished Murderer\"?",
-    "options_zh": [
-      "非常出色",
-      "普通",
-      "唔好",
-      "麻麻地"
-    ],
-    "options_en": [
-      "Excellent",
-      "Average",
-      "Bad",
-      "So-so"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 2
-  },
-  {
-    "id": 39,
-    "question_zh": "你會推薦《消失的兇手》俾朋友？",
-    "question_en": "Would you recommend \"The Vanished Murderer\" to friends?",
-    "options_zh": [
-      "睇情況",
-      "唔知",
-      "會，非常推薦",
-      "唔會"
-    ],
-    "options_en": [
-      "Depends",
-      "Unknown",
-      "Yes, highly recommended",
-      "No"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 3
-  },
-  {
-    "id": 40,
-    "question_zh": "你會推薦《消失的兇手》俾朋友？",
-    "question_en": "Would you recommend \"The Vanished Murderer\" to friends?",
-    "options_zh": [
-      "睇情況",
-      "唔會",
-      "會，非常推薦",
-      "唔知"
-    ],
-    "options_en": [
-      "Depends",
-      "No",
-      "Yes, highly recommended",
-      "Unknown"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 1
-  },
-  {
-    "id": 41,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（消失的兇手）",
-    "question_en": "Which movie stars Sean Lau? (The Vanished Murderer)",
-    "options_zh": [
-      "其他電影Y",
-      "其他電影X",
-      "消失的兇手",
-      "其他電影Z"
-    ],
-    "options_en": [
-      "Other Movie Y",
-      "Other Movie X",
-      "The Vanished Murderer",
-      "Other Movie Z"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「消失的兇手」。",
-    "explanation_en": "The correct answer is 'The Vanished Murderer'.",
-    "difficulty": 2
-  },
-  {
-    "id": 42,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（消失的兇手）",
-    "question_en": "Which movie stars Sean Lau? (The Vanished Murderer)",
-    "options_zh": [
-      "其他電影Z",
-      "其他電影X",
-      "其他電影Y",
-      "消失的兇手"
-    ],
-    "options_en": [
-      "Other Movie Z",
-      "Other Movie X",
-      "Other Movie Y",
-      "The Vanished Murderer"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「消失的兇手」。",
-    "explanation_en": "The correct answer is 'The Vanished Murderer'.",
-    "difficulty": 3
-  },
-  {
-    "id": 43,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（消失的兇手）",
-    "question_en": "Which movie stars Sean Lau? (The Vanished Murderer)",
-    "options_zh": [
-      "消失的兇手",
-      "其他電影Z",
-      "其他電影X",
-      "其他電影Y"
-    ],
-    "options_en": [
-      "The Vanished Murderer",
-      "Other Movie Z",
-      "Other Movie X",
-      "Other Movie Y"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「消失的兇手」。",
-    "explanation_en": "The correct answer is 'The Vanished Murderer'.",
-    "difficulty": 1
-  },
-  {
-    "id": 44,
-    "question_zh": "《消失的兇手》係邊年上映嘅？",
-    "question_en": "What year was \"The Vanished Murderer\" released?",
-    "options_zh": [
-      "2015年",
-      "2012年",
-      "2020年",
-      "2017年"
-    ],
-    "options_en": [
-      "2015",
-      "2012",
-      "2020",
-      "2017"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2015年」。",
-    "explanation_en": "The correct answer is '2015'.",
-    "difficulty": 2
-  },
-  {
-    "id": 45,
-    "question_zh": "《消失的兇手》係邊年上映嘅？",
-    "question_en": "What year was \"The Vanished Murderer\" released?",
-    "options_zh": [
-      "2020年",
-      "2012年",
-      "2015年",
-      "2017年"
-    ],
-    "options_en": [
-      "2020",
-      "2012",
-      "2015",
-      "2017"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2015年」。",
-    "explanation_en": "The correct answer is '2015'.",
-    "difficulty": 3
-  },
-  {
-    "id": 46,
-    "question_zh": "《消失的兇手》係邊年上映嘅？",
-    "question_en": "What year was \"The Vanished Murderer\" released?",
-    "options_zh": [
-      "2012年",
-      "2020年",
-      "2017年",
-      "2015年"
-    ],
-    "options_en": [
-      "2012",
-      "2020",
-      "2017",
-      "2015"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2015年」。",
-    "explanation_en": "The correct answer is '2015'.",
-    "difficulty": 1
-  },
-  {
-    "id": 47,
-    "question_zh": "《消失的兇手》嘅導演係邊個？",
-    "question_en": "Who directed \"The Vanished Murderer\"?",
-    "options_zh": [
-      "杜琪峰",
-      "爾冬陞",
-      "王晶",
-      "劉偉強"
-    ],
-    "options_en": [
-      "Johnnie To",
-      "爾冬陞",
-      "Wong Jing",
-      "Andrew Lau"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「爾冬陞」。",
-    "explanation_en": "The correct answer is '爾冬陞'.",
-    "difficulty": 2
-  },
-  {
-    "id": 48,
-    "question_zh": "《消失的兇手》嘅導演係邊個？",
-    "question_en": "Who directed \"The Vanished Murderer\"?",
-    "options_zh": [
-      "杜琪峰",
-      "劉偉強",
-      "爾冬陞",
-      "王晶"
-    ],
-    "options_en": [
-      "Johnnie To",
-      "Andrew Lau",
-      "爾冬陞",
-      "Wong Jing"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「爾冬陞」。",
-    "explanation_en": "The correct answer is '爾冬陞'.",
-    "difficulty": 3
-  },
-  {
-    "id": 49,
-    "question_zh": "《消失的兇手》嘅導演係邊個？",
-    "question_en": "Who directed \"The Vanished Murderer\"?",
-    "options_zh": [
-      "爾冬陞",
-      "杜琪峰",
-      "劉偉強",
-      "王晶"
-    ],
-    "options_en": [
-      "爾冬陞",
-      "Johnnie To",
-      "Andrew Lau",
-      "Wong Jing"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「爾冬陞」。",
-    "explanation_en": "The correct answer is '爾冬陞'.",
-    "difficulty": 1
-  },
-  {
-    "id": 50,
-    "question_zh": "《消失的兇手》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"The Vanished Murderer\"?",
-    "options_zh": [
-      "係",
-      "唔知",
-      "唔係",
-      "只係客串"
-    ],
-    "options_en": [
-      "Yes",
-      "Unknown",
-      "No",
-      "Cameo only"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 2
-  },
-  {
-    "id": 51,
-    "question_zh": "《消失的兇手》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"The Vanished Murderer\"?",
-    "options_zh": [
-      "唔知",
-      "唔係",
-      "只係客串",
-      "係"
-    ],
-    "options_en": [
-      "Unknown",
-      "No",
-      "Cameo only",
-      "Yes"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 3
-  },
-  {
-    "id": 52,
-    "question_zh": "《消失的兇手》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"The Vanished Murderer\"?",
-    "options_zh": [
-      "唔知",
-      "係",
-      "唔係",
-      "只係客串"
-    ],
-    "options_en": [
-      "Unknown",
-      "Yes",
-      "No",
-      "Cameo only"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 1
-  },
-  {
-    "id": 53,
-    "question_zh": "《消失的兇手》係邊度出品？",
-    "question_en": "Where was \"The Vanished Murderer\" produced?",
-    "options_zh": [
-      "中國",
-      "香港",
-      "台灣",
-      "美國"
-    ],
-    "options_en": [
-      "China",
-      "Hong Kong",
-      "Taiwan",
-      "USA"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 2
-  },
-  {
-    "id": 54,
-    "question_zh": "《消失的兇手》係邊度出品？",
-    "question_en": "Where was \"The Vanished Murderer\" produced?",
+    "question_zh": "劉青雲有份演出邊部電影？",
+    "question_en": "Which movie did Sean Lau appear in?",
     "options_zh": [
       "美國",
       "香港",
@@ -1131,400 +102,295 @@
     "answer": 1,
     "explanation_zh": "正確答案係「香港」。",
     "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 3
-  },
-  {
-    "id": 55,
-    "question_zh": "《消失的兇手》係邊度出品？",
-    "question_en": "Where was \"The Vanished Murderer\" produced?",
-    "options_zh": [
-      "台灣",
-      "中國",
-      "香港",
-      "美國"
-    ],
-    "options_en": [
-      "Taiwan",
-      "China",
-      "Hong Kong",
-      "USA"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 1
-  },
-  {
-    "id": 56,
-    "question_zh": "劉青雲喺《消失的兇手》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"The Vanished Murderer\"?",
-    "options_zh": [
-      "唔好",
-      "普通",
-      "非常出色",
-      "麻麻地"
-    ],
-    "options_en": [
-      "Bad",
-      "Average",
-      "Excellent",
-      "So-so"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
     "difficulty": 2
   },
   {
-    "id": 57,
-    "question_zh": "劉青雲喺《消失的兇手》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"The Vanished Murderer\"?",
+    "id": 6,
+    "question_zh": "《消失的兇手》係邊年上映嘅？",
+    "question_en": "What year was \"The Vanished Murderer\" released?",
     "options_zh": [
-      "唔好",
-      "普通",
-      "麻麻地",
-      "非常出色"
+      "客串",
+      "主角",
+      "配角",
+      "路人"
     ],
     "options_en": [
-      "Bad",
-      "Average",
-      "So-so",
-      "Excellent"
+      "Cameo",
+      "Main Character",
+      "Supporting",
+      "Passerby"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
     "difficulty": 3
   },
   {
-    "id": 58,
-    "question_zh": "劉青雲喺《消失的兇手》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"The Vanished Murderer\"?",
+    "id": 7,
+    "question_zh": "《消失的兇手》幾時出嘅？",
+    "question_en": "When was \"The Vanished Murderer\" released?",
     "options_zh": [
-      "非常出色",
-      "普通",
-      "唔好",
-      "麻麻地"
+      "唔會",
+      "會，非常推薦",
+      "唔知",
+      "睇情況"
     ],
     "options_en": [
-      "Excellent",
-      "Average",
-      "Bad",
-      "So-so"
+      "No",
+      "Yes, highly recommended",
+      "Unknown",
+      "Depends"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 1
   },
   {
-    "id": 59,
-    "question_zh": "你會推薦《消失的兇手》俾朋友？",
-    "question_en": "Would you recommend \"The Vanished Murderer\" to friends?",
+    "id": 8,
+    "question_zh": "《消失的兇手》嘅上映年份係？",
+    "question_en": "What is the release year of \"The Vanished Murderer\"?",
     "options_zh": [
-      "睇情況",
-      "會，非常推薦",
-      "唔知",
-      "唔會"
+      "高質素",
+      "低質素",
+      "普通",
+      "參差"
     ],
     "options_en": [
-      "Depends",
-      "Yes, highly recommended",
+      "High quality",
+      "Low",
+      "Average",
+      "Mixed"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question_zh": "《消失的兇手》係幾年前出嘅？",
+    "question_en": "How many years ago was \"The Vanished Murderer\" released?",
+    "options_zh": [
+      "唔受歡迎",
+      "已經過氣",
+      "只喺本地",
+      "非常受歡迎"
+    ],
+    "options_en": [
+      "Unpopular",
+      "Outdated",
+      "Local only",
+      "Very popular"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Very popular'.",
+    "difficulty": 3
+  },
+  {
+    "id": 10,
+    "question_zh": "《消失的兇手》係邊個年代嘅電影？",
+    "question_en": "What decade is \"The Vanished Murderer\" from?",
+    "options_zh": [
+      "唔知",
+      "有攞過獎",
+      "只有提名",
+      "冇"
+    ],
+    "options_en": [
       "Unknown",
+      "Yes, won awards",
+      "Only nominated",
       "No"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "explanation_zh": "正確答案係「有攞過獎」。",
+    "explanation_en": "The correct answer is 'Yes, won awards'.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "《消失的兇手》嘅導演係邊個？",
+    "question_en": "Who directed \"The Vanished Murderer\"?",
+    "options_zh": [
+      "劉青雲",
+      "其他演員B",
+      "其他演員A",
+      "其他演員C"
+    ],
+    "options_en": [
+      "Sean Lau",
+      "Actor B",
+      "Actor A",
+      "Actor C"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「劉青雲」。",
+    "explanation_en": "The correct answer is 'Sean Lau'.",
     "difficulty": 2
   },
   {
-    "id": 60,
-    "question_zh": "你會推薦《消失的兇手》俾朋友？",
-    "question_en": "Would you recommend \"The Vanished Murderer\" to friends?",
+    "id": 12,
+    "question_zh": "邊個導演拍《消失的兇手》？",
+    "question_en": "Who directed \"The Vanished Murderer\"?",
     "options_zh": [
-      "會，非常推薦",
-      "睇情況",
-      "唔會",
+      "音樂會",
+      "精彩故事",
+      "體育賽事",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Concert",
+      "Exciting story",
+      "Sports",
+      "Documentary"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「精彩故事」。",
+    "explanation_en": "The correct answer is 'Exciting story'.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "《消失的兇手》係邊個執導？",
+    "question_en": "Who helmed \"The Vanished Murderer\"?",
+    "options_zh": [
+      "約4小時",
+      "約6小時",
+      "約2小時",
+      "約30分鐘"
+    ],
+    "options_en": [
+      "4 hours",
+      "6 hours",
+      "About 2 hours",
+      "30 min"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「約2小時」。",
+    "explanation_en": "The correct answer is 'About 2 hours'.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《消失的兇手》嘅導演叫咩名？",
+    "question_en": "What is the director's name for \"The Vanished Murderer\"?",
+    "options_zh": [
+      "1930s",
+      "2020s",
+      "2015s",
+      "1950s"
+    ],
+    "options_en": [
+      "1930s",
+      "2020s",
+      "2015s",
+      "1950s"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2015s」。",
+    "explanation_en": "The correct answer is '2015s'.",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_zh": "《消失的兇手》係邊個拍嘅？",
+    "question_en": "Who made \"The Vanished Murderer\"?",
+    "options_zh": [
+      "日語",
+      "粵語",
+      "英語",
+      "韓語"
+    ],
+    "options_en": [
+      "Japanese",
+      "Cantonese",
+      "English",
+      "Korean"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「粵語」。",
+    "explanation_en": "The correct answer is 'Cantonese'.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "《消失的兇手》係咩類型嘅電影？",
+    "question_en": "What genre is \"The Vanished Murderer\"?",
+    "options_zh": [
+      "票房理想",
+      "冇上映",
+      "票房差",
       "唔知"
     ],
     "options_en": [
-      "Yes, highly recommended",
-      "Depends",
-      "No",
+      "Good box office",
+      "Not released",
+      "Poor",
       "Unknown"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 3
-  },
-  {
-    "id": 61,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（消失的兇手）",
-    "question_en": "Which movie stars Sean Lau? (The Vanished Murderer)",
-    "options_zh": [
-      "其他電影X",
-      "其他電影Z",
-      "消失的兇手",
-      "其他電影Y"
-    ],
-    "options_en": [
-      "Other Movie X",
-      "Other Movie Z",
-      "The Vanished Murderer",
-      "Other Movie Y"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「消失的兇手」。",
-    "explanation_en": "The correct answer is 'The Vanished Murderer'.",
+    "explanation_zh": "正確答案係「票房理想」。",
+    "explanation_en": "The correct answer is 'Good box office'.",
     "difficulty": 1
   },
   {
-    "id": 62,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（消失的兇手）",
-    "question_en": "Which movie stars Sean Lau? (The Vanished Murderer)",
+    "id": 17,
+    "question_zh": "《消失的兇手》屬於邊種類型？",
+    "question_en": "What type is \"The Vanished Murderer\"?",
     "options_zh": [
-      "消失的兇手",
-      "其他電影X",
-      "其他電影Y",
-      "其他電影Z"
+      "有續集",
+      "只有前傳",
+      "冇續集",
+      "唔知"
     ],
     "options_en": [
-      "The Vanished Murderer",
-      "Other Movie X",
-      "Other Movie Y",
-      "Other Movie Z"
+      "Yes, has sequel",
+      "Only prequel",
+      "No sequel",
+      "Unknown"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「消失的兇手」。",
-    "explanation_en": "The correct answer is 'The Vanished Murderer'.",
+    "explanation_zh": "正確答案係「有續集」。",
+    "explanation_en": "The correct answer is 'Yes, has sequel'.",
     "difficulty": 2
   },
   {
-    "id": 63,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（消失的兇手）",
-    "question_en": "Which movie stars Sean Lau? (The Vanished Murderer)",
+    "id": 18,
+    "question_zh": "你會點分類《消失的兇手》？",
+    "question_en": "How would you classify \"The Vanished Murderer\"?",
     "options_zh": [
-      "其他電影Y",
-      "其他電影Z",
-      "消失的兇手",
-      "其他電影X"
+      "好聽",
+      "冇音樂",
+      "普通",
+      "差"
     ],
     "options_en": [
-      "Other Movie Y",
-      "Other Movie Z",
-      "The Vanished Murderer",
-      "Other Movie X"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「消失的兇手」。",
-    "explanation_en": "The correct answer is 'The Vanished Murderer'.",
-    "difficulty": 3
-  },
-  {
-    "id": 64,
-    "question_zh": "《消失的兇手》係邊年上映嘅？",
-    "question_en": "What year was \"The Vanished Murderer\" released?",
-    "options_zh": [
-      "2017年",
-      "2015年",
-      "2020年",
-      "2012年"
-    ],
-    "options_en": [
-      "2017",
-      "2015",
-      "2020",
-      "2012"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2015年」。",
-    "explanation_en": "The correct answer is '2015'.",
-    "difficulty": 1
-  },
-  {
-    "id": 65,
-    "question_zh": "《消失的兇手》係邊年上映嘅？",
-    "question_en": "What year was \"The Vanished Murderer\" released?",
-    "options_zh": [
-      "2017年",
-      "2015年",
-      "2020年",
-      "2012年"
-    ],
-    "options_en": [
-      "2017",
-      "2015",
-      "2020",
-      "2012"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2015年」。",
-    "explanation_en": "The correct answer is '2015'.",
-    "difficulty": 2
-  },
-  {
-    "id": 66,
-    "question_zh": "《消失的兇手》係邊年上映嘅？",
-    "question_en": "What year was \"The Vanished Murderer\" released?",
-    "options_zh": [
-      "2015年",
-      "2020年",
-      "2017年",
-      "2012年"
-    ],
-    "options_en": [
-      "2015",
-      "2020",
-      "2017",
-      "2012"
+      "Great music",
+      "No music",
+      "Average",
+      "Bad"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「2015年」。",
-    "explanation_en": "The correct answer is '2015'.",
+    "explanation_zh": "正確答案係「好聽」。",
+    "explanation_en": "The correct answer is 'Great music'.",
     "difficulty": 3
   },
   {
-    "id": 67,
-    "question_zh": "《消失的兇手》嘅導演係邊個？",
-    "question_en": "Who directed \"The Vanished Murderer\"?",
-    "options_zh": [
-      "王晶",
-      "爾冬陞",
-      "杜琪峰",
-      "劉偉強"
-    ],
-    "options_en": [
-      "Wong Jing",
-      "爾冬陞",
-      "Johnnie To",
-      "Andrew Lau"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「爾冬陞」。",
-    "explanation_en": "The correct answer is '爾冬陞'.",
-    "difficulty": 1
-  },
-  {
-    "id": 68,
-    "question_zh": "《消失的兇手》嘅導演係邊個？",
-    "question_en": "Who directed \"The Vanished Murderer\"?",
-    "options_zh": [
-      "爾冬陞",
-      "劉偉強",
-      "王晶",
-      "杜琪峰"
-    ],
-    "options_en": [
-      "爾冬陞",
-      "Andrew Lau",
-      "Wong Jing",
-      "Johnnie To"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「爾冬陞」。",
-    "explanation_en": "The correct answer is '爾冬陞'.",
-    "difficulty": 2
-  },
-  {
-    "id": 69,
-    "question_zh": "《消失的兇手》嘅導演係邊個？",
-    "question_en": "Who directed \"The Vanished Murderer\"?",
-    "options_zh": [
-      "杜琪峰",
-      "爾冬陞",
-      "劉偉強",
-      "王晶"
-    ],
-    "options_en": [
-      "Johnnie To",
-      "爾冬陞",
-      "Andrew Lau",
-      "Wong Jing"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「爾冬陞」。",
-    "explanation_en": "The correct answer is '爾冬陞'.",
-    "difficulty": 3
-  },
-  {
-    "id": 70,
-    "question_zh": "《消失的兇手》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"The Vanished Murderer\"?",
-    "options_zh": [
-      "唔知",
-      "係",
-      "唔係",
-      "只係客串"
-    ],
-    "options_en": [
-      "Unknown",
-      "Yes",
-      "No",
-      "Cameo only"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 1
-  },
-  {
-    "id": 71,
-    "question_zh": "《消失的兇手》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"The Vanished Murderer\"?",
-    "options_zh": [
-      "唔係",
-      "只係客串",
-      "唔知",
-      "係"
-    ],
-    "options_en": [
-      "No",
-      "Cameo only",
-      "Unknown",
-      "Yes"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 2
-  },
-  {
-    "id": 72,
-    "question_zh": "《消失的兇手》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"The Vanished Murderer\"?",
-    "options_zh": [
-      "係",
-      "唔係",
-      "唔知",
-      "只係客串"
-    ],
-    "options_en": [
-      "Yes",
-      "No",
-      "Unknown",
-      "Cameo only"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 3
-  },
-  {
-    "id": 73,
-    "question_zh": "《消失的兇手》係邊度出品？",
-    "question_en": "Where was \"The Vanished Murderer\" produced?",
+    "id": 19,
+    "question_zh": "《消失的兇手》係動作片定文藝片？",
+    "question_en": "Is \"The Vanished Murderer\" action or drama?",
     "options_zh": [
       "美國",
-      "中國",
-      "台灣",
+      "歐洲",
+      "日本",
       "香港"
     ],
     "options_en": [
       "USA",
-      "China",
-      "Taiwan",
+      "Europe",
+      "Japan",
       "Hong Kong"
     ],
     "answer": 3,
@@ -1533,144 +399,585 @@
     "difficulty": 1
   },
   {
-    "id": 74,
+    "id": 20,
+    "question_zh": "《消失的兇手》嘅電影類型係？",
+    "question_en": "What is the movie type of \"The Vanished Murderer\"?",
+    "options_zh": [
+      "好大影響",
+      "唔知",
+      "負面影響",
+      "冇影響"
+    ],
+    "options_en": [
+      "Great impact",
+      "Unknown",
+      "Negative",
+      "No impact"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「好大影響」。",
+    "explanation_en": "The correct answer is 'Great impact'.",
+    "difficulty": 2
+  },
+  {
+    "id": 21,
     "question_zh": "《消失的兇手》係邊度出品？",
     "question_en": "Where was \"The Vanished Murderer\" produced?",
     "options_zh": [
+      "其他電影Z",
+      "其他電影X",
+      "消失的兇手",
+      "其他電影Y"
+    ],
+    "options_en": [
+      "Other Z",
+      "Other X",
+      "The Vanished Murderer",
+      "Other Y"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「消失的兇手」。",
+    "explanation_en": "The correct answer is 'The Vanished Murderer'.",
+    "difficulty": 3
+  },
+  {
+    "id": 22,
+    "question_zh": "《消失的兇手》係邊個國家嘅電影？",
+    "question_en": "Which country is \"The Vanished Murderer\" from?",
+    "options_zh": [
+      "2020年",
+      "2012年",
+      "2017年",
+      "2015年"
+    ],
+    "options_en": [
+      "2020",
+      "2012",
+      "2017",
+      "2015"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「2015年」。",
+    "explanation_en": "The correct answer is '2015'.",
+    "difficulty": 1
+  },
+  {
+    "id": 23,
+    "question_zh": "《消失的兇手》係港產片？",
+    "question_en": "Is \"The Vanished Murderer\" a Hong Kong movie?",
+    "options_zh": [
+      "爾冬陞",
+      "王晶",
+      "杜琪峰",
+      "劉偉強"
+    ],
+    "options_en": [
+      "Derek Yee",
+      "Wong Jing",
+      "Johnnie To",
+      "Andrew Lau"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「爾冬陞」。",
+    "explanation_en": "The correct answer is 'Derek Yee'.",
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question_zh": "《消失的兇手》嘅出品地方係？",
+    "question_en": "Where is \"The Vanished Murderer\" from?",
+    "options_zh": [
+      "音樂劇",
+      "動畫",
+      "犯罪",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Musical",
+      "Animation",
+      "Crime",
+      "Documentary"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「犯罪」。",
+    "explanation_en": "The correct answer is 'Crime'.",
+    "difficulty": 3
+  },
+  {
+    "id": 25,
+    "question_zh": "《消失的兇手》係邊度拍嘅？",
+    "question_en": "Where was \"The Vanished Murderer\" made?",
+    "options_zh": [
       "香港",
-      "台灣",
+      "美國",
       "中國",
-      "美國"
+      "台灣"
     ],
     "options_en": [
       "Hong Kong",
-      "Taiwan",
+      "USA",
       "China",
-      "USA"
+      "Taiwan"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「香港」。",
     "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 2
-  },
-  {
-    "id": 75,
-    "question_zh": "《消失的兇手》係邊度出品？",
-    "question_en": "Where was \"The Vanished Murderer\" produced?",
-    "options_zh": [
-      "台灣",
-      "美國",
-      "香港",
-      "中國"
-    ],
-    "options_en": [
-      "Taiwan",
-      "USA",
-      "Hong Kong",
-      "China"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 3
-  },
-  {
-    "id": 76,
-    "question_zh": "劉青雲喺《消失的兇手》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"The Vanished Murderer\"?",
-    "options_zh": [
-      "麻麻地",
-      "唔好",
-      "非常出色",
-      "普通"
-    ],
-    "options_en": [
-      "So-so",
-      "Bad",
-      "Excellent",
-      "Average"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
     "difficulty": 1
   },
   {
-    "id": 77,
-    "question_zh": "劉青雲喺《消失的兇手》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"The Vanished Murderer\"?",
+    "id": 26,
+    "question_zh": "劉青雲喺《消失的兇手》入面演咩角色？",
+    "question_en": "What role does Sean Lau play in \"The Vanished Murderer\"?",
     "options_zh": [
-      "普通",
-      "麻麻地",
-      "非常出色",
-      "唔好"
+      "主角",
+      "配角",
+      "客串",
+      "路人"
     ],
     "options_en": [
-      "Average",
-      "So-so",
-      "Excellent",
-      "Bad"
+      "Main Character",
+      "Supporting",
+      "Cameo",
+      "Passerby"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
     "difficulty": 2
   },
   {
-    "id": 78,
-    "question_zh": "劉青雲喺《消失的兇手》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"The Vanished Murderer\"?",
+    "id": 27,
+    "question_zh": "劉青雲喺《消失的兇手》係咩身分？",
+    "question_en": "What is Sean Lau's role in \"The Vanished Murderer\"?",
     "options_zh": [
-      "普通",
-      "麻麻地",
-      "唔好",
-      "非常出色"
-    ],
-    "options_en": [
-      "Average",
-      "So-so",
-      "Bad",
-      "Excellent"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 3
-  },
-  {
-    "id": 79,
-    "question_zh": "你會推薦《消失的兇手》俾朋友？",
-    "question_en": "Would you recommend \"The Vanished Murderer\" to friends?",
-    "options_zh": [
-      "會，非常推薦",
       "睇情況",
       "唔會",
+      "會，非常推薦",
       "唔知"
     ],
     "options_en": [
-      "Yes, highly recommended",
       "Depends",
       "No",
+      "Yes, highly recommended",
       "Unknown"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「會，非常推薦」。",
     "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
+  },
+  {
+    "id": 28,
+    "question_zh": "《消失的兇手》入面劉青雲係咩人？",
+    "question_en": "Who is Sean Lau in \"The Vanished Murderer\"?",
+    "options_zh": [
+      "高質素",
+      "參差",
+      "普通",
+      "低質素"
+    ],
+    "options_en": [
+      "High quality",
+      "Mixed",
+      "Average",
+      "Low"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 1
   },
   {
-    "id": 80,
+    "id": 29,
+    "question_zh": "劉青雲喺《消失的兇手》嘅角色叫咩？",
+    "question_en": "What is Sean Lau's character name in \"The Vanished Murderer\"?",
+    "options_zh": [
+      "只喺本地",
+      "非常受歡迎",
+      "唔受歡迎",
+      "已經過氣"
+    ],
+    "options_en": [
+      "Local only",
+      "Very popular",
+      "Unpopular",
+      "Outdated"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Very popular'.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "《消失的兇手》入面劉青雲做咩？",
+    "question_en": "What does Sean Lau do in \"The Vanished Murderer\"?",
+    "options_zh": [
+      "有攞過獎",
+      "冇",
+      "唔知",
+      "只有提名"
+    ],
+    "options_en": [
+      "Yes, won awards",
+      "No",
+      "Unknown",
+      "Only nominated"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「有攞過獎」。",
+    "explanation_en": "The correct answer is 'Yes, won awards'.",
+    "difficulty": 3
+  },
+  {
+    "id": 31,
     "question_zh": "你會推薦《消失的兇手》俾朋友？",
-    "question_en": "Would you recommend \"The Vanished Murderer\" to friends?",
+    "question_en": "Would you recommend \"The Vanished Murderer\"?",
+    "options_zh": [
+      "劉青雲",
+      "其他演員B",
+      "其他演員C",
+      "其他演員A"
+    ],
+    "options_en": [
+      "Sean Lau",
+      "Actor B",
+      "Actor C",
+      "Actor A"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「劉青雲」。",
+    "explanation_en": "The correct answer is 'Sean Lau'.",
+    "difficulty": 1
+  },
+  {
+    "id": 32,
+    "question_zh": "《消失的兇手》值唔值得睇？",
+    "question_en": "Is \"The Vanished Murderer\" worth watching?",
+    "options_zh": [
+      "體育賽事",
+      "音樂會",
+      "精彩故事",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Sports",
+      "Concert",
+      "Exciting story",
+      "Documentary"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「精彩故事」。",
+    "explanation_en": "The correct answer is 'Exciting story'.",
+    "difficulty": 2
+  },
+  {
+    "id": 33,
+    "question_zh": "《消失的兇手》好唔好睇？",
+    "question_en": "Is \"The Vanished Murderer\" good?",
+    "options_zh": [
+      "約2小時",
+      "約4小時",
+      "約30分鐘",
+      "約6小時"
+    ],
+    "options_en": [
+      "About 2 hours",
+      "4 hours",
+      "30 min",
+      "6 hours"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「約2小時」。",
+    "explanation_en": "The correct answer is 'About 2 hours'.",
+    "difficulty": 3
+  },
+  {
+    "id": 34,
+    "question_zh": "你鍾唔鍾意《消失的兇手》？",
+    "question_en": "Do you like \"The Vanished Murderer\"?",
+    "options_zh": [
+      "2015s",
+      "1930s",
+      "2020s",
+      "1950s"
+    ],
+    "options_en": [
+      "2015s",
+      "1930s",
+      "2020s",
+      "1950s"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2015s」。",
+    "explanation_en": "The correct answer is '2015s'.",
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question_zh": "《消失的兇手》正唔正？",
+    "question_en": "Is \"The Vanished Murderer\" great?",
+    "options_zh": [
+      "韓語",
+      "英語",
+      "粵語",
+      "日語"
+    ],
+    "options_en": [
+      "Korean",
+      "English",
+      "Cantonese",
+      "Japanese"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「粵語」。",
+    "explanation_en": "The correct answer is 'Cantonese'.",
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "question_zh": "《消失的兇手》嘅質素如何？",
+    "question_en": "How is the quality of \"The Vanished Murderer\"?",
     "options_zh": [
       "唔知",
+      "票房理想",
+      "冇上映",
+      "票房差"
+    ],
+    "options_en": [
+      "Unknown",
+      "Good box office",
+      "Not released",
+      "Poor"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「票房理想」。",
+    "explanation_en": "The correct answer is 'Good box office'.",
+    "difficulty": 3
+  },
+  {
+    "id": 37,
+    "question_zh": "《消失的兇手》拍得好唔好？",
+    "question_en": "Is \"The Vanished Murderer\" well-made?",
+    "options_zh": [
+      "只有前傳",
+      "有續集",
+      "唔知",
+      "冇續集"
+    ],
+    "options_en": [
+      "Only prequel",
+      "Yes, has sequel",
+      "Unknown",
+      "No sequel"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「有續集」。",
+    "explanation_en": "The correct answer is 'Yes, has sequel'.",
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "question_zh": "《消失的兇手》嘅製作水平如何？",
+    "question_en": "How is the production quality of \"The Vanished Murderer\"?",
+    "options_zh": [
+      "差",
+      "好聽",
+      "冇音樂",
+      "普通"
+    ],
+    "options_en": [
+      "Bad",
+      "Great music",
+      "No music",
+      "Average"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「好聽」。",
+    "explanation_en": "The correct answer is 'Great music'.",
+    "difficulty": 2
+  },
+  {
+    "id": 39,
+    "question_zh": "《消失的兇手》嘅劇本如何？",
+    "question_en": "How is the script of \"The Vanished Murderer\"?",
+    "options_zh": [
+      "香港",
+      "美國",
+      "歐洲",
+      "日本"
+    ],
+    "options_en": [
+      "Hong Kong",
+      "USA",
+      "Europe",
+      "Japan"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
+  },
+  {
+    "id": 40,
+    "question_zh": "《消失的兇手》嘅攝影如何？",
+    "question_en": "How is the cinematography of \"The Vanished Murderer\"?",
+    "options_zh": [
+      "好大影響",
+      "冇影響",
+      "負面影響",
+      "唔知"
+    ],
+    "options_en": [
+      "Great impact",
+      "No impact",
+      "Negative",
+      "Unknown"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「好大影響」。",
+    "explanation_en": "The correct answer is 'Great impact'.",
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question_zh": "《消失的兇手》受唔受歡迎？",
+    "question_en": "Is \"The Vanished Murderer\" popular?",
+    "options_zh": [
+      "其他電影Z",
+      "其他電影X",
+      "其他電影Y",
+      "消失的兇手"
+    ],
+    "options_en": [
+      "Other Z",
+      "Other X",
+      "Other Y",
+      "The Vanished Murderer"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「消失的兇手」。",
+    "explanation_en": "The correct answer is 'The Vanished Murderer'.",
+    "difficulty": 2
+  },
+  {
+    "id": 42,
+    "question_zh": "《消失的兇手》紅唔紅？",
+    "question_en": "Is \"The Vanished Murderer\" famous?",
+    "options_zh": [
+      "2015年",
+      "2017年",
+      "2020年",
+      "2012年"
+    ],
+    "options_en": [
+      "2015",
+      "2017",
+      "2020",
+      "2012"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2015年」。",
+    "explanation_en": "The correct answer is '2015'.",
+    "difficulty": 3
+  },
+  {
+    "id": 43,
+    "question_zh": "《消失的兇手》嘅知名度如何？",
+    "question_en": "How well-known is \"The Vanished Murderer\"?",
+    "options_zh": [
+      "爾冬陞",
+      "王晶",
+      "杜琪峰",
+      "劉偉強"
+    ],
+    "options_en": [
+      "Derek Yee",
+      "Wong Jing",
+      "Johnnie To",
+      "Andrew Lau"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「爾冬陞」。",
+    "explanation_en": "The correct answer is 'Derek Yee'.",
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "question_zh": "《消失的兇手》有冇人睇？",
+    "question_en": "Does anyone watch \"The Vanished Murderer\"?",
+    "options_zh": [
+      "音樂劇",
+      "動畫",
+      "犯罪",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Musical",
+      "Animation",
+      "Crime",
+      "Documentary"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「犯罪」。",
+    "explanation_en": "The correct answer is 'Crime'.",
+    "difficulty": 2
+  },
+  {
+    "id": 45,
+    "question_zh": "《消失的兇手》嘅人氣如何？",
+    "question_en": "How popular is \"The Vanished Murderer\"?",
+    "options_zh": [
+      "香港",
+      "美國",
+      "台灣",
+      "中國"
+    ],
+    "options_en": [
+      "Hong Kong",
+      "USA",
+      "Taiwan",
+      "China"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
+  },
+  {
+    "id": 46,
+    "question_zh": "《消失的兇手》有冇攞過獎？",
+    "question_en": "Did \"The Vanished Murderer\" win awards?",
+    "options_zh": [
+      "路人",
+      "主角",
+      "配角",
+      "客串"
+    ],
+    "options_en": [
+      "Passerby",
+      "Main Character",
+      "Supporting",
+      "Cameo"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 1
+  },
+  {
+    "id": 47,
+    "question_zh": "《消失的兇手》嘅獎項如何？",
+    "question_en": "What awards did \"The Vanished Murderer\" win?",
+    "options_zh": [
       "唔會",
+      "唔知",
       "會，非常推薦",
       "睇情況"
     ],
     "options_en": [
-      "Unknown",
       "No",
+      "Unknown",
       "Yes, highly recommended",
       "Depends"
     ],
@@ -1680,423 +987,1116 @@
     "difficulty": 2
   },
   {
-    "id": 81,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（消失的兇手）",
-    "question_en": "Which movie stars Sean Lau? (The Vanished Murderer)",
+    "id": 48,
+    "question_zh": "《消失的兇手》有冇提名？",
+    "question_en": "Was \"The Vanished Murderer\" nominated?",
     "options_zh": [
-      "其他電影Y",
-      "消失的兇手",
+      "參差",
+      "低質素",
+      "高質素",
+      "普通"
+    ],
+    "options_en": [
+      "Mixed",
+      "Low",
+      "High quality",
+      "Average"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
+    "difficulty": 3
+  },
+  {
+    "id": 49,
+    "question_zh": "《消失的兇手》喺頒獎禮表現如何？",
+    "question_en": "How did \"The Vanished Murderer\" do at award shows?",
+    "options_zh": [
+      "唔受歡迎",
+      "已經過氣",
+      "只喺本地",
+      "非常受歡迎"
+    ],
+    "options_en": [
+      "Unpopular",
+      "Outdated",
+      "Local only",
+      "Very popular"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Very popular'.",
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "question_zh": "《消失的兇手》攞過咩獎？",
+    "question_en": "What awards did \"The Vanished Murderer\" receive?",
+    "options_zh": [
+      "唔知",
+      "有攞過獎",
+      "只有提名",
+      "冇"
+    ],
+    "options_en": [
+      "Unknown",
+      "Yes, won awards",
+      "Only nominated",
+      "No"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「有攞過獎」。",
+    "explanation_en": "The correct answer is 'Yes, won awards'.",
+    "difficulty": 2
+  },
+  {
+    "id": 51,
+    "question_zh": "《消失的兇手》嘅主要演員係邊個？",
+    "question_en": "Who are the main actors in \"The Vanished Murderer\"?",
+    "options_zh": [
+      "其他演員C",
+      "其他演員A",
+      "劉青雲",
+      "其他演員B"
+    ],
+    "options_en": [
+      "Actor C",
+      "Actor A",
+      "Sean Lau",
+      "Actor B"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「劉青雲」。",
+    "explanation_en": "The correct answer is 'Sean Lau'.",
+    "difficulty": 3
+  },
+  {
+    "id": 52,
+    "question_zh": "《消失的兇手》有邊啲演員？",
+    "question_en": "Who stars in \"The Vanished Murderer\"?",
+    "options_zh": [
+      "精彩故事",
+      "音樂會",
+      "體育賽事",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Exciting story",
+      "Concert",
+      "Sports",
+      "Documentary"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「精彩故事」。",
+    "explanation_en": "The correct answer is 'Exciting story'.",
+    "difficulty": 1
+  },
+  {
+    "id": 53,
+    "question_zh": "《消失的兇手》嘅卡士如何？",
+    "question_en": "How is the cast of \"The Vanished Murderer\"?",
+    "options_zh": [
+      "約30分鐘",
+      "約4小時",
+      "約2小時",
+      "約6小時"
+    ],
+    "options_en": [
+      "30 min",
+      "4 hours",
+      "About 2 hours",
+      "6 hours"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「約2小時」。",
+    "explanation_en": "The correct answer is 'About 2 hours'.",
+    "difficulty": 2
+  },
+  {
+    "id": 54,
+    "question_zh": "《消失的兇手》邊個做主角？",
+    "question_en": "Who is the lead in \"The Vanished Murderer\"?",
+    "options_zh": [
+      "1950s",
+      "2015s",
+      "2020s",
+      "1930s"
+    ],
+    "options_en": [
+      "1950s",
+      "2015s",
+      "2020s",
+      "1930s"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「2015s」。",
+    "explanation_en": "The correct answer is '2015s'.",
+    "difficulty": 3
+  },
+  {
+    "id": 55,
+    "question_zh": "《消失的兇手》嘅演員陣容如何？",
+    "question_en": "How is the ensemble of \"The Vanished Murderer\"?",
+    "options_zh": [
+      "韓語",
+      "粵語",
+      "日語",
+      "英語"
+    ],
+    "options_en": [
+      "Korean",
+      "Cantonese",
+      "Japanese",
+      "English"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「粵語」。",
+    "explanation_en": "The correct answer is 'Cantonese'.",
+    "difficulty": 1
+  },
+  {
+    "id": 56,
+    "question_zh": "《消失的兇手》嘅故事講咩？",
+    "question_en": "What is \"The Vanished Murderer\" about?",
+    "options_zh": [
+      "票房理想",
+      "冇上映",
+      "唔知",
+      "票房差"
+    ],
+    "options_en": [
+      "Good box office",
+      "Not released",
+      "Unknown",
+      "Poor"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「票房理想」。",
+    "explanation_en": "The correct answer is 'Good box office'.",
+    "difficulty": 2
+  },
+  {
+    "id": 57,
+    "question_zh": "《消失的兇手》嘅劇情係？",
+    "question_en": "What is the plot of \"The Vanished Murderer\"?",
+    "options_zh": [
+      "冇續集",
+      "只有前傳",
+      "有續集",
+      "唔知"
+    ],
+    "options_en": [
+      "No sequel",
+      "Only prequel",
+      "Yes, has sequel",
+      "Unknown"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「有續集」。",
+    "explanation_en": "The correct answer is 'Yes, has sequel'.",
+    "difficulty": 3
+  },
+  {
+    "id": 58,
+    "question_zh": "《消失的兇手》嘅故事大綱係？",
+    "question_en": "What is the synopsis of \"The Vanished Murderer\"?",
+    "options_zh": [
+      "冇音樂",
+      "普通",
+      "好聽",
+      "差"
+    ],
+    "options_en": [
+      "No music",
+      "Average",
+      "Great music",
+      "Bad"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「好聽」。",
+    "explanation_en": "The correct answer is 'Great music'.",
+    "difficulty": 1
+  },
+  {
+    "id": 59,
+    "question_zh": "《消失的兇手》講緊咩嘢？",
+    "question_en": "What is \"The Vanished Murderer\" about?",
+    "options_zh": [
+      "日本",
+      "歐洲",
+      "香港",
+      "美國"
+    ],
+    "options_en": [
+      "Japan",
+      "Europe",
+      "Hong Kong",
+      "USA"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
+  },
+  {
+    "id": 60,
+    "question_zh": "《消失的兇手》嘅內容係？",
+    "question_en": "What is the content of \"The Vanished Murderer\"?",
+    "options_zh": [
+      "唔知",
+      "負面影響",
+      "好大影響",
+      "冇影響"
+    ],
+    "options_en": [
+      "Unknown",
+      "Negative",
+      "Great impact",
+      "No impact"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「好大影響」。",
+    "explanation_en": "The correct answer is 'Great impact'.",
+    "difficulty": 3
+  },
+  {
+    "id": 61,
+    "question_zh": "《消失的兇手》大約幾長？",
+    "question_en": "How long is \"The Vanished Murderer\"?",
+    "options_zh": [
       "其他電影X",
+      "消失的兇手",
+      "其他電影Y",
       "其他電影Z"
     ],
     "options_en": [
-      "Other Movie Y",
+      "Other X",
       "The Vanished Murderer",
-      "Other Movie X",
-      "Other Movie Z"
+      "Other Y",
+      "Other Z"
     ],
     "answer": 1,
+    "explanation_zh": "正確答案係「消失的兇手」。",
+    "explanation_en": "The correct answer is 'The Vanished Murderer'.",
+    "difficulty": 1
+  },
+  {
+    "id": 62,
+    "question_zh": "《消失的兇手》嘅片長係？",
+    "question_en": "What is the runtime of \"The Vanished Murderer\"?",
+    "options_zh": [
+      "2017年",
+      "2012年",
+      "2020年",
+      "2015年"
+    ],
+    "options_en": [
+      "2017",
+      "2012",
+      "2020",
+      "2015"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「2015年」。",
+    "explanation_en": "The correct answer is '2015'.",
+    "difficulty": 2
+  },
+  {
+    "id": 63,
+    "question_zh": "《消失的兇手》睇幾耐？",
+    "question_en": "How long to watch \"The Vanished Murderer\"?",
+    "options_zh": [
+      "劉偉強",
+      "杜琪峰",
+      "王晶",
+      "爾冬陞"
+    ],
+    "options_en": [
+      "Andrew Lau",
+      "Johnnie To",
+      "Wong Jing",
+      "Derek Yee"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「爾冬陞」。",
+    "explanation_en": "The correct answer is 'Derek Yee'.",
+    "difficulty": 3
+  },
+  {
+    "id": 64,
+    "question_zh": "《消失的兇手》有幾多分鐘？",
+    "question_en": "How many minutes is \"The Vanished Murderer\"?",
+    "options_zh": [
+      "動畫",
+      "紀錄片",
+      "犯罪",
+      "音樂劇"
+    ],
+    "options_en": [
+      "Animation",
+      "Documentary",
+      "Crime",
+      "Musical"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「犯罪」。",
+    "explanation_en": "The correct answer is 'Crime'.",
+    "difficulty": 1
+  },
+  {
+    "id": 65,
+    "question_zh": "《消失的兇手》長唔長？",
+    "question_en": "Is \"The Vanished Murderer\" long?",
+    "options_zh": [
+      "香港",
+      "台灣",
+      "中國",
+      "美國"
+    ],
+    "options_en": [
+      "Hong Kong",
+      "Taiwan",
+      "China",
+      "USA"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
+  },
+  {
+    "id": 66,
+    "question_zh": "《消失的兇手》喺邊個年代上映？",
+    "question_en": "When was \"The Vanished Murderer\" released?",
+    "options_zh": [
+      "主角",
+      "配角",
+      "路人",
+      "客串"
+    ],
+    "options_en": [
+      "Main Character",
+      "Supporting",
+      "Passerby",
+      "Cameo"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
+    "difficulty": 3
+  },
+  {
+    "id": 67,
+    "question_zh": "《消失的兇手》係幾時嘅電影？",
+    "question_en": "When is \"The Vanished Murderer\" from?",
+    "options_zh": [
+      "唔知",
+      "會，非常推薦",
+      "睇情況",
+      "唔會"
+    ],
+    "options_en": [
+      "Unknown",
+      "Yes, highly recommended",
+      "Depends",
+      "No"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
+  },
+  {
+    "id": 68,
+    "question_zh": "《消失的兇手》係舊片定新片？",
+    "question_en": "Is \"The Vanished Murderer\" old or new?",
+    "options_zh": [
+      "高質素",
+      "低質素",
+      "普通",
+      "參差"
+    ],
+    "options_en": [
+      "High quality",
+      "Low",
+      "Average",
+      "Mixed"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
+    "difficulty": 2
+  },
+  {
+    "id": 69,
+    "question_zh": "《消失的兇手》係幾多年前嘅？",
+    "question_en": "How old is \"The Vanished Murderer\"?",
+    "options_zh": [
+      "已經過氣",
+      "只喺本地",
+      "非常受歡迎",
+      "唔受歡迎"
+    ],
+    "options_en": [
+      "Outdated",
+      "Local only",
+      "Very popular",
+      "Unpopular"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Very popular'.",
+    "difficulty": 3
+  },
+  {
+    "id": 70,
+    "question_zh": "《消失的兇手》係邊年嘅作品？",
+    "question_en": "What year is \"The Vanished Murderer\" from?",
+    "options_zh": [
+      "有攞過獎",
+      "只有提名",
+      "冇",
+      "唔知"
+    ],
+    "options_en": [
+      "Yes, won awards",
+      "Only nominated",
+      "No",
+      "Unknown"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「有攞過獎」。",
+    "explanation_en": "The correct answer is 'Yes, won awards'.",
+    "difficulty": 1
+  },
+  {
+    "id": 71,
+    "question_zh": "《消失的兇手》係咩語言？",
+    "question_en": "What language is \"The Vanished Murderer\"?",
+    "options_zh": [
+      "其他演員C",
+      "劉青雲",
+      "其他演員A",
+      "其他演員B"
+    ],
+    "options_en": [
+      "Actor C",
+      "Sean Lau",
+      "Actor A",
+      "Actor B"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「劉青雲」。",
+    "explanation_en": "The correct answer is 'Sean Lau'.",
+    "difficulty": 2
+  },
+  {
+    "id": 72,
+    "question_zh": "《消失的兇手》係廣東話定普通話？",
+    "question_en": "Is \"The Vanished Murderer\" in Cantonese or Mandarin?",
+    "options_zh": [
+      "體育賽事",
+      "紀錄片",
+      "音樂會",
+      "精彩故事"
+    ],
+    "options_en": [
+      "Sports",
+      "Documentary",
+      "Concert",
+      "Exciting story"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「精彩故事」。",
+    "explanation_en": "The correct answer is 'Exciting story'.",
+    "difficulty": 3
+  },
+  {
+    "id": 73,
+    "question_zh": "《消失的兇手》用咩語言拍？",
+    "question_en": "What language is \"The Vanished Murderer\" filmed in?",
+    "options_zh": [
+      "約6小時",
+      "約2小時",
+      "約30分鐘",
+      "約4小時"
+    ],
+    "options_en": [
+      "6 hours",
+      "About 2 hours",
+      "30 min",
+      "4 hours"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「約2小時」。",
+    "explanation_en": "The correct answer is 'About 2 hours'.",
+    "difficulty": 1
+  },
+  {
+    "id": 74,
+    "question_zh": "《消失的兇手》嘅對白係咩話？",
+    "question_en": "What dialect is \"The Vanished Murderer\" in?",
+    "options_zh": [
+      "1950s",
+      "1930s",
+      "2020s",
+      "2015s"
+    ],
+    "options_en": [
+      "1950s",
+      "1930s",
+      "2020s",
+      "2015s"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「2015s」。",
+    "explanation_en": "The correct answer is '2015s'.",
+    "difficulty": 2
+  },
+  {
+    "id": 75,
+    "question_zh": "《消失的兇手》係英文片？",
+    "question_en": "Is \"The Vanished Murderer\" in English?",
+    "options_zh": [
+      "粵語",
+      "日語",
+      "英語",
+      "韓語"
+    ],
+    "options_en": [
+      "Cantonese",
+      "Japanese",
+      "English",
+      "Korean"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「粵語」。",
+    "explanation_en": "The correct answer is 'Cantonese'.",
+    "difficulty": 3
+  },
+  {
+    "id": 76,
+    "question_zh": "《消失的兇手》票房如何？",
+    "question_en": "How was \"The Vanished Murderer\" box office?",
+    "options_zh": [
+      "票房理想",
+      "唔知",
+      "冇上映",
+      "票房差"
+    ],
+    "options_en": [
+      "Good box office",
+      "Unknown",
+      "Not released",
+      "Poor"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「票房理想」。",
+    "explanation_en": "The correct answer is 'Good box office'.",
+    "difficulty": 1
+  },
+  {
+    "id": 77,
+    "question_zh": "《消失的兇手》賺唔賺錢？",
+    "question_en": "Did \"The Vanished Murderer\" make money?",
+    "options_zh": [
+      "有續集",
+      "冇續集",
+      "只有前傳",
+      "唔知"
+    ],
+    "options_en": [
+      "Yes, has sequel",
+      "No sequel",
+      "Only prequel",
+      "Unknown"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「有續集」。",
+    "explanation_en": "The correct answer is 'Yes, has sequel'.",
+    "difficulty": 2
+  },
+  {
+    "id": 78,
+    "question_zh": "《消失的兇手》嘅票房成績？",
+    "question_en": "What was \"The Vanished Murderer\" box office result?",
+    "options_zh": [
+      "普通",
+      "差",
+      "冇音樂",
+      "好聽"
+    ],
+    "options_en": [
+      "Average",
+      "Bad",
+      "No music",
+      "Great music"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「好聽」。",
+    "explanation_en": "The correct answer is 'Great music'.",
+    "difficulty": 3
+  },
+  {
+    "id": 79,
+    "question_zh": "《消失的兇手》賣唔賣座？",
+    "question_en": "Was \"The Vanished Murderer\" a hit?",
+    "options_zh": [
+      "日本",
+      "香港",
+      "歐洲",
+      "美國"
+    ],
+    "options_en": [
+      "Japan",
+      "Hong Kong",
+      "Europe",
+      "USA"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
+  },
+  {
+    "id": 80,
+    "question_zh": "《消失的兇手》嘅商業表現如何？",
+    "question_en": "How was \"The Vanished Murderer\" commercially?",
+    "options_zh": [
+      "冇影響",
+      "唔知",
+      "負面影響",
+      "好大影響"
+    ],
+    "options_en": [
+      "No impact",
+      "Unknown",
+      "Negative",
+      "Great impact"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「好大影響」。",
+    "explanation_en": "The correct answer is 'Great impact'.",
+    "difficulty": 2
+  },
+  {
+    "id": 81,
+    "question_zh": "《消失的兇手》有冇續集？",
+    "question_en": "Does \"The Vanished Murderer\" have a sequel?",
+    "options_zh": [
+      "其他電影Z",
+      "其他電影X",
+      "消失的兇手",
+      "其他電影Y"
+    ],
+    "options_en": [
+      "Other Z",
+      "Other X",
+      "The Vanished Murderer",
+      "Other Y"
+    ],
+    "answer": 2,
     "explanation_zh": "正確答案係「消失的兇手」。",
     "explanation_en": "The correct answer is 'The Vanished Murderer'.",
     "difficulty": 3
   },
   {
     "id": 82,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（消失的兇手）",
-    "question_en": "Which movie stars Sean Lau? (The Vanished Murderer)",
+    "question_zh": "《消失的兇手》會唔會拍第二集？",
+    "question_en": "Will there be a \"The Vanished Murderer\" 2?",
     "options_zh": [
-      "消失的兇手",
-      "其他電影Z",
-      "其他電影Y",
-      "其他電影X"
+      "2012年",
+      "2020年",
+      "2017年",
+      "2015年"
     ],
     "options_en": [
-      "The Vanished Murderer",
-      "Other Movie Z",
-      "Other Movie Y",
-      "Other Movie X"
+      "2012",
+      "2020",
+      "2017",
+      "2015"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「消失的兇手」。",
-    "explanation_en": "The correct answer is 'The Vanished Murderer'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「2015年」。",
+    "explanation_en": "The correct answer is '2015'.",
     "difficulty": 1
   },
   {
     "id": 83,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（消失的兇手）",
-    "question_en": "Which movie stars Sean Lau? (The Vanished Murderer)",
+    "question_zh": "《消失的兇手》嘅續集幾時出？",
+    "question_en": "When is the \"The Vanished Murderer\" sequel?",
     "options_zh": [
-      "其他電影X",
-      "其他電影Z",
-      "其他電影Y",
-      "消失的兇手"
+      "爾冬陞",
+      "王晶",
+      "劉偉強",
+      "杜琪峰"
     ],
     "options_en": [
-      "Other Movie X",
-      "Other Movie Z",
-      "Other Movie Y",
-      "The Vanished Murderer"
+      "Derek Yee",
+      "Wong Jing",
+      "Andrew Lau",
+      "Johnnie To"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「消失的兇手」。",
-    "explanation_en": "The correct answer is 'The Vanished Murderer'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「爾冬陞」。",
+    "explanation_en": "The correct answer is 'Derek Yee'.",
     "difficulty": 2
   },
   {
     "id": 84,
-    "question_zh": "《消失的兇手》係邊年上映嘅？",
-    "question_en": "What year was \"The Vanished Murderer\" released?",
+    "question_zh": "《消失的兇手》有冇第三集？",
+    "question_en": "Is there a \"The Vanished Murderer\" 3?",
     "options_zh": [
-      "2017年",
-      "2012年",
-      "2020年",
-      "2015年"
+      "音樂劇",
+      "紀錄片",
+      "犯罪",
+      "動畫"
     ],
     "options_en": [
-      "2017",
-      "2012",
-      "2020",
-      "2015"
+      "Musical",
+      "Documentary",
+      "Crime",
+      "Animation"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2015年」。",
-    "explanation_en": "The correct answer is '2015'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「犯罪」。",
+    "explanation_en": "The correct answer is 'Crime'.",
     "difficulty": 3
   },
   {
     "id": 85,
-    "question_zh": "《消失的兇手》係邊年上映嘅？",
-    "question_en": "What year was \"The Vanished Murderer\" released?",
+    "question_zh": "《消失的兇手》嘅系列有幾多集？",
+    "question_en": "How many in the \"The Vanished Murderer\" series?",
     "options_zh": [
-      "2012年",
-      "2015年",
-      "2017年",
-      "2020年"
+      "美國",
+      "台灣",
+      "香港",
+      "中國"
     ],
     "options_en": [
-      "2012",
-      "2015",
-      "2017",
-      "2020"
+      "USA",
+      "Taiwan",
+      "Hong Kong",
+      "China"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2015年」。",
-    "explanation_en": "The correct answer is '2015'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
     "difficulty": 1
   },
   {
     "id": 86,
-    "question_zh": "《消失的兇手》係邊年上映嘅？",
-    "question_en": "What year was \"The Vanished Murderer\" released?",
+    "question_zh": "《消失的兇手》嘅音樂如何？",
+    "question_en": "How is the music in \"The Vanished Murderer\"?",
     "options_zh": [
-      "2017年",
-      "2020年",
-      "2012年",
-      "2015年"
+      "路人",
+      "客串",
+      "主角",
+      "配角"
     ],
     "options_en": [
-      "2017",
-      "2020",
-      "2012",
-      "2015"
+      "Passerby",
+      "Cameo",
+      "Main Character",
+      "Supporting"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2015年」。",
-    "explanation_en": "The correct answer is '2015'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
     "difficulty": 2
   },
   {
     "id": 87,
-    "question_zh": "《消失的兇手》嘅導演係邊個？",
-    "question_en": "Who directed \"The Vanished Murderer\"?",
+    "question_zh": "《消失的兇手》嘅配樂好唔好？",
+    "question_en": "Is the soundtrack of \"The Vanished Murderer\" good?",
     "options_zh": [
-      "杜琪峰",
-      "王晶",
-      "劉偉強",
-      "爾冬陞"
+      "會，非常推薦",
+      "唔會",
+      "睇情況",
+      "唔知"
     ],
     "options_en": [
-      "Johnnie To",
-      "Wong Jing",
-      "Andrew Lau",
-      "爾冬陞"
+      "Yes, highly recommended",
+      "No",
+      "Depends",
+      "Unknown"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「爾冬陞」。",
-    "explanation_en": "The correct answer is '爾冬陞'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 3
   },
   {
     "id": 88,
-    "question_zh": "《消失的兇手》嘅導演係邊個？",
-    "question_en": "Who directed \"The Vanished Murderer\"?",
+    "question_zh": "《消失的兇手》有冇主題曲？",
+    "question_en": "Does \"The Vanished Murderer\" have a theme song?",
     "options_zh": [
-      "劉偉強",
-      "杜琪峰",
-      "爾冬陞",
-      "王晶"
+      "參差",
+      "高質素",
+      "普通",
+      "低質素"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Johnnie To",
-      "爾冬陞",
-      "Wong Jing"
+      "Mixed",
+      "High quality",
+      "Average",
+      "Low"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「爾冬陞」。",
-    "explanation_en": "The correct answer is '爾冬陞'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 1
   },
   {
     "id": 89,
-    "question_zh": "《消失的兇手》嘅導演係邊個？",
-    "question_en": "Who directed \"The Vanished Murderer\"?",
+    "question_zh": "《消失的兇手》嘅插曲好聽嗎？",
+    "question_en": "Are the songs in \"The Vanished Murderer\" good?",
     "options_zh": [
-      "王晶",
-      "劉偉強",
-      "爾冬陞",
-      "杜琪峰"
+      "非常受歡迎",
+      "只喺本地",
+      "已經過氣",
+      "唔受歡迎"
     ],
     "options_en": [
-      "Wong Jing",
-      "Andrew Lau",
-      "爾冬陞",
-      "Johnnie To"
+      "Very popular",
+      "Local only",
+      "Outdated",
+      "Unpopular"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「爾冬陞」。",
-    "explanation_en": "The correct answer is '爾冬陞'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Very popular'.",
     "difficulty": 2
   },
   {
     "id": 90,
-    "question_zh": "《消失的兇手》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"The Vanished Murderer\"?",
+    "question_zh": "《消失的兇手》嘅音樂係咩風格？",
+    "question_en": "What style is \"The Vanished Murderer\" music?",
     "options_zh": [
-      "只係客串",
       "唔知",
-      "唔係",
-      "係"
+      "只有提名",
+      "冇",
+      "有攞過獎"
     ],
     "options_en": [
-      "Cameo only",
       "Unknown",
+      "Only nominated",
       "No",
-      "Yes"
+      "Yes, won awards"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "explanation_zh": "正確答案係「有攞過獎」。",
+    "explanation_en": "The correct answer is 'Yes, won awards'.",
     "difficulty": 3
   },
   {
     "id": 91,
-    "question_zh": "《消失的兇手》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"The Vanished Murderer\"?",
+    "question_zh": "《消失的兇手》喺邊度拍攝？",
+    "question_en": "Where was \"The Vanished Murderer\" filmed?",
     "options_zh": [
-      "只係客串",
-      "係",
-      "唔知",
-      "唔係"
+      "劉青雲",
+      "其他演員A",
+      "其他演員B",
+      "其他演員C"
     ],
     "options_en": [
-      "Cameo only",
-      "Yes",
-      "Unknown",
-      "No"
+      "Sean Lau",
+      "Actor A",
+      "Actor B",
+      "Actor C"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「劉青雲」。",
+    "explanation_en": "The correct answer is 'Sean Lau'.",
     "difficulty": 1
   },
   {
     "id": 92,
-    "question_zh": "《消失的兇手》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"The Vanished Murderer\"?",
+    "question_zh": "《消失的兇手》嘅拍攝地點係？",
+    "question_en": "What are the filming locations of \"The Vanished Murderer\"?",
     "options_zh": [
-      "只係客串",
-      "唔係",
-      "唔知",
-      "係"
+      "音樂會",
+      "紀錄片",
+      "精彩故事",
+      "體育賽事"
     ],
     "options_en": [
-      "Cameo only",
-      "No",
-      "Unknown",
-      "Yes"
+      "Concert",
+      "Documentary",
+      "Exciting story",
+      "Sports"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「精彩故事」。",
+    "explanation_en": "The correct answer is 'Exciting story'.",
     "difficulty": 2
   },
   {
     "id": 93,
-    "question_zh": "《消失的兇手》係邊度出品？",
-    "question_en": "Where was \"The Vanished Murderer\" produced?",
+    "question_zh": "《消失的兇手》係喺香港拍？",
+    "question_en": "Was \"The Vanished Murderer\" filmed in HK?",
     "options_zh": [
-      "香港",
-      "美國",
-      "台灣",
-      "中國"
+      "約2小時",
+      "約4小時",
+      "約30分鐘",
+      "約6小時"
     ],
     "options_en": [
-      "Hong Kong",
-      "USA",
-      "Taiwan",
-      "China"
+      "About 2 hours",
+      "4 hours",
+      "30 min",
+      "6 hours"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "explanation_zh": "正確答案係「約2小時」。",
+    "explanation_en": "The correct answer is 'About 2 hours'.",
     "difficulty": 3
   },
   {
     "id": 94,
-    "question_zh": "《消失的兇手》係邊度出品？",
-    "question_en": "Where was \"The Vanished Murderer\" produced?",
+    "question_zh": "《消失的兇手》嘅場景喺邊度？",
+    "question_en": "Where are the scenes of \"The Vanished Murderer\"?",
     "options_zh": [
-      "台灣",
-      "美國",
-      "香港",
-      "中國"
+      "2015s",
+      "1950s",
+      "1930s",
+      "2020s"
     ],
     "options_en": [
-      "Taiwan",
-      "USA",
-      "Hong Kong",
-      "China"
+      "2015s",
+      "1950s",
+      "1930s",
+      "2020s"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「2015s」。",
+    "explanation_en": "The correct answer is '2015s'.",
     "difficulty": 1
   },
   {
     "id": 95,
-    "question_zh": "《消失的兇手》係邊度出品？",
-    "question_en": "Where was \"The Vanished Murderer\" produced?",
+    "question_zh": "《消失的兇手》去邊度取景？",
+    "question_en": "Where was \"The Vanished Murderer\" shot?",
     "options_zh": [
-      "香港",
-      "台灣",
-      "美國",
-      "中國"
+      "英語",
+      "粵語",
+      "日語",
+      "韓語"
     ],
     "options_en": [
-      "Hong Kong",
-      "Taiwan",
-      "USA",
-      "China"
+      "English",
+      "Cantonese",
+      "Japanese",
+      "Korean"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「粵語」。",
+    "explanation_en": "The correct answer is 'Cantonese'.",
     "difficulty": 2
   },
   {
     "id": 96,
-    "question_zh": "劉青雲喺《消失的兇手》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"The Vanished Murderer\"?",
+    "question_zh": "《消失的兇手》對香港電影有咩影響？",
+    "question_en": "What impact did \"The Vanished Murderer\" have?",
     "options_zh": [
-      "普通",
-      "麻麻地",
-      "唔好",
-      "非常出色"
+      "冇上映",
+      "唔知",
+      "票房差",
+      "票房理想"
     ],
     "options_en": [
-      "Average",
-      "So-so",
-      "Bad",
-      "Excellent"
+      "Not released",
+      "Unknown",
+      "Poor",
+      "Good box office"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "explanation_zh": "正確答案係「票房理想」。",
+    "explanation_en": "The correct answer is 'Good box office'.",
     "difficulty": 3
   },
   {
     "id": 97,
-    "question_zh": "劉青雲喺《消失的兇手》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"The Vanished Murderer\"?",
+    "question_zh": "《消失的兇手》嘅歷史意義係？",
+    "question_en": "What is the historical significance of \"The Vanished Murderer\"?",
     "options_zh": [
-      "非常出色",
-      "麻麻地",
-      "普通",
-      "唔好"
+      "有續集",
+      "冇續集",
+      "唔知",
+      "只有前傳"
     ],
     "options_en": [
-      "Excellent",
-      "So-so",
-      "Average",
-      "Bad"
+      "Yes, has sequel",
+      "No sequel",
+      "Unknown",
+      "Only prequel"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "explanation_zh": "正確答案係「有續集」。",
+    "explanation_en": "The correct answer is 'Yes, has sequel'.",
     "difficulty": 1
   },
   {
     "id": 98,
-    "question_zh": "劉青雲喺《消失的兇手》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"The Vanished Murderer\"?",
+    "question_zh": "《消失的兇手》喺電影史上嘅地位？",
+    "question_en": "What is \"The Vanished Murderer\"'s place in cinema?",
     "options_zh": [
-      "非常出色",
-      "普通",
-      "唔好",
-      "麻麻地"
+      "好聽",
+      "差",
+      "冇音樂",
+      "普通"
     ],
     "options_en": [
-      "Excellent",
-      "Average",
+      "Great music",
       "Bad",
-      "So-so"
+      "No music",
+      "Average"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "explanation_zh": "正確答案係「好聽」。",
+    "explanation_en": "The correct answer is 'Great music'.",
     "difficulty": 2
   },
   {
     "id": 99,
-    "question_zh": "你會推薦《消失的兇手》俾朋友？",
-    "question_en": "Would you recommend \"The Vanished Murderer\" to friends?",
+    "question_zh": "《消失的兇手》改變咗咩？",
+    "question_en": "What did \"The Vanished Murderer\" change?",
     "options_zh": [
-      "唔會",
-      "會，非常推薦",
-      "睇情況",
-      "唔知"
+      "美國",
+      "香港",
+      "日本",
+      "歐洲"
     ],
     "options_en": [
-      "No",
-      "Yes, highly recommended",
-      "Depends",
-      "Unknown"
+      "USA",
+      "Hong Kong",
+      "Japan",
+      "Europe"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
     "difficulty": 3
   },
   {
     "id": 100,
-    "question_zh": "你會推薦《消失的兇手》俾朋友？",
-    "question_en": "Would you recommend \"The Vanished Murderer\" to friends?",
+    "question_zh": "《消失的兇手》嘅文化影響係？",
+    "question_en": "What is the cultural impact of \"The Vanished Murderer\"?",
     "options_zh": [
-      "唔會",
-      "會，非常推薦",
-      "睇情況",
-      "唔知"
+      "負面影響",
+      "唔知",
+      "冇影響",
+      "好大影響"
     ],
     "options_en": [
-      "No",
-      "Yes, highly recommended",
-      "Depends",
-      "Unknown"
+      "Negative",
+      "Unknown",
+      "No impact",
+      "Great impact"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「好大影響」。",
+    "explanation_en": "The correct answer is 'Great impact'.",
     "difficulty": 1
   }
 ]

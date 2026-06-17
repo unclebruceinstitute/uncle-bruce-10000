@@ -1,107 +1,107 @@
 [
   {
     "id": 1,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（我要成名）",
-    "question_en": "Which movie stars Sean Lau? (My Name Is Fame)",
+    "question_zh": "以下邊部電影係劉青雲主演嘅？",
+    "question_en": "Which movie stars Sean Lau?",
     "options_zh": [
-      "其他電影Y",
       "其他電影Z",
       "我要成名",
-      "其他電影X"
+      "其他電影X",
+      "其他電影Y"
     ],
     "options_en": [
-      "Other Movie Y",
-      "Other Movie Z",
+      "Other Z",
       "My Name Is Fame",
-      "Other Movie X"
+      "Other X",
+      "Other Y"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「我要成名」。",
     "explanation_en": "The correct answer is 'My Name Is Fame'.",
     "difficulty": 1
   },
   {
     "id": 2,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（我要成名）",
-    "question_en": "Which movie stars Sean Lau? (My Name Is Fame)",
+    "question_zh": "邊部電影有劉青雲演出？",
+    "question_en": "Which movie features Sean Lau?",
     "options_zh": [
-      "其他電影Y",
-      "其他電影Z",
-      "其他電影X",
-      "我要成名"
+      "2008年",
+      "2006年",
+      "2003年",
+      "2011年"
     ],
     "options_en": [
-      "Other Movie Y",
-      "Other Movie Z",
-      "Other Movie X",
-      "My Name Is Fame"
+      "2008",
+      "2006",
+      "2003",
+      "2011"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「我要成名」。",
-    "explanation_en": "The correct answer is 'My Name Is Fame'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「2006年」。",
+    "explanation_en": "The correct answer is '2006'.",
     "difficulty": 2
   },
   {
     "id": 3,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（我要成名）",
-    "question_en": "Which movie stars Sean Lau? (My Name Is Fame)",
+    "question_zh": "劉青雲主演過邊部電影？",
+    "question_en": "Which movie did Sean Lau star in?",
     "options_zh": [
-      "其他電影Y",
-      "我要成名",
-      "其他電影X",
-      "其他電影Z"
+      "杜琪峰",
+      "劉偉強",
+      "劉國昌",
+      "王晶"
     ],
     "options_en": [
-      "Other Movie Y",
-      "My Name Is Fame",
-      "Other Movie X",
-      "Other Movie Z"
+      "Johnnie To",
+      "Andrew Lau",
+      "Lawrence Ah Mon",
+      "Wong Jing"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「我要成名」。",
-    "explanation_en": "The correct answer is 'My Name Is Fame'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「劉國昌」。",
+    "explanation_en": "The correct answer is 'Lawrence Ah Mon'.",
     "difficulty": 3
   },
   {
     "id": 4,
-    "question_zh": "《我要成名》係邊年上映嘅？",
-    "question_en": "What year was \"My Name Is Fame\" released?",
+    "question_zh": "以下邊部係劉青雲嘅電影？",
+    "question_en": "Which is a movie by Sean Lau?",
     "options_zh": [
-      "2008年",
-      "2011年",
-      "2006年",
-      "2003年"
+      "紀錄片",
+      "動畫",
+      "音樂劇",
+      "劇情"
     ],
     "options_en": [
-      "2008",
-      "2011",
-      "2006",
-      "2003"
+      "Documentary",
+      "Animation",
+      "Musical",
+      "Drama"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2006年」。",
-    "explanation_en": "The correct answer is '2006'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
     "difficulty": 1
   },
   {
     "id": 5,
-    "question_zh": "《我要成名》係邊年上映嘅？",
-    "question_en": "What year was \"My Name Is Fame\" released?",
+    "question_zh": "劉青雲有份演出邊部電影？",
+    "question_en": "Which movie did Sean Lau appear in?",
     "options_zh": [
-      "2011年",
-      "2006年",
-      "2008年",
-      "2003年"
+      "台灣",
+      "香港",
+      "美國",
+      "中國"
     ],
     "options_en": [
-      "2011",
-      "2006",
-      "2008",
-      "2003"
+      "Taiwan",
+      "Hong Kong",
+      "USA",
+      "China"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「2006年」。",
-    "explanation_en": "The correct answer is '2006'.",
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
     "difficulty": 2
   },
   {
@@ -109,331 +109,331 @@
     "question_zh": "《我要成名》係邊年上映嘅？",
     "question_en": "What year was \"My Name Is Fame\" released?",
     "options_zh": [
-      "2006年",
-      "2003年",
-      "2008年",
-      "2011年"
+      "客串",
+      "配角",
+      "主角",
+      "路人"
     ],
     "options_en": [
-      "2006",
-      "2003",
-      "2008",
-      "2011"
+      "Cameo",
+      "Supporting",
+      "Main Character",
+      "Passerby"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2006年」。",
-    "explanation_en": "The correct answer is '2006'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
     "difficulty": 3
   },
   {
     "id": 7,
-    "question_zh": "《我要成名》嘅導演係邊個？",
-    "question_en": "Who directed \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》幾時出嘅？",
+    "question_en": "When was \"My Name Is Fame\" released?",
     "options_zh": [
-      "杜琪峰",
-      "劉偉強",
-      "劉國昌",
-      "王晶"
+      "唔知",
+      "唔會",
+      "會，非常推薦",
+      "睇情況"
     ],
     "options_en": [
-      "Johnnie To",
-      "Andrew Lau",
-      "劉國昌",
-      "Wong Jing"
+      "Unknown",
+      "No",
+      "Yes, highly recommended",
+      "Depends"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「劉國昌」。",
-    "explanation_en": "The correct answer is '劉國昌'.",
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 1
   },
   {
     "id": 8,
-    "question_zh": "《我要成名》嘅導演係邊個？",
-    "question_en": "Who directed \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》嘅上映年份係？",
+    "question_en": "What is the release year of \"My Name Is Fame\"?",
     "options_zh": [
-      "杜琪峰",
-      "劉偉強",
-      "劉國昌",
-      "王晶"
+      "低質素",
+      "參差",
+      "普通",
+      "高質素"
     ],
     "options_en": [
-      "Johnnie To",
-      "Andrew Lau",
-      "劉國昌",
-      "Wong Jing"
+      "Low",
+      "Mixed",
+      "Average",
+      "High quality"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劉國昌」。",
-    "explanation_en": "The correct answer is '劉國昌'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 2
   },
   {
     "id": 9,
-    "question_zh": "《我要成名》嘅導演係邊個？",
-    "question_en": "Who directed \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》係幾年前出嘅？",
+    "question_en": "How many years ago was \"My Name Is Fame\" released?",
     "options_zh": [
-      "劉國昌",
-      "杜琪峰",
-      "王晶",
-      "劉偉強"
+      "唔受歡迎",
+      "只喺本地",
+      "已經過氣",
+      "非常受歡迎"
     ],
     "options_en": [
-      "劉國昌",
-      "Johnnie To",
-      "Wong Jing",
-      "Andrew Lau"
+      "Unpopular",
+      "Local only",
+      "Outdated",
+      "Very popular"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劉國昌」。",
-    "explanation_en": "The correct answer is '劉國昌'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Very popular'.",
     "difficulty": 3
   },
   {
     "id": 10,
-    "question_zh": "《我要成名》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》係邊個年代嘅電影？",
+    "question_en": "What decade is \"My Name Is Fame\" from?",
     "options_zh": [
-      "只係客串",
-      "係",
-      "唔係",
+      "只有提名",
+      "有攞過獎",
+      "冇",
       "唔知"
     ],
     "options_en": [
-      "Cameo only",
-      "Yes",
+      "Only nominated",
+      "Yes, won awards",
       "No",
       "Unknown"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "explanation_zh": "正確答案係「有攞過獎」。",
+    "explanation_en": "The correct answer is 'Yes, won awards'.",
     "difficulty": 1
   },
   {
     "id": 11,
-    "question_zh": "《我要成名》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》嘅導演係邊個？",
+    "question_en": "Who directed \"My Name Is Fame\"?",
     "options_zh": [
-      "係",
-      "只係客串",
-      "唔係",
-      "唔知"
+      "劉青雲",
+      "其他演員B",
+      "其他演員C",
+      "其他演員A"
     ],
     "options_en": [
-      "Yes",
-      "Cameo only",
-      "No",
-      "Unknown"
+      "Sean Lau",
+      "Actor B",
+      "Actor C",
+      "Actor A"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "explanation_zh": "正確答案係「劉青雲」。",
+    "explanation_en": "The correct answer is 'Sean Lau'.",
     "difficulty": 2
   },
   {
     "id": 12,
-    "question_zh": "《我要成名》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"My Name Is Fame\"?",
+    "question_zh": "邊個導演拍《我要成名》？",
+    "question_en": "Who directed \"My Name Is Fame\"?",
     "options_zh": [
-      "唔係",
-      "只係客串",
-      "唔知",
-      "係"
+      "紀錄片",
+      "體育賽事",
+      "精彩故事",
+      "音樂會"
     ],
     "options_en": [
-      "No",
-      "Cameo only",
-      "Unknown",
-      "Yes"
+      "Documentary",
+      "Sports",
+      "Exciting story",
+      "Concert"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「精彩故事」。",
+    "explanation_en": "The correct answer is 'Exciting story'.",
     "difficulty": 3
   },
   {
     "id": 13,
-    "question_zh": "《我要成名》係邊度出品？",
-    "question_en": "Where was \"My Name Is Fame\" produced?",
+    "question_zh": "《我要成名》係邊個執導？",
+    "question_en": "Who helmed \"My Name Is Fame\"?",
     "options_zh": [
-      "台灣",
-      "中國",
-      "香港",
-      "美國"
+      "約2小時",
+      "約4小時",
+      "約30分鐘",
+      "約6小時"
     ],
     "options_en": [
-      "Taiwan",
-      "China",
-      "Hong Kong",
-      "USA"
+      "About 2 hours",
+      "4 hours",
+      "30 min",
+      "6 hours"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「約2小時」。",
+    "explanation_en": "The correct answer is 'About 2 hours'.",
     "difficulty": 1
   },
   {
     "id": 14,
-    "question_zh": "《我要成名》係邊度出品？",
-    "question_en": "Where was \"My Name Is Fame\" produced?",
+    "question_zh": "《我要成名》嘅導演叫咩名？",
+    "question_en": "What is the director's name for \"My Name Is Fame\"?",
     "options_zh": [
-      "中國",
-      "台灣",
-      "香港",
-      "美國"
+      "2020s",
+      "2006s",
+      "1950s",
+      "1930s"
     ],
     "options_en": [
-      "China",
-      "Taiwan",
-      "Hong Kong",
-      "USA"
+      "2020s",
+      "2006s",
+      "1950s",
+      "1930s"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「2006s」。",
+    "explanation_en": "The correct answer is '2006s'.",
     "difficulty": 2
   },
   {
     "id": 15,
-    "question_zh": "《我要成名》係邊度出品？",
-    "question_en": "Where was \"My Name Is Fame\" produced?",
+    "question_zh": "《我要成名》係邊個拍嘅？",
+    "question_en": "Who made \"My Name Is Fame\"?",
     "options_zh": [
-      "台灣",
-      "美國",
-      "香港",
-      "中國"
+      "英語",
+      "韓語",
+      "粵語",
+      "日語"
     ],
     "options_en": [
-      "Taiwan",
-      "USA",
-      "Hong Kong",
-      "China"
+      "English",
+      "Korean",
+      "Cantonese",
+      "Japanese"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "explanation_zh": "正確答案係「粵語」。",
+    "explanation_en": "The correct answer is 'Cantonese'.",
     "difficulty": 3
   },
   {
     "id": 16,
-    "question_zh": "劉青雲喺《我要成名》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》係咩類型嘅電影？",
+    "question_en": "What genre is \"My Name Is Fame\"?",
     "options_zh": [
-      "唔好",
-      "麻麻地",
-      "普通",
-      "非常出色"
+      "唔知",
+      "票房差",
+      "票房理想",
+      "冇上映"
     ],
     "options_en": [
-      "Bad",
-      "So-so",
-      "Average",
-      "Excellent"
+      "Unknown",
+      "Poor",
+      "Good box office",
+      "Not released"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「票房理想」。",
+    "explanation_en": "The correct answer is 'Good box office'.",
     "difficulty": 1
   },
   {
     "id": 17,
-    "question_zh": "劉青雲喺《我要成名》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》屬於邊種類型？",
+    "question_en": "What type is \"My Name Is Fame\"?",
     "options_zh": [
-      "麻麻地",
-      "非常出色",
-      "唔好",
-      "普通"
+      "只有前傳",
+      "唔知",
+      "冇續集",
+      "有續集"
     ],
     "options_en": [
-      "So-so",
-      "Excellent",
-      "Bad",
-      "Average"
+      "Only prequel",
+      "Unknown",
+      "No sequel",
+      "Yes, has sequel"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「有續集」。",
+    "explanation_en": "The correct answer is 'Yes, has sequel'.",
     "difficulty": 2
   },
   {
     "id": 18,
-    "question_zh": "劉青雲喺《我要成名》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"My Name Is Fame\"?",
+    "question_zh": "你會點分類《我要成名》？",
+    "question_en": "How would you classify \"My Name Is Fame\"?",
     "options_zh": [
-      "唔好",
-      "麻麻地",
-      "非常出色",
-      "普通"
+      "普通",
+      "差",
+      "好聽",
+      "冇音樂"
     ],
     "options_en": [
+      "Average",
       "Bad",
-      "So-so",
-      "Excellent",
-      "Average"
+      "Great music",
+      "No music"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "explanation_zh": "正確答案係「好聽」。",
+    "explanation_en": "The correct answer is 'Great music'.",
     "difficulty": 3
   },
   {
     "id": 19,
-    "question_zh": "你會推薦《我要成名》俾朋友？",
-    "question_en": "Would you recommend \"My Name Is Fame\" to friends?",
+    "question_zh": "《我要成名》係動作片定文藝片？",
+    "question_en": "Is \"My Name Is Fame\" action or drama?",
     "options_zh": [
-      "睇情況",
-      "唔會",
-      "會，非常推薦",
-      "唔知"
+      "歐洲",
+      "香港",
+      "日本",
+      "美國"
     ],
     "options_en": [
-      "Depends",
-      "No",
-      "Yes, highly recommended",
-      "Unknown"
+      "Europe",
+      "Hong Kong",
+      "Japan",
+      "USA"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
     "difficulty": 1
   },
   {
     "id": 20,
-    "question_zh": "你會推薦《我要成名》俾朋友？",
-    "question_en": "Would you recommend \"My Name Is Fame\" to friends?",
+    "question_zh": "《我要成名》嘅電影類型係？",
+    "question_en": "What is the movie type of \"My Name Is Fame\"?",
     "options_zh": [
-      "會，非常推薦",
-      "唔會",
-      "睇情況",
-      "唔知"
+      "好大影響",
+      "冇影響",
+      "唔知",
+      "負面影響"
     ],
     "options_en": [
-      "Yes, highly recommended",
-      "No",
-      "Depends",
-      "Unknown"
+      "Great impact",
+      "No impact",
+      "Unknown",
+      "Negative"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "explanation_zh": "正確答案係「好大影響」。",
+    "explanation_en": "The correct answer is 'Great impact'.",
     "difficulty": 2
   },
   {
     "id": 21,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（我要成名）",
-    "question_en": "Which movie stars Sean Lau? (My Name Is Fame)",
+    "question_zh": "《我要成名》係邊度出品？",
+    "question_en": "Where was \"My Name Is Fame\" produced?",
     "options_zh": [
       "其他電影Y",
       "我要成名",
-      "其他電影Z",
-      "其他電影X"
+      "其他電影X",
+      "其他電影Z"
     ],
     "options_en": [
-      "Other Movie Y",
+      "Other Y",
       "My Name Is Fame",
-      "Other Movie Z",
-      "Other Movie X"
+      "Other X",
+      "Other Z"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「我要成名」。",
@@ -442,417 +442,417 @@
   },
   {
     "id": 22,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（我要成名）",
-    "question_en": "Which movie stars Sean Lau? (My Name Is Fame)",
+    "question_zh": "《我要成名》係邊個國家嘅電影？",
+    "question_en": "Which country is \"My Name Is Fame\" from?",
     "options_zh": [
-      "其他電影Z",
-      "其他電影X",
-      "其他電影Y",
-      "我要成名"
+      "2006年",
+      "2011年",
+      "2003年",
+      "2008年"
     ],
     "options_en": [
-      "Other Movie Z",
-      "Other Movie X",
-      "Other Movie Y",
-      "My Name Is Fame"
+      "2006",
+      "2011",
+      "2003",
+      "2008"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「我要成名」。",
-    "explanation_en": "The correct answer is 'My Name Is Fame'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「2006年」。",
+    "explanation_en": "The correct answer is '2006'.",
     "difficulty": 1
   },
   {
     "id": 23,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（我要成名）",
-    "question_en": "Which movie stars Sean Lau? (My Name Is Fame)",
+    "question_zh": "《我要成名》係港產片？",
+    "question_en": "Is \"My Name Is Fame\" a Hong Kong movie?",
     "options_zh": [
-      "我要成名",
-      "其他電影Y",
-      "其他電影X",
-      "其他電影Z"
+      "王晶",
+      "杜琪峰",
+      "劉國昌",
+      "劉偉強"
     ],
     "options_en": [
-      "My Name Is Fame",
-      "Other Movie Y",
-      "Other Movie X",
-      "Other Movie Z"
+      "Wong Jing",
+      "Johnnie To",
+      "Lawrence Ah Mon",
+      "Andrew Lau"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「我要成名」。",
-    "explanation_en": "The correct answer is 'My Name Is Fame'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「劉國昌」。",
+    "explanation_en": "The correct answer is 'Lawrence Ah Mon'.",
     "difficulty": 2
   },
   {
     "id": 24,
-    "question_zh": "《我要成名》係邊年上映嘅？",
-    "question_en": "What year was \"My Name Is Fame\" released?",
+    "question_zh": "《我要成名》嘅出品地方係？",
+    "question_en": "Where is \"My Name Is Fame\" from?",
     "options_zh": [
-      "2006年",
-      "2008年",
-      "2011年",
-      "2003年"
+      "動畫",
+      "紀錄片",
+      "劇情",
+      "音樂劇"
     ],
     "options_en": [
-      "2006",
-      "2008",
-      "2011",
-      "2003"
+      "Animation",
+      "Documentary",
+      "Drama",
+      "Musical"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2006年」。",
-    "explanation_en": "The correct answer is '2006'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
     "difficulty": 3
   },
   {
     "id": 25,
-    "question_zh": "《我要成名》係邊年上映嘅？",
-    "question_en": "What year was \"My Name Is Fame\" released?",
+    "question_zh": "《我要成名》係邊度拍嘅？",
+    "question_en": "Where was \"My Name Is Fame\" made?",
     "options_zh": [
-      "2006年",
-      "2008年",
-      "2003年",
-      "2011年"
+      "台灣",
+      "香港",
+      "中國",
+      "美國"
     ],
     "options_en": [
-      "2006",
-      "2008",
-      "2003",
-      "2011"
+      "Taiwan",
+      "Hong Kong",
+      "China",
+      "USA"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2006年」。",
-    "explanation_en": "The correct answer is '2006'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
     "difficulty": 1
   },
   {
     "id": 26,
-    "question_zh": "《我要成名》係邊年上映嘅？",
-    "question_en": "What year was \"My Name Is Fame\" released?",
+    "question_zh": "劉青雲喺《我要成名》入面演咩角色？",
+    "question_en": "What role does Sean Lau play in \"My Name Is Fame\"?",
     "options_zh": [
-      "2008年",
-      "2003年",
-      "2011年",
-      "2006年"
+      "配角",
+      "客串",
+      "路人",
+      "主角"
     ],
     "options_en": [
-      "2008",
-      "2003",
-      "2011",
-      "2006"
+      "Supporting",
+      "Cameo",
+      "Passerby",
+      "Main Character"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「2006年」。",
-    "explanation_en": "The correct answer is '2006'.",
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
     "difficulty": 2
   },
   {
     "id": 27,
-    "question_zh": "《我要成名》嘅導演係邊個？",
-    "question_en": "Who directed \"My Name Is Fame\"?",
+    "question_zh": "劉青雲喺《我要成名》係咩身分？",
+    "question_en": "What is Sean Lau's role in \"My Name Is Fame\"?",
     "options_zh": [
-      "劉偉強",
-      "王晶",
-      "劉國昌",
-      "杜琪峰"
+      "會，非常推薦",
+      "唔會",
+      "睇情況",
+      "唔知"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Wong Jing",
-      "劉國昌",
-      "Johnnie To"
+      "Yes, highly recommended",
+      "No",
+      "Depends",
+      "Unknown"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劉國昌」。",
-    "explanation_en": "The correct answer is '劉國昌'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 3
   },
   {
     "id": 28,
-    "question_zh": "《我要成名》嘅導演係邊個？",
-    "question_en": "Who directed \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》入面劉青雲係咩人？",
+    "question_en": "Who is Sean Lau in \"My Name Is Fame\"?",
     "options_zh": [
-      "王晶",
-      "杜琪峰",
-      "劉偉強",
-      "劉國昌"
+      "普通",
+      "高質素",
+      "低質素",
+      "參差"
     ],
     "options_en": [
-      "Wong Jing",
-      "Johnnie To",
-      "Andrew Lau",
-      "劉國昌"
+      "Average",
+      "High quality",
+      "Low",
+      "Mixed"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劉國昌」。",
-    "explanation_en": "The correct answer is '劉國昌'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 1
   },
   {
     "id": 29,
-    "question_zh": "《我要成名》嘅導演係邊個？",
-    "question_en": "Who directed \"My Name Is Fame\"?",
+    "question_zh": "劉青雲喺《我要成名》嘅角色叫咩？",
+    "question_en": "What is Sean Lau's character name in \"My Name Is Fame\"?",
     "options_zh": [
-      "杜琪峰",
-      "劉國昌",
-      "王晶",
-      "劉偉強"
+      "只喺本地",
+      "唔受歡迎",
+      "非常受歡迎",
+      "已經過氣"
     ],
     "options_en": [
-      "Johnnie To",
-      "劉國昌",
-      "Wong Jing",
-      "Andrew Lau"
+      "Local only",
+      "Unpopular",
+      "Very popular",
+      "Outdated"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「劉國昌」。",
-    "explanation_en": "The correct answer is '劉國昌'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Very popular'.",
     "difficulty": 2
   },
   {
     "id": 30,
-    "question_zh": "《我要成名》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》入面劉青雲做咩？",
+    "question_en": "What does Sean Lau do in \"My Name Is Fame\"?",
     "options_zh": [
-      "係",
-      "只係客串",
-      "唔係",
+      "冇",
+      "有攞過獎",
+      "只有提名",
       "唔知"
     ],
     "options_en": [
-      "Yes",
-      "Cameo only",
       "No",
+      "Yes, won awards",
+      "Only nominated",
       "Unknown"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「有攞過獎」。",
+    "explanation_en": "The correct answer is 'Yes, won awards'.",
     "difficulty": 3
   },
   {
     "id": 31,
-    "question_zh": "《我要成名》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"My Name Is Fame\"?",
+    "question_zh": "你會推薦《我要成名》俾朋友？",
+    "question_en": "Would you recommend \"My Name Is Fame\"?",
     "options_zh": [
-      "只係客串",
-      "係",
-      "唔知",
-      "唔係"
+      "其他演員C",
+      "其他演員A",
+      "其他演員B",
+      "劉青雲"
     ],
     "options_en": [
-      "Cameo only",
-      "Yes",
-      "Unknown",
-      "No"
+      "Actor C",
+      "Actor A",
+      "Actor B",
+      "Sean Lau"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「劉青雲」。",
+    "explanation_en": "The correct answer is 'Sean Lau'.",
     "difficulty": 1
   },
   {
     "id": 32,
-    "question_zh": "《我要成名》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》值唔值得睇？",
+    "question_en": "Is \"My Name Is Fame\" worth watching?",
     "options_zh": [
-      "只係客串",
-      "唔知",
-      "係",
-      "唔係"
+      "音樂會",
+      "體育賽事",
+      "紀錄片",
+      "精彩故事"
     ],
     "options_en": [
-      "Cameo only",
-      "Unknown",
-      "Yes",
-      "No"
+      "Concert",
+      "Sports",
+      "Documentary",
+      "Exciting story"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「精彩故事」。",
+    "explanation_en": "The correct answer is 'Exciting story'.",
     "difficulty": 2
   },
   {
     "id": 33,
-    "question_zh": "《我要成名》係邊度出品？",
-    "question_en": "Where was \"My Name Is Fame\" produced?",
+    "question_zh": "《我要成名》好唔好睇？",
+    "question_en": "Is \"My Name Is Fame\" good?",
     "options_zh": [
-      "香港",
-      "中國",
-      "台灣",
-      "美國"
+      "約30分鐘",
+      "約2小時",
+      "約4小時",
+      "約6小時"
     ],
     "options_en": [
-      "Hong Kong",
-      "China",
-      "Taiwan",
-      "USA"
+      "30 min",
+      "About 2 hours",
+      "4 hours",
+      "6 hours"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「約2小時」。",
+    "explanation_en": "The correct answer is 'About 2 hours'.",
     "difficulty": 3
   },
   {
     "id": 34,
-    "question_zh": "《我要成名》係邊度出品？",
-    "question_en": "Where was \"My Name Is Fame\" produced?",
+    "question_zh": "你鍾唔鍾意《我要成名》？",
+    "question_en": "Do you like \"My Name Is Fame\"?",
     "options_zh": [
-      "中國",
-      "香港",
-      "台灣",
-      "美國"
+      "2020s",
+      "1950s",
+      "1930s",
+      "2006s"
     ],
     "options_en": [
-      "China",
-      "Hong Kong",
-      "Taiwan",
-      "USA"
+      "2020s",
+      "1950s",
+      "1930s",
+      "2006s"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「2006s」。",
+    "explanation_en": "The correct answer is '2006s'.",
     "difficulty": 1
   },
   {
     "id": 35,
-    "question_zh": "《我要成名》係邊度出品？",
-    "question_en": "Where was \"My Name Is Fame\" produced?",
+    "question_zh": "《我要成名》正唔正？",
+    "question_en": "Is \"My Name Is Fame\" great?",
     "options_zh": [
-      "台灣",
-      "中國",
-      "香港",
-      "美國"
+      "韓語",
+      "粵語",
+      "日語",
+      "英語"
     ],
     "options_en": [
-      "Taiwan",
-      "China",
-      "Hong Kong",
-      "USA"
+      "Korean",
+      "Cantonese",
+      "Japanese",
+      "English"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「粵語」。",
+    "explanation_en": "The correct answer is 'Cantonese'.",
     "difficulty": 2
   },
   {
     "id": 36,
-    "question_zh": "劉青雲喺《我要成名》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》嘅質素如何？",
+    "question_en": "How is the quality of \"My Name Is Fame\"?",
     "options_zh": [
-      "唔好",
-      "普通",
-      "麻麻地",
-      "非常出色"
+      "冇上映",
+      "票房差",
+      "唔知",
+      "票房理想"
     ],
     "options_en": [
-      "Bad",
-      "Average",
-      "So-so",
-      "Excellent"
+      "Not released",
+      "Poor",
+      "Unknown",
+      "Good box office"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "explanation_zh": "正確答案係「票房理想」。",
+    "explanation_en": "The correct answer is 'Good box office'.",
     "difficulty": 3
   },
   {
     "id": 37,
-    "question_zh": "劉青雲喺《我要成名》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》拍得好唔好？",
+    "question_en": "Is \"My Name Is Fame\" well-made?",
     "options_zh": [
-      "非常出色",
-      "唔好",
-      "普通",
-      "麻麻地"
+      "只有前傳",
+      "有續集",
+      "唔知",
+      "冇續集"
     ],
     "options_en": [
-      "Excellent",
-      "Bad",
-      "Average",
-      "So-so"
+      "Only prequel",
+      "Yes, has sequel",
+      "Unknown",
+      "No sequel"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「有續集」。",
+    "explanation_en": "The correct answer is 'Yes, has sequel'.",
     "difficulty": 1
   },
   {
     "id": 38,
-    "question_zh": "劉青雲喺《我要成名》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》嘅製作水平如何？",
+    "question_en": "How is the production quality of \"My Name Is Fame\"?",
     "options_zh": [
-      "非常出色",
+      "冇音樂",
       "普通",
-      "唔好",
-      "麻麻地"
+      "差",
+      "好聽"
     ],
     "options_en": [
-      "Excellent",
+      "No music",
       "Average",
       "Bad",
-      "So-so"
+      "Great music"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「好聽」。",
+    "explanation_en": "The correct answer is 'Great music'.",
     "difficulty": 2
   },
   {
     "id": 39,
-    "question_zh": "你會推薦《我要成名》俾朋友？",
-    "question_en": "Would you recommend \"My Name Is Fame\" to friends?",
+    "question_zh": "《我要成名》嘅劇本如何？",
+    "question_en": "How is the script of \"My Name Is Fame\"?",
     "options_zh": [
-      "睇情況",
-      "會，非常推薦",
-      "唔知",
-      "唔會"
+      "日本",
+      "香港",
+      "歐洲",
+      "美國"
     ],
     "options_en": [
-      "Depends",
-      "Yes, highly recommended",
-      "Unknown",
-      "No"
+      "Japan",
+      "Hong Kong",
+      "Europe",
+      "USA"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
     "difficulty": 3
   },
   {
     "id": 40,
-    "question_zh": "你會推薦《我要成名》俾朋友？",
-    "question_en": "Would you recommend \"My Name Is Fame\" to friends?",
+    "question_zh": "《我要成名》嘅攝影如何？",
+    "question_en": "How is the cinematography of \"My Name Is Fame\"?",
     "options_zh": [
-      "睇情況",
       "唔知",
-      "會，非常推薦",
-      "唔會"
+      "好大影響",
+      "負面影響",
+      "冇影響"
     ],
     "options_en": [
-      "Depends",
       "Unknown",
-      "Yes, highly recommended",
-      "No"
+      "Great impact",
+      "Negative",
+      "No impact"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「好大影響」。",
+    "explanation_en": "The correct answer is 'Great impact'.",
     "difficulty": 1
   },
   {
     "id": 41,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（我要成名）",
-    "question_en": "Which movie stars Sean Lau? (My Name Is Fame)",
+    "question_zh": "《我要成名》受唔受歡迎？",
+    "question_en": "Is \"My Name Is Fame\" popular?",
     "options_zh": [
-      "其他電影Z",
       "其他電影X",
       "其他電影Y",
+      "其他電影Z",
       "我要成名"
     ],
     "options_en": [
-      "Other Movie Z",
-      "Other Movie X",
-      "Other Movie Y",
+      "Other X",
+      "Other Y",
+      "Other Z",
       "My Name Is Fame"
     ],
     "answer": 3,
@@ -862,417 +862,417 @@
   },
   {
     "id": 42,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（我要成名）",
-    "question_en": "Which movie stars Sean Lau? (My Name Is Fame)",
-    "options_zh": [
-      "我要成名",
-      "其他電影Y",
-      "其他電影X",
-      "其他電影Z"
-    ],
-    "options_en": [
-      "My Name Is Fame",
-      "Other Movie Y",
-      "Other Movie X",
-      "Other Movie Z"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「我要成名」。",
-    "explanation_en": "The correct answer is 'My Name Is Fame'.",
-    "difficulty": 3
-  },
-  {
-    "id": 43,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（我要成名）",
-    "question_en": "Which movie stars Sean Lau? (My Name Is Fame)",
-    "options_zh": [
-      "其他電影X",
-      "其他電影Y",
-      "其他電影Z",
-      "我要成名"
-    ],
-    "options_en": [
-      "Other Movie X",
-      "Other Movie Y",
-      "Other Movie Z",
-      "My Name Is Fame"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「我要成名」。",
-    "explanation_en": "The correct answer is 'My Name Is Fame'.",
-    "difficulty": 1
-  },
-  {
-    "id": 44,
-    "question_zh": "《我要成名》係邊年上映嘅？",
-    "question_en": "What year was \"My Name Is Fame\" released?",
-    "options_zh": [
-      "2008年",
-      "2006年",
-      "2003年",
-      "2011年"
-    ],
-    "options_en": [
-      "2008",
-      "2006",
-      "2003",
-      "2011"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「2006年」。",
-    "explanation_en": "The correct answer is '2006'.",
-    "difficulty": 2
-  },
-  {
-    "id": 45,
-    "question_zh": "《我要成名》係邊年上映嘅？",
-    "question_en": "What year was \"My Name Is Fame\" released?",
-    "options_zh": [
-      "2006年",
-      "2008年",
-      "2011年",
-      "2003年"
-    ],
-    "options_en": [
-      "2006",
-      "2008",
-      "2011",
-      "2003"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2006年」。",
-    "explanation_en": "The correct answer is '2006'.",
-    "difficulty": 3
-  },
-  {
-    "id": 46,
-    "question_zh": "《我要成名》係邊年上映嘅？",
-    "question_en": "What year was \"My Name Is Fame\" released?",
+    "question_zh": "《我要成名》紅唔紅？",
+    "question_en": "Is \"My Name Is Fame\" famous?",
     "options_zh": [
       "2011年",
-      "2008年",
       "2003年",
+      "2008年",
       "2006年"
     ],
     "options_en": [
       "2011",
-      "2008",
       "2003",
+      "2008",
       "2006"
     ],
     "answer": 3,
     "explanation_zh": "正確答案係「2006年」。",
     "explanation_en": "The correct answer is '2006'.",
+    "difficulty": 3
+  },
+  {
+    "id": 43,
+    "question_zh": "《我要成名》嘅知名度如何？",
+    "question_en": "How well-known is \"My Name Is Fame\"?",
+    "options_zh": [
+      "劉偉強",
+      "王晶",
+      "杜琪峰",
+      "劉國昌"
+    ],
+    "options_en": [
+      "Andrew Lau",
+      "Wong Jing",
+      "Johnnie To",
+      "Lawrence Ah Mon"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「劉國昌」。",
+    "explanation_en": "The correct answer is 'Lawrence Ah Mon'.",
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "question_zh": "《我要成名》有冇人睇？",
+    "question_en": "Does anyone watch \"My Name Is Fame\"?",
+    "options_zh": [
+      "動畫",
+      "音樂劇",
+      "劇情",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Animation",
+      "Musical",
+      "Drama",
+      "Documentary"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
+    "difficulty": 2
+  },
+  {
+    "id": 45,
+    "question_zh": "《我要成名》嘅人氣如何？",
+    "question_en": "How popular is \"My Name Is Fame\"?",
+    "options_zh": [
+      "中國",
+      "台灣",
+      "香港",
+      "美國"
+    ],
+    "options_en": [
+      "China",
+      "Taiwan",
+      "Hong Kong",
+      "USA"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 3
+  },
+  {
+    "id": 46,
+    "question_zh": "《我要成名》有冇攞過獎？",
+    "question_en": "Did \"My Name Is Fame\" win awards?",
+    "options_zh": [
+      "主角",
+      "路人",
+      "客串",
+      "配角"
+    ],
+    "options_en": [
+      "Main Character",
+      "Passerby",
+      "Cameo",
+      "Supporting"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
     "difficulty": 1
   },
   {
     "id": 47,
-    "question_zh": "《我要成名》嘅導演係邊個？",
-    "question_en": "Who directed \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》嘅獎項如何？",
+    "question_en": "What awards did \"My Name Is Fame\" win?",
     "options_zh": [
-      "王晶",
-      "劉偉強",
-      "杜琪峰",
-      "劉國昌"
+      "唔知",
+      "會，非常推薦",
+      "唔會",
+      "睇情況"
     ],
     "options_en": [
-      "Wong Jing",
-      "Andrew Lau",
-      "Johnnie To",
-      "劉國昌"
+      "Unknown",
+      "Yes, highly recommended",
+      "No",
+      "Depends"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劉國昌」。",
-    "explanation_en": "The correct answer is '劉國昌'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 2
   },
   {
     "id": 48,
-    "question_zh": "《我要成名》嘅導演係邊個？",
-    "question_en": "Who directed \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》有冇提名？",
+    "question_en": "Was \"My Name Is Fame\" nominated?",
     "options_zh": [
-      "劉國昌",
-      "劉偉強",
-      "王晶",
-      "杜琪峰"
+      "普通",
+      "高質素",
+      "參差",
+      "低質素"
     ],
     "options_en": [
-      "劉國昌",
-      "Andrew Lau",
-      "Wong Jing",
-      "Johnnie To"
+      "Average",
+      "High quality",
+      "Mixed",
+      "Low"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劉國昌」。",
-    "explanation_en": "The correct answer is '劉國昌'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 3
   },
   {
     "id": 49,
-    "question_zh": "《我要成名》嘅導演係邊個？",
-    "question_en": "Who directed \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》喺頒獎禮表現如何？",
+    "question_en": "How did \"My Name Is Fame\" do at award shows?",
     "options_zh": [
-      "杜琪峰",
-      "王晶",
-      "劉偉強",
-      "劉國昌"
+      "只喺本地",
+      "已經過氣",
+      "非常受歡迎",
+      "唔受歡迎"
     ],
     "options_en": [
-      "Johnnie To",
-      "Wong Jing",
-      "Andrew Lau",
-      "劉國昌"
+      "Local only",
+      "Outdated",
+      "Very popular",
+      "Unpopular"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劉國昌」。",
-    "explanation_en": "The correct answer is '劉國昌'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Very popular'.",
     "difficulty": 1
   },
   {
     "id": 50,
-    "question_zh": "《我要成名》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》攞過咩獎？",
+    "question_en": "What awards did \"My Name Is Fame\" receive?",
     "options_zh": [
-      "係",
-      "唔係",
-      "唔知",
-      "只係客串"
+      "只有提名",
+      "冇",
+      "有攞過獎",
+      "唔知"
     ],
     "options_en": [
-      "Yes",
+      "Only nominated",
       "No",
-      "Unknown",
-      "Cameo only"
+      "Yes, won awards",
+      "Unknown"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「有攞過獎」。",
+    "explanation_en": "The correct answer is 'Yes, won awards'.",
     "difficulty": 2
   },
   {
     "id": 51,
-    "question_zh": "《我要成名》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》嘅主要演員係邊個？",
+    "question_en": "Who are the main actors in \"My Name Is Fame\"?",
     "options_zh": [
-      "只係客串",
-      "係",
-      "唔係",
-      "唔知"
+      "其他演員B",
+      "劉青雲",
+      "其他演員A",
+      "其他演員C"
     ],
     "options_en": [
-      "Cameo only",
-      "Yes",
-      "No",
-      "Unknown"
+      "Actor B",
+      "Sean Lau",
+      "Actor A",
+      "Actor C"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "explanation_zh": "正確答案係「劉青雲」。",
+    "explanation_en": "The correct answer is 'Sean Lau'.",
     "difficulty": 3
   },
   {
     "id": 52,
-    "question_zh": "《我要成名》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》有邊啲演員？",
+    "question_en": "Who stars in \"My Name Is Fame\"?",
     "options_zh": [
-      "只係客串",
-      "係",
-      "唔係",
-      "唔知"
+      "體育賽事",
+      "精彩故事",
+      "紀錄片",
+      "音樂會"
     ],
     "options_en": [
-      "Cameo only",
-      "Yes",
-      "No",
-      "Unknown"
+      "Sports",
+      "Exciting story",
+      "Documentary",
+      "Concert"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "explanation_zh": "正確答案係「精彩故事」。",
+    "explanation_en": "The correct answer is 'Exciting story'.",
     "difficulty": 1
   },
   {
     "id": 53,
-    "question_zh": "《我要成名》係邊度出品？",
-    "question_en": "Where was \"My Name Is Fame\" produced?",
+    "question_zh": "《我要成名》嘅卡士如何？",
+    "question_en": "How is the cast of \"My Name Is Fame\"?",
     "options_zh": [
-      "香港",
-      "台灣",
-      "中國",
-      "美國"
+      "約30分鐘",
+      "約2小時",
+      "約6小時",
+      "約4小時"
     ],
     "options_en": [
-      "Hong Kong",
-      "Taiwan",
-      "China",
-      "USA"
+      "30 min",
+      "About 2 hours",
+      "6 hours",
+      "4 hours"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「約2小時」。",
+    "explanation_en": "The correct answer is 'About 2 hours'.",
     "difficulty": 2
   },
   {
     "id": 54,
-    "question_zh": "《我要成名》係邊度出品？",
-    "question_en": "Where was \"My Name Is Fame\" produced?",
+    "question_zh": "《我要成名》邊個做主角？",
+    "question_en": "Who is the lead in \"My Name Is Fame\"?",
     "options_zh": [
-      "美國",
-      "香港",
-      "中國",
-      "台灣"
+      "2006s",
+      "2020s",
+      "1930s",
+      "1950s"
     ],
     "options_en": [
-      "USA",
-      "Hong Kong",
-      "China",
-      "Taiwan"
+      "2006s",
+      "2020s",
+      "1930s",
+      "1950s"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「2006s」。",
+    "explanation_en": "The correct answer is '2006s'.",
     "difficulty": 3
   },
   {
     "id": 55,
-    "question_zh": "《我要成名》係邊度出品？",
-    "question_en": "Where was \"My Name Is Fame\" produced?",
+    "question_zh": "《我要成名》嘅演員陣容如何？",
+    "question_en": "How is the ensemble of \"My Name Is Fame\"?",
     "options_zh": [
-      "中國",
-      "台灣",
-      "美國",
-      "香港"
+      "英語",
+      "日語",
+      "韓語",
+      "粵語"
     ],
     "options_en": [
-      "China",
-      "Taiwan",
-      "USA",
-      "Hong Kong"
+      "English",
+      "Japanese",
+      "Korean",
+      "Cantonese"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "explanation_zh": "正確答案係「粵語」。",
+    "explanation_en": "The correct answer is 'Cantonese'.",
     "difficulty": 1
   },
   {
     "id": 56,
-    "question_zh": "劉青雲喺《我要成名》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》嘅故事講咩？",
+    "question_en": "What is \"My Name Is Fame\" about?",
     "options_zh": [
-      "唔好",
-      "非常出色",
-      "普通",
-      "麻麻地"
+      "票房理想",
+      "唔知",
+      "票房差",
+      "冇上映"
     ],
     "options_en": [
-      "Bad",
-      "Excellent",
-      "Average",
-      "So-so"
+      "Good box office",
+      "Unknown",
+      "Poor",
+      "Not released"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「票房理想」。",
+    "explanation_en": "The correct answer is 'Good box office'.",
     "difficulty": 2
   },
   {
     "id": 57,
-    "question_zh": "劉青雲喺《我要成名》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》嘅劇情係？",
+    "question_en": "What is the plot of \"My Name Is Fame\"?",
     "options_zh": [
-      "麻麻地",
-      "普通",
-      "非常出色",
-      "唔好"
+      "唔知",
+      "有續集",
+      "只有前傳",
+      "冇續集"
     ],
     "options_en": [
-      "So-so",
-      "Average",
-      "Excellent",
-      "Bad"
+      "Unknown",
+      "Yes, has sequel",
+      "Only prequel",
+      "No sequel"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「有續集」。",
+    "explanation_en": "The correct answer is 'Yes, has sequel'.",
     "difficulty": 3
   },
   {
     "id": 58,
-    "question_zh": "劉青雲喺《我要成名》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》嘅故事大綱係？",
+    "question_en": "What is the synopsis of \"My Name Is Fame\"?",
     "options_zh": [
-      "非常出色",
       "普通",
-      "麻麻地",
-      "唔好"
+      "差",
+      "冇音樂",
+      "好聽"
     ],
     "options_en": [
-      "Excellent",
       "Average",
-      "So-so",
-      "Bad"
+      "Bad",
+      "No music",
+      "Great music"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「好聽」。",
+    "explanation_en": "The correct answer is 'Great music'.",
     "difficulty": 1
   },
   {
     "id": 59,
-    "question_zh": "你會推薦《我要成名》俾朋友？",
-    "question_en": "Would you recommend \"My Name Is Fame\" to friends?",
+    "question_zh": "《我要成名》講緊咩嘢？",
+    "question_en": "What is \"My Name Is Fame\" about?",
     "options_zh": [
-      "唔會",
-      "睇情況",
-      "會，非常推薦",
-      "唔知"
+      "歐洲",
+      "香港",
+      "日本",
+      "美國"
     ],
     "options_en": [
-      "No",
-      "Depends",
-      "Yes, highly recommended",
-      "Unknown"
+      "Europe",
+      "Hong Kong",
+      "Japan",
+      "USA"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
     "difficulty": 2
   },
   {
     "id": 60,
-    "question_zh": "你會推薦《我要成名》俾朋友？",
-    "question_en": "Would you recommend \"My Name Is Fame\" to friends?",
+    "question_zh": "《我要成名》嘅內容係？",
+    "question_en": "What is the content of \"My Name Is Fame\"?",
     "options_zh": [
-      "睇情況",
-      "唔會",
+      "冇影響",
+      "好大影響",
       "唔知",
-      "會，非常推薦"
+      "負面影響"
     ],
     "options_en": [
-      "Depends",
-      "No",
+      "No impact",
+      "Great impact",
       "Unknown",
-      "Yes, highly recommended"
+      "Negative"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「好大影響」。",
+    "explanation_en": "The correct answer is 'Great impact'.",
     "difficulty": 3
   },
   {
     "id": 61,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（我要成名）",
-    "question_en": "Which movie stars Sean Lau? (My Name Is Fame)",
+    "question_zh": "《我要成名》大約幾長？",
+    "question_en": "How long is \"My Name Is Fame\"?",
     "options_zh": [
-      "其他電影X",
       "其他電影Z",
+      "其他電影X",
       "其他電影Y",
       "我要成名"
     ],
     "options_en": [
-      "Other Movie X",
-      "Other Movie Z",
-      "Other Movie Y",
+      "Other Z",
+      "Other X",
+      "Other Y",
       "My Name Is Fame"
     ],
     "answer": 3,
@@ -1282,374 +1282,122 @@
   },
   {
     "id": 62,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（我要成名）",
-    "question_en": "Which movie stars Sean Lau? (My Name Is Fame)",
+    "question_zh": "《我要成名》嘅片長係？",
+    "question_en": "What is the runtime of \"My Name Is Fame\"?",
     "options_zh": [
-      "我要成名",
-      "其他電影X",
-      "其他電影Z",
-      "其他電影Y"
+      "2006年",
+      "2011年",
+      "2003年",
+      "2008年"
     ],
     "options_en": [
-      "My Name Is Fame",
-      "Other Movie X",
-      "Other Movie Z",
-      "Other Movie Y"
+      "2006",
+      "2011",
+      "2003",
+      "2008"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「我要成名」。",
-    "explanation_en": "The correct answer is 'My Name Is Fame'.",
+    "explanation_zh": "正確答案係「2006年」。",
+    "explanation_en": "The correct answer is '2006'.",
     "difficulty": 2
   },
   {
     "id": 63,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（我要成名）",
-    "question_en": "Which movie stars Sean Lau? (My Name Is Fame)",
+    "question_zh": "《我要成名》睇幾耐？",
+    "question_en": "How long to watch \"My Name Is Fame\"?",
     "options_zh": [
-      "其他電影X",
-      "我要成名",
-      "其他電影Y",
-      "其他電影Z"
+      "杜琪峰",
+      "王晶",
+      "劉國昌",
+      "劉偉強"
     ],
     "options_en": [
-      "Other Movie X",
-      "My Name Is Fame",
-      "Other Movie Y",
-      "Other Movie Z"
+      "Johnnie To",
+      "Wong Jing",
+      "Lawrence Ah Mon",
+      "Andrew Lau"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「我要成名」。",
-    "explanation_en": "The correct answer is 'My Name Is Fame'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「劉國昌」。",
+    "explanation_en": "The correct answer is 'Lawrence Ah Mon'.",
     "difficulty": 3
   },
   {
     "id": 64,
-    "question_zh": "《我要成名》係邊年上映嘅？",
-    "question_en": "What year was \"My Name Is Fame\" released?",
+    "question_zh": "《我要成名》有幾多分鐘？",
+    "question_en": "How many minutes is \"My Name Is Fame\"?",
     "options_zh": [
-      "2008年",
-      "2003年",
-      "2011年",
-      "2006年"
+      "紀錄片",
+      "音樂劇",
+      "動畫",
+      "劇情"
     ],
     "options_en": [
-      "2008",
-      "2003",
-      "2011",
-      "2006"
+      "Documentary",
+      "Musical",
+      "Animation",
+      "Drama"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「2006年」。",
-    "explanation_en": "The correct answer is '2006'.",
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
     "difficulty": 1
   },
   {
     "id": 65,
-    "question_zh": "《我要成名》係邊年上映嘅？",
-    "question_en": "What year was \"My Name Is Fame\" released?",
-    "options_zh": [
-      "2011年",
-      "2003年",
-      "2008年",
-      "2006年"
-    ],
-    "options_en": [
-      "2011",
-      "2003",
-      "2008",
-      "2006"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2006年」。",
-    "explanation_en": "The correct answer is '2006'.",
-    "difficulty": 2
-  },
-  {
-    "id": 66,
-    "question_zh": "《我要成名》係邊年上映嘅？",
-    "question_en": "What year was \"My Name Is Fame\" released?",
-    "options_zh": [
-      "2011年",
-      "2003年",
-      "2008年",
-      "2006年"
-    ],
-    "options_en": [
-      "2011",
-      "2003",
-      "2008",
-      "2006"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「2006年」。",
-    "explanation_en": "The correct answer is '2006'.",
-    "difficulty": 3
-  },
-  {
-    "id": 67,
-    "question_zh": "《我要成名》嘅導演係邊個？",
-    "question_en": "Who directed \"My Name Is Fame\"?",
-    "options_zh": [
-      "杜琪峰",
-      "劉偉強",
-      "王晶",
-      "劉國昌"
-    ],
-    "options_en": [
-      "Johnnie To",
-      "Andrew Lau",
-      "Wong Jing",
-      "劉國昌"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劉國昌」。",
-    "explanation_en": "The correct answer is '劉國昌'.",
-    "difficulty": 1
-  },
-  {
-    "id": 68,
-    "question_zh": "《我要成名》嘅導演係邊個？",
-    "question_en": "Who directed \"My Name Is Fame\"?",
-    "options_zh": [
-      "劉國昌",
-      "劉偉強",
-      "王晶",
-      "杜琪峰"
-    ],
-    "options_en": [
-      "劉國昌",
-      "Andrew Lau",
-      "Wong Jing",
-      "Johnnie To"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劉國昌」。",
-    "explanation_en": "The correct answer is '劉國昌'.",
-    "difficulty": 2
-  },
-  {
-    "id": 69,
-    "question_zh": "《我要成名》嘅導演係邊個？",
-    "question_en": "Who directed \"My Name Is Fame\"?",
-    "options_zh": [
-      "杜琪峰",
-      "劉偉強",
-      "王晶",
-      "劉國昌"
-    ],
-    "options_en": [
-      "Johnnie To",
-      "Andrew Lau",
-      "Wong Jing",
-      "劉國昌"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「劉國昌」。",
-    "explanation_en": "The correct answer is '劉國昌'.",
-    "difficulty": 3
-  },
-  {
-    "id": 70,
-    "question_zh": "《我要成名》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"My Name Is Fame\"?",
-    "options_zh": [
-      "只係客串",
-      "唔係",
-      "唔知",
-      "係"
-    ],
-    "options_en": [
-      "Cameo only",
-      "No",
-      "Unknown",
-      "Yes"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 1
-  },
-  {
-    "id": 71,
-    "question_zh": "《我要成名》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"My Name Is Fame\"?",
-    "options_zh": [
-      "只係客串",
-      "係",
-      "唔知",
-      "唔係"
-    ],
-    "options_en": [
-      "Cameo only",
-      "Yes",
-      "Unknown",
-      "No"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 2
-  },
-  {
-    "id": 72,
-    "question_zh": "《我要成名》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"My Name Is Fame\"?",
-    "options_zh": [
-      "係",
-      "只係客串",
-      "唔係",
-      "唔知"
-    ],
-    "options_en": [
-      "Yes",
-      "Cameo only",
-      "No",
-      "Unknown"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
-    "difficulty": 3
-  },
-  {
-    "id": 73,
-    "question_zh": "《我要成名》係邊度出品？",
-    "question_en": "Where was \"My Name Is Fame\" produced?",
+    "question_zh": "《我要成名》長唔長？",
+    "question_en": "Is \"My Name Is Fame\" long?",
     "options_zh": [
       "中國",
-      "香港",
       "美國",
+      "香港",
       "台灣"
     ],
     "options_en": [
       "China",
-      "Hong Kong",
       "USA",
+      "Hong Kong",
       "Taiwan"
     ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 2
+  },
+  {
+    "id": 66,
+    "question_zh": "《我要成名》喺邊個年代上映？",
+    "question_en": "When was \"My Name Is Fame\" released?",
+    "options_zh": [
+      "路人",
+      "主角",
+      "配角",
+      "客串"
+    ],
+    "options_en": [
+      "Passerby",
+      "Main Character",
+      "Supporting",
+      "Cameo"
+    ],
     "answer": 1,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 1
-  },
-  {
-    "id": 74,
-    "question_zh": "《我要成名》係邊度出品？",
-    "question_en": "Where was \"My Name Is Fame\" produced?",
-    "options_zh": [
-      "美國",
-      "中國",
-      "台灣",
-      "香港"
-    ],
-    "options_en": [
-      "USA",
-      "China",
-      "Taiwan",
-      "Hong Kong"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
-    "difficulty": 2
-  },
-  {
-    "id": 75,
-    "question_zh": "《我要成名》係邊度出品？",
-    "question_en": "Where was \"My Name Is Fame\" produced?",
-    "options_zh": [
-      "台灣",
-      "美國",
-      "香港",
-      "中國"
-    ],
-    "options_en": [
-      "Taiwan",
-      "USA",
-      "Hong Kong",
-      "China"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
     "difficulty": 3
   },
   {
-    "id": 76,
-    "question_zh": "劉青雲喺《我要成名》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"My Name Is Fame\"?",
+    "id": 67,
+    "question_zh": "《我要成名》係幾時嘅電影？",
+    "question_en": "When is \"My Name Is Fame\" from?",
     "options_zh": [
-      "麻麻地",
-      "普通",
-      "非常出色",
-      "唔好"
-    ],
-    "options_en": [
-      "So-so",
-      "Average",
-      "Excellent",
-      "Bad"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 1
-  },
-  {
-    "id": 77,
-    "question_zh": "劉青雲喺《我要成名》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"My Name Is Fame\"?",
-    "options_zh": [
-      "普通",
-      "唔好",
-      "麻麻地",
-      "非常出色"
-    ],
-    "options_en": [
-      "Average",
-      "Bad",
-      "So-so",
-      "Excellent"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 2
-  },
-  {
-    "id": 78,
-    "question_zh": "劉青雲喺《我要成名》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"My Name Is Fame\"?",
-    "options_zh": [
-      "非常出色",
-      "普通",
-      "麻麻地",
-      "唔好"
-    ],
-    "options_en": [
-      "Excellent",
-      "Average",
-      "So-so",
-      "Bad"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
-    "difficulty": 3
-  },
-  {
-    "id": 79,
-    "question_zh": "你會推薦《我要成名》俾朋友？",
-    "question_en": "Would you recommend \"My Name Is Fame\" to friends?",
-    "options_zh": [
-      "唔知",
       "唔會",
+      "唔知",
       "睇情況",
       "會，非常推薦"
     ],
     "options_en": [
-      "Unknown",
       "No",
+      "Unknown",
       "Depends",
       "Yes, highly recommended"
     ],
@@ -1659,444 +1407,696 @@
     "difficulty": 1
   },
   {
-    "id": 80,
-    "question_zh": "你會推薦《我要成名》俾朋友？",
-    "question_en": "Would you recommend \"My Name Is Fame\" to friends?",
+    "id": 68,
+    "question_zh": "《我要成名》係舊片定新片？",
+    "question_en": "Is \"My Name Is Fame\" old or new?",
     "options_zh": [
-      "睇情況",
-      "唔知",
-      "會，非常推薦",
-      "唔會"
+      "參差",
+      "高質素",
+      "低質素",
+      "普通"
     ],
     "options_en": [
-      "Depends",
+      "Mixed",
+      "High quality",
+      "Low",
+      "Average"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
+    "difficulty": 2
+  },
+  {
+    "id": 69,
+    "question_zh": "《我要成名》係幾多年前嘅？",
+    "question_en": "How old is \"My Name Is Fame\"?",
+    "options_zh": [
+      "已經過氣",
+      "唔受歡迎",
+      "只喺本地",
+      "非常受歡迎"
+    ],
+    "options_en": [
+      "Outdated",
+      "Unpopular",
+      "Local only",
+      "Very popular"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Very popular'.",
+    "difficulty": 3
+  },
+  {
+    "id": 70,
+    "question_zh": "《我要成名》係邊年嘅作品？",
+    "question_en": "What year is \"My Name Is Fame\" from?",
+    "options_zh": [
+      "冇",
+      "只有提名",
+      "唔知",
+      "有攞過獎"
+    ],
+    "options_en": [
+      "No",
+      "Only nominated",
       "Unknown",
-      "Yes, highly recommended",
-      "No"
+      "Yes, won awards"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「有攞過獎」。",
+    "explanation_en": "The correct answer is 'Yes, won awards'.",
+    "difficulty": 1
+  },
+  {
+    "id": 71,
+    "question_zh": "《我要成名》係咩語言？",
+    "question_en": "What language is \"My Name Is Fame\"?",
+    "options_zh": [
+      "其他演員C",
+      "其他演員B",
+      "劉青雲",
+      "其他演員A"
+    ],
+    "options_en": [
+      "Actor C",
+      "Actor B",
+      "Sean Lau",
+      "Actor A"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "explanation_zh": "正確答案係「劉青雲」。",
+    "explanation_en": "The correct answer is 'Sean Lau'.",
+    "difficulty": 2
+  },
+  {
+    "id": 72,
+    "question_zh": "《我要成名》係廣東話定普通話？",
+    "question_en": "Is \"My Name Is Fame\" in Cantonese or Mandarin?",
+    "options_zh": [
+      "體育賽事",
+      "精彩故事",
+      "音樂會",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Sports",
+      "Exciting story",
+      "Concert",
+      "Documentary"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「精彩故事」。",
+    "explanation_en": "The correct answer is 'Exciting story'.",
+    "difficulty": 3
+  },
+  {
+    "id": 73,
+    "question_zh": "《我要成名》用咩語言拍？",
+    "question_en": "What language is \"My Name Is Fame\" filmed in?",
+    "options_zh": [
+      "約6小時",
+      "約2小時",
+      "約30分鐘",
+      "約4小時"
+    ],
+    "options_en": [
+      "6 hours",
+      "About 2 hours",
+      "30 min",
+      "4 hours"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「約2小時」。",
+    "explanation_en": "The correct answer is 'About 2 hours'.",
+    "difficulty": 1
+  },
+  {
+    "id": 74,
+    "question_zh": "《我要成名》嘅對白係咩話？",
+    "question_en": "What dialect is \"My Name Is Fame\" in?",
+    "options_zh": [
+      "2020s",
+      "1930s",
+      "2006s",
+      "1950s"
+    ],
+    "options_en": [
+      "2020s",
+      "1930s",
+      "2006s",
+      "1950s"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2006s」。",
+    "explanation_en": "The correct answer is '2006s'.",
+    "difficulty": 2
+  },
+  {
+    "id": 75,
+    "question_zh": "《我要成名》係英文片？",
+    "question_en": "Is \"My Name Is Fame\" in English?",
+    "options_zh": [
+      "日語",
+      "粵語",
+      "韓語",
+      "英語"
+    ],
+    "options_en": [
+      "Japanese",
+      "Cantonese",
+      "Korean",
+      "English"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「粵語」。",
+    "explanation_en": "The correct answer is 'Cantonese'.",
+    "difficulty": 3
+  },
+  {
+    "id": 76,
+    "question_zh": "《我要成名》票房如何？",
+    "question_en": "How was \"My Name Is Fame\" box office?",
+    "options_zh": [
+      "冇上映",
+      "唔知",
+      "票房理想",
+      "票房差"
+    ],
+    "options_en": [
+      "Not released",
+      "Unknown",
+      "Good box office",
+      "Poor"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「票房理想」。",
+    "explanation_en": "The correct answer is 'Good box office'.",
+    "difficulty": 1
+  },
+  {
+    "id": 77,
+    "question_zh": "《我要成名》賺唔賺錢？",
+    "question_en": "Did \"My Name Is Fame\" make money?",
+    "options_zh": [
+      "唔知",
+      "有續集",
+      "只有前傳",
+      "冇續集"
+    ],
+    "options_en": [
+      "Unknown",
+      "Yes, has sequel",
+      "Only prequel",
+      "No sequel"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「有續集」。",
+    "explanation_en": "The correct answer is 'Yes, has sequel'.",
+    "difficulty": 2
+  },
+  {
+    "id": 78,
+    "question_zh": "《我要成名》嘅票房成績？",
+    "question_en": "What was \"My Name Is Fame\" box office result?",
+    "options_zh": [
+      "冇音樂",
+      "普通",
+      "差",
+      "好聽"
+    ],
+    "options_en": [
+      "No music",
+      "Average",
+      "Bad",
+      "Great music"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「好聽」。",
+    "explanation_en": "The correct answer is 'Great music'.",
+    "difficulty": 3
+  },
+  {
+    "id": 79,
+    "question_zh": "《我要成名》賣唔賣座？",
+    "question_en": "Was \"My Name Is Fame\" a hit?",
+    "options_zh": [
+      "香港",
+      "美國",
+      "日本",
+      "歐洲"
+    ],
+    "options_en": [
+      "Hong Kong",
+      "USA",
+      "Japan",
+      "Europe"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "difficulty": 1
+  },
+  {
+    "id": 80,
+    "question_zh": "《我要成名》嘅商業表現如何？",
+    "question_en": "How was \"My Name Is Fame\" commercially?",
+    "options_zh": [
+      "冇影響",
+      "好大影響",
+      "唔知",
+      "負面影響"
+    ],
+    "options_en": [
+      "No impact",
+      "Great impact",
+      "Unknown",
+      "Negative"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「好大影響」。",
+    "explanation_en": "The correct answer is 'Great impact'.",
     "difficulty": 2
   },
   {
     "id": 81,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（我要成名）",
-    "question_en": "Which movie stars Sean Lau? (My Name Is Fame)",
+    "question_zh": "《我要成名》有冇續集？",
+    "question_en": "Does \"My Name Is Fame\" have a sequel?",
     "options_zh": [
-      "我要成名",
       "其他電影Z",
-      "其他電影X",
-      "其他電影Y"
+      "我要成名",
+      "其他電影Y",
+      "其他電影X"
     ],
     "options_en": [
+      "Other Z",
       "My Name Is Fame",
-      "Other Movie Z",
-      "Other Movie X",
-      "Other Movie Y"
+      "Other Y",
+      "Other X"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「我要成名」。",
     "explanation_en": "The correct answer is 'My Name Is Fame'.",
     "difficulty": 3
   },
   {
     "id": 82,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（我要成名）",
-    "question_en": "Which movie stars Sean Lau? (My Name Is Fame)",
-    "options_zh": [
-      "其他電影Y",
-      "其他電影Z",
-      "其他電影X",
-      "我要成名"
-    ],
-    "options_en": [
-      "Other Movie Y",
-      "Other Movie Z",
-      "Other Movie X",
-      "My Name Is Fame"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「我要成名」。",
-    "explanation_en": "The correct answer is 'My Name Is Fame'.",
-    "difficulty": 1
-  },
-  {
-    "id": 83,
-    "question_zh": "以下邊部電影係劉青雲主演嘅？（我要成名）",
-    "question_en": "Which movie stars Sean Lau? (My Name Is Fame)",
-    "options_zh": [
-      "我要成名",
-      "其他電影Z",
-      "其他電影X",
-      "其他電影Y"
-    ],
-    "options_en": [
-      "My Name Is Fame",
-      "Other Movie Z",
-      "Other Movie X",
-      "Other Movie Y"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「我要成名」。",
-    "explanation_en": "The correct answer is 'My Name Is Fame'.",
-    "difficulty": 2
-  },
-  {
-    "id": 84,
-    "question_zh": "《我要成名》係邊年上映嘅？",
-    "question_en": "What year was \"My Name Is Fame\" released?",
+    "question_zh": "《我要成名》會唔會拍第二集？",
+    "question_en": "Will there be a \"My Name Is Fame\" 2?",
     "options_zh": [
       "2006年",
       "2003年",
-      "2008年",
-      "2011年"
+      "2011年",
+      "2008年"
     ],
     "options_en": [
       "2006",
       "2003",
-      "2008",
-      "2011"
+      "2011",
+      "2008"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「2006年」。",
     "explanation_en": "The correct answer is '2006'.",
+    "difficulty": 1
+  },
+  {
+    "id": 83,
+    "question_zh": "《我要成名》嘅續集幾時出？",
+    "question_en": "When is the \"My Name Is Fame\" sequel?",
+    "options_zh": [
+      "杜琪峰",
+      "劉國昌",
+      "劉偉強",
+      "王晶"
+    ],
+    "options_en": [
+      "Johnnie To",
+      "Lawrence Ah Mon",
+      "Andrew Lau",
+      "Wong Jing"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「劉國昌」。",
+    "explanation_en": "The correct answer is 'Lawrence Ah Mon'.",
+    "difficulty": 2
+  },
+  {
+    "id": 84,
+    "question_zh": "《我要成名》有冇第三集？",
+    "question_en": "Is there a \"My Name Is Fame\" 3?",
+    "options_zh": [
+      "動畫",
+      "紀錄片",
+      "音樂劇",
+      "劇情"
+    ],
+    "options_en": [
+      "Animation",
+      "Documentary",
+      "Musical",
+      "Drama"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「劇情」。",
+    "explanation_en": "The correct answer is 'Drama'.",
     "difficulty": 3
   },
   {
     "id": 85,
-    "question_zh": "《我要成名》係邊年上映嘅？",
-    "question_en": "What year was \"My Name Is Fame\" released?",
+    "question_zh": "《我要成名》嘅系列有幾多集？",
+    "question_en": "How many in the \"My Name Is Fame\" series?",
     "options_zh": [
-      "2008年",
-      "2011年",
-      "2006年",
-      "2003年"
+      "香港",
+      "美國",
+      "台灣",
+      "中國"
     ],
     "options_en": [
-      "2008",
-      "2011",
-      "2006",
-      "2003"
+      "Hong Kong",
+      "USA",
+      "Taiwan",
+      "China"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「2006年」。",
-    "explanation_en": "The correct answer is '2006'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
     "difficulty": 1
   },
   {
     "id": 86,
-    "question_zh": "《我要成名》係邊年上映嘅？",
-    "question_en": "What year was \"My Name Is Fame\" released?",
+    "question_zh": "《我要成名》嘅音樂如何？",
+    "question_en": "How is the music in \"My Name Is Fame\"?",
     "options_zh": [
-      "2006年",
-      "2011年",
-      "2008年",
-      "2003年"
+      "配角",
+      "路人",
+      "主角",
+      "客串"
     ],
     "options_en": [
-      "2006",
-      "2011",
-      "2008",
-      "2003"
+      "Supporting",
+      "Passerby",
+      "Main Character",
+      "Cameo"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「2006年」。",
-    "explanation_en": "The correct answer is '2006'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「主角」。",
+    "explanation_en": "The correct answer is 'Main Character'.",
     "difficulty": 2
   },
   {
     "id": 87,
-    "question_zh": "《我要成名》嘅導演係邊個？",
-    "question_en": "Who directed \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》嘅配樂好唔好？",
+    "question_en": "Is the soundtrack of \"My Name Is Fame\" good?",
     "options_zh": [
-      "劉國昌",
-      "杜琪峰",
-      "劉偉強",
-      "王晶"
+      "唔會",
+      "會，非常推薦",
+      "唔知",
+      "睇情況"
     ],
     "options_en": [
-      "劉國昌",
-      "Johnnie To",
-      "Andrew Lau",
-      "Wong Jing"
+      "No",
+      "Yes, highly recommended",
+      "Unknown",
+      "Depends"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「劉國昌」。",
-    "explanation_en": "The correct answer is '劉國昌'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 3
   },
   {
     "id": 88,
-    "question_zh": "《我要成名》嘅導演係邊個？",
-    "question_en": "Who directed \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》有冇主題曲？",
+    "question_en": "Does \"My Name Is Fame\" have a theme song?",
     "options_zh": [
-      "杜琪峰",
-      "劉偉強",
-      "劉國昌",
-      "王晶"
+      "參差",
+      "高質素",
+      "低質素",
+      "普通"
     ],
     "options_en": [
-      "Johnnie To",
-      "Andrew Lau",
-      "劉國昌",
-      "Wong Jing"
+      "Mixed",
+      "High quality",
+      "Low",
+      "Average"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「劉國昌」。",
-    "explanation_en": "The correct answer is '劉國昌'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 1
   },
   {
     "id": 89,
-    "question_zh": "《我要成名》嘅導演係邊個？",
-    "question_en": "Who directed \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》嘅插曲好聽嗎？",
+    "question_en": "Are the songs in \"My Name Is Fame\" good?",
     "options_zh": [
-      "劉偉強",
-      "王晶",
-      "杜琪峰",
-      "劉國昌"
+      "已經過氣",
+      "唔受歡迎",
+      "只喺本地",
+      "非常受歡迎"
     ],
     "options_en": [
-      "Andrew Lau",
-      "Wong Jing",
-      "Johnnie To",
-      "劉國昌"
+      "Outdated",
+      "Unpopular",
+      "Local only",
+      "Very popular"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「劉國昌」。",
-    "explanation_en": "The correct answer is '劉國昌'.",
+    "explanation_zh": "正確答案係「非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Very popular'.",
     "difficulty": 2
   },
   {
     "id": 90,
-    "question_zh": "《我要成名》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》嘅音樂係咩風格？",
+    "question_en": "What style is \"My Name Is Fame\" music?",
     "options_zh": [
-      "係",
-      "唔係",
-      "只係客串",
-      "唔知"
+      "唔知",
+      "有攞過獎",
+      "冇",
+      "只有提名"
     ],
     "options_en": [
-      "Yes",
+      "Unknown",
+      "Yes, won awards",
       "No",
-      "Cameo only",
-      "Unknown"
+      "Only nominated"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「有攞過獎」。",
+    "explanation_en": "The correct answer is 'Yes, won awards'.",
     "difficulty": 3
   },
   {
     "id": 91,
-    "question_zh": "《我要成名》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》喺邊度拍攝？",
+    "question_en": "Where was \"My Name Is Fame\" filmed?",
     "options_zh": [
-      "唔知",
-      "係",
-      "只係客串",
-      "唔係"
+      "其他演員B",
+      "其他演員A",
+      "劉青雲",
+      "其他演員C"
     ],
     "options_en": [
-      "Unknown",
-      "Yes",
-      "Cameo only",
-      "No"
+      "Actor B",
+      "Actor A",
+      "Sean Lau",
+      "Actor C"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「劉青雲」。",
+    "explanation_en": "The correct answer is 'Sean Lau'.",
     "difficulty": 1
   },
   {
     "id": 92,
-    "question_zh": "《我要成名》入面劉青雲係主角？",
-    "question_en": "Is Sean Lau the lead in \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》嘅拍攝地點係？",
+    "question_en": "What are the filming locations of \"My Name Is Fame\"?",
     "options_zh": [
-      "唔知",
-      "唔係",
-      "係",
-      "只係客串"
+      "體育賽事",
+      "音樂會",
+      "精彩故事",
+      "紀錄片"
     ],
     "options_en": [
-      "Unknown",
-      "No",
-      "Yes",
-      "Cameo only"
+      "Sports",
+      "Concert",
+      "Exciting story",
+      "Documentary"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「係」。",
-    "explanation_en": "The correct answer is 'Yes'.",
+    "explanation_zh": "正確答案係「精彩故事」。",
+    "explanation_en": "The correct answer is 'Exciting story'.",
     "difficulty": 2
   },
   {
     "id": 93,
-    "question_zh": "《我要成名》係邊度出品？",
-    "question_en": "Where was \"My Name Is Fame\" produced?",
+    "question_zh": "《我要成名》係喺香港拍？",
+    "question_en": "Was \"My Name Is Fame\" filmed in HK?",
     "options_zh": [
-      "中國",
-      "台灣",
-      "香港",
-      "美國"
+      "約4小時",
+      "約2小時",
+      "約30分鐘",
+      "約6小時"
     ],
     "options_en": [
-      "China",
-      "Taiwan",
-      "Hong Kong",
-      "USA"
+      "4 hours",
+      "About 2 hours",
+      "30 min",
+      "6 hours"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「約2小時」。",
+    "explanation_en": "The correct answer is 'About 2 hours'.",
     "difficulty": 3
   },
   {
     "id": 94,
-    "question_zh": "《我要成名》係邊度出品？",
-    "question_en": "Where was \"My Name Is Fame\" produced?",
+    "question_zh": "《我要成名》嘅場景喺邊度？",
+    "question_en": "Where are the scenes of \"My Name Is Fame\"?",
     "options_zh": [
-      "美國",
-      "台灣",
-      "香港",
-      "中國"
+      "2006s",
+      "1950s",
+      "1930s",
+      "2020s"
     ],
     "options_en": [
-      "USA",
-      "Taiwan",
-      "Hong Kong",
-      "China"
+      "2006s",
+      "1950s",
+      "1930s",
+      "2020s"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「2006s」。",
+    "explanation_en": "The correct answer is '2006s'.",
     "difficulty": 1
   },
   {
     "id": 95,
-    "question_zh": "《我要成名》係邊度出品？",
-    "question_en": "Where was \"My Name Is Fame\" produced?",
+    "question_zh": "《我要成名》去邊度取景？",
+    "question_en": "Where was \"My Name Is Fame\" shot?",
     "options_zh": [
-      "台灣",
-      "香港",
-      "美國",
-      "中國"
+      "英語",
+      "粵語",
+      "日語",
+      "韓語"
     ],
     "options_en": [
-      "Taiwan",
-      "Hong Kong",
-      "USA",
-      "China"
+      "English",
+      "Cantonese",
+      "Japanese",
+      "Korean"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「香港」。",
-    "explanation_en": "The correct answer is 'Hong Kong'.",
+    "explanation_zh": "正確答案係「粵語」。",
+    "explanation_en": "The correct answer is 'Cantonese'.",
     "difficulty": 2
   },
   {
     "id": 96,
-    "question_zh": "劉青雲喺《我要成名》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》對香港電影有咩影響？",
+    "question_en": "What impact did \"My Name Is Fame\" have?",
     "options_zh": [
-      "普通",
-      "唔好",
-      "麻麻地",
-      "非常出色"
+      "唔知",
+      "票房理想",
+      "冇上映",
+      "票房差"
     ],
     "options_en": [
-      "Average",
-      "Bad",
-      "So-so",
-      "Excellent"
+      "Unknown",
+      "Good box office",
+      "Not released",
+      "Poor"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「票房理想」。",
+    "explanation_en": "The correct answer is 'Good box office'.",
     "difficulty": 3
   },
   {
     "id": 97,
-    "question_zh": "劉青雲喺《我要成名》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》嘅歷史意義係？",
+    "question_en": "What is the historical significance of \"My Name Is Fame\"?",
     "options_zh": [
-      "非常出色",
-      "麻麻地",
-      "唔好",
-      "普通"
+      "冇續集",
+      "唔知",
+      "只有前傳",
+      "有續集"
     ],
     "options_en": [
-      "Excellent",
-      "So-so",
-      "Bad",
-      "Average"
+      "No sequel",
+      "Unknown",
+      "Only prequel",
+      "Yes, has sequel"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「有續集」。",
+    "explanation_en": "The correct answer is 'Yes, has sequel'.",
     "difficulty": 1
   },
   {
     "id": 98,
-    "question_zh": "劉青雲喺《我要成名》嘅表現如何？",
-    "question_en": "How is Sean Lau's performance in \"My Name Is Fame\"?",
+    "question_zh": "《我要成名》喺電影史上嘅地位？",
+    "question_en": "What is \"My Name Is Fame\"'s place in cinema?",
     "options_zh": [
-      "唔好",
-      "非常出色",
       "普通",
-      "麻麻地"
+      "冇音樂",
+      "差",
+      "好聽"
     ],
     "options_en": [
-      "Bad",
-      "Excellent",
       "Average",
-      "So-so"
+      "No music",
+      "Bad",
+      "Great music"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「非常出色」。",
-    "explanation_en": "The correct answer is 'Excellent'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「好聽」。",
+    "explanation_en": "The correct answer is 'Great music'.",
     "difficulty": 2
   },
   {
     "id": 99,
-    "question_zh": "你會推薦《我要成名》俾朋友？",
-    "question_en": "Would you recommend \"My Name Is Fame\" to friends?",
+    "question_zh": "《我要成名》改變咗咩？",
+    "question_en": "What did \"My Name Is Fame\" change?",
     "options_zh": [
-      "會，非常推薦",
-      "唔會",
-      "唔知",
-      "睇情況"
+      "香港",
+      "美國",
+      "日本",
+      "歐洲"
     ],
     "options_en": [
-      "Yes, highly recommended",
-      "No",
-      "Unknown",
-      "Depends"
+      "Hong Kong",
+      "USA",
+      "Japan",
+      "Europe"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
     "difficulty": 3
   },
   {
     "id": 100,
-    "question_zh": "你會推薦《我要成名》俾朋友？",
-    "question_en": "Would you recommend \"My Name Is Fame\" to friends?",
+    "question_zh": "《我要成名》嘅文化影響係？",
+    "question_en": "What is the cultural impact of \"My Name Is Fame\"?",
     "options_zh": [
-      "唔會",
       "唔知",
-      "會，非常推薦",
-      "睇情況"
+      "負面影響",
+      "冇影響",
+      "好大影響"
     ],
     "options_en": [
-      "No",
       "Unknown",
-      "Yes, highly recommended",
-      "Depends"
+      "Negative",
+      "No impact",
+      "Great impact"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「好大影響」。",
+    "explanation_en": "The correct answer is 'Great impact'.",
     "difficulty": 1
   }
 ]
