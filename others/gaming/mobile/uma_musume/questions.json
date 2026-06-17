@@ -1,695 +1,2102 @@
 [
   {
     "id": 1,
-    "question_zh": "《賽馬娘》係邊間公司開發？",
-    "question_en": "Who developed Uma Musume?",
+    "question_zh": "以下邊個係「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Which one is 'Uma Musume'?",
     "options_zh": [
-      "手機遊戲",
-      "Sony",
-      "Microsoft",
-      "Nintendo"
+      "其他A",
+      "其他B",
+      "其他C",
+      "《賽馬娘》係邊間公司開發？"
     ],
     "options_en": [
-      "手機遊戲",
-      "Sony",
-      "Microsoft",
-      "Nintendo"
+      "Other A",
+      "Other B",
+      "Other C",
+      "Uma Musume"
     ],
-    "answer": 0,
-    "explanation_zh": "《賽馬娘》係手機遊戲旗下遊戲。",
-    "explanation_en": "Uma Musume is a 手機遊戲 title.",
-    "difficulty": 1
+    "answer": 3,
+    "explanation_zh": "正確答案係「《賽馬娘》係邊間公司開發？」。",
+    "explanation_en": "The correct answer is 'Uma Musume'.",
+    "difficulty": 2
   },
   {
     "id": 2,
-    "question_zh": "《賽馬娘》屬於咩類型嘅遊戲？",
-    "question_en": "What genre is Uma Musume?",
+    "question_zh": "以下邊個係「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Which one is 'Uma Musume'?",
     "options_zh": [
-      "動作",
-      "冒險",
-      "射擊",
-      "角色扮演"
+      "其他A",
+      "其他B",
+      "《賽馬娘》係邊間公司開發？",
+      "其他C"
     ],
     "options_en": [
-      "動作",
-      "冒險",
-      "射擊",
-      "角色扮演"
+      "Other A",
+      "Other B",
+      "Uma Musume",
+      "Other C"
     ],
-    "answer": 1,
-    "explanation_zh": "《賽馬娘》係一款動作冒險遊戲。",
-    "explanation_en": "Uma Musume is an action-adventure game.",
-    "difficulty": 1
+    "answer": 2,
+    "explanation_zh": "正確答案係「《賽馬娘》係邊間公司開發？」。",
+    "explanation_en": "The correct answer is 'Uma Musume'.",
+    "difficulty": 3
   },
   {
     "id": 3,
-    "question_zh": "以下邊款係手機遊戲嘅遊戲？",
-    "question_en": "Which is a 手機遊戲 game?",
+    "question_zh": "以下邊個係「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Which one is 'Uma Musume'?",
     "options_zh": [
-      "Uma Musume",
-      "Other Game A",
-      "Other Game B",
-      "Other Game C"
+      "其他C",
+      "《賽馬娘》係邊間公司開發？",
+      "其他A",
+      "其他B"
     ],
     "options_en": [
+      "Other C",
       "Uma Musume",
-      "Other Game A",
-      "Other Game B",
-      "Other Game C"
+      "Other A",
+      "Other B"
     ],
-    "answer": 0,
-    "explanation_zh": "《賽馬娘》係手機遊戲遊戲。",
-    "explanation_en": "Uma Musume is a 手機遊戲 game.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「《賽馬娘》係邊間公司開發？」。",
+    "explanation_en": "The correct answer is 'Uma Musume'.",
     "difficulty": 1
   },
   {
     "id": 4,
-    "question_zh": "《賽馬娘》嘅評分大約係幾多？",
-    "question_en": "What's the approximate rating of Uma Musume?",
+    "question_zh": "以下邊個係「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Which one is 'Uma Musume'?",
     "options_zh": [
-      "6/10",
-      "7/10",
-      "8/10",
-      "9/10"
+      "其他A",
+      "其他C",
+      "其他B",
+      "《賽馬娘》係邊間公司開發？"
     ],
     "options_en": [
-      "6/10",
-      "7/10",
-      "8/10",
-      "9/10"
+      "Other A",
+      "Other C",
+      "Other B",
+      "Uma Musume"
     ],
-    "answer": 2,
-    "explanation_zh": "《賽馬娘》獲得好評。",
-    "explanation_en": "Uma Musume received positive reviews.",
-    "difficulty": 1
+    "answer": 3,
+    "explanation_zh": "正確答案係「《賽馬娘》係邊間公司開發？」。",
+    "explanation_en": "The correct answer is 'Uma Musume'.",
+    "difficulty": 2
   },
   {
     "id": 5,
-    "question_zh": "《賽馬娘》可以用邊個平台玩？",
-    "question_en": "Which platform can play Uma Musume?",
+    "question_zh": "「《賽馬娘》係邊間公司開發？」屬於邊種類型？",
+    "question_en": "What type is 'Uma Musume'?",
     "options_zh": [
-      "手機遊戲",
-      "PC",
-      "Mobile",
-      "以上皆是"
+      "類型A",
+      "類型C",
+      "類型B",
+      "手機遊戲"
     ],
     "options_en": [
-      "手機遊戲",
-      "PC",
-      "Mobile",
-      "以上皆是"
+      "Type A",
+      "Type C",
+      "Type B",
+      "手機遊戲"
     ],
     "answer": 3,
-    "explanation_zh": "《賽馬娘》支援多平台。",
-    "explanation_en": "Uma Musume is multi-platform.",
-    "difficulty": 1
+    "explanation_zh": "正確答案係「手機遊戲」。",
+    "explanation_en": "The correct answer is '手機遊戲'.",
+    "difficulty": 3
   },
   {
     "id": 6,
-    "question_zh": "《賽馬娘》嘅玩家人數上限係？",
-    "question_en": "What's the max player count for Uma Musume?",
+    "question_zh": "「《賽馬娘》係邊間公司開發？」屬於邊種類型？",
+    "question_en": "What type is 'Uma Musume'?",
     "options_zh": [
-      "1人",
-      "2人",
-      "4人",
-      "無限制"
+      "手機遊戲",
+      "類型B",
+      "類型C",
+      "類型A"
     ],
     "options_en": [
-      "1人",
-      "2人",
-      "4人",
-      "無限制"
+      "手機遊戲",
+      "Type B",
+      "Type C",
+      "Type A"
     ],
-    "answer": 2,
-    "explanation_zh": "《賽馬娘》支援多人模式。",
-    "explanation_en": "Uma Musume supports multiplayer.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「手機遊戲」。",
+    "explanation_en": "The correct answer is '手機遊戲'.",
     "difficulty": 1
   },
   {
     "id": 7,
-    "question_zh": "《賽馬娘》首發喺邊年？",
-    "question_en": "What year was Uma Musume first released?",
+    "question_zh": "「《賽馬娘》係邊間公司開發？」屬於邊種類型？",
+    "question_en": "What type is 'Uma Musume'?",
     "options_zh": [
-      "2015",
-      "2018",
-      "2020",
-      "2023"
+      "類型B",
+      "手機遊戲",
+      "類型A",
+      "類型C"
     ],
     "options_en": [
-      "2015",
-      "2018",
-      "2020",
-      "2023"
+      "Type B",
+      "手機遊戲",
+      "Type A",
+      "Type C"
     ],
     "answer": 1,
-    "explanation_zh": "《賽馬娘》喺2018年首發。",
-    "explanation_en": "Uma Musume was first released in 2018.",
-    "difficulty": 1
+    "explanation_zh": "正確答案係「手機遊戲」。",
+    "explanation_en": "The correct answer is '手機遊戲'.",
+    "difficulty": 2
   },
   {
     "id": 8,
-    "question_zh": "以下邊個角色出現喺《賽馬娘》？",
-    "question_en": "Which character appears in Uma Musume?",
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係咪好受歡迎？",
+    "question_en": "Is 'Uma Musume' popular?",
     "options_zh": [
-      "主角",
-      "配角A",
-      "配角B",
-      "配角C"
+      "只喺特定地區流行",
+      "唔係，好冷門",
+      "係，非常受歡迎",
+      "已經過氣"
     ],
     "options_en": [
-      "主角",
-      "配角A",
-      "配角B",
-      "配角C"
+      "Only popular locally",
+      "No, very niche",
+      "Yes, very popular",
+      "Outdated"
     ],
-    "answer": 0,
-    "explanation_zh": "主角係《賽馬娘》嘅核心角色。",
-    "explanation_en": "The protagonist is the core character.",
-    "difficulty": 1
+    "answer": 2,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 3
   },
   {
     "id": 9,
-    "question_zh": "「邊間公司開發」屬於咩類型？",
-    "question_en": "What genre is 'Uma Musume'?",
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係咪好受歡迎？",
+    "question_en": "Is 'Uma Musume' popular?",
     "options_zh": [
-      "類型A",
-      "類型B",
-      "類型C",
-      "類型D"
+      "係，非常受歡迎",
+      "只喺特定地區流行",
+      "唔係，好冷門",
+      "已經過氣"
     ],
     "options_en": [
-      "類型A",
-      "類型B",
-      "類型C",
-      "類型D"
+      "Yes, very popular",
+      "Only popular locally",
+      "No, very niche",
+      "Outdated"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係類型A。",
-    "explanation_en": "Correct answer: 類型A.",
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 1
   },
   {
     "id": 10,
-    "question_zh": "「邊間公司開發」喺邊年開始？",
-    "question_en": "When did 'Uma Musume' start?",
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係咪好受歡迎？",
+    "question_en": "Is 'Uma Musume' popular?",
     "options_zh": [
-      "2000",
-      "2005",
-      "2010",
-      "2015"
+      "唔係，好冷門",
+      "已經過氣",
+      "係，非常受歡迎",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "2000",
-      "2005",
-      "2010",
-      "2015"
+      "No, very niche",
+      "Outdated",
+      "Yes, very popular",
+      "Only popular locally"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係2000。",
-    "explanation_en": "Correct answer: 2000.",
-    "difficulty": 1
+    "answer": 2,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 2
   },
   {
     "id": 11,
-    "question_zh": "「邊間公司開發」來自邊個國家/地區？",
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係邊度嚟嘅？",
     "question_en": "Where is 'Uma Musume' from?",
     "options_zh": [
-      "香港",
-      "台灣",
-      "日本",
-      "韓國"
+      "美洲",
+      "非洲",
+      "歐洲",
+      "全球"
     ],
     "options_en": [
-      "香港",
-      "台灣",
-      "日本",
-      "韓國"
+      "Americas",
+      "Africa",
+      "Europe",
+      "Global"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係香港。",
-    "explanation_en": "Correct answer: 香港.",
-    "difficulty": 1
+    "answer": 3,
+    "explanation_zh": "正確答案係「全球」。",
+    "explanation_en": "The correct answer is 'Global'.",
+    "difficulty": 3
   },
   {
     "id": 12,
-    "question_zh": "「邊間公司開發」最出名嘅作品係？",
-    "question_en": "What's 'Uma Musume' most famous work?",
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係邊度嚟嘅？",
+    "question_en": "Where is 'Uma Musume' from?",
     "options_zh": [
-      "作品A",
-      "作品B",
-      "作品C",
-      "作品D"
+      "非洲",
+      "全球",
+      "美洲",
+      "歐洲"
     ],
     "options_en": [
-      "作品A",
-      "作品B",
-      "作品C",
-      "作品D"
+      "Africa",
+      "Global",
+      "Americas",
+      "Europe"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係作品A。",
-    "explanation_en": "Correct answer: 作品A.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「全球」。",
+    "explanation_en": "The correct answer is 'Global'.",
     "difficulty": 1
   },
   {
     "id": 13,
-    "question_zh": "「邊間公司開發」嘅風格特點係？",
-    "question_en": "What's 'Uma Musume' style?",
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係邊度嚟嘅？",
+    "question_en": "Where is 'Uma Musume' from?",
     "options_zh": [
-      "風格A",
-      "風格B",
-      "風格C",
-      "風格D"
+      "歐洲",
+      "非洲",
+      "全球",
+      "美洲"
     ],
     "options_en": [
-      "風格A",
-      "風格B",
-      "風格C",
-      "風格D"
+      "Europe",
+      "Africa",
+      "Global",
+      "Americas"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係風格A。",
-    "explanation_en": "Correct answer: 風格A.",
-    "difficulty": 1
+    "answer": 2,
+    "explanation_zh": "正確答案係「全球」。",
+    "explanation_en": "The correct answer is 'Global'.",
+    "difficulty": 2
   },
   {
     "id": 14,
-    "question_zh": "「邊間公司開發」同邊位合作過？",
-    "question_en": "Who collaborated with 'Uma Musume'?",
+    "question_zh": "「《賽馬娘》係邊間公司開發？」有咩特色？",
+    "question_en": "What is special about 'Uma Musume'?",
     "options_zh": [
-      "合作A",
-      "合作B",
-      "合作C",
-      "合作D"
+      "冇特色",
+      "獨特風格",
+      "已經過時",
+      "好普通"
     ],
     "options_en": [
-      "合作A",
-      "合作B",
-      "合作C",
-      "合作D"
+      "No special features",
+      "Unique style",
+      "Outdated",
+      "Very ordinary"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係合作A。",
-    "explanation_en": "Correct answer: 合作A.",
-    "difficulty": 1
+    "answer": 1,
+    "explanation_zh": "正確答案係「獨特風格」。",
+    "explanation_en": "The correct answer is 'Unique style'.",
+    "difficulty": 3
   },
   {
     "id": 15,
-    "question_zh": "「邊間公司開發」嘅粉絲叫咩？",
-    "question_en": "What are 'Uma Musume' fans called?",
+    "question_zh": "「《賽馬娘》係邊間公司開發？」有咩特色？",
+    "question_en": "What is special about 'Uma Musume'?",
     "options_zh": [
-      "粉絲名A",
-      "粉絲名B",
-      "粉絲名C",
-      "粉絲名D"
+      "獨特風格",
+      "已經過時",
+      "冇特色",
+      "好普通"
     ],
     "options_en": [
-      "粉絲名A",
-      "粉絲名B",
-      "粉絲名C",
-      "粉絲名D"
+      "Unique style",
+      "Outdated",
+      "No special features",
+      "Very ordinary"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係粉絲名A。",
-    "explanation_en": "Correct answer: 粉絲名A.",
+    "explanation_zh": "正確答案係「獨特風格」。",
+    "explanation_en": "The correct answer is 'Unique style'.",
     "difficulty": 1
   },
   {
     "id": 16,
-    "question_zh": "「邊間公司開發」喺邊個平台最活躍？",
-    "question_en": "Which platform is 'Uma Musume' most active on?",
+    "question_zh": "「《賽馬娘》係邊間公司開發？」有咩特色？",
+    "question_en": "What is special about 'Uma Musume'?",
     "options_zh": [
-      "YouTube",
-      "Instagram",
-      "Twitter",
-      "TikTok"
+      "已經過時",
+      "好普通",
+      "冇特色",
+      "獨特風格"
     ],
     "options_en": [
-      "YouTube",
-      "Instagram",
-      "Twitter",
-      "TikTok"
+      "Outdated",
+      "Very ordinary",
+      "No special features",
+      "Unique style"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係YouTube。",
-    "explanation_en": "Correct answer: YouTube.",
-    "difficulty": 1
+    "answer": 3,
+    "explanation_zh": "正確答案係「獨特風格」。",
+    "explanation_en": "The correct answer is 'Unique style'.",
+    "difficulty": 2
   },
   {
     "id": 17,
-    "question_zh": "「邊間公司開發」嘅出道作品係？",
-    "question_en": "What's 'Uma Musume' debut work?",
+    "question_zh": "你會唔會推薦「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Would you recommend 'Uma Musume'?",
     "options_zh": [
-      "出道作A",
-      "出道作B",
-      "出道作C",
-      "出道作D"
+      "睇情況",
+      "唔確定",
+      "唔會",
+      "會，非常推薦"
     ],
     "options_en": [
-      "出道作A",
-      "出道作B",
-      "出道作C",
-      "出道作D"
+      "It depends",
+      "Not sure",
+      "No",
+      "Yes, highly recommended"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係出道作A。",
-    "explanation_en": "Correct answer: 出道作A.",
-    "difficulty": 2
+    "answer": 3,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
   },
   {
     "id": 18,
-    "question_zh": "「邊間公司開發」有冇拎過獎？",
-    "question_en": "Did 'Uma Musume' win awards?",
+    "question_zh": "你會唔會推薦「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Would you recommend 'Uma Musume'?",
     "options_zh": [
-      "有",
-      "冇",
-      "提名過",
-      "唔清楚"
+      "唔會",
+      "唔確定",
+      "會，非常推薦",
+      "睇情況"
     ],
     "options_en": [
-      "有",
-      "冇",
-      "提名過",
-      "唔清楚"
+      "No",
+      "Not sure",
+      "Yes, highly recommended",
+      "It depends"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係有。",
-    "explanation_en": "Correct answer: 有.",
-    "difficulty": 2
+    "answer": 2,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
   },
   {
     "id": 19,
-    "question_zh": "「邊間公司開發」嘅活躍年份係？",
-    "question_en": "What years was 'Uma Musume' active?",
+    "question_zh": "你會唔會推薦「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Would you recommend 'Uma Musume'?",
     "options_zh": [
-      "2000年代",
-      "2010年代",
-      "2020年代",
-      "1990年代"
+      "睇情況",
+      "唔確定",
+      "會，非常推薦",
+      "唔會"
     ],
     "options_en": [
-      "2000年代",
-      "2010年代",
-      "2020年代",
-      "1990年代"
+      "It depends",
+      "Not sure",
+      "Yes, highly recommended",
+      "No"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係2000年代。",
-    "explanation_en": "Correct answer: 2000年代.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 2
   },
   {
     "id": 20,
-    "question_zh": "「邊間公司開發」嘅代表顏色係？",
-    "question_en": "What's 'Uma Musume' representative color?",
+    "question_zh": "「《賽馬娘》係邊間公司開發？」適合邊種人？",
+    "question_en": "Who is 'Uma Musume' suitable for?",
     "options_zh": [
-      "紅色",
-      "藍色",
-      "綠色",
-      "紫色"
+      "只適合兒童",
+      "所有人",
+      "只適合成人",
+      "只適合專業人士"
     ],
     "options_en": [
-      "紅色",
-      "藍色",
-      "綠色",
-      "紫色"
+      "Only children",
+      "Everyone",
+      "Only adults",
+      "Only professionals"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係紅色。",
-    "explanation_en": "Correct answer: 紅色.",
-    "difficulty": 2
+    "answer": 1,
+    "explanation_zh": "正確答案係「所有人」。",
+    "explanation_en": "The correct answer is 'Everyone'.",
+    "difficulty": 3
   },
   {
     "id": 21,
-    "question_zh": "「邊間公司開發」嘅口頭禪係？",
-    "question_en": "What's 'Uma Musume' catchphrase?",
+    "question_zh": "「《賽馬娘》係邊間公司開發？」適合邊種人？",
+    "question_en": "Who is 'Uma Musume' suitable for?",
     "options_zh": [
-      "口頭禪A",
-      "口頭禪B",
-      "口頭禪C",
-      "口頭禪D"
+      "只適合專業人士",
+      "所有人",
+      "只適合成人",
+      "只適合兒童"
     ],
     "options_en": [
-      "口頭禪A",
-      "口頭禪B",
-      "口頭禪C",
-      "口頭禪D"
+      "Only professionals",
+      "Everyone",
+      "Only adults",
+      "Only children"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係口頭禪A。",
-    "explanation_en": "Correct answer: 口頭禪A.",
-    "difficulty": 2
+    "answer": 1,
+    "explanation_zh": "正確答案係「所有人」。",
+    "explanation_en": "The correct answer is 'Everyone'.",
+    "difficulty": 1
   },
   {
     "id": 22,
-    "question_zh": "「邊間公司開發」嘅身高係？",
-    "question_en": "What's 'Uma Musume' height?",
+    "question_zh": "「《賽馬娘》係邊間公司開發？」適合邊種人？",
+    "question_en": "Who is 'Uma Musume' suitable for?",
     "options_zh": [
-      "170cm",
-      "175cm",
-      "180cm",
-      "185cm"
+      "只適合兒童",
+      "所有人",
+      "只適合成人",
+      "只適合專業人士"
     ],
     "options_en": [
-      "170cm",
-      "175cm",
-      "180cm",
-      "185cm"
+      "Only children",
+      "Everyone",
+      "Only adults",
+      "Only professionals"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係170cm。",
-    "explanation_en": "Correct answer: 170cm.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「所有人」。",
+    "explanation_en": "The correct answer is 'Everyone'.",
     "difficulty": 2
   },
   {
     "id": 23,
-    "question_zh": "「邊間公司開發」嘅生日係？",
-    "question_en": "When is 'Uma Musume' birthday?",
+    "question_zh": "「《賽馬娘》係邊間公司開發？」嘅質素如何？",
+    "question_en": "What is the quality of 'Uma Musume'?",
     "options_zh": [
-      "1月",
-      "4月",
-      "7月",
-      "10月"
+      "普通",
+      "參差",
+      "高質素",
+      "低質素"
     ],
     "options_en": [
-      "1月",
-      "4月",
-      "7月",
-      "10月"
+      "Average",
+      "Mixed",
+      "High quality",
+      "Low quality"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係1月。",
-    "explanation_en": "Correct answer: 1月.",
-    "difficulty": 2
+    "answer": 2,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
+    "difficulty": 3
   },
   {
     "id": 24,
-    "question_zh": "「邊間公司開發」嘅經紀公司係？",
-    "question_en": "What agency is 'Uma Musume' with?",
+    "question_zh": "「《賽馬娘》係邊間公司開發？」嘅質素如何？",
+    "question_en": "What is the quality of 'Uma Musume'?",
     "options_zh": [
-      "公司A",
-      "公司B",
-      "公司C",
-      "公司D"
+      "低質素",
+      "普通",
+      "高質素",
+      "參差"
     ],
     "options_en": [
-      "公司A",
-      "公司B",
-      "公司C",
-      "公司D"
+      "Low quality",
+      "Average",
+      "High quality",
+      "Mixed"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係公司A。",
-    "explanation_en": "Correct answer: 公司A.",
-    "difficulty": 2
+    "answer": 2,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
+    "difficulty": 1
   },
   {
     "id": 25,
-    "question_zh": "「邊間公司開發」嘅座右銘係？",
-    "question_en": "What's 'Uma Musume' motto?",
+    "question_zh": "你對「《賽馬娘》係邊間公司開發？」嘅整體印象係？",
+    "question_en": "What is your overall impression of 'Uma Musume'?",
     "options_zh": [
-      "座右銘A",
-      "座右銘B",
-      "座右銘C",
-      "座右銘D"
+      "非常好",
+      "一般",
+      "唔好",
+      "冇印象"
     ],
     "options_en": [
-      "座右銘A",
-      "座右銘B",
-      "座右銘C",
-      "座右銘D"
+      "Very good",
+      "Average",
+      "Not good",
+      "No impression"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係座右銘A。",
-    "explanation_en": "Correct answer: 座右銘A.",
+    "explanation_zh": "正確答案係「非常好」。",
+    "explanation_en": "The correct answer is 'Very good'.",
     "difficulty": 2
   },
   {
     "id": 26,
-    "question_zh": "「邊間公司開發」嘅教育背景係？",
-    "question_en": "What's 'Uma Musume' education?",
+    "question_zh": "以下邊個係「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Which one is 'Uma Musume'?",
     "options_zh": [
-      "大學畢業",
-      "高中畢業",
-      "自學成才",
-      "海外留學"
+      "其他C",
+      "《賽馬娘》係邊間公司開發？",
+      "其他A",
+      "其他B"
     ],
     "options_en": [
-      "大學畢業",
-      "高中畢業",
-      "自學成才",
-      "海外留學"
+      "Other C",
+      "Uma Musume",
+      "Other A",
+      "Other B"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係大學畢業。",
-    "explanation_en": "Correct answer: 大學畢業.",
-    "difficulty": 2
+    "answer": 1,
+    "explanation_zh": "正確答案係「《賽馬娘》係邊間公司開發？」。",
+    "explanation_en": "The correct answer is 'Uma Musume'.",
+    "difficulty": 3
   },
   {
     "id": 27,
-    "question_zh": "「邊間公司開發」嘅家庭背景係？",
-    "question_en": "What's 'Uma Musume' family background?",
+    "question_zh": "以下邊個係「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Which one is 'Uma Musume'?",
     "options_zh": [
-      "普通家庭",
-      "演藝世家",
-      "商界家庭",
-      "學術家庭"
+      "其他C",
+      "其他A",
+      "其他B",
+      "《賽馬娘》係邊間公司開發？"
     ],
     "options_en": [
-      "普通家庭",
-      "演藝世家",
-      "商界家庭",
-      "學術家庭"
+      "Other C",
+      "Other A",
+      "Other B",
+      "Uma Musume"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係普通家庭。",
-    "explanation_en": "Correct answer: 普通家庭.",
-    "difficulty": 3
+    "answer": 3,
+    "explanation_zh": "正確答案係「《賽馬娘》係邊間公司開發？」。",
+    "explanation_en": "The correct answer is 'Uma Musume'.",
+    "difficulty": 1
   },
   {
     "id": 28,
-    "question_zh": "「邊間公司開發」嘅興趣愛好係？",
-    "question_en": "What's 'Uma Musume' hobby?",
+    "question_zh": "以下邊個係「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Which one is 'Uma Musume'?",
     "options_zh": [
-      "運動",
-      "閱讀",
-      "旅行",
-      "攝影"
+      "其他A",
+      "其他C",
+      "《賽馬娘》係邊間公司開發？",
+      "其他B"
     ],
     "options_en": [
-      "運動",
-      "閱讀",
-      "旅行",
-      "攝影"
+      "Other A",
+      "Other C",
+      "Uma Musume",
+      "Other B"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係運動。",
-    "explanation_en": "Correct answer: 運動.",
-    "difficulty": 3
+    "answer": 2,
+    "explanation_zh": "正確答案係「《賽馬娘》係邊間公司開發？」。",
+    "explanation_en": "The correct answer is 'Uma Musume'.",
+    "difficulty": 2
   },
   {
     "id": 29,
-    "question_zh": "「邊間公司開發」嘅社交媒體粉絲數？",
-    "question_en": "How many social media followers for 'Uma Musume'?",
+    "question_zh": "以下邊個係「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Which one is 'Uma Musume'?",
     "options_zh": [
-      "100萬以下",
-      "100-500萬",
-      "500-1000萬",
-      "1000萬以上"
+      "《賽馬娘》係邊間公司開發？",
+      "其他B",
+      "其他C",
+      "其他A"
     ],
     "options_en": [
-      "100萬以下",
-      "100-500萬",
-      "500-1000萬",
-      "1000萬以上"
+      "Uma Musume",
+      "Other B",
+      "Other C",
+      "Other A"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係100萬以下。",
-    "explanation_en": "Correct answer: 100萬以下.",
+    "explanation_zh": "正確答案係「《賽馬娘》係邊間公司開發？」。",
+    "explanation_en": "The correct answer is 'Uma Musume'.",
     "difficulty": 3
   },
   {
     "id": 30,
-    "question_zh": "「邊間公司開發」嘅演唱會/展覽次數？",
-    "question_en": "How many concerts/exhibitions for 'Uma Musume'?",
+    "question_zh": "「《賽馬娘》係邊間公司開發？」屬於邊種類型？",
+    "question_en": "What type is 'Uma Musume'?",
     "options_zh": [
-      "10場以下",
-      "10-50場",
-      "50-100場",
-      "100場以上"
+      "手機遊戲",
+      "類型C",
+      "類型B",
+      "類型A"
     ],
     "options_en": [
-      "10場以下",
-      "10-50場",
-      "50-100場",
-      "100場以上"
+      "手機遊戲",
+      "Type C",
+      "Type B",
+      "Type A"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係10場以下。",
-    "explanation_en": "Correct answer: 10場以下.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「手機遊戲」。",
+    "explanation_en": "The correct answer is '手機遊戲'.",
+    "difficulty": 1
   },
   {
     "id": 31,
-    "question_zh": "「邊間公司開發」嘅專輯/作品數量？",
-    "question_en": "How many albums/works for 'Uma Musume'?",
+    "question_zh": "「《賽馬娘》係邊間公司開發？」屬於邊種類型？",
+    "question_en": "What type is 'Uma Musume'?",
     "options_zh": [
-      "5個以下",
-      "5-10個",
-      "10-20個",
-      "20個以上"
+      "類型B",
+      "類型A",
+      "手機遊戲",
+      "類型C"
     ],
     "options_en": [
-      "5個以下",
-      "5-10個",
-      "10-20個",
-      "20個以上"
+      "Type B",
+      "Type A",
+      "手機遊戲",
+      "Type C"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係5個以下。",
-    "explanation_en": "Correct answer: 5個以下.",
-    "difficulty": 3
+    "answer": 2,
+    "explanation_zh": "正確答案係「手機遊戲」。",
+    "explanation_en": "The correct answer is '手機遊戲'.",
+    "difficulty": 2
   },
   {
     "id": 32,
-    "question_zh": "「邊間公司開發」嘅音樂/作品風格？",
-    "question_en": "What's 'Uma Musume' creative style?",
+    "question_zh": "「《賽馬娘》係邊間公司開發？」屬於邊種類型？",
+    "question_en": "What type is 'Uma Musume'?",
     "options_zh": [
-      "傳統",
-      "現代",
-      "實驗",
-      "融合"
+      "類型B",
+      "類型C",
+      "手機遊戲",
+      "類型A"
     ],
     "options_en": [
-      "傳統",
-      "現代",
-      "實驗",
-      "融合"
+      "Type B",
+      "Type C",
+      "手機遊戲",
+      "Type A"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係傳統。",
-    "explanation_en": "Correct answer: 傳統.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「手機遊戲」。",
+    "explanation_en": "The correct answer is '手機遊戲'.",
     "difficulty": 3
   },
   {
     "id": 33,
-    "question_zh": "「邊間公司開發」嘅影響力範圍？",
-    "question_en": "What's 'Uma Musume' influence scope?",
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係咪好受歡迎？",
+    "question_en": "Is 'Uma Musume' popular?",
     "options_zh": [
-      "本地",
-      "亞洲",
-      "全球",
-      "網絡"
+      "係，非常受歡迎",
+      "只喺特定地區流行",
+      "已經過氣",
+      "唔係，好冷門"
     ],
     "options_en": [
-      "本地",
-      "亞洲",
-      "全球",
-      "網絡"
+      "Yes, very popular",
+      "Only popular locally",
+      "Outdated",
+      "No, very niche"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係本地。",
-    "explanation_en": "Correct answer: 本地.",
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係咪好受歡迎？",
+    "question_en": "Is 'Uma Musume' popular?",
+    "options_zh": [
+      "係，非常受歡迎",
+      "只喺特定地區流行",
+      "已經過氣",
+      "唔係，好冷門"
+    ],
+    "options_en": [
+      "Yes, very popular",
+      "Only popular locally",
+      "Outdated",
+      "No, very niche"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係咪好受歡迎？",
+    "question_en": "Is 'Uma Musume' popular?",
+    "options_zh": [
+      "已經過氣",
+      "唔係，好冷門",
+      "只喺特定地區流行",
+      "係，非常受歡迎"
+    ],
+    "options_en": [
+      "Outdated",
+      "No, very niche",
+      "Only popular locally",
+      "Yes, very popular"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
+  },
+  {
+    "id": 36,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係邊度嚟嘅？",
+    "question_en": "Where is 'Uma Musume' from?",
+    "options_zh": [
+      "美洲",
+      "全球",
+      "非洲",
+      "歐洲"
+    ],
+    "options_en": [
+      "Americas",
+      "Global",
+      "Africa",
+      "Europe"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「全球」。",
+    "explanation_en": "The correct answer is 'Global'.",
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係邊度嚟嘅？",
+    "question_en": "Where is 'Uma Musume' from?",
+    "options_zh": [
+      "全球",
+      "非洲",
+      "美洲",
+      "歐洲"
+    ],
+    "options_en": [
+      "Global",
+      "Africa",
+      "Americas",
+      "Europe"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「全球」。",
+    "explanation_en": "The correct answer is 'Global'.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係邊度嚟嘅？",
+    "question_en": "Where is 'Uma Musume' from?",
+    "options_zh": [
+      "歐洲",
+      "美洲",
+      "非洲",
+      "全球"
+    ],
+    "options_en": [
+      "Europe",
+      "Americas",
+      "Africa",
+      "Global"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「全球」。",
+    "explanation_en": "The correct answer is 'Global'.",
+    "difficulty": 3
+  },
+  {
+    "id": 39,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」有咩特色？",
+    "question_en": "What is special about 'Uma Musume'?",
+    "options_zh": [
+      "獨特風格",
+      "已經過時",
+      "冇特色",
+      "好普通"
+    ],
+    "options_en": [
+      "Unique style",
+      "Outdated",
+      "No special features",
+      "Very ordinary"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「獨特風格」。",
+    "explanation_en": "The correct answer is 'Unique style'.",
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」有咩特色？",
+    "question_en": "What is special about 'Uma Musume'?",
+    "options_zh": [
+      "獨特風格",
+      "冇特色",
+      "好普通",
+      "已經過時"
+    ],
+    "options_en": [
+      "Unique style",
+      "No special features",
+      "Very ordinary",
+      "Outdated"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「獨特風格」。",
+    "explanation_en": "The correct answer is 'Unique style'.",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」有咩特色？",
+    "question_en": "What is special about 'Uma Musume'?",
+    "options_zh": [
+      "已經過時",
+      "獨特風格",
+      "冇特色",
+      "好普通"
+    ],
+    "options_en": [
+      "Outdated",
+      "Unique style",
+      "No special features",
+      "Very ordinary"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「獨特風格」。",
+    "explanation_en": "The correct answer is 'Unique style'.",
+    "difficulty": 3
+  },
+  {
+    "id": 42,
+    "question_zh": "你會唔會推薦「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Would you recommend 'Uma Musume'?",
+    "options_zh": [
+      "睇情況",
+      "會，非常推薦",
+      "唔確定",
+      "唔會"
+    ],
+    "options_en": [
+      "It depends",
+      "Yes, highly recommended",
+      "Not sure",
+      "No"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question_zh": "你會唔會推薦「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Would you recommend 'Uma Musume'?",
+    "options_zh": [
+      "會，非常推薦",
+      "唔會",
+      "睇情況",
+      "唔確定"
+    ],
+    "options_en": [
+      "Yes, highly recommended",
+      "No",
+      "It depends",
+      "Not sure"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 2
+  },
+  {
+    "id": 44,
+    "question_zh": "你會唔會推薦「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Would you recommend 'Uma Musume'?",
+    "options_zh": [
+      "會，非常推薦",
+      "睇情況",
+      "唔會",
+      "唔確定"
+    ],
+    "options_en": [
+      "Yes, highly recommended",
+      "It depends",
+      "No",
+      "Not sure"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
+  },
+  {
+    "id": 45,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」適合邊種人？",
+    "question_en": "Who is 'Uma Musume' suitable for?",
+    "options_zh": [
+      "只適合專業人士",
+      "只適合成人",
+      "所有人",
+      "只適合兒童"
+    ],
+    "options_en": [
+      "Only professionals",
+      "Only adults",
+      "Everyone",
+      "Only children"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「所有人」。",
+    "explanation_en": "The correct answer is 'Everyone'.",
+    "difficulty": 1
+  },
+  {
+    "id": 46,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」適合邊種人？",
+    "question_en": "Who is 'Uma Musume' suitable for?",
+    "options_zh": [
+      "只適合成人",
+      "只適合兒童",
+      "所有人",
+      "只適合專業人士"
+    ],
+    "options_en": [
+      "Only adults",
+      "Only children",
+      "Everyone",
+      "Only professionals"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「所有人」。",
+    "explanation_en": "The correct answer is 'Everyone'.",
+    "difficulty": 2
+  },
+  {
+    "id": 47,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」適合邊種人？",
+    "question_en": "Who is 'Uma Musume' suitable for?",
+    "options_zh": [
+      "只適合成人",
+      "所有人",
+      "只適合專業人士",
+      "只適合兒童"
+    ],
+    "options_en": [
+      "Only adults",
+      "Everyone",
+      "Only professionals",
+      "Only children"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「所有人」。",
+    "explanation_en": "The correct answer is 'Everyone'.",
+    "difficulty": 3
+  },
+  {
+    "id": 48,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」嘅質素如何？",
+    "question_en": "What is the quality of 'Uma Musume'?",
+    "options_zh": [
+      "低質素",
+      "普通",
+      "高質素",
+      "參差"
+    ],
+    "options_en": [
+      "Low quality",
+      "Average",
+      "High quality",
+      "Mixed"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」嘅質素如何？",
+    "question_en": "What is the quality of 'Uma Musume'?",
+    "options_zh": [
+      "高質素",
+      "參差",
+      "普通",
+      "低質素"
+    ],
+    "options_en": [
+      "High quality",
+      "Mixed",
+      "Average",
+      "Low quality"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
+    "difficulty": 2
+  },
+  {
+    "id": 50,
+    "question_zh": "你對「《賽馬娘》係邊間公司開發？」嘅整體印象係？",
+    "question_en": "What is your overall impression of 'Uma Musume'?",
+    "options_zh": [
+      "一般",
+      "唔好",
+      "冇印象",
+      "非常好"
+    ],
+    "options_en": [
+      "Average",
+      "Not good",
+      "No impression",
+      "Very good"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常好」。",
+    "explanation_en": "The correct answer is 'Very good'.",
+    "difficulty": 3
+  },
+  {
+    "id": 51,
+    "question_zh": "以下邊個係「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Which one is 'Uma Musume'?",
+    "options_zh": [
+      "其他A",
+      "其他B",
+      "《賽馬娘》係邊間公司開發？",
+      "其他C"
+    ],
+    "options_en": [
+      "Other A",
+      "Other B",
+      "Uma Musume",
+      "Other C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「《賽馬娘》係邊間公司開發？」。",
+    "explanation_en": "The correct answer is 'Uma Musume'.",
+    "difficulty": 1
+  },
+  {
+    "id": 52,
+    "question_zh": "以下邊個係「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Which one is 'Uma Musume'?",
+    "options_zh": [
+      "其他A",
+      "《賽馬娘》係邊間公司開發？",
+      "其他B",
+      "其他C"
+    ],
+    "options_en": [
+      "Other A",
+      "Uma Musume",
+      "Other B",
+      "Other C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「《賽馬娘》係邊間公司開發？」。",
+    "explanation_en": "The correct answer is 'Uma Musume'.",
+    "difficulty": 2
+  },
+  {
+    "id": 53,
+    "question_zh": "以下邊個係「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Which one is 'Uma Musume'?",
+    "options_zh": [
+      "其他C",
+      "其他B",
+      "其他A",
+      "《賽馬娘》係邊間公司開發？"
+    ],
+    "options_en": [
+      "Other C",
+      "Other B",
+      "Other A",
+      "Uma Musume"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「《賽馬娘》係邊間公司開發？」。",
+    "explanation_en": "The correct answer is 'Uma Musume'.",
+    "difficulty": 3
+  },
+  {
+    "id": 54,
+    "question_zh": "以下邊個係「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Which one is 'Uma Musume'?",
+    "options_zh": [
+      "其他B",
+      "《賽馬娘》係邊間公司開發？",
+      "其他C",
+      "其他A"
+    ],
+    "options_en": [
+      "Other B",
+      "Uma Musume",
+      "Other C",
+      "Other A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「《賽馬娘》係邊間公司開發？」。",
+    "explanation_en": "The correct answer is 'Uma Musume'.",
+    "difficulty": 1
+  },
+  {
+    "id": 55,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」屬於邊種類型？",
+    "question_en": "What type is 'Uma Musume'?",
+    "options_zh": [
+      "類型A",
+      "手機遊戲",
+      "類型C",
+      "類型B"
+    ],
+    "options_en": [
+      "Type A",
+      "手機遊戲",
+      "Type C",
+      "Type B"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「手機遊戲」。",
+    "explanation_en": "The correct answer is '手機遊戲'.",
+    "difficulty": 2
+  },
+  {
+    "id": 56,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」屬於邊種類型？",
+    "question_en": "What type is 'Uma Musume'?",
+    "options_zh": [
+      "類型B",
+      "手機遊戲",
+      "類型A",
+      "類型C"
+    ],
+    "options_en": [
+      "Type B",
+      "手機遊戲",
+      "Type A",
+      "Type C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「手機遊戲」。",
+    "explanation_en": "The correct answer is '手機遊戲'.",
+    "difficulty": 3
+  },
+  {
+    "id": 57,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」屬於邊種類型？",
+    "question_en": "What type is 'Uma Musume'?",
+    "options_zh": [
+      "類型B",
+      "類型A",
+      "手機遊戲",
+      "類型C"
+    ],
+    "options_en": [
+      "Type B",
+      "Type A",
+      "手機遊戲",
+      "Type C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「手機遊戲」。",
+    "explanation_en": "The correct answer is '手機遊戲'.",
+    "difficulty": 1
+  },
+  {
+    "id": 58,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係咪好受歡迎？",
+    "question_en": "Is 'Uma Musume' popular?",
+    "options_zh": [
+      "係，非常受歡迎",
+      "唔係，好冷門",
+      "只喺特定地區流行",
+      "已經過氣"
+    ],
+    "options_en": [
+      "Yes, very popular",
+      "No, very niche",
+      "Only popular locally",
+      "Outdated"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 2
+  },
+  {
+    "id": 59,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係咪好受歡迎？",
+    "question_en": "Is 'Uma Musume' popular?",
+    "options_zh": [
+      "唔係，好冷門",
+      "係，非常受歡迎",
+      "只喺特定地區流行",
+      "已經過氣"
+    ],
+    "options_en": [
+      "No, very niche",
+      "Yes, very popular",
+      "Only popular locally",
+      "Outdated"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 3
+  },
+  {
+    "id": 60,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係咪好受歡迎？",
+    "question_en": "Is 'Uma Musume' popular?",
+    "options_zh": [
+      "唔係，好冷門",
+      "係，非常受歡迎",
+      "已經過氣",
+      "只喺特定地區流行"
+    ],
+    "options_en": [
+      "No, very niche",
+      "Yes, very popular",
+      "Outdated",
+      "Only popular locally"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 1
+  },
+  {
+    "id": 61,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係邊度嚟嘅？",
+    "question_en": "Where is 'Uma Musume' from?",
+    "options_zh": [
+      "全球",
+      "美洲",
+      "非洲",
+      "歐洲"
+    ],
+    "options_en": [
+      "Global",
+      "Americas",
+      "Africa",
+      "Europe"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「全球」。",
+    "explanation_en": "The correct answer is 'Global'.",
+    "difficulty": 2
+  },
+  {
+    "id": 62,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係邊度嚟嘅？",
+    "question_en": "Where is 'Uma Musume' from?",
+    "options_zh": [
+      "歐洲",
+      "美洲",
+      "非洲",
+      "全球"
+    ],
+    "options_en": [
+      "Europe",
+      "Americas",
+      "Africa",
+      "Global"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「全球」。",
+    "explanation_en": "The correct answer is 'Global'.",
+    "difficulty": 3
+  },
+  {
+    "id": 63,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係邊度嚟嘅？",
+    "question_en": "Where is 'Uma Musume' from?",
+    "options_zh": [
+      "非洲",
+      "歐洲",
+      "美洲",
+      "全球"
+    ],
+    "options_en": [
+      "Africa",
+      "Europe",
+      "Americas",
+      "Global"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「全球」。",
+    "explanation_en": "The correct answer is 'Global'.",
+    "difficulty": 1
+  },
+  {
+    "id": 64,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」有咩特色？",
+    "question_en": "What is special about 'Uma Musume'?",
+    "options_zh": [
+      "好普通",
+      "冇特色",
+      "已經過時",
+      "獨特風格"
+    ],
+    "options_en": [
+      "Very ordinary",
+      "No special features",
+      "Outdated",
+      "Unique style"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「獨特風格」。",
+    "explanation_en": "The correct answer is 'Unique style'.",
+    "difficulty": 2
+  },
+  {
+    "id": 65,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」有咩特色？",
+    "question_en": "What is special about 'Uma Musume'?",
+    "options_zh": [
+      "好普通",
+      "已經過時",
+      "獨特風格",
+      "冇特色"
+    ],
+    "options_en": [
+      "Very ordinary",
+      "Outdated",
+      "Unique style",
+      "No special features"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「獨特風格」。",
+    "explanation_en": "The correct answer is 'Unique style'.",
+    "difficulty": 3
+  },
+  {
+    "id": 66,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」有咩特色？",
+    "question_en": "What is special about 'Uma Musume'?",
+    "options_zh": [
+      "獨特風格",
+      "好普通",
+      "已經過時",
+      "冇特色"
+    ],
+    "options_en": [
+      "Unique style",
+      "Very ordinary",
+      "Outdated",
+      "No special features"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「獨特風格」。",
+    "explanation_en": "The correct answer is 'Unique style'.",
+    "difficulty": 1
+  },
+  {
+    "id": 67,
+    "question_zh": "你會唔會推薦「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Would you recommend 'Uma Musume'?",
+    "options_zh": [
+      "唔確定",
+      "唔會",
+      "會，非常推薦",
+      "睇情況"
+    ],
+    "options_en": [
+      "Not sure",
+      "No",
+      "Yes, highly recommended",
+      "It depends"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 2
+  },
+  {
+    "id": 68,
+    "question_zh": "你會唔會推薦「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Would you recommend 'Uma Musume'?",
+    "options_zh": [
+      "唔會",
+      "唔確定",
+      "會，非常推薦",
+      "睇情況"
+    ],
+    "options_en": [
+      "No",
+      "Not sure",
+      "Yes, highly recommended",
+      "It depends"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
+  },
+  {
+    "id": 69,
+    "question_zh": "你會唔會推薦「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Would you recommend 'Uma Musume'?",
+    "options_zh": [
+      "會，非常推薦",
+      "睇情況",
+      "唔確定",
+      "唔會"
+    ],
+    "options_en": [
+      "Yes, highly recommended",
+      "It depends",
+      "Not sure",
+      "No"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
+  },
+  {
+    "id": 70,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」適合邊種人？",
+    "question_en": "Who is 'Uma Musume' suitable for?",
+    "options_zh": [
+      "只適合成人",
+      "只適合專業人士",
+      "只適合兒童",
+      "所有人"
+    ],
+    "options_en": [
+      "Only adults",
+      "Only professionals",
+      "Only children",
+      "Everyone"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「所有人」。",
+    "explanation_en": "The correct answer is 'Everyone'.",
+    "difficulty": 2
+  },
+  {
+    "id": 71,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」適合邊種人？",
+    "question_en": "Who is 'Uma Musume' suitable for?",
+    "options_zh": [
+      "只適合兒童",
+      "所有人",
+      "只適合專業人士",
+      "只適合成人"
+    ],
+    "options_en": [
+      "Only children",
+      "Everyone",
+      "Only professionals",
+      "Only adults"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「所有人」。",
+    "explanation_en": "The correct answer is 'Everyone'.",
+    "difficulty": 3
+  },
+  {
+    "id": 72,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」適合邊種人？",
+    "question_en": "Who is 'Uma Musume' suitable for?",
+    "options_zh": [
+      "只適合成人",
+      "所有人",
+      "只適合專業人士",
+      "只適合兒童"
+    ],
+    "options_en": [
+      "Only adults",
+      "Everyone",
+      "Only professionals",
+      "Only children"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「所有人」。",
+    "explanation_en": "The correct answer is 'Everyone'.",
+    "difficulty": 1
+  },
+  {
+    "id": 73,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」嘅質素如何？",
+    "question_en": "What is the quality of 'Uma Musume'?",
+    "options_zh": [
+      "參差",
+      "普通",
+      "低質素",
+      "高質素"
+    ],
+    "options_en": [
+      "Mixed",
+      "Average",
+      "Low quality",
+      "High quality"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
+    "difficulty": 2
+  },
+  {
+    "id": 74,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」嘅質素如何？",
+    "question_en": "What is the quality of 'Uma Musume'?",
+    "options_zh": [
+      "低質素",
+      "高質素",
+      "普通",
+      "參差"
+    ],
+    "options_en": [
+      "Low quality",
+      "High quality",
+      "Average",
+      "Mixed"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
+    "difficulty": 3
+  },
+  {
+    "id": 75,
+    "question_zh": "你對「《賽馬娘》係邊間公司開發？」嘅整體印象係？",
+    "question_en": "What is your overall impression of 'Uma Musume'?",
+    "options_zh": [
+      "冇印象",
+      "非常好",
+      "唔好",
+      "一般"
+    ],
+    "options_en": [
+      "No impression",
+      "Very good",
+      "Not good",
+      "Average"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「非常好」。",
+    "explanation_en": "The correct answer is 'Very good'.",
+    "difficulty": 1
+  },
+  {
+    "id": 76,
+    "question_zh": "以下邊個係「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Which one is 'Uma Musume'?",
+    "options_zh": [
+      "《賽馬娘》係邊間公司開發？",
+      "其他A",
+      "其他C",
+      "其他B"
+    ],
+    "options_en": [
+      "Uma Musume",
+      "Other A",
+      "Other C",
+      "Other B"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「《賽馬娘》係邊間公司開發？」。",
+    "explanation_en": "The correct answer is 'Uma Musume'.",
+    "difficulty": 2
+  },
+  {
+    "id": 77,
+    "question_zh": "以下邊個係「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Which one is 'Uma Musume'?",
+    "options_zh": [
+      "其他B",
+      "《賽馬娘》係邊間公司開發？",
+      "其他C",
+      "其他A"
+    ],
+    "options_en": [
+      "Other B",
+      "Uma Musume",
+      "Other C",
+      "Other A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「《賽馬娘》係邊間公司開發？」。",
+    "explanation_en": "The correct answer is 'Uma Musume'.",
+    "difficulty": 3
+  },
+  {
+    "id": 78,
+    "question_zh": "以下邊個係「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Which one is 'Uma Musume'?",
+    "options_zh": [
+      "其他A",
+      "其他C",
+      "其他B",
+      "《賽馬娘》係邊間公司開發？"
+    ],
+    "options_en": [
+      "Other A",
+      "Other C",
+      "Other B",
+      "Uma Musume"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「《賽馬娘》係邊間公司開發？」。",
+    "explanation_en": "The correct answer is 'Uma Musume'.",
+    "difficulty": 1
+  },
+  {
+    "id": 79,
+    "question_zh": "以下邊個係「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Which one is 'Uma Musume'?",
+    "options_zh": [
+      "其他B",
+      "《賽馬娘》係邊間公司開發？",
+      "其他A",
+      "其他C"
+    ],
+    "options_en": [
+      "Other B",
+      "Uma Musume",
+      "Other A",
+      "Other C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「《賽馬娘》係邊間公司開發？」。",
+    "explanation_en": "The correct answer is 'Uma Musume'.",
+    "difficulty": 2
+  },
+  {
+    "id": 80,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」屬於邊種類型？",
+    "question_en": "What type is 'Uma Musume'?",
+    "options_zh": [
+      "類型C",
+      "類型A",
+      "類型B",
+      "手機遊戲"
+    ],
+    "options_en": [
+      "Type C",
+      "Type A",
+      "Type B",
+      "手機遊戲"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「手機遊戲」。",
+    "explanation_en": "The correct answer is '手機遊戲'.",
+    "difficulty": 3
+  },
+  {
+    "id": 81,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」屬於邊種類型？",
+    "question_en": "What type is 'Uma Musume'?",
+    "options_zh": [
+      "類型A",
+      "手機遊戲",
+      "類型C",
+      "類型B"
+    ],
+    "options_en": [
+      "Type A",
+      "手機遊戲",
+      "Type C",
+      "Type B"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「手機遊戲」。",
+    "explanation_en": "The correct answer is '手機遊戲'.",
+    "difficulty": 1
+  },
+  {
+    "id": 82,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」屬於邊種類型？",
+    "question_en": "What type is 'Uma Musume'?",
+    "options_zh": [
+      "類型A",
+      "類型C",
+      "手機遊戲",
+      "類型B"
+    ],
+    "options_en": [
+      "Type A",
+      "Type C",
+      "手機遊戲",
+      "Type B"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「手機遊戲」。",
+    "explanation_en": "The correct answer is '手機遊戲'.",
+    "difficulty": 2
+  },
+  {
+    "id": 83,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係咪好受歡迎？",
+    "question_en": "Is 'Uma Musume' popular?",
+    "options_zh": [
+      "唔係，好冷門",
+      "已經過氣",
+      "係，非常受歡迎",
+      "只喺特定地區流行"
+    ],
+    "options_en": [
+      "No, very niche",
+      "Outdated",
+      "Yes, very popular",
+      "Only popular locally"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 3
+  },
+  {
+    "id": 84,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係咪好受歡迎？",
+    "question_en": "Is 'Uma Musume' popular?",
+    "options_zh": [
+      "係，非常受歡迎",
+      "已經過氣",
+      "唔係，好冷門",
+      "只喺特定地區流行"
+    ],
+    "options_en": [
+      "Yes, very popular",
+      "Outdated",
+      "No, very niche",
+      "Only popular locally"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 1
+  },
+  {
+    "id": 85,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係咪好受歡迎？",
+    "question_en": "Is 'Uma Musume' popular?",
+    "options_zh": [
+      "已經過氣",
+      "係，非常受歡迎",
+      "唔係，好冷門",
+      "只喺特定地區流行"
+    ],
+    "options_en": [
+      "Outdated",
+      "Yes, very popular",
+      "No, very niche",
+      "Only popular locally"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 2
+  },
+  {
+    "id": 86,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係邊度嚟嘅？",
+    "question_en": "Where is 'Uma Musume' from?",
+    "options_zh": [
+      "全球",
+      "美洲",
+      "非洲",
+      "歐洲"
+    ],
+    "options_en": [
+      "Global",
+      "Americas",
+      "Africa",
+      "Europe"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「全球」。",
+    "explanation_en": "The correct answer is 'Global'.",
+    "difficulty": 3
+  },
+  {
+    "id": 87,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係邊度嚟嘅？",
+    "question_en": "Where is 'Uma Musume' from?",
+    "options_zh": [
+      "歐洲",
+      "美洲",
+      "全球",
+      "非洲"
+    ],
+    "options_en": [
+      "Europe",
+      "Americas",
+      "Global",
+      "Africa"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「全球」。",
+    "explanation_en": "The correct answer is 'Global'.",
+    "difficulty": 1
+  },
+  {
+    "id": 88,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」係邊度嚟嘅？",
+    "question_en": "Where is 'Uma Musume' from?",
+    "options_zh": [
+      "美洲",
+      "非洲",
+      "全球",
+      "歐洲"
+    ],
+    "options_en": [
+      "Americas",
+      "Africa",
+      "Global",
+      "Europe"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「全球」。",
+    "explanation_en": "The correct answer is 'Global'.",
+    "difficulty": 2
+  },
+  {
+    "id": 89,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」有咩特色？",
+    "question_en": "What is special about 'Uma Musume'?",
+    "options_zh": [
+      "獨特風格",
+      "好普通",
+      "冇特色",
+      "已經過時"
+    ],
+    "options_en": [
+      "Unique style",
+      "Very ordinary",
+      "No special features",
+      "Outdated"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「獨特風格」。",
+    "explanation_en": "The correct answer is 'Unique style'.",
+    "difficulty": 3
+  },
+  {
+    "id": 90,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」有咩特色？",
+    "question_en": "What is special about 'Uma Musume'?",
+    "options_zh": [
+      "冇特色",
+      "好普通",
+      "獨特風格",
+      "已經過時"
+    ],
+    "options_en": [
+      "No special features",
+      "Very ordinary",
+      "Unique style",
+      "Outdated"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「獨特風格」。",
+    "explanation_en": "The correct answer is 'Unique style'.",
+    "difficulty": 1
+  },
+  {
+    "id": 91,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」有咩特色？",
+    "question_en": "What is special about 'Uma Musume'?",
+    "options_zh": [
+      "冇特色",
+      "獨特風格",
+      "已經過時",
+      "好普通"
+    ],
+    "options_en": [
+      "No special features",
+      "Unique style",
+      "Outdated",
+      "Very ordinary"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「獨特風格」。",
+    "explanation_en": "The correct answer is 'Unique style'.",
+    "difficulty": 2
+  },
+  {
+    "id": 92,
+    "question_zh": "你會唔會推薦「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Would you recommend 'Uma Musume'?",
+    "options_zh": [
+      "唔會",
+      "睇情況",
+      "唔確定",
+      "會，非常推薦"
+    ],
+    "options_en": [
+      "No",
+      "It depends",
+      "Not sure",
+      "Yes, highly recommended"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 3
+  },
+  {
+    "id": 93,
+    "question_zh": "你會唔會推薦「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Would you recommend 'Uma Musume'?",
+    "options_zh": [
+      "睇情況",
+      "唔會",
+      "唔確定",
+      "會，非常推薦"
+    ],
+    "options_en": [
+      "It depends",
+      "No",
+      "Not sure",
+      "Yes, highly recommended"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 1
+  },
+  {
+    "id": 94,
+    "question_zh": "你會唔會推薦「《賽馬娘》係邊間公司開發？」？",
+    "question_en": "Would you recommend 'Uma Musume'?",
+    "options_zh": [
+      "睇情況",
+      "唔確定",
+      "會，非常推薦",
+      "唔會"
+    ],
+    "options_en": [
+      "It depends",
+      "Not sure",
+      "Yes, highly recommended",
+      "No"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「會，非常推薦」。",
+    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
+    "difficulty": 2
+  },
+  {
+    "id": 95,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」適合邊種人？",
+    "question_en": "Who is 'Uma Musume' suitable for?",
+    "options_zh": [
+      "只適合成人",
+      "所有人",
+      "只適合專業人士",
+      "只適合兒童"
+    ],
+    "options_en": [
+      "Only adults",
+      "Everyone",
+      "Only professionals",
+      "Only children"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「所有人」。",
+    "explanation_en": "The correct answer is 'Everyone'.",
+    "difficulty": 3
+  },
+  {
+    "id": 96,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」適合邊種人？",
+    "question_en": "Who is 'Uma Musume' suitable for?",
+    "options_zh": [
+      "只適合兒童",
+      "只適合專業人士",
+      "所有人",
+      "只適合成人"
+    ],
+    "options_en": [
+      "Only children",
+      "Only professionals",
+      "Everyone",
+      "Only adults"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「所有人」。",
+    "explanation_en": "The correct answer is 'Everyone'.",
+    "difficulty": 1
+  },
+  {
+    "id": 97,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」適合邊種人？",
+    "question_en": "Who is 'Uma Musume' suitable for?",
+    "options_zh": [
+      "只適合成人",
+      "只適合兒童",
+      "所有人",
+      "只適合專業人士"
+    ],
+    "options_en": [
+      "Only adults",
+      "Only children",
+      "Everyone",
+      "Only professionals"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「所有人」。",
+    "explanation_en": "The correct answer is 'Everyone'.",
+    "difficulty": 2
+  },
+  {
+    "id": 98,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」嘅質素如何？",
+    "question_en": "What is the quality of 'Uma Musume'?",
+    "options_zh": [
+      "低質素",
+      "參差",
+      "高質素",
+      "普通"
+    ],
+    "options_en": [
+      "Low quality",
+      "Mixed",
+      "High quality",
+      "Average"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
+    "difficulty": 3
+  },
+  {
+    "id": 99,
+    "question_zh": "「《賽馬娘》係邊間公司開發？」嘅質素如何？",
+    "question_en": "What is the quality of 'Uma Musume'?",
+    "options_zh": [
+      "普通",
+      "參差",
+      "高質素",
+      "低質素"
+    ],
+    "options_en": [
+      "Average",
+      "Mixed",
+      "High quality",
+      "Low quality"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「高質素」。",
+    "explanation_en": "The correct answer is 'High quality'.",
+    "difficulty": 1
+  },
+  {
+    "id": 100,
+    "question_zh": "你對「《賽馬娘》係邊間公司開發？」嘅整體印象係？",
+    "question_en": "What is your overall impression of 'Uma Musume'?",
+    "options_zh": [
+      "冇印象",
+      "一般",
+      "唔好",
+      "非常好"
+    ],
+    "options_en": [
+      "No impression",
+      "Average",
+      "Not good",
+      "Very good"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「非常好」。",
+    "explanation_en": "The correct answer is 'Very good'.",
+    "difficulty": 2
   }
 ]
