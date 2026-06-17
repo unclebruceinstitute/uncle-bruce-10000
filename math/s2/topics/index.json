@@ -1,72 +1,72 @@
 [
   {
-    "topic_zh": "一元一次方程（進階）",
-    "topic_en": "Linear Equations (Advanced)",
-    "file": "linear_equations_2.json",
-    "emoji": "📝",
-    "count": 50
-  },
-  {
-    "topic_zh": "一元一次不等式",
-    "topic_en": "Linear Inequalities",
-    "file": "inequalities.json",
-    "emoji": "⚖️",
-    "count": 30
-  },
-  {
-    "topic_zh": "直角坐標系",
-    "topic_en": "Rectangular Coordinate System",
-    "file": "coordinates.json",
-    "emoji": "📍",
-    "count": 50
-  },
-  {
-    "topic_zh": "角與多邊形",
-    "topic_en": "Angles & Polygons",
+    "id": "angles_polygons",
+    "name_zh": "Angles Polygons",
+    "name_en": "Angles Polygons",
     "file": "angles_polygons.json",
-    "emoji": "📐",
-    "count": 40
+    "count": 24
   },
   {
-    "topic_zh": "全等與相似",
-    "topic_en": "Congruence & Similarity",
+    "id": "areas_volumes_2",
+    "name_zh": "Areas Volumes 2",
+    "name_en": "Areas Volumes 2",
+    "file": "areas_volumes_2.json",
+    "count": 27
+  },
+  {
+    "id": "congruence_similarity",
+    "name_zh": "Congruence Similarity",
+    "name_en": "Congruence Similarity",
     "file": "congruence_similarity.json",
-    "emoji": "🔄",
-    "count": 20
+    "count": 16
   },
   {
-    "topic_zh": "畢氏定理",
-    "topic_en": "Pythagoras' Theorem",
-    "file": "pythagoras.json",
-    "emoji": "📏",
+    "id": "coordinates",
+    "name_zh": "Coordinates",
+    "name_en": "Coordinates",
+    "file": "coordinates.json",
+    "count": 50
+  },
+  {
+    "id": "data_handling",
+    "name_zh": "Data Handling",
+    "name_en": "Data Handling",
+    "file": "data_handling.json",
+    "count": 25
+  },
+  {
+    "id": "inequalities",
+    "name_zh": "Inequalities",
+    "name_en": "Inequalities",
+    "file": "inequalities.json",
     "count": 30
   },
   {
-    "topic_zh": "面積與體積（進階）",
-    "topic_en": "Areas & Volumes (Advanced)",
-    "file": "areas_volumes_2.json",
-    "emoji": "📦",
-    "count": 40
+    "id": "linear_equations_2",
+    "name_zh": "Linear Equations 2",
+    "name_en": "Linear Equations 2",
+    "file": "linear_equations_2.json",
+    "count": 50
   },
   {
-    "topic_zh": "率",
-    "topic_en": "Rates",
-    "file": "rates.json",
-    "emoji": "⏱️",
-    "count": 20
-  },
-  {
-    "topic_zh": "代數運算",
-    "topic_en": "Algebraic Manipulation",
+    "id": "manipulation",
+    "name_zh": "Manipulation",
+    "name_en": "Manipulation",
     "file": "manipulation.json",
-    "emoji": "🔧",
-    "count": 25
+    "count": 22
   },
   {
-    "topic_zh": "數據處理",
-    "topic_en": "Data Handling",
-    "file": "data_handling.json",
-    "emoji": "📊",
-    "count": 25
+    "id": "pythagoras",
+    "name_zh": "Pythagoras",
+    "name_en": "Pythagoras",
+    "file": "pythagoras.json",
+    "count": 26
+  },
+  {
+    "id": "rates",
+    "name_zh": "Rates",
+    "name_en": "Rates",
+    "file": "rates.json",
+    "count": 20
   }
 ]

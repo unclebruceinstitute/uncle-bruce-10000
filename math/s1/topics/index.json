@@ -1,72 +1,72 @@
 [
   {
-    "topic_zh": "算術與正負數",
-    "topic_en": "Arithmetic & Directed Numbers",
+    "id": "algebra_basics",
+    "name_zh": "Algebra Basics",
+    "name_en": "Algebra Basics",
+    "file": "algebra_basics.json",
+    "count": 57
+  },
+  {
+    "id": "areas_volumes",
+    "name_zh": "Areas Volumes",
+    "name_en": "Areas Volumes",
+    "file": "areas_volumes.json",
+    "count": 40
+  },
+  {
+    "id": "arithmetic",
+    "name_zh": "Arithmetic",
+    "name_en": "Arithmetic",
     "file": "arithmetic.json",
-    "emoji": "🔢",
     "count": 70
   },
   {
-    "topic_zh": "代數基礎",
-    "topic_en": "Introduction to Algebra",
-    "file": "algebra_basics.json",
-    "emoji": "📝",
-    "count": 60
+    "id": "fractions_decimals",
+    "name_zh": "Fractions Decimals",
+    "name_en": "Fractions Decimals",
+    "file": "fractions_decimals.json",
+    "count": 40
   },
   {
-    "topic_zh": "一元一次方程",
-    "topic_en": "Linear Equations in One Unknown",
+    "id": "geometry_basics",
+    "name_zh": "Geometry Basics",
+    "name_en": "Geometry Basics",
+    "file": "geometry_basics.json",
+    "count": 64
+  },
+  {
+    "id": "linear_equations",
+    "name_zh": "Linear Equations",
+    "name_en": "Linear Equations",
     "file": "linear_equations.json",
-    "emoji": "⚖️",
     "count": 49
   },
   {
-    "topic_zh": "基礎幾何",
-    "topic_en": "Basic Geometry",
-    "file": "geometry_basics.json",
-    "emoji": "📐",
-    "count": 70
-  },
-  {
-    "topic_zh": "分數與小數",
-    "topic_en": "Fractions & Decimals",
-    "file": "fractions_decimals.json",
-    "emoji": "🔣",
-    "count": 40
-  },
-  {
-    "topic_zh": "百分數",
-    "topic_en": "Percentages",
-    "file": "percentages.json",
-    "emoji": "💯",
-    "count": 50
-  },
-  {
-    "topic_zh": "比與比例",
-    "topic_en": "Ratio & Proportion",
-    "file": "ratio.json",
-    "emoji": "⚖️",
-    "count": 50
-  },
-  {
-    "topic_zh": "面積與體積",
-    "topic_en": "Areas & Volumes",
-    "file": "areas_volumes.json",
-    "emoji": "📦",
-    "count": 40
-  },
-  {
-    "topic_zh": "統計學基礎",
-    "topic_en": "Basic Statistics",
-    "file": "statistics.json",
-    "emoji": "📊",
-    "count": 50
-  },
-  {
-    "topic_zh": "數字規律",
-    "topic_en": "Number Patterns",
+    "id": "number_patterns",
+    "name_zh": "Number Patterns",
+    "name_en": "Number Patterns",
     "file": "number_patterns.json",
-    "emoji": "🔢",
-    "count": 25
+    "count": 24
+  },
+  {
+    "id": "percentages",
+    "name_zh": "Percentages",
+    "name_en": "Percentages",
+    "file": "percentages.json",
+    "count": 41
+  },
+  {
+    "id": "ratio",
+    "name_zh": "Ratio",
+    "name_en": "Ratio",
+    "file": "ratio.json",
+    "count": 49
+  },
+  {
+    "id": "statistics",
+    "name_zh": "Statistics",
+    "name_en": "Statistics",
+    "file": "statistics.json",
+    "count": 50
   }
 ]
