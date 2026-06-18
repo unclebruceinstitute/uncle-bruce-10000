@@ -1,19 +1,21 @@
 [
   {
-    "id": "hua_yang_nian_hua",
-    "name_zh": "花樣年華",
-    "name_en": "In the Mood for Love",
-    "emoji": "🌸",
-    "file": "hua_yang_nian_hua.json",
-    "count": 30
-  },
-  {
     "id": "wu_jian_dao",
     "name_zh": "無間道",
     "name_en": "Infernal Affairs",
-    "emoji": "🕵️",
+    "emoji": "🎭",
     "file": "wu_jian_dao.json",
-    "count": 30
+    "count": 30,
+    "year": 2002
+  },
+  {
+    "id": "hua_yang_nian_hua",
+    "name_zh": "花樣年華",
+    "name_en": "In the Mood for Love",
+    "emoji": "🎭",
+    "file": "hua_yang_nian_hua.json",
+    "count": 30,
+    "year": 2000
   },
   {
     "id": "se_jie",
@@ -21,38 +23,70 @@
     "name_en": "Lust, Caution",
     "emoji": "🎭",
     "file": "se_jie.json",
-    "count": 30
+    "count": 30,
+    "year": 2007
   },
   {
     "id": "yi_dai_zong_shi",
     "name_zh": "一代宗師",
     "name_en": "The Grandmaster",
-    "emoji": "🥋",
+    "emoji": "🎭",
     "file": "yi_dai_zong_shi.json",
-    "count": 30
+    "count": 30,
+    "year": 2013
   },
   {
     "id": "chong_qing_sen_lin",
     "name_zh": "重慶森林",
     "name_en": "Chungking Express",
-    "emoji": "🌲",
+    "emoji": "🎭",
     "file": "chong_qing_sen_lin.json",
-    "count": 30
+    "count": 30,
+    "year": 1994
   },
   {
-    "id": "chun_guang_zha_xie",
-    "name_zh": "春光乍洩",
-    "name_en": "Happy Together",
-    "emoji": "☀️",
-    "file": "chun_guang_zha_xie.json",
-    "count": 30
+    "id": "dong_xie_xi_du",
+    "name_zh": "東邪西毒",
+    "name_en": "Ashes of Time",
+    "emoji": "🎭",
+    "file": "dong_xie_xi_du.json",
+    "count": 19,
+    "year": 1994
   },
   {
-    "id": "other",
-    "name_zh": "其他電影",
-    "name_en": "Other Films",
-    "emoji": "🎬",
-    "file": "other.json",
-    "count": 30
+    "id": "ting_feng",
+    "name_zh": "聽風者",
+    "name_en": "The Silent War",
+    "emoji": "🎭",
+    "file": "ting_feng.json",
+    "count": 16,
+    "year": 2012
+  },
+  {
+    "id": "shang_yin",
+    "name_zh": "傷城",
+    "name_en": "Confession of Pain",
+    "emoji": "🎭",
+    "file": "shang_yin.json",
+    "count": 18,
+    "year": 2006
+  },
+  {
+    "id": "an_ying",
+    "name_zh": "暗湧",
+    "name_en": "Tempting Heart",
+    "emoji": "🎭",
+    "file": "an_ying.json",
+    "count": 17,
+    "year": 2001
+  },
+  {
+    "id": "ben_neng",
+    "name_zh": "本能",
+    "name_en": "I Do",
+    "emoji": "🎭",
+    "file": "ben_neng.json",
+    "count": 17,
+    "year": 2012
   }
 ]

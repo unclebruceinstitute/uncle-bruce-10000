@@ -328,7 +328,7 @@ updateStats();
 },800);
 }
 
-cancelAnswer(){
+function cancelAnswer(){
 document.querySelectorAll('.opt').forEach(o=>o.classList.remove('sel'));
 document.getElementById('confirmArea').style.display='none';
 document.getElementById('walkBtn').style.display='inline-block';

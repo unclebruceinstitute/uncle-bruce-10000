@@ -19304,14 +19304,14 @@
     "question_en": "Which is a correct description of Normal Distribution?",
     "options_zh": [
       "n",
-      "D.",
-      "C.",
+      "",
+      "",
       "Symmetric bell-shaped distribution determined by mean and standard deviation"
     ],
     "options_en": [
       "n",
-      "D.",
-      "C.",
+      "",
+      "",
       "Symmetric bell-shaped distribution determined by mean and standard deviation"
     ],
     "answer": 2,
@@ -19329,14 +19329,14 @@
     "question_en": "Which is a correct description of Student's t-Distribution?",
     "options_zh": [
       "，",
-      "C.",
-      "D.",
+      "",
+      "",
       "Heavier tails than normal, used for small samples"
     ],
     "options_en": [
       "，",
-      "C.",
-      "D.",
+      "",
+      "",
       "Heavier tails than normal, used for small samples"
     ],
     "answer": 3,
@@ -19354,13 +19354,13 @@
     "question_en": "Which is a correct description of Chi-squared Distribution?",
     "options_zh": [
       "Used for variance tests and goodness-of-fit",
-      "D.",
+      "",
       "，",
       "， (alt)"
     ],
     "options_en": [
       "Used for variance tests and goodness-of-fit",
-      "D.",
+      "",
       "，"
     ],
     "answer": 0,
@@ -19379,13 +19379,13 @@
     "options_zh": [
       "Used for comparing two variances",
       "，",
-      "C.",
+      "",
       "n"
     ],
     "options_en": [
       "Used for comparing two variances",
       "，",
-      "C.",
+      "",
       "n"
     ],
     "answer": 1,
@@ -19403,13 +19403,13 @@
     "question_en": "Which is a correct description of Lognormal Distribution?",
     "options_zh": [
       "，",
-      "C.",
+      "",
       "Log is normally distributed, used for asset prices",
       "n"
     ],
     "options_en": [
       "，",
-      "C.",
+      "",
       "Log is normally distributed, used for asset prices",
       "n"
     ],
@@ -19427,14 +19427,14 @@
     "question_zh": "Which is a correct description of Exponential Distribution?",
     "question_en": "Which is a correct description of Exponential Distribution?",
     "options_zh": [
-      "D.",
-      "B.",
+      "",
+      "",
       "Describes time between events, memoryless property",
       "n"
     ],
     "options_en": [
-      "D.",
-      "B.",
+      "",
+      "",
       "Describes time between events, memoryless property",
       "n"
     ],
@@ -19476,13 +19476,13 @@
     "question_zh": "Which is a correct description of Binomial Distribution?",
     "question_en": "Which is a correct description of Binomial Distribution?",
     "options_zh": [
-      "D.",
+      "",
       "，",
       "， (alt)",
       "Distribution of successes in n independent trials"
     ],
     "options_en": [
-      "D.",
+      "",
       "，",
       "Distribution of successes in n independent trials"
     ],
@@ -30051,14 +30051,14 @@
     "question_en": "Regarding Forward Contract, which is correct?",
     "options_zh": [
       "，",
-      "D.",
-      "C.",
+      "",
+      "",
       "OTC, customized, has counterparty risk"
     ],
     "options_en": [
       "，",
-      "D.",
-      "C.",
+      "",
+      "",
       "OTC, customized, has counterparty risk"
     ],
     "answer": 2,
@@ -30076,15 +30076,15 @@
     "question_en": "Regarding Futures Contract, which is correct?",
     "options_zh": [
       "Exchange-traded, standardized, daily settlement",
-      "B.",
-      "D.",
-      "C."
+      "",
+      "",
+      ""
     ],
     "options_en": [
       "Exchange-traded, standardized, daily settlement",
-      "B.",
-      "D.",
-      "C."
+      "",
+      "",
+      ""
     ],
     "answer": 3,
     "explanation_zh": "Futures Contract: Exchange-traded, standardized, daily settlement",
@@ -30103,13 +30103,13 @@
       "，",
       "，，",
       "Buyer has right to buy asset at strike before expiry",
-      "C."
+      ""
     ],
     "options_en": [
       "，",
       "，，",
       "Buyer has right to buy asset at strike before expiry",
-      "C."
+      ""
     ],
     "answer": 0,
     "explanation_zh": "Call Option: Buyer has right to buy asset at strike before expiry",
@@ -30126,15 +30126,15 @@
     "question_en": "Regarding Put Option, which is correct?",
     "options_zh": [
       "Buyer has right to sell asset at strike before expiry",
-      "C.",
+      "",
       "，，",
-      "B."
+      ""
     ],
     "options_en": [
       "Buyer has right to sell asset at strike before expiry",
-      "C.",
+      "",
       "，，",
-      "B."
+      ""
     ],
     "answer": 1,
     "explanation_zh": "Put Option: Buyer has right to sell asset at strike before expiry",
@@ -30150,15 +30150,15 @@
     "question_zh": "Regarding Swap Contract, which is correct?",
     "question_en": "Regarding Swap Contract, which is correct?",
     "options_zh": [
-      "C.",
+      "",
       "Agreement to exchange future cash flows",
-      "B.",
+      "",
       "，，"
     ],
     "options_en": [
-      "C.",
+      "",
       "Agreement to exchange future cash flows",
-      "B.",
+      "",
       "，，"
     ],
     "answer": 2,
@@ -30175,16 +30175,16 @@
     "question_zh": "Regarding Credit Default Swap, which is correct?",
     "question_en": "Regarding Credit Default Swap, which is correct?",
     "options_zh": [
-      "B.",
+      "",
       "，，",
       "Buyer pays premium, seller compensates on credit event",
-      "C."
+      ""
     ],
     "options_en": [
-      "B.",
+      "",
       "，，",
       "Buyer pays premium, seller compensates on credit event",
-      "C."
+      ""
     ],
     "answer": 3,
     "explanation_zh": "Credit Default Swap: Buyer pays premium, seller compensates on credit event",
@@ -44900,14 +44900,14 @@
     "question_zh": "Regarding Market Maker, which is correct?",
     "question_en": "Regarding Market Maker, which is correct?",
     "options_zh": [
-      "B.",
-      "D.",
+      "",
+      "",
       "，",
       "Provides two-way quotes, earns bid-ask spread"
     ],
     "options_en": [
-      "B.",
-      "D.",
+      "",
+      "",
       "，",
       "Provides two-way quotes, earns bid-ask spread"
     ],
@@ -44926,13 +44926,13 @@
     "question_en": "Regarding Dark Pool, which is correct?",
     "options_zh": [
       "，",
-      "D.",
+      "",
       "， (alt)",
       "Anonymous trading platform, reduces market impact"
     ],
     "options_en": [
       "，",
-      "D.",
+      "",
       "Anonymous trading platform, reduces market impact"
     ],
     "answer": 3,
@@ -44949,16 +44949,16 @@
     "question_zh": "Regarding Limit Order, which is correct?",
     "question_en": "Regarding Limit Order, which is correct?",
     "options_zh": [
-      "C.",
+      "",
       "Buy/sell at specified price, no fill guarantee",
       "，",
-      "B."
+      ""
     ],
     "options_en": [
-      "C.",
+      "",
       "Buy/sell at specified price, no fill guarantee",
       "，",
-      "B."
+      ""
     ],
     "answer": 0,
     "explanation_zh": "Limit Order: Buy/sell at specified price, no fill guarantee",
@@ -44977,12 +44977,12 @@
       "Execute immediately at best available price",
       "，",
       "， (alt)",
-      "C."
+      ""
     ],
     "options_en": [
       "Execute immediately at best available price",
       "，",
-      "C."
+      ""
     ],
     "answer": 1,
     "explanation_zh": "Market Order: Execute immediately at best available price",
@@ -44999,14 +44999,14 @@
     "question_en": "Regarding Stop-Loss Order, which is correct?",
     "options_zh": [
       "，",
-      "B.",
-      "C.",
+      "",
+      "",
       "Auto-sell when price drops to specified level"
     ],
     "options_en": [
       "，",
-      "B.",
-      "C.",
+      "",
+      "",
       "Auto-sell when price drops to specified level"
     ],
     "answer": 2,
@@ -45023,16 +45023,16 @@
     "question_zh": "Regarding Iceberg Order, which is correct?",
     "question_en": "Regarding Iceberg Order, which is correct?",
     "options_zh": [
-      "B.",
+      "",
       "，",
       "Large order showing only partial quantity",
-      "C."
+      ""
     ],
     "options_en": [
-      "B.",
+      "",
       "，",
       "Large order showing only partial quantity",
-      "C."
+      ""
     ],
     "answer": 3,
     "explanation_zh": "Iceberg Order: Large order showing only partial quantity",
