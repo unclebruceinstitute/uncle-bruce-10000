@@ -1,6904 +1,1514 @@
 [
   {
     "id": 1,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 18 = 95",
-    "question_en": "Solve 7x + 18 = 95",
-    "options_zh": [
-      "77",
-      "10",
-      "11",
-      "16"
-    ],
-    "options_en": [
+    "question": "解方程 7x + 18 = 95",
+    "options": [
       "77",
       "10",
       "11",
       "16"
     ],
     "answer": 2,
-    "explanation_zh": "$7x + 18 = 95$\n$7x = 95 - 18 = 77$\n$x = \\frac{77}{7} = 11$",
-    "explanation_en": "$7x + 18 = 95$\n$7x = 95 - 18 = 77$\n$x = \\frac{77}{7} = 11$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$7x + 18 = 95$\n$7x = 95 - 18 = 77$\n$x = \\frac{77}{7} = 11$"
   },
   {
     "id": 2,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 17 = 53",
-    "question_en": "Solve 6x + 17 = 53",
-    "options_zh": [
-      "6",
-      "5",
-      "11",
-      "36"
-    ],
-    "options_en": [
+    "question": "解方程 6x + 17 = 53",
+    "options": [
       "6",
       "5",
       "11",
       "36"
     ],
     "answer": 0,
-    "explanation_zh": "$6x + 17 = 53$\n$6x = 53 - 17 = 36$\n$x = \\frac{36}{6} = 6$",
-    "explanation_en": "$6x + 17 = 53$\n$6x = 53 - 17 = 36$\n$x = \\frac{36}{6} = 6$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$6x + 17 = 53$\n$6x = 53 - 17 = 36$\n$x = \\frac{36}{6} = 6$"
   },
   {
     "id": 3,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 14 = 70",
-    "question_en": "Solve 4x + 14 = 70",
-    "options_zh": [
-      "14",
-      "56",
-      "13",
-      "21"
+    "question": "解方程 3x + 21 = 39",
+    "options": [
+      "7",
+      "20",
+      "18",
+      "6"
     ],
-    "options_en": [
-      "14",
-      "56",
-      "13",
-      "21"
-    ],
-    "answer": 0,
-    "explanation_zh": "$4x + 14 = 70$\n$4x = 70 - 14 = 56$\n$x = \\frac{56}{4} = 14$",
-    "explanation_en": "$4x + 14 = 70$\n$4x = 70 - 14 = 56$\n$x = \\frac{56}{4} = 14$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$3x + 21 = 39$\n$3x = 39 - 21 = 18$\n$x = \\frac{18}{3} = 6$"
   },
   {
     "id": 4,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 26 = 50",
-    "question_en": "Solve 6x + 26 = 50",
-    "options_zh": [
-      "12",
+    "question": "解方程 2x + 26 = 34",
+    "options": [
       "3",
-      "24",
-      "4"
+      "4",
+      "30",
+      "8"
     ],
-    "options_en": [
-      "12",
-      "3",
-      "24",
-      "4"
-    ],
-    "answer": 3,
-    "explanation_zh": "$6x + 26 = 50$\n$6x = 50 - 26 = 24$\n$x = \\frac{24}{6} = 4$",
-    "explanation_en": "$6x + 26 = 50$\n$6x = 50 - 26 = 24$\n$x = \\frac{24}{6} = 4$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 1,
+    "explanation": "$2x + 26 = 34$\n$2x = 34 - 26 = 8$\n$x = \\frac{8}{2} = 4$"
   },
   {
     "id": 5,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 29 = 53",
-    "question_en": "Solve 4x + 29 = 53",
-    "options_zh": [
-      "6",
+    "question": "解方程 5x + 19 = 49",
+    "options": [
       "5",
-      "20",
-      "24"
-    ],
-    "options_en": [
       "6",
-      "5",
-      "20",
-      "24"
+      "30",
+      "13"
     ],
-    "answer": 0,
-    "explanation_zh": "$4x + 29 = 53$\n$4x = 53 - 29 = 24$\n$x = \\frac{24}{4} = 6$",
-    "explanation_en": "$4x + 29 = 53$\n$4x = 53 - 29 = 24$\n$x = \\frac{24}{4} = 6$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 1,
+    "explanation": "$5x + 19 = 49$\n$5x = 49 - 19 = 30$\n$x = \\frac{30}{5} = 6$"
   },
   {
     "id": 6,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 13 = 43",
-    "question_en": "Solve 5x + 13 = 43",
-    "options_zh": [
-      "5",
-      "6",
-      "11",
-      "30"
-    ],
-    "options_en": [
-      "5",
-      "6",
-      "11",
-      "30"
+    "question": "解方程 4x + 9 = 57",
+    "options": [
+      "16",
+      "12",
+      "48",
+      "13"
     ],
     "answer": 1,
-    "explanation_zh": "$5x + 13 = 43$\n$5x = 43 - 13 = 30$\n$x = \\frac{30}{5} = 6$",
-    "explanation_en": "$5x + 13 = 43$\n$5x = 43 - 13 = 30$\n$x = \\frac{30}{5} = 6$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$4x + 9 = 57$\n$4x = 57 - 9 = 48$\n$x = \\frac{48}{4} = 12$"
   },
   {
     "id": 7,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 21 = 39",
-    "question_en": "Solve 3x + 21 = 39",
-    "options_zh": [
-      "7",
-      "20",
-      "18",
-      "6"
-    ],
-    "options_en": [
-      "7",
-      "20",
-      "18",
-      "6"
+    "question": "解方程 8x + 2 = 74",
+    "options": [
+      "72",
+      "8",
+      "40",
+      "9"
     ],
     "answer": 3,
-    "explanation_zh": "$3x + 21 = 39$\n$3x = 39 - 21 = 18$\n$x = \\frac{18}{3} = 6$",
-    "explanation_en": "$3x + 21 = 39$\n$3x = 39 - 21 = 18$\n$x = \\frac{18}{3} = 6$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$8x + 2 = 74$\n$8x = 74 - 2 = 72$\n$x = \\frac{72}{8} = 9$"
   },
   {
     "id": 8,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 1 = 10",
-    "question_en": "Solve 3x + 1 = 10",
-    "options_zh": [
-      "4",
-      "9",
-      "3",
-      "76"
+    "question": "解方程 2x + 1 = 21",
+    "options": [
+      "10",
+      "11",
+      "20",
+      "11.1"
     ],
-    "options_en": [
-      "4",
-      "9",
-      "3",
-      "76"
-    ],
-    "answer": 2,
-    "explanation_zh": "$3x + 1 = 10$\n$3x = 10 - 1 = 9$\n$x = \\frac{9}{3} = 3$",
-    "explanation_en": "$3x + 1 = 10$\n$3x = 10 - 1 = 9$\n$x = \\frac{9}{3} = 3$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$2x + 1 = 21$\n$2x = 21 - 1 = 20$\n$x = \\frac{20}{2} = 10$"
   },
   {
     "id": 9,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 18 = 39",
-    "question_en": "Solve 3x + 18 = 39",
-    "options_zh": [
-      "6",
-      "21",
-      "7",
-      "19"
+    "question": "解方程 6x + 1 = 25",
+    "options": [
+      "4",
+      "24",
+      "3",
+      "53"
     ],
-    "options_en": [
-      "6",
-      "21",
-      "7",
-      "19"
-    ],
-    "answer": 2,
-    "explanation_zh": "$3x + 18 = 39$\n$3x = 39 - 18 = 21$\n$x = \\frac{21}{3} = 7$",
-    "explanation_en": "$3x + 18 = 39$\n$3x = 39 - 18 = 21$\n$x = \\frac{21}{3} = 7$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$6x + 1 = 25$\n$6x = 25 - 1 = 24$\n$x = \\frac{24}{6} = 4$"
   },
   {
     "id": 10,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 26 = 34",
-    "question_en": "Solve 2x + 26 = 34",
-    "options_zh": [
-      "3",
-      "4",
-      "30",
-      "8"
+    "question": "解方程 3x + 25 = 43",
+    "options": [
+      "18",
+      "7",
+      "6",
+      "22"
     ],
-    "options_en": [
-      "3",
-      "4",
-      "30",
-      "8"
-    ],
-    "answer": 1,
-    "explanation_zh": "$2x + 26 = 34$\n$2x = 34 - 26 = 8$\n$x = \\frac{8}{2} = 4$",
-    "explanation_en": "$2x + 26 = 34$\n$2x = 34 - 26 = 8$\n$x = \\frac{8}{2} = 4$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 2,
+    "explanation": "$3x + 25 = 43$\n$3x = 43 - 25 = 18$\n$x = \\frac{18}{3} = 6$"
   },
   {
     "id": 11,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 19 = 49",
-    "question_en": "Solve 5x + 19 = 49",
-    "options_zh": [
-      "5",
-      "6",
-      "30",
-      "13"
-    ],
-    "options_en": [
-      "5",
-      "6",
-      "30",
-      "13"
+    "question": "解方程 2x + 11 = 29",
+    "options": [
+      "18",
+      "9",
+      "10",
+      "20"
     ],
     "answer": 1,
-    "explanation_zh": "$5x + 19 = 49$\n$5x = 49 - 19 = 30$\n$x = \\frac{30}{5} = 6$",
-    "explanation_en": "$5x + 19 = 49$\n$5x = 49 - 19 = 30$\n$x = \\frac{30}{5} = 6$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$2x + 11 = 29$\n$2x = 29 - 11 = 18$\n$x = \\frac{18}{2} = 9$"
   },
   {
     "id": 12,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 9 = 57",
-    "question_en": "Solve 4x + 9 = 57",
-    "options_zh": [
-      "16",
+    "question": "解方程 6x + 13 = 85",
+    "options": [
       "12",
-      "48",
-      "13"
-    ],
-    "options_en": [
       "16",
-      "12",
-      "48",
-      "13"
+      "11",
+      "72"
     ],
-    "answer": 1,
-    "explanation_zh": "$4x + 9 = 57$\n$4x = 57 - 9 = 48$\n$x = \\frac{48}{4} = 12$",
-    "explanation_en": "$4x + 9 = 57$\n$4x = 57 - 9 = 48$\n$x = \\frac{48}{4} = 12$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$6x + 13 = 85$\n$6x = 85 - 13 = 72$\n$x = \\frac{72}{6} = 12$"
   },
   {
     "id": 13,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 27 = 125",
-    "question_en": "Solve 7x + 27 = 125",
-    "options_zh": [
-      "14",
-      "21",
-      "98",
-      "15"
-    ],
-    "options_en": [
-      "14",
-      "21",
-      "98",
-      "15"
+    "question": "解方程 3x + 14 = 44",
+    "options": [
+      "10",
+      "9",
+      "30",
+      "19"
     ],
     "answer": 0,
-    "explanation_zh": "$7x + 27 = 125$\n$7x = 125 - 27 = 98$\n$x = \\frac{98}{7} = 14$",
-    "explanation_en": "$7x + 27 = 125$\n$7x = 125 - 27 = 98$\n$x = \\frac{98}{7} = 14$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$3x + 14 = 44$\n$3x = 44 - 14 = 30$\n$x = \\frac{30}{3} = 10$"
   },
   {
     "id": 14,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 6 = 21",
-    "question_en": "Solve 5x + 6 = 21",
-    "options_zh": [
-      "15",
-      "4",
-      "5",
-      "3"
+    "question": "解方程 7x + 23 = 100",
+    "options": [
+      "17",
+      "77",
+      "11",
+      "10"
     ],
-    "options_en": [
-      "15",
-      "4",
-      "5",
-      "3"
-    ],
-    "answer": 3,
-    "explanation_zh": "$5x + 6 = 21$\n$5x = 21 - 6 = 15$\n$x = \\frac{15}{5} = 3$",
-    "explanation_en": "$5x + 6 = 21$\n$5x = 21 - 6 = 15$\n$x = \\frac{15}{5} = 3$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 2,
+    "explanation": "$7x + 23 = 100$\n$7x = 100 - 23 = 77$\n$x = \\frac{77}{7} = 11$"
   },
   {
     "id": 15,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 2 = 74",
-    "question_en": "Solve 8x + 2 = 74",
-    "options_zh": [
-      "72",
-      "8",
-      "40",
-      "9"
-    ],
-    "options_en": [
-      "72",
-      "8",
-      "40",
-      "9"
+    "question": "解方程 4x + 18 = 62",
+    "options": [
+      "44",
+      "12",
+      "20",
+      "11"
     ],
     "answer": 3,
-    "explanation_zh": "$8x + 2 = 74$\n$8x = 74 - 2 = 72$\n$x = \\frac{72}{8} = 9$",
-    "explanation_en": "$8x + 2 = 74$\n$8x = 74 - 2 = 72$\n$x = \\frac{72}{8} = 9$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$4x + 18 = 62$\n$4x = 62 - 18 = 44$\n$x = \\frac{44}{4} = 11$"
   },
   {
     "id": 16,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 25 = 88",
-    "question_en": "Solve 7x + 25 = 88",
-    "options_zh": [
-      "16",
-      "63",
-      "8",
-      "9"
+    "question": "解方程 2x + 9 = 21",
+    "options": [
+      "15",
+      "6",
+      "7",
+      "12"
     ],
-    "options_en": [
-      "16",
-      "63",
-      "8",
-      "9"
-    ],
-    "answer": 3,
-    "explanation_zh": "$7x + 25 = 88$\n$7x = 88 - 25 = 63$\n$x = \\frac{63}{7} = 9$",
-    "explanation_en": "$7x + 25 = 88$\n$7x = 88 - 25 = 63$\n$x = \\frac{63}{7} = 9$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 1,
+    "explanation": "$2x + 9 = 21$\n$2x = 21 - 9 = 12$\n$x = \\frac{12}{2} = 6$"
   },
   {
     "id": 17,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 1 = 21",
-    "question_en": "Solve 2x + 1 = 21",
-    "options_zh": [
-      "10",
-      "11",
-      "20",
-      "11.1"
+    "question": "解方程 2x + 3 = 5",
+    "options": [
+      "2",
+      "1",
+      "0",
+      "4"
     ],
-    "options_en": [
-      "10",
-      "11",
-      "20",
-      "11.1"
-    ],
-    "answer": 0,
-    "explanation_zh": "$2x + 1 = 21$\n$2x = 21 - 1 = 20$\n$x = \\frac{20}{2} = 10$",
-    "explanation_en": "$2x + 1 = 21$\n$2x = 21 - 1 = 20$\n$x = \\frac{20}{2} = 10$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 1,
+    "explanation": "$2x + 3 = 5$\n$2x = 5 - 3 = 2$\n$x = \\frac{2}{2} = 1$"
   },
   {
     "id": 18,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 17 = 41",
-    "question_en": "Solve 2x + 17 = 41",
-    "options_zh": [
-      "13",
-      "24",
-      "12",
-      "29"
-    ],
-    "options_en": [
-      "13",
-      "24",
-      "12",
-      "29"
+    "question": "解方程 4x + 28 = 48",
+    "options": [
+      "20",
+      "19",
+      "5",
+      "4"
     ],
     "answer": 2,
-    "explanation_zh": "$2x + 17 = 41$\n$2x = 41 - 17 = 24$\n$x = \\frac{24}{2} = 12$",
-    "explanation_en": "$2x + 17 = 41$\n$2x = 41 - 17 = 24$\n$x = \\frac{24}{2} = 12$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$4x + 28 = 48$\n$4x = 48 - 28 = 20$\n$x = \\frac{20}{4} = 5$"
   },
   {
     "id": 19,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 1 = 25",
-    "question_en": "Solve 6x + 1 = 25",
-    "options_zh": [
+    "question": "解方程 6x + 21 = 39",
+    "options": [
+      "18",
       "4",
-      "24",
-      "3",
-      "53"
+      "10",
+      "3"
     ],
-    "options_en": [
-      "4",
-      "24",
-      "3",
-      "53"
-    ],
-    "answer": 0,
-    "explanation_zh": "$6x + 1 = 25$\n$6x = 25 - 1 = 24$\n$x = \\frac{24}{6} = 4$",
-    "explanation_en": "$6x + 1 = 25$\n$6x = 25 - 1 = 24$\n$x = \\frac{24}{6} = 4$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$6x + 21 = 39$\n$6x = 39 - 21 = 18$\n$x = \\frac{18}{6} = 3$"
   },
   {
     "id": 20,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 23 = 25",
-    "question_en": "Solve 2x + 23 = 25",
-    "options_zh": [
-      "2",
-      "24",
-      "1",
-      "2.1"
-    ],
-    "options_en": [
-      "2",
-      "24",
-      "1",
-      "2.1"
+    "question": "解方程 8x + 26 = 98",
+    "options": [
+      "10",
+      "72",
+      "9",
+      "15"
     ],
     "answer": 2,
-    "explanation_zh": "$2x + 23 = 25$\n$2x = 25 - 23 = 2$\n$x = \\frac{2}{2} = 1$",
-    "explanation_en": "$2x + 23 = 25$\n$2x = 25 - 23 = 2$\n$x = \\frac{2}{2} = 1$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$8x + 26 = 98$\n$8x = 98 - 26 = 72$\n$x = \\frac{72}{8} = 9$"
   },
   {
     "id": 21,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 3 = 27",
-    "question_en": "Solve 2x + 3 = 27",
-    "options_zh": [
-      "12",
-      "24",
-      "15",
-      "11"
-    ],
-    "options_en": [
-      "12",
-      "24",
-      "15",
-      "11"
+    "question": "解方程 2x + 7 = 13",
+    "options": [
+      "3",
+      "4",
+      "10",
+      "6"
     ],
     "answer": 0,
-    "explanation_zh": "$2x + 3 = 27$\n$2x = 27 - 3 = 24$\n$x = \\frac{24}{2} = 12$",
-    "explanation_en": "$2x + 3 = 27$\n$2x = 27 - 3 = 24$\n$x = \\frac{24}{2} = 12$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$2x + 7 = 13$\n$2x = 13 - 7 = 6$\n$x = \\frac{6}{2} = 3$"
   },
   {
     "id": 22,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 25 = 43",
-    "question_en": "Solve 3x + 25 = 43",
-    "options_zh": [
-      "18",
-      "7",
-      "6",
-      "22"
-    ],
-    "options_en": [
-      "18",
-      "7",
-      "6",
-      "22"
+    "question": "解方程 2x + 27 = 57",
+    "options": [
+      "30",
+      "14",
+      "15",
+      "42"
     ],
     "answer": 2,
-    "explanation_zh": "$3x + 25 = 43$\n$3x = 43 - 25 = 18$\n$x = \\frac{18}{3} = 6$",
-    "explanation_en": "$3x + 25 = 43$\n$3x = 43 - 25 = 18$\n$x = \\frac{18}{3} = 6$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$2x + 27 = 57$\n$2x = 57 - 27 = 30$\n$x = \\frac{30}{2} = 15$"
   },
   {
     "id": 23,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 16 = 31",
-    "question_en": "Solve 5x + 16 = 31",
-    "options_zh": [
+    "question": "解方程 6x + 6 = 18",
+    "options": [
+      "2",
+      "12",
       "3",
-      "9",
-      "15",
-      "2"
-    ],
-    "options_en": [
-      "3",
-      "9",
-      "15",
-      "2"
+      "4"
     ],
     "answer": 0,
-    "explanation_zh": "$5x + 16 = 31$\n$5x = 31 - 16 = 15$\n$x = \\frac{15}{5} = 3$",
-    "explanation_en": "$5x + 16 = 31$\n$5x = 31 - 16 = 15$\n$x = \\frac{15}{5} = 3$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$6x + 6 = 18$\n$6x = 18 - 6 = 12$\n$x = \\frac{12}{6} = 2$"
   },
   {
     "id": 24,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 11 = 29",
-    "question_en": "Solve 2x + 11 = 29",
-    "options_zh": [
-      "18",
-      "9",
-      "10",
-      "20"
+    "question": "解方程 4x + 5 = 13",
+    "options": [
+      "8",
+      "4",
+      "1",
+      "2"
     ],
-    "options_en": [
-      "18",
-      "9",
-      "10",
-      "20"
-    ],
-    "answer": 1,
-    "explanation_zh": "$2x + 11 = 29$\n$2x = 29 - 11 = 18$\n$x = \\frac{18}{2} = 9$",
-    "explanation_en": "$2x + 11 = 29$\n$2x = 29 - 11 = 18$\n$x = \\frac{18}{2} = 9$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$4x + 5 = 13$\n$4x = 13 - 5 = 8$\n$x = \\frac{8}{4} = 2$"
   },
   {
     "id": 25,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 2 = 10",
-    "question_en": "Solve 8x + 2 = 10",
-    "options_zh": [
-      "2",
-      "8",
-      "11",
-      "1"
-    ],
-    "options_en": [
-      "2",
-      "8",
-      "11",
-      "1"
+    "question": "解方程 5x + 24 = 54",
+    "options": [
+      "15",
+      "5",
+      "30",
+      "6"
     ],
     "answer": 3,
-    "explanation_zh": "$8x + 2 = 10$\n$8x = 10 - 2 = 8$\n$x = \\frac{8}{8} = 1$",
-    "explanation_en": "$8x + 2 = 10$\n$8x = 10 - 2 = 8$\n$x = \\frac{8}{8} = 1$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$5x + 24 = 54$\n$5x = 54 - 24 = 30$\n$x = \\frac{30}{5} = 6$"
   },
   {
     "id": 26,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 13 = 85",
-    "question_en": "Solve 6x + 13 = 85",
-    "options_zh": [
+    "question": "解方程 6x + 21 = 93",
+    "options": [
       "12",
-      "16",
-      "11",
-      "72"
-    ],
-    "options_en": [
-      "12",
-      "16",
+      "19",
       "11",
       "72"
     ],
     "answer": 0,
-    "explanation_zh": "$6x + 13 = 85$\n$6x = 85 - 13 = 72$\n$x = \\frac{72}{6} = 12$",
-    "explanation_en": "$6x + 13 = 85$\n$6x = 85 - 13 = 72$\n$x = \\frac{72}{6} = 12$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$6x + 21 = 93$\n$6x = 93 - 21 = 72$\n$x = \\frac{72}{6} = 12$"
   },
   {
     "id": 27,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 30 = 107",
-    "question_en": "Solve 7x + 30 = 107",
-    "options_zh": [
-      "19",
-      "77",
+    "question": "解方程 6x + 4 = 76",
+    "options": [
+      "13",
+      "12",
       "11",
-      "10"
+      "72"
     ],
-    "options_en": [
-      "19",
-      "77",
-      "11",
-      "10"
-    ],
-    "answer": 2,
-    "explanation_zh": "$7x + 30 = 107$\n$7x = 107 - 30 = 77$\n$x = \\frac{77}{7} = 11$",
-    "explanation_en": "$7x + 30 = 107$\n$7x = 107 - 30 = 77$\n$x = \\frac{77}{7} = 11$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 1,
+    "explanation": "$6x + 4 = 76$\n$6x = 76 - 4 = 72$\n$x = \\frac{72}{6} = 12$"
   },
   {
     "id": 28,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 14 = 44",
-    "question_en": "Solve 3x + 14 = 44",
-    "options_zh": [
-      "10",
-      "9",
-      "30",
-      "19"
+    "question": "解方程 5x + 22 = 97",
+    "options": [
+      "75",
+      "14",
+      "23",
+      "15"
     ],
-    "options_en": [
-      "10",
-      "9",
-      "30",
-      "19"
-    ],
-    "answer": 0,
-    "explanation_zh": "$3x + 14 = 44$\n$3x = 44 - 14 = 30$\n$x = \\frac{30}{3} = 10$",
-    "explanation_en": "$3x + 14 = 44$\n$3x = 44 - 14 = 30$\n$x = \\frac{30}{3} = 10$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$5x + 22 = 97$\n$5x = 97 - 22 = 75$\n$x = \\frac{75}{5} = 15$"
   },
   {
     "id": 29,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 23 = 100",
-    "question_en": "Solve 7x + 23 = 100",
-    "options_zh": [
+    "question": "解方程 7x + 11 = 109",
+    "options": [
+      "14",
       "17",
-      "77",
-      "11",
-      "10"
+      "98",
+      "13"
     ],
-    "options_en": [
-      "17",
-      "77",
-      "11",
-      "10"
-    ],
-    "answer": 2,
-    "explanation_zh": "$7x + 23 = 100$\n$7x = 100 - 23 = 77$\n$x = \\frac{77}{7} = 11$",
-    "explanation_en": "$7x + 23 = 100$\n$7x = 100 - 23 = 77$\n$x = \\frac{77}{7} = 11$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$7x + 11 = 109$\n$7x = 109 - 11 = 98$\n$x = \\frac{98}{7} = 14$"
   },
   {
     "id": 30,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 18 = 62",
-    "question_en": "Solve 4x + 18 = 62",
-    "options_zh": [
-      "44",
-      "12",
-      "20",
-      "11"
+    "question": "解方程 3x + 24 = 69",
+    "options": [
+      "45",
+      "15",
+      "14",
+      "31"
     ],
-    "options_en": [
-      "44",
-      "12",
-      "20",
-      "11"
-    ],
-    "answer": 3,
-    "explanation_zh": "$4x + 18 = 62$\n$4x = 62 - 18 = 44$\n$x = \\frac{44}{4} = 11$",
-    "explanation_en": "$4x + 18 = 62$\n$4x = 62 - 18 = 44$\n$x = \\frac{44}{4} = 11$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 1,
+    "explanation": "$3x + 24 = 69$\n$3x = 69 - 24 = 45$\n$x = \\frac{45}{3} = 15$"
   },
   {
     "id": 31,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 9 = 21",
-    "question_en": "Solve 2x + 9 = 21",
-    "options_zh": [
-      "15",
-      "6",
-      "7",
-      "12"
+    "question": "解方程 6x + 4 = 16",
+    "options": [
+      "12",
+      "3",
+      "3.1",
+      "2"
     ],
-    "options_en": [
-      "15",
-      "6",
-      "7",
-      "12"
-    ],
-    "answer": 1,
-    "explanation_zh": "$2x + 9 = 21$\n$2x = 21 - 9 = 12$\n$x = \\frac{12}{2} = 6$",
-    "explanation_en": "$2x + 9 = 21$\n$2x = 21 - 9 = 12$\n$x = \\frac{12}{2} = 6$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$6x + 4 = 16$\n$6x = 16 - 4 = 12$\n$x = \\frac{12}{6} = 2$"
   },
   {
     "id": 32,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 3 = 5",
-    "question_en": "Solve 2x + 3 = 5",
-    "options_zh": [
-      "2",
-      "1",
-      "0",
-      "4"
+    "question": "解方程 7x + 17 = 52",
+    "options": [
+      "5",
+      "6",
+      "35",
+      "9"
     ],
-    "options_en": [
-      "2",
-      "1",
-      "0",
-      "4"
-    ],
-    "answer": 1,
-    "explanation_zh": "$2x + 3 = 5$\n$2x = 5 - 3 = 2$\n$x = \\frac{2}{2} = 1$",
-    "explanation_en": "$2x + 3 = 5$\n$2x = 5 - 3 = 2$\n$x = \\frac{2}{2} = 1$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$7x + 17 = 52$\n$7x = 52 - 17 = 35$\n$x = \\frac{35}{7} = 5$"
   },
   {
     "id": 33,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 29 = 69",
-    "question_en": "Solve 8x + 29 = 69",
-    "options_zh": [
-      "40",
-      "12",
+    "question": "解方程 3x + 5 = 11",
+    "options": [
+      "2",
+      "6",
       "5",
-      "4"
+      "1"
     ],
-    "options_en": [
-      "40",
-      "12",
-      "5",
-      "4"
-    ],
-    "answer": 2,
-    "explanation_zh": "$8x + 29 = 69$\n$8x = 69 - 29 = 40$\n$x = \\frac{40}{8} = 5$",
-    "explanation_en": "$8x + 29 = 69$\n$8x = 69 - 29 = 40$\n$x = \\frac{40}{8} = 5$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$3x + 5 = 11$\n$3x = 11 - 5 = 6$\n$x = \\frac{6}{3} = 2$"
   },
   {
     "id": 34,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 20 = 27",
-    "question_en": "Solve 7x + 20 = 27",
-    "options_zh": [
-      "2",
-      "6",
-      "1",
-      "7"
-    ],
-    "options_en": [
-      "2",
-      "6",
-      "1",
-      "7"
+    "question": "解方程 7x + 3 = 24",
+    "options": [
+      "57",
+      "21",
+      "3",
+      "2"
     ],
     "answer": 2,
-    "explanation_zh": "$7x + 20 = 27$\n$7x = 27 - 20 = 7$\n$x = \\frac{7}{7} = 1$",
-    "explanation_en": "$7x + 20 = 27$\n$7x = 27 - 20 = 7$\n$x = \\frac{7}{7} = 1$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$7x + 3 = 24$\n$7x = 24 - 3 = 21$\n$x = \\frac{21}{7} = 3$"
   },
   {
     "id": 35,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 3 = 75",
-    "question_en": "Solve 8x + 3 = 75",
-    "options_zh": [
-      "9",
-      "72",
-      "-45",
-      "8"
-    ],
-    "options_en": [
-      "9",
-      "72",
-      "-45",
-      "8"
+    "question": "解方程 7x + 9 = 23",
+    "options": [
+      "2",
+      "4",
+      "14",
+      "3"
     ],
     "answer": 0,
-    "explanation_zh": "$8x + 3 = 75$\n$8x = 75 - 3 = 72$\n$x = \\frac{72}{8} = 9$",
-    "explanation_en": "$8x + 3 = 75$\n$8x = 75 - 3 = 72$\n$x = \\frac{72}{8} = 9$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$7x + 9 = 23$\n$7x = 23 - 9 = 14$\n$x = \\frac{14}{7} = 2$"
   },
   {
     "id": 36,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 28 = 48",
-    "question_en": "Solve 4x + 28 = 48",
-    "options_zh": [
-      "20",
-      "19",
-      "5",
-      "4"
+    "question": "解方程 7x + 4 = 74",
+    "options": [
+      "10",
+      "9",
+      "11",
+      "70"
     ],
-    "options_en": [
-      "20",
-      "19",
-      "5",
-      "4"
-    ],
-    "answer": 2,
-    "explanation_zh": "$4x + 28 = 48$\n$4x = 48 - 28 = 20$\n$x = \\frac{20}{4} = 5$",
-    "explanation_en": "$4x + 28 = 48$\n$4x = 48 - 28 = 20$\n$x = \\frac{20}{4} = 5$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$7x + 4 = 74$\n$7x = 74 - 4 = 70$\n$x = \\frac{70}{7} = 10$"
   },
   {
     "id": 37,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 11 = 51",
-    "question_en": "Solve 4x + 11 = 51",
-    "options_zh": [
-      "9",
-      "40",
-      "10",
-      "15"
+    "question": "解方程 8x + 3 = 11",
+    "options": [
+      "-37",
+      "1",
+      "8",
+      "2"
     ],
-    "options_en": [
-      "9",
-      "40",
-      "10",
-      "15"
-    ],
-    "answer": 2,
-    "explanation_zh": "$4x + 11 = 51$\n$4x = 51 - 11 = 40$\n$x = \\frac{40}{4} = 10$",
-    "explanation_en": "$4x + 11 = 51$\n$4x = 51 - 11 = 40$\n$x = \\frac{40}{4} = 10$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 1,
+    "explanation": "$8x + 3 = 11$\n$8x = 11 - 3 = 8$\n$x = \\frac{8}{8} = 1$"
   },
   {
     "id": 38,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 21 = 39",
-    "question_en": "Solve 6x + 21 = 39",
-    "options_zh": [
-      "18",
-      "4",
+    "question": "解方程 8x + 8 = 80",
+    "options": [
       "10",
-      "3"
+      "72",
+      "9",
+      "11"
     ],
-    "options_en": [
-      "18",
-      "4",
-      "10",
-      "3"
-    ],
-    "answer": 3,
-    "explanation_zh": "$6x + 21 = 39$\n$6x = 39 - 21 = 18$\n$x = \\frac{18}{6} = 3$",
-    "explanation_en": "$6x + 21 = 39$\n$6x = 39 - 21 = 18$\n$x = \\frac{18}{6} = 3$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 2,
+    "explanation": "$8x + 8 = 80$\n$8x = 80 - 8 = 72$\n$x = \\frac{72}{8} = 9$"
   },
   {
     "id": 39,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 17 = 137",
-    "question_en": "Solve 8x + 17 = 137",
-    "options_zh": [
+    "question": "解方程 6x + 11 = 89",
+    "options": [
+      "12",
+      "78",
       "16",
-      "120",
-      "15",
-      "19"
+      "13"
     ],
-    "options_en": [
-      "16",
-      "120",
-      "15",
-      "19"
-    ],
-    "answer": 2,
-    "explanation_zh": "$8x + 17 = 137$\n$8x = 137 - 17 = 120$\n$x = \\frac{120}{8} = 15$",
-    "explanation_en": "$8x + 17 = 137$\n$8x = 137 - 17 = 120$\n$x = \\frac{120}{8} = 15$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$6x + 11 = 89$\n$6x = 89 - 11 = 78$\n$x = \\frac{78}{6} = 13$"
   },
   {
     "id": 40,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 26 = 98",
-    "question_en": "Solve 8x + 26 = 98",
-    "options_zh": [
-      "10",
-      "72",
-      "9",
-      "15"
+    "question": "解方程 3x + 29 = 35",
+    "options": [
+      "6",
+      "3",
+      "21",
+      "2"
     ],
-    "options_en": [
-      "10",
-      "72",
-      "9",
-      "15"
-    ],
-    "answer": 2,
-    "explanation_zh": "$8x + 26 = 98$\n$8x = 98 - 26 = 72$\n$x = \\frac{72}{8} = 9$",
-    "explanation_en": "$8x + 26 = 98$\n$8x = 98 - 26 = 72$\n$x = \\frac{72}{8} = 9$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$3x + 29 = 35$\n$3x = 35 - 29 = 6$\n$x = \\frac{6}{3} = 2$"
   },
   {
     "id": 41,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 1 = 49",
-    "question_en": "Solve 8x + 1 = 49",
-    "options_zh": [
-      "5",
-      "-53",
-      "48",
-      "6"
-    ],
-    "options_en": [
-      "5",
-      "-53",
-      "48",
-      "6"
+    "question": "解方程 6x + 6 = 90",
+    "options": [
+      "16",
+      "84",
+      "13",
+      "14"
     ],
     "answer": 3,
-    "explanation_zh": "$8x + 1 = 49$\n$8x = 49 - 1 = 48$\n$x = \\frac{48}{8} = 6$",
-    "explanation_en": "$8x + 1 = 49$\n$8x = 49 - 1 = 48$\n$x = \\frac{48}{8} = 6$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$6x + 6 = 90$\n$6x = 90 - 6 = 84$\n$x = \\frac{84}{6} = 14$"
   },
   {
     "id": 42,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 7 = 13",
-    "question_en": "Solve 2x + 7 = 13",
-    "options_zh": [
-      "3",
-      "4",
+    "question": "解方程 4x + 12 = 52",
+    "options": [
       "10",
-      "6"
-    ],
-    "options_en": [
-      "3",
-      "4",
-      "10",
-      "6"
+      "40",
+      "16",
+      "9"
     ],
     "answer": 0,
-    "explanation_zh": "$2x + 7 = 13$\n$2x = 13 - 7 = 6$\n$x = \\frac{6}{2} = 3$",
-    "explanation_en": "$2x + 7 = 13$\n$2x = 13 - 7 = 6$\n$x = \\frac{6}{2} = 3$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$4x + 12 = 52$\n$4x = 52 - 12 = 40$\n$x = \\frac{40}{4} = 10$"
   },
   {
     "id": 43,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 2 = 38",
-    "question_en": "Solve 3x + 2 = 38",
-    "options_zh": [
-      "13",
-      "13.1",
-      "36",
-      "12"
-    ],
-    "options_en": [
-      "13",
-      "13.1",
-      "36",
-      "12"
+    "question": "解方程 4x + 18 = 74",
+    "options": [
+      "56",
+      "23",
+      "15",
+      "14"
     ],
     "answer": 3,
-    "explanation_zh": "$3x + 2 = 38$\n$3x = 38 - 2 = 36$\n$x = \\frac{36}{3} = 12$",
-    "explanation_en": "$3x + 2 = 38$\n$3x = 38 - 2 = 36$\n$x = \\frac{36}{3} = 12$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$4x + 18 = 74$\n$4x = 74 - 18 = 56$\n$x = \\frac{56}{4} = 14$"
   },
   {
     "id": 44,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 28 = 64",
-    "question_en": "Solve 4x + 28 = 64",
-    "options_zh": [
-      "36",
-      "9",
-      "23",
-      "10"
+    "question": "解方程 4x + 12 = 64",
+    "options": [
+      "19",
+      "12",
+      "52",
+      "13"
     ],
-    "options_en": [
-      "36",
-      "9",
-      "23",
-      "10"
-    ],
-    "answer": 1,
-    "explanation_zh": "$4x + 28 = 64$\n$4x = 64 - 28 = 36$\n$x = \\frac{36}{4} = 9$",
-    "explanation_en": "$4x + 28 = 64$\n$4x = 64 - 28 = 36$\n$x = \\frac{36}{4} = 9$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$4x + 12 = 64$\n$4x = 64 - 12 = 52$\n$x = \\frac{52}{4} = 13$"
   },
   {
     "id": 45,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 27 = 57",
-    "question_en": "Solve 2x + 27 = 57",
-    "options_zh": [
-      "30",
+    "question": "解方程 2x + 25 = 39",
+    "options": [
+      "7",
+      "32",
       "14",
-      "15",
-      "42"
+      "6"
     ],
-    "options_en": [
-      "30",
-      "14",
-      "15",
-      "42"
-    ],
-    "answer": 2,
-    "explanation_zh": "$2x + 27 = 57$\n$2x = 57 - 27 = 30$\n$x = \\frac{30}{2} = 15$",
-    "explanation_en": "$2x + 27 = 57$\n$2x = 57 - 27 = 30$\n$x = \\frac{30}{2} = 15$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$2x + 25 = 39$\n$2x = 39 - 25 = 14$\n$x = \\frac{14}{2} = 7$"
   },
   {
     "id": 46,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 20 = 28",
-    "question_en": "Solve 2x + 20 = 28",
-    "options_zh": [
-      "4",
-      "3",
-      "8",
-      "24"
+    "question": "解方程 7x + 27 = 97",
+    "options": [
+      "70",
+      "10",
+      "17",
+      "9"
     ],
-    "options_en": [
-      "4",
-      "3",
-      "8",
-      "24"
-    ],
-    "answer": 0,
-    "explanation_zh": "$2x + 20 = 28$\n$2x = 28 - 20 = 8$\n$x = \\frac{8}{2} = 4$",
-    "explanation_en": "$2x + 20 = 28$\n$2x = 28 - 20 = 8$\n$x = \\frac{8}{2} = 4$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 1,
+    "explanation": "$7x + 27 = 97$\n$7x = 97 - 27 = 70$\n$x = \\frac{70}{7} = 10$"
   },
   {
     "id": 47,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 6 = 18",
-    "question_en": "Solve 6x + 6 = 18",
-    "options_zh": [
+    "question": "解方程 2x + 6 = 8",
+    "options": [
       "2",
-      "12",
-      "3",
-      "4"
+      "2.1",
+      "1",
+      "7"
     ],
-    "options_en": [
-      "2",
-      "12",
-      "3",
-      "4"
-    ],
-    "answer": 0,
-    "explanation_zh": "$6x + 6 = 18$\n$6x = 18 - 6 = 12$\n$x = \\frac{12}{6} = 2$",
-    "explanation_en": "$6x + 6 = 18$\n$6x = 18 - 6 = 12$\n$x = \\frac{12}{6} = 2$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 2,
+    "explanation": "$2x + 6 = 8$\n$2x = 8 - 6 = 2$\n$x = \\frac{2}{2} = 1$"
   },
   {
     "id": 48,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 21 = 45",
-    "question_en": "Solve 4x + 21 = 45",
-    "options_zh": [
-      "16",
-      "24",
-      "6",
-      "7"
+    "question": "解方程 3x + 4 = 37",
+    "options": [
+      "11",
+      "33",
+      "12",
+      "13"
     ],
-    "options_en": [
-      "16",
-      "24",
-      "6",
-      "7"
-    ],
-    "answer": 2,
-    "explanation_zh": "$4x + 21 = 45$\n$4x = 45 - 21 = 24$\n$x = \\frac{24}{4} = 6$",
-    "explanation_en": "$4x + 21 = 45$\n$4x = 45 - 21 = 24$\n$x = \\frac{24}{4} = 6$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$3x + 4 = 37$\n$3x = 37 - 4 = 33$\n$x = \\frac{33}{3} = 11$"
   },
   {
     "id": 49,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 5 = 71",
-    "question_en": "Solve 6x + 5 = 71",
-    "options_zh": [
-      "12",
-      "11",
-      "66",
-      "12.1"
+    "question": "解方程 8x + 16 = 56",
+    "options": [
+      "40",
+      "9",
+      "6",
+      "5"
     ],
-    "options_en": [
-      "12",
-      "11",
-      "66",
-      "12.1"
-    ],
-    "answer": 1,
-    "explanation_zh": "$6x + 5 = 71$\n$6x = 71 - 5 = 66$\n$x = \\frac{66}{6} = 11$",
-    "explanation_en": "$6x + 5 = 71$\n$6x = 71 - 5 = 66$\n$x = \\frac{66}{6} = 11$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$8x + 16 = 56$\n$8x = 56 - 16 = 40$\n$x = \\frac{40}{8} = 5$"
   },
   {
     "id": 50,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 5 = 13",
-    "question_en": "Solve 4x + 5 = 13",
-    "options_zh": [
-      "8",
-      "4",
+    "question": "解方程 5x + 17 = 22",
+    "options": [
       "1",
-      "2"
+      "5",
+      "0",
+      "7"
     ],
-    "options_en": [
-      "8",
-      "4",
-      "1",
-      "2"
-    ],
-    "answer": 3,
-    "explanation_zh": "$4x + 5 = 13$\n$4x = 13 - 5 = 8$\n$x = \\frac{8}{4} = 2$",
-    "explanation_en": "$4x + 5 = 13$\n$4x = 13 - 5 = 8$\n$x = \\frac{8}{4} = 2$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$5x + 17 = 22$\n$5x = 22 - 17 = 5$\n$x = \\frac{5}{5} = 1$"
   },
   {
     "id": 51,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 24 = 54",
-    "question_en": "Solve 5x + 24 = 54",
-    "options_zh": [
-      "15",
-      "5",
-      "30",
-      "6"
+    "question": "解方程 3x + 23 = 35",
+    "options": [
+      "19",
+      "4",
+      "12",
+      "3"
     ],
-    "options_en": [
-      "15",
-      "5",
-      "30",
-      "6"
-    ],
-    "answer": 3,
-    "explanation_zh": "$5x + 24 = 54$\n$5x = 54 - 24 = 30$\n$x = \\frac{30}{5} = 6$",
-    "explanation_en": "$5x + 24 = 54$\n$5x = 54 - 24 = 30$\n$x = \\frac{30}{5} = 6$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 1,
+    "explanation": "$3x + 23 = 35$\n$3x = 35 - 23 = 12$\n$x = \\frac{12}{3} = 4$"
   },
   {
     "id": 52,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 28 = 98",
-    "question_en": "Solve 5x + 28 = 98",
-    "options_zh": [
+    "question": "解方程 7x + 29 = 43",
+    "options": [
       "14",
-      "70",
-      "13",
-      "25"
+      "10",
+      "3",
+      "2"
     ],
-    "options_en": [
-      "14",
-      "70",
-      "13",
-      "25"
-    ],
-    "answer": 0,
-    "explanation_zh": "$5x + 28 = 98$\n$5x = 98 - 28 = 70$\n$x = \\frac{70}{5} = 14$",
-    "explanation_en": "$5x + 28 = 98$\n$5x = 98 - 28 = 70$\n$x = \\frac{70}{5} = 14$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$7x + 29 = 43$\n$7x = 43 - 29 = 14$\n$x = \\frac{14}{7} = 2$"
   },
   {
     "id": 53,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 21 = 93",
-    "question_en": "Solve 6x + 21 = 93",
-    "options_zh": [
-      "12",
-      "19",
-      "11",
-      "72"
-    ],
-    "options_en": [
-      "12",
-      "19",
-      "11",
-      "72"
+    "question": "解方程 7x + 1 = 43",
+    "options": [
+      "6",
+      "58",
+      "42",
+      "5"
     ],
     "answer": 0,
-    "explanation_zh": "$6x + 21 = 93$\n$6x = 93 - 21 = 72$\n$x = \\frac{72}{6} = 12$",
-    "explanation_en": "$6x + 21 = 93$\n$6x = 93 - 21 = 72$\n$x = \\frac{72}{6} = 12$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$7x + 1 = 43$\n$7x = 43 - 1 = 42$\n$x = \\frac{42}{7} = 6$"
   },
   {
     "id": 54,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 4 = 76",
-    "question_en": "Solve 6x + 4 = 76",
-    "options_zh": [
+    "question": "解方程 5x + 27 = 92",
+    "options": [
       "13",
       "12",
-      "11",
-      "72"
+      "23",
+      "65"
     ],
-    "options_en": [
-      "13",
-      "12",
-      "11",
-      "72"
-    ],
-    "answer": 1,
-    "explanation_zh": "$6x + 4 = 76$\n$6x = 76 - 4 = 72$\n$x = \\frac{72}{6} = 12$",
-    "explanation_en": "$6x + 4 = 76$\n$6x = 76 - 4 = 72$\n$x = \\frac{72}{6} = 12$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$5x + 27 = 92$\n$5x = 92 - 27 = 65$\n$x = \\frac{65}{5} = 13$"
   },
   {
     "id": 55,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 22 = 97",
-    "question_en": "Solve 5x + 22 = 97",
-    "options_zh": [
-      "75",
+    "question": "解方程 4x + 24 = 76",
+    "options": [
+      "25",
+      "52",
       "14",
-      "23",
-      "15"
-    ],
-    "options_en": [
-      "75",
-      "14",
-      "23",
-      "15"
+      "13"
     ],
     "answer": 3,
-    "explanation_zh": "$5x + 22 = 97$\n$5x = 97 - 22 = 75$\n$x = \\frac{75}{5} = 15$",
-    "explanation_en": "$5x + 22 = 97$\n$5x = 97 - 22 = 75$\n$x = \\frac{75}{5} = 15$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$4x + 24 = 76$\n$4x = 76 - 24 = 52$\n$x = \\frac{52}{4} = 13$"
   },
   {
     "id": 56,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 11 = 109",
-    "question_en": "Solve 7x + 11 = 109",
-    "options_zh": [
+    "question": "解方程 4x + 17 = 77",
+    "options": [
+      "15",
       "14",
-      "17",
-      "98",
-      "13"
-    ],
-    "options_en": [
-      "14",
-      "17",
-      "98",
-      "13"
+      "60",
+      "23"
     ],
     "answer": 0,
-    "explanation_zh": "$7x + 11 = 109$\n$7x = 109 - 11 = 98$\n$x = \\frac{98}{7} = 14$",
-    "explanation_en": "$7x + 11 = 109$\n$7x = 109 - 11 = 98$\n$x = \\frac{98}{7} = 14$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$4x + 17 = 77$\n$4x = 77 - 17 = 60$\n$x = \\frac{60}{4} = 15$"
   },
   {
     "id": 57,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 24 = 69",
-    "question_en": "Solve 3x + 24 = 69",
-    "options_zh": [
-      "45",
-      "15",
+    "question": "解方程 6x + 20 = 68",
+    "options": [
+      "8",
       "14",
-      "31"
+      "48",
+      "7"
     ],
-    "options_en": [
-      "45",
-      "15",
-      "14",
-      "31"
-    ],
-    "answer": 1,
-    "explanation_zh": "$3x + 24 = 69$\n$3x = 69 - 24 = 45$\n$x = \\frac{45}{3} = 15$",
-    "explanation_en": "$3x + 24 = 69$\n$3x = 69 - 24 = 45$\n$x = \\frac{45}{3} = 15$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$6x + 20 = 68$\n$6x = 68 - 20 = 48$\n$x = \\frac{48}{6} = 8$"
   },
   {
     "id": 58,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 4 = 16",
-    "question_en": "Solve 6x + 4 = 16",
-    "options_zh": [
-      "12",
-      "3",
-      "3.1",
-      "2"
+    "question": "解方程 2x + 17 = 35",
+    "options": [
+      "9",
+      "8",
+      "18",
+      "26"
     ],
-    "options_en": [
-      "12",
-      "3",
-      "3.1",
-      "2"
-    ],
-    "answer": 3,
-    "explanation_zh": "$6x + 4 = 16$\n$6x = 16 - 4 = 12$\n$x = \\frac{12}{6} = 2$",
-    "explanation_en": "$6x + 4 = 16$\n$6x = 16 - 4 = 12$\n$x = \\frac{12}{6} = 2$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$2x + 17 = 35$\n$2x = 35 - 17 = 18$\n$x = \\frac{18}{2} = 9$"
   },
   {
     "id": 59,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 17 = 52",
-    "question_en": "Solve 7x + 17 = 52",
-    "options_zh": [
-      "5",
-      "6",
-      "35",
-      "9"
+    "question": "解方程 3x + 8 = 32",
+    "options": [
+      "9",
+      "13",
+      "8",
+      "24"
     ],
-    "options_en": [
-      "5",
-      "6",
-      "35",
-      "9"
-    ],
-    "answer": 0,
-    "explanation_zh": "$7x + 17 = 52$\n$7x = 52 - 17 = 35$\n$x = \\frac{35}{7} = 5$",
-    "explanation_en": "$7x + 17 = 52$\n$7x = 52 - 17 = 35$\n$x = \\frac{35}{7} = 5$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 2,
+    "explanation": "$3x + 8 = 32$\n$3x = 32 - 8 = 24$\n$x = \\frac{24}{3} = 8$"
   },
   {
     "id": 60,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 29 = 65",
-    "question_en": "Solve 6x + 29 = 65",
-    "options_zh": [
-      "36",
-      "15",
+    "question": "解方程 3x + 29 = 50",
+    "options": [
+      "7",
       "6",
-      "7"
+      "26",
+      "21"
     ],
-    "options_en": [
-      "36",
-      "15",
-      "6",
-      "7"
-    ],
-    "answer": 2,
-    "explanation_zh": "$6x + 29 = 65$\n$6x = 65 - 29 = 36$\n$x = \\frac{36}{6} = 6$",
-    "explanation_en": "$6x + 29 = 65$\n$6x = 65 - 29 = 36$\n$x = \\frac{36}{6} = 6$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$3x + 29 = 50$\n$3x = 50 - 29 = 21$\n$x = \\frac{21}{3} = 7$"
   },
   {
     "id": 61,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 5 = 11",
-    "question_en": "Solve 3x + 5 = 11",
-    "options_zh": [
-      "2",
-      "6",
-      "5",
-      "1"
+    "question": "解方程 2x + 7 = 31",
+    "options": [
+      "13",
+      "19",
+      "24",
+      "12"
     ],
-    "options_en": [
-      "2",
-      "6",
-      "5",
-      "1"
-    ],
-    "answer": 0,
-    "explanation_zh": "$3x + 5 = 11$\n$3x = 11 - 5 = 6$\n$x = \\frac{6}{3} = 2$",
-    "explanation_en": "$3x + 5 = 11$\n$3x = 11 - 5 = 6$\n$x = \\frac{6}{3} = 2$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$2x + 7 = 31$\n$2x = 31 - 7 = 24$\n$x = \\frac{24}{2} = 12$"
   },
   {
     "id": 62,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 3 = 24",
-    "question_en": "Solve 7x + 3 = 24",
-    "options_zh": [
-      "57",
-      "21",
+    "question": "解方程 5x + 23 = 38",
+    "options": [
+      "4",
+      "15",
       "3",
-      "2"
-    ],
-    "options_en": [
-      "57",
-      "21",
-      "3",
-      "2"
+      "12"
     ],
     "answer": 2,
-    "explanation_zh": "$7x + 3 = 24$\n$7x = 24 - 3 = 21$\n$x = \\frac{21}{7} = 3$",
-    "explanation_en": "$7x + 3 = 24$\n$7x = 24 - 3 = 21$\n$x = \\frac{21}{7} = 3$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$5x + 23 = 38$\n$5x = 38 - 23 = 15$\n$x = \\frac{15}{5} = 3$"
   },
   {
     "id": 63,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 29 = 57",
-    "question_en": "Solve 2x + 29 = 57",
-    "options_zh": [
+    "question": "解方程 7x + 19 = 117",
+    "options": [
+      "98",
+      "19",
       "14",
-      "43",
-      "15",
-      "28"
+      "15"
     ],
-    "options_en": [
-      "14",
-      "43",
-      "15",
-      "28"
-    ],
-    "answer": 0,
-    "explanation_zh": "$2x + 29 = 57$\n$2x = 57 - 29 = 28$\n$x = \\frac{28}{2} = 14$",
-    "explanation_en": "$2x + 29 = 57$\n$2x = 57 - 29 = 28$\n$x = \\frac{28}{2} = 14$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 2,
+    "explanation": "$7x + 19 = 117$\n$7x = 117 - 19 = 98$\n$x = \\frac{98}{7} = 14$"
   },
   {
     "id": 64,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 9 = 23",
-    "question_en": "Solve 7x + 9 = 23",
-    "options_zh": [
-      "2",
+    "question": "解方程 3x + 8 = 17",
+    "options": [
+      "3",
       "4",
-      "14",
-      "3"
-    ],
-    "options_en": [
-      "2",
-      "4",
-      "14",
-      "3"
+      "9",
+      "8"
     ],
     "answer": 0,
-    "explanation_zh": "$7x + 9 = 23$\n$7x = 23 - 9 = 14$\n$x = \\frac{14}{7} = 2$",
-    "explanation_en": "$7x + 9 = 23$\n$7x = 23 - 9 = 14$\n$x = \\frac{14}{7} = 2$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$3x + 8 = 17$\n$3x = 17 - 8 = 9$\n$x = \\frac{9}{3} = 3$"
   },
   {
     "id": 65,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 9 = 21",
-    "question_en": "Solve 3x + 9 = 21",
-    "options_zh": [
-      "4",
-      "5",
+    "question": "解方程 4x + 18 = 58",
+    "options": [
+      "40",
+      "19",
       "10",
-      "12"
+      "9"
     ],
-    "options_en": [
-      "4",
-      "5",
-      "10",
-      "12"
-    ],
-    "answer": 0,
-    "explanation_zh": "$3x + 9 = 21$\n$3x = 21 - 9 = 12$\n$x = \\frac{12}{3} = 4$",
-    "explanation_en": "$3x + 9 = 21$\n$3x = 21 - 9 = 12$\n$x = \\frac{12}{3} = 4$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 2,
+    "explanation": "$4x + 18 = 58$\n$4x = 58 - 18 = 40$\n$x = \\frac{40}{4} = 10$"
   },
   {
     "id": 66,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 4 = 74",
-    "question_en": "Solve 7x + 4 = 74",
-    "options_zh": [
-      "10",
-      "9",
-      "11",
-      "70"
-    ],
-    "options_en": [
-      "10",
-      "9",
-      "11",
-      "70"
+    "question": "解方程 8x + 20 = 84",
+    "options": [
+      "8",
+      "13",
+      "64",
+      "9"
     ],
     "answer": 0,
-    "explanation_zh": "$7x + 4 = 74$\n$7x = 74 - 4 = 70$\n$x = \\frac{70}{7} = 10$",
-    "explanation_en": "$7x + 4 = 74$\n$7x = 74 - 4 = 70$\n$x = \\frac{70}{7} = 10$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$8x + 20 = 84$\n$8x = 84 - 20 = 64$\n$x = \\frac{64}{8} = 8$"
   },
   {
     "id": 67,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 21 = 81",
-    "question_en": "Solve 6x + 21 = 81",
-    "options_zh": [
-      "11",
-      "17",
-      "10",
-      "60"
+    "question": "解方程 3x + 14 = 56",
+    "options": [
+      "23",
+      "42",
+      "15",
+      "14"
     ],
-    "options_en": [
-      "11",
-      "17",
-      "10",
-      "60"
-    ],
-    "answer": 2,
-    "explanation_zh": "$6x + 21 = 81$\n$6x = 81 - 21 = 60$\n$x = \\frac{60}{6} = 10$",
-    "explanation_en": "$6x + 21 = 81$\n$6x = 81 - 21 = 60$\n$x = \\frac{60}{6} = 10$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$3x + 14 = 56$\n$3x = 56 - 14 = 42$\n$x = \\frac{42}{3} = 14$"
   },
   {
     "id": 68,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 30 = 44",
-    "question_en": "Solve 2x + 30 = 44",
-    "options_zh": [
-      "7",
-      "37",
-      "14",
-      "8"
+    "question": "解方程 5x + 20 = 70",
+    "options": [
+      "9",
+      "10",
+      "18",
+      "50"
     ],
-    "options_en": [
-      "7",
-      "37",
-      "14",
-      "8"
-    ],
-    "answer": 0,
-    "explanation_zh": "$2x + 30 = 44$\n$2x = 44 - 30 = 14$\n$x = \\frac{14}{2} = 7$",
-    "explanation_en": "$2x + 30 = 44$\n$2x = 44 - 30 = 14$\n$x = \\frac{14}{2} = 7$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 1,
+    "explanation": "$5x + 20 = 70$\n$5x = 70 - 20 = 50$\n$x = \\frac{50}{5} = 10$"
   },
   {
     "id": 69,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 16 = 76",
-    "question_en": "Solve 4x + 16 = 76",
-    "options_zh": [
-      "23",
+    "question": "解方程 5x + 29 = 44",
+    "options": [
+      "4",
       "15",
-      "60",
-      "16"
+      "14",
+      "3"
     ],
-    "options_en": [
-      "23",
-      "15",
-      "60",
-      "16"
-    ],
-    "answer": 1,
-    "explanation_zh": "$4x + 16 = 76$\n$4x = 76 - 16 = 60$\n$x = \\frac{60}{4} = 15$",
-    "explanation_en": "$4x + 16 = 76$\n$4x = 76 - 16 = 60$\n$x = \\frac{60}{4} = 15$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$5x + 29 = 44$\n$5x = 44 - 29 = 15$\n$x = \\frac{15}{5} = 3$"
   },
   {
     "id": 70,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 3 = 11",
-    "question_en": "Solve 8x + 3 = 11",
-    "options_zh": [
-      "-37",
-      "1",
-      "8",
-      "2"
+    "question": "解方程 2x + 4 = 26",
+    "options": [
+      "15",
+      "10",
+      "11",
+      "22"
     ],
-    "options_en": [
-      "-37",
-      "1",
-      "8",
-      "2"
-    ],
-    "answer": 1,
-    "explanation_zh": "$8x + 3 = 11$\n$8x = 11 - 3 = 8$\n$x = \\frac{8}{8} = 1$",
-    "explanation_en": "$8x + 3 = 11$\n$8x = 11 - 3 = 8$\n$x = \\frac{8}{8} = 1$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 2,
+    "explanation": "$2x + 4 = 26$\n$2x = 26 - 4 = 22$\n$x = \\frac{22}{2} = 11$"
   },
   {
     "id": 71,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 14 = 22",
-    "question_en": "Solve 8x + 14 = 22",
-    "options_zh": [
+    "question": "解方程 6x + 12 = 60",
+    "options": [
+      "9",
       "8",
-      "0",
-      "1",
-      "4"
+      "12",
+      "48"
     ],
-    "options_en": [
-      "8",
-      "0",
-      "1",
-      "4"
-    ],
-    "answer": 2,
-    "explanation_zh": "$8x + 14 = 22$\n$8x = 22 - 14 = 8$\n$x = \\frac{8}{8} = 1$",
-    "explanation_en": "$8x + 14 = 22$\n$8x = 22 - 14 = 8$\n$x = \\frac{8}{8} = 1$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 1,
+    "explanation": "$6x + 12 = 60$\n$6x = 60 - 12 = 48$\n$x = \\frac{48}{6} = 8$"
   },
   {
     "id": 72,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 8 = 80",
-    "question_en": "Solve 8x + 8 = 80",
-    "options_zh": [
-      "10",
-      "72",
-      "9",
-      "11"
+    "question": "解方程 3x + 14 = 47",
+    "options": [
+      "11",
+      "20",
+      "12",
+      "33"
     ],
-    "options_en": [
-      "10",
-      "72",
-      "9",
-      "11"
-    ],
-    "answer": 2,
-    "explanation_zh": "$8x + 8 = 80$\n$8x = 80 - 8 = 72$\n$x = \\frac{72}{8} = 9$",
-    "explanation_en": "$8x + 8 = 80$\n$8x = 80 - 8 = 72$\n$x = \\frac{72}{8} = 9$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$3x + 14 = 47$\n$3x = 47 - 14 = 33$\n$x = \\frac{33}{3} = 11$"
   },
   {
     "id": 73,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 11 = 89",
-    "question_en": "Solve 6x + 11 = 89",
-    "options_zh": [
-      "12",
-      "78",
-      "16",
-      "13"
+    "question": "解方程 5x + 10 = 45",
+    "options": [
+      "11",
+      "35",
+      "7",
+      "8"
     ],
-    "options_en": [
-      "12",
-      "78",
-      "16",
-      "13"
-    ],
-    "answer": 3,
-    "explanation_zh": "$6x + 11 = 89$\n$6x = 89 - 11 = 78$\n$x = \\frac{78}{6} = 13$",
-    "explanation_en": "$6x + 11 = 89$\n$6x = 89 - 11 = 78$\n$x = \\frac{78}{6} = 13$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 2,
+    "explanation": "$5x + 10 = 45$\n$5x = 45 - 10 = 35$\n$x = \\frac{35}{5} = 7$"
   },
   {
     "id": 74,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 4 = 56",
-    "question_en": "Solve 4x + 4 = 56",
-    "options_zh": [
-      "52",
-      "15",
-      "13",
-      "12"
+    "question": "解方程 3x + 27 = 54",
+    "options": [
+      "10",
+      "9",
+      "27",
+      "27.1"
     ],
-    "options_en": [
-      "52",
-      "15",
-      "13",
-      "12"
-    ],
-    "answer": 2,
-    "explanation_zh": "$4x + 4 = 56$\n$4x = 56 - 4 = 52$\n$x = \\frac{52}{4} = 13$",
-    "explanation_en": "$4x + 4 = 56$\n$4x = 56 - 4 = 52$\n$x = \\frac{52}{4} = 13$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 1,
+    "explanation": "$3x + 27 = 54$\n$3x = 54 - 27 = 27$\n$x = \\frac{27}{3} = 9$"
   },
   {
     "id": 75,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 1 = 22",
-    "question_en": "Solve 7x + 1 = 22",
-    "options_zh": [
-      "3",
-      "70",
-      "21",
-      "2"
+    "question": "解方程 7x + 24 = 80",
+    "options": [
+      "56",
+      "8",
+      "7",
+      "14"
     ],
-    "options_en": [
-      "3",
-      "70",
-      "21",
-      "2"
-    ],
-    "answer": 0,
-    "explanation_zh": "$7x + 1 = 22$\n$7x = 22 - 1 = 21$\n$x = \\frac{21}{7} = 3$",
-    "explanation_en": "$7x + 1 = 22$\n$7x = 22 - 1 = 21$\n$x = \\frac{21}{7} = 3$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 1,
+    "explanation": "$7x + 24 = 80$\n$7x = 80 - 24 = 56$\n$x = \\frac{56}{7} = 8$"
   },
   {
     "id": 76,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 5 = 15",
-    "question_en": "Solve 2x + 5 = 15",
-    "options_zh": [
-      "10",
-      "5",
-      "6",
-      "10.1"
+    "question": "解方程 5x + 10 = 70",
+    "options": [
+      "12",
+      "16",
+      "60",
+      "13"
     ],
-    "options_en": [
-      "10",
-      "5",
-      "6",
-      "10.1"
-    ],
-    "answer": 1,
-    "explanation_zh": "$2x + 5 = 15$\n$2x = 15 - 5 = 10$\n$x = \\frac{10}{2} = 5$",
-    "explanation_en": "$2x + 5 = 15$\n$2x = 15 - 5 = 10$\n$x = \\frac{10}{2} = 5$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$5x + 10 = 70$\n$5x = 70 - 10 = 60$\n$x = \\frac{60}{5} = 12$"
   },
   {
     "id": 77,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 29 = 35",
-    "question_en": "Solve 3x + 29 = 35",
-    "options_zh": [
-      "6",
-      "3",
-      "21",
-      "2"
+    "question": "解方程 3x + 8 = 53",
+    "options": [
+      "45",
+      "15",
+      "16",
+      "20"
     ],
-    "options_en": [
-      "6",
-      "3",
-      "21",
-      "2"
-    ],
-    "answer": 3,
-    "explanation_zh": "$3x + 29 = 35$\n$3x = 35 - 29 = 6$\n$x = \\frac{6}{3} = 2$",
-    "explanation_en": "$3x + 29 = 35$\n$3x = 35 - 29 = 6$\n$x = \\frac{6}{3} = 2$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 1,
+    "explanation": "$3x + 8 = 53$\n$3x = 53 - 8 = 45$\n$x = \\frac{45}{3} = 15$"
   },
   {
     "id": 78,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 6 = 90",
-    "question_en": "Solve 6x + 6 = 90",
-    "options_zh": [
-      "16",
-      "84",
-      "13",
-      "14"
-    ],
-    "options_en": [
-      "16",
-      "84",
-      "13",
-      "14"
+    "question": "解方程 6x + 15 = 27",
+    "options": [
+      "1",
+      "12",
+      "7",
+      "2"
     ],
     "answer": 3,
-    "explanation_zh": "$6x + 6 = 90$\n$6x = 90 - 6 = 84$\n$x = \\frac{84}{6} = 14$",
-    "explanation_en": "$6x + 6 = 90$\n$6x = 90 - 6 = 84$\n$x = \\frac{84}{6} = 14$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$6x + 15 = 27$\n$6x = 27 - 15 = 12$\n$x = \\frac{12}{6} = 2$"
   },
   {
     "id": 79,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 7 = 57",
-    "question_en": "Solve 5x + 7 = 57",
-    "options_zh": [
-      "12",
-      "11",
-      "10",
-      "50"
+    "question": "解方程 2x + 9 = 39",
+    "options": [
+      "14",
+      "24",
+      "30",
+      "15"
     ],
-    "options_en": [
-      "12",
-      "11",
-      "10",
-      "50"
-    ],
-    "answer": 2,
-    "explanation_zh": "$5x + 7 = 57$\n$5x = 57 - 7 = 50$\n$x = \\frac{50}{5} = 10$",
-    "explanation_en": "$5x + 7 = 57$\n$5x = 57 - 7 = 50$\n$x = \\frac{50}{5} = 10$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$2x + 9 = 39$\n$2x = 39 - 9 = 30$\n$x = \\frac{30}{2} = 15$"
   },
   {
     "id": 80,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 17 = 45",
-    "question_en": "Solve 4x + 17 = 45",
-    "options_zh": [
-      "28",
+    "question": "解方程 6x + 1 = 31",
+    "options": [
+      "30",
       "6",
-      "15",
-      "7"
-    ],
-    "options_en": [
-      "28",
-      "6",
-      "15",
-      "7"
+      "-46",
+      "5"
     ],
     "answer": 3,
-    "explanation_zh": "$4x + 17 = 45$\n$4x = 45 - 17 = 28$\n$x = \\frac{28}{4} = 7$",
-    "explanation_en": "$4x + 17 = 45$\n$4x = 45 - 17 = 28$\n$x = \\frac{28}{4} = 7$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$6x + 1 = 31$\n$6x = 31 - 1 = 30$\n$x = \\frac{30}{6} = 5$"
   },
   {
     "id": 81,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 12 = 52",
-    "question_en": "Solve 4x + 12 = 52",
-    "options_zh": [
-      "10",
-      "40",
-      "16",
-      "9"
+    "question": "解方程 7x + 12 = 75",
+    "options": [
+      "12",
+      "9",
+      "63",
+      "8"
     ],
-    "options_en": [
-      "10",
-      "40",
-      "16",
-      "9"
-    ],
-    "answer": 0,
-    "explanation_zh": "$4x + 12 = 52$\n$4x = 52 - 12 = 40$\n$x = \\frac{40}{4} = 10$",
-    "explanation_en": "$4x + 12 = 52$\n$4x = 52 - 12 = 40$\n$x = \\frac{40}{4} = 10$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 1,
+    "explanation": "$7x + 12 = 75$\n$7x = 75 - 12 = 63$\n$x = \\frac{63}{7} = 9$"
   },
   {
     "id": 82,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 18 = 74",
-    "question_en": "Solve 4x + 18 = 74",
-    "options_zh": [
-      "56",
-      "23",
-      "15",
-      "14"
+    "question": "解方程 6x + 26 = 110",
+    "options": [
+      "14",
+      "13",
+      "22",
+      "84"
     ],
-    "options_en": [
-      "56",
-      "23",
-      "15",
-      "14"
-    ],
-    "answer": 3,
-    "explanation_zh": "$4x + 18 = 74$\n$4x = 74 - 18 = 56$\n$x = \\frac{56}{4} = 14$",
-    "explanation_en": "$4x + 18 = 74$\n$4x = 74 - 18 = 56$\n$x = \\frac{56}{4} = 14$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$6x + 26 = 110$\n$6x = 110 - 26 = 84$\n$x = \\frac{84}{6} = 14$"
   },
   {
     "id": 83,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 2 = 28",
-    "question_en": "Solve 2x + 2 = 28",
-    "options_zh": [
-      "15",
-      "26",
-      "13",
-      "12"
-    ],
-    "options_en": [
-      "15",
-      "26",
-      "13",
-      "12"
+    "question": "解方程 7x + 7 = 49",
+    "options": [
+      "42",
+      "8",
+      "6",
+      "5"
     ],
     "answer": 2,
-    "explanation_zh": "$2x + 2 = 28$\n$2x = 28 - 2 = 26$\n$x = \\frac{26}{2} = 13$",
-    "explanation_en": "$2x + 2 = 28$\n$2x = 28 - 2 = 26$\n$x = \\frac{26}{2} = 13$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$7x + 7 = 49$\n$7x = 49 - 7 = 42$\n$x = \\frac{42}{7} = 6$"
   },
   {
     "id": 84,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 12 = 64",
-    "question_en": "Solve 4x + 12 = 64",
-    "options_zh": [
-      "19",
-      "12",
-      "52",
-      "13"
+    "question": "解方程 8x + 1 = 17",
+    "options": [
+      "2",
+      "3",
+      "16",
+      "-13"
     ],
-    "options_en": [
-      "19",
-      "12",
-      "52",
-      "13"
-    ],
-    "answer": 3,
-    "explanation_zh": "$4x + 12 = 64$\n$4x = 64 - 12 = 52$\n$x = \\frac{52}{4} = 13$",
-    "explanation_en": "$4x + 12 = 64$\n$4x = 64 - 12 = 52$\n$x = \\frac{52}{4} = 13$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$8x + 1 = 17$\n$8x = 17 - 1 = 16$\n$x = \\frac{16}{8} = 2$"
   },
   {
     "id": 85,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 18 = 60",
-    "question_en": "Solve 7x + 18 = 60",
-    "options_zh": [
-      "42",
-      "7",
-      "6",
-      "11"
+    "question": "解方程 8x + 20 = 44",
+    "options": [
+      "3",
+      "24",
+      "4",
+      "8"
     ],
-    "options_en": [
-      "42",
-      "7",
-      "6",
-      "11"
-    ],
-    "answer": 2,
-    "explanation_zh": "$7x + 18 = 60$\n$7x = 60 - 18 = 42$\n$x = \\frac{42}{7} = 6$",
-    "explanation_en": "$7x + 18 = 60$\n$7x = 60 - 18 = 42$\n$x = \\frac{42}{7} = 6$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$8x + 20 = 44$\n$8x = 44 - 20 = 24$\n$x = \\frac{24}{8} = 3$"
   },
   {
     "id": 86,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 15 = 63",
-    "question_en": "Solve 8x + 15 = 63",
-    "options_zh": [
-      "6",
-      "9",
-      "7",
-      "48"
-    ],
-    "options_en": [
-      "6",
-      "9",
-      "7",
-      "48"
+    "question": "解方程 8x + 3 = 115",
+    "options": [
+      "14",
+      "112",
+      "68",
+      "15"
     ],
     "answer": 0,
-    "explanation_zh": "$8x + 15 = 63$\n$8x = 63 - 15 = 48$\n$x = \\frac{48}{8} = 6$",
-    "explanation_en": "$8x + 15 = 63$\n$8x = 63 - 15 = 48$\n$x = \\frac{48}{8} = 6$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$8x + 3 = 115$\n$8x = 115 - 3 = 112$\n$x = \\frac{112}{8} = 14$"
   },
   {
     "id": 87,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 25 = 39",
-    "question_en": "Solve 2x + 25 = 39",
-    "options_zh": [
-      "7",
-      "32",
-      "14",
-      "6"
+    "question": "解方程 2x + 26 = 44",
+    "options": [
+      "18",
+      "10",
+      "9",
+      "35"
     ],
-    "options_en": [
-      "7",
-      "32",
-      "14",
-      "6"
-    ],
-    "answer": 0,
-    "explanation_zh": "$2x + 25 = 39$\n$2x = 39 - 25 = 14$\n$x = \\frac{14}{2} = 7$",
-    "explanation_en": "$2x + 25 = 39$\n$2x = 39 - 25 = 14$\n$x = \\frac{14}{2} = 7$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 2,
+    "explanation": "$2x + 26 = 44$\n$2x = 44 - 26 = 18$\n$x = \\frac{18}{2} = 9$"
   },
   {
     "id": 88,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 15 = 37",
-    "question_en": "Solve 2x + 15 = 37",
-    "options_zh": [
-      "11",
-      "12",
-      "26",
-      "22"
+    "question": "解方程 5x + 11 = 31",
+    "options": [
+      "8",
+      "4",
+      "5",
+      "20"
     ],
-    "options_en": [
-      "11",
-      "12",
-      "26",
-      "22"
-    ],
-    "answer": 0,
-    "explanation_zh": "$2x + 15 = 37$\n$2x = 37 - 15 = 22$\n$x = \\frac{22}{2} = 11$",
-    "explanation_en": "$2x + 15 = 37$\n$2x = 37 - 15 = 22$\n$x = \\frac{22}{2} = 11$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 1,
+    "explanation": "$5x + 11 = 31$\n$5x = 31 - 11 = 20$\n$x = \\frac{20}{5} = 4$"
   },
   {
     "id": 89,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 27 = 97",
-    "question_en": "Solve 7x + 27 = 97",
-    "options_zh": [
-      "70",
+    "question": "解方程 3x + 5 = 35",
+    "options": [
+      "13",
       "10",
-      "17",
-      "9"
-    ],
-    "options_en": [
-      "70",
-      "10",
-      "17",
-      "9"
+      "9",
+      "30"
     ],
     "answer": 1,
-    "explanation_zh": "$7x + 27 = 97$\n$7x = 97 - 27 = 70$\n$x = \\frac{70}{7} = 10$",
-    "explanation_en": "$7x + 27 = 97$\n$7x = 97 - 27 = 70$\n$x = \\frac{70}{7} = 10$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$3x + 5 = 35$\n$3x = 35 - 5 = 30$\n$x = \\frac{30}{3} = 10$"
   },
   {
     "id": 90,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 28 = 42",
-    "question_en": "Solve 7x + 28 = 42",
-    "options_zh": [
-      "14",
-      "2",
-      "1",
-      "10"
+    "question": "解方程 5x + 30 = 65",
+    "options": [
+      "7",
+      "35",
+      "8",
+      "19"
     ],
-    "options_en": [
-      "14",
-      "2",
-      "1",
-      "10"
-    ],
-    "answer": 1,
-    "explanation_zh": "$7x + 28 = 42$\n$7x = 42 - 28 = 14$\n$x = \\frac{14}{7} = 2$",
-    "explanation_en": "$7x + 28 = 42$\n$7x = 42 - 28 = 14$\n$x = \\frac{14}{7} = 2$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$5x + 30 = 65$\n$5x = 65 - 30 = 35$\n$x = \\frac{35}{5} = 7$"
   },
   {
     "id": 91,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 11 = 32",
-    "question_en": "Solve 7x + 11 = 32",
-    "options_zh": [
-      "2",
-      "6",
-      "3",
-      "21"
+    "question": "解方程 7x + 20 = 41",
+    "options": [
+      "21",
+      "8",
+      "4",
+      "3"
     ],
-    "options_en": [
-      "2",
-      "6",
-      "3",
-      "21"
-    ],
-    "answer": 2,
-    "explanation_zh": "$7x + 11 = 32$\n$7x = 32 - 11 = 21$\n$x = \\frac{21}{7} = 3$",
-    "explanation_en": "$7x + 11 = 32$\n$7x = 32 - 11 = 21$\n$x = \\frac{21}{7} = 3$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$7x + 20 = 41$\n$7x = 41 - 20 = 21$\n$x = \\frac{21}{7} = 3$"
   },
   {
     "id": 92,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 6 = 8",
-    "question_en": "Solve 2x + 6 = 8",
-    "options_zh": [
-      "2",
-      "2.1",
-      "1",
-      "7"
+    "question": "解方程 7x + 13 = 90",
+    "options": [
+      "11",
+      "77",
+      "12",
+      "14"
     ],
-    "options_en": [
-      "2",
-      "2.1",
-      "1",
-      "7"
-    ],
-    "answer": 2,
-    "explanation_zh": "$2x + 6 = 8$\n$2x = 8 - 6 = 2$\n$x = \\frac{2}{2} = 1$",
-    "explanation_en": "$2x + 6 = 8$\n$2x = 8 - 6 = 2$\n$x = \\frac{2}{2} = 1$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$7x + 13 = 90$\n$7x = 90 - 13 = 77$\n$x = \\frac{77}{7} = 11$"
   },
   {
     "id": 93,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 4 = 37",
-    "question_en": "Solve 3x + 4 = 37",
-    "options_zh": [
-      "11",
-      "33",
-      "12",
-      "13"
-    ],
-    "options_en": [
-      "11",
-      "33",
-      "12",
-      "13"
+    "question": "解方程 4x + 30 = 46",
+    "options": [
+      "4",
+      "16",
+      "5",
+      "19"
     ],
     "answer": 0,
-    "explanation_zh": "$3x + 4 = 37$\n$3x = 37 - 4 = 33$\n$x = \\frac{33}{3} = 11$",
-    "explanation_en": "$3x + 4 = 37$\n$3x = 37 - 4 = 33$\n$x = \\frac{33}{3} = 11$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$4x + 30 = 46$\n$4x = 46 - 30 = 16$\n$x = \\frac{16}{4} = 4$"
   },
   {
     "id": 94,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 16 = 56",
-    "question_en": "Solve 8x + 16 = 56",
-    "options_zh": [
+    "question": "解方程 4x + 6 = 46",
+    "options": [
       "40",
-      "9",
-      "6",
-      "5"
-    ],
-    "options_en": [
-      "40",
-      "9",
-      "6",
-      "5"
+      "11",
+      "13",
+      "10"
     ],
     "answer": 3,
-    "explanation_zh": "$8x + 16 = 56$\n$8x = 56 - 16 = 40$\n$x = \\frac{40}{8} = 5$",
-    "explanation_en": "$8x + 16 = 56$\n$8x = 56 - 16 = 40$\n$x = \\frac{40}{8} = 5$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$4x + 6 = 46$\n$4x = 46 - 6 = 40$\n$x = \\frac{40}{4} = 10$"
   },
   {
     "id": 95,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 16 = 58",
-    "question_en": "Solve 7x + 16 = 58",
-    "options_zh": [
-      "10",
-      "6",
-      "5",
-      "42"
-    ],
-    "options_en": [
-      "10",
-      "6",
-      "5",
-      "42"
+    "question": "解方程 7x + 26 = 110",
+    "options": [
+      "84",
+      "12",
+      "19",
+      "11"
     ],
     "answer": 1,
-    "explanation_zh": "$7x + 16 = 58$\n$7x = 58 - 16 = 42$\n$x = \\frac{42}{7} = 6$",
-    "explanation_en": "$7x + 16 = 58$\n$7x = 58 - 16 = 42$\n$x = \\frac{42}{7} = 6$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$7x + 26 = 110$\n$7x = 110 - 26 = 84$\n$x = \\frac{84}{7} = 12$"
   },
   {
     "id": 96,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 30 = 60",
-    "question_en": "Solve 2x + 30 = 60",
-    "options_zh": [
-      "30",
-      "16",
-      "45",
-      "15"
+    "question": "解方程 6x + 7 = 49",
+    "options": [
+      "9",
+      "42",
+      "7",
+      "8"
     ],
-    "options_en": [
-      "30",
-      "16",
-      "45",
-      "15"
-    ],
-    "answer": 3,
-    "explanation_zh": "$2x + 30 = 60$\n$2x = 60 - 30 = 30$\n$x = \\frac{30}{2} = 15$",
-    "explanation_en": "$2x + 30 = 60$\n$2x = 60 - 30 = 30$\n$x = \\frac{30}{2} = 15$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 2,
+    "explanation": "$6x + 7 = 49$\n$6x = 49 - 7 = 42$\n$x = \\frac{42}{6} = 7$"
   },
   {
     "id": 97,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 17 = 22",
-    "question_en": "Solve 5x + 17 = 22",
-    "options_zh": [
-      "1",
-      "5",
-      "0",
+    "question": "解方程 2x + 16 = 30",
+    "options": [
+      "6",
+      "23",
+      "14",
       "7"
     ],
-    "options_en": [
-      "1",
-      "5",
-      "0",
-      "7"
-    ],
-    "answer": 0,
-    "explanation_zh": "$5x + 17 = 22$\n$5x = 22 - 17 = 5$\n$x = \\frac{5}{5} = 1$",
-    "explanation_en": "$5x + 17 = 22$\n$5x = 22 - 17 = 5$\n$x = \\frac{5}{5} = 1$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$2x + 16 = 30$\n$2x = 30 - 16 = 14$\n$x = \\frac{14}{2} = 7$"
   },
   {
     "id": 98,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 23 = 35",
-    "question_en": "Solve 3x + 23 = 35",
-    "options_zh": [
-      "19",
-      "4",
-      "12",
-      "3"
+    "question": "解方程 8x + 12 = 132",
+    "options": [
+      "15",
+      "120",
+      "14",
+      "18"
     ],
-    "options_en": [
-      "19",
-      "4",
-      "12",
-      "3"
-    ],
-    "answer": 1,
-    "explanation_zh": "$3x + 23 = 35$\n$3x = 35 - 23 = 12$\n$x = \\frac{12}{3} = 4$",
-    "explanation_en": "$3x + 23 = 35$\n$3x = 35 - 23 = 12$\n$x = \\frac{12}{3} = 4$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$8x + 12 = 132$\n$8x = 132 - 12 = 120$\n$x = \\frac{120}{8} = 15$"
   },
   {
     "id": 99,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 29 = 43",
-    "question_en": "Solve 7x + 29 = 43",
-    "options_zh": [
-      "14",
+    "question": "解方程 2x + 15 = 25",
+    "options": [
       "10",
-      "3",
-      "2"
+      "5",
+      "4",
+      "20"
     ],
-    "options_en": [
-      "14",
-      "10",
-      "3",
-      "2"
-    ],
-    "answer": 3,
-    "explanation_zh": "$7x + 29 = 43$\n$7x = 43 - 29 = 14$\n$x = \\frac{14}{7} = 2$",
-    "explanation_en": "$7x + 29 = 43$\n$7x = 43 - 29 = 14$\n$x = \\frac{14}{7} = 2$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 1,
+    "explanation": "$2x + 15 = 25$\n$2x = 25 - 15 = 10$\n$x = \\frac{10}{2} = 5$"
   },
   {
     "id": 100,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 1 = 43",
-    "question_en": "Solve 7x + 1 = 43",
-    "options_zh": [
-      "6",
-      "58",
-      "42",
-      "5"
+    "question": "解方程 3x + 24 = 48",
+    "options": [
+      "24",
+      "9",
+      "24.1",
+      "8"
     ],
-    "options_en": [
-      "6",
-      "58",
-      "42",
-      "5"
-    ],
-    "answer": 0,
-    "explanation_zh": "$7x + 1 = 43$\n$7x = 43 - 1 = 42$\n$x = \\frac{42}{7} = 6$",
-    "explanation_en": "$7x + 1 = 43$\n$7x = 43 - 1 = 42$\n$x = \\frac{42}{7} = 6$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$3x + 24 = 48$\n$3x = 48 - 24 = 24$\n$x = \\frac{24}{3} = 8$"
   },
   {
     "id": 101,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 14 = 38",
-    "question_en": "Solve 8x + 14 = 38",
-    "options_zh": [
-      "24",
-      "6",
-      "4",
-      "3"
-    ],
-    "options_en": [
-      "24",
-      "6",
-      "4",
+    "question": "解方程 3x + 14 = 23",
+    "options": [
+      "12",
+      "2",
+      "9",
       "3"
     ],
     "answer": 3,
-    "explanation_zh": "$8x + 14 = 38$\n$8x = 38 - 14 = 24$\n$x = \\frac{24}{8} = 3$",
-    "explanation_en": "$8x + 14 = 38$\n$8x = 38 - 14 = 24$\n$x = \\frac{24}{8} = 3$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$3x + 14 = 23$\n$3x = 23 - 14 = 9$\n$x = \\frac{9}{3} = 3$"
   },
   {
     "id": 102,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 21 = 76",
-    "question_en": "Solve 5x + 21 = 76",
-    "options_zh": [
-      "19",
-      "55",
+    "question": "解方程 7x + 26 = 103",
+    "options": [
+      "18",
       "12",
-      "11"
-    ],
-    "options_en": [
-      "19",
-      "55",
-      "12",
+      "77",
       "11"
     ],
     "answer": 3,
-    "explanation_zh": "$5x + 21 = 76$\n$5x = 76 - 21 = 55$\n$x = \\frac{55}{5} = 11$",
-    "explanation_en": "$5x + 21 = 76$\n$5x = 76 - 21 = 55$\n$x = \\frac{55}{5} = 11$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$7x + 26 = 103$\n$7x = 103 - 26 = 77$\n$x = \\frac{77}{7} = 11$"
   },
   {
     "id": 103,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 27 = 92",
-    "question_en": "Solve 5x + 27 = 92",
-    "options_zh": [
-      "13",
-      "12",
-      "23",
-      "65"
+    "question": "解方程 8x + 18 = 42",
+    "options": [
+      "7",
+      "4",
+      "24",
+      "3"
     ],
-    "options_en": [
-      "13",
-      "12",
-      "23",
-      "65"
-    ],
-    "answer": 0,
-    "explanation_zh": "$5x + 27 = 92$\n$5x = 92 - 27 = 65$\n$x = \\frac{65}{5} = 13$",
-    "explanation_en": "$5x + 27 = 92$\n$5x = 92 - 27 = 65$\n$x = \\frac{65}{5} = 13$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$8x + 18 = 42$\n$8x = 42 - 18 = 24$\n$x = \\frac{24}{8} = 3$"
   },
   {
     "id": 104,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 16 = 68",
-    "question_en": "Solve 4x + 16 = 68",
-    "options_zh": [
-      "21",
-      "12",
-      "52",
-      "13"
+    "question": "解方程 5x + 26 = 71",
+    "options": [
+      "19",
+      "9",
+      "45",
+      "8"
     ],
-    "options_en": [
-      "21",
-      "12",
-      "52",
-      "13"
-    ],
-    "answer": 3,
-    "explanation_zh": "$4x + 16 = 68$\n$4x = 68 - 16 = 52$\n$x = \\frac{52}{4} = 13$",
-    "explanation_en": "$4x + 16 = 68$\n$4x = 68 - 16 = 52$\n$x = \\frac{52}{4} = 13$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 1,
+    "explanation": "$5x + 26 = 71$\n$5x = 71 - 26 = 45$\n$x = \\frac{45}{5} = 9$"
   },
   {
     "id": 105,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 5 = 25",
-    "question_en": "Solve 2x + 5 = 25",
-    "options_zh": [
-      "15",
+    "question": "解方程 3x + 21 = 51",
+    "options": [
       "10",
-      "11",
-      "20"
+      "24",
+      "30",
+      "11"
     ],
-    "options_en": [
-      "15",
-      "10",
-      "11",
-      "20"
-    ],
-    "answer": 1,
-    "explanation_zh": "$2x + 5 = 25$\n$2x = 25 - 5 = 20$\n$x = \\frac{20}{2} = 10$",
-    "explanation_en": "$2x + 5 = 25$\n$2x = 25 - 5 = 20$\n$x = \\frac{20}{2} = 10$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$3x + 21 = 51$\n$3x = 51 - 21 = 30$\n$x = \\frac{30}{3} = 10$"
   },
   {
     "id": 106,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 20 = 32",
-    "question_en": "Solve 6x + 20 = 32",
-    "options_zh": [
-      "8",
-      "12",
-      "3",
-      "2"
+    "question": "解方程 5x + 22 = 92",
+    "options": [
+      "70",
+      "15",
+      "14",
+      "22"
     ],
-    "options_en": [
-      "8",
-      "12",
-      "3",
-      "2"
-    ],
-    "answer": 3,
-    "explanation_zh": "$6x + 20 = 32$\n$6x = 32 - 20 = 12$\n$x = \\frac{12}{6} = 2$",
-    "explanation_en": "$6x + 20 = 32$\n$6x = 32 - 20 = 12$\n$x = \\frac{12}{6} = 2$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 2,
+    "explanation": "$5x + 22 = 92$\n$5x = 92 - 22 = 70$\n$x = \\frac{70}{5} = 14$"
   },
   {
     "id": 107,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 29 = 38",
-    "question_en": "Solve 3x + 29 = 38",
-    "options_zh": [
-      "3",
-      "2",
-      "22",
-      "9"
+    "question": "解方程 6x + 24 = 30",
+    "options": [
+      "6",
+      "1",
+      "9",
+      "2"
     ],
-    "options_en": [
-      "3",
-      "2",
-      "22",
-      "9"
-    ],
-    "answer": 0,
-    "explanation_zh": "$3x + 29 = 38$\n$3x = 38 - 29 = 9$\n$x = \\frac{9}{3} = 3$",
-    "explanation_en": "$3x + 29 = 38$\n$3x = 38 - 29 = 9$\n$x = \\frac{9}{3} = 3$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 1,
+    "explanation": "$6x + 24 = 30$\n$6x = 30 - 24 = 6$\n$x = \\frac{6}{6} = 1$"
   },
   {
     "id": 108,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 24 = 102",
-    "question_en": "Solve 6x + 24 = 102",
-    "options_zh": [
-      "21",
-      "13",
-      "14",
-      "78"
-    ],
-    "options_en": [
-      "21",
-      "13",
-      "14",
-      "78"
+    "question": "解方程 4x + 24 = 44",
+    "options": [
+      "20",
+      "5",
+      "17",
+      "4"
     ],
     "answer": 1,
-    "explanation_zh": "$6x + 24 = 102$\n$6x = 102 - 24 = 78$\n$x = \\frac{78}{6} = 13$",
-    "explanation_en": "$6x + 24 = 102$\n$6x = 102 - 24 = 78$\n$x = \\frac{78}{6} = 13$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$4x + 24 = 44$\n$4x = 44 - 24 = 20$\n$x = \\frac{20}{4} = 5$"
   },
   {
     "id": 109,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 24 = 76",
-    "question_en": "Solve 4x + 24 = 76",
-    "options_zh": [
-      "25",
-      "52",
-      "14",
-      "13"
+    "question": "解方程 3x + 7 = 28",
+    "options": [
+      "7",
+      "8",
+      "11",
+      "21"
     ],
-    "options_en": [
-      "25",
-      "52",
-      "14",
-      "13"
-    ],
-    "answer": 3,
-    "explanation_zh": "$4x + 24 = 76$\n$4x = 76 - 24 = 52$\n$x = \\frac{52}{4} = 13$",
-    "explanation_en": "$4x + 24 = 76$\n$4x = 76 - 24 = 52$\n$x = \\frac{52}{4} = 13$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$3x + 7 = 28$\n$3x = 28 - 7 = 21$\n$x = \\frac{21}{3} = 7$"
   },
   {
     "id": 110,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 12 = 52",
-    "question_en": "Solve 8x + 12 = 52",
-    "options_zh": [
-      "4",
-      "5",
-      "8",
-      "40"
+    "question": "解方程 6x + 5 = 59",
+    "options": [
+      "54",
+      "10",
+      "9",
+      "10.1"
     ],
-    "options_en": [
-      "4",
-      "5",
-      "8",
-      "40"
-    ],
-    "answer": 1,
-    "explanation_zh": "$8x + 12 = 52$\n$8x = 52 - 12 = 40$\n$x = \\frac{40}{8} = 5$",
-    "explanation_en": "$8x + 12 = 52$\n$8x = 52 - 12 = 40$\n$x = \\frac{40}{8} = 5$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 2,
+    "explanation": "$6x + 5 = 59$\n$6x = 59 - 5 = 54$\n$x = \\frac{54}{6} = 9$"
   },
   {
     "id": 111,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 2 = 14",
-    "question_en": "Solve 4x + 2 = 14",
-    "options_zh": [
-      "3",
-      "4",
+    "question": "解方程 7x + 21 = 98",
+    "options": [
+      "77",
       "12",
-      "2"
+      "17",
+      "11"
     ],
-    "options_en": [
-      "3",
-      "4",
-      "12",
-      "2"
-    ],
-    "answer": 0,
-    "explanation_zh": "$4x + 2 = 14$\n$4x = 14 - 2 = 12$\n$x = \\frac{12}{4} = 3$",
-    "explanation_en": "$4x + 2 = 14$\n$4x = 14 - 2 = 12$\n$x = \\frac{12}{4} = 3$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$7x + 21 = 98$\n$7x = 98 - 21 = 77$\n$x = \\frac{77}{7} = 11$"
   },
   {
     "id": 112,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 12 = 68",
-    "question_en": "Solve 8x + 12 = 68",
-    "options_zh": [
-      "8",
-      "56",
-      "10",
-      "7"
+    "question": "解方程 4x + 30 = 54",
+    "options": [
+      "6",
+      "7",
+      "21",
+      "24"
     ],
-    "options_en": [
-      "8",
-      "56",
-      "10",
-      "7"
-    ],
-    "answer": 3,
-    "explanation_zh": "$8x + 12 = 68$\n$8x = 68 - 12 = 56$\n$x = \\frac{56}{8} = 7$",
-    "explanation_en": "$8x + 12 = 68$\n$8x = 68 - 12 = 56$\n$x = \\frac{56}{8} = 7$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 0,
+    "explanation": "$4x + 30 = 54$\n$4x = 54 - 30 = 24$\n$x = \\frac{24}{4} = 6$"
   },
   {
     "id": 113,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 28 = 40",
-    "question_en": "Solve 2x + 28 = 40",
-    "options_zh": [
-      "6",
-      "7",
+    "question": "解方程 2x + 8 = 30",
+    "options": [
+      "11",
+      "19",
       "12",
-      "34"
-    ],
-    "options_en": [
-      "6",
-      "7",
-      "12",
-      "34"
+      "22"
     ],
     "answer": 0,
-    "explanation_zh": "$2x + 28 = 40$\n$2x = 40 - 28 = 12$\n$x = \\frac{12}{2} = 6$",
-    "explanation_en": "$2x + 28 = 40$\n$2x = 40 - 28 = 12$\n$x = \\frac{12}{2} = 6$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$2x + 8 = 30$\n$2x = 30 - 8 = 22$\n$x = \\frac{22}{2} = 11$"
   },
   {
     "id": 114,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 17 = 77",
-    "question_en": "Solve 4x + 17 = 77",
-    "options_zh": [
+    "question": "解方程 7x + 14 = 112",
+    "options": [
       "15",
-      "14",
-      "60",
-      "23"
+      "98",
+      "18",
+      "14"
     ],
-    "options_en": [
-      "15",
-      "14",
-      "60",
-      "23"
-    ],
-    "answer": 0,
-    "explanation_zh": "$4x + 17 = 77$\n$4x = 77 - 17 = 60$\n$x = \\frac{60}{4} = 15$",
-    "explanation_en": "$4x + 17 = 77$\n$4x = 77 - 17 = 60$\n$x = \\frac{60}{4} = 15$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$7x + 14 = 112$\n$7x = 112 - 14 = 98$\n$x = \\frac{98}{7} = 14$"
   },
   {
     "id": 115,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 20 = 68",
-    "question_en": "Solve 6x + 20 = 68",
-    "options_zh": [
-      "8",
-      "14",
-      "48",
-      "7"
+    "question": "解方程 8x + 4 = 28",
+    "options": [
+      "24",
+      "4",
+      "4.1",
+      "3"
     ],
-    "options_en": [
-      "8",
-      "14",
-      "48",
-      "7"
-    ],
-    "answer": 0,
-    "explanation_zh": "$6x + 20 = 68$\n$6x = 68 - 20 = 48$\n$x = \\frac{48}{6} = 8$",
-    "explanation_en": "$6x + 20 = 68$\n$6x = 68 - 20 = 48$\n$x = \\frac{48}{6} = 8$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$8x + 4 = 28$\n$8x = 28 - 4 = 24$\n$x = \\frac{24}{8} = 3$"
   },
   {
     "id": 116,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 17 = 35",
-    "question_en": "Solve 2x + 17 = 35",
-    "options_zh": [
-      "9",
+    "question": "解方程 4x + 18 = 46",
+    "options": [
       "8",
-      "18",
-      "26"
+      "7",
+      "16",
+      "28"
     ],
-    "options_en": [
-      "9",
-      "8",
-      "18",
-      "26"
-    ],
-    "answer": 0,
-    "explanation_zh": "$2x + 17 = 35$\n$2x = 35 - 17 = 18$\n$x = \\frac{18}{2} = 9$",
-    "explanation_en": "$2x + 17 = 35$\n$2x = 35 - 17 = 18$\n$x = \\frac{18}{2} = 9$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 1,
+    "explanation": "$4x + 18 = 46$\n$4x = 46 - 18 = 28$\n$x = \\frac{28}{4} = 7$"
   },
   {
     "id": 117,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 8 = 32",
-    "question_en": "Solve 3x + 8 = 32",
-    "options_zh": [
-      "9",
-      "13",
-      "8",
-      "24"
+    "question": "解方程 8x + 22 = 70",
+    "options": [
+      "7",
+      "48",
+      "11",
+      "6"
     ],
-    "options_en": [
-      "9",
-      "13",
-      "8",
-      "24"
-    ],
-    "answer": 2,
-    "explanation_zh": "$3x + 8 = 32$\n$3x = 32 - 8 = 24$\n$x = \\frac{24}{3} = 8$",
-    "explanation_en": "$3x + 8 = 32$\n$3x = 32 - 8 = 24$\n$x = \\frac{24}{3} = 8$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$8x + 22 = 70$\n$8x = 70 - 22 = 48$\n$x = \\frac{48}{8} = 6$"
   },
   {
     "id": 118,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 29 = 50",
-    "question_en": "Solve 3x + 29 = 50",
-    "options_zh": [
-      "7",
-      "6",
-      "26",
-      "21"
+    "question": "解方程 2x + 6 = 34",
+    "options": [
+      "20",
+      "13",
+      "14",
+      "28"
     ],
-    "options_en": [
-      "7",
-      "6",
-      "26",
-      "21"
-    ],
-    "answer": 0,
-    "explanation_zh": "$3x + 29 = 50$\n$3x = 50 - 29 = 21$\n$x = \\frac{21}{3} = 7$",
-    "explanation_en": "$3x + 29 = 50$\n$3x = 50 - 29 = 21$\n$x = \\frac{21}{3} = 7$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 2,
+    "explanation": "$2x + 6 = 34$\n$2x = 34 - 6 = 28$\n$x = \\frac{28}{2} = 14$"
   },
   {
     "id": 119,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 25 = 79",
-    "question_en": "Solve 6x + 25 = 79",
-    "options_zh": [
-      "10",
-      "54",
-      "17",
-      "9"
-    ],
-    "options_en": [
-      "10",
-      "54",
-      "17",
-      "9"
+    "question": "解方程 3x + 10 = 55",
+    "options": [
+      "45",
+      "14",
+      "21",
+      "15"
     ],
     "answer": 3,
-    "explanation_zh": "$6x + 25 = 79$\n$6x = 79 - 25 = 54$\n$x = \\frac{54}{6} = 9$",
-    "explanation_en": "$6x + 25 = 79$\n$6x = 79 - 25 = 54$\n$x = \\frac{54}{6} = 9$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$3x + 10 = 55$\n$3x = 55 - 10 = 45$\n$x = \\frac{45}{3} = 15$"
   },
   {
     "id": 120,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 7 = 31",
-    "question_en": "Solve 2x + 7 = 31",
-    "options_zh": [
-      "13",
-      "19",
-      "24",
-      "12"
+    "question": "解方程 7x + 1 = 99",
+    "options": [
+      "15",
+      "14",
+      "-6",
+      "98"
     ],
-    "options_en": [
-      "13",
-      "19",
-      "24",
-      "12"
-    ],
-    "answer": 3,
-    "explanation_zh": "$2x + 7 = 31$\n$2x = 31 - 7 = 24$\n$x = \\frac{24}{2} = 12$",
-    "explanation_en": "$2x + 7 = 31$\n$2x = 31 - 7 = 24$\n$x = \\frac{24}{2} = 12$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 1,
+    "explanation": "$7x + 1 = 99$\n$7x = 99 - 1 = 98$\n$x = \\frac{98}{7} = 14$"
   },
   {
     "id": 121,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 10 = 34",
-    "question_en": "Solve 4x + 10 = 34",
-    "options_zh": [
-      "5",
-      "6",
-      "11",
-      "24"
+    "question": "解方程 2x + 17 = 37",
+    "options": [
+      "20",
+      "27",
+      "10",
+      "9"
     ],
-    "options_en": [
-      "5",
-      "6",
-      "11",
-      "24"
-    ],
-    "answer": 1,
-    "explanation_zh": "$4x + 10 = 34$\n$4x = 34 - 10 = 24$\n$x = \\frac{24}{4} = 6$",
-    "explanation_en": "$4x + 10 = 34$\n$4x = 34 - 10 = 24$\n$x = \\frac{24}{4} = 6$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 2,
+    "explanation": "$2x + 17 = 37$\n$2x = 37 - 17 = 20$\n$x = \\frac{20}{2} = 10$"
   },
   {
     "id": 122,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 23 = 38",
-    "question_en": "Solve 5x + 23 = 38",
-    "options_zh": [
-      "4",
-      "15",
+    "question": "解方程 8x + 11 = 19",
+    "options": [
       "3",
-      "12"
+      "8",
+      "2",
+      "1"
     ],
-    "options_en": [
-      "4",
-      "15",
-      "3",
-      "12"
-    ],
-    "answer": 2,
-    "explanation_zh": "$5x + 23 = 38$\n$5x = 38 - 23 = 15$\n$x = \\frac{15}{5} = 3$",
-    "explanation_en": "$5x + 23 = 38$\n$5x = 38 - 23 = 15$\n$x = \\frac{15}{5} = 3$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$8x + 11 = 19$\n$8x = 19 - 11 = 8$\n$x = \\frac{8}{8} = 1$"
   },
   {
     "id": 123,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 19 = 117",
-    "question_en": "Solve 7x + 19 = 117",
-    "options_zh": [
-      "98",
+    "question": "解方程 8x + 30 = 126",
+    "options": [
       "19",
-      "14",
-      "15"
+      "13",
+      "96",
+      "12"
     ],
-    "options_en": [
-      "98",
-      "19",
-      "14",
-      "15"
-    ],
-    "answer": 2,
-    "explanation_zh": "$7x + 19 = 117$\n$7x = 117 - 19 = 98$\n$x = \\frac{98}{7} = 14$",
-    "explanation_en": "$7x + 19 = 117$\n$7x = 117 - 19 = 98$\n$x = \\frac{98}{7} = 14$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$8x + 30 = 126$\n$8x = 126 - 30 = 96$\n$x = \\frac{96}{8} = 12$"
   },
   {
     "id": 124,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 8 = 17",
-    "question_en": "Solve 3x + 8 = 17",
-    "options_zh": [
-      "3",
+    "question": "解方程 4x + 27 = 43",
+    "options": [
+      "17",
       "4",
-      "9",
-      "8"
+      "16",
+      "3"
     ],
-    "options_en": [
-      "3",
-      "4",
-      "9",
-      "8"
-    ],
-    "answer": 0,
-    "explanation_zh": "$3x + 8 = 17$\n$3x = 17 - 8 = 9$\n$x = \\frac{9}{3} = 3$",
-    "explanation_en": "$3x + 8 = 17$\n$3x = 17 - 8 = 9$\n$x = \\frac{9}{3} = 3$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 1,
+    "explanation": "$4x + 27 = 43$\n$4x = 43 - 27 = 16$\n$x = \\frac{16}{4} = 4$"
   },
   {
     "id": 125,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 18 = 58",
-    "question_en": "Solve 4x + 18 = 58",
-    "options_zh": [
-      "40",
-      "19",
-      "10",
-      "9"
+    "question": "解方程 5x + 11 = 46",
+    "options": [
+      "35",
+      "6",
+      "11",
+      "7"
     ],
-    "options_en": [
-      "40",
-      "19",
-      "10",
-      "9"
-    ],
-    "answer": 2,
-    "explanation_zh": "$4x + 18 = 58$\n$4x = 58 - 18 = 40$\n$x = \\frac{40}{4} = 10$",
-    "explanation_en": "$4x + 18 = 58$\n$4x = 58 - 18 = 40$\n$x = \\frac{40}{4} = 10$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "answer": 3,
+    "explanation": "$5x + 11 = 46$\n$5x = 46 - 11 = 35$\n$x = \\frac{35}{5} = 7$"
   },
   {
     "id": 126,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 20 = 84",
-    "question_en": "Solve 8x + 20 = 84",
-    "options_zh": [
-      "8",
-      "13",
-      "64",
-      "9"
-    ],
-    "options_en": [
-      "8",
-      "13",
-      "64",
-      "9"
-    ],
-    "answer": 0,
-    "explanation_zh": "$8x + 20 = 84$\n$8x = 84 - 20 = 64$\n$x = \\frac{64}{8} = 8$",
-    "explanation_en": "$8x + 20 = 84$\n$8x = 84 - 20 = 64$\n$x = \\frac{64}{8} = 8$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 127,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 14 = 56",
-    "question_en": "Solve 3x + 14 = 56",
-    "options_zh": [
-      "23",
-      "42",
-      "15",
-      "14"
-    ],
-    "options_en": [
-      "23",
-      "42",
-      "15",
-      "14"
-    ],
-    "answer": 3,
-    "explanation_zh": "$3x + 14 = 56$\n$3x = 56 - 14 = 42$\n$x = \\frac{42}{3} = 14$",
-    "explanation_en": "$3x + 14 = 56$\n$3x = 56 - 14 = 42$\n$x = \\frac{42}{3} = 14$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 128,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 20 = 44",
-    "question_en": "Solve 2x + 20 = 44",
-    "options_zh": [
-      "11",
-      "32",
-      "12",
-      "24"
-    ],
-    "options_en": [
-      "11",
-      "32",
-      "12",
-      "24"
-    ],
-    "answer": 2,
-    "explanation_zh": "$2x + 20 = 44$\n$2x = 44 - 20 = 24$\n$x = \\frac{24}{2} = 12$",
-    "explanation_en": "$2x + 20 = 44$\n$2x = 44 - 20 = 24$\n$x = \\frac{24}{2} = 12$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 129,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 3 = 33",
-    "question_en": "Solve 2x + 3 = 33",
-    "options_zh": [
-      "18",
-      "30",
-      "14",
-      "15"
-    ],
-    "options_en": [
-      "18",
-      "30",
-      "14",
-      "15"
-    ],
-    "answer": 3,
-    "explanation_zh": "$2x + 3 = 33$\n$2x = 33 - 3 = 30$\n$x = \\frac{30}{2} = 15$",
-    "explanation_en": "$2x + 3 = 33$\n$2x = 33 - 3 = 30$\n$x = \\frac{30}{2} = 15$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 130,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 11 = 31",
-    "question_en": "Solve 4x + 11 = 31",
-    "options_zh": [
-      "5",
-      "10",
-      "6",
-      "20"
-    ],
-    "options_en": [
-      "5",
-      "10",
-      "6",
-      "20"
-    ],
-    "answer": 0,
-    "explanation_zh": "$4x + 11 = 31$\n$4x = 31 - 11 = 20$\n$x = \\frac{20}{4} = 5$",
-    "explanation_en": "$4x + 11 = 31$\n$4x = 31 - 11 = 20$\n$x = \\frac{20}{4} = 5$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 131,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 4 = 8",
-    "question_en": "Solve 4x + 4 = 8",
-    "options_zh": [
-      "0",
-      "1",
-      "4",
-      "3"
-    ],
-    "options_en": [
-      "0",
-      "1",
-      "4",
-      "3"
-    ],
-    "answer": 1,
-    "explanation_zh": "$4x + 4 = 8$\n$4x = 8 - 4 = 4$\n$x = \\frac{4}{4} = 1$",
-    "explanation_en": "$4x + 4 = 8$\n$4x = 8 - 4 = 4$\n$x = \\frac{4}{4} = 1$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 132,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 21 = 48",
-    "question_en": "Solve 3x + 21 = 48",
-    "options_zh": [
-      "8",
-      "23",
-      "27",
-      "9"
-    ],
-    "options_en": [
-      "8",
-      "23",
-      "27",
-      "9"
-    ],
-    "answer": 3,
-    "explanation_zh": "$3x + 21 = 48$\n$3x = 48 - 21 = 27$\n$x = \\frac{27}{3} = 9$",
-    "explanation_en": "$3x + 21 = 48$\n$3x = 48 - 21 = 27$\n$x = \\frac{27}{3} = 9$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 133,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 20 = 70",
-    "question_en": "Solve 5x + 20 = 70",
-    "options_zh": [
-      "9",
-      "10",
-      "18",
-      "50"
-    ],
-    "options_en": [
-      "9",
-      "10",
-      "18",
-      "50"
-    ],
-    "answer": 1,
-    "explanation_zh": "$5x + 20 = 70$\n$5x = 70 - 20 = 50$\n$x = \\frac{50}{5} = 10$",
-    "explanation_en": "$5x + 20 = 70$\n$5x = 70 - 20 = 50$\n$x = \\frac{50}{5} = 10$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 134,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 14 = 28",
-    "question_en": "Solve 7x + 14 = 28",
-    "options_zh": [
-      "6",
-      "14",
-      "2",
-      "3"
-    ],
-    "options_en": [
-      "6",
-      "14",
-      "2",
-      "3"
-    ],
-    "answer": 2,
-    "explanation_zh": "$7x + 14 = 28$\n$7x = 28 - 14 = 14$\n$x = \\frac{14}{7} = 2$",
-    "explanation_en": "$7x + 14 = 28$\n$7x = 28 - 14 = 14$\n$x = \\frac{14}{7} = 2$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 135,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 22 = 112",
-    "question_en": "Solve 6x + 22 = 112",
-    "options_zh": [
-      "16",
-      "90",
-      "15",
-      "22"
-    ],
-    "options_en": [
-      "16",
-      "90",
-      "15",
-      "22"
-    ],
-    "answer": 2,
-    "explanation_zh": "$6x + 22 = 112$\n$6x = 112 - 22 = 90$\n$x = \\frac{90}{6} = 15$",
-    "explanation_en": "$6x + 22 = 112$\n$6x = 112 - 22 = 90$\n$x = \\frac{90}{6} = 15$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 136,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 29 = 44",
-    "question_en": "Solve 5x + 29 = 44",
-    "options_zh": [
-      "4",
-      "15",
-      "14",
-      "3"
-    ],
-    "options_en": [
-      "4",
-      "15",
-      "14",
-      "3"
-    ],
-    "answer": 3,
-    "explanation_zh": "$5x + 29 = 44$\n$5x = 44 - 29 = 15$\n$x = \\frac{15}{5} = 3$",
-    "explanation_en": "$5x + 29 = 44$\n$5x = 44 - 29 = 15$\n$x = \\frac{15}{5} = 3$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 137,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 4 = 26",
-    "question_en": "Solve 2x + 4 = 26",
-    "options_zh": [
-      "15",
-      "10",
-      "11",
-      "22"
-    ],
-    "options_en": [
-      "15",
-      "10",
-      "11",
-      "22"
-    ],
-    "answer": 2,
-    "explanation_zh": "$2x + 4 = 26$\n$2x = 26 - 4 = 22$\n$x = \\frac{22}{2} = 11$",
-    "explanation_en": "$2x + 4 = 26$\n$2x = 26 - 4 = 22$\n$x = \\frac{22}{2} = 11$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 138,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 12 = 60",
-    "question_en": "Solve 6x + 12 = 60",
-    "options_zh": [
-      "9",
-      "8",
-      "12",
-      "48"
-    ],
-    "options_en": [
-      "9",
-      "8",
-      "12",
-      "48"
-    ],
-    "answer": 1,
-    "explanation_zh": "$6x + 12 = 60$\n$6x = 60 - 12 = 48$\n$x = \\frac{48}{6} = 8$",
-    "explanation_en": "$6x + 12 = 60$\n$6x = 60 - 12 = 48$\n$x = \\frac{48}{6} = 8$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 139,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 14 = 47",
-    "question_en": "Solve 3x + 14 = 47",
-    "options_zh": [
-      "11",
-      "20",
-      "12",
-      "33"
-    ],
-    "options_en": [
-      "11",
-      "20",
-      "12",
-      "33"
-    ],
-    "answer": 0,
-    "explanation_zh": "$3x + 14 = 47$\n$3x = 47 - 14 = 33$\n$x = \\frac{33}{3} = 11$",
-    "explanation_en": "$3x + 14 = 47$\n$3x = 47 - 14 = 33$\n$x = \\frac{33}{3} = 11$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 140,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 12 = 44",
-    "question_en": "Solve 4x + 12 = 44",
-    "options_zh": [
-      "9",
-      "32",
-      "14",
-      "8"
-    ],
-    "options_en": [
-      "9",
-      "32",
-      "14",
-      "8"
-    ],
-    "answer": 3,
-    "explanation_zh": "$4x + 12 = 44$\n$4x = 44 - 12 = 32$\n$x = \\frac{32}{4} = 8$",
-    "explanation_en": "$4x + 12 = 44$\n$4x = 44 - 12 = 32$\n$x = \\frac{32}{4} = 8$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 141,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 17 = 107",
-    "question_en": "Solve 6x + 17 = 107",
-    "options_zh": [
-      "90",
-      "14",
-      "20",
-      "15"
-    ],
-    "options_en": [
-      "90",
-      "14",
-      "20",
-      "15"
-    ],
-    "answer": 3,
-    "explanation_zh": "$6x + 17 = 107$\n$6x = 107 - 17 = 90$\n$x = \\frac{90}{6} = 15$",
-    "explanation_en": "$6x + 17 = 107$\n$6x = 107 - 17 = 90$\n$x = \\frac{90}{6} = 15$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 142,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 8 = 56",
-    "question_en": "Solve 6x + 8 = 56",
-    "options_zh": [
-      "8",
-      "48",
-      "10",
-      "7"
-    ],
-    "options_en": [
-      "8",
-      "48",
-      "10",
-      "7"
-    ],
-    "answer": 0,
-    "explanation_zh": "$6x + 8 = 56$\n$6x = 56 - 8 = 48$\n$x = \\frac{48}{6} = 8$",
-    "explanation_en": "$6x + 8 = 56$\n$6x = 56 - 8 = 48$\n$x = \\frac{48}{6} = 8$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 143,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 8 = 16",
-    "question_en": "Solve 4x + 8 = 16",
-    "options_zh": [
-      "6",
-      "2",
-      "1",
-      "8"
-    ],
-    "options_en": [
-      "6",
-      "2",
-      "1",
-      "8"
-    ],
-    "answer": 1,
-    "explanation_zh": "$4x + 8 = 16$\n$4x = 16 - 8 = 8$\n$x = \\frac{8}{4} = 2$",
-    "explanation_en": "$4x + 8 = 16$\n$4x = 16 - 8 = 8$\n$x = \\frac{8}{4} = 2$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 144,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 10 = 45",
-    "question_en": "Solve 5x + 10 = 45",
-    "options_zh": [
-      "11",
-      "35",
-      "7",
-      "8"
-    ],
-    "options_en": [
-      "11",
-      "35",
-      "7",
-      "8"
-    ],
-    "answer": 2,
-    "explanation_zh": "$5x + 10 = 45$\n$5x = 45 - 10 = 35$\n$x = \\frac{35}{5} = 7$",
-    "explanation_en": "$5x + 10 = 45$\n$5x = 45 - 10 = 35$\n$x = \\frac{35}{5} = 7$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 145,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 4 = 44",
-    "question_en": "Solve 8x + 4 = 44",
-    "options_zh": [
-      "40",
-      "6",
-      "5",
-      "4"
-    ],
-    "options_en": [
-      "40",
-      "6",
-      "5",
-      "4"
-    ],
-    "answer": 2,
-    "explanation_zh": "$8x + 4 = 44$\n$8x = 44 - 4 = 40$\n$x = \\frac{40}{8} = 5$",
-    "explanation_en": "$8x + 4 = 44$\n$8x = 44 - 4 = 40$\n$x = \\frac{40}{8} = 5$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 146,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 27 = 54",
-    "question_en": "Solve 3x + 27 = 54",
-    "options_zh": [
-      "10",
-      "9",
-      "27",
-      "27.1"
-    ],
-    "options_en": [
-      "10",
-      "9",
-      "27",
-      "27.1"
-    ],
-    "answer": 1,
-    "explanation_zh": "$3x + 27 = 54$\n$3x = 54 - 27 = 27$\n$x = \\frac{27}{3} = 9$",
-    "explanation_en": "$3x + 27 = 54$\n$3x = 54 - 27 = 27$\n$x = \\frac{27}{3} = 9$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 147,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 17 = 71",
-    "question_en": "Solve 6x + 17 = 71",
-    "options_zh": [
-      "8",
-      "9",
-      "14",
-      "54"
-    ],
-    "options_en": [
-      "8",
-      "9",
-      "14",
-      "54"
-    ],
-    "answer": 1,
-    "explanation_zh": "$6x + 17 = 71$\n$6x = 71 - 17 = 54$\n$x = \\frac{54}{6} = 9$",
-    "explanation_en": "$6x + 17 = 71$\n$6x = 71 - 17 = 54$\n$x = \\frac{54}{6} = 9$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 148,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 26 = 82",
-    "question_en": "Solve 8x + 26 = 82",
-    "options_zh": [
-      "56",
-      "13",
-      "8",
-      "7"
-    ],
-    "options_en": [
-      "56",
-      "13",
-      "8",
-      "7"
-    ],
-    "answer": 3,
-    "explanation_zh": "$8x + 26 = 82$\n$8x = 82 - 26 = 56$\n$x = \\frac{56}{8} = 7$",
-    "explanation_en": "$8x + 26 = 82$\n$8x = 82 - 26 = 56$\n$x = \\frac{56}{8} = 7$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 149,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 3 = 69",
-    "question_en": "Solve 6x + 3 = 69",
-    "options_zh": [
-      "12",
-      "66",
-      "11",
-      "10"
-    ],
-    "options_en": [
-      "12",
-      "66",
-      "11",
-      "10"
-    ],
-    "answer": 2,
-    "explanation_zh": "$6x + 3 = 69$\n$6x = 69 - 3 = 66$\n$x = \\frac{66}{6} = 11$",
-    "explanation_en": "$6x + 3 = 69$\n$6x = 69 - 3 = 66$\n$x = \\frac{66}{6} = 11$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 150,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 24 = 80",
-    "question_en": "Solve 7x + 24 = 80",
-    "options_zh": [
-      "56",
-      "8",
-      "7",
-      "14"
-    ],
-    "options_en": [
-      "56",
-      "8",
-      "7",
-      "14"
-    ],
-    "answer": 1,
-    "explanation_zh": "$7x + 24 = 80$\n$7x = 80 - 24 = 56$\n$x = \\frac{56}{7} = 8$",
-    "explanation_en": "$7x + 24 = 80$\n$7x = 80 - 24 = 56$\n$x = \\frac{56}{7} = 8$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 151,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 10 = 70",
-    "question_en": "Solve 5x + 10 = 70",
-    "options_zh": [
-      "12",
-      "16",
-      "60",
-      "13"
-    ],
-    "options_en": [
-      "12",
-      "16",
-      "60",
-      "13"
-    ],
-    "answer": 0,
-    "explanation_zh": "$5x + 10 = 70$\n$5x = 70 - 10 = 60$\n$x = \\frac{60}{5} = 12$",
-    "explanation_en": "$5x + 10 = 70$\n$5x = 70 - 10 = 60$\n$x = \\frac{60}{5} = 12$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 152,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 8 = 53",
-    "question_en": "Solve 3x + 8 = 53",
-    "options_zh": [
-      "45",
-      "15",
-      "16",
-      "20"
-    ],
-    "options_en": [
-      "45",
-      "15",
-      "16",
-      "20"
-    ],
-    "answer": 1,
-    "explanation_zh": "$3x + 8 = 53$\n$3x = 53 - 8 = 45$\n$x = \\frac{45}{3} = 15$",
-    "explanation_en": "$3x + 8 = 53$\n$3x = 53 - 8 = 45$\n$x = \\frac{45}{3} = 15$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 153,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 17 = 73",
-    "question_en": "Solve 7x + 17 = 73",
-    "options_zh": [
-      "12",
-      "9",
-      "8",
-      "56"
-    ],
-    "options_en": [
-      "12",
-      "9",
-      "8",
-      "56"
-    ],
-    "answer": 2,
-    "explanation_zh": "$7x + 17 = 73$\n$7x = 73 - 17 = 56$\n$x = \\frac{56}{7} = 8$",
-    "explanation_en": "$7x + 17 = 73$\n$7x = 73 - 17 = 56$\n$x = \\frac{56}{7} = 8$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 154,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 13 = 28",
-    "question_en": "Solve 3x + 13 = 28",
-    "options_zh": [
-      "15",
-      "13",
-      "4",
-      "5"
-    ],
-    "options_en": [
-      "15",
-      "13",
-      "4",
-      "5"
-    ],
-    "answer": 3,
-    "explanation_zh": "$3x + 13 = 28$\n$3x = 28 - 13 = 15$\n$x = \\frac{15}{3} = 5$",
-    "explanation_en": "$3x + 13 = 28$\n$3x = 28 - 13 = 15$\n$x = \\frac{15}{3} = 5$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 155,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 15 = 27",
-    "question_en": "Solve 6x + 15 = 27",
-    "options_zh": [
-      "1",
-      "12",
-      "7",
-      "2"
-    ],
-    "options_en": [
-      "1",
-      "12",
-      "7",
-      "2"
-    ],
-    "answer": 3,
-    "explanation_zh": "$6x + 15 = 27$\n$6x = 27 - 15 = 12$\n$x = \\frac{12}{6} = 2$",
-    "explanation_en": "$6x + 15 = 27$\n$6x = 27 - 15 = 12$\n$x = \\frac{12}{6} = 2$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 156,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 9 = 39",
-    "question_en": "Solve 2x + 9 = 39",
-    "options_zh": [
-      "14",
-      "24",
-      "30",
-      "15"
-    ],
-    "options_en": [
-      "14",
-      "24",
-      "30",
-      "15"
-    ],
-    "answer": 3,
-    "explanation_zh": "$2x + 9 = 39$\n$2x = 39 - 9 = 30$\n$x = \\frac{30}{2} = 15$",
-    "explanation_en": "$2x + 9 = 39$\n$2x = 39 - 9 = 30$\n$x = \\frac{30}{2} = 15$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 157,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 1 = 31",
-    "question_en": "Solve 6x + 1 = 31",
-    "options_zh": [
-      "30",
-      "6",
-      "-46",
-      "5"
-    ],
-    "options_en": [
-      "30",
-      "6",
-      "-46",
-      "5"
-    ],
-    "answer": 3,
-    "explanation_zh": "$6x + 1 = 31$\n$6x = 31 - 1 = 30$\n$x = \\frac{30}{6} = 5$",
-    "explanation_en": "$6x + 1 = 31$\n$6x = 31 - 1 = 30$\n$x = \\frac{30}{6} = 5$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 158,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 22 = 34",
-    "question_en": "Solve 4x + 22 = 34",
-    "options_zh": [
-      "12",
-      "4",
-      "3",
-      "14"
-    ],
-    "options_en": [
-      "12",
-      "4",
-      "3",
-      "14"
-    ],
-    "answer": 2,
-    "explanation_zh": "$4x + 22 = 34$\n$4x = 34 - 22 = 12$\n$x = \\frac{12}{4} = 3$",
-    "explanation_en": "$4x + 22 = 34$\n$4x = 34 - 22 = 12$\n$x = \\frac{12}{4} = 3$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 159,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 26 = 86",
-    "question_en": "Solve 4x + 26 = 86",
-    "options_zh": [
-      "15",
-      "60",
-      "28",
-      "16"
-    ],
-    "options_en": [
-      "15",
-      "60",
-      "28",
-      "16"
-    ],
-    "answer": 0,
-    "explanation_zh": "$4x + 26 = 86$\n$4x = 86 - 26 = 60$\n$x = \\frac{60}{4} = 15$",
-    "explanation_en": "$4x + 26 = 86$\n$4x = 86 - 26 = 60$\n$x = \\frac{60}{4} = 15$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 160,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 24 = 45",
-    "question_en": "Solve 3x + 24 = 45",
-    "options_zh": [
-      "21",
-      "6",
-      "23",
-      "7"
-    ],
-    "options_en": [
-      "21",
-      "6",
-      "23",
-      "7"
-    ],
-    "answer": 3,
-    "explanation_zh": "$3x + 24 = 45$\n$3x = 45 - 24 = 21$\n$x = \\frac{21}{3} = 7$",
-    "explanation_en": "$3x + 24 = 45$\n$3x = 45 - 24 = 21$\n$x = \\frac{21}{3} = 7$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 161,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 12 = 75",
-    "question_en": "Solve 7x + 12 = 75",
-    "options_zh": [
-      "12",
-      "9",
-      "63",
-      "8"
-    ],
-    "options_en": [
-      "12",
-      "9",
-      "63",
-      "8"
-    ],
-    "answer": 1,
-    "explanation_zh": "$7x + 12 = 75$\n$7x = 75 - 12 = 63$\n$x = \\frac{63}{7} = 9$",
-    "explanation_en": "$7x + 12 = 75$\n$7x = 75 - 12 = 63$\n$x = \\frac{63}{7} = 9$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 162,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 26 = 110",
-    "question_en": "Solve 6x + 26 = 110",
-    "options_zh": [
-      "14",
-      "13",
-      "22",
-      "84"
-    ],
-    "options_en": [
-      "14",
-      "13",
-      "22",
-      "84"
-    ],
-    "answer": 0,
-    "explanation_zh": "$6x + 26 = 110$\n$6x = 110 - 26 = 84$\n$x = \\frac{84}{6} = 14$",
-    "explanation_en": "$6x + 26 = 110$\n$6x = 110 - 26 = 84$\n$x = \\frac{84}{6} = 14$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 163,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 7 = 49",
-    "question_en": "Solve 7x + 7 = 49",
-    "options_zh": [
-      "42",
-      "8",
-      "6",
-      "5"
-    ],
-    "options_en": [
-      "42",
-      "8",
-      "6",
-      "5"
-    ],
-    "answer": 2,
-    "explanation_zh": "$7x + 7 = 49$\n$7x = 49 - 7 = 42$\n$x = \\frac{42}{7} = 6$",
-    "explanation_en": "$7x + 7 = 49$\n$7x = 49 - 7 = 42$\n$x = \\frac{42}{7} = 6$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 164,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 1 = 17",
-    "question_en": "Solve 8x + 1 = 17",
-    "options_zh": [
-      "2",
-      "3",
-      "16",
-      "-13"
-    ],
-    "options_en": [
-      "2",
-      "3",
-      "16",
-      "-13"
-    ],
-    "answer": 0,
-    "explanation_zh": "$8x + 1 = 17$\n$8x = 17 - 1 = 16$\n$x = \\frac{16}{8} = 2$",
-    "explanation_en": "$8x + 1 = 17$\n$8x = 17 - 1 = 16$\n$x = \\frac{16}{8} = 2$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 165,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 20 = 44",
-    "question_en": "Solve 8x + 20 = 44",
-    "options_zh": [
-      "3",
-      "24",
-      "4",
-      "8"
-    ],
-    "options_en": [
-      "3",
-      "24",
-      "4",
-      "8"
-    ],
-    "answer": 0,
-    "explanation_zh": "$8x + 20 = 44$\n$8x = 44 - 20 = 24$\n$x = \\frac{24}{8} = 3$",
-    "explanation_en": "$8x + 20 = 44$\n$8x = 44 - 20 = 24$\n$x = \\frac{24}{8} = 3$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 166,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 3 = 115",
-    "question_en": "Solve 8x + 3 = 115",
-    "options_zh": [
-      "14",
-      "112",
-      "68",
-      "15"
-    ],
-    "options_en": [
-      "14",
-      "112",
-      "68",
-      "15"
-    ],
-    "answer": 0,
-    "explanation_zh": "$8x + 3 = 115$\n$8x = 115 - 3 = 112$\n$x = \\frac{112}{8} = 14$",
-    "explanation_en": "$8x + 3 = 115$\n$8x = 115 - 3 = 112$\n$x = \\frac{112}{8} = 14$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 167,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 16 = 79",
-    "question_en": "Solve 7x + 16 = 79",
-    "options_zh": [
-      "9",
-      "63",
-      "10",
-      "13"
-    ],
-    "options_en": [
-      "9",
-      "63",
-      "10",
-      "13"
-    ],
-    "answer": 0,
-    "explanation_zh": "$7x + 16 = 79$\n$7x = 79 - 16 = 63$\n$x = \\frac{63}{7} = 9$",
-    "explanation_en": "$7x + 16 = 79$\n$7x = 79 - 16 = 63$\n$x = \\frac{63}{7} = 9$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 168,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 12 = 54",
-    "question_en": "Solve 6x + 12 = 54",
-    "options_zh": [
-      "8",
-      "42",
-      "7",
-      "11"
-    ],
-    "options_en": [
-      "8",
-      "42",
-      "7",
-      "11"
-    ],
-    "answer": 2,
-    "explanation_zh": "$6x + 12 = 54$\n$6x = 54 - 12 = 42$\n$x = \\frac{42}{6} = 7$",
-    "explanation_en": "$6x + 12 = 54$\n$6x = 54 - 12 = 42$\n$x = \\frac{42}{6} = 7$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 169,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 22 = 113",
-    "question_en": "Solve 7x + 22 = 113",
-    "options_zh": [
-      "91",
-      "12",
-      "13",
-      "19"
-    ],
-    "options_en": [
-      "91",
-      "12",
-      "13",
-      "19"
-    ],
-    "answer": 2,
-    "explanation_zh": "$7x + 22 = 113$\n$7x = 113 - 22 = 91$\n$x = \\frac{91}{7} = 13$",
-    "explanation_en": "$7x + 22 = 113$\n$7x = 113 - 22 = 91$\n$x = \\frac{91}{7} = 13$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 170,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 14 = 39",
-    "question_en": "Solve 5x + 14 = 39",
-    "options_zh": [
-      "6",
-      "5",
-      "25",
-      "10"
-    ],
-    "options_en": [
-      "6",
-      "5",
-      "25",
-      "10"
-    ],
-    "answer": 1,
-    "explanation_zh": "$5x + 14 = 39$\n$5x = 39 - 14 = 25$\n$x = \\frac{25}{5} = 5$",
-    "explanation_en": "$5x + 14 = 39$\n$5x = 39 - 14 = 25$\n$x = \\frac{25}{5} = 5$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 171,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 30 = 51",
-    "question_en": "Solve 7x + 30 = 51",
-    "options_zh": [
-      "11",
-      "4",
-      "21",
-      "3"
-    ],
-    "options_en": [
-      "11",
-      "4",
-      "21",
-      "3"
-    ],
-    "answer": 3,
-    "explanation_zh": "$7x + 30 = 51$\n$7x = 51 - 30 = 21$\n$x = \\frac{21}{7} = 3$",
-    "explanation_en": "$7x + 30 = 51$\n$7x = 51 - 30 = 21$\n$x = \\frac{21}{7} = 3$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 172,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 26 = 44",
-    "question_en": "Solve 2x + 26 = 44",
-    "options_zh": [
-      "18",
-      "10",
-      "9",
-      "35"
-    ],
-    "options_en": [
-      "18",
-      "10",
-      "9",
-      "35"
-    ],
-    "answer": 2,
-    "explanation_zh": "$2x + 26 = 44$\n$2x = 44 - 26 = 18$\n$x = \\frac{18}{2} = 9$",
-    "explanation_en": "$2x + 26 = 44$\n$2x = 44 - 26 = 18$\n$x = \\frac{18}{2} = 9$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 173,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 11 = 31",
-    "question_en": "Solve 5x + 11 = 31",
-    "options_zh": [
-      "8",
-      "4",
-      "5",
-      "20"
-    ],
-    "options_en": [
-      "8",
-      "4",
-      "5",
-      "20"
-    ],
-    "answer": 1,
-    "explanation_zh": "$5x + 11 = 31$\n$5x = 31 - 11 = 20$\n$x = \\frac{20}{5} = 4$",
-    "explanation_en": "$5x + 11 = 31$\n$5x = 31 - 11 = 20$\n$x = \\frac{20}{5} = 4$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 174,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 5 = 35",
-    "question_en": "Solve 3x + 5 = 35",
-    "options_zh": [
-      "13",
-      "10",
-      "9",
-      "30"
-    ],
-    "options_en": [
-      "13",
-      "10",
-      "9",
-      "30"
-    ],
-    "answer": 1,
-    "explanation_zh": "$3x + 5 = 35$\n$3x = 35 - 5 = 30$\n$x = \\frac{30}{3} = 10$",
-    "explanation_en": "$3x + 5 = 35$\n$3x = 35 - 5 = 30$\n$x = \\frac{30}{3} = 10$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 175,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 30 = 65",
-    "question_en": "Solve 5x + 30 = 65",
-    "options_zh": [
-      "7",
-      "35",
-      "8",
-      "19"
-    ],
-    "options_en": [
-      "7",
-      "35",
-      "8",
-      "19"
-    ],
-    "answer": 0,
-    "explanation_zh": "$5x + 30 = 65$\n$5x = 65 - 30 = 35$\n$x = \\frac{35}{5} = 7$",
-    "explanation_en": "$5x + 30 = 65$\n$5x = 65 - 30 = 35$\n$x = \\frac{35}{5} = 7$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 176,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 20 = 41",
-    "question_en": "Solve 7x + 20 = 41",
-    "options_zh": [
-      "21",
-      "8",
-      "4",
-      "3"
-    ],
-    "options_en": [
-      "21",
-      "8",
-      "4",
-      "3"
-    ],
-    "answer": 3,
-    "explanation_zh": "$7x + 20 = 41$\n$7x = 41 - 20 = 21$\n$x = \\frac{21}{7} = 3$",
-    "explanation_en": "$7x + 20 = 41$\n$7x = 41 - 20 = 21$\n$x = \\frac{21}{7} = 3$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 177,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 13 = 90",
-    "question_en": "Solve 7x + 13 = 90",
-    "options_zh": [
-      "11",
-      "77",
-      "12",
-      "14"
-    ],
-    "options_en": [
-      "11",
-      "77",
-      "12",
-      "14"
-    ],
-    "answer": 0,
-    "explanation_zh": "$7x + 13 = 90$\n$7x = 90 - 13 = 77$\n$x = \\frac{77}{7} = 11$",
-    "explanation_en": "$7x + 13 = 90$\n$7x = 90 - 13 = 77$\n$x = \\frac{77}{7} = 11$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 178,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 7 = 55",
-    "question_en": "Solve 8x + 7 = 55",
-    "options_zh": [
-      "5",
-      "7",
-      "6",
-      "48"
-    ],
-    "options_en": [
-      "5",
-      "7",
-      "6",
-      "48"
-    ],
-    "answer": 2,
-    "explanation_zh": "$8x + 7 = 55$\n$8x = 55 - 7 = 48$\n$x = \\frac{48}{8} = 6$",
-    "explanation_en": "$8x + 7 = 55$\n$8x = 55 - 7 = 48$\n$x = \\frac{48}{8} = 6$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 179,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 24 = 36",
-    "question_en": "Solve 6x + 24 = 36",
-    "options_zh": [
-      "3",
-      "10",
-      "12",
-      "2"
-    ],
-    "options_en": [
-      "3",
-      "10",
-      "12",
-      "2"
-    ],
-    "answer": 3,
-    "explanation_zh": "$6x + 24 = 36$\n$6x = 36 - 24 = 12$\n$x = \\frac{12}{6} = 2$",
-    "explanation_en": "$6x + 24 = 36$\n$6x = 36 - 24 = 12$\n$x = \\frac{12}{6} = 2$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 180,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 5 = 37",
-    "question_en": "Solve 4x + 5 = 37",
-    "options_zh": [
-      "10",
-      "32",
-      "7",
-      "8"
-    ],
-    "options_en": [
-      "10",
-      "32",
-      "7",
-      "8"
-    ],
-    "answer": 3,
-    "explanation_zh": "$4x + 5 = 37$\n$4x = 37 - 5 = 32$\n$x = \\frac{32}{4} = 8$",
-    "explanation_en": "$4x + 5 = 37$\n$4x = 37 - 5 = 32$\n$x = \\frac{32}{4} = 8$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 181,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 30 = 46",
-    "question_en": "Solve 4x + 30 = 46",
-    "options_zh": [
-      "4",
-      "16",
-      "5",
-      "19"
-    ],
-    "options_en": [
-      "4",
-      "16",
-      "5",
-      "19"
-    ],
-    "answer": 0,
-    "explanation_zh": "$4x + 30 = 46$\n$4x = 46 - 30 = 16$\n$x = \\frac{16}{4} = 4$",
-    "explanation_en": "$4x + 30 = 46$\n$4x = 46 - 30 = 16$\n$x = \\frac{16}{4} = 4$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 182,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 6 = 46",
-    "question_en": "Solve 4x + 6 = 46",
-    "options_zh": [
-      "40",
-      "11",
-      "13",
-      "10"
-    ],
-    "options_en": [
-      "40",
-      "11",
-      "13",
-      "10"
-    ],
-    "answer": 3,
-    "explanation_zh": "$4x + 6 = 46$\n$4x = 46 - 6 = 40$\n$x = \\frac{40}{4} = 10$",
-    "explanation_en": "$4x + 6 = 46$\n$4x = 46 - 6 = 40$\n$x = \\frac{40}{4} = 10$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 183,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 26 = 110",
-    "question_en": "Solve 7x + 26 = 110",
-    "options_zh": [
-      "84",
-      "12",
-      "19",
-      "11"
-    ],
-    "options_en": [
-      "84",
-      "12",
-      "19",
-      "11"
-    ],
-    "answer": 1,
-    "explanation_zh": "$7x + 26 = 110$\n$7x = 110 - 26 = 84$\n$x = \\frac{84}{7} = 12$",
-    "explanation_en": "$7x + 26 = 110$\n$7x = 110 - 26 = 84$\n$x = \\frac{84}{7} = 12$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 184,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 7 = 49",
-    "question_en": "Solve 6x + 7 = 49",
-    "options_zh": [
-      "9",
-      "42",
-      "7",
-      "8"
-    ],
-    "options_en": [
-      "9",
-      "42",
-      "7",
-      "8"
-    ],
-    "answer": 2,
-    "explanation_zh": "$6x + 7 = 49$\n$6x = 49 - 7 = 42$\n$x = \\frac{42}{6} = 7$",
-    "explanation_en": "$6x + 7 = 49$\n$6x = 49 - 7 = 42$\n$x = \\frac{42}{6} = 7$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 185,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 7 = 25",
-    "question_en": "Solve 6x + 7 = 25",
-    "options_zh": [
-      "18",
-      "2",
-      "5",
-      "3"
-    ],
-    "options_en": [
-      "18",
-      "2",
-      "5",
-      "3"
-    ],
-    "answer": 3,
-    "explanation_zh": "$6x + 7 = 25$\n$6x = 25 - 7 = 18$\n$x = \\frac{18}{6} = 3$",
-    "explanation_en": "$6x + 7 = 25$\n$6x = 25 - 7 = 18$\n$x = \\frac{18}{6} = 3$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 186,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 16 = 30",
-    "question_en": "Solve 2x + 16 = 30",
-    "options_zh": [
-      "6",
-      "23",
-      "14",
-      "7"
-    ],
-    "options_en": [
-      "6",
-      "23",
-      "14",
-      "7"
-    ],
-    "answer": 3,
-    "explanation_zh": "$2x + 16 = 30$\n$2x = 30 - 16 = 14$\n$x = \\frac{14}{2} = 7$",
-    "explanation_en": "$2x + 16 = 30$\n$2x = 30 - 16 = 14$\n$x = \\frac{14}{2} = 7$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 187,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 12 = 132",
-    "question_en": "Solve 8x + 12 = 132",
-    "options_zh": [
-      "15",
-      "120",
-      "14",
-      "18"
-    ],
-    "options_en": [
-      "15",
-      "120",
-      "14",
-      "18"
-    ],
-    "answer": 0,
-    "explanation_zh": "$8x + 12 = 132$\n$8x = 132 - 12 = 120$\n$x = \\frac{120}{8} = 15$",
-    "explanation_en": "$8x + 12 = 132$\n$8x = 132 - 12 = 120$\n$x = \\frac{120}{8} = 15$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 188,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 5 = 95",
-    "question_en": "Solve 6x + 5 = 95",
-    "options_zh": [
-      "90",
-      "16",
-      "15",
-      "16.1"
-    ],
-    "options_en": [
-      "90",
-      "16",
-      "15",
-      "16.1"
-    ],
-    "answer": 2,
-    "explanation_zh": "$6x + 5 = 95$\n$6x = 95 - 5 = 90$\n$x = \\frac{90}{6} = 15$",
-    "explanation_en": "$6x + 5 = 95$\n$6x = 95 - 5 = 90$\n$x = \\frac{90}{6} = 15$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 189,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 15 = 25",
-    "question_en": "Solve 5x + 15 = 25",
-    "options_zh": [
-      "10",
-      "2",
-      "3",
-      "8"
-    ],
-    "options_en": [
-      "10",
-      "2",
-      "3",
-      "8"
-    ],
-    "answer": 1,
-    "explanation_zh": "$5x + 15 = 25$\n$5x = 25 - 15 = 10$\n$x = \\frac{10}{5} = 2$",
-    "explanation_en": "$5x + 15 = 25$\n$5x = 25 - 15 = 10$\n$x = \\frac{10}{5} = 2$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 190,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 15 = 25",
-    "question_en": "Solve 2x + 15 = 25",
-    "options_zh": [
-      "10",
-      "5",
-      "4",
-      "20"
-    ],
-    "options_en": [
-      "10",
-      "5",
-      "4",
-      "20"
-    ],
-    "answer": 1,
-    "explanation_zh": "$2x + 15 = 25$\n$2x = 25 - 15 = 10$\n$x = \\frac{10}{2} = 5$",
-    "explanation_en": "$2x + 15 = 25$\n$2x = 25 - 15 = 10$\n$x = \\frac{10}{2} = 5$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 191,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 4 = 20",
-    "question_en": "Solve 8x + 4 = 20",
-    "options_zh": [
-      "16",
-      "3",
-      "2",
-      "3.1"
-    ],
-    "options_en": [
-      "16",
-      "3",
-      "2",
-      "3.1"
-    ],
-    "answer": 2,
-    "explanation_zh": "$8x + 4 = 20$\n$8x = 20 - 4 = 16$\n$x = \\frac{16}{8} = 2$",
-    "explanation_en": "$8x + 4 = 20$\n$8x = 20 - 4 = 16$\n$x = \\frac{16}{8} = 2$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 192,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 24 = 48",
-    "question_en": "Solve 3x + 24 = 48",
-    "options_zh": [
-      "24",
-      "9",
-      "24.1",
-      "8"
-    ],
-    "options_en": [
-      "24",
-      "9",
-      "24.1",
-      "8"
-    ],
-    "answer": 3,
-    "explanation_zh": "$3x + 24 = 48$\n$3x = 48 - 24 = 24$\n$x = \\frac{24}{3} = 8$",
-    "explanation_en": "$3x + 24 = 48$\n$3x = 48 - 24 = 24$\n$x = \\frac{24}{3} = 8$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 193,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 25 = 33",
-    "question_en": "Solve 8x + 25 = 33",
-    "options_zh": [
-      "1",
-      "2",
-      "7",
-      "8"
-    ],
-    "options_en": [
-      "1",
-      "2",
-      "7",
-      "8"
-    ],
-    "answer": 0,
-    "explanation_zh": "$8x + 25 = 33$\n$8x = 33 - 25 = 8$\n$x = \\frac{8}{8} = 1$",
-    "explanation_en": "$8x + 25 = 33$\n$8x = 33 - 25 = 8$\n$x = \\frac{8}{8} = 1$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 194,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 19 = 49",
-    "question_en": "Solve 3x + 19 = 49",
-    "options_zh": [
-      "9",
-      "10",
-      "30",
-      "22"
-    ],
-    "options_en": [
-      "9",
-      "10",
-      "30",
-      "22"
-    ],
-    "answer": 1,
-    "explanation_zh": "$3x + 19 = 49$\n$3x = 49 - 19 = 30$\n$x = \\frac{30}{3} = 10$",
-    "explanation_en": "$3x + 19 = 49$\n$3x = 49 - 19 = 30$\n$x = \\frac{30}{3} = 10$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 195,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 14 = 23",
-    "question_en": "Solve 3x + 14 = 23",
-    "options_zh": [
-      "12",
-      "2",
-      "9",
-      "3"
-    ],
-    "options_en": [
-      "12",
-      "2",
-      "9",
-      "3"
-    ],
-    "answer": 3,
-    "explanation_zh": "$3x + 14 = 23$\n$3x = 23 - 14 = 9$\n$x = \\frac{9}{3} = 3$",
-    "explanation_en": "$3x + 14 = 23$\n$3x = 23 - 14 = 9$\n$x = \\frac{9}{3} = 3$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 196,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 25 = 130",
-    "question_en": "Solve 7x + 25 = 130",
-    "options_zh": [
-      "16",
-      "15",
-      "105",
-      "22"
-    ],
-    "options_en": [
-      "16",
-      "15",
-      "105",
-      "22"
-    ],
-    "answer": 1,
-    "explanation_zh": "$7x + 25 = 130$\n$7x = 130 - 25 = 105$\n$x = \\frac{105}{7} = 15$",
-    "explanation_en": "$7x + 25 = 130$\n$7x = 130 - 25 = 105$\n$x = \\frac{105}{7} = 15$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 197,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 26 = 103",
-    "question_en": "Solve 7x + 26 = 103",
-    "options_zh": [
-      "18",
-      "12",
-      "77",
-      "11"
-    ],
-    "options_en": [
-      "18",
-      "12",
-      "77",
-      "11"
-    ],
-    "answer": 3,
-    "explanation_zh": "$7x + 26 = 103$\n$7x = 103 - 26 = 77$\n$x = \\frac{77}{7} = 11$",
-    "explanation_en": "$7x + 26 = 103$\n$7x = 103 - 26 = 77$\n$x = \\frac{77}{7} = 11$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 198,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 7 = 19",
-    "question_en": "Solve 4x + 7 = 19",
-    "options_zh": [
-      "2",
-      "12",
-      "6",
-      "3"
-    ],
-    "options_en": [
-      "2",
-      "12",
-      "6",
-      "3"
-    ],
-    "answer": 3,
-    "explanation_zh": "$4x + 7 = 19$\n$4x = 19 - 7 = 12$\n$x = \\frac{12}{4} = 3$",
-    "explanation_en": "$4x + 7 = 19$\n$4x = 19 - 7 = 12$\n$x = \\frac{12}{4} = 3$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 199,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 18 = 42",
-    "question_en": "Solve 8x + 18 = 42",
-    "options_zh": [
-      "7",
-      "4",
-      "24",
-      "3"
-    ],
-    "options_en": [
-      "7",
-      "4",
-      "24",
-      "3"
-    ],
-    "answer": 3,
-    "explanation_zh": "$8x + 18 = 42$\n$8x = 42 - 18 = 24$\n$x = \\frac{24}{8} = 3$",
-    "explanation_en": "$8x + 18 = 42$\n$8x = 42 - 18 = 24$\n$x = \\frac{24}{8} = 3$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 200,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 26 = 71",
-    "question_en": "Solve 5x + 26 = 71",
-    "options_zh": [
-      "19",
-      "9",
-      "45",
-      "8"
-    ],
-    "options_en": [
-      "19",
-      "9",
-      "45",
-      "8"
-    ],
-    "answer": 1,
-    "explanation_zh": "$5x + 26 = 71$\n$5x = 71 - 26 = 45$\n$x = \\frac{45}{5} = 9$",
-    "explanation_en": "$5x + 26 = 71$\n$5x = 71 - 26 = 45$\n$x = \\frac{45}{5} = 9$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 201,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 13 = 21",
-    "question_en": "Solve 2x + 13 = 21",
-    "options_zh": [
-      "4",
-      "5",
-      "8",
-      "17"
-    ],
-    "options_en": [
-      "4",
-      "5",
-      "8",
-      "17"
-    ],
-    "answer": 0,
-    "explanation_zh": "$2x + 13 = 21$\n$2x = 21 - 13 = 8$\n$x = \\frac{8}{2} = 4$",
-    "explanation_en": "$2x + 13 = 21$\n$2x = 21 - 13 = 8$\n$x = \\frac{8}{2} = 4$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 202,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 21 = 51",
-    "question_en": "Solve 3x + 21 = 51",
-    "options_zh": [
-      "10",
-      "24",
-      "30",
-      "11"
-    ],
-    "options_en": [
-      "10",
-      "24",
-      "30",
-      "11"
-    ],
-    "answer": 0,
-    "explanation_zh": "$3x + 21 = 51$\n$3x = 51 - 21 = 30$\n$x = \\frac{30}{3} = 10$",
-    "explanation_en": "$3x + 21 = 51$\n$3x = 51 - 21 = 30$\n$x = \\frac{30}{3} = 10$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 203,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 22 = 92",
-    "question_en": "Solve 5x + 22 = 92",
-    "options_zh": [
-      "70",
-      "15",
-      "14",
-      "22"
-    ],
-    "options_en": [
-      "70",
-      "15",
-      "14",
-      "22"
-    ],
-    "answer": 2,
-    "explanation_zh": "$5x + 22 = 92$\n$5x = 92 - 22 = 70$\n$x = \\frac{70}{5} = 14$",
-    "explanation_en": "$5x + 22 = 92$\n$5x = 92 - 22 = 70$\n$x = \\frac{70}{5} = 14$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 204,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 12 = 100",
-    "question_en": "Solve 8x + 12 = 100",
-    "options_zh": [
-      "11",
-      "12",
-      "88",
-      "14"
-    ],
-    "options_en": [
-      "11",
-      "12",
-      "88",
-      "14"
-    ],
-    "answer": 0,
-    "explanation_zh": "$8x + 12 = 100$\n$8x = 100 - 12 = 88$\n$x = \\frac{88}{8} = 11$",
-    "explanation_en": "$8x + 12 = 100$\n$8x = 100 - 12 = 88$\n$x = \\frac{88}{8} = 11$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 205,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 24 = 30",
-    "question_en": "Solve 6x + 24 = 30",
-    "options_zh": [
-      "6",
-      "1",
-      "9",
-      "2"
-    ],
-    "options_en": [
-      "6",
-      "1",
-      "9",
-      "2"
-    ],
-    "answer": 1,
-    "explanation_zh": "$6x + 24 = 30$\n$6x = 30 - 24 = 6$\n$x = \\frac{6}{6} = 1$",
-    "explanation_en": "$6x + 24 = 30$\n$6x = 30 - 24 = 6$\n$x = \\frac{6}{6} = 1$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 206,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 17 = 56",
-    "question_en": "Solve 3x + 17 = 56",
-    "options_zh": [
-      "24",
-      "13",
-      "12",
-      "39"
-    ],
-    "options_en": [
-      "24",
-      "13",
-      "12",
-      "39"
-    ],
-    "answer": 1,
-    "explanation_zh": "$3x + 17 = 56$\n$3x = 56 - 17 = 39$\n$x = \\frac{39}{3} = 13$",
-    "explanation_en": "$3x + 17 = 56$\n$3x = 56 - 17 = 39$\n$x = \\frac{39}{3} = 13$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 207,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 2 = 14",
-    "question_en": "Solve 2x + 2 = 14",
-    "options_zh": [
-      "7",
-      "8",
-      "6",
-      "12"
-    ],
-    "options_en": [
-      "7",
-      "8",
-      "6",
-      "12"
-    ],
-    "answer": 2,
-    "explanation_zh": "$2x + 2 = 14$\n$2x = 14 - 2 = 12$\n$x = \\frac{12}{2} = 6$",
-    "explanation_en": "$2x + 2 = 14$\n$2x = 14 - 2 = 12$\n$x = \\frac{12}{2} = 6$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 208,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 5 = 19",
-    "question_en": "Solve 7x + 5 = 19",
-    "options_zh": [
-      "14",
-      "3",
-      "2",
-      "3.1"
-    ],
-    "options_en": [
-      "14",
-      "3",
-      "2",
-      "3.1"
-    ],
-    "answer": 2,
-    "explanation_zh": "$7x + 5 = 19$\n$7x = 19 - 5 = 14$\n$x = \\frac{14}{7} = 2$",
-    "explanation_en": "$7x + 5 = 19$\n$7x = 19 - 5 = 14$\n$x = \\frac{14}{7} = 2$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 209,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 24 = 44",
-    "question_en": "Solve 4x + 24 = 44",
-    "options_zh": [
-      "20",
-      "5",
-      "17",
-      "4"
-    ],
-    "options_en": [
-      "20",
-      "5",
-      "17",
-      "4"
-    ],
-    "answer": 1,
-    "explanation_zh": "$4x + 24 = 44$\n$4x = 44 - 24 = 20$\n$x = \\frac{20}{4} = 5$",
-    "explanation_en": "$4x + 24 = 44$\n$4x = 44 - 24 = 20$\n$x = \\frac{20}{4} = 5$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 210,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 7 = 28",
-    "question_en": "Solve 3x + 7 = 28",
-    "options_zh": [
-      "7",
-      "8",
-      "11",
-      "21"
-    ],
-    "options_en": [
-      "7",
-      "8",
-      "11",
-      "21"
-    ],
-    "answer": 0,
-    "explanation_zh": "$3x + 7 = 28$\n$3x = 28 - 7 = 21$\n$x = \\frac{21}{3} = 7$",
-    "explanation_en": "$3x + 7 = 28$\n$3x = 28 - 7 = 21$\n$x = \\frac{21}{3} = 7$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 211,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 5 = 59",
-    "question_en": "Solve 6x + 5 = 59",
-    "options_zh": [
-      "54",
-      "10",
-      "9",
-      "10.1"
-    ],
-    "options_en": [
-      "54",
-      "10",
-      "9",
-      "10.1"
-    ],
-    "answer": 2,
-    "explanation_zh": "$6x + 5 = 59$\n$6x = 59 - 5 = 54$\n$x = \\frac{54}{6} = 9$",
-    "explanation_en": "$6x + 5 = 59$\n$6x = 59 - 5 = 54$\n$x = \\frac{54}{6} = 9$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 212,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 4 = 39",
-    "question_en": "Solve 5x + 4 = 39",
-    "options_zh": [
-      "7",
-      "8",
-      "35",
-      "8.1"
-    ],
-    "options_en": [
-      "7",
-      "8",
-      "35",
-      "8.1"
-    ],
-    "answer": 0,
-    "explanation_zh": "$5x + 4 = 39$\n$5x = 39 - 4 = 35$\n$x = \\frac{35}{5} = 7$",
-    "explanation_en": "$5x + 4 = 39$\n$5x = 39 - 4 = 35$\n$x = \\frac{35}{5} = 7$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 213,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 21 = 98",
-    "question_en": "Solve 7x + 21 = 98",
-    "options_zh": [
-      "77",
-      "12",
-      "17",
-      "11"
-    ],
-    "options_en": [
-      "77",
-      "12",
-      "17",
-      "11"
-    ],
-    "answer": 3,
-    "explanation_zh": "$7x + 21 = 98$\n$7x = 98 - 21 = 77$\n$x = \\frac{77}{7} = 11$",
-    "explanation_en": "$7x + 21 = 98$\n$7x = 98 - 21 = 77$\n$x = \\frac{77}{7} = 11$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 214,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 30 = 54",
-    "question_en": "Solve 4x + 30 = 54",
-    "options_zh": [
-      "6",
-      "7",
-      "21",
-      "24"
-    ],
-    "options_en": [
-      "6",
-      "7",
-      "21",
-      "24"
-    ],
-    "answer": 0,
-    "explanation_zh": "$4x + 30 = 54$\n$4x = 54 - 30 = 24$\n$x = \\frac{24}{4} = 6$",
-    "explanation_en": "$4x + 30 = 54$\n$4x = 54 - 30 = 24$\n$x = \\frac{24}{4} = 6$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 215,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 8 = 30",
-    "question_en": "Solve 2x + 8 = 30",
-    "options_zh": [
-      "11",
-      "19",
-      "12",
-      "22"
-    ],
-    "options_en": [
-      "11",
-      "19",
-      "12",
-      "22"
-    ],
-    "answer": 0,
-    "explanation_zh": "$2x + 8 = 30$\n$2x = 30 - 8 = 22$\n$x = \\frac{22}{2} = 11$",
-    "explanation_en": "$2x + 8 = 30$\n$2x = 30 - 8 = 22$\n$x = \\frac{22}{2} = 11$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 216,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 14 = 112",
-    "question_en": "Solve 7x + 14 = 112",
-    "options_zh": [
-      "15",
-      "98",
-      "18",
-      "14"
-    ],
-    "options_en": [
-      "15",
-      "98",
-      "18",
-      "14"
-    ],
-    "answer": 3,
-    "explanation_zh": "$7x + 14 = 112$\n$7x = 112 - 14 = 98$\n$x = \\frac{98}{7} = 14$",
-    "explanation_en": "$7x + 14 = 112$\n$7x = 112 - 14 = 98$\n$x = \\frac{98}{7} = 14$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 217,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 19 = 47",
-    "question_en": "Solve 4x + 19 = 47",
-    "options_zh": [
-      "28",
-      "7",
-      "8",
-      "16"
-    ],
-    "options_en": [
-      "28",
-      "7",
-      "8",
-      "16"
-    ],
-    "answer": 1,
-    "explanation_zh": "$4x + 19 = 47$\n$4x = 47 - 19 = 28$\n$x = \\frac{28}{4} = 7$",
-    "explanation_en": "$4x + 19 = 47$\n$4x = 47 - 19 = 28$\n$x = \\frac{28}{4} = 7$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 218,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 4 = 28",
-    "question_en": "Solve 8x + 4 = 28",
-    "options_zh": [
-      "24",
-      "4",
-      "4.1",
-      "3"
-    ],
-    "options_en": [
-      "24",
-      "4",
-      "4.1",
-      "3"
-    ],
-    "answer": 3,
-    "explanation_zh": "$8x + 4 = 28$\n$8x = 28 - 4 = 24$\n$x = \\frac{24}{8} = 3$",
-    "explanation_en": "$8x + 4 = 28$\n$8x = 28 - 4 = 24$\n$x = \\frac{24}{8} = 3$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 219,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 14 = 54",
-    "question_en": "Solve 4x + 14 = 54",
-    "options_zh": [
-      "17",
-      "40",
-      "10",
-      "9"
-    ],
-    "options_en": [
-      "17",
-      "40",
-      "10",
-      "9"
-    ],
-    "answer": 2,
-    "explanation_zh": "$4x + 14 = 54$\n$4x = 54 - 14 = 40$\n$x = \\frac{40}{4} = 10$",
-    "explanation_en": "$4x + 14 = 54$\n$4x = 54 - 14 = 40$\n$x = \\frac{40}{4} = 10$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 220,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 3 = 57",
-    "question_en": "Solve 6x + 3 = 57",
-    "options_zh": [
-      "54",
-      "8",
-      "10",
-      "9"
-    ],
-    "options_en": [
-      "54",
-      "8",
-      "10",
-      "9"
-    ],
-    "answer": 3,
-    "explanation_zh": "$6x + 3 = 57$\n$6x = 57 - 3 = 54$\n$x = \\frac{54}{6} = 9$",
-    "explanation_en": "$6x + 3 = 57$\n$6x = 57 - 3 = 54$\n$x = \\frac{54}{6} = 9$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 221,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 23 = 65",
-    "question_en": "Solve 7x + 23 = 65",
-    "options_zh": [
-      "42",
-      "6",
-      "12",
-      "7"
-    ],
-    "options_en": [
-      "42",
-      "6",
-      "12",
-      "7"
-    ],
-    "answer": 1,
-    "explanation_zh": "$7x + 23 = 65$\n$7x = 65 - 23 = 42$\n$x = \\frac{42}{7} = 6$",
-    "explanation_en": "$7x + 23 = 65$\n$7x = 65 - 23 = 42$\n$x = \\frac{42}{7} = 6$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 222,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 18 = 46",
-    "question_en": "Solve 4x + 18 = 46",
-    "options_zh": [
-      "8",
-      "7",
-      "16",
-      "28"
-    ],
-    "options_en": [
-      "8",
-      "7",
-      "16",
-      "28"
-    ],
-    "answer": 1,
-    "explanation_zh": "$4x + 18 = 46$\n$4x = 46 - 18 = 28$\n$x = \\frac{28}{4} = 7$",
-    "explanation_en": "$4x + 18 = 46$\n$4x = 46 - 18 = 28$\n$x = \\frac{28}{4} = 7$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 223,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 22 = 70",
-    "question_en": "Solve 8x + 22 = 70",
-    "options_zh": [
-      "7",
-      "48",
-      "11",
-      "6"
-    ],
-    "options_en": [
-      "7",
-      "48",
-      "11",
-      "6"
-    ],
-    "answer": 3,
-    "explanation_zh": "$8x + 22 = 70$\n$8x = 70 - 22 = 48$\n$x = \\frac{48}{8} = 6$",
-    "explanation_en": "$8x + 22 = 70$\n$8x = 70 - 22 = 48$\n$x = \\frac{48}{8} = 6$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 224,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 6 = 34",
-    "question_en": "Solve 2x + 6 = 34",
-    "options_zh": [
-      "20",
-      "13",
-      "14",
-      "28"
-    ],
-    "options_en": [
-      "20",
-      "13",
-      "14",
-      "28"
-    ],
-    "answer": 2,
-    "explanation_zh": "$2x + 6 = 34$\n$2x = 34 - 6 = 28$\n$x = \\frac{28}{2} = 14$",
-    "explanation_en": "$2x + 6 = 34$\n$2x = 34 - 6 = 28$\n$x = \\frac{28}{2} = 14$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 225,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 10 = 55",
-    "question_en": "Solve 3x + 10 = 55",
-    "options_zh": [
-      "45",
-      "14",
-      "21",
-      "15"
-    ],
-    "options_en": [
-      "45",
-      "14",
-      "21",
-      "15"
-    ],
-    "answer": 3,
-    "explanation_zh": "$3x + 10 = 55$\n$3x = 55 - 10 = 45$\n$x = \\frac{45}{3} = 15$",
-    "explanation_en": "$3x + 10 = 55$\n$3x = 55 - 10 = 45$\n$x = \\frac{45}{3} = 15$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 226,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 7x + 1 = 99",
-    "question_en": "Solve 7x + 1 = 99",
-    "options_zh": [
-      "15",
-      "14",
-      "-6",
-      "98"
-    ],
-    "options_en": [
-      "15",
-      "14",
-      "-6",
-      "98"
-    ],
-    "answer": 1,
-    "explanation_zh": "$7x + 1 = 99$\n$7x = 99 - 1 = 98$\n$x = \\frac{98}{7} = 14$",
-    "explanation_en": "$7x + 1 = 99$\n$7x = 99 - 1 = 98$\n$x = \\frac{98}{7} = 14$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 227,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 17 = 37",
-    "question_en": "Solve 2x + 17 = 37",
-    "options_zh": [
-      "20",
-      "27",
-      "10",
-      "9"
-    ],
-    "options_en": [
-      "20",
-      "27",
-      "10",
-      "9"
-    ],
-    "answer": 2,
-    "explanation_zh": "$2x + 17 = 37$\n$2x = 37 - 17 = 20$\n$x = \\frac{20}{2} = 10$",
-    "explanation_en": "$2x + 17 = 37$\n$2x = 37 - 17 = 20$\n$x = \\frac{20}{2} = 10$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 228,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 11 = 19",
-    "question_en": "Solve 8x + 11 = 19",
-    "options_zh": [
-      "3",
-      "8",
-      "2",
-      "1"
-    ],
-    "options_en": [
-      "3",
-      "8",
-      "2",
-      "1"
-    ],
-    "answer": 3,
-    "explanation_zh": "$8x + 11 = 19$\n$8x = 19 - 11 = 8$\n$x = \\frac{8}{8} = 1$",
-    "explanation_en": "$8x + 11 = 19$\n$8x = 19 - 11 = 8$\n$x = \\frac{8}{8} = 1$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 229,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 24 = 34",
-    "question_en": "Solve 5x + 24 = 34",
-    "options_zh": [
-      "3",
-      "10",
-      "2",
-      "11"
-    ],
-    "options_en": [
-      "3",
-      "10",
-      "2",
-      "11"
-    ],
-    "answer": 2,
-    "explanation_zh": "$5x + 24 = 34$\n$5x = 34 - 24 = 10$\n$x = \\frac{10}{5} = 2$",
-    "explanation_en": "$5x + 24 = 34$\n$5x = 34 - 24 = 10$\n$x = \\frac{10}{5} = 2$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 230,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 30 = 126",
-    "question_en": "Solve 8x + 30 = 126",
-    "options_zh": [
-      "19",
-      "13",
-      "96",
-      "12"
-    ],
-    "options_en": [
-      "19",
-      "13",
-      "96",
-      "12"
-    ],
-    "answer": 3,
-    "explanation_zh": "$8x + 30 = 126$\n$8x = 126 - 30 = 96$\n$x = \\frac{96}{8} = 12$",
-    "explanation_en": "$8x + 30 = 126$\n$8x = 126 - 30 = 96$\n$x = \\frac{96}{8} = 12$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 231,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 2x + 6 = 36",
-    "question_en": "Solve 2x + 6 = 36",
-    "options_zh": [
-      "30",
-      "21",
-      "14",
-      "15"
-    ],
-    "options_en": [
-      "30",
-      "21",
-      "14",
-      "15"
-    ],
-    "answer": 3,
-    "explanation_zh": "$2x + 6 = 36$\n$2x = 36 - 6 = 30$\n$x = \\frac{30}{2} = 15$",
-    "explanation_en": "$2x + 6 = 36$\n$2x = 36 - 6 = 30$\n$x = \\frac{30}{2} = 15$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 232,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 6x + 20 = 92",
-    "question_en": "Solve 6x + 20 = 92",
-    "options_zh": [
-      "12",
-      "11",
-      "72",
-      "18"
-    ],
-    "options_en": [
-      "12",
-      "11",
-      "72",
-      "18"
-    ],
-    "answer": 0,
-    "explanation_zh": "$6x + 20 = 92$\n$6x = 92 - 20 = 72$\n$x = \\frac{72}{6} = 12$",
-    "explanation_en": "$6x + 20 = 92$\n$6x = 92 - 20 = 72$\n$x = \\frac{72}{6} = 12$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 233,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 21 = 57",
-    "question_en": "Solve 4x + 21 = 57",
-    "options_zh": [
-      "8",
-      "9",
-      "19",
-      "36"
-    ],
-    "options_en": [
-      "8",
-      "9",
-      "19",
-      "36"
-    ],
-    "answer": 1,
-    "explanation_zh": "$4x + 21 = 57$\n$4x = 57 - 21 = 36$\n$x = \\frac{36}{4} = 9$",
-    "explanation_en": "$4x + 21 = 57$\n$4x = 57 - 21 = 36$\n$x = \\frac{36}{4} = 9$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 234,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 7 = 49",
-    "question_en": "Solve 3x + 7 = 49",
-    "options_zh": [
-      "18",
-      "42",
-      "15",
-      "14"
-    ],
-    "options_en": [
-      "18",
-      "42",
-      "15",
-      "14"
-    ],
-    "answer": 3,
-    "explanation_zh": "$3x + 7 = 49$\n$3x = 49 - 7 = 42$\n$x = \\frac{42}{3} = 14$",
-    "explanation_en": "$3x + 7 = 49$\n$3x = 49 - 7 = 42$\n$x = \\frac{42}{3} = 14$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 235,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 4x + 27 = 43",
-    "question_en": "Solve 4x + 27 = 43",
-    "options_zh": [
-      "17",
-      "4",
-      "16",
-      "3"
-    ],
-    "options_en": [
-      "17",
-      "4",
-      "16",
-      "3"
-    ],
-    "answer": 1,
-    "explanation_zh": "$4x + 27 = 43$\n$4x = 43 - 27 = 16$\n$x = \\frac{16}{4} = 4$",
-    "explanation_en": "$4x + 27 = 43$\n$4x = 43 - 27 = 16$\n$x = \\frac{16}{4} = 4$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 236,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 5x + 11 = 46",
-    "question_en": "Solve 5x + 11 = 46",
-    "options_zh": [
-      "35",
-      "6",
-      "11",
-      "7"
-    ],
-    "options_en": [
-      "35",
-      "6",
-      "11",
-      "7"
-    ],
-    "answer": 3,
-    "explanation_zh": "$5x + 11 = 46$\n$5x = 46 - 11 = 35$\n$x = \\frac{35}{5} = 7$",
-    "explanation_en": "$5x + 11 = 46$\n$5x = 46 - 11 = 35$\n$x = \\frac{35}{5} = 7$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 237,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 8x + 23 = 79",
-    "question_en": "Solve 8x + 23 = 79",
-    "options_zh": [
-      "7",
-      "12",
-      "56",
-      "6"
-    ],
-    "options_en": [
+    "question": "解方程 8x + 23 = 79",
+    "options": [
       "7",
       "12",
       "56",
       "6"
     ],
     "answer": 0,
-    "explanation_zh": "$8x + 23 = 79$\n$8x = 79 - 23 = 56$\n$x = \\frac{56}{8} = 7$",
-    "explanation_en": "$8x + 23 = 79$\n$8x = 79 - 23 = 56$\n$x = \\frac{56}{8} = 7$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
-  },
-  {
-    "id": 238,
-    "topic_id": "basic_algebra",
-    "topic_zh": "基本代數",
-    "topic_en": "Basic Algebra",
-    "subtopic_id": "linear_eq",
-    "subtopic_zh": "一元一次方程",
-    "subtopic_en": "Linear Equations",
-    "question_zh": "解方程 3x + 10 = 37",
-    "question_en": "Solve 3x + 10 = 37",
-    "options_zh": [
-      "27",
-      "9",
-      "10",
-      "15"
-    ],
-    "options_en": [
-      "27",
-      "9",
-      "10",
-      "15"
-    ],
-    "answer": 1,
-    "explanation_zh": "$3x + 10 = 37$\n$3x = 37 - 10 = 27$\n$x = \\frac{27}{3} = 9$",
-    "explanation_en": "$3x + 10 = 37$\n$3x = 37 - 10 = 27$\n$x = \\frac{27}{3} = 9$",
-    "difficulty": 2,
-    "question": "",
-    "form": 4
+    "explanation": "$8x + 23 = 79$\n$8x = 79 - 23 = 56$\n$x = \\frac{56}{8} = 7$"
   }
 ]
