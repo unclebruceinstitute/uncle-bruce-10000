@@ -131,19 +131,19 @@
     "question_en": "What criminal organization is involved in Line Walker?",
     "options_zh": [
       "三合會",
-      "販毒集團",
       "洗黑錢組織",
-      "以上皆是"
+      "拯救世界",
+      "販毒集團"
     ],
     "options_en": [
       "Triad",
-      "Drug cartel",
       "Money laundering ring",
-      "All of the above"
+      "N/A",
+      "Drug cartel"
     ],
-    "answer": 3,
-    "explanation_zh": "故事涉及三合會、販毒和洗黑錢等多種犯罪活動。",
-    "explanation_en": "The story involves triads, drug trafficking, and money laundering.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「三合會」。",
+    "explanation_en": "The correct answer is 'Triad'.",
     "difficulty": 2
   },
   {
@@ -214,20 +214,20 @@
     "question_zh": "《使徒行者》的主要拍攝地點在哪裡？",
     "question_en": "Where was Line Walker primarily filmed?",
     "options_zh": [
-      "香港",
-      "澳門",
+      "報仇雪恨",
       "深圳",
-      "以上皆是"
+      "香港",
+      "澳門"
     ],
     "options_en": [
-      "Hong Kong",
-      "Macau",
+      "N/A",
       "Shenzhen",
-      "All of the above"
+      "Hong Kong",
+      "Macau"
     ],
-    "answer": 3,
-    "explanation_zh": "電影在香港、澳門和深圳等地拍攝。",
-    "explanation_en": "The film was shot in Hong Kong, Macau, and Shenzhen.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「香港」。",
+    "explanation_en": "The correct answer is 'Hong Kong'.",
     "difficulty": 2
   },
   {
@@ -236,19 +236,19 @@
     "question_en": "What danger do undercover agents face in Line Walker?",
     "options_zh": [
       "身份暴露",
-      "被同夥出賣",
       "失去聯絡",
-      "以上皆是"
+      "被同夥出賣",
+      "背叛朋友"
     ],
     "options_en": [
       "Identity exposed",
-      "Betrayed by associates",
       "Lost contact",
-      "All of the above"
+      "Betrayed by associates",
+      "N/A"
     ],
-    "answer": 3,
-    "explanation_zh": "臥底探員面臨身份暴露、被出賣和失去聯絡等多重危險。",
-    "explanation_en": "Undercover agents face multiple dangers including exposure, betrayal, and lost contact.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「身份暴露」。",
+    "explanation_en": "The correct answer is 'Identity exposed'.",
     "difficulty": 2
   },
   {
@@ -257,19 +257,19 @@
     "question_en": "Who starred in the TV drama version of Line Walker?",
     "options_zh": [
       "林峯",
+      "失去記憶",
       "佘詩曼",
-      "苗僑偉",
-      "以上皆是"
+      "苗僑偉"
     ],
     "options_en": [
       "Raymond Lam",
+      "N/A",
       "Charmaine Sheh",
-      "Michael Miu",
-      "All of the above"
+      "Michael Miu"
     ],
-    "answer": 3,
-    "explanation_zh": "電視劇版由林峯、佘詩曼和苗僑偉等主演。",
-    "explanation_en": "The TV drama stars Raymond Lam, Charmaine Sheh, and Michael Miu.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「林峯」。",
+    "explanation_en": "The correct answer is 'Raymond Lam'.",
     "difficulty": 2
   },
   {
@@ -340,20 +340,20 @@
     "question_zh": "《使徒行者》中，臥底探員如何確認彼此身份？",
     "question_en": "How do undercover agents identify each other in Line Walker?",
     "options_zh": [
-      "暗號",
-      "紋身",
       "密碼",
-      "以上皆是"
+      "紋身",
+      "保護家人",
+      "暗號"
     ],
     "options_en": [
-      "Code words",
-      "Tattoos",
       "Passwords",
-      "All of the above"
+      "Tattoos",
+      "N/A",
+      "Code words"
     ],
     "answer": 3,
-    "explanation_zh": "臥底探員透過暗號、紋身和密碼等方式確認彼此身份。",
-    "explanation_en": "Undercover agents identify each other through code words, tattoos, and passwords.",
+    "explanation_zh": "正確答案係「暗號」。",
+    "explanation_en": "The correct answer is 'Code words'.",
     "difficulty": 2
   },
   {
@@ -550,20 +550,20 @@
     "question_zh": "《使徒行者》中，古天樂的角色如何獲取黑幫信任？",
     "question_en": "How does Louis Koo's character gain the gang's trust in Line Walker?",
     "options_zh": [
-      "執行任務",
       "表現忠誠",
-      "提供情報",
-      "以上皆是"
+      "發現真相",
+      "執行任務",
+      "提供情報"
     ],
     "options_en": [
-      "Carry out missions",
       "Show loyalty",
-      "Provide intelligence",
-      "All of the above"
+      "N/A",
+      "Carry out missions",
+      "Provide intelligence"
     ],
-    "answer": 3,
-    "explanation_zh": "他透過執行任務、表現忠誠和提供情報來獲取信任。",
-    "explanation_en": "He gains trust through carrying out missions, showing loyalty, and providing intelligence.",
+    "answer": 2,
+    "explanation_zh": "正確答案係「執行任務」。",
+    "explanation_en": "The correct answer is 'Carry out missions'.",
     "difficulty": 2
   },
   {
@@ -615,18 +615,18 @@
     "options_zh": [
       "身份認同",
       "忠誠與背叛",
-      "正義與邪惡",
-      "以上皆是"
+      "面對困境",
+      "正義與邪惡"
     ],
     "options_en": [
       "Identity",
       "Loyalty and betrayal",
-      "Good and evil",
-      "All of the above"
+      "N/A",
+      "Good and evil"
     ],
-    "answer": 3,
-    "explanation_zh": "電影探討了身份認同、忠誠與背叛、正義與邪惡等主題。",
-    "explanation_en": "The film explores themes of identity, loyalty and betrayal, and good vs evil.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「身份認同」。",
+    "explanation_en": "The correct answer is 'Identity'.",
     "difficulty": 1
   }
 ]

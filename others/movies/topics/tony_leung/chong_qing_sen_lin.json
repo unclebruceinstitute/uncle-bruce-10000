@@ -1,26 +1,5 @@
 [
   {
-    "question_zh": "《重慶森林》（1994）中，梁朝偉飾演什麼角色？",
-    "question_en": "What role in Chungking Express?",
-    "options_zh": [
-      "警察663",
-      "廚師",
-      "作家",
-      "商人"
-    ],
-    "options_en": [
-      "Officer 663",
-      "Chef",
-      "Writer",
-      "Businessman"
-    ],
-    "answer": 0,
-    "explanation_zh": "飾演警察663。",
-    "explanation_en": "Plays Police Officer 663.",
-    "difficulty": 1,
-    "id": 1
-  },
-  {
     "question_zh": "《重慶森林》中，王菲飾演什麼角色？",
     "question_en": "What does Faye Wong play?",
     "options_zh": [
@@ -39,7 +18,7 @@
     "explanation_zh": "飾演快餐店店員阿菲。",
     "explanation_en": "Plays fast food worker Faye.",
     "difficulty": 1,
-    "id": 2
+    "id": 1
   },
   {
     "question_zh": "《重慶森林》的導演是誰？",
@@ -60,7 +39,7 @@
     "explanation_zh": "王家衛執導。",
     "explanation_en": "Wong Kar-wai.",
     "difficulty": 1,
-    "id": 3
+    "id": 2
   },
   {
     "question_zh": "《重慶森林》中，警察663的戀人由誰飾演？",
@@ -81,7 +60,7 @@
     "explanation_zh": "周嘉玲飾演空姐女友。",
     "explanation_en": "Valerie Chow.",
     "difficulty": 2,
-    "id": 4
+    "id": 3
   },
   {
     "question_zh": "《重慶森林》的故事發生在哪裡？",
@@ -102,10 +81,10 @@
     "explanation_zh": "發生在香港重慶大廈。",
     "explanation_en": "Set in Chungking Mansions, Hong Kong.",
     "difficulty": 1,
-    "id": 5
+    "id": 4
   },
   {
-    "id": 6,
+    "id": 5,
     "question_zh": "《重慶森林》中，電影分為幾個故事？",
     "question_en": "How many stories does Chungking Express have?",
     "options_zh": [
@@ -126,7 +105,7 @@
     "difficulty": 1
   },
   {
-    "id": 7,
+    "id": 6,
     "question_zh": "《重慶森林》中，第一個故事的主角是誰？",
     "question_en": "Who is the protagonist of the first story in Chungking Express?",
     "options_zh": [
@@ -147,28 +126,28 @@
     "difficulty": 2
   },
   {
-    "id": 8,
+    "id": 7,
     "question_zh": "《重慶森林》中，金城武飾演的角色叫什麼？",
     "question_en": "What is Takeshi Kaneshiro's character's name in Chungking Express?",
     "options_zh": [
+      "拯救世界",
+      "阿武",
       "何志武",
-      "警察223",
-      "以上皆是",
-      "阿武"
+      "警察223"
     ],
     "options_en": [
+      "N/A",
+      "Ah Wu",
       "He Zhiwu",
-      "Officer 223",
-      "All of the above",
-      "Ah Wu"
+      "Officer 223"
     ],
     "answer": 2,
-    "explanation_zh": "金城武飾演何志武，又稱警察223。",
-    "explanation_en": "Takeshi Kaneshiro plays He Zhiwu, also known as Officer 223.",
+    "explanation_zh": "正確答案係「何志武」。",
+    "explanation_en": "The correct answer is 'He Zhiwu'.",
     "difficulty": 2
   },
   {
-    "id": 9,
+    "id": 8,
     "question_zh": "《重慶森林》中，林青霞飾演什麼角色？",
     "question_en": "What role does Brigitte Lin play in Chungking Express?",
     "options_zh": [
@@ -189,91 +168,91 @@
     "difficulty": 2
   },
   {
-    "id": 10,
+    "id": 9,
     "question_zh": "《重慶森林》中，梁朝偉的角色663有什麼習慣？",
     "question_en": "What habit does Officer 663 have in Chungking Express?",
     "options_zh": [
-      "與毛巾說話",
-      "每天買罐頭",
       "去快餐店",
-      "以上皆是"
+      "與毛巾說話",
+      "逃離現場",
+      "每天買罐頭"
     ],
     "options_en": [
-      "Talks to towels",
-      "Buys canned food daily",
       "Goes to fast food shop",
-      "All of the above"
+      "Talks to towels",
+      "N/A",
+      "Buys canned food daily"
     ],
-    "answer": 3,
-    "explanation_zh": "663有與毛巾說話、買罐頭和去快餐店等習慣。",
-    "explanation_en": "Officer 663 has habits including talking to towels, buying canned food, and going to the fast food shop.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「與毛巾說話」。",
+    "explanation_en": "The correct answer is 'Talks to towels'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《重慶森林》中，王菲的角色阿菲有什麼特點？",
+    "question_en": "What are Faye's characteristics in Chungking Express?",
+    "options_zh": [
+      "暗戀663",
+      "活潑開朗",
+      "喜歡聽音樂",
+      "做出犧牲"
+    ],
+    "options_en": [
+      "Secretly loves 663",
+      "Lively and cheerful",
+      "Loves listening to music",
+      "N/A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「活潑開朗」。",
+    "explanation_en": "The correct answer is 'Lively and cheerful'.",
     "difficulty": 2
   },
   {
     "id": 11,
-    "question_zh": "《重慶森林》中，王菲的角色阿菲有什麼特點？",
-    "question_en": "What are Faye's characteristics in Chungking Express?",
+    "question_zh": "《重慶森林》中，阿菲偷偷進入663的家做什麼？",
+    "question_en": "What does Faye secretly do in 663's home in Chungking Express?",
     "options_zh": [
-      "活潑開朗",
-      "暗戀663",
-      "喜歡聽音樂",
-      "以上皆是"
+      "偷東西",
+      "打掃",
+      "換家具",
+      "揭開陰謀"
     ],
     "options_en": [
-      "Lively and cheerful",
-      "Secretly loves 663",
-      "Loves listening to music",
-      "All of the above"
+      "Steals things",
+      "Cleans",
+      "Changes furniture",
+      "N/A"
     ],
-    "answer": 3,
-    "explanation_zh": "阿菲活潑開朗、暗戀663、喜歡聽音樂。",
-    "explanation_en": "Faye is lively, cheerful, secretly loves 663, and loves music.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「打掃」。",
+    "explanation_en": "The correct answer is 'Cleans'.",
     "difficulty": 2
   },
   {
     "id": 12,
-    "question_zh": "《重慶森林》中，阿菲偷偷進入663的家做什麼？",
-    "question_en": "What does Faye secretly do in 663's home in Chungking Express?",
+    "question_zh": "《重慶森林》中，警察223有什麼失戀經歷？",
+    "question_en": "What heartbreak does Officer 223 experience in Chungking Express?",
     "options_zh": [
-      "打掃",
-      "換家具",
-      "以上皆是",
-      "偷東西"
+      "女友去世",
+      "女友出國",
+      "遇到意外",
+      "被女友甩了"
     ],
     "options_en": [
-      "Cleans",
-      "Changes furniture",
-      "All of the above",
-      "Steals things"
+      "Girlfriend passes away",
+      "Girlfriend goes abroad",
+      "N/A",
+      "Dumped by girlfriend"
     ],
-    "answer": 2,
-    "explanation_zh": "阿菲偷偷進入663的家打掃和換家具。",
-    "explanation_en": "Faye secretly cleans and changes furniture in 663's home.",
+    "answer": 3,
+    "explanation_zh": "正確答案係「被女友甩了」。",
+    "explanation_en": "The correct answer is 'Dumped by girlfriend'.",
     "difficulty": 2
   },
   {
     "id": 13,
-    "question_zh": "《重慶森林》中，警察223有什麼失戀經歷？",
-    "question_en": "What heartbreak does Officer 223 experience in Chungking Express?",
-    "options_zh": [
-      "被女友甩了",
-      "女友出國",
-      "以上皆是",
-      "女友去世"
-    ],
-    "options_en": [
-      "Dumped by girlfriend",
-      "Girlfriend goes abroad",
-      "All of the above",
-      "Girlfriend passes away"
-    ],
-    "answer": 2,
-    "explanation_zh": "223被女友甩了，女友出國了。",
-    "explanation_en": "Officer 223 is dumped by his girlfriend who goes abroad.",
-    "difficulty": 2
-  },
-  {
-    "id": 14,
     "question_zh": "《重慶森林》中，223給自己設了什麼期限？",
     "question_en": "What deadline does Officer 223 set for himself in Chungking Express?",
     "options_zh": [
@@ -294,49 +273,49 @@
     "difficulty": 2
   },
   {
-    "id": 15,
+    "id": 14,
     "question_zh": "《重慶森林》的電影風格有什麼特點？",
     "question_en": "What is distinctive about the style of Chungking Express?",
     "options_zh": [
       "手持攝影",
-      "快速剪接",
+      "拯救世界",
       "獨特配樂",
-      "以上皆是"
+      "快速剪接"
     ],
     "options_en": [
       "Handheld camera",
-      "Fast editing",
+      "N/A",
       "Unique soundtrack",
-      "All of the above"
+      "Fast editing"
     ],
-    "answer": 3,
-    "explanation_zh": "電影以手持攝影、快速剪接和獨特配樂著稱。",
-    "explanation_en": "The film is known for handheld camera, fast editing, and unique soundtrack.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「手持攝影」。",
+    "explanation_en": "The correct answer is 'Handheld camera'.",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_zh": "《重慶森林》中，王菲在片中演唱了什麼歌曲？",
+    "question_en": "What song does Faye Wong sing in Chungking Express?",
+    "options_zh": [
+      "《重慶森林》",
+      "逃離現場",
+      "《California Dreamin'》",
+      "《夢中人》"
+    ],
+    "options_en": [
+      "Chungking Express",
+      "N/A",
+      "California Dreamin'",
+      "Dream Lover"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「《California Dreamin'》」。",
+    "explanation_en": "The correct answer is 'California Dreamin''.",
     "difficulty": 2
   },
   {
     "id": 16,
-    "question_zh": "《重慶森林》中，王菲在片中演唱了什麼歌曲？",
-    "question_en": "What song does Faye Wong sing in Chungking Express?",
-    "options_zh": [
-      "《California Dreamin'》",
-      "《夢中人》",
-      "以上皆是",
-      "《重慶森林》"
-    ],
-    "options_en": [
-      "California Dreamin'",
-      "Dream Lover",
-      "All of the above",
-      "Chungking Express"
-    ],
-    "answer": 2,
-    "explanation_zh": "王菲在片中演唱了《California Dreamin'》和《夢中人》。",
-    "explanation_en": "Faye Wong sings 'California Dreamin'' and 'Dream Lover' in the film.",
-    "difficulty": 2
-  },
-  {
-    "id": 17,
     "question_zh": "《重慶森林》中，警察663的戀人為什麼離開他？",
     "question_en": "Why does Officer 663's girlfriend leave him in Chungking Express?",
     "options_zh": [
@@ -357,7 +336,7 @@
     "difficulty": 2
   },
   {
-    "id": 18,
+    "id": 17,
     "question_zh": "《重慶森林》中，梁朝偉的角色663最後與阿菲有什麼發展？",
     "question_en": "What develops between Officer 663 and Faye at the end of Chungking Express?",
     "options_zh": [
@@ -378,28 +357,28 @@
     "difficulty": 2
   },
   {
-    "id": 19,
+    "id": 18,
     "question_zh": "《重慶森林》中，「重慶」指的是什麼？",
     "question_en": "What does 'Chungking' refer to in Chungking Express?",
     "options_zh": [
       "重慶大廈",
       "重慶市",
-      "以上皆是",
-      "以上都不是"
+      "以上都不是",
+      "遇到意外"
     ],
     "options_en": [
       "Chungking Mansions",
       "Chongqing city",
-      "All of the above",
-      "None of the above"
+      "None of the above",
+      "N/A"
     ],
     "answer": 0,
-    "explanation_zh": "「重慶」指的是香港的重慶大廈。",
-    "explanation_en": "'Chungking' refers to Chungking Mansions in Hong Kong.",
+    "explanation_zh": "正確答案係「重慶大廈」。",
+    "explanation_en": "The correct answer is 'Chungking Mansions'.",
     "difficulty": 1
   },
   {
-    "id": 20,
+    "id": 19,
     "question_zh": "《重慶森林》中，「森林」指的是什麼？",
     "question_en": "What does 'Express' refer to in Chungking Express?",
     "options_zh": [
@@ -420,7 +399,7 @@
     "difficulty": 2
   },
   {
-    "id": 21,
+    "id": 20,
     "question_zh": "《重慶森林》的拍攝用了多長時間？",
     "question_en": "How long did it take to film Chungking Express?",
     "options_zh": [
@@ -441,133 +420,133 @@
     "difficulty": 2
   },
   {
-    "id": 22,
+    "id": 21,
     "question_zh": "《重慶森林》中，林青霞的角色戴著什麼標誌性配飾？",
     "question_en": "What iconic accessory does Brigitte Lin's character wear in Chungking Express?",
     "options_zh": [
       "太陽眼鏡",
       "假髮",
-      "以上皆是",
-      "帽子"
+      "帽子",
+      "做出犧牲"
     ],
     "options_en": [
       "Sunglasses",
       "Wig",
-      "All of the above",
-      "Hat"
+      "Hat",
+      "N/A"
     ],
-    "answer": 2,
-    "explanation_zh": "林青霞的角色戴著太陽眼鏡和假髮。",
-    "explanation_en": "Brigitte Lin's character wears sunglasses and a wig.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「太陽眼鏡」。",
+    "explanation_en": "The correct answer is 'Sunglasses'.",
     "difficulty": 2
   },
   {
-    "id": 23,
+    "id": 22,
     "question_zh": "《重慶森林》中，金城武的角色與林青霞的角色有什麼互動？",
     "question_en": "What interaction do Takeshi Kaneshiro's and Brigitte Lin's characters have in Chungking Express?",
     "options_zh": [
       "在酒吧相遇",
+      "沒有互動",
       "一起過夜",
-      "以上皆是",
-      "沒有互動"
+      "發現真相"
     ],
     "options_en": [
       "Meet at a bar",
+      "No interaction",
       "Spend the night together",
-      "All of the above",
-      "No interaction"
+      "N/A"
     ],
-    "answer": 2,
-    "explanation_zh": "兩人在酒吧相遇，一起過了一夜。",
-    "explanation_en": "They meet at a bar and spend the night together.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「在酒吧相遇」。",
+    "explanation_en": "The correct answer is 'Meet at a bar'.",
     "difficulty": 2
   },
   {
-    "id": 24,
+    "id": 23,
     "question_zh": "《重慶森林》中，罐頭有什麼象徵意義？",
     "question_en": "What symbolic meaning do canned goods have in Chungking Express?",
     "options_zh": [
       "期限",
       "愛情",
-      "孤獨",
-      "以上皆是"
+      "拯救世界",
+      "孤獨"
     ],
     "options_en": [
       "Deadline",
       "Love",
-      "Loneliness",
-      "All of the above"
+      "N/A",
+      "Loneliness"
     ],
-    "answer": 3,
-    "explanation_zh": "罐頭象徵著期限、愛情和孤獨。",
-    "explanation_en": "Canned goods symbolize deadline, love, and loneliness.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「期限」。",
+    "explanation_en": "The correct answer is 'Deadline'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 24,
     "question_zh": "《重慶森林》對後世電影有什麼影響？",
     "question_en": "What influence did Chungking Express have on later films?",
     "options_zh": [
+      "拯救世界",
       "影響了獨立電影",
       "影響了亞洲電影",
-      "影響了MV風格",
-      "以上皆是"
+      "影響了MV風格"
     ],
     "options_en": [
+      "N/A",
       "Influenced indie films",
       "Influenced Asian cinema",
-      "Influenced music video style",
-      "All of the above"
+      "Influenced music video style"
     ],
-    "answer": 3,
-    "explanation_zh": "電影對獨立電影、亞洲電影和MV風格都有影響。",
-    "explanation_en": "The film influenced indie films, Asian cinema, and music video style.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「影響了獨立電影」。",
+    "explanation_en": "The correct answer is 'Influenced indie films'.",
     "difficulty": 2
   },
   {
-    "id": 26,
+    "id": 25,
     "question_zh": "《重慶森林》中，梁朝偉的角色663在失戀後有什麼表現？",
     "question_en": "How does Officer 663 behave after the breakup in Chungking Express?",
     "options_zh": [
       "自言自語",
-      "與物品說話",
       "變得消沉",
-      "以上皆是"
+      "報仇雪恨",
+      "與物品說話"
     ],
     "options_en": [
       "Talks to himself",
-      "Talks to objects",
       "Becomes depressed",
-      "All of the above"
+      "N/A",
+      "Talks to objects"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「自言自語」。",
+    "explanation_en": "The correct answer is 'Talks to himself'.",
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question_zh": "《重慶森林》中，王菲的角色最後去了哪裡？",
+    "question_en": "Where does Faye's character go at the end of Chungking Express?",
+    "options_zh": [
+      "以上都不是",
+      "加州",
+      "保護家人",
+      "美國"
+    ],
+    "options_en": [
+      "None of the above",
+      "California",
+      "N/A",
+      "America"
     ],
     "answer": 3,
-    "explanation_zh": "663失戀後自言自語、與物品說話、變得消沉。",
-    "explanation_en": "After the breakup, 663 talks to himself, talks to objects, and becomes depressed.",
+    "explanation_zh": "正確答案係「美國」。",
+    "explanation_en": "The correct answer is 'America'.",
     "difficulty": 2
   },
   {
     "id": 27,
-    "question_zh": "《重慶森林》中，王菲的角色最後去了哪裡？",
-    "question_en": "Where does Faye's character go at the end of Chungking Express?",
-    "options_zh": [
-      "美國",
-      "以上皆是",
-      "以上都不是",
-      "加州"
-    ],
-    "options_en": [
-      "America",
-      "All of the above",
-      "None of the above",
-      "California"
-    ],
-    "answer": 3,
-    "explanation_zh": "阿菲最後去了加州。",
-    "explanation_en": "Faye goes to California.",
-    "difficulty": 2
-  },
-  {
-    "id": 28,
     "question_zh": "《重慶森林》中，梁朝偉飾演663的評價如何？",
     "question_en": "How was Tony Leung's portrayal of Officer 663 received?",
     "options_zh": [
@@ -588,28 +567,28 @@
     "difficulty": 2
   },
   {
-    "id": 29,
+    "id": 28,
     "question_zh": "《重慶森林》探討了什麼主題？",
     "question_en": "What themes does Chungking Express explore?",
     "options_zh": [
-      "孤獨",
       "愛情",
+      "孤獨",
       "城市生活",
-      "以上皆是"
+      "拯救世界"
     ],
     "options_en": [
-      "Loneliness",
       "Love",
+      "Loneliness",
       "City life",
-      "All of the above"
+      "N/A"
     ],
-    "answer": 3,
-    "explanation_zh": "電影探討了孤獨、愛情和城市生活等主題。",
-    "explanation_en": "The film explores themes of loneliness, love, and city life.",
+    "answer": 1,
+    "explanation_zh": "正確答案係「孤獨」。",
+    "explanation_en": "The correct answer is 'Loneliness'.",
     "difficulty": 1
   },
   {
-    "id": 30,
+    "id": 29,
     "question_zh": "《重慶森林》是哪一年上映的？",
     "question_en": "What year was Chungking Express released?",
     "options_zh": [
