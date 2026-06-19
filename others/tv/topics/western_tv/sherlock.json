@@ -1,27 +1,6 @@
 [
   {
     "id": 1,
-    "question_zh": "以下邊套係《新福爾摩斯》？",
-    "question_en": "Which one is 'Sherlock'?",
-    "options_zh": [
-      "新福爾摩斯",
-      "花千骨",
-      "俠客行",
-      "這！就是街舞"
-    ],
-    "options_en": [
-      "Sherlock",
-      "The Journey of Flower",
-      "Ode to Gallantry",
-      "Street Dance of China"
-    ],
-    "answer": 0,
-    "explanation_zh": "《新福爾摩斯》嘅正確名稱就係「新福爾摩斯」，英文名係「Sherlock」。",
-    "explanation_en": "The correct name is '新福爾摩斯', English title 'Sherlock'.",
-    "difficulty": 2
-  },
-  {
-    "id": 2,
     "question_zh": "《新福爾摩斯》係邊套劇？",
     "question_en": "Which drama is 'Sherlock'?",
     "options_zh": [
@@ -42,28 +21,7 @@
     "difficulty": 3
   },
   {
-    "id": 3,
-    "question_zh": "以下邊個係《新福爾摩斯》嘅正確名稱？",
-    "question_en": "Which is the correct name of 'Sherlock'?",
-    "options_zh": [
-      "花千骨",
-      "俠客行",
-      "這！就是街舞",
-      "新福爾摩斯"
-    ],
-    "options_en": [
-      "The Journey of Flower",
-      "Ode to Gallantry",
-      "Street Dance of China",
-      "Sherlock"
-    ],
-    "answer": 3,
-    "explanation_zh": "《新福爾摩斯》嘅正確名稱就係「新福爾摩斯」，英文名係「Sherlock」。",
-    "explanation_en": "The correct name is '新福爾摩斯', English title 'Sherlock'.",
-    "difficulty": 1
-  },
-  {
-    "id": 4,
+    "id": 2,
     "question_zh": "《新福爾摩斯》係咩類型嘅節目？",
     "question_en": "What genre is 'Sherlock'?",
     "options_zh": [
@@ -84,301 +42,7 @@
     "difficulty": 2
   },
   {
-    "id": 5,
-    "question_zh": "《新福爾摩斯》屬於邊種類型？",
-    "question_en": "What type does 'Sherlock' belong to?",
-    "options_zh": [
-      "懸疑",
-      "喜劇",
-      "紀錄片",
-      "愛情"
-    ],
-    "options_en": [
-      "懸疑",
-      "喜劇",
-      "紀錄片",
-      "愛情"
-    ],
-    "answer": 0,
-    "explanation_zh": "《新福爾摩斯》係懸疑類型劇集。",
-    "explanation_en": "'新福爾摩斯' is a Mystery show.",
-    "difficulty": 3
-  },
-  {
-    "id": 6,
-    "question_zh": "你會用咩詞語形容《新福爾摩斯》？",
-    "question_en": "How would you describe 'Sherlock'?",
-    "options_zh": [
-      "懸疑",
-      "喜劇",
-      "愛情",
-      "紀錄片"
-    ],
-    "options_en": [
-      "懸疑",
-      "喜劇",
-      "愛情",
-      "紀錄片"
-    ],
-    "answer": 0,
-    "explanation_zh": "《新福爾摩斯》係懸疑類型劇集。",
-    "explanation_en": "'新福爾摩斯' is a Mystery show.",
-    "difficulty": 1
-  },
-  {
-    "id": 7,
-    "question_zh": "《新福爾摩斯》係咩地區出品？",
-    "question_en": "Where is 'Sherlock' from?",
-    "options_zh": [
-      "印度",
-      "泰國",
-      "巴西",
-      "歐美"
-    ],
-    "options_en": [
-      "India",
-      "Thailand",
-      "Brazil",
-      "Western"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「歐美」。",
-    "explanation_en": "The correct answer is 'Western'.",
-    "difficulty": 2
-  },
-  {
-    "id": 8,
-    "question_zh": "《新福爾摩斯》係邊個國家/地區製作？",
-    "question_en": "Which country/region produced 'Sherlock'?",
-    "options_zh": [
-      "歐美",
-      "印度",
-      "巴西",
-      "泰國"
-    ],
-    "options_en": [
-      "Western",
-      "India",
-      "Brazil",
-      "Thailand"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「歐美」。",
-    "explanation_en": "The correct answer is 'Western'.",
-    "difficulty": 3
-  },
-  {
-    "id": 9,
-    "question_zh": "《新福爾摩斯》嘅出品地方係？",
-    "question_en": "Where was 'Sherlock' produced?",
-    "options_zh": [
-      "巴西",
-      "歐美",
-      "印度",
-      "泰國"
-    ],
-    "options_en": [
-      "Brazil",
-      "Western",
-      "India",
-      "Thailand"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「歐美」。",
-    "explanation_en": "The correct answer is 'Western'.",
-    "difficulty": 1
-  },
-  {
-    "id": 10,
-    "question_zh": "《新福爾摩斯》主要講咩？",
-    "question_en": "What is 'Sherlock' mainly about?",
-    "options_zh": [
-      "精彩劇情",
-      "體育賽事",
-      "天氣報告",
-      "財經新聞"
-    ],
-    "options_en": [
-      "Exciting plot",
-      "Sports",
-      "Weather",
-      "Finance"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「精彩劇情」。",
-    "explanation_en": "The correct answer is 'Exciting plot'.",
-    "difficulty": 2
-  },
-  {
-    "id": 11,
-    "question_zh": "《新福爾摩斯》嘅故事情節係？",
-    "question_en": "What is the plot of 'Sherlock'?",
-    "options_zh": [
-      "精彩劇情",
-      "天氣報告",
-      "財經新聞",
-      "體育賽事"
-    ],
-    "options_en": [
-      "Exciting plot",
-      "Weather",
-      "Finance",
-      "Sports"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「精彩劇情」。",
-    "explanation_en": "The correct answer is 'Exciting plot'.",
-    "difficulty": 3
-  },
-  {
-    "id": 12,
-    "question_zh": "《新福爾摩斯》圍繞咩主題？",
-    "question_en": "What theme does 'Sherlock' revolve around?",
-    "options_zh": [
-      "財經新聞",
-      "精彩劇情",
-      "天氣報告",
-      "體育賽事"
-    ],
-    "options_en": [
-      "Finance",
-      "Exciting plot",
-      "Weather",
-      "Sports"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「精彩劇情」。",
-    "explanation_en": "The correct answer is 'Exciting plot'.",
-    "difficulty": 1
-  },
-  {
-    "id": 13,
-    "question_zh": "《新福爾摩斯》係邊個平台播出？",
-    "question_en": "Which platform aired 'Sherlock'?",
-    "options_zh": [
-      "ViuTV",
-      "YouTube",
-      "Amazon",
-      "HBO/Netflix"
-    ],
-    "options_en": [
-      "ViuTV",
-      "YouTube",
-      "Amazon",
-      "HBO/Netflix"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「HBO/Netflix」。",
-    "explanation_en": "The correct answer is 'HBO/Netflix'.",
-    "difficulty": 2
-  },
-  {
-    "id": 14,
-    "question_zh": "《新福爾摩斯》喺邊度可以睇到？",
-    "question_en": "Where can you watch 'Sherlock'?",
-    "options_zh": [
-      "YouTube",
-      "ViuTV",
-      "HBO/Netflix",
-      "Amazon"
-    ],
-    "options_en": [
-      "YouTube",
-      "ViuTV",
-      "HBO/Netflix",
-      "Amazon"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「HBO/Netflix」。",
-    "explanation_en": "The correct answer is 'HBO/Netflix'.",
-    "difficulty": 3
-  },
-  {
-    "id": 15,
-    "question_zh": "《新福爾摩斯》係邊個電視台/平台播嘅？",
-    "question_en": "Which TV station/platform aired 'Sherlock'?",
-    "options_zh": [
-      "YouTube",
-      "ViuTV",
-      "HBO/Netflix",
-      "Amazon"
-    ],
-    "options_en": [
-      "YouTube",
-      "ViuTV",
-      "HBO/Netflix",
-      "Amazon"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「HBO/Netflix」。",
-    "explanation_en": "The correct answer is 'HBO/Netflix'.",
-    "difficulty": 1
-  },
-  {
-    "id": 16,
-    "question_zh": "《新福爾摩斯》大約有幾多集？",
-    "question_en": "How many episodes does 'Sherlock' have approximately?",
-    "options_zh": [
-      "約1-5集",
-      "只有1集",
-      "約100集以上",
-      "約10-13集"
-    ],
-    "options_en": [
-      "1-5 episodes",
-      "Only 1 episode",
-      "100+ episodes",
-      "About 10-13 episodes"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「約10-13集」。",
-    "explanation_en": "The correct answer is 'About 10-13 episodes'.",
-    "difficulty": 2
-  },
-  {
-    "id": 17,
-    "question_zh": "《新福爾摩斯》嘅集數係？",
-    "question_en": "How many episodes are in 'Sherlock'?",
-    "options_zh": [
-      "約1-5集",
-      "約10-13集",
-      "約100集以上",
-      "只有1集"
-    ],
-    "options_en": [
-      "1-5 episodes",
-      "About 10-13 episodes",
-      "100+ episodes",
-      "Only 1 episode"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「約10-13集」。",
-    "explanation_en": "The correct answer is 'About 10-13 episodes'.",
-    "difficulty": 3
-  },
-  {
-    "id": 18,
-    "question_zh": "《新福爾摩斯》有冇出名嘅主題曲？",
-    "question_en": "Does 'Sherlock' have a famous theme song?",
-    "options_zh": [
-      "只有背景音樂",
-      "冇主題曲",
-      "有主題曲",
-      "只有插曲"
-    ],
-    "options_en": [
-      "Only background music",
-      "No theme song",
-      "Yes, has theme song",
-      "Only insert songs"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「有主題曲」。",
-    "explanation_en": "The correct answer is 'Yes, has theme song'.",
-    "difficulty": 2
-  },
-  {
-    "id": 19,
+    "id": 3,
     "question_zh": "《新福爾摩斯》嘅英文名係咩？",
     "question_en": "What is the English name of '新福爾摩斯'?",
     "options_zh": [
@@ -399,7 +63,7 @@
     "difficulty": 2
   },
   {
-    "id": 20,
+    "id": 4,
     "question_zh": "《新福爾摩斯》屬於咩類型？",
     "question_en": "What genre is '新福爾摩斯'?",
     "options_zh": [
@@ -420,7 +84,7 @@
     "difficulty": 1
   },
   {
-    "id": 21,
+    "id": 5,
     "question_zh": "《新福爾摩斯》係邊年首播？",
     "question_en": "What year did '新福爾摩斯' first air?",
     "options_zh": [
@@ -441,7 +105,7 @@
     "difficulty": 2
   },
   {
-    "id": 22,
+    "id": 6,
     "question_zh": "《新福爾摩斯》喺邊個平台播出？",
     "question_en": "On which platform did '新福爾摩斯' air?",
     "options_zh": [
@@ -462,7 +126,7 @@
     "difficulty": 2
   },
   {
-    "id": 23,
+    "id": 7,
     "question_zh": "以下邊個係《新福爾摩斯》嘅主演？",
     "question_en": "Which actor starred in '新福爾摩斯'?",
     "options_zh": [
@@ -483,7 +147,7 @@
     "difficulty": 2
   },
   {
-    "id": 24,
+    "id": 8,
     "question_zh": "「福爾摩斯」係《新福爾摩斯》入面邊個角色？",
     "question_en": "Which character from '新福爾摩斯' is '福爾摩斯'?",
     "options_zh": [
@@ -504,7 +168,7 @@
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《新福爾摩斯》有幾多集？",
     "question_en": "How many episodes does '新福爾摩斯' have?",
     "options_zh": [
@@ -525,7 +189,7 @@
     "difficulty": 3
   },
   {
-    "id": 26,
+    "id": 10,
     "question_zh": "《新福爾摩斯》嘅原作係咩？",
     "question_en": "What is '新福爾摩斯' adapted from?",
     "options_zh": [
@@ -546,7 +210,7 @@
     "difficulty": 3
   },
   {
-    "id": 27,
+    "id": 11,
     "question_zh": "以下邊套劇同時有「班尼狄·甘巴貝治」同「馬田·費曼」演出？",
     "question_en": "Which show features both '班尼狄·甘巴貝治' and '馬田·費曼'?",
     "options_zh": [
@@ -567,7 +231,7 @@
     "difficulty": 2
   },
   {
-    "id": 28,
+    "id": 12,
     "question_zh": "「福爾摩斯」係邊套劇嘅角色？",
     "question_en": "Which show does '福爾摩斯' appear in?",
     "options_zh": [
@@ -588,7 +252,7 @@
     "difficulty": 1
   },
   {
-    "id": 29,
+    "id": 13,
     "question_zh": "以下邊套劇同《Signal》屬於同一類型（懸疑）？",
     "question_en": "Which show shares the genre (Mystery) with 'Signal'?",
     "options_zh": [
@@ -609,7 +273,7 @@
     "difficulty": 2
   },
   {
-    "id": 30,
+    "id": 14,
     "question_zh": "《新福爾摩斯》係邊個年代嘅作品？",
     "question_en": "Which decade was '新福爾摩斯' from?",
     "options_zh": [
@@ -630,7 +294,7 @@
     "difficulty": 1
   },
   {
-    "id": 31,
+    "id": 15,
     "question_zh": "邊套劇喺2010年首播？",
     "question_en": "Which show first aired in 2010?",
     "options_zh": [
@@ -651,7 +315,7 @@
     "difficulty": 2
   },
   {
-    "id": 32,
+    "id": 16,
     "question_zh": "邊套劇喺BBC播出？",
     "question_en": "Which show aired on BBC?",
     "options_zh": [
@@ -672,28 +336,7 @@
     "difficulty": 2
   },
   {
-    "id": 33,
-    "question_zh": "以下邊套係懸疑類型嘅劇集？",
-    "question_en": "Which is a Mystery show?",
-    "options_zh": [
-      "龍之家族",
-      "新福爾摩斯",
-      "王冠",
-      "曼達洛人"
-    ],
-    "options_en": [
-      "House of the Dragon",
-      "Sherlock",
-      "The Crown",
-      "The Mandalorian"
-    ],
-    "answer": 1,
-    "explanation_zh": "《新福爾摩斯》係懸疑類型。",
-    "explanation_en": "'新福爾摩斯' is Mystery.",
-    "difficulty": 1
-  },
-  {
-    "id": 34,
+    "id": 17,
     "question_zh": "「馬田·費曼」有份演出邊套劇？",
     "question_en": "Which show did '馬田·費曼' appear in?",
     "options_zh": [
@@ -714,7 +357,7 @@
     "difficulty": 2
   },
   {
-    "id": 35,
+    "id": 18,
     "question_zh": "「華生」係邊套劇嘅角色？",
     "question_en": "Which show does '華生' appear in?",
     "options_zh": [
@@ -735,7 +378,7 @@
     "difficulty": 1
   },
   {
-    "id": 36,
+    "id": 19,
     "question_zh": "《新福爾摩斯》「唔係」喺邊個平台播出？",
     "question_en": "Which platform did '新福爾摩斯' NOT air on?",
     "options_zh": [
@@ -756,7 +399,7 @@
     "difficulty": 2
   },
   {
-    "id": 37,
+    "id": 20,
     "question_zh": "《新福爾摩斯》係邊個年代首播？",
     "question_en": "Which decade did '新福爾摩斯' first air?",
     "options_zh": [

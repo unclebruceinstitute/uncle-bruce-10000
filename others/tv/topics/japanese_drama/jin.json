@@ -1,27 +1,6 @@
 [
   {
     "id": 1,
-    "question_zh": "以下邊套係《仁》？",
-    "question_en": "Which one is 'Jin'?",
-    "options_zh": [
-      "仁",
-      "Running Man",
-      "大唐雙龍傳",
-      "家政婦三田"
-    ],
-    "options_en": [
-      "Jin",
-      "Running Man",
-      "Twin of Brothers",
-      "I'm Mita Your Housekeeper"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「仁」。",
-    "explanation_en": "The correct answer is 'Jin'.",
-    "difficulty": 2
-  },
-  {
-    "id": 2,
     "question_zh": "《仁》係邊套劇？",
     "question_en": "Which drama is 'Jin'?",
     "options_zh": [
@@ -42,28 +21,7 @@
     "difficulty": 3
   },
   {
-    "id": 3,
-    "question_zh": "以下邊個係《仁》嘅正確名稱？",
-    "question_en": "Which is the correct name of 'Jin'?",
-    "options_zh": [
-      "Running Man",
-      "大唐雙龍傳",
-      "家政婦三田",
-      "仁"
-    ],
-    "options_en": [
-      "Running Man",
-      "Twin of Brothers",
-      "I'm Mita Your Housekeeper",
-      "Jin"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「仁」。",
-    "explanation_en": "The correct answer is 'Jin'.",
-    "difficulty": 1
-  },
-  {
-    "id": 4,
+    "id": 2,
     "question_zh": "《仁》係咩類型嘅節目？",
     "question_en": "What genre is 'Jin'?",
     "options_zh": [
@@ -84,301 +42,7 @@
     "difficulty": 2
   },
   {
-    "id": 5,
-    "question_zh": "《仁》屬於邊種類型？",
-    "question_en": "What type does 'Jin' belong to?",
-    "options_zh": [
-      "紀錄片",
-      "穿越",
-      "喜劇",
-      "新聞"
-    ],
-    "options_en": [
-      "紀錄片",
-      "穿越",
-      "喜劇",
-      "新聞"
-    ],
-    "answer": 1,
-    "explanation_zh": "《仁醫》係穿越類型劇集。",
-    "explanation_en": "'仁醫' is a Time Travel show.",
-    "difficulty": 3
-  },
-  {
-    "id": 6,
-    "question_zh": "你會用咩詞語形容《仁》？",
-    "question_en": "How would you describe 'Jin'?",
-    "options_zh": [
-      "喜劇",
-      "穿越",
-      "新聞",
-      "紀錄片"
-    ],
-    "options_en": [
-      "喜劇",
-      "穿越",
-      "新聞",
-      "紀錄片"
-    ],
-    "answer": 1,
-    "explanation_zh": "《仁醫》係穿越類型劇集。",
-    "explanation_en": "'仁醫' is a Time Travel show.",
-    "difficulty": 1
-  },
-  {
-    "id": 7,
-    "question_zh": "《仁》係咩地區出品？",
-    "question_en": "Where is 'Jin' from?",
-    "options_zh": [
-      "巴西",
-      "泰國",
-      "印度",
-      "日本"
-    ],
-    "options_en": [
-      "Brazil",
-      "Thailand",
-      "India",
-      "Japan"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「日本」。",
-    "explanation_en": "The correct answer is 'Japan'.",
-    "difficulty": 2
-  },
-  {
-    "id": 8,
-    "question_zh": "《仁》係邊個國家/地區製作？",
-    "question_en": "Which country/region produced 'Jin'?",
-    "options_zh": [
-      "印度",
-      "巴西",
-      "日本",
-      "泰國"
-    ],
-    "options_en": [
-      "India",
-      "Brazil",
-      "Japan",
-      "Thailand"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「日本」。",
-    "explanation_en": "The correct answer is 'Japan'.",
-    "difficulty": 3
-  },
-  {
-    "id": 9,
-    "question_zh": "《仁》嘅出品地方係？",
-    "question_en": "Where was 'Jin' produced?",
-    "options_zh": [
-      "日本",
-      "泰國",
-      "巴西",
-      "印度"
-    ],
-    "options_en": [
-      "Japan",
-      "Thailand",
-      "Brazil",
-      "India"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「日本」。",
-    "explanation_en": "The correct answer is 'Japan'.",
-    "difficulty": 1
-  },
-  {
-    "id": 10,
-    "question_zh": "《仁》主要講咩？",
-    "question_en": "What is 'Jin' mainly about?",
-    "options_zh": [
-      "財經新聞",
-      "體育賽事",
-      "天氣報告",
-      "精彩劇情"
-    ],
-    "options_en": [
-      "Finance",
-      "Sports",
-      "Weather",
-      "Exciting plot"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「精彩劇情」。",
-    "explanation_en": "The correct answer is 'Exciting plot'.",
-    "difficulty": 2
-  },
-  {
-    "id": 11,
-    "question_zh": "《仁》嘅故事情節係？",
-    "question_en": "What is the plot of 'Jin'?",
-    "options_zh": [
-      "財經新聞",
-      "天氣報告",
-      "精彩劇情",
-      "體育賽事"
-    ],
-    "options_en": [
-      "Finance",
-      "Weather",
-      "Exciting plot",
-      "Sports"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「精彩劇情」。",
-    "explanation_en": "The correct answer is 'Exciting plot'.",
-    "difficulty": 3
-  },
-  {
-    "id": 12,
-    "question_zh": "《仁》圍繞咩主題？",
-    "question_en": "What theme does 'Jin' revolve around?",
-    "options_zh": [
-      "天氣報告",
-      "財經新聞",
-      "精彩劇情",
-      "體育賽事"
-    ],
-    "options_en": [
-      "Weather",
-      "Finance",
-      "Exciting plot",
-      "Sports"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「精彩劇情」。",
-    "explanation_en": "The correct answer is 'Exciting plot'.",
-    "difficulty": 1
-  },
-  {
-    "id": 13,
-    "question_zh": "《仁》係邊個平台播出？",
-    "question_en": "Which platform aired 'Jin'?",
-    "options_zh": [
-      "Amazon",
-      "富士電視台",
-      "ViuTV",
-      "YouTube"
-    ],
-    "options_en": [
-      "Amazon",
-      "富士電視台",
-      "ViuTV",
-      "YouTube"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「富士電視台」。",
-    "explanation_en": "正確答案係「富士電視台」。",
-    "difficulty": 2
-  },
-  {
-    "id": 14,
-    "question_zh": "《仁》喺邊度可以睇到？",
-    "question_en": "Where can you watch 'Jin'?",
-    "options_zh": [
-      "富士電視台",
-      "YouTube",
-      "Amazon",
-      "ViuTV"
-    ],
-    "options_en": [
-      "富士電視台",
-      "YouTube",
-      "Amazon",
-      "ViuTV"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「富士電視台」。",
-    "explanation_en": "正確答案係「富士電視台」。",
-    "difficulty": 3
-  },
-  {
-    "id": 15,
-    "question_zh": "《仁》係邊個電視台/平台播嘅？",
-    "question_en": "Which TV station/platform aired 'Jin'?",
-    "options_zh": [
-      "富士電視台",
-      "ViuTV",
-      "Amazon",
-      "YouTube"
-    ],
-    "options_en": [
-      "富士電視台",
-      "ViuTV",
-      "Amazon",
-      "YouTube"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「富士電視台」。",
-    "explanation_en": "正確答案係「富士電視台」。",
-    "difficulty": 1
-  },
-  {
-    "id": 16,
-    "question_zh": "《仁》大約有幾多集？",
-    "question_en": "How many episodes does 'Jin' have approximately?",
-    "options_zh": [
-      "只有1集",
-      "約16-20集",
-      "約1-5集",
-      "約100集以上"
-    ],
-    "options_en": [
-      "Only 1 episode",
-      "About 16-20 episodes",
-      "1-5 episodes",
-      "100+ episodes"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「約16-20集」。",
-    "explanation_en": "The correct answer is 'About 16-20 episodes'.",
-    "difficulty": 2
-  },
-  {
-    "id": 17,
-    "question_zh": "《仁》嘅集數係？",
-    "question_en": "How many episodes are in 'Jin'?",
-    "options_zh": [
-      "約1-5集",
-      "約100集以上",
-      "只有1集",
-      "約16-20集"
-    ],
-    "options_en": [
-      "1-5 episodes",
-      "100+ episodes",
-      "Only 1 episode",
-      "About 16-20 episodes"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「約16-20集」。",
-    "explanation_en": "The correct answer is 'About 16-20 episodes'.",
-    "difficulty": 3
-  },
-  {
-    "id": 18,
-    "question_zh": "《仁》有冇出名嘅主題曲？",
-    "question_en": "Does 'Jin' have a famous theme song?",
-    "options_zh": [
-      "有主題曲",
-      "冇主題曲",
-      "只有插曲",
-      "只有背景音樂"
-    ],
-    "options_en": [
-      "Yes, has theme song",
-      "No theme song",
-      "Only insert songs",
-      "Only background music"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「有主題曲」。",
-    "explanation_en": "The correct answer is 'Yes, has theme song'.",
-    "difficulty": 2
-  },
-  {
-    "id": 19,
+    "id": 3,
     "question_zh": "《仁醫》嘅英文名係咩？",
     "question_en": "What is the English name of '仁醫'?",
     "options_zh": [
@@ -399,7 +63,7 @@
     "difficulty": 2
   },
   {
-    "id": 20,
+    "id": 4,
     "question_zh": "《仁醫》屬於咩類型？",
     "question_en": "What genre is '仁醫'?",
     "options_zh": [
@@ -420,7 +84,7 @@
     "difficulty": 1
   },
   {
-    "id": 21,
+    "id": 5,
     "question_zh": "《仁醫》係邊年首播？",
     "question_en": "What year did '仁醫' first air?",
     "options_zh": [
@@ -441,7 +105,7 @@
     "difficulty": 2
   },
   {
-    "id": 22,
+    "id": 6,
     "question_zh": "《仁醫》喺邊個平台播出？",
     "question_en": "On which platform did '仁醫' air?",
     "options_zh": [
@@ -462,7 +126,7 @@
     "difficulty": 2
   },
   {
-    "id": 23,
+    "id": 7,
     "question_zh": "以下邊個係《仁醫》嘅主演？",
     "question_en": "Which actor starred in '仁醫'?",
     "options_zh": [
@@ -483,7 +147,7 @@
     "difficulty": 2
   },
   {
-    "id": 24,
+    "id": 8,
     "question_zh": "「南方仁」係《仁醫》入面邊個角色？",
     "question_en": "Which character from '仁醫' is '南方仁'?",
     "options_zh": [
@@ -504,7 +168,7 @@
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《仁醫》有幾多集？",
     "question_en": "How many episodes does '仁醫' have?",
     "options_zh": [
@@ -525,7 +189,7 @@
     "difficulty": 3
   },
   {
-    "id": 26,
+    "id": 10,
     "question_zh": "「南方仁」係邊套劇嘅角色？",
     "question_en": "Which show does '南方仁' appear in?",
     "options_zh": [
@@ -546,7 +210,7 @@
     "difficulty": 1
   },
   {
-    "id": 27,
+    "id": 11,
     "question_zh": "《仁醫》係邊個年代嘅作品？",
     "question_en": "Which decade was '仁醫' from?",
     "options_zh": [
@@ -567,7 +231,7 @@
     "difficulty": 1
   },
   {
-    "id": 28,
+    "id": 12,
     "question_zh": "邊套劇喺2009年首播？",
     "question_en": "Which show first aired in 2009?",
     "options_zh": [
@@ -588,7 +252,7 @@
     "difficulty": 2
   },
   {
-    "id": 29,
+    "id": 13,
     "question_zh": "邊套劇喺TBS播出？",
     "question_en": "Which show aired on TBS?",
     "options_zh": [
@@ -609,28 +273,7 @@
     "difficulty": 2
   },
   {
-    "id": 30,
-    "question_zh": "以下邊套係穿越類型嘅劇集？",
-    "question_en": "Which is a Time Travel show?",
-    "options_zh": [
-      "悠長假期",
-      "律政英雄",
-      "仁醫",
-      "東京愛情故事"
-    ],
-    "options_en": [
-      "Long Vacation",
-      "Hero",
-      "Jin",
-      "Tokyo Love Story"
-    ],
-    "answer": 2,
-    "explanation_zh": "《仁醫》係穿越類型。",
-    "explanation_en": "'仁醫' is Time Travel.",
-    "difficulty": 1
-  },
-  {
-    "id": 31,
+    "id": 14,
     "question_zh": "「大澤隆夫」有份演出邊套劇？",
     "question_en": "Which show did '大澤隆夫' appear in?",
     "options_zh": [
@@ -651,7 +294,7 @@
     "difficulty": 2
   },
   {
-    "id": 32,
+    "id": 15,
     "question_zh": "《仁醫》「唔係」喺邊個平台播出？",
     "question_en": "Which platform did '仁醫' NOT air on?",
     "options_zh": [
@@ -672,7 +315,7 @@
     "difficulty": 2
   },
   {
-    "id": 33,
+    "id": 16,
     "question_zh": "《仁醫》係邊個年代首播？",
     "question_en": "Which decade did '仁醫' first air?",
     "options_zh": [
@@ -691,26 +334,5 @@
     "explanation_zh": "《仁醫》係2000年代首播。",
     "explanation_en": "'仁醫' first aired in the 2000s.",
     "difficulty": 1
-  },
-  {
-    "id": 34,
-    "question_zh": "《仁醫》大約有幾多集？",
-    "question_en": "Approximately how many episodes does '仁醫' have?",
-    "options_zh": [
-      "100集以上",
-      "16-30集",
-      "51-100集",
-      "1-15集"
-    ],
-    "options_en": [
-      "100+ episodes",
-      "16-30 episodes",
-      "51-100 episodes",
-      "1-15集"
-    ],
-    "answer": 3,
-    "explanation_zh": "《仁醫》共有11集，屬於1-15集。",
-    "explanation_en": "'仁醫' has 11 episodes (1-15集).",
-    "difficulty": 2
   }
 ]
