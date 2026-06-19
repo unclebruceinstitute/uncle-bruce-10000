@@ -4,14 +4,14 @@
     "question_zh": "以下邊本係《雪山飛狐》？",
     "question_en": "Which one is 'Flying Fox of Snowy Mountain'?",
     "options_zh": [
-      "其他小說B",
       "其他小說A",
+      "其他小說B",
       "雪山飛狐",
       "其他小說C"
     ],
     "options_en": [
-      "Other Novel B",
       "Other Novel A",
+      "Other Novel B",
       "Flying Fox of Snowy Mountain",
       "Other Novel C"
     ],
@@ -21,28 +21,28 @@
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《雪山飛狐》嘅作者係邊個？",
     "question_en": "Who wrote 'Flying Fox of Snowy Mountain'?",
     "options_zh": [
-      "其他作者A",
-      "其他作者B",
+      "其他作者C",
       "金庸",
-      "其他作者C"
+      "其他作者B",
+      "其他作者A"
     ],
     "options_en": [
-      "Author A",
-      "Author B",
+      "Author C",
       "Jin Yong",
-      "Author C"
+      "Author B",
+      "Author A"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「金庸」。",
     "explanation_en": "The correct answer is 'Jin Yong'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《雪山飛狐》係邊年出版嘅？",
     "question_en": "What year was 'Flying Fox of Snowy Mountain' published?",
     "options_zh": [
@@ -63,19 +63,19 @@
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《雪山飛狐》係邊國作品？",
     "question_en": "Which country is 'Flying Fox of Snowy Mountain' from?",
     "options_zh": [
-      "韓國",
-      "法國",
       "德國",
+      "法國",
+      "韓國",
       "中國"
     ],
     "options_en": [
-      "South Korea",
-      "France",
       "Germany",
+      "France",
+      "South Korea",
       "China"
     ],
     "answer": 3,
@@ -84,41 +84,41 @@
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《雪山飛狐》主要講咩？",
     "question_en": "What is 'Flying Fox of Snowy Mountain' mainly about?",
     "options_zh": [
-      "體育競技",
-      "科幻太空",
       "財經商戰",
-      "江湖恩怨同武俠世界"
+      "體育競技",
+      "江湖恩怨同武俠世界",
+      "科幻太空"
     ],
     "options_en": [
-      "Sports",
-      "Sci-fi",
       "Business",
-      "Martial arts world"
+      "Sports",
+      "Martial arts world",
+      "Sci-fi"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
     "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《雪山飛狐》入面有咩角色？",
     "question_en": "What characters are in 'Flying Fox of Snowy Mountain'?",
     "options_zh": [
-      "外星人",
+      "動物",
       "武林高手",
       "機械人",
-      "動物"
+      "外星人"
     ],
     "options_en": [
-      "Aliens",
+      "Animals",
       "Martial arts masters",
       "Robots",
-      "Animals"
+      "Aliens"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「武林高手」。",
@@ -126,66 +126,234 @@
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《雪山飛狐》嘅故事背景喺邊度？",
     "question_en": "Where is 'Flying Fox of Snowy Mountain' set?",
     "options_zh": [
-      "古代中國",
-      "虛擬世界",
       "未來太空",
+      "虛擬世界",
+      "古代中國",
       "歐洲中世紀"
     ],
     "options_en": [
-      "Ancient China",
-      "Virtual world",
       "Future space",
+      "Virtual world",
+      "Ancient China",
       "Medieval Europe"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「古代中國」。",
     "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《雪山飛狐》係咪好受歡迎？",
     "question_en": "Is 'Flying Fox of Snowy Mountain' popular?",
     "options_zh": [
+      "係，有一定讀者群",
       "只喺特定地區流行",
       "已經過氣",
-      "係，有一定讀者群",
       "唔係，好冷門"
     ],
     "options_en": [
+      "Yes, has a readership",
       "Only popular locally",
       "Outdated",
-      "Yes, has a readership",
       "No, very niche"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《雪山飛狐》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Flying Fox of Snowy Mountain'?",
     "options_zh": [
       "中國人",
       "德國人",
-      "法國人",
-      "韓國人"
+      "韓國人",
+      "法國人"
     ],
     "options_en": [
       "Chinese",
       "German",
-      "French",
-      "Korean"
+      "Korean",
+      "French"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《雪殺雙龍》嘅作者係邊個？",
+    "question_en": "Who wrote 'Snow Kill Twin Dragons'?",
+    "options_zh": [
+      "未知",
+      "金庸",
+      "魯迅",
+      "古龍"
+    ],
+    "options_en": [
+      "Unknown",
+      "Jin Yong",
+      "Lu Xun",
+      "Gu Long"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「未知」。《雪殺雙龍》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Snow Kill Twin Dragons' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《雪殺雙龍》？",
+    "question_en": "Which author wrote 'Snow Kill Twin Dragons'?",
+    "options_zh": [
+      "未知",
+      "金庸",
+      "魯迅",
+      "古龍"
+    ],
+    "options_en": [
+      "Unknown",
+      "Jin Yong",
+      "Lu Xun",
+      "Gu Long"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「未知」。《雪殺雙龍》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Snow Kill Twin Dragons' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question_zh": "《雪殺雙龍》屬於咩類型？",
+    "question_en": "What genre is 'Snow Kill Twin Dragons'?",
+    "options_zh": [
+      "武俠",
+      "歷史",
+      "動作",
+      "仙俠"
+    ],
+    "options_en": [
+      "武俠",
+      "歷史",
+      "動作",
+      "仙俠"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「武俠」。《雪殺雙龍》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is '武俠'. 'Snow Kill Twin Dragons' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "《雪殺雙龍》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Snow Kill Twin Dragons'?",
+    "options_zh": [
+      "令狐沖",
+      "郭靖",
+      "張無忌",
+      "未知"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Guo Jing",
+      "Zhang Wuji",
+      "Unknown"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「未知」。《雪殺雙龍》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Snow Kill Twin Dragons' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《雪殺雙龍》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Snow Kill Twin Dragons'?",
+    "options_zh": [
+      "未知",
+      "張無忌",
+      "令狐沖",
+      "郭靖"
+    ],
+    "options_en": [
+      "Unknown",
+      "Zhang Wuji",
+      "Linghu Chong",
+      "Guo Jing"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「未知」。《雪殺雙龍》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Snow Kill Twin Dragons' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_zh": "《雪殺雙龍》大約喺邊年出版？",
+    "question_en": "In which year was 'Snow Kill Twin Dragons' approximately published?",
+    "options_zh": [
+      "2000",
+      "1980",
+      "1950",
+      "未知"
+    ],
+    "options_en": [
+      "2000",
+      "1980",
+      "1950",
+      "未知"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「未知」。《雪殺雙龍》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is '未知'. 'Snow Kill Twin Dragons' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《雪殺雙龍》？",
+    "question_en": "Which one is 'Snow Kill Twin Dragons'?",
+    "options_zh": [
+      "雪殺雙龍",
+      "其他小說B",
+      "其他小說A",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Snow Kill Twin Dragons",
+      "Other Novel B",
+      "Other Novel A",
+      "Other Novel C"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「雪殺雙龍」。《雪殺雙龍》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Snow Kill Twin Dragons'. 'Snow Kill Twin Dragons' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《雪殺雙龍》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Snow Kill Twin Dragons' belong to?",
+    "options_zh": [
+      "wuxia",
+      "奇幻",
+      "文學",
+      "歷史"
+    ],
+    "options_en": [
+      "wuxia",
+      "Fantasy",
+      "Literary",
+      "Historical"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「wuxia」。《雪殺雙龍》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'wuxia'. 'Snow Kill Twin Dragons' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 3
   }
 ]

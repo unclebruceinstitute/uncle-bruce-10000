@@ -4,37 +4,37 @@
     "question_zh": "以下邊本係《大亨小傳》？",
     "question_en": "Which one is 'The Great Gatsby'?",
     "options_zh": [
-      "其他小說A",
       "大亨小傳",
       "其他小說B",
+      "其他小說A",
       "其他小說C"
     ],
     "options_en": [
-      "Other Novel A",
       "The Great Gatsby",
       "Other Novel B",
+      "Other Novel A",
       "Other Novel C"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「大亨小傳」。",
     "explanation_en": "The correct answer is 'The Great Gatsby'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《大亨小傳》嘅作者係邊個？",
     "question_en": "Who wrote 'The Great Gatsby'?",
     "options_zh": [
-      "其他作者B",
       "其他作者C",
+      "其他作者A",
       "費茲傑羅",
-      "其他作者A"
+      "其他作者B"
     ],
     "options_en": [
-      "Author B",
       "Author C",
+      "Author A",
       "F. Scott Fitzgerald",
-      "Author A"
+      "Author B"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「費茲傑羅」。",
@@ -42,7 +42,7 @@
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《大亨小傳》係邊年出版嘅？",
     "question_en": "What year was 'The Great Gatsby' published?",
     "options_zh": [
@@ -63,62 +63,62 @@
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《大亨小傳》係邊國作品？",
     "question_en": "Which country is 'The Great Gatsby' from?",
     "options_zh": [
-      "韓國",
       "法國",
-      "德國",
-      "美國"
+      "美國",
+      "韓國",
+      "德國"
     ],
     "options_en": [
-      "South Korea",
       "France",
-      "Germany",
-      "USA"
+      "USA",
+      "South Korea",
+      "Germany"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「美國」。",
     "explanation_en": "The correct answer is 'USA'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《大亨小傳》主要講咩？",
     "question_en": "What is 'The Great Gatsby' mainly about?",
     "options_zh": [
-      "現實生活同文學表達",
       "體育競技",
       "科幻太空",
+      "現實生活同文學表達",
       "財經商戰"
     ],
     "options_en": [
-      "Real life and literary",
       "Sports",
       "Sci-fi",
+      "Real life and literary",
       "Business"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
     "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《大亨小傳》入面有咩角色？",
     "question_en": "What characters are in 'The Great Gatsby'?",
     "options_zh": [
       "主要角色",
+      "機械人",
       "動物",
-      "外星人",
-      "機械人"
+      "外星人"
     ],
     "options_en": [
       "Main characters",
+      "Robots",
       "Animals",
-      "Aliens",
-      "Robots"
+      "Aliens"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「主要角色」。",
@@ -126,66 +126,234 @@
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《大亨小傳》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Great Gatsby' set?",
     "options_zh": [
-      "未來太空",
       "歐洲中世紀",
-      "虛擬世界",
-      "中國/亞洲"
+      "中國/亞洲",
+      "未來太空",
+      "虛擬世界"
     ],
     "options_en": [
-      "Future space",
       "Medieval Europe",
-      "Virtual world",
-      "China/Asia"
+      "China/Asia",
+      "Future space",
+      "Virtual world"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《大亨小傳》係咪好受歡迎？",
     "question_en": "Is 'The Great Gatsby' popular?",
     "options_zh": [
       "已經過氣",
+      "只喺特定地區流行",
       "係，非常受歡迎",
-      "唔係，好冷門",
-      "只喺特定地區流行"
+      "唔係，好冷門"
     ],
     "options_en": [
       "Outdated",
+      "Only popular locally",
       "Yes, very popular",
-      "No, very niche",
-      "Only popular locally"
+      "No, very niche"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《大亨小傳》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'The Great Gatsby'?",
     "options_zh": [
-      "德國人",
+      "韓國人",
       "法國人",
-      "中國人",
-      "韓國人"
+      "德國人",
+      "中國人"
     ],
     "options_en": [
-      "German",
+      "Korean",
       "French",
-      "Chinese",
-      "Korean"
+      "German",
+      "Chinese"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《大亨小傳》嘅作者係邊個？",
+    "question_en": "Who wrote 'The Great Gatsby'?",
+    "options_zh": [
+      "F·史考特·費茲傑羅",
+      "金庸",
+      "古龍",
+      "魯迅"
+    ],
+    "options_en": [
+      "F. Scott Fitzgerald",
+      "Jin Yong",
+      "Gu Long",
+      "Lu Xun"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「F·史考特·費茲傑羅」。《大亨小傳》係F·史考特·費茲傑羅嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'F. Scott Fitzgerald'. 'The Great Gatsby' is a work by F. Scott Fitzgerald, categorized as 文學.",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《大亨小傳》？",
+    "question_en": "Which author wrote 'The Great Gatsby'?",
+    "options_zh": [
+      "F·史考特·費茲傑羅",
+      "魯迅",
+      "金庸",
+      "古龍"
+    ],
+    "options_en": [
+      "F. Scott Fitzgerald",
+      "Lu Xun",
+      "Jin Yong",
+      "Gu Long"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「F·史考特·費茲傑羅」。《大亨小傳》係F·史考特·費茲傑羅嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'F. Scott Fitzgerald'. 'The Great Gatsby' is a work by F. Scott Fitzgerald, categorized as 文學.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《大亨小傳》屬於咩類型？",
+    "question_en": "What genre is 'The Great Gatsby'?",
+    "options_zh": [
+      "文學",
+      "歷史",
+      "古典",
+      "哲學"
+    ],
+    "options_en": [
+      "文學",
+      "歷史",
+      "古典",
+      "哲學"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「文學」。《大亨小傳》係F·史考特·費茲傑羅嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is '文學'. 'The Great Gatsby' is a work by F. Scott Fitzgerald, categorized as 文學.",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_zh": "《大亨小傳》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'The Great Gatsby'?",
+    "options_zh": [
+      "張無忌",
+      "令狐沖",
+      "郭靖",
+      "蓋茨比"
+    ],
+    "options_en": [
+      "Zhang Wuji",
+      "Linghu Chong",
+      "Guo Jing",
+      "Gatsby"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「蓋茨比」。《大亨小傳》係F·史考特·費茲傑羅嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Gatsby'. 'The Great Gatsby' is a work by F. Scott Fitzgerald, categorized as 文學.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《大亨小傳》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'The Great Gatsby'?",
+    "options_zh": [
+      "令狐沖",
+      "郭靖",
+      "蓋茨比",
+      "張無忌"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Guo Jing",
+      "Gatsby",
+      "Zhang Wuji"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「蓋茨比」。《大亨小傳》係F·史考特·費茲傑羅嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Gatsby'. 'The Great Gatsby' is a work by F. Scott Fitzgerald, categorized as 文學.",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_zh": "《大亨小傳》大約喺邊年出版？",
+    "question_en": "In which year was 'The Great Gatsby' approximately published?",
+    "options_zh": [
+      "1905",
+      "1915",
+      "1925",
+      "1935"
+    ],
+    "options_en": [
+      "1905",
+      "1915",
+      "1925",
+      "1935"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「1925」。《大亨小傳》係F·史考特·費茲傑羅嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is '1925'. 'The Great Gatsby' is a work by F. Scott Fitzgerald, categorized as 文學.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《大亨小傳》？",
+    "question_en": "Which one is 'The Great Gatsby'?",
+    "options_zh": [
+      "其他小說B",
+      "其他小說A",
+      "其他小說C",
+      "大亨小傳"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Other Novel A",
+      "Other Novel C",
+      "The Great Gatsby"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「大亨小傳」。《大亨小傳》係F·史考特·費茲傑羅嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'The Great Gatsby'. 'The Great Gatsby' is a work by F. Scott Fitzgerald, categorized as 文學.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《大亨小傳》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'The Great Gatsby' belong to?",
+    "options_zh": [
+      "推理",
+      "歷史",
+      "奇幻",
+      "literary"
+    ],
+    "options_en": [
+      "Mystery",
+      "Historical",
+      "Fantasy",
+      "literary"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「literary」。《大亨小傳》係F·史考特·費茲傑羅嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'literary'. 'The Great Gatsby' is a work by F. Scott Fitzgerald, categorized as 文學.",
+    "difficulty": 1
   }
 ]

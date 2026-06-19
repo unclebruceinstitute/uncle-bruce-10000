@@ -4,163 +4,163 @@
     "question_zh": "以下邊本係《你的名字》？",
     "question_en": "Which one is 'Your Name'?",
     "options_zh": [
-      "其他小說B",
-      "其他小說C",
       "你的名字",
-      "其他小說A"
+      "其他小說C",
+      "其他小說A",
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel B",
-      "Other Novel C",
       "Your Name",
-      "Other Novel A"
+      "Other Novel C",
+      "Other Novel A",
+      "Other Novel B"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「你的名字」。",
     "explanation_en": "The correct answer is 'Your Name'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《你的名字》嘅作者係邊個？",
     "question_en": "Who wrote 'Your Name'?",
     "options_zh": [
-      "其他作者C",
-      "新海誠",
       "其他作者B",
-      "其他作者A"
+      "其他作者C",
+      "其他作者A",
+      "新海誠"
     ],
     "options_en": [
-      "Author C",
-      "Makoto Shinkai",
       "Author B",
-      "Author A"
+      "Author C",
+      "Author A",
+      "Makoto Shinkai"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「新海誠」。",
     "explanation_en": "The correct answer is 'Makoto Shinkai'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《你的名字》係邊年出版嘅？",
     "question_en": "What year was 'Your Name' published?",
     "options_zh": [
-      "2018年",
+      "2016年",
       "2019年",
       "2014年",
-      "2016年"
+      "2018年"
     ],
     "options_en": [
-      "2018",
+      "2016",
       "2019",
       "2014",
-      "2016"
+      "2018"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「2016年」。",
     "explanation_en": "The correct answer is '2016'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《你的名字》係邊國作品？",
     "question_en": "Which country is 'Your Name' from?",
     "options_zh": [
-      "韓國",
       "中國",
+      "法國",
       "德國",
-      "法國"
+      "韓國"
     ],
     "options_en": [
-      "South Korea",
       "China",
+      "France",
       "Germany",
-      "France"
+      "South Korea"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《你的名字》主要講咩？",
     "question_en": "What is 'Your Name' mainly about?",
     "options_zh": [
-      "財經商戰",
       "科幻太空",
       "愛情故事同人物關係",
+      "財經商戰",
       "體育競技"
     ],
     "options_en": [
-      "Business",
       "Sci-fi",
       "Love story",
+      "Business",
       "Sports"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「愛情故事同人物關係」。",
     "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《你的名字》入面有咩角色？",
     "question_en": "What characters are in 'Your Name'?",
     "options_zh": [
-      "主要角色",
       "機械人",
       "外星人",
-      "動物"
+      "動物",
+      "主要角色"
     ],
     "options_en": [
-      "Main characters",
       "Robots",
       "Aliens",
-      "Animals"
+      "Animals",
+      "Main characters"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《你的名字》嘅故事背景喺邊度？",
     "question_en": "Where is 'Your Name' set?",
     "options_zh": [
-      "歐洲中世紀",
       "虛擬世界",
-      "中國/亞洲",
-      "未來太空"
+      "歐洲中世紀",
+      "未來太空",
+      "中國/亞洲"
     ],
     "options_en": [
-      "Medieval Europe",
       "Virtual world",
-      "China/Asia",
-      "Future space"
+      "Medieval Europe",
+      "Future space",
+      "China/Asia"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《你的名字》係咪好受歡迎？",
     "question_en": "Is 'Your Name' popular?",
     "options_zh": [
       "係，非常受歡迎",
       "只喺特定地區流行",
-      "已經過氣",
-      "唔係，好冷門"
+      "唔係，好冷門",
+      "已經過氣"
     ],
     "options_en": [
       "Yes, very popular",
       "Only popular locally",
-      "Outdated",
-      "No, very niche"
+      "No, very niche",
+      "Outdated"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
@@ -168,24 +168,192 @@
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《你的名字》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Your Name'?",
     "options_zh": [
-      "法國人",
       "德國人",
       "韓國人",
+      "法國人",
       "中國人"
     ],
     "options_en": [
-      "French",
       "German",
       "Korean",
+      "French",
       "Chinese"
     ],
     "answer": 3,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《你的名字。》嘅作者係邊個？",
+    "question_en": "Who wrote 'Your Name'?",
+    "options_zh": [
+      "新海誠",
+      "金庸",
+      "古龍",
+      "魯迅"
+    ],
+    "options_en": [
+      "Makoto Shinkai",
+      "Jin Yong",
+      "Gu Long",
+      "Lu Xun"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「新海誠」。《你的名字。》係新海誠嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'Makoto Shinkai'. 'Your Name' is a work by Makoto Shinkai, categorized as 愛情.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《你的名字。》？",
+    "question_en": "Which author wrote 'Your Name'?",
+    "options_zh": [
+      "魯迅",
+      "金庸",
+      "古龍",
+      "新海誠"
+    ],
+    "options_en": [
+      "Lu Xun",
+      "Jin Yong",
+      "Gu Long",
+      "Makoto Shinkai"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「新海誠」。《你的名字。》係新海誠嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'Makoto Shinkai'. 'Your Name' is a work by Makoto Shinkai, categorized as 愛情.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《你的名字。》屬於咩類型？",
+    "question_en": "What genre is 'Your Name'?",
+    "options_zh": [
+      "浪漫",
+      "文學",
+      "愛情",
+      "青春"
+    ],
+    "options_en": [
+      "浪漫",
+      "文學",
+      "愛情",
+      "青春"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「愛情」。《你的名字。》係新海誠嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is '愛情'. 'Your Name' is a work by Makoto Shinkai, categorized as 愛情.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《你的名字。》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Your Name'?",
+    "options_zh": [
+      "張無忌",
+      "立花瀧",
+      "郭靖",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Zhang Wuji",
+      "Taki",
+      "Guo Jing",
+      "Linghu Chong"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「立花瀧」。《你的名字。》係新海誠嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'Taki'. 'Your Name' is a work by Makoto Shinkai, categorized as 愛情.",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《你的名字。》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Your Name'?",
+    "options_zh": [
+      "立花瀧",
+      "令狐沖",
+      "郭靖",
+      "張無忌"
+    ],
+    "options_en": [
+      "Taki",
+      "Linghu Chong",
+      "Guo Jing",
+      "Zhang Wuji"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「立花瀧」。《你的名字。》係新海誠嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'Taki'. 'Your Name' is a work by Makoto Shinkai, categorized as 愛情.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《你的名字。》大約喺邊年出版？",
+    "question_en": "In which year was 'Your Name' approximately published?",
+    "options_zh": [
+      "2016",
+      "1996",
+      "2006",
+      "2026"
+    ],
+    "options_en": [
+      "2016",
+      "1996",
+      "2006",
+      "2026"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2016」。《你的名字。》係新海誠嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is '2016'. 'Your Name' is a work by Makoto Shinkai, categorized as 愛情.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《你的名字。》？",
+    "question_en": "Which one is 'Your Name'?",
+    "options_zh": [
+      "其他小說C",
+      "其他小說B",
+      "你的名字。",
+      "其他小說A"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Novel B",
+      "Your Name",
+      "Other Novel A"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「你的名字。」。《你的名字。》係新海誠嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'Your Name'. 'Your Name' is a work by Makoto Shinkai, categorized as 愛情.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《你的名字。》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Your Name' belong to?",
+    "options_zh": [
+      "romance",
+      "歷史",
+      "奇幻",
+      "文學"
+    ],
+    "options_en": [
+      "romance",
+      "Historical",
+      "Fantasy",
+      "Literary"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「romance」。《你的名字。》係新海誠嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'romance'. 'Your Name' is a work by Makoto Shinkai, categorized as 愛情.",
     "difficulty": 2
   }
 ]

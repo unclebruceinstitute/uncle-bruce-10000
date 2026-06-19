@@ -6,14 +6,14 @@
     "options_zh": [
       "完美世界",
       "其他小說A",
-      "其他小說C",
-      "其他小說B"
+      "其他小說B",
+      "其他小說C"
     ],
     "options_en": [
       "Perfect World",
       "Other Novel A",
-      "Other Novel C",
-      "Other Novel B"
+      "Other Novel B",
+      "Other Novel C"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「完美世界」。",
@@ -21,19 +21,19 @@
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《完美世界》嘅作者係邊個？",
     "question_en": "Who wrote 'Perfect World'?",
     "options_zh": [
-      "其他作者A",
-      "其他作者B",
       "其他作者C",
+      "其他作者B",
+      "其他作者A",
       "辰東"
     ],
     "options_en": [
-      "Author A",
-      "Author B",
       "Author C",
+      "Author B",
+      "Author A",
       "Chen Dong"
     ],
     "answer": 3,
@@ -42,150 +42,318 @@
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《完美世界》係邊年出版嘅？",
     "question_en": "What year was 'Perfect World' published?",
     "options_zh": [
       "2018年",
+      "2015年",
       "2013年",
-      "2016年",
-      "2015年"
+      "2016年"
     ],
     "options_en": [
       "2018",
+      "2015",
       "2013",
-      "2016",
-      "2015"
+      "2016"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「2013年」。",
     "explanation_en": "The correct answer is '2013'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《完美世界》係邊國作品？",
     "question_en": "Which country is 'Perfect World' from?",
     "options_zh": [
-      "中國",
-      "德國",
       "韓國",
-      "法國"
+      "法國",
+      "德國",
+      "中國"
     ],
     "options_en": [
-      "China",
-      "Germany",
       "South Korea",
-      "France"
+      "France",
+      "Germany",
+      "China"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《完美世界》主要講咩？",
     "question_en": "What is 'Perfect World' mainly about?",
     "options_zh": [
-      "精彩故事",
       "體育競技",
       "科幻太空",
+      "精彩故事",
       "財經商戰"
     ],
     "options_en": [
-      "Exciting story",
       "Sports",
       "Sci-fi",
+      "Exciting story",
       "Business"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「精彩故事」。",
     "explanation_en": "The correct answer is 'Exciting story'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《完美世界》入面有咩角色？",
     "question_en": "What characters are in 'Perfect World'?",
     "options_zh": [
-      "外星人",
-      "機械人",
+      "主要角色",
       "動物",
-      "主要角色"
+      "機械人",
+      "外星人"
     ],
     "options_en": [
-      "Aliens",
-      "Robots",
+      "Main characters",
       "Animals",
-      "Main characters"
+      "Robots",
+      "Aliens"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《完美世界》嘅故事背景喺邊度？",
     "question_en": "Where is 'Perfect World' set?",
     "options_zh": [
+      "中國/亞洲",
       "虛擬世界",
       "未來太空",
-      "中國/亞洲",
       "歐洲中世紀"
     ],
     "options_en": [
+      "China/Asia",
       "Virtual world",
       "Future space",
-      "China/Asia",
       "Medieval Europe"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《完美世界》係咪好受歡迎？",
     "question_en": "Is 'Perfect World' popular?",
     "options_zh": [
-      "只喺特定地區流行",
-      "唔係，好冷門",
       "已經過氣",
-      "係，非常受歡迎"
+      "係，非常受歡迎",
+      "唔係，好冷門",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "Only popular locally",
-      "No, very niche",
       "Outdated",
-      "Yes, very popular"
+      "Yes, very popular",
+      "No, very niche",
+      "Only popular locally"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《完美世界》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Perfect World'?",
     "options_zh": [
-      "法國人",
       "中國人",
+      "法國人",
       "德國人",
       "韓國人"
     ],
     "options_en": [
-      "French",
       "Chinese",
+      "French",
       "German",
       "Korean"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《完美世界》嘅作者係邊個？",
+    "question_en": "Who wrote 'Perfect World'?",
+    "options_zh": [
+      "金庸",
+      "辰東",
+      "古龍",
+      "魯迅"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Chen Dong",
+      "Gu Long",
+      "Lu Xun"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「辰東」。《完美世界》係辰東嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is 'Chen Dong'. 'Perfect World' is a work by Chen Dong, categorized as 玄幻.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《完美世界》？",
+    "question_en": "Which author wrote 'Perfect World'?",
+    "options_zh": [
+      "金庸",
+      "魯迅",
+      "古龍",
+      "辰東"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Lu Xun",
+      "Gu Long",
+      "Chen Dong"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「辰東」。《完美世界》係辰東嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is 'Chen Dong'. 'Perfect World' is a work by Chen Dong, categorized as 玄幻.",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question_zh": "《完美世界》屬於咩類型？",
+    "question_en": "What genre is 'Perfect World'?",
+    "options_zh": [
+      "玄幻",
+      "仙俠",
+      "武俠",
+      "科幻"
+    ],
+    "options_en": [
+      "玄幻",
+      "仙俠",
+      "武俠",
+      "科幻"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「玄幻」。《完美世界》係辰東嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is '玄幻'. 'Perfect World' is a work by Chen Dong, categorized as 玄幻.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《完美世界》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Perfect World'?",
+    "options_zh": [
+      "令狐沖",
+      "石昊",
+      "郭靖",
+      "張無忌"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Shi Hao",
+      "Guo Jing",
+      "Zhang Wuji"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「石昊」。《完美世界》係辰東嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is 'Shi Hao'. 'Perfect World' is a work by Chen Dong, categorized as 玄幻.",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《完美世界》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Perfect World'?",
+    "options_zh": [
+      "令狐沖",
+      "郭靖",
+      "石昊",
+      "張無忌"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Guo Jing",
+      "Shi Hao",
+      "Zhang Wuji"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「石昊」。《完美世界》係辰東嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is 'Shi Hao'. 'Perfect World' is a work by Chen Dong, categorized as 玄幻.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《完美世界》大約喺邊年出版？",
+    "question_en": "In which year was 'Perfect World' approximately published?",
+    "options_zh": [
+      "2023",
+      "2003",
+      "2013",
+      "1993"
+    ],
+    "options_en": [
+      "2023",
+      "2003",
+      "2013",
+      "1993"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2013」。《完美世界》係辰東嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is '2013'. 'Perfect World' is a work by Chen Dong, categorized as 玄幻.",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《完美世界》？",
+    "question_en": "Which one is 'Perfect World'?",
+    "options_zh": [
+      "其他小說C",
+      "完美世界",
+      "其他小說B",
+      "其他小說A"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Perfect World",
+      "Other Novel B",
+      "Other Novel A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「完美世界」。《完美世界》係辰東嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is 'Perfect World'. 'Perfect World' is a work by Chen Dong, categorized as 玄幻.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《完美世界》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Perfect World' belong to?",
+    "options_zh": [
+      "奇幻",
+      "popular",
+      "文學",
+      "歷史"
+    ],
+    "options_en": [
+      "Fantasy",
+      "popular",
+      "Literary",
+      "Historical"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「popular」。《完美世界》係辰東嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is 'popular'. 'Perfect World' is a work by Chen Dong, categorized as 玄幻.",
+    "difficulty": 3
   }
 ]

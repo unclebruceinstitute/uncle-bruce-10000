@@ -4,15 +4,15 @@
     "question_zh": "以下邊本係《達文西密碼》？",
     "question_en": "Which one is 'The Da Vinci Code'?",
     "options_zh": [
+      "其他小說A",
       "其他小說B",
       "其他小說C",
-      "其他小說A",
       "達文西密碼"
     ],
     "options_en": [
+      "Other Novel A",
       "Other Novel B",
       "Other Novel C",
-      "Other Novel A",
       "The Da Vinci Code"
     ],
     "answer": 3,
@@ -21,20 +21,20 @@
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《達文西密碼》嘅作者係邊個？",
     "question_en": "Who wrote 'The Da Vinci Code'?",
     "options_zh": [
-      "其他作者A",
+      "其他作者C",
       "其他作者B",
       "丹·布朗",
-      "其他作者C"
+      "其他作者A"
     ],
     "options_en": [
-      "Author A",
+      "Author C",
       "Author B",
       "Dan Brown",
-      "Author C"
+      "Author A"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「丹·布朗」。",
@@ -42,83 +42,83 @@
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《達文西密碼》係邊年出版嘅？",
     "question_en": "What year was 'The Da Vinci Code' published?",
     "options_zh": [
-      "2005年",
-      "2000年",
       "2003年",
-      "2001年"
+      "2001年",
+      "2000年",
+      "2005年"
     ],
     "options_en": [
-      "2005",
-      "2000",
       "2003",
-      "2001"
+      "2001",
+      "2000",
+      "2005"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「2003年」。",
     "explanation_en": "The correct answer is '2003'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《達文西密碼》係邊國作品？",
     "question_en": "Which country is 'The Da Vinci Code' from?",
     "options_zh": [
       "法國",
-      "德國",
       "中國",
-      "韓國"
+      "韓國",
+      "德國"
     ],
     "options_en": [
       "France",
-      "Germany",
       "China",
-      "South Korea"
+      "South Korea",
+      "Germany"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《達文西密碼》主要講咩？",
     "question_en": "What is 'The Da Vinci Code' mainly about?",
     "options_zh": [
-      "財經商戰",
-      "科幻太空",
       "體育競技",
-      "推理破案同懸疑故事"
+      "科幻太空",
+      "推理破案同懸疑故事",
+      "財經商戰"
     ],
     "options_en": [
-      "Business",
-      "Sci-fi",
       "Sports",
-      "Mystery and detective"
+      "Sci-fi",
+      "Mystery and detective",
+      "Business"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
     "explanation_en": "The correct answer is 'Mystery and detective'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《達文西密碼》入面有咩角色？",
     "question_en": "What characters are in 'The Da Vinci Code'?",
     "options_zh": [
       "外星人",
-      "動物",
+      "機械人",
       "偵探/警察",
-      "機械人"
+      "動物"
     ],
     "options_en": [
       "Aliens",
-      "Animals",
+      "Robots",
       "Detective/Police",
-      "Robots"
+      "Animals"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「偵探/警察」。",
@@ -126,40 +126,40 @@
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《達文西密碼》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Da Vinci Code' set?",
     "options_zh": [
-      "歐洲中世紀",
       "未來太空",
-      "虛擬世界",
-      "中國/亞洲"
+      "中國/亞洲",
+      "歐洲中世紀",
+      "虛擬世界"
     ],
     "options_en": [
-      "Medieval Europe",
       "Future space",
-      "Virtual world",
-      "China/Asia"
+      "China/Asia",
+      "Medieval Europe",
+      "Virtual world"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《達文西密碼》係咪好受歡迎？",
     "question_en": "Is 'The Da Vinci Code' popular?",
     "options_zh": [
-      "已經過氣",
-      "只喺特定地區流行",
       "唔係，好冷門",
+      "只喺特定地區流行",
+      "已經過氣",
       "係，非常受歡迎"
     ],
     "options_en": [
-      "Outdated",
-      "Only popular locally",
       "No, very niche",
+      "Only popular locally",
+      "Outdated",
       "Yes, very popular"
     ],
     "answer": 3,
@@ -168,24 +168,192 @@
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《達文西密碼》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'The Da Vinci Code'?",
     "options_zh": [
-      "中國人",
       "韓國人",
+      "中國人",
       "德國人",
       "法國人"
     ],
     "options_en": [
-      "Chinese",
       "Korean",
+      "Chinese",
       "German",
       "French"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《達文西密碼》嘅作者係邊個？",
+    "question_en": "Who wrote 'The Da Vinci Code'?",
+    "options_zh": [
+      "金庸",
+      "魯迅",
+      "丹·布朗",
+      "古龍"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Lu Xun",
+      "Dan Brown",
+      "Gu Long"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「丹·布朗」。《達文西密碼》係丹·布朗嘅作品，屬於懸疑類型。",
+    "explanation_en": "The correct answer is 'Dan Brown'. 'The Da Vinci Code' is a work by Dan Brown, categorized as 懸疑.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《達文西密碼》？",
+    "question_en": "Which author wrote 'The Da Vinci Code'?",
+    "options_zh": [
+      "魯迅",
+      "丹·布朗",
+      "古龍",
+      "金庸"
+    ],
+    "options_en": [
+      "Lu Xun",
+      "Dan Brown",
+      "Gu Long",
+      "Jin Yong"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「丹·布朗」。《達文西密碼》係丹·布朗嘅作品，屬於懸疑類型。",
+    "explanation_en": "The correct answer is 'Dan Brown'. 'The Da Vinci Code' is a work by Dan Brown, categorized as 懸疑.",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question_zh": "《達文西密碼》屬於咩類型？",
+    "question_en": "What genre is 'The Da Vinci Code'?",
+    "options_zh": [
+      "懸疑",
+      "犯罪",
+      "驚悚",
+      "推理"
+    ],
+    "options_en": [
+      "懸疑",
+      "犯罪",
+      "驚悚",
+      "推理"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「懸疑」。《達文西密碼》係丹·布朗嘅作品，屬於懸疑類型。",
+    "explanation_en": "The correct answer is '懸疑'. 'The Da Vinci Code' is a work by Dan Brown, categorized as 懸疑.",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_zh": "《達文西密碼》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'The Da Vinci Code'?",
+    "options_zh": [
+      "蘭登",
+      "令狐沖",
+      "張無忌",
+      "郭靖"
+    ],
+    "options_en": [
+      "Langdon",
+      "Linghu Chong",
+      "Zhang Wuji",
+      "Guo Jing"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「蘭登」。《達文西密碼》係丹·布朗嘅作品，屬於懸疑類型。",
+    "explanation_en": "The correct answer is 'Langdon'. 'The Da Vinci Code' is a work by Dan Brown, categorized as 懸疑.",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_zh": "《達文西密碼》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'The Da Vinci Code'?",
+    "options_zh": [
+      "蘭登",
+      "令狐沖",
+      "郭靖",
+      "張無忌"
+    ],
+    "options_en": [
+      "Langdon",
+      "Linghu Chong",
+      "Guo Jing",
+      "Zhang Wuji"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「蘭登」。《達文西密碼》係丹·布朗嘅作品，屬於懸疑類型。",
+    "explanation_en": "The correct answer is 'Langdon'. 'The Da Vinci Code' is a work by Dan Brown, categorized as 懸疑.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《達文西密碼》大約喺邊年出版？",
+    "question_en": "In which year was 'The Da Vinci Code' approximately published?",
+    "options_zh": [
+      "2003",
+      "1983",
+      "2013",
+      "1993"
+    ],
+    "options_en": [
+      "2003",
+      "1983",
+      "2013",
+      "1993"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2003」。《達文西密碼》係丹·布朗嘅作品，屬於懸疑類型。",
+    "explanation_en": "The correct answer is '2003'. 'The Da Vinci Code' is a work by Dan Brown, categorized as 懸疑.",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《達文西密碼》？",
+    "question_en": "Which one is 'The Da Vinci Code'?",
+    "options_zh": [
+      "達文西密碼",
+      "其他小說C",
+      "其他小說B",
+      "其他小說A"
+    ],
+    "options_en": [
+      "The Da Vinci Code",
+      "Other Novel C",
+      "Other Novel B",
+      "Other Novel A"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「達文西密碼」。《達文西密碼》係丹·布朗嘅作品，屬於懸疑類型。",
+    "explanation_en": "The correct answer is 'The Da Vinci Code'. 'The Da Vinci Code' is a work by Dan Brown, categorized as 懸疑.",
+    "difficulty": 3
+  },
+  {
+    "id": 17,
+    "question_zh": "《達文西密碼》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'The Da Vinci Code' belong to?",
+    "options_zh": [
+      "mystery",
+      "奇幻",
+      "文學",
+      "歷史"
+    ],
+    "options_en": [
+      "mystery",
+      "Fantasy",
+      "Literary",
+      "Historical"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「mystery」。《達文西密碼》係丹·布朗嘅作品，屬於懸疑類型。",
+    "explanation_en": "The correct answer is 'mystery'. 'The Da Vinci Code' is a work by Dan Brown, categorized as 懸疑.",
+    "difficulty": 1
   }
 ]

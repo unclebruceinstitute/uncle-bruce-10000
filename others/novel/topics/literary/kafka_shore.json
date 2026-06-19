@@ -4,16 +4,16 @@
     "question_zh": "以下邊本係《海邊的卡夫卡》？",
     "question_en": "Which one is 'Kafka on the Shore'?",
     "options_zh": [
-      "其他小說A",
+      "其他小說C",
       "海邊的卡夫卡",
-      "其他小說B",
-      "其他小說C"
+      "其他小說A",
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel A",
+      "Other Novel C",
       "Kafka on the Shore",
-      "Other Novel B",
-      "Other Novel C"
+      "Other Novel A",
+      "Other Novel B"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「海邊的卡夫卡」。",
@@ -21,49 +21,49 @@
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《海邊的卡夫卡》嘅作者係邊個？",
     "question_en": "Who wrote 'Kafka on the Shore'?",
     "options_zh": [
-      "其他作者C",
-      "村上春樹",
       "其他作者A",
-      "其他作者B"
+      "其他作者B",
+      "其他作者C",
+      "村上春樹"
     ],
     "options_en": [
-      "Author C",
-      "Haruki Murakami",
       "Author A",
-      "Author B"
+      "Author B",
+      "Author C",
+      "Haruki Murakami"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「村上春樹」。",
     "explanation_en": "The correct answer is 'Haruki Murakami'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《海邊的卡夫卡》係邊年出版嘅？",
     "question_en": "What year was 'Kafka on the Shore' published?",
     "options_zh": [
-      "1999年",
-      "2004年",
       "2002年",
+      "2004年",
+      "1999年",
       "2005年"
     ],
     "options_en": [
-      "1999",
-      "2004",
       "2002",
+      "2004",
+      "1999",
       "2005"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「2002年」。",
     "explanation_en": "The correct answer is '2002'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《海邊的卡夫卡》係邊國作品？",
     "question_en": "Which country is 'Kafka on the Shore' from?",
     "options_zh": [
@@ -84,108 +84,276 @@
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《海邊的卡夫卡》主要講咩？",
     "question_en": "What is 'Kafka on the Shore' mainly about?",
     "options_zh": [
+      "財經商戰",
       "現實生活同文學表達",
       "體育競技",
-      "財經商戰",
       "科幻太空"
     ],
     "options_en": [
+      "Business",
       "Real life and literary",
       "Sports",
-      "Business",
       "Sci-fi"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
     "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《海邊的卡夫卡》入面有咩角色？",
     "question_en": "What characters are in 'Kafka on the Shore'?",
     "options_zh": [
+      "動物",
       "外星人",
       "機械人",
-      "主要角色",
-      "動物"
+      "主要角色"
     ],
     "options_en": [
+      "Animals",
       "Aliens",
       "Robots",
-      "Main characters",
-      "Animals"
+      "Main characters"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《海邊的卡夫卡》嘅故事背景喺邊度？",
     "question_en": "Where is 'Kafka on the Shore' set?",
     "options_zh": [
+      "未來太空",
       "歐洲中世紀",
       "中國/亞洲",
-      "未來太空",
       "虛擬世界"
     ],
     "options_en": [
+      "Future space",
       "Medieval Europe",
       "China/Asia",
-      "Future space",
       "Virtual world"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《海邊的卡夫卡》係咪好受歡迎？",
     "question_en": "Is 'Kafka on the Shore' popular?",
     "options_zh": [
+      "已經過氣",
       "係，非常受歡迎",
       "唔係，好冷門",
-      "已經過氣",
       "只喺特定地區流行"
     ],
     "options_en": [
+      "Outdated",
       "Yes, very popular",
       "No, very niche",
-      "Outdated",
       "Only popular locally"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《海邊的卡夫卡》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Kafka on the Shore'?",
     "options_zh": [
       "韓國人",
-      "日本人",
       "法國人",
+      "日本人",
       "德國人"
     ],
     "options_en": [
       "Korean",
-      "Japanese",
       "French",
+      "Japanese",
       "German"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「日本人」。",
     "explanation_en": "The correct answer is 'Japanese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《海邊的卡夫卡》嘅作者係邊個？",
+    "question_en": "Who wrote 'Kafka on the Shore'?",
+    "options_zh": [
+      "金庸",
+      "村上春樹",
+      "魯迅",
+      "古龍"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Haruki Murakami",
+      "Lu Xun",
+      "Gu Long"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「村上春樹」。《海邊的卡夫卡》係村上春樹嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Haruki Murakami'. 'Kafka on the Shore' is a work by Haruki Murakami, categorized as 文學.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《海邊的卡夫卡》？",
+    "question_en": "Which author wrote 'Kafka on the Shore'?",
+    "options_zh": [
+      "古龍",
+      "村上春樹",
+      "魯迅",
+      "金庸"
+    ],
+    "options_en": [
+      "Gu Long",
+      "Haruki Murakami",
+      "Lu Xun",
+      "Jin Yong"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「村上春樹」。《海邊的卡夫卡》係村上春樹嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Haruki Murakami'. 'Kafka on the Shore' is a work by Haruki Murakami, categorized as 文學.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《海邊的卡夫卡》屬於咩類型？",
+    "question_en": "What genre is 'Kafka on the Shore'?",
+    "options_zh": [
+      "文學",
+      "歷史",
+      "古典",
+      "哲學"
+    ],
+    "options_en": [
+      "文學",
+      "歷史",
+      "古典",
+      "哲學"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「文學」。《海邊的卡夫卡》係村上春樹嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is '文學'. 'Kafka on the Shore' is a work by Haruki Murakami, categorized as 文學.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "《海邊的卡夫卡》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Kafka on the Shore'?",
+    "options_zh": [
+      "令狐沖",
+      "卡夫卡",
+      "張無忌",
+      "郭靖"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Kafka",
+      "Zhang Wuji",
+      "Guo Jing"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「卡夫卡」。《海邊的卡夫卡》係村上春樹嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Kafka'. 'Kafka on the Shore' is a work by Haruki Murakami, categorized as 文學.",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《海邊的卡夫卡》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Kafka on the Shore'?",
+    "options_zh": [
+      "郭靖",
+      "令狐沖",
+      "卡夫卡",
+      "張無忌"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Linghu Chong",
+      "Kafka",
+      "Zhang Wuji"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「卡夫卡」。《海邊的卡夫卡》係村上春樹嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Kafka'. 'Kafka on the Shore' is a work by Haruki Murakami, categorized as 文學.",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_zh": "《海邊的卡夫卡》大約喺邊年出版？",
+    "question_en": "In which year was 'Kafka on the Shore' approximately published?",
+    "options_zh": [
+      "1982",
+      "2012",
+      "2002",
+      "1992"
+    ],
+    "options_en": [
+      "1982",
+      "2012",
+      "2002",
+      "1992"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2002」。《海邊的卡夫卡》係村上春樹嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is '2002'. 'Kafka on the Shore' is a work by Haruki Murakami, categorized as 文學.",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《海邊的卡夫卡》？",
+    "question_en": "Which one is 'Kafka on the Shore'?",
+    "options_zh": [
+      "其他小說C",
+      "其他小說B",
+      "海邊的卡夫卡",
+      "其他小說A"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Novel B",
+      "Kafka on the Shore",
+      "Other Novel A"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「海邊的卡夫卡」。《海邊的卡夫卡》係村上春樹嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Kafka on the Shore'. 'Kafka on the Shore' is a work by Haruki Murakami, categorized as 文學.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《海邊的卡夫卡》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Kafka on the Shore' belong to?",
+    "options_zh": [
+      "奇幻",
+      "literary",
+      "歷史",
+      "推理"
+    ],
+    "options_en": [
+      "Fantasy",
+      "literary",
+      "Historical",
+      "Mystery"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「literary」。《海邊的卡夫卡》係村上春樹嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'literary'. 'Kafka on the Shore' is a work by Haruki Murakami, categorized as 文學.",
+    "difficulty": 3
   }
 ]

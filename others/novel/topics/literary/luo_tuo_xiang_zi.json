@@ -4,79 +4,79 @@
     "question_zh": "以下邊本係《駱駝祥子》？",
     "question_en": "Which one is 'Rickshaw Boy'?",
     "options_zh": [
-      "其他小說C",
-      "其他小說A",
       "其他小說B",
-      "駱駝祥子"
+      "其他小說C",
+      "駱駝祥子",
+      "其他小說A"
     ],
     "options_en": [
-      "Other Novel C",
-      "Other Novel A",
       "Other Novel B",
-      "Rickshaw Boy"
+      "Other Novel C",
+      "Rickshaw Boy",
+      "Other Novel A"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「駱駝祥子」。",
     "explanation_en": "The correct answer is 'Rickshaw Boy'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《駱駝祥子》嘅作者係邊個？",
     "question_en": "Who wrote 'Rickshaw Boy'?",
     "options_zh": [
-      "其他作者C",
       "其他作者A",
+      "老舍",
       "其他作者B",
-      "老舍"
+      "其他作者C"
     ],
     "options_en": [
-      "Author C",
       "Author A",
+      "Lao She",
       "Author B",
-      "Lao She"
+      "Author C"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「老舍」。",
     "explanation_en": "The correct answer is 'Lao She'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《駱駝祥子》係邊年出版嘅？",
     "question_en": "What year was 'Rickshaw Boy' published?",
     "options_zh": [
-      "1937年",
-      "1942年",
+      "1934年",
       "1932年",
-      "1934年"
+      "1942年",
+      "1937年"
     ],
     "options_en": [
-      "1937",
-      "1942",
+      "1934",
       "1932",
-      "1934"
+      "1942",
+      "1937"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「1937年」。",
     "explanation_en": "The correct answer is '1937'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《駱駝祥子》係邊國作品？",
     "question_en": "Which country is 'Rickshaw Boy' from?",
     "options_zh": [
-      "韓國",
+      "德國",
       "中國",
       "法國",
-      "德國"
+      "韓國"
     ],
     "options_en": [
-      "South Korea",
+      "Germany",
       "China",
       "France",
-      "Germany"
+      "South Korea"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「中國」。",
@@ -84,70 +84,70 @@
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《駱駝祥子》主要講咩？",
     "question_en": "What is 'Rickshaw Boy' mainly about?",
     "options_zh": [
-      "科幻太空",
       "體育競技",
       "財經商戰",
-      "現實生活同文學表達"
+      "現實生活同文學表達",
+      "科幻太空"
     ],
     "options_en": [
-      "Sci-fi",
       "Sports",
       "Business",
-      "Real life and literary"
+      "Real life and literary",
+      "Sci-fi"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
     "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《駱駝祥子》入面有咩角色？",
     "question_en": "What characters are in 'Rickshaw Boy'?",
     "options_zh": [
-      "動物",
-      "外星人",
       "主要角色",
-      "機械人"
+      "機械人",
+      "外星人",
+      "動物"
     ],
     "options_en": [
-      "Animals",
-      "Aliens",
       "Main characters",
-      "Robots"
+      "Robots",
+      "Aliens",
+      "Animals"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《駱駝祥子》嘅故事背景喺邊度？",
     "question_en": "Where is 'Rickshaw Boy' set?",
     "options_zh": [
-      "中國/亞洲",
       "歐洲中世紀",
       "未來太空",
-      "虛擬世界"
+      "虛擬世界",
+      "中國/亞洲"
     ],
     "options_en": [
-      "China/Asia",
       "Medieval Europe",
       "Future space",
-      "Virtual world"
+      "Virtual world",
+      "China/Asia"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《駱駝祥子》係咪好受歡迎？",
     "question_en": "Is 'Rickshaw Boy' popular?",
     "options_zh": [
@@ -168,24 +168,192 @@
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《駱駝祥子》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Rickshaw Boy'?",
     "options_zh": [
-      "中國人",
+      "韓國人",
       "德國人",
-      "法國人",
-      "韓國人"
+      "中國人",
+      "法國人"
     ],
     "options_en": [
-      "Chinese",
+      "Korean",
       "German",
-      "French",
-      "Korean"
+      "Chinese",
+      "French"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《駱駝祥子》嘅作者係邊個？",
+    "question_en": "Who wrote 'Rickshaw Boy'?",
+    "options_zh": [
+      "金庸",
+      "魯迅",
+      "老舍",
+      "古龍"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Lu Xun",
+      "Lao She",
+      "Gu Long"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「老舍」。《駱駝祥子》係老舍嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Lao She'. 'Rickshaw Boy' is a work by Lao She, categorized as 文學.",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《駱駝祥子》？",
+    "question_en": "Which author wrote 'Rickshaw Boy'?",
+    "options_zh": [
+      "古龍",
+      "魯迅",
+      "金庸",
+      "老舍"
+    ],
+    "options_en": [
+      "Gu Long",
+      "Lu Xun",
+      "Jin Yong",
+      "Lao She"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「老舍」。《駱駝祥子》係老舍嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Lao She'. 'Rickshaw Boy' is a work by Lao She, categorized as 文學.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《駱駝祥子》屬於咩類型？",
+    "question_en": "What genre is 'Rickshaw Boy'?",
+    "options_zh": [
+      "歷史",
+      "哲學",
+      "文學",
+      "古典"
+    ],
+    "options_en": [
+      "歷史",
+      "哲學",
+      "文學",
+      "古典"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「文學」。《駱駝祥子》係老舍嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is '文學'. 'Rickshaw Boy' is a work by Lao She, categorized as 文學.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《駱駝祥子》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Rickshaw Boy'?",
+    "options_zh": [
+      "郭靖",
+      "令狐沖",
+      "祥子",
+      "張無忌"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Linghu Chong",
+      "Xiangzi",
+      "Zhang Wuji"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「祥子」。《駱駝祥子》係老舍嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Xiangzi'. 'Rickshaw Boy' is a work by Lao She, categorized as 文學.",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《駱駝祥子》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Rickshaw Boy'?",
+    "options_zh": [
+      "張無忌",
+      "祥子",
+      "令狐沖",
+      "郭靖"
+    ],
+    "options_en": [
+      "Zhang Wuji",
+      "Xiangzi",
+      "Linghu Chong",
+      "Guo Jing"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「祥子」。《駱駝祥子》係老舍嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Xiangzi'. 'Rickshaw Boy' is a work by Lao She, categorized as 文學.",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_zh": "《駱駝祥子》大約喺邊年出版？",
+    "question_en": "In which year was 'Rickshaw Boy' approximately published?",
+    "options_zh": [
+      "1947",
+      "1937",
+      "1927",
+      "1917"
+    ],
+    "options_en": [
+      "1947",
+      "1937",
+      "1927",
+      "1917"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「1937」。《駱駝祥子》係老舍嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is '1937'. 'Rickshaw Boy' is a work by Lao She, categorized as 文學.",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《駱駝祥子》？",
+    "question_en": "Which one is 'Rickshaw Boy'?",
+    "options_zh": [
+      "其他小說C",
+      "其他小說B",
+      "駱駝祥子",
+      "其他小說A"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Novel B",
+      "Rickshaw Boy",
+      "Other Novel A"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「駱駝祥子」。《駱駝祥子》係老舍嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Rickshaw Boy'. 'Rickshaw Boy' is a work by Lao She, categorized as 文學.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《駱駝祥子》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Rickshaw Boy' belong to?",
+    "options_zh": [
+      "歷史",
+      "literary",
+      "奇幻",
+      "推理"
+    ],
+    "options_en": [
+      "Historical",
+      "literary",
+      "Fantasy",
+      "Mystery"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「literary」。《駱駝祥子》係老舍嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'literary'. 'Rickshaw Boy' is a work by Lao She, categorized as 文學.",
+    "difficulty": 3
   }
 ]

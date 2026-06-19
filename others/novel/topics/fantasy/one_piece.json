@@ -4,121 +4,121 @@
     "question_zh": "以下邊本係《海賊王》？",
     "question_en": "Which one is 'One Piece'?",
     "options_zh": [
-      "海賊王",
-      "其他小說C",
+      "其他小說A",
       "其他小說B",
-      "其他小說A"
+      "其他小說C",
+      "海賊王"
     ],
     "options_en": [
-      "One Piece",
-      "Other Novel C",
+      "Other Novel A",
       "Other Novel B",
-      "Other Novel A"
+      "Other Novel C",
+      "One Piece"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「海賊王」。",
     "explanation_en": "The correct answer is 'One Piece'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《海賊王》嘅作者係邊個？",
     "question_en": "Who wrote 'One Piece'?",
     "options_zh": [
-      "其他作者A",
-      "尾田榮一郎",
       "其他作者B",
-      "其他作者C"
+      "其他作者C",
+      "尾田榮一郎",
+      "其他作者A"
     ],
     "options_en": [
-      "Author A",
-      "Eiichiro Oda",
       "Author B",
-      "Author C"
+      "Author C",
+      "Eiichiro Oda",
+      "Author A"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「尾田榮一郎」。",
     "explanation_en": "The correct answer is 'Eiichiro Oda'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《海賊王》係邊年出版嘅？",
     "question_en": "What year was 'One Piece' published?",
     "options_zh": [
-      "1992年",
+      "1997年",
       "1994年",
-      "1999年",
-      "1997年"
+      "1992年",
+      "1999年"
     ],
     "options_en": [
-      "1992",
+      "1997",
       "1994",
-      "1999",
-      "1997"
+      "1992",
+      "1999"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「1997年」。",
     "explanation_en": "The correct answer is '1997'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《海賊王》係邊國作品？",
     "question_en": "Which country is 'One Piece' from?",
     "options_zh": [
-      "法國",
-      "中國",
       "韓國",
-      "德國"
+      "德國",
+      "中國",
+      "法國"
     ],
     "options_en": [
-      "France",
-      "China",
       "South Korea",
-      "Germany"
+      "Germany",
+      "China",
+      "France"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《海賊王》主要講咩？",
     "question_en": "What is 'One Piece' mainly about?",
     "options_zh": [
-      "體育競技",
-      "奇幻冒險同超自然元素",
       "科幻太空",
-      "財經商戰"
+      "財經商戰",
+      "體育競技",
+      "奇幻冒險同超自然元素"
     ],
     "options_en": [
-      "Sports",
-      "Fantasy adventure",
       "Sci-fi",
-      "Business"
+      "Business",
+      "Sports",
+      "Fantasy adventure"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「奇幻冒險同超自然元素」。",
     "explanation_en": "The correct answer is 'Fantasy adventure'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《海賊王》入面有咩角色？",
     "question_en": "What characters are in 'One Piece'?",
     "options_zh": [
-      "動物",
+      "外星人",
       "修仙者/魔法師",
       "機械人",
-      "外星人"
+      "動物"
     ],
     "options_en": [
-      "Animals",
+      "Aliens",
       "Cultivators/Wizards",
       "Robots",
-      "Aliens"
+      "Animals"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「修仙者/魔法師」。",
@@ -126,19 +126,19 @@
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《海賊王》嘅故事背景喺邊度？",
     "question_en": "Where is 'One Piece' set?",
     "options_zh": [
       "歐洲中世紀",
-      "虛擬世界",
       "未來太空",
+      "虛擬世界",
       "虛構世界"
     ],
     "options_en": [
       "Medieval Europe",
-      "Virtual world",
       "Future space",
+      "Virtual world",
       "Fictional world"
     ],
     "answer": 3,
@@ -147,18 +147,18 @@
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《海賊王》係咪好受歡迎？",
     "question_en": "Is 'One Piece' popular?",
     "options_zh": [
-      "只喺特定地區流行",
       "已經過氣",
+      "只喺特定地區流行",
       "唔係，好冷門",
       "係，非常受歡迎"
     ],
     "options_en": [
-      "Only popular locally",
       "Outdated",
+      "Only popular locally",
       "No, very niche",
       "Yes, very popular"
     ],
@@ -168,24 +168,192 @@
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《海賊王》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'One Piece'?",
     "options_zh": [
-      "法國人",
-      "中國人",
       "韓國人",
-      "德國人"
+      "中國人",
+      "德國人",
+      "法國人"
     ],
     "options_en": [
-      "French",
-      "Chinese",
       "Korean",
-      "German"
+      "Chinese",
+      "German",
+      "French"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《海賊王》嘅作者係邊個？",
+    "question_en": "Who wrote 'One Piece'?",
+    "options_zh": [
+      "尾田榮一郎",
+      "魯迅",
+      "金庸",
+      "古龍"
+    ],
+    "options_en": [
+      "Eiichiro Oda",
+      "Lu Xun",
+      "Jin Yong",
+      "Gu Long"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「尾田榮一郎」。《海賊王》係尾田榮一郎嘅作品，屬於冒險類型。",
+    "explanation_en": "The correct answer is 'Eiichiro Oda'. 'One Piece' is a work by Eiichiro Oda, categorized as 冒險.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《海賊王》？",
+    "question_en": "Which author wrote 'One Piece'?",
+    "options_zh": [
+      "古龍",
+      "尾田榮一郎",
+      "金庸",
+      "魯迅"
+    ],
+    "options_en": [
+      "Gu Long",
+      "Eiichiro Oda",
+      "Jin Yong",
+      "Lu Xun"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「尾田榮一郎」。《海賊王》係尾田榮一郎嘅作品，屬於冒險類型。",
+    "explanation_en": "The correct answer is 'Eiichiro Oda'. 'One Piece' is a work by Eiichiro Oda, categorized as 冒險.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《海賊王》屬於咩類型？",
+    "question_en": "What genre is 'One Piece'?",
+    "options_zh": [
+      "動作",
+      "科幻",
+      "冒險",
+      "推理"
+    ],
+    "options_en": [
+      "動作",
+      "科幻",
+      "冒險",
+      "推理"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「冒險」。《海賊王》係尾田榮一郎嘅作品，屬於冒險類型。",
+    "explanation_en": "The correct answer is '冒險'. 'One Piece' is a work by Eiichiro Oda, categorized as 冒險.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "《海賊王》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'One Piece'?",
+    "options_zh": [
+      "張無忌",
+      "魯夫",
+      "令狐沖",
+      "郭靖"
+    ],
+    "options_en": [
+      "Zhang Wuji",
+      "Luffy",
+      "Linghu Chong",
+      "Guo Jing"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「魯夫」。《海賊王》係尾田榮一郎嘅作品，屬於冒險類型。",
+    "explanation_en": "The correct answer is 'Luffy'. 'One Piece' is a work by Eiichiro Oda, categorized as 冒險.",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_zh": "《海賊王》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'One Piece'?",
+    "options_zh": [
+      "令狐沖",
+      "張無忌",
+      "魯夫",
+      "郭靖"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Zhang Wuji",
+      "Luffy",
+      "Guo Jing"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「魯夫」。《海賊王》係尾田榮一郎嘅作品，屬於冒險類型。",
+    "explanation_en": "The correct answer is 'Luffy'. 'One Piece' is a work by Eiichiro Oda, categorized as 冒險.",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_zh": "《海賊王》大約喺邊年出版？",
+    "question_en": "In which year was 'One Piece' approximately published?",
+    "options_zh": [
+      "1997",
+      "1977",
+      "2007",
+      "1987"
+    ],
+    "options_en": [
+      "1997",
+      "1977",
+      "2007",
+      "1987"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「1997」。《海賊王》係尾田榮一郎嘅作品，屬於冒險類型。",
+    "explanation_en": "The correct answer is '1997'. 'One Piece' is a work by Eiichiro Oda, categorized as 冒險.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《海賊王》？",
+    "question_en": "Which one is 'One Piece'?",
+    "options_zh": [
+      "其他小說B",
+      "其他小說C",
+      "其他小說A",
+      "海賊王"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Other Novel C",
+      "Other Novel A",
+      "One Piece"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「海賊王」。《海賊王》係尾田榮一郎嘅作品，屬於冒險類型。",
+    "explanation_en": "The correct answer is 'One Piece'. 'One Piece' is a work by Eiichiro Oda, categorized as 冒險.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《海賊王》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'One Piece' belong to?",
+    "options_zh": [
+      "文學",
+      "fantasy",
+      "歷史",
+      "推理"
+    ],
+    "options_en": [
+      "Literary",
+      "fantasy",
+      "Historical",
+      "Mystery"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「fantasy」。《海賊王》係尾田榮一郎嘅作品，屬於冒險類型。",
+    "explanation_en": "The correct answer is 'fantasy'. 'One Piece' is a work by Eiichiro Oda, categorized as 冒險.",
     "difficulty": 2
   }
 ]

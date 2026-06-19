@@ -4,15 +4,15 @@
     "question_zh": "以下邊本係《馬普爾小姐》？",
     "question_en": "Which one is 'Miss Marple'?",
     "options_zh": [
-      "其他小說B",
-      "其他小說A",
       "其他小說C",
+      "其他小說A",
+      "其他小說B",
       "馬普爾小姐"
     ],
     "options_en": [
-      "Other Novel B",
-      "Other Novel A",
       "Other Novel C",
+      "Other Novel A",
+      "Other Novel B",
       "Miss Marple"
     ],
     "answer": 3,
@@ -21,83 +21,83 @@
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《馬普爾小姐》嘅作者係邊個？",
     "question_en": "Who wrote 'Miss Marple'?",
     "options_zh": [
-      "阿加莎·克里斯蒂",
+      "其他作者A",
       "其他作者C",
-      "其他作者B",
-      "其他作者A"
+      "阿加莎·克里斯蒂",
+      "其他作者B"
     ],
     "options_en": [
-      "Agatha Christie",
+      "Author A",
       "Author C",
-      "Author B",
-      "Author A"
+      "Agatha Christie",
+      "Author B"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「阿加莎·克里斯蒂」。",
     "explanation_en": "The correct answer is 'Agatha Christie'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《馬普爾小姐》係邊年出版嘅？",
     "question_en": "What year was 'Miss Marple' published?",
     "options_zh": [
+      "1930年",
       "1933年",
-      "1935年",
       "1928年",
-      "1930年"
+      "1935年"
     ],
     "options_en": [
+      "1930",
       "1933",
-      "1935",
       "1928",
-      "1930"
+      "1935"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「1930年」。",
     "explanation_en": "The correct answer is '1930'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《馬普爾小姐》係邊國作品？",
     "question_en": "Which country is 'Miss Marple' from?",
     "options_zh": [
-      "德國",
       "法國",
       "韓國",
-      "中國"
+      "中國",
+      "德國"
     ],
     "options_en": [
-      "Germany",
       "France",
       "South Korea",
-      "China"
+      "China",
+      "Germany"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《馬普爾小姐》主要講咩？",
     "question_en": "What is 'Miss Marple' mainly about?",
     "options_zh": [
       "體育競技",
       "推理破案同懸疑故事",
-      "科幻太空",
-      "財經商戰"
+      "財經商戰",
+      "科幻太空"
     ],
     "options_en": [
       "Sports",
       "Mystery and detective",
-      "Sci-fi",
-      "Business"
+      "Business",
+      "Sci-fi"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
@@ -105,20 +105,20 @@
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《馬普爾小姐》入面有咩角色？",
     "question_en": "What characters are in 'Miss Marple'?",
     "options_zh": [
-      "機械人",
+      "外星人",
       "動物",
       "偵探/警察",
-      "外星人"
+      "機械人"
     ],
     "options_en": [
-      "Robots",
+      "Aliens",
       "Animals",
       "Detective/Police",
-      "Aliens"
+      "Robots"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「偵探/警察」。",
@@ -126,20 +126,20 @@
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《馬普爾小姐》嘅故事背景喺邊度？",
     "question_en": "Where is 'Miss Marple' set?",
     "options_zh": [
-      "歐洲中世紀",
+      "虛擬世界",
       "中國/亞洲",
-      "未來太空",
-      "虛擬世界"
+      "歐洲中世紀",
+      "未來太空"
     ],
     "options_en": [
-      "Medieval Europe",
+      "Virtual world",
       "China/Asia",
-      "Future space",
-      "Virtual world"
+      "Medieval Europe",
+      "Future space"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「中國/亞洲」。",
@@ -147,45 +147,213 @@
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《馬普爾小姐》係咪好受歡迎？",
     "question_en": "Is 'Miss Marple' popular?",
     "options_zh": [
-      "係，非常受歡迎",
       "已經過氣",
+      "係，非常受歡迎",
       "只喺特定地區流行",
       "唔係，好冷門"
     ],
     "options_en": [
-      "Yes, very popular",
       "Outdated",
+      "Yes, very popular",
       "Only popular locally",
       "No, very niche"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《馬普爾小姐》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Miss Marple'?",
     "options_zh": [
-      "法國人",
-      "德國人",
+      "韓國人",
       "中國人",
-      "韓國人"
+      "德國人",
+      "法國人"
     ],
     "options_en": [
-      "French",
-      "German",
+      "Korean",
       "Chinese",
-      "Korean"
+      "German",
+      "French"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《馬普爾小姐》嘅作者係邊個？",
+    "question_en": "Who wrote 'Miss Marple'?",
+    "options_zh": [
+      "魯迅",
+      "阿加莎·克里斯蒂",
+      "金庸",
+      "古龍"
+    ],
+    "options_en": [
+      "Lu Xun",
+      "Agatha Christie",
+      "Jin Yong",
+      "Gu Long"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「阿加莎·克里斯蒂」。《馬普爾小姐》係阿加莎·克里斯蒂嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Agatha Christie'. 'Miss Marple' is a work by Agatha Christie, categorized as 推理.",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《馬普爾小姐》？",
+    "question_en": "Which author wrote 'Miss Marple'?",
+    "options_zh": [
+      "金庸",
+      "阿加莎·克里斯蒂",
+      "古龍",
+      "魯迅"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Agatha Christie",
+      "Gu Long",
+      "Lu Xun"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「阿加莎·克里斯蒂」。《馬普爾小姐》係阿加莎·克里斯蒂嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Agatha Christie'. 'Miss Marple' is a work by Agatha Christie, categorized as 推理.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《馬普爾小姐》屬於咩類型？",
+    "question_en": "What genre is 'Miss Marple'?",
+    "options_zh": [
+      "懸疑",
+      "推理",
+      "驚悚",
+      "犯罪"
+    ],
+    "options_en": [
+      "懸疑",
+      "推理",
+      "驚悚",
+      "犯罪"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「推理」。《馬普爾小姐》係阿加莎·克里斯蒂嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is '推理'. 'Miss Marple' is a work by Agatha Christie, categorized as 推理.",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_zh": "《馬普爾小姐》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Miss Marple'?",
+    "options_zh": [
+      "郭靖",
+      "馬普爾",
+      "令狐沖",
+      "張無忌"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Miss Marple",
+      "Linghu Chong",
+      "Zhang Wuji"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「馬普爾」。《馬普爾小姐》係阿加莎·克里斯蒂嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Miss Marple'. 'Miss Marple' is a work by Agatha Christie, categorized as 推理.",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《馬普爾小姐》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Miss Marple'?",
+    "options_zh": [
+      "令狐沖",
+      "郭靖",
+      "馬普爾",
+      "張無忌"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Guo Jing",
+      "Miss Marple",
+      "Zhang Wuji"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「馬普爾」。《馬普爾小姐》係阿加莎·克里斯蒂嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Miss Marple'. 'Miss Marple' is a work by Agatha Christie, categorized as 推理.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《馬普爾小姐》大約喺邊年出版？",
+    "question_en": "In which year was 'Miss Marple' approximately published?",
+    "options_zh": [
+      "1910",
+      "1940",
+      "1930",
+      "1920"
+    ],
+    "options_en": [
+      "1910",
+      "1940",
+      "1930",
+      "1920"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「1930」。《馬普爾小姐》係阿加莎·克里斯蒂嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is '1930'. 'Miss Marple' is a work by Agatha Christie, categorized as 推理.",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《馬普爾小姐》？",
+    "question_en": "Which one is 'Miss Marple'?",
+    "options_zh": [
+      "其他小說B",
+      "其他小說C",
+      "其他小說A",
+      "馬普爾小姐"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Other Novel C",
+      "Other Novel A",
+      "Miss Marple"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「馬普爾小姐」。《馬普爾小姐》係阿加莎·克里斯蒂嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Miss Marple'. 'Miss Marple' is a work by Agatha Christie, categorized as 推理.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《馬普爾小姐》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Miss Marple' belong to?",
+    "options_zh": [
+      "文學",
+      "mystery",
+      "奇幻",
+      "歷史"
+    ],
+    "options_en": [
+      "Literary",
+      "mystery",
+      "Fantasy",
+      "Historical"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「mystery」。《馬普爾小姐》係阿加莎·克里斯蒂嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'mystery'. 'Miss Marple' is a work by Agatha Christie, categorized as 推理.",
     "difficulty": 2
   }
 ]

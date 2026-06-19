@@ -4,66 +4,66 @@
     "question_zh": "以下邊本係《1984》？",
     "question_en": "Which one is '1984'?",
     "options_zh": [
-      "其他小說A",
-      "其他小說C",
       "1984",
-      "其他小說B"
+      "其他小說C",
+      "其他小說B",
+      "其他小說A"
     ],
     "options_en": [
-      "Other Novel A",
-      "Other Novel C",
       "1984",
-      "Other Novel B"
+      "Other Novel C",
+      "Other Novel B",
+      "Other Novel A"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「1984」。",
     "explanation_en": "The correct answer is '1984'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《1984》嘅作者係邊個？",
     "question_en": "Who wrote '1984'?",
     "options_zh": [
-      "其他作者C",
       "喬治·奧威爾",
-      "其他作者B",
-      "其他作者A"
+      "其他作者A",
+      "其他作者C",
+      "其他作者B"
     ],
     "options_en": [
-      "Author C",
       "George Orwell",
-      "Author B",
-      "Author A"
+      "Author A",
+      "Author C",
+      "Author B"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「喬治·奧威爾」。",
     "explanation_en": "The correct answer is 'George Orwell'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《1984》係邊年出版嘅？",
     "question_en": "What year was '1984' published?",
     "options_zh": [
-      "1949年",
-      "1951年",
+      "1954年",
       "1952年",
-      "1954年"
+      "1951年",
+      "1949年"
     ],
     "options_en": [
-      "1949",
-      "1951",
+      "1954",
       "1952",
-      "1954"
+      "1951",
+      "1949"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「1949年」。",
     "explanation_en": "The correct answer is '1949'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《1984》係邊國作品？",
     "question_en": "Which country is '1984' from?",
     "options_zh": [
@@ -84,19 +84,19 @@
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《1984》主要講咩？",
     "question_en": "What is '1984' mainly about?",
     "options_zh": [
-      "體育競技",
-      "科幻太空",
       "財經商戰",
+      "科幻太空",
+      "體育競技",
       "現實生活同文學表達"
     ],
     "options_en": [
-      "Sports",
-      "Sci-fi",
       "Business",
+      "Sci-fi",
+      "Sports",
       "Real life and literary"
     ],
     "answer": 3,
@@ -105,40 +105,40 @@
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《1984》入面有咩角色？",
     "question_en": "What characters are in '1984'?",
     "options_zh": [
-      "動物",
-      "機械人",
       "外星人",
-      "主要角色"
+      "主要角色",
+      "機械人",
+      "動物"
     ],
     "options_en": [
-      "Animals",
-      "Robots",
       "Aliens",
-      "Main characters"
+      "Main characters",
+      "Robots",
+      "Animals"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《1984》嘅故事背景喺邊度？",
     "question_en": "Where is '1984' set?",
     "options_zh": [
       "中國/亞洲",
-      "虛擬世界",
       "未來太空",
+      "虛擬世界",
       "歐洲中世紀"
     ],
     "options_en": [
       "China/Asia",
-      "Virtual world",
       "Future space",
+      "Virtual world",
       "Medieval Europe"
     ],
     "answer": 0,
@@ -147,45 +147,213 @@
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《1984》係咪好受歡迎？",
     "question_en": "Is '1984' popular?",
     "options_zh": [
-      "係，非常受歡迎",
-      "唔係，好冷門",
       "只喺特定地區流行",
-      "已經過氣"
+      "已經過氣",
+      "係，非常受歡迎",
+      "唔係，好冷門"
     ],
     "options_en": [
-      "Yes, very popular",
-      "No, very niche",
       "Only popular locally",
-      "Outdated"
+      "Outdated",
+      "Yes, very popular",
+      "No, very niche"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《1984》嘅作者係邊國人？",
     "question_en": "What nationality is the author of '1984'?",
     "options_zh": [
-      "英國人",
-      "韓國人",
+      "德國人",
       "法國人",
-      "德國人"
+      "韓國人",
+      "英國人"
     ],
     "options_en": [
-      "British",
-      "Korean",
+      "German",
       "French",
-      "German"
+      "Korean",
+      "British"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「英國人」。",
     "explanation_en": "The correct answer is 'British'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《一九八四》嘅作者係邊個？",
+    "question_en": "Who wrote '1984'?",
+    "options_zh": [
+      "喬治·奧威爾",
+      "魯迅",
+      "金庸",
+      "古龍"
+    ],
+    "options_en": [
+      "George Orwell",
+      "Lu Xun",
+      "Jin Yong",
+      "Gu Long"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「喬治·奧威爾」。《一九八四》係喬治·奧威爾嘅作品，屬於反烏托邦類型。",
+    "explanation_en": "The correct answer is 'George Orwell'. '1984' is a work by George Orwell, categorized as 反烏托邦.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《一九八四》？",
+    "question_en": "Which author wrote '1984'?",
+    "options_zh": [
+      "古龍",
+      "喬治·奧威爾",
+      "金庸",
+      "魯迅"
+    ],
+    "options_en": [
+      "Gu Long",
+      "George Orwell",
+      "Jin Yong",
+      "Lu Xun"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「喬治·奧威爾」。《一九八四》係喬治·奧威爾嘅作品，屬於反烏托邦類型。",
+    "explanation_en": "The correct answer is 'George Orwell'. '1984' is a work by George Orwell, categorized as 反烏托邦.",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question_zh": "《一九八四》屬於咩類型？",
+    "question_en": "What genre is '1984'?",
+    "options_zh": [
+      "反烏托邦",
+      "科幻",
+      "文學",
+      "哲學"
+    ],
+    "options_en": [
+      "反烏托邦",
+      "科幻",
+      "文學",
+      "哲學"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「反烏托邦」。《一九八四》係喬治·奧威爾嘅作品，屬於反烏托邦類型。",
+    "explanation_en": "The correct answer is '反烏托邦'. '1984' is a work by George Orwell, categorized as 反烏托邦.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "《一九八四》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of '1984'?",
+    "options_zh": [
+      "令狐沖",
+      "郭靖",
+      "溫斯頓",
+      "張無忌"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Guo Jing",
+      "Winston",
+      "Zhang Wuji"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「溫斯頓」。《一九八四》係喬治·奧威爾嘅作品，屬於反烏托邦類型。",
+    "explanation_en": "The correct answer is 'Winston'. '1984' is a work by George Orwell, categorized as 反烏托邦.",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《一九八四》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in '1984'?",
+    "options_zh": [
+      "郭靖",
+      "令狐沖",
+      "溫斯頓",
+      "張無忌"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Linghu Chong",
+      "Winston",
+      "Zhang Wuji"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「溫斯頓」。《一九八四》係喬治·奧威爾嘅作品，屬於反烏托邦類型。",
+    "explanation_en": "The correct answer is 'Winston'. '1984' is a work by George Orwell, categorized as 反烏托邦.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《一九八四》大約喺邊年出版？",
+    "question_en": "In which year was '1984' approximately published?",
+    "options_zh": [
+      "1949",
+      "1929",
+      "1939",
+      "1959"
+    ],
+    "options_en": [
+      "1949",
+      "1929",
+      "1939",
+      "1959"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「1949」。《一九八四》係喬治·奧威爾嘅作品，屬於反烏托邦類型。",
+    "explanation_en": "The correct answer is '1949'. '1984' is a work by George Orwell, categorized as 反烏托邦.",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《一九八四》？",
+    "question_en": "Which one is '1984'?",
+    "options_zh": [
+      "其他小說C",
+      "一九八四",
+      "其他小說A",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "1984",
+      "Other Novel A",
+      "Other Novel B"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「一九八四」。《一九八四》係喬治·奧威爾嘅作品，屬於反烏托邦類型。",
+    "explanation_en": "The correct answer is '1984'. '1984' is a work by George Orwell, categorized as 反烏托邦.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《一九八四》屬於邊個文學分類？",
+    "question_en": "Which literary category does '1984' belong to?",
+    "options_zh": [
+      "歷史",
+      "literary",
+      "推理",
+      "奇幻"
+    ],
+    "options_en": [
+      "Historical",
+      "literary",
+      "Mystery",
+      "Fantasy"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「literary」。《一九八四》係喬治·奧威爾嘅作品，屬於反烏托邦類型。",
+    "explanation_en": "The correct answer is 'literary'. '1984' is a work by George Orwell, categorized as 反烏托邦.",
+    "difficulty": 1
   }
 ]

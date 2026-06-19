@@ -4,37 +4,37 @@
     "question_zh": "以下邊本係《狂人日記》？",
     "question_en": "Which one is 'A Madman's Diary'?",
     "options_zh": [
-      "其他小說A",
       "狂人日記",
       "其他小說B",
+      "其他小說A",
       "其他小說C"
     ],
     "options_en": [
-      "Other Novel A",
       "Madman's Diary",
       "Other Novel B",
+      "Other Novel A",
       "Other Novel C"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「狂人日記」。",
     "explanation_en": "The correct answer is 'A Madman's Diary'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《狂人日記》嘅作者係邊個？",
     "question_en": "Who wrote 'A Madman's Diary'?",
     "options_zh": [
-      "其他作者A",
+      "其他作者B",
       "魯迅",
-      "其他作者C",
-      "其他作者B"
+      "其他作者A",
+      "其他作者C"
     ],
     "options_en": [
-      "Author A",
+      "Author B",
       "Lu Xun",
-      "Author C",
-      "Author B"
+      "Author A",
+      "Author C"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「魯迅」。",
@@ -42,41 +42,41 @@
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《狂人日記》係邊年出版嘅？",
     "question_en": "What year was 'A Madman's Diary' published?",
     "options_zh": [
       "1923年",
-      "1918年",
       "1916年",
-      "1913年"
+      "1913年",
+      "1918年"
     ],
     "options_en": [
       "1923",
-      "1918",
       "1916",
-      "1913"
+      "1913",
+      "1918"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「1918年」。",
     "explanation_en": "The correct answer is '1918'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《狂人日記》係邊國作品？",
     "question_en": "Which country is 'A Madman's Diary' from?",
     "options_zh": [
       "中國",
-      "韓國",
+      "德國",
       "法國",
-      "德國"
+      "韓國"
     ],
     "options_en": [
       "China",
-      "South Korea",
+      "Germany",
       "France",
-      "Germany"
+      "South Korea"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「中國」。",
@@ -84,108 +84,276 @@
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《狂人日記》主要講咩？",
     "question_en": "What is 'A Madman's Diary' mainly about?",
     "options_zh": [
-      "現實生活同文學表達",
-      "體育競技",
+      "科幻太空",
       "財經商戰",
-      "科幻太空"
+      "現實生活同文學表達",
+      "體育競技"
     ],
     "options_en": [
-      "Real life and literary",
-      "Sports",
+      "Sci-fi",
       "Business",
-      "Sci-fi"
+      "Real life and literary",
+      "Sports"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
     "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《狂人日記》入面有咩角色？",
     "question_en": "What characters are in 'A Madman's Diary'?",
     "options_zh": [
-      "主要角色",
+      "機械人",
       "動物",
-      "外星人",
-      "機械人"
+      "主要角色",
+      "外星人"
     ],
     "options_en": [
-      "Main characters",
+      "Robots",
       "Animals",
-      "Aliens",
-      "Robots"
+      "Main characters",
+      "Aliens"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《狂人日記》嘅故事背景喺邊度？",
     "question_en": "Where is 'A Madman's Diary' set?",
     "options_zh": [
       "虛擬世界",
-      "歐洲中世紀",
+      "中國/亞洲",
       "未來太空",
-      "中國/亞洲"
+      "歐洲中世紀"
     ],
     "options_en": [
       "Virtual world",
-      "Medieval Europe",
+      "China/Asia",
       "Future space",
-      "China/Asia"
+      "Medieval Europe"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《狂人日記》係咪好受歡迎？",
     "question_en": "Is 'A Madman's Diary' popular?",
     "options_zh": [
-      "係，非常受歡迎",
       "唔係，好冷門",
+      "已經過氣",
       "只喺特定地區流行",
-      "已經過氣"
+      "係，非常受歡迎"
     ],
     "options_en": [
-      "Yes, very popular",
       "No, very niche",
+      "Outdated",
       "Only popular locally",
-      "Outdated"
+      "Yes, very popular"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《狂人日記》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'A Madman's Diary'?",
     "options_zh": [
       "韓國人",
-      "法國人",
       "德國人",
-      "中國人"
+      "中國人",
+      "法國人"
     ],
     "options_en": [
       "Korean",
-      "French",
       "German",
-      "Chinese"
+      "Chinese",
+      "French"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《狂人日記》嘅作者係邊個？",
+    "question_en": "Who wrote 'A Madman's Diary'?",
+    "options_zh": [
+      "金庸",
+      "老舍",
+      "魯迅",
+      "古龍"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Lao She",
+      "Lu Xun",
+      "Gu Long"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「魯迅」。《狂人日記》係魯迅嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Lu Xun'. 'A Madman's Diary' is a work by Lu Xun, categorized as 文學.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《狂人日記》？",
+    "question_en": "Which author wrote 'A Madman's Diary'?",
+    "options_zh": [
+      "魯迅",
+      "老舍",
+      "古龍",
+      "金庸"
+    ],
+    "options_en": [
+      "Lu Xun",
+      "Lao She",
+      "Gu Long",
+      "Jin Yong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「魯迅」。《狂人日記》係魯迅嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Lu Xun'. 'A Madman's Diary' is a work by Lu Xun, categorized as 文學.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《狂人日記》屬於咩類型？",
+    "question_en": "What genre is 'A Madman's Diary'?",
+    "options_zh": [
+      "哲學",
+      "歷史",
+      "古典",
+      "文學"
+    ],
+    "options_en": [
+      "哲學",
+      "歷史",
+      "古典",
+      "文學"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「文學」。《狂人日記》係魯迅嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is '文學'. 'A Madman's Diary' is a work by Lu Xun, categorized as 文學.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "《狂人日記》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'A Madman's Diary'?",
+    "options_zh": [
+      "狂人",
+      "郭靖",
+      "令狐沖",
+      "張無忌"
+    ],
+    "options_en": [
+      "Madman",
+      "Guo Jing",
+      "Linghu Chong",
+      "Zhang Wuji"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「狂人」。《狂人日記》係魯迅嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Madman'. 'A Madman's Diary' is a work by Lu Xun, categorized as 文學.",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《狂人日記》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'A Madman's Diary'?",
+    "options_zh": [
+      "狂人",
+      "郭靖",
+      "令狐沖",
+      "張無忌"
+    ],
+    "options_en": [
+      "Madman",
+      "Guo Jing",
+      "Linghu Chong",
+      "Zhang Wuji"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「狂人」。《狂人日記》係魯迅嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Madman'. 'A Madman's Diary' is a work by Lu Xun, categorized as 文學.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《狂人日記》大約喺邊年出版？",
+    "question_en": "In which year was 'A Madman's Diary' approximately published?",
+    "options_zh": [
+      "1918",
+      "1908",
+      "1928",
+      "1898"
+    ],
+    "options_en": [
+      "1918",
+      "1908",
+      "1928",
+      "1898"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「1918」。《狂人日記》係魯迅嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is '1918'. 'A Madman's Diary' is a work by Lu Xun, categorized as 文學.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《狂人日記》？",
+    "question_en": "Which one is 'A Madman's Diary'?",
+    "options_zh": [
+      "其他小說B",
+      "其他小說A",
+      "狂人日記",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Other Novel A",
+      "A Madman's Diary",
+      "Other Novel C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「狂人日記」。《狂人日記》係魯迅嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'A Madman's Diary'. 'A Madman's Diary' is a work by Lu Xun, categorized as 文學.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《狂人日記》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'A Madman's Diary' belong to?",
+    "options_zh": [
+      "奇幻",
+      "歷史",
+      "literary",
+      "推理"
+    ],
+    "options_en": [
+      "Fantasy",
+      "Historical",
+      "literary",
+      "Mystery"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「literary」。《狂人日記》係魯迅嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'literary'. 'A Madman's Diary' is a work by Lu Xun, categorized as 文學.",
+    "difficulty": 1
   }
 ]

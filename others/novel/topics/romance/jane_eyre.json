@@ -4,142 +4,142 @@
     "question_zh": "以下邊本係《簡愛》？",
     "question_en": "Which one is 'Jane Eyre'?",
     "options_zh": [
-      "其他小說A",
-      "其他小說B",
       "簡愛",
-      "其他小說C"
+      "其他小說C",
+      "其他小說A",
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel A",
-      "Other Novel B",
       "Jane Eyre",
-      "Other Novel C"
+      "Other Novel C",
+      "Other Novel A",
+      "Other Novel B"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「簡愛」。",
     "explanation_en": "The correct answer is 'Jane Eyre'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《簡愛》嘅作者係邊個？",
     "question_en": "Who wrote 'Jane Eyre'?",
     "options_zh": [
-      "其他作者B",
       "其他作者C",
-      "其他作者A",
-      "夏洛蒂·勃朗特"
+      "夏洛蒂·勃朗特",
+      "其他作者B",
+      "其他作者A"
     ],
     "options_en": [
-      "Author B",
       "Author C",
-      "Author A",
-      "Charlotte Bronte"
+      "Charlotte Bronte",
+      "Author B",
+      "Author A"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「夏洛蒂·勃朗特」。",
     "explanation_en": "The correct answer is 'Charlotte Bronte'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《簡愛》係邊年出版嘅？",
     "question_en": "What year was 'Jane Eyre' published?",
     "options_zh": [
-      "1844年",
-      "1852年",
+      "1847年",
       "1850年",
-      "1847年"
+      "1844年",
+      "1852年"
     ],
     "options_en": [
-      "1844",
-      "1852",
+      "1847",
       "1850",
-      "1847"
+      "1844",
+      "1852"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「1847年」。",
     "explanation_en": "The correct answer is '1847'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《簡愛》係邊國作品？",
     "question_en": "Which country is 'Jane Eyre' from?",
     "options_zh": [
-      "德國",
-      "韓國",
+      "法國",
       "中國",
-      "法國"
+      "德國",
+      "韓國"
     ],
     "options_en": [
-      "Germany",
-      "South Korea",
+      "France",
       "China",
-      "France"
+      "Germany",
+      "South Korea"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《簡愛》主要講咩？",
     "question_en": "What is 'Jane Eyre' mainly about?",
     "options_zh": [
-      "愛情故事同人物關係",
       "財經商戰",
-      "體育競技",
-      "科幻太空"
+      "科幻太空",
+      "愛情故事同人物關係",
+      "體育競技"
     ],
     "options_en": [
-      "Love story",
       "Business",
-      "Sports",
-      "Sci-fi"
+      "Sci-fi",
+      "Love story",
+      "Sports"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「愛情故事同人物關係」。",
     "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《簡愛》入面有咩角色？",
     "question_en": "What characters are in 'Jane Eyre'?",
     "options_zh": [
+      "主要角色",
       "機械人",
-      "外星人",
       "動物",
-      "主要角色"
+      "外星人"
     ],
     "options_en": [
+      "Main characters",
       "Robots",
-      "Aliens",
       "Animals",
-      "Main characters"
+      "Aliens"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《簡愛》嘅故事背景喺邊度？",
     "question_en": "Where is 'Jane Eyre' set?",
     "options_zh": [
       "中國/亞洲",
+      "未來太空",
       "虛擬世界",
-      "歐洲中世紀",
-      "未來太空"
+      "歐洲中世紀"
     ],
     "options_en": [
       "China/Asia",
+      "Future space",
       "Virtual world",
-      "Medieval Europe",
-      "Future space"
+      "Medieval Europe"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「中國/亞洲」。",
@@ -147,45 +147,213 @@
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《簡愛》係咪好受歡迎？",
     "question_en": "Is 'Jane Eyre' popular?",
     "options_zh": [
-      "只喺特定地區流行",
       "係，非常受歡迎",
-      "唔係，好冷門",
-      "已經過氣"
+      "只喺特定地區流行",
+      "已經過氣",
+      "唔係，好冷門"
     ],
     "options_en": [
-      "Only popular locally",
       "Yes, very popular",
-      "No, very niche",
-      "Outdated"
+      "Only popular locally",
+      "Outdated",
+      "No, very niche"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《簡愛》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Jane Eyre'?",
     "options_zh": [
-      "中國人",
       "法國人",
+      "中國人",
       "德國人",
       "韓國人"
     ],
     "options_en": [
-      "Chinese",
       "French",
+      "Chinese",
       "German",
       "Korean"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《簡愛》嘅作者係邊個？",
+    "question_en": "Who wrote 'Jane Eyre'?",
+    "options_zh": [
+      "古龍",
+      "魯迅",
+      "金庸",
+      "夏洛蒂·勃朗特"
+    ],
+    "options_en": [
+      "Gu Long",
+      "Lu Xun",
+      "Jin Yong",
+      "Charlotte Brontë"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「夏洛蒂·勃朗特」。《簡愛》係夏洛蒂·勃朗特嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'Charlotte Brontë'. 'Jane Eyre' is a work by Charlotte Brontë, categorized as 愛情.",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《簡愛》？",
+    "question_en": "Which author wrote 'Jane Eyre'?",
+    "options_zh": [
+      "夏洛蒂·勃朗特",
+      "金庸",
+      "魯迅",
+      "古龍"
+    ],
+    "options_en": [
+      "Charlotte Brontë",
+      "Jin Yong",
+      "Lu Xun",
+      "Gu Long"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「夏洛蒂·勃朗特」。《簡愛》係夏洛蒂·勃朗特嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'Charlotte Brontë'. 'Jane Eyre' is a work by Charlotte Brontë, categorized as 愛情.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《簡愛》屬於咩類型？",
+    "question_en": "What genre is 'Jane Eyre'?",
+    "options_zh": [
+      "文學",
+      "愛情",
+      "浪漫",
+      "青春"
+    ],
+    "options_en": [
+      "文學",
+      "愛情",
+      "浪漫",
+      "青春"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「愛情」。《簡愛》係夏洛蒂·勃朗特嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is '愛情'. 'Jane Eyre' is a work by Charlotte Brontë, categorized as 愛情.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《簡愛》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Jane Eyre'?",
+    "options_zh": [
+      "郭靖",
+      "令狐沖",
+      "張無忌",
+      "簡愛"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Linghu Chong",
+      "Zhang Wuji",
+      "Jane Eyre"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「簡愛」。《簡愛》係夏洛蒂·勃朗特嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'Jane Eyre'. 'Jane Eyre' is a work by Charlotte Brontë, categorized as 愛情.",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《簡愛》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Jane Eyre'?",
+    "options_zh": [
+      "簡愛",
+      "張無忌",
+      "令狐沖",
+      "郭靖"
+    ],
+    "options_en": [
+      "Jane Eyre",
+      "Zhang Wuji",
+      "Linghu Chong",
+      "Guo Jing"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「簡愛」。《簡愛》係夏洛蒂·勃朗特嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'Jane Eyre'. 'Jane Eyre' is a work by Charlotte Brontë, categorized as 愛情.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《簡愛》大約喺邊年出版？",
+    "question_en": "In which year was 'Jane Eyre' approximately published?",
+    "options_zh": [
+      "1857",
+      "1847",
+      "1827",
+      "1837"
+    ],
+    "options_en": [
+      "1857",
+      "1847",
+      "1827",
+      "1837"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「1847」。《簡愛》係夏洛蒂·勃朗特嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is '1847'. 'Jane Eyre' is a work by Charlotte Brontë, categorized as 愛情.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《簡愛》？",
+    "question_en": "Which one is 'Jane Eyre'?",
+    "options_zh": [
+      "其他小說B",
+      "其他小說A",
+      "簡愛",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Other Novel A",
+      "Jane Eyre",
+      "Other Novel C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「簡愛」。《簡愛》係夏洛蒂·勃朗特嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'Jane Eyre'. 'Jane Eyre' is a work by Charlotte Brontë, categorized as 愛情.",
+    "difficulty": 3
+  },
+  {
+    "id": 17,
+    "question_zh": "《簡愛》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Jane Eyre' belong to?",
+    "options_zh": [
+      "文學",
+      "奇幻",
+      "romance",
+      "歷史"
+    ],
+    "options_en": [
+      "Literary",
+      "Fantasy",
+      "romance",
+      "Historical"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「romance」。《簡愛》係夏洛蒂·勃朗特嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'romance'. 'Jane Eyre' is a work by Charlotte Brontë, categorized as 愛情.",
+    "difficulty": 1
   }
 ]

@@ -4,78 +4,78 @@
     "question_zh": "以下邊本係《魔道祖師》？",
     "question_en": "Which one is 'Grandmaster of Demonic Cultivation'?",
     "options_zh": [
-      "其他小說C",
-      "其他小說B",
       "魔道祖師",
-      "其他小說A"
+      "其他小說B",
+      "其他小說A",
+      "其他小說C"
     ],
     "options_en": [
-      "Other Novel C",
-      "Other Novel B",
       "Grandmaster of Demonic Cultivation",
-      "Other Novel A"
+      "Other Novel B",
+      "Other Novel A",
+      "Other Novel C"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「魔道祖師」。",
     "explanation_en": "The correct answer is 'Grandmaster of Demonic Cultivation'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《魔道祖師》嘅作者係邊個？",
     "question_en": "Who wrote 'Grandmaster of Demonic Cultivation'?",
     "options_zh": [
-      "其他作者C",
-      "其他作者A",
+      "其他作者B",
       "墨香銅臭",
-      "其他作者B"
+      "其他作者A",
+      "其他作者C"
     ],
     "options_en": [
-      "Author C",
-      "Author A",
+      "Author B",
       "Mo Xiang Tong Xiu",
-      "Author B"
+      "Author A",
+      "Author C"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「墨香銅臭」。",
     "explanation_en": "The correct answer is 'Mo Xiang Tong Xiu'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《魔道祖師》係邊年出版嘅？",
     "question_en": "What year was 'Grandmaster of Demonic Cultivation' published?",
     "options_zh": [
+      "2013年",
       "2015年",
-      "2018年",
       "2012年",
-      "2013年"
+      "2018年"
     ],
     "options_en": [
+      "2013",
       "2015",
-      "2018",
       "2012",
-      "2013"
+      "2018"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「2015年」。",
     "explanation_en": "The correct answer is '2015'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《魔道祖師》係邊國作品？",
     "question_en": "Which country is 'Grandmaster of Demonic Cultivation' from?",
     "options_zh": [
+      "法國",
       "韓國",
       "德國",
-      "法國",
       "中國"
     ],
     "options_en": [
+      "France",
       "South Korea",
       "Germany",
-      "France",
       "China"
     ],
     "answer": 3,
@@ -84,41 +84,41 @@
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《魔道祖師》主要講咩？",
     "question_en": "What is 'Grandmaster of Demonic Cultivation' mainly about?",
     "options_zh": [
-      "科幻太空",
-      "體育競技",
+      "奇幻冒險同超自然元素",
       "財經商戰",
-      "奇幻冒險同超自然元素"
+      "科幻太空",
+      "體育競技"
     ],
     "options_en": [
-      "Sci-fi",
-      "Sports",
+      "Fantasy adventure",
       "Business",
-      "Fantasy adventure"
+      "Sci-fi",
+      "Sports"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「奇幻冒險同超自然元素」。",
     "explanation_en": "The correct answer is 'Fantasy adventure'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《魔道祖師》入面有咩角色？",
     "question_en": "What characters are in 'Grandmaster of Demonic Cultivation'?",
     "options_zh": [
-      "機械人",
       "動物",
+      "外星人",
       "修仙者/魔法師",
-      "外星人"
+      "機械人"
     ],
     "options_en": [
-      "Robots",
       "Animals",
+      "Aliens",
       "Cultivators/Wizards",
-      "Aliens"
+      "Robots"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「修仙者/魔法師」。",
@@ -126,66 +126,234 @@
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《魔道祖師》嘅故事背景喺邊度？",
     "question_en": "Where is 'Grandmaster of Demonic Cultivation' set?",
     "options_zh": [
-      "虛擬世界",
-      "歐洲中世紀",
       "未來太空",
-      "虛構世界"
+      "虛構世界",
+      "虛擬世界",
+      "歐洲中世紀"
     ],
     "options_en": [
-      "Virtual world",
-      "Medieval Europe",
       "Future space",
-      "Fictional world"
+      "Fictional world",
+      "Virtual world",
+      "Medieval Europe"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「虛構世界」。",
     "explanation_en": "The correct answer is 'Fictional world'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《魔道祖師》係咪好受歡迎？",
     "question_en": "Is 'Grandmaster of Demonic Cultivation' popular?",
     "options_zh": [
       "只喺特定地區流行",
       "唔係，好冷門",
-      "已經過氣",
-      "係，非常受歡迎"
+      "係，非常受歡迎",
+      "已經過氣"
     ],
     "options_en": [
       "Only popular locally",
       "No, very niche",
-      "Outdated",
-      "Yes, very popular"
+      "Yes, very popular",
+      "Outdated"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《魔道祖師》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Grandmaster of Demonic Cultivation'?",
     "options_zh": [
       "韓國人",
-      "中國人",
+      "德國人",
       "法國人",
-      "德國人"
+      "中國人"
     ],
     "options_en": [
       "Korean",
-      "Chinese",
+      "German",
       "French",
-      "German"
+      "Chinese"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《魔道祖師》嘅作者係邊個？",
+    "question_en": "Who wrote 'The Grandmaster of Demonic Cultivation'?",
+    "options_zh": [
+      "墨香銅臭",
+      "魯迅",
+      "古龍",
+      "金庸"
+    ],
+    "options_en": [
+      "Mo Xiang Tong Xiu",
+      "Lu Xun",
+      "Gu Long",
+      "Jin Yong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「墨香銅臭」。《魔道祖師》係墨香銅臭嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is 'Mo Xiang Tong Xiu'. 'The Grandmaster of Demonic Cultivation' is a work by Mo Xiang Tong Xiu, categorized as 仙俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《魔道祖師》？",
+    "question_en": "Which author wrote 'The Grandmaster of Demonic Cultivation'?",
+    "options_zh": [
+      "金庸",
+      "墨香銅臭",
+      "古龍",
+      "魯迅"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Mo Xiang Tong Xiu",
+      "Gu Long",
+      "Lu Xun"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「墨香銅臭」。《魔道祖師》係墨香銅臭嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is 'Mo Xiang Tong Xiu'. 'The Grandmaster of Demonic Cultivation' is a work by Mo Xiang Tong Xiu, categorized as 仙俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《魔道祖師》屬於咩類型？",
+    "question_en": "What genre is 'The Grandmaster of Demonic Cultivation'?",
+    "options_zh": [
+      "玄幻",
+      "武俠",
+      "奇幻",
+      "仙俠"
+    ],
+    "options_en": [
+      "玄幻",
+      "武俠",
+      "奇幻",
+      "仙俠"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「仙俠」。《魔道祖師》係墨香銅臭嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is '仙俠'. 'The Grandmaster of Demonic Cultivation' is a work by Mo Xiang Tong Xiu, categorized as 仙俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《魔道祖師》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'The Grandmaster of Demonic Cultivation'?",
+    "options_zh": [
+      "張無忌",
+      "令狐沖",
+      "郭靖",
+      "魏無羨"
+    ],
+    "options_en": [
+      "Zhang Wuji",
+      "Linghu Chong",
+      "Guo Jing",
+      "Wei Wuxian"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「魏無羨」。《魔道祖師》係墨香銅臭嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is 'Wei Wuxian'. 'The Grandmaster of Demonic Cultivation' is a work by Mo Xiang Tong Xiu, categorized as 仙俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《魔道祖師》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'The Grandmaster of Demonic Cultivation'?",
+    "options_zh": [
+      "郭靖",
+      "魏無羨",
+      "張無忌",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Wei Wuxian",
+      "Zhang Wuji",
+      "Linghu Chong"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「魏無羨」。《魔道祖師》係墨香銅臭嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is 'Wei Wuxian'. 'The Grandmaster of Demonic Cultivation' is a work by Mo Xiang Tong Xiu, categorized as 仙俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_zh": "《魔道祖師》大約喺邊年出版？",
+    "question_en": "In which year was 'The Grandmaster of Demonic Cultivation' approximately published?",
+    "options_zh": [
+      "1995",
+      "2015",
+      "2025",
+      "2005"
+    ],
+    "options_en": [
+      "1995",
+      "2015",
+      "2025",
+      "2005"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「2015」。《魔道祖師》係墨香銅臭嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is '2015'. 'The Grandmaster of Demonic Cultivation' is a work by Mo Xiang Tong Xiu, categorized as 仙俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《魔道祖師》？",
+    "question_en": "Which one is 'The Grandmaster of Demonic Cultivation'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說C",
+      "其他小說B",
+      "魔道祖師"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel C",
+      "Other Novel B",
+      "The Grandmaster of Demonic Cultivation"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「魔道祖師」。《魔道祖師》係墨香銅臭嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is 'The Grandmaster of Demonic Cultivation'. 'The Grandmaster of Demonic Cultivation' is a work by Mo Xiang Tong Xiu, categorized as 仙俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 17,
+    "question_zh": "《魔道祖師》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'The Grandmaster of Demonic Cultivation' belong to?",
+    "options_zh": [
+      "fantasy",
+      "歷史",
+      "推理",
+      "文學"
+    ],
+    "options_en": [
+      "fantasy",
+      "Historical",
+      "Mystery",
+      "Literary"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「fantasy」。《魔道祖師》係墨香銅臭嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is 'fantasy'. 'The Grandmaster of Demonic Cultivation' is a work by Mo Xiang Tong Xiu, categorized as 仙俠.",
+    "difficulty": 3
   }
 ]

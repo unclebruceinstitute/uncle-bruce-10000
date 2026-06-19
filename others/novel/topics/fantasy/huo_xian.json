@@ -5,36 +5,36 @@
     "question_en": "Which one is 'Naruto'?",
     "options_zh": [
       "其他小說C",
+      "火影忍者",
       "其他小說A",
-      "其他小說B",
-      "火影忍者"
+      "其他小說B"
     ],
     "options_en": [
       "Other Novel C",
+      "Naruto",
       "Other Novel A",
-      "Other Novel B",
-      "Naruto"
+      "Other Novel B"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「火影忍者」。",
     "explanation_en": "The correct answer is 'Naruto'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《火影忍者》嘅作者係邊個？",
     "question_en": "Who wrote 'Naruto'?",
     "options_zh": [
-      "其他作者A",
+      "其他作者C",
       "其他作者B",
       "岸本齊史",
-      "其他作者C"
+      "其他作者A"
     ],
     "options_en": [
-      "Author A",
+      "Author C",
       "Author B",
       "Masashi Kishimoto",
-      "Author C"
+      "Author A"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「岸本齊史」。",
@@ -42,103 +42,103 @@
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《火影忍者》係邊年出版嘅？",
     "question_en": "What year was 'Naruto' published?",
     "options_zh": [
-      "1999年",
-      "1996年",
+      "1994年",
       "1997年",
-      "1994年"
+      "1996年",
+      "1999年"
     ],
     "options_en": [
-      "1999",
-      "1996",
+      "1994",
       "1997",
-      "1994"
+      "1996",
+      "1999"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「1999年」。",
     "explanation_en": "The correct answer is '1999'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《火影忍者》係邊國作品？",
     "question_en": "Which country is 'Naruto' from?",
     "options_zh": [
       "韓國",
+      "法國",
       "中國",
-      "德國",
-      "法國"
+      "德國"
     ],
     "options_en": [
       "South Korea",
+      "France",
       "China",
-      "Germany",
-      "France"
+      "Germany"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《火影忍者》主要講咩？",
     "question_en": "What is 'Naruto' mainly about?",
     "options_zh": [
-      "奇幻冒險同超自然元素",
+      "財經商戰",
       "科幻太空",
-      "體育競技",
-      "財經商戰"
+      "奇幻冒險同超自然元素",
+      "體育競技"
     ],
     "options_en": [
-      "Fantasy adventure",
+      "Business",
       "Sci-fi",
-      "Sports",
-      "Business"
+      "Fantasy adventure",
+      "Sports"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「奇幻冒險同超自然元素」。",
     "explanation_en": "The correct answer is 'Fantasy adventure'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《火影忍者》入面有咩角色？",
     "question_en": "What characters are in 'Naruto'?",
     "options_zh": [
       "外星人",
-      "修仙者/魔法師",
       "機械人",
+      "修仙者/魔法師",
       "動物"
     ],
     "options_en": [
       "Aliens",
-      "Cultivators/Wizards",
       "Robots",
+      "Cultivators/Wizards",
       "Animals"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「修仙者/魔法師」。",
     "explanation_en": "The correct answer is 'Cultivators/Wizards'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《火影忍者》嘅故事背景喺邊度？",
     "question_en": "Where is 'Naruto' set?",
     "options_zh": [
-      "未來太空",
-      "歐洲中世紀",
       "虛擬世界",
+      "歐洲中世紀",
+      "未來太空",
       "虛構世界"
     ],
     "options_en": [
-      "Future space",
-      "Medieval Europe",
       "Virtual world",
+      "Medieval Europe",
+      "Future space",
       "Fictional world"
     ],
     "answer": 3,
@@ -147,20 +147,20 @@
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《火影忍者》係咪好受歡迎？",
     "question_en": "Is 'Naruto' popular?",
     "options_zh": [
       "係，非常受歡迎",
       "已經過氣",
-      "只喺特定地區流行",
-      "唔係，好冷門"
+      "唔係，好冷門",
+      "只喺特定地區流行"
     ],
     "options_en": [
       "Yes, very popular",
       "Outdated",
-      "Only popular locally",
-      "No, very niche"
+      "No, very niche",
+      "Only popular locally"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
@@ -168,24 +168,192 @@
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《火影忍者》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Naruto'?",
     "options_zh": [
-      "韓國人",
-      "中國人",
       "法國人",
-      "德國人"
+      "德國人",
+      "中國人",
+      "韓國人"
     ],
     "options_en": [
-      "Korean",
-      "Chinese",
       "French",
-      "German"
+      "German",
+      "Chinese",
+      "Korean"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《火線》嘅作者係邊個？",
+    "question_en": "Who wrote 'The Wire'?",
+    "options_zh": [
+      "魯迅",
+      "古龍",
+      "金庸",
+      "未知"
+    ],
+    "options_en": [
+      "Lu Xun",
+      "Gu Long",
+      "Jin Yong",
+      "Unknown"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「未知」。《火線》係未知嘅作品，屬於科幻類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'The Wire' is a work by Unknown, categorized as 科幻.",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《火線》？",
+    "question_en": "Which author wrote 'The Wire'?",
+    "options_zh": [
+      "魯迅",
+      "未知",
+      "古龍",
+      "金庸"
+    ],
+    "options_en": [
+      "Lu Xun",
+      "Unknown",
+      "Gu Long",
+      "Jin Yong"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「未知」。《火線》係未知嘅作品，屬於科幻類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'The Wire' is a work by Unknown, categorized as 科幻.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《火線》屬於咩類型？",
+    "question_en": "What genre is 'The Wire'?",
+    "options_zh": [
+      "科幻",
+      "動作",
+      "奇幻",
+      "推理"
+    ],
+    "options_en": [
+      "科幻",
+      "動作",
+      "奇幻",
+      "推理"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「科幻」。《火線》係未知嘅作品，屬於科幻類型。",
+    "explanation_en": "The correct answer is '科幻'. 'The Wire' is a work by Unknown, categorized as 科幻.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《火線》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'The Wire'?",
+    "options_zh": [
+      "郭靖",
+      "未知",
+      "令狐沖",
+      "張無忌"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Unknown",
+      "Linghu Chong",
+      "Zhang Wuji"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「未知」。《火線》係未知嘅作品，屬於科幻類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'The Wire' is a work by Unknown, categorized as 科幻.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《火線》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'The Wire'?",
+    "options_zh": [
+      "令狐沖",
+      "張無忌",
+      "郭靖",
+      "未知"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Zhang Wuji",
+      "Guo Jing",
+      "Unknown"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「未知」。《火線》係未知嘅作品，屬於科幻類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'The Wire' is a work by Unknown, categorized as 科幻.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《火線》大約喺邊年出版？",
+    "question_en": "In which year was 'The Wire' approximately published?",
+    "options_zh": [
+      "2030",
+      "2010",
+      "2020",
+      "2000"
+    ],
+    "options_en": [
+      "2030",
+      "2010",
+      "2020",
+      "2000"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2020」。《火線》係未知嘅作品，屬於科幻類型。",
+    "explanation_en": "The correct answer is '2020'. 'The Wire' is a work by Unknown, categorized as 科幻.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《火線》？",
+    "question_en": "Which one is 'The Wire'?",
+    "options_zh": [
+      "火線",
+      "其他小說B",
+      "其他小說A",
+      "其他小說C"
+    ],
+    "options_en": [
+      "The Wire",
+      "Other Novel B",
+      "Other Novel A",
+      "Other Novel C"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「火線」。《火線》係未知嘅作品，屬於科幻類型。",
+    "explanation_en": "The correct answer is 'The Wire'. 'The Wire' is a work by Unknown, categorized as 科幻.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《火線》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'The Wire' belong to?",
+    "options_zh": [
+      "文學",
+      "推理",
+      "歷史",
+      "fantasy"
+    ],
+    "options_en": [
+      "Literary",
+      "Mystery",
+      "Historical",
+      "fantasy"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「fantasy」。《火線》係未知嘅作品，屬於科幻類型。",
+    "explanation_en": "The correct answer is 'fantasy'. 'The Wire' is a work by Unknown, categorized as 科幻.",
     "difficulty": 2
   }
 ]

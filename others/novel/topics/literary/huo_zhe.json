@@ -4,57 +4,57 @@
     "question_zh": "以下邊本係《活著》？",
     "question_en": "Which one is 'To Live'?",
     "options_zh": [
+      "其他小說A",
       "活著",
       "其他小說C",
-      "其他小說A",
       "其他小說B"
     ],
     "options_en": [
+      "Other Novel A",
       "To Live",
       "Other Novel C",
-      "Other Novel A",
       "Other Novel B"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「活著」。",
     "explanation_en": "The correct answer is 'To Live'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《活著》嘅作者係邊個？",
     "question_en": "Who wrote 'To Live'?",
     "options_zh": [
+      "余華",
       "其他作者C",
       "其他作者B",
-      "余華",
       "其他作者A"
     ],
     "options_en": [
+      "Yu Hua",
       "Author C",
       "Author B",
-      "Yu Hua",
       "Author A"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「余華」。",
     "explanation_en": "The correct answer is 'Yu Hua'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《活著》係邊年出版嘅？",
     "question_en": "What year was 'To Live' published?",
     "options_zh": [
       "1998年",
-      "1996年",
       "1990年",
+      "1996年",
       "1993年"
     ],
     "options_en": [
       "1998",
-      "1996",
       "1990",
+      "1996",
       "1993"
     ],
     "answer": 3,
@@ -63,40 +63,40 @@
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《活著》係邊國作品？",
     "question_en": "Which country is 'To Live' from?",
     "options_zh": [
-      "韓國",
-      "德國",
+      "中國",
       "法國",
-      "中國"
+      "韓國",
+      "德國"
     ],
     "options_en": [
-      "South Korea",
-      "Germany",
+      "China",
       "France",
-      "China"
+      "South Korea",
+      "Germany"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《活著》主要講咩？",
     "question_en": "What is 'To Live' mainly about?",
     "options_zh": [
-      "科幻太空",
-      "財經商戰",
       "體育競技",
+      "財經商戰",
+      "科幻太空",
       "現實生活同文學表達"
     ],
     "options_en": [
-      "Sci-fi",
-      "Business",
       "Sports",
+      "Business",
+      "Sci-fi",
       "Real life and literary"
     ],
     "answer": 3,
@@ -105,18 +105,18 @@
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《活著》入面有咩角色？",
     "question_en": "What characters are in 'To Live'?",
     "options_zh": [
-      "外星人",
       "機械人",
+      "外星人",
       "動物",
       "主要角色"
     ],
     "options_en": [
-      "Aliens",
       "Robots",
+      "Aliens",
       "Animals",
       "Main characters"
     ],
@@ -126,19 +126,19 @@
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《活著》嘅故事背景喺邊度？",
     "question_en": "Where is 'To Live' set?",
     "options_zh": [
-      "歐洲中世紀",
-      "虛擬世界",
       "未來太空",
+      "虛擬世界",
+      "歐洲中世紀",
       "中國/亞洲"
     ],
     "options_en": [
-      "Medieval Europe",
-      "Virtual world",
       "Future space",
+      "Virtual world",
+      "Medieval Europe",
       "China/Asia"
     ],
     "answer": 3,
@@ -147,20 +147,20 @@
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《活著》係咪好受歡迎？",
     "question_en": "Is 'To Live' popular?",
     "options_zh": [
-      "只喺特定地區流行",
-      "係，非常受歡迎",
       "唔係，好冷門",
-      "已經過氣"
+      "係，非常受歡迎",
+      "已經過氣",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "Only popular locally",
-      "Yes, very popular",
       "No, very niche",
-      "Outdated"
+      "Yes, very popular",
+      "Outdated",
+      "Only popular locally"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
@@ -168,24 +168,192 @@
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《活著》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'To Live'?",
     "options_zh": [
-      "中國人",
-      "法國人",
       "韓國人",
-      "德國人"
+      "德國人",
+      "法國人",
+      "中國人"
     ],
     "options_en": [
-      "Chinese",
-      "French",
       "Korean",
-      "German"
+      "German",
+      "French",
+      "Chinese"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《活著》嘅作者係邊個？",
+    "question_en": "Who wrote 'To Live'?",
+    "options_zh": [
+      "余華",
+      "古龍",
+      "魯迅",
+      "金庸"
+    ],
+    "options_en": [
+      "Yu Hua",
+      "Gu Long",
+      "Lu Xun",
+      "Jin Yong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「余華」。《活著》係余華嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Yu Hua'. 'To Live' is a work by Yu Hua, categorized as 文學.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《活著》？",
+    "question_en": "Which author wrote 'To Live'?",
+    "options_zh": [
+      "余華",
+      "古龍",
+      "魯迅",
+      "金庸"
+    ],
+    "options_en": [
+      "Yu Hua",
+      "Gu Long",
+      "Lu Xun",
+      "Jin Yong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「余華」。《活著》係余華嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Yu Hua'. 'To Live' is a work by Yu Hua, categorized as 文學.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《活著》屬於咩類型？",
+    "question_en": "What genre is 'To Live'?",
+    "options_zh": [
+      "哲學",
+      "古典",
+      "文學",
+      "歷史"
+    ],
+    "options_en": [
+      "哲學",
+      "古典",
+      "文學",
+      "歷史"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「文學」。《活著》係余華嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is '文學'. 'To Live' is a work by Yu Hua, categorized as 文學.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《活著》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'To Live'?",
+    "options_zh": [
+      "郭靖",
+      "張無忌",
+      "福貴",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Zhang Wuji",
+      "Fu Gui",
+      "Linghu Chong"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「福貴」。《活著》係余華嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Fu Gui'. 'To Live' is a work by Yu Hua, categorized as 文學.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《活著》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'To Live'?",
+    "options_zh": [
+      "郭靖",
+      "張無忌",
+      "福貴",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Zhang Wuji",
+      "Fu Gui",
+      "Linghu Chong"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「福貴」。《活著》係余華嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Fu Gui'. 'To Live' is a work by Yu Hua, categorized as 文學.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《活著》大約喺邊年出版？",
+    "question_en": "In which year was 'To Live' approximately published?",
+    "options_zh": [
+      "1983",
+      "1973",
+      "2003",
+      "1993"
+    ],
+    "options_en": [
+      "1983",
+      "1973",
+      "2003",
+      "1993"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1993」。《活著》係余華嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is '1993'. 'To Live' is a work by Yu Hua, categorized as 文學.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《活著》？",
+    "question_en": "Which one is 'To Live'?",
+    "options_zh": [
+      "其他小說C",
+      "活著",
+      "其他小說A",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "To Live",
+      "Other Novel A",
+      "Other Novel B"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「活著」。《活著》係余華嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'To Live'. 'To Live' is a work by Yu Hua, categorized as 文學.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《活著》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'To Live' belong to?",
+    "options_zh": [
+      "奇幻",
+      "歷史",
+      "推理",
+      "literary"
+    ],
+    "options_en": [
+      "Fantasy",
+      "Historical",
+      "Mystery",
+      "literary"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「literary」。《活著》係余華嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'literary'. 'To Live' is a work by Yu Hua, categorized as 文學.",
+    "difficulty": 1
   }
 ]

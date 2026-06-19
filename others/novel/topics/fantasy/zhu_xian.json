@@ -4,15 +4,15 @@
     "question_zh": "以下邊本係《誅仙》？",
     "question_en": "Which one is 'Zhu Xian'?",
     "options_zh": [
-      "其他小說B",
-      "誅仙",
       "其他小說C",
+      "誅仙",
+      "其他小說B",
       "其他小說A"
     ],
     "options_en": [
-      "Other Novel B",
-      "Zhu Xian",
       "Other Novel C",
+      "Zhu Xian",
+      "Other Novel B",
       "Other Novel A"
     ],
     "answer": 1,
@@ -21,41 +21,41 @@
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《誅仙》嘅作者係邊個？",
     "question_en": "Who wrote 'Zhu Xian'?",
     "options_zh": [
-      "其他作者A",
-      "蕭鼎",
       "其他作者C",
-      "其他作者B"
+      "其他作者B",
+      "其他作者A",
+      "蕭鼎"
     ],
     "options_en": [
-      "Author A",
-      "Xiao Ding",
       "Author C",
-      "Author B"
+      "Author B",
+      "Author A",
+      "Xiao Ding"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「蕭鼎」。",
     "explanation_en": "The correct answer is 'Xiao Ding'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《誅仙》係邊年出版嘅？",
     "question_en": "What year was 'Zhu Xian' published?",
     "options_zh": [
-      "2006年",
+      "2005年",
       "2003年",
-      "1998年",
-      "2005年"
+      "2006年",
+      "1998年"
     ],
     "options_en": [
-      "2006",
+      "2005",
       "2003",
-      "1998",
-      "2005"
+      "2006",
+      "1998"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「2003年」。",
@@ -63,62 +63,62 @@
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《誅仙》係邊國作品？",
     "question_en": "Which country is 'Zhu Xian' from?",
     "options_zh": [
-      "德國",
-      "中國",
       "韓國",
-      "法國"
+      "德國",
+      "法國",
+      "中國"
     ],
     "options_en": [
-      "Germany",
-      "China",
       "South Korea",
-      "France"
+      "Germany",
+      "France",
+      "China"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《誅仙》主要講咩？",
     "question_en": "What is 'Zhu Xian' mainly about?",
     "options_zh": [
-      "財經商戰",
       "體育競技",
       "科幻太空",
-      "奇幻冒險同超自然元素"
+      "奇幻冒險同超自然元素",
+      "財經商戰"
     ],
     "options_en": [
-      "Business",
       "Sports",
       "Sci-fi",
-      "Fantasy adventure"
+      "Fantasy adventure",
+      "Business"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「奇幻冒險同超自然元素」。",
     "explanation_en": "The correct answer is 'Fantasy adventure'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《誅仙》入面有咩角色？",
     "question_en": "What characters are in 'Zhu Xian'?",
     "options_zh": [
-      "外星人",
+      "動物",
       "修仙者/魔法師",
       "機械人",
-      "動物"
+      "外星人"
     ],
     "options_en": [
-      "Aliens",
+      "Animals",
       "Cultivators/Wizards",
       "Robots",
-      "Animals"
+      "Aliens"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「修仙者/魔法師」。",
@@ -126,20 +126,20 @@
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《誅仙》嘅故事背景喺邊度？",
     "question_en": "Where is 'Zhu Xian' set?",
     "options_zh": [
       "虛構世界",
+      "未來太空",
       "虛擬世界",
-      "歐洲中世紀",
-      "未來太空"
+      "歐洲中世紀"
     ],
     "options_en": [
       "Fictional world",
+      "Future space",
       "Virtual world",
-      "Medieval Europe",
-      "Future space"
+      "Medieval Europe"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「虛構世界」。",
@@ -147,19 +147,19 @@
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《誅仙》係咪好受歡迎？",
     "question_en": "Is 'Zhu Xian' popular?",
     "options_zh": [
       "係，非常受歡迎",
-      "已經過氣",
       "只喺特定地區流行",
+      "已經過氣",
       "唔係，好冷門"
     ],
     "options_en": [
       "Yes, very popular",
-      "Outdated",
       "Only popular locally",
+      "Outdated",
       "No, very niche"
     ],
     "answer": 0,
@@ -168,24 +168,192 @@
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《誅仙》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Zhu Xian'?",
     "options_zh": [
-      "中國人",
       "法國人",
-      "韓國人",
-      "德國人"
+      "德國人",
+      "中國人",
+      "韓國人"
     ],
     "options_en": [
-      "Chinese",
       "French",
-      "Korean",
-      "German"
+      "German",
+      "Chinese",
+      "Korean"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《誅仙》嘅作者係邊個？",
+    "question_en": "Who wrote 'Jade Dynasty'?",
+    "options_zh": [
+      "蕭鼎",
+      "魯迅",
+      "古龍",
+      "金庸"
+    ],
+    "options_en": [
+      "Xiao Ding",
+      "Lu Xun",
+      "Gu Long",
+      "Jin Yong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「蕭鼎」。《誅仙》係蕭鼎嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is 'Xiao Ding'. 'Jade Dynasty' is a work by Xiao Ding, categorized as 仙俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《誅仙》？",
+    "question_en": "Which author wrote 'Jade Dynasty'?",
+    "options_zh": [
+      "金庸",
+      "蕭鼎",
+      "魯迅",
+      "古龍"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Xiao Ding",
+      "Lu Xun",
+      "Gu Long"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「蕭鼎」。《誅仙》係蕭鼎嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is 'Xiao Ding'. 'Jade Dynasty' is a work by Xiao Ding, categorized as 仙俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《誅仙》屬於咩類型？",
+    "question_en": "What genre is 'Jade Dynasty'?",
+    "options_zh": [
+      "武俠",
+      "奇幻",
+      "仙俠",
+      "玄幻"
+    ],
+    "options_en": [
+      "武俠",
+      "奇幻",
+      "仙俠",
+      "玄幻"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「仙俠」。《誅仙》係蕭鼎嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is '仙俠'. 'Jade Dynasty' is a work by Xiao Ding, categorized as 仙俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_zh": "《誅仙》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Jade Dynasty'?",
+    "options_zh": [
+      "張小凡",
+      "郭靖",
+      "令狐沖",
+      "張無忌"
+    ],
+    "options_en": [
+      "Zhang Xiaofan",
+      "Guo Jing",
+      "Linghu Chong",
+      "Zhang Wuji"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「張小凡」。《誅仙》係蕭鼎嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is 'Zhang Xiaofan'. 'Jade Dynasty' is a work by Xiao Ding, categorized as 仙俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_zh": "《誅仙》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Jade Dynasty'?",
+    "options_zh": [
+      "張無忌",
+      "張小凡",
+      "令狐沖",
+      "郭靖"
+    ],
+    "options_en": [
+      "Zhang Wuji",
+      "Zhang Xiaofan",
+      "Linghu Chong",
+      "Guo Jing"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「張小凡」。《誅仙》係蕭鼎嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is 'Zhang Xiaofan'. 'Jade Dynasty' is a work by Xiao Ding, categorized as 仙俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《誅仙》大約喺邊年出版？",
+    "question_en": "In which year was 'Jade Dynasty' approximately published?",
+    "options_zh": [
+      "1983",
+      "1993",
+      "2003",
+      "2013"
+    ],
+    "options_en": [
+      "1983",
+      "1993",
+      "2003",
+      "2013"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2003」。《誅仙》係蕭鼎嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is '2003'. 'Jade Dynasty' is a work by Xiao Ding, categorized as 仙俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《誅仙》？",
+    "question_en": "Which one is 'Jade Dynasty'?",
+    "options_zh": [
+      "誅仙",
+      "其他小說C",
+      "其他小說A",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Jade Dynasty",
+      "Other Novel C",
+      "Other Novel A",
+      "Other Novel B"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「誅仙」。《誅仙》係蕭鼎嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is 'Jade Dynasty'. 'Jade Dynasty' is a work by Xiao Ding, categorized as 仙俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《誅仙》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Jade Dynasty' belong to?",
+    "options_zh": [
+      "文學",
+      "推理",
+      "歷史",
+      "fantasy"
+    ],
+    "options_en": [
+      "Literary",
+      "Mystery",
+      "Historical",
+      "fantasy"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「fantasy」。《誅仙》係蕭鼎嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is 'fantasy'. 'Jade Dynasty' is a work by Xiao Ding, categorized as 仙俠.",
     "difficulty": 2
   }
 ]

@@ -21,28 +21,28 @@
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《飛狐外傳》嘅作者係邊個？",
     "question_en": "Who wrote 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
-      "其他作者A",
       "其他作者C",
       "金庸",
-      "其他作者B"
+      "其他作者B",
+      "其他作者A"
     ],
     "options_en": [
-      "Author A",
       "Author C",
       "Jin Yong",
-      "Author B"
+      "Author B",
+      "Author A"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「金庸」。",
     "explanation_en": "The correct answer is 'Jin Yong'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《飛狐外傳》係邊年出版嘅？",
     "question_en": "What year was 'Fox Volant of the Snowy Mountain' published?",
     "options_zh": [
@@ -63,61 +63,61 @@
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《飛狐外傳》係邊國作品？",
     "question_en": "Which country is 'Fox Volant of the Snowy Mountain' from?",
     "options_zh": [
+      "韓國",
       "中國",
       "法國",
-      "韓國",
       "德國"
     ],
     "options_en": [
+      "South Korea",
       "China",
       "France",
-      "South Korea",
       "Germany"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《飛狐外傳》主要講咩？",
     "question_en": "What is 'Fox Volant of the Snowy Mountain' mainly about?",
     "options_zh": [
+      "江湖恩怨同武俠世界",
       "財經商戰",
-      "體育競技",
       "科幻太空",
-      "江湖恩怨同武俠世界"
+      "體育競技"
     ],
     "options_en": [
+      "Martial arts world",
       "Business",
-      "Sports",
       "Sci-fi",
-      "Martial arts world"
+      "Sports"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
     "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《飛狐外傳》入面有咩角色？",
     "question_en": "What characters are in 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
       "武林高手",
-      "機械人",
       "動物",
+      "機械人",
       "外星人"
     ],
     "options_en": [
       "Martial arts masters",
-      "Robots",
       "Animals",
+      "Robots",
       "Aliens"
     ],
     "answer": 0,
@@ -126,19 +126,19 @@
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《飛狐外傳》嘅故事背景喺邊度？",
     "question_en": "Where is 'Fox Volant of the Snowy Mountain' set?",
     "options_zh": [
-      "虛擬世界",
-      "歐洲中世紀",
       "未來太空",
+      "歐洲中世紀",
+      "虛擬世界",
       "古代中國"
     ],
     "options_en": [
-      "Virtual world",
-      "Medieval Europe",
       "Future space",
+      "Medieval Europe",
+      "Virtual world",
       "Ancient China"
     ],
     "answer": 3,
@@ -147,45 +147,213 @@
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《飛狐外傳》係咪好受歡迎？",
     "question_en": "Is 'Fox Volant of the Snowy Mountain' popular?",
     "options_zh": [
-      "係，有一定讀者群",
+      "唔係，好冷門",
       "已經過氣",
-      "只喺特定地區流行",
-      "唔係，好冷門"
+      "係，有一定讀者群",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "Yes, has a readership",
+      "No, very niche",
       "Outdated",
-      "Only popular locally",
-      "No, very niche"
+      "Yes, has a readership",
+      "Only popular locally"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《飛狐外傳》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Fox Volant of the Snowy Mountain'?",
     "options_zh": [
-      "韓國人",
-      "法國人",
+      "中國人",
       "德國人",
-      "中國人"
+      "韓國人",
+      "法國人"
     ],
     "options_en": [
-      "Korean",
-      "French",
+      "Chinese",
       "German",
-      "Chinese"
+      "Korean",
+      "French"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《飛狐外傳》嘅作者係邊個？",
+    "question_en": "Who wrote 'Fox Volant of the Snowy Mountain'?",
+    "options_zh": [
+      "金庸",
+      "古龍",
+      "魯迅",
+      "老舍"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Gu Long",
+      "Lu Xun",
+      "Lao She"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「金庸」。《飛狐外傳》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Jin Yong'. 'Fox Volant of the Snowy Mountain' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《飛狐外傳》？",
+    "question_en": "Which author wrote 'Fox Volant of the Snowy Mountain'?",
+    "options_zh": [
+      "古龍",
+      "金庸",
+      "老舍",
+      "魯迅"
+    ],
+    "options_en": [
+      "Gu Long",
+      "Jin Yong",
+      "Lao She",
+      "Lu Xun"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「金庸」。《飛狐外傳》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Jin Yong'. 'Fox Volant of the Snowy Mountain' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《飛狐外傳》屬於咩類型？",
+    "question_en": "What genre is 'Fox Volant of the Snowy Mountain'?",
+    "options_zh": [
+      "動作",
+      "武俠",
+      "仙俠",
+      "歷史"
+    ],
+    "options_en": [
+      "動作",
+      "武俠",
+      "仙俠",
+      "歷史"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「武俠」。《飛狐外傳》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is '武俠'. 'Fox Volant of the Snowy Mountain' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_zh": "《飛狐外傳》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Fox Volant of the Snowy Mountain'?",
+    "options_zh": [
+      "令狐沖",
+      "胡斐",
+      "郭靖",
+      "張無忌"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Hu Fei",
+      "Guo Jing",
+      "Zhang Wuji"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「胡斐」。《飛狐外傳》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Hu Fei'. 'Fox Volant of the Snowy Mountain' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_zh": "《飛狐外傳》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Fox Volant of the Snowy Mountain'?",
+    "options_zh": [
+      "張無忌",
+      "胡斐",
+      "郭靖",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Zhang Wuji",
+      "Hu Fei",
+      "Guo Jing",
+      "Linghu Chong"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「胡斐」。《飛狐外傳》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Hu Fei'. 'Fox Volant of the Snowy Mountain' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《飛狐外傳》大約喺邊年出版？",
+    "question_en": "In which year was 'Fox Volant of the Snowy Mountain' approximately published?",
+    "options_zh": [
+      "1950",
+      "1940",
+      "1960",
+      "1970"
+    ],
+    "options_en": [
+      "1950",
+      "1940",
+      "1960",
+      "1970"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「1960」。《飛狐外傳》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is '1960'. 'Fox Volant of the Snowy Mountain' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《飛狐外傳》？",
+    "question_en": "Which one is 'Fox Volant of the Snowy Mountain'?",
+    "options_zh": [
+      "其他小說B",
+      "其他小說C",
+      "其他小說A",
+      "飛狐外傳"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Other Novel C",
+      "Other Novel A",
+      "Fox Volant of the Snowy Mountain"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「飛狐外傳」。《飛狐外傳》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Fox Volant of the Snowy Mountain'. 'Fox Volant of the Snowy Mountain' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《飛狐外傳》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Fox Volant of the Snowy Mountain' belong to?",
+    "options_zh": [
+      "奇幻",
+      "文學",
+      "wuxia",
+      "歷史"
+    ],
+    "options_en": [
+      "Fantasy",
+      "Literary",
+      "wuxia",
+      "Historical"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「wuxia」。《飛狐外傳》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'wuxia'. 'Fox Volant of the Snowy Mountain' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 3
   }
 ]

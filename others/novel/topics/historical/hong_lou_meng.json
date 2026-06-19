@@ -4,15 +4,15 @@
     "question_zh": "以下邊本係《紅樓夢》？",
     "question_en": "Which one is 'Dream of the Red Chamber'?",
     "options_zh": [
-      "其他小說B",
-      "其他小說A",
       "其他小說C",
+      "其他小說A",
+      "其他小說B",
       "紅樓夢"
     ],
     "options_en": [
-      "Other Novel B",
-      "Other Novel A",
       "Other Novel C",
+      "Other Novel A",
+      "Other Novel B",
       "Dream of the Red Chamber"
     ],
     "answer": 3,
@@ -21,19 +21,19 @@
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《紅樓夢》嘅作者係邊個？",
     "question_en": "Who wrote 'Dream of the Red Chamber'?",
     "options_zh": [
       "其他作者C",
-      "其他作者B",
       "其他作者A",
+      "其他作者B",
       "曹雪芹"
     ],
     "options_en": [
       "Author C",
-      "Author B",
       "Author A",
+      "Author B",
       "Cao Xueqin"
     ],
     "answer": 3,
@@ -42,60 +42,60 @@
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《紅樓夢》係邊年出版嘅？",
     "question_en": "What year was 'Dream of the Red Chamber' published?",
     "options_zh": [
-      "1789年",
-      "1786年",
+      "1793年",
       "1791年",
-      "1793年"
+      "1786年",
+      "1789年"
     ],
     "options_en": [
-      "1789",
-      "1786",
+      "1793",
       "1791",
-      "1793"
+      "1786",
+      "1789"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「1791年」。",
     "explanation_en": "The correct answer is '1791'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《紅樓夢》係邊國作品？",
     "question_en": "Which country is 'Dream of the Red Chamber' from?",
     "options_zh": [
-      "中國",
+      "法國",
       "德國",
-      "韓國",
-      "法國"
+      "中國",
+      "韓國"
     ],
     "options_en": [
-      "China",
+      "France",
       "Germany",
-      "South Korea",
-      "France"
+      "China",
+      "South Korea"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《紅樓夢》主要講咩？",
     "question_en": "What is 'Dream of the Red Chamber' mainly about?",
     "options_zh": [
-      "財經商戰",
       "科幻太空",
+      "財經商戰",
       "歷史故事同時代變遷",
       "體育競技"
     ],
     "options_en": [
-      "Business",
       "Sci-fi",
+      "Business",
       "Historical story",
       "Sports"
     ],
@@ -105,40 +105,40 @@
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《紅樓夢》入面有咩角色？",
     "question_en": "What characters are in 'Dream of the Red Chamber'?",
     "options_zh": [
-      "主要角色",
       "外星人",
       "機械人",
-      "動物"
+      "動物",
+      "主要角色"
     ],
     "options_en": [
-      "Main characters",
       "Aliens",
       "Robots",
-      "Animals"
+      "Animals",
+      "Main characters"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《紅樓夢》嘅故事背景喺邊度？",
     "question_en": "Where is 'Dream of the Red Chamber' set?",
     "options_zh": [
+      "虛擬世界",
       "未來太空",
       "歐洲中世紀",
-      "虛擬世界",
       "古代中國"
     ],
     "options_en": [
+      "Virtual world",
       "Future space",
       "Medieval Europe",
-      "Virtual world",
       "Ancient China"
     ],
     "answer": 3,
@@ -147,45 +147,213 @@
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《紅樓夢》係咪好受歡迎？",
     "question_en": "Is 'Dream of the Red Chamber' popular?",
     "options_zh": [
+      "係，非常受歡迎",
       "唔係，好冷門",
       "已經過氣",
-      "係，非常受歡迎",
       "只喺特定地區流行"
     ],
     "options_en": [
+      "Yes, very popular",
       "No, very niche",
       "Outdated",
-      "Yes, very popular",
       "Only popular locally"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《紅樓夢》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Dream of the Red Chamber'?",
     "options_zh": [
-      "法國人",
+      "韓國人",
       "德國人",
-      "中國人",
-      "韓國人"
+      "法國人",
+      "中國人"
     ],
     "options_en": [
-      "French",
+      "Korean",
       "German",
-      "Chinese",
-      "Korean"
+      "French",
+      "Chinese"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《紅樓夢》嘅作者係邊個？",
+    "question_en": "Who wrote 'Dream of the Red Chamber'?",
+    "options_zh": [
+      "魯迅",
+      "古龍",
+      "金庸",
+      "曹雪芹"
+    ],
+    "options_en": [
+      "Lu Xun",
+      "Gu Long",
+      "Jin Yong",
+      "Cao Xueqin"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「曹雪芹」。《紅樓夢》係曹雪芹嘅作品，屬於古典類型。",
+    "explanation_en": "The correct answer is 'Cao Xueqin'. 'Dream of the Red Chamber' is a work by Cao Xueqin, categorized as 古典.",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《紅樓夢》？",
+    "question_en": "Which author wrote 'Dream of the Red Chamber'?",
+    "options_zh": [
+      "魯迅",
+      "曹雪芹",
+      "金庸",
+      "古龍"
+    ],
+    "options_en": [
+      "Lu Xun",
+      "Cao Xueqin",
+      "Jin Yong",
+      "Gu Long"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「曹雪芹」。《紅樓夢》係曹雪芹嘅作品，屬於古典類型。",
+    "explanation_en": "The correct answer is 'Cao Xueqin'. 'Dream of the Red Chamber' is a work by Cao Xueqin, categorized as 古典.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《紅樓夢》屬於咩類型？",
+    "question_en": "What genre is 'Dream of the Red Chamber'?",
+    "options_zh": [
+      "文學",
+      "歷史",
+      "世情",
+      "古典"
+    ],
+    "options_en": [
+      "文學",
+      "歷史",
+      "世情",
+      "古典"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「古典」。《紅樓夢》係曹雪芹嘅作品，屬於古典類型。",
+    "explanation_en": "The correct answer is '古典'. 'Dream of the Red Chamber' is a work by Cao Xueqin, categorized as 古典.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《紅樓夢》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Dream of the Red Chamber'?",
+    "options_zh": [
+      "郭靖",
+      "賈寶玉",
+      "張無忌",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Jia Baoyu",
+      "Zhang Wuji",
+      "Linghu Chong"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「賈寶玉」。《紅樓夢》係曹雪芹嘅作品，屬於古典類型。",
+    "explanation_en": "The correct answer is 'Jia Baoyu'. 'Dream of the Red Chamber' is a work by Cao Xueqin, categorized as 古典.",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_zh": "《紅樓夢》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Dream of the Red Chamber'?",
+    "options_zh": [
+      "令狐沖",
+      "郭靖",
+      "賈寶玉",
+      "張無忌"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Guo Jing",
+      "Jia Baoyu",
+      "Zhang Wuji"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「賈寶玉」。《紅樓夢》係曹雪芹嘅作品，屬於古典類型。",
+    "explanation_en": "The correct answer is 'Jia Baoyu'. 'Dream of the Red Chamber' is a work by Cao Xueqin, categorized as 古典.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《紅樓夢》大約喺邊年出版？",
+    "question_en": "In which year was 'Dream of the Red Chamber' approximately published?",
+    "options_zh": [
+      "1791",
+      "1781",
+      "1801",
+      "1771"
+    ],
+    "options_en": [
+      "1791",
+      "1781",
+      "1801",
+      "1771"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「1791」。《紅樓夢》係曹雪芹嘅作品，屬於古典類型。",
+    "explanation_en": "The correct answer is '1791'. 'Dream of the Red Chamber' is a work by Cao Xueqin, categorized as 古典.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《紅樓夢》？",
+    "question_en": "Which one is 'Dream of the Red Chamber'?",
+    "options_zh": [
+      "其他小說B",
+      "其他小說A",
+      "紅樓夢",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Other Novel A",
+      "Dream of the Red Chamber",
+      "Other Novel C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「紅樓夢」。《紅樓夢》係曹雪芹嘅作品，屬於古典類型。",
+    "explanation_en": "The correct answer is 'Dream of the Red Chamber'. 'Dream of the Red Chamber' is a work by Cao Xueqin, categorized as 古典.",
+    "difficulty": 3
+  },
+  {
+    "id": 17,
+    "question_zh": "《紅樓夢》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Dream of the Red Chamber' belong to?",
+    "options_zh": [
+      "文學",
+      "推理",
+      "historical",
+      "奇幻"
+    ],
+    "options_en": [
+      "Literary",
+      "Mystery",
+      "historical",
+      "Fantasy"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「historical」。《紅樓夢》係曹雪芹嘅作品，屬於古典類型。",
+    "explanation_en": "The correct answer is 'historical'. 'Dream of the Red Chamber' is a work by Cao Xueqin, categorized as 古典.",
     "difficulty": 2
   }
 ]

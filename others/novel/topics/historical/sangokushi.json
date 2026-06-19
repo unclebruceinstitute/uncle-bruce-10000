@@ -4,142 +4,142 @@
     "question_zh": "以下邊本係《三國志》？",
     "question_en": "Which one is 'Records of the Three Kingdoms'?",
     "options_zh": [
-      "其他小說A",
       "其他小說B",
+      "三國志",
       "其他小說C",
-      "三國志"
+      "其他小說A"
     ],
     "options_en": [
-      "Other Novel A",
       "Other Novel B",
+      "Records of the Three Kingdoms",
       "Other Novel C",
-      "Records of the Three Kingdoms"
+      "Other Novel A"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「三國志」。",
     "explanation_en": "The correct answer is 'Records of the Three Kingdoms'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《三國志》嘅作者係邊個？",
     "question_en": "Who wrote 'Records of the Three Kingdoms'?",
     "options_zh": [
-      "陳壽",
-      "其他作者B",
+      "其他作者A",
       "其他作者C",
-      "其他作者A"
+      "陳壽",
+      "其他作者B"
     ],
     "options_en": [
-      "Chen Shou",
-      "Author B",
+      "Author A",
       "Author C",
-      "Author A"
+      "Chen Shou",
+      "Author B"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「陳壽」。",
     "explanation_en": "The correct answer is 'Chen Shou'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《三國志》係邊年出版嘅？",
     "question_en": "What year was 'Records of the Three Kingdoms' published?",
     "options_zh": [
-      "285年",
       "295年",
-      "288年",
-      "290年"
+      "285年",
+      "290年",
+      "288年"
     ],
     "options_en": [
-      "285",
       "295",
-      "288",
-      "290"
+      "285",
+      "290",
+      "288"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「290年」。",
     "explanation_en": "The correct answer is '290'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《三國志》係邊國作品？",
     "question_en": "Which country is 'Records of the Three Kingdoms' from?",
     "options_zh": [
-      "法國",
-      "韓國",
       "中國",
-      "德國"
+      "德國",
+      "法國",
+      "韓國"
     ],
     "options_en": [
-      "France",
-      "South Korea",
       "China",
-      "Germany"
+      "Germany",
+      "France",
+      "South Korea"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《三國志》主要講咩？",
     "question_en": "What is 'Records of the Three Kingdoms' mainly about?",
     "options_zh": [
+      "財經商戰",
       "科幻太空",
-      "歷史故事同時代變遷",
       "體育競技",
-      "財經商戰"
+      "歷史故事同時代變遷"
     ],
     "options_en": [
+      "Business",
       "Sci-fi",
-      "Historical story",
       "Sports",
-      "Business"
+      "Historical story"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
     "explanation_en": "The correct answer is 'Historical story'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《三國志》入面有咩角色？",
     "question_en": "What characters are in 'Records of the Three Kingdoms'?",
     "options_zh": [
-      "機械人",
       "外星人",
-      "動物",
-      "主要角色"
+      "主要角色",
+      "機械人",
+      "動物"
     ],
     "options_en": [
-      "Robots",
       "Aliens",
-      "Animals",
-      "Main characters"
+      "Main characters",
+      "Robots",
+      "Animals"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《三國志》嘅故事背景喺邊度？",
     "question_en": "Where is 'Records of the Three Kingdoms' set?",
     "options_zh": [
-      "未來太空",
+      "虛擬世界",
       "歐洲中世紀",
       "古代中國",
-      "虛擬世界"
+      "未來太空"
     ],
     "options_en": [
-      "Future space",
+      "Virtual world",
       "Medieval Europe",
       "Ancient China",
-      "Virtual world"
+      "Future space"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「古代中國」。",
@@ -147,19 +147,19 @@
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《三國志》係咪好受歡迎？",
     "question_en": "Is 'Records of the Three Kingdoms' popular?",
     "options_zh": [
-      "已經過氣",
       "只喺特定地區流行",
       "唔係，好冷門",
+      "已經過氣",
       "係，有一定讀者群"
     ],
     "options_en": [
-      "Outdated",
       "Only popular locally",
       "No, very niche",
+      "Outdated",
       "Yes, has a readership"
     ],
     "answer": 3,
@@ -168,24 +168,192 @@
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《三國志》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Records of the Three Kingdoms'?",
     "options_zh": [
-      "法國人",
-      "中國人",
       "德國人",
-      "韓國人"
+      "中國人",
+      "韓國人",
+      "法國人"
     ],
     "options_en": [
-      "French",
-      "Chinese",
       "German",
-      "Korean"
+      "Chinese",
+      "Korean",
+      "French"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《三國志》嘅作者係邊個？",
+    "question_en": "Who wrote 'Records of the Three Kingdoms'?",
+    "options_zh": [
+      "魯迅",
+      "古龍",
+      "金庸",
+      "陳壽"
+    ],
+    "options_en": [
+      "Lu Xun",
+      "Gu Long",
+      "Jin Yong",
+      "Chen Shou"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「陳壽」。《三國志》係陳壽嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'Chen Shou'. 'Records of the Three Kingdoms' is a work by Chen Shou, categorized as 歷史.",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《三國志》？",
+    "question_en": "Which author wrote 'Records of the Three Kingdoms'?",
+    "options_zh": [
+      "金庸",
+      "魯迅",
+      "古龍",
+      "陳壽"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Lu Xun",
+      "Gu Long",
+      "Chen Shou"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「陳壽」。《三國志》係陳壽嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'Chen Shou'. 'Records of the Three Kingdoms' is a work by Chen Shou, categorized as 歷史.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《三國志》屬於咩類型？",
+    "question_en": "What genre is 'Records of the Three Kingdoms'?",
+    "options_zh": [
+      "歷史",
+      "古典",
+      "傳記",
+      "文學"
+    ],
+    "options_en": [
+      "歷史",
+      "古典",
+      "傳記",
+      "文學"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「歷史」。《三國志》係陳壽嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is '歷史'. 'Records of the Three Kingdoms' is a work by Chen Shou, categorized as 歷史.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "《三國志》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Records of the Three Kingdoms'?",
+    "options_zh": [
+      "郭靖",
+      "令狐沖",
+      "曹操",
+      "張無忌"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Linghu Chong",
+      "Cao Cao",
+      "Zhang Wuji"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「曹操」。《三國志》係陳壽嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'Cao Cao'. 'Records of the Three Kingdoms' is a work by Chen Shou, categorized as 歷史.",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《三國志》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Records of the Three Kingdoms'?",
+    "options_zh": [
+      "張無忌",
+      "郭靖",
+      "曹操",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Zhang Wuji",
+      "Guo Jing",
+      "Cao Cao",
+      "Linghu Chong"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「曹操」。《三國志》係陳壽嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'Cao Cao'. 'Records of the Three Kingdoms' is a work by Chen Shou, categorized as 歷史.",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_zh": "《三國志》大約喺邊年出版？",
+    "question_en": "In which year was 'Records of the Three Kingdoms' approximately published?",
+    "options_zh": [
+      "270",
+      "280",
+      "260",
+      "290"
+    ],
+    "options_en": [
+      "270",
+      "280",
+      "260",
+      "290"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「280」。《三國志》係陳壽嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is '280'. 'Records of the Three Kingdoms' is a work by Chen Shou, categorized as 歷史.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《三國志》？",
+    "question_en": "Which one is 'Records of the Three Kingdoms'?",
+    "options_zh": [
+      "其他小說B",
+      "三國志",
+      "其他小說C",
+      "其他小說A"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Records of the Three Kingdoms",
+      "Other Novel C",
+      "Other Novel A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「三國志」。《三國志》係陳壽嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'Records of the Three Kingdoms'. 'Records of the Three Kingdoms' is a work by Chen Shou, categorized as 歷史.",
+    "difficulty": 3
+  },
+  {
+    "id": 17,
+    "question_zh": "《三國志》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Records of the Three Kingdoms' belong to?",
+    "options_zh": [
+      "推理",
+      "奇幻",
+      "historical",
+      "文學"
+    ],
+    "options_en": [
+      "Mystery",
+      "Fantasy",
+      "historical",
+      "Literary"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「historical」。《三國志》係陳壽嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'historical'. 'Records of the Three Kingdoms' is a work by Chen Shou, categorized as 歷史.",
+    "difficulty": 1
   }
 ]

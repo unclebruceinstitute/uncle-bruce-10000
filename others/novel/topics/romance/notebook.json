@@ -4,58 +4,58 @@
     "question_zh": "以下邊本係《手札情緣》？",
     "question_en": "Which one is 'The Notebook'?",
     "options_zh": [
-      "手札情緣",
-      "其他小說B",
       "其他小說A",
-      "其他小說C"
+      "手札情緣",
+      "其他小說C",
+      "其他小說B"
     ],
     "options_en": [
-      "The Notebook",
-      "Other Novel B",
       "Other Novel A",
-      "Other Novel C"
+      "The Notebook",
+      "Other Novel C",
+      "Other Novel B"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「手札情緣」。",
     "explanation_en": "The correct answer is 'The Notebook'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《手札情緣》嘅作者係邊個？",
     "question_en": "Who wrote 'The Notebook'?",
     "options_zh": [
-      "尼古拉斯·史巴克",
       "其他作者B",
       "其他作者A",
+      "尼古拉斯·史巴克",
       "其他作者C"
     ],
     "options_en": [
-      "Nicholas Sparks",
       "Author B",
       "Author A",
+      "Nicholas Sparks",
       "Author C"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「尼古拉斯·史巴克」。",
     "explanation_en": "The correct answer is 'Nicholas Sparks'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《手札情緣》係邊年出版嘅？",
     "question_en": "What year was 'The Notebook' published?",
     "options_zh": [
-      "1993年",
       "2001年",
+      "1994年",
       "1996年",
-      "1994年"
+      "1993年"
     ],
     "options_en": [
-      "1993",
       "2001",
+      "1994",
       "1996",
-      "1994"
+      "1993"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「1996年」。",
@@ -63,70 +63,70 @@
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《手札情緣》係邊國作品？",
     "question_en": "Which country is 'The Notebook' from?",
     "options_zh": [
       "德國",
       "韓國",
-      "中國",
-      "法國"
+      "法國",
+      "中國"
     ],
     "options_en": [
       "Germany",
       "South Korea",
-      "China",
-      "France"
+      "France",
+      "China"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《手札情緣》主要講咩？",
     "question_en": "What is 'The Notebook' mainly about?",
     "options_zh": [
-      "體育競技",
-      "科幻太空",
       "財經商戰",
-      "愛情故事同人物關係"
+      "科幻太空",
+      "愛情故事同人物關係",
+      "體育競技"
     ],
     "options_en": [
-      "Sports",
-      "Sci-fi",
       "Business",
-      "Love story"
+      "Sci-fi",
+      "Love story",
+      "Sports"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「愛情故事同人物關係」。",
     "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《手札情緣》入面有咩角色？",
     "question_en": "What characters are in 'The Notebook'?",
     "options_zh": [
-      "動物",
       "主要角色",
-      "機械人",
-      "外星人"
+      "動物",
+      "外星人",
+      "機械人"
     ],
     "options_en": [
-      "Animals",
       "Main characters",
-      "Robots",
-      "Aliens"
+      "Animals",
+      "Aliens",
+      "Robots"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《手札情緣》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Notebook' set?",
     "options_zh": [
@@ -147,45 +147,213 @@
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《手札情緣》係咪好受歡迎？",
     "question_en": "Is 'The Notebook' popular?",
     "options_zh": [
-      "只喺特定地區流行",
-      "已經過氣",
+      "係，非常受歡迎",
       "唔係，好冷門",
-      "係，非常受歡迎"
+      "只喺特定地區流行",
+      "已經過氣"
     ],
     "options_en": [
-      "Only popular locally",
-      "Outdated",
+      "Yes, very popular",
       "No, very niche",
-      "Yes, very popular"
+      "Only popular locally",
+      "Outdated"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《手札情緣》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'The Notebook'?",
     "options_zh": [
-      "法國人",
+      "中國人",
       "韓國人",
       "德國人",
-      "中國人"
+      "法國人"
     ],
     "options_en": [
-      "French",
+      "Chinese",
       "Korean",
       "German",
-      "Chinese"
+      "French"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《忘了我是誰》嘅作者係邊個？",
+    "question_en": "Who wrote 'The Notebook'?",
+    "options_zh": [
+      "魯迅",
+      "尼可拉斯·史派克",
+      "金庸",
+      "古龍"
+    ],
+    "options_en": [
+      "Lu Xun",
+      "Nicholas Sparks",
+      "Jin Yong",
+      "Gu Long"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「尼可拉斯·史派克」。《忘了我是誰》係尼可拉斯·史派克嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'Nicholas Sparks'. 'The Notebook' is a work by Nicholas Sparks, categorized as 愛情.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《忘了我是誰》？",
+    "question_en": "Which author wrote 'The Notebook'?",
+    "options_zh": [
+      "尼可拉斯·史派克",
+      "魯迅",
+      "古龍",
+      "金庸"
+    ],
+    "options_en": [
+      "Nicholas Sparks",
+      "Lu Xun",
+      "Gu Long",
+      "Jin Yong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「尼可拉斯·史派克」。《忘了我是誰》係尼可拉斯·史派克嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'Nicholas Sparks'. 'The Notebook' is a work by Nicholas Sparks, categorized as 愛情.",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question_zh": "《忘了我是誰》屬於咩類型？",
+    "question_en": "What genre is 'The Notebook'?",
+    "options_zh": [
+      "青春",
+      "文學",
+      "愛情",
+      "浪漫"
+    ],
+    "options_en": [
+      "青春",
+      "文學",
+      "愛情",
+      "浪漫"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「愛情」。《忘了我是誰》係尼可拉斯·史派克嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is '愛情'. 'The Notebook' is a work by Nicholas Sparks, categorized as 愛情.",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_zh": "《忘了我是誰》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'The Notebook'?",
+    "options_zh": [
+      "郭靖",
+      "令狐沖",
+      "張無忌",
+      "諾亞"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Linghu Chong",
+      "Zhang Wuji",
+      "Noah"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「諾亞」。《忘了我是誰》係尼可拉斯·史派克嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'Noah'. 'The Notebook' is a work by Nicholas Sparks, categorized as 愛情.",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《忘了我是誰》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'The Notebook'?",
+    "options_zh": [
+      "令狐沖",
+      "郭靖",
+      "張無忌",
+      "諾亞"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Guo Jing",
+      "Zhang Wuji",
+      "Noah"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「諾亞」。《忘了我是誰》係尼可拉斯·史派克嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'Noah'. 'The Notebook' is a work by Nicholas Sparks, categorized as 愛情.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《忘了我是誰》大約喺邊年出版？",
+    "question_en": "In which year was 'The Notebook' approximately published?",
+    "options_zh": [
+      "1996",
+      "1986",
+      "2006",
+      "1976"
+    ],
+    "options_en": [
+      "1996",
+      "1986",
+      "2006",
+      "1976"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「1996」。《忘了我是誰》係尼可拉斯·史派克嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is '1996'. 'The Notebook' is a work by Nicholas Sparks, categorized as 愛情.",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《忘了我是誰》？",
+    "question_en": "Which one is 'The Notebook'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說B",
+      "其他小說C",
+      "忘了我是誰"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel B",
+      "Other Novel C",
+      "The Notebook"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「忘了我是誰」。《忘了我是誰》係尼可拉斯·史派克嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'The Notebook'. 'The Notebook' is a work by Nicholas Sparks, categorized as 愛情.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《忘了我是誰》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'The Notebook' belong to?",
+    "options_zh": [
+      "文學",
+      "romance",
+      "奇幻",
+      "歷史"
+    ],
+    "options_en": [
+      "Literary",
+      "romance",
+      "Fantasy",
+      "Historical"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「romance」。《忘了我是誰》係尼可拉斯·史派克嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'romance'. 'The Notebook' is a work by Nicholas Sparks, categorized as 愛情.",
+    "difficulty": 1
   }
 ]

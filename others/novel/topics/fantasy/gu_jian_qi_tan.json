@@ -4,24 +4,24 @@
     "question_zh": "以下邊本係《古劍奇譚》？",
     "question_en": "Which one is 'Swords of Legends'?",
     "options_zh": [
+      "其他小說C",
       "古劍奇譚",
-      "其他小說A",
       "其他小說B",
-      "其他小說C"
+      "其他小說A"
     ],
     "options_en": [
+      "Other Novel C",
       "Swords of Legends",
-      "Other Novel A",
       "Other Novel B",
-      "Other Novel C"
+      "Other Novel A"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「古劍奇譚」。",
     "explanation_en": "The correct answer is 'Swords of Legends'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《古劍奇譚》嘅作者係邊個？",
     "question_en": "Who wrote 'Swords of Legends'?",
     "options_zh": [
@@ -42,82 +42,82 @@
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《古劍奇譚》係邊年出版嘅？",
     "question_en": "What year was 'Swords of Legends' published?",
     "options_zh": [
-      "2010年",
       "2015年",
+      "2010年",
       "2005年",
       "2008年"
     ],
     "options_en": [
-      "2010",
       "2015",
+      "2010",
       "2005",
       "2008"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「2010年」。",
     "explanation_en": "The correct answer is '2010'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《古劍奇譚》係邊國作品？",
     "question_en": "Which country is 'Swords of Legends' from?",
     "options_zh": [
-      "法國",
-      "中國",
       "德國",
-      "韓國"
+      "韓國",
+      "中國",
+      "法國"
     ],
     "options_en": [
-      "France",
-      "China",
       "Germany",
-      "South Korea"
+      "South Korea",
+      "China",
+      "France"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《古劍奇譚》主要講咩？",
     "question_en": "What is 'Swords of Legends' mainly about?",
     "options_zh": [
-      "體育競技",
       "奇幻冒險同超自然元素",
-      "財經商戰",
-      "科幻太空"
+      "科幻太空",
+      "體育競技",
+      "財經商戰"
     ],
     "options_en": [
-      "Sports",
       "Fantasy adventure",
-      "Business",
-      "Sci-fi"
+      "Sci-fi",
+      "Sports",
+      "Business"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「奇幻冒險同超自然元素」。",
     "explanation_en": "The correct answer is 'Fantasy adventure'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《古劍奇譚》入面有咩角色？",
     "question_en": "What characters are in 'Swords of Legends'?",
     "options_zh": [
-      "動物",
       "外星人",
       "機械人",
+      "動物",
       "修仙者/魔法師"
     ],
     "options_en": [
-      "Animals",
       "Aliens",
       "Robots",
+      "Animals",
       "Cultivators/Wizards"
     ],
     "answer": 3,
@@ -126,66 +126,234 @@
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《古劍奇譚》嘅故事背景喺邊度？",
     "question_en": "Where is 'Swords of Legends' set?",
     "options_zh": [
-      "未來太空",
-      "虛構世界",
+      "歐洲中世紀",
       "虛擬世界",
-      "歐洲中世紀"
+      "未來太空",
+      "虛構世界"
     ],
     "options_en": [
-      "Future space",
-      "Fictional world",
+      "Medieval Europe",
       "Virtual world",
-      "Medieval Europe"
+      "Future space",
+      "Fictional world"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「虛構世界」。",
     "explanation_en": "The correct answer is 'Fictional world'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《古劍奇譚》係咪好受歡迎？",
     "question_en": "Is 'Swords of Legends' popular?",
     "options_zh": [
+      "只喺特定地區流行",
       "已經過氣",
       "係，有一定讀者群",
-      "只喺特定地區流行",
       "唔係，好冷門"
     ],
     "options_en": [
+      "Only popular locally",
       "Outdated",
       "Yes, has a readership",
-      "Only popular locally",
       "No, very niche"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《古劍奇譚》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Swords of Legends'?",
     "options_zh": [
+      "韓國人",
       "德國人",
       "法國人",
-      "韓國人",
       "中國人"
     ],
     "options_en": [
+      "Korean",
       "German",
       "French",
-      "Korean",
       "Chinese"
     ],
     "answer": 3,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《古劍奇譚》嘅作者係邊個？",
+    "question_en": "Who wrote 'The Legend of the Ancient Sword'?",
+    "options_zh": [
+      "古龍",
+      "魯迅",
+      "某樹",
+      "金庸"
+    ],
+    "options_en": [
+      "Gu Long",
+      "Lu Xun",
+      "Mou Shu",
+      "Jin Yong"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「某樹」。《古劍奇譚》係某樹嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is 'Mou Shu'. 'The Legend of the Ancient Sword' is a work by Mou Shu, categorized as 仙俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《古劍奇譚》？",
+    "question_en": "Which author wrote 'The Legend of the Ancient Sword'?",
+    "options_zh": [
+      "魯迅",
+      "金庸",
+      "古龍",
+      "某樹"
+    ],
+    "options_en": [
+      "Lu Xun",
+      "Jin Yong",
+      "Gu Long",
+      "Mou Shu"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「某樹」。《古劍奇譚》係某樹嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is 'Mou Shu'. 'The Legend of the Ancient Sword' is a work by Mou Shu, categorized as 仙俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question_zh": "《古劍奇譚》屬於咩類型？",
+    "question_en": "What genre is 'The Legend of the Ancient Sword'?",
+    "options_zh": [
+      "仙俠",
+      "奇幻",
+      "玄幻",
+      "武俠"
+    ],
+    "options_en": [
+      "仙俠",
+      "奇幻",
+      "玄幻",
+      "武俠"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「仙俠」。《古劍奇譚》係某樹嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is '仙俠'. 'The Legend of the Ancient Sword' is a work by Mou Shu, categorized as 仙俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_zh": "《古劍奇譚》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'The Legend of the Ancient Sword'?",
+    "options_zh": [
+      "令狐沖",
+      "百里屠蘇",
+      "郭靖",
+      "張無忌"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Baili Tusu",
+      "Guo Jing",
+      "Zhang Wuji"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「百里屠蘇」。《古劍奇譚》係某樹嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is 'Baili Tusu'. 'The Legend of the Ancient Sword' is a work by Mou Shu, categorized as 仙俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《古劍奇譚》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'The Legend of the Ancient Sword'?",
+    "options_zh": [
+      "張無忌",
+      "令狐沖",
+      "郭靖",
+      "百里屠蘇"
+    ],
+    "options_en": [
+      "Zhang Wuji",
+      "Linghu Chong",
+      "Guo Jing",
+      "Baili Tusu"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「百里屠蘇」。《古劍奇譚》係某樹嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is 'Baili Tusu'. 'The Legend of the Ancient Sword' is a work by Mou Shu, categorized as 仙俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《古劍奇譚》大約喺邊年出版？",
+    "question_en": "In which year was 'The Legend of the Ancient Sword' approximately published?",
+    "options_zh": [
+      "2010",
+      "1990",
+      "2020",
+      "2000"
+    ],
+    "options_en": [
+      "2010",
+      "1990",
+      "2020",
+      "2000"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「2010」。《古劍奇譚》係某樹嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is '2010'. 'The Legend of the Ancient Sword' is a work by Mou Shu, categorized as 仙俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《古劍奇譚》？",
+    "question_en": "Which one is 'The Legend of the Ancient Sword'?",
+    "options_zh": [
+      "其他小說A",
+      "古劍奇譚",
+      "其他小說C",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "The Legend of the Ancient Sword",
+      "Other Novel C",
+      "Other Novel B"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「古劍奇譚」。《古劍奇譚》係某樹嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is 'The Legend of the Ancient Sword'. 'The Legend of the Ancient Sword' is a work by Mou Shu, categorized as 仙俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《古劍奇譚》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'The Legend of the Ancient Sword' belong to?",
+    "options_zh": [
+      "文學",
+      "推理",
+      "歷史",
+      "fantasy"
+    ],
+    "options_en": [
+      "Literary",
+      "Mystery",
+      "Historical",
+      "fantasy"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「fantasy」。《古劍奇譚》係某樹嘅作品，屬於仙俠類型。",
+    "explanation_en": "The correct answer is 'fantasy'. 'The Legend of the Ancient Sword' is a work by Mou Shu, categorized as 仙俠.",
+    "difficulty": 3
   }
 ]

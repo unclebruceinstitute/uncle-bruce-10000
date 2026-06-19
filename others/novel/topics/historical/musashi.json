@@ -4,16 +4,16 @@
     "question_zh": "以下邊本係《宮本武藏》？",
     "question_en": "Which one is 'Musashi'?",
     "options_zh": [
-      "其他小說A",
-      "宮本武藏",
       "其他小說B",
-      "其他小說C"
+      "宮本武藏",
+      "其他小說C",
+      "其他小說A"
     ],
     "options_en": [
-      "Other Novel A",
-      "Musashi",
       "Other Novel B",
-      "Other Novel C"
+      "Musashi",
+      "Other Novel C",
+      "Other Novel A"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「宮本武藏」。",
@@ -21,19 +21,19 @@
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《宮本武藏》嘅作者係邊個？",
     "question_en": "Who wrote 'Musashi'?",
     "options_zh": [
-      "其他作者C",
       "其他作者A",
       "其他作者B",
+      "其他作者C",
       "吉川英治"
     ],
     "options_en": [
-      "Author C",
       "Author A",
       "Author B",
+      "Author C",
       "Eiji Yoshikawa"
     ],
     "answer": 3,
@@ -42,39 +42,39 @@
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《宮本武藏》係邊年出版嘅？",
     "question_en": "What year was 'Musashi' published?",
     "options_zh": [
       "1932年",
+      "1940年",
       "1935年",
-      "1938年",
-      "1940年"
+      "1938年"
     ],
     "options_en": [
       "1932",
+      "1940",
       "1935",
-      "1938",
-      "1940"
+      "1938"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「1935年」。",
     "explanation_en": "The correct answer is '1935'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《宮本武藏》係邊國作品？",
     "question_en": "Which country is 'Musashi' from?",
     "options_zh": [
-      "韓國",
       "法國",
+      "韓國",
       "德國",
       "中國"
     ],
     "options_en": [
-      "South Korea",
       "France",
+      "South Korea",
       "Germany",
       "China"
     ],
@@ -84,20 +84,20 @@
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《宮本武藏》主要講咩？",
     "question_en": "What is 'Musashi' mainly about?",
     "options_zh": [
+      "財經商戰",
       "科幻太空",
-      "體育競技",
       "歷史故事同時代變遷",
-      "財經商戰"
+      "體育競技"
     ],
     "options_en": [
+      "Business",
       "Sci-fi",
-      "Sports",
       "Historical story",
-      "Business"
+      "Sports"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
@@ -105,87 +105,255 @@
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《宮本武藏》入面有咩角色？",
     "question_en": "What characters are in 'Musashi'?",
     "options_zh": [
-      "動物",
-      "外星人",
       "主要角色",
-      "機械人"
+      "機械人",
+      "動物",
+      "外星人"
     ],
     "options_en": [
-      "Animals",
-      "Aliens",
       "Main characters",
-      "Robots"
+      "Robots",
+      "Animals",
+      "Aliens"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《宮本武藏》嘅故事背景喺邊度？",
     "question_en": "Where is 'Musashi' set?",
     "options_zh": [
-      "虛擬世界",
       "古代中國",
+      "虛擬世界",
       "歐洲中世紀",
       "未來太空"
     ],
     "options_en": [
-      "Virtual world",
       "Ancient China",
+      "Virtual world",
       "Medieval Europe",
       "Future space"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「古代中國」。",
     "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《宮本武藏》係咪好受歡迎？",
     "question_en": "Is 'Musashi' popular?",
     "options_zh": [
-      "係，非常受歡迎",
       "只喺特定地區流行",
+      "係，非常受歡迎",
       "唔係，好冷門",
       "已經過氣"
     ],
     "options_en": [
-      "Yes, very popular",
       "Only popular locally",
+      "Yes, very popular",
       "No, very niche",
       "Outdated"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《宮本武藏》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Musashi'?",
     "options_zh": [
+      "韓國人",
       "法國人",
-      "中國人",
       "德國人",
-      "韓國人"
+      "中國人"
     ],
     "options_en": [
+      "Korean",
       "French",
-      "Chinese",
       "German",
-      "Korean"
+      "Chinese"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《宮本武藏》嘅作者係邊個？",
+    "question_en": "Who wrote 'Musashi'?",
+    "options_zh": [
+      "古龍",
+      "吉川英治",
+      "金庸",
+      "魯迅"
+    ],
+    "options_en": [
+      "Gu Long",
+      "Eiji Yoshikawa",
+      "Jin Yong",
+      "Lu Xun"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「吉川英治」。《宮本武藏》係吉川英治嘅作品，屬於歷史武俠類型。",
+    "explanation_en": "The correct answer is 'Eiji Yoshikawa'. 'Musashi' is a work by Eiji Yoshikawa, categorized as 歷史武俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《宮本武藏》？",
+    "question_en": "Which author wrote 'Musashi'?",
+    "options_zh": [
+      "魯迅",
+      "金庸",
+      "古龍",
+      "吉川英治"
+    ],
+    "options_en": [
+      "Lu Xun",
+      "Jin Yong",
+      "Gu Long",
+      "Eiji Yoshikawa"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「吉川英治」。《宮本武藏》係吉川英治嘅作品，屬於歷史武俠類型。",
+    "explanation_en": "The correct answer is 'Eiji Yoshikawa'. 'Musashi' is a work by Eiji Yoshikawa, categorized as 歷史武俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question_zh": "《宮本武藏》屬於咩類型？",
+    "question_en": "What genre is 'Musashi'?",
+    "options_zh": [
+      "文學",
+      "動作",
+      "科幻",
+      "歷史武俠"
+    ],
+    "options_en": [
+      "文學",
+      "動作",
+      "科幻",
+      "歷史武俠"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「歷史武俠」。《宮本武藏》係吉川英治嘅作品，屬於歷史武俠類型。",
+    "explanation_en": "The correct answer is '歷史武俠'. 'Musashi' is a work by Eiji Yoshikawa, categorized as 歷史武俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "《宮本武藏》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Musashi'?",
+    "options_zh": [
+      "郭靖",
+      "宮本武藏",
+      "張無忌",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Miyamoto Musashi",
+      "Zhang Wuji",
+      "Linghu Chong"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「宮本武藏」。《宮本武藏》係吉川英治嘅作品，屬於歷史武俠類型。",
+    "explanation_en": "The correct answer is 'Miyamoto Musashi'. 'Musashi' is a work by Eiji Yoshikawa, categorized as 歷史武俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《宮本武藏》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Musashi'?",
+    "options_zh": [
+      "令狐沖",
+      "張無忌",
+      "郭靖",
+      "宮本武藏"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Zhang Wuji",
+      "Guo Jing",
+      "Miyamoto Musashi"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「宮本武藏」。《宮本武藏》係吉川英治嘅作品，屬於歷史武俠類型。",
+    "explanation_en": "The correct answer is 'Miyamoto Musashi'. 'Musashi' is a work by Eiji Yoshikawa, categorized as 歷史武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_zh": "《宮本武藏》大約喺邊年出版？",
+    "question_en": "In which year was 'Musashi' approximately published?",
+    "options_zh": [
+      "1945",
+      "1935",
+      "1925",
+      "1915"
+    ],
+    "options_en": [
+      "1945",
+      "1935",
+      "1925",
+      "1915"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「1935」。《宮本武藏》係吉川英治嘅作品，屬於歷史武俠類型。",
+    "explanation_en": "The correct answer is '1935'. 'Musashi' is a work by Eiji Yoshikawa, categorized as 歷史武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《宮本武藏》？",
+    "question_en": "Which one is 'Musashi'?",
+    "options_zh": [
+      "其他小說B",
+      "其他小說A",
+      "其他小說C",
+      "宮本武藏"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Other Novel A",
+      "Other Novel C",
+      "Musashi"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「宮本武藏」。《宮本武藏》係吉川英治嘅作品，屬於歷史武俠類型。",
+    "explanation_en": "The correct answer is 'Musashi'. 'Musashi' is a work by Eiji Yoshikawa, categorized as 歷史武俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《宮本武藏》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Musashi' belong to?",
+    "options_zh": [
+      "推理",
+      "文學",
+      "奇幻",
+      "historical"
+    ],
+    "options_en": [
+      "Mystery",
+      "Literary",
+      "Fantasy",
+      "historical"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「historical」。《宮本武藏》係吉川英治嘅作品，屬於歷史武俠類型。",
+    "explanation_en": "The correct answer is 'historical'. 'Musashi' is a work by Eiji Yoshikawa, categorized as 歷史武俠.",
+    "difficulty": 3
   }
 ]

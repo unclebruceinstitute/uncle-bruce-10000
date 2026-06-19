@@ -4,188 +4,356 @@
     "question_zh": "以下邊本係《圍城》？",
     "question_en": "Which one is 'Fortress Besieged'?",
     "options_zh": [
-      "其他小說C",
       "圍城",
-      "其他小說A",
-      "其他小說B"
+      "其他小說B",
+      "其他小說C",
+      "其他小說A"
     ],
     "options_en": [
-      "Other Novel C",
       "Fortress Besieged",
-      "Other Novel A",
-      "Other Novel B"
+      "Other Novel B",
+      "Other Novel C",
+      "Other Novel A"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「圍城」。",
     "explanation_en": "The correct answer is 'Fortress Besieged'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《圍城》嘅作者係邊個？",
     "question_en": "Who wrote 'Fortress Besieged'?",
     "options_zh": [
-      "其他作者A",
       "其他作者C",
       "錢鍾書",
+      "其他作者A",
       "其他作者B"
     ],
     "options_en": [
-      "Author A",
       "Author C",
       "Qian Zhongshu",
+      "Author A",
       "Author B"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「錢鍾書」。",
     "explanation_en": "The correct answer is 'Qian Zhongshu'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《圍城》係邊年出版嘅？",
     "question_en": "What year was 'Fortress Besieged' published?",
     "options_zh": [
       "1949年",
+      "1952年",
       "1942年",
-      "1947年",
-      "1952年"
+      "1947年"
     ],
     "options_en": [
       "1949",
+      "1952",
       "1942",
-      "1947",
-      "1952"
+      "1947"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「1947年」。",
     "explanation_en": "The correct answer is '1947'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《圍城》係邊國作品？",
     "question_en": "Which country is 'Fortress Besieged' from?",
     "options_zh": [
-      "法國",
       "中國",
+      "德國",
       "韓國",
-      "德國"
+      "法國"
     ],
     "options_en": [
-      "France",
       "China",
+      "Germany",
       "South Korea",
-      "Germany"
+      "France"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《圍城》主要講咩？",
     "question_en": "What is 'Fortress Besieged' mainly about?",
     "options_zh": [
-      "財經商戰",
-      "科幻太空",
       "體育競技",
-      "現實生活同文學表達"
+      "財經商戰",
+      "現實生活同文學表達",
+      "科幻太空"
     ],
     "options_en": [
-      "Business",
-      "Sci-fi",
       "Sports",
-      "Real life and literary"
+      "Business",
+      "Real life and literary",
+      "Sci-fi"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
     "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《圍城》入面有咩角色？",
     "question_en": "What characters are in 'Fortress Besieged'?",
     "options_zh": [
-      "外星人",
       "機械人",
       "動物",
-      "主要角色"
+      "主要角色",
+      "外星人"
     ],
     "options_en": [
-      "Aliens",
       "Robots",
       "Animals",
-      "Main characters"
+      "Main characters",
+      "Aliens"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《圍城》嘅故事背景喺邊度？",
     "question_en": "Where is 'Fortress Besieged' set?",
     "options_zh": [
-      "未來太空",
+      "歐洲中世紀",
       "虛擬世界",
-      "中國/亞洲",
-      "歐洲中世紀"
+      "未來太空",
+      "中國/亞洲"
     ],
     "options_en": [
-      "Future space",
+      "Medieval Europe",
       "Virtual world",
-      "China/Asia",
-      "Medieval Europe"
+      "Future space",
+      "China/Asia"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《圍城》係咪好受歡迎？",
     "question_en": "Is 'Fortress Besieged' popular?",
     "options_zh": [
+      "係，非常受歡迎",
       "只喺特定地區流行",
       "唔係，好冷門",
-      "係，非常受歡迎",
       "已經過氣"
     ],
     "options_en": [
+      "Yes, very popular",
       "Only popular locally",
       "No, very niche",
-      "Yes, very popular",
       "Outdated"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《圍城》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Fortress Besieged'?",
     "options_zh": [
-      "德國人",
+      "中國人",
       "韓國人",
-      "法國人",
-      "中國人"
+      "德國人",
+      "法國人"
     ],
     "options_en": [
-      "German",
+      "Chinese",
       "Korean",
-      "French",
-      "Chinese"
+      "German",
+      "French"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《圍城》嘅作者係邊個？",
+    "question_en": "Who wrote 'Fortress Besieged'?",
+    "options_zh": [
+      "金庸",
+      "古龍",
+      "錢鍾書",
+      "魯迅"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Gu Long",
+      "Qian Zhongshu",
+      "Lu Xun"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「錢鍾書」。《圍城》係錢鍾書嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Qian Zhongshu'. 'Fortress Besieged' is a work by Qian Zhongshu, categorized as 文學.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《圍城》？",
+    "question_en": "Which author wrote 'Fortress Besieged'?",
+    "options_zh": [
+      "金庸",
+      "古龍",
+      "魯迅",
+      "錢鍾書"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Gu Long",
+      "Lu Xun",
+      "Qian Zhongshu"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「錢鍾書」。《圍城》係錢鍾書嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Qian Zhongshu'. 'Fortress Besieged' is a work by Qian Zhongshu, categorized as 文學.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《圍城》屬於咩類型？",
+    "question_en": "What genre is 'Fortress Besieged'?",
+    "options_zh": [
+      "文學",
+      "哲學",
+      "歷史",
+      "古典"
+    ],
+    "options_en": [
+      "文學",
+      "哲學",
+      "歷史",
+      "古典"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「文學」。《圍城》係錢鍾書嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is '文學'. 'Fortress Besieged' is a work by Qian Zhongshu, categorized as 文學.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "《圍城》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Fortress Besieged'?",
+    "options_zh": [
+      "郭靖",
+      "方鴻漸",
+      "張無忌",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Fang Hongjian",
+      "Zhang Wuji",
+      "Linghu Chong"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「方鴻漸」。《圍城》係錢鍾書嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Fang Hongjian'. 'Fortress Besieged' is a work by Qian Zhongshu, categorized as 文學.",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_zh": "《圍城》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Fortress Besieged'?",
+    "options_zh": [
+      "令狐沖",
+      "郭靖",
+      "方鴻漸",
+      "張無忌"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Guo Jing",
+      "Fang Hongjian",
+      "Zhang Wuji"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「方鴻漸」。《圍城》係錢鍾書嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Fang Hongjian'. 'Fortress Besieged' is a work by Qian Zhongshu, categorized as 文學.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《圍城》大約喺邊年出版？",
+    "question_en": "In which year was 'Fortress Besieged' approximately published?",
+    "options_zh": [
+      "1947",
+      "1937",
+      "1927",
+      "1957"
+    ],
+    "options_en": [
+      "1947",
+      "1937",
+      "1927",
+      "1957"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「1947」。《圍城》係錢鍾書嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is '1947'. 'Fortress Besieged' is a work by Qian Zhongshu, categorized as 文學.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《圍城》？",
+    "question_en": "Which one is 'Fortress Besieged'?",
+    "options_zh": [
+      "其他小說C",
+      "其他小說A",
+      "其他小說B",
+      "圍城"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Novel A",
+      "Other Novel B",
+      "Fortress Besieged"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「圍城」。《圍城》係錢鍾書嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Fortress Besieged'. 'Fortress Besieged' is a work by Qian Zhongshu, categorized as 文學.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《圍城》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Fortress Besieged' belong to?",
+    "options_zh": [
+      "literary",
+      "奇幻",
+      "歷史",
+      "推理"
+    ],
+    "options_en": [
+      "literary",
+      "Fantasy",
+      "Historical",
+      "Mystery"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「literary」。《圍城》係錢鍾書嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'literary'. 'Fortress Besieged' is a work by Qian Zhongshu, categorized as 文學.",
+    "difficulty": 3
   }
 ]

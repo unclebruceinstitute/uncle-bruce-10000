@@ -4,188 +4,356 @@
     "question_zh": "以下邊本係《封神演義》？",
     "question_en": "Which one is 'Investiture of the Gods'?",
     "options_zh": [
-      "其他小說B",
       "封神演義",
       "其他小說A",
-      "其他小說C"
+      "其他小說C",
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel B",
       "Investiture of the Gods",
       "Other Novel A",
-      "Other Novel C"
+      "Other Novel C",
+      "Other Novel B"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「封神演義」。",
     "explanation_en": "The correct answer is 'Investiture of the Gods'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《封神演義》嘅作者係邊個？",
     "question_en": "Who wrote 'Investiture of the Gods'?",
     "options_zh": [
-      "許仲琳",
-      "其他作者B",
       "其他作者A",
+      "其他作者B",
+      "許仲琳",
       "其他作者C"
     ],
     "options_en": [
-      "Xu Zhonglin",
-      "Author B",
       "Author A",
+      "Author B",
+      "Xu Zhonglin",
       "Author C"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「許仲琳」。",
     "explanation_en": "The correct answer is 'Xu Zhonglin'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《封神演義》係邊年出版嘅？",
     "question_en": "What year was 'Investiture of the Gods' published?",
     "options_zh": [
-      "1552年",
+      "1555年",
       "1550年",
       "1553年",
-      "1555年"
+      "1552年"
     ],
     "options_en": [
-      "1552",
+      "1555",
       "1550",
       "1553",
-      "1555"
+      "1552"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「1555年」。",
     "explanation_en": "The correct answer is '1555'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《封神演義》係邊國作品？",
     "question_en": "Which country is 'Investiture of the Gods' from?",
     "options_zh": [
-      "法國",
       "韓國",
+      "中國",
       "德國",
-      "中國"
+      "法國"
     ],
     "options_en": [
-      "France",
       "South Korea",
+      "China",
       "Germany",
-      "China"
+      "France"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《封神演義》主要講咩？",
     "question_en": "What is 'Investiture of the Gods' mainly about?",
     "options_zh": [
-      "歷史故事同時代變遷",
       "體育競技",
-      "科幻太空",
-      "財經商戰"
+      "歷史故事同時代變遷",
+      "財經商戰",
+      "科幻太空"
     ],
     "options_en": [
-      "Historical story",
       "Sports",
-      "Sci-fi",
-      "Business"
+      "Historical story",
+      "Business",
+      "Sci-fi"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
     "explanation_en": "The correct answer is 'Historical story'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《封神演義》入面有咩角色？",
     "question_en": "What characters are in 'Investiture of the Gods'?",
     "options_zh": [
       "動物",
-      "主要角色",
+      "外星人",
       "機械人",
-      "外星人"
+      "主要角色"
     ],
     "options_en": [
       "Animals",
-      "Main characters",
+      "Aliens",
       "Robots",
-      "Aliens"
+      "Main characters"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《封神演義》嘅故事背景喺邊度？",
     "question_en": "Where is 'Investiture of the Gods' set?",
     "options_zh": [
       "歐洲中世紀",
       "虛擬世界",
-      "未來太空",
-      "古代中國"
+      "古代中國",
+      "未來太空"
     ],
     "options_en": [
       "Medieval Europe",
       "Virtual world",
-      "Future space",
-      "Ancient China"
+      "Ancient China",
+      "Future space"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「古代中國」。",
     "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《封神演義》係咪好受歡迎？",
     "question_en": "Is 'Investiture of the Gods' popular?",
     "options_zh": [
       "唔係，好冷門",
-      "係，有一定讀者群",
+      "只喺特定地區流行",
       "已經過氣",
-      "只喺特定地區流行"
+      "係，有一定讀者群"
     ],
     "options_en": [
       "No, very niche",
-      "Yes, has a readership",
+      "Only popular locally",
       "Outdated",
-      "Only popular locally"
+      "Yes, has a readership"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《封神演義》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Investiture of the Gods'?",
     "options_zh": [
-      "韓國人",
-      "中國人",
       "德國人",
-      "法國人"
+      "韓國人",
+      "法國人",
+      "中國人"
     ],
     "options_en": [
-      "Korean",
-      "Chinese",
       "German",
-      "French"
+      "Korean",
+      "French",
+      "Chinese"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《封神演義》嘅作者係邊個？",
+    "question_en": "Who wrote 'Investiture of the Gods'?",
+    "options_zh": [
+      "金庸",
+      "古龍",
+      "魯迅",
+      "許仲琳"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Gu Long",
+      "Lu Xun",
+      "Xu Zhonglin"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「許仲琳」。《封神演義》係許仲琳嘅作品，屬於神話類型。",
+    "explanation_en": "The correct answer is 'Xu Zhonglin'. 'Investiture of the Gods' is a work by Xu Zhonglin, categorized as 神話.",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《封神演義》？",
+    "question_en": "Which author wrote 'Investiture of the Gods'?",
+    "options_zh": [
+      "古龍",
+      "許仲琳",
+      "魯迅",
+      "金庸"
+    ],
+    "options_en": [
+      "Gu Long",
+      "Xu Zhonglin",
+      "Lu Xun",
+      "Jin Yong"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「許仲琳」。《封神演義》係許仲琳嘅作品，屬於神話類型。",
+    "explanation_en": "The correct answer is 'Xu Zhonglin'. 'Investiture of the Gods' is a work by Xu Zhonglin, categorized as 神話.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《封神演義》屬於咩類型？",
+    "question_en": "What genre is 'Investiture of the Gods'?",
+    "options_zh": [
+      "古典",
+      "奇幻",
+      "仙俠",
+      "神話"
+    ],
+    "options_en": [
+      "古典",
+      "奇幻",
+      "仙俠",
+      "神話"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「神話」。《封神演義》係許仲琳嘅作品，屬於神話類型。",
+    "explanation_en": "The correct answer is '神話'. 'Investiture of the Gods' is a work by Xu Zhonglin, categorized as 神話.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《封神演義》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Investiture of the Gods'?",
+    "options_zh": [
+      "姜子牙",
+      "郭靖",
+      "張無忌",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Jiang Ziya",
+      "Guo Jing",
+      "Zhang Wuji",
+      "Linghu Chong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「姜子牙」。《封神演義》係許仲琳嘅作品，屬於神話類型。",
+    "explanation_en": "The correct answer is 'Jiang Ziya'. 'Investiture of the Gods' is a work by Xu Zhonglin, categorized as 神話.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《封神演義》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Investiture of the Gods'?",
+    "options_zh": [
+      "令狐沖",
+      "郭靖",
+      "張無忌",
+      "姜子牙"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Guo Jing",
+      "Zhang Wuji",
+      "Jiang Ziya"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「姜子牙」。《封神演義》係許仲琳嘅作品，屬於神話類型。",
+    "explanation_en": "The correct answer is 'Jiang Ziya'. 'Investiture of the Gods' is a work by Xu Zhonglin, categorized as 神話.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《封神演義》大約喺邊年出版？",
+    "question_en": "In which year was 'Investiture of the Gods' approximately published?",
+    "options_zh": [
+      "1550",
+      "1540",
+      "1530",
+      "1560"
+    ],
+    "options_en": [
+      "1550",
+      "1540",
+      "1530",
+      "1560"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「1550」。《封神演義》係許仲琳嘅作品，屬於神話類型。",
+    "explanation_en": "The correct answer is '1550'. 'Investiture of the Gods' is a work by Xu Zhonglin, categorized as 神話.",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《封神演義》？",
+    "question_en": "Which one is 'Investiture of the Gods'?",
+    "options_zh": [
+      "其他小說C",
+      "封神演義",
+      "其他小說B",
+      "其他小說A"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Investiture of the Gods",
+      "Other Novel B",
+      "Other Novel A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「封神演義」。《封神演義》係許仲琳嘅作品，屬於神話類型。",
+    "explanation_en": "The correct answer is 'Investiture of the Gods'. 'Investiture of the Gods' is a work by Xu Zhonglin, categorized as 神話.",
+    "difficulty": 3
+  },
+  {
+    "id": 17,
+    "question_zh": "《封神演義》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Investiture of the Gods' belong to?",
+    "options_zh": [
+      "historical",
+      "文學",
+      "奇幻",
+      "推理"
+    ],
+    "options_en": [
+      "historical",
+      "Literary",
+      "Fantasy",
+      "Mystery"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「historical」。《封神演義》係許仲琳嘅作品，屬於神話類型。",
+    "explanation_en": "The correct answer is 'historical'. 'Investiture of the Gods' is a work by Xu Zhonglin, categorized as 神話.",
     "difficulty": 2
   }
 ]

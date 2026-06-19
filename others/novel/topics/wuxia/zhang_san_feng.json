@@ -5,187 +5,355 @@
     "question_en": "Which one is 'Taiji Zhang Sanfeng'?",
     "options_zh": [
       "其他小說A",
-      "太極張三丰",
       "其他小說B",
-      "其他小說C"
+      "其他小說C",
+      "太極張三丰"
     ],
     "options_en": [
       "Other Novel A",
-      "Taiji Zhang Sanfeng",
       "Other Novel B",
-      "Other Novel C"
+      "Other Novel C",
+      "Taiji Zhang Sanfeng"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「太極張三丰」。",
     "explanation_en": "The correct answer is 'Taiji Zhang Sanfeng'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《太極張三丰》嘅作者係邊個？",
     "question_en": "Who wrote 'Taiji Zhang Sanfeng'?",
     "options_zh": [
-      "古龍",
-      "其他作者A",
+      "其他作者B",
       "其他作者C",
-      "其他作者B"
+      "其他作者A",
+      "古龍"
     ],
     "options_en": [
-      "Gu Long",
-      "Author A",
+      "Author B",
       "Author C",
-      "Author B"
+      "Author A",
+      "Gu Long"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「古龍」。",
     "explanation_en": "The correct answer is 'Gu Long'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《太極張三丰》係邊年出版嘅？",
     "question_en": "What year was 'Taiji Zhang Sanfeng' published?",
     "options_zh": [
-      "1970年",
       "1967年",
       "1965年",
-      "1972年"
+      "1972年",
+      "1970年"
     ],
     "options_en": [
-      "1970",
       "1967",
       "1965",
-      "1972"
+      "1972",
+      "1970"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「1967年」。",
     "explanation_en": "The correct answer is '1967'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《太極張三丰》係邊國作品？",
     "question_en": "Which country is 'Taiji Zhang Sanfeng' from?",
     "options_zh": [
-      "韓國",
+      "法國",
       "德國",
-      "中國",
-      "法國"
+      "韓國",
+      "中國"
     ],
     "options_en": [
-      "South Korea",
+      "France",
       "Germany",
-      "China",
-      "France"
+      "South Korea",
+      "China"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《太極張三丰》主要講咩？",
     "question_en": "What is 'Taiji Zhang Sanfeng' mainly about?",
     "options_zh": [
-      "財經商戰",
       "江湖恩怨同武俠世界",
-      "科幻太空",
-      "體育競技"
+      "體育競技",
+      "財經商戰",
+      "科幻太空"
     ],
     "options_en": [
-      "Business",
       "Martial arts world",
-      "Sci-fi",
-      "Sports"
+      "Sports",
+      "Business",
+      "Sci-fi"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
     "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《太極張三丰》入面有咩角色？",
     "question_en": "What characters are in 'Taiji Zhang Sanfeng'?",
     "options_zh": [
-      "外星人",
-      "動物",
+      "武林高手",
       "機械人",
-      "武林高手"
+      "動物",
+      "外星人"
     ],
     "options_en": [
-      "Aliens",
-      "Animals",
+      "Martial arts masters",
       "Robots",
-      "Martial arts masters"
+      "Animals",
+      "Aliens"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「武林高手」。",
     "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《太極張三丰》嘅故事背景喺邊度？",
     "question_en": "Where is 'Taiji Zhang Sanfeng' set?",
     "options_zh": [
-      "未來太空",
+      "古代中國",
       "虛擬世界",
       "歐洲中世紀",
-      "古代中國"
+      "未來太空"
     ],
     "options_en": [
-      "Future space",
+      "Ancient China",
       "Virtual world",
       "Medieval Europe",
-      "Ancient China"
+      "Future space"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「古代中國」。",
     "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《太極張三丰》係咪好受歡迎？",
     "question_en": "Is 'Taiji Zhang Sanfeng' popular?",
     "options_zh": [
-      "係，有一定讀者群",
       "只喺特定地區流行",
-      "已經過氣",
-      "唔係，好冷門"
+      "係，有一定讀者群",
+      "唔係，好冷門",
+      "已經過氣"
     ],
     "options_en": [
-      "Yes, has a readership",
       "Only popular locally",
-      "Outdated",
-      "No, very niche"
+      "Yes, has a readership",
+      "No, very niche",
+      "Outdated"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《太極張三丰》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Taiji Zhang Sanfeng'?",
     "options_zh": [
-      "中國人",
+      "法國人",
       "德國人",
-      "韓國人",
-      "法國人"
+      "中國人",
+      "韓國人"
     ],
     "options_en": [
-      "Chinese",
+      "French",
       "German",
-      "Korean",
-      "French"
+      "Chinese",
+      "Korean"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《張三丰》嘅作者係邊個？",
+    "question_en": "Who wrote 'Zhang Sanfeng'?",
+    "options_zh": [
+      "魯迅",
+      "未知",
+      "金庸",
+      "古龍"
+    ],
+    "options_en": [
+      "Lu Xun",
+      "Unknown",
+      "Jin Yong",
+      "Gu Long"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「未知」。《張三丰》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Zhang Sanfeng' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《張三丰》？",
+    "question_en": "Which author wrote 'Zhang Sanfeng'?",
+    "options_zh": [
+      "金庸",
+      "古龍",
+      "魯迅",
+      "未知"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Gu Long",
+      "Lu Xun",
+      "Unknown"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「未知」。《張三丰》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Zhang Sanfeng' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question_zh": "《張三丰》屬於咩類型？",
+    "question_en": "What genre is 'Zhang Sanfeng'?",
+    "options_zh": [
+      "動作",
+      "武俠",
+      "仙俠",
+      "歷史"
+    ],
+    "options_en": [
+      "動作",
+      "武俠",
+      "仙俠",
+      "歷史"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「武俠」。《張三丰》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is '武俠'. 'Zhang Sanfeng' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《張三丰》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Zhang Sanfeng'?",
+    "options_zh": [
+      "郭靖",
+      "令狐沖",
+      "張無忌",
+      "張三丰"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Linghu Chong",
+      "Zhang Wuji",
+      "Zhang Sanfeng"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「張三丰」。《張三丰》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Zhang Sanfeng'. 'Zhang Sanfeng' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_zh": "《張三丰》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Zhang Sanfeng'?",
+    "options_zh": [
+      "令狐沖",
+      "張三丰",
+      "張無忌",
+      "郭靖"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Zhang Sanfeng",
+      "Zhang Wuji",
+      "Guo Jing"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「張三丰」。《張三丰》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Zhang Sanfeng'. 'Zhang Sanfeng' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《張三丰》大約喺邊年出版？",
+    "question_en": "In which year was 'Zhang Sanfeng' approximately published?",
+    "options_zh": [
+      "1980",
+      "2000",
+      "1950",
+      "未知"
+    ],
+    "options_en": [
+      "1980",
+      "2000",
+      "1950",
+      "未知"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「未知」。《張三丰》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is '未知'. 'Zhang Sanfeng' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《張三丰》？",
+    "question_en": "Which one is 'Zhang Sanfeng'?",
+    "options_zh": [
+      "其他小說A",
+      "張三丰",
+      "其他小說B",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Zhang Sanfeng",
+      "Other Novel B",
+      "Other Novel C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「張三丰」。《張三丰》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Zhang Sanfeng'. 'Zhang Sanfeng' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《張三丰》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Zhang Sanfeng' belong to?",
+    "options_zh": [
+      "文學",
+      "奇幻",
+      "歷史",
+      "wuxia"
+    ],
+    "options_en": [
+      "Literary",
+      "Fantasy",
+      "Historical",
+      "wuxia"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「wuxia」。《張三丰》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'wuxia'. 'Zhang Sanfeng' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 3
   }
 ]

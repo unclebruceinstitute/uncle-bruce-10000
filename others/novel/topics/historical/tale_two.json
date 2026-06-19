@@ -4,188 +4,356 @@
     "question_zh": "以下邊本係《雙城記》？",
     "question_en": "Which one is 'A Tale of Two Cities'?",
     "options_zh": [
-      "雙城記",
       "其他小說C",
       "其他小說A",
-      "其他小說B"
+      "其他小說B",
+      "雙城記"
     ],
     "options_en": [
-      "Tale of Two Cities",
       "Other Novel C",
       "Other Novel A",
-      "Other Novel B"
+      "Other Novel B",
+      "Tale of Two Cities"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「雙城記」。",
     "explanation_en": "The correct answer is 'A Tale of Two Cities'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《雙城記》嘅作者係邊個？",
     "question_en": "Who wrote 'A Tale of Two Cities'?",
     "options_zh": [
-      "其他作者B",
       "狄更斯",
+      "其他作者A",
       "其他作者C",
-      "其他作者A"
+      "其他作者B"
     ],
     "options_en": [
-      "Author B",
       "Charles Dickens",
+      "Author A",
       "Author C",
-      "Author A"
+      "Author B"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「狄更斯」。",
     "explanation_en": "The correct answer is 'Charles Dickens'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《雙城記》係邊年出版嘅？",
     "question_en": "What year was 'A Tale of Two Cities' published?",
     "options_zh": [
-      "1859年",
-      "1856年",
       "1861年",
+      "1856年",
+      "1859年",
       "1864年"
     ],
     "options_en": [
-      "1859",
-      "1856",
       "1861",
+      "1856",
+      "1859",
       "1864"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「1859年」。",
     "explanation_en": "The correct answer is '1859'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《雙城記》係邊國作品？",
     "question_en": "Which country is 'A Tale of Two Cities' from?",
     "options_zh": [
-      "法國",
-      "韓國",
       "英國",
-      "德國"
+      "法國",
+      "德國",
+      "韓國"
     ],
     "options_en": [
-      "France",
-      "South Korea",
       "UK",
-      "Germany"
+      "France",
+      "Germany",
+      "South Korea"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「英國」。",
     "explanation_en": "The correct answer is 'UK'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《雙城記》主要講咩？",
     "question_en": "What is 'A Tale of Two Cities' mainly about?",
     "options_zh": [
-      "科幻太空",
-      "體育競技",
       "歷史故事同時代變遷",
-      "財經商戰"
+      "體育競技",
+      "財經商戰",
+      "科幻太空"
     ],
     "options_en": [
-      "Sci-fi",
-      "Sports",
       "Historical story",
-      "Business"
+      "Sports",
+      "Business",
+      "Sci-fi"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
     "explanation_en": "The correct answer is 'Historical story'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《雙城記》入面有咩角色？",
     "question_en": "What characters are in 'A Tale of Two Cities'?",
     "options_zh": [
-      "主要角色",
-      "外星人",
       "動物",
+      "外星人",
+      "主要角色",
       "機械人"
     ],
     "options_en": [
-      "Main characters",
-      "Aliens",
       "Animals",
+      "Aliens",
+      "Main characters",
       "Robots"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《雙城記》嘅故事背景喺邊度？",
     "question_en": "Where is 'A Tale of Two Cities' set?",
     "options_zh": [
-      "古代中國",
-      "虛擬世界",
       "歐洲中世紀",
-      "未來太空"
+      "古代中國",
+      "未來太空",
+      "虛擬世界"
     ],
     "options_en": [
-      "Ancient China",
-      "Virtual world",
       "Medieval Europe",
-      "Future space"
+      "Ancient China",
+      "Future space",
+      "Virtual world"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「古代中國」。",
     "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《雙城記》係咪好受歡迎？",
     "question_en": "Is 'A Tale of Two Cities' popular?",
     "options_zh": [
+      "只喺特定地區流行",
       "唔係，好冷門",
       "係，非常受歡迎",
-      "已經過氣",
-      "只喺特定地區流行"
+      "已經過氣"
     ],
     "options_en": [
+      "Only popular locally",
       "No, very niche",
       "Yes, very popular",
-      "Outdated",
-      "Only popular locally"
+      "Outdated"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《雙城記》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'A Tale of Two Cities'?",
     "options_zh": [
-      "英國人",
+      "法國人",
       "德國人",
-      "韓國人",
-      "法國人"
+      "英國人",
+      "韓國人"
     ],
     "options_en": [
-      "British",
+      "French",
       "German",
-      "Korean",
-      "French"
+      "British",
+      "Korean"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「英國人」。",
     "explanation_en": "The correct answer is 'British'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《雙城記》嘅作者係邊個？",
+    "question_en": "Who wrote 'A Tale of Two Cities'?",
+    "options_zh": [
+      "古龍",
+      "金庸",
+      "魯迅",
+      "查爾斯·狄更斯"
+    ],
+    "options_en": [
+      "Gu Long",
+      "Jin Yong",
+      "Lu Xun",
+      "Charles Dickens"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「查爾斯·狄更斯」。《雙城記》係查爾斯·狄更斯嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'Charles Dickens'. 'A Tale of Two Cities' is a work by Charles Dickens, categorized as 歷史.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《雙城記》？",
+    "question_en": "Which author wrote 'A Tale of Two Cities'?",
+    "options_zh": [
+      "查爾斯·狄更斯",
+      "金庸",
+      "古龍",
+      "魯迅"
+    ],
+    "options_en": [
+      "Charles Dickens",
+      "Jin Yong",
+      "Gu Long",
+      "Lu Xun"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「查爾斯·狄更斯」。《雙城記》係查爾斯·狄更斯嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'Charles Dickens'. 'A Tale of Two Cities' is a work by Charles Dickens, categorized as 歷史.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《雙城記》屬於咩類型？",
+    "question_en": "What genre is 'A Tale of Two Cities'?",
+    "options_zh": [
+      "古典",
+      "傳記",
+      "文學",
+      "歷史"
+    ],
+    "options_en": [
+      "古典",
+      "傳記",
+      "文學",
+      "歷史"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「歷史」。《雙城記》係查爾斯·狄更斯嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is '歷史'. 'A Tale of Two Cities' is a work by Charles Dickens, categorized as 歷史.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《雙城記》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'A Tale of Two Cities'?",
+    "options_zh": [
+      "西德尼·卡頓",
+      "郭靖",
+      "張無忌",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Sydney Carton",
+      "Guo Jing",
+      "Zhang Wuji",
+      "Linghu Chong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「西德尼·卡頓」。《雙城記》係查爾斯·狄更斯嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'Sydney Carton'. 'A Tale of Two Cities' is a work by Charles Dickens, categorized as 歷史.",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《雙城記》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'A Tale of Two Cities'?",
+    "options_zh": [
+      "張無忌",
+      "西德尼·卡頓",
+      "郭靖",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Zhang Wuji",
+      "Sydney Carton",
+      "Guo Jing",
+      "Linghu Chong"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「西德尼·卡頓」。《雙城記》係查爾斯·狄更斯嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'Sydney Carton'. 'A Tale of Two Cities' is a work by Charles Dickens, categorized as 歷史.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《雙城記》大約喺邊年出版？",
+    "question_en": "In which year was 'A Tale of Two Cities' approximately published?",
+    "options_zh": [
+      "1849",
+      "1839",
+      "1859",
+      "1869"
+    ],
+    "options_en": [
+      "1849",
+      "1839",
+      "1859",
+      "1869"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「1859」。《雙城記》係查爾斯·狄更斯嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is '1859'. 'A Tale of Two Cities' is a work by Charles Dickens, categorized as 歷史.",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《雙城記》？",
+    "question_en": "Which one is 'A Tale of Two Cities'?",
+    "options_zh": [
+      "其他小說B",
+      "其他小說A",
+      "其他小說C",
+      "雙城記"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Other Novel A",
+      "Other Novel C",
+      "A Tale of Two Cities"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「雙城記」。《雙城記》係查爾斯·狄更斯嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'A Tale of Two Cities'. 'A Tale of Two Cities' is a work by Charles Dickens, categorized as 歷史.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《雙城記》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'A Tale of Two Cities' belong to?",
+    "options_zh": [
+      "文學",
+      "historical",
+      "奇幻",
+      "推理"
+    ],
+    "options_en": [
+      "Literary",
+      "historical",
+      "Fantasy",
+      "Mystery"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「historical」。《雙城記》係查爾斯·狄更斯嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'historical'. 'A Tale of Two Cities' is a work by Charles Dickens, categorized as 歷史.",
+    "difficulty": 1
   }
 ]

@@ -4,36 +4,36 @@
     "question_zh": "以下邊本係《斗破蒼穹》？",
     "question_en": "Which one is 'Battle Through the Heavens'?",
     "options_zh": [
-      "斗破蒼穹",
+      "其他小說A",
       "其他小說C",
-      "其他小說B",
-      "其他小說A"
+      "斗破蒼穹",
+      "其他小說B"
     ],
     "options_en": [
-      "Battle Through the Heavens",
+      "Other Novel A",
       "Other Novel C",
-      "Other Novel B",
-      "Other Novel A"
+      "Battle Through the Heavens",
+      "Other Novel B"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「斗破蒼穹」。",
     "explanation_en": "The correct answer is 'Battle Through the Heavens'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《斗破蒼穹》嘅作者係邊個？",
     "question_en": "Who wrote 'Battle Through the Heavens'?",
     "options_zh": [
       "天蠶土豆",
-      "其他作者A",
       "其他作者B",
+      "其他作者A",
       "其他作者C"
     ],
     "options_en": [
       "Heavenly Silkworm Potato",
-      "Author A",
       "Author B",
+      "Author A",
       "Author C"
     ],
     "answer": 0,
@@ -42,83 +42,83 @@
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《斗破蒼穹》係邊年出版嘅？",
     "question_en": "What year was 'Battle Through the Heavens' published?",
     "options_zh": [
       "2014年",
-      "2009年",
+      "2007年",
       "2012年",
-      "2007年"
+      "2009年"
     ],
     "options_en": [
       "2014",
-      "2009",
+      "2007",
       "2012",
-      "2007"
+      "2009"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「2009年」。",
     "explanation_en": "The correct answer is '2009'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《斗破蒼穹》係邊國作品？",
     "question_en": "Which country is 'Battle Through the Heavens' from?",
     "options_zh": [
-      "法國",
       "德國",
-      "韓國",
-      "中國"
+      "中國",
+      "法國",
+      "韓國"
     ],
     "options_en": [
-      "France",
       "Germany",
-      "South Korea",
-      "China"
+      "China",
+      "France",
+      "South Korea"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《斗破蒼穹》主要講咩？",
     "question_en": "What is 'Battle Through the Heavens' mainly about?",
     "options_zh": [
+      "精彩故事",
       "體育競技",
       "科幻太空",
-      "財經商戰",
-      "精彩故事"
+      "財經商戰"
     ],
     "options_en": [
+      "Exciting story",
       "Sports",
       "Sci-fi",
-      "Business",
-      "Exciting story"
+      "Business"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「精彩故事」。",
     "explanation_en": "The correct answer is 'Exciting story'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《斗破蒼穹》入面有咩角色？",
     "question_en": "What characters are in 'Battle Through the Heavens'?",
     "options_zh": [
       "主要角色",
-      "外星人",
       "機械人",
-      "動物"
+      "動物",
+      "外星人"
     ],
     "options_en": [
       "Main characters",
-      "Aliens",
       "Robots",
-      "Animals"
+      "Animals",
+      "Aliens"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「主要角色」。",
@@ -126,28 +126,28 @@
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《斗破蒼穹》嘅故事背景喺邊度？",
     "question_en": "Where is 'Battle Through the Heavens' set?",
     "options_zh": [
-      "虛擬世界",
-      "歐洲中世紀",
       "未來太空",
-      "中國/亞洲"
+      "虛擬世界",
+      "中國/亞洲",
+      "歐洲中世紀"
     ],
     "options_en": [
-      "Virtual world",
-      "Medieval Europe",
       "Future space",
-      "China/Asia"
+      "Virtual world",
+      "China/Asia",
+      "Medieval Europe"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《斗破蒼穹》係咪好受歡迎？",
     "question_en": "Is 'Battle Through the Heavens' popular?",
     "options_zh": [
@@ -168,24 +168,192 @@
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《斗破蒼穹》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Battle Through the Heavens'?",
     "options_zh": [
-      "法國人",
       "韓國人",
       "德國人",
+      "法國人",
       "中國人"
     ],
     "options_en": [
-      "French",
       "Korean",
       "German",
+      "French",
       "Chinese"
     ],
     "answer": 3,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《斗破蒼穹》嘅作者係邊個？",
+    "question_en": "Who wrote 'Battle Through the Heavens'?",
+    "options_zh": [
+      "魯迅",
+      "金庸",
+      "天蠶土豆",
+      "古龍"
+    ],
+    "options_en": [
+      "Lu Xun",
+      "Jin Yong",
+      "Heavenly Silkworm Potato",
+      "Gu Long"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「天蠶土豆」。《斗破蒼穹》係天蠶土豆嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is 'Heavenly Silkworm Potato'. 'Battle Through the Heavens' is a work by Heavenly Silkworm Potato, categorized as 玄幻.",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《斗破蒼穹》？",
+    "question_en": "Which author wrote 'Battle Through the Heavens'?",
+    "options_zh": [
+      "天蠶土豆",
+      "金庸",
+      "魯迅",
+      "古龍"
+    ],
+    "options_en": [
+      "Heavenly Silkworm Potato",
+      "Jin Yong",
+      "Lu Xun",
+      "Gu Long"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「天蠶土豆」。《斗破蒼穹》係天蠶土豆嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is 'Heavenly Silkworm Potato'. 'Battle Through the Heavens' is a work by Heavenly Silkworm Potato, categorized as 玄幻.",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question_zh": "《斗破蒼穹》屬於咩類型？",
+    "question_en": "What genre is 'Battle Through the Heavens'?",
+    "options_zh": [
+      "仙俠",
+      "科幻",
+      "玄幻",
+      "武俠"
+    ],
+    "options_en": [
+      "仙俠",
+      "科幻",
+      "玄幻",
+      "武俠"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「玄幻」。《斗破蒼穹》係天蠶土豆嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is '玄幻'. 'Battle Through the Heavens' is a work by Heavenly Silkworm Potato, categorized as 玄幻.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "《斗破蒼穹》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Battle Through the Heavens'?",
+    "options_zh": [
+      "郭靖",
+      "令狐沖",
+      "張無忌",
+      "蕭炎"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Linghu Chong",
+      "Zhang Wuji",
+      "Xiao Yan"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「蕭炎」。《斗破蒼穹》係天蠶土豆嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is 'Xiao Yan'. 'Battle Through the Heavens' is a work by Heavenly Silkworm Potato, categorized as 玄幻.",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《斗破蒼穹》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Battle Through the Heavens'?",
+    "options_zh": [
+      "令狐沖",
+      "張無忌",
+      "蕭炎",
+      "郭靖"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Zhang Wuji",
+      "Xiao Yan",
+      "Guo Jing"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「蕭炎」。《斗破蒼穹》係天蠶土豆嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is 'Xiao Yan'. 'Battle Through the Heavens' is a work by Heavenly Silkworm Potato, categorized as 玄幻.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《斗破蒼穹》大約喺邊年出版？",
+    "question_en": "In which year was 'Battle Through the Heavens' approximately published?",
+    "options_zh": [
+      "1989",
+      "1999",
+      "2009",
+      "2019"
+    ],
+    "options_en": [
+      "1989",
+      "1999",
+      "2009",
+      "2019"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「2009」。《斗破蒼穹》係天蠶土豆嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is '2009'. 'Battle Through the Heavens' is a work by Heavenly Silkworm Potato, categorized as 玄幻.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《斗破蒼穹》？",
+    "question_en": "Which one is 'Battle Through the Heavens'?",
+    "options_zh": [
+      "其他小說B",
+      "其他小說A",
+      "斗破蒼穹",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Other Novel A",
+      "Battle Through the Heavens",
+      "Other Novel C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「斗破蒼穹」。《斗破蒼穹》係天蠶土豆嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is 'Battle Through the Heavens'. 'Battle Through the Heavens' is a work by Heavenly Silkworm Potato, categorized as 玄幻.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《斗破蒼穹》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Battle Through the Heavens' belong to?",
+    "options_zh": [
+      "歷史",
+      "奇幻",
+      "popular",
+      "文學"
+    ],
+    "options_en": [
+      "Historical",
+      "Fantasy",
+      "popular",
+      "Literary"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「popular」。《斗破蒼穹》係天蠶土豆嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is 'popular'. 'Battle Through the Heavens' is a work by Heavenly Silkworm Potato, categorized as 玄幻.",
     "difficulty": 2
   }
 ]

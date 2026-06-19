@@ -5,15 +5,15 @@
     "question_en": "Which one is 'Shogun'?",
     "options_zh": [
       "幕府將軍",
-      "其他小說B",
       "其他小說C",
-      "其他小說A"
+      "其他小說A",
+      "其他小說B"
     ],
     "options_en": [
       "Shogun",
-      "Other Novel B",
       "Other Novel C",
-      "Other Novel A"
+      "Other Novel A",
+      "Other Novel B"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「幕府將軍」。",
@@ -21,40 +21,40 @@
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《幕府將軍》嘅作者係邊個？",
     "question_en": "Who wrote 'Shogun'?",
     "options_zh": [
       "其他作者B",
       "其他作者C",
-      "其他作者A",
-      "詹姆斯·克拉維爾"
+      "詹姆斯·克拉維爾",
+      "其他作者A"
     ],
     "options_en": [
       "Author B",
       "Author C",
-      "Author A",
-      "James Clavell"
+      "James Clavell",
+      "Author A"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「詹姆斯·克拉維爾」。",
     "explanation_en": "The correct answer is 'James Clavell'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《幕府將軍》係邊年出版嘅？",
     "question_en": "What year was 'Shogun' published?",
     "options_zh": [
       "1978年",
-      "1972年",
       "1977年",
+      "1972年",
       "1975年"
     ],
     "options_en": [
       "1978",
-      "1972",
       "1977",
+      "1972",
       "1975"
     ],
     "answer": 3,
@@ -63,20 +63,20 @@
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《幕府將軍》係邊國作品？",
     "question_en": "Which country is 'Shogun' from?",
     "options_zh": [
-      "法國",
+      "韓國",
       "中國",
       "德國",
-      "韓國"
+      "法國"
     ],
     "options_en": [
-      "France",
+      "South Korea",
       "China",
       "Germany",
-      "South Korea"
+      "France"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「中國」。",
@@ -84,61 +84,61 @@
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《幕府將軍》主要講咩？",
     "question_en": "What is 'Shogun' mainly about?",
     "options_zh": [
-      "財經商戰",
-      "科幻太空",
       "歷史故事同時代變遷",
-      "體育競技"
+      "體育競技",
+      "科幻太空",
+      "財經商戰"
     ],
     "options_en": [
-      "Business",
-      "Sci-fi",
       "Historical story",
-      "Sports"
+      "Sports",
+      "Sci-fi",
+      "Business"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
     "explanation_en": "The correct answer is 'Historical story'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《幕府將軍》入面有咩角色？",
     "question_en": "What characters are in 'Shogun'?",
     "options_zh": [
+      "主要角色",
       "機械人",
       "動物",
-      "主要角色",
       "外星人"
     ],
     "options_en": [
+      "Main characters",
       "Robots",
       "Animals",
-      "Main characters",
       "Aliens"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《幕府將軍》嘅故事背景喺邊度？",
     "question_en": "Where is 'Shogun' set?",
     "options_zh": [
       "古代中國",
-      "未來太空",
       "歐洲中世紀",
+      "未來太空",
       "虛擬世界"
     ],
     "options_en": [
       "Ancient China",
-      "Future space",
       "Medieval Europe",
+      "Future space",
       "Virtual world"
     ],
     "answer": 0,
@@ -147,45 +147,213 @@
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《幕府將軍》係咪好受歡迎？",
     "question_en": "Is 'Shogun' popular?",
     "options_zh": [
       "已經過氣",
+      "係，非常受歡迎",
       "只喺特定地區流行",
-      "唔係，好冷門",
-      "係，非常受歡迎"
+      "唔係，好冷門"
     ],
     "options_en": [
       "Outdated",
+      "Yes, very popular",
       "Only popular locally",
-      "No, very niche",
-      "Yes, very popular"
+      "No, very niche"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《幕府將軍》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Shogun'?",
     "options_zh": [
-      "中國人",
       "德國人",
-      "韓國人",
-      "法國人"
+      "法國人",
+      "中國人",
+      "韓國人"
     ],
     "options_en": [
-      "Chinese",
       "German",
-      "Korean",
-      "French"
+      "French",
+      "Chinese",
+      "Korean"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《將軍》嘅作者係邊個？",
+    "question_en": "Who wrote 'Shōgun'?",
+    "options_zh": [
+      "金庸",
+      "古龍",
+      "魯迅",
+      "詹姆斯·克拉維爾"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Gu Long",
+      "Lu Xun",
+      "James Clavell"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「詹姆斯·克拉維爾」。《將軍》係詹姆斯·克拉維爾嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'James Clavell'. 'Shōgun' is a work by James Clavell, categorized as 歷史.",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《將軍》？",
+    "question_en": "Which author wrote 'Shōgun'?",
+    "options_zh": [
+      "金庸",
+      "詹姆斯·克拉維爾",
+      "古龍",
+      "魯迅"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "James Clavell",
+      "Gu Long",
+      "Lu Xun"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「詹姆斯·克拉維爾」。《將軍》係詹姆斯·克拉維爾嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'James Clavell'. 'Shōgun' is a work by James Clavell, categorized as 歷史.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《將軍》屬於咩類型？",
+    "question_en": "What genre is 'Shōgun'?",
+    "options_zh": [
+      "古典",
+      "文學",
+      "歷史",
+      "傳記"
+    ],
+    "options_en": [
+      "古典",
+      "文學",
+      "歷史",
+      "傳記"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「歷史」。《將軍》係詹姆斯·克拉維爾嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is '歷史'. 'Shōgun' is a work by James Clavell, categorized as 歷史.",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_zh": "《將軍》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Shōgun'?",
+    "options_zh": [
+      "令狐沖",
+      "郭靖",
+      "約翰·布萊克索恩",
+      "張無忌"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Guo Jing",
+      "John Blackthorne",
+      "Zhang Wuji"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「約翰·布萊克索恩」。《將軍》係詹姆斯·克拉維爾嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'John Blackthorne'. 'Shōgun' is a work by James Clavell, categorized as 歷史.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《將軍》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Shōgun'?",
+    "options_zh": [
+      "郭靖",
+      "張無忌",
+      "令狐沖",
+      "約翰·布萊克索恩"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Zhang Wuji",
+      "Linghu Chong",
+      "John Blackthorne"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「約翰·布萊克索恩」。《將軍》係詹姆斯·克拉維爾嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'John Blackthorne'. 'Shōgun' is a work by James Clavell, categorized as 歷史.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《將軍》大約喺邊年出版？",
+    "question_en": "In which year was 'Shōgun' approximately published?",
+    "options_zh": [
+      "1985",
+      "1965",
+      "1955",
+      "1975"
+    ],
+    "options_en": [
+      "1985",
+      "1965",
+      "1955",
+      "1975"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1975」。《將軍》係詹姆斯·克拉維爾嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is '1975'. 'Shōgun' is a work by James Clavell, categorized as 歷史.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《將軍》？",
+    "question_en": "Which one is 'Shōgun'?",
+    "options_zh": [
+      "其他小說B",
+      "將軍",
+      "其他小說C",
+      "其他小說A"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Shōgun",
+      "Other Novel C",
+      "Other Novel A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「將軍」。《將軍》係詹姆斯·克拉維爾嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'Shōgun'. 'Shōgun' is a work by James Clavell, categorized as 歷史.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《將軍》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Shōgun' belong to?",
+    "options_zh": [
+      "historical",
+      "奇幻",
+      "文學",
+      "推理"
+    ],
+    "options_en": [
+      "historical",
+      "Fantasy",
+      "Literary",
+      "Mystery"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「historical」。《將軍》係詹姆斯·克拉維爾嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'historical'. 'Shōgun' is a work by James Clavell, categorized as 歷史.",
+    "difficulty": 1
   }
 ]

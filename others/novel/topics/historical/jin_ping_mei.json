@@ -4,100 +4,100 @@
     "question_zh": "以下邊本係《金瓶梅》？",
     "question_en": "Which one is 'The Plum in the Golden Vase'?",
     "options_zh": [
+      "金瓶梅",
       "其他小說C",
-      "其他小說A",
       "其他小說B",
-      "金瓶梅"
+      "其他小說A"
     ],
     "options_en": [
+      "The Plum in the Golden Vase",
       "Other Novel C",
-      "Other Novel A",
       "Other Novel B",
-      "The Plum in the Golden Vase"
+      "Other Novel A"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「金瓶梅」。",
     "explanation_en": "The correct answer is 'The Plum in the Golden Vase'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《金瓶梅》嘅作者係邊個？",
     "question_en": "Who wrote 'The Plum in the Golden Vase'?",
     "options_zh": [
       "其他作者B",
-      "蘭陵笑笑生",
       "其他作者C",
+      "蘭陵笑笑生",
       "其他作者A"
     ],
     "options_en": [
       "Author B",
-      "Lanling Xiaoxiao Sheng",
       "Author C",
+      "Lanling Xiaoxiao Sheng",
       "Author A"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「蘭陵笑笑生」。",
     "explanation_en": "The correct answer is 'Lanling Xiaoxiao Sheng'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《金瓶梅》係邊年出版嘅？",
     "question_en": "What year was 'The Plum in the Golden Vase' published?",
     "options_zh": [
-      "1615年",
       "1610年",
       "1612年",
+      "1615年",
       "1607年"
     ],
     "options_en": [
-      "1615",
       "1610",
       "1612",
+      "1615",
       "1607"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「1610年」。",
     "explanation_en": "The correct answer is '1610'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《金瓶梅》係邊國作品？",
     "question_en": "Which country is 'The Plum in the Golden Vase' from?",
     "options_zh": [
-      "法國",
-      "德國",
+      "韓國",
       "中國",
-      "韓國"
+      "法國",
+      "德國"
     ],
     "options_en": [
-      "France",
-      "Germany",
+      "South Korea",
       "China",
-      "South Korea"
+      "France",
+      "Germany"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《金瓶梅》主要講咩？",
     "question_en": "What is 'The Plum in the Golden Vase' mainly about?",
     "options_zh": [
       "歷史故事同時代變遷",
-      "體育競技",
+      "科幻太空",
       "財經商戰",
-      "科幻太空"
+      "體育競技"
     ],
     "options_en": [
       "Historical story",
-      "Sports",
+      "Sci-fi",
       "Business",
-      "Sci-fi"
+      "Sports"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
@@ -105,87 +105,255 @@
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《金瓶梅》入面有咩角色？",
     "question_en": "What characters are in 'The Plum in the Golden Vase'?",
     "options_zh": [
-      "動物",
+      "主要角色",
       "機械人",
       "外星人",
-      "主要角色"
+      "動物"
     ],
     "options_en": [
-      "Animals",
+      "Main characters",
       "Robots",
       "Aliens",
-      "Main characters"
+      "Animals"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《金瓶梅》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Plum in the Golden Vase' set?",
     "options_zh": [
-      "古代中國",
-      "未來太空",
       "歐洲中世紀",
-      "虛擬世界"
+      "未來太空",
+      "虛擬世界",
+      "古代中國"
     ],
     "options_en": [
-      "Ancient China",
-      "Future space",
       "Medieval Europe",
-      "Virtual world"
+      "Future space",
+      "Virtual world",
+      "Ancient China"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「古代中國」。",
     "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《金瓶梅》係咪好受歡迎？",
     "question_en": "Is 'The Plum in the Golden Vase' popular?",
     "options_zh": [
       "唔係，好冷門",
+      "係，有一定讀者群",
       "已經過氣",
-      "只喺特定地區流行",
-      "係，有一定讀者群"
+      "只喺特定地區流行"
     ],
     "options_en": [
       "No, very niche",
+      "Yes, has a readership",
       "Outdated",
-      "Only popular locally",
-      "Yes, has a readership"
+      "Only popular locally"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《金瓶梅》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'The Plum in the Golden Vase'?",
     "options_zh": [
-      "德國人",
-      "法國人",
       "韓國人",
+      "法國人",
+      "德國人",
       "中國人"
     ],
     "options_en": [
-      "German",
-      "French",
       "Korean",
+      "French",
+      "German",
       "Chinese"
     ],
     "answer": 3,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《金瓶梅》嘅作者係邊個？",
+    "question_en": "Who wrote 'The Plum in the Golden Vase'?",
+    "options_zh": [
+      "蘭陵笑笑生",
+      "魯迅",
+      "金庸",
+      "古龍"
+    ],
+    "options_en": [
+      "Lanling Xiaoxiaosheng",
+      "Lu Xun",
+      "Jin Yong",
+      "Gu Long"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「蘭陵笑笑生」。《金瓶梅》係蘭陵笑笑生嘅作品，屬於世情類型。",
+    "explanation_en": "The correct answer is 'Lanling Xiaoxiaosheng'. 'The Plum in the Golden Vase' is a work by Lanling Xiaoxiaosheng, categorized as 世情.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《金瓶梅》？",
+    "question_en": "Which author wrote 'The Plum in the Golden Vase'?",
+    "options_zh": [
+      "金庸",
+      "古龍",
+      "魯迅",
+      "蘭陵笑笑生"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Gu Long",
+      "Lu Xun",
+      "Lanling Xiaoxiaosheng"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「蘭陵笑笑生」。《金瓶梅》係蘭陵笑笑生嘅作品，屬於世情類型。",
+    "explanation_en": "The correct answer is 'Lanling Xiaoxiaosheng'. 'The Plum in the Golden Vase' is a work by Lanling Xiaoxiaosheng, categorized as 世情.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《金瓶梅》屬於咩類型？",
+    "question_en": "What genre is 'The Plum in the Golden Vase'?",
+    "options_zh": [
+      "古典",
+      "愛情",
+      "世情",
+      "文學"
+    ],
+    "options_en": [
+      "古典",
+      "愛情",
+      "世情",
+      "文學"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「世情」。《金瓶梅》係蘭陵笑笑生嘅作品，屬於世情類型。",
+    "explanation_en": "The correct answer is '世情'. 'The Plum in the Golden Vase' is a work by Lanling Xiaoxiaosheng, categorized as 世情.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "《金瓶梅》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'The Plum in the Golden Vase'?",
+    "options_zh": [
+      "令狐沖",
+      "郭靖",
+      "西門慶",
+      "張無忌"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Guo Jing",
+      "Ximen Qing",
+      "Zhang Wuji"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「西門慶」。《金瓶梅》係蘭陵笑笑生嘅作品，屬於世情類型。",
+    "explanation_en": "The correct answer is 'Ximen Qing'. 'The Plum in the Golden Vase' is a work by Lanling Xiaoxiaosheng, categorized as 世情.",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《金瓶梅》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'The Plum in the Golden Vase'?",
+    "options_zh": [
+      "張無忌",
+      "郭靖",
+      "西門慶",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Zhang Wuji",
+      "Guo Jing",
+      "Ximen Qing",
+      "Linghu Chong"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「西門慶」。《金瓶梅》係蘭陵笑笑生嘅作品，屬於世情類型。",
+    "explanation_en": "The correct answer is 'Ximen Qing'. 'The Plum in the Golden Vase' is a work by Lanling Xiaoxiaosheng, categorized as 世情.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《金瓶梅》大約喺邊年出版？",
+    "question_en": "In which year was 'The Plum in the Golden Vase' approximately published?",
+    "options_zh": [
+      "1600",
+      "1610",
+      "1590",
+      "1620"
+    ],
+    "options_en": [
+      "1600",
+      "1610",
+      "1590",
+      "1620"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「1610」。《金瓶梅》係蘭陵笑笑生嘅作品，屬於世情類型。",
+    "explanation_en": "The correct answer is '1610'. 'The Plum in the Golden Vase' is a work by Lanling Xiaoxiaosheng, categorized as 世情.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《金瓶梅》？",
+    "question_en": "Which one is 'The Plum in the Golden Vase'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說C",
+      "其他小說B",
+      "金瓶梅"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel C",
+      "Other Novel B",
+      "The Plum in the Golden Vase"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「金瓶梅」。《金瓶梅》係蘭陵笑笑生嘅作品，屬於世情類型。",
+    "explanation_en": "The correct answer is 'The Plum in the Golden Vase'. 'The Plum in the Golden Vase' is a work by Lanling Xiaoxiaosheng, categorized as 世情.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《金瓶梅》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'The Plum in the Golden Vase' belong to?",
+    "options_zh": [
+      "推理",
+      "奇幻",
+      "historical",
+      "文學"
+    ],
+    "options_en": [
+      "Mystery",
+      "Fantasy",
+      "historical",
+      "Literary"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「historical」。《金瓶梅》係蘭陵笑笑生嘅作品，屬於世情類型。",
+    "explanation_en": "The correct answer is 'historical'. 'The Plum in the Golden Vase' is a work by Lanling Xiaoxiaosheng, categorized as 世情.",
+    "difficulty": 1
   }
 ]

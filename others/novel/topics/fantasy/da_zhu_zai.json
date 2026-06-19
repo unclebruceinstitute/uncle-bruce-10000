@@ -4,121 +4,121 @@
     "question_zh": "以下邊本係《大主宰》？",
     "question_en": "Which one is 'The Great Ruler'?",
     "options_zh": [
-      "其他小說A",
       "其他小說B",
-      "其他小說C",
-      "大主宰"
+      "大主宰",
+      "其他小說A",
+      "其他小說C"
     ],
     "options_en": [
-      "Other Novel A",
       "Other Novel B",
-      "Other Novel C",
-      "The Great Ruler"
+      "The Great Ruler",
+      "Other Novel A",
+      "Other Novel C"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「大主宰」。",
     "explanation_en": "The correct answer is 'The Great Ruler'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《大主宰》嘅作者係邊個？",
     "question_en": "Who wrote 'The Great Ruler'?",
     "options_zh": [
-      "其他作者C",
-      "其他作者B",
       "天蠶土豆",
-      "其他作者A"
+      "其他作者C",
+      "其他作者A",
+      "其他作者B"
     ],
     "options_en": [
-      "Author C",
-      "Author B",
       "Heavenly Silkworm Potato",
-      "Author A"
+      "Author C",
+      "Author A",
+      "Author B"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「天蠶土豆」。",
     "explanation_en": "The correct answer is 'Heavenly Silkworm Potato'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《大主宰》係邊年出版嘅？",
     "question_en": "What year was 'The Great Ruler' published?",
     "options_zh": [
-      "2011年",
       "2013年",
+      "2010年",
       "2016年",
-      "2010年"
+      "2011年"
     ],
     "options_en": [
-      "2011",
       "2013",
+      "2010",
       "2016",
-      "2010"
+      "2011"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「2013年」。",
     "explanation_en": "The correct answer is '2013'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《大主宰》係邊國作品？",
     "question_en": "Which country is 'The Great Ruler' from?",
     "options_zh": [
-      "德國",
-      "韓國",
       "中國",
-      "法國"
+      "法國",
+      "德國",
+      "韓國"
     ],
     "options_en": [
-      "Germany",
-      "South Korea",
       "China",
-      "France"
+      "France",
+      "Germany",
+      "South Korea"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《大主宰》主要講咩？",
     "question_en": "What is 'The Great Ruler' mainly about?",
     "options_zh": [
-      "體育競技",
-      "奇幻冒險同超自然元素",
+      "科幻太空",
       "財經商戰",
-      "科幻太空"
+      "奇幻冒險同超自然元素",
+      "體育競技"
     ],
     "options_en": [
-      "Sports",
-      "Fantasy adventure",
+      "Sci-fi",
       "Business",
-      "Sci-fi"
+      "Fantasy adventure",
+      "Sports"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「奇幻冒險同超自然元素」。",
     "explanation_en": "The correct answer is 'Fantasy adventure'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《大主宰》入面有咩角色？",
     "question_en": "What characters are in 'The Great Ruler'?",
     "options_zh": [
-      "機械人",
+      "外星人",
       "修仙者/魔法師",
-      "動物",
-      "外星人"
+      "機械人",
+      "動物"
     ],
     "options_en": [
-      "Robots",
+      "Aliens",
       "Cultivators/Wizards",
-      "Animals",
-      "Aliens"
+      "Robots",
+      "Animals"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「修仙者/魔法師」。",
@@ -126,66 +126,234 @@
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《大主宰》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Great Ruler' set?",
     "options_zh": [
-      "虛構世界",
-      "未來太空",
+      "虛擬世界",
       "歐洲中世紀",
-      "虛擬世界"
+      "虛構世界",
+      "未來太空"
     ],
     "options_en": [
-      "Fictional world",
-      "Future space",
+      "Virtual world",
       "Medieval Europe",
-      "Virtual world"
+      "Fictional world",
+      "Future space"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「虛構世界」。",
     "explanation_en": "The correct answer is 'Fictional world'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《大主宰》係咪好受歡迎？",
     "question_en": "Is 'The Great Ruler' popular?",
     "options_zh": [
-      "係，有一定讀者群",
       "唔係，好冷門",
+      "係，有一定讀者群",
       "已經過氣",
       "只喺特定地區流行"
     ],
     "options_en": [
-      "Yes, has a readership",
       "No, very niche",
+      "Yes, has a readership",
       "Outdated",
       "Only popular locally"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《大主宰》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'The Great Ruler'?",
     "options_zh": [
+      "德國人",
       "韓國人",
-      "中國人",
       "法國人",
-      "德國人"
+      "中國人"
     ],
     "options_en": [
+      "German",
       "Korean",
-      "Chinese",
       "French",
-      "German"
+      "Chinese"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《大主宰》嘅作者係邊個？",
+    "question_en": "Who wrote 'The Great Ruler'?",
+    "options_zh": [
+      "金庸",
+      "天蠶土豆",
+      "魯迅",
+      "古龍"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Heavenly Silkworm Potato",
+      "Lu Xun",
+      "Gu Long"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「天蠶土豆」。《大主宰》係天蠶土豆嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is 'Heavenly Silkworm Potato'. 'The Great Ruler' is a work by Heavenly Silkworm Potato, categorized as 玄幻.",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《大主宰》？",
+    "question_en": "Which author wrote 'The Great Ruler'?",
+    "options_zh": [
+      "天蠶土豆",
+      "古龍",
+      "魯迅",
+      "金庸"
+    ],
+    "options_en": [
+      "Heavenly Silkworm Potato",
+      "Gu Long",
+      "Lu Xun",
+      "Jin Yong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「天蠶土豆」。《大主宰》係天蠶土豆嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is 'Heavenly Silkworm Potato'. 'The Great Ruler' is a work by Heavenly Silkworm Potato, categorized as 玄幻.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《大主宰》屬於咩類型？",
+    "question_en": "What genre is 'The Great Ruler'?",
+    "options_zh": [
+      "仙俠",
+      "科幻",
+      "武俠",
+      "玄幻"
+    ],
+    "options_en": [
+      "仙俠",
+      "科幻",
+      "武俠",
+      "玄幻"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「玄幻」。《大主宰》係天蠶土豆嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is '玄幻'. 'The Great Ruler' is a work by Heavenly Silkworm Potato, categorized as 玄幻.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "《大主宰》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'The Great Ruler'?",
+    "options_zh": [
+      "令狐沖",
+      "張無忌",
+      "牧塵",
+      "郭靖"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Zhang Wuji",
+      "Mu Chen",
+      "Guo Jing"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「牧塵」。《大主宰》係天蠶土豆嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is 'Mu Chen'. 'The Great Ruler' is a work by Heavenly Silkworm Potato, categorized as 玄幻.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《大主宰》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'The Great Ruler'?",
+    "options_zh": [
+      "張無忌",
+      "牧塵",
+      "令狐沖",
+      "郭靖"
+    ],
+    "options_en": [
+      "Zhang Wuji",
+      "Mu Chen",
+      "Linghu Chong",
+      "Guo Jing"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「牧塵」。《大主宰》係天蠶土豆嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is 'Mu Chen'. 'The Great Ruler' is a work by Heavenly Silkworm Potato, categorized as 玄幻.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《大主宰》大約喺邊年出版？",
+    "question_en": "In which year was 'The Great Ruler' approximately published?",
+    "options_zh": [
+      "2023",
+      "1993",
+      "2003",
+      "2013"
+    ],
+    "options_en": [
+      "2023",
+      "1993",
+      "2003",
+      "2013"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「2013」。《大主宰》係天蠶土豆嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is '2013'. 'The Great Ruler' is a work by Heavenly Silkworm Potato, categorized as 玄幻.",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《大主宰》？",
+    "question_en": "Which one is 'The Great Ruler'?",
+    "options_zh": [
+      "其他小說B",
+      "其他小說A",
+      "大主宰",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Other Novel A",
+      "The Great Ruler",
+      "Other Novel C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「大主宰」。《大主宰》係天蠶土豆嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is 'The Great Ruler'. 'The Great Ruler' is a work by Heavenly Silkworm Potato, categorized as 玄幻.",
+    "difficulty": 3
+  },
+  {
+    "id": 17,
+    "question_zh": "《大主宰》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'The Great Ruler' belong to?",
+    "options_zh": [
+      "文學",
+      "推理",
+      "fantasy",
+      "歷史"
+    ],
+    "options_en": [
+      "Literary",
+      "Mystery",
+      "fantasy",
+      "Historical"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「fantasy」。《大主宰》係天蠶土豆嘅作品，屬於玄幻類型。",
+    "explanation_en": "The correct answer is 'fantasy'. 'The Great Ruler' is a work by Heavenly Silkworm Potato, categorized as 玄幻.",
     "difficulty": 2
   }
 ]

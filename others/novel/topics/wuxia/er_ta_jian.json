@@ -4,16 +4,16 @@
     "question_zh": "以下邊本係《多情劍客無情劍》？",
     "question_en": "Which one is 'The Sentimental Swordsman'?",
     "options_zh": [
+      "其他小說A",
       "其他小說B",
-      "其他小說C",
       "多情劍客無情劍",
-      "其他小說A"
+      "其他小說C"
     ],
     "options_en": [
+      "Other Novel A",
       "Other Novel B",
-      "Other Novel C",
       "The Sentimental Swordsman",
-      "Other Novel A"
+      "Other Novel C"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「多情劍客無情劍」。",
@@ -21,83 +21,83 @@
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《多情劍客無情劍》嘅作者係邊個？",
     "question_en": "Who wrote 'The Sentimental Swordsman'?",
     "options_zh": [
       "其他作者B",
+      "古龍",
       "其他作者C",
-      "其他作者A",
-      "古龍"
+      "其他作者A"
     ],
     "options_en": [
       "Author B",
+      "Gu Long",
       "Author C",
-      "Author A",
-      "Gu Long"
+      "Author A"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「古龍」。",
     "explanation_en": "The correct answer is 'Gu Long'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《多情劍客無情劍》係邊年出版嘅？",
     "question_en": "What year was 'The Sentimental Swordsman' published?",
     "options_zh": [
-      "1970年",
-      "1967年",
+      "1973年",
       "1972年",
-      "1973年"
+      "1970年",
+      "1967年"
     ],
     "options_en": [
-      "1970",
-      "1967",
+      "1973",
       "1972",
-      "1973"
+      "1970",
+      "1967"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「1970年」。",
     "explanation_en": "The correct answer is '1970'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《多情劍客無情劍》係邊國作品？",
     "question_en": "Which country is 'The Sentimental Swordsman' from?",
     "options_zh": [
+      "韓國",
       "德國",
       "中國",
-      "法國",
-      "韓國"
+      "法國"
     ],
     "options_en": [
+      "South Korea",
       "Germany",
       "China",
-      "France",
-      "South Korea"
+      "France"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《多情劍客無情劍》主要講咩？",
     "question_en": "What is 'The Sentimental Swordsman' mainly about?",
     "options_zh": [
-      "財經商戰",
+      "體育競技",
       "江湖恩怨同武俠世界",
-      "科幻太空",
-      "體育競技"
+      "財經商戰",
+      "科幻太空"
     ],
     "options_en": [
-      "Business",
+      "Sports",
       "Martial arts world",
-      "Sci-fi",
-      "Sports"
+      "Business",
+      "Sci-fi"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
@@ -105,41 +105,41 @@
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《多情劍客無情劍》入面有咩角色？",
     "question_en": "What characters are in 'The Sentimental Swordsman'?",
     "options_zh": [
-      "武林高手",
-      "機械人",
       "動物",
+      "機械人",
+      "武林高手",
       "外星人"
     ],
     "options_en": [
-      "Martial arts masters",
-      "Robots",
       "Animals",
+      "Robots",
+      "Martial arts masters",
       "Aliens"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「武林高手」。",
     "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《多情劍客無情劍》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Sentimental Swordsman' set?",
     "options_zh": [
-      "未來太空",
+      "虛擬世界",
       "古代中國",
       "歐洲中世紀",
-      "虛擬世界"
+      "未來太空"
     ],
     "options_en": [
-      "Future space",
+      "Virtual world",
       "Ancient China",
       "Medieval Europe",
-      "Virtual world"
+      "Future space"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「古代中國」。",
@@ -147,45 +147,213 @@
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《多情劍客無情劍》係咪好受歡迎？",
     "question_en": "Is 'The Sentimental Swordsman' popular?",
     "options_zh": [
       "只喺特定地區流行",
-      "唔係，好冷門",
       "係，有一定讀者群",
-      "已經過氣"
+      "已經過氣",
+      "唔係，好冷門"
     ],
     "options_en": [
       "Only popular locally",
-      "No, very niche",
       "Yes, has a readership",
-      "Outdated"
+      "Outdated",
+      "No, very niche"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《多情劍客無情劍》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'The Sentimental Swordsman'?",
     "options_zh": [
-      "法國人",
       "德國人",
-      "韓國人",
-      "中國人"
+      "法國人",
+      "中國人",
+      "韓國人"
     ],
     "options_en": [
-      "French",
       "German",
-      "Korean",
-      "Chinese"
+      "French",
+      "Chinese",
+      "Korean"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《二俠劍》嘅作者係邊個？",
+    "question_en": "Who wrote 'Two Heroes'?",
+    "options_zh": [
+      "古龍",
+      "金庸",
+      "魯迅",
+      "未知"
+    ],
+    "options_en": [
+      "Gu Long",
+      "Jin Yong",
+      "Lu Xun",
+      "Unknown"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「未知」。《二俠劍》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Two Heroes' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《二俠劍》？",
+    "question_en": "Which author wrote 'Two Heroes'?",
+    "options_zh": [
+      "金庸",
+      "古龍",
+      "未知",
+      "魯迅"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Gu Long",
+      "Unknown",
+      "Lu Xun"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「未知」。《二俠劍》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Two Heroes' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《二俠劍》屬於咩類型？",
+    "question_en": "What genre is 'Two Heroes'?",
+    "options_zh": [
+      "仙俠",
+      "歷史",
+      "武俠",
+      "動作"
+    ],
+    "options_en": [
+      "仙俠",
+      "歷史",
+      "武俠",
+      "動作"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「武俠」。《二俠劍》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is '武俠'. 'Two Heroes' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《二俠劍》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Two Heroes'?",
+    "options_zh": [
+      "未知",
+      "郭靖",
+      "張無忌",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Unknown",
+      "Guo Jing",
+      "Zhang Wuji",
+      "Linghu Chong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「未知」。《二俠劍》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Two Heroes' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《二俠劍》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Two Heroes'?",
+    "options_zh": [
+      "郭靖",
+      "未知",
+      "張無忌",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Unknown",
+      "Zhang Wuji",
+      "Linghu Chong"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「未知」。《二俠劍》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Two Heroes' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《二俠劍》大約喺邊年出版？",
+    "question_en": "In which year was 'Two Heroes' approximately published?",
+    "options_zh": [
+      "1980",
+      "未知",
+      "1950",
+      "2000"
+    ],
+    "options_en": [
+      "1980",
+      "未知",
+      "1950",
+      "2000"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「未知」。《二俠劍》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is '未知'. 'Two Heroes' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《二俠劍》？",
+    "question_en": "Which one is 'Two Heroes'?",
+    "options_zh": [
+      "其他小說B",
+      "其他小說A",
+      "二俠劍",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Other Novel A",
+      "Two Heroes",
+      "Other Novel C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「二俠劍」。《二俠劍》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Two Heroes'. 'Two Heroes' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 17,
+    "question_zh": "《二俠劍》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Two Heroes' belong to?",
+    "options_zh": [
+      "奇幻",
+      "wuxia",
+      "文學",
+      "歷史"
+    ],
+    "options_en": [
+      "Fantasy",
+      "wuxia",
+      "Literary",
+      "Historical"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「wuxia」。《二俠劍》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'wuxia'. 'Two Heroes' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 3
   }
 ]

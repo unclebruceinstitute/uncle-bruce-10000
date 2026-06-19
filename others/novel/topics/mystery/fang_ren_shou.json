@@ -4,36 +4,36 @@
     "question_zh": "以下邊本係《嫌疑人X的獻身》？",
     "question_en": "Which one is 'The Devotion of Suspect X'?",
     "options_zh": [
-      "其他小說B",
-      "其他小說C",
+      "嫌疑人X的獻身",
       "其他小說A",
-      "嫌疑人X的獻身"
+      "其他小說C",
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel B",
-      "Other Novel C",
+      "The Devotion of Suspect X",
       "Other Novel A",
-      "The Devotion of Suspect X"
+      "Other Novel C",
+      "Other Novel B"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「嫌疑人X的獻身」。",
     "explanation_en": "The correct answer is 'The Devotion of Suspect X'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《嫌疑人X的獻身》嘅作者係邊個？",
     "question_en": "Who wrote 'The Devotion of Suspect X'?",
     "options_zh": [
       "東野圭吾",
-      "其他作者C",
       "其他作者B",
+      "其他作者C",
       "其他作者A"
     ],
     "options_en": [
       "Keigo Higashino",
-      "Author C",
       "Author B",
+      "Author C",
       "Author A"
     ],
     "answer": 0,
@@ -42,61 +42,61 @@
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《嫌疑人X的獻身》係邊年出版嘅？",
     "question_en": "What year was 'The Devotion of Suspect X' published?",
     "options_zh": [
       "2000年",
-      "2005年",
+      "2008年",
       "2007年",
-      "2008年"
+      "2005年"
     ],
     "options_en": [
       "2000",
-      "2005",
+      "2008",
       "2007",
-      "2008"
+      "2005"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《嫌疑人X的獻身》係邊國作品？",
     "question_en": "Which country is 'The Devotion of Suspect X' from?",
     "options_zh": [
+      "法國",
       "日本",
       "德國",
-      "法國",
       "韓國"
     ],
     "options_en": [
+      "France",
       "Japan",
       "Germany",
-      "France",
       "South Korea"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「日本」。",
     "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《嫌疑人X的獻身》主要講咩？",
     "question_en": "What is 'The Devotion of Suspect X' mainly about?",
     "options_zh": [
-      "科幻太空",
       "體育競技",
       "財經商戰",
+      "科幻太空",
       "推理破案同懸疑故事"
     ],
     "options_en": [
-      "Sci-fi",
       "Sports",
       "Business",
+      "Sci-fi",
       "Mystery and detective"
     ],
     "answer": 3,
@@ -105,20 +105,20 @@
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《嫌疑人X的獻身》入面有咩角色？",
     "question_en": "What characters are in 'The Devotion of Suspect X'?",
     "options_zh": [
-      "外星人",
+      "機械人",
       "動物",
       "偵探/警察",
-      "機械人"
+      "外星人"
     ],
     "options_en": [
-      "Aliens",
+      "Robots",
       "Animals",
       "Detective/Police",
-      "Robots"
+      "Aliens"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「偵探/警察」。",
@@ -126,66 +126,234 @@
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《嫌疑人X的獻身》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Devotion of Suspect X' set?",
     "options_zh": [
       "虛擬世界",
-      "歐洲中世紀",
       "中國/亞洲",
-      "未來太空"
+      "未來太空",
+      "歐洲中世紀"
     ],
     "options_en": [
       "Virtual world",
-      "Medieval Europe",
       "China/Asia",
-      "Future space"
+      "Future space",
+      "Medieval Europe"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《嫌疑人X的獻身》係咪好受歡迎？",
     "question_en": "Is 'The Devotion of Suspect X' popular?",
     "options_zh": [
-      "唔係，好冷門",
-      "只喺特定地區流行",
       "已經過氣",
-      "係，非常受歡迎"
+      "係，非常受歡迎",
+      "唔係，好冷門",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "No, very niche",
-      "Only popular locally",
       "Outdated",
-      "Yes, very popular"
+      "Yes, very popular",
+      "No, very niche",
+      "Only popular locally"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《嫌疑人X的獻身》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'The Devotion of Suspect X'?",
     "options_zh": [
       "德國人",
-      "法國人",
       "韓國人",
+      "法國人",
       "日本人"
     ],
     "options_en": [
       "German",
-      "French",
       "Korean",
+      "French",
       "Japanese"
     ],
     "answer": 3,
     "explanation_zh": "正確答案係「日本人」。",
     "explanation_en": "The correct answer is 'Japanese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《放手》嘅作者係邊個？",
+    "question_en": "Who wrote 'Let Go'?",
+    "options_zh": [
+      "古龍",
+      "未知",
+      "魯迅",
+      "金庸"
+    ],
+    "options_en": [
+      "Gu Long",
+      "Unknown",
+      "Lu Xun",
+      "Jin Yong"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「未知」。《放手》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Let Go' is a work by Unknown, categorized as 推理.",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《放手》？",
+    "question_en": "Which author wrote 'Let Go'?",
+    "options_zh": [
+      "古龍",
+      "金庸",
+      "未知",
+      "魯迅"
+    ],
+    "options_en": [
+      "Gu Long",
+      "Jin Yong",
+      "Unknown",
+      "Lu Xun"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「未知」。《放手》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Let Go' is a work by Unknown, categorized as 推理.",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question_zh": "《放手》屬於咩類型？",
+    "question_en": "What genre is 'Let Go'?",
+    "options_zh": [
+      "驚悚",
+      "推理",
+      "犯罪",
+      "懸疑"
+    ],
+    "options_en": [
+      "驚悚",
+      "推理",
+      "犯罪",
+      "懸疑"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「推理」。《放手》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is '推理'. 'Let Go' is a work by Unknown, categorized as 推理.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《放手》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Let Go'?",
+    "options_zh": [
+      "郭靖",
+      "令狐沖",
+      "張無忌",
+      "未知"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Linghu Chong",
+      "Zhang Wuji",
+      "Unknown"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「未知」。《放手》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Let Go' is a work by Unknown, categorized as 推理.",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_zh": "《放手》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Let Go'?",
+    "options_zh": [
+      "張無忌",
+      "令狐沖",
+      "未知",
+      "郭靖"
+    ],
+    "options_en": [
+      "Zhang Wuji",
+      "Linghu Chong",
+      "Unknown",
+      "Guo Jing"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「未知」。《放手》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Let Go' is a work by Unknown, categorized as 推理.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《放手》大約喺邊年出版？",
+    "question_en": "In which year was 'Let Go' approximately published?",
+    "options_zh": [
+      "未知",
+      "1950",
+      "1980",
+      "2000"
+    ],
+    "options_en": [
+      "未知",
+      "1950",
+      "1980",
+      "2000"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「未知」。《放手》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is '未知'. 'Let Go' is a work by Unknown, categorized as 推理.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《放手》？",
+    "question_en": "Which one is 'Let Go'?",
+    "options_zh": [
+      "其他小說C",
+      "其他小說B",
+      "其他小說A",
+      "放手"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Novel B",
+      "Other Novel A",
+      "Let Go"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「放手」。《放手》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Let Go'. 'Let Go' is a work by Unknown, categorized as 推理.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《放手》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Let Go' belong to?",
+    "options_zh": [
+      "文學",
+      "奇幻",
+      "mystery",
+      "歷史"
+    ],
+    "options_en": [
+      "Literary",
+      "Fantasy",
+      "mystery",
+      "Historical"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「mystery」。《放手》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'mystery'. 'Let Go' is a work by Unknown, categorized as 推理.",
+    "difficulty": 3
   }
 ]

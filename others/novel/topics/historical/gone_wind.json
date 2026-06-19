@@ -4,37 +4,37 @@
     "question_zh": "以下邊本係《亂世佳人》？",
     "question_en": "Which one is 'Gone with the Wind'?",
     "options_zh": [
-      "其他小說C",
       "亂世佳人",
+      "其他小說C",
       "其他小說A",
       "其他小說B"
     ],
     "options_en": [
-      "Other Novel C",
       "Gone with the Wind",
+      "Other Novel C",
       "Other Novel A",
       "Other Novel B"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「亂世佳人」。",
     "explanation_en": "The correct answer is 'Gone with the Wind'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《亂世佳人》嘅作者係邊個？",
     "question_en": "Who wrote 'Gone with the Wind'?",
     "options_zh": [
       "瑪格麗特·米切爾",
       "其他作者A",
-      "其他作者B",
-      "其他作者C"
+      "其他作者C",
+      "其他作者B"
     ],
     "options_en": [
       "Margaret Mitchell",
       "Author A",
-      "Author B",
-      "Author C"
+      "Author C",
+      "Author B"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「瑪格麗特·米切爾」。",
@@ -42,150 +42,318 @@
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《亂世佳人》係邊年出版嘅？",
     "question_en": "What year was 'Gone with the Wind' published?",
     "options_zh": [
-      "1931年",
-      "1936年",
       "1941年",
-      "1939年"
+      "1931年",
+      "1939年",
+      "1936年"
     ],
     "options_en": [
-      "1931",
-      "1936",
       "1941",
-      "1939"
+      "1931",
+      "1939",
+      "1936"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「1936年」。",
     "explanation_en": "The correct answer is '1936'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《亂世佳人》係邊國作品？",
     "question_en": "Which country is 'Gone with the Wind' from?",
     "options_zh": [
-      "德國",
       "中國",
-      "法國",
-      "韓國"
+      "德國",
+      "韓國",
+      "法國"
     ],
     "options_en": [
-      "Germany",
       "China",
-      "France",
-      "South Korea"
+      "Germany",
+      "South Korea",
+      "France"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《亂世佳人》主要講咩？",
     "question_en": "What is 'Gone with the Wind' mainly about?",
     "options_zh": [
-      "財經商戰",
+      "體育競技",
       "科幻太空",
-      "歷史故事同時代變遷",
-      "體育競技"
+      "財經商戰",
+      "歷史故事同時代變遷"
     ],
     "options_en": [
-      "Business",
+      "Sports",
       "Sci-fi",
-      "Historical story",
-      "Sports"
+      "Business",
+      "Historical story"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
     "explanation_en": "The correct answer is 'Historical story'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《亂世佳人》入面有咩角色？",
     "question_en": "What characters are in 'Gone with the Wind'?",
     "options_zh": [
-      "動物",
-      "機械人",
+      "主要角色",
       "外星人",
-      "主要角色"
+      "動物",
+      "機械人"
     ],
     "options_en": [
-      "Animals",
-      "Robots",
+      "Main characters",
       "Aliens",
-      "Main characters"
+      "Animals",
+      "Robots"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《亂世佳人》嘅故事背景喺邊度？",
     "question_en": "Where is 'Gone with the Wind' set?",
     "options_zh": [
+      "古代中國",
       "未來太空",
       "虛擬世界",
-      "古代中國",
       "歐洲中世紀"
     ],
     "options_en": [
+      "Ancient China",
       "Future space",
       "Virtual world",
-      "Ancient China",
       "Medieval Europe"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「古代中國」。",
     "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《亂世佳人》係咪好受歡迎？",
     "question_en": "Is 'Gone with the Wind' popular?",
     "options_zh": [
       "已經過氣",
-      "唔係，好冷門",
       "係，非常受歡迎",
-      "只喺特定地區流行"
+      "只喺特定地區流行",
+      "唔係，好冷門"
     ],
     "options_en": [
       "Outdated",
-      "No, very niche",
       "Yes, very popular",
-      "Only popular locally"
+      "Only popular locally",
+      "No, very niche"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《亂世佳人》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Gone with the Wind'?",
     "options_zh": [
       "中國人",
       "法國人",
-      "德國人",
-      "韓國人"
+      "韓國人",
+      "德國人"
     ],
     "options_en": [
       "Chinese",
       "French",
-      "German",
-      "Korean"
+      "Korean",
+      "German"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《飄》嘅作者係邊個？",
+    "question_en": "Who wrote 'Gone with the Wind'?",
+    "options_zh": [
+      "魯迅",
+      "瑪格麗特·米切爾",
+      "古龍",
+      "金庸"
+    ],
+    "options_en": [
+      "Lu Xun",
+      "Margaret Mitchell",
+      "Gu Long",
+      "Jin Yong"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「瑪格麗特·米切爾」。《飄》係瑪格麗特·米切爾嘅作品，屬於歷史愛情類型。",
+    "explanation_en": "The correct answer is 'Margaret Mitchell'. 'Gone with the Wind' is a work by Margaret Mitchell, categorized as 歷史愛情.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《飄》？",
+    "question_en": "Which author wrote 'Gone with the Wind'?",
+    "options_zh": [
+      "古龍",
+      "瑪格麗特·米切爾",
+      "魯迅",
+      "金庸"
+    ],
+    "options_en": [
+      "Gu Long",
+      "Margaret Mitchell",
+      "Lu Xun",
+      "Jin Yong"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「瑪格麗特·米切爾」。《飄》係瑪格麗特·米切爾嘅作品，屬於歷史愛情類型。",
+    "explanation_en": "The correct answer is 'Margaret Mitchell'. 'Gone with the Wind' is a work by Margaret Mitchell, categorized as 歷史愛情.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《飄》屬於咩類型？",
+    "question_en": "What genre is 'Gone with the Wind'?",
+    "options_zh": [
+      "愛情",
+      "歷史",
+      "文學",
+      "歷史愛情"
+    ],
+    "options_en": [
+      "愛情",
+      "歷史",
+      "文學",
+      "歷史愛情"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「歷史愛情」。《飄》係瑪格麗特·米切爾嘅作品，屬於歷史愛情類型。",
+    "explanation_en": "The correct answer is '歷史愛情'. 'Gone with the Wind' is a work by Margaret Mitchell, categorized as 歷史愛情.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《飄》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Gone with the Wind'?",
+    "options_zh": [
+      "郝思嘉",
+      "張無忌",
+      "郭靖",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Scarlett O'Hara",
+      "Zhang Wuji",
+      "Guo Jing",
+      "Linghu Chong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「郝思嘉」。《飄》係瑪格麗特·米切爾嘅作品，屬於歷史愛情類型。",
+    "explanation_en": "The correct answer is 'Scarlett O'Hara'. 'Gone with the Wind' is a work by Margaret Mitchell, categorized as 歷史愛情.",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《飄》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Gone with the Wind'?",
+    "options_zh": [
+      "張無忌",
+      "郝思嘉",
+      "郭靖",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Zhang Wuji",
+      "Scarlett O'Hara",
+      "Guo Jing",
+      "Linghu Chong"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「郝思嘉」。《飄》係瑪格麗特·米切爾嘅作品，屬於歷史愛情類型。",
+    "explanation_en": "The correct answer is 'Scarlett O'Hara'. 'Gone with the Wind' is a work by Margaret Mitchell, categorized as 歷史愛情.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《飄》大約喺邊年出版？",
+    "question_en": "In which year was 'Gone with the Wind' approximately published?",
+    "options_zh": [
+      "1946",
+      "1936",
+      "1926",
+      "1916"
+    ],
+    "options_en": [
+      "1946",
+      "1936",
+      "1926",
+      "1916"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「1936」。《飄》係瑪格麗特·米切爾嘅作品，屬於歷史愛情類型。",
+    "explanation_en": "The correct answer is '1936'. 'Gone with the Wind' is a work by Margaret Mitchell, categorized as 歷史愛情.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《飄》？",
+    "question_en": "Which one is 'Gone with the Wind'?",
+    "options_zh": [
+      "飄",
+      "其他小說C",
+      "其他小說B",
+      "其他小說A"
+    ],
+    "options_en": [
+      "Gone with the Wind",
+      "Other Novel C",
+      "Other Novel B",
+      "Other Novel A"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「飄」。《飄》係瑪格麗特·米切爾嘅作品，屬於歷史愛情類型。",
+    "explanation_en": "The correct answer is 'Gone with the Wind'. 'Gone with the Wind' is a work by Margaret Mitchell, categorized as 歷史愛情.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《飄》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Gone with the Wind' belong to?",
+    "options_zh": [
+      "奇幻",
+      "historical",
+      "文學",
+      "推理"
+    ],
+    "options_en": [
+      "Fantasy",
+      "historical",
+      "Literary",
+      "Mystery"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「historical」。《飄》係瑪格麗特·米切爾嘅作品，屬於歷史愛情類型。",
+    "explanation_en": "The correct answer is 'historical'. 'Gone with the Wind' is a work by Margaret Mitchell, categorized as 歷史愛情.",
+    "difficulty": 3
   }
 ]

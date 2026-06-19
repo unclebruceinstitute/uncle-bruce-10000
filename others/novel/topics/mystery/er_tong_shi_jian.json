@@ -4,188 +4,356 @@
     "question_zh": "以下邊本係《兒童遊戲》？",
     "question_en": "Which one is 'Child's Play'?",
     "options_zh": [
-      "兒童遊戲",
-      "其他小說B",
       "其他小說A",
-      "其他小說C"
+      "其他小說C",
+      "其他小說B",
+      "兒童遊戲"
     ],
     "options_en": [
-      "Child's Play",
-      "Other Novel B",
       "Other Novel A",
-      "Other Novel C"
+      "Other Novel C",
+      "Other Novel B",
+      "Child's Play"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「兒童遊戲」。",
     "explanation_en": "The correct answer is 'Child's Play'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《兒童遊戲》嘅作者係邊個？",
     "question_en": "Who wrote 'Child's Play'?",
     "options_zh": [
-      "東野圭吾",
       "其他作者C",
       "其他作者B",
-      "其他作者A"
+      "其他作者A",
+      "東野圭吾"
     ],
     "options_en": [
-      "Keigo Higashino",
       "Author C",
       "Author B",
-      "Author A"
+      "Author A",
+      "Keigo Higashino"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「東野圭吾」。",
     "explanation_en": "The correct answer is 'Keigo Higashino'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《兒童遊戲》係邊年出版嘅？",
     "question_en": "What year was 'Child's Play' published?",
     "options_zh": [
+      "2021年",
       "2014年",
       "2024年",
-      "2019年",
-      "2021年"
+      "2019年"
     ],
     "options_en": [
+      "2021",
       "2014",
       "2024",
-      "2019",
-      "2021"
+      "2019"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「2019年」。",
     "explanation_en": "The correct answer is '2019'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《兒童遊戲》係邊國作品？",
     "question_en": "Which country is 'Child's Play' from?",
     "options_zh": [
-      "德國",
       "日本",
+      "德國",
       "法國",
       "韓國"
     ],
     "options_en": [
-      "Germany",
       "Japan",
+      "Germany",
       "France",
       "South Korea"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「日本」。",
     "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《兒童遊戲》主要講咩？",
     "question_en": "What is 'Child's Play' mainly about?",
     "options_zh": [
-      "體育競技",
-      "推理破案同懸疑故事",
       "科幻太空",
-      "財經商戰"
+      "財經商戰",
+      "推理破案同懸疑故事",
+      "體育競技"
     ],
     "options_en": [
-      "Sports",
-      "Mystery and detective",
       "Sci-fi",
-      "Business"
+      "Business",
+      "Mystery and detective",
+      "Sports"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
     "explanation_en": "The correct answer is 'Mystery and detective'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《兒童遊戲》入面有咩角色？",
     "question_en": "What characters are in 'Child's Play'?",
     "options_zh": [
+      "偵探/警察",
       "動物",
-      "機械人",
       "外星人",
-      "偵探/警察"
+      "機械人"
     ],
     "options_en": [
+      "Detective/Police",
       "Animals",
-      "Robots",
       "Aliens",
-      "Detective/Police"
+      "Robots"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「偵探/警察」。",
     "explanation_en": "The correct answer is 'Detective/Police'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《兒童遊戲》嘅故事背景喺邊度？",
     "question_en": "Where is 'Child's Play' set?",
     "options_zh": [
-      "歐洲中世紀",
       "虛擬世界",
       "中國/亞洲",
+      "歐洲中世紀",
       "未來太空"
     ],
     "options_en": [
-      "Medieval Europe",
       "Virtual world",
       "China/Asia",
+      "Medieval Europe",
       "Future space"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《兒童遊戲》係咪好受歡迎？",
     "question_en": "Is 'Child's Play' popular?",
     "options_zh": [
+      "已經過氣",
       "係，有一定讀者群",
       "唔係，好冷門",
-      "已經過氣",
       "只喺特定地區流行"
     ],
     "options_en": [
+      "Outdated",
       "Yes, has a readership",
       "No, very niche",
-      "Outdated",
       "Only popular locally"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《兒童遊戲》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Child's Play'?",
     "options_zh": [
-      "日本人",
       "德國人",
       "法國人",
+      "日本人",
       "韓國人"
     ],
     "options_en": [
-      "Japanese",
       "German",
       "French",
+      "Japanese",
       "Korean"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「日本人」。",
     "explanation_en": "The correct answer is 'Japanese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《兒童時間》嘅作者係邊個？",
+    "question_en": "Who wrote 'Children's Time'?",
+    "options_zh": [
+      "未知",
+      "古龍",
+      "魯迅",
+      "金庸"
+    ],
+    "options_en": [
+      "Unknown",
+      "Gu Long",
+      "Lu Xun",
+      "Jin Yong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「未知」。《兒童時間》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Children's Time' is a work by Unknown, categorized as 推理.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《兒童時間》？",
+    "question_en": "Which author wrote 'Children's Time'?",
+    "options_zh": [
+      "未知",
+      "古龍",
+      "魯迅",
+      "金庸"
+    ],
+    "options_en": [
+      "Unknown",
+      "Gu Long",
+      "Lu Xun",
+      "Jin Yong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「未知」。《兒童時間》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Children's Time' is a work by Unknown, categorized as 推理.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《兒童時間》屬於咩類型？",
+    "question_en": "What genre is 'Children's Time'?",
+    "options_zh": [
+      "驚悚",
+      "推理",
+      "犯罪",
+      "懸疑"
+    ],
+    "options_en": [
+      "驚悚",
+      "推理",
+      "犯罪",
+      "懸疑"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「推理」。《兒童時間》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is '推理'. 'Children's Time' is a work by Unknown, categorized as 推理.",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_zh": "《兒童時間》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Children's Time'?",
+    "options_zh": [
+      "未知",
+      "令狐沖",
+      "郭靖",
+      "張無忌"
+    ],
+    "options_en": [
+      "Unknown",
+      "Linghu Chong",
+      "Guo Jing",
+      "Zhang Wuji"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「未知」。《兒童時間》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Children's Time' is a work by Unknown, categorized as 推理.",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_zh": "《兒童時間》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Children's Time'?",
+    "options_zh": [
+      "郭靖",
+      "令狐沖",
+      "未知",
+      "張無忌"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Linghu Chong",
+      "Unknown",
+      "Zhang Wuji"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「未知」。《兒童時間》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Children's Time' is a work by Unknown, categorized as 推理.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《兒童時間》大約喺邊年出版？",
+    "question_en": "In which year was 'Children's Time' approximately published?",
+    "options_zh": [
+      "未知",
+      "1950",
+      "2000",
+      "1980"
+    ],
+    "options_en": [
+      "未知",
+      "1950",
+      "2000",
+      "1980"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「未知」。《兒童時間》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is '未知'. 'Children's Time' is a work by Unknown, categorized as 推理.",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《兒童時間》？",
+    "question_en": "Which one is 'Children's Time'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說C",
+      "兒童時間",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel C",
+      "Children's Time",
+      "Other Novel B"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「兒童時間」。《兒童時間》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Children's Time'. 'Children's Time' is a work by Unknown, categorized as 推理.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《兒童時間》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Children's Time' belong to?",
+    "options_zh": [
+      "文學",
+      "奇幻",
+      "歷史",
+      "mystery"
+    ],
+    "options_en": [
+      "Literary",
+      "Fantasy",
+      "Historical",
+      "mystery"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「mystery」。《兒童時間》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'mystery'. 'Children's Time' is a work by Unknown, categorized as 推理.",
+    "difficulty": 3
   }
 ]

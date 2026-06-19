@@ -21,19 +21,19 @@
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《獵魔士》嘅作者係邊個？",
     "question_en": "Who wrote 'The Witcher'?",
     "options_zh": [
-      "其他作者A",
-      "其他作者C",
       "其他作者B",
+      "其他作者C",
+      "其他作者A",
       "安傑·薩普kowski"
     ],
     "options_en": [
-      "Author A",
-      "Author C",
       "Author B",
+      "Author C",
+      "Author A",
       "Andrzej Sapkowski"
     ],
     "answer": 3,
@@ -42,7 +42,7 @@
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《獵魔士》係邊年出版嘅？",
     "question_en": "What year was 'The Witcher' published?",
     "options_zh": [
@@ -63,129 +63,297 @@
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《獵魔士》係邊國作品？",
     "question_en": "Which country is 'The Witcher' from?",
     "options_zh": [
       "法國",
+      "德國",
       "韓國",
-      "中國",
-      "德國"
+      "中國"
     ],
     "options_en": [
       "France",
+      "Germany",
       "South Korea",
-      "China",
-      "Germany"
+      "China"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《獵魔士》主要講咩？",
     "question_en": "What is 'The Witcher' mainly about?",
     "options_zh": [
       "財經商戰",
       "科幻太空",
-      "體育競技",
-      "奇幻冒險同超自然元素"
+      "奇幻冒險同超自然元素",
+      "體育競技"
     ],
     "options_en": [
       "Business",
       "Sci-fi",
-      "Sports",
-      "Fantasy adventure"
+      "Fantasy adventure",
+      "Sports"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「奇幻冒險同超自然元素」。",
     "explanation_en": "The correct answer is 'Fantasy adventure'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《獵魔士》入面有咩角色？",
     "question_en": "What characters are in 'The Witcher'?",
     "options_zh": [
+      "機械人",
       "外星人",
-      "修仙者/魔法師",
       "動物",
-      "機械人"
+      "修仙者/魔法師"
     ],
     "options_en": [
+      "Robots",
       "Aliens",
-      "Cultivators/Wizards",
       "Animals",
-      "Robots"
+      "Cultivators/Wizards"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「修仙者/魔法師」。",
     "explanation_en": "The correct answer is 'Cultivators/Wizards'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《獵魔士》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Witcher' set?",
     "options_zh": [
-      "虛擬世界",
       "虛構世界",
-      "未來太空",
-      "歐洲中世紀"
+      "虛擬世界",
+      "歐洲中世紀",
+      "未來太空"
     ],
     "options_en": [
-      "Virtual world",
       "Fictional world",
-      "Future space",
-      "Medieval Europe"
+      "Virtual world",
+      "Medieval Europe",
+      "Future space"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「虛構世界」。",
     "explanation_en": "The correct answer is 'Fictional world'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《獵魔士》係咪好受歡迎？",
     "question_en": "Is 'The Witcher' popular?",
     "options_zh": [
-      "係，有一定讀者群",
       "唔係，好冷門",
+      "係，有一定讀者群",
       "已經過氣",
       "只喺特定地區流行"
     ],
     "options_en": [
-      "Yes, has a readership",
       "No, very niche",
+      "Yes, has a readership",
       "Outdated",
       "Only popular locally"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《獵魔士》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'The Witcher'?",
     "options_zh": [
+      "法國人",
       "德國人",
       "中國人",
-      "法國人",
       "韓國人"
     ],
     "options_en": [
+      "French",
       "German",
       "Chinese",
-      "French",
       "Korean"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《巫師》嘅作者係邊個？",
+    "question_en": "Who wrote 'The Witcher'?",
+    "options_zh": [
+      "金庸",
+      "古龍",
+      "魯迅",
+      "安德烈·薩普科夫斯基"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Gu Long",
+      "Lu Xun",
+      "Andrzej Sapkowski"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「安德烈·薩普科夫斯基」。《巫師》係安德烈·薩普科夫斯基嘅作品，屬於奇幻類型。",
+    "explanation_en": "The correct answer is 'Andrzej Sapkowski'. 'The Witcher' is a work by Andrzej Sapkowski, categorized as 奇幻.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《巫師》？",
+    "question_en": "Which author wrote 'The Witcher'?",
+    "options_zh": [
+      "金庸",
+      "安德烈·薩普科夫斯基",
+      "古龍",
+      "魯迅"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Andrzej Sapkowski",
+      "Gu Long",
+      "Lu Xun"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「安德烈·薩普科夫斯基」。《巫師》係安德烈·薩普科夫斯基嘅作品，屬於奇幻類型。",
+    "explanation_en": "The correct answer is 'Andrzej Sapkowski'. 'The Witcher' is a work by Andrzej Sapkowski, categorized as 奇幻.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《巫師》屬於咩類型？",
+    "question_en": "What genre is 'The Witcher'?",
+    "options_zh": [
+      "推理",
+      "科幻",
+      "武俠",
+      "奇幻"
+    ],
+    "options_en": [
+      "推理",
+      "科幻",
+      "武俠",
+      "奇幻"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「奇幻」。《巫師》係安德烈·薩普科夫斯基嘅作品，屬於奇幻類型。",
+    "explanation_en": "The correct answer is '奇幻'. 'The Witcher' is a work by Andrzej Sapkowski, categorized as 奇幻.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "《巫師》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'The Witcher'?",
+    "options_zh": [
+      "令狐沖",
+      "郭靖",
+      "傑洛特",
+      "張無忌"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Guo Jing",
+      "Geralt",
+      "Zhang Wuji"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「傑洛特」。《巫師》係安德烈·薩普科夫斯基嘅作品，屬於奇幻類型。",
+    "explanation_en": "The correct answer is 'Geralt'. 'The Witcher' is a work by Andrzej Sapkowski, categorized as 奇幻.",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_zh": "《巫師》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'The Witcher'?",
+    "options_zh": [
+      "郭靖",
+      "張無忌",
+      "傑洛特",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Zhang Wuji",
+      "Geralt",
+      "Linghu Chong"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「傑洛特」。《巫師》係安德烈·薩普科夫斯基嘅作品，屬於奇幻類型。",
+    "explanation_en": "The correct answer is 'Geralt'. 'The Witcher' is a work by Andrzej Sapkowski, categorized as 奇幻.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《巫師》大約喺邊年出版？",
+    "question_en": "In which year was 'The Witcher' approximately published?",
+    "options_zh": [
+      "1970",
+      "1990",
+      "2000",
+      "1980"
+    ],
+    "options_en": [
+      "1970",
+      "1990",
+      "2000",
+      "1980"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「1990」。《巫師》係安德烈·薩普科夫斯基嘅作品，屬於奇幻類型。",
+    "explanation_en": "The correct answer is '1990'. 'The Witcher' is a work by Andrzej Sapkowski, categorized as 奇幻.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《巫師》？",
+    "question_en": "Which one is 'The Witcher'?",
+    "options_zh": [
+      "其他小說B",
+      "巫師",
+      "其他小說C",
+      "其他小說A"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "The Witcher",
+      "Other Novel C",
+      "Other Novel A"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「巫師」。《巫師》係安德烈·薩普科夫斯基嘅作品，屬於奇幻類型。",
+    "explanation_en": "The correct answer is 'The Witcher'. 'The Witcher' is a work by Andrzej Sapkowski, categorized as 奇幻.",
+    "difficulty": 3
+  },
+  {
+    "id": 17,
+    "question_zh": "《巫師》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'The Witcher' belong to?",
+    "options_zh": [
+      "文學",
+      "歷史",
+      "推理",
+      "fantasy"
+    ],
+    "options_en": [
+      "Literary",
+      "Historical",
+      "Mystery",
+      "fantasy"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「fantasy」。《巫師》係安德烈·薩普科夫斯基嘅作品，屬於奇幻類型。",
+    "explanation_en": "The correct answer is 'fantasy'. 'The Witcher' is a work by Andrzej Sapkowski, categorized as 奇幻.",
     "difficulty": 2
   }
 ]

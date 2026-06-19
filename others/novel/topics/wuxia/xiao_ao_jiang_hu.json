@@ -4,188 +4,356 @@
     "question_zh": "以下邊本係《笑傲江湖》？",
     "question_en": "Which one is 'The Smiling, Proud Wanderer'?",
     "options_zh": [
-      "其他小說C",
       "笑傲江湖",
+      "其他小說A",
       "其他小說B",
-      "其他小說A"
+      "其他小說C"
     ],
     "options_en": [
-      "Other Novel C",
       "The Smiling, Proud Wanderer",
+      "Other Novel A",
       "Other Novel B",
-      "Other Novel A"
+      "Other Novel C"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「笑傲江湖」。",
     "explanation_en": "The correct answer is 'The Smiling, Proud Wanderer'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《笑傲江湖》嘅作者係邊個？",
     "question_en": "Who wrote 'The Smiling, Proud Wanderer'?",
     "options_zh": [
+      "金庸",
       "其他作者C",
       "其他作者A",
-      "其他作者B",
-      "金庸"
+      "其他作者B"
     ],
     "options_en": [
+      "Jin Yong",
       "Author C",
       "Author A",
-      "Author B",
-      "Jin Yong"
+      "Author B"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「金庸」。",
     "explanation_en": "The correct answer is 'Jin Yong'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《笑傲江湖》係邊年出版嘅？",
     "question_en": "What year was 'The Smiling, Proud Wanderer' published?",
     "options_zh": [
-      "1972年",
-      "1965年",
       "1967年",
-      "1969年"
+      "1965年",
+      "1969年",
+      "1972年"
     ],
     "options_en": [
-      "1972",
-      "1965",
       "1967",
-      "1969"
+      "1965",
+      "1969",
+      "1972"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「1967年」。",
     "explanation_en": "The correct answer is '1967'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《笑傲江湖》係邊國作品？",
     "question_en": "Which country is 'The Smiling, Proud Wanderer' from?",
     "options_zh": [
       "韓國",
-      "中國",
+      "法國",
       "德國",
-      "法國"
+      "中國"
     ],
     "options_en": [
       "South Korea",
-      "China",
+      "France",
       "Germany",
-      "France"
+      "China"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《笑傲江湖》主要講咩？",
     "question_en": "What is 'The Smiling, Proud Wanderer' mainly about?",
     "options_zh": [
-      "江湖恩怨同武俠世界",
-      "科幻太空",
       "財經商戰",
-      "體育競技"
+      "江湖恩怨同武俠世界",
+      "體育競技",
+      "科幻太空"
     ],
     "options_en": [
-      "Martial arts world",
-      "Sci-fi",
       "Business",
-      "Sports"
+      "Martial arts world",
+      "Sports",
+      "Sci-fi"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
     "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《笑傲江湖》入面有咩角色？",
     "question_en": "What characters are in 'The Smiling, Proud Wanderer'?",
     "options_zh": [
-      "武林高手",
-      "外星人",
       "機械人",
-      "動物"
+      "武林高手",
+      "動物",
+      "外星人"
     ],
     "options_en": [
-      "Martial arts masters",
-      "Aliens",
       "Robots",
-      "Animals"
+      "Martial arts masters",
+      "Animals",
+      "Aliens"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「武林高手」。",
     "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《笑傲江湖》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Smiling, Proud Wanderer' set?",
     "options_zh": [
+      "虛擬世界",
       "古代中國",
       "歐洲中世紀",
-      "未來太空",
-      "虛擬世界"
+      "未來太空"
     ],
     "options_en": [
+      "Virtual world",
       "Ancient China",
       "Medieval Europe",
-      "Future space",
-      "Virtual world"
+      "Future space"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「古代中國」。",
     "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《笑傲江湖》係咪好受歡迎？",
     "question_en": "Is 'The Smiling, Proud Wanderer' popular?",
     "options_zh": [
-      "只喺特定地區流行",
-      "唔係，好冷門",
       "已經過氣",
-      "係，非常受歡迎"
+      "唔係，好冷門",
+      "係，非常受歡迎",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "Only popular locally",
-      "No, very niche",
       "Outdated",
-      "Yes, very popular"
+      "No, very niche",
+      "Yes, very popular",
+      "Only popular locally"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《笑傲江湖》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'The Smiling, Proud Wanderer'?",
     "options_zh": [
-      "德國人",
       "法國人",
-      "韓國人",
-      "中國人"
+      "德國人",
+      "中國人",
+      "韓國人"
     ],
     "options_en": [
-      "German",
       "French",
-      "Korean",
-      "Chinese"
+      "German",
+      "Chinese",
+      "Korean"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《笑傲江湖》嘅作者係邊個？",
+    "question_en": "Who wrote 'The Smiling, Proud Wanderer'?",
+    "options_zh": [
+      "古龍",
+      "老舍",
+      "魯迅",
+      "金庸"
+    ],
+    "options_en": [
+      "Gu Long",
+      "Lao She",
+      "Lu Xun",
+      "Jin Yong"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「金庸」。《笑傲江湖》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Jin Yong'. 'The Smiling, Proud Wanderer' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《笑傲江湖》？",
+    "question_en": "Which author wrote 'The Smiling, Proud Wanderer'?",
+    "options_zh": [
+      "金庸",
+      "古龍",
+      "魯迅",
+      "老舍"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Gu Long",
+      "Lu Xun",
+      "Lao She"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「金庸」。《笑傲江湖》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Jin Yong'. 'The Smiling, Proud Wanderer' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question_zh": "《笑傲江湖》屬於咩類型？",
+    "question_en": "What genre is 'The Smiling, Proud Wanderer'?",
+    "options_zh": [
+      "仙俠",
+      "動作",
+      "歷史",
+      "武俠"
+    ],
+    "options_en": [
+      "仙俠",
+      "動作",
+      "歷史",
+      "武俠"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「武俠」。《笑傲江湖》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is '武俠'. 'The Smiling, Proud Wanderer' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《笑傲江湖》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'The Smiling, Proud Wanderer'?",
+    "options_zh": [
+      "郭靖",
+      "楊過",
+      "令狐沖",
+      "張無忌"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Yang Guo",
+      "Linghu Chong",
+      "Zhang Wuji"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「令狐沖」。《笑傲江湖》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Linghu Chong'. 'The Smiling, Proud Wanderer' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《笑傲江湖》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'The Smiling, Proud Wanderer'?",
+    "options_zh": [
+      "郭靖",
+      "張無忌",
+      "令狐沖",
+      "楊過"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Zhang Wuji",
+      "Linghu Chong",
+      "Yang Guo"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「令狐沖」。《笑傲江湖》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Linghu Chong'. 'The Smiling, Proud Wanderer' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_zh": "《笑傲江湖》大約喺邊年出版？",
+    "question_en": "In which year was 'The Smiling, Proud Wanderer' approximately published?",
+    "options_zh": [
+      "1957",
+      "1977",
+      "1947",
+      "1967"
+    ],
+    "options_en": [
+      "1957",
+      "1977",
+      "1947",
+      "1967"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1967」。《笑傲江湖》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is '1967'. 'The Smiling, Proud Wanderer' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《笑傲江湖》？",
+    "question_en": "Which one is 'The Smiling, Proud Wanderer'?",
+    "options_zh": [
+      "笑傲江湖",
+      "其他小說C",
+      "其他小說A",
+      "其他小說B"
+    ],
+    "options_en": [
+      "The Smiling, Proud Wanderer",
+      "Other Novel C",
+      "Other Novel A",
+      "Other Novel B"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「笑傲江湖」。《笑傲江湖》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'The Smiling, Proud Wanderer'. 'The Smiling, Proud Wanderer' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《笑傲江湖》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'The Smiling, Proud Wanderer' belong to?",
+    "options_zh": [
+      "文學",
+      "歷史",
+      "奇幻",
+      "wuxia"
+    ],
+    "options_en": [
+      "Literary",
+      "Historical",
+      "Fantasy",
+      "wuxia"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「wuxia」。《笑傲江湖》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'wuxia'. 'The Smiling, Proud Wanderer' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 1
   }
 ]

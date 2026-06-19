@@ -4,87 +4,87 @@
     "question_zh": "以下邊本係《鹿鼎記》？",
     "question_en": "Which one is 'The Deer and the Cauldron'?",
     "options_zh": [
+      "鹿鼎記",
       "其他小說C",
-      "其他小說B",
       "其他小說A",
-      "鹿鼎記"
+      "其他小說B"
     ],
     "options_en": [
+      "The Deer and the Cauldron",
       "Other Novel C",
-      "Other Novel B",
       "Other Novel A",
-      "The Deer and the Cauldron"
+      "Other Novel B"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「鹿鼎記」。",
     "explanation_en": "The correct answer is 'The Deer and the Cauldron'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《鹿鼎記》嘅作者係邊個？",
     "question_en": "Who wrote 'The Deer and the Cauldron'?",
     "options_zh": [
-      "其他作者C",
-      "其他作者A",
+      "金庸",
       "其他作者B",
-      "金庸"
+      "其他作者C",
+      "其他作者A"
     ],
     "options_en": [
-      "Author C",
-      "Author A",
+      "Jin Yong",
       "Author B",
-      "Jin Yong"
+      "Author C",
+      "Author A"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「金庸」。",
     "explanation_en": "The correct answer is 'Jin Yong'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《鹿鼎記》係邊年出版嘅？",
     "question_en": "What year was 'The Deer and the Cauldron' published?",
     "options_zh": [
-      "1969年",
-      "1971年",
       "1967年",
+      "1971年",
+      "1969年",
       "1964年"
     ],
     "options_en": [
-      "1969",
-      "1971",
       "1967",
+      "1971",
+      "1969",
       "1964"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「1969年」。",
     "explanation_en": "The correct answer is '1969'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《鹿鼎記》係邊國作品？",
     "question_en": "Which country is 'The Deer and the Cauldron' from?",
     "options_zh": [
+      "中國",
       "韓國",
       "德國",
-      "中國",
       "法國"
     ],
     "options_en": [
+      "China",
       "South Korea",
       "Germany",
-      "China",
       "France"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《鹿鼎記》主要講咩？",
     "question_en": "What is 'The Deer and the Cauldron' mainly about?",
     "options_zh": [
@@ -105,20 +105,20 @@
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《鹿鼎記》入面有咩角色？",
     "question_en": "What characters are in 'The Deer and the Cauldron'?",
     "options_zh": [
-      "機械人",
-      "主要角色",
       "外星人",
-      "動物"
+      "主要角色",
+      "動物",
+      "機械人"
     ],
     "options_en": [
-      "Robots",
-      "Main characters",
       "Aliens",
-      "Animals"
+      "Main characters",
+      "Animals",
+      "Robots"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「主要角色」。",
@@ -126,66 +126,234 @@
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《鹿鼎記》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Deer and the Cauldron' set?",
     "options_zh": [
-      "古代中國",
       "歐洲中世紀",
+      "古代中國",
       "虛擬世界",
       "未來太空"
     ],
     "options_en": [
-      "Ancient China",
       "Medieval Europe",
+      "Ancient China",
       "Virtual world",
       "Future space"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「古代中國」。",
     "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《鹿鼎記》係咪好受歡迎？",
     "question_en": "Is 'The Deer and the Cauldron' popular?",
     "options_zh": [
       "已經過氣",
-      "係，非常受歡迎",
+      "唔係，好冷門",
       "只喺特定地區流行",
-      "唔係，好冷門"
+      "係，非常受歡迎"
     ],
     "options_en": [
       "Outdated",
-      "Yes, very popular",
+      "No, very niche",
       "Only popular locally",
-      "No, very niche"
+      "Yes, very popular"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《鹿鼎記》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'The Deer and the Cauldron'?",
     "options_zh": [
       "韓國人",
+      "德國人",
       "法國人",
-      "中國人",
-      "德國人"
+      "中國人"
     ],
     "options_en": [
       "Korean",
+      "German",
       "French",
-      "Chinese",
-      "German"
+      "Chinese"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《鹿鼎記》嘅作者係邊個？",
+    "question_en": "Who wrote 'The Deer and the Cauldron'?",
+    "options_zh": [
+      "老舍",
+      "金庸",
+      "魯迅",
+      "古龍"
+    ],
+    "options_en": [
+      "Lao She",
+      "Jin Yong",
+      "Lu Xun",
+      "Gu Long"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「金庸」。《鹿鼎記》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Jin Yong'. 'The Deer and the Cauldron' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《鹿鼎記》？",
+    "question_en": "Which author wrote 'The Deer and the Cauldron'?",
+    "options_zh": [
+      "金庸",
+      "老舍",
+      "古龍",
+      "魯迅"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Lao She",
+      "Gu Long",
+      "Lu Xun"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「金庸」。《鹿鼎記》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Jin Yong'. 'The Deer and the Cauldron' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question_zh": "《鹿鼎記》屬於咩類型？",
+    "question_en": "What genre is 'The Deer and the Cauldron'?",
+    "options_zh": [
+      "武俠",
+      "歷史",
+      "動作",
+      "仙俠"
+    ],
+    "options_en": [
+      "武俠",
+      "歷史",
+      "動作",
+      "仙俠"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「武俠」。《鹿鼎記》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is '武俠'. 'The Deer and the Cauldron' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "《鹿鼎記》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'The Deer and the Cauldron'?",
+    "options_zh": [
+      "令狐沖",
+      "郭靖",
+      "張無忌",
+      "韋小寶"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Guo Jing",
+      "Zhang Wuji",
+      "Wei Xiaobao"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「韋小寶」。《鹿鼎記》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Wei Xiaobao'. 'The Deer and the Cauldron' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_zh": "《鹿鼎記》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'The Deer and the Cauldron'?",
+    "options_zh": [
+      "韋小寶",
+      "郭靖",
+      "張無忌",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Wei Xiaobao",
+      "Guo Jing",
+      "Zhang Wuji",
+      "Linghu Chong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「韋小寶」。《鹿鼎記》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Wei Xiaobao'. 'The Deer and the Cauldron' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《鹿鼎記》大約喺邊年出版？",
+    "question_en": "In which year was 'The Deer and the Cauldron' approximately published?",
+    "options_zh": [
+      "1949",
+      "1969",
+      "1979",
+      "1959"
+    ],
+    "options_en": [
+      "1949",
+      "1969",
+      "1979",
+      "1959"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「1969」。《鹿鼎記》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is '1969'. 'The Deer and the Cauldron' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《鹿鼎記》？",
+    "question_en": "Which one is 'The Deer and the Cauldron'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說B",
+      "鹿鼎記",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel B",
+      "The Deer and the Cauldron",
+      "Other Novel C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「鹿鼎記」。《鹿鼎記》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'The Deer and the Cauldron'. 'The Deer and the Cauldron' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《鹿鼎記》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'The Deer and the Cauldron' belong to?",
+    "options_zh": [
+      "推理",
+      "historical",
+      "奇幻",
+      "文學"
+    ],
+    "options_en": [
+      "Mystery",
+      "historical",
+      "Fantasy",
+      "Literary"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「historical」。《鹿鼎記》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'historical'. 'The Deer and the Cauldron' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 1
   }
 ]

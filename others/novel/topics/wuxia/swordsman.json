@@ -4,58 +4,58 @@
     "question_zh": "以下邊本係《笑傲江湖外傳》？",
     "question_en": "Which one is 'The Swordsman'?",
     "options_zh": [
-      "其他小說B",
-      "笑傲江湖外傳",
       "其他小說A",
-      "其他小說C"
+      "其他小說C",
+      "笑傲江湖外傳",
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel B",
-      "The Swordsman",
       "Other Novel A",
-      "Other Novel C"
+      "Other Novel C",
+      "The Swordsman",
+      "Other Novel B"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「笑傲江湖外傳」。",
     "explanation_en": "The correct answer is 'The Swordsman'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《笑傲江湖外傳》嘅作者係邊個？",
     "question_en": "Who wrote 'The Swordsman'?",
     "options_zh": [
-      "金庸",
-      "其他作者C",
       "其他作者B",
-      "其他作者A"
+      "金庸",
+      "其他作者A",
+      "其他作者C"
     ],
     "options_en": [
-      "Jin Yong",
-      "Author C",
       "Author B",
-      "Author A"
+      "Jin Yong",
+      "Author A",
+      "Author C"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「金庸」。",
     "explanation_en": "The correct answer is 'Jin Yong'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《笑傲江湖外傳》係邊年出版嘅？",
     "question_en": "What year was 'The Swordsman' published?",
     "options_zh": [
       "1967年",
-      "1970年",
+      "1969年",
       "1972年",
-      "1969年"
+      "1970年"
     ],
     "options_en": [
       "1967",
-      "1970",
+      "1969",
       "1972",
-      "1969"
+      "1970"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「1967年」。",
@@ -63,129 +63,297 @@
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《笑傲江湖外傳》係邊國作品？",
     "question_en": "Which country is 'The Swordsman' from?",
     "options_zh": [
+      "中國",
       "德國",
-      "法國",
       "韓國",
-      "中國"
+      "法國"
     ],
     "options_en": [
+      "China",
       "Germany",
-      "France",
       "South Korea",
-      "China"
+      "France"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《笑傲江湖外傳》主要講咩？",
     "question_en": "What is 'The Swordsman' mainly about?",
     "options_zh": [
       "體育競技",
-      "江湖恩怨同武俠世界",
+      "財經商戰",
       "科幻太空",
-      "財經商戰"
+      "江湖恩怨同武俠世界"
     ],
     "options_en": [
       "Sports",
-      "Martial arts world",
+      "Business",
       "Sci-fi",
-      "Business"
+      "Martial arts world"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
     "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《笑傲江湖外傳》入面有咩角色？",
     "question_en": "What characters are in 'The Swordsman'?",
     "options_zh": [
       "外星人",
-      "動物",
       "機械人",
-      "武林高手"
+      "武林高手",
+      "動物"
     ],
     "options_en": [
       "Aliens",
-      "Animals",
       "Robots",
-      "Martial arts masters"
+      "Martial arts masters",
+      "Animals"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「武林高手」。",
     "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《笑傲江湖外傳》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Swordsman' set?",
     "options_zh": [
-      "未來太空",
-      "歐洲中世紀",
+      "古代中國",
       "虛擬世界",
-      "古代中國"
+      "未來太空",
+      "歐洲中世紀"
     ],
     "options_en": [
-      "Future space",
-      "Medieval Europe",
+      "Ancient China",
       "Virtual world",
-      "Ancient China"
+      "Future space",
+      "Medieval Europe"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「古代中國」。",
     "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《笑傲江湖外傳》係咪好受歡迎？",
     "question_en": "Is 'The Swordsman' popular?",
     "options_zh": [
-      "已經過氣",
       "係，有一定讀者群",
       "唔係，好冷門",
-      "只喺特定地區流行"
+      "只喺特定地區流行",
+      "已經過氣"
     ],
     "options_en": [
-      "Outdated",
       "Yes, has a readership",
       "No, very niche",
-      "Only popular locally"
+      "Only popular locally",
+      "Outdated"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《笑傲江湖外傳》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'The Swordsman'?",
     "options_zh": [
-      "德國人",
-      "法國人",
+      "韓國人",
       "中國人",
-      "韓國人"
+      "法國人",
+      "德國人"
     ],
     "options_en": [
-      "German",
-      "French",
+      "Korean",
       "Chinese",
-      "Korean"
+      "French",
+      "German"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《笑傲江湖》嘅作者係邊個？",
+    "question_en": "Who wrote 'The Smiling, Proud Wanderer'?",
+    "options_zh": [
+      "金庸",
+      "魯迅",
+      "古龍",
+      "老舍"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Lu Xun",
+      "Gu Long",
+      "Lao She"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「金庸」。《笑傲江湖》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Jin Yong'. 'The Smiling, Proud Wanderer' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《笑傲江湖》？",
+    "question_en": "Which author wrote 'The Smiling, Proud Wanderer'?",
+    "options_zh": [
+      "古龍",
+      "老舍",
+      "魯迅",
+      "金庸"
+    ],
+    "options_en": [
+      "Gu Long",
+      "Lao She",
+      "Lu Xun",
+      "Jin Yong"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「金庸」。《笑傲江湖》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Jin Yong'. 'The Smiling, Proud Wanderer' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《笑傲江湖》屬於咩類型？",
+    "question_en": "What genre is 'The Smiling, Proud Wanderer'?",
+    "options_zh": [
+      "武俠",
+      "仙俠",
+      "歷史",
+      "動作"
+    ],
+    "options_en": [
+      "武俠",
+      "仙俠",
+      "歷史",
+      "動作"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「武俠」。《笑傲江湖》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is '武俠'. 'The Smiling, Proud Wanderer' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "《笑傲江湖》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'The Smiling, Proud Wanderer'?",
+    "options_zh": [
+      "郭靖",
+      "張無忌",
+      "令狐沖",
+      "楊過"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Zhang Wuji",
+      "Linghu Chong",
+      "Yang Guo"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「令狐沖」。《笑傲江湖》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Linghu Chong'. 'The Smiling, Proud Wanderer' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《笑傲江湖》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'The Smiling, Proud Wanderer'?",
+    "options_zh": [
+      "令狐沖",
+      "張無忌",
+      "楊過",
+      "郭靖"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Zhang Wuji",
+      "Yang Guo",
+      "Guo Jing"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「令狐沖」。《笑傲江湖》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Linghu Chong'. 'The Smiling, Proud Wanderer' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《笑傲江湖》大約喺邊年出版？",
+    "question_en": "In which year was 'The Smiling, Proud Wanderer' approximately published?",
+    "options_zh": [
+      "1977",
+      "1967",
+      "1947",
+      "1957"
+    ],
+    "options_en": [
+      "1977",
+      "1967",
+      "1947",
+      "1957"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「1967」。《笑傲江湖》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is '1967'. 'The Smiling, Proud Wanderer' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《笑傲江湖》？",
+    "question_en": "Which one is 'The Smiling, Proud Wanderer'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說B",
+      "其他小說C",
+      "笑傲江湖"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel B",
+      "Other Novel C",
+      "The Smiling, Proud Wanderer"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「笑傲江湖」。《笑傲江湖》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'The Smiling, Proud Wanderer'. 'The Smiling, Proud Wanderer' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《笑傲江湖》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'The Smiling, Proud Wanderer' belong to?",
+    "options_zh": [
+      "歷史",
+      "奇幻",
+      "文學",
+      "wuxia"
+    ],
+    "options_en": [
+      "Historical",
+      "Fantasy",
+      "Literary",
+      "wuxia"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「wuxia」。《笑傲江湖》係金庸嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'wuxia'. 'The Smiling, Proud Wanderer' is a work by Jin Yong, categorized as 武俠.",
+    "difficulty": 3
   }
 ]

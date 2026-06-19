@@ -4,24 +4,24 @@
     "question_zh": "以下邊本係《戰爭與和平》？",
     "question_en": "Which one is 'War and Peace'?",
     "options_zh": [
-      "其他小說C",
       "戰爭與和平",
       "其他小說B",
+      "其他小說C",
       "其他小說A"
     ],
     "options_en": [
-      "Other Novel C",
       "War and Peace",
       "Other Novel B",
+      "Other Novel C",
       "Other Novel A"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「戰爭與和平」。",
     "explanation_en": "The correct answer is 'War and Peace'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《戰爭與和平》嘅作者係邊個？",
     "question_en": "Who wrote 'War and Peace'?",
     "options_zh": [
@@ -42,41 +42,41 @@
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《戰爭與和平》係邊年出版嘅？",
     "question_en": "What year was 'War and Peace' published?",
     "options_zh": [
-      "1864年",
-      "1866年",
       "1869年",
-      "1872年"
+      "1872年",
+      "1866年",
+      "1864年"
     ],
     "options_en": [
-      "1864",
-      "1866",
       "1869",
-      "1872"
+      "1872",
+      "1866",
+      "1864"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「1869年」。",
     "explanation_en": "The correct answer is '1869'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《戰爭與和平》係邊國作品？",
     "question_en": "Which country is 'War and Peace' from?",
     "options_zh": [
       "俄羅斯",
-      "法國",
       "韓國",
-      "德國"
+      "德國",
+      "法國"
     ],
     "options_en": [
       "Russia",
-      "France",
       "South Korea",
-      "Germany"
+      "Germany",
+      "France"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「俄羅斯」。",
@@ -84,28 +84,28 @@
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《戰爭與和平》主要講咩？",
     "question_en": "What is 'War and Peace' mainly about?",
     "options_zh": [
+      "體育競技",
       "財經商戰",
-      "歷史故事同時代變遷",
       "科幻太空",
-      "體育競技"
+      "歷史故事同時代變遷"
     ],
     "options_en": [
+      "Sports",
       "Business",
-      "Historical story",
       "Sci-fi",
-      "Sports"
+      "Historical story"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「歷史故事同時代變遷」。",
     "explanation_en": "The correct answer is 'Historical story'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《戰爭與和平》入面有咩角色？",
     "question_en": "What characters are in 'War and Peace'?",
     "options_zh": [
@@ -126,66 +126,234 @@
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《戰爭與和平》嘅故事背景喺邊度？",
     "question_en": "Where is 'War and Peace' set?",
     "options_zh": [
+      "未來太空",
       "虛擬世界",
       "歐洲中世紀",
-      "古代中國",
-      "未來太空"
+      "古代中國"
     ],
     "options_en": [
+      "Future space",
       "Virtual world",
       "Medieval Europe",
-      "Ancient China",
-      "Future space"
+      "Ancient China"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「古代中國」。",
     "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《戰爭與和平》係咪好受歡迎？",
     "question_en": "Is 'War and Peace' popular?",
     "options_zh": [
-      "已經過氣",
-      "唔係，好冷門",
       "係，非常受歡迎",
+      "唔係，好冷門",
+      "已經過氣",
       "只喺特定地區流行"
     ],
     "options_en": [
-      "Outdated",
-      "No, very niche",
       "Yes, very popular",
+      "No, very niche",
+      "Outdated",
       "Only popular locally"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《戰爭與和平》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'War and Peace'?",
     "options_zh": [
-      "中國人",
-      "韓國人",
       "德國人",
-      "法國人"
+      "法國人",
+      "韓國人",
+      "中國人"
     ],
     "options_en": [
-      "Chinese",
-      "Korean",
       "German",
-      "French"
+      "French",
+      "Korean",
+      "Chinese"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《戰爭與和平》嘅作者係邊個？",
+    "question_en": "Who wrote 'War and Peace'?",
+    "options_zh": [
+      "金庸",
+      "列夫·托爾斯泰",
+      "古龍",
+      "魯迅"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Leo Tolstoy",
+      "Gu Long",
+      "Lu Xun"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「列夫·托爾斯泰」。《戰爭與和平》係列夫·托爾斯泰嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'Leo Tolstoy'. 'War and Peace' is a work by Leo Tolstoy, categorized as 歷史.",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《戰爭與和平》？",
+    "question_en": "Which author wrote 'War and Peace'?",
+    "options_zh": [
+      "列夫·托爾斯泰",
+      "古龍",
+      "金庸",
+      "魯迅"
+    ],
+    "options_en": [
+      "Leo Tolstoy",
+      "Gu Long",
+      "Jin Yong",
+      "Lu Xun"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「列夫·托爾斯泰」。《戰爭與和平》係列夫·托爾斯泰嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'Leo Tolstoy'. 'War and Peace' is a work by Leo Tolstoy, categorized as 歷史.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《戰爭與和平》屬於咩類型？",
+    "question_en": "What genre is 'War and Peace'?",
+    "options_zh": [
+      "文學",
+      "傳記",
+      "歷史",
+      "古典"
+    ],
+    "options_en": [
+      "文學",
+      "傳記",
+      "歷史",
+      "古典"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「歷史」。《戰爭與和平》係列夫·托爾斯泰嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is '歷史'. 'War and Peace' is a work by Leo Tolstoy, categorized as 歷史.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "《戰爭與和平》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'War and Peace'?",
+    "options_zh": [
+      "皮埃爾",
+      "郭靖",
+      "張無忌",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Pierre",
+      "Guo Jing",
+      "Zhang Wuji",
+      "Linghu Chong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「皮埃爾」。《戰爭與和平》係列夫·托爾斯泰嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'Pierre'. 'War and Peace' is a work by Leo Tolstoy, categorized as 歷史.",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_zh": "《戰爭與和平》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'War and Peace'?",
+    "options_zh": [
+      "郭靖",
+      "張無忌",
+      "皮埃爾",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Zhang Wuji",
+      "Pierre",
+      "Linghu Chong"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「皮埃爾」。《戰爭與和平》係列夫·托爾斯泰嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'Pierre'. 'War and Peace' is a work by Leo Tolstoy, categorized as 歷史.",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_zh": "《戰爭與和平》大約喺邊年出版？",
+    "question_en": "In which year was 'War and Peace' approximately published?",
+    "options_zh": [
+      "1879",
+      "1859",
+      "1869",
+      "1849"
+    ],
+    "options_en": [
+      "1879",
+      "1859",
+      "1869",
+      "1849"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「1869」。《戰爭與和平》係列夫·托爾斯泰嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is '1869'. 'War and Peace' is a work by Leo Tolstoy, categorized as 歷史.",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《戰爭與和平》？",
+    "question_en": "Which one is 'War and Peace'?",
+    "options_zh": [
+      "其他小說A",
+      "其他小說B",
+      "戰爭與和平",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Other Novel B",
+      "War and Peace",
+      "Other Novel C"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「戰爭與和平」。《戰爭與和平》係列夫·托爾斯泰嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'War and Peace'. 'War and Peace' is a work by Leo Tolstoy, categorized as 歷史.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《戰爭與和平》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'War and Peace' belong to?",
+    "options_zh": [
+      "推理",
+      "historical",
+      "奇幻",
+      "文學"
+    ],
+    "options_en": [
+      "Mystery",
+      "historical",
+      "Fantasy",
+      "Literary"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「historical」。《戰爭與和平》係列夫·托爾斯泰嘅作品，屬於歷史類型。",
+    "explanation_en": "The correct answer is 'historical'. 'War and Peace' is a work by Leo Tolstoy, categorized as 歷史.",
+    "difficulty": 1
   }
 ]

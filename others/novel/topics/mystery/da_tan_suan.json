@@ -4,37 +4,37 @@
     "question_zh": "以下邊本係《福爾摩斯》？",
     "question_en": "Which one is 'Sherlock Holmes'?",
     "options_zh": [
-      "其他小說C",
+      "福爾摩斯",
       "其他小說B",
       "其他小說A",
-      "福爾摩斯"
+      "其他小說C"
     ],
     "options_en": [
-      "Other Novel C",
+      "Sherlock Holmes",
       "Other Novel B",
       "Other Novel A",
-      "Sherlock Holmes"
+      "Other Novel C"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「福爾摩斯」。",
     "explanation_en": "The correct answer is 'Sherlock Holmes'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《福爾摩斯》嘅作者係邊個？",
     "question_en": "Who wrote 'Sherlock Holmes'?",
     "options_zh": [
       "其他作者C",
-      "其他作者A",
+      "其他作者B",
       "柯南·道爾",
-      "其他作者B"
+      "其他作者A"
     ],
     "options_en": [
       "Author C",
-      "Author A",
+      "Author B",
       "Arthur Conan Doyle",
-      "Author B"
+      "Author A"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「柯南·道爾」。",
@@ -42,62 +42,62 @@
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《福爾摩斯》係邊年出版嘅？",
     "question_en": "What year was 'Sherlock Holmes' published?",
     "options_zh": [
       "1897年",
-      "1890年",
       "1892年",
-      "1887年"
+      "1887年",
+      "1890年"
     ],
     "options_en": [
       "1897",
-      "1890",
       "1892",
-      "1887"
+      "1887",
+      "1890"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「1892年」。",
     "explanation_en": "The correct answer is '1892'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《福爾摩斯》係邊國作品？",
     "question_en": "Which country is 'Sherlock Holmes' from?",
     "options_zh": [
       "韓國",
-      "中國",
+      "德國",
       "法國",
-      "德國"
+      "中國"
     ],
     "options_en": [
       "South Korea",
-      "China",
+      "Germany",
       "France",
-      "Germany"
+      "China"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《福爾摩斯》主要講咩？",
     "question_en": "What is 'Sherlock Holmes' mainly about?",
     "options_zh": [
       "推理破案同懸疑故事",
       "體育競技",
-      "財經商戰",
-      "科幻太空"
+      "科幻太空",
+      "財經商戰"
     ],
     "options_en": [
       "Mystery and detective",
       "Sports",
-      "Business",
-      "Sci-fi"
+      "Sci-fi",
+      "Business"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
@@ -105,87 +105,255 @@
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《福爾摩斯》入面有咩角色？",
     "question_en": "What characters are in 'Sherlock Holmes'?",
     "options_zh": [
-      "偵探/警察",
-      "機械人",
       "外星人",
-      "動物"
+      "偵探/警察",
+      "動物",
+      "機械人"
     ],
     "options_en": [
-      "Detective/Police",
-      "Robots",
       "Aliens",
-      "Animals"
+      "Detective/Police",
+      "Animals",
+      "Robots"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「偵探/警察」。",
     "explanation_en": "The correct answer is 'Detective/Police'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《福爾摩斯》嘅故事背景喺邊度？",
     "question_en": "Where is 'Sherlock Holmes' set?",
     "options_zh": [
       "虛擬世界",
       "未來太空",
-      "中國/亞洲",
-      "歐洲中世紀"
+      "歐洲中世紀",
+      "中國/亞洲"
     ],
     "options_en": [
       "Virtual world",
       "Future space",
-      "China/Asia",
-      "Medieval Europe"
+      "Medieval Europe",
+      "China/Asia"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《福爾摩斯》係咪好受歡迎？",
     "question_en": "Is 'Sherlock Holmes' popular?",
     "options_zh": [
+      "已經過氣",
       "係，非常受歡迎",
       "只喺特定地區流行",
-      "已經過氣",
       "唔係，好冷門"
     ],
     "options_en": [
+      "Outdated",
       "Yes, very popular",
       "Only popular locally",
-      "Outdated",
       "No, very niche"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《福爾摩斯》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Sherlock Holmes'?",
     "options_zh": [
-      "德國人",
-      "中國人",
       "韓國人",
-      "法國人"
+      "中國人",
+      "法國人",
+      "德國人"
     ],
     "options_en": [
-      "German",
-      "Chinese",
       "Korean",
-      "French"
+      "Chinese",
+      "French",
+      "German"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《大偵探》嘅作者係邊個？",
+    "question_en": "Who wrote 'The Great Detective'?",
+    "options_zh": [
+      "古龍",
+      "魯迅",
+      "未知",
+      "金庸"
+    ],
+    "options_en": [
+      "Gu Long",
+      "Lu Xun",
+      "Unknown",
+      "Jin Yong"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「未知」。《大偵探》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'The Great Detective' is a work by Unknown, categorized as 推理.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《大偵探》？",
+    "question_en": "Which author wrote 'The Great Detective'?",
+    "options_zh": [
+      "魯迅",
+      "金庸",
+      "未知",
+      "古龍"
+    ],
+    "options_en": [
+      "Lu Xun",
+      "Jin Yong",
+      "Unknown",
+      "Gu Long"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「未知」。《大偵探》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'The Great Detective' is a work by Unknown, categorized as 推理.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《大偵探》屬於咩類型？",
+    "question_en": "What genre is 'The Great Detective'?",
+    "options_zh": [
+      "犯罪",
+      "驚悚",
+      "推理",
+      "懸疑"
+    ],
+    "options_en": [
+      "犯罪",
+      "驚悚",
+      "推理",
+      "懸疑"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「推理」。《大偵探》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is '推理'. 'The Great Detective' is a work by Unknown, categorized as 推理.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "《大偵探》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'The Great Detective'?",
+    "options_zh": [
+      "令狐沖",
+      "未知",
+      "郭靖",
+      "張無忌"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Unknown",
+      "Guo Jing",
+      "Zhang Wuji"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「未知」。《大偵探》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'The Great Detective' is a work by Unknown, categorized as 推理.",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《大偵探》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'The Great Detective'?",
+    "options_zh": [
+      "郭靖",
+      "未知",
+      "令狐沖",
+      "張無忌"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Unknown",
+      "Linghu Chong",
+      "Zhang Wuji"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「未知」。《大偵探》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'The Great Detective' is a work by Unknown, categorized as 推理.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《大偵探》大約喺邊年出版？",
+    "question_en": "In which year was 'The Great Detective' approximately published?",
+    "options_zh": [
+      "1950",
+      "2000",
+      "未知",
+      "1980"
+    ],
+    "options_en": [
+      "1950",
+      "2000",
+      "未知",
+      "1980"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「未知」。《大偵探》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is '未知'. 'The Great Detective' is a work by Unknown, categorized as 推理.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《大偵探》？",
+    "question_en": "Which one is 'The Great Detective'?",
+    "options_zh": [
+      "其他小說B",
+      "其他小說C",
+      "其他小說A",
+      "大偵探"
+    ],
+    "options_en": [
+      "Other Novel B",
+      "Other Novel C",
+      "Other Novel A",
+      "The Great Detective"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「大偵探」。《大偵探》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'The Great Detective'. 'The Great Detective' is a work by Unknown, categorized as 推理.",
+    "difficulty": 3
+  },
+  {
+    "id": 17,
+    "question_zh": "《大偵探》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'The Great Detective' belong to?",
+    "options_zh": [
+      "mystery",
+      "文學",
+      "歷史",
+      "奇幻"
+    ],
+    "options_en": [
+      "mystery",
+      "Literary",
+      "Historical",
+      "Fantasy"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「mystery」。《大偵探》係未知嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'mystery'. 'The Great Detective' is a work by Unknown, categorized as 推理.",
+    "difficulty": 1
   }
 ]

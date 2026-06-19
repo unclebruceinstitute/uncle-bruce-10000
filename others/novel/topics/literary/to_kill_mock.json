@@ -4,37 +4,37 @@
     "question_zh": "以下邊本係《梅崗城故事》？",
     "question_en": "Which one is 'To Kill a Mockingbird'?",
     "options_zh": [
-      "其他小說C",
-      "其他小說A",
       "梅崗城故事",
-      "其他小說B"
+      "其他小說C",
+      "其他小說B",
+      "其他小說A"
     ],
     "options_en": [
-      "Other Novel C",
-      "Other Novel A",
       "To Kill a Mockingbird",
-      "Other Novel B"
+      "Other Novel C",
+      "Other Novel B",
+      "Other Novel A"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「梅崗城故事」。",
     "explanation_en": "The correct answer is 'To Kill a Mockingbird'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《梅崗城故事》嘅作者係邊個？",
     "question_en": "Who wrote 'To Kill a Mockingbird'?",
     "options_zh": [
-      "其他作者A",
+      "其他作者B",
       "哈珀·李",
-      "其他作者C",
-      "其他作者B"
+      "其他作者A",
+      "其他作者C"
     ],
     "options_en": [
-      "Author A",
+      "Author B",
       "Harper Lee",
-      "Author C",
-      "Author B"
+      "Author A",
+      "Author C"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「哈珀·李」。",
@@ -42,104 +42,104 @@
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《梅崗城故事》係邊年出版嘅？",
     "question_en": "What year was 'To Kill a Mockingbird' published?",
     "options_zh": [
-      "1960年",
       "1957年",
       "1958年",
+      "1960年",
       "1963年"
     ],
     "options_en": [
-      "1960",
       "1957",
       "1958",
+      "1960",
       "1963"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「1960年」。",
     "explanation_en": "The correct answer is '1960'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《梅崗城故事》係邊國作品？",
     "question_en": "Which country is 'To Kill a Mockingbird' from?",
     "options_zh": [
-      "韓國",
-      "德國",
       "法國",
-      "中國"
+      "韓國",
+      "中國",
+      "德國"
     ],
     "options_en": [
-      "South Korea",
-      "Germany",
       "France",
-      "China"
+      "South Korea",
+      "China",
+      "Germany"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《梅崗城故事》主要講咩？",
     "question_en": "What is 'To Kill a Mockingbird' mainly about?",
     "options_zh": [
       "體育競技",
-      "財經商戰",
       "現實生活同文學表達",
+      "財經商戰",
       "科幻太空"
     ],
     "options_en": [
       "Sports",
-      "Business",
       "Real life and literary",
+      "Business",
       "Sci-fi"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
     "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《梅崗城故事》入面有咩角色？",
     "question_en": "What characters are in 'To Kill a Mockingbird'?",
     "options_zh": [
       "機械人",
-      "外星人",
       "主要角色",
+      "外星人",
       "動物"
     ],
     "options_en": [
       "Robots",
-      "Aliens",
       "Main characters",
+      "Aliens",
       "Animals"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《梅崗城故事》嘅故事背景喺邊度？",
     "question_en": "Where is 'To Kill a Mockingbird' set?",
     "options_zh": [
-      "歐洲中世紀",
-      "中國/亞洲",
       "虛擬世界",
-      "未來太空"
+      "中國/亞洲",
+      "未來太空",
+      "歐洲中世紀"
     ],
     "options_en": [
-      "Medieval Europe",
-      "China/Asia",
       "Virtual world",
-      "Future space"
+      "China/Asia",
+      "Future space",
+      "Medieval Europe"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「中國/亞洲」。",
@@ -147,45 +147,213 @@
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《梅崗城故事》係咪好受歡迎？",
     "question_en": "Is 'To Kill a Mockingbird' popular?",
     "options_zh": [
-      "已經過氣",
-      "唔係，好冷門",
       "只喺特定地區流行",
-      "係，非常受歡迎"
+      "已經過氣",
+      "係，非常受歡迎",
+      "唔係，好冷門"
     ],
     "options_en": [
-      "Outdated",
-      "No, very niche",
       "Only popular locally",
-      "Yes, very popular"
+      "Outdated",
+      "Yes, very popular",
+      "No, very niche"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《梅崗城故事》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'To Kill a Mockingbird'?",
     "options_zh": [
-      "中國人",
-      "韓國人",
       "法國人",
-      "德國人"
+      "德國人",
+      "中國人",
+      "韓國人"
     ],
     "options_en": [
-      "Chinese",
-      "Korean",
       "French",
-      "German"
+      "German",
+      "Chinese",
+      "Korean"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《殺死一隻知更鳥》嘅作者係邊個？",
+    "question_en": "Who wrote 'To Kill a Mockingbird'?",
+    "options_zh": [
+      "魯迅",
+      "古龍",
+      "哈珀·李",
+      "金庸"
+    ],
+    "options_en": [
+      "Lu Xun",
+      "Gu Long",
+      "Harper Lee",
+      "Jin Yong"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「哈珀·李」。《殺死一隻知更鳥》係哈珀·李嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Harper Lee'. 'To Kill a Mockingbird' is a work by Harper Lee, categorized as 文學.",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《殺死一隻知更鳥》？",
+    "question_en": "Which author wrote 'To Kill a Mockingbird'?",
+    "options_zh": [
+      "古龍",
+      "魯迅",
+      "哈珀·李",
+      "金庸"
+    ],
+    "options_en": [
+      "Gu Long",
+      "Lu Xun",
+      "Harper Lee",
+      "Jin Yong"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「哈珀·李」。《殺死一隻知更鳥》係哈珀·李嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Harper Lee'. 'To Kill a Mockingbird' is a work by Harper Lee, categorized as 文學.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《殺死一隻知更鳥》屬於咩類型？",
+    "question_en": "What genre is 'To Kill a Mockingbird'?",
+    "options_zh": [
+      "歷史",
+      "古典",
+      "文學",
+      "哲學"
+    ],
+    "options_en": [
+      "歷史",
+      "古典",
+      "文學",
+      "哲學"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「文學」。《殺死一隻知更鳥》係哈珀·李嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is '文學'. 'To Kill a Mockingbird' is a work by Harper Lee, categorized as 文學.",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_zh": "《殺死一隻知更鳥》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'To Kill a Mockingbird'?",
+    "options_zh": [
+      "令狐沖",
+      "張無忌",
+      "史各特",
+      "郭靖"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Zhang Wuji",
+      "Scout",
+      "Guo Jing"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「史各特」。《殺死一隻知更鳥》係哈珀·李嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Scout'. 'To Kill a Mockingbird' is a work by Harper Lee, categorized as 文學.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《殺死一隻知更鳥》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'To Kill a Mockingbird'?",
+    "options_zh": [
+      "郭靖",
+      "令狐沖",
+      "張無忌",
+      "史各特"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Linghu Chong",
+      "Zhang Wuji",
+      "Scout"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「史各特」。《殺死一隻知更鳥》係哈珀·李嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'Scout'. 'To Kill a Mockingbird' is a work by Harper Lee, categorized as 文學.",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_zh": "《殺死一隻知更鳥》大約喺邊年出版？",
+    "question_en": "In which year was 'To Kill a Mockingbird' approximately published?",
+    "options_zh": [
+      "1950",
+      "1940",
+      "1960",
+      "1970"
+    ],
+    "options_en": [
+      "1950",
+      "1940",
+      "1960",
+      "1970"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「1960」。《殺死一隻知更鳥》係哈珀·李嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is '1960'. 'To Kill a Mockingbird' is a work by Harper Lee, categorized as 文學.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《殺死一隻知更鳥》？",
+    "question_en": "Which one is 'To Kill a Mockingbird'?",
+    "options_zh": [
+      "殺死一隻知更鳥",
+      "其他小說C",
+      "其他小說A",
+      "其他小說B"
+    ],
+    "options_en": [
+      "To Kill a Mockingbird",
+      "Other Novel C",
+      "Other Novel A",
+      "Other Novel B"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「殺死一隻知更鳥」。《殺死一隻知更鳥》係哈珀·李嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'To Kill a Mockingbird'. 'To Kill a Mockingbird' is a work by Harper Lee, categorized as 文學.",
+    "difficulty": 3
+  },
+  {
+    "id": 17,
+    "question_zh": "《殺死一隻知更鳥》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'To Kill a Mockingbird' belong to?",
+    "options_zh": [
+      "歷史",
+      "奇幻",
+      "推理",
+      "literary"
+    ],
+    "options_en": [
+      "Historical",
+      "Fantasy",
+      "Mystery",
+      "literary"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「literary」。《殺死一隻知更鳥》係哈珀·李嘅作品，屬於文學類型。",
+    "explanation_en": "The correct answer is 'literary'. 'To Kill a Mockingbird' is a work by Harper Lee, categorized as 文學.",
     "difficulty": 2
   }
 ]

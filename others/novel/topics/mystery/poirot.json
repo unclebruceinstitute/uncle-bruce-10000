@@ -4,7 +4,322 @@
     "question_zh": "以下邊本係《白羅探長》？",
     "question_en": "Which one is 'Hercule Poirot'?",
     "options_zh": [
+      "其他小說A",
       "白羅探長",
+      "其他小說B",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Hercule Poirot",
+      "Other Novel B",
+      "Other Novel C"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「白羅探長」。",
+    "explanation_en": "The correct answer is 'Hercule Poirot'.",
+    "difficulty": 2
+  },
+  {
+    "id": 2,
+    "question_zh": "《白羅探長》嘅作者係邊個？",
+    "question_en": "Who wrote 'Hercule Poirot'?",
+    "options_zh": [
+      "阿加莎·克里斯蒂",
+      "其他作者A",
+      "其他作者C",
+      "其他作者B"
+    ],
+    "options_en": [
+      "Agatha Christie",
+      "Author A",
+      "Author C",
+      "Author B"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「阿加莎·克里斯蒂」。",
+    "explanation_en": "The correct answer is 'Agatha Christie'.",
+    "difficulty": 3
+  },
+  {
+    "id": 3,
+    "question_zh": "《白羅探長》係邊年出版嘅？",
+    "question_en": "What year was 'Hercule Poirot' published?",
+    "options_zh": [
+      "1917年",
+      "1923年",
+      "1920年",
+      "1918年"
+    ],
+    "options_en": [
+      "1917",
+      "1923",
+      "1920",
+      "1918"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「1920年」。",
+    "explanation_en": "The correct answer is '1920'.",
+    "difficulty": 3
+  },
+  {
+    "id": 4,
+    "question_zh": "《白羅探長》係邊國作品？",
+    "question_en": "Which country is 'Hercule Poirot' from?",
+    "options_zh": [
+      "法國",
+      "中國",
+      "德國",
+      "韓國"
+    ],
+    "options_en": [
+      "France",
+      "China",
+      "Germany",
+      "South Korea"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國」。",
+    "explanation_en": "The correct answer is 'China'.",
+    "difficulty": 3
+  },
+  {
+    "id": 5,
+    "question_zh": "《白羅探長》主要講咩？",
+    "question_en": "What is 'Hercule Poirot' mainly about?",
+    "options_zh": [
+      "財經商戰",
+      "體育競技",
+      "科幻太空",
+      "推理破案同懸疑故事"
+    ],
+    "options_en": [
+      "Business",
+      "Sports",
+      "Sci-fi",
+      "Mystery and detective"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
+    "explanation_en": "The correct answer is 'Mystery and detective'.",
+    "difficulty": 3
+  },
+  {
+    "id": 6,
+    "question_zh": "《白羅探長》入面有咩角色？",
+    "question_en": "What characters are in 'Hercule Poirot'?",
+    "options_zh": [
+      "機械人",
+      "偵探/警察",
+      "外星人",
+      "動物"
+    ],
+    "options_en": [
+      "Robots",
+      "Detective/Police",
+      "Aliens",
+      "Animals"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「偵探/警察」。",
+    "explanation_en": "The correct answer is 'Detective/Police'.",
+    "difficulty": 3
+  },
+  {
+    "id": 7,
+    "question_zh": "《白羅探長》嘅故事背景喺邊度？",
+    "question_en": "Where is 'Hercule Poirot' set?",
+    "options_zh": [
+      "歐洲中世紀",
+      "未來太空",
+      "中國/亞洲",
+      "虛擬世界"
+    ],
+    "options_en": [
+      "Medieval Europe",
+      "Future space",
+      "China/Asia",
+      "Virtual world"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「中國/亞洲」。",
+    "explanation_en": "The correct answer is 'China/Asia'.",
+    "difficulty": 3
+  },
+  {
+    "id": 8,
+    "question_zh": "《白羅探長》係咪好受歡迎？",
+    "question_en": "Is 'Hercule Poirot' popular?",
+    "options_zh": [
+      "已經過氣",
+      "唔係，好冷門",
+      "係，非常受歡迎",
+      "只喺特定地區流行"
+    ],
+    "options_en": [
+      "Outdated",
+      "No, very niche",
+      "Yes, very popular",
+      "Only popular locally"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「係，非常受歡迎」。",
+    "explanation_en": "The correct answer is 'Yes, very popular'.",
+    "difficulty": 3
+  },
+  {
+    "id": 9,
+    "question_zh": "《白羅探長》嘅作者係邊國人？",
+    "question_en": "What nationality is the author of 'Hercule Poirot'?",
+    "options_zh": [
+      "法國人",
+      "中國人",
+      "韓國人",
+      "德國人"
+    ],
+    "options_en": [
+      "French",
+      "Chinese",
+      "Korean",
+      "German"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「中國人」。",
+    "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《白羅》嘅作者係邊個？",
+    "question_en": "Who wrote 'Hercule Poirot'?",
+    "options_zh": [
+      "阿加莎·克里斯蒂",
+      "古龍",
+      "金庸",
+      "魯迅"
+    ],
+    "options_en": [
+      "Agatha Christie",
+      "Gu Long",
+      "Jin Yong",
+      "Lu Xun"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「阿加莎·克里斯蒂」。《白羅》係阿加莎·克里斯蒂嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Agatha Christie'. 'Hercule Poirot' is a work by Agatha Christie, categorized as 推理.",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《白羅》？",
+    "question_en": "Which author wrote 'Hercule Poirot'?",
+    "options_zh": [
+      "金庸",
+      "阿加莎·克里斯蒂",
+      "魯迅",
+      "古龍"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Agatha Christie",
+      "Lu Xun",
+      "Gu Long"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「阿加莎·克里斯蒂」。《白羅》係阿加莎·克里斯蒂嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Agatha Christie'. 'Hercule Poirot' is a work by Agatha Christie, categorized as 推理.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《白羅》屬於咩類型？",
+    "question_en": "What genre is 'Hercule Poirot'?",
+    "options_zh": [
+      "驚悚",
+      "犯罪",
+      "懸疑",
+      "推理"
+    ],
+    "options_en": [
+      "驚悚",
+      "犯罪",
+      "懸疑",
+      "推理"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「推理」。《白羅》係阿加莎·克里斯蒂嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is '推理'. 'Hercule Poirot' is a work by Agatha Christie, categorized as 推理.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《白羅》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Hercule Poirot'?",
+    "options_zh": [
+      "白羅",
+      "郭靖",
+      "張無忌",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Poirot",
+      "Guo Jing",
+      "Zhang Wuji",
+      "Linghu Chong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「白羅」。《白羅》係阿加莎·克里斯蒂嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Poirot'. 'Hercule Poirot' is a work by Agatha Christie, categorized as 推理.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《白羅》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Hercule Poirot'?",
+    "options_zh": [
+      "令狐沖",
+      "白羅",
+      "郭靖",
+      "張無忌"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Poirot",
+      "Guo Jing",
+      "Zhang Wuji"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「白羅」。《白羅》係阿加莎·克里斯蒂嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Poirot'. 'Hercule Poirot' is a work by Agatha Christie, categorized as 推理.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《白羅》大約喺邊年出版？",
+    "question_en": "In which year was 'Hercule Poirot' approximately published?",
+    "options_zh": [
+      "1930",
+      "1900",
+      "1910",
+      "1920"
+    ],
+    "options_en": [
+      "1930",
+      "1900",
+      "1910",
+      "1920"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1920」。《白羅》係阿加莎·克里斯蒂嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is '1920'. 'Hercule Poirot' is a work by Agatha Christie, categorized as 推理.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《白羅》？",
+    "question_en": "Which one is 'Hercule Poirot'?",
+    "options_zh": [
+      "白羅",
       "其他小說B",
       "其他小說C",
       "其他小說A"
@@ -16,176 +331,29 @@
       "Other Novel A"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「白羅探長」。",
-    "explanation_en": "The correct answer is 'Hercule Poirot'.",
-    "difficulty": 2
-  },
-  {
-    "id": 5,
-    "question_zh": "《白羅探長》嘅作者係邊個？",
-    "question_en": "Who wrote 'Hercule Poirot'?",
-    "options_zh": [
-      "其他作者C",
-      "其他作者B",
-      "阿加莎·克里斯蒂",
-      "其他作者A"
-    ],
-    "options_en": [
-      "Author C",
-      "Author B",
-      "Agatha Christie",
-      "Author A"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「阿加莎·克里斯蒂」。",
-    "explanation_en": "The correct answer is 'Agatha Christie'.",
-    "difficulty": 3
-  },
-  {
-    "id": 8,
-    "question_zh": "《白羅探長》係邊年出版嘅？",
-    "question_en": "What year was 'Hercule Poirot' published?",
-    "options_zh": [
-      "1918年",
-      "1920年",
-      "1917年",
-      "1923年"
-    ],
-    "options_en": [
-      "1918",
-      "1920",
-      "1917",
-      "1923"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「1920年」。",
-    "explanation_en": "The correct answer is '1920'.",
-    "difficulty": 3
-  },
-  {
-    "id": 11,
-    "question_zh": "《白羅探長》係邊國作品？",
-    "question_en": "Which country is 'Hercule Poirot' from?",
-    "options_zh": [
-      "德國",
-      "中國",
-      "法國",
-      "韓國"
-    ],
-    "options_en": [
-      "Germany",
-      "China",
-      "France",
-      "South Korea"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「中國」。",
-    "explanation_en": "The correct answer is 'China'.",
-    "difficulty": 3
-  },
-  {
-    "id": 14,
-    "question_zh": "《白羅探長》主要講咩？",
-    "question_en": "What is 'Hercule Poirot' mainly about?",
-    "options_zh": [
-      "科幻太空",
-      "財經商戰",
-      "體育競技",
-      "推理破案同懸疑故事"
-    ],
-    "options_en": [
-      "Sci-fi",
-      "Business",
-      "Sports",
-      "Mystery and detective"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「推理破案同懸疑故事」。",
-    "explanation_en": "The correct answer is 'Mystery and detective'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「白羅」。《白羅》係阿加莎·克里斯蒂嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'Hercule Poirot'. 'Hercule Poirot' is a work by Agatha Christie, categorized as 推理.",
+    "difficulty": 1
   },
   {
     "id": 17,
-    "question_zh": "《白羅探長》入面有咩角色？",
-    "question_en": "What characters are in 'Hercule Poirot'?",
+    "question_zh": "《白羅》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Hercule Poirot' belong to?",
     "options_zh": [
-      "外星人",
-      "動物",
-      "機械人",
-      "偵探/警察"
+      "mystery",
+      "文學",
+      "歷史",
+      "奇幻"
     ],
     "options_en": [
-      "Aliens",
-      "Animals",
-      "Robots",
-      "Detective/Police"
+      "mystery",
+      "Literary",
+      "Historical",
+      "Fantasy"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「偵探/警察」。",
-    "explanation_en": "The correct answer is 'Detective/Police'.",
-    "difficulty": 3
-  },
-  {
-    "id": 20,
-    "question_zh": "《白羅探長》嘅故事背景喺邊度？",
-    "question_en": "Where is 'Hercule Poirot' set?",
-    "options_zh": [
-      "虛擬世界",
-      "中國/亞洲",
-      "歐洲中世紀",
-      "未來太空"
-    ],
-    "options_en": [
-      "Virtual world",
-      "China/Asia",
-      "Medieval Europe",
-      "Future space"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「中國/亞洲」。",
-    "explanation_en": "The correct answer is 'China/Asia'.",
-    "difficulty": 3
-  },
-  {
-    "id": 23,
-    "question_zh": "《白羅探長》係咪好受歡迎？",
-    "question_en": "Is 'Hercule Poirot' popular?",
-    "options_zh": [
-      "唔係，好冷門",
-      "已經過氣",
-      "係，非常受歡迎",
-      "只喺特定地區流行"
-    ],
-    "options_en": [
-      "No, very niche",
-      "Outdated",
-      "Yes, very popular",
-      "Only popular locally"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 3
-  },
-  {
-    "id": 25,
-    "question_zh": "《白羅探長》嘅作者係邊國人？",
-    "question_en": "What nationality is the author of 'Hercule Poirot'?",
-    "options_zh": [
-      "法國人",
-      "韓國人",
-      "德國人",
-      "中國人"
-    ],
-    "options_en": [
-      "French",
-      "Korean",
-      "German",
-      "Chinese"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「中國人」。",
-    "explanation_en": "The correct answer is 'Chinese'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「mystery」。《白羅》係阿加莎·克里斯蒂嘅作品，屬於推理類型。",
+    "explanation_en": "The correct answer is 'mystery'. 'Hercule Poirot' is a work by Agatha Christie, categorized as 推理.",
     "difficulty": 2
   }
 ]

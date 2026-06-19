@@ -4,100 +4,100 @@
     "question_zh": "以下邊本係《咒術迴戰》？",
     "question_en": "Which one is 'Jujutsu Kaisen'?",
     "options_zh": [
-      "其他小說A",
       "咒術迴戰",
       "其他小說B",
+      "其他小說A",
       "其他小說C"
     ],
     "options_en": [
-      "Other Novel A",
       "Jujutsu Kaisen",
       "Other Novel B",
+      "Other Novel A",
       "Other Novel C"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「咒術迴戰」。",
     "explanation_en": "The correct answer is 'Jujutsu Kaisen'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《咒術迴戰》嘅作者係邊個？",
     "question_en": "Who wrote 'Jujutsu Kaisen'?",
     "options_zh": [
-      "芥見下々",
       "其他作者A",
       "其他作者B",
+      "芥見下々",
       "其他作者C"
     ],
     "options_en": [
-      "Gege Akutami",
       "Author A",
       "Author B",
+      "Gege Akutami",
       "Author C"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「芥見下々」。",
     "explanation_en": "The correct answer is 'Gege Akutami'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《咒術迴戰》係邊年出版嘅？",
     "question_en": "What year was 'Jujutsu Kaisen' published?",
     "options_zh": [
-      "2018年",
       "2015年",
-      "2013年",
-      "2021年"
+      "2018年",
+      "2021年",
+      "2013年"
     ],
     "options_en": [
-      "2018",
       "2015",
-      "2013",
-      "2021"
+      "2018",
+      "2021",
+      "2013"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「2018年」。",
     "explanation_en": "The correct answer is '2018'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《咒術迴戰》係邊國作品？",
     "question_en": "Which country is 'Jujutsu Kaisen' from?",
     "options_zh": [
-      "法國",
-      "韓國",
+      "德國",
       "中國",
-      "德國"
+      "法國",
+      "韓國"
     ],
     "options_en": [
-      "France",
-      "South Korea",
+      "Germany",
       "China",
-      "Germany"
+      "France",
+      "South Korea"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《咒術迴戰》主要講咩？",
     "question_en": "What is 'Jujutsu Kaisen' mainly about?",
     "options_zh": [
-      "科幻太空",
+      "體育競技",
       "財經商戰",
       "精彩故事",
-      "體育競技"
+      "科幻太空"
     ],
     "options_en": [
-      "Sci-fi",
+      "Sports",
       "Business",
       "Exciting story",
-      "Sports"
+      "Sci-fi"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「精彩故事」。",
@@ -105,87 +105,255 @@
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《咒術迴戰》入面有咩角色？",
     "question_en": "What characters are in 'Jujutsu Kaisen'?",
     "options_zh": [
-      "動物",
       "主要角色",
+      "動物",
       "外星人",
       "機械人"
     ],
     "options_en": [
-      "Animals",
       "Main characters",
+      "Animals",
       "Aliens",
       "Robots"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《咒術迴戰》嘅故事背景喺邊度？",
     "question_en": "Where is 'Jujutsu Kaisen' set?",
     "options_zh": [
-      "虛擬世界",
-      "未來太空",
       "歐洲中世紀",
-      "中國/亞洲"
+      "中國/亞洲",
+      "未來太空",
+      "虛擬世界"
     ],
     "options_en": [
-      "Virtual world",
-      "Future space",
       "Medieval Europe",
-      "China/Asia"
+      "China/Asia",
+      "Future space",
+      "Virtual world"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《咒術迴戰》係咪好受歡迎？",
     "question_en": "Is 'Jujutsu Kaisen' popular?",
     "options_zh": [
-      "唔係，好冷門",
       "已經過氣",
-      "係，非常受歡迎",
-      "只喺特定地區流行"
+      "只喺特定地區流行",
+      "唔係，好冷門",
+      "係，非常受歡迎"
     ],
     "options_en": [
-      "No, very niche",
       "Outdated",
-      "Yes, very popular",
-      "Only popular locally"
+      "Only popular locally",
+      "No, very niche",
+      "Yes, very popular"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《咒術迴戰》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Jujutsu Kaisen'?",
     "options_zh": [
-      "法國人",
-      "韓國人",
       "德國人",
-      "中國人"
+      "法國人",
+      "中國人",
+      "韓國人"
     ],
     "options_en": [
-      "French",
-      "Korean",
       "German",
-      "Chinese"
+      "French",
+      "Chinese",
+      "Korean"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《咒術迴戰》嘅作者係邊個？",
+    "question_en": "Who wrote 'Jujutsu Kaisen'?",
+    "options_zh": [
+      "魯迅",
+      "金庸",
+      "古龍",
+      "芥見下々"
+    ],
+    "options_en": [
+      "Lu Xun",
+      "Jin Yong",
+      "Gu Long",
+      "Gege Akutami"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「芥見下々」。《咒術迴戰》係芥見下々嘅作品，屬於黑暗奇幻類型。",
+    "explanation_en": "The correct answer is 'Gege Akutami'. 'Jujutsu Kaisen' is a work by Gege Akutami, categorized as 黑暗奇幻.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《咒術迴戰》？",
+    "question_en": "Which author wrote 'Jujutsu Kaisen'?",
+    "options_zh": [
+      "魯迅",
+      "芥見下々",
+      "古龍",
+      "金庸"
+    ],
+    "options_en": [
+      "Lu Xun",
+      "Gege Akutami",
+      "Gu Long",
+      "Jin Yong"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「芥見下々」。《咒術迴戰》係芥見下々嘅作品，屬於黑暗奇幻類型。",
+    "explanation_en": "The correct answer is 'Gege Akutami'. 'Jujutsu Kaisen' is a work by Gege Akutami, categorized as 黑暗奇幻.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《咒術迴戰》屬於咩類型？",
+    "question_en": "What genre is 'Jujutsu Kaisen'?",
+    "options_zh": [
+      "黑暗奇幻",
+      "動作",
+      "恐怖",
+      "奇幻"
+    ],
+    "options_en": [
+      "黑暗奇幻",
+      "動作",
+      "恐怖",
+      "奇幻"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「黑暗奇幻」。《咒術迴戰》係芥見下々嘅作品，屬於黑暗奇幻類型。",
+    "explanation_en": "The correct answer is '黑暗奇幻'. 'Jujutsu Kaisen' is a work by Gege Akutami, categorized as 黑暗奇幻.",
+    "difficulty": 3
+  },
+  {
+    "id": 13,
+    "question_zh": "《咒術迴戰》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Jujutsu Kaisen'?",
+    "options_zh": [
+      "張無忌",
+      "郭靖",
+      "令狐沖",
+      "虎杖悠仁"
+    ],
+    "options_en": [
+      "Zhang Wuji",
+      "Guo Jing",
+      "Linghu Chong",
+      "Yuji Itadori"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「虎杖悠仁」。《咒術迴戰》係芥見下々嘅作品，屬於黑暗奇幻類型。",
+    "explanation_en": "The correct answer is 'Yuji Itadori'. 'Jujutsu Kaisen' is a work by Gege Akutami, categorized as 黑暗奇幻.",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《咒術迴戰》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Jujutsu Kaisen'?",
+    "options_zh": [
+      "令狐沖",
+      "虎杖悠仁",
+      "張無忌",
+      "郭靖"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Yuji Itadori",
+      "Zhang Wuji",
+      "Guo Jing"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「虎杖悠仁」。《咒術迴戰》係芥見下々嘅作品，屬於黑暗奇幻類型。",
+    "explanation_en": "The correct answer is 'Yuji Itadori'. 'Jujutsu Kaisen' is a work by Gege Akutami, categorized as 黑暗奇幻.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《咒術迴戰》大約喺邊年出版？",
+    "question_en": "In which year was 'Jujutsu Kaisen' approximately published?",
+    "options_zh": [
+      "2028",
+      "2018",
+      "1998",
+      "2008"
+    ],
+    "options_en": [
+      "2028",
+      "2018",
+      "1998",
+      "2008"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「2018」。《咒術迴戰》係芥見下々嘅作品，屬於黑暗奇幻類型。",
+    "explanation_en": "The correct answer is '2018'. 'Jujutsu Kaisen' is a work by Gege Akutami, categorized as 黑暗奇幻.",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《咒術迴戰》？",
+    "question_en": "Which one is 'Jujutsu Kaisen'?",
+    "options_zh": [
+      "咒術迴戰",
+      "其他小說B",
+      "其他小說A",
+      "其他小說C"
+    ],
+    "options_en": [
+      "Jujutsu Kaisen",
+      "Other Novel B",
+      "Other Novel A",
+      "Other Novel C"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「咒術迴戰」。《咒術迴戰》係芥見下々嘅作品，屬於黑暗奇幻類型。",
+    "explanation_en": "The correct answer is 'Jujutsu Kaisen'. 'Jujutsu Kaisen' is a work by Gege Akutami, categorized as 黑暗奇幻.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《咒術迴戰》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Jujutsu Kaisen' belong to?",
+    "options_zh": [
+      "popular",
+      "文學",
+      "奇幻",
+      "歷史"
+    ],
+    "options_en": [
+      "popular",
+      "Literary",
+      "Fantasy",
+      "Historical"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「popular」。《咒術迴戰》係芥見下々嘅作品，屬於黑暗奇幻類型。",
+    "explanation_en": "The correct answer is 'popular'. 'Jujutsu Kaisen' is a work by Gege Akutami, categorized as 黑暗奇幻.",
+    "difficulty": 3
   }
 ]

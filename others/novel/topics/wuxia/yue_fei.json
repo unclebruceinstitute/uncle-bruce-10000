@@ -4,37 +4,37 @@
     "question_zh": "以下邊本係《說岳全傳》？",
     "question_en": "Which one is 'The Story of Yue Fei'?",
     "options_zh": [
-      "其他小說B",
+      "說岳全傳",
       "其他小說C",
-      "其他小說A",
-      "說岳全傳"
+      "其他小說B",
+      "其他小說A"
     ],
     "options_en": [
-      "Other Novel B",
+      "The Story of Yue Fei",
       "Other Novel C",
-      "Other Novel A",
-      "The Story of Yue Fei"
+      "Other Novel B",
+      "Other Novel A"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「說岳全傳」。",
     "explanation_en": "The correct answer is 'The Story of Yue Fei'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《說岳全傳》嘅作者係邊個？",
     "question_en": "Who wrote 'The Story of Yue Fei'?",
     "options_zh": [
       "其他作者C",
       "錢彩",
-      "其他作者A",
-      "其他作者B"
+      "其他作者B",
+      "其他作者A"
     ],
     "options_en": [
       "Author C",
       "Qian Cai",
-      "Author A",
-      "Author B"
+      "Author B",
+      "Author A"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「錢彩」。",
@@ -42,150 +42,318 @@
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《說岳全傳》係邊年出版嘅？",
     "question_en": "What year was 'The Story of Yue Fei' published?",
     "options_zh": [
-      "1747年",
-      "1741年",
+      "1749年",
       "1744年",
-      "1749年"
+      "1741年",
+      "1747年"
     ],
     "options_en": [
-      "1747",
-      "1741",
+      "1749",
       "1744",
-      "1749"
+      "1741",
+      "1747"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「1744年」。",
     "explanation_en": "The correct answer is '1744'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《說岳全傳》係邊國作品？",
     "question_en": "Which country is 'The Story of Yue Fei' from?",
     "options_zh": [
       "法國",
       "韓國",
-      "中國",
-      "德國"
+      "德國",
+      "中國"
     ],
     "options_en": [
       "France",
       "South Korea",
-      "China",
-      "Germany"
+      "Germany",
+      "China"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《說岳全傳》主要講咩？",
     "question_en": "What is 'The Story of Yue Fei' mainly about?",
     "options_zh": [
       "科幻太空",
+      "江湖恩怨同武俠世界",
       "財經商戰",
-      "體育競技",
-      "江湖恩怨同武俠世界"
+      "體育競技"
     ],
     "options_en": [
       "Sci-fi",
+      "Martial arts world",
       "Business",
-      "Sports",
-      "Martial arts world"
+      "Sports"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「江湖恩怨同武俠世界」。",
     "explanation_en": "The correct answer is 'Martial arts world'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《說岳全傳》入面有咩角色？",
     "question_en": "What characters are in 'The Story of Yue Fei'?",
     "options_zh": [
-      "動物",
-      "機械人",
+      "外星人",
       "武林高手",
-      "外星人"
+      "動物",
+      "機械人"
     ],
     "options_en": [
-      "Animals",
-      "Robots",
+      "Aliens",
       "Martial arts masters",
-      "Aliens"
+      "Animals",
+      "Robots"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「武林高手」。",
     "explanation_en": "The correct answer is 'Martial arts masters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《說岳全傳》嘅故事背景喺邊度？",
     "question_en": "Where is 'The Story of Yue Fei' set?",
     "options_zh": [
       "虛擬世界",
-      "歐洲中世紀",
+      "古代中國",
       "未來太空",
-      "古代中國"
+      "歐洲中世紀"
     ],
     "options_en": [
       "Virtual world",
-      "Medieval Europe",
+      "Ancient China",
       "Future space",
-      "Ancient China"
+      "Medieval Europe"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「古代中國」。",
     "explanation_en": "The correct answer is 'Ancient China'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《說岳全傳》係咪好受歡迎？",
     "question_en": "Is 'The Story of Yue Fei' popular?",
     "options_zh": [
-      "唔係，好冷門",
       "已經過氣",
-      "係，有一定讀者群",
-      "只喺特定地區流行"
+      "只喺特定地區流行",
+      "唔係，好冷門",
+      "係，有一定讀者群"
     ],
     "options_en": [
-      "No, very niche",
       "Outdated",
-      "Yes, has a readership",
-      "Only popular locally"
+      "Only popular locally",
+      "No, very niche",
+      "Yes, has a readership"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《說岳全傳》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'The Story of Yue Fei'?",
     "options_zh": [
-      "德國人",
       "韓國人",
       "中國人",
-      "法國人"
+      "法國人",
+      "德國人"
     ],
     "options_en": [
-      "German",
       "Korean",
       "Chinese",
-      "French"
+      "French",
+      "German"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《岳飛》嘅作者係邊個？",
+    "question_en": "Who wrote 'Yue Fei'?",
+    "options_zh": [
+      "金庸",
+      "未知",
+      "魯迅",
+      "古龍"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Unknown",
+      "Lu Xun",
+      "Gu Long"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「未知」。《岳飛》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Yue Fei' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《岳飛》？",
+    "question_en": "Which author wrote 'Yue Fei'?",
+    "options_zh": [
+      "古龍",
+      "魯迅",
+      "金庸",
+      "未知"
+    ],
+    "options_en": [
+      "Gu Long",
+      "Lu Xun",
+      "Jin Yong",
+      "Unknown"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「未知」。《岳飛》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Yue Fei' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《岳飛》屬於咩類型？",
+    "question_en": "What genre is 'Yue Fei'?",
+    "options_zh": [
+      "武俠",
+      "動作",
+      "歷史",
+      "仙俠"
+    ],
+    "options_en": [
+      "武俠",
+      "動作",
+      "歷史",
+      "仙俠"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「武俠」。《岳飛》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is '武俠'. 'Yue Fei' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《岳飛》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Yue Fei'?",
+    "options_zh": [
+      "岳飛",
+      "郭靖",
+      "令狐沖",
+      "張無忌"
+    ],
+    "options_en": [
+      "Yue Fei",
+      "Guo Jing",
+      "Linghu Chong",
+      "Zhang Wuji"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「岳飛」。《岳飛》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Yue Fei'. 'Yue Fei' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《岳飛》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Yue Fei'?",
+    "options_zh": [
+      "岳飛",
+      "郭靖",
+      "張無忌",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Yue Fei",
+      "Guo Jing",
+      "Zhang Wuji",
+      "Linghu Chong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「岳飛」。《岳飛》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Yue Fei'. 'Yue Fei' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_zh": "《岳飛》大約喺邊年出版？",
+    "question_en": "In which year was 'Yue Fei' approximately published?",
+    "options_zh": [
+      "1980",
+      "未知",
+      "1950",
+      "2000"
+    ],
+    "options_en": [
+      "1980",
+      "未知",
+      "1950",
+      "2000"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「未知」。《岳飛》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is '未知'. 'Yue Fei' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《岳飛》？",
+    "question_en": "Which one is 'Yue Fei'?",
+    "options_zh": [
+      "其他小說A",
+      "岳飛",
+      "其他小說C",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel A",
+      "Yue Fei",
+      "Other Novel C",
+      "Other Novel B"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「岳飛」。《岳飛》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'Yue Fei'. 'Yue Fei' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 3
+  },
+  {
+    "id": 17,
+    "question_zh": "《岳飛》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Yue Fei' belong to?",
+    "options_zh": [
+      "文學",
+      "wuxia",
+      "奇幻",
+      "歷史"
+    ],
+    "options_en": [
+      "Literary",
+      "wuxia",
+      "Fantasy",
+      "Historical"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「wuxia」。《岳飛》係未知嘅作品，屬於武俠類型。",
+    "explanation_en": "The correct answer is 'wuxia'. 'Yue Fei' is a work by Unknown, categorized as 武俠.",
+    "difficulty": 3
   }
 ]

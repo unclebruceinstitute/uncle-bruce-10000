@@ -4,16 +4,16 @@
     "question_zh": "以下邊本係《步步驚心》？",
     "question_en": "Which one is 'Scarerta: The Startling'?",
     "options_zh": [
-      "其他小說A",
-      "步步驚心",
       "其他小說C",
-      "其他小說B"
+      "步步驚心",
+      "其他小說B",
+      "其他小說A"
     ],
     "options_en": [
-      "Other Novel A",
-      "Scarerta: The Startling",
       "Other Novel C",
-      "Other Novel B"
+      "Scarerta: The Startling",
+      "Other Novel B",
+      "Other Novel A"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「步步驚心」。",
@@ -21,7 +21,7 @@
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《步步驚心》嘅作者係邊個？",
     "question_en": "Who wrote 'Scarerta: The Startling'?",
     "options_zh": [
@@ -42,124 +42,124 @@
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《步步驚心》係邊年出版嘅？",
     "question_en": "What year was 'Scarerta: The Startling' published?",
     "options_zh": [
-      "2002年",
-      "2000年",
       "2008年",
-      "2005年"
+      "2002年",
+      "2005年",
+      "2000年"
     ],
     "options_en": [
-      "2002",
-      "2000",
       "2008",
-      "2005"
+      "2002",
+      "2005",
+      "2000"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「2005年」。",
     "explanation_en": "The correct answer is '2005'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《步步驚心》係邊國作品？",
     "question_en": "Which country is 'Scarerta: The Startling' from?",
     "options_zh": [
       "德國",
-      "中國",
+      "韓國",
       "法國",
-      "韓國"
+      "中國"
     ],
     "options_en": [
       "Germany",
-      "China",
+      "South Korea",
       "France",
-      "South Korea"
+      "China"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國」。",
     "explanation_en": "The correct answer is 'China'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《步步驚心》主要講咩？",
     "question_en": "What is 'Scarerta: The Startling' mainly about?",
     "options_zh": [
-      "體育競技",
       "科幻太空",
-      "財經商戰",
-      "愛情故事同人物關係"
+      "體育競技",
+      "愛情故事同人物關係",
+      "財經商戰"
     ],
     "options_en": [
-      "Sports",
       "Sci-fi",
-      "Business",
-      "Love story"
+      "Sports",
+      "Love story",
+      "Business"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「愛情故事同人物關係」。",
     "explanation_en": "The correct answer is 'Love story'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《步步驚心》入面有咩角色？",
     "question_en": "What characters are in 'Scarerta: The Startling'?",
     "options_zh": [
       "機械人",
-      "主要角色",
+      "外星人",
       "動物",
-      "外星人"
+      "主要角色"
     ],
     "options_en": [
       "Robots",
-      "Main characters",
+      "Aliens",
       "Animals",
-      "Aliens"
+      "Main characters"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《步步驚心》嘅故事背景喺邊度？",
     "question_en": "Where is 'Scarerta: The Startling' set?",
     "options_zh": [
-      "中國/亞洲",
-      "未來太空",
+      "歐洲中世紀",
       "虛擬世界",
-      "歐洲中世紀"
+      "中國/亞洲",
+      "未來太空"
     ],
     "options_en": [
-      "China/Asia",
-      "Future space",
+      "Medieval Europe",
       "Virtual world",
-      "Medieval Europe"
+      "China/Asia",
+      "Future space"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《步步驚心》係咪好受歡迎？",
     "question_en": "Is 'Scarerta: The Startling' popular?",
     "options_zh": [
-      "已經過氣",
-      "唔係，好冷門",
       "只喺特定地區流行",
+      "唔係，好冷門",
+      "已經過氣",
       "係，非常受歡迎"
     ],
     "options_en": [
-      "Outdated",
-      "No, very niche",
       "Only popular locally",
+      "No, very niche",
+      "Outdated",
       "Yes, very popular"
     ],
     "answer": 3,
@@ -168,24 +168,192 @@
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《步步驚心》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Scarerta: The Startling'?",
     "options_zh": [
-      "德國人",
       "韓國人",
-      "法國人",
-      "中國人"
+      "中國人",
+      "德國人",
+      "法國人"
     ],
     "options_en": [
-      "German",
       "Korean",
-      "French",
-      "Chinese"
+      "Chinese",
+      "German",
+      "French"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《步念》嘅作者係邊個？",
+    "question_en": "Who wrote 'Step by Step'?",
+    "options_zh": [
+      "未知",
+      "古龍",
+      "魯迅",
+      "金庸"
+    ],
+    "options_en": [
+      "Unknown",
+      "Gu Long",
+      "Lu Xun",
+      "Jin Yong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「未知」。《步念》係未知嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Step by Step' is a work by Unknown, categorized as 愛情.",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《步念》？",
+    "question_en": "Which author wrote 'Step by Step'?",
+    "options_zh": [
+      "金庸",
+      "古龍",
+      "未知",
+      "魯迅"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Gu Long",
+      "Unknown",
+      "Lu Xun"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「未知」。《步念》係未知嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Step by Step' is a work by Unknown, categorized as 愛情.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《步念》屬於咩類型？",
+    "question_en": "What genre is 'Step by Step'?",
+    "options_zh": [
+      "愛情",
+      "文學",
+      "青春",
+      "浪漫"
+    ],
+    "options_en": [
+      "愛情",
+      "文學",
+      "青春",
+      "浪漫"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「愛情」。《步念》係未知嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is '愛情'. 'Step by Step' is a work by Unknown, categorized as 愛情.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《步念》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Step by Step'?",
+    "options_zh": [
+      "令狐沖",
+      "未知",
+      "郭靖",
+      "張無忌"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Unknown",
+      "Guo Jing",
+      "Zhang Wuji"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「未知」。《步念》係未知嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Step by Step' is a work by Unknown, categorized as 愛情.",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《步念》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Step by Step'?",
+    "options_zh": [
+      "郭靖",
+      "張無忌",
+      "未知",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Zhang Wuji",
+      "Unknown",
+      "Linghu Chong"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「未知」。《步念》係未知嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'Unknown'. 'Step by Step' is a work by Unknown, categorized as 愛情.",
+    "difficulty": 3
+  },
+  {
+    "id": 15,
+    "question_zh": "《步念》大約喺邊年出版？",
+    "question_en": "In which year was 'Step by Step' approximately published?",
+    "options_zh": [
+      "1980",
+      "1950",
+      "未知",
+      "2000"
+    ],
+    "options_en": [
+      "1980",
+      "1950",
+      "未知",
+      "2000"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「未知」。《步念》係未知嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is '未知'. 'Step by Step' is a work by Unknown, categorized as 愛情.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《步念》？",
+    "question_en": "Which one is 'Step by Step'?",
+    "options_zh": [
+      "步念",
+      "其他小說B",
+      "其他小說C",
+      "其他小說A"
+    ],
+    "options_en": [
+      "Step by Step",
+      "Other Novel B",
+      "Other Novel C",
+      "Other Novel A"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「步念」。《步念》係未知嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'Step by Step'. 'Step by Step' is a work by Unknown, categorized as 愛情.",
+    "difficulty": 3
+  },
+  {
+    "id": 17,
+    "question_zh": "《步念》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Step by Step' belong to?",
+    "options_zh": [
+      "romance",
+      "奇幻",
+      "文學",
+      "歷史"
+    ],
+    "options_en": [
+      "romance",
+      "Fantasy",
+      "Literary",
+      "Historical"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「romance」。《步念》係未知嘅作品，屬於愛情類型。",
+    "explanation_en": "The correct answer is 'romance'. 'Step by Step' is a work by Unknown, categorized as 愛情.",
+    "difficulty": 1
   }
 ]

@@ -4,66 +4,66 @@
     "question_zh": "以下邊本係《我的英雄學院》？",
     "question_en": "Which one is 'My Hero Academia'?",
     "options_zh": [
-      "我的英雄學院",
       "其他小說C",
       "其他小說A",
-      "其他小說B"
+      "其他小說B",
+      "我的英雄學院"
     ],
     "options_en": [
-      "My Hero Academia",
       "Other Novel C",
       "Other Novel A",
-      "Other Novel B"
+      "Other Novel B",
+      "My Hero Academia"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「我的英雄學院」。",
     "explanation_en": "The correct answer is 'My Hero Academia'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《我的英雄學院》嘅作者係邊個？",
     "question_en": "Who wrote 'My Hero Academia'?",
     "options_zh": [
-      "其他作者B",
       "堀越耕平",
       "其他作者C",
-      "其他作者A"
+      "其他作者A",
+      "其他作者B"
     ],
     "options_en": [
-      "Author B",
       "Kohei Horikoshi",
       "Author C",
-      "Author A"
+      "Author A",
+      "Author B"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「堀越耕平」。",
     "explanation_en": "The correct answer is 'Kohei Horikoshi'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《我的英雄學院》係邊年出版嘅？",
     "question_en": "What year was 'My Hero Academia' published?",
     "options_zh": [
-      "2011年",
       "2017年",
+      "2014年",
       "2016年",
-      "2014年"
+      "2011年"
     ],
     "options_en": [
-      "2011",
       "2017",
+      "2014",
       "2016",
-      "2014"
+      "2011"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「2014年」。",
     "explanation_en": "The correct answer is '2014'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《我的英雄學院》係邊國作品？",
     "question_en": "Which country is 'My Hero Academia' from?",
     "options_zh": [
@@ -84,20 +84,20 @@
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《我的英雄學院》主要講咩？",
     "question_en": "What is 'My Hero Academia' mainly about?",
     "options_zh": [
       "科幻太空",
       "精彩故事",
-      "財經商戰",
-      "體育競技"
+      "體育競技",
+      "財經商戰"
     ],
     "options_en": [
       "Sci-fi",
       "Exciting story",
-      "Business",
-      "Sports"
+      "Sports",
+      "Business"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「精彩故事」。",
@@ -105,62 +105,62 @@
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《我的英雄學院》入面有咩角色？",
     "question_en": "What characters are in 'My Hero Academia'?",
     "options_zh": [
+      "主要角色",
       "機械人",
       "外星人",
-      "動物",
-      "主要角色"
+      "動物"
     ],
     "options_en": [
+      "Main characters",
       "Robots",
       "Aliens",
-      "Animals",
-      "Main characters"
+      "Animals"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《我的英雄學院》嘅故事背景喺邊度？",
     "question_en": "Where is 'My Hero Academia' set?",
     "options_zh": [
-      "中國/亞洲",
       "虛擬世界",
       "歐洲中世紀",
+      "中國/亞洲",
       "未來太空"
     ],
     "options_en": [
-      "China/Asia",
       "Virtual world",
       "Medieval Europe",
+      "China/Asia",
       "Future space"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《我的英雄學院》係咪好受歡迎？",
     "question_en": "Is 'My Hero Academia' popular?",
     "options_zh": [
-      "只喺特定地區流行",
       "已經過氣",
+      "唔係，好冷門",
       "係，非常受歡迎",
-      "唔係，好冷門"
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "Only popular locally",
       "Outdated",
+      "No, very niche",
       "Yes, very popular",
-      "No, very niche"
+      "Only popular locally"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
@@ -168,24 +168,192 @@
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《我的英雄學院》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'My Hero Academia'?",
     "options_zh": [
       "法國人",
-      "德國人",
       "韓國人",
+      "德國人",
       "中國人"
     ],
     "options_en": [
       "French",
-      "German",
       "Korean",
+      "German",
       "Chinese"
     ],
     "answer": 3,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《我的英雄學院》嘅作者係邊個？",
+    "question_en": "Who wrote 'My Hero Academia'?",
+    "options_zh": [
+      "古龍",
+      "金庸",
+      "堀越耕平",
+      "魯迅"
+    ],
+    "options_en": [
+      "Gu Long",
+      "Jin Yong",
+      "Kohei Horikoshi",
+      "Lu Xun"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「堀越耕平」。《我的英雄學院》係堀越耕平嘅作品，屬於超級英雄類型。",
+    "explanation_en": "The correct answer is 'Kohei Horikoshi'. 'My Hero Academia' is a work by Kohei Horikoshi, categorized as 超級英雄.",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《我的英雄學院》？",
+    "question_en": "Which author wrote 'My Hero Academia'?",
+    "options_zh": [
+      "堀越耕平",
+      "金庸",
+      "魯迅",
+      "古龍"
+    ],
+    "options_en": [
+      "Kohei Horikoshi",
+      "Jin Yong",
+      "Lu Xun",
+      "Gu Long"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「堀越耕平」。《我的英雄學院》係堀越耕平嘅作品，屬於超級英雄類型。",
+    "explanation_en": "The correct answer is 'Kohei Horikoshi'. 'My Hero Academia' is a work by Kohei Horikoshi, categorized as 超級英雄.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《我的英雄學院》屬於咩類型？",
+    "question_en": "What genre is 'My Hero Academia'?",
+    "options_zh": [
+      "動作",
+      "超級英雄",
+      "奇幻",
+      "科幻"
+    ],
+    "options_en": [
+      "動作",
+      "超級英雄",
+      "奇幻",
+      "科幻"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「超級英雄」。《我的英雄學院》係堀越耕平嘅作品，屬於超級英雄類型。",
+    "explanation_en": "The correct answer is '超級英雄'. 'My Hero Academia' is a work by Kohei Horikoshi, categorized as 超級英雄.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《我的英雄學院》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'My Hero Academia'?",
+    "options_zh": [
+      "綠谷出久",
+      "郭靖",
+      "張無忌",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Deku",
+      "Guo Jing",
+      "Zhang Wuji",
+      "Linghu Chong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「綠谷出久」。《我的英雄學院》係堀越耕平嘅作品，屬於超級英雄類型。",
+    "explanation_en": "The correct answer is 'Deku'. 'My Hero Academia' is a work by Kohei Horikoshi, categorized as 超級英雄.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《我的英雄學院》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'My Hero Academia'?",
+    "options_zh": [
+      "張無忌",
+      "綠谷出久",
+      "令狐沖",
+      "郭靖"
+    ],
+    "options_en": [
+      "Zhang Wuji",
+      "Deku",
+      "Linghu Chong",
+      "Guo Jing"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「綠谷出久」。《我的英雄學院》係堀越耕平嘅作品，屬於超級英雄類型。",
+    "explanation_en": "The correct answer is 'Deku'. 'My Hero Academia' is a work by Kohei Horikoshi, categorized as 超級英雄.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《我的英雄學院》大約喺邊年出版？",
+    "question_en": "In which year was 'My Hero Academia' approximately published?",
+    "options_zh": [
+      "2004",
+      "2014",
+      "2024",
+      "1994"
+    ],
+    "options_en": [
+      "2004",
+      "2014",
+      "2024",
+      "1994"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「2014」。《我的英雄學院》係堀越耕平嘅作品，屬於超級英雄類型。",
+    "explanation_en": "The correct answer is '2014'. 'My Hero Academia' is a work by Kohei Horikoshi, categorized as 超級英雄.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《我的英雄學院》？",
+    "question_en": "Which one is 'My Hero Academia'?",
+    "options_zh": [
+      "我的英雄學院",
+      "其他小說B",
+      "其他小說C",
+      "其他小說A"
+    ],
+    "options_en": [
+      "My Hero Academia",
+      "Other Novel B",
+      "Other Novel C",
+      "Other Novel A"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「我的英雄學院」。《我的英雄學院》係堀越耕平嘅作品，屬於超級英雄類型。",
+    "explanation_en": "The correct answer is 'My Hero Academia'. 'My Hero Academia' is a work by Kohei Horikoshi, categorized as 超級英雄.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《我的英雄學院》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'My Hero Academia' belong to?",
+    "options_zh": [
+      "popular",
+      "奇幻",
+      "文學",
+      "歷史"
+    ],
+    "options_en": [
+      "popular",
+      "Fantasy",
+      "Literary",
+      "Historical"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「popular」。《我的英雄學院》係堀越耕平嘅作品，屬於超級英雄類型。",
+    "explanation_en": "The correct answer is 'popular'. 'My Hero Academia' is a work by Kohei Horikoshi, categorized as 超級英雄.",
     "difficulty": 2
   }
 ]

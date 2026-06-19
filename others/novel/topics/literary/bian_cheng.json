@@ -4,79 +4,79 @@
     "question_zh": "以下邊本係《邊城》？",
     "question_en": "Which one is 'Border Town'?",
     "options_zh": [
-      "其他小說C",
       "其他小說A",
-      "其他小說B",
-      "邊城"
+      "邊城",
+      "其他小說C",
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel C",
       "Other Novel A",
-      "Other Novel B",
-      "Border Town"
+      "Border Town",
+      "Other Novel C",
+      "Other Novel B"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「邊城」。",
     "explanation_en": "The correct answer is 'Border Town'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《邊城》嘅作者係邊個？",
     "question_en": "Who wrote 'Border Town'?",
     "options_zh": [
-      "沈從文",
-      "其他作者A",
       "其他作者B",
+      "其他作者A",
+      "沈從文",
       "其他作者C"
     ],
     "options_en": [
-      "Shen Congwen",
-      "Author A",
       "Author B",
+      "Author A",
+      "Shen Congwen",
       "Author C"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「沈從文」。",
     "explanation_en": "The correct answer is 'Shen Congwen'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《邊城》係邊年出版嘅？",
     "question_en": "What year was 'Border Town' published?",
     "options_zh": [
-      "1931年",
-      "1936年",
+      "1934年",
       "1929年",
-      "1934年"
+      "1931年",
+      "1936年"
     ],
     "options_en": [
-      "1931",
-      "1936",
+      "1934",
       "1929",
-      "1934"
+      "1931",
+      "1936"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「1934年」。",
     "explanation_en": "The correct answer is '1934'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《邊城》係邊國作品？",
     "question_en": "Which country is 'Border Town' from?",
     "options_zh": [
       "中國",
       "德國",
-      "韓國",
-      "法國"
+      "法國",
+      "韓國"
     ],
     "options_en": [
       "China",
       "Germany",
-      "South Korea",
-      "France"
+      "France",
+      "South Korea"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「中國」。",
@@ -84,81 +84,81 @@
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《邊城》主要講咩？",
     "question_en": "What is 'Border Town' mainly about?",
     "options_zh": [
-      "科幻太空",
-      "體育競技",
       "現實生活同文學表達",
-      "財經商戰"
+      "科幻太空",
+      "財經商戰",
+      "體育競技"
     ],
     "options_en": [
-      "Sci-fi",
-      "Sports",
       "Real life and literary",
-      "Business"
+      "Sci-fi",
+      "Business",
+      "Sports"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
     "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《邊城》入面有咩角色？",
     "question_en": "What characters are in 'Border Town'?",
     "options_zh": [
-      "主要角色",
-      "機械人",
       "動物",
-      "外星人"
+      "外星人",
+      "主要角色",
+      "機械人"
     ],
     "options_en": [
-      "Main characters",
-      "Robots",
       "Animals",
-      "Aliens"
+      "Aliens",
+      "Main characters",
+      "Robots"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《邊城》嘅故事背景喺邊度？",
     "question_en": "Where is 'Border Town' set?",
     "options_zh": [
-      "中國/亞洲",
+      "歐洲中世紀",
       "未來太空",
       "虛擬世界",
-      "歐洲中世紀"
+      "中國/亞洲"
     ],
     "options_en": [
-      "China/Asia",
+      "Medieval Europe",
       "Future space",
       "Virtual world",
-      "Medieval Europe"
+      "China/Asia"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《邊城》係咪好受歡迎？",
     "question_en": "Is 'Border Town' popular?",
     "options_zh": [
-      "已經過氣",
       "只喺特定地區流行",
+      "已經過氣",
       "係，有一定讀者群",
       "唔係，好冷門"
     ],
     "options_en": [
-      "Outdated",
       "Only popular locally",
+      "Outdated",
       "Yes, has a readership",
       "No, very niche"
     ],
@@ -168,24 +168,192 @@
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《邊城》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Border Town'?",
     "options_zh": [
-      "法國人",
-      "韓國人",
       "中國人",
-      "德國人"
+      "德國人",
+      "韓國人",
+      "法國人"
     ],
     "options_en": [
-      "French",
-      "Korean",
       "Chinese",
-      "German"
+      "German",
+      "Korean",
+      "French"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《邊城》嘅作者係邊個？",
+    "question_en": "Who wrote 'Border Town'?",
+    "options_zh": [
+      "金庸",
+      "沈從文",
+      "魯迅",
+      "古龍"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Shen Congwen",
+      "Lu Xun",
+      "Gu Long"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「沈從文」。《邊城》係沈從文嘅作品，屬於抒情類型。",
+    "explanation_en": "The correct answer is 'Shen Congwen'. 'Border Town' is a work by Shen Congwen, categorized as 抒情.",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《邊城》？",
+    "question_en": "Which author wrote 'Border Town'?",
+    "options_zh": [
+      "古龍",
+      "沈從文",
+      "魯迅",
+      "金庸"
+    ],
+    "options_en": [
+      "Gu Long",
+      "Shen Congwen",
+      "Lu Xun",
+      "Jin Yong"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「沈從文」。《邊城》係沈從文嘅作品，屬於抒情類型。",
+    "explanation_en": "The correct answer is 'Shen Congwen'. 'Border Town' is a work by Shen Congwen, categorized as 抒情.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《邊城》屬於咩類型？",
+    "question_en": "What genre is 'Border Town'?",
+    "options_zh": [
+      "文學",
+      "詩歌",
+      "愛情",
+      "抒情"
+    ],
+    "options_en": [
+      "文學",
+      "詩歌",
+      "愛情",
+      "抒情"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「抒情」。《邊城》係沈從文嘅作品，屬於抒情類型。",
+    "explanation_en": "The correct answer is '抒情'. 'Border Town' is a work by Shen Congwen, categorized as 抒情.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《邊城》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Border Town'?",
+    "options_zh": [
+      "張無忌",
+      "令狐沖",
+      "翠翠",
+      "郭靖"
+    ],
+    "options_en": [
+      "Zhang Wuji",
+      "Linghu Chong",
+      "Cuicui",
+      "Guo Jing"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「翠翠」。《邊城》係沈從文嘅作品，屬於抒情類型。",
+    "explanation_en": "The correct answer is 'Cuicui'. 'Border Town' is a work by Shen Congwen, categorized as 抒情.",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《邊城》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Border Town'?",
+    "options_zh": [
+      "張無忌",
+      "令狐沖",
+      "郭靖",
+      "翠翠"
+    ],
+    "options_en": [
+      "Zhang Wuji",
+      "Linghu Chong",
+      "Guo Jing",
+      "Cuicui"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「翠翠」。《邊城》係沈從文嘅作品，屬於抒情類型。",
+    "explanation_en": "The correct answer is 'Cuicui'. 'Border Town' is a work by Shen Congwen, categorized as 抒情.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《邊城》大約喺邊年出版？",
+    "question_en": "In which year was 'Border Town' approximately published?",
+    "options_zh": [
+      "1944",
+      "1924",
+      "1914",
+      "1934"
+    ],
+    "options_en": [
+      "1944",
+      "1924",
+      "1914",
+      "1934"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「1934」。《邊城》係沈從文嘅作品，屬於抒情類型。",
+    "explanation_en": "The correct answer is '1934'. 'Border Town' is a work by Shen Congwen, categorized as 抒情.",
+    "difficulty": 2
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《邊城》？",
+    "question_en": "Which one is 'Border Town'?",
+    "options_zh": [
+      "其他小說C",
+      "邊城",
+      "其他小說A",
+      "其他小說B"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Border Town",
+      "Other Novel A",
+      "Other Novel B"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「邊城」。《邊城》係沈從文嘅作品，屬於抒情類型。",
+    "explanation_en": "The correct answer is 'Border Town'. 'Border Town' is a work by Shen Congwen, categorized as 抒情.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《邊城》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Border Town' belong to?",
+    "options_zh": [
+      "奇幻",
+      "歷史",
+      "推理",
+      "literary"
+    ],
+    "options_en": [
+      "Fantasy",
+      "Historical",
+      "Mystery",
+      "literary"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「literary」。《邊城》係沈從文嘅作品，屬於抒情類型。",
+    "explanation_en": "The correct answer is 'literary'. 'Border Town' is a work by Shen Congwen, categorized as 抒情.",
+    "difficulty": 1
   }
 ]

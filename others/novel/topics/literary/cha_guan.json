@@ -4,79 +4,79 @@
     "question_zh": "以下邊本係《茶館》？",
     "question_en": "Which one is 'Teahouse'?",
     "options_zh": [
-      "其他小說B",
+      "茶館",
       "其他小說C",
       "其他小說A",
-      "茶館"
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel B",
+      "Teahouse",
       "Other Novel C",
       "Other Novel A",
-      "Teahouse"
+      "Other Novel B"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「茶館」。",
     "explanation_en": "The correct answer is 'Teahouse'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《茶館》嘅作者係邊個？",
     "question_en": "Who wrote 'Teahouse'?",
     "options_zh": [
       "其他作者A",
-      "老舍",
       "其他作者B",
-      "其他作者C"
+      "其他作者C",
+      "老舍"
     ],
     "options_en": [
       "Author A",
-      "Lao She",
       "Author B",
-      "Author C"
+      "Author C",
+      "Lao She"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「老舍」。",
     "explanation_en": "The correct answer is 'Lao She'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《茶館》係邊年出版嘅？",
     "question_en": "What year was 'Teahouse' published?",
     "options_zh": [
-      "1955年",
       "1954年",
-      "1957年",
-      "1960年"
+      "1955年",
+      "1960年",
+      "1957年"
     ],
     "options_en": [
-      "1955",
       "1954",
-      "1957",
-      "1960"
+      "1955",
+      "1960",
+      "1957"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「1957年」。",
     "explanation_en": "The correct answer is '1957'.",
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《茶館》係邊國作品？",
     "question_en": "Which country is 'Teahouse' from?",
     "options_zh": [
+      "德國",
       "韓國",
-      "法國",
       "中國",
-      "德國"
+      "法國"
     ],
     "options_en": [
+      "Germany",
       "South Korea",
-      "France",
       "China",
-      "Germany"
+      "France"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「中國」。",
@@ -84,108 +84,276 @@
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《茶館》主要講咩？",
     "question_en": "What is 'Teahouse' mainly about?",
     "options_zh": [
-      "財經商戰",
       "科幻太空",
-      "現實生活同文學表達",
-      "體育競技"
+      "財經商戰",
+      "體育競技",
+      "現實生活同文學表達"
     ],
     "options_en": [
-      "Business",
       "Sci-fi",
-      "Real life and literary",
-      "Sports"
+      "Business",
+      "Sports",
+      "Real life and literary"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
     "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《茶館》入面有咩角色？",
     "question_en": "What characters are in 'Teahouse'?",
     "options_zh": [
-      "主要角色",
-      "動物",
       "外星人",
-      "機械人"
+      "機械人",
+      "動物",
+      "主要角色"
     ],
     "options_en": [
-      "Main characters",
-      "Animals",
       "Aliens",
-      "Robots"
+      "Robots",
+      "Animals",
+      "Main characters"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「主要角色」。",
     "explanation_en": "The correct answer is 'Main characters'.",
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《茶館》嘅故事背景喺邊度？",
     "question_en": "Where is 'Teahouse' set?",
     "options_zh": [
-      "中國/亞洲",
+      "歐洲中世紀",
       "虛擬世界",
-      "未來太空",
-      "歐洲中世紀"
+      "中國/亞洲",
+      "未來太空"
     ],
     "options_en": [
-      "China/Asia",
+      "Medieval Europe",
       "Virtual world",
-      "Future space",
-      "Medieval Europe"
+      "China/Asia",
+      "Future space"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「中國/亞洲」。",
     "explanation_en": "The correct answer is 'China/Asia'.",
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《茶館》係咪好受歡迎？",
     "question_en": "Is 'Teahouse' popular?",
     "options_zh": [
-      "唔係，好冷門",
-      "係，有一定讀者群",
+      "只喺特定地區流行",
       "已經過氣",
-      "只喺特定地區流行"
+      "係，有一定讀者群",
+      "唔係，好冷門"
     ],
     "options_en": [
-      "No, very niche",
-      "Yes, has a readership",
+      "Only popular locally",
       "Outdated",
-      "Only popular locally"
+      "Yes, has a readership",
+      "No, very niche"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，有一定讀者群」。",
     "explanation_en": "The correct answer is 'Yes, has a readership'.",
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《茶館》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Teahouse'?",
     "options_zh": [
-      "韓國人",
-      "法國人",
       "中國人",
-      "德國人"
+      "德國人",
+      "韓國人",
+      "法國人"
     ],
     "options_en": [
-      "Korean",
-      "French",
       "Chinese",
-      "German"
+      "German",
+      "Korean",
+      "French"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「中國人」。",
     "explanation_en": "The correct answer is 'Chinese'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《茶館》嘅作者係邊個？",
+    "question_en": "Who wrote 'Teahouse'?",
+    "options_zh": [
+      "金庸",
+      "魯迅",
+      "老舍",
+      "古龍"
+    ],
+    "options_en": [
+      "Jin Yong",
+      "Lu Xun",
+      "Lao She",
+      "Gu Long"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「老舍」。《茶館》係老舍嘅作品，屬於戲劇類型。",
+    "explanation_en": "The correct answer is 'Lao She'. 'Teahouse' is a work by Lao She, categorized as 戲劇.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《茶館》？",
+    "question_en": "Which author wrote 'Teahouse'?",
+    "options_zh": [
+      "魯迅",
+      "古龍",
+      "老舍",
+      "金庸"
+    ],
+    "options_en": [
+      "Lu Xun",
+      "Gu Long",
+      "Lao She",
+      "Jin Yong"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「老舍」。《茶館》係老舍嘅作品，屬於戲劇類型。",
+    "explanation_en": "The correct answer is 'Lao She'. 'Teahouse' is a work by Lao She, categorized as 戲劇.",
+    "difficulty": 3
+  },
+  {
+    "id": 12,
+    "question_zh": "《茶館》屬於咩類型？",
+    "question_en": "What genre is 'Teahouse'?",
+    "options_zh": [
+      "歷史",
+      "喜劇",
+      "戲劇",
+      "文學"
+    ],
+    "options_en": [
+      "歷史",
+      "喜劇",
+      "戲劇",
+      "文學"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「戲劇」。《茶館》係老舍嘅作品，屬於戲劇類型。",
+    "explanation_en": "The correct answer is '戲劇'. 'Teahouse' is a work by Lao She, categorized as 戲劇.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《茶館》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Teahouse'?",
+    "options_zh": [
+      "令狐沖",
+      "王利發",
+      "郭靖",
+      "張無忌"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Wang Lifa",
+      "Guo Jing",
+      "Zhang Wuji"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「王利發」。《茶館》係老舍嘅作品，屬於戲劇類型。",
+    "explanation_en": "The correct answer is 'Wang Lifa'. 'Teahouse' is a work by Lao She, categorized as 戲劇.",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_zh": "《茶館》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Teahouse'?",
+    "options_zh": [
+      "令狐沖",
+      "王利發",
+      "張無忌",
+      "郭靖"
+    ],
+    "options_en": [
+      "Linghu Chong",
+      "Wang Lifa",
+      "Zhang Wuji",
+      "Guo Jing"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「王利發」。《茶館》係老舍嘅作品，屬於戲劇類型。",
+    "explanation_en": "The correct answer is 'Wang Lifa'. 'Teahouse' is a work by Lao She, categorized as 戲劇.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《茶館》大約喺邊年出版？",
+    "question_en": "In which year was 'Teahouse' approximately published?",
+    "options_zh": [
+      "1937",
+      "1967",
+      "1957",
+      "1947"
+    ],
+    "options_en": [
+      "1937",
+      "1967",
+      "1957",
+      "1947"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「1957」。《茶館》係老舍嘅作品，屬於戲劇類型。",
+    "explanation_en": "The correct answer is '1957'. 'Teahouse' is a work by Lao She, categorized as 戲劇.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《茶館》？",
+    "question_en": "Which one is 'Teahouse'?",
+    "options_zh": [
+      "茶館",
+      "其他小說C",
+      "其他小說B",
+      "其他小說A"
+    ],
+    "options_en": [
+      "Teahouse",
+      "Other Novel C",
+      "Other Novel B",
+      "Other Novel A"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「茶館」。《茶館》係老舍嘅作品，屬於戲劇類型。",
+    "explanation_en": "The correct answer is 'Teahouse'. 'Teahouse' is a work by Lao She, categorized as 戲劇.",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_zh": "《茶館》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Teahouse' belong to?",
+    "options_zh": [
+      "推理",
+      "literary",
+      "歷史",
+      "奇幻"
+    ],
+    "options_en": [
+      "Mystery",
+      "literary",
+      "Historical",
+      "Fantasy"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「literary」。《茶館》係老舍嘅作品，屬於戲劇類型。",
+    "explanation_en": "The correct answer is 'literary'. 'Teahouse' is a work by Lao She, categorized as 戲劇.",
     "difficulty": 2
   }
 ]

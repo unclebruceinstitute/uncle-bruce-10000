@@ -4,58 +4,58 @@
     "question_zh": "以下邊本係《動物農莊》？",
     "question_en": "Which one is 'Animal Farm'?",
     "options_zh": [
-      "其他小說C",
       "其他小說A",
-      "其他小說B",
-      "動物農莊"
+      "其他小說C",
+      "動物農莊",
+      "其他小說B"
     ],
     "options_en": [
-      "Other Novel C",
       "Other Novel A",
-      "Other Novel B",
-      "Animal Farm"
+      "Other Novel C",
+      "Animal Farm",
+      "Other Novel B"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「動物農莊」。",
     "explanation_en": "The correct answer is 'Animal Farm'.",
     "difficulty": 2
   },
   {
-    "id": 5,
+    "id": 2,
     "question_zh": "《動物農莊》嘅作者係邊個？",
     "question_en": "Who wrote 'Animal Farm'?",
     "options_zh": [
-      "喬治·奧威爾",
-      "其他作者C",
       "其他作者A",
-      "其他作者B"
+      "其他作者B",
+      "喬治·奧威爾",
+      "其他作者C"
     ],
     "options_en": [
-      "George Orwell",
-      "Author C",
       "Author A",
-      "Author B"
+      "Author B",
+      "George Orwell",
+      "Author C"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「喬治·奧威爾」。",
     "explanation_en": "The correct answer is 'George Orwell'.",
     "difficulty": 3
   },
   {
-    "id": 8,
+    "id": 3,
     "question_zh": "《動物農莊》係邊年出版嘅？",
     "question_en": "What year was 'Animal Farm' published?",
     "options_zh": [
       "1945年",
+      "1940年",
       "1943年",
-      "1947年",
-      "1940年"
+      "1947年"
     ],
     "options_en": [
       "1945",
+      "1940",
       "1943",
-      "1947",
-      "1940"
+      "1947"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「1945年」。",
@@ -63,62 +63,62 @@
     "difficulty": 3
   },
   {
-    "id": 11,
+    "id": 4,
     "question_zh": "《動物農莊》係邊國作品？",
     "question_en": "Which country is 'Animal Farm' from?",
     "options_zh": [
-      "韓國",
-      "英國",
       "法國",
-      "德國"
+      "韓國",
+      "德國",
+      "英國"
     ],
     "options_en": [
-      "South Korea",
-      "UK",
       "France",
-      "Germany"
+      "South Korea",
+      "Germany",
+      "UK"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「英國」。",
     "explanation_en": "The correct answer is 'UK'.",
     "difficulty": 3
   },
   {
-    "id": 14,
+    "id": 5,
     "question_zh": "《動物農莊》主要講咩？",
     "question_en": "What is 'Animal Farm' mainly about?",
     "options_zh": [
-      "科幻太空",
+      "現實生活同文學表達",
       "財經商戰",
-      "體育競技",
-      "現實生活同文學表達"
+      "科幻太空",
+      "體育競技"
     ],
     "options_en": [
-      "Sci-fi",
+      "Real life and literary",
       "Business",
-      "Sports",
-      "Real life and literary"
+      "Sci-fi",
+      "Sports"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係「現實生活同文學表達」。",
     "explanation_en": "The correct answer is 'Real life and literary'.",
     "difficulty": 3
   },
   {
-    "id": 17,
+    "id": 6,
     "question_zh": "《動物農莊》入面有咩角色？",
     "question_en": "What characters are in 'Animal Farm'?",
     "options_zh": [
+      "動物",
       "機械人",
-      "外星人",
       "主要角色",
-      "動物"
+      "外星人"
     ],
     "options_en": [
+      "Animals",
       "Robots",
-      "Aliens",
       "Main characters",
-      "Animals"
+      "Aliens"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「主要角色」。",
@@ -126,19 +126,19 @@
     "difficulty": 3
   },
   {
-    "id": 20,
+    "id": 7,
     "question_zh": "《動物農莊》嘅故事背景喺邊度？",
     "question_en": "Where is 'Animal Farm' set?",
     "options_zh": [
-      "歐洲中世紀",
-      "中國/亞洲",
       "未來太空",
+      "中國/亞洲",
+      "歐洲中世紀",
       "虛擬世界"
     ],
     "options_en": [
-      "Medieval Europe",
-      "China/Asia",
       "Future space",
+      "China/Asia",
+      "Medieval Europe",
       "Virtual world"
     ],
     "answer": 1,
@@ -147,18 +147,18 @@
     "difficulty": 3
   },
   {
-    "id": 23,
+    "id": 8,
     "question_zh": "《動物農莊》係咪好受歡迎？",
     "question_en": "Is 'Animal Farm' popular?",
     "options_zh": [
-      "唔係，好冷門",
       "已經過氣",
+      "唔係，好冷門",
       "只喺特定地區流行",
       "係，非常受歡迎"
     ],
     "options_en": [
-      "No, very niche",
       "Outdated",
+      "No, very niche",
       "Only popular locally",
       "Yes, very popular"
     ],
@@ -168,24 +168,192 @@
     "difficulty": 3
   },
   {
-    "id": 25,
+    "id": 9,
     "question_zh": "《動物農莊》嘅作者係邊國人？",
     "question_en": "What nationality is the author of 'Animal Farm'?",
     "options_zh": [
-      "韓國人",
-      "英國人",
+      "德國人",
       "法國人",
-      "德國人"
+      "韓國人",
+      "英國人"
     ],
     "options_en": [
-      "Korean",
-      "British",
+      "German",
       "French",
-      "German"
+      "Korean",
+      "British"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「英國人」。",
     "explanation_en": "The correct answer is 'British'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《動物農莊》嘅作者係邊個？",
+    "question_en": "Who wrote 'Animal Farm'?",
+    "options_zh": [
+      "古龍",
+      "金庸",
+      "喬治·奧威爾",
+      "魯迅"
+    ],
+    "options_en": [
+      "Gu Long",
+      "Jin Yong",
+      "George Orwell",
+      "Lu Xun"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「喬治·奧威爾」。《動物農莊》係喬治·奧威爾嘅作品，屬於寓言類型。",
+    "explanation_en": "The correct answer is 'George Orwell'. 'Animal Farm' is a work by George Orwell, categorized as 寓言.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "邊個作家寫咗《動物農莊》？",
+    "question_en": "Which author wrote 'Animal Farm'?",
+    "options_zh": [
+      "魯迅",
+      "喬治·奧威爾",
+      "金庸",
+      "古龍"
+    ],
+    "options_en": [
+      "Lu Xun",
+      "George Orwell",
+      "Jin Yong",
+      "Gu Long"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「喬治·奧威爾」。《動物農莊》係喬治·奧威爾嘅作品，屬於寓言類型。",
+    "explanation_en": "The correct answer is 'George Orwell'. 'Animal Farm' is a work by George Orwell, categorized as 寓言.",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question_zh": "《動物農莊》屬於咩類型？",
+    "question_en": "What genre is 'Animal Farm'?",
+    "options_zh": [
+      "童話",
+      "文學",
+      "諷刺",
+      "寓言"
+    ],
+    "options_en": [
+      "童話",
+      "文學",
+      "諷刺",
+      "寓言"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「寓言」。《動物農莊》係喬治·奧威爾嘅作品，屬於寓言類型。",
+    "explanation_en": "The correct answer is '寓言'. 'Animal Farm' is a work by George Orwell, categorized as 寓言.",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_zh": "《動物農莊》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Animal Farm'?",
+    "options_zh": [
+      "郭靖",
+      "張無忌",
+      "令狐沖",
+      "拿破崙"
+    ],
+    "options_en": [
+      "Guo Jing",
+      "Zhang Wuji",
+      "Linghu Chong",
+      "Napoleon"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「拿破崙」。《動物農莊》係喬治·奧威爾嘅作品，屬於寓言類型。",
+    "explanation_en": "The correct answer is 'Napoleon'. 'Animal Farm' is a work by George Orwell, categorized as 寓言.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《動物農莊》入面，主角叫咩名？",
+    "question_en": "What is the main character's name in 'Animal Farm'?",
+    "options_zh": [
+      "張無忌",
+      "郭靖",
+      "拿破崙",
+      "令狐沖"
+    ],
+    "options_en": [
+      "Zhang Wuji",
+      "Guo Jing",
+      "Napoleon",
+      "Linghu Chong"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「拿破崙」。《動物農莊》係喬治·奧威爾嘅作品，屬於寓言類型。",
+    "explanation_en": "The correct answer is 'Napoleon'. 'Animal Farm' is a work by George Orwell, categorized as 寓言.",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_zh": "《動物農莊》大約喺邊年出版？",
+    "question_en": "In which year was 'Animal Farm' approximately published?",
+    "options_zh": [
+      "1925",
+      "1945",
+      "1935",
+      "1955"
+    ],
+    "options_en": [
+      "1925",
+      "1945",
+      "1935",
+      "1955"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「1945」。《動物農莊》係喬治·奧威爾嘅作品，屬於寓言類型。",
+    "explanation_en": "The correct answer is '1945'. 'Animal Farm' is a work by George Orwell, categorized as 寓言.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "以下邊本係《動物農莊》？",
+    "question_en": "Which one is 'Animal Farm'?",
+    "options_zh": [
+      "其他小說C",
+      "其他小說B",
+      "其他小說A",
+      "動物農莊"
+    ],
+    "options_en": [
+      "Other Novel C",
+      "Other Novel B",
+      "Other Novel A",
+      "Animal Farm"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「動物農莊」。《動物農莊》係喬治·奧威爾嘅作品，屬於寓言類型。",
+    "explanation_en": "The correct answer is 'Animal Farm'. 'Animal Farm' is a work by George Orwell, categorized as 寓言.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《動物農莊》屬於邊個文學分類？",
+    "question_en": "Which literary category does 'Animal Farm' belong to?",
+    "options_zh": [
+      "奇幻",
+      "literary",
+      "歷史",
+      "推理"
+    ],
+    "options_en": [
+      "Fantasy",
+      "literary",
+      "Historical",
+      "Mystery"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「literary」。《動物農莊》係喬治·奧威爾嘅作品，屬於寓言類型。",
+    "explanation_en": "The correct answer is 'literary'. 'Animal Farm' is a work by George Orwell, categorized as 寓言.",
     "difficulty": 2
   }
 ]
