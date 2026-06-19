@@ -4,16 +4,16 @@
     "question_zh": "以下邊套係《權力遊戲》？",
     "question_en": "Which one is 'Game of Thrones'?",
     "options_zh": [
-      "其他劇集A",
+      "魷魚遊戲",
       "權力遊戲",
-      "其他劇集C",
-      "其他劇集B"
+      "黑鏡",
+      "完美伴侶"
     ],
     "options_en": [
-      "Other Show A",
+      "Squid Game",
       "Game of Thrones",
-      "Other Show C",
-      "Other Show B"
+      "Black Mirror",
+      "Perfect Couple"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「權力遊戲」。",
@@ -26,15 +26,15 @@
     "question_en": "Which drama is 'Game of Thrones'?",
     "options_zh": [
       "權力遊戲",
-      "其他劇集B",
-      "其他劇集C",
-      "其他劇集A"
+      "魷魚遊戲",
+      "黑鏡",
+      "完美伴侶"
     ],
     "options_en": [
       "Game of Thrones",
-      "Other Show B",
-      "Other Show C",
-      "Other Show A"
+      "Squid Game",
+      "Black Mirror",
+      "Perfect Couple"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「權力遊戲」。",
@@ -46,16 +46,16 @@
     "question_zh": "以下邊個係《權力遊戲》嘅正確名稱？",
     "question_en": "Which is the correct name of 'Game of Thrones'?",
     "options_zh": [
-      "其他劇集B",
+      "魷魚遊戲",
       "權力遊戲",
-      "其他劇集A",
-      "其他劇集C"
+      "黑鏡",
+      "完美伴侶"
     ],
     "options_en": [
-      "Other Show B",
+      "Squid Game",
       "Game of Thrones",
-      "Other Show A",
-      "Other Show C"
+      "Black Mirror",
+      "Perfect Couple"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「權力遊戲」。",
@@ -79,8 +79,8 @@
       "紀錄片"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「奇幻」。",
-    "explanation_en": "正確答案係「奇幻」。",
+    "explanation_zh": "《權力的遊戲》係奇幻類型劇集。",
+    "explanation_en": "'權力的遊戲' is a Fantasy show.",
     "difficulty": 2
   },
   {
@@ -100,8 +100,8 @@
       "喜劇"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「奇幻」。",
-    "explanation_en": "正確答案係「奇幻」。",
+    "explanation_zh": "《權力的遊戲》係奇幻類型劇集。",
+    "explanation_en": "'權力的遊戲' is a Fantasy show.",
     "difficulty": 3
   },
   {
@@ -121,8 +121,8 @@
       "喜劇"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「奇幻」。",
-    "explanation_en": "正確答案係「奇幻」。",
+    "explanation_zh": "《權力的遊戲》係奇幻類型劇集。",
+    "explanation_en": "'權力的遊戲' is a Fantasy show.",
     "difficulty": 1
   },
   {
@@ -523,5 +523,404 @@
     "explanation_zh": "正確答案係「未知」。",
     "explanation_en": "The correct answer is 'Unknown'.",
     "difficulty": 3
+  },
+  {
+    "id": 26,
+    "question_zh": "《權力的遊戲》嘅英文名係咩？",
+    "question_en": "What is the English name of '權力的遊戲'?",
+    "options_zh": [
+      "Westworld",
+      "The Last of Us",
+      "Sherlock",
+      "Game of Thrones"
+    ],
+    "options_en": [
+      "Westworld",
+      "The Last of Us",
+      "Sherlock",
+      "Game of Thrones"
+    ],
+    "answer": 3,
+    "explanation_zh": "《權力的遊戲》嘅英文名係「Game of Thrones」。",
+    "explanation_en": "The English name is 'Game of Thrones'.",
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question_zh": "《權力的遊戲》屬於咩類型？",
+    "question_en": "What genre is '權力的遊戲'?",
+    "options_zh": [
+      "古裝神話",
+      "仙俠",
+      "律政",
+      "奇幻"
+    ],
+    "options_en": [
+      "Mythological",
+      "Xianxia",
+      "Legal",
+      "Fantasy"
+    ],
+    "answer": 3,
+    "explanation_zh": "《權力的遊戲》係奇幻類型。",
+    "explanation_en": "'權力的遊戲' is Fantasy.",
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question_zh": "《權力的遊戲》係邊年首播？",
+    "question_en": "What year did '權力的遊戲' first air?",
+    "options_zh": [
+      "2016",
+      "1988",
+      "2011",
+      "2014"
+    ],
+    "options_en": [
+      "2016",
+      "1988",
+      "2011",
+      "2014"
+    ],
+    "answer": 2,
+    "explanation_zh": "《權力的遊戲》喺2011年首播。",
+    "explanation_en": "'權力的遊戲' first aired in 2011.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "《權力的遊戲》喺邊個平台播出？",
+    "question_en": "On which platform did '權力的遊戲' air?",
+    "options_zh": [
+      "tvN",
+      "HBO",
+      "KBS2",
+      "AMC"
+    ],
+    "options_en": [
+      "tvN",
+      "HBO",
+      "KBS2",
+      "AMC"
+    ],
+    "answer": 1,
+    "explanation_zh": "《權力的遊戲》喺HBO播出。",
+    "explanation_en": "'權力的遊戲' aired on HBO.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "以下邊個係《權力的遊戲》嘅主演？",
+    "question_en": "Which actor starred in '權力的遊戲'?",
+    "options_zh": [
+      "琦特·夏靈頓",
+      "唐澤壽明",
+      "吳鎮宇",
+      "上野樹里"
+    ],
+    "options_en": [
+      "Kit Harington",
+      "Toshiaki Karisawa",
+      "Francis Ng",
+      "Juri Ueno"
+    ],
+    "answer": 0,
+    "explanation_zh": "「琦特·夏靈頓」係《權力的遊戲》嘅主演。",
+    "explanation_en": "'Kit Harington' starred in '權力的遊戲'.",
+    "difficulty": 2
+  },
+  {
+    "id": 31,
+    "question_zh": "「丹妮莉絲」係《權力的遊戲》入面邊個角色？",
+    "question_en": "Which character from '權力的遊戲' is '丹妮莉絲'?",
+    "options_zh": [
+      "丹妮莉絲",
+      "花千骨",
+      "白子畫",
+      "唐三藏"
+    ],
+    "options_en": [
+      "Daenerys",
+      "Hua Qiangu",
+      "Bai Zihua",
+      "Tang Sanzang"
+    ],
+    "answer": 0,
+    "explanation_zh": "「丹妮莉絲」係《權力的遊戲》入面嘅角色。",
+    "explanation_en": "'Daenerys' is from '權力的遊戲'.",
+    "difficulty": 3
+  },
+  {
+    "id": 32,
+    "question_zh": "《權力的遊戲》有幾多集？",
+    "question_en": "How many episodes does '權力的遊戲' have?",
+    "options_zh": [
+      "30",
+      "100",
+      "73",
+      "35"
+    ],
+    "options_en": [
+      "30",
+      "100",
+      "73",
+      "35"
+    ],
+    "answer": 2,
+    "explanation_zh": "《權力的遊戲》共有73集。",
+    "explanation_en": "'權力的遊戲' has 73 episodes.",
+    "difficulty": 3
+  },
+  {
+    "id": 33,
+    "question_zh": "《權力的遊戲》嘅創作人係邊個？",
+    "question_en": "Who created '權力的遊戲'?",
+    "options_zh": [
+      "史提芬·史匹堡",
+      "大衛·班尼奧夫/D·B·威斯",
+      "J·J·艾布斯",
+      "活地·阿倫"
+    ],
+    "options_en": [
+      "Steven Spielberg",
+      "David Benioff & D.B. Weiss",
+      "J.J. Abrams",
+      "Woody Allen"
+    ],
+    "answer": 1,
+    "explanation_zh": "《權力的遊戲》嘅創作人係大衛·班尼奧夫/D·B·威斯。",
+    "explanation_en": "Created by David Benioff & D.B. Weiss.",
+    "difficulty": 3
+  },
+  {
+    "id": 34,
+    "question_zh": "《權力的遊戲》嘅原作係咩？",
+    "question_en": "What is '權力的遊戲' adapted from?",
+    "options_zh": [
+      "改編自《冰與火之歌》",
+      "原創劇本",
+      "改編自同名小說",
+      "改編自遊戲"
+    ],
+    "options_en": [
+      "Adapted from 'A Song of Ice and Fire'",
+      "Original screenplay",
+      "Adapted from a novel",
+      "Adapted from a game"
+    ],
+    "answer": 0,
+    "explanation_zh": "《權力的遊戲》改編自《冰與火之歌》。",
+    "explanation_en": "'權力的遊戲' is Adapted from 'A Song of Ice and Fire'.",
+    "difficulty": 3
+  },
+  {
+    "id": 35,
+    "question_zh": "以下邊套劇同時有「琦特·夏靈頓」同「艾美莉·克拉克」演出？",
+    "question_en": "Which show features both '琦特·夏靈頓' and '艾美莉·克拉克'?",
+    "options_zh": [
+      "辦公室",
+      "新福爾摩斯",
+      "最後生還者",
+      "權力的遊戲"
+    ],
+    "options_en": [
+      "The Office (US)",
+      "Sherlock",
+      "The Last of Us",
+      "Game of Thrones"
+    ],
+    "answer": 3,
+    "explanation_zh": "《權力的遊戲》由琦特·夏靈頓同艾美莉·克拉克主演。",
+    "explanation_en": "'Game of Thrones' stars both Kit Harington and Emilia Clarke.",
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "question_zh": "「丹妮莉絲」係邊套劇嘅角色？",
+    "question_en": "Which show does '丹妮莉絲' appear in?",
+    "options_zh": [
+      "力量之戒",
+      "辦公室",
+      "最後生還者",
+      "權力的遊戲"
+    ],
+    "options_en": [
+      "The Rings of Power",
+      "The Office (US)",
+      "The Last of Us",
+      "Game of Thrones"
+    ],
+    "answer": 3,
+    "explanation_zh": "「丹妮莉絲」係《權力的遊戲》嘅角色。",
+    "explanation_en": "'Daenerys' is from '權力的遊戲'.",
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question_zh": "以下邊套劇同《獵魔士》屬於同一類型（奇幻）？",
+    "question_en": "Which show shares the genre (Fantasy) with '獵魔士'?",
+    "options_zh": [
+      "權力的遊戲",
+      "辦公室",
+      "曼達洛人",
+      "龍之家族"
+    ],
+    "options_en": [
+      "Game of Thrones",
+      "The Office (US)",
+      "The Mandalorian",
+      "House of the Dragon"
+    ],
+    "answer": 0,
+    "explanation_zh": "《權力的遊戲》同《獵魔士》都係奇幻類型。",
+    "explanation_en": "'權力的遊戲' and 'The Witcher' are both Fantasy.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "《權力的遊戲》係邊個年代嘅作品？",
+    "question_en": "Which decade was '權力的遊戲' from?",
+    "options_zh": [
+      "2020年代",
+      "2010年代",
+      "1980年代",
+      "2000年代"
+    ],
+    "options_en": [
+      "2020s",
+      "2010s",
+      "1980s",
+      "2000s"
+    ],
+    "answer": 1,
+    "explanation_zh": "《權力的遊戲》係2010年代嘅作品。",
+    "explanation_en": "'權力的遊戲' is from the 2010s.",
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "question_zh": "邊套劇喺2011年首播？",
+    "question_en": "Which show first aired in 2011?",
+    "options_zh": [
+      "王冠",
+      "黑鏡",
+      "絕命毒師",
+      "權力的遊戲"
+    ],
+    "options_en": [
+      "The Crown",
+      "Black Mirror",
+      "Breaking Bad",
+      "Game of Thrones"
+    ],
+    "answer": 3,
+    "explanation_zh": "《權力的遊戲》喺2011年首播。",
+    "explanation_en": "'權力的遊戲' first aired in 2011.",
+    "difficulty": 2
+  },
+  {
+    "id": 40,
+    "question_zh": "邊套劇喺HBO播出？",
+    "question_en": "Which show aired on HBO?",
+    "options_zh": [
+      "怪奇物語",
+      "絕命毒師",
+      "龍之家族",
+      "權力的遊戲"
+    ],
+    "options_en": [
+      "Stranger Things",
+      "Breaking Bad",
+      "House of the Dragon",
+      "Game of Thrones"
+    ],
+    "answer": 3,
+    "explanation_zh": "《權力的遊戲》喺HBO播出。",
+    "explanation_en": "'權力的遊戲' aired on HBO.",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question_zh": "以下邊套係奇幻類型嘅劇集？",
+    "question_en": "Which is a Fantasy show?",
+    "options_zh": [
+      "西部世界",
+      "權力的遊戲",
+      "力量之戒",
+      "新福爾摩斯"
+    ],
+    "options_en": [
+      "Westworld",
+      "Game of Thrones",
+      "The Rings of Power",
+      "Sherlock"
+    ],
+    "answer": 1,
+    "explanation_zh": "《權力的遊戲》係奇幻類型。",
+    "explanation_en": "'權力的遊戲' is Fantasy.",
+    "difficulty": 1
+  },
+  {
+    "id": 42,
+    "question_zh": "「琦特·夏靈頓」有份演出邊套劇？",
+    "question_en": "Which show did '琦特·夏靈頓' appear in?",
+    "options_zh": [
+      "權力的遊戲",
+      "黑鏡",
+      "龍之家族",
+      "曼達洛人"
+    ],
+    "options_en": [
+      "Game of Thrones",
+      "Black Mirror",
+      "House of the Dragon",
+      "The Mandalorian"
+    ],
+    "answer": 0,
+    "explanation_zh": "「琦特·夏靈頓」演出過《權力的遊戲》。",
+    "explanation_en": "'Kit Harington' appeared in '權力的遊戲'.",
+    "difficulty": 2
+  },
+  {
+    "id": 43,
+    "question_zh": "「丹妮莉絲」係邊套劇嘅角色？",
+    "question_en": "Which show does '丹妮莉絲' appear in?",
+    "options_zh": [
+      "權力的遊戲",
+      "西部世界",
+      "龍之家族",
+      "黑鏡"
+    ],
+    "options_en": [
+      "Game of Thrones",
+      "Westworld",
+      "House of the Dragon",
+      "Black Mirror"
+    ],
+    "answer": 0,
+    "explanation_zh": "「丹妮莉絲」係《權力的遊戲》嘅角色。",
+    "explanation_en": "'Daenerys' is from '權力的遊戲'.",
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "question_zh": "《權力的遊戲》「唔係」喺邊個平台播出？",
+    "question_en": "Which platform did '權力的遊戲' NOT air on?",
+    "options_zh": [
+      "浙江衛視",
+      "富士電視台",
+      "HBO",
+      "優酷"
+    ],
+    "options_en": [
+      "浙江衛視",
+      "富士電視台",
+      "HBO",
+      "優酷"
+    ],
+    "answer": 2,
+    "explanation_zh": "《權力的遊戲》係喺HBO播出。",
+    "explanation_en": "'權力的遊戲' aired on HBO.",
+    "difficulty": 2
   }
 ]

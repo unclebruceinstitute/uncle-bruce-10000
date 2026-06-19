@@ -5,19 +5,19 @@
     "question_en": "Which one is 'Sherlock'?",
     "options_zh": [
       "新福爾摩斯",
-      "其他劇集B",
-      "其他劇集A",
-      "其他劇集C"
+      "花千骨",
+      "俠客行",
+      "這！就是街舞"
     ],
     "options_en": [
       "Sherlock",
-      "Other Show B",
-      "Other Show A",
-      "Other Show C"
+      "The Journey of Flower",
+      "Ode to Gallantry",
+      "Street Dance of China"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「新福爾摩斯」。",
-    "explanation_en": "The correct answer is 'Sherlock'.",
+    "explanation_zh": "《新福爾摩斯》嘅正確名稱就係「新福爾摩斯」，英文名係「Sherlock」。",
+    "explanation_en": "The correct name is '新福爾摩斯', English title 'Sherlock'.",
     "difficulty": 2
   },
   {
@@ -25,20 +25,20 @@
     "question_zh": "《新福爾摩斯》係邊套劇？",
     "question_en": "Which drama is 'Sherlock'?",
     "options_zh": [
-      "其他劇集A",
+      "花千骨",
       "新福爾摩斯",
-      "其他劇集C",
-      "其他劇集B"
+      "俠客行",
+      "這！就是街舞"
     ],
     "options_en": [
-      "Other Show A",
+      "The Journey of Flower",
       "Sherlock",
-      "Other Show C",
-      "Other Show B"
+      "Ode to Gallantry",
+      "Street Dance of China"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「新福爾摩斯」。",
-    "explanation_en": "The correct answer is 'Sherlock'.",
+    "explanation_zh": "《新福爾摩斯》嘅正確名稱就係「新福爾摩斯」，英文名係「Sherlock」。",
+    "explanation_en": "The correct name is '新福爾摩斯', English title 'Sherlock'.",
     "difficulty": 3
   },
   {
@@ -46,20 +46,20 @@
     "question_zh": "以下邊個係《新福爾摩斯》嘅正確名稱？",
     "question_en": "Which is the correct name of 'Sherlock'?",
     "options_zh": [
-      "其他劇集B",
-      "其他劇集C",
-      "其他劇集A",
+      "花千骨",
+      "俠客行",
+      "這！就是街舞",
       "新福爾摩斯"
     ],
     "options_en": [
-      "Other Show B",
-      "Other Show C",
-      "Other Show A",
+      "The Journey of Flower",
+      "Ode to Gallantry",
+      "Street Dance of China",
       "Sherlock"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「新福爾摩斯」。",
-    "explanation_en": "The correct answer is 'Sherlock'.",
+    "explanation_zh": "《新福爾摩斯》嘅正確名稱就係「新福爾摩斯」，英文名係「Sherlock」。",
+    "explanation_en": "The correct name is '新福爾摩斯', English title 'Sherlock'.",
     "difficulty": 1
   },
   {
@@ -79,8 +79,8 @@
       "喜劇"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「懸疑」。",
-    "explanation_en": "正確答案係「懸疑」。",
+    "explanation_zh": "《新福爾摩斯》係懸疑類型劇集。",
+    "explanation_en": "'新福爾摩斯' is a Mystery show.",
     "difficulty": 2
   },
   {
@@ -100,8 +100,8 @@
       "愛情"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「懸疑」。",
-    "explanation_en": "正確答案係「懸疑」。",
+    "explanation_zh": "《新福爾摩斯》係懸疑類型劇集。",
+    "explanation_en": "'新福爾摩斯' is a Mystery show.",
     "difficulty": 3
   },
   {
@@ -121,8 +121,8 @@
       "紀錄片"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「懸疑」。",
-    "explanation_en": "正確答案係「懸疑」。",
+    "explanation_zh": "《新福爾摩斯》係懸疑類型劇集。",
+    "explanation_en": "'新福爾摩斯' is a Mystery show.",
     "difficulty": 1
   },
   {
@@ -523,5 +523,404 @@
     "explanation_zh": "正確答案係「未知」。",
     "explanation_en": "The correct answer is 'Unknown'.",
     "difficulty": 3
+  },
+  {
+    "id": 26,
+    "question_zh": "《新福爾摩斯》嘅英文名係咩？",
+    "question_en": "What is the English name of '新福爾摩斯'?",
+    "options_zh": [
+      "The Witcher",
+      "Wednesday",
+      "Sherlock",
+      "The Mandalorian"
+    ],
+    "options_en": [
+      "The Witcher",
+      "Wednesday",
+      "Sherlock",
+      "The Mandalorian"
+    ],
+    "answer": 2,
+    "explanation_zh": "《新福爾摩斯》嘅英文名係「Sherlock」。",
+    "explanation_en": "The English name is 'Sherlock'.",
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question_zh": "《新福爾摩斯》屬於咩類型？",
+    "question_en": "What genre is '新福爾摩斯'?",
+    "options_zh": [
+      "科幻恐怖",
+      "懸疑",
+      "親子真人秀",
+      "動作"
+    ],
+    "options_en": [
+      "Sci-fi Horror",
+      "Mystery",
+      "Parenting Reality",
+      "Action"
+    ],
+    "answer": 1,
+    "explanation_zh": "《新福爾摩斯》係懸疑類型。",
+    "explanation_en": "'新福爾摩斯' is Mystery.",
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question_zh": "《新福爾摩斯》係邊年首播？",
+    "question_en": "What year did '新福爾摩斯' first air?",
+    "options_zh": [
+      "1986",
+      "2010",
+      "2004",
+      "2006"
+    ],
+    "options_en": [
+      "1986",
+      "2010",
+      "2004",
+      "2006"
+    ],
+    "answer": 1,
+    "explanation_zh": "《新福爾摩斯》喺2010年首播。",
+    "explanation_en": "'新福爾摩斯' first aired in 2010.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "《新福爾摩斯》喺邊個平台播出？",
+    "question_en": "On which platform did '新福爾摩斯' air?",
+    "options_zh": [
+      "Disney+",
+      "Netflix",
+      "TVB",
+      "BBC"
+    ],
+    "options_en": [
+      "Disney+",
+      "Netflix",
+      "TVB",
+      "BBC"
+    ],
+    "answer": 3,
+    "explanation_zh": "《新福爾摩斯》喺BBC播出。",
+    "explanation_en": "'新福爾摩斯' aired on BBC.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "以下邊個係《新福爾摩斯》嘅主演？",
+    "question_en": "Which actor starred in '新福爾摩斯'?",
+    "options_zh": [
+      "彭昱暢",
+      "馬田·費曼",
+      "林青霞",
+      "奧利花高文"
+    ],
+    "options_en": [
+      "Peng Yuchang",
+      "Martin Freeman",
+      "Brigitte Lin",
+      "Olivia Colman"
+    ],
+    "answer": 1,
+    "explanation_zh": "「馬田·費曼」係《新福爾摩斯》嘅主演。",
+    "explanation_en": "'Martin Freeman' starred in '新福爾摩斯'.",
+    "difficulty": 2
+  },
+  {
+    "id": 31,
+    "question_zh": "「福爾摩斯」係《新福爾摩斯》入面邊個角色？",
+    "question_en": "Which character from '新福爾摩斯' is '福爾摩斯'?",
+    "options_zh": [
+      "福爾摩斯",
+      "尹世理",
+      "梁小柔",
+      "豬八戒"
+    ],
+    "options_en": [
+      "Sherlock Holmes",
+      "Yoon Se-ri",
+      "Leung Siu Yau",
+      "Zhu Bajie"
+    ],
+    "answer": 0,
+    "explanation_zh": "「福爾摩斯」係《新福爾摩斯》入面嘅角色。",
+    "explanation_en": "'Sherlock Holmes' is from '新福爾摩斯'.",
+    "difficulty": 3
+  },
+  {
+    "id": 32,
+    "question_zh": "《新福爾摩斯》有幾多集？",
+    "question_en": "How many episodes does '新福爾摩斯' have?",
+    "options_zh": [
+      "13",
+      "21",
+      "54",
+      "40"
+    ],
+    "options_en": [
+      "13",
+      "21",
+      "54",
+      "40"
+    ],
+    "answer": 0,
+    "explanation_zh": "《新福爾摩斯》共有13集。",
+    "explanation_en": "'新福爾摩斯' has 13 episodes.",
+    "difficulty": 3
+  },
+  {
+    "id": 33,
+    "question_zh": "《新福爾摩斯》嘅原作係咩？",
+    "question_en": "What is '新福爾摩斯' adapted from?",
+    "options_zh": [
+      "原創劇本",
+      "改編自柯南·道爾嘅福爾摩斯系列",
+      "改編自漫畫",
+      "改編自同名小說"
+    ],
+    "options_en": [
+      "Original screenplay",
+      "Adapted from Conan Doyle's stories",
+      "Adapted from manga",
+      "Adapted from a novel"
+    ],
+    "answer": 1,
+    "explanation_zh": "《新福爾摩斯》改編自柯南·道爾嘅福爾摩斯系列。",
+    "explanation_en": "'新福爾摩斯' is Adapted from Conan Doyle's stories.",
+    "difficulty": 3
+  },
+  {
+    "id": 34,
+    "question_zh": "以下邊套劇同時有「班尼狄·甘巴貝治」同「馬田·費曼」演出？",
+    "question_en": "Which show features both '班尼狄·甘巴貝治' and '馬田·費曼'?",
+    "options_zh": [
+      "新福爾摩斯",
+      "力量之戒",
+      "最後生還者",
+      "獵魔士"
+    ],
+    "options_en": [
+      "Sherlock",
+      "The Rings of Power",
+      "The Last of Us",
+      "The Witcher"
+    ],
+    "answer": 0,
+    "explanation_zh": "《新福爾摩斯》由班尼狄·甘巴貝治同馬田·費曼主演。",
+    "explanation_en": "'Sherlock' stars both Benedict Cumberbatch and Martin Freeman.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question_zh": "「福爾摩斯」係邊套劇嘅角色？",
+    "question_en": "Which show does '福爾摩斯' appear in?",
+    "options_zh": [
+      "龍之家族",
+      "新福爾摩斯",
+      "最後生還者",
+      "黑鏡"
+    ],
+    "options_en": [
+      "House of the Dragon",
+      "Sherlock",
+      "The Last of Us",
+      "Black Mirror"
+    ],
+    "answer": 1,
+    "explanation_zh": "「福爾摩斯」係《新福爾摩斯》嘅角色。",
+    "explanation_en": "'Sherlock Holmes' is from '新福爾摩斯'.",
+    "difficulty": 1
+  },
+  {
+    "id": 36,
+    "question_zh": "以下邊套劇同《Signal》屬於同一類型（懸疑）？",
+    "question_en": "Which show shares the genre (Mystery) with 'Signal'?",
+    "options_zh": [
+      "怪奇物語",
+      "力量之戒",
+      "權力的遊戲",
+      "新福爾摩斯"
+    ],
+    "options_en": [
+      "Stranger Things",
+      "The Rings of Power",
+      "Game of Thrones",
+      "Sherlock"
+    ],
+    "answer": 3,
+    "explanation_zh": "《新福爾摩斯》同《Signal》都係懸疑類型。",
+    "explanation_en": "'新福爾摩斯' and 'Signal' are both Mystery.",
+    "difficulty": 2
+  },
+  {
+    "id": 37,
+    "question_zh": "《新福爾摩斯》係邊個年代嘅作品？",
+    "question_en": "Which decade was '新福爾摩斯' from?",
+    "options_zh": [
+      "2010年代",
+      "1980年代",
+      "2020年代",
+      "1990年代"
+    ],
+    "options_en": [
+      "2010s",
+      "1980s",
+      "2020s",
+      "1990s"
+    ],
+    "answer": 0,
+    "explanation_zh": "《新福爾摩斯》係2010年代嘅作品。",
+    "explanation_en": "'新福爾摩斯' is from the 2010s.",
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "question_zh": "邊套劇喺2010年首播？",
+    "question_en": "Which show first aired in 2010?",
+    "options_zh": [
+      "力量之戒",
+      "龍之家族",
+      "王冠",
+      "新福爾摩斯"
+    ],
+    "options_en": [
+      "The Rings of Power",
+      "House of the Dragon",
+      "The Crown",
+      "Sherlock"
+    ],
+    "answer": 3,
+    "explanation_zh": "《新福爾摩斯》喺2010年首播。",
+    "explanation_en": "'新福爾摩斯' first aired in 2010.",
+    "difficulty": 2
+  },
+  {
+    "id": 39,
+    "question_zh": "邊套劇喺BBC播出？",
+    "question_en": "Which show aired on BBC?",
+    "options_zh": [
+      "獵魔士",
+      "新福爾摩斯",
+      "黑鏡",
+      "力量之戒"
+    ],
+    "options_en": [
+      "The Witcher",
+      "Sherlock",
+      "Black Mirror",
+      "The Rings of Power"
+    ],
+    "answer": 1,
+    "explanation_zh": "《新福爾摩斯》喺BBC播出。",
+    "explanation_en": "'新福爾摩斯' aired on BBC.",
+    "difficulty": 2
+  },
+  {
+    "id": 40,
+    "question_zh": "以下邊套係懸疑類型嘅劇集？",
+    "question_en": "Which is a Mystery show?",
+    "options_zh": [
+      "龍之家族",
+      "新福爾摩斯",
+      "王冠",
+      "曼達洛人"
+    ],
+    "options_en": [
+      "House of the Dragon",
+      "Sherlock",
+      "The Crown",
+      "The Mandalorian"
+    ],
+    "answer": 1,
+    "explanation_zh": "《新福爾摩斯》係懸疑類型。",
+    "explanation_en": "'新福爾摩斯' is Mystery.",
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question_zh": "「馬田·費曼」有份演出邊套劇？",
+    "question_en": "Which show did '馬田·費曼' appear in?",
+    "options_zh": [
+      "西部世界",
+      "新福爾摩斯",
+      "黑鏡",
+      "王冠"
+    ],
+    "options_en": [
+      "Westworld",
+      "Sherlock",
+      "Black Mirror",
+      "The Crown"
+    ],
+    "answer": 1,
+    "explanation_zh": "「馬田·費曼」演出過《新福爾摩斯》。",
+    "explanation_en": "'Martin Freeman' appeared in '新福爾摩斯'.",
+    "difficulty": 2
+  },
+  {
+    "id": 42,
+    "question_zh": "「華生」係邊套劇嘅角色？",
+    "question_en": "Which show does '華生' appear in?",
+    "options_zh": [
+      "力量之戒",
+      "新福爾摩斯",
+      "西部世界",
+      "獵魔士"
+    ],
+    "options_en": [
+      "The Rings of Power",
+      "Sherlock",
+      "Westworld",
+      "The Witcher"
+    ],
+    "answer": 1,
+    "explanation_zh": "「華生」係《新福爾摩斯》嘅角色。",
+    "explanation_en": "'John Watson' is from '新福爾摩斯'.",
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question_zh": "《新福爾摩斯》「唔係」喺邊個平台播出？",
+    "question_en": "Which platform did '新福爾摩斯' NOT air on?",
+    "options_zh": [
+      "BBC",
+      "Disney+",
+      "TBS",
+      "Netflix"
+    ],
+    "options_en": [
+      "BBC",
+      "Disney+",
+      "TBS",
+      "Netflix"
+    ],
+    "answer": 0,
+    "explanation_zh": "《新福爾摩斯》係喺BBC播出。",
+    "explanation_en": "'新福爾摩斯' aired on BBC.",
+    "difficulty": 2
+  },
+  {
+    "id": 44,
+    "question_zh": "《新福爾摩斯》係邊個年代首播？",
+    "question_en": "Which decade did '新福爾摩斯' first air?",
+    "options_zh": [
+      "2020年代",
+      "2010年代",
+      "1980年代",
+      "1990年代"
+    ],
+    "options_en": [
+      "2020s",
+      "2010s",
+      "1980s",
+      "1990s"
+    ],
+    "answer": 1,
+    "explanation_zh": "《新福爾摩斯》係2010年代首播。",
+    "explanation_en": "'新福爾摩斯' first aired in the 2010s.",
+    "difficulty": 1
   }
 ]

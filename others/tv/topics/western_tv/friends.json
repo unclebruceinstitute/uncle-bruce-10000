@@ -5,19 +5,19 @@
     "question_en": "Which one is 'Friends'?",
     "options_zh": [
       "老友記",
-      "其他劇集C",
-      "其他劇集B",
-      "其他劇集A"
+      "使徒行者",
+      "我是歌手",
+      "曼達洛人"
     ],
     "options_en": [
       "Friends",
-      "Other Show C",
-      "Other Show B",
-      "Other Show A"
+      "Line Walker",
+      "I Am a Singer",
+      "The Mandalorian"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「老友記」。",
-    "explanation_en": "The correct answer is 'Friends'.",
+    "explanation_zh": "《老友記》嘅正確名稱就係「老友記」，英文名係「Friends」。",
+    "explanation_en": "The correct name is '老友記', English title 'Friends'.",
     "difficulty": 2
   },
   {
@@ -25,20 +25,20 @@
     "question_zh": "《老友記》係邊套劇？",
     "question_en": "Which drama is 'Friends'?",
     "options_zh": [
-      "其他劇集A",
-      "其他劇集C",
+      "使徒行者",
+      "我是歌手",
       "老友記",
-      "其他劇集B"
+      "曼達洛人"
     ],
     "options_en": [
-      "Other Show A",
-      "Other Show C",
+      "Line Walker",
+      "I Am a Singer",
       "Friends",
-      "Other Show B"
+      "The Mandalorian"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「老友記」。",
-    "explanation_en": "The correct answer is 'Friends'.",
+    "explanation_zh": "《老友記》嘅正確名稱就係「老友記」，英文名係「Friends」。",
+    "explanation_en": "The correct name is '老友記', English title 'Friends'.",
     "difficulty": 3
   },
   {
@@ -46,20 +46,20 @@
     "question_zh": "以下邊個係《老友記》嘅正確名稱？",
     "question_en": "Which is the correct name of 'Friends'?",
     "options_zh": [
-      "其他劇集B",
-      "其他劇集A",
+      "使徒行者",
+      "我是歌手",
       "老友記",
-      "其他劇集C"
+      "曼達洛人"
     ],
     "options_en": [
-      "Other Show B",
-      "Other Show A",
+      "Line Walker",
+      "I Am a Singer",
       "Friends",
-      "Other Show C"
+      "The Mandalorian"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「老友記」。",
-    "explanation_en": "The correct answer is 'Friends'.",
+    "explanation_zh": "《老友記》嘅正確名稱就係「老友記」，英文名係「Friends」。",
+    "explanation_en": "The correct name is '老友記', English title 'Friends'.",
     "difficulty": 1
   },
   {
@@ -523,5 +523,404 @@
     "explanation_zh": "正確答案係「未知」。",
     "explanation_en": "The correct answer is 'Unknown'.",
     "difficulty": 3
+  },
+  {
+    "id": 26,
+    "question_zh": "《老友記》嘅英文名係咩？",
+    "question_en": "What is the English name of '老友記'?",
+    "options_zh": [
+      "Seinfeld",
+      "House of the Dragon",
+      "The Mandalorian",
+      "Friends"
+    ],
+    "options_en": [
+      "Seinfeld",
+      "House of the Dragon",
+      "The Mandalorian",
+      "Friends"
+    ],
+    "answer": 3,
+    "explanation_zh": "《老友記》嘅英文名係「Friends」。",
+    "explanation_en": "The English name is 'Friends'.",
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question_zh": "《老友記》屬於咩類型？",
+    "question_en": "What genre is '老友記'?",
+    "options_zh": [
+      "處境喜劇",
+      "黑色喜劇",
+      "末日",
+      "都市情感"
+    ],
+    "options_en": [
+      "Sitcom",
+      "Dark Comedy",
+      "Post-apocalyptic",
+      "Urban Romance"
+    ],
+    "answer": 0,
+    "explanation_zh": "《老友記》係處境喜劇類型。",
+    "explanation_en": "'老友記' is Sitcom.",
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question_zh": "《老友記》係邊年首播？",
+    "question_en": "What year did '老友記' first air?",
+    "options_zh": [
+      "1985",
+      "1997",
+      "1994",
+      "2014"
+    ],
+    "options_en": [
+      "1985",
+      "1997",
+      "1994",
+      "2014"
+    ],
+    "answer": 2,
+    "explanation_zh": "《老友記》喺1994年首播。",
+    "explanation_en": "'老友記' first aired in 1994.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "《老友記》喺邊個平台播出？",
+    "question_en": "On which platform did '老友記' air?",
+    "options_zh": [
+      "愛奇藝",
+      "NBC",
+      "Channel 4",
+      "日本電視台"
+    ],
+    "options_en": [
+      "愛奇藝",
+      "NBC",
+      "Channel 4",
+      "日本電視台"
+    ],
+    "answer": 1,
+    "explanation_zh": "《老友記》喺NBC播出。",
+    "explanation_en": "'老友記' aired on NBC.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "以下邊個係《老友記》嘅主演？",
+    "question_en": "Which actor starred in '老友記'?",
+    "options_zh": [
+      "李易峰",
+      "珍妮花·安妮絲頓",
+      "鈴木保奈美",
+      "高圓圓"
+    ],
+    "options_en": [
+      "Li Yifeng",
+      "Jennifer Aniston",
+      "Honami Suzuki",
+      "Gao Yuanyuan"
+    ],
+    "answer": 1,
+    "explanation_zh": "「珍妮花·安妮絲頓」係《老友記》嘅主演。",
+    "explanation_en": "'Jennifer Aniston' starred in '老友記'.",
+    "difficulty": 2
+  },
+  {
+    "id": 31,
+    "question_zh": "「瑞秋」係《老友記》入面邊個角色？",
+    "question_en": "Which character from '老友記' is '瑞秋'?",
+    "options_zh": [
+      "天山童姥",
+      "瑞秋",
+      "成奇勳",
+      "黎蘇蘇"
+    ],
+    "options_en": [
+      "Child Elder",
+      "Rachel",
+      "Seong Gi-hun",
+      "Li Sushi"
+    ],
+    "answer": 1,
+    "explanation_zh": "「瑞秋」係《老友記》入面嘅角色。",
+    "explanation_en": "'Rachel' is from '老友記'.",
+    "difficulty": 3
+  },
+  {
+    "id": 32,
+    "question_zh": "《老友記》有幾多集？",
+    "question_en": "How many episodes does '老友記' have?",
+    "options_zh": [
+      "16",
+      "10",
+      "236",
+      "20"
+    ],
+    "options_en": [
+      "16",
+      "10",
+      "236",
+      "20"
+    ],
+    "answer": 2,
+    "explanation_zh": "《老友記》共有236集。",
+    "explanation_en": "'老友記' has 236 episodes.",
+    "difficulty": 3
+  },
+  {
+    "id": 33,
+    "question_zh": "《老友記》嘅創作人係邊個？",
+    "question_en": "Who created '老友記'?",
+    "options_zh": [
+      "活地·阿倫",
+      "大衛·克萊恩/瑪爾塔·考夫曼",
+      "大衛·芬治",
+      "J·J·艾布斯"
+    ],
+    "options_en": [
+      "Woody Allen",
+      "David Crane & Marta Kauffman",
+      "David Fincher",
+      "J.J. Abrams"
+    ],
+    "answer": 1,
+    "explanation_zh": "《老友記》嘅創作人係大衛·克萊恩/瑪爾塔·考夫曼。",
+    "explanation_en": "Created by David Crane & Marta Kauffman.",
+    "difficulty": 3
+  },
+  {
+    "id": 34,
+    "question_zh": "「六個朋友喺紐約嘅生活喜劇⋯⋯」係描述邊套劇？",
+    "question_en": "'A sitcom about six friends in New York...' describes which show?",
+    "options_zh": [
+      "王冠",
+      "力量之戒",
+      "權力的遊戲",
+      "老友記"
+    ],
+    "options_en": [
+      "The Crown",
+      "The Rings of Power",
+      "Game of Thrones",
+      "Friends"
+    ],
+    "answer": 3,
+    "explanation_zh": "呢個描述嘅係《老友記》。",
+    "explanation_en": "This describes '老友記'.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question_zh": "以下邊套劇同時有「珍妮花·安妮絲頓」同「哥迪妮·雅」演出？",
+    "question_en": "Which show features both '珍妮花·安妮絲頓' and '哥迪妮·雅'?",
+    "options_zh": [
+      "王冠",
+      "黑鏡",
+      "權力的遊戲",
+      "老友記"
+    ],
+    "options_en": [
+      "The Crown",
+      "Black Mirror",
+      "Game of Thrones",
+      "Friends"
+    ],
+    "answer": 3,
+    "explanation_zh": "《老友記》由珍妮花·安妮絲頓同哥迪妮·雅主演。",
+    "explanation_en": "'Friends' stars both Jennifer Aniston and Courteney Cox.",
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "question_zh": "「羅斯」係邊套劇嘅角色？",
+    "question_en": "Which show does '羅斯' appear in?",
+    "options_zh": [
+      "力量之戒",
+      "老友記",
+      "黑鏡",
+      "權力的遊戲"
+    ],
+    "options_en": [
+      "The Rings of Power",
+      "Friends",
+      "Black Mirror",
+      "Game of Thrones"
+    ],
+    "answer": 1,
+    "explanation_zh": "「羅斯」係《老友記》嘅角色。",
+    "explanation_en": "'Ross' is from '老友記'.",
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question_zh": "以下邊套劇同《宋飛傳》屬於同一類型（處境喜劇）？",
+    "question_en": "Which show shares the genre (Sitcom) with '宋飛傳'?",
+    "options_zh": [
+      "權力的遊戲",
+      "老友記",
+      "宋飛傳",
+      "絕命毒師"
+    ],
+    "options_en": [
+      "Game of Thrones",
+      "Friends",
+      "Seinfeld",
+      "Breaking Bad"
+    ],
+    "answer": 1,
+    "explanation_zh": "《老友記》同《宋飛傳》都係處境喜劇類型。",
+    "explanation_en": "'老友記' and 'Seinfeld' are both Sitcom.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "《老友記》係邊個年代嘅作品？",
+    "question_en": "Which decade was '老友記' from?",
+    "options_zh": [
+      "2000年代",
+      "1980年代",
+      "1990年代",
+      "2010年代"
+    ],
+    "options_en": [
+      "2000s",
+      "1980s",
+      "1990s",
+      "2010s"
+    ],
+    "answer": 2,
+    "explanation_zh": "《老友記》係1990年代嘅作品。",
+    "explanation_en": "'老友記' is from the 1990s.",
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "question_zh": "邊套劇喺1994年首播？",
+    "question_en": "Which show first aired in 1994?",
+    "options_zh": [
+      "怪奇物語",
+      "新福爾摩斯",
+      "權力的遊戲",
+      "老友記"
+    ],
+    "options_en": [
+      "Stranger Things",
+      "Sherlock",
+      "Game of Thrones",
+      "Friends"
+    ],
+    "answer": 3,
+    "explanation_zh": "《老友記》喺1994年首播。",
+    "explanation_en": "'老友記' first aired in 1994.",
+    "difficulty": 2
+  },
+  {
+    "id": 40,
+    "question_zh": "邊套劇喺NBC播出？",
+    "question_en": "Which show aired on NBC?",
+    "options_zh": [
+      "新福爾摩斯",
+      "曼達洛人",
+      "老友記",
+      "黑鏡"
+    ],
+    "options_en": [
+      "Sherlock",
+      "The Mandalorian",
+      "Friends",
+      "Black Mirror"
+    ],
+    "answer": 2,
+    "explanation_zh": "《老友記》喺NBC播出。",
+    "explanation_en": "'老友記' aired on NBC.",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question_zh": "以下邊套係處境喜劇類型嘅劇集？",
+    "question_en": "Which is a Sitcom show?",
+    "options_zh": [
+      "西部世界",
+      "獵魔士",
+      "怪奇物語",
+      "老友記"
+    ],
+    "options_en": [
+      "Westworld",
+      "The Witcher",
+      "Stranger Things",
+      "Friends"
+    ],
+    "answer": 3,
+    "explanation_zh": "《老友記》係處境喜劇類型。",
+    "explanation_en": "'老友記' is Sitcom.",
+    "difficulty": 1
+  },
+  {
+    "id": 42,
+    "question_zh": "「哥迪妮·雅」有份演出邊套劇？",
+    "question_en": "Which show did '哥迪妮·雅' appear in?",
+    "options_zh": [
+      "老友記",
+      "絕命毒師",
+      "星期三",
+      "黑鏡"
+    ],
+    "options_en": [
+      "Friends",
+      "Breaking Bad",
+      "Wednesday",
+      "Black Mirror"
+    ],
+    "answer": 0,
+    "explanation_zh": "「哥迪妮·雅」演出過《老友記》。",
+    "explanation_en": "'Courteney Cox' appeared in '老友記'.",
+    "difficulty": 2
+  },
+  {
+    "id": 43,
+    "question_zh": "「莫妮卡」係邊套劇嘅角色？",
+    "question_en": "Which show does '莫妮卡' appear in?",
+    "options_zh": [
+      "曼達洛人",
+      "絕命毒師",
+      "老友記",
+      "西部世界"
+    ],
+    "options_en": [
+      "The Mandalorian",
+      "Breaking Bad",
+      "Friends",
+      "Westworld"
+    ],
+    "answer": 2,
+    "explanation_zh": "「莫妮卡」係《老友記》嘅角色。",
+    "explanation_en": "'Monica' is from '老友記'.",
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "question_zh": "《老友記》「唔係」喺邊個平台播出？",
+    "question_en": "Which platform did '老友記' NOT air on?",
+    "options_zh": [
+      "SBS",
+      "NBC",
+      "央視",
+      "愛奇藝"
+    ],
+    "options_en": [
+      "SBS",
+      "NBC",
+      "央視",
+      "愛奇藝"
+    ],
+    "answer": 1,
+    "explanation_zh": "《老友記》係喺NBC播出。",
+    "explanation_en": "'老友記' aired on NBC.",
+    "difficulty": 2
   }
 ]

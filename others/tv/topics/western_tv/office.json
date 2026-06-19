@@ -4,16 +4,16 @@
     "question_zh": "以下邊套係《The Office》？",
     "question_en": "Which one is 'The Office'?",
     "options_zh": [
-      "其他劇集A",
+      "三生三世十里桃花",
       "The Office",
-      "其他劇集B",
-      "其他劇集C"
+      "無限挑戰",
+      "麻辣教師GTO"
     ],
     "options_en": [
-      "Other Show A",
+      "Eternal Love",
       "The Office",
-      "Other Show B",
-      "Other Show C"
+      "Infinite Challenge",
+      "GTO"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「The Office」。",
@@ -25,16 +25,16 @@
     "question_zh": "《The Office》係邊套劇？",
     "question_en": "Which drama is 'The Office'?",
     "options_zh": [
-      "其他劇集B",
-      "其他劇集C",
+      "三生三世十里桃花",
+      "無限挑戰",
       "The Office",
-      "其他劇集A"
+      "麻辣教師GTO"
     ],
     "options_en": [
-      "Other Show B",
-      "Other Show C",
+      "Eternal Love",
+      "Infinite Challenge",
       "The Office",
-      "Other Show A"
+      "GTO"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「The Office」。",
@@ -46,16 +46,16 @@
     "question_zh": "以下邊個係《The Office》嘅正確名稱？",
     "question_en": "Which is the correct name of 'The Office'?",
     "options_zh": [
-      "其他劇集A",
-      "其他劇集C",
+      "三生三世十里桃花",
+      "無限挑戰",
       "The Office",
-      "其他劇集B"
+      "麻辣教師GTO"
     ],
     "options_en": [
-      "Other Show A",
-      "Other Show C",
+      "Eternal Love",
+      "Infinite Challenge",
       "The Office",
-      "Other Show B"
+      "GTO"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「The Office」。",
@@ -523,5 +523,404 @@
     "explanation_zh": "正確答案係「未知」。",
     "explanation_en": "The correct answer is 'Unknown'.",
     "difficulty": 3
+  },
+  {
+    "id": 26,
+    "question_zh": "《辦公室》嘅英文名係咩？",
+    "question_en": "What is the English name of '辦公室'?",
+    "options_zh": [
+      "Friends",
+      "The Office (US)",
+      "The Rings of Power",
+      "Westworld"
+    ],
+    "options_en": [
+      "Friends",
+      "The Office (US)",
+      "The Rings of Power",
+      "Westworld"
+    ],
+    "answer": 1,
+    "explanation_zh": "《辦公室》嘅英文名係「The Office (US)」。",
+    "explanation_en": "The English name is 'The Office (US)'.",
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question_zh": "《辦公室》屬於咩類型？",
+    "question_en": "What genre is '辦公室'?",
+    "options_zh": [
+      "靈異",
+      "處境喜劇",
+      "職場",
+      "傳記"
+    ],
+    "options_en": [
+      "Supernatural",
+      "Sitcom",
+      "Workplace",
+      "Biography"
+    ],
+    "answer": 1,
+    "explanation_zh": "《辦公室》係處境喜劇類型。",
+    "explanation_en": "'辦公室' is Sitcom.",
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question_zh": "《辦公室》係邊年首播？",
+    "question_en": "What year did '辦公室' first air?",
+    "options_zh": [
+      "2005",
+      "2024",
+      "1991",
+      "2011"
+    ],
+    "options_en": [
+      "2005",
+      "2024",
+      "1991",
+      "2011"
+    ],
+    "answer": 0,
+    "explanation_zh": "《辦公室》喺2005年首播。",
+    "explanation_en": "'辦公室' first aired in 2005.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "《辦公室》喺邊個平台播出？",
+    "question_en": "On which platform did '辦公室' air?",
+    "options_zh": [
+      "Netflix",
+      "浙江衛視",
+      "HBO",
+      "NBC"
+    ],
+    "options_en": [
+      "Netflix",
+      "浙江衛視",
+      "HBO",
+      "NBC"
+    ],
+    "answer": 3,
+    "explanation_zh": "《辦公室》喺NBC播出。",
+    "explanation_en": "'辦公室' aired on NBC.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "以下邊個係《辦公室》嘅主演？",
+    "question_en": "Which actor starred in '辦公室'?",
+    "options_zh": [
+      "陳建斌",
+      "苗僑偉",
+      "虞書欣",
+      "史提夫·卡爾"
+    ],
+    "options_en": [
+      "Chen Jianbin",
+      "Miu Kiu Wai",
+      "Esther Yu",
+      "Steve Carell"
+    ],
+    "answer": 3,
+    "explanation_zh": "「史提夫·卡爾」係《辦公室》嘅主演。",
+    "explanation_en": "'Steve Carell' starred in '辦公室'.",
+    "difficulty": 2
+  },
+  {
+    "id": 31,
+    "question_zh": "「德懷特」係《辦公室》入面邊個角色？",
+    "question_en": "Which character from '辦公室' is '德懷特'?",
+    "options_zh": [
+      "錢德",
+      "程少商",
+      "德懷特",
+      "南方仁"
+    ],
+    "options_en": [
+      "Chandler",
+      "Cheng Shaoshang",
+      "Dwight",
+      "Jin Minakata"
+    ],
+    "answer": 2,
+    "explanation_zh": "「德懷特」係《辦公室》入面嘅角色。",
+    "explanation_en": "'Dwight' is from '辦公室'.",
+    "difficulty": 3
+  },
+  {
+    "id": 32,
+    "question_zh": "《辦公室》有幾多集？",
+    "question_en": "How many episodes does '辦公室' have?",
+    "options_zh": [
+      "20",
+      "21",
+      "40",
+      "201"
+    ],
+    "options_en": [
+      "20",
+      "21",
+      "40",
+      "201"
+    ],
+    "answer": 3,
+    "explanation_zh": "《辦公室》共有201集。",
+    "explanation_en": "'辦公室' has 201 episodes.",
+    "difficulty": 3
+  },
+  {
+    "id": 33,
+    "question_zh": "《辦公室》嘅原作係咩？",
+    "question_en": "What is '辦公室' adapted from?",
+    "options_zh": [
+      "改編自英國版",
+      "改編自同名小說",
+      "原創劇本",
+      "改編自漫畫"
+    ],
+    "options_en": [
+      "Adapted from the UK version",
+      "Adapted from a novel",
+      "Original screenplay",
+      "Adapted from manga"
+    ],
+    "answer": 0,
+    "explanation_zh": "《辦公室》改編自英國版。",
+    "explanation_en": "'辦公室' is Adapted from the UK version.",
+    "difficulty": 3
+  },
+  {
+    "id": 34,
+    "question_zh": "以下邊套劇同時有「史提夫·卡爾」同「尊·堅尼地」演出？",
+    "question_en": "Which show features both '史提夫·卡爾' and '尊·堅尼地'?",
+    "options_zh": [
+      "辦公室",
+      "王冠",
+      "新福爾摩斯",
+      "宋飛傳"
+    ],
+    "options_en": [
+      "The Office (US)",
+      "The Crown",
+      "Sherlock",
+      "Seinfeld"
+    ],
+    "answer": 0,
+    "explanation_zh": "《辦公室》由史提夫·卡爾同尊·堅尼地主演。",
+    "explanation_en": "'The Office (US)' stars both Steve Carell and John Krasinski.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question_zh": "「德懷特」係邊套劇嘅角色？",
+    "question_en": "Which show does '德懷特' appear in?",
+    "options_zh": [
+      "力量之戒",
+      "絕命毒師",
+      "王冠",
+      "辦公室"
+    ],
+    "options_en": [
+      "The Rings of Power",
+      "Breaking Bad",
+      "The Crown",
+      "The Office (US)"
+    ],
+    "answer": 3,
+    "explanation_zh": "「德懷特」係《辦公室》嘅角色。",
+    "explanation_en": "'Dwight' is from '辦公室'.",
+    "difficulty": 1
+  },
+  {
+    "id": 36,
+    "question_zh": "以下邊套劇同《肥婆奶奶扭計冤家》屬於同一類型（處境喜劇）？",
+    "question_en": "Which show shares the genre (Sitcom) with '肥婆奶奶扭計冤家'?",
+    "options_zh": [
+      "怪奇物語",
+      "龍之家族",
+      "辦公室",
+      "王冠"
+    ],
+    "options_en": [
+      "Stranger Things",
+      "House of the Dragon",
+      "The Office (US)",
+      "The Crown"
+    ],
+    "answer": 2,
+    "explanation_zh": "《辦公室》同《肥婆奶奶扭計冤家》都係處境喜劇類型。",
+    "explanation_en": "'辦公室' and 'A Kindred Spirit' are both Sitcom.",
+    "difficulty": 2
+  },
+  {
+    "id": 37,
+    "question_zh": "《辦公室》係邊個年代嘅作品？",
+    "question_en": "Which decade was '辦公室' from?",
+    "options_zh": [
+      "1980年代",
+      "2000年代",
+      "2010年代",
+      "2020年代"
+    ],
+    "options_en": [
+      "1980s",
+      "2000s",
+      "2010s",
+      "2020s"
+    ],
+    "answer": 1,
+    "explanation_zh": "《辦公室》係2000年代嘅作品。",
+    "explanation_en": "'辦公室' is from the 2000s.",
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "question_zh": "邊套劇喺2005年首播？",
+    "question_en": "Which show first aired in 2005?",
+    "options_zh": [
+      "新福爾摩斯",
+      "辦公室",
+      "星期三",
+      "權力的遊戲"
+    ],
+    "options_en": [
+      "Sherlock",
+      "The Office (US)",
+      "Wednesday",
+      "Game of Thrones"
+    ],
+    "answer": 1,
+    "explanation_zh": "《辦公室》喺2005年首播。",
+    "explanation_en": "'辦公室' first aired in 2005.",
+    "difficulty": 2
+  },
+  {
+    "id": 39,
+    "question_zh": "邊套劇喺NBC播出？",
+    "question_en": "Which show aired on NBC?",
+    "options_zh": [
+      "辦公室",
+      "新福爾摩斯",
+      "獵魔士",
+      "宋飛傳"
+    ],
+    "options_en": [
+      "The Office (US)",
+      "Sherlock",
+      "The Witcher",
+      "Seinfeld"
+    ],
+    "answer": 0,
+    "explanation_zh": "《辦公室》喺NBC播出。",
+    "explanation_en": "'辦公室' aired on NBC.",
+    "difficulty": 2
+  },
+  {
+    "id": 40,
+    "question_zh": "以下邊套係處境喜劇類型嘅劇集？",
+    "question_en": "Which is a Sitcom show?",
+    "options_zh": [
+      "力量之戒",
+      "曼達洛人",
+      "宋飛傳",
+      "辦公室"
+    ],
+    "options_en": [
+      "The Rings of Power",
+      "The Mandalorian",
+      "Seinfeld",
+      "The Office (US)"
+    ],
+    "answer": 3,
+    "explanation_zh": "《辦公室》係處境喜劇類型。",
+    "explanation_en": "'辦公室' is Sitcom.",
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question_zh": "「史提夫·卡爾」有份演出邊套劇？",
+    "question_en": "Which show did '史提夫·卡爾' appear in?",
+    "options_zh": [
+      "新福爾摩斯",
+      "曼達洛人",
+      "辦公室",
+      "宋飛傳"
+    ],
+    "options_en": [
+      "Sherlock",
+      "The Mandalorian",
+      "The Office (US)",
+      "Seinfeld"
+    ],
+    "answer": 2,
+    "explanation_zh": "「史提夫·卡爾」演出過《辦公室》。",
+    "explanation_en": "'Steve Carell' appeared in '辦公室'.",
+    "difficulty": 2
+  },
+  {
+    "id": 42,
+    "question_zh": "《辦公室》「唔係」喺邊個平台播出？",
+    "question_en": "Which platform did '辦公室' NOT air on?",
+    "options_zh": [
+      "騰訊視頻",
+      "SBS",
+      "NBC",
+      "日本電視台"
+    ],
+    "options_en": [
+      "騰訊視頻",
+      "SBS",
+      "NBC",
+      "日本電視台"
+    ],
+    "answer": 2,
+    "explanation_zh": "《辦公室》係喺NBC播出。",
+    "explanation_en": "'辦公室' aired on NBC.",
+    "difficulty": 2
+  },
+  {
+    "id": 43,
+    "question_zh": "《辦公室》係邊個年代首播？",
+    "question_en": "Which decade did '辦公室' first air?",
+    "options_zh": [
+      "1980年代",
+      "2000年代",
+      "2020年代",
+      "2010年代"
+    ],
+    "options_en": [
+      "1980s",
+      "2000s",
+      "2020s",
+      "2010s"
+    ],
+    "answer": 1,
+    "explanation_zh": "《辦公室》係2000年代首播。",
+    "explanation_en": "'辦公室' first aired in the 2000s.",
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "question_zh": "《辦公室》大約有幾多集？",
+    "question_en": "Approximately how many episodes does '辦公室' have?",
+    "options_zh": [
+      "31-50集",
+      "1-15集",
+      "51-100集",
+      "100集以上"
+    ],
+    "options_en": [
+      "31-50 episodes",
+      "1-15 episodes",
+      "51-100 episodes",
+      "100集以上"
+    ],
+    "answer": 3,
+    "explanation_zh": "《辦公室》共有201集，屬於100集以上。",
+    "explanation_en": "'辦公室' has 201 episodes (100集以上).",
+    "difficulty": 2
   }
 ]

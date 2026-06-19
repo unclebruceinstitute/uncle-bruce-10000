@@ -4,16 +4,16 @@
     "question_zh": "以下邊套係《宋飛正傳》？",
     "question_en": "Which one is 'Seinfeld'?",
     "options_zh": [
-      "其他劇集B",
+      "Orange Days",
       "宋飛正傳",
-      "其他劇集C",
-      "其他劇集A"
+      "武穆遺書",
+      "獵魔士"
     ],
     "options_en": [
-      "Other Show B",
+      "Orange Days",
       "Seinfeld",
-      "Other Show C",
-      "Other Show A"
+      "Legend of Wumu",
+      "The Witcher"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「宋飛正傳」。",
@@ -26,15 +26,15 @@
     "question_en": "Which drama is 'Seinfeld'?",
     "options_zh": [
       "宋飛正傳",
-      "其他劇集B",
-      "其他劇集A",
-      "其他劇集C"
+      "Orange Days",
+      "武穆遺書",
+      "獵魔士"
     ],
     "options_en": [
       "Seinfeld",
-      "Other Show B",
-      "Other Show A",
-      "Other Show C"
+      "Orange Days",
+      "Legend of Wumu",
+      "The Witcher"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「宋飛正傳」。",
@@ -46,16 +46,16 @@
     "question_zh": "以下邊個係《宋飛正傳》嘅正確名稱？",
     "question_en": "Which is the correct name of 'Seinfeld'?",
     "options_zh": [
-      "其他劇集A",
+      "Orange Days",
       "宋飛正傳",
-      "其他劇集C",
-      "其他劇集B"
+      "武穆遺書",
+      "獵魔士"
     ],
     "options_en": [
-      "Other Show A",
+      "Orange Days",
       "Seinfeld",
-      "Other Show C",
-      "Other Show B"
+      "Legend of Wumu",
+      "The Witcher"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「宋飛正傳」。",
@@ -523,5 +523,383 @@
     "explanation_zh": "正確答案係「未知」。",
     "explanation_en": "The correct answer is 'Unknown'.",
     "difficulty": 3
+  },
+  {
+    "id": 26,
+    "question_zh": "《宋飛傳》嘅英文名係咩？",
+    "question_en": "What is the English name of '宋飛傳'?",
+    "options_zh": [
+      "The Mandalorian",
+      "Game of Thrones",
+      "Seinfeld",
+      "The Last of Us"
+    ],
+    "options_en": [
+      "The Mandalorian",
+      "Game of Thrones",
+      "Seinfeld",
+      "The Last of Us"
+    ],
+    "answer": 2,
+    "explanation_zh": "《宋飛傳》嘅英文名係「Seinfeld」。",
+    "explanation_en": "The English name is 'Seinfeld'.",
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question_zh": "《宋飛傳》屬於咩類型？",
+    "question_en": "What genre is '宋飛傳'?",
+    "options_zh": [
+      "諷刺",
+      "黑色喜劇",
+      "Zombie Horror",
+      "處境喜劇"
+    ],
+    "options_en": [
+      "Satire",
+      "Dark Comedy",
+      "Zombie Horror",
+      "Sitcom"
+    ],
+    "answer": 3,
+    "explanation_zh": "《宋飛傳》係處境喜劇類型。",
+    "explanation_en": "'宋飛傳' is Sitcom.",
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question_zh": "《宋飛傳》係邊年首播？",
+    "question_en": "What year did '宋飛傳' first air?",
+    "options_zh": [
+      "2023",
+      "2001",
+      "2004",
+      "1989"
+    ],
+    "options_en": [
+      "2023",
+      "2001",
+      "2004",
+      "1989"
+    ],
+    "answer": 3,
+    "explanation_zh": "《宋飛傳》喺1989年首播。",
+    "explanation_en": "'宋飛傳' first aired in 1989.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "《宋飛傳》喺邊個平台播出？",
+    "question_en": "On which platform did '宋飛傳' air?",
+    "options_zh": [
+      "央視",
+      "愛奇藝",
+      "BBC",
+      "NBC"
+    ],
+    "options_en": [
+      "央視",
+      "愛奇藝",
+      "BBC",
+      "NBC"
+    ],
+    "answer": 3,
+    "explanation_zh": "《宋飛傳》喺NBC播出。",
+    "explanation_en": "'宋飛傳' aired on NBC.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "以下邊個係《宋飛傳》嘅主演？",
+    "question_en": "Which actor starred in '宋飛傳'?",
+    "options_zh": [
+      "金多美",
+      "李沁",
+      "夏雨",
+      "謝利·宋飛"
+    ],
+    "options_en": [
+      "Kim Da-mi",
+      "Li Qin",
+      "Ha Yu",
+      "Jerry Seinfeld"
+    ],
+    "answer": 3,
+    "explanation_zh": "「謝利·宋飛」係《宋飛傳》嘅主演。",
+    "explanation_en": "'Jerry Seinfeld' starred in '宋飛傳'.",
+    "difficulty": 2
+  },
+  {
+    "id": 31,
+    "question_zh": "「伊蓮」係《宋飛傳》入面邊個角色？",
+    "question_en": "Which character from '宋飛傳' is '伊蓮'?",
+    "options_zh": [
+      "伊蓮",
+      "程少商",
+      "曼達洛人",
+      "杉菜"
+    ],
+    "options_en": [
+      "Elaine",
+      "Cheng Shaoshang",
+      "The Mandalorian",
+      "Shan Cai"
+    ],
+    "answer": 0,
+    "explanation_zh": "「伊蓮」係《宋飛傳》入面嘅角色。",
+    "explanation_en": "'Elaine' is from '宋飛傳'.",
+    "difficulty": 3
+  },
+  {
+    "id": 32,
+    "question_zh": "《宋飛傳》有幾多集？",
+    "question_en": "How many episodes does '宋飛傳' have?",
+    "options_zh": [
+      "9",
+      "20",
+      "20",
+      "180"
+    ],
+    "options_en": [
+      "9",
+      "20",
+      "20",
+      "180"
+    ],
+    "answer": 3,
+    "explanation_zh": "《宋飛傳》共有180集。",
+    "explanation_en": "'宋飛傳' has 180 episodes.",
+    "difficulty": 3
+  },
+  {
+    "id": 33,
+    "question_zh": "「伊蓮」係邊套劇嘅角色？",
+    "question_en": "Which show does '伊蓮' appear in?",
+    "options_zh": [
+      "王冠",
+      "老友記",
+      "宋飛傳",
+      "怪奇物語"
+    ],
+    "options_en": [
+      "The Crown",
+      "Friends",
+      "Seinfeld",
+      "Stranger Things"
+    ],
+    "answer": 2,
+    "explanation_zh": "「伊蓮」係《宋飛傳》嘅角色。",
+    "explanation_en": "'Elaine' is from '宋飛傳'.",
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question_zh": "以下邊套劇同《辦公室》屬於同一類型（處境喜劇）？",
+    "question_en": "Which show shares the genre (Sitcom) with '辦公室'?",
+    "options_zh": [
+      "老友記",
+      "最後生還者",
+      "辦公室",
+      "宋飛傳"
+    ],
+    "options_en": [
+      "Friends",
+      "The Last of Us",
+      "The Office (US)",
+      "Seinfeld"
+    ],
+    "answer": 3,
+    "explanation_zh": "《宋飛傳》同《辦公室》都係處境喜劇類型。",
+    "explanation_en": "'宋飛傳' and 'The Office (US)' are both Sitcom.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question_zh": "《宋飛傳》係邊個年代嘅作品？",
+    "question_en": "Which decade was '宋飛傳' from?",
+    "options_zh": [
+      "1980年代",
+      "2010年代",
+      "1990年代",
+      "2000年代"
+    ],
+    "options_en": [
+      "1980s",
+      "2010s",
+      "1990s",
+      "2000s"
+    ],
+    "answer": 0,
+    "explanation_zh": "《宋飛傳》係1980年代嘅作品。",
+    "explanation_en": "'宋飛傳' is from the 1980s.",
+    "difficulty": 1
+  },
+  {
+    "id": 36,
+    "question_zh": "邊套劇喺1989年首播？",
+    "question_en": "Which show first aired in 1989?",
+    "options_zh": [
+      "龍之家族",
+      "最後生還者",
+      "宋飛傳",
+      "獵魔士"
+    ],
+    "options_en": [
+      "House of the Dragon",
+      "The Last of Us",
+      "Seinfeld",
+      "The Witcher"
+    ],
+    "answer": 2,
+    "explanation_zh": "《宋飛傳》喺1989年首播。",
+    "explanation_en": "'宋飛傳' first aired in 1989.",
+    "difficulty": 2
+  },
+  {
+    "id": 37,
+    "question_zh": "邊套劇喺NBC播出？",
+    "question_en": "Which show aired on NBC?",
+    "options_zh": [
+      "權力的遊戲",
+      "宋飛傳",
+      "王冠",
+      "龍之家族"
+    ],
+    "options_en": [
+      "Game of Thrones",
+      "Seinfeld",
+      "The Crown",
+      "House of the Dragon"
+    ],
+    "answer": 1,
+    "explanation_zh": "《宋飛傳》喺NBC播出。",
+    "explanation_en": "'宋飛傳' aired on NBC.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "以下邊套係處境喜劇類型嘅劇集？",
+    "question_en": "Which is a Sitcom show?",
+    "options_zh": [
+      "絕命毒師",
+      "王冠",
+      "星期三",
+      "宋飛傳"
+    ],
+    "options_en": [
+      "Breaking Bad",
+      "The Crown",
+      "Wednesday",
+      "Seinfeld"
+    ],
+    "answer": 3,
+    "explanation_zh": "《宋飛傳》係處境喜劇類型。",
+    "explanation_en": "'宋飛傳' is Sitcom.",
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "question_zh": "「謝利·宋飛」有份演出邊套劇？",
+    "question_en": "Which show did '謝利·宋飛' appear in?",
+    "options_zh": [
+      "曼達洛人",
+      "宋飛傳",
+      "老友記",
+      "龍之家族"
+    ],
+    "options_en": [
+      "The Mandalorian",
+      "Seinfeld",
+      "Friends",
+      "House of the Dragon"
+    ],
+    "answer": 1,
+    "explanation_zh": "「謝利·宋飛」演出過《宋飛傳》。",
+    "explanation_en": "'Jerry Seinfeld' appeared in '宋飛傳'.",
+    "difficulty": 2
+  },
+  {
+    "id": 40,
+    "question_zh": "「佐治」係邊套劇嘅角色？",
+    "question_en": "Which show does '佐治' appear in?",
+    "options_zh": [
+      "最後生還者",
+      "星期三",
+      "宋飛傳",
+      "絕命毒師"
+    ],
+    "options_en": [
+      "The Last of Us",
+      "Wednesday",
+      "Seinfeld",
+      "Breaking Bad"
+    ],
+    "answer": 2,
+    "explanation_zh": "「佐治」係《宋飛傳》嘅角色。",
+    "explanation_en": "'George' is from '宋飛傳'.",
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question_zh": "《宋飛傳》「唔係」喺邊個平台播出？",
+    "question_en": "Which platform did '宋飛傳' NOT air on?",
+    "options_zh": [
+      "Mnet",
+      "tvN",
+      "NBC",
+      "AMC"
+    ],
+    "options_en": [
+      "Mnet",
+      "tvN",
+      "NBC",
+      "AMC"
+    ],
+    "answer": 2,
+    "explanation_zh": "《宋飛傳》係喺NBC播出。",
+    "explanation_en": "'宋飛傳' aired on NBC.",
+    "difficulty": 2
+  },
+  {
+    "id": 42,
+    "question_zh": "《宋飛傳》係邊個年代首播？",
+    "question_en": "Which decade did '宋飛傳' first air?",
+    "options_zh": [
+      "1980年代",
+      "2020年代",
+      "1990年代",
+      "2000年代"
+    ],
+    "options_en": [
+      "1980s",
+      "2020s",
+      "1990s",
+      "2000s"
+    ],
+    "answer": 0,
+    "explanation_zh": "《宋飛傳》係1980年代首播。",
+    "explanation_en": "'宋飛傳' first aired in the 1980s.",
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question_zh": "《宋飛傳》大約有幾多集？",
+    "question_en": "Approximately how many episodes does '宋飛傳' have?",
+    "options_zh": [
+      "31-50集",
+      "51-100集",
+      "16-30集",
+      "100集以上"
+    ],
+    "options_en": [
+      "31-50 episodes",
+      "51-100 episodes",
+      "16-30 episodes",
+      "100集以上"
+    ],
+    "answer": 3,
+    "explanation_zh": "《宋飛傳》共有180集，屬於100集以上。",
+    "explanation_en": "'宋飛傳' has 180 episodes (100集以上).",
+    "difficulty": 2
   }
 ]
