@@ -5,15 +5,15 @@
     "question_en": "Which one is 'Jin'?",
     "options_zh": [
       "仁",
-      "其他劇集B",
-      "其他劇集A",
-      "其他劇集C"
+      "Running Man",
+      "大唐雙龍傳",
+      "家政婦三田"
     ],
     "options_en": [
       "Jin",
-      "Other Show B",
-      "Other Show A",
-      "Other Show C"
+      "Running Man",
+      "Twin of Brothers",
+      "I'm Mita Your Housekeeper"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「仁」。",
@@ -25,16 +25,16 @@
     "question_zh": "《仁》係邊套劇？",
     "question_en": "Which drama is 'Jin'?",
     "options_zh": [
-      "其他劇集B",
+      "Running Man",
       "仁",
-      "其他劇集A",
-      "其他劇集C"
+      "大唐雙龍傳",
+      "家政婦三田"
     ],
     "options_en": [
-      "Other Show B",
+      "Running Man",
       "Jin",
-      "Other Show A",
-      "Other Show C"
+      "Twin of Brothers",
+      "I'm Mita Your Housekeeper"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「仁」。",
@@ -46,15 +46,15 @@
     "question_zh": "以下邊個係《仁》嘅正確名稱？",
     "question_en": "Which is the correct name of 'Jin'?",
     "options_zh": [
-      "其他劇集C",
-      "其他劇集A",
-      "其他劇集B",
+      "Running Man",
+      "大唐雙龍傳",
+      "家政婦三田",
       "仁"
     ],
     "options_en": [
-      "Other Show C",
-      "Other Show A",
-      "Other Show B",
+      "Running Man",
+      "Twin of Brothers",
+      "I'm Mita Your Housekeeper",
       "Jin"
     ],
     "answer": 3,
@@ -79,8 +79,8 @@
       "紀錄片"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「穿越」。",
-    "explanation_en": "正確答案係「穿越」。",
+    "explanation_zh": "《仁醫》係穿越類型劇集。",
+    "explanation_en": "'仁醫' is a Time Travel show.",
     "difficulty": 2
   },
   {
@@ -100,8 +100,8 @@
       "新聞"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「穿越」。",
-    "explanation_en": "正確答案係「穿越」。",
+    "explanation_zh": "《仁醫》係穿越類型劇集。",
+    "explanation_en": "'仁醫' is a Time Travel show.",
     "difficulty": 3
   },
   {
@@ -121,8 +121,8 @@
       "紀錄片"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「穿越」。",
-    "explanation_en": "正確答案係「穿越」。",
+    "explanation_zh": "《仁醫》係穿越類型劇集。",
+    "explanation_en": "'仁醫' is a Time Travel show.",
     "difficulty": 1
   },
   {
@@ -501,6 +501,363 @@
     "answer": 1,
     "explanation_zh": "正確答案係「2000年代」。",
     "explanation_en": "The correct answer is '2000s'.",
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question_zh": "《仁醫》嘅英文名係咩？",
+    "question_en": "What is the English name of '仁醫'?",
+    "options_zh": [
+      "Jin",
+      "Last Friends",
+      "Beautiful Life",
+      "I'm Mita Your Housekeeper"
+    ],
+    "options_en": [
+      "Jin",
+      "Last Friends",
+      "Beautiful Life",
+      "I'm Mita Your Housekeeper"
+    ],
+    "answer": 0,
+    "explanation_zh": "《仁醫》嘅英文名係「Jin」。",
+    "explanation_en": "The English name is 'Jin'.",
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question_zh": "《仁醫》屬於咩類型？",
+    "question_en": "What genre is '仁醫'?",
+    "options_zh": [
+      "穿越",
+      "暗黑喜劇",
+      "偶像劇",
+      "校園喜劇"
+    ],
+    "options_en": [
+      "Time Travel",
+      "Dark Comedy",
+      "Idol Drama",
+      "School Comedy"
+    ],
+    "answer": 0,
+    "explanation_zh": "《仁醫》係穿越類型。",
+    "explanation_en": "'仁醫' is Time Travel.",
+    "difficulty": 1
+  },
+  {
+    "id": 27,
+    "question_zh": "《仁醫》係邊年首播？",
+    "question_en": "What year did '仁醫' first air?",
+    "options_zh": [
+      "1993",
+      "2009",
+      "1986",
+      "1988"
+    ],
+    "options_en": [
+      "1993",
+      "2009",
+      "1986",
+      "1988"
+    ],
+    "answer": 1,
+    "explanation_zh": "《仁醫》喺2009年首播。",
+    "explanation_en": "'仁醫' first aired in 2009.",
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question_zh": "《仁醫》喺邊個平台播出？",
+    "question_en": "On which platform did '仁醫' air?",
+    "options_zh": [
+      "MBC",
+      "tvN",
+      "HBO",
+      "TBS"
+    ],
+    "options_en": [
+      "MBC",
+      "tvN",
+      "HBO",
+      "TBS"
+    ],
+    "answer": 3,
+    "explanation_zh": "《仁醫》喺TBS播出。",
+    "explanation_en": "'仁醫' aired on TBS.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "以下邊個係《仁醫》嘅主演？",
+    "question_en": "Which actor starred in '仁醫'?",
+    "options_zh": [
+      "柳承龍",
+      "大澤隆夫",
+      "李惠利",
+      "裴斗娜"
+    ],
+    "options_en": [
+      "Ryu Seung-ryong",
+      "Takao Osawa",
+      "Lee Hye-ri",
+      "Bae Doona"
+    ],
+    "answer": 1,
+    "explanation_zh": "「大澤隆夫」係《仁醫》嘅主演。",
+    "explanation_en": "'Takao Osawa' starred in '仁醫'.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "「南方仁」係《仁醫》入面邊個角色？",
+    "question_en": "Which character from '仁醫' is '南方仁'?",
+    "options_zh": [
+      "姜暮煙",
+      "南方仁",
+      "赤名莉香",
+      "鬼塚英吉"
+    ],
+    "options_en": [
+      "Kang Mo-yeon",
+      "Jin Minakata",
+      "Rika Akana",
+      "Eikichi Onizuka"
+    ],
+    "answer": 1,
+    "explanation_zh": "「南方仁」係《仁醫》入面嘅角色。",
+    "explanation_en": "'Jin Minakata' is from '仁醫'.",
+    "difficulty": 3
+  },
+  {
+    "id": 31,
+    "question_zh": "《仁醫》有幾多集？",
+    "question_en": "How many episodes does '仁醫' have?",
+    "options_zh": [
+      "11",
+      "1000",
+      "18",
+      "12"
+    ],
+    "options_en": [
+      "11",
+      "1000",
+      "18",
+      "12"
+    ],
+    "answer": 0,
+    "explanation_zh": "《仁醫》共有11集。",
+    "explanation_en": "'仁醫' has 11 episodes.",
+    "difficulty": 3
+  },
+  {
+    "id": 32,
+    "question_zh": "《仁醫》嘅原作係咩？",
+    "question_en": "What is '仁醫' adapted from?",
+    "options_zh": [
+      "改編自漫畫",
+      "改編自漫畫",
+      "改編自同名小說",
+      "改編自遊戲"
+    ],
+    "options_en": [
+      "Adapted from manga",
+      "Adapted from manga",
+      "Adapted from a novel",
+      "Adapted from a game"
+    ],
+    "answer": 1,
+    "explanation_zh": "《仁醫》改編自漫畫。",
+    "explanation_en": "'仁醫' is Adapted from manga.",
+    "difficulty": 3
+  },
+  {
+    "id": 33,
+    "question_zh": "「南方仁」係邊套劇嘅角色？",
+    "question_en": "Which show does '南方仁' appear in?",
+    "options_zh": [
+      "美麗人生",
+      "Orange Days",
+      "仁醫",
+      "輪到你了"
+    ],
+    "options_en": [
+      "Beautiful Life",
+      "Orange Days",
+      "Jin",
+      "Your Turn to Kill"
+    ],
+    "answer": 2,
+    "explanation_zh": "「南方仁」係《仁醫》嘅角色。",
+    "explanation_en": "'Jin Minakata' is from '仁醫'.",
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question_zh": "《仁醫》係邊個年代嘅作品？",
+    "question_en": "Which decade was '仁醫' from?",
+    "options_zh": [
+      "2000年代",
+      "1990年代",
+      "2010年代",
+      "1980年代"
+    ],
+    "options_en": [
+      "2000s",
+      "1990s",
+      "2010s",
+      "1980s"
+    ],
+    "answer": 0,
+    "explanation_zh": "《仁醫》係2000年代嘅作品。",
+    "explanation_en": "'仁醫' is from the 2000s.",
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question_zh": "邊套劇喺2009年首播？",
+    "question_en": "Which show first aired in 2009?",
+    "options_zh": [
+      "仁醫",
+      "悠長假期",
+      "輪到你了",
+      "律政英雄"
+    ],
+    "options_en": [
+      "Jin",
+      "Long Vacation",
+      "Your Turn to Kill",
+      "Hero"
+    ],
+    "answer": 0,
+    "explanation_zh": "《仁醫》喺2009年首播。",
+    "explanation_en": "'仁醫' first aired in 2009.",
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "question_zh": "邊套劇喺TBS播出？",
+    "question_en": "Which show aired on TBS?",
+    "options_zh": [
+      "水男孩",
+      "Orange Days",
+      "仁醫",
+      "野豬大改造"
+    ],
+    "options_en": [
+      "Water Boys",
+      "Orange Days",
+      "Jin",
+      "Nobuta wo Produce"
+    ],
+    "answer": 2,
+    "explanation_zh": "《仁醫》喺TBS播出。",
+    "explanation_en": "'仁醫' aired on TBS.",
+    "difficulty": 2
+  },
+  {
+    "id": 37,
+    "question_zh": "以下邊套係穿越類型嘅劇集？",
+    "question_en": "Which is a Time Travel show?",
+    "options_zh": [
+      "悠長假期",
+      "律政英雄",
+      "仁醫",
+      "東京愛情故事"
+    ],
+    "options_en": [
+      "Long Vacation",
+      "Hero",
+      "Jin",
+      "Tokyo Love Story"
+    ],
+    "answer": 2,
+    "explanation_zh": "《仁醫》係穿越類型。",
+    "explanation_en": "'仁醫' is Time Travel.",
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "question_zh": "「大澤隆夫」有份演出邊套劇？",
+    "question_en": "Which show did '大澤隆夫' appear in?",
+    "options_zh": [
+      "Orange Days",
+      "仁醫",
+      "野豬大改造",
+      "律政英雄"
+    ],
+    "options_en": [
+      "Orange Days",
+      "Jin",
+      "Nobuta wo Produce",
+      "Hero"
+    ],
+    "answer": 1,
+    "explanation_zh": "「大澤隆夫」演出過《仁醫》。",
+    "explanation_en": "'Takao Osawa' appeared in '仁醫'.",
+    "difficulty": 2
+  },
+  {
+    "id": 39,
+    "question_zh": "《仁醫》「唔係」喺邊個平台播出？",
+    "question_en": "Which platform did '仁醫' NOT air on?",
+    "options_zh": [
+      "TBS",
+      "NBC",
+      "BBC",
+      "ENA"
+    ],
+    "options_en": [
+      "TBS",
+      "NBC",
+      "BBC",
+      "ENA"
+    ],
+    "answer": 0,
+    "explanation_zh": "《仁醫》係喺TBS播出。",
+    "explanation_en": "'仁醫' aired on TBS.",
+    "difficulty": 2
+  },
+  {
+    "id": 40,
+    "question_zh": "《仁醫》係邊個年代首播？",
+    "question_en": "Which decade did '仁醫' first air?",
+    "options_zh": [
+      "1980年代",
+      "2000年代",
+      "2020年代",
+      "2010年代"
+    ],
+    "options_en": [
+      "1980s",
+      "2000s",
+      "2020s",
+      "2010s"
+    ],
+    "answer": 1,
+    "explanation_zh": "《仁醫》係2000年代首播。",
+    "explanation_en": "'仁醫' first aired in the 2000s.",
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question_zh": "《仁醫》大約有幾多集？",
+    "question_en": "Approximately how many episodes does '仁醫' have?",
+    "options_zh": [
+      "100集以上",
+      "16-30集",
+      "51-100集",
+      "1-15集"
+    ],
+    "options_en": [
+      "100+ episodes",
+      "16-30 episodes",
+      "51-100 episodes",
+      "1-15集"
+    ],
+    "answer": 3,
+    "explanation_zh": "《仁醫》共有11集，屬於1-15集。",
+    "explanation_en": "'仁醫' has 11 episodes (1-15集).",
     "difficulty": 2
   }
 ]

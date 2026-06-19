@@ -4,15 +4,15 @@
     "question_zh": "以下邊套係《Last Friends》？",
     "question_en": "Which one is 'Last Friends'?",
     "options_zh": [
-      "其他劇集C",
-      "其他劇集B",
-      "其他劇集A",
+      "天天向上",
+      "我是歌手",
+      "新福爾摩斯",
       "Last Friends"
     ],
     "options_en": [
-      "Other Show C",
-      "Other Show B",
-      "Other Show A",
+      "Day Day Up",
+      "I Am a Singer",
+      "Sherlock",
       "Last Friends"
     ],
     "answer": 3,
@@ -26,15 +26,15 @@
     "question_en": "Which drama is 'Last Friends'?",
     "options_zh": [
       "Last Friends",
-      "其他劇集B",
-      "其他劇集A",
-      "其他劇集C"
+      "天天向上",
+      "我是歌手",
+      "新福爾摩斯"
     ],
     "options_en": [
       "Last Friends",
-      "Other Show B",
-      "Other Show A",
-      "Other Show C"
+      "Day Day Up",
+      "I Am a Singer",
+      "Sherlock"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「Last Friends」。",
@@ -46,16 +46,16 @@
     "question_zh": "以下邊個係《Last Friends》嘅正確名稱？",
     "question_en": "Which is the correct name of 'Last Friends'?",
     "options_zh": [
-      "其他劇集A",
-      "其他劇集B",
+      "天天向上",
+      "我是歌手",
       "Last Friends",
-      "其他劇集C"
+      "新福爾摩斯"
     ],
     "options_en": [
-      "Other Show A",
-      "Other Show B",
+      "Day Day Up",
+      "I Am a Singer",
       "Last Friends",
-      "Other Show C"
+      "Sherlock"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「Last Friends」。",
@@ -501,6 +501,363 @@
     "answer": 1,
     "explanation_zh": "正確答案係「2000年代」。",
     "explanation_en": "The correct answer is '2000s'.",
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question_zh": "《最後的朋友》嘅英文名係咩？",
+    "question_en": "What is the English name of '最後的朋友'?",
+    "options_zh": [
+      "I'm Mita Your Housekeeper",
+      "Hero",
+      "Beautiful Life",
+      "Last Friends"
+    ],
+    "options_en": [
+      "I'm Mita Your Housekeeper",
+      "Hero",
+      "Beautiful Life",
+      "Last Friends"
+    ],
+    "answer": 3,
+    "explanation_zh": "《最後的朋友》嘅英文名係「Last Friends」。",
+    "explanation_en": "The English name is 'Last Friends'.",
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question_zh": "《最後的朋友》屬於咩類型？",
+    "question_en": "What genre is '最後的朋友'?",
+    "options_zh": [
+      "靈異",
+      "家庭",
+      "愛情",
+      "群像劇"
+    ],
+    "options_en": [
+      "Supernatural",
+      "Family",
+      "Romance",
+      "Ensemble Drama"
+    ],
+    "answer": 3,
+    "explanation_zh": "《最後的朋友》係群像劇類型。",
+    "explanation_en": "'最後的朋友' is Ensemble Drama.",
+    "difficulty": 1
+  },
+  {
+    "id": 27,
+    "question_zh": "《最後的朋友》係邊年首播？",
+    "question_en": "What year did '最後的朋友' first air?",
+    "options_zh": [
+      "1996",
+      "2003",
+      "2023",
+      "2008"
+    ],
+    "options_en": [
+      "1996",
+      "2003",
+      "2023",
+      "2008"
+    ],
+    "answer": 3,
+    "explanation_zh": "《最後的朋友》喺2008年首播。",
+    "explanation_en": "'最後的朋友' first aired in 2008.",
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question_zh": "《最後的朋友》喺邊個平台播出？",
+    "question_en": "On which platform did '最後的朋友' air?",
+    "options_zh": [
+      "TBS",
+      "tvN",
+      "騰訊視頻",
+      "富士電視台"
+    ],
+    "options_en": [
+      "TBS",
+      "tvN",
+      "騰訊視頻",
+      "富士電視台"
+    ],
+    "answer": 3,
+    "explanation_zh": "《最後的朋友》喺富士電視台播出。",
+    "explanation_en": "'最後的朋友' aired on 富士電視台.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "以下邊個係《最後的朋友》嘅主演？",
+    "question_en": "Which actor starred in '最後的朋友'?",
+    "options_zh": [
+      "上野樹里",
+      "王喜",
+      "陳展鵬",
+      "吳啟華"
+    ],
+    "options_en": [
+      "Juri Ueno",
+      "Wong Hei",
+      "Ruco Chan",
+      "Ng Kai Wa"
+    ],
+    "answer": 0,
+    "explanation_zh": "「上野樹里」係《最後的朋友》嘅主演。",
+    "explanation_en": "'Juri Ueno' starred in '最後的朋友'.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "「藍田美知留」係《最後的朋友》入面邊個角色？",
+    "question_en": "Which character from '最後的朋友' is '藍田美知留'?",
+    "options_zh": [
+      "沃特·懷特",
+      "金侁",
+      "藍田美知留",
+      "唐三藏"
+    ],
+    "options_en": [
+      "Walter White",
+      "Kim Shin",
+      "Michiru Aida",
+      "Tang Sanzang"
+    ],
+    "answer": 2,
+    "explanation_zh": "「藍田美知留」係《最後的朋友》入面嘅角色。",
+    "explanation_en": "'Michiru Aida' is from '最後的朋友'.",
+    "difficulty": 3
+  },
+  {
+    "id": 31,
+    "question_zh": "《最後的朋友》有幾多集？",
+    "question_en": "How many episodes does '最後的朋友' have?",
+    "options_zh": [
+      "45",
+      "11",
+      "11",
+      "20"
+    ],
+    "options_en": [
+      "45",
+      "11",
+      "11",
+      "20"
+    ],
+    "answer": 1,
+    "explanation_zh": "《最後的朋友》共有11集。",
+    "explanation_en": "'最後的朋友' has 11 episodes.",
+    "difficulty": 3
+  },
+  {
+    "id": 32,
+    "question_zh": "以下邊套劇同時有「長澤正美」同「上野樹里」演出？",
+    "question_en": "Which show features both '長澤正美' and '上野樹里'?",
+    "options_zh": [
+      "輪到你了",
+      "野豬大改造",
+      "Orange Days",
+      "最後的朋友"
+    ],
+    "options_en": [
+      "Your Turn to Kill",
+      "Nobuta wo Produce",
+      "Orange Days",
+      "Last Friends"
+    ],
+    "answer": 3,
+    "explanation_zh": "《最後的朋友》由長澤正美同上野樹里主演。",
+    "explanation_en": "'Last Friends' stars both Masami Nagasawa and Juri Ueno.",
+    "difficulty": 2
+  },
+  {
+    "id": 33,
+    "question_zh": "「藍田美知留」係邊套劇嘅角色？",
+    "question_en": "Which show does '藍田美知留' appear in?",
+    "options_zh": [
+      "Trick",
+      "最後的朋友",
+      "仁醫",
+      "死亡筆記"
+    ],
+    "options_en": [
+      "Trick",
+      "Last Friends",
+      "Jin",
+      "Death Note"
+    ],
+    "answer": 1,
+    "explanation_zh": "「藍田美知留」係《最後的朋友》嘅角色。",
+    "explanation_en": "'Michiru Aida' is from '最後的朋友'.",
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "question_zh": "《最後的朋友》係邊個年代嘅作品？",
+    "question_en": "Which decade was '最後的朋友' from?",
+    "options_zh": [
+      "1980年代",
+      "1990年代",
+      "2000年代",
+      "2020年代"
+    ],
+    "options_en": [
+      "1980s",
+      "1990s",
+      "2000s",
+      "2020s"
+    ],
+    "answer": 2,
+    "explanation_zh": "《最後的朋友》係2000年代嘅作品。",
+    "explanation_en": "'最後的朋友' is from the 2000s.",
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question_zh": "邊套劇喺2008年首播？",
+    "question_en": "Which show first aired in 2008?",
+    "options_zh": [
+      "半澤直樹",
+      "最後的朋友",
+      "Orange Days",
+      "今際之國的闘士"
+    ],
+    "options_en": [
+      "Hanzawa Naoki",
+      "Last Friends",
+      "Orange Days",
+      "Alice in Borderland"
+    ],
+    "answer": 1,
+    "explanation_zh": "《最後的朋友》喺2008年首播。",
+    "explanation_en": "'最後的朋友' first aired in 2008.",
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "question_zh": "邊套劇喺富士電視台播出？",
+    "question_en": "Which show aired on 富士電視台?",
+    "options_zh": [
+      "仁醫",
+      "悠長假期",
+      "最後的朋友",
+      "麻辣教師GTO"
+    ],
+    "options_en": [
+      "Jin",
+      "Long Vacation",
+      "Last Friends",
+      "GTO"
+    ],
+    "answer": 2,
+    "explanation_zh": "《最後的朋友》喺富士電視台播出。",
+    "explanation_en": "'最後的朋友' aired on 富士電視台.",
+    "difficulty": 2
+  },
+  {
+    "id": 37,
+    "question_zh": "以下邊套係群像劇類型嘅劇集？",
+    "question_en": "Which is a Ensemble Drama show?",
+    "options_zh": [
+      "美麗人生",
+      "悠長假期",
+      "麻辣教師GTO",
+      "最後的朋友"
+    ],
+    "options_en": [
+      "Beautiful Life",
+      "Long Vacation",
+      "GTO",
+      "Last Friends"
+    ],
+    "answer": 3,
+    "explanation_zh": "《最後的朋友》係群像劇類型。",
+    "explanation_en": "'最後的朋友' is Ensemble Drama.",
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "question_zh": "「瑛太」有份演出邊套劇？",
+    "question_en": "Which show did '瑛太' appear in?",
+    "options_zh": [
+      "仁醫",
+      "悠長假期",
+      "麻辣教師GTO",
+      "最後的朋友"
+    ],
+    "options_en": [
+      "Jin",
+      "Long Vacation",
+      "GTO",
+      "Last Friends"
+    ],
+    "answer": 3,
+    "explanation_zh": "「瑛太」演出過《最後的朋友》。",
+    "explanation_en": "'Eita' appeared in '最後的朋友'.",
+    "difficulty": 2
+  },
+  {
+    "id": 39,
+    "question_zh": "《最後的朋友》「唔係」喺邊個平台播出？",
+    "question_en": "Which platform did '最後的朋友' NOT air on?",
+    "options_zh": [
+      "富士電視台",
+      "NBC",
+      "TBS",
+      "Netflix"
+    ],
+    "options_en": [
+      "富士電視台",
+      "NBC",
+      "TBS",
+      "Netflix"
+    ],
+    "answer": 0,
+    "explanation_zh": "《最後的朋友》係喺富士電視台播出。",
+    "explanation_en": "'最後的朋友' aired on 富士電視台.",
+    "difficulty": 2
+  },
+  {
+    "id": 40,
+    "question_zh": "《最後的朋友》係邊個年代首播？",
+    "question_en": "Which decade did '最後的朋友' first air?",
+    "options_zh": [
+      "1990年代",
+      "1980年代",
+      "2000年代",
+      "2020年代"
+    ],
+    "options_en": [
+      "1990s",
+      "1980s",
+      "2000s",
+      "2020s"
+    ],
+    "answer": 2,
+    "explanation_zh": "《最後的朋友》係2000年代首播。",
+    "explanation_en": "'最後的朋友' first aired in the 2000s.",
+    "difficulty": 1
+  },
+  {
+    "id": 41,
+    "question_zh": "《最後的朋友》大約有幾多集？",
+    "question_en": "Approximately how many episodes does '最後的朋友' have?",
+    "options_zh": [
+      "1-15集",
+      "16-30集",
+      "51-100集",
+      "100集以上"
+    ],
+    "options_en": [
+      "1-15集",
+      "16-30 episodes",
+      "51-100 episodes",
+      "100+ episodes"
+    ],
+    "answer": 0,
+    "explanation_zh": "《最後的朋友》共有11集，屬於1-15集。",
+    "explanation_en": "'最後的朋友' has 11 episodes (1-15集).",
     "difficulty": 2
   }
 ]

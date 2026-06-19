@@ -4,20 +4,20 @@
     "question_zh": "以下邊套係《其他日劇》？",
     "question_en": "Which one is 'Other Japanese Dramas'?",
     "options_zh": [
-      "其他劇集A",
-      "其他劇集B",
+      "魷魚遊戲",
+      "俠客行",
       "其他日劇",
-      "其他劇集C"
+      "非常律師禹英禑"
     ],
     "options_en": [
-      "Other Show A",
-      "Other Show B",
+      "Squid Game",
+      "Ode to Gallantry",
       "Other Japanese Dramas",
-      "Other Show C"
+      "Extraordinary Attorney Woo"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「其他日劇」。",
-    "explanation_en": "The correct answer is 'Other Japanese Dramas'.",
+    "explanation_zh": "《其他日劇》嘅正確名稱就係「其他日劇」，英文名係「Other Japanese Dramas」。",
+    "explanation_en": "The correct name is '其他日劇', English title 'Other Japanese Dramas'.",
     "difficulty": 2
   },
   {
@@ -26,19 +26,19 @@
     "question_en": "Which drama is 'Other Japanese Dramas'?",
     "options_zh": [
       "其他日劇",
-      "其他劇集B",
-      "其他劇集C",
-      "其他劇集A"
+      "魷魚遊戲",
+      "俠客行",
+      "非常律師禹英禑"
     ],
     "options_en": [
       "Other Japanese Dramas",
-      "Other Show B",
-      "Other Show C",
-      "Other Show A"
+      "Squid Game",
+      "Ode to Gallantry",
+      "Extraordinary Attorney Woo"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「其他日劇」。",
-    "explanation_en": "The correct answer is 'Other Japanese Dramas'.",
+    "explanation_zh": "《其他日劇》嘅正確名稱就係「其他日劇」，英文名係「Other Japanese Dramas」。",
+    "explanation_en": "The correct name is '其他日劇', English title 'Other Japanese Dramas'.",
     "difficulty": 3
   },
   {
@@ -46,20 +46,20 @@
     "question_zh": "以下邊個係《其他日劇》嘅正確名稱？",
     "question_en": "Which is the correct name of 'Other Japanese Dramas'?",
     "options_zh": [
-      "其他劇集A",
-      "其他劇集C",
+      "魷魚遊戲",
+      "俠客行",
       "其他日劇",
-      "其他劇集B"
+      "非常律師禹英禑"
     ],
     "options_en": [
-      "Other Show A",
-      "Other Show C",
+      "Squid Game",
+      "Ode to Gallantry",
       "Other Japanese Dramas",
-      "Other Show B"
+      "Extraordinary Attorney Woo"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「其他日劇」。",
-    "explanation_en": "The correct answer is 'Other Japanese Dramas'.",
+    "explanation_zh": "《其他日劇》嘅正確名稱就係「其他日劇」，英文名係「Other Japanese Dramas」。",
+    "explanation_en": "The correct name is '其他日劇', English title 'Other Japanese Dramas'.",
     "difficulty": 1
   },
   {
@@ -79,8 +79,8 @@
       "綜合"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「綜合」。",
-    "explanation_en": "正確答案係「綜合」。",
+    "explanation_zh": "《其他日劇》係綜合類型劇集。",
+    "explanation_en": "'其他日劇' is a Mixed show.",
     "difficulty": 2
   },
   {
@@ -100,8 +100,8 @@
       "紀錄片"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「綜合」。",
-    "explanation_en": "正確答案係「綜合」。",
+    "explanation_zh": "《其他日劇》係綜合類型劇集。",
+    "explanation_en": "'其他日劇' is a Mixed show.",
     "difficulty": 3
   },
   {
@@ -121,8 +121,8 @@
       "動作"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「綜合」。",
-    "explanation_en": "正確答案係「綜合」。",
+    "explanation_zh": "《其他日劇》係綜合類型劇集。",
+    "explanation_en": "'其他日劇' is a Mixed show.",
     "difficulty": 1
   },
   {
@@ -501,6 +501,153 @@
     "answer": 3,
     "explanation_zh": "正確答案係「2000年代」。",
     "explanation_en": "The correct answer is '2000s'.",
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question_zh": "《其他日劇》嘅英文名係咩？",
+    "question_en": "What is the English name of '其他日劇'?",
+    "options_zh": [
+      "Other Japanese Dramas",
+      "Jin",
+      "Hero",
+      "Last Friends"
+    ],
+    "options_en": [
+      "Other Japanese Dramas",
+      "Jin",
+      "Hero",
+      "Last Friends"
+    ],
+    "answer": 0,
+    "explanation_zh": "《其他日劇》嘅英文名係「Other Japanese Dramas」。",
+    "explanation_en": "The English name is 'Other Japanese Dramas'.",
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question_zh": "《其他日劇》係邊年首播？",
+    "question_en": "What year did '其他日劇' first air?",
+    "options_zh": [
+      "1999",
+      "1995",
+      "2000",
+      "2010"
+    ],
+    "options_en": [
+      "1999",
+      "1995",
+      "2000",
+      "2010"
+    ],
+    "answer": 3,
+    "explanation_zh": "《其他日劇》喺2010年首播。",
+    "explanation_en": "'其他日劇' first aired in 2010.",
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question_zh": "《其他日劇》有幾多集？",
+    "question_en": "How many episodes does '其他日劇' have?",
+    "options_zh": [
+      "32",
+      "11",
+      "24",
+      "20"
+    ],
+    "options_en": [
+      "32",
+      "11",
+      "24",
+      "20"
+    ],
+    "answer": 1,
+    "explanation_zh": "《其他日劇》共有11集。",
+    "explanation_en": "'其他日劇' has 11 episodes.",
+    "difficulty": 3
+  },
+  {
+    "id": 28,
+    "question_zh": "《其他日劇》係邊個年代嘅作品？",
+    "question_en": "Which decade was '其他日劇' from?",
+    "options_zh": [
+      "2010年代",
+      "2020年代",
+      "1990年代",
+      "1980年代"
+    ],
+    "options_en": [
+      "2010s",
+      "2020s",
+      "1990s",
+      "1980s"
+    ],
+    "answer": 0,
+    "explanation_zh": "《其他日劇》係2010年代嘅作品。",
+    "explanation_en": "'其他日劇' is from the 2010s.",
+    "difficulty": 1
+  },
+  {
+    "id": 29,
+    "question_zh": "邊套劇喺2010年首播？",
+    "question_en": "Which show first aired in 2010?",
+    "options_zh": [
+      "其他日劇",
+      "Orange Days",
+      "輪到你了",
+      "水男孩"
+    ],
+    "options_en": [
+      "Other J-Dramas",
+      "Orange Days",
+      "Your Turn to Kill",
+      "Water Boys"
+    ],
+    "answer": 0,
+    "explanation_zh": "《其他日劇》喺2010年首播。",
+    "explanation_en": "'其他日劇' first aired in 2010.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "《其他日劇》係邊個年代首播？",
+    "question_en": "Which decade did '其他日劇' first air?",
+    "options_zh": [
+      "2020年代",
+      "2000年代",
+      "2010年代",
+      "1990年代"
+    ],
+    "options_en": [
+      "2020s",
+      "2000s",
+      "2010s",
+      "1990s"
+    ],
+    "answer": 2,
+    "explanation_zh": "《其他日劇》係2010年代首播。",
+    "explanation_en": "'其他日劇' first aired in the 2010s.",
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "question_zh": "《其他日劇》大約有幾多集？",
+    "question_en": "Approximately how many episodes does '其他日劇' have?",
+    "options_zh": [
+      "51-100集",
+      "31-50集",
+      "16-30集",
+      "1-15集"
+    ],
+    "options_en": [
+      "51-100 episodes",
+      "31-50 episodes",
+      "16-30 episodes",
+      "1-15集"
+    ],
+    "answer": 3,
+    "explanation_zh": "《其他日劇》共有11集，屬於1-15集。",
+    "explanation_en": "'其他日劇' has 11 episodes (1-15集).",
     "difficulty": 2
   }
 ]
