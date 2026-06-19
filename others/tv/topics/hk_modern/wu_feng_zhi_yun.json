@@ -4,16 +4,16 @@
     "question_zh": "以下邊套係《舞動奇蹟》？",
     "question_en": "Which one is 'Strictly Come Dancing'?",
     "options_zh": [
-      "其他劇集A",
-      "其他劇集B",
+      "俠客行",
+      "連城訣",
       "舞動奇蹟",
-      "其他劇集C"
+      "三生三世十里桃花"
     ],
     "options_en": [
-      "Other Show A",
-      "Other Show B",
+      "Ode to Gallantry",
+      "A Deadly Secret",
       "Strictly Come Dancing",
-      "Other Show C"
+      "Eternal Love"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「舞動奇蹟」。",
@@ -26,15 +26,15 @@
     "question_en": "Which drama is 'Strictly Come Dancing'?",
     "options_zh": [
       "舞動奇蹟",
-      "其他劇集B",
-      "其他劇集A",
-      "其他劇集C"
+      "俠客行",
+      "連城訣",
+      "三生三世十里桃花"
     ],
     "options_en": [
       "Strictly Come Dancing",
-      "Other Show B",
-      "Other Show A",
-      "Other Show C"
+      "Ode to Gallantry",
+      "A Deadly Secret",
+      "Eternal Love"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「舞動奇蹟」。",
@@ -46,16 +46,16 @@
     "question_zh": "以下邊個係《舞動奇蹟》嘅正確名稱？",
     "question_en": "Which is the correct name of 'Strictly Come Dancing'?",
     "options_zh": [
-      "其他劇集B",
+      "俠客行",
       "舞動奇蹟",
-      "其他劇集A",
-      "其他劇集C"
+      "連城訣",
+      "三生三世十里桃花"
     ],
     "options_en": [
-      "Other Show B",
+      "Ode to Gallantry",
       "Strictly Come Dancing",
-      "Other Show A",
-      "Other Show C"
+      "A Deadly Secret",
+      "Eternal Love"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「舞動奇蹟」。",
@@ -565,5 +565,341 @@
     "explanation_zh": "正確答案係「未知」。",
     "explanation_en": "The correct answer is 'Unknown'.",
     "difficulty": 3
+  },
+  {
+    "id": 28,
+    "question_zh": "《幕後大老爺》嘅英文名係咩？",
+    "question_en": "What is the English name of '幕後大老爺'?",
+    "options_zh": [
+      "Infernal Affairs",
+      "The Taxidriver",
+      "My Unfair Lady",
+      "The Drive of Life"
+    ],
+    "options_en": [
+      "Infernal Affairs",
+      "The Taxidriver",
+      "My Unfair Lady",
+      "The Drive of Life"
+    ],
+    "answer": 2,
+    "explanation_zh": "《幕後大老爺》嘅英文名係「My Unfair Lady」。",
+    "explanation_en": "The English name is 'My Unfair Lady'.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "《幕後大老爺》屬於咩類型？",
+    "question_en": "What genre is '幕後大老爺'?",
+    "options_zh": [
+      "古裝權謀",
+      "武俠喜劇",
+      "古裝喜劇",
+      "黑色喜劇"
+    ],
+    "options_en": [
+      "Historical Political",
+      "Wuxia Comedy",
+      "Historical Comedy",
+      "Dark Comedy"
+    ],
+    "answer": 2,
+    "explanation_zh": "《幕後大老爺》係古裝喜劇類型。",
+    "explanation_en": "'幕後大老爺' is Historical Comedy.",
+    "difficulty": 1
+  },
+  {
+    "id": 30,
+    "question_zh": "《幕後大老爺》係邊年首播？",
+    "question_en": "What year did '幕後大老爺' first air?",
+    "options_zh": [
+      "1990",
+      "2017",
+      "1988",
+      "2020"
+    ],
+    "options_en": [
+      "1990",
+      "2017",
+      "1988",
+      "2020"
+    ],
+    "answer": 1,
+    "explanation_zh": "《幕後大老爺》喺2017年首播。",
+    "explanation_en": "'幕後大老爺' first aired in 2017.",
+    "difficulty": 2
+  },
+  {
+    "id": 31,
+    "question_zh": "《幕後大老爺》喺邊個平台播出？",
+    "question_en": "On which platform did '幕後大老爺' air?",
+    "options_zh": [
+      "TVB",
+      "東方衛視",
+      "ENA",
+      "Disney+"
+    ],
+    "options_en": [
+      "TVB",
+      "東方衛視",
+      "ENA",
+      "Disney+"
+    ],
+    "answer": 0,
+    "explanation_zh": "《幕後大老爺》喺TVB播出。",
+    "explanation_en": "'幕後大老爺' aired on TVB.",
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question_zh": "以下邊個係《幕後大老爺》嘅主演？",
+    "question_en": "Which actor starred in '幕後大老爺'?",
+    "options_zh": [
+      "馬國明",
+      "吳啟華",
+      "霍建華",
+      "鄭愷"
+    ],
+    "options_en": [
+      "Kenneth Ma",
+      "Ng Kai Wa",
+      "Wallace Huo",
+      "Zheng Kai"
+    ],
+    "answer": 0,
+    "explanation_zh": "「馬國明」係《幕後大老爺》嘅主演。",
+    "explanation_en": "'Kenneth Ma' starred in '幕後大老爺'.",
+    "difficulty": 2
+  },
+  {
+    "id": 33,
+    "question_zh": "《幕後大老爺》有幾多集？",
+    "question_en": "How many episodes does '幕後大老爺' have?",
+    "options_zh": [
+      "30",
+      "11",
+      "27",
+      "25"
+    ],
+    "options_en": [
+      "30",
+      "11",
+      "27",
+      "25"
+    ],
+    "answer": 3,
+    "explanation_zh": "《幕後大老爺》共有25集。",
+    "explanation_en": "'幕後大老爺' has 25 episodes.",
+    "difficulty": 3
+  },
+  {
+    "id": 34,
+    "question_zh": "以下邊套劇同時有「馬國明」同「唐詩詠」演出？",
+    "question_en": "Which show features both '馬國明' and '唐詩詠'?",
+    "options_zh": [
+      "幕後大老爺",
+      "乾隆大帝",
+      "意外",
+      "極道"
+    ],
+    "options_en": [
+      "My Unfair Lady",
+      "The Emperor and I",
+      "The ICAC Investigators",
+      "The Unholy Alliance"
+    ],
+    "answer": 0,
+    "explanation_zh": "《幕後大老爺》由馬國明同唐詩詠主演。",
+    "explanation_en": "'My Unfair Lady' stars both Kenneth Ma and Natalie Tong.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question_zh": "以下邊套劇同《公公出宮》屬於同一類型（古裝喜劇）？",
+    "question_en": "Which show shares the genre (Historical Comedy) with '公公出宮'?",
+    "options_zh": [
+      "公公出宮",
+      "意外",
+      "幕後大老爺",
+      "妙手仁心"
+    ],
+    "options_en": [
+      "Short End of the Stick",
+      "The ICAC Investigators",
+      "My Unfair Lady",
+      "Healing Hands"
+    ],
+    "answer": 2,
+    "explanation_zh": "《幕後大老爺》同《公公出宮》都係古裝喜劇類型。",
+    "explanation_en": "'幕後大老爺' and 'Short End of the Stick' are both Historical Comedy.",
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "question_zh": "《幕後大老爺》係邊個年代嘅作品？",
+    "question_en": "Which decade was '幕後大老爺' from?",
+    "options_zh": [
+      "1980年代",
+      "2020年代",
+      "2010年代",
+      "2000年代"
+    ],
+    "options_en": [
+      "1980s",
+      "2020s",
+      "2010s",
+      "2000s"
+    ],
+    "answer": 2,
+    "explanation_zh": "《幕後大老爺》係2010年代嘅作品。",
+    "explanation_en": "'幕後大老爺' is from the 2010s.",
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question_zh": "邊套劇喺2017年首播？",
+    "question_en": "Which show first aired in 2017?",
+    "options_zh": [
+      "極道",
+      "使徒行者",
+      "幕後大老爺",
+      "無間道"
+    ],
+    "options_en": [
+      "The Unholy Alliance",
+      "Line Walker",
+      "My Unfair Lady",
+      "Infernal Affairs"
+    ],
+    "answer": 2,
+    "explanation_zh": "《幕後大老爺》喺2017年首播。",
+    "explanation_en": "'幕後大老爺' first aired in 2017.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "邊套劇喺TVB播出？",
+    "question_en": "Which show aired on TVB?",
+    "options_zh": [
+      "衝上雲霄",
+      "溏心風暴",
+      "大鬧廣昌隆",
+      "幕後大老爺"
+    ],
+    "options_en": [
+      "Triumph in the Skies",
+      "Heart of Greed",
+      "A Ghostly Affair",
+      "My Unfair Lady"
+    ],
+    "answer": 3,
+    "explanation_zh": "《幕後大老爺》喺TVB播出。",
+    "explanation_en": "'幕後大老爺' aired on TVB.",
+    "difficulty": 2
+  },
+  {
+    "id": 39,
+    "question_zh": "以下邊套係古裝喜劇類型嘅劇集？",
+    "question_en": "Which is a Historical Comedy show?",
+    "options_zh": [
+      "幕後大老爺",
+      "無間道",
+      "極道",
+      "殿堂"
+    ],
+    "options_en": [
+      "My Unfair Lady",
+      "Infernal Affairs",
+      "The Unholy Alliance",
+      "The Drive of Life"
+    ],
+    "answer": 0,
+    "explanation_zh": "《幕後大老爺》係古裝喜劇類型。",
+    "explanation_en": "'幕後大老爺' is Historical Comedy.",
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question_zh": "「馬國明」有份演出邊套劇？",
+    "question_en": "Which show did '馬國明' appear in?",
+    "options_zh": [
+      "殿堂",
+      "衝上雲霄",
+      "幕後大老爺",
+      "妙手仁心"
+    ],
+    "options_en": [
+      "The Drive of Life",
+      "Triumph in the Skies",
+      "My Unfair Lady",
+      "Healing Hands"
+    ],
+    "answer": 2,
+    "explanation_zh": "「馬國明」演出過《幕後大老爺》。",
+    "explanation_en": "'Kenneth Ma' appeared in '幕後大老爺'.",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question_zh": "《幕後大老爺》「唔係」喺邊個平台播出？",
+    "question_en": "Which platform did '幕後大老爺' NOT air on?",
+    "options_zh": [
+      "Netflix",
+      "AMC",
+      "TVB",
+      "NBC"
+    ],
+    "options_en": [
+      "Netflix",
+      "AMC",
+      "TVB",
+      "NBC"
+    ],
+    "answer": 2,
+    "explanation_zh": "《幕後大老爺》係喺TVB播出。",
+    "explanation_en": "'幕後大老爺' aired on TVB.",
+    "difficulty": 2
+  },
+  {
+    "id": 42,
+    "question_zh": "《幕後大老爺》係邊個年代首播？",
+    "question_en": "Which decade did '幕後大老爺' first air?",
+    "options_zh": [
+      "2000年代",
+      "2020年代",
+      "2010年代",
+      "1980年代"
+    ],
+    "options_en": [
+      "2000s",
+      "2020s",
+      "2010s",
+      "1980s"
+    ],
+    "answer": 2,
+    "explanation_zh": "《幕後大老爺》係2010年代首播。",
+    "explanation_en": "'幕後大老爺' first aired in the 2010s.",
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "question_zh": "《幕後大老爺》大約有幾多集？",
+    "question_en": "Approximately how many episodes does '幕後大老爺' have?",
+    "options_zh": [
+      "31-50集",
+      "1-15集",
+      "100集以上",
+      "16-30集"
+    ],
+    "options_en": [
+      "31-50 episodes",
+      "1-15 episodes",
+      "100+ episodes",
+      "16-30集"
+    ],
+    "answer": 3,
+    "explanation_zh": "《幕後大老爺》共有25集，屬於16-30集。",
+    "explanation_en": "'幕後大老爺' has 25 episodes (16-30集).",
+    "difficulty": 2
   }
 ]

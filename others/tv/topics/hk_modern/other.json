@@ -4,16 +4,16 @@
     "question_zh": "以下邊套係《其他時裝劇》？",
     "question_en": "Which one is 'Other Modern Dramas'?",
     "options_zh": [
-      "其他劇集A",
-      "其他劇集B",
+      "幕後大老爺",
+      "死亡筆記",
       "其他時裝劇",
-      "其他劇集C"
+      "無限挑戰"
     ],
     "options_en": [
-      "Other Show A",
-      "Other Show B",
+      "My Unfair Lady",
+      "Death Note",
       "Other Modern Dramas",
-      "Other Show C"
+      "Infinite Challenge"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「其他時裝劇」。",
@@ -26,15 +26,15 @@
     "question_en": "Which drama is 'Other Modern Dramas'?",
     "options_zh": [
       "其他時裝劇",
-      "其他劇集B",
-      "其他劇集C",
-      "其他劇集A"
+      "幕後大老爺",
+      "死亡筆記",
+      "無限挑戰"
     ],
     "options_en": [
       "Other Modern Dramas",
-      "Other Show B",
-      "Other Show C",
-      "Other Show A"
+      "My Unfair Lady",
+      "Death Note",
+      "Infinite Challenge"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「其他時裝劇」。",
@@ -46,16 +46,16 @@
     "question_zh": "以下邊個係《其他時裝劇》嘅正確名稱？",
     "question_en": "Which is the correct name of 'Other Modern Dramas'?",
     "options_zh": [
-      "其他劇集A",
-      "其他劇集C",
+      "幕後大老爺",
+      "死亡筆記",
       "其他時裝劇",
-      "其他劇集B"
+      "無限挑戰"
     ],
     "options_en": [
-      "Other Show A",
-      "Other Show C",
+      "My Unfair Lady",
+      "Death Note",
       "Other Modern Dramas",
-      "Other Show B"
+      "Infinite Challenge"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「其他時裝劇」。",
@@ -565,5 +565,278 @@
     "explanation_zh": "正確答案係「未知」。",
     "explanation_en": "The correct answer is 'Unknown'.",
     "difficulty": 3
+  },
+  {
+    "id": 28,
+    "question_zh": "《其他港劇》嘅英文名係咩？",
+    "question_en": "What is the English name of '其他港劇'?",
+    "options_zh": [
+      "Twin of Brothers",
+      "Forensic Heroes",
+      "A Ghostly Affair",
+      "Other HK Modern Dramas"
+    ],
+    "options_en": [
+      "Twin of Brothers",
+      "Forensic Heroes",
+      "A Ghostly Affair",
+      "Other HK Modern Dramas"
+    ],
+    "answer": 3,
+    "explanation_zh": "《其他港劇》嘅英文名係「Other HK Modern Dramas」。",
+    "explanation_en": "The English name is 'Other HK Modern Dramas'.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "《其他港劇》屬於咩類型？",
+    "question_en": "What genre is '其他港劇'?",
+    "options_zh": [
+      "宮鬥",
+      "綜藝",
+      "時裝",
+      "律政"
+    ],
+    "options_en": [
+      "Palace Drama",
+      "Variety Show",
+      "Modern Drama",
+      "Legal"
+    ],
+    "answer": 2,
+    "explanation_zh": "《其他港劇》係時裝類型。",
+    "explanation_en": "'其他港劇' is Modern Drama.",
+    "difficulty": 1
+  },
+  {
+    "id": 30,
+    "question_zh": "《其他港劇》係邊年首播？",
+    "question_en": "What year did '其他港劇' first air?",
+    "options_zh": [
+      "2001",
+      "2013",
+      "2010",
+      "2017"
+    ],
+    "options_en": [
+      "2001",
+      "2013",
+      "2010",
+      "2017"
+    ],
+    "answer": 2,
+    "explanation_zh": "《其他港劇》喺2010年首播。",
+    "explanation_en": "'其他港劇' first aired in 2010.",
+    "difficulty": 2
+  },
+  {
+    "id": 31,
+    "question_zh": "《其他港劇》喺邊個平台播出？",
+    "question_en": "On which platform did '其他港劇' air?",
+    "options_zh": [
+      "TVB",
+      "tvN",
+      "BBC",
+      "Disney+"
+    ],
+    "options_en": [
+      "TVB",
+      "tvN",
+      "BBC",
+      "Disney+"
+    ],
+    "answer": 0,
+    "explanation_zh": "《其他港劇》喺TVB播出。",
+    "explanation_en": "'其他港劇' aired on TVB.",
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question_zh": "《其他港劇》有幾多集？",
+    "question_en": "How many episodes does '其他港劇' have?",
+    "options_zh": [
+      "31",
+      "30",
+      "20",
+      "30"
+    ],
+    "options_en": [
+      "31",
+      "30",
+      "20",
+      "30"
+    ],
+    "answer": 1,
+    "explanation_zh": "《其他港劇》共有30集。",
+    "explanation_en": "'其他港劇' has 30 episodes.",
+    "difficulty": 3
+  },
+  {
+    "id": 33,
+    "question_zh": "以下邊套劇同《殿堂》屬於同一類型（時裝）？",
+    "question_en": "Which show shares the genre (Modern Drama) with '殿堂'?",
+    "options_zh": [
+      "其他港劇",
+      "幕後大老爺",
+      "烈火雄心",
+      "追蹤"
+    ],
+    "options_en": [
+      "Other HK Modern Dramas",
+      "My Unfair Lady",
+      "Burning Flame",
+      "The Taxidriver"
+    ],
+    "answer": 0,
+    "explanation_zh": "《其他港劇》同《殿堂》都係時裝類型。",
+    "explanation_en": "'其他港劇' and 'The Drive of Life' are both Modern Drama.",
+    "difficulty": 2
+  },
+  {
+    "id": 34,
+    "question_zh": "《其他港劇》係邊個年代嘅作品？",
+    "question_en": "Which decade was '其他港劇' from?",
+    "options_zh": [
+      "1990年代",
+      "2020年代",
+      "2010年代",
+      "2000年代"
+    ],
+    "options_en": [
+      "1990s",
+      "2020s",
+      "2010s",
+      "2000s"
+    ],
+    "answer": 2,
+    "explanation_zh": "《其他港劇》係2010年代嘅作品。",
+    "explanation_en": "'其他港劇' is from the 2010s.",
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question_zh": "邊套劇喺2010年首播？",
+    "question_en": "Which show first aired in 2010?",
+    "options_zh": [
+      "追蹤",
+      "其他港劇",
+      "乾隆大帝",
+      "鑑證風雲"
+    ],
+    "options_en": [
+      "The Taxidriver",
+      "Other HK Modern",
+      "The Emperor and I",
+      "Forensic Heroes"
+    ],
+    "answer": 1,
+    "explanation_zh": "《其他港劇》喺2010年首播。",
+    "explanation_en": "'其他港劇' first aired in 2010.",
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "question_zh": "邊套劇喺TVB播出？",
+    "question_en": "Which show aired on TVB?",
+    "options_zh": [
+      "鑑證風雲",
+      "追蹤",
+      "大丈夫",
+      "其他港劇"
+    ],
+    "options_en": [
+      "Forensic Heroes",
+      "The Taxidriver",
+      "Men in Charge",
+      "Other HK Modern"
+    ],
+    "answer": 3,
+    "explanation_zh": "《其他港劇》喺TVB播出。",
+    "explanation_en": "'其他港劇' aired on TVB.",
+    "difficulty": 2
+  },
+  {
+    "id": 37,
+    "question_zh": "以下邊套係時裝類型嘅劇集？",
+    "question_en": "Which is a Modern Drama show?",
+    "options_zh": [
+      "大丈夫",
+      "衝上雲霄",
+      "其他港劇",
+      "鑑證風雲"
+    ],
+    "options_en": [
+      "Men in Charge",
+      "Triumph in the Skies",
+      "Other HK Modern",
+      "Forensic Heroes"
+    ],
+    "answer": 2,
+    "explanation_zh": "《其他港劇》係時裝類型。",
+    "explanation_en": "'其他港劇' is Modern Drama.",
+    "difficulty": 1
+  },
+  {
+    "id": 38,
+    "question_zh": "《其他港劇》「唔係」喺邊個平台播出？",
+    "question_en": "Which platform did '其他港劇' NOT air on?",
+    "options_zh": [
+      "Disney+",
+      "TVB",
+      "SBS",
+      "MBC"
+    ],
+    "options_en": [
+      "Disney+",
+      "TVB",
+      "SBS",
+      "MBC"
+    ],
+    "answer": 1,
+    "explanation_zh": "《其他港劇》係喺TVB播出。",
+    "explanation_en": "'其他港劇' aired on TVB.",
+    "difficulty": 2
+  },
+  {
+    "id": 39,
+    "question_zh": "《其他港劇》係邊個年代首播？",
+    "question_en": "Which decade did '其他港劇' first air?",
+    "options_zh": [
+      "2000年代",
+      "2010年代",
+      "1980年代",
+      "2020年代"
+    ],
+    "options_en": [
+      "2000s",
+      "2010s",
+      "1980s",
+      "2020s"
+    ],
+    "answer": 1,
+    "explanation_zh": "《其他港劇》係2010年代首播。",
+    "explanation_en": "'其他港劇' first aired in the 2010s.",
+    "difficulty": 1
+  },
+  {
+    "id": 40,
+    "question_zh": "《其他港劇》大約有幾多集？",
+    "question_en": "Approximately how many episodes does '其他港劇' have?",
+    "options_zh": [
+      "31-50集",
+      "51-100集",
+      "16-30集",
+      "100集以上"
+    ],
+    "options_en": [
+      "31-50 episodes",
+      "51-100 episodes",
+      "16-30集",
+      "100+ episodes"
+    ],
+    "answer": 2,
+    "explanation_zh": "《其他港劇》共有30集，屬於16-30集。",
+    "explanation_en": "'其他港劇' has 30 episodes (16-30集).",
+    "difficulty": 2
   }
 ]
