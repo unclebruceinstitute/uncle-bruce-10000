@@ -5,19 +5,19 @@
     "question_en": "Which one is 'Running Man'?",
     "options_zh": [
       "Running Man",
-      "其他劇集B",
-      "其他劇集A",
-      "其他劇集C"
+      "無間道",
+      "水男孩",
+      "王冠"
     ],
     "options_en": [
       "Running Man",
-      "Other Show B",
-      "Other Show A",
-      "Other Show C"
+      "Infernal Affairs",
+      "Water Boys",
+      "The Crown"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「Running Man」。",
-    "explanation_en": "The correct answer is 'Running Man'.",
+    "explanation_zh": "《Running Man》嘅正確名稱就係「Running Man」，英文名係「Running Man」。",
+    "explanation_en": "The correct name is 'Running Man', English title 'Running Man'.",
     "difficulty": 2
   },
   {
@@ -25,20 +25,20 @@
     "question_zh": "《Running Man》係邊套劇？",
     "question_en": "Which drama is 'Running Man'?",
     "options_zh": [
-      "其他劇集B",
-      "其他劇集A",
-      "其他劇集C",
+      "無間道",
+      "水男孩",
+      "王冠",
       "Running Man"
     ],
     "options_en": [
-      "Other Show B",
-      "Other Show A",
-      "Other Show C",
+      "Infernal Affairs",
+      "Water Boys",
+      "The Crown",
       "Running Man"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「Running Man」。",
-    "explanation_en": "The correct answer is 'Running Man'.",
+    "explanation_zh": "《Running Man》嘅正確名稱就係「Running Man」，英文名係「Running Man」。",
+    "explanation_en": "The correct name is 'Running Man', English title 'Running Man'.",
     "difficulty": 3
   },
   {
@@ -46,20 +46,20 @@
     "question_zh": "以下邊個係《Running Man》嘅正確名稱？",
     "question_en": "Which is the correct name of 'Running Man'?",
     "options_zh": [
-      "其他劇集B",
-      "其他劇集A",
+      "無間道",
+      "水男孩",
       "Running Man",
-      "其他劇集C"
+      "王冠"
     ],
     "options_en": [
-      "Other Show B",
-      "Other Show A",
+      "Infernal Affairs",
+      "Water Boys",
       "Running Man",
-      "Other Show C"
+      "The Crown"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「Running Man」。",
-    "explanation_en": "The correct answer is 'Running Man'.",
+    "explanation_zh": "《Running Man》嘅正確名稱就係「Running Man」，英文名係「Running Man」。",
+    "explanation_en": "The correct name is 'Running Man', English title 'Running Man'.",
     "difficulty": 1
   },
   {
@@ -79,8 +79,8 @@
       "綜藝"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「綜藝」。",
-    "explanation_en": "正確答案係「綜藝」。",
+    "explanation_zh": "《Running Man》係綜藝類型劇集。",
+    "explanation_en": "'Running Man' is a Variety Show show.",
     "difficulty": 2
   },
   {
@@ -100,8 +100,8 @@
       "紀錄片"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「綜藝」。",
-    "explanation_en": "正確答案係「綜藝」。",
+    "explanation_zh": "《Running Man》係綜藝類型劇集。",
+    "explanation_en": "'Running Man' is a Variety Show show.",
     "difficulty": 3
   },
   {
@@ -121,8 +121,8 @@
       "新聞"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「綜藝」。",
-    "explanation_en": "正確答案係「綜藝」。",
+    "explanation_zh": "《Running Man》係綜藝類型劇集。",
+    "explanation_en": "'Running Man' is a Variety Show show.",
     "difficulty": 1
   },
   {
@@ -501,6 +501,321 @@
     "answer": 1,
     "explanation_zh": "正確答案係「未知」。",
     "explanation_en": "The correct answer is 'Unknown'.",
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question_zh": "《Running Man》屬於咩類型？",
+    "question_en": "What genre is 'Running Man'?",
+    "options_zh": [
+      "綜藝",
+      "動作",
+      "古裝愛情",
+      "科幻選集"
+    ],
+    "options_en": [
+      "Variety Show",
+      "Action",
+      "Historical Romance",
+      "Sci-fi Anthology"
+    ],
+    "answer": 0,
+    "explanation_zh": "《Running Man》係綜藝類型。",
+    "explanation_en": "'Running Man' is Variety Show.",
+    "difficulty": 1
+  },
+  {
+    "id": 26,
+    "question_zh": "《Running Man》係邊年首播？",
+    "question_en": "What year did 'Running Man' first air?",
+    "options_zh": [
+      "2000",
+      "2010",
+      "2023",
+      "2005"
+    ],
+    "options_en": [
+      "2000",
+      "2010",
+      "2023",
+      "2005"
+    ],
+    "answer": 1,
+    "explanation_zh": "《Running Man》喺2010年首播。",
+    "explanation_en": "'Running Man' first aired in 2010.",
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question_zh": "《Running Man》喺邊個平台播出？",
+    "question_en": "On which platform did 'Running Man' air?",
+    "options_zh": [
+      "TBS",
+      "AMC",
+      "日本電視台",
+      "SBS"
+    ],
+    "options_en": [
+      "TBS",
+      "AMC",
+      "日本電視台",
+      "SBS"
+    ],
+    "answer": 3,
+    "explanation_zh": "《Running Man》喺SBS播出。",
+    "explanation_en": "'Running Man' aired on SBS.",
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question_zh": "以下邊個係《Running Man》嘅主演？",
+    "question_en": "Which actor starred in 'Running Man'?",
+    "options_zh": [
+      "金鐘國",
+      "歐陽震華",
+      "摩菲德·克拉克",
+      "柏度·柏斯卡"
+    ],
+    "options_en": [
+      "Kim Jong-kook",
+      "Bobby Au-yeung",
+      "Morfydd Clark",
+      "Pedro Pascal"
+    ],
+    "answer": 0,
+    "explanation_zh": "「金鐘國」係《Running Man》嘅主演。",
+    "explanation_en": "'Kim Jong-kook' starred in 'Running Man'.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "《Running Man》有幾多集？",
+    "question_en": "How many episodes does 'Running Man' have?",
+    "options_zh": [
+      "36",
+      "600",
+      "40",
+      "27"
+    ],
+    "options_en": [
+      "36",
+      "600",
+      "40",
+      "27"
+    ],
+    "answer": 1,
+    "explanation_zh": "《Running Man》共有600集。",
+    "explanation_en": "'Running Man' has 600 episodes.",
+    "difficulty": 3
+  },
+  {
+    "id": 30,
+    "question_zh": "以下邊套劇同時有「劉在錫」同「池石鎮」演出？",
+    "question_en": "Which show features both '劉在錫' and '池石鎮'?",
+    "options_zh": [
+      "快樂大本營",
+      "Running Man",
+      "奔跑吧",
+      "天天向上"
+    ],
+    "options_en": [
+      "Happy Camp",
+      "Running Man",
+      "Keep Running",
+      "Day Day Up"
+    ],
+    "answer": 1,
+    "explanation_zh": "《Running Man》由劉在錫同池石鎮主演。",
+    "explanation_en": "'Running Man' stars both Yoo Jae-suk and Jee Seok-jin.",
+    "difficulty": 2
+  },
+  {
+    "id": 31,
+    "question_zh": "以下邊套劇同《天天向上》屬於同一類型（綜藝）？",
+    "question_en": "Which show shares the genre (Variety Show) with '天天向上'?",
+    "options_zh": [
+      "Running Man",
+      "我是歌手",
+      "Produce 101",
+      "快樂大本營"
+    ],
+    "options_en": [
+      "Running Man",
+      "I Am a Singer",
+      "Produce 101",
+      "Happy Camp"
+    ],
+    "answer": 0,
+    "explanation_zh": "《Running Man》同《天天向上》都係綜藝類型。",
+    "explanation_en": "'Running Man' and 'Day Day Up' are both Variety Show.",
+    "difficulty": 2
+  },
+  {
+    "id": 32,
+    "question_zh": "《Running Man》係邊個年代嘅作品？",
+    "question_en": "Which decade was 'Running Man' from?",
+    "options_zh": [
+      "2000年代",
+      "2010年代",
+      "2020年代",
+      "1980年代"
+    ],
+    "options_en": [
+      "2000s",
+      "2010s",
+      "2020s",
+      "1980s"
+    ],
+    "answer": 1,
+    "explanation_zh": "《Running Man》係2010年代嘅作品。",
+    "explanation_en": "'Running Man' is from the 2010s.",
+    "difficulty": 1
+  },
+  {
+    "id": 33,
+    "question_zh": "邊套劇喺2010年首播？",
+    "question_en": "Which show first aired in 2010?",
+    "options_zh": [
+      "天天向上",
+      "我是歌手",
+      "Running Man",
+      "爸爸去哪兒"
+    ],
+    "options_en": [
+      "Day Day Up",
+      "I Am a Singer",
+      "Running Man",
+      "Where Are We Going Dad?"
+    ],
+    "answer": 2,
+    "explanation_zh": "《Running Man》喺2010年首播。",
+    "explanation_en": "'Running Man' first aired in 2010.",
+    "difficulty": 2
+  },
+  {
+    "id": 34,
+    "question_zh": "邊套劇喺SBS播出？",
+    "question_en": "Which show aired on SBS?",
+    "options_zh": [
+      "中國有嘻哈",
+      "Produce 101",
+      "無限挑戰",
+      "Running Man"
+    ],
+    "options_en": [
+      "The Rap of China",
+      "Produce 101",
+      "Infinite Challenge",
+      "Running Man"
+    ],
+    "answer": 3,
+    "explanation_zh": "《Running Man》喺SBS播出。",
+    "explanation_en": "'Running Man' aired on SBS.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "question_zh": "以下邊套係綜藝類型嘅劇集？",
+    "question_en": "Which is a Variety Show show?",
+    "options_zh": [
+      "Produce 101",
+      "這！就是街舞",
+      "Running Man",
+      "快樂大本營"
+    ],
+    "options_en": [
+      "Produce 101",
+      "Street Dance of China",
+      "Running Man",
+      "Happy Camp"
+    ],
+    "answer": 2,
+    "explanation_zh": "《Running Man》係綜藝類型。",
+    "explanation_en": "'Running Man' is Variety Show.",
+    "difficulty": 1
+  },
+  {
+    "id": 36,
+    "question_zh": "「池石鎮」有份演出邊套劇？",
+    "question_en": "Which show did '池石鎮' appear in?",
+    "options_zh": [
+      "歌手",
+      "Produce 101",
+      "Running Man",
+      "天天向上"
+    ],
+    "options_en": [
+      "Singer",
+      "Produce 101",
+      "Running Man",
+      "Day Day Up"
+    ],
+    "answer": 2,
+    "explanation_zh": "「池石鎮」演出過《Running Man》。",
+    "explanation_en": "'Jee Seok-jin' appeared in 'Running Man'.",
+    "difficulty": 2
+  },
+  {
+    "id": 37,
+    "question_zh": "《Running Man》「唔係」喺邊個平台播出？",
+    "question_en": "Which platform did 'Running Man' NOT air on?",
+    "options_zh": [
+      "AMC",
+      "騰訊視頻",
+      "SBS",
+      "Disney+"
+    ],
+    "options_en": [
+      "AMC",
+      "騰訊視頻",
+      "SBS",
+      "Disney+"
+    ],
+    "answer": 2,
+    "explanation_zh": "《Running Man》係喺SBS播出。",
+    "explanation_en": "'Running Man' aired on SBS.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "《Running Man》係邊個年代首播？",
+    "question_en": "Which decade did 'Running Man' first air?",
+    "options_zh": [
+      "2020年代",
+      "2010年代",
+      "2000年代",
+      "1980年代"
+    ],
+    "options_en": [
+      "2020s",
+      "2010s",
+      "2000s",
+      "1980s"
+    ],
+    "answer": 1,
+    "explanation_zh": "《Running Man》係2010年代首播。",
+    "explanation_en": "'Running Man' first aired in the 2010s.",
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "question_zh": "《Running Man》大約有幾多集？",
+    "question_en": "Approximately how many episodes does 'Running Man' have?",
+    "options_zh": [
+      "31-50集",
+      "16-30集",
+      "100集以上",
+      "51-100集"
+    ],
+    "options_en": [
+      "31-50 episodes",
+      "16-30 episodes",
+      "100集以上",
+      "51-100 episodes"
+    ],
+    "answer": 2,
+    "explanation_zh": "《Running Man》共有600集，屬於100集以上。",
+    "explanation_en": "'Running Man' has 600 episodes (100集以上).",
     "difficulty": 2
   }
 ]

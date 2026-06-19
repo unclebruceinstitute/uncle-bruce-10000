@@ -4,20 +4,20 @@
     "question_zh": "以下邊套係《歌手》？",
     "question_en": "Which one is 'Singer'?",
     "options_zh": [
-      "其他劇集A",
+      "半澤直樹",
       "歌手",
-      "其他劇集B",
-      "其他劇集C"
+      "律政英雄",
+      "我是歌手"
     ],
     "options_en": [
-      "Other Show A",
+      "Hanzawa Naoki",
       "Singer",
-      "Other Show B",
-      "Other Show C"
+      "Hero",
+      "I Am a Singer"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「歌手」。",
-    "explanation_en": "The correct answer is 'Singer'.",
+    "explanation_zh": "《歌手》嘅正確名稱就係「歌手」，英文名係「Singer」。",
+    "explanation_en": "The correct name is '歌手', English title 'Singer'.",
     "difficulty": 2
   },
   {
@@ -25,20 +25,20 @@
     "question_zh": "《歌手》係邊套劇？",
     "question_en": "Which drama is 'Singer'?",
     "options_zh": [
-      "其他劇集A",
+      "半澤直樹",
       "歌手",
-      "其他劇集B",
-      "其他劇集C"
+      "律政英雄",
+      "我是歌手"
     ],
     "options_en": [
-      "Other Show A",
+      "Hanzawa Naoki",
       "Singer",
-      "Other Show B",
-      "Other Show C"
+      "Hero",
+      "I Am a Singer"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「歌手」。",
-    "explanation_en": "The correct answer is 'Singer'.",
+    "explanation_zh": "《歌手》嘅正確名稱就係「歌手」，英文名係「Singer」。",
+    "explanation_en": "The correct name is '歌手', English title 'Singer'.",
     "difficulty": 3
   },
   {
@@ -47,19 +47,19 @@
     "question_en": "Which is the correct name of 'Singer'?",
     "options_zh": [
       "歌手",
-      "其他劇集A",
-      "其他劇集B",
-      "其他劇集C"
+      "半澤直樹",
+      "律政英雄",
+      "我是歌手"
     ],
     "options_en": [
       "Singer",
-      "Other Show A",
-      "Other Show B",
-      "Other Show C"
+      "Hanzawa Naoki",
+      "Hero",
+      "I Am a Singer"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「歌手」。",
-    "explanation_en": "The correct answer is 'Singer'.",
+    "explanation_zh": "《歌手》嘅正確名稱就係「歌手」，英文名係「Singer」。",
+    "explanation_en": "The correct name is '歌手', English title 'Singer'.",
     "difficulty": 1
   },
   {
@@ -501,6 +501,279 @@
     "answer": 2,
     "explanation_zh": "正確答案係「未知」。",
     "explanation_en": "The correct answer is 'Unknown'.",
+    "difficulty": 2
+  },
+  {
+    "id": 25,
+    "question_zh": "《歌手》嘅英文名係咩？",
+    "question_en": "What is the English name of '歌手'?",
+    "options_zh": [
+      "Day Day Up",
+      "Running Man",
+      "Singer",
+      "Keep Running"
+    ],
+    "options_en": [
+      "Day Day Up",
+      "Running Man",
+      "Singer",
+      "Keep Running"
+    ],
+    "answer": 2,
+    "explanation_zh": "《歌手》嘅英文名係「Singer」。",
+    "explanation_en": "The English name is 'Singer'.",
+    "difficulty": 2
+  },
+  {
+    "id": 26,
+    "question_zh": "《歌手》屬於咩類型？",
+    "question_en": "What genre is '歌手'?",
+    "options_zh": [
+      "職場",
+      "音樂競演",
+      "真人秀",
+      "傳記"
+    ],
+    "options_en": [
+      "Workplace",
+      "Music Competition",
+      "Reality Show",
+      "Biography"
+    ],
+    "answer": 1,
+    "explanation_zh": "《歌手》係音樂競演類型。",
+    "explanation_en": "'歌手' is Music Competition.",
+    "difficulty": 1
+  },
+  {
+    "id": 27,
+    "question_zh": "《歌手》係邊年首播？",
+    "question_en": "What year did '歌手' first air?",
+    "options_zh": [
+      "2002",
+      "2009",
+      "2017",
+      "2004"
+    ],
+    "options_en": [
+      "2002",
+      "2009",
+      "2017",
+      "2004"
+    ],
+    "answer": 2,
+    "explanation_zh": "《歌手》喺2017年首播。",
+    "explanation_en": "'歌手' first aired in 2017.",
+    "difficulty": 2
+  },
+  {
+    "id": 28,
+    "question_zh": "《歌手》喺邊個平台播出？",
+    "question_en": "On which platform did '歌手' air?",
+    "options_zh": [
+      "Mnet",
+      "湖南衛視",
+      "富士電視台",
+      "Channel 4"
+    ],
+    "options_en": [
+      "Mnet",
+      "湖南衛視",
+      "富士電視台",
+      "Channel 4"
+    ],
+    "answer": 1,
+    "explanation_zh": "《歌手》喺湖南衛視播出。",
+    "explanation_en": "'歌手' aired on 湖南衛視.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "《歌手》有幾多集？",
+    "question_en": "How many episodes does '歌手' have?",
+    "options_zh": [
+      "40",
+      "30",
+      "25",
+      "40"
+    ],
+    "options_en": [
+      "40",
+      "30",
+      "25",
+      "40"
+    ],
+    "answer": 0,
+    "explanation_zh": "《歌手》共有40集。",
+    "explanation_en": "'歌手' has 40 episodes.",
+    "difficulty": 3
+  },
+  {
+    "id": 30,
+    "question_zh": "以下邊套劇同《我是歌手》屬於同一類型（音樂競演）？",
+    "question_en": "Which show shares the genre (Music Competition) with '我是歌手'?",
+    "options_zh": [
+      "這！就是街舞",
+      "我是歌手",
+      "快樂大本營",
+      "歌手"
+    ],
+    "options_en": [
+      "Street Dance of China",
+      "I Am a Singer",
+      "Happy Camp",
+      "Singer"
+    ],
+    "answer": 3,
+    "explanation_zh": "《歌手》同《我是歌手》都係音樂競演類型。",
+    "explanation_en": "'歌手' and 'I Am a Singer' are both Music Competition.",
+    "difficulty": 2
+  },
+  {
+    "id": 31,
+    "question_zh": "《歌手》係邊個年代嘅作品？",
+    "question_en": "Which decade was '歌手' from?",
+    "options_zh": [
+      "2010年代",
+      "1980年代",
+      "2000年代",
+      "1990年代"
+    ],
+    "options_en": [
+      "2010s",
+      "1980s",
+      "2000s",
+      "1990s"
+    ],
+    "answer": 0,
+    "explanation_zh": "《歌手》係2010年代嘅作品。",
+    "explanation_en": "'歌手' is from the 2010s.",
+    "difficulty": 1
+  },
+  {
+    "id": 32,
+    "question_zh": "邊套劇喺2017年首播？",
+    "question_en": "Which show first aired in 2017?",
+    "options_zh": [
+      "Running Man",
+      "歌手",
+      "天天向上",
+      "無限挑戰"
+    ],
+    "options_en": [
+      "Running Man",
+      "Singer",
+      "Day Day Up",
+      "Infinite Challenge"
+    ],
+    "answer": 1,
+    "explanation_zh": "《歌手》喺2017年首播。",
+    "explanation_en": "'歌手' first aired in 2017.",
+    "difficulty": 2
+  },
+  {
+    "id": 33,
+    "question_zh": "邊套劇喺湖南衛視播出？",
+    "question_en": "Which show aired on 湖南衛視?",
+    "options_zh": [
+      "天天向上",
+      "歌手",
+      "Produce 101",
+      "我是歌手"
+    ],
+    "options_en": [
+      "Day Day Up",
+      "Singer",
+      "Produce 101",
+      "I Am a Singer"
+    ],
+    "answer": 1,
+    "explanation_zh": "《歌手》喺湖南衛視播出。",
+    "explanation_en": "'歌手' aired on 湖南衛視.",
+    "difficulty": 2
+  },
+  {
+    "id": 34,
+    "question_zh": "以下邊套係音樂競演類型嘅劇集？",
+    "question_en": "Which is a Music Competition show?",
+    "options_zh": [
+      "我是歌手",
+      "歌手",
+      "快樂大本營",
+      "這！就是街舞"
+    ],
+    "options_en": [
+      "I Am a Singer",
+      "Singer",
+      "Happy Camp",
+      "Street Dance of China"
+    ],
+    "answer": 1,
+    "explanation_zh": "《歌手》係音樂競演類型。",
+    "explanation_en": "'歌手' is Music Competition.",
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "question_zh": "《歌手》「唔係」喺邊個平台播出？",
+    "question_en": "Which platform did '歌手' NOT air on?",
+    "options_zh": [
+      "浙江衛視",
+      "湖南衛視",
+      "TVB",
+      "TBS"
+    ],
+    "options_en": [
+      "浙江衛視",
+      "湖南衛視",
+      "TVB",
+      "TBS"
+    ],
+    "answer": 1,
+    "explanation_zh": "《歌手》係喺湖南衛視播出。",
+    "explanation_en": "'歌手' aired on 湖南衛視.",
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "question_zh": "《歌手》係邊個年代首播？",
+    "question_en": "Which decade did '歌手' first air?",
+    "options_zh": [
+      "1980年代",
+      "2010年代",
+      "2000年代",
+      "1990年代"
+    ],
+    "options_en": [
+      "1980s",
+      "2010s",
+      "2000s",
+      "1990s"
+    ],
+    "answer": 1,
+    "explanation_zh": "《歌手》係2010年代首播。",
+    "explanation_en": "'歌手' first aired in the 2010s.",
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question_zh": "《歌手》大約有幾多集？",
+    "question_en": "Approximately how many episodes does '歌手' have?",
+    "options_zh": [
+      "100集以上",
+      "16-30集",
+      "51-100集",
+      "31-50集"
+    ],
+    "options_en": [
+      "100+ episodes",
+      "16-30 episodes",
+      "51-100 episodes",
+      "31-50集"
+    ],
+    "answer": 3,
+    "explanation_zh": "《歌手》共有40集，屬於31-50集。",
+    "explanation_en": "'歌手' has 40 episodes (31-50集).",
     "difficulty": 2
   }
 ]
