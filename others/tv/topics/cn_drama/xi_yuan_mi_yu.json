@@ -4,16 +4,16 @@
     "question_zh": "以下邊套係《香蜜沉沉燼如霜》？",
     "question_en": "Which one is 'Ashes of Love'?",
     "options_zh": [
-      "其他劇集A",
+      "Orange Days",
       "香蜜沉沉燼如霜",
-      "其他劇集B",
-      "其他劇集C"
+      "鑑證風雲",
+      "爸爸去哪兒"
     ],
     "options_en": [
-      "Other Show A",
+      "Orange Days",
       "Ashes of Love",
-      "Other Show B",
-      "Other Show C"
+      "Forensic Heroes",
+      "Where Are We Going Dad?"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係「香蜜沉沉燼如霜」。",
@@ -25,16 +25,16 @@
     "question_zh": "《香蜜沉沉燼如霜》係邊套劇？",
     "question_en": "Which drama is 'Ashes of Love'?",
     "options_zh": [
-      "其他劇集B",
-      "其他劇集C",
+      "Orange Days",
+      "鑑證風雲",
       "香蜜沉沉燼如霜",
-      "其他劇集A"
+      "爸爸去哪兒"
     ],
     "options_en": [
-      "Other Show B",
-      "Other Show C",
+      "Orange Days",
+      "Forensic Heroes",
       "Ashes of Love",
-      "Other Show A"
+      "Where Are We Going Dad?"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「香蜜沉沉燼如霜」。",
@@ -46,16 +46,16 @@
     "question_zh": "以下邊個係《香蜜沉沉燼如霜》嘅正確名稱？",
     "question_en": "Which is the correct name of 'Ashes of Love'?",
     "options_zh": [
-      "其他劇集A",
-      "其他劇集C",
+      "Orange Days",
+      "鑑證風雲",
       "香蜜沉沉燼如霜",
-      "其他劇集B"
+      "爸爸去哪兒"
     ],
     "options_en": [
-      "Other Show A",
-      "Other Show C",
+      "Orange Days",
+      "Forensic Heroes",
       "Ashes of Love",
-      "Other Show B"
+      "Where Are We Going Dad?"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係「香蜜沉沉燼如霜」。",
@@ -523,5 +523,404 @@
     "explanation_zh": "正確答案係「未知」。",
     "explanation_en": "The correct answer is 'Unknown'.",
     "difficulty": 3
+  },
+  {
+    "id": 26,
+    "question_zh": "《西遊記》嘅英文名係咩？",
+    "question_en": "What is the English name of '西遊記'?",
+    "options_zh": [
+      "Word of Honor",
+      "Journey to the West",
+      "Love Like the Galaxy",
+      "Perfect Couple"
+    ],
+    "options_en": [
+      "Word of Honor",
+      "Journey to the West",
+      "Love Like the Galaxy",
+      "Perfect Couple"
+    ],
+    "answer": 1,
+    "explanation_zh": "《西遊記》嘅英文名係「Journey to the West」。",
+    "explanation_en": "The English name is 'Journey to the West'.",
+    "difficulty": 2
+  },
+  {
+    "id": 27,
+    "question_zh": "《西遊記》屬於咩類型？",
+    "question_en": "What genre is '西遊記'?",
+    "options_zh": [
+      "古裝神話",
+      "懸疑喜劇",
+      "懸疑",
+      "科幻驚悚"
+    ],
+    "options_en": [
+      "Mythological",
+      "Mystery Comedy",
+      "Mystery",
+      "Sci-fi Thriller"
+    ],
+    "answer": 0,
+    "explanation_zh": "《西遊記》係古裝神話類型。",
+    "explanation_en": "'西遊記' is Mythological.",
+    "difficulty": 1
+  },
+  {
+    "id": 28,
+    "question_zh": "《西遊記》係邊年首播？",
+    "question_en": "What year did '西遊記' first air?",
+    "options_zh": [
+      "2006",
+      "1986",
+      "2016",
+      "1993"
+    ],
+    "options_en": [
+      "2006",
+      "1986",
+      "2016",
+      "1993"
+    ],
+    "answer": 1,
+    "explanation_zh": "《西遊記》喺1986年首播。",
+    "explanation_en": "'西遊記' first aired in 1986.",
+    "difficulty": 2
+  },
+  {
+    "id": 29,
+    "question_zh": "《西遊記》喺邊個平台播出？",
+    "question_en": "On which platform did '西遊記' air?",
+    "options_zh": [
+      "TBS",
+      "MBC",
+      "浙江衛視",
+      "央視"
+    ],
+    "options_en": [
+      "TBS",
+      "MBC",
+      "浙江衛視",
+      "央視"
+    ],
+    "answer": 3,
+    "explanation_zh": "《西遊記》喺央視播出。",
+    "explanation_en": "'西遊記' aired on 央視.",
+    "difficulty": 2
+  },
+  {
+    "id": 30,
+    "question_zh": "以下邊個係《西遊記》嘅主演？",
+    "question_en": "Which actor starred in '西遊記'?",
+    "options_zh": [
+      "馬德華",
+      "班尼狄·甘巴貝治",
+      "夏雨",
+      "黃日華"
+    ],
+    "options_en": [
+      "Ma Dehua",
+      "Benedict Cumberbatch",
+      "Ha Yu",
+      "Felix Wong"
+    ],
+    "answer": 0,
+    "explanation_zh": "「馬德華」係《西遊記》嘅主演。",
+    "explanation_en": "'Ma Dehua' starred in '西遊記'.",
+    "difficulty": 2
+  },
+  {
+    "id": 31,
+    "question_zh": "「孫悟空」係《西遊記》入面邊個角色？",
+    "question_en": "Which character from '西遊記' is '孫悟空'?",
+    "options_zh": [
+      "宇佐木柚葉",
+      "孫悟空",
+      "久利生公平",
+      "百里屠蘇"
+    ],
+    "options_en": [
+      "Usagi",
+      "Sun Wukong",
+      "Kohei Kuryu",
+      "Baili Tusu"
+    ],
+    "answer": 1,
+    "explanation_zh": "「孫悟空」係《西遊記》入面嘅角色。",
+    "explanation_en": "'Sun Wukong' is from '西遊記'.",
+    "difficulty": 3
+  },
+  {
+    "id": 32,
+    "question_zh": "《西遊記》有幾多集？",
+    "question_en": "How many episodes does '西遊記' have?",
+    "options_zh": [
+      "16",
+      "11",
+      "20",
+      "25"
+    ],
+    "options_en": [
+      "16",
+      "11",
+      "20",
+      "25"
+    ],
+    "answer": 3,
+    "explanation_zh": "《西遊記》共有25集。",
+    "explanation_en": "'西遊記' has 25 episodes.",
+    "difficulty": 3
+  },
+  {
+    "id": 33,
+    "question_zh": "《西遊記》嘅導演係邊個？",
+    "question_en": "Who directed '西遊記'?",
+    "options_zh": [
+      "徐克",
+      "張藝謀",
+      "孔笙",
+      "楊潔"
+    ],
+    "options_en": [
+      "Tsui Hark",
+      "Zhang Yimou",
+      "Kong Sheng",
+      "Yang Jie"
+    ],
+    "answer": 3,
+    "explanation_zh": "《西遊記》嘅導演係楊潔。",
+    "explanation_en": "Directed by Yang Jie.",
+    "difficulty": 3
+  },
+  {
+    "id": 34,
+    "question_zh": "《西遊記》嘅原作係咩？",
+    "question_en": "What is '西遊記' adapted from?",
+    "options_zh": [
+      "改編自吳承恩古典小說",
+      "改編自遊戲",
+      "改編自漫畫",
+      "改編自真實事件"
+    ],
+    "options_en": [
+      "Adapted from Wu Cheng'en's classic",
+      "Adapted from a game",
+      "Adapted from manga",
+      "Based on true events"
+    ],
+    "answer": 0,
+    "explanation_zh": "《西遊記》改編自吳承恩古典小說。",
+    "explanation_en": "'西遊記' is Adapted from Wu Cheng'en's classic.",
+    "difficulty": 3
+  },
+  {
+    "id": 35,
+    "question_zh": "以下邊套劇同時有「六小齡童」同「馬德華」演出？",
+    "question_en": "Which show features both '六小齡童' and '馬德華'?",
+    "options_zh": [
+      "西遊記",
+      "青雲志",
+      "星漢燦爛",
+      "花千骨"
+    ],
+    "options_en": [
+      "Journey to the West",
+      "Noble Aspirations",
+      "Love Like the Galaxy",
+      "The Journey of Flower"
+    ],
+    "answer": 0,
+    "explanation_zh": "《西遊記》由六小齡童同馬德華主演。",
+    "explanation_en": "'Journey to the West' stars both Liu Xiao Ling Tong and Ma Dehua.",
+    "difficulty": 2
+  },
+  {
+    "id": 36,
+    "question_zh": "「孫悟空」係邊套劇嘅角色？",
+    "question_en": "Which show does '孫悟空' appear in?",
+    "options_zh": [
+      "如懿傳",
+      "西遊記",
+      "完美伴侶",
+      "甄嬛傳"
+    ],
+    "options_en": [
+      "Ruyi's Royal Love in the Palace",
+      "Journey to the West",
+      "Perfect Couple",
+      "Empresses in the Palace"
+    ],
+    "answer": 1,
+    "explanation_zh": "「孫悟空」係《西遊記》嘅角色。",
+    "explanation_en": "'Sun Wukong' is from '西遊記'.",
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "question_zh": "以下邊套劇同《西遊記》屬於同一類型（古裝神話）？",
+    "question_en": "Which show shares the genre (Mythological) with '西遊記'?",
+    "options_zh": [
+      "星漢燦爛",
+      "蒼蘭訣",
+      "古劍奇譚",
+      "西遊記"
+    ],
+    "options_en": [
+      "Love Like the Galaxy",
+      "Love Between Fairy and Devil",
+      "Swords of Legends",
+      "Journey to the West"
+    ],
+    "answer": 3,
+    "explanation_zh": "《西遊記》同《西遊記》都係古裝神話類型。",
+    "explanation_en": "'西遊記' and 'Journey to the West' are both Mythological.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "question_zh": "《西遊記》係邊個年代嘅作品？",
+    "question_en": "Which decade was '西遊記' from?",
+    "options_zh": [
+      "1980年代",
+      "1990年代",
+      "2000年代",
+      "2010年代"
+    ],
+    "options_en": [
+      "1980s",
+      "1990s",
+      "2000s",
+      "2010s"
+    ],
+    "answer": 0,
+    "explanation_zh": "《西遊記》係1980年代嘅作品。",
+    "explanation_en": "'西遊記' is from the 1980s.",
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "question_zh": "邊套劇喺1986年首播？",
+    "question_en": "Which show first aired in 1986?",
+    "options_zh": [
+      "山河令",
+      "西遊記",
+      "古劍奇譚",
+      "慶餘年"
+    ],
+    "options_en": [
+      "Word of Honor",
+      "Journey to the West",
+      "Swords of Legends",
+      "Joy of Life"
+    ],
+    "answer": 1,
+    "explanation_zh": "《西遊記》喺1986年首播。",
+    "explanation_en": "'西遊記' first aired in 1986.",
+    "difficulty": 2
+  },
+  {
+    "id": 40,
+    "question_zh": "邊套劇喺央視播出？",
+    "question_en": "Which show aired on 央視?",
+    "options_zh": [
+      "西遊記",
+      "完美伴侶",
+      "流星花園",
+      "古劍奇譚"
+    ],
+    "options_en": [
+      "Journey to the West",
+      "Perfect Couple",
+      "Meteor Garden",
+      "Swords of Legends"
+    ],
+    "answer": 0,
+    "explanation_zh": "《西遊記》喺央視播出。",
+    "explanation_en": "'西遊記' aired on 央視.",
+    "difficulty": 2
+  },
+  {
+    "id": 41,
+    "question_zh": "以下邊套係古裝神話類型嘅劇集？",
+    "question_en": "Which is a Mythological show?",
+    "options_zh": [
+      "西遊記",
+      "長月燼明",
+      "如懿傳",
+      "完美伴侶"
+    ],
+    "options_en": [
+      "Journey to the West",
+      "Till the End of the Moon",
+      "Ruyi's Royal Love",
+      "Perfect Couple"
+    ],
+    "answer": 0,
+    "explanation_zh": "《西遊記》係古裝神話類型。",
+    "explanation_en": "'西遊記' is Mythological.",
+    "difficulty": 1
+  },
+  {
+    "id": 42,
+    "question_zh": "「六小齡童」有份演出邊套劇？",
+    "question_en": "Which show did '六小齡童' appear in?",
+    "options_zh": [
+      "長月燼明",
+      "山河令",
+      "西遊記",
+      "慶餘年"
+    ],
+    "options_en": [
+      "Till the End of the Moon",
+      "Word of Honor",
+      "Journey to the West",
+      "Joy of Life"
+    ],
+    "answer": 2,
+    "explanation_zh": "「六小齡童」演出過《西遊記》。",
+    "explanation_en": "'Liu Xiao Ling Tong' appeared in '西遊記'.",
+    "difficulty": 2
+  },
+  {
+    "id": 43,
+    "question_zh": "「豬八戒」係邊套劇嘅角色？",
+    "question_en": "Which show does '豬八戒' appear in?",
+    "options_zh": [
+      "流星花園",
+      "西遊記",
+      "完美伴侶",
+      "青雲志"
+    ],
+    "options_en": [
+      "Meteor Garden",
+      "Journey to the West",
+      "Perfect Couple",
+      "Noble Aspirations"
+    ],
+    "answer": 1,
+    "explanation_zh": "「豬八戒」係《西遊記》嘅角色。",
+    "explanation_en": "'Zhu Bajie' is from '西遊記'.",
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "question_zh": "《西遊記》「唔係」喺邊個平台播出？",
+    "question_en": "Which platform did '西遊記' NOT air on?",
+    "options_zh": [
+      "優酷",
+      "TBS",
+      "央視",
+      "Disney+"
+    ],
+    "options_en": [
+      "優酷",
+      "TBS",
+      "央視",
+      "Disney+"
+    ],
+    "answer": 2,
+    "explanation_zh": "《西遊記》係喺央視播出。",
+    "explanation_en": "'西遊記' aired on 央視.",
+    "difficulty": 2
   }
 ]
