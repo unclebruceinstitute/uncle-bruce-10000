@@ -231,69 +231,6 @@
     "difficulty": 1
   },
   {
-    "id": 12,
-    "question_zh": "邊套劇喺2021年首播？",
-    "question_en": "Which show first aired in 2021?",
-    "options_zh": [
-      "Vincenzo",
-      "黑暗榮耀",
-      "殭屍校園",
-      "Sky Castle"
-    ],
-    "options_en": [
-      "Vincenzo",
-      "The Glory",
-      "All of Us Are Dead",
-      "SKY Castle"
-    ],
-    "answer": 0,
-    "explanation_zh": "《Vincenzo》喺2021年首播。",
-    "explanation_en": "'Vincenzo' first aired in 2021.",
-    "difficulty": 2
-  },
-  {
-    "id": 13,
-    "question_zh": "邊套劇喺tvN播出？",
-    "question_en": "Which show aired on tvN?",
-    "options_zh": [
-      "鬼怪",
-      "來自星星的你",
-      "Vincenzo",
-      "愛的迫降"
-    ],
-    "options_en": [
-      "Guardian: The Lonely and Great God",
-      "My Love from the Star",
-      "Vincenzo",
-      "Crash Landing on You"
-    ],
-    "answer": 2,
-    "explanation_zh": "《Vincenzo》喺tvN播出。",
-    "explanation_en": "'Vincenzo' aired on tvN.",
-    "difficulty": 2
-  },
-  {
-    "id": 14,
-    "question_zh": "「宋仲基」有份演出邊套劇？",
-    "question_en": "Which show did '宋仲基' appear in?",
-    "options_zh": [
-      "魷魚遊戲",
-      "Signal",
-      "Vincenzo",
-      "來自星星的你"
-    ],
-    "options_en": [
-      "Squid Game",
-      "Signal",
-      "Vincenzo",
-      "My Love from the Star"
-    ],
-    "answer": 2,
-    "explanation_zh": "「宋仲基」演出過《Vincenzo》。",
-    "explanation_en": "'Song Joong-ki' appeared in 'Vincenzo'.",
-    "difficulty": 2
-  },
-  {
     "id": 15,
     "question_zh": "《Vincenzo》「唔係」喺邊個平台播出？",
     "question_en": "Which platform did 'Vincenzo' NOT air on?",
@@ -334,5 +271,26 @@
     "explanation_zh": "《Vincenzo》係2020年代首播。",
     "explanation_en": "'Vincenzo' first aired in the 2020s.",
     "difficulty": 1
+  },
+  {
+    "question_zh": "《Vincenzo》入面，宋仲基飾演嘅角色係咩職業？",
+    "question_en": "What is Song Joong-ki's character's profession in 'Vincenzo'?",
+    "options_zh": [
+      "醫生",
+      "律師",
+      "黑手黨顧問",
+      "警察"
+    ],
+    "options_en": [
+      "Doctor",
+      "Lawyer",
+      "Mafia consigliere",
+      "Police officer"
+    ],
+    "answer": 2,
+    "explanation_zh": "宋仲基飾演嘅Vincenzo係一名意大利黑手黨嘅顧問律師。",
+    "explanation_en": "Song Joong-ki's Vincenzo is a consigliere for the Italian mafia.",
+    "difficulty": 2,
+    "id": 17
   }
 ]

@@ -252,48 +252,6 @@
     "difficulty": 1
   },
   {
-    "id": 13,
-    "question_zh": "邊套劇喺2016年首播？",
-    "question_en": "Which show first aired in 2016?",
-    "options_zh": [
-      "Vincenzo",
-      "非常律師禹英禑",
-      "請回答1988",
-      "鬼怪"
-    ],
-    "options_en": [
-      "Vincenzo",
-      "Extraordinary Attorney Woo",
-      "Reply 1988",
-      "Guardian: The Lonely and Great God"
-    ],
-    "answer": 3,
-    "explanation_zh": "《鬼怪》喺2016年首播。",
-    "explanation_en": "'鬼怪' first aired in 2016.",
-    "difficulty": 2
-  },
-  {
-    "id": 14,
-    "question_zh": "邊套劇喺tvN播出？",
-    "question_en": "Which show aired on tvN?",
-    "options_zh": [
-      "鬼怪",
-      "異能",
-      "Signal",
-      "王國"
-    ],
-    "options_en": [
-      "Guardian: The Lonely and Great God",
-      "Moving",
-      "Signal",
-      "Kingdom"
-    ],
-    "answer": 0,
-    "explanation_zh": "《鬼怪》喺tvN播出。",
-    "explanation_en": "'鬼怪' aired on tvN.",
-    "difficulty": 2
-  },
-  {
     "id": 15,
     "question_zh": "「孔劉」有份演出邊套劇？",
     "question_en": "Which show did '孔劉' appear in?",
@@ -376,5 +334,47 @@
     "explanation_zh": "《鬼怪》係2010年代首播。",
     "explanation_en": "'鬼怪' first aired in the 2010s.",
     "difficulty": 1
+  },
+  {
+    "question_zh": "《孤單又燦爛的神—鬼怪》入面，鬼怪嘅新娘有咩特殊能力？",
+    "question_en": "What special ability does the Goblin's bride have in 'Guardian: The Lonely and Great God'?",
+    "options_zh": [
+      "可以見到鬼怪嘅劍",
+      "可以飛",
+      "可以讀心",
+      "可以預知未來"
+    ],
+    "options_en": [
+      "Can see the goblin's sword",
+      "Can fly",
+      "Can read minds",
+      "Can predict the future"
+    ],
+    "answer": 0,
+    "explanation_zh": "鬼怪嘅新娘可以見到插喺鬼怪身上嘅劍。",
+    "explanation_en": "The Goblin's bride can see the sword stuck in the Goblin's body.",
+    "difficulty": 2,
+    "id": 19
+  },
+  {
+    "question_zh": "《孤單又燦爛的神—鬼怪》入面，孔劉飾演嘅鬼怪已經活咗幾多年？",
+    "question_en": "How many years has Gong Yoo's Goblin character lived in 'Guardian'?",
+    "options_zh": [
+      "900年",
+      "1000年",
+      "500年",
+      "2000年"
+    ],
+    "options_en": [
+      "900 years",
+      "1000 years",
+      "500 years",
+      "2000 years"
+    ],
+    "answer": 0,
+    "explanation_zh": "鬼怪已經活咗大約900年。",
+    "explanation_en": "The Goblin has lived for approximately 900 years.",
+    "difficulty": 3,
+    "id": 20
   }
 ]

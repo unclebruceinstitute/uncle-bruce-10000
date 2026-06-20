@@ -252,48 +252,6 @@
     "difficulty": 1
   },
   {
-    "id": 13,
-    "question_zh": "邊套劇喺2016年首播？",
-    "question_en": "Which show first aired in 2016?",
-    "options_zh": [
-      "獵魔士",
-      "老友記",
-      "王冠",
-      "怪奇物語"
-    ],
-    "options_en": [
-      "The Witcher",
-      "Friends",
-      "The Crown",
-      "Stranger Things"
-    ],
-    "answer": 2,
-    "explanation_zh": "《王冠》喺2016年首播。",
-    "explanation_en": "'王冠' first aired in 2016.",
-    "difficulty": 2
-  },
-  {
-    "id": 14,
-    "question_zh": "邊套劇喺Netflix播出？",
-    "question_en": "Which show aired on Netflix?",
-    "options_zh": [
-      "獵魔士",
-      "老友記",
-      "王冠",
-      "龍之家族"
-    ],
-    "options_en": [
-      "The Witcher",
-      "Friends",
-      "The Crown",
-      "House of the Dragon"
-    ],
-    "answer": 2,
-    "explanation_zh": "《王冠》喺Netflix播出。",
-    "explanation_en": "'王冠' aired on Netflix.",
-    "difficulty": 2
-  },
-  {
     "id": 15,
     "question_zh": "「嘉莉·科根」有份演出邊套劇？",
     "question_en": "Which show did '嘉莉·科根' appear in?",
@@ -355,5 +313,26 @@
     "explanation_zh": "《王冠》係2010年代首播。",
     "explanation_en": "'王冠' first aired in the 2010s.",
     "difficulty": 1
+  },
+  {
+    "question_zh": "《The Crown》講述嘅係邊個皇室嘅故事？",
+    "question_en": "Which royal family does 'The Crown' depict?",
+    "options_zh": [
+      "英國皇室",
+      "日本皇室",
+      "泰國皇室",
+      "西班牙皇室"
+    ],
+    "options_en": [
+      "British Royal Family",
+      "Japanese Imperial Family",
+      "Thai Royal Family",
+      "Spanish Royal Family"
+    ],
+    "answer": 0,
+    "explanation_zh": "《The Crown》講述嘅係英國皇室嘅故事，主要圍繞伊麗莎白二世。",
+    "explanation_en": "'The Crown' depicts the British Royal Family, primarily around Queen Elizabeth II.",
+    "difficulty": 1,
+    "id": 18
   }
 ]

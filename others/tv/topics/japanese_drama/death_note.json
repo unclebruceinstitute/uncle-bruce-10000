@@ -294,27 +294,6 @@
     "difficulty": 1
   },
   {
-    "id": 15,
-    "question_zh": "邊套劇喺2015年首播？",
-    "question_en": "Which show first aired in 2015?",
-    "options_zh": [
-      "Trick",
-      "死亡筆記",
-      "家政婦三田",
-      "今際之國的闘士"
-    ],
-    "options_en": [
-      "Trick",
-      "Death Note",
-      "I'm Mita",
-      "Alice in Borderland"
-    ],
-    "answer": 1,
-    "explanation_zh": "《死亡筆記》喺2015年首播。",
-    "explanation_en": "'死亡筆記' first aired in 2015.",
-    "difficulty": 2
-  },
-  {
     "id": 16,
     "question_zh": "邊套劇喺日本電視台播出？",
     "question_en": "Which show aired on 日本電視台?",
@@ -418,5 +397,47 @@
     "explanation_zh": "《死亡筆記》係2010年代首播。",
     "explanation_en": "'死亡筆記' first aired in the 2010s.",
     "difficulty": 1
+  },
+  {
+    "question_zh": "《死亡筆記》入面，夜神月用死亡筆記殺第一個人係邊個？",
+    "question_en": "Who is the first person Light Yagami kills with the Death Note?",
+    "options_zh": [
+      "L",
+      "路克",
+      "一個劫匪",
+      "FBI探員"
+    ],
+    "options_en": [
+      "L",
+      "Ryuk",
+      "A criminal",
+      "FBI agent"
+    ],
+    "answer": 2,
+    "explanation_zh": "夜神月第一個用死亡筆記殺嘅係一個正在作案嘅劫匪。",
+    "explanation_en": "The first person Light kills with the Death Note is a criminal in the middle of a crime.",
+    "difficulty": 2,
+    "id": 21
+  },
+  {
+    "question_zh": "《死亡筆記》入面，死亡筆記嘅規則係寫咗名之後幾多秒會死？",
+    "question_en": "How many seconds after writing a name does the Death Note take effect?",
+    "options_zh": [
+      "40秒",
+      "60秒",
+      "30秒",
+      "10秒"
+    ],
+    "options_en": [
+      "40 seconds",
+      "60 seconds",
+      "30 seconds",
+      "10 seconds"
+    ],
+    "answer": 0,
+    "explanation_zh": "死亡筆記嘅規則係寫咗名之後40秒內會心臟麻痺死亡。",
+    "explanation_en": "The Death Note causes heart attack death within 40 seconds of writing the name.",
+    "difficulty": 3,
+    "id": 22
   }
 ]

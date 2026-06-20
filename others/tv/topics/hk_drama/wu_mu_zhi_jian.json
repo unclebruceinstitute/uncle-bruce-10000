@@ -147,27 +147,6 @@
     "difficulty": 3
   },
   {
-    "id": 8,
-    "question_zh": "以下邊套劇同《碧血劍》屬於同一類型（武俠）？",
-    "question_en": "Which show shares the genre (Wuxia) with '碧血劍'?",
-    "options_zh": [
-      "倚天屠龍記",
-      "飛虎外傳",
-      "武穆遺書",
-      "大唐雙龍傳"
-    ],
-    "options_en": [
-      "The Heaven Sword and Dragon Saber",
-      "Flying Tiger",
-      "Legend of Wumu",
-      "Twin of Brothers"
-    ],
-    "answer": 2,
-    "explanation_zh": "《武穆遺書》同《碧血劍》都係武俠類型。",
-    "explanation_en": "'武穆遺書' and 'Sword Stained with Royal Blood' are both Wuxia.",
-    "difficulty": 2
-  },
-  {
     "id": 9,
     "question_zh": "《武穆遺書》係邊個年代嘅作品？",
     "question_en": "Which decade was '武穆遺書' from?",
@@ -187,48 +166,6 @@
     "explanation_zh": "《武穆遺書》係1990年代嘅作品。",
     "explanation_en": "'武穆遺書' is from the 1990s.",
     "difficulty": 1
-  },
-  {
-    "id": 10,
-    "question_zh": "邊套劇喺1990年首播？",
-    "question_en": "Which show first aired in 1990?",
-    "options_zh": [
-      "天龍八部",
-      "連城訣",
-      "射鵰英雄傳",
-      "武穆遺書"
-    ],
-    "options_en": [
-      "Demi-Gods and Semi-Devils",
-      "A Deadly Secret",
-      "Legend of the Condor Heroes",
-      "Legend of Wumu"
-    ],
-    "answer": 3,
-    "explanation_zh": "《武穆遺書》喺1990年首播。",
-    "explanation_en": "'武穆遺書' first aired in 1990.",
-    "difficulty": 2
-  },
-  {
-    "id": 11,
-    "question_zh": "邊套劇喺TVB播出？",
-    "question_en": "Which show aired on TVB?",
-    "options_zh": [
-      "笑傲江湖",
-      "書劍恩仇錄",
-      "神鵰俠侶",
-      "武穆遺書"
-    ],
-    "options_en": [
-      "The Smiling Proud Wanderer",
-      "The Book and the Sword",
-      "Return of the Condor Heroes",
-      "Legend of Wumu"
-    ],
-    "answer": 3,
-    "explanation_zh": "《武穆遺書》喺TVB播出。",
-    "explanation_en": "'武穆遺書' aired on TVB.",
-    "difficulty": 2
   },
   {
     "id": 12,
@@ -271,5 +208,26 @@
     "explanation_zh": "《武穆遺書》係1990年代首播。",
     "explanation_en": "'武穆遺書' first aired in the 1990s.",
     "difficulty": 1
+  },
+  {
+    "question_zh": "《武穆之劍》入面嘅「武穆」係指邊位歷史人物？",
+    "question_en": "Which historical figure does 'Wu Mu' refer to in 'Sword of Wu Mu'?",
+    "options_zh": [
+      "岳飛",
+      "關羽",
+      "張飛",
+      "趙雲"
+    ],
+    "options_en": [
+      "Yue Fei",
+      "Guan Yu",
+      "Zhang Fei",
+      "Zhao Yun"
+    ],
+    "answer": 0,
+    "explanation_zh": "「武穆」係岳飛嘅諡號。",
+    "explanation_en": "'Wu Mu' is the posthumous name of Yue Fei.",
+    "difficulty": 2,
+    "id": 14
   }
 ]

@@ -231,48 +231,6 @@
     "difficulty": 1
   },
   {
-    "id": 12,
-    "question_zh": "邊套劇喺2016年首播？",
-    "question_en": "Which show first aired in 2016?",
-    "options_zh": [
-      "珠光寶氣",
-      "公公出宮",
-      "大丈夫",
-      "無間道"
-    ],
-    "options_en": [
-      "The Gem of Life",
-      "Short End of the Stick",
-      "Men in Charge",
-      "Infernal Affairs"
-    ],
-    "answer": 1,
-    "explanation_zh": "《公公出宮》喺2016年首播。",
-    "explanation_en": "'公公出宮' first aired in 2016.",
-    "difficulty": 2
-  },
-  {
-    "id": 13,
-    "question_zh": "邊套劇喺TVB播出？",
-    "question_en": "Which show aired on TVB?",
-    "options_zh": [
-      "烈火雄心",
-      "公公出宮",
-      "意外",
-      "無間道"
-    ],
-    "options_en": [
-      "Burning Flame",
-      "Short End of the Stick",
-      "The ICAC Investigators",
-      "Infernal Affairs"
-    ],
-    "answer": 1,
-    "explanation_zh": "《公公出宮》喺TVB播出。",
-    "explanation_en": "'公公出宮' aired on TVB.",
-    "difficulty": 2
-  },
-  {
     "id": 14,
     "question_zh": "「黎耀祥」有份演出邊套劇？",
     "question_en": "Which show did '黎耀祥' appear in?",
@@ -334,5 +292,47 @@
     "explanation_zh": "《公公出宮》係2010年代首播。",
     "explanation_en": "'公公出宮' first aired in the 2010s.",
     "difficulty": 1
+  },
+  {
+    "question_zh": "《公公出宮》嘅故事背景係咩年代？",
+    "question_en": "What era is 'Short End of the Stick' set in?",
+    "options_zh": [
+      "清朝",
+      "民國初年",
+      "現代",
+      "明朝"
+    ],
+    "options_en": [
+      "Qing Dynasty",
+      "Early Republic",
+      "Modern",
+      "Ming Dynasty"
+    ],
+    "answer": 1,
+    "explanation_zh": "《公公出宮》嘅故事背景設定喺民國初年。",
+    "explanation_en": "'Short End of the Stick' is set in the early Republic of China era.",
+    "difficulty": 2,
+    "id": 17
+  },
+  {
+    "question_zh": "《公公出宮》入面，「陳豪」飾演嘅角色係咩身份？",
+    "question_en": "What is Moses Chan's character identity in 'Short End of the Stick'?",
+    "options_zh": [
+      "太監",
+      "軍閥",
+      "商人",
+      "醫生"
+    ],
+    "options_en": [
+      "Eunuch",
+      "Warlord",
+      "Merchant",
+      "Doctor"
+    ],
+    "answer": 0,
+    "explanation_zh": "陳豪喺《公公出宮》入面飾演一名太監。",
+    "explanation_en": "Moses Chan plays a eunuch in 'Short End of the Stick'.",
+    "difficulty": 2,
+    "id": 18
   }
 ]

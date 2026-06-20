@@ -231,27 +231,6 @@
     "difficulty": 2
   },
   {
-    "id": 12,
-    "question_zh": "邊套劇喺TVB播出？",
-    "question_en": "Which show aired on TVB?",
-    "options_zh": [
-      "大唐雙龍傳",
-      "大鬧廣昌隆",
-      "幕後大老爺",
-      "烈火雄心"
-    ],
-    "options_en": [
-      "Twin of Brothers",
-      "A Ghostly Affair",
-      "My Unfair Lady",
-      "Burning Flame"
-    ],
-    "answer": 1,
-    "explanation_zh": "《大鬧廣昌隆》喺TVB播出。",
-    "explanation_en": "'大鬧廣昌隆' aired on TVB.",
-    "difficulty": 2
-  },
-  {
     "id": 13,
     "question_zh": "「周海媚」有份演出邊套劇？",
     "question_en": "Which show did '周海媚' appear in?",
@@ -313,5 +292,47 @@
     "explanation_zh": "《大鬧廣昌隆》係1990年代首播。",
     "explanation_en": "'大鬧廣昌隆' first aired in the 1990s.",
     "difficulty": 1
+  },
+  {
+    "question_zh": "《大鬧廣場》入面，邊個演員飾演主角「阿旺」？",
+    "question_en": "Which actor plays 'Ah Wong' in 'Square Off'?",
+    "options_zh": [
+      "郭晉安",
+      "陳豪",
+      "馬國明",
+      "黃宗澤"
+    ],
+    "options_en": [
+      "Roger Kwok",
+      "Moses Chan",
+      "Kenneth Ma",
+      "Bosco Wong"
+    ],
+    "answer": 0,
+    "explanation_zh": "郭晉安飾演「阿旺」，係《大鬧廣場》嘅主角。",
+    "explanation_en": "Roger Kwok plays 'Ah Wong', the lead character in 'Square Off'.",
+    "difficulty": 2,
+    "id": 16
+  },
+  {
+    "question_zh": "《大鬧廣場》係咩類型嘅劇集？",
+    "question_en": "What genre is 'Square Off'?",
+    "options_zh": [
+      "懸疑",
+      "喜劇",
+      "動作",
+      "恐怖"
+    ],
+    "options_en": [
+      "Mystery",
+      "Comedy",
+      "Action",
+      "Horror"
+    ],
+    "answer": 1,
+    "explanation_zh": "《大鬧廣場》係一部喜劇。",
+    "explanation_en": "'Square Off' is a comedy drama.",
+    "difficulty": 1,
+    "id": 17
   }
 ]

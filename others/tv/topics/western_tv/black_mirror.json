@@ -168,27 +168,6 @@
     "difficulty": 1
   },
   {
-    "id": 9,
-    "question_zh": "邊套劇喺2011年首播？",
-    "question_en": "Which show first aired in 2011?",
-    "options_zh": [
-      "西部世界",
-      "最後生還者",
-      "辦公室",
-      "黑鏡"
-    ],
-    "options_en": [
-      "Westworld",
-      "The Last of Us",
-      "The Office (US)",
-      "Black Mirror"
-    ],
-    "answer": 3,
-    "explanation_zh": "《黑鏡》喺2011年首播。",
-    "explanation_en": "'黑鏡' first aired in 2011.",
-    "difficulty": 2
-  },
-  {
     "id": 10,
     "question_zh": "邊套劇喺Netflix/Channel 4播出？",
     "question_en": "Which show aired on Netflix/Channel 4?",
@@ -250,5 +229,26 @@
     "explanation_zh": "《黑鏡》係2010年代首播。",
     "explanation_en": "'黑鏡' first aired in the 2010s.",
     "difficulty": 1
+  },
+  {
+    "question_zh": "《黑鏡》係咩類型嘅劇集？",
+    "question_en": "What genre is 'Black Mirror'?",
+    "options_zh": [
+      "科幻懸疑",
+      "愛情喜劇",
+      "歷史劇",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Sci-fi thriller",
+      "Romantic comedy",
+      "Historical drama",
+      "Documentary"
+    ],
+    "answer": 0,
+    "explanation_zh": "《黑鏡》係一部科幻懸疑劇集，探討科技對社會嘅影響。",
+    "explanation_en": "'Black Mirror' is a sci-fi thriller exploring technology's impact on society.",
+    "difficulty": 1,
+    "id": 13
   }
 ]

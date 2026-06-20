@@ -294,48 +294,6 @@
     "difficulty": 1
   },
   {
-    "id": 15,
-    "question_zh": "邊套劇喺2005年首播？",
-    "question_en": "Which show first aired in 2005?",
-    "options_zh": [
-      "新福爾摩斯",
-      "辦公室",
-      "星期三",
-      "權力的遊戲"
-    ],
-    "options_en": [
-      "Sherlock",
-      "The Office (US)",
-      "Wednesday",
-      "Game of Thrones"
-    ],
-    "answer": 1,
-    "explanation_zh": "《辦公室》喺2005年首播。",
-    "explanation_en": "'辦公室' first aired in 2005.",
-    "difficulty": 2
-  },
-  {
-    "id": 16,
-    "question_zh": "邊套劇喺NBC播出？",
-    "question_en": "Which show aired on NBC?",
-    "options_zh": [
-      "辦公室",
-      "新福爾摩斯",
-      "獵魔士",
-      "宋飛傳"
-    ],
-    "options_en": [
-      "The Office (US)",
-      "Sherlock",
-      "The Witcher",
-      "Seinfeld"
-    ],
-    "answer": 0,
-    "explanation_zh": "《辦公室》喺NBC播出。",
-    "explanation_en": "'辦公室' aired on NBC.",
-    "difficulty": 2
-  },
-  {
     "id": 17,
     "question_zh": "「史提夫·卡爾」有份演出邊套劇？",
     "question_en": "Which show did '史提夫·卡爾' appear in?",
@@ -397,5 +355,26 @@
     "explanation_zh": "《辦公室》係2000年代首播。",
     "explanation_en": "'辦公室' first aired in the 2000s.",
     "difficulty": 1
+  },
+  {
+    "question_zh": "《The Office》入面，Michael Scott喺Dunder Mifflin擔任咩職位？",
+    "question_en": "What position does Michael Scott hold at Dunder Mifflin in 'The Office'?",
+    "options_zh": [
+      "區域經理",
+      "銷售員",
+      "秘書",
+      "會計師"
+    ],
+    "options_en": [
+      "Regional Manager",
+      "Salesman",
+      "Secretary",
+      "Accountant"
+    ],
+    "answer": 0,
+    "explanation_zh": "Michael Scott係Dunder Mifflin嘅區域經理。",
+    "explanation_en": "Michael Scott is the Regional Manager at Dunder Mifflin.",
+    "difficulty": 1,
+    "id": 20
   }
 ]

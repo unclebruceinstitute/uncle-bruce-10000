@@ -147,27 +147,6 @@
     "difficulty": 1
   },
   {
-    "id": 8,
-    "question_zh": "邊套劇喺2016年首播？",
-    "question_en": "Which show first aired in 2016?",
-    "options_zh": [
-      "快樂大本營",
-      "Produce 101",
-      "歌手",
-      "中國有嘻哈"
-    ],
-    "options_en": [
-      "Happy Camp",
-      "Produce 101",
-      "Singer",
-      "The Rap of China"
-    ],
-    "answer": 1,
-    "explanation_zh": "《Produce 101》喺2016年首播。",
-    "explanation_en": "'Produce 101' first aired in 2016.",
-    "difficulty": 2
-  },
-  {
     "id": 9,
     "question_zh": "邊套劇喺Mnet播出？",
     "question_en": "Which show aired on Mnet?",
@@ -229,5 +208,26 @@
     "explanation_zh": "《Produce 101》係2010年代首播。",
     "explanation_en": "'Produce 101' first aired in the 2010s.",
     "difficulty": 1
+  },
+  {
+    "question_zh": "《Produce 101》喺邊個國家嘅電視台播出？",
+    "question_en": "Which country's TV station airs 'Produce 101'?",
+    "options_zh": [
+      "日本",
+      "韓國",
+      "中國",
+      "美國"
+    ],
+    "options_en": [
+      "Japan",
+      "South Korea",
+      "China",
+      "USA"
+    ],
+    "answer": 1,
+    "explanation_zh": "《Produce 101》係韓國Mnet電視台嘅節目。",
+    "explanation_en": "'Produce 101' is from South Korea's Mnet channel.",
+    "difficulty": 1,
+    "id": 13
   }
 ]
