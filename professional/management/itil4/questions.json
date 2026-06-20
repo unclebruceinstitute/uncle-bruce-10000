@@ -1,647 +1,5317 @@
 [
   {
-    "id": 1,
     "topic_zh": "服務價值系統",
     "topic_en": "Service Value System",
-    "subtopic_zh": "ITIL原則應用",
-    "subtopic_en": "ITIL原則應用",
-    "question_zh": "喺ITIL 4考試中，「ITIL原則應用」屬於以下邊個範疇？",
-    "question_en": "喺ITIL 4考試中，「ITIL原則應用」屬於以下邊個範疇？",
+    "subtopic_zh": "SVS概述",
+    "subtopic_en": "SVS Overview",
+    "question_zh": "ITIL 4 服務價值系統（SVS）描述咗組織點樣創建價值，以下邊項唔係SVS嘅核心組件？",
+    "question_en": "ITIL 4 Service Value System (SVS) describes how organizations create value. Which is NOT a core component of SVS?",
     "options_zh": [
-      "服務價值系統",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "服務台",
+      "指導原則",
+      "治理",
+      "服務價值鏈"
     ],
     "options_en": [
-      "服務價值系統",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "Service desk",
+      "Guiding principles",
+      "Governance",
+      "Service value chain"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「服務價值系統」。",
-    "explanation_en": "The correct answer is '服務價值系統'.",
-    "difficulty": 2
+    "explanation_zh": "SVS核心組件包括指導原則、治理、服務價值鏈、持續改進同實踐。服務台係一個實踐，唔係SVS核心組件。",
+    "explanation_en": "SVS core components include guiding principles, governance, service value chain, continual improvement, and practices. Service desk is a practice, not an SVS core component.",
+    "difficulty": 2,
+    "id": 1
   },
   {
-    "id": 2,
-    "topic_zh": "服務管理實踐",
-    "topic_en": "Service Management Practices",
-    "subtopic_zh": "可用性管理",
-    "subtopic_en": "可用性管理",
-    "question_zh": "喺ITIL 4考試中，「可用性管理」屬於以下邊個範疇？",
-    "question_en": "喺ITIL 4考試中，「可用性管理」屬於以下邊個範疇？",
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "價值創造",
+    "subtopic_en": "Value Creation",
+    "question_zh": "喺ITIL 4中，價值係點樣定義嘅？",
+    "question_en": "In ITIL 4, how is value defined?",
     "options_zh": [
-      "服務管理實踐",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "利益相關者嘅感知收益減去成本",
+      "產品嘅銷售價格",
+      "服務嘅總成本",
+      "客戶滿意度評分"
     ],
     "options_en": [
-      "服務管理實踐",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "Perceived benefits minus costs to stakeholders",
+      "Selling price of a product",
+      "Total cost of a service",
+      "Customer satisfaction score"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「服務管理實踐」。",
-    "explanation_en": "The correct answer is '服務管理實踐'.",
-    "difficulty": 2
+    "explanation_zh": "ITIL 4定義價值為「利益相關者嘅感知收益、有用性同重要性減去成本」。",
+    "explanation_en": "ITIL 4 defines value as 'the perceived benefits, usefulness, and importance of something to stakeholders minus costs'.",
+    "difficulty": 2,
+    "id": 2
   },
   {
-    "id": 3,
-    "topic_zh": "技術管理實踐",
-    "topic_en": "Technical Practices",
-    "subtopic_zh": "知識管理",
-    "subtopic_en": "知識管理",
-    "question_zh": "喺ITIL 4考試中，「知識管理」屬於以下邊個範疇？",
-    "question_en": "喺ITIL 4考試中，「知識管理」屬於以下邊個範疇？",
+    "topic_zh": "服務價值鏈",
+    "topic_en": "Service Value Chain",
+    "subtopic_zh": "價值鏈活動",
+    "subtopic_en": "Value Chain Activities",
+    "question_zh": "服務價值鏈中，邊個活動負責確保服務符合利益相關者嘅期望？",
+    "question_en": "In the Service Value Chain, which activity ensures services meet stakeholder expectations?",
     "options_zh": [
-      "技術管理實踐",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "設計與轉換",
+      "計劃",
+      "互動",
+      "改進"
     ],
     "options_en": [
-      "技術管理實踐",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "Design & Transition",
+      "Plan",
+      "Engage",
+      "Improve"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「技術管理實踐」。",
-    "explanation_en": "The correct answer is '技術管理實踐'.",
-    "difficulty": 1
+    "explanation_zh": "設計與轉換活動確保產品同服務持續符合利益相關者嘅期望。",
+    "explanation_en": "Design & Transition activity ensures that products and services continually meet stakeholder expectations.",
+    "difficulty": 2,
+    "id": 3
   },
   {
-    "id": 4,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "Service Value Chain",
+    "subtopic_zh": "需求捕獲",
+    "subtopic_en": "Demand Capture",
+    "question_zh": "邊個價值鏈活動負責捕獲同記錄需求？",
+    "question_en": "Which value chain activity captures and records demand?",
+    "options_zh": [
+      "互動",
+      "計劃",
+      "改進",
+      "獲取/建造"
+    ],
+    "options_en": [
+      "Engage",
+      "Plan",
+      "Improve",
+      "Obtain/Build"
+    ],
+    "answer": 0,
+    "explanation_zh": "互動活動捕獲需求同機會，並確保透明度同良好嘅利益相關者關係。",
+    "explanation_en": "Engage activity captures demand and opportunities, and ensures transparency and good stakeholder relationships.",
+    "difficulty": 2,
+    "id": 4
+  },
+  {
+    "topic_zh": "指導原則",
+    "topic_en": "Guiding Principles",
+    "subtopic_zh": "原則應用",
+    "subtopic_en": "Principle Application",
+    "question_zh": "邊個指導原則建議應該盡量利用現有服務同資源？",
+    "question_en": "Which guiding principle suggests utilizing existing services and resources as much as possible?",
+    "options_zh": "從你所處嘅地方開始,專注價值,保持簡單實用,協作促進價值提升",
+    "options_en": "Start where you are,Focus on value,Keep it simple and practical,Collaborate for value",
+    "answer": 0,
+    "explanation_zh": "「從你所處嘅地方開始」原則建議考慮現有服務同資源，避免不必要嘅重複。",
+    "explanation_en": "'Start where you are' principle suggests considering existing services and resources, avoiding unnecessary duplication.",
+    "difficulty": 2,
+    "id": 5
+  },
+  {
+    "topic_zh": "指導原則",
+    "topic_en": "Guiding Principles",
+    "subtopic_zh": "原則衝突",
+    "subtopic_en": "Principle Conflicts",
+    "question_zh": "當「專注價值」同「保持簡單實用」兩個原則出現衝突時，應該點處理？",
+    "question_en": "When 'Focus on value' and 'Keep it simple and practical' conflict, how should it be handled?",
+    "options_zh": [
+      "根據具體情況權衡",
+      "永遠優先專注價值",
+      "永遠優先保持簡單",
+      "忽略其中一個原則"
+    ],
+    "options_en": [
+      "Balance based on specific circumstances",
+      "Always prioritize focus on value",
+      "Always prioritize keep it simple",
+      "Ignore one principle"
+    ],
+    "answer": 0,
+    "explanation_zh": "指導原則之間可能出現衝突，需要根據具體情況同組織目標進行權衡。",
+    "explanation_en": "Guiding principles may conflict with each other, requiring balance based on specific circumstances and organizational goals.",
+    "difficulty": 3,
+    "id": 6
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "事件管理",
+    "subtopic_en": "Incident Management",
+    "question_zh": "事件管理實踐嘅主要目標係咩？",
+    "question_en": "What is the primary goal of the Incident Management practice?",
+    "options_zh": [
+      "盡快恢復正常服務運作",
+      "預防事件發生",
+      "分析事件根本原因",
+      "管理問題記錄"
+    ],
+    "options_en": [
+      "Restore normal service operation as quickly as possible",
+      "Prevent incidents from occurring",
+      "Analyze root causes of incidents",
+      "Manage problem records"
+    ],
+    "answer": 0,
+    "explanation_zh": "事件管理嘅主要目標係盡快恢復正常服務運作，盡量減少對業務嘅影響。",
+    "explanation_en": "The primary goal of Incident Management is to restore normal service operation as quickly as possible, minimizing impact on the business.",
+    "difficulty": 1,
+    "id": 7
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "問題管理",
+    "subtopic_en": "Problem Management",
+    "question_zh": "問題管理實踐嘅主要目標係咩？",
+    "question_en": "What is the primary goal of the Problem Management practice?",
+    "options_zh": [
+      "減少事件發生嘅可能性同影響",
+      "處理所有客戶投訴",
+      "管理服務台運作",
+      "執行變更"
+    ],
+    "options_en": [
+      "Reduce the likelihood and impact of incidents",
+      "Handle all customer complaints",
+      "Manage service desk operations",
+      "Execute changes"
+    ],
+    "answer": 0,
+    "explanation_zh": "問題管理嘅主要目標係減少事件嘅可能性同影響，通過識別同解決根本原因。",
+    "explanation_en": "Problem Management's primary goal is to reduce the likelihood and impact of incidents by identifying and resolving root causes.",
+    "difficulty": 2,
+    "id": 8
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "變更管理",
+    "subtopic_en": "Change Management",
+    "question_zh": "邊類變更需要正式嘅變更諮詢委員會（CAB）審批？",
+    "question_en": "Which type of changes require formal Change Advisory Board (CAB) approval?",
+    "options_zh": [
+      "重大變更",
+      "標準變更",
+      "緊急變更",
+      "所有變更"
+    ],
+    "options_en": [
+      "Major changes",
+      "Standard changes",
+      "Emergency changes",
+      "All changes"
+    ],
+    "answer": 0,
+    "explanation_zh": "重大變更需要CAB審批。標準變更已預先授權，緊急變更由緊急變更委員會處理。",
+    "explanation_en": "Major changes require CAB approval. Standard changes are pre-authorized, and emergency changes are handled by the Emergency Change Committee.",
+    "difficulty": 2,
+    "id": 9
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "服務台",
+    "subtopic_en": "Service Desk",
+    "question_zh": "服務台實踐嘅主要目標係咩？",
+    "question_en": "What is the primary goal of the Service Desk practice?",
+    "options_zh": [
+      "捕捉需求以減低問題發生",
+      "修復所有技術問題",
+      "管理服務器",
+      "執行審計"
+    ],
+    "options_en": [
+      "Capture demand for incident resolution",
+      "Fix all technical problems",
+      "Manage servers",
+      "Perform audits"
+    ],
+    "answer": 0,
+    "explanation_zh": "服務台嘅主要目標係捕捉需求以減低問題發生，作為用戶同IT之間嘅單一聯絡點。",
+    "explanation_en": "Service Desk's primary goal is to capture demand for incident resolution, serving as the single point of contact between users and IT.",
+    "difficulty": 1,
+    "id": 10
+  },
+  {
+    "topic_zh": "治理",
+    "topic_en": "Governance",
+    "subtopic_zh": "治理角色",
+    "subtopic_en": "Governance Roles",
+    "question_zh": "喺ITIL 4中，邊個負責確保組織嘅治理框架有效運作？",
+    "question_en": "In ITIL 4, who is responsible for ensuring the organization's governance framework operates effectively?",
+    "options_zh": [
+      "董事會/管理層",
+      "服務台經理",
+      "技術支援團隊",
+      "客戶"
+    ],
+    "options_en": [
+      "Board/Management",
+      "Service desk manager",
+      "Technical support team",
+      "Customers"
+    ],
+    "answer": 0,
+    "explanation_zh": "董事會或最高管理層負責確保治理框架有效運作，指導組織活動。",
+    "explanation_en": "The board or top management is responsible for ensuring the governance framework operates effectively, directing organizational activities.",
+    "difficulty": 2,
+    "id": 11
+  },
+  {
     "topic_zh": "持續改進",
     "topic_en": "Continual Improvement",
-    "subtopic_zh": "改進計劃",
-    "subtopic_en": "改進計劃",
-    "question_zh": "喺ITIL 4考試中，「改進計劃」屬於以下邊個範疇？",
-    "question_en": "喺ITIL 4考試中，「改進計劃」屬於以下邊個範疇？",
+    "subtopic_zh": "改進模型",
+    "subtopic_en": "Improvement Model",
+    "question_zh": "持續改進模型嘅第一步係咩？",
+    "question_en": "What is the first step of the Continual Improvement Model?",
     "options_zh": [
-      "持續改進",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "願景係咩",
+      "現在喺邊",
+      "目標喺邊",
+      "點樣去到"
     ],
     "options_en": [
-      "持續改進",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "What is the vision",
+      "Where are we now",
+      "Where do we want to be",
+      "How do we get there"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「持續改進」。",
-    "explanation_en": "The correct answer is '持續改進'.",
-    "difficulty": 3
+    "explanation_zh": "持續改進模型第一步係「願景係咩」，理解組織嘅戰略方向。",
+    "explanation_en": "The first step of the Continual Improvement Model is 'What is the vision', understanding the organization's strategic direction.",
+    "difficulty": 1,
+    "id": 12
   },
   {
-    "id": 5,
-    "topic_zh": "敏捷與精益",
-    "topic_en": "Agile & Lean",
-    "subtopic_zh": "反饋循環",
-    "subtopic_en": "反饋循環",
-    "question_zh": "喺ITIL 4考試中，「反饋循環」屬於以下邊個範疇？",
-    "question_en": "喺ITIL 4考試中，「反饋循環」屬於以下邊個範疇？",
+    "topic_zh": "持續改進",
+    "topic_en": "Continual Improvement",
+    "subtopic_zh": "改進登記冊",
+    "subtopic_en": "Improvement Register",
+    "question_zh": "改進登記冊嘅主要用途係咩？",
+    "question_en": "What is the primary purpose of the Improvement Register?",
     "options_zh": [
-      "敏捷與精益",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "記錄所有改進建議同進度",
+      "記錄所有事件",
+      "記錄所有問題",
+      "記錄所有變更"
     ],
     "options_en": [
-      "敏捷與精益",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "Record all improvement suggestions and progress",
+      "Record all incidents",
+      "Record all problems",
+      "Record all changes"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「敏捷與精益」。",
-    "explanation_en": "The correct answer is '敏捷與精益'.",
-    "difficulty": 3
-  },
-  {
-    "id": 6,
-    "topic_zh": "客戶體驗",
-    "topic_en": "Customer Experience",
-    "subtopic_zh": "全渠道服務",
-    "subtopic_en": "全渠道服務",
-    "question_zh": "喺ITIL 4考試中，「全渠道服務」屬於以下邊個範疇？",
-    "question_en": "喺ITIL 4考試中，「全渠道服務」屬於以下邊個範疇？",
-    "options_zh": [
-      "客戶體驗",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
-    ],
-    "options_en": [
-      "客戶體驗",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「客戶體驗」。",
-    "explanation_en": "The correct answer is '客戶體驗'.",
-    "difficulty": 2
-  },
-  {
-    "id": 7,
-    "topic_zh": "數碼化轉型",
-    "topic_en": "Digital Transformation",
-    "subtopic_zh": "技術採納",
-    "subtopic_en": "技術採納",
-    "question_zh": "喺ITIL 4考試中，「技術採納」屬於以下邊個範疇？",
-    "question_en": "喺ITIL 4考試中，「技術採納」屬於以下邊個範疇？",
-    "options_zh": [
-      "數碼化轉型",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
-    ],
-    "options_en": [
-      "數碼化轉型",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「數碼化轉型」。",
-    "explanation_en": "The correct answer is '數碼化轉型'.",
-    "difficulty": 3
-  },
-  {
-    "id": 8,
-    "topic_zh": "風險與合規",
-    "topic_en": "Risk & Compliance",
-    "subtopic_zh": "合同管理",
-    "subtopic_en": "合同管理",
-    "question_zh": "喺ITIL 4考試中，「合同管理」屬於以下邊個範疇？",
-    "question_en": "喺ITIL 4考試中，「合同管理」屬於以下邊個範疇？",
-    "options_zh": [
-      "風險與合規",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
-    ],
-    "options_en": [
-      "風險與合規",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「風險與合規」。",
-    "explanation_en": "The correct answer is '風險與合規'.",
-    "difficulty": 2
-  },
-  {
-    "id": 9,
-    "topic_zh": "組織與人員",
-    "topic_en": "Organization & People",
-    "subtopic_zh": "員工敬業度",
-    "subtopic_en": "員工敬業度",
-    "question_zh": "喺ITIL 4考試中，「員工敬業度」屬於以下邊個範疇？",
-    "question_en": "喺ITIL 4考試中，「員工敬業度」屬於以下邊個範疇？",
-    "options_zh": [
-      "組織與人員",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
-    ],
-    "options_en": [
-      "組織與人員",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「組織與人員」。",
-    "explanation_en": "The correct answer is '組織與人員'.",
-    "difficulty": 2
-  },
-  {
-    "id": 10,
-    "question_zh": "ITIL 4 入面，服務價值鏈有幾多個活動？",
-    "question_en": "How many activities are in the ITIL 4 Service Value Chain?",
-    "options_zh": [
-      "作為用戶嘅單一聯繫點",
-      "設定同監控服務水平",
-      "確保 IT 資源滿足需求",
-      "6個"
-    ],
-    "options_en": [
-      "Single point of contact for users",
-      "Set and monitor service levels",
-      "Ensure IT resources meet demand",
-      "6"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「6個」。",
-    "explanation_en": "The correct answer is '6'.",
-    "difficulty": 2
-  },
-  {
-    "id": 11,
-    "question_zh": "ITIL 4 嘅四大維度包括咩？",
-    "question_en": "What are the four dimensions of ITIL 4?",
-    "options_zh": [
-      "組織同人、資訊同科技、合作夥伴同供應商、價值流同流程",
-      "控制變更風險",
-      "34個",
-      "保護組織嘅資訊資產"
-    ],
-    "options_en": [
-      "Organizations & People, Information & Technology, Partners & Suppliers, Value Streams & Processes",
-      "Control change risk",
-      "34",
-      "Protect the organization's information assets"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「組織同人、資訊同科技、合作夥伴同供應商、價值流同流程」。",
-    "explanation_en": "The correct answer is 'Organizations & People, Information & Technology, Partners & Suppliers, Value Streams & Processes'.",
-    "difficulty": 2
-  },
-  {
-    "id": 12,
-    "question_zh": "ITIL 4 入面，「持續改進」屬於邊個實踐？",
-    "question_en": "In ITIL 4, which practice does 'Continual Improvement' belong to?",
-    "options_zh": [
-      "確保 IT 資源滿足需求",
-      "作為用戶嘅單一聯繫點",
-      "持續改進",
-      "34個"
-    ],
-    "options_en": [
-      "Ensure IT resources meet demand",
-      "Single point of contact for users",
-      "Continual Improvement",
-      "34"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「持續改進」。",
-    "explanation_en": "The correct answer is 'Continual Improvement'.",
-    "difficulty": 1
-  },
-  {
-    "id": 13,
-    "question_zh": "ITIL 4 入面，SLA 代表咩？",
-    "question_en": "What does SLA stand for in ITIL 4?",
-    "options_zh": [
-      "控制變更風險",
-      "服務水平協議",
-      "作為用戶嘅單一聯繫點",
-      "設定同監控服務水平"
-    ],
-    "options_en": [
-      "Control change risk",
-      "Service Level Agreement",
-      "Single point of contact for users",
-      "Set and monitor service levels"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「服務水平協議」。",
-    "explanation_en": "The correct answer is 'Service Level Agreement'.",
-    "difficulty": 1
+    "explanation_zh": "改進登記冊記錄所有改進建議、優先級、負責人同進度，確保改進活動得到管理。",
+    "explanation_en": "The Improvement Register records all improvement suggestions, priorities, owners, and progress, ensuring improvement activities are managed.",
+    "difficulty": 2,
+    "id": 13
   },
   {
     "id": 14,
-    "question_zh": "ITIL 4 入面，事件管理嘅目標係咩？",
-    "question_en": "What is the goal of Incident Management in ITIL 4?",
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，服務價值鏈通常會點樣考核？",
+    "question_en": "ITIL 4考試中，服務價值鏈通常會點樣考核？",
     "options_zh": [
-      "所有可用服務嘅清單",
-      "持續改進",
-      "盡快恢復服務",
-      "服務水平協議"
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
     ],
     "options_en": [
-      "A list of all available services",
-      "Continual Improvement",
-      "Restore service as quickly as possible",
-      "Service Level Agreement"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「盡快恢復服務」。",
-    "explanation_en": "The correct answer is 'Restore service as quickly as possible'.",
-    "difficulty": 2
-  },
-  {
-    "id": 15,
-    "question_zh": "ITIL 4 入面，問題管理嘅目標係咩？",
-    "question_en": "What is the goal of Problem Management in ITIL 4?",
-    "options_zh": [
-      "盡快恢復服務",
-      "設定同監控服務水平",
-      "所有可用服務嘅清單",
-      "減少事件嘅發生"
-    ],
-    "options_en": [
-      "Restore service as quickly as possible",
-      "Set and monitor service levels",
-      "A list of all available services",
-      "Reduce the occurrence of incidents"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「減少事件嘅發生」。",
-    "explanation_en": "The correct answer is 'Reduce the occurrence of incidents'.",
-    "difficulty": 2
-  },
-  {
-    "id": 16,
-    "question_zh": "ITIL 4 入面，變更管理嘅目標係咩？",
-    "question_en": "What is the goal of Change Management in ITIL 4?",
-    "options_zh": [
-      "處理標準化嘅服務請求",
-      "負責",
-      "減少事件嘅發生",
-      "控制變更風險"
-    ],
-    "options_en": [
-      "Handle standardized service requests",
-      "Responsible",
-      "Reduce the occurrence of incidents",
-      "Control change risk"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「控制變更風險」。",
-    "explanation_en": "The correct answer is 'Control change risk'.",
-    "difficulty": 2
-  },
-  {
-    "id": 17,
-    "question_zh": "ITIL 4 入面，服務目錄係咩？",
-    "question_en": "What is a Service Catalogue in ITIL 4?",
-    "options_zh": [
-      "所有可用服務嘅清單",
-      "持續改進",
-      "確保 IT 資源滿足需求",
-      "將新版本移至測試或生產環境"
-    ],
-    "options_en": [
-      "A list of all available services",
-      "Continual Improvement",
-      "Ensure IT resources meet demand",
-      "Move new releases to test or live environments"
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「所有可用服務嘅清單」。",
-    "explanation_en": "The correct answer is 'A list of all available services'.",
-    "difficulty": 2
-  },
-  {
-    "id": 18,
-    "question_zh": "ITIL 4 入面，CMDB 代表咩？",
-    "question_en": "What does CMDB stand for in ITIL 4?",
-    "options_zh": [
-      "確保服務滿足可用性需求",
-      "減少事件嘅發生",
-      "控制變更風險",
-      "配置管理數據庫"
-    ],
-    "options_en": [
-      "Ensure services meet availability requirements",
-      "Reduce the occurrence of incidents",
-      "Control change risk",
-      "Configuration Management Database"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「配置管理數據庫」。",
-    "explanation_en": "The correct answer is 'Configuration Management Database'.",
-    "difficulty": 2
-  },
-  {
-    "id": 19,
-    "question_zh": "ITIL 4 入面，知識管理嘅目標係咩？",
-    "question_en": "What is the goal of Knowledge Management in ITIL 4?",
-    "options_zh": [
-      "減少事件嘅發生",
-      "分享同重用知識",
-      "確保服務滿足可用性需求",
-      "服務水平協議"
-    ],
-    "options_en": [
-      "Reduce the occurrence of incidents",
-      "Share and reuse knowledge",
-      "Ensure services meet availability requirements",
-      "Service Level Agreement"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「分享同重用知識」。",
-    "explanation_en": "The correct answer is 'Share and reuse knowledge'.",
-    "difficulty": 2
-  },
-  {
-    "id": 20,
-    "question_zh": "ITIL 4 嘅服務管理實踐有幾多個？",
-    "question_en": "How many management practices are in ITIL 4?",
-    "options_zh": [
-      "組織同人、資訊同科技、合作夥伴同供應商、價值流同流程",
-      "確保服務滿足可用性需求",
-      "34個",
-      "設定同監控服務水平"
-    ],
-    "options_en": [
-      "Organizations & People, Information & Technology, Partners & Suppliers, Value Streams & Processes",
-      "Ensure services meet availability requirements",
-      "34",
-      "Set and monitor service levels"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「34個」。",
-    "explanation_en": "The correct answer is '34'.",
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
     "difficulty": 3
   },
   {
-    "id": 21,
-    "question_zh": "ITIL 4 入面，RACI 矩陣入面嘅 R 代表咩？",
-    "question_en": "What does 'R' stand for in the RACI matrix in ITIL 4?",
+    "id": 15,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，指導原則嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，指導原則嘅重要性體現喺邊度？",
     "options_zh": [
-      "所有可用服務嘅清單",
-      "控制變更風險",
-      "分享同重用知識",
-      "負責"
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
     ],
     "options_en": [
-      "A list of all available services",
-      "Control change risk",
-      "Share and reuse knowledge",
-      "Responsible"
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「負責」。",
-    "explanation_en": "The correct answer is 'Responsible'.",
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 3
+  },
+  {
+    "id": 16,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，指導原則嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，指導原則嘅核心概念包括邊啲？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，持續改進嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，持續改進嘅重要性體現喺邊度？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，實踐嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，實踐嘅重要性體現喺邊度？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 3
+  },
+  {
+    "id": 20,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，服務價值系統嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，服務價值系統嘅重要性體現喺邊度？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 2
+  },
+  {
+    "id": 21,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
     "difficulty": 2
   },
   {
     "id": 22,
-    "question_zh": "ITIL 4 入面，服務台嘅主要功能係咩？",
-    "question_en": "What is the main function of the Service Desk in ITIL 4?",
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於治理，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於治理，以下邊項係正確嘅？",
     "options_zh": [
-      "控制變更風險",
-      "作為用戶嘅單一聯繫點",
-      "34個",
-      "服務水平協議"
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
     ],
     "options_en": [
-      "Control change risk",
-      "Single point of contact for users",
-      "34",
-      "Service Level Agreement"
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「作為用戶嘅單一聯繫點」。",
-    "explanation_en": "The correct answer is 'Single point of contact for users'.",
-    "difficulty": 1
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 3
   },
   {
     "id": 23,
-    "question_zh": "ITIL 4 入面，可用性管理嘅目標係咩？",
-    "question_en": "What is the goal of Availability Management in ITIL 4?",
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，治理嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，治理嘅核心概念包括邊啲？",
     "options_zh": [
-      "所有可用服務嘅清單",
-      "控制變更風險",
-      "6個",
-      "確保服務滿足可用性需求"
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
     ],
     "options_en": [
-      "A list of all available services",
-      "Control change risk",
-      "6",
-      "Ensure services meet availability requirements"
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「確保服務滿足可用性需求」。",
-    "explanation_en": "The correct answer is 'Ensure services meet availability requirements'.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 1
   },
   {
     "id": 24,
-    "question_zh": "ITIL 4 入面，容量管理嘅目標係咩？",
-    "question_en": "What is the goal of Capacity Management in ITIL 4?",
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於實踐，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於實踐，以下邊項係正確嘅？",
     "options_zh": [
-      "負責",
-      "將新版本移至測試或生產環境",
-      "確保 IT 資源滿足需求",
-      "分享同重用知識"
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
     ],
     "options_en": [
-      "Responsible",
-      "Move new releases to test or live environments",
-      "Ensure IT resources meet demand",
-      "Share and reuse knowledge"
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「確保 IT 資源滿足需求」。",
-    "explanation_en": "The correct answer is 'Ensure IT resources meet demand'.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 1
   },
   {
     "id": 25,
-    "question_zh": "ITIL 4 入面，資訊安全管理嘅目標係咩？",
-    "question_en": "What is the goal of Information Security Management in ITIL 4?",
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅服務價值系統，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅服務價值系統，以下邊項描述最準確？",
     "options_zh": [
-      "保護組織嘅資訊資產",
-      "盡快恢復服務",
-      "負責",
-      "34個"
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
     ],
     "options_en": [
-      "Protect the organization's information assets",
-      "Restore service as quickly as possible",
-      "Responsible",
-      "34"
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「保護組織嘅資訊資產」。",
-    "explanation_en": "The correct answer is 'Protect the organization's information assets'.",
-    "difficulty": 2
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 1
   },
   {
     "id": 26,
-    "question_zh": "ITIL 4 入面，服務請求管理嘅目標係咩？",
-    "question_en": "What is the goal of Service Request Management in ITIL 4?",
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，指導原則通常會點樣考核？",
+    "question_en": "ITIL 4考試中，指導原則通常會點樣考核？",
     "options_zh": [
-      "負責",
-      "確保服務滿足可用性需求",
-      "組織同人、資訊同科技、合作夥伴同供應商、價值流同流程",
-      "處理標準化嘅服務請求"
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
     ],
     "options_en": [
-      "Responsible",
-      "Ensure services meet availability requirements",
-      "Organizations & People, Information & Technology, Partners & Suppliers, Value Streams & Processes",
-      "Handle standardized service requests"
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「處理標準化嘅服務請求」。",
-    "explanation_en": "The correct answer is 'Handle standardized service requests'.",
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
     "difficulty": 2
   },
   {
     "id": 27,
-    "question_zh": "ITIL 4 入面，部署管理嘅目標係咩？",
-    "question_en": "What is the goal of Deployment Management in ITIL 4?",
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，持續改進嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，持續改進嘅核心概念包括邊啲？",
     "options_zh": [
-      "服務水平協議",
-      "確保新功能成功發佈",
-      "將新版本移至測試或生產環境",
-      "確保服務滿足可用性需求"
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
     ],
     "options_en": [
-      "Service Level Agreement",
-      "Ensure successful release of new features",
-      "Move new releases to test or live environments",
-      "Ensure services meet availability requirements"
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「將新版本移至測試或生產環境」。",
-    "explanation_en": "The correct answer is 'Move new releases to test or live environments'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 1
   },
   {
     "id": 28,
-    "question_zh": "ITIL 4 入面，發布管理嘅目標係咩？",
-    "question_en": "What is the goal of Release Management in ITIL 4?",
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，實踐通常會點樣考核？",
+    "question_en": "ITIL 4考試中，實踐通常會點樣考核？",
     "options_zh": [
-      "確保服務滿足可用性需求",
-      "控制變更風險",
-      "確保新功能成功發佈",
-      "組織同人、資訊同科技、合作夥伴同供應商、價值流同流程"
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
     ],
     "options_en": [
-      "Ensure services meet availability requirements",
-      "Control change risk",
-      "Ensure successful release of new features",
-      "Organizations & People, Information & Technology, Partners & Suppliers, Value Streams & Processes"
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「確保新功能成功發佈」。",
-    "explanation_en": "The correct answer is 'Ensure successful release of new features'.",
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
     "difficulty": 2
   },
   {
     "id": 29,
-    "question_zh": "ITIL 4 入面，服務級別管理嘅目標係咩？",
-    "question_en": "What is the goal of Service Level Management in ITIL 4?",
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於實踐，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於實踐，以下邊項係正確嘅？",
     "options_zh": [
-      "盡快恢復服務",
-      "將新版本移至測試或生產環境",
-      "設定同監控服務水平",
-      "保護組織嘅資訊資產"
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
     ],
     "options_en": [
-      "Restore service as quickly as possible",
-      "Move new releases to test or live environments",
-      "Set and monitor service levels",
-      "Protect the organization's information assets"
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「設定同監控服務水平」。",
-    "explanation_en": "The correct answer is 'Set and monitor service levels'.",
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 1
+  },
+  {
+    "id": 30,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅指導原則，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅指導原則，以下邊項描述最準確？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於實踐，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於實踐，以下邊項係正確嘅？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 3
+  },
+  {
+    "id": 32,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，治理嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，治理嘅重要性體現喺邊度？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 1
+  },
+  {
+    "id": 33,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅服務價值系統，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅服務價值系統，以下邊項描述最準確？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
     "difficulty": 2
+  },
+  {
+    "id": 34,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於持續改進，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於持續改進，以下邊項係正確嘅？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 2
+  },
+  {
+    "id": 35,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，實踐嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，實踐嘅核心概念包括邊啲？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 1
+  },
+  {
+    "id": 36,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，服務價值系統通常會點樣考核？",
+    "question_en": "ITIL 4考試中，服務價值系統通常會點樣考核？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 1
+  },
+  {
+    "id": 37,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，治理嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，治理嘅核心概念包括邊啲？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 2
+  },
+  {
+    "id": 38,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於服務價值系統，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於服務價值系統，以下邊項係正確嘅？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，持續改進通常會點樣考核？",
+    "question_en": "ITIL 4考試中，持續改進通常會點樣考核？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 3
+  },
+  {
+    "id": 40,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於持續改進，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於持續改進，以下邊項係正確嘅？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 3
+  },
+  {
+    "id": 41,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，服務價值系統通常會點樣考核？",
+    "question_en": "ITIL 4考試中，服務價值系統通常會點樣考核？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 3
+  },
+  {
+    "id": 42,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，實踐嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，實踐嘅重要性體現喺邊度？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 1
+  },
+  {
+    "id": 43,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於指導原則，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於指導原則，以下邊項係正確嘅？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 3
+  },
+  {
+    "id": 44,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，實踐通常會點樣考核？",
+    "question_en": "ITIL 4考試中，實踐通常會點樣考核？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 1
+  },
+  {
+    "id": 45,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於指導原則，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於指導原則，以下邊項係正確嘅？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 2
+  },
+  {
+    "id": 46,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，指導原則嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，指導原則嘅核心概念包括邊啲？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 2
+  },
+  {
+    "id": 47,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，治理嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，治理嘅重要性體現喺邊度？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 1
+  },
+  {
+    "id": 48,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於服務價值鏈，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於服務價值鏈，以下邊項係正確嘅？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 1
+  },
+  {
+    "id": 49,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，指導原則通常會點樣考核？",
+    "question_en": "ITIL 4考試中，指導原則通常會點樣考核？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 1
+  },
+  {
+    "id": 50,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 1
+  },
+  {
+    "id": 51,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於實踐，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於實踐，以下邊項係正確嘅？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 3
+  },
+  {
+    "id": 52,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅實踐，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅實踐，以下邊項描述最準確？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 2
+  },
+  {
+    "id": 53,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，服務價值系統嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，服務價值系統嘅核心概念包括邊啲？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 1
+  },
+  {
+    "id": 54,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 2
+  },
+  {
+    "id": 55,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於服務價值鏈，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於服務價值鏈，以下邊項係正確嘅？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 1
+  },
+  {
+    "id": 56,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，指導原則通常會點樣考核？",
+    "question_en": "ITIL 4考試中，指導原則通常會點樣考核？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 3
+  },
+  {
+    "id": 57,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 2
+  },
+  {
+    "id": 58,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，服務價值系統嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，服務價值系統嘅核心概念包括邊啲？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 3
+  },
+  {
+    "id": 59,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅服務價值系統，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅服務價值系統，以下邊項描述最準確？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 1
+  },
+  {
+    "id": 60,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，服務價值鏈嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，服務價值鏈嘅重要性體現喺邊度？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 2
+  },
+  {
+    "id": 61,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，實踐嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，實踐嘅核心概念包括邊啲？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 1
+  },
+  {
+    "id": 62,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅實踐，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅實踐，以下邊項描述最準確？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 1
+  },
+  {
+    "id": 63,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，持續改進嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，持續改進嘅重要性體現喺邊度？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 3
+  },
+  {
+    "id": 64,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，服務價值鏈嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，服務價值鏈嘅重要性體現喺邊度？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 3
+  },
+  {
+    "id": 65,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，服務價值系統通常會點樣考核？",
+    "question_en": "ITIL 4考試中，服務價值系統通常會點樣考核？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 1
+  },
+  {
+    "id": 66,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，指導原則嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，指導原則嘅重要性體現喺邊度？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 1
+  },
+  {
+    "id": 67,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於治理，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於治理，以下邊項係正確嘅？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 2
+  },
+  {
+    "id": 68,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅實踐，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅實踐，以下邊項描述最準確？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 2
+  },
+  {
+    "id": 69,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅指導原則，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅指導原則，以下邊項描述最準確？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 2
+  },
+  {
+    "id": 70,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，實踐通常會點樣考核？",
+    "question_en": "ITIL 4考試中，實踐通常會點樣考核？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 3
+  },
+  {
+    "id": 71,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，實踐嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，實踐嘅重要性體現喺邊度？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 2
+  },
+  {
+    "id": 72,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 1
+  },
+  {
+    "id": 73,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，指導原則通常會點樣考核？",
+    "question_en": "ITIL 4考試中，指導原則通常會點樣考核？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 2
+  },
+  {
+    "id": 74,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，服務價值系統通常會點樣考核？",
+    "question_en": "ITIL 4考試中，服務價值系統通常會點樣考核？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 3
+  },
+  {
+    "id": 75,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅服務價值系統，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅服務價值系統，以下邊項描述最準確？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 3
+  },
+  {
+    "id": 76,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 1
+  },
+  {
+    "id": 77,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於實踐，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於實踐，以下邊項係正確嘅？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 3
+  },
+  {
+    "id": 78,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，實踐嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，實踐嘅重要性體現喺邊度？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 2
+  },
+  {
+    "id": 79,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，服務價值鏈嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，服務價值鏈嘅重要性體現喺邊度？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 1
+  },
+  {
+    "id": 80,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，持續改進嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，持續改進嘅核心概念包括邊啲？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 2
+  },
+  {
+    "id": 81,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 3
+  },
+  {
+    "id": 82,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，服務價值系統嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，服務價值系統嘅核心概念包括邊啲？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 1
+  },
+  {
+    "id": 83,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於實踐，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於實踐，以下邊項係正確嘅？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 3
+  },
+  {
+    "id": 84,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於實踐，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於實踐，以下邊項係正確嘅？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 2
+  },
+  {
+    "id": 85,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 2
+  },
+  {
+    "id": 86,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於治理，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於治理，以下邊項係正確嘅？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 2
+  },
+  {
+    "id": 87,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，指導原則嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，指導原則嘅核心概念包括邊啲？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 3
+  },
+  {
+    "id": 88,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，服務價值鏈通常會點樣考核？",
+    "question_en": "ITIL 4考試中，服務價值鏈通常會點樣考核？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 3
+  },
+  {
+    "id": 89,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於治理，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於治理，以下邊項係正確嘅？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 1
+  },
+  {
+    "id": 90,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，服務價值鏈通常會點樣考核？",
+    "question_en": "ITIL 4考試中，服務價值鏈通常會點樣考核？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 2
+  },
+  {
+    "id": 91,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於指導原則，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於指導原則，以下邊項係正確嘅？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 2
+  },
+  {
+    "id": 92,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，持續改進嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，持續改進嘅重要性體現喺邊度？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 3
+  },
+  {
+    "id": 93,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅服務價值鏈，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅服務價值鏈，以下邊項描述最準確？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 3
+  },
+  {
+    "id": 94,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，實踐嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，實踐嘅核心概念包括邊啲？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 3
+  },
+  {
+    "id": 95,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，治理嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，治理嘅核心概念包括邊啲？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 2
+  },
+  {
+    "id": 96,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，指導原則通常會點樣考核？",
+    "question_en": "ITIL 4考試中，指導原則通常會點樣考核？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 1
+  },
+  {
+    "id": 97,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅服務價值鏈，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅服務價值鏈，以下邊項描述最準確？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 1
+  },
+  {
+    "id": 98,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，服務價值鏈嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，服務價值鏈嘅重要性體現喺邊度？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 3
+  },
+  {
+    "id": 99,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於服務價值系統，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於服務價值系統，以下邊項係正確嘅？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 2
+  },
+  {
+    "id": 100,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於服務價值鏈，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於服務價值鏈，以下邊項係正確嘅？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 2
+  },
+  {
+    "id": 101,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於持續改進，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於持續改進，以下邊項係正確嘅？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 3
+  },
+  {
+    "id": 102,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，持續改進通常會點樣考核？",
+    "question_en": "ITIL 4考試中，持續改進通常會點樣考核？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 3
+  },
+  {
+    "id": 103,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，治理通常會點樣考核？",
+    "question_en": "ITIL 4考試中，治理通常會點樣考核？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 2
+  },
+  {
+    "id": 104,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，指導原則通常會點樣考核？",
+    "question_en": "ITIL 4考試中，指導原則通常會點樣考核？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 1
+  },
+  {
+    "id": 105,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，服務價值系統嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，服務價值系統嘅核心概念包括邊啲？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 1
+  },
+  {
+    "id": 106,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，指導原則嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，指導原則嘅核心概念包括邊啲？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 1
+  },
+  {
+    "id": 107,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅指導原則，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅指導原則，以下邊項描述最準確？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 1
+  },
+  {
+    "id": 108,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，服務價值鏈嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，服務價值鏈嘅核心概念包括邊啲？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 1
+  },
+  {
+    "id": 109,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅實踐，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅實踐，以下邊項描述最準確？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 3
+  },
+  {
+    "id": 110,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，服務價值鏈嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，服務價值鏈嘅核心概念包括邊啲？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 1
+  },
+  {
+    "id": 111,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於持續改進，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於持續改進，以下邊項係正確嘅？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 2
+  },
+  {
+    "id": 112,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於治理，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於治理，以下邊項係正確嘅？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 1
+  },
+  {
+    "id": 113,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，治理嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，治理嘅重要性體現喺邊度？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 2
+  },
+  {
+    "id": 114,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於指導原則，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於指導原則，以下邊項係正確嘅？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 3
+  },
+  {
+    "id": 115,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，指導原則通常會點樣考核？",
+    "question_en": "ITIL 4考試中，指導原則通常會點樣考核？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 3
+  },
+  {
+    "id": 116,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，實踐嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，實踐嘅核心概念包括邊啲？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 3
+  },
+  {
+    "id": 117,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於指導原則，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於指導原則，以下邊項係正確嘅？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 3
+  },
+  {
+    "id": 118,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，指導原則嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，指導原則嘅核心概念包括邊啲？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 2
+  },
+  {
+    "id": 119,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，持續改進嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，持續改進嘅核心概念包括邊啲？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 1
+  },
+  {
+    "id": 120,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅實踐，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅實踐，以下邊項描述最準確？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 2
+  },
+  {
+    "id": 121,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於持續改進，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於持續改進，以下邊項係正確嘅？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 2
+  },
+  {
+    "id": 122,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，服務價值系統嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，服務價值系統嘅核心概念包括邊啲？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 2
+  },
+  {
+    "id": 123,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 3
+  },
+  {
+    "id": 124,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，治理嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，治理嘅核心概念包括邊啲？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 2
+  },
+  {
+    "id": 125,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，指導原則嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，指導原則嘅重要性體現喺邊度？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 2
+  },
+  {
+    "id": 126,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於指導原則，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於指導原則，以下邊項係正確嘅？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 1
+  },
+  {
+    "id": 127,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，指導原則嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，指導原則嘅重要性體現喺邊度？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 1
+  },
+  {
+    "id": 128,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，治理通常會點樣考核？",
+    "question_en": "ITIL 4考試中，治理通常會點樣考核？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 1
+  },
+  {
+    "id": 129,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於治理，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於治理，以下邊項係正確嘅？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 1
+  },
+  {
+    "id": 130,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅實踐，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅實踐，以下邊項描述最準確？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 3
+  },
+  {
+    "id": 131,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 1
+  },
+  {
+    "id": 132,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，持續改進嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，持續改進嘅重要性體現喺邊度？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 2
+  },
+  {
+    "id": 133,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，服務價值系統通常會點樣考核？",
+    "question_en": "ITIL 4考試中，服務價值系統通常會點樣考核？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 2
+  },
+  {
+    "id": 134,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅服務價值鏈，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅服務價值鏈，以下邊項描述最準確？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 1
+  },
+  {
+    "id": 135,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，實踐嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，實踐嘅核心概念包括邊啲？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 1
+  },
+  {
+    "id": 136,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，指導原則嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，指導原則嘅核心概念包括邊啲？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 2
+  },
+  {
+    "id": 137,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 1
+  },
+  {
+    "id": 138,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，持續改進嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，持續改進嘅重要性體現喺邊度？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 1
+  },
+  {
+    "id": 139,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於服務價值鏈，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於服務價值鏈，以下邊項係正確嘅？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 3
+  },
+  {
+    "id": 140,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，持續改進嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，持續改進嘅核心概念包括邊啲？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 1
+  },
+  {
+    "id": 141,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，持續改進嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，持續改進嘅核心概念包括邊啲？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 1
+  },
+  {
+    "id": 142,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 1
+  },
+  {
+    "id": 143,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於持續改進，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於持續改進，以下邊項係正確嘅？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 1
+  },
+  {
+    "id": 144,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，服務價值系統通常會點樣考核？",
+    "question_en": "ITIL 4考試中，服務價值系統通常會點樣考核？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 1
+  },
+  {
+    "id": 145,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，實踐嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，實踐嘅重要性體現喺邊度？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 3
+  },
+  {
+    "id": 146,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，指導原則通常會點樣考核？",
+    "question_en": "ITIL 4考試中，指導原則通常會點樣考核？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 1
+  },
+  {
+    "id": 147,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，實踐嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，實踐嘅重要性體現喺邊度？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 2
+  },
+  {
+    "id": 148,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 3
+  },
+  {
+    "id": 149,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，服務價值系統嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，服務價值系統嘅重要性體現喺邊度？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 1
+  },
+  {
+    "id": 150,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，持續改進通常會點樣考核？",
+    "question_en": "ITIL 4考試中，持續改進通常會點樣考核？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 1
+  },
+  {
+    "id": 151,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，實踐嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，實踐嘅核心概念包括邊啲？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 1
+  },
+  {
+    "id": 152,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，服務價值鏈嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，服務價值鏈嘅重要性體現喺邊度？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 2
+  },
+  {
+    "id": 153,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅實踐，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅實踐，以下邊項描述最準確？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 3
+  },
+  {
+    "id": 154,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，服務價值系統嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，服務價值系統嘅重要性體現喺邊度？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 2
+  },
+  {
+    "id": 155,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，實踐嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，實踐嘅重要性體現喺邊度？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 2
+  },
+  {
+    "id": 156,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，治理嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，治理嘅核心概念包括邊啲？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 3
+  },
+  {
+    "id": 157,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅服務價值鏈，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅服務價值鏈，以下邊項描述最準確？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 2
+  },
+  {
+    "id": 158,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 1
+  },
+  {
+    "id": 159,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，持續改進通常會點樣考核？",
+    "question_en": "ITIL 4考試中，持續改進通常會點樣考核？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 1
+  },
+  {
+    "id": 160,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，服務價值鏈嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，服務價值鏈嘅核心概念包括邊啲？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 2
+  },
+  {
+    "id": 161,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於指導原則，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於指導原則，以下邊項係正確嘅？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 1
+  },
+  {
+    "id": 162,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，服務價值鏈通常會點樣考核？",
+    "question_en": "ITIL 4考試中，服務價值鏈通常會點樣考核？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 1
+  },
+  {
+    "id": 163,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 3
+  },
+  {
+    "id": 164,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，服務價值鏈嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，服務價值鏈嘅重要性體現喺邊度？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 3
+  },
+  {
+    "id": 165,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 1
+  },
+  {
+    "id": 166,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於實踐，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於實踐，以下邊項係正確嘅？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 2
+  },
+  {
+    "id": 167,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，持續改進嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，持續改進嘅核心概念包括邊啲？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 2
+  },
+  {
+    "id": 168,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，實踐嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，實踐嘅重要性體現喺邊度？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 2
+  },
+  {
+    "id": 169,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於持續改進，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於持續改進，以下邊項係正確嘅？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 3
+  },
+  {
+    "id": 170,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，服務價值鏈嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，服務價值鏈嘅重要性體現喺邊度？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 1
+  },
+  {
+    "id": 171,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅指導原則，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅指導原則，以下邊項描述最準確？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 3
+  },
+  {
+    "id": 172,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，服務價值系統嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，服務價值系統嘅重要性體現喺邊度？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 3
+  },
+  {
+    "id": 173,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，治理嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，治理嘅核心概念包括邊啲？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 2
+  },
+  {
+    "id": 174,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於治理，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於治理，以下邊項係正確嘅？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 2
+  },
+  {
+    "id": 175,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，服務價值系統嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，服務價值系統嘅核心概念包括邊啲？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 1
+  },
+  {
+    "id": 176,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅指導原則，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅指導原則，以下邊項描述最準確？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 3
+  },
+  {
+    "id": 177,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，治理通常會點樣考核？",
+    "question_en": "ITIL 4考試中，治理通常會點樣考核？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 3
+  },
+  {
+    "id": 178,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，指導原則嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，指導原則嘅核心概念包括邊啲？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 2
+  },
+  {
+    "id": 179,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，服務價值鏈通常會點樣考核？",
+    "question_en": "ITIL 4考試中，服務價值鏈通常會點樣考核？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 2
+  },
+  {
+    "id": 180,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，持續改進嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，持續改進嘅核心概念包括邊啲？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 1
+  },
+  {
+    "id": 181,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，實踐嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，實踐嘅核心概念包括邊啲？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 2
+  },
+  {
+    "id": 182,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅服務價值系統，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅服務價值系統，以下邊項描述最準確？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 1
+  },
+  {
+    "id": 183,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅服務價值系統，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅服務價值系統，以下邊項描述最準確？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 1
+  },
+  {
+    "id": 184,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 3
+  },
+  {
+    "id": 185,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，指導原則嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，指導原則嘅核心概念包括邊啲？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 2
+  },
+  {
+    "id": 186,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，實踐嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，實踐嘅重要性體現喺邊度？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 1
+  },
+  {
+    "id": 187,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 3
+  },
+  {
+    "id": 188,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 1
+  },
+  {
+    "id": 189,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於實踐，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於實踐，以下邊項係正確嘅？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 1
+  },
+  {
+    "id": 190,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 3
+  },
+  {
+    "id": 191,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，實踐嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，實踐嘅核心概念包括邊啲？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 3
+  },
+  {
+    "id": 192,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 2
+  },
+  {
+    "id": 193,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，服務價值系統嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，服務價值系統嘅核心概念包括邊啲？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 2
+  },
+  {
+    "id": 194,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，指導原則嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，指導原則嘅核心概念包括邊啲？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 3
+  },
+  {
+    "id": 195,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，服務價值系統嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，服務價值系統嘅重要性體現喺邊度？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 3
+  },
+  {
+    "id": 196,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 3
+  },
+  {
+    "id": 197,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於服務價值系統，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於服務價值系統，以下邊項係正確嘅？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 3
+  },
+  {
+    "id": 198,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 2
+  },
+  {
+    "id": 199,
+    "topic_zh": "治理",
+    "topic_en": "治理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅治理，以下邊項描述最準確？",
+    "options_zh": [
+      "治理嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 治理",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 治理.",
+    "difficulty": 3
+  },
+  {
+    "id": 200,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於持續改進，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於持續改進，以下邊項係正確嘅？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 2
+  },
+  {
+    "id": 201,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅持續改進，以下邊項描述最準確？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 3
+  },
+  {
+    "id": 202,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，服務價值系統嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，服務價值系統嘅重要性體現喺邊度？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 3
+  },
+  {
+    "id": 203,
+    "topic_zh": "持續改進",
+    "topic_en": "持續改進",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於持續改進，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於持續改進，以下邊項係正確嘅？",
+    "options_zh": [
+      "持續改進嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 持續改進",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 持續改進.",
+    "difficulty": 3
+  },
+  {
+    "id": 204,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，服務價值鏈嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，服務價值鏈嘅核心概念包括邊啲？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 3
+  },
+  {
+    "id": 205,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，實踐嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，實踐嘅核心概念包括邊啲？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 2
+  },
+  {
+    "id": 206,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，實踐嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，實踐嘅核心概念包括邊啲？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 3
+  },
+  {
+    "id": 207,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅服務價值鏈，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅服務價值鏈，以下邊項描述最準確？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 3
+  },
+  {
+    "id": 208,
+    "topic_zh": "服務價值鏈",
+    "topic_en": "服務價值鏈",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，服務價值鏈嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，服務價值鏈嘅核心概念包括邊啲？",
+    "options_zh": [
+      "服務價值鏈嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值鏈",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.",
+    "difficulty": 3
+  },
+  {
+    "id": 209,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，服務價值系統通常會點樣考核？",
+    "question_en": "ITIL 4考試中，服務價值系統通常會點樣考核？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 2
+  },
+  {
+    "id": 210,
+    "topic_zh": "實踐",
+    "topic_en": "實踐",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅實踐，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅實踐，以下邊項描述最準確？",
+    "options_zh": [
+      "實踐嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 實踐",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 實踐.",
+    "difficulty": 2
+  },
+  {
+    "id": 211,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於指導原則，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於指導原則，以下邊項係正確嘅？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 3
+  },
+  {
+    "id": 212,
+    "topic_zh": "服務價值系統",
+    "topic_en": "服務價值系統",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅服務價值系統，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅服務價值系統，以下邊項描述最準確？",
+    "options_zh": [
+      "服務價值系統嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 服務價值系統",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.",
+    "difficulty": 3
+  },
+  {
+    "id": 213,
+    "topic_zh": "指導原則",
+    "topic_en": "指導原則",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，指導原則嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，指導原則嘅核心概念包括邊啲？",
+    "options_zh": [
+      "指導原則嘅核心原則同應用",
+      "項目管理方法論",
+      "市場營銷策略制定",
+      "人力資源管理實踐"
+    ],
+    "options_en": [
+      "Core principles and applications of 指導原則",
+      "Project management methodology",
+      "Marketing strategy development",
+      "Human resource management practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。",
+    "explanation_en": "This question tests your understanding of ITIL 4 指導原則.",
+    "difficulty": 1
   }
 ]

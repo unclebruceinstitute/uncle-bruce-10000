@@ -1,647 +1,6427 @@
 [
   {
-    "id": 1,
     "topic_zh": "財務會計",
     "topic_en": "Financial Accounting",
-    "subtopic_zh": "無形資產",
-    "subtopic_en": "無形資產",
-    "question_zh": "喺ACCA考試中，「無形資產」屬於以下邊個範疇？",
-    "question_en": "喺ACCA考試中，「無形資產」屬於以下邊個範疇？",
+    "subtopic_zh": "會計準則",
+    "subtopic_en": "Accounting Standards",
+    "question_zh": "IAS 16 固定資產準則要求固定資產以邊種方式計量？",
+    "question_en": "IAS 16 Property, Plant and Equipment requires assets to be measured using which model?",
     "options_zh": [
-      "財務會計",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "成本模型或重估模型",
+      "僅成本模型",
+      "僅重估模型",
+      "公允價值模型"
     ],
     "options_en": [
-      "財務會計",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "Cost model or revaluation model",
+      "Cost model only",
+      "Revaluation model only",
+      "Fair value model"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「財務會計」。",
-    "explanation_en": "The correct answer is '財務會計'.",
-    "difficulty": 2
+    "explanation_zh": "IAS 16允許企業選擇成本模型或重估模型計量固定資產。",
+    "explanation_en": "IAS 16 allows entities to choose between the cost model and the revaluation model for measuring property, plant and equipment.",
+    "difficulty": 2,
+    "id": 1
   },
   {
-    "id": 2,
+    "topic_zh": "財務會計",
+    "topic_en": "Financial Accounting",
+    "subtopic_zh": "租賃會計",
+    "subtopic_en": "Lease Accounting",
+    "question_zh": "根據IFRS 16，承租人需要喺資產負債表上確認邊啲資產？",
+    "question_en": "Under IFRS 16, what assets must lessees recognize on the balance sheet?",
+    "options_zh": [
+      "使用權資產",
+      "僅經營租賃資產",
+      "僅融資租賃資產",
+      "唔需要確認任何資產"
+    ],
+    "options_en": [
+      "Right-of-use assets",
+      "Only operating lease assets",
+      "Only finance lease assets",
+      "No assets need to be recognized"
+    ],
+    "answer": 0,
+    "explanation_zh": "IFRS 16要求承租人確認使用權資產同租賃負債，取消咗經營租賃同融資租賃嘅區分。",
+    "explanation_en": "IFRS 16 requires lessees to recognize right-of-use assets and lease liabilities, eliminating the distinction between operating and finance leases.",
+    "difficulty": 2,
+    "id": 2
+  },
+  {
     "topic_zh": "管理會計",
     "topic_en": "Management Accounting",
-    "subtopic_zh": "投資評估",
-    "subtopic_en": "投資評估",
-    "question_zh": "喺ACCA考試中，「投資評估」屬於以下邊個範疇？",
-    "question_en": "喺ACCA考試中，「投資評估」屬於以下邊個範疇？",
+    "subtopic_zh": "成本分析",
+    "subtopic_en": "Cost Analysis",
+    "question_zh": "邊際貢獻等於咩？",
+    "question_en": "What does contribution margin equal?",
     "options_zh": [
-      "管理會計",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "銷售收入減變動成本",
+      "銷售收入減固定成本",
+      "利潤減成本",
+      "總收入減總成本"
     ],
     "options_en": [
-      "管理會計",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "Sales revenue minus variable costs",
+      "Sales revenue minus fixed costs",
+      "Profit minus costs",
+      "Total revenue minus total costs"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「管理會計」。",
-    "explanation_en": "The correct answer is '管理會計'.",
-    "difficulty": 3
+    "explanation_zh": "邊際貢獻 = 銷售收入 - 變動成本，用於覆蓋固定成本同產生利潤。",
+    "explanation_en": "Contribution margin = Sales revenue - Variable costs, used to cover fixed costs and generate profit.",
+    "difficulty": 1,
+    "id": 3
   },
   {
-    "id": 3,
     "topic_zh": "審計與鑑證",
     "topic_en": "Audit and Assurance",
-    "subtopic_zh": "職業道德",
-    "subtopic_en": "職業道德",
-    "question_zh": "喺ACCA考試中，「職業道德」屬於以下邊個範疇？",
-    "question_en": "喺ACCA考試中，「職業道德」屬於以下邊個範疇？",
+    "subtopic_zh": "審計證據",
+    "subtopic_en": "Audit Evidence",
+    "question_zh": "以下邊種審計證據嘅可靠性最高？",
+    "question_en": "Which type of audit evidence is most reliable?",
     "options_zh": [
-      "審計與鑑證",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "審計師直接獲取嘅證據",
+      "客戶提供嘅文件",
+      "口頭詢問結果",
+      "管理層聲明書"
     ],
     "options_en": [
-      "審計與鑑證",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "Evidence obtained directly by the auditor",
+      "Documents provided by the client",
+      "Oral inquiry results",
+      "Management representation letter"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「審計與鑑證」。",
-    "explanation_en": "The correct answer is '審計與鑑證'.",
-    "difficulty": 2
+    "explanation_zh": "審計師直接獲取嘅證據（如親自觀察、計算）可靠性最高。",
+    "explanation_en": "Evidence obtained directly by the auditor (such as personal observation, calculation) is most reliable.",
+    "difficulty": 2,
+    "id": 4
   },
   {
-    "id": 4,
     "topic_zh": "稅務",
     "topic_en": "Taxation",
-    "subtopic_zh": "資本增值稅",
-    "subtopic_en": "資本增值稅",
-    "question_zh": "喺ACCA考試中，「資本增值稅」屬於以下邊個範疇？",
-    "question_en": "喺ACCA考試中，「資本增值稅」屬於以下邊個範疇？",
+    "subtopic_zh": "稅務計算",
+    "subtopic_en": "Tax Calculation",
+    "question_zh": "喺香港，物業稅嘅稅率係幾多？",
+    "question_en": "What is the property tax rate in Hong Kong?",
     "options_zh": [
-      "稅務",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "標準稅率15%",
+      "10%",
+      "20%",
+      "17%"
     ],
     "options_en": [
-      "稅務",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "Standard rate of 15%",
+      "10%",
+      "20%",
+      "17%"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「稅務」。",
-    "explanation_en": "The correct answer is '稅務'.",
-    "difficulty": 2
+    "explanation_zh": "香港物業稅按標準稅率15%計算，或按應評稅淨值嘅累進稅率計算。",
+    "explanation_en": "Hong Kong property tax is calculated at the standard rate of 15%, or at progressive rates on the net assessable value.",
+    "difficulty": 2,
+    "id": 5
   },
   {
-    "id": 5,
-    "topic_zh": "商法",
+    "topic_zh": "商業法",
     "topic_en": "Business Law",
-    "subtopic_zh": "國際貿易法",
-    "subtopic_en": "國際貿易法",
-    "question_zh": "喺ACCA考試中，「國際貿易法」屬於以下邊個範疇？",
-    "question_en": "喺ACCA考試中，「國際貿易法」屬於以下邊個範疇？",
+    "subtopic_zh": "合約法",
+    "subtopic_en": "Contract Law",
+    "question_zh": "以下邊項唔係有效要約嘅要素？",
+    "question_en": "Which is NOT an element of a valid offer?",
     "options_zh": [
-      "商法",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "書面形式",
+      "明確嘅條款",
+      "建立法律關係嘅意圖",
+      "傳達畀受要約人"
     ],
     "options_en": [
-      "商法",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "Written form",
+      "Clear terms",
+      "Intention to create legal relations",
+      "Communication to the offeree"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「商法」。",
-    "explanation_en": "The correct answer is '商法'.",
-    "difficulty": 2
+    "explanation_zh": "有效要約需要明確條款、建立法律關係嘅意圖同傳達，但唔一定需要書面形式。",
+    "explanation_en": "A valid offer requires clear terms, intention to create legal relations, and communication, but not necessarily written form.",
+    "difficulty": 2,
+    "id": 6
   },
   {
-    "id": 6,
     "topic_zh": "財務管理",
     "topic_en": "Financial Management",
-    "subtopic_zh": "投資組合",
-    "subtopic_en": "投資組合",
-    "question_zh": "喺ACCA考試中，「投資組合」屬於以下邊個範疇？",
-    "question_en": "喺ACCA考試中，「投資組合」屬於以下邊個範疇？",
+    "subtopic_zh": "投資評估",
+    "subtopic_en": "Investment Appraisal",
+    "question_zh": "內部收益率（IRR）嘅定義係咩？",
+    "question_en": "What is the definition of Internal Rate of Return (IRR)?",
     "options_zh": [
-      "財務管理",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "令淨現值等於零嘅折現率",
+      "項目嘅平均回報率",
+      "投資回收期",
+      "會計收益率"
     ],
     "options_en": [
-      "財務管理",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "The discount rate that makes NPV zero",
+      "The average return of the project",
+      "The payback period",
+      "The accounting rate of return"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「財務管理」。",
-    "explanation_en": "The correct answer is '財務管理'.",
-    "difficulty": 3
-  },
-  {
-    "id": 7,
-    "topic_zh": "業績管理",
-    "topic_en": "Performance Management",
-    "subtopic_zh": "資源分配",
-    "subtopic_en": "資源分配",
-    "question_zh": "喺ACCA考試中，「資源分配」屬於以下邊個範疇？",
-    "question_en": "喺ACCA考試中，「資源分配」屬於以下邊個範疇？",
-    "options_zh": [
-      "業績管理",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
-    ],
-    "options_en": [
-      "業績管理",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「業績管理」。",
-    "explanation_en": "The correct answer is '業績管理'.",
-    "difficulty": 2
+    "explanation_zh": "內部收益率（IRR）係令項目淨現值（NPV）等於零嘅折現率。",
+    "explanation_en": "Internal Rate of Return (IRR) is the discount rate that makes the project's Net Present Value (NPV) equal to zero.",
+    "difficulty": 2,
+    "id": 7
   },
   {
     "id": 8,
-    "topic_zh": "策略與領導",
-    "topic_en": "Strategic & Leadership",
-    "subtopic_zh": "國際化策略",
-    "subtopic_en": "國際化策略",
-    "question_zh": "喺ACCA考試中，「國際化策略」屬於以下邊個範疇？",
-    "question_en": "喺ACCA考試中，「國際化策略」屬於以下邊個範疇？",
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，審計與鑑證嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，審計與鑑證嘅重要性體現喺邊度？",
     "options_zh": [
-      "策略與領導",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
     ],
     "options_en": [
-      "策略與領導",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「策略與領導」。",
-    "explanation_en": "The correct answer is '策略與領導'.",
-    "difficulty": 2
-  },
-  {
-    "id": 9,
-    "topic_zh": "財務報告",
-    "topic_en": "Financial Reporting",
-    "subtopic_zh": "分部報告",
-    "subtopic_en": "分部報告",
-    "question_zh": "喺ACCA考試中，「分部報告」屬於以下邊個範疇？",
-    "question_en": "喺ACCA考試中，「分部報告」屬於以下邊個範疇？",
-    "options_zh": [
-      "財務報告",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
-    ],
-    "options_en": [
-      "財務報告",
-      "項目管理",
-      "市場營銷",
-      "人力資源"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「財務報告」。",
-    "explanation_en": "The correct answer is '財務報告'.",
-    "difficulty": 2
-  },
-  {
-    "id": 10,
-    "question_zh": "ACCA 入面，F1 科目叫咩名？",
-    "question_en": "What is the name of ACCA F1?",
-    "options_zh": [
-      "IAS 12",
-      "商業會計",
-      "財務管理",
-      "毛利÷收入"
-    ],
-    "options_en": [
-      "IAS 12",
-      "Accountant in Business",
-      "Financial Management",
-      "Gross profit ÷ Revenue"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「商業會計」。",
-    "explanation_en": "The correct answer is 'Accountant in Business'.",
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
     "difficulty": 1
   },
   {
-    "id": 11,
-    "question_zh": "ACCA 入面，F7 科目叫咩名？",
-    "question_en": "What is the name of ACCA F7?",
+    "id": 9,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，商業法通常會點樣考核？",
+    "question_en": "ITIL 4考試中，商業法通常會點樣考核？",
     "options_zh": [
-      "IAS 12",
-      "財務報告",
-      "IAS 38",
-      "經營、投資、融資"
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
     ],
     "options_en": [
-      "IAS 12",
-      "Financial Reporting",
-      "IAS 38",
-      "Operating, investing, financing"
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「財務報告」。",
-    "explanation_en": "The correct answer is 'Financial Reporting'.",
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，商業法通常會點樣考核？",
+    "question_en": "ITIL 4考試中，商業法通常會點樣考核？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 3
+  },
+  {
+    "id": 11,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，審計與鑑證通常會點樣考核？",
+    "question_en": "ITIL 4考試中，審計與鑑證通常會點樣考核？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
     "difficulty": 2
   },
   {
     "id": 12,
-    "question_zh": "ACCA 入面，F9 科目叫咩名？",
-    "question_en": "What is the name of ACCA F9?",
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，財務管理嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，財務管理嘅重要性體現喺邊度？",
     "options_zh": [
-      "財務管理",
-      "（流動資產-存貨）÷流動負債",
-      "淨現值",
-      "商業會計"
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
     ],
     "options_en": [
-      "Financial Management",
-      "(Current assets - inventory) ÷ current liabilities",
-      "Net Present Value",
-      "Accountant in Business"
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「財務管理」。",
-    "explanation_en": "The correct answer is 'Financial Management'.",
-    "difficulty": 2
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 1
   },
   {
     "id": 13,
-    "question_zh": "ACCA 考試入面，P1 科目叫咩名？",
-    "question_en": "What is the name of ACCA P1?",
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，財務管理嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，財務管理嘅核心概念包括邊啲？",
     "options_zh": [
-      "無保留、保留、否定、無法表示",
-      "公司治理、風險同道德",
-      "IFRS 16",
-      "經營、投資、融資"
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
     ],
     "options_en": [
-      "Unqualified, qualified, adverse, disclaimer",
-      "Governance, Risk and Ethics",
-      "IFRS 16",
-      "Operating, investing, financing"
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「公司治理、風險同道德」。",
-    "explanation_en": "The correct answer is 'Governance, Risk and Ethics'.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 3
   },
   {
     "id": 14,
-    "question_zh": "ACCA 入面，「無形資產」嘅會計處理準則係咩？",
-    "question_en": "What accounting standard covers 'Intangible Assets' in ACCA?",
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅商業法，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅商業法，以下邊項描述最準確？",
     "options_zh": [
-      "無保留、保留、否定、無法表示",
-      "IAS 38",
-      "IAS 2",
-      "直線法、遞減餘額法"
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
     ],
     "options_en": [
-      "Unqualified, qualified, adverse, disclaimer",
-      "IAS 38",
-      "IAS 2",
-      "Straight-line, reducing balance"
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「IAS 38」。",
-    "explanation_en": "The correct answer is 'IAS 38'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 2
   },
   {
     "id": 15,
-    "question_zh": "ACCA 入面，「收入」嘅會計處理準則係咩？",
-    "question_en": "What accounting standard covers 'Revenue' in ACCA?",
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，稅務通常會點樣考核？",
+    "question_en": "ITIL 4考試中，稅務通常會點樣考核？",
     "options_zh": [
-      "無保留、保留、否定、無法表示",
-      "淨現值",
-      "財務報告",
-      "IFRS 15"
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
     ],
     "options_en": [
-      "Unqualified, qualified, adverse, disclaimer",
-      "Net Present Value",
-      "Financial Reporting",
-      "IFRS 15"
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「IFRS 15」。",
-    "explanation_en": "The correct answer is 'IFRS 15'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 2
   },
   {
     "id": 16,
-    "question_zh": "ACCA 入面，「租賃」嘅會計處理準則係咩？",
-    "question_en": "What accounting standard covers 'Leases' in ACCA?",
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，管理會計通常會點樣考核？",
+    "question_en": "ITIL 4考試中，管理會計通常會點樣考核？",
     "options_zh": [
-      "IAS 2",
-      "內部回報率",
-      "IFRS 16",
-      "經營、投資、融資"
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
     ],
     "options_en": [
-      "IAS 2",
-      "Internal Rate of Return",
-      "IFRS 16",
-      "Operating, investing, financing"
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「IFRS 16」。",
-    "explanation_en": "The correct answer is 'IFRS 16'.",
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
     "difficulty": 3
   },
   {
     "id": 17,
-    "question_zh": "ACCA 入面，「所得稅」嘅會計處理準則係咩？",
-    "question_en": "What accounting standard covers 'Income Tax' in ACCA?",
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，財務管理嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，財務管理嘅核心概念包括邊啲？",
     "options_zh": [
-      "商業會計",
-      "IAS 12",
-      "資產=負債+權益",
-      "內部回報率"
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
     ],
     "options_en": [
-      "Accountant in Business",
-      "IAS 12",
-      "Assets = Liabilities + Equity",
-      "Internal Rate of Return"
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「IAS 12」。",
-    "explanation_en": "The correct answer is 'IAS 12'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 2
   },
   {
     "id": 18,
-    "question_zh": "ACCA 入面，「存貨」嘅會計處理準則係咩？",
-    "question_en": "What accounting standard covers 'Inventories' in ACCA?",
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，財務會計嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，財務會計嘅核心概念包括邊啲？",
     "options_zh": [
-      "IAS 2",
-      "IFRS 16",
-      "毛利÷收入",
-      "資產=負債+權益"
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
     ],
     "options_en": [
-      "IAS 2",
-      "IFRS 16",
-      "Gross profit ÷ Revenue",
-      "Assets = Liabilities + Equity"
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「IAS 2」。",
-    "explanation_en": "The correct answer is 'IAS 2'.",
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
     "difficulty": 3
   },
   {
     "id": 19,
-    "question_zh": "ACCA 入面，固定資產嘅折舊方法包括咩？",
-    "question_en": "What depreciation methods are included in ACCA?",
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，稅務嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，稅務嘅重要性體現喺邊度？",
     "options_zh": [
-      "直線法、遞減餘額法",
-      "公司治理、風險同道德",
-      "IAS 2",
-      "IFRS 15"
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
     ],
     "options_en": [
-      "Straight-line, reducing balance",
-      "Governance, Risk and Ethics",
-      "IAS 2",
-      "IFRS 15"
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「直線法、遞減餘額法」。",
-    "explanation_en": "The correct answer is 'Straight-line, reducing balance'.",
-    "difficulty": 2
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 3
   },
   {
     "id": 20,
-    "question_zh": "ACCA 入面，現金流量表嘅三大分類係咩？",
-    "question_en": "What are the three categories in a cash flow statement?",
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，財務管理嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，財務管理嘅核心概念包括邊啲？",
     "options_zh": [
-      "資產=負債+權益",
-      "毛利÷收入",
-      "經營、投資、融資",
-      "財務報告"
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
     ],
     "options_en": [
-      "Assets = Liabilities + Equity",
-      "Gross profit ÷ Revenue",
-      "Operating, investing, financing",
-      "Financial Reporting"
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「經營、投資、融資」。",
-    "explanation_en": "The correct answer is 'Operating, investing, financing'.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 3
   },
   {
     "id": 21,
-    "question_zh": "ACCA 入面，毛利率點計？",
-    "question_en": "How to calculate gross profit margin?",
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，審計與鑑證嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，審計與鑑證嘅重要性體現喺邊度？",
     "options_zh": [
-      "經營、投資、融資",
-      "資產=負債+權益",
-      "無保留、保留、否定、無法表示",
-      "毛利÷收入"
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
     ],
     "options_en": [
-      "Operating, investing, financing",
-      "Assets = Liabilities + Equity",
-      "Unqualified, qualified, adverse, disclaimer",
-      "Gross profit ÷ Revenue"
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「毛利÷收入」。",
-    "explanation_en": "The correct answer is 'Gross profit ÷ Revenue'.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 3
   },
   {
     "id": 22,
-    "question_zh": "ACCA 入面，資產負債表嘅會計方程式係咩？",
-    "question_en": "What is the accounting equation in ACCA?",
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，審計與鑑證通常會點樣考核？",
+    "question_en": "ITIL 4考試中，審計與鑑證通常會點樣考核？",
     "options_zh": [
-      "資產=負債+權益",
-      "流動資產÷流動負債",
-      "IFRS 15",
-      "淨現值"
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
     ],
     "options_en": [
-      "Assets = Liabilities + Equity",
-      "Current assets ÷ current liabilities",
-      "IFRS 15",
-      "Net Present Value"
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「資產=負債+權益」。",
-    "explanation_en": "The correct answer is 'Assets = Liabilities + Equity'.",
-    "difficulty": 1
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 3
   },
   {
     "id": 23,
-    "question_zh": "ACCA 入面，審計報告嘅四大類型係咩？",
-    "question_en": "What are the four types of audit opinions?",
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，財務管理嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，財務管理嘅重要性體現喺邊度？",
     "options_zh": [
-      "公司治理、風險同道德",
-      "經營、投資、融資",
-      "財務管理",
-      "無保留、保留、否定、無法表示"
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
     ],
     "options_en": [
-      "Governance, Risk and Ethics",
-      "Operating, investing, financing",
-      "Financial Management",
-      "Unqualified, qualified, adverse, disclaimer"
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「無保留、保留、否定、無法表示」。",
-    "explanation_en": "The correct answer is 'Unqualified, qualified, adverse, disclaimer'.",
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
     "difficulty": 3
   },
   {
     "id": 24,
-    "question_zh": "ACCA 入面，NPV 代表咩？",
-    "question_en": "What does NPV stand for in ACCA?",
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅財務會計，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅財務會計，以下邊項描述最準確？",
     "options_zh": [
-      "股本回報率",
-      "流動資產÷流動負債",
-      "淨現值",
-      "IAS 2"
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
     ],
     "options_en": [
-      "Return on Equity",
-      "Current assets ÷ current liabilities",
-      "Net Present Value",
-      "IAS 2"
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「淨現值」。",
-    "explanation_en": "The correct answer is 'Net Present Value'.",
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
     "difficulty": 2
   },
   {
     "id": 25,
-    "question_zh": "ACCA 入面，IRR 代表咩？",
-    "question_en": "What does IRR stand for in ACCA?",
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，審計與鑑證嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，審計與鑑證嘅重要性體現喺邊度？",
     "options_zh": [
-      "商業會計",
-      "公司治理、風險同道德",
-      "內部回報率",
-      "IFRS 15"
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
     ],
     "options_en": [
-      "Accountant in Business",
-      "Governance, Risk and Ethics",
-      "Internal Rate of Return",
-      "IFRS 15"
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「內部回報率」。",
-    "explanation_en": "The correct answer is 'Internal Rate of Return'.",
-    "difficulty": 2
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 1
   },
   {
     "id": 26,
-    "question_zh": "ACCA 入面，WACC 代表咩？",
-    "question_en": "What does WACC stand for in ACCA?",
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，財務會計嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，財務會計嘅重要性體現喺邊度？",
     "options_zh": [
-      "加權平均資本成本",
-      "內部回報率",
-      "IFRS 16",
-      "經營、投資、融資"
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
     ],
     "options_en": [
-      "Weighted Average Cost of Capital",
-      "Internal Rate of Return",
-      "IFRS 16",
-      "Operating, investing, financing"
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「加權平均資本成本」。",
-    "explanation_en": "The correct answer is 'Weighted Average Cost of Capital'.",
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
     "difficulty": 3
   },
   {
     "id": 27,
-    "question_zh": "ACCA 入面，流動比率點計？",
-    "question_en": "How to calculate current ratio?",
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，商業法嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，商業法嘅核心概念包括邊啲？",
     "options_zh": [
-      "流動資產÷流動負債",
-      "財務管理",
-      "股本回報率",
-      "直線法、遞減餘額法"
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
     ],
     "options_en": [
-      "Current assets ÷ current liabilities",
-      "Financial Management",
-      "Return on Equity",
-      "Straight-line, reducing balance"
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「流動資產÷流動負債」。",
-    "explanation_en": "The correct answer is 'Current assets ÷ current liabilities'.",
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
     "difficulty": 2
   },
   {
     "id": 28,
-    "question_zh": "ACCA 入面，速動比率點計？",
-    "question_en": "How to calculate quick ratio?",
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，商業法嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，商業法嘅核心概念包括邊啲？",
     "options_zh": [
-      "毛利÷收入",
-      "（流動資產-存貨）÷流動負債",
-      "IAS 2",
-      "IAS 38"
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
     ],
     "options_en": [
-      "Gross profit ÷ Revenue",
-      "(Current assets - inventory) ÷ current liabilities",
-      "IAS 2",
-      "IAS 38"
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「（流動資產-存貨）÷流動負債」。",
-    "explanation_en": "The correct answer is '(Current assets - inventory) ÷ current liabilities'.",
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
     "difficulty": 3
   },
   {
     "id": 29,
-    "question_zh": "ACCA 入面，ROE 代表咩？",
-    "question_en": "What does ROE stand for in ACCA?",
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅財務會計，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅財務會計，以下邊項描述最準確？",
     "options_zh": [
-      "毛利÷收入",
-      "股本回報率",
-      "財務報告",
-      "IAS 2"
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
     ],
     "options_en": [
-      "Gross profit ÷ Revenue",
-      "Return on Equity",
-      "Financial Reporting",
-      "IAS 2"
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「股本回報率」。",
-    "explanation_en": "The correct answer is 'Return on Equity'.",
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 3
+  },
+  {
+    "id": 30,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 1
+  },
+  {
+    "id": 31,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，審計與鑑證通常會點樣考核？",
+    "question_en": "ITIL 4考試中，審計與鑑證通常會點樣考核？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 3
+  },
+  {
+    "id": 32,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 3
+  },
+  {
+    "id": 33,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於財務管理，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於財務管理，以下邊項係正確嘅？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 1
+  },
+  {
+    "id": 34,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅財務管理，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅財務管理，以下邊項描述最準確？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 1
+  },
+  {
+    "id": 35,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
     "difficulty": 2
+  },
+  {
+    "id": 36,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，財務管理嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，財務管理嘅核心概念包括邊啲？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 2
+  },
+  {
+    "id": 37,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，商業法嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，商業法嘅核心概念包括邊啲？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 3
+  },
+  {
+    "id": 38,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，財務管理嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，財務管理嘅重要性體現喺邊度？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 1
+  },
+  {
+    "id": 39,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於商業法，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於商業法，以下邊項係正確嘅？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 2
+  },
+  {
+    "id": 40,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，稅務通常會點樣考核？",
+    "question_en": "ITIL 4考試中，稅務通常會點樣考核？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 3
+  },
+  {
+    "id": 41,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，財務管理通常會點樣考核？",
+    "question_en": "ITIL 4考試中，財務管理通常會點樣考核？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 2
+  },
+  {
+    "id": 42,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅財務會計，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅財務會計，以下邊項描述最準確？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 43,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅財務管理，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅財務管理，以下邊項描述最準確？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 1
+  },
+  {
+    "id": 44,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，財務會計嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，財務會計嘅重要性體現喺邊度？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 45,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 3
+  },
+  {
+    "id": 46,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 2
+  },
+  {
+    "id": 47,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於管理會計，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於管理會計，以下邊項係正確嘅？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 3
+  },
+  {
+    "id": 48,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，稅務嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，稅務嘅重要性體現喺邊度？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 3
+  },
+  {
+    "id": 49,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，財務管理通常會點樣考核？",
+    "question_en": "ITIL 4考試中，財務管理通常會點樣考核？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 3
+  },
+  {
+    "id": 50,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，財務管理通常會點樣考核？",
+    "question_en": "ITIL 4考試中，財務管理通常會點樣考核？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 3
+  },
+  {
+    "id": 51,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於審計與鑑證，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於審計與鑑證，以下邊項係正確嘅？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 3
+  },
+  {
+    "id": 52,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於審計與鑑證，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於審計與鑑證，以下邊項係正確嘅？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 1
+  },
+  {
+    "id": 53,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 3
+  },
+  {
+    "id": 54,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 1
+  },
+  {
+    "id": 55,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，稅務通常會點樣考核？",
+    "question_en": "ITIL 4考試中，稅務通常會點樣考核？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 3
+  },
+  {
+    "id": 56,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，財務會計通常會點樣考核？",
+    "question_en": "ITIL 4考試中，財務會計通常會點樣考核？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 3
+  },
+  {
+    "id": 57,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，財務會計嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，財務會計嘅重要性體現喺邊度？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 3
+  },
+  {
+    "id": 58,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，管理會計通常會點樣考核？",
+    "question_en": "ITIL 4考試中，管理會計通常會點樣考核？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 59,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，稅務通常會點樣考核？",
+    "question_en": "ITIL 4考試中，稅務通常會點樣考核？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 3
+  },
+  {
+    "id": 60,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 3
+  },
+  {
+    "id": 61,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於管理會計，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於管理會計，以下邊項係正確嘅？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 62,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，審計與鑑證嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，審計與鑑證嘅重要性體現喺邊度？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 2
+  },
+  {
+    "id": 63,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 1
+  },
+  {
+    "id": 64,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，審計與鑑證通常會點樣考核？",
+    "question_en": "ITIL 4考試中，審計與鑑證通常會點樣考核？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 3
+  },
+  {
+    "id": 65,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅財務會計，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅財務會計，以下邊項描述最準確？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 3
+  },
+  {
+    "id": 66,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 2
+  },
+  {
+    "id": 67,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，財務會計嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，財務會計嘅核心概念包括邊啲？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 68,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，稅務通常會點樣考核？",
+    "question_en": "ITIL 4考試中，稅務通常會點樣考核？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 2
+  },
+  {
+    "id": 69,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，審計與鑑證嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，審計與鑑證嘅重要性體現喺邊度？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 1
+  },
+  {
+    "id": 70,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於審計與鑑證，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於審計與鑑證，以下邊項係正確嘅？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 3
+  },
+  {
+    "id": 71,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，稅務通常會點樣考核？",
+    "question_en": "ITIL 4考試中，稅務通常會點樣考核？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 1
+  },
+  {
+    "id": 72,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，財務管理通常會點樣考核？",
+    "question_en": "ITIL 4考試中，財務管理通常會點樣考核？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 1
+  },
+  {
+    "id": 73,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 74,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅財務管理，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅財務管理，以下邊項描述最準確？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 1
+  },
+  {
+    "id": 75,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，財務管理通常會點樣考核？",
+    "question_en": "ITIL 4考試中，財務管理通常會點樣考核？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 2
+  },
+  {
+    "id": 76,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於稅務，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於稅務，以下邊項係正確嘅？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 1
+  },
+  {
+    "id": 77,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅管理會計，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅管理會計，以下邊項描述最準確？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 3
+  },
+  {
+    "id": 78,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，管理會計嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，管理會計嘅核心概念包括邊啲？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 79,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於財務管理，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於財務管理，以下邊項係正確嘅？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 1
+  },
+  {
+    "id": 80,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，商業法通常會點樣考核？",
+    "question_en": "ITIL 4考試中，商業法通常會點樣考核？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 1
+  },
+  {
+    "id": 81,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，商業法嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，商業法嘅重要性體現喺邊度？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 2
+  },
+  {
+    "id": 82,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅財務會計，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅財務會計，以下邊項描述最準確？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 83,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於管理會計，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於管理會計，以下邊項係正確嘅？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 3
+  },
+  {
+    "id": 84,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於財務管理，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於財務管理，以下邊項係正確嘅？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 1
+  },
+  {
+    "id": 85,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於商業法，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於商業法，以下邊項係正確嘅？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 2
+  },
+  {
+    "id": 86,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，商業法嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，商業法嘅重要性體現喺邊度？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 1
+  },
+  {
+    "id": 87,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，財務會計通常會點樣考核？",
+    "question_en": "ITIL 4考試中，財務會計通常會點樣考核？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 88,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於審計與鑑證，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於審計與鑑證，以下邊項係正確嘅？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 2
+  },
+  {
+    "id": 89,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅財務管理，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅財務管理，以下邊項描述最準確？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 2
+  },
+  {
+    "id": 90,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 91,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，審計與鑑證通常會點樣考核？",
+    "question_en": "ITIL 4考試中，審計與鑑證通常會點樣考核？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 2
+  },
+  {
+    "id": 92,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 3
+  },
+  {
+    "id": 93,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅審計與鑑證，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅審計與鑑證，以下邊項描述最準確？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 3
+  },
+  {
+    "id": 94,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 2
+  },
+  {
+    "id": 95,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於審計與鑑證，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於審計與鑑證，以下邊項係正確嘅？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 2
+  },
+  {
+    "id": 96,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，財務會計嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，財務會計嘅核心概念包括邊啲？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 97,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 3
+  },
+  {
+    "id": 98,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，管理會計通常會點樣考核？",
+    "question_en": "ITIL 4考試中，管理會計通常會點樣考核？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 99,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅審計與鑑證，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅審計與鑑證，以下邊項描述最準確？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 1
+  },
+  {
+    "id": 100,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，稅務通常會點樣考核？",
+    "question_en": "ITIL 4考試中，稅務通常會點樣考核？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 1
+  },
+  {
+    "id": 101,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，商業法嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，商業法嘅核心概念包括邊啲？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 3
+  },
+  {
+    "id": 102,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 3
+  },
+  {
+    "id": 103,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，商業法嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，商業法嘅核心概念包括邊啲？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 3
+  },
+  {
+    "id": 104,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，財務會計嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，財務會計嘅核心概念包括邊啲？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 3
+  },
+  {
+    "id": 105,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，管理會計嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，管理會計嘅核心概念包括邊啲？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 106,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，管理會計通常會點樣考核？",
+    "question_en": "ITIL 4考試中，管理會計通常會點樣考核？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 107,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於管理會計，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於管理會計，以下邊項係正確嘅？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 3
+  },
+  {
+    "id": 108,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，財務管理嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，財務管理嘅重要性體現喺邊度？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 3
+  },
+  {
+    "id": 109,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，稅務通常會點樣考核？",
+    "question_en": "ITIL 4考試中，稅務通常會點樣考核？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 1
+  },
+  {
+    "id": 110,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 3
+  },
+  {
+    "id": 111,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅審計與鑑證，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅審計與鑑證，以下邊項描述最準確？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 1
+  },
+  {
+    "id": 112,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，審計與鑑證嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，審計與鑑證嘅重要性體現喺邊度？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 2
+  },
+  {
+    "id": 113,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅財務管理，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅財務管理，以下邊項描述最準確？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 2
+  },
+  {
+    "id": 114,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，商業法嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，商業法嘅重要性體現喺邊度？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 2
+  },
+  {
+    "id": 115,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅財務管理，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅財務管理，以下邊項描述最準確？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 2
+  },
+  {
+    "id": 116,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 2
+  },
+  {
+    "id": 117,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，商業法嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，商業法嘅核心概念包括邊啲？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 2
+  },
+  {
+    "id": 118,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅商業法，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅商業法，以下邊項描述最準確？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 3
+  },
+  {
+    "id": 119,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於財務管理，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於財務管理，以下邊項係正確嘅？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 3
+  },
+  {
+    "id": 120,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅管理會計，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅管理會計，以下邊項描述最準確？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 121,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅財務會計，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅財務會計，以下邊項描述最準確？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 122,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，審計與鑑證通常會點樣考核？",
+    "question_en": "ITIL 4考試中，審計與鑑證通常會點樣考核？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 3
+  },
+  {
+    "id": 123,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於稅務，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於稅務，以下邊項係正確嘅？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 3
+  },
+  {
+    "id": 124,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅商業法，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅商業法，以下邊項描述最準確？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 2
+  },
+  {
+    "id": 125,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，財務會計嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，財務會計嘅核心概念包括邊啲？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 126,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 1
+  },
+  {
+    "id": 127,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 3
+  },
+  {
+    "id": 128,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，財務管理通常會點樣考核？",
+    "question_en": "ITIL 4考試中，財務管理通常會點樣考核？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 2
+  },
+  {
+    "id": 129,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於商業法，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於商業法，以下邊項係正確嘅？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 1
+  },
+  {
+    "id": 130,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 2
+  },
+  {
+    "id": 131,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，商業法通常會點樣考核？",
+    "question_en": "ITIL 4考試中，商業法通常會點樣考核？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 3
+  },
+  {
+    "id": 132,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅商業法，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅商業法，以下邊項描述最準確？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 3
+  },
+  {
+    "id": 133,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，稅務嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，稅務嘅重要性體現喺邊度？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 3
+  },
+  {
+    "id": 134,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 135,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於審計與鑑證，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於審計與鑑證，以下邊項係正確嘅？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 3
+  },
+  {
+    "id": 136,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 137,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅稅務，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅稅務，以下邊項描述最準確？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 3
+  },
+  {
+    "id": 138,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅商業法，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅商業法，以下邊項描述最準確？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 3
+  },
+  {
+    "id": 139,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，管理會計通常會點樣考核？",
+    "question_en": "ITIL 4考試中，管理會計通常會點樣考核？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 140,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，商業法通常會點樣考核？",
+    "question_en": "ITIL 4考試中，商業法通常會點樣考核？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 1
+  },
+  {
+    "id": 141,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，商業法嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，商業法嘅核心概念包括邊啲？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 2
+  },
+  {
+    "id": 142,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，財務會計嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，財務會計嘅核心概念包括邊啲？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 143,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，審計與鑑證嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，審計與鑑證嘅重要性體現喺邊度？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 2
+  },
+  {
+    "id": 144,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，審計與鑑證通常會點樣考核？",
+    "question_en": "ITIL 4考試中，審計與鑑證通常會點樣考核？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 3
+  },
+  {
+    "id": 145,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於管理會計，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於管理會計，以下邊項係正確嘅？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 146,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，財務會計嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，財務會計嘅重要性體現喺邊度？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 147,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 3
+  },
+  {
+    "id": 148,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，商業法嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，商業法嘅重要性體現喺邊度？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 1
+  },
+  {
+    "id": 149,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，審計與鑑證通常會點樣考核？",
+    "question_en": "ITIL 4考試中，審計與鑑證通常會點樣考核？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 2
+  },
+  {
+    "id": 150,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，審計與鑑證嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，審計與鑑證嘅重要性體現喺邊度？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 2
+  },
+  {
+    "id": 151,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，管理會計嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，管理會計嘅重要性體現喺邊度？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 152,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 153,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，管理會計嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，管理會計嘅核心概念包括邊啲？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 154,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於財務管理，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於財務管理，以下邊項係正確嘅？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 3
+  },
+  {
+    "id": 155,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 1
+  },
+  {
+    "id": 156,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於審計與鑑證，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於審計與鑑證，以下邊項係正確嘅？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 3
+  },
+  {
+    "id": 157,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，商業法通常會點樣考核？",
+    "question_en": "ITIL 4考試中，商業法通常會點樣考核？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 2
+  },
+  {
+    "id": 158,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅稅務，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅稅務，以下邊項描述最準確？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 3
+  },
+  {
+    "id": 159,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅審計與鑑證，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅審計與鑑證，以下邊項描述最準確？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 3
+  },
+  {
+    "id": 160,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於商業法，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於商業法，以下邊項係正確嘅？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 1
+  },
+  {
+    "id": 161,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，財務管理嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，財務管理嘅重要性體現喺邊度？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 3
+  },
+  {
+    "id": 162,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，財務管理嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，財務管理嘅重要性體現喺邊度？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 2
+  },
+  {
+    "id": 163,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，財務管理嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，財務管理嘅重要性體現喺邊度？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 2
+  },
+  {
+    "id": 164,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，商業法通常會點樣考核？",
+    "question_en": "ITIL 4考試中，商業法通常會點樣考核？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 2
+  },
+  {
+    "id": 165,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，管理會計嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，管理會計嘅重要性體現喺邊度？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 166,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，財務會計嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，財務會計嘅重要性體現喺邊度？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 167,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅稅務，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅稅務，以下邊項描述最準確？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 3
+  },
+  {
+    "id": 168,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，財務會計通常會點樣考核？",
+    "question_en": "ITIL 4考試中，財務會計通常會點樣考核？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 169,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，財務管理嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，財務管理嘅核心概念包括邊啲？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 1
+  },
+  {
+    "id": 170,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，審計與鑑證嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，審計與鑑證嘅重要性體現喺邊度？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 3
+  },
+  {
+    "id": 171,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，財務會計通常會點樣考核？",
+    "question_en": "ITIL 4考試中，財務會計通常會點樣考核？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 172,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅稅務，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅稅務，以下邊項描述最準確？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 3
+  },
+  {
+    "id": 173,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，財務管理嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，財務管理嘅重要性體現喺邊度？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 2
+  },
+  {
+    "id": 174,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，財務會計嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，財務會計嘅核心概念包括邊啲？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 175,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，財務管理通常會點樣考核？",
+    "question_en": "ITIL 4考試中，財務管理通常會點樣考核？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 2
+  },
+  {
+    "id": 176,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅管理會計，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅管理會計，以下邊項描述最準確？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 177,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，財務管理嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，財務管理嘅重要性體現喺邊度？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 2
+  },
+  {
+    "id": 178,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 3
+  },
+  {
+    "id": 179,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅商業法，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅商業法，以下邊項描述最準確？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 1
+  },
+  {
+    "id": 180,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 3
+  },
+  {
+    "id": 181,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，管理會計通常會點樣考核？",
+    "question_en": "ITIL 4考試中，管理會計通常會點樣考核？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 182,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅審計與鑑證，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅審計與鑑證，以下邊項描述最準確？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 3
+  },
+  {
+    "id": 183,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅財務會計，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅財務會計，以下邊項描述最準確？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 3
+  },
+  {
+    "id": 184,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 1
+  },
+  {
+    "id": 185,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅稅務，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅稅務，以下邊項描述最準確？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 3
+  },
+  {
+    "id": 186,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於審計與鑑證，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於審計與鑑證，以下邊項係正確嘅？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 3
+  },
+  {
+    "id": 187,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，管理會計嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，管理會計嘅核心概念包括邊啲？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 3
+  },
+  {
+    "id": 188,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅稅務，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅稅務，以下邊項描述最準確？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 3
+  },
+  {
+    "id": 189,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於財務管理，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於財務管理，以下邊項係正確嘅？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 1
+  },
+  {
+    "id": 190,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，稅務嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，稅務嘅重要性體現喺邊度？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 2
+  },
+  {
+    "id": 191,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅商業法，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅商業法，以下邊項描述最準確？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 1
+  },
+  {
+    "id": 192,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅財務會計，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅財務會計，以下邊項描述最準確？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 193,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 2
+  },
+  {
+    "id": 194,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於商業法，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於商業法，以下邊項係正確嘅？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 3
+  },
+  {
+    "id": 195,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，財務會計通常會點樣考核？",
+    "question_en": "ITIL 4考試中，財務會計通常會點樣考核？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 196,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於商業法，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於商業法，以下邊項係正確嘅？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 3
+  },
+  {
+    "id": 197,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，稅務嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，稅務嘅重要性體現喺邊度？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 2
+  },
+  {
+    "id": 198,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，商業法通常會點樣考核？",
+    "question_en": "ITIL 4考試中，商業法通常會點樣考核？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 3
+  },
+  {
+    "id": 199,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，財務會計嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，財務會計嘅重要性體現喺邊度？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 200,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於商業法，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於商業法，以下邊項係正確嘅？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 2
+  },
+  {
+    "id": 201,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，財務會計通常會點樣考核？",
+    "question_en": "ITIL 4考試中，財務會計通常會點樣考核？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 202,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，商業法嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，商業法嘅核心概念包括邊啲？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 1
+  },
+  {
+    "id": 203,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於商業法，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於商業法，以下邊項係正確嘅？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 2
+  },
+  {
+    "id": 204,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於管理會計，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於管理會計，以下邊項係正確嘅？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 3
+  },
+  {
+    "id": 205,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於稅務，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於稅務，以下邊項係正確嘅？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 2
+  },
+  {
+    "id": 206,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於審計與鑑證，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於審計與鑑證，以下邊項係正確嘅？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 2
+  },
+  {
+    "id": 207,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於商業法，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於商業法，以下邊項係正確嘅？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 2
+  },
+  {
+    "id": 208,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，財務會計通常會點樣考核？",
+    "question_en": "ITIL 4考試中，財務會計通常會點樣考核？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 209,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 2
+  },
+  {
+    "id": 210,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，財務會計嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，財務會計嘅重要性體現喺邊度？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 211,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 1
+  },
+  {
+    "id": 212,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，商業法嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，商業法嘅重要性體現喺邊度？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 2
+  },
+  {
+    "id": 213,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於稅務，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於稅務，以下邊項係正確嘅？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 1
+  },
+  {
+    "id": 214,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，商業法嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，商業法嘅核心概念包括邊啲？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 3
+  },
+  {
+    "id": 215,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，管理會計嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，管理會計嘅核心概念包括邊啲？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 216,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，審計與鑑證通常會點樣考核？",
+    "question_en": "ITIL 4考試中，審計與鑑證通常會點樣考核？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 2
+  },
+  {
+    "id": 217,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅商業法，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅商業法，以下邊項描述最準確？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 2
+  },
+  {
+    "id": 218,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，財務會計通常會點樣考核？",
+    "question_en": "ITIL 4考試中，財務會計通常會點樣考核？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 219,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，財務管理通常會點樣考核？",
+    "question_en": "ITIL 4考試中，財務管理通常會點樣考核？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 3
+  },
+  {
+    "id": 220,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，財務管理嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，財務管理嘅核心概念包括邊啲？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 2
+  },
+  {
+    "id": 221,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，財務會計嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，財務會計嘅核心概念包括邊啲？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 222,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於稅務，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於稅務，以下邊項係正確嘅？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 1
+  },
+  {
+    "id": 223,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，管理會計嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，管理會計嘅重要性體現喺邊度？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 224,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅管理會計，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅管理會計，以下邊項描述最準確？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 225,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 226,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 1
+  },
+  {
+    "id": 227,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅財務會計，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅財務會計，以下邊項描述最準確？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 3
+  },
+  {
+    "id": 228,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅審計與鑑證，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅審計與鑑證，以下邊項描述最準確？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 3
+  },
+  {
+    "id": 229,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，財務會計嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，財務會計嘅核心概念包括邊啲？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 230,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅審計與鑑證，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅審計與鑑證，以下邊項描述最準確？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 3
+  },
+  {
+    "id": 231,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，商業法嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，商業法嘅重要性體現喺邊度？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 1
+  },
+  {
+    "id": 232,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 2
+  },
+  {
+    "id": 233,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅審計與鑑證，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅審計與鑑證，以下邊項描述最準確？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 2
+  },
+  {
+    "id": 234,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 2
+  },
+  {
+    "id": 235,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅財務管理，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅財務管理，以下邊項描述最準確？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 1
+  },
+  {
+    "id": 236,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，審計與鑑證通常會點樣考核？",
+    "question_en": "ITIL 4考試中，審計與鑑證通常會點樣考核？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 3
+  },
+  {
+    "id": 237,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅管理會計，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅管理會計，以下邊項描述最準確？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 3
+  },
+  {
+    "id": 238,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，財務管理嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，財務管理嘅核心概念包括邊啲？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 3
+  },
+  {
+    "id": 239,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，財務管理通常會點樣考核？",
+    "question_en": "ITIL 4考試中，財務管理通常會點樣考核？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 3
+  },
+  {
+    "id": 240,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於管理會計，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於管理會計，以下邊項係正確嘅？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 241,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅財務管理，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅財務管理，以下邊項描述最準確？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 1
+  },
+  {
+    "id": 242,
+    "topic_zh": "審計與鑑證",
+    "topic_en": "審計與鑑證",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？",
+    "options_zh": [
+      "審計與鑑證嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 審計與鑑證",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.",
+    "difficulty": 2
+  },
+  {
+    "id": 243,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，稅務嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，稅務嘅重要性體現喺邊度？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 3
+  },
+  {
+    "id": 244,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 3
+  },
+  {
+    "id": 245,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "關於ITIL 4嘅稅務，以下邊項描述最準確？",
+    "question_en": "關於ITIL 4嘅稅務，以下邊項描述最準確？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 2
+  },
+  {
+    "id": 246,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於管理會計，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於管理會計，以下邊項係正確嘅？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 247,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，財務管理通常會點樣考核？",
+    "question_en": "ITIL 4考試中，財務管理通常會點樣考核？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 1
+  },
+  {
+    "id": 248,
+    "topic_zh": "商業法",
+    "topic_en": "商業法",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，商業法嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，商業法嘅核心概念包括邊啲？",
+    "options_zh": [
+      "商業法嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 商業法",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 商業法.",
+    "difficulty": 2
+  },
+  {
+    "id": 249,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4考試中，關於管理會計，以下邊項係正確嘅？",
+    "question_en": "喺ITIL 4考試中，關於管理會計，以下邊項係正確嘅？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 2
+  },
+  {
+    "id": 250,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，財務管理通常會點樣考核？",
+    "question_en": "ITIL 4考試中，財務管理通常會點樣考核？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 1
+  },
+  {
+    "id": 251,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，財務會計通常會點樣考核？",
+    "question_en": "ITIL 4考試中，財務會計通常會點樣考核？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 3
+  },
+  {
+    "id": 252,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，管理會計通常會點樣考核？",
+    "question_en": "ITIL 4考試中，管理會計通常會點樣考核？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 1
+  },
+  {
+    "id": 253,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，財務管理嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，財務管理嘅核心概念包括邊啲？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 3
+  },
+  {
+    "id": 254,
+    "topic_zh": "管理會計",
+    "topic_en": "管理會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，管理會計嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，管理會計嘅核心概念包括邊啲？",
+    "options_zh": [
+      "管理會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 管理會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 管理會計.",
+    "difficulty": 3
+  },
+  {
+    "id": 255,
+    "topic_zh": "稅務",
+    "topic_en": "稅務",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "喺ITIL 4服務管理中，稅務嘅重要性體現喺邊度？",
+    "question_en": "喺ITIL 4服務管理中，稅務嘅重要性體現喺邊度？",
+    "options_zh": [
+      "稅務嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 稅務",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 稅務.",
+    "difficulty": 2
+  },
+  {
+    "id": 256,
+    "topic_zh": "財務管理",
+    "topic_en": "財務管理",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4 Foundation考試中，財務管理嘅核心概念包括邊啲？",
+    "question_en": "ITIL 4 Foundation考試中，財務管理嘅核心概念包括邊啲？",
+    "options_zh": [
+      "財務管理嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務管理",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務管理.",
+    "difficulty": 3
+  },
+  {
+    "id": 257,
+    "topic_zh": "財務會計",
+    "topic_en": "財務會計",
+    "subtopic_zh": "概念理解",
+    "subtopic_en": "Conceptual Understanding",
+    "question_zh": "ITIL 4考試中，財務會計通常會點樣考核？",
+    "question_en": "ITIL 4考試中，財務會計通常會點樣考核？",
+    "options_zh": [
+      "財務會計嘅核心原則同應用",
+      "市場營銷策略",
+      "人力資源管理",
+      "生產流程優化"
+    ],
+    "options_en": [
+      "Core principles and applications of 財務會計",
+      "Marketing strategy",
+      "Human resource management",
+      "Production process optimization"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。",
+    "explanation_en": "This question tests your understanding of ACCA 財務會計.",
+    "difficulty": 1
   }
 ]
