@@ -5,14 +5,14 @@
     "question_en": "Which is a song by Leona Lewis?",
     "options_zh": [
       "歌曲A",
-      "歌曲E",
       "歌曲B",
+      "歌曲E",
       "歌曲L"
     ],
     "options_en": [
       "歌曲A",
-      "歌曲E",
       "歌曲B",
+      "歌曲E",
       "歌曲L"
     ],
     "answer": 0,
@@ -25,18 +25,18 @@
     "question_zh": "《專輯A》係Leona Lewis喺邊年推出嘅專輯？",
     "question_en": "《專輯A》係Leona Lewis喺邊年推出嘅專輯？",
     "options_zh": [
-      "2018",
       "2003",
+      "2018",
       "2007",
       "2023"
     ],
     "options_en": [
-      "2018",
       "2003",
+      "2018",
       "2007",
       "2023"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "《專輯A》喺2018年推出。",
     "explanation_en": "《專輯A》喺2018年推出。",
     "difficulty": 2
@@ -46,18 +46,18 @@
     "question_zh": "《專輯B》係Leona Lewis喺邊年推出嘅專輯？",
     "question_en": "《專輯B》係Leona Lewis喺邊年推出嘅專輯？",
     "options_zh": [
+      "2003",
       "2023",
-      "2020",
       "2007",
-      "2003"
+      "2020"
     ],
     "options_en": [
+      "2003",
       "2023",
-      "2020",
       "2007",
-      "2003"
+      "2020"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "《專輯B》喺2023年推出。",
     "explanation_en": "《專輯B》喺2023年推出。",
     "difficulty": 2
@@ -67,18 +67,18 @@
     "question_zh": "《專輯C》係Leona Lewis喺邊年推出嘅專輯？",
     "question_en": "《專輯C》係Leona Lewis喺邊年推出嘅專輯？",
     "options_zh": [
-      "2010",
-      "2003",
       "2018",
-      "1999"
+      "1999",
+      "2003",
+      "2010"
     ],
     "options_en": [
-      "2010",
-      "2003",
       "2018",
-      "1999"
+      "1999",
+      "2003",
+      "2010"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "《專輯C》喺2018年推出。",
     "explanation_en": "《專輯C》喺2018年推出。",
     "difficulty": 2
@@ -88,18 +88,18 @@
     "question_zh": "《專輯D》係Leona Lewis喺邊年推出嘅專輯？",
     "question_en": "《專輯D》係Leona Lewis喺邊年推出嘅專輯？",
     "options_zh": [
+      "2007",
       "2010",
       "2003",
-      "2015",
-      "2007"
+      "2015"
     ],
     "options_en": [
+      "2007",
       "2010",
       "2003",
-      "2015",
-      "2007"
+      "2015"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "《專輯D》喺2003年推出。",
     "explanation_en": "《專輯D》喺2003年推出。",
     "difficulty": 2
@@ -109,18 +109,18 @@
     "question_zh": "《專輯E》係Leona Lewis喺邊年推出嘅專輯？",
     "question_en": "《專輯E》係Leona Lewis喺邊年推出嘅專輯？",
     "options_zh": [
-      "2010",
       "1999",
+      "2010",
       "2018",
       "2015"
     ],
     "options_en": [
-      "2010",
       "1999",
+      "2010",
       "2018",
       "2015"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "《專輯E》喺2010年推出。",
     "explanation_en": "《專輯E》喺2010年推出。",
     "difficulty": 2
@@ -131,17 +131,17 @@
     "question_en": "When did Leona Lewis approximately debut?",
     "options_zh": [
       "2010",
-      "2000",
+      "1995",
       "2005",
-      "1995"
+      "2000"
     ],
     "options_en": [
       "2010",
-      "2000",
+      "1995",
       "2005",
-      "1995"
+      "2000"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "Leona Lewis喺2000年出道。",
     "explanation_en": "Leona Lewis debuted around 2000.",
     "difficulty": 1
@@ -151,18 +151,18 @@
     "question_zh": "Leona Lewis來自邊個地方？",
     "question_en": "Where is Leona Lewis from?",
     "options_zh": [
-      "馬來西亞",
       "美國",
+      "other",
       "日本",
-      "other"
+      "馬來西亞"
     ],
     "options_en": [
-      "馬來西亞",
       "美國",
+      "other",
       "日本",
-      "other"
+      "馬來西亞"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "Leona Lewis來自other。",
     "explanation_en": "Leona Lewis is from other.",
     "difficulty": 1
@@ -172,18 +172,18 @@
     "question_zh": "Leona Lewis主要唱咩類型嘅音樂？",
     "question_en": "What genre does Leona Lewis mainly sing?",
     "options_zh": [
-      "古典",
       "流行曲",
-      "民謠",
-      "電子"
+      "電子",
+      "古典",
+      "民謠"
     ],
     "options_en": [
-      "古典",
       "流行曲",
-      "民謠",
-      "電子"
+      "電子",
+      "古典",
+      "民謠"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "Leona Lewis主要唱流行曲。",
     "explanation_en": "Leona Lewis主要唱流行曲。",
     "difficulty": 2
@@ -193,18 +193,18 @@
     "question_zh": "Leona Lewis係邊間唱片公司旗下？",
     "question_en": "Which label is Leona Lewis signed to?",
     "options_zh": [
-      "索尼",
       "唱片公司",
-      "華納",
-      "大國文化"
+      "大國文化",
+      "索尼",
+      "華納"
     ],
     "options_en": [
-      "索尼",
       "唱片公司",
-      "華納",
-      "大國文化"
+      "大國文化",
+      "索尼",
+      "華納"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "Leona Lewis係唱片公司旗下歌手。",
     "explanation_en": "Leona Lewis係唱片公司旗下歌手。",
     "difficulty": 2
@@ -214,18 +214,18 @@
     "question_zh": "以下邊項關於Leona Lewis嘅描述係正確？",
     "question_en": "Which description of Leona Lewis is correct?",
     "options_zh": [
+      "唔存在",
       "來自外太空",
-      "來自other",
       "係AI歌手",
-      "唔存在"
+      "來自other"
     ],
     "options_en": [
+      "Doesn't exist",
       "From outer space",
-      "From other",
       "AI singer",
-      "Doesn't exist"
+      "From other"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "Leona Lewis來自other。",
     "explanation_en": "Leona Lewis is from other.",
     "difficulty": 1
@@ -236,17 +236,17 @@
     "question_en": "Which award has Leona Lewis won?",
     "options_zh": [
       "奧斯卡最佳男主角",
-      "世界盃金靴獎",
       "音樂獎項",
-      "諾貝爾文學獎"
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
     ],
     "options_en": [
       "奧斯卡最佳男主角",
-      "世界盃金靴獎",
       "音樂獎項",
-      "諾貝爾文學獎"
+      "諾貝爾文學獎",
+      "世界盃金靴獎"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "Leona Lewis曾獲得音樂獎項。",
     "explanation_en": "Leona Lewis曾獲得音樂獎項。",
     "difficulty": 3
@@ -258,27 +258,6 @@
     "options_zh": [
       "其他歌手A",
       "其他歌手C",
-      "其他歌手B",
-      "Leona Lewis"
-    ],
-    "options_en": [
-      "Other Artist A",
-      "Other Artist C",
-      "Other Artist B",
-      "Leona Lewis"
-    ],
-    "answer": 3,
-    "explanation_zh": "《歌曲A》係Leona Lewis嘅歌。",
-    "explanation_en": "《歌曲A》係Leona Lewis嘅歌。",
-    "difficulty": 3
-  },
-  {
-    "id": 14,
-    "question_zh": "《歌曲B》係邊位歌手嘅歌？",
-    "question_en": "《歌曲B》係邊位歌手嘅歌？",
-    "options_zh": [
-      "其他歌手A",
-      "其他歌手C",
       "Leona Lewis",
       "其他歌手B"
     ],
@@ -289,6 +268,27 @@
       "Other Artist B"
     ],
     "answer": 2,
+    "explanation_zh": "《歌曲A》係Leona Lewis嘅歌。",
+    "explanation_en": "《歌曲A》係Leona Lewis嘅歌。",
+    "difficulty": 3
+  },
+  {
+    "id": 14,
+    "question_zh": "《歌曲B》係邊位歌手嘅歌？",
+    "question_en": "《歌曲B》係邊位歌手嘅歌？",
+    "options_zh": [
+      "其他歌手A",
+      "Leona Lewis",
+      "其他歌手C",
+      "其他歌手B"
+    ],
+    "options_en": [
+      "Other Artist A",
+      "Leona Lewis",
+      "Other Artist C",
+      "Other Artist B"
+    ],
+    "answer": 1,
     "explanation_zh": "《歌曲B》係Leona Lewis嘅歌。",
     "explanation_en": "《歌曲B》係Leona Lewis嘅歌。",
     "difficulty": 3
@@ -298,16 +298,16 @@
     "question_zh": "《歌曲C》係邊位歌手嘅歌？",
     "question_en": "《歌曲C》係邊位歌手嘅歌？",
     "options_zh": [
-      "其他歌手C",
+      "其他歌手A",
       "Leona Lewis",
-      "其他歌手B",
-      "其他歌手A"
+      "其他歌手C",
+      "其他歌手B"
     ],
     "options_en": [
-      "Other Artist C",
+      "Other Artist A",
       "Leona Lewis",
-      "Other Artist B",
-      "Other Artist A"
+      "Other Artist C",
+      "Other Artist B"
     ],
     "answer": 1,
     "explanation_zh": "《歌曲C》係Leona Lewis嘅歌。",
@@ -319,16 +319,16 @@
     "question_zh": "《歌曲D》係邊位歌手嘅歌？",
     "question_en": "《歌曲D》係邊位歌手嘅歌？",
     "options_zh": [
-      "其他歌手C",
-      "Leona Lewis",
       "其他歌手A",
-      "其他歌手B"
+      "Leona Lewis",
+      "其他歌手B",
+      "其他歌手C"
     ],
     "options_en": [
-      "Other Artist C",
-      "Leona Lewis",
       "Other Artist A",
-      "Other Artist B"
+      "Leona Lewis",
+      "Other Artist B",
+      "Other Artist C"
     ],
     "answer": 1,
     "explanation_zh": "《歌曲D》係Leona Lewis嘅歌。",
@@ -339,6 +339,111 @@
     "id": 17,
     "question_zh": "《歌曲E》係邊位歌手嘅歌？",
     "question_en": "《歌曲E》係邊位歌手嘅歌？",
+    "options_zh": [
+      "其他歌手C",
+      "其他歌手A",
+      "其他歌手B",
+      "Leona Lewis"
+    ],
+    "options_en": [
+      "Other Artist C",
+      "Other Artist A",
+      "Other Artist B",
+      "Leona Lewis"
+    ],
+    "answer": 3,
+    "explanation_zh": "《歌曲E》係Leona Lewis嘅歌。",
+    "explanation_en": "《歌曲E》係Leona Lewis嘅歌。",
+    "difficulty": 3
+  },
+  {
+    "id": 18,
+    "question_zh": "《歌曲F》係邊位歌手嘅歌？",
+    "question_en": "《歌曲F》係邊位歌手嘅歌？",
+    "options_zh": [
+      "其他歌手C",
+      "其他歌手B",
+      "Leona Lewis",
+      "其他歌手A"
+    ],
+    "options_en": [
+      "Other Artist C",
+      "Other Artist B",
+      "Leona Lewis",
+      "Other Artist A"
+    ],
+    "answer": 2,
+    "explanation_zh": "《歌曲F》係Leona Lewis嘅歌。",
+    "explanation_en": "《歌曲F》係Leona Lewis嘅歌。",
+    "difficulty": 3
+  },
+  {
+    "id": 19,
+    "question_zh": "《歌曲G》係邊位歌手嘅歌？",
+    "question_en": "《歌曲G》係邊位歌手嘅歌？",
+    "options_zh": [
+      "Leona Lewis",
+      "其他歌手B",
+      "其他歌手C",
+      "其他歌手A"
+    ],
+    "options_en": [
+      "Leona Lewis",
+      "Other Artist B",
+      "Other Artist C",
+      "Other Artist A"
+    ],
+    "answer": 0,
+    "explanation_zh": "《歌曲G》係Leona Lewis嘅歌。",
+    "explanation_en": "《歌曲G》係Leona Lewis嘅歌。",
+    "difficulty": 3
+  },
+  {
+    "id": 20,
+    "question_zh": "《歌曲H》係邊位歌手嘅歌？",
+    "question_en": "《歌曲H》係邊位歌手嘅歌？",
+    "options_zh": [
+      "其他歌手C",
+      "其他歌手B",
+      "Leona Lewis",
+      "其他歌手A"
+    ],
+    "options_en": [
+      "Other Artist C",
+      "Other Artist B",
+      "Leona Lewis",
+      "Other Artist A"
+    ],
+    "answer": 2,
+    "explanation_zh": "《歌曲H》係Leona Lewis嘅歌。",
+    "explanation_en": "《歌曲H》係Leona Lewis嘅歌。",
+    "difficulty": 3
+  },
+  {
+    "id": 21,
+    "question_zh": "《歌曲I》係邊位歌手嘅歌？",
+    "question_en": "《歌曲I》係邊位歌手嘅歌？",
+    "options_zh": [
+      "Leona Lewis",
+      "其他歌手C",
+      "其他歌手B",
+      "其他歌手A"
+    ],
+    "options_en": [
+      "Leona Lewis",
+      "Other Artist C",
+      "Other Artist B",
+      "Other Artist A"
+    ],
+    "answer": 0,
+    "explanation_zh": "《歌曲I》係Leona Lewis嘅歌。",
+    "explanation_en": "《歌曲I》係Leona Lewis嘅歌。",
+    "difficulty": 3
+  },
+  {
+    "id": 22,
+    "question_zh": "《歌曲J》係邊位歌手嘅歌？",
+    "question_en": "《歌曲J》係邊位歌手嘅歌？",
     "options_zh": [
       "其他歌手B",
       "Leona Lewis",
@@ -352,111 +457,6 @@
       "Other Artist C"
     ],
     "answer": 1,
-    "explanation_zh": "《歌曲E》係Leona Lewis嘅歌。",
-    "explanation_en": "《歌曲E》係Leona Lewis嘅歌。",
-    "difficulty": 3
-  },
-  {
-    "id": 18,
-    "question_zh": "《歌曲F》係邊位歌手嘅歌？",
-    "question_en": "《歌曲F》係邊位歌手嘅歌？",
-    "options_zh": [
-      "其他歌手B",
-      "Leona Lewis",
-      "其他歌手C",
-      "其他歌手A"
-    ],
-    "options_en": [
-      "Other Artist B",
-      "Leona Lewis",
-      "Other Artist C",
-      "Other Artist A"
-    ],
-    "answer": 1,
-    "explanation_zh": "《歌曲F》係Leona Lewis嘅歌。",
-    "explanation_en": "《歌曲F》係Leona Lewis嘅歌。",
-    "difficulty": 3
-  },
-  {
-    "id": 19,
-    "question_zh": "《歌曲G》係邊位歌手嘅歌？",
-    "question_en": "《歌曲G》係邊位歌手嘅歌？",
-    "options_zh": [
-      "其他歌手B",
-      "其他歌手C",
-      "其他歌手A",
-      "Leona Lewis"
-    ],
-    "options_en": [
-      "Other Artist B",
-      "Other Artist C",
-      "Other Artist A",
-      "Leona Lewis"
-    ],
-    "answer": 3,
-    "explanation_zh": "《歌曲G》係Leona Lewis嘅歌。",
-    "explanation_en": "《歌曲G》係Leona Lewis嘅歌。",
-    "difficulty": 3
-  },
-  {
-    "id": 20,
-    "question_zh": "《歌曲H》係邊位歌手嘅歌？",
-    "question_en": "《歌曲H》係邊位歌手嘅歌？",
-    "options_zh": [
-      "其他歌手A",
-      "其他歌手C",
-      "其他歌手B",
-      "Leona Lewis"
-    ],
-    "options_en": [
-      "Other Artist A",
-      "Other Artist C",
-      "Other Artist B",
-      "Leona Lewis"
-    ],
-    "answer": 3,
-    "explanation_zh": "《歌曲H》係Leona Lewis嘅歌。",
-    "explanation_en": "《歌曲H》係Leona Lewis嘅歌。",
-    "difficulty": 3
-  },
-  {
-    "id": 21,
-    "question_zh": "《歌曲I》係邊位歌手嘅歌？",
-    "question_en": "《歌曲I》係邊位歌手嘅歌？",
-    "options_zh": [
-      "其他歌手A",
-      "Leona Lewis",
-      "其他歌手C",
-      "其他歌手B"
-    ],
-    "options_en": [
-      "Other Artist A",
-      "Leona Lewis",
-      "Other Artist C",
-      "Other Artist B"
-    ],
-    "answer": 1,
-    "explanation_zh": "《歌曲I》係Leona Lewis嘅歌。",
-    "explanation_en": "《歌曲I》係Leona Lewis嘅歌。",
-    "difficulty": 3
-  },
-  {
-    "id": 22,
-    "question_zh": "《歌曲J》係邊位歌手嘅歌？",
-    "question_en": "《歌曲J》係邊位歌手嘅歌？",
-    "options_zh": [
-      "Leona Lewis",
-      "其他歌手A",
-      "其他歌手C",
-      "其他歌手B"
-    ],
-    "options_en": [
-      "Leona Lewis",
-      "Other Artist A",
-      "Other Artist C",
-      "Other Artist B"
-    ],
-    "answer": 0,
     "explanation_zh": "《歌曲J》係Leona Lewis嘅歌。",
     "explanation_en": "《歌曲J》係Leona Lewis嘅歌。",
     "difficulty": 3
@@ -466,18 +466,18 @@
     "question_zh": "「Leona Lewis嘅歌」喺邊年開始？",
     "question_en": "When did 'Leona Lewis' start?",
     "options_zh": [
-      "2005",
-      "2010",
       "2000",
-      "2015"
+      "2010",
+      "2015",
+      "2005"
     ],
     "options_en": [
-      "2005",
-      "2010",
       "2000",
-      "2015"
+      "2010",
+      "2015",
+      "2005"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係2000。",
     "explanation_en": "Correct answer: 2000.",
     "difficulty": 1
@@ -488,17 +488,17 @@
     "question_en": "Where is 'Leona Lewis' from?",
     "options_zh": [
       "台灣",
-      "香港",
       "韓國",
+      "香港",
       "日本"
     ],
     "options_en": [
       "台灣",
-      "香港",
       "韓國",
+      "香港",
       "日本"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係香港。",
     "explanation_en": "正確答案係香港。",
     "difficulty": 1
@@ -508,18 +508,18 @@
     "question_zh": "「Leona Lewis嘅歌」最出名嘅作品係？",
     "question_en": "What's 'Leona Lewis' most famous work?",
     "options_zh": [
-      "作品D",
-      "作品B",
       "作品C",
-      "作品A"
+      "作品A",
+      "作品B",
+      "作品D"
     ],
     "options_en": [
-      "作品D",
-      "作品B",
       "作品C",
-      "作品A"
+      "作品A",
+      "作品B",
+      "作品D"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係作品A。",
     "explanation_en": "正確答案係作品A。",
     "difficulty": 1
@@ -529,18 +529,18 @@
     "question_zh": "「Leona Lewis嘅歌」嘅風格特點係？",
     "question_en": "What's 'Leona Lewis' style?",
     "options_zh": [
-      "風格C",
       "風格A",
       "風格D",
-      "風格B"
+      "風格B",
+      "風格C"
     ],
     "options_en": [
-      "風格C",
       "風格A",
       "風格D",
-      "風格B"
+      "風格B",
+      "風格C"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係風格A。",
     "explanation_en": "正確答案係風格A。",
     "difficulty": 1
@@ -552,16 +552,16 @@
     "options_zh": [
       "合作D",
       "合作B",
-      "合作C",
-      "合作A"
+      "合作A",
+      "合作C"
     ],
     "options_en": [
       "合作D",
       "合作B",
-      "合作C",
-      "合作A"
+      "合作A",
+      "合作C"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係合作A。",
     "explanation_en": "正確答案係合作A。",
     "difficulty": 1
@@ -572,17 +572,17 @@
     "question_en": "What are 'Leona Lewis' fans called?",
     "options_zh": [
       "粉絲名D",
-      "粉絲名A",
+      "粉絲名B",
       "粉絲名C",
-      "粉絲名B"
+      "粉絲名A"
     ],
     "options_en": [
       "粉絲名D",
-      "粉絲名A",
+      "粉絲名B",
       "粉絲名C",
-      "粉絲名B"
+      "粉絲名A"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係粉絲名A。",
     "explanation_en": "正確答案係粉絲名A。",
     "difficulty": 1
@@ -592,18 +592,18 @@
     "question_zh": "「Leona Lewis嘅歌」喺邊個平台最活躍？",
     "question_en": "Which platform is 'Leona Lewis' most active on?",
     "options_zh": [
-      "YouTube",
-      "Instagram",
+      "Twitter",
       "TikTok",
-      "Twitter"
+      "Instagram",
+      "YouTube"
     ],
     "options_en": [
-      "YouTube",
-      "Instagram",
+      "Twitter",
       "TikTok",
-      "Twitter"
+      "Instagram",
+      "YouTube"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係YouTube。",
     "explanation_en": "Correct answer: YouTube.",
     "difficulty": 1
@@ -613,18 +613,18 @@
     "question_zh": "「Leona Lewis嘅歌」嘅出道作品係？",
     "question_en": "What's 'Leona Lewis' debut work?",
     "options_zh": [
-      "出道作B",
-      "出道作D",
       "出道作C",
-      "出道作A"
+      "出道作A",
+      "出道作D",
+      "出道作B"
     ],
     "options_en": [
-      "出道作B",
-      "出道作D",
       "出道作C",
-      "出道作A"
+      "出道作A",
+      "出道作D",
+      "出道作B"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係出道作A。",
     "explanation_en": "正確答案係出道作A。",
     "difficulty": 2
@@ -634,18 +634,18 @@
     "question_zh": "「Leona Lewis嘅歌」有冇拎過獎？",
     "question_en": "Did 'Leona Lewis' win awards?",
     "options_zh": [
-      "唔清楚",
       "有",
       "提名過",
+      "唔清楚",
       "冇"
     ],
     "options_en": [
-      "唔清楚",
       "有",
       "提名過",
+      "唔清楚",
       "冇"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係有。",
     "explanation_en": "正確答案係有。",
     "difficulty": 2
@@ -655,18 +655,18 @@
     "question_zh": "「Leona Lewis嘅歌」嘅活躍年份係？",
     "question_en": "What years was 'Leona Lewis' active?",
     "options_zh": [
-      "1990年代",
-      "2000年代",
       "2020年代",
-      "2010年代"
+      "2010年代",
+      "2000年代",
+      "1990年代"
     ],
     "options_en": [
-      "1990年代",
-      "2000年代",
       "2020年代",
-      "2010年代"
+      "2010年代",
+      "2000年代",
+      "1990年代"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係2000年代。",
     "explanation_en": "正確答案係2000年代。",
     "difficulty": 2
@@ -677,17 +677,17 @@
     "question_en": "What's 'Leona Lewis' representative color?",
     "options_zh": [
       "綠色",
-      "藍色",
       "紫色",
-      "紅色"
+      "紅色",
+      "藍色"
     ],
     "options_en": [
       "綠色",
-      "藍色",
       "紫色",
-      "紅色"
+      "紅色",
+      "藍色"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係紅色。",
     "explanation_en": "正確答案係紅色。",
     "difficulty": 2
@@ -697,15 +697,15 @@
     "question_zh": "「Leona Lewis嘅歌」嘅口頭禪係？",
     "question_en": "What's 'Leona Lewis' catchphrase?",
     "options_zh": [
-      "口頭禪C",
       "口頭禪D",
       "口頭禪B",
+      "口頭禪C",
       "口頭禪A"
     ],
     "options_en": [
-      "口頭禪C",
       "口頭禪D",
       "口頭禪B",
+      "口頭禪C",
       "口頭禪A"
     ],
     "answer": 3,
@@ -718,15 +718,15 @@
     "question_zh": "「Leona Lewis嘅歌」嘅身高係？",
     "question_en": "What's 'Leona Lewis' height?",
     "options_zh": [
-      "185cm",
       "175cm",
       "180cm",
+      "185cm",
       "170cm"
     ],
     "options_en": [
-      "185cm",
       "175cm",
       "180cm",
+      "185cm",
       "170cm"
     ],
     "answer": 3,
@@ -739,18 +739,18 @@
     "question_zh": "「Leona Lewis嘅歌」嘅生日係？",
     "question_en": "When is 'Leona Lewis' birthday?",
     "options_zh": [
-      "4月",
-      "7月",
       "10月",
-      "1月"
+      "4月",
+      "1月",
+      "7月"
     ],
     "options_en": [
-      "4月",
-      "7月",
       "10月",
-      "1月"
+      "4月",
+      "1月",
+      "7月"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係1月。",
     "explanation_en": "正確答案係1月。",
     "difficulty": 2
@@ -760,18 +760,18 @@
     "question_zh": "「Leona Lewis嘅歌」嘅經紀公司係？",
     "question_en": "What agency is 'Leona Lewis' with?",
     "options_zh": [
+      "公司B",
       "公司A",
       "公司D",
-      "公司B",
       "公司C"
     ],
     "options_en": [
+      "公司B",
       "公司A",
       "公司D",
-      "公司B",
       "公司C"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係公司A。",
     "explanation_en": "正確答案係公司A。",
     "difficulty": 2
@@ -782,17 +782,17 @@
     "question_en": "What's 'Leona Lewis' motto?",
     "options_zh": [
       "座右銘B",
-      "座右銘D",
+      "座右銘A",
       "座右銘C",
-      "座右銘A"
+      "座右銘D"
     ],
     "options_en": [
       "座右銘B",
-      "座右銘D",
+      "座右銘A",
       "座右銘C",
-      "座右銘A"
+      "座右銘D"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係座右銘A。",
     "explanation_en": "正確答案係座右銘A。",
     "difficulty": 2
@@ -802,16 +802,16 @@
     "question_zh": "「Leona Lewis嘅歌」嘅教育背景係？",
     "question_en": "What's 'Leona Lewis' education?",
     "options_zh": [
-      "海外留學",
+      "高中畢業",
       "大學畢業",
       "自學成才",
-      "高中畢業"
+      "海外留學"
     ],
     "options_en": [
-      "海外留學",
+      "高中畢業",
       "大學畢業",
       "自學成才",
-      "高中畢業"
+      "海外留學"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係大學畢業。",
@@ -823,16 +823,16 @@
     "question_zh": "「Leona Lewis嘅歌」嘅家庭背景係？",
     "question_en": "What's 'Leona Lewis' family background?",
     "options_zh": [
-      "商界家庭",
-      "普通家庭",
       "演藝世家",
-      "學術家庭"
+      "普通家庭",
+      "學術家庭",
+      "商界家庭"
     ],
     "options_en": [
-      "商界家庭",
-      "普通家庭",
       "演藝世家",
-      "學術家庭"
+      "普通家庭",
+      "學術家庭",
+      "商界家庭"
     ],
     "answer": 1,
     "explanation_zh": "正確答案係普通家庭。",
@@ -844,18 +844,18 @@
     "question_zh": "「Leona Lewis嘅歌」嘅興趣愛好係？",
     "question_en": "What's 'Leona Lewis' hobby?",
     "options_zh": [
-      "閱讀",
-      "攝影",
       "旅行",
-      "運動"
+      "攝影",
+      "運動",
+      "閱讀"
     ],
     "options_en": [
-      "閱讀",
-      "攝影",
       "旅行",
-      "運動"
+      "攝影",
+      "運動",
+      "閱讀"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係運動。",
     "explanation_en": "正確答案係運動。",
     "difficulty": 3
@@ -866,17 +866,17 @@
     "question_en": "How many social media followers for 'Leona Lewis'?",
     "options_zh": [
       "500-1000萬",
-      "100萬以下",
+      "1000萬以上",
       "100-500萬",
-      "1000萬以上"
+      "100萬以下"
     ],
     "options_en": [
       "500-1000萬",
-      "100萬以下",
+      "1000萬以上",
       "100-500萬",
-      "1000萬以上"
+      "100萬以下"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係100萬以下。",
     "explanation_en": "正確答案係100萬以下。",
     "difficulty": 3
@@ -886,18 +886,18 @@
     "question_zh": "「Leona Lewis嘅歌」嘅演唱會/展覽次數？",
     "question_en": "How many concerts/exhibitions for 'Leona Lewis'?",
     "options_zh": [
-      "100場以上",
-      "10場以下",
       "50-100場",
-      "10-50場"
+      "10-50場",
+      "100場以上",
+      "10場以下"
     ],
     "options_en": [
-      "100場以上",
-      "10場以下",
       "50-100場",
-      "10-50場"
+      "10-50場",
+      "100場以上",
+      "10場以下"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係10場以下。",
     "explanation_en": "正確答案係10場以下。",
     "difficulty": 3
@@ -907,18 +907,18 @@
     "question_zh": "「Leona Lewis嘅歌」嘅專輯/作品數量？",
     "question_en": "How many albums/works for 'Leona Lewis'?",
     "options_zh": [
-      "10-20個",
       "5個以下",
+      "20個以上",
       "5-10個",
-      "20個以上"
+      "10-20個"
     ],
     "options_en": [
-      "10-20個",
       "5個以下",
+      "20個以上",
       "5-10個",
-      "20個以上"
+      "10-20個"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係5個以下。",
     "explanation_en": "正確答案係5個以下。",
     "difficulty": 3
@@ -928,18 +928,18 @@
     "question_zh": "「Leona Lewis嘅歌」嘅音樂/作品風格？",
     "question_en": "What's 'Leona Lewis' creative style?",
     "options_zh": [
+      "傳統",
       "融合",
       "現代",
-      "傳統",
       "實驗"
     ],
     "options_en": [
+      "傳統",
       "融合",
       "現代",
-      "傳統",
       "實驗"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係傳統。",
     "explanation_en": "正確答案係傳統。",
     "difficulty": 3
@@ -949,18 +949,18 @@
     "question_zh": "「Leona Lewis嘅歌」嘅影響力範圍？",
     "question_en": "What's 'Leona Lewis' influence scope?",
     "options_zh": [
-      "本地",
+      "亞洲",
       "全球",
-      "網絡",
-      "亞洲"
+      "本地",
+      "網絡"
     ],
     "options_en": [
-      "本地",
+      "亞洲",
       "全球",
-      "網絡",
-      "亞洲"
+      "本地",
+      "網絡"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係本地。",
     "explanation_en": "正確答案係本地。",
     "difficulty": 3

@@ -4,18 +4,18 @@
     "question_zh": "以下邊首係Bon Jovi嘅歌？",
     "question_en": "Which is a song by Bon Jovi?",
     "options_zh": [
-      "歌曲A",
-      "歌曲O",
       "歌曲N",
-      "歌曲D"
+      "歌曲D",
+      "歌曲A",
+      "歌曲O"
     ],
     "options_en": [
-      "歌曲A",
-      "歌曲O",
       "歌曲N",
-      "歌曲D"
+      "歌曲D",
+      "歌曲A",
+      "歌曲O"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "「歌曲A」係Bon Jovi嘅歌曲。",
     "explanation_en": "「歌曲A」係Bon Jovi嘅歌曲。",
     "difficulty": 1
@@ -25,18 +25,18 @@
     "question_zh": "《專輯A》係Bon Jovi喺邊年推出嘅專輯？",
     "question_en": "《專輯A》係Bon Jovi喺邊年推出嘅專輯？",
     "options_zh": [
-      "2010",
-      "2007",
       "2020",
-      "1999"
+      "1999",
+      "2007",
+      "2010"
     ],
     "options_en": [
-      "2010",
-      "2007",
       "2020",
-      "1999"
+      "1999",
+      "2007",
+      "2010"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "《專輯A》喺2007年推出。",
     "explanation_en": "《專輯A》喺2007年推出。",
     "difficulty": 2
@@ -46,15 +46,15 @@
     "question_zh": "《專輯B》係Bon Jovi喺邊年推出嘅專輯？",
     "question_en": "《專輯B》係Bon Jovi喺邊年推出嘅專輯？",
     "options_zh": [
-      "2010",
-      "2023",
       "2007",
+      "2023",
+      "2010",
       "2015"
     ],
     "options_en": [
-      "2010",
-      "2023",
       "2007",
+      "2023",
+      "2010",
       "2015"
     ],
     "answer": 3,
@@ -88,18 +88,18 @@
     "question_zh": "《專輯D》係Bon Jovi喺邊年推出嘅專輯？",
     "question_en": "《專輯D》係Bon Jovi喺邊年推出嘅專輯？",
     "options_zh": [
-      "2015",
-      "2010",
       "2023",
-      "2003"
+      "2015",
+      "2003",
+      "2010"
     ],
     "options_en": [
-      "2015",
-      "2010",
       "2023",
-      "2003"
+      "2015",
+      "2003",
+      "2010"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "《專輯D》喺2023年推出。",
     "explanation_en": "《專輯D》喺2023年推出。",
     "difficulty": 2
@@ -110,17 +110,17 @@
     "question_en": "《專輯E》係Bon Jovi喺邊年推出嘅專輯？",
     "options_zh": [
       "2023",
-      "2010",
       "2020",
-      "1999"
+      "1999",
+      "2010"
     ],
     "options_en": [
       "2023",
-      "2010",
       "2020",
-      "1999"
+      "1999",
+      "2010"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "《專輯E》喺2020年推出。",
     "explanation_en": "《專輯E》喺2020年推出。",
     "difficulty": 2
@@ -130,18 +130,18 @@
     "question_zh": "Bon Jovi大約喺邊年出道？",
     "question_en": "When did Bon Jovi approximately debut?",
     "options_zh": [
-      "2020",
+      "2015",
       "1985",
-      "2000",
-      "2015"
+      "2020",
+      "2000"
     ],
     "options_en": [
-      "2020",
+      "2015",
       "1985",
-      "2000",
-      "2015"
+      "2020",
+      "2000"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "Bon Jovi喺2000年出道。",
     "explanation_en": "Bon Jovi debuted around 2000.",
     "difficulty": 1
@@ -151,18 +151,18 @@
     "question_zh": "Bon Jovi來自邊個地方？",
     "question_en": "Where is Bon Jovi from?",
     "options_zh": [
+      "日本",
       "other",
       "馬來西亞",
-      "日本",
       "韓國"
     ],
     "options_en": [
+      "日本",
       "other",
       "馬來西亞",
-      "日本",
       "韓國"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "Bon Jovi來自other。",
     "explanation_en": "Bon Jovi is from other.",
     "difficulty": 1
@@ -194,17 +194,17 @@
     "question_en": "Which label is Bon Jovi signed to?",
     "options_zh": [
       "英皇",
-      "唱片公司",
       "新藝寶",
+      "唱片公司",
       "金牌大風"
     ],
     "options_en": [
       "英皇",
-      "唱片公司",
       "新藝寶",
+      "唱片公司",
       "金牌大風"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "Bon Jovi係唱片公司旗下歌手。",
     "explanation_en": "Bon Jovi係唱片公司旗下歌手。",
     "difficulty": 2
@@ -214,18 +214,18 @@
     "question_zh": "以下邊項關於Bon Jovi嘅描述係正確？",
     "question_en": "Which description of Bon Jovi is correct?",
     "options_zh": [
-      "唔存在",
-      "來自外太空",
+      "係AI歌手",
       "來自other",
-      "係AI歌手"
+      "來自外太空",
+      "唔存在"
     ],
     "options_en": [
-      "Doesn't exist",
-      "From outer space",
+      "AI singer",
       "From other",
-      "AI singer"
+      "From outer space",
+      "Doesn't exist"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "Bon Jovi來自other。",
     "explanation_en": "Bon Jovi is from other.",
     "difficulty": 1
@@ -235,18 +235,18 @@
     "question_zh": "以下邊個獎項Bon Jovi曾經獲得？",
     "question_en": "Which award has Bon Jovi won?",
     "options_zh": [
-      "諾貝爾文學獎",
       "世界盃金靴獎",
-      "音樂獎項",
-      "奧斯卡最佳男主角"
+      "諾貝爾文學獎",
+      "奧斯卡最佳男主角",
+      "音樂獎項"
     ],
     "options_en": [
-      "諾貝爾文學獎",
       "世界盃金靴獎",
-      "音樂獎項",
-      "奧斯卡最佳男主角"
+      "諾貝爾文學獎",
+      "奧斯卡最佳男主角",
+      "音樂獎項"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "Bon Jovi曾獲得音樂獎項。",
     "explanation_en": "Bon Jovi曾獲得音樂獎項。",
     "difficulty": 3
@@ -257,15 +257,15 @@
     "question_en": "《歌曲A》係邊位歌手嘅歌？",
     "options_zh": [
       "其他歌手A",
-      "其他歌手C",
+      "其他歌手B",
       "Bon Jovi",
-      "其他歌手B"
+      "其他歌手C"
     ],
     "options_en": [
       "Other Artist A",
-      "Other Artist C",
+      "Other Artist B",
       "Bon Jovi",
-      "Other Artist B"
+      "Other Artist C"
     ],
     "answer": 2,
     "explanation_zh": "《歌曲A》係Bon Jovi嘅歌。",
@@ -277,18 +277,18 @@
     "question_zh": "《歌曲B》係邊位歌手嘅歌？",
     "question_en": "《歌曲B》係邊位歌手嘅歌？",
     "options_zh": [
-      "其他歌手B",
       "其他歌手A",
-      "其他歌手C",
-      "Bon Jovi"
+      "其他歌手B",
+      "Bon Jovi",
+      "其他歌手C"
     ],
     "options_en": [
-      "Other Artist B",
       "Other Artist A",
-      "Other Artist C",
-      "Bon Jovi"
+      "Other Artist B",
+      "Bon Jovi",
+      "Other Artist C"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "《歌曲B》係Bon Jovi嘅歌。",
     "explanation_en": "《歌曲B》係Bon Jovi嘅歌。",
     "difficulty": 3
@@ -299,17 +299,17 @@
     "question_en": "《歌曲C》係邊位歌手嘅歌？",
     "options_zh": [
       "其他歌手C",
-      "Bon Jovi",
       "其他歌手A",
+      "Bon Jovi",
       "其他歌手B"
     ],
     "options_en": [
       "Other Artist C",
-      "Bon Jovi",
       "Other Artist A",
+      "Bon Jovi",
       "Other Artist B"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "《歌曲C》係Bon Jovi嘅歌。",
     "explanation_en": "《歌曲C》係Bon Jovi嘅歌。",
     "difficulty": 3
@@ -319,15 +319,15 @@
     "question_zh": "《歌曲D》係邊位歌手嘅歌？",
     "question_en": "《歌曲D》係邊位歌手嘅歌？",
     "options_zh": [
+      "其他歌手C",
       "其他歌手A",
       "其他歌手B",
-      "其他歌手C",
       "Bon Jovi"
     ],
     "options_en": [
+      "Other Artist C",
       "Other Artist A",
       "Other Artist B",
-      "Other Artist C",
       "Bon Jovi"
     ],
     "answer": 3,
@@ -340,18 +340,18 @@
     "question_zh": "《歌曲E》係邊位歌手嘅歌？",
     "question_en": "《歌曲E》係邊位歌手嘅歌？",
     "options_zh": [
-      "其他歌手A",
       "其他歌手B",
-      "其他歌手C",
-      "Bon Jovi"
+      "其他歌手A",
+      "Bon Jovi",
+      "其他歌手C"
     ],
     "options_en": [
-      "Other Artist A",
       "Other Artist B",
-      "Other Artist C",
-      "Bon Jovi"
+      "Other Artist A",
+      "Bon Jovi",
+      "Other Artist C"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "《歌曲E》係Bon Jovi嘅歌。",
     "explanation_en": "《歌曲E》係Bon Jovi嘅歌。",
     "difficulty": 3
@@ -361,18 +361,18 @@
     "question_zh": "《歌曲F》係邊位歌手嘅歌？",
     "question_en": "《歌曲F》係邊位歌手嘅歌？",
     "options_zh": [
+      "Bon Jovi",
       "其他歌手A",
       "其他歌手C",
-      "Bon Jovi",
       "其他歌手B"
     ],
     "options_en": [
+      "Bon Jovi",
       "Other Artist A",
       "Other Artist C",
-      "Bon Jovi",
       "Other Artist B"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "《歌曲F》係Bon Jovi嘅歌。",
     "explanation_en": "《歌曲F》係Bon Jovi嘅歌。",
     "difficulty": 3
@@ -383,17 +383,17 @@
     "question_en": "《歌曲G》係邊位歌手嘅歌？",
     "options_zh": [
       "其他歌手C",
-      "Bon Jovi",
       "其他歌手B",
+      "Bon Jovi",
       "其他歌手A"
     ],
     "options_en": [
       "Other Artist C",
-      "Bon Jovi",
       "Other Artist B",
+      "Bon Jovi",
       "Other Artist A"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "《歌曲G》係Bon Jovi嘅歌。",
     "explanation_en": "《歌曲G》係Bon Jovi嘅歌。",
     "difficulty": 3
@@ -403,18 +403,18 @@
     "question_zh": "《歌曲H》係邊位歌手嘅歌？",
     "question_en": "《歌曲H》係邊位歌手嘅歌？",
     "options_zh": [
-      "其他歌手A",
+      "Bon Jovi",
       "其他歌手B",
-      "其他歌手C",
-      "Bon Jovi"
+      "其他歌手A",
+      "其他歌手C"
     ],
     "options_en": [
-      "Other Artist A",
+      "Bon Jovi",
       "Other Artist B",
-      "Other Artist C",
-      "Bon Jovi"
+      "Other Artist A",
+      "Other Artist C"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "《歌曲H》係Bon Jovi嘅歌。",
     "explanation_en": "《歌曲H》係Bon Jovi嘅歌。",
     "difficulty": 3
@@ -424,18 +424,18 @@
     "question_zh": "《歌曲I》係邊位歌手嘅歌？",
     "question_en": "《歌曲I》係邊位歌手嘅歌？",
     "options_zh": [
-      "其他歌手B",
-      "其他歌手C",
+      "其他歌手A",
       "Bon Jovi",
-      "其他歌手A"
+      "其他歌手B",
+      "其他歌手C"
     ],
     "options_en": [
-      "Other Artist B",
-      "Other Artist C",
+      "Other Artist A",
       "Bon Jovi",
-      "Other Artist A"
+      "Other Artist B",
+      "Other Artist C"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "《歌曲I》係Bon Jovi嘅歌。",
     "explanation_en": "《歌曲I》係Bon Jovi嘅歌。",
     "difficulty": 3
@@ -445,18 +445,18 @@
     "question_zh": "《歌曲J》係邊位歌手嘅歌？",
     "question_en": "《歌曲J》係邊位歌手嘅歌？",
     "options_zh": [
-      "其他歌手C",
       "其他歌手B",
-      "Bon Jovi",
-      "其他歌手A"
+      "其他歌手A",
+      "其他歌手C",
+      "Bon Jovi"
     ],
     "options_en": [
-      "Other Artist C",
       "Other Artist B",
-      "Bon Jovi",
-      "Other Artist A"
+      "Other Artist A",
+      "Other Artist C",
+      "Bon Jovi"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "《歌曲J》係Bon Jovi嘅歌。",
     "explanation_en": "《歌曲J》係Bon Jovi嘅歌。",
     "difficulty": 3
@@ -466,18 +466,18 @@
     "question_zh": "「Bon Jovi嘅歌」喺邊年開始？",
     "question_en": "When did 'Bon Jovi' start?",
     "options_zh": [
-      "2015",
       "2010",
-      "2000",
-      "2005"
+      "2005",
+      "2015",
+      "2000"
     ],
     "options_en": [
-      "2015",
       "2010",
-      "2000",
-      "2005"
+      "2005",
+      "2015",
+      "2000"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係2000。",
     "explanation_en": "Correct answer: 2000.",
     "difficulty": 1
@@ -487,18 +487,18 @@
     "question_zh": "「Bon Jovi嘅歌」來自邊個國家/地區？",
     "question_en": "Where is 'Bon Jovi' from?",
     "options_zh": [
+      "台灣",
       "香港",
       "韓國",
-      "台灣",
       "日本"
     ],
     "options_en": [
+      "台灣",
       "香港",
       "韓國",
-      "台灣",
       "日本"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係香港。",
     "explanation_en": "正確答案係香港。",
     "difficulty": 1
@@ -508,18 +508,18 @@
     "question_zh": "「Bon Jovi嘅歌」最出名嘅作品係？",
     "question_en": "What's 'Bon Jovi' most famous work?",
     "options_zh": [
-      "作品B",
-      "作品D",
+      "作品C",
       "作品A",
-      "作品C"
+      "作品B",
+      "作品D"
     ],
     "options_en": [
-      "作品B",
-      "作品D",
+      "作品C",
       "作品A",
-      "作品C"
+      "作品B",
+      "作品D"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係作品A。",
     "explanation_en": "正確答案係作品A。",
     "difficulty": 1
@@ -529,18 +529,18 @@
     "question_zh": "「Bon Jovi嘅歌」嘅風格特點係？",
     "question_en": "What's 'Bon Jovi' style?",
     "options_zh": [
-      "風格B",
-      "風格D",
       "風格A",
-      "風格C"
+      "風格D",
+      "風格C",
+      "風格B"
     ],
     "options_en": [
-      "風格B",
-      "風格D",
       "風格A",
-      "風格C"
+      "風格D",
+      "風格C",
+      "風格B"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係風格A。",
     "explanation_en": "正確答案係風格A。",
     "difficulty": 1
@@ -550,18 +550,18 @@
     "question_zh": "「Bon Jovi嘅歌」同邊位合作過？",
     "question_en": "Who collaborated with 'Bon Jovi'?",
     "options_zh": [
-      "合作C",
+      "合作A",
       "合作B",
       "合作D",
-      "合作A"
+      "合作C"
     ],
     "options_en": [
-      "合作C",
+      "合作A",
       "合作B",
       "合作D",
-      "合作A"
+      "合作C"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係合作A。",
     "explanation_en": "正確答案係合作A。",
     "difficulty": 1
@@ -571,18 +571,18 @@
     "question_zh": "「Bon Jovi嘅歌」嘅粉絲叫咩？",
     "question_en": "What are 'Bon Jovi' fans called?",
     "options_zh": [
-      "粉絲名D",
       "粉絲名B",
-      "粉絲名C",
-      "粉絲名A"
+      "粉絲名A",
+      "粉絲名D",
+      "粉絲名C"
     ],
     "options_en": [
-      "粉絲名D",
       "粉絲名B",
-      "粉絲名C",
-      "粉絲名A"
+      "粉絲名A",
+      "粉絲名D",
+      "粉絲名C"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係粉絲名A。",
     "explanation_en": "正確答案係粉絲名A。",
     "difficulty": 1
@@ -592,18 +592,18 @@
     "question_zh": "「Bon Jovi嘅歌」喺邊個平台最活躍？",
     "question_en": "Which platform is 'Bon Jovi' most active on?",
     "options_zh": [
+      "Instagram",
       "Twitter",
       "YouTube",
-      "TikTok",
-      "Instagram"
+      "TikTok"
     ],
     "options_en": [
+      "Instagram",
       "Twitter",
       "YouTube",
-      "TikTok",
-      "Instagram"
+      "TikTok"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係YouTube。",
     "explanation_en": "Correct answer: YouTube.",
     "difficulty": 1
@@ -655,16 +655,16 @@
     "question_zh": "「Bon Jovi嘅歌」嘅活躍年份係？",
     "question_en": "What years was 'Bon Jovi' active?",
     "options_zh": [
+      "2020年代",
       "1990年代",
-      "2010年代",
       "2000年代",
-      "2020年代"
+      "2010年代"
     ],
     "options_en": [
+      "2020年代",
       "1990年代",
-      "2010年代",
       "2000年代",
-      "2020年代"
+      "2010年代"
     ],
     "answer": 2,
     "explanation_zh": "正確答案係2000年代。",
@@ -677,17 +677,17 @@
     "question_en": "What's 'Bon Jovi' representative color?",
     "options_zh": [
       "藍色",
+      "紅色",
       "紫色",
-      "綠色",
-      "紅色"
+      "綠色"
     ],
     "options_en": [
       "藍色",
+      "紅色",
       "紫色",
-      "綠色",
-      "紅色"
+      "綠色"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係紅色。",
     "explanation_en": "正確答案係紅色。",
     "difficulty": 2
@@ -697,18 +697,18 @@
     "question_zh": "「Bon Jovi嘅歌」嘅口頭禪係？",
     "question_en": "What's 'Bon Jovi' catchphrase?",
     "options_zh": [
-      "口頭禪C",
       "口頭禪B",
-      "口頭禪A",
-      "口頭禪D"
+      "口頭禪D",
+      "口頭禪C",
+      "口頭禪A"
     ],
     "options_en": [
-      "口頭禪C",
       "口頭禪B",
-      "口頭禪A",
-      "口頭禪D"
+      "口頭禪D",
+      "口頭禪C",
+      "口頭禪A"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係口頭禪A。",
     "explanation_en": "正確答案係口頭禪A。",
     "difficulty": 2
@@ -719,17 +719,17 @@
     "question_en": "What's 'Bon Jovi' height?",
     "options_zh": [
       "180cm",
+      "185cm",
       "170cm",
-      "175cm",
-      "185cm"
+      "175cm"
     ],
     "options_en": [
       "180cm",
+      "185cm",
       "170cm",
-      "175cm",
-      "185cm"
+      "175cm"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係170cm。",
     "explanation_en": "Correct answer: 170cm.",
     "difficulty": 2
@@ -739,18 +739,18 @@
     "question_zh": "「Bon Jovi嘅歌」嘅生日係？",
     "question_en": "When is 'Bon Jovi' birthday?",
     "options_zh": [
-      "1月",
-      "4月",
+      "7月",
       "10月",
-      "7月"
+      "1月",
+      "4月"
     ],
     "options_en": [
-      "1月",
-      "4月",
+      "7月",
       "10月",
-      "7月"
+      "1月",
+      "4月"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係1月。",
     "explanation_en": "正確答案係1月。",
     "difficulty": 2
@@ -760,18 +760,18 @@
     "question_zh": "「Bon Jovi嘅歌」嘅經紀公司係？",
     "question_en": "What agency is 'Bon Jovi' with?",
     "options_zh": [
-      "公司A",
       "公司B",
-      "公司D",
-      "公司C"
+      "公司A",
+      "公司C",
+      "公司D"
     ],
     "options_en": [
-      "公司A",
       "公司B",
-      "公司D",
-      "公司C"
+      "公司A",
+      "公司C",
+      "公司D"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係公司A。",
     "explanation_en": "正確答案係公司A。",
     "difficulty": 2
@@ -781,18 +781,18 @@
     "question_zh": "「Bon Jovi嘅歌」嘅座右銘係？",
     "question_en": "What's 'Bon Jovi' motto?",
     "options_zh": [
-      "座右銘B",
-      "座右銘D",
+      "座右銘A",
       "座右銘C",
-      "座右銘A"
+      "座右銘B",
+      "座右銘D"
     ],
     "options_en": [
-      "座右銘B",
-      "座右銘D",
+      "座右銘A",
       "座右銘C",
-      "座右銘A"
+      "座右銘B",
+      "座右銘D"
     ],
-    "answer": 3,
+    "answer": 0,
     "explanation_zh": "正確答案係座右銘A。",
     "explanation_en": "正確答案係座右銘A。",
     "difficulty": 2
@@ -802,18 +802,18 @@
     "question_zh": "「Bon Jovi嘅歌」嘅教育背景係？",
     "question_en": "What's 'Bon Jovi' education?",
     "options_zh": [
-      "自學成才",
       "海外留學",
       "大學畢業",
-      "高中畢業"
+      "高中畢業",
+      "自學成才"
     ],
     "options_en": [
-      "自學成才",
       "海外留學",
       "大學畢業",
-      "高中畢業"
+      "高中畢業",
+      "自學成才"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係大學畢業。",
     "explanation_en": "正確答案係大學畢業。",
     "difficulty": 2
@@ -823,18 +823,18 @@
     "question_zh": "「Bon Jovi嘅歌」嘅家庭背景係？",
     "question_en": "What's 'Bon Jovi' family background?",
     "options_zh": [
-      "學術家庭",
-      "普通家庭",
+      "演藝世家",
       "商界家庭",
-      "演藝世家"
+      "普通家庭",
+      "學術家庭"
     ],
     "options_en": [
-      "學術家庭",
-      "普通家庭",
+      "演藝世家",
       "商界家庭",
-      "演藝世家"
+      "普通家庭",
+      "學術家庭"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係普通家庭。",
     "explanation_en": "正確答案係普通家庭。",
     "difficulty": 3
@@ -846,16 +846,16 @@
     "options_zh": [
       "閱讀",
       "旅行",
-      "攝影",
-      "運動"
+      "運動",
+      "攝影"
     ],
     "options_en": [
       "閱讀",
       "旅行",
-      "攝影",
-      "運動"
+      "運動",
+      "攝影"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係運動。",
     "explanation_en": "正確答案係運動。",
     "difficulty": 3
@@ -867,14 +867,14 @@
     "options_zh": [
       "100萬以下",
       "1000萬以上",
-      "100-500萬",
-      "500-1000萬"
+      "500-1000萬",
+      "100-500萬"
     ],
     "options_en": [
       "100萬以下",
       "1000萬以上",
-      "100-500萬",
-      "500-1000萬"
+      "500-1000萬",
+      "100-500萬"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係100萬以下。",
@@ -888,16 +888,16 @@
     "options_zh": [
       "10-50場",
       "100場以上",
-      "10場以下",
-      "50-100場"
+      "50-100場",
+      "10場以下"
     ],
     "options_en": [
       "10-50場",
       "100場以上",
-      "10場以下",
-      "50-100場"
+      "50-100場",
+      "10場以下"
     ],
-    "answer": 2,
+    "answer": 3,
     "explanation_zh": "正確答案係10場以下。",
     "explanation_en": "正確答案係10場以下。",
     "difficulty": 3
@@ -907,18 +907,18 @@
     "question_zh": "「Bon Jovi嘅歌」嘅專輯/作品數量？",
     "question_en": "How many albums/works for 'Bon Jovi'?",
     "options_zh": [
-      "20個以上",
       "10-20個",
       "5個以下",
-      "5-10個"
+      "5-10個",
+      "20個以上"
     ],
     "options_en": [
-      "20個以上",
       "10-20個",
       "5個以下",
-      "5-10個"
+      "5-10個",
+      "20個以上"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係5個以下。",
     "explanation_en": "正確答案係5個以下。",
     "difficulty": 3
@@ -928,18 +928,18 @@
     "question_zh": "「Bon Jovi嘅歌」嘅音樂/作品風格？",
     "question_en": "What's 'Bon Jovi' creative style?",
     "options_zh": [
+      "實驗",
       "融合",
-      "傳統",
       "現代",
-      "實驗"
+      "傳統"
     ],
     "options_en": [
+      "實驗",
       "融合",
-      "傳統",
       "現代",
-      "實驗"
+      "傳統"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係傳統。",
     "explanation_en": "正確答案係傳統。",
     "difficulty": 3
@@ -949,18 +949,18 @@
     "question_zh": "「Bon Jovi嘅歌」嘅影響力範圍？",
     "question_en": "What's 'Bon Jovi' influence scope?",
     "options_zh": [
-      "亞洲",
-      "全球",
       "本地",
-      "網絡"
+      "網絡",
+      "亞洲",
+      "全球"
     ],
     "options_en": [
-      "亞洲",
-      "全球",
       "本地",
-      "網絡"
+      "網絡",
+      "亞洲",
+      "全球"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係本地。",
     "explanation_en": "正確答案係本地。",
     "difficulty": 3
