@@ -1,149 +1,422 @@
 [
   {
     "id": 1,
-    "question_zh": "「《鬼滅之刃》屬於咩類型？」係咪好受歡迎？",
-    "question_en": "Is 'Demon Slayer' popular?",
+    "question_zh": "《鬼滅之刃》屬於咩類型嘅動畫？",
+    "question_en": "What genre is 'Demon Slayer'?",
     "options_zh": [
-      "只喺特定地區流行",
-      "係，非常受歡迎",
-      "唔係，好冷門",
-      "已經過氣"
+      "劍戟動作",
+      "日常搞笑",
+      "紀錄片",
+      "音樂劇"
     ],
     "options_en": [
-      "Only popular locally",
-      "Yes, very popular",
-      "No, very niche",
-      "Outdated"
+      "劍戟動作",
+      "Slice of life comedy",
+      "Documentary",
+      "Musical"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "《鬼滅之刃》係劍戟動作類型。",
+    "explanation_en": "'Demon Slayer' is 劍戟動作.",
+    "difficulty": 1
   },
   {
     "id": 2,
-    "question_zh": "「《鬼滅之刃》屬於咩類型？」係邊度嚟嘅？",
-    "question_en": "Where is 'Demon Slayer' from?",
+    "question_zh": "《鬼滅之刃》嘅原作者係邊個？",
+    "question_en": "Who is the original author of 'Demon Slayer'?",
     "options_zh": [
-      "日本",
-      "歐洲",
-      "非洲",
-      "美洲"
+      "吾峠呼世晴",
+      "尾田榮一郎",
+      "岸本齊史",
+      "鳥山明"
     ],
     "options_en": [
-      "Japan",
-      "Europe",
-      "Africa",
-      "Americas"
+      "吾峠呼世晴",
+      "Eiichiro Oda",
+      "Masashi Kishimoto",
+      "Akira Toriyama"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「日本」。",
-    "explanation_en": "The correct answer is 'Japan'.",
-    "difficulty": 3
+    "explanation_zh": "作者係吾峠呼世晴。",
+    "explanation_en": "The author is 吾峠呼世晴.",
+    "difficulty": 2
   },
   {
     "id": 3,
-    "question_zh": "「《鬼滅之刃》屬於咩類型？」有咩特色？",
-    "question_en": "What is special about 'Demon Slayer'?",
+    "question_zh": "《鬼滅之刃》動畫版首播年份係？",
+    "question_en": "When did the 'Demon Slayer' anime first air?",
     "options_zh": [
-      "冇特色",
-      "好普通",
-      "獨特風格",
-      "已經過時"
+      "2019",
+      "2009",
+      "2024",
+      "2016"
     ],
     "options_en": [
-      "No special features",
-      "Very ordinary",
-      "Unique style",
-      "Outdated"
+      "2019",
+      "2009",
+      "2024",
+      "2016"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「獨特風格」。",
-    "explanation_en": "The correct answer is 'Unique style'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "首播於2019年。",
+    "explanation_en": "First aired in 2019.",
+    "difficulty": 2
   },
   {
     "id": 4,
-    "question_zh": "你會唔會推薦「《鬼滅之刃》屬於咩類型？」？",
-    "question_en": "Would you recommend 'Demon Slayer'?",
+    "question_zh": "《鬼滅之刃》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Demon Slayer'?",
     "options_zh": [
-      "唔確定",
-      "會，非常推薦",
-      "唔會",
-      "睇情況"
+      "灶門炭治郎",
+      "路人甲",
+      "配角乙",
+      "反派丙"
     ],
     "options_en": [
-      "Not sure",
-      "Yes, highly recommended",
-      "No",
-      "It depends"
+      "Tanjiro Kamado",
+      "Side character A",
+      "Support B",
+      "Villain C"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "主角係灶門炭治郎。",
+    "explanation_en": "The protagonist is Tanjiro Kamado.",
+    "difficulty": 1
   },
   {
     "id": 5,
-    "question_zh": "「《鬼滅之刃》屬於咩類型？」適合邊種人？",
-    "question_en": "Who is 'Demon Slayer' suitable for?",
+    "question_zh": "以下關於《鬼滅之刃》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Demon Slayer' is correct?",
     "options_zh": [
-      "只適合成人",
-      "只適合專業人士",
-      "只適合兒童",
-      "所有人"
+      "水之呼吸使用者",
+      "呢個講法唔啱",
+      "完全錯誤",
+      "唔係咁樣"
     ],
     "options_en": [
-      "Only adults",
-      "Only professionals",
-      "Only children",
-      "Everyone"
+      "Water Breathing user",
+      "This is incorrect",
+      "Completely wrong",
+      "Not like this"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「所有人」。",
-    "explanation_en": "The correct answer is 'Everyone'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "正確答案係「水之呼吸使用者」。",
+    "explanation_en": "The correct answer is 'Water Breathing user'.",
+    "difficulty": 2
   },
   {
     "id": 6,
-    "question_zh": "「《鬼滅之刃》屬於咩類型？」嘅質素如何？",
-    "question_en": "What is the quality of 'Demon Slayer'?",
+    "question_zh": "以下關於《鬼滅之刃》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Demon Slayer' is correct?",
     "options_zh": [
-      "參差",
-      "高質素",
-      "低質素",
-      "普通"
+      "完全錯誤",
+      "妹妹禰豆子變成鬼",
+      "呢個講法唔啱",
+      "唔係咁樣"
     ],
     "options_en": [
-      "Mixed",
-      "High quality",
-      "Low quality",
-      "Average"
+      "Completely wrong",
+      "Sister Nezuko became a demon",
+      "This is incorrect",
+      "Not like this"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「高質素」。",
-    "explanation_en": "The correct answer is 'High quality'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「妹妹禰豆子變成鬼」。",
+    "explanation_en": "The correct answer is 'Sister Nezuko became a demon'.",
+    "difficulty": 2
   },
   {
     "id": 7,
-    "question_zh": "你對「《鬼滅之刃》屬於咩類型？」嘅整體印象係？",
-    "question_en": "What is your overall impression of 'Demon Slayer'?",
+    "question_zh": "以下關於《鬼滅之刃》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Demon Slayer' is correct?",
     "options_zh": [
-      "唔好",
-      "冇印象",
-      "一般",
-      "非常好"
+      "鬼殺隊成員",
+      "唔係咁樣",
+      "呢個講法唔啱",
+      "完全錯誤"
     ],
     "options_en": [
-      "Not good",
-      "No impression",
-      "Average",
-      "Very good"
+      "Demon Slayer Corps member",
+      "Not like this",
+      "This is incorrect",
+      "Completely wrong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「鬼殺隊成員」。",
+    "explanation_en": "The correct answer is 'Demon Slayer Corps member'.",
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_zh": "以下關於《鬼滅之刃》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Demon Slayer' is correct?",
+    "options_zh": [
+      "呢個講法唔啱",
+      "日輪刀是武器",
+      "完全錯誤",
+      "唔係咁樣"
+    ],
+    "options_en": [
+      "This is incorrect",
+      "Nichirin sword is weapon",
+      "Completely wrong",
+      "Not like this"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「日輪刀是武器」。",
+    "explanation_en": "The correct answer is 'Nichirin sword is weapon'.",
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question_zh": "以下關於《鬼滅之刃》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Demon Slayer' is correct?",
+    "options_zh": [
+      "唔係咁樣",
+      "十二鬼月是主要敵人",
+      "完全錯誤",
+      "呢個講法唔啱"
+    ],
+    "options_en": [
+      "Not like this",
+      "Twelve Kizuki are main enemies",
+      "Completely wrong",
+      "This is incorrect"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「十二鬼月是主要敵人」。",
+    "explanation_en": "The correct answer is 'Twelve Kizuki are main enemies'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《鬼滅之刃》嘅動畫製作公司係？",
+    "question_en": "Which studio produced 'Demon Slayer' anime?",
+    "options_zh": [
+      "ufotable",
+      "Bones",
+      "Toei",
+      "Sunrise"
+    ],
+    "options_en": [
+      "ufotable",
+      "Bones",
+      "Toei",
+      "Sunrise"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「ufotable」。",
+    "explanation_en": "The correct answer is 'ufotable'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《鬼滅之刃》係邊個國家嘅作品？",
+    "question_en": "Which country is 'Demon Slayer' from?",
+    "options_zh": [
+      "美國/USA",
+      "韓國/Korea",
+      "中國/China",
+      "日本/Japan"
+    ],
+    "options_en": [
+      "USA",
+      "Korea",
+      "China",
+      "Japan"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「非常好」。",
-    "explanation_en": "The correct answer is 'Very good'.",
+    "explanation_zh": "正確答案係「日本/Japan」。",
+    "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《鬼滅之刃》嘅原作係漫畫定小說？",
+    "question_en": "Is 'Demon Slayer' originally a manga or novel?",
+    "options_zh": [
+      "小說/Novel",
+      "原創/Original",
+      "漫畫/Manga",
+      "遊戲/Game"
+    ],
+    "options_en": [
+      "Novel",
+      "Original",
+      "Manga",
+      "Game"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「漫畫/Manga」。",
+    "explanation_en": "The correct answer is 'Manga'.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《鬼滅之刃》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Demon Slayer' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《鬼滅之刃》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Demon Slayer' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《鬼滅之刃》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Demon Slayer' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《鬼滅之刃》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Demon Slayer' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《鬼滅之刃》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Demon Slayer' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《鬼滅之刃》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Demon Slayer' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "《鬼滅之刃》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Demon Slayer' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《鬼滅之刃》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Demon Slayer' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《鬼滅之刃》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Demon Slayer' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《鬼滅之刃》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Demon Slayer' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_zh": "《鬼滅之刃》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Demon Slayer' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《鬼滅之刃》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Demon Slayer' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "《鬼滅之刃》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Demon Slayer' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《鬼滅之刃》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Demon Slayer' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question_zh": "《鬼滅之刃》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Demon Slayer' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《鬼滅之刃》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Demon Slayer' is indeed a popular work.",
+    "difficulty": 1
   }
 ]

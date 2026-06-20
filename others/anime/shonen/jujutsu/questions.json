@@ -1,149 +1,422 @@
 [
   {
     "id": 1,
-    "question_zh": "「《咒術迴戰》屬於咩類型？」係咪好受歡迎？",
-    "question_en": "Is 'Jujutsu' popular?",
+    "question_zh": "《咒術迴戰》屬於咩類型嘅動畫？",
+    "question_en": "What genre is 'Jujutsu Kaisen'?",
     "options_zh": [
-      "已經過氣",
-      "係，非常受歡迎",
-      "只喺特定地區流行",
-      "唔係，好冷門"
+      "咒術動作",
+      "日常搞笑",
+      "紀錄片",
+      "音樂劇"
     ],
     "options_en": [
-      "Outdated",
-      "Yes, very popular",
-      "Only popular locally",
-      "No, very niche"
+      "咒術動作",
+      "Slice of life comedy",
+      "Documentary",
+      "Musical"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "《咒術迴戰》係咒術動作類型。",
+    "explanation_en": "'Jujutsu Kaisen' is 咒術動作.",
+    "difficulty": 1
   },
   {
     "id": 2,
-    "question_zh": "「《咒術迴戰》屬於咩類型？」係邊度嚟嘅？",
-    "question_en": "Where is 'Jujutsu' from?",
+    "question_zh": "《咒術迴戰》嘅原作者係邊個？",
+    "question_en": "Who is the original author of 'Jujutsu Kaisen'?",
     "options_zh": [
-      "美洲",
-      "日本",
-      "歐洲",
-      "非洲"
+      "芥見下々",
+      "尾田榮一郎",
+      "岸本齊史",
+      "鳥山明"
     ],
     "options_en": [
-      "Americas",
-      "Japan",
-      "Europe",
-      "Africa"
+      "芥見下々",
+      "Eiichiro Oda",
+      "Masashi Kishimoto",
+      "Akira Toriyama"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「日本」。",
-    "explanation_en": "The correct answer is 'Japan'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "作者係芥見下々。",
+    "explanation_en": "The author is 芥見下々.",
+    "difficulty": 2
   },
   {
     "id": 3,
-    "question_zh": "「《咒術迴戰》屬於咩類型？」有咩特色？",
-    "question_en": "What is special about 'Jujutsu'?",
+    "question_zh": "《咒術迴戰》動畫版首播年份係？",
+    "question_en": "When did the 'Jujutsu Kaisen' anime first air?",
     "options_zh": [
-      "獨特風格",
-      "冇特色",
-      "好普通",
-      "已經過時"
+      "2020",
+      "2010",
+      "2025",
+      "2017"
     ],
     "options_en": [
-      "Unique style",
-      "No special features",
-      "Very ordinary",
-      "Outdated"
+      "2020",
+      "2010",
+      "2025",
+      "2017"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「獨特風格」。",
-    "explanation_en": "The correct answer is 'Unique style'.",
-    "difficulty": 3
+    "explanation_zh": "首播於2020年。",
+    "explanation_en": "First aired in 2020.",
+    "difficulty": 2
   },
   {
     "id": 4,
-    "question_zh": "你會唔會推薦「《咒術迴戰》屬於咩類型？」？",
-    "question_en": "Would you recommend 'Jujutsu'?",
+    "question_zh": "《咒術迴戰》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Jujutsu Kaisen'?",
     "options_zh": [
-      "會，非常推薦",
-      "睇情況",
-      "唔確定",
-      "唔會"
+      "虎杖悠仁",
+      "路人甲",
+      "配角乙",
+      "反派丙"
     ],
     "options_en": [
-      "Yes, highly recommended",
-      "It depends",
-      "Not sure",
-      "No"
+      "Yuji Itadori",
+      "Side character A",
+      "Support B",
+      "Villain C"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 3
+    "explanation_zh": "主角係虎杖悠仁。",
+    "explanation_en": "The protagonist is Yuji Itadori.",
+    "difficulty": 1
   },
   {
     "id": 5,
-    "question_zh": "「《咒術迴戰》屬於咩類型？」適合邊種人？",
-    "question_en": "Who is 'Jujutsu' suitable for?",
+    "question_zh": "以下關於《咒術迴戰》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Jujutsu Kaisen' is correct?",
     "options_zh": [
-      "只適合兒童",
-      "所有人",
-      "只適合成人",
-      "只適合專業人士"
+      "完全錯誤",
+      "唔係咁樣",
+      "呢個講法唔啱",
+      "吞下宿儺的手指"
     ],
     "options_en": [
-      "Only children",
-      "Everyone",
-      "Only adults",
-      "Only professionals"
+      "Completely wrong",
+      "Not like this",
+      "This is incorrect",
+      "Swallowed Sukuna's finger"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「所有人」。",
-    "explanation_en": "The correct answer is 'Everyone'.",
-    "difficulty": 3
+    "answer": 3,
+    "explanation_zh": "正確答案係「吞下宿儺的手指」。",
+    "explanation_en": "The correct answer is 'Swallowed Sukuna's finger'.",
+    "difficulty": 2
   },
   {
     "id": 6,
-    "question_zh": "「《咒術迴戰》屬於咩類型？」嘅質素如何？",
-    "question_en": "What is the quality of 'Jujutsu'?",
+    "question_zh": "以下關於《咒術迴戰》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Jujutsu Kaisen' is correct?",
     "options_zh": [
-      "高質素",
-      "普通",
-      "參差",
-      "低質素"
+      "呢個講法唔啱",
+      "咒術高專學生",
+      "完全錯誤",
+      "唔係咁樣"
     ],
     "options_en": [
-      "High quality",
-      "Average",
-      "Mixed",
-      "Low quality"
+      "This is incorrect",
+      "Jujutsu High student",
+      "Completely wrong",
+      "Not like this"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「高質素」。",
-    "explanation_en": "The correct answer is 'High quality'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「咒術高專學生」。",
+    "explanation_en": "The correct answer is 'Jujutsu High student'.",
+    "difficulty": 2
   },
   {
     "id": 7,
-    "question_zh": "你對「《咒術迴戰》屬於咩類型？」嘅整體印象係？",
-    "question_en": "What is your overall impression of 'Jujutsu'?",
+    "question_zh": "以下關於《咒術迴戰》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Jujutsu Kaisen' is correct?",
     "options_zh": [
-      "冇印象",
-      "唔好",
-      "一般",
-      "非常好"
+      "領域展開是終極技能",
+      "呢個講法唔啱",
+      "唔係咁樣",
+      "完全錯誤"
     ],
     "options_en": [
-      "No impression",
-      "Not good",
-      "Average",
-      "Very good"
+      "Domain Expansion is ultimate skill",
+      "This is incorrect",
+      "Not like this",
+      "Completely wrong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「領域展開是終極技能」。",
+    "explanation_en": "The correct answer is 'Domain Expansion is ultimate skill'.",
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_zh": "以下關於《咒術迴戰》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Jujutsu Kaisen' is correct?",
+    "options_zh": [
+      "呢個講法唔啱",
+      "五條悟是最強咒術師",
+      "完全錯誤",
+      "唔係咁樣"
+    ],
+    "options_en": [
+      "This is incorrect",
+      "Gojo is strongest sorcerer",
+      "Completely wrong",
+      "Not like this"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「五條悟是最強咒術師」。",
+    "explanation_en": "The correct answer is 'Gojo is strongest sorcerer'.",
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question_zh": "以下關於《咒術迴戰》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Jujutsu Kaisen' is correct?",
+    "options_zh": [
+      "完全錯誤",
+      "唔係咁樣",
+      "咒靈是敵人",
+      "呢個講法唔啱"
+    ],
+    "options_en": [
+      "Completely wrong",
+      "Not like this",
+      "Curses are enemies",
+      "This is incorrect"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「咒靈是敵人」。",
+    "explanation_en": "The correct answer is 'Curses are enemies'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《咒術迴戰》嘅動畫製作公司係？",
+    "question_en": "Which studio produced 'Jujutsu Kaisen' anime?",
+    "options_zh": [
+      "Bones",
+      "Sunrise",
+      "MAPPA",
+      "Toei"
+    ],
+    "options_en": [
+      "Bones",
+      "Sunrise",
+      "MAPPA",
+      "Toei"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「MAPPA」。",
+    "explanation_en": "The correct answer is 'MAPPA'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《咒術迴戰》係邊個國家嘅作品？",
+    "question_en": "Which country is 'Jujutsu Kaisen' from?",
+    "options_zh": [
+      "中國/China",
+      "日本/Japan",
+      "美國/USA",
+      "韓國/Korea"
+    ],
+    "options_en": [
+      "China",
+      "Japan",
+      "USA",
+      "Korea"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「日本/Japan」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《咒術迴戰》嘅原作係漫畫定小說？",
+    "question_en": "Is 'Jujutsu Kaisen' originally a manga or novel?",
+    "options_zh": [
+      "小說/Novel",
+      "遊戲/Game",
+      "原創/Original",
+      "漫畫/Manga"
+    ],
+    "options_en": [
+      "Novel",
+      "Game",
+      "Original",
+      "Manga"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「非常好」。",
-    "explanation_en": "The correct answer is 'Very good'.",
+    "explanation_zh": "正確答案係「漫畫/Manga」。",
+    "explanation_en": "The correct answer is 'Manga'.",
     "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《咒術迴戰》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Jujutsu Kaisen' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《咒術迴戰》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Jujutsu Kaisen' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《咒術迴戰》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Jujutsu Kaisen' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《咒術迴戰》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Jujutsu Kaisen' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《咒術迴戰》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Jujutsu Kaisen' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《咒術迴戰》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Jujutsu Kaisen' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "《咒術迴戰》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Jujutsu Kaisen' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《咒術迴戰》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Jujutsu Kaisen' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《咒術迴戰》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Jujutsu Kaisen' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《咒術迴戰》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Jujutsu Kaisen' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_zh": "《咒術迴戰》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Jujutsu Kaisen' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《咒術迴戰》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Jujutsu Kaisen' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "《咒術迴戰》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Jujutsu Kaisen' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《咒術迴戰》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Jujutsu Kaisen' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question_zh": "《咒術迴戰》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Jujutsu Kaisen' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《咒術迴戰》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Jujutsu Kaisen' is indeed a popular work.",
+    "difficulty": 1
   }
 ]

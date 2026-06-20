@@ -1,149 +1,422 @@
 [
   {
     "id": 1,
-    "question_zh": "「《慕留人》屬於咩類型？」係咪好受歡迎？",
-    "question_en": "Is 'Boruto' popular?",
+    "question_zh": "《慕留人傳》屬於咩類型嘅動畫？",
+    "question_en": "What genre is 'Boruto'?",
     "options_zh": [
-      "係，非常受歡迎",
-      "已經過氣",
-      "只喺特定地區流行",
-      "唔係，好冷門"
+      "忍者續作",
+      "日常搞笑",
+      "紀錄片",
+      "音樂劇"
     ],
     "options_en": [
-      "Yes, very popular",
-      "Outdated",
-      "Only popular locally",
-      "No, very niche"
+      "忍者續作",
+      "Slice of life comedy",
+      "Documentary",
+      "Musical"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 3
+    "explanation_zh": "《慕留人傳》係忍者續作類型。",
+    "explanation_en": "'Boruto' is 忍者續作.",
+    "difficulty": 1
   },
   {
     "id": 2,
-    "question_zh": "「《慕留人》屬於咩類型？」係邊度嚟嘅？",
-    "question_en": "Where is 'Boruto' from?",
+    "question_zh": "《慕留人傳》嘅原作者係邊個？",
+    "question_en": "Who is the original author of 'Boruto'?",
     "options_zh": [
-      "歐洲",
-      "美洲",
-      "非洲",
-      "日本"
+      "岸本齊史/池本幹雄",
+      "尾田榮一郎",
+      "岸本齊史",
+      "鳥山明"
     ],
     "options_en": [
-      "Europe",
-      "Americas",
-      "Africa",
-      "Japan"
+      "岸本齊史/池本幹雄",
+      "Eiichiro Oda",
+      "Masashi Kishimoto",
+      "Akira Toriyama"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「日本」。",
-    "explanation_en": "The correct answer is 'Japan'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "作者係岸本齊史/池本幹雄。",
+    "explanation_en": "The author is 岸本齊史/池本幹雄.",
+    "difficulty": 2
   },
   {
     "id": 3,
-    "question_zh": "「《慕留人》屬於咩類型？」有咩特色？",
-    "question_en": "What is special about 'Boruto'?",
+    "question_zh": "《慕留人傳》動畫版首播年份係？",
+    "question_en": "When did the 'Boruto' anime first air?",
     "options_zh": [
-      "已經過時",
-      "好普通",
-      "獨特風格",
-      "冇特色"
+      "2017",
+      "2007",
+      "2022",
+      "2014"
     ],
     "options_en": [
-      "Outdated",
-      "Very ordinary",
-      "Unique style",
-      "No special features"
+      "2017",
+      "2007",
+      "2022",
+      "2014"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「獨特風格」。",
-    "explanation_en": "The correct answer is 'Unique style'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "首播於2017年。",
+    "explanation_en": "First aired in 2017.",
+    "difficulty": 2
   },
   {
     "id": 4,
-    "question_zh": "你會唔會推薦「《慕留人》屬於咩類型？」？",
-    "question_en": "Would you recommend 'Boruto'?",
+    "question_zh": "《慕留人傳》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Boruto'?",
     "options_zh": [
-      "唔確定",
-      "唔會",
-      "會，非常推薦",
-      "睇情況"
+      "漩渦慕留人",
+      "路人甲",
+      "配角乙",
+      "反派丙"
     ],
     "options_en": [
-      "Not sure",
-      "No",
-      "Yes, highly recommended",
-      "It depends"
+      "Boruto Uzumaki",
+      "Side character A",
+      "Support B",
+      "Villain C"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "主角係漩渦慕留人。",
+    "explanation_en": "The protagonist is Boruto Uzumaki.",
+    "difficulty": 1
   },
   {
     "id": 5,
-    "question_zh": "「《慕留人》屬於咩類型？」適合邊種人？",
-    "question_en": "Who is 'Boruto' suitable for?",
+    "question_zh": "以下關於《慕留人傳》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Boruto' is correct?",
     "options_zh": [
-      "只適合專業人士",
-      "所有人",
-      "只適合成人",
-      "只適合兒童"
+      "唔係咁樣",
+      "鳴人的兒子",
+      "完全錯誤",
+      "呢個講法唔啱"
     ],
     "options_en": [
-      "Only professionals",
-      "Everyone",
-      "Only adults",
-      "Only children"
+      "Not like this",
+      "Naruto's son",
+      "Completely wrong",
+      "This is incorrect"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「所有人」。",
-    "explanation_en": "The correct answer is 'Everyone'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「鳴人的兒子」。",
+    "explanation_en": "The correct answer is 'Naruto's son'.",
+    "difficulty": 2
   },
   {
     "id": 6,
-    "question_zh": "「《慕留人》屬於咩類型？」嘅質素如何？",
-    "question_en": "What is the quality of 'Boruto'?",
+    "question_zh": "以下關於《慕留人傳》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Boruto' is correct?",
     "options_zh": [
-      "高質素",
-      "低質素",
-      "普通",
-      "參差"
+      "呢個講法唔啱",
+      "淨眼是特殊瞳術",
+      "唔係咁樣",
+      "完全錯誤"
     ],
     "options_en": [
-      "High quality",
-      "Low quality",
-      "Average",
-      "Mixed"
+      "This is incorrect",
+      "Jougan is special eye",
+      "Not like this",
+      "Completely wrong"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「高質素」。",
-    "explanation_en": "The correct answer is 'High quality'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「淨眼是特殊瞳術」。",
+    "explanation_en": "The correct answer is 'Jougan is special eye'.",
+    "difficulty": 2
   },
   {
     "id": 7,
-    "question_zh": "你對「《慕留人》屬於咩類型？」嘅整體印象係？",
-    "question_en": "What is your overall impression of 'Boruto'?",
+    "question_zh": "以下關於《慕留人傳》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Boruto' is correct?",
     "options_zh": [
-      "唔好",
-      "非常好",
-      "一般",
-      "冇印象"
+      "科學忍具",
+      "呢個講法唔啱",
+      "唔係咁樣",
+      "完全錯誤"
     ],
     "options_en": [
-      "Not good",
-      "Very good",
-      "Average",
-      "No impression"
+      "Scientific ninja tools",
+      "This is incorrect",
+      "Not like this",
+      "Completely wrong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「科學忍具」。",
+    "explanation_en": "The correct answer is 'Scientific ninja tools'.",
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_zh": "以下關於《慕留人傳》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Boruto' is correct?",
+    "options_zh": [
+      "唔係咁樣",
+      "完全錯誤",
+      "殼組織是敵人",
+      "呢個講法唔啱"
+    ],
+    "options_en": [
+      "Not like this",
+      "Completely wrong",
+      "Kara organization is enemy",
+      "This is incorrect"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「殼組織是敵人」。",
+    "explanation_en": "The correct answer is 'Kara organization is enemy'.",
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question_zh": "以下關於《慕留人傳》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Boruto' is correct?",
+    "options_zh": [
+      "唔係咁樣",
+      "完全錯誤",
+      "呢個講法唔啱",
+      "川木是重要角色"
+    ],
+    "options_en": [
+      "Not like this",
+      "Completely wrong",
+      "This is incorrect",
+      "Kawaki is important character"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「川木是重要角色」。",
+    "explanation_en": "The correct answer is 'Kawaki is important character'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《慕留人傳》嘅動畫製作公司係？",
+    "question_en": "Which studio produced 'Boruto' anime?",
+    "options_zh": [
+      "Toei",
+      "Pierrot",
+      "Sunrise",
+      "Bones"
+    ],
+    "options_en": [
+      "Toei",
+      "Pierrot",
+      "Sunrise",
+      "Bones"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「非常好」。",
-    "explanation_en": "The correct answer is 'Very good'.",
+    "explanation_zh": "正確答案係「Pierrot」。",
+    "explanation_en": "The correct answer is 'Pierrot'.",
     "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《慕留人傳》係邊個國家嘅作品？",
+    "question_en": "Which country is 'Boruto' from?",
+    "options_zh": [
+      "中國/China",
+      "韓國/Korea",
+      "日本/Japan",
+      "美國/USA"
+    ],
+    "options_en": [
+      "China",
+      "Korea",
+      "Japan",
+      "USA"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「日本/Japan」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《慕留人傳》嘅原作係漫畫定小說？",
+    "question_en": "Is 'Boruto' originally a manga or novel?",
+    "options_zh": [
+      "原創/Original",
+      "漫畫/Manga",
+      "小說/Novel",
+      "遊戲/Game"
+    ],
+    "options_en": [
+      "Original",
+      "Manga",
+      "Novel",
+      "Game"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「漫畫/Manga」。",
+    "explanation_en": "The correct answer is 'Manga'.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《慕留人傳》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Boruto' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《慕留人傳》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Boruto' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《慕留人傳》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Boruto' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《慕留人傳》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Boruto' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《慕留人傳》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Boruto' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《慕留人傳》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Boruto' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "《慕留人傳》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Boruto' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《慕留人傳》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Boruto' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《慕留人傳》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Boruto' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《慕留人傳》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Boruto' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_zh": "《慕留人傳》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Boruto' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《慕留人傳》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Boruto' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "《慕留人傳》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Boruto' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《慕留人傳》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Boruto' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question_zh": "《慕留人傳》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Boruto' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《慕留人傳》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Boruto' is indeed a popular work.",
+    "difficulty": 1
   }
 ]

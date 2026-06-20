@@ -1,149 +1,422 @@
 [
   {
     "id": 1,
-    "question_zh": "「《進擊的巨人》屬於咩類型？」係咪好受歡迎？",
-    "question_en": "Is 'Attack On Titan' popular?",
+    "question_zh": "《進擊的巨人》屬於咩類型嘅動畫？",
+    "question_en": "What genre is 'Attack on Titan'?",
     "options_zh": [
-      "已經過氣",
-      "唔係，好冷門",
-      "係，非常受歡迎",
-      "只喺特定地區流行"
+      "黑暗奇幻",
+      "日常搞笑",
+      "紀錄片",
+      "音樂劇"
     ],
     "options_en": [
-      "Outdated",
-      "No, very niche",
-      "Yes, very popular",
-      "Only popular locally"
+      "黑暗奇幻",
+      "Slice of life comedy",
+      "Documentary",
+      "Musical"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "《進擊的巨人》係黑暗奇幻類型。",
+    "explanation_en": "'Attack on Titan' is 黑暗奇幻.",
+    "difficulty": 1
   },
   {
     "id": 2,
-    "question_zh": "「《進擊的巨人》屬於咩類型？」係邊度嚟嘅？",
-    "question_en": "Where is 'Attack On Titan' from?",
+    "question_zh": "《進擊的巨人》嘅原作者係邊個？",
+    "question_en": "Who is the original author of 'Attack on Titan'?",
     "options_zh": [
-      "非洲",
-      "日本",
-      "美洲",
-      "歐洲"
+      "諫山創",
+      "尾田榮一郎",
+      "岸本齊史",
+      "鳥山明"
     ],
     "options_en": [
-      "Africa",
-      "Japan",
-      "Americas",
-      "Europe"
+      "諫山創",
+      "Eiichiro Oda",
+      "Masashi Kishimoto",
+      "Akira Toriyama"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「日本」。",
-    "explanation_en": "The correct answer is 'Japan'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "作者係諫山創。",
+    "explanation_en": "The author is 諫山創.",
+    "difficulty": 2
   },
   {
     "id": 3,
-    "question_zh": "「《進擊的巨人》屬於咩類型？」有咩特色？",
-    "question_en": "What is special about 'Attack On Titan'?",
+    "question_zh": "《進擊的巨人》動畫版首播年份係？",
+    "question_en": "When did the 'Attack on Titan' anime first air?",
     "options_zh": [
-      "已經過時",
-      "冇特色",
-      "獨特風格",
-      "好普通"
+      "2013",
+      "2003",
+      "2018",
+      "2010"
     ],
     "options_en": [
-      "Outdated",
-      "No special features",
-      "Unique style",
-      "Very ordinary"
+      "2013",
+      "2003",
+      "2018",
+      "2010"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「獨特風格」。",
-    "explanation_en": "The correct answer is 'Unique style'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "首播於2013年。",
+    "explanation_en": "First aired in 2013.",
+    "difficulty": 2
   },
   {
     "id": 4,
-    "question_zh": "你會唔會推薦「《進擊的巨人》屬於咩類型？」？",
-    "question_en": "Would you recommend 'Attack On Titan'?",
+    "question_zh": "《進擊的巨人》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Attack on Titan'?",
     "options_zh": [
-      "會，非常推薦",
-      "唔確定",
-      "睇情況",
-      "唔會"
+      "艾倫·耶格爾",
+      "路人甲",
+      "配角乙",
+      "反派丙"
     ],
     "options_en": [
-      "Yes, highly recommended",
-      "Not sure",
-      "It depends",
-      "No"
+      "Eren Yeager",
+      "Side character A",
+      "Support B",
+      "Villain C"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 3
+    "explanation_zh": "主角係艾倫·耶格爾。",
+    "explanation_en": "The protagonist is Eren Yeager.",
+    "difficulty": 1
   },
   {
     "id": 5,
-    "question_zh": "「《進擊的巨人》屬於咩類型？」適合邊種人？",
-    "question_en": "Who is 'Attack On Titan' suitable for?",
+    "question_zh": "以下關於《進擊的巨人》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Attack on Titan' is correct?",
     "options_zh": [
-      "只適合成人",
-      "所有人",
-      "只適合專業人士",
-      "只適合兒童"
+      "呢個講法唔啱",
+      "完全錯誤",
+      "人類被巨人威脅",
+      "唔係咁樣"
     ],
     "options_en": [
-      "Only adults",
-      "Everyone",
-      "Only professionals",
-      "Only children"
+      "This is incorrect",
+      "Completely wrong",
+      "Humanity threatened by Titans",
+      "Not like this"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「所有人」。",
-    "explanation_en": "The correct answer is 'Everyone'.",
-    "difficulty": 3
+    "answer": 2,
+    "explanation_zh": "正確答案係「人類被巨人威脅」。",
+    "explanation_en": "The correct answer is 'Humanity threatened by Titans'.",
+    "difficulty": 2
   },
   {
     "id": 6,
-    "question_zh": "「《進擊的巨人》屬於咩類型？」嘅質素如何？",
-    "question_en": "What is the quality of 'Attack On Titan'?",
+    "question_zh": "以下關於《進擊的巨人》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Attack on Titan' is correct?",
     "options_zh": [
-      "高質素",
-      "低質素",
-      "普通",
-      "參差"
+      "呢個講法唔啱",
+      "唔係咁樣",
+      "完全錯誤",
+      "三道城牆保護人類"
     ],
     "options_en": [
-      "High quality",
-      "Low quality",
-      "Average",
-      "Mixed"
+      "This is incorrect",
+      "Not like this",
+      "Completely wrong",
+      "Three walls protect humans"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「高質素」。",
-    "explanation_en": "The correct answer is 'High quality'.",
-    "difficulty": 3
+    "answer": 3,
+    "explanation_zh": "正確答案係「三道城牆保護人類」。",
+    "explanation_en": "The correct answer is 'Three walls protect humans'.",
+    "difficulty": 2
   },
   {
     "id": 7,
-    "question_zh": "你對「《進擊的巨人》屬於咩類型？」嘅整體印象係？",
-    "question_en": "What is your overall impression of 'Attack On Titan'?",
+    "question_zh": "以下關於《進擊的巨人》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Attack on Titan' is correct?",
     "options_zh": [
-      "一般",
-      "冇印象",
-      "非常好",
-      "唔好"
+      "立體機動裝置",
+      "完全錯誤",
+      "唔係咁樣",
+      "呢個講法唔啱"
     ],
     "options_en": [
-      "Average",
-      "No impression",
-      "Very good",
-      "Not good"
+      "ODM gear",
+      "Completely wrong",
+      "Not like this",
+      "This is incorrect"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「非常好」。",
-    "explanation_en": "The correct answer is 'Very good'.",
+    "answer": 0,
+    "explanation_zh": "正確答案係「立體機動裝置」。",
+    "explanation_en": "The correct answer is 'ODM gear'.",
     "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_zh": "以下關於《進擊的巨人》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Attack on Titan' is correct?",
+    "options_zh": [
+      "呢個講法唔啱",
+      "完全錯誤",
+      "唔係咁樣",
+      "調查兵團"
+    ],
+    "options_en": [
+      "This is incorrect",
+      "Completely wrong",
+      "Not like this",
+      "Survey Corps"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「調查兵團」。",
+    "explanation_en": "The correct answer is 'Survey Corps'.",
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question_zh": "以下關於《進擊的巨人》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Attack on Titan' is correct?",
+    "options_zh": [
+      "完全錯誤",
+      "唔係咁樣",
+      "呢個講法唔啱",
+      "艾倫可以變成巨人"
+    ],
+    "options_en": [
+      "Completely wrong",
+      "Not like this",
+      "This is incorrect",
+      "Eren can transform into Titan"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「艾倫可以變成巨人」。",
+    "explanation_en": "The correct answer is 'Eren can transform into Titan'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《進擊的巨人》嘅動畫製作公司係？",
+    "question_en": "Which studio produced 'Attack on Titan' anime?",
+    "options_zh": [
+      "Bones",
+      "Toei",
+      "Sunrise",
+      "MAPPA/WIT"
+    ],
+    "options_en": [
+      "Bones",
+      "Toei",
+      "Sunrise",
+      "WIT"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「MAPPA/WIT」。",
+    "explanation_en": "The correct answer is 'WIT'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《進擊的巨人》係邊個國家嘅作品？",
+    "question_en": "Which country is 'Attack on Titan' from?",
+    "options_zh": [
+      "日本/Japan",
+      "美國/USA",
+      "韓國/Korea",
+      "中國/China"
+    ],
+    "options_en": [
+      "Japan",
+      "USA",
+      "Korea",
+      "China"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「日本/Japan」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《進擊的巨人》嘅原作係漫畫定小說？",
+    "question_en": "Is 'Attack on Titan' originally a manga or novel?",
+    "options_zh": [
+      "原創/Original",
+      "小說/Novel",
+      "遊戲/Game",
+      "漫畫/Manga"
+    ],
+    "options_en": [
+      "Original",
+      "Novel",
+      "Game",
+      "Manga"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「漫畫/Manga」。",
+    "explanation_en": "The correct answer is 'Manga'.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《進擊的巨人》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Attack on Titan' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《進擊的巨人》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Attack on Titan' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《進擊的巨人》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Attack on Titan' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《進擊的巨人》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Attack on Titan' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《進擊的巨人》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Attack on Titan' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《進擊的巨人》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Attack on Titan' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "《進擊的巨人》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Attack on Titan' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《進擊的巨人》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Attack on Titan' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《進擊的巨人》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Attack on Titan' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《進擊的巨人》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Attack on Titan' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_zh": "《進擊的巨人》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Attack on Titan' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《進擊的巨人》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Attack on Titan' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "《進擊的巨人》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Attack on Titan' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《進擊的巨人》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Attack on Titan' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question_zh": "《進擊的巨人》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Attack on Titan' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《進擊的巨人》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Attack on Titan' is indeed a popular work.",
+    "difficulty": 1
   }
 ]

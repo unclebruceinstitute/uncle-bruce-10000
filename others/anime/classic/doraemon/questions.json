@@ -1,149 +1,422 @@
 [
   {
     "id": 1,
-    "question_zh": "「《多啦A夢》屬於咩類型？」係咪好受歡迎？",
-    "question_en": "Is 'Doraemon' popular?",
+    "question_zh": "《哆啦A夢》屬於咩類型嘅動畫？",
+    "question_en": "What genre is 'Doraemon'?",
     "options_zh": [
-      "唔係，好冷門",
-      "只喺特定地區流行",
-      "已經過氣",
-      "係，非常受歡迎"
+      "科幻喜劇",
+      "日常搞笑",
+      "紀錄片",
+      "音樂劇"
     ],
     "options_en": [
-      "No, very niche",
-      "Only popular locally",
-      "Outdated",
-      "Yes, very popular"
+      "科幻喜劇",
+      "Slice of life comedy",
+      "Documentary",
+      "Musical"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "《哆啦A夢》係科幻喜劇類型。",
+    "explanation_en": "'Doraemon' is 科幻喜劇.",
+    "difficulty": 1
   },
   {
     "id": 2,
-    "question_zh": "「《多啦A夢》屬於咩類型？」係邊度嚟嘅？",
-    "question_en": "Where is 'Doraemon' from?",
+    "question_zh": "《哆啦A夢》嘅原作者係邊個？",
+    "question_en": "Who is the original author of 'Doraemon'?",
     "options_zh": [
-      "美洲",
-      "日本",
-      "歐洲",
-      "非洲"
+      "藤子·F·不二雄",
+      "尾田榮一郎",
+      "岸本齊史",
+      "鳥山明"
     ],
     "options_en": [
-      "Americas",
-      "Japan",
-      "Europe",
-      "Africa"
+      "藤子·F·不二雄",
+      "Eiichiro Oda",
+      "Masashi Kishimoto",
+      "Akira Toriyama"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「日本」。",
-    "explanation_en": "The correct answer is 'Japan'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "作者係藤子·F·不二雄。",
+    "explanation_en": "The author is 藤子·F·不二雄.",
+    "difficulty": 2
   },
   {
     "id": 3,
-    "question_zh": "「《多啦A夢》屬於咩類型？」有咩特色？",
-    "question_en": "What is special about 'Doraemon'?",
+    "question_zh": "《哆啦A夢》動畫版首播年份係？",
+    "question_en": "When did the 'Doraemon' anime first air?",
     "options_zh": [
-      "已經過時",
-      "冇特色",
-      "好普通",
-      "獨特風格"
+      "1979",
+      "1969",
+      "1984",
+      "1976"
     ],
     "options_en": [
-      "Outdated",
-      "No special features",
-      "Very ordinary",
-      "Unique style"
+      "1979",
+      "1969",
+      "1984",
+      "1976"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「獨特風格」。",
-    "explanation_en": "The correct answer is 'Unique style'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "首播於1979年。",
+    "explanation_en": "First aired in 1979.",
+    "difficulty": 2
   },
   {
     "id": 4,
-    "question_zh": "你會唔會推薦「《多啦A夢》屬於咩類型？」？",
-    "question_en": "Would you recommend 'Doraemon'?",
+    "question_zh": "《哆啦A夢》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Doraemon'?",
     "options_zh": [
-      "會，非常推薦",
-      "唔確定",
-      "睇情況",
-      "唔會"
+      "哆啦A夢",
+      "路人甲",
+      "配角乙",
+      "反派丙"
     ],
     "options_en": [
-      "Yes, highly recommended",
-      "Not sure",
-      "It depends",
-      "No"
+      "Doraemon",
+      "Side character A",
+      "Support B",
+      "Villain C"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 3
+    "explanation_zh": "主角係哆啦A夢。",
+    "explanation_en": "The protagonist is Doraemon.",
+    "difficulty": 1
   },
   {
     "id": 5,
-    "question_zh": "「《多啦A夢》屬於咩類型？」適合邊種人？",
-    "question_en": "Who is 'Doraemon' suitable for?",
+    "question_zh": "以下關於《哆啦A夢》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Doraemon' is correct?",
     "options_zh": [
-      "只適合兒童",
-      "只適合成人",
-      "只適合專業人士",
-      "所有人"
+      "唔係咁樣",
+      "呢個講法唔啱",
+      "完全錯誤",
+      "來自22世紀的貓型機器人"
     ],
     "options_en": [
-      "Only children",
-      "Only adults",
-      "Only professionals",
-      "Everyone"
+      "Not like this",
+      "This is incorrect",
+      "Completely wrong",
+      "Cat robot from 22nd century"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「所有人」。",
-    "explanation_en": "The correct answer is 'Everyone'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「來自22世紀的貓型機器人」。",
+    "explanation_en": "The correct answer is 'Cat robot from 22nd century'.",
+    "difficulty": 2
   },
   {
     "id": 6,
-    "question_zh": "「《多啦A夢》屬於咩類型？」嘅質素如何？",
-    "question_en": "What is the quality of 'Doraemon'?",
+    "question_zh": "以下關於《哆啦A夢》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Doraemon' is correct?",
     "options_zh": [
-      "高質素",
-      "普通",
-      "參差",
-      "低質素"
+      "呢個講法唔啱",
+      "四次元口袋藏法寶",
+      "唔係咁樣",
+      "完全錯誤"
     ],
     "options_en": [
-      "High quality",
-      "Average",
-      "Mixed",
-      "Low quality"
+      "This is incorrect",
+      "4D pocket holds gadgets",
+      "Not like this",
+      "Completely wrong"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「高質素」。",
-    "explanation_en": "The correct answer is 'High quality'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「四次元口袋藏法寶」。",
+    "explanation_en": "The correct answer is '4D pocket holds gadgets'.",
+    "difficulty": 2
   },
   {
     "id": 7,
-    "question_zh": "你對「《多啦A夢》屬於咩類型？」嘅整體印象係？",
-    "question_en": "What is your overall impression of 'Doraemon'?",
+    "question_zh": "以下關於《哆啦A夢》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Doraemon' is correct?",
     "options_zh": [
-      "唔好",
-      "冇印象",
-      "非常好",
-      "一般"
+      "最怕老鼠",
+      "呢個講法唔啱",
+      "唔係咁樣",
+      "完全錯誤"
     ],
     "options_en": [
-      "Not good",
-      "No impression",
-      "Very good",
-      "Average"
+      "Terrified of mice",
+      "This is incorrect",
+      "Not like this",
+      "Completely wrong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「最怕老鼠」。",
+    "explanation_en": "The correct answer is 'Terrified of mice'.",
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_zh": "以下關於《哆啦A夢》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Doraemon' is correct?",
+    "options_zh": [
+      "完全錯誤",
+      "唔係咁樣",
+      "呢個講法唔啱",
+      "幫助大雄"
+    ],
+    "options_en": [
+      "Completely wrong",
+      "Not like this",
+      "This is incorrect",
+      "Helps Nobita"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「幫助大雄」。",
+    "explanation_en": "The correct answer is 'Helps Nobita'.",
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question_zh": "以下關於《哆啦A夢》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Doraemon' is correct?",
+    "options_zh": [
+      "唔係咁樣",
+      "竹蜻蜓是常用道具",
+      "呢個講法唔啱",
+      "完全錯誤"
+    ],
+    "options_en": [
+      "Not like this",
+      "Bamboo copter is常用 gadget",
+      "This is incorrect",
+      "Completely wrong"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「竹蜻蜓是常用道具」。",
+    "explanation_en": "The correct answer is 'Bamboo copter is常用 gadget'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《哆啦A夢》嘅動畫製作公司係？",
+    "question_en": "Which studio produced 'Doraemon' anime?",
+    "options_zh": [
+      "Bones",
+      "Sunrise",
+      "Toei",
+      "Shin-Ei Animation"
+    ],
+    "options_en": [
+      "Bones",
+      "Sunrise",
+      "Toei",
+      "Shin-Ei Animation"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「Shin-Ei Animation」。",
+    "explanation_en": "The correct answer is 'Shin-Ei Animation'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《哆啦A夢》係邊個國家嘅作品？",
+    "question_en": "Which country is 'Doraemon' from?",
+    "options_zh": [
+      "韓國/Korea",
+      "中國/China",
+      "日本/Japan",
+      "美國/USA"
+    ],
+    "options_en": [
+      "Korea",
+      "China",
+      "Japan",
+      "USA"
     ],
     "answer": 2,
-    "explanation_zh": "正確答案係「非常好」。",
-    "explanation_en": "The correct answer is 'Very good'.",
+    "explanation_zh": "正確答案係「日本/Japan」。",
+    "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《哆啦A夢》嘅原作係漫畫定小說？",
+    "question_en": "Is 'Doraemon' originally a manga or novel?",
+    "options_zh": [
+      "遊戲/Game",
+      "小說/Novel",
+      "原創/Original",
+      "漫畫/Manga"
+    ],
+    "options_en": [
+      "Game",
+      "Novel",
+      "Original",
+      "Manga"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「漫畫/Manga」。",
+    "explanation_en": "The correct answer is 'Manga'.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《哆啦A夢》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Doraemon' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《哆啦A夢》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Doraemon' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《哆啦A夢》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Doraemon' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《哆啦A夢》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Doraemon' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《哆啦A夢》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Doraemon' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《哆啦A夢》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Doraemon' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "《哆啦A夢》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Doraemon' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《哆啦A夢》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Doraemon' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《哆啦A夢》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Doraemon' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《哆啦A夢》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Doraemon' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_zh": "《哆啦A夢》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Doraemon' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《哆啦A夢》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Doraemon' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "《哆啦A夢》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Doraemon' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《哆啦A夢》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Doraemon' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question_zh": "《哆啦A夢》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Doraemon' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《哆啦A夢》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Doraemon' is indeed a popular work.",
+    "difficulty": 1
   }
 ]

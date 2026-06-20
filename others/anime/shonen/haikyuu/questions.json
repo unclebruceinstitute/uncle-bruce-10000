@@ -1,149 +1,422 @@
 [
   {
     "id": 1,
-    "question_zh": "「《排球少年》屬於咩類型？」係咪好受歡迎？",
-    "question_en": "Is 'Haikyuu' popular?",
+    "question_zh": "《排球少年》屬於咩類型嘅動畫？",
+    "question_en": "What genre is 'Haikyuu!!'?",
     "options_zh": [
-      "唔係，好冷門",
-      "已經過氣",
-      "只喺特定地區流行",
-      "係，非常受歡迎"
+      "運動排球",
+      "日常搞笑",
+      "紀錄片",
+      "音樂劇"
     ],
     "options_en": [
-      "No, very niche",
-      "Outdated",
-      "Only popular locally",
-      "Yes, very popular"
+      "運動排球",
+      "Slice of life comedy",
+      "Documentary",
+      "Musical"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "《排球少年》係運動排球類型。",
+    "explanation_en": "'Haikyuu!!' is 運動排球.",
+    "difficulty": 1
   },
   {
     "id": 2,
-    "question_zh": "「《排球少年》屬於咩類型？」係邊度嚟嘅？",
-    "question_en": "Where is 'Haikyuu' from?",
+    "question_zh": "《排球少年》嘅原作者係邊個？",
+    "question_en": "Who is the original author of 'Haikyuu!!'?",
     "options_zh": [
-      "日本",
-      "美洲",
-      "非洲",
-      "歐洲"
+      "古館春一",
+      "尾田榮一郎",
+      "岸本齊史",
+      "鳥山明"
     ],
     "options_en": [
-      "Japan",
-      "Americas",
-      "Africa",
-      "Europe"
+      "古館春一",
+      "Eiichiro Oda",
+      "Masashi Kishimoto",
+      "Akira Toriyama"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「日本」。",
-    "explanation_en": "The correct answer is 'Japan'.",
-    "difficulty": 3
+    "explanation_zh": "作者係古館春一。",
+    "explanation_en": "The author is 古館春一.",
+    "difficulty": 2
   },
   {
     "id": 3,
-    "question_zh": "「《排球少年》屬於咩類型？」有咩特色？",
-    "question_en": "What is special about 'Haikyuu'?",
+    "question_zh": "《排球少年》動畫版首播年份係？",
+    "question_en": "When did the 'Haikyuu!!' anime first air?",
     "options_zh": [
-      "獨特風格",
-      "冇特色",
-      "好普通",
-      "已經過時"
+      "2014",
+      "2004",
+      "2019",
+      "2011"
     ],
     "options_en": [
-      "Unique style",
-      "No special features",
-      "Very ordinary",
-      "Outdated"
+      "2014",
+      "2004",
+      "2019",
+      "2011"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「獨特風格」。",
-    "explanation_en": "The correct answer is 'Unique style'.",
-    "difficulty": 3
+    "explanation_zh": "首播於2014年。",
+    "explanation_en": "First aired in 2014.",
+    "difficulty": 2
   },
   {
     "id": 4,
-    "question_zh": "你會唔會推薦「《排球少年》屬於咩類型？」？",
-    "question_en": "Would you recommend 'Haikyuu'?",
+    "question_zh": "《排球少年》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Haikyuu!!'?",
     "options_zh": [
-      "唔會",
-      "會，非常推薦",
-      "唔確定",
-      "睇情況"
+      "日向翔陽",
+      "路人甲",
+      "配角乙",
+      "反派丙"
     ],
     "options_en": [
-      "No",
-      "Yes, highly recommended",
-      "Not sure",
-      "It depends"
+      "Shoyo Hinata",
+      "Side character A",
+      "Support B",
+      "Villain C"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "主角係日向翔陽。",
+    "explanation_en": "The protagonist is Shoyo Hinata.",
+    "difficulty": 1
   },
   {
     "id": 5,
-    "question_zh": "「《排球少年》屬於咩類型？」適合邊種人？",
-    "question_en": "Who is 'Haikyuu' suitable for?",
+    "question_zh": "以下關於《排球少年》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Haikyuu!!' is correct?",
     "options_zh": [
-      "只適合成人",
-      "只適合兒童",
-      "所有人",
-      "只適合專業人士"
+      "完全錯誤",
+      "烏野高中排球隊",
+      "唔係咁樣",
+      "呢個講法唔啱"
     ],
     "options_en": [
-      "Only adults",
-      "Only children",
-      "Everyone",
-      "Only professionals"
+      "Completely wrong",
+      "Karasuno High volleyball team",
+      "Not like this",
+      "This is incorrect"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「所有人」。",
-    "explanation_en": "The correct answer is 'Everyone'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「烏野高中排球隊」。",
+    "explanation_en": "The correct answer is 'Karasuno High volleyball team'.",
+    "difficulty": 2
   },
   {
     "id": 6,
-    "question_zh": "「《排球少年》屬於咩類型？」嘅質素如何？",
-    "question_en": "What is the quality of 'Haikyuu'?",
+    "question_zh": "以下關於《排球少年》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Haikyuu!!' is correct?",
     "options_zh": [
-      "普通",
-      "參差",
-      "低質素",
-      "高質素"
+      "唔係咁樣",
+      "完全錯誤",
+      "呢個講法唔啱",
+      "影山是搭檔"
     ],
     "options_en": [
-      "Average",
-      "Mixed",
-      "Low quality",
-      "High quality"
+      "Not like this",
+      "Completely wrong",
+      "This is incorrect",
+      "Kageyama is partner"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「高質素」。",
-    "explanation_en": "The correct answer is 'High quality'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「影山是搭檔」。",
+    "explanation_en": "The correct answer is 'Kageyama is partner'.",
+    "difficulty": 2
   },
   {
     "id": 7,
-    "question_zh": "你對「《排球少年》屬於咩類型？」嘅整體印象係？",
-    "question_en": "What is your overall impression of 'Haikyuu'?",
+    "question_zh": "以下關於《排球少年》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Haikyuu!!' is correct?",
     "options_zh": [
-      "非常好",
-      "一般",
-      "冇印象",
-      "唔好"
+      "小巨人是偶像",
+      "呢個講法唔啱",
+      "唔係咁樣",
+      "完全錯誤"
     ],
     "options_en": [
-      "Very good",
-      "Average",
-      "No impression",
-      "Not good"
+      "Little Giant is idol",
+      "This is incorrect",
+      "Not like this",
+      "Completely wrong"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「非常好」。",
-    "explanation_en": "The correct answer is 'Very good'.",
+    "explanation_zh": "正確答案係「小巨人是偶像」。",
+    "explanation_en": "The correct answer is 'Little Giant is idol'.",
     "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_zh": "以下關於《排球少年》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Haikyuu!!' is correct?",
+    "options_zh": [
+      "唔係咁樣",
+      "呢個講法唔啱",
+      "快攻是招牌",
+      "完全錯誤"
+    ],
+    "options_en": [
+      "Not like this",
+      "This is incorrect",
+      "Quick attack is signature",
+      "Completely wrong"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「快攻是招牌」。",
+    "explanation_en": "The correct answer is 'Quick attack is signature'.",
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question_zh": "以下關於《排球少年》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Haikyuu!!' is correct?",
+    "options_zh": [
+      "春高是目標",
+      "呢個講法唔啱",
+      "完全錯誤",
+      "唔係咁樣"
+    ],
+    "options_en": [
+      "Spring tournament is goal",
+      "This is incorrect",
+      "Completely wrong",
+      "Not like this"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「春高是目標」。",
+    "explanation_en": "The correct answer is 'Spring tournament is goal'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《排球少年》嘅動畫製作公司係？",
+    "question_en": "Which studio produced 'Haikyuu!!' anime?",
+    "options_zh": [
+      "Toei",
+      "Bones",
+      "Sunrise",
+      "Production I.G"
+    ],
+    "options_en": [
+      "Toei",
+      "Bones",
+      "Sunrise",
+      "Production I.G"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「Production I.G」。",
+    "explanation_en": "The correct answer is 'Production I.G'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《排球少年》係邊個國家嘅作品？",
+    "question_en": "Which country is 'Haikyuu!!' from?",
+    "options_zh": [
+      "美國/USA",
+      "日本/Japan",
+      "中國/China",
+      "韓國/Korea"
+    ],
+    "options_en": [
+      "USA",
+      "Japan",
+      "China",
+      "Korea"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「日本/Japan」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《排球少年》嘅原作係漫畫定小說？",
+    "question_en": "Is 'Haikyuu!!' originally a manga or novel?",
+    "options_zh": [
+      "小說/Novel",
+      "遊戲/Game",
+      "漫畫/Manga",
+      "原創/Original"
+    ],
+    "options_en": [
+      "Novel",
+      "Game",
+      "Manga",
+      "Original"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「漫畫/Manga」。",
+    "explanation_en": "The correct answer is 'Manga'.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《排球少年》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Haikyuu!!' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《排球少年》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Haikyuu!!' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《排球少年》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Haikyuu!!' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《排球少年》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Haikyuu!!' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《排球少年》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Haikyuu!!' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《排球少年》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Haikyuu!!' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "《排球少年》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Haikyuu!!' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《排球少年》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Haikyuu!!' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《排球少年》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Haikyuu!!' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《排球少年》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Haikyuu!!' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_zh": "《排球少年》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Haikyuu!!' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《排球少年》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Haikyuu!!' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "《排球少年》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Haikyuu!!' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《排球少年》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Haikyuu!!' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question_zh": "《排球少年》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Haikyuu!!' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《排球少年》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Haikyuu!!' is indeed a popular work.",
+    "difficulty": 1
   }
 ]

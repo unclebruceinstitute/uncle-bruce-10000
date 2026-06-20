@@ -1,149 +1,422 @@
 [
   {
     "id": 1,
-    "question_zh": "「《BLUE LOCK》屬於咩類型？」係咪好受歡迎？",
-    "question_en": "Is 'Blue Lock' popular?",
+    "question_zh": "《藍色監獄》屬於咩類型嘅動畫？",
+    "question_en": "What genre is 'Blue Lock'?",
     "options_zh": [
-      "係，非常受歡迎",
-      "唔係，好冷門",
-      "只喺特定地區流行",
-      "已經過氣"
+      "運動足球",
+      "日常搞笑",
+      "紀錄片",
+      "音樂劇"
     ],
     "options_en": [
-      "Yes, very popular",
-      "No, very niche",
-      "Only popular locally",
-      "Outdated"
+      "運動足球",
+      "Slice of life comedy",
+      "Documentary",
+      "Musical"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 3
+    "explanation_zh": "《藍色監獄》係運動足球類型。",
+    "explanation_en": "'Blue Lock' is 運動足球.",
+    "difficulty": 1
   },
   {
     "id": 2,
-    "question_zh": "「《BLUE LOCK》屬於咩類型？」係邊度嚟嘅？",
-    "question_en": "Where is 'Blue Lock' from?",
+    "question_zh": "《藍色監獄》嘅原作者係邊個？",
+    "question_en": "Who is the original author of 'Blue Lock'?",
     "options_zh": [
-      "美洲",
-      "日本",
-      "歐洲",
-      "非洲"
+      "金城宗幸",
+      "尾田榮一郎",
+      "岸本齊史",
+      "鳥山明"
     ],
     "options_en": [
-      "Americas",
-      "Japan",
-      "Europe",
-      "Africa"
+      "金城宗幸",
+      "Eiichiro Oda",
+      "Masashi Kishimoto",
+      "Akira Toriyama"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「日本」。",
-    "explanation_en": "The correct answer is 'Japan'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "作者係金城宗幸。",
+    "explanation_en": "The author is 金城宗幸.",
+    "difficulty": 2
   },
   {
     "id": 3,
-    "question_zh": "「《BLUE LOCK》屬於咩類型？」有咩特色？",
-    "question_en": "What is special about 'Blue Lock'?",
+    "question_zh": "《藍色監獄》動畫版首播年份係？",
+    "question_en": "When did the 'Blue Lock' anime first air?",
     "options_zh": [
-      "已經過時",
-      "冇特色",
-      "好普通",
-      "獨特風格"
+      "2022",
+      "2012",
+      "2027",
+      "2019"
     ],
     "options_en": [
-      "Outdated",
-      "No special features",
-      "Very ordinary",
-      "Unique style"
+      "2022",
+      "2012",
+      "2027",
+      "2019"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「獨特風格」。",
-    "explanation_en": "The correct answer is 'Unique style'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "首播於2022年。",
+    "explanation_en": "First aired in 2022.",
+    "difficulty": 2
   },
   {
     "id": 4,
-    "question_zh": "你會唔會推薦「《BLUE LOCK》屬於咩類型？」？",
-    "question_en": "Would you recommend 'Blue Lock'?",
+    "question_zh": "《藍色監獄》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Blue Lock'?",
     "options_zh": [
-      "唔會",
-      "唔確定",
-      "睇情況",
-      "會，非常推薦"
+      "潔世一",
+      "路人甲",
+      "配角乙",
+      "反派丙"
     ],
     "options_en": [
-      "No",
-      "Not sure",
-      "It depends",
-      "Yes, highly recommended"
+      "Yoichi Isagi",
+      "Side character A",
+      "Support B",
+      "Villain C"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "主角係潔世一。",
+    "explanation_en": "The protagonist is Yoichi Isagi.",
+    "difficulty": 1
   },
   {
     "id": 5,
-    "question_zh": "「《BLUE LOCK》屬於咩類型？」適合邊種人？",
-    "question_en": "Who is 'Blue Lock' suitable for?",
+    "question_zh": "以下關於《藍色監獄》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Blue Lock' is correct?",
     "options_zh": [
-      "只適合成人",
-      "所有人",
-      "只適合兒童",
-      "只適合專業人士"
+      "培養世界最強前鋒",
+      "唔係咁樣",
+      "完全錯誤",
+      "呢個講法唔啱"
     ],
     "options_en": [
-      "Only adults",
-      "Everyone",
-      "Only children",
-      "Only professionals"
+      "Train world's best striker",
+      "Not like this",
+      "Completely wrong",
+      "This is incorrect"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「所有人」。",
-    "explanation_en": "The correct answer is 'Everyone'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "正確答案係「培養世界最強前鋒」。",
+    "explanation_en": "The correct answer is 'Train world's best striker'.",
+    "difficulty": 2
   },
   {
     "id": 6,
-    "question_zh": "「《BLUE LOCK》屬於咩類型？」嘅質素如何？",
-    "question_en": "What is the quality of 'Blue Lock'?",
+    "question_zh": "以下關於《藍色監獄》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Blue Lock' is correct?",
     "options_zh": [
-      "參差",
-      "高質素",
-      "普通",
-      "低質素"
+      "呢個講法唔啱",
+      "淘汰制訓練",
+      "唔係咁樣",
+      "完全錯誤"
     ],
     "options_en": [
-      "Mixed",
-      "High quality",
-      "Average",
-      "Low quality"
+      "This is incorrect",
+      "Elimination training",
+      "Not like this",
+      "Completely wrong"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「高質素」。",
-    "explanation_en": "The correct answer is 'High quality'.",
-    "difficulty": 3
+    "explanation_zh": "正確答案係「淘汰制訓練」。",
+    "explanation_en": "The correct answer is 'Elimination training'.",
+    "difficulty": 2
   },
   {
     "id": 7,
-    "question_zh": "你對「《BLUE LOCK》屬於咩類型？」嘅整體印象係？",
-    "question_en": "What is your overall impression of 'Blue Lock'?",
+    "question_zh": "以下關於《藍色監獄》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Blue Lock' is correct?",
     "options_zh": [
-      "唔好",
-      "冇印象",
-      "一般",
-      "非常好"
+      "唔係咁樣",
+      "蜂樂是對手",
+      "完全錯誤",
+      "呢個講法唔啱"
     ],
     "options_en": [
-      "Not good",
-      "No impression",
-      "Average",
-      "Very good"
+      "Not like this",
+      "Bachira is rival",
+      "Completely wrong",
+      "This is incorrect"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「蜂樂是對手」。",
+    "explanation_en": "The correct answer is 'Bachira is rival'.",
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_zh": "以下關於《藍色監獄》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Blue Lock' is correct?",
+    "options_zh": [
+      "完全錯誤",
+      "呢個講法唔啱",
+      " ego 是關鍵",
+      "唔係咁樣"
+    ],
+    "options_en": [
+      "Completely wrong",
+      "This is incorrect",
+      "Ego is key concept",
+      "Not like this"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「 ego 是關鍵」。",
+    "explanation_en": "The correct answer is 'Ego is key concept'.",
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question_zh": "以下關於《藍色監獄》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Blue Lock' is correct?",
+    "options_zh": [
+      "日本足球改革計劃",
+      "呢個講法唔啱",
+      "唔係咁樣",
+      "完全錯誤"
+    ],
+    "options_en": [
+      "Japan football reform plan",
+      "This is incorrect",
+      "Not like this",
+      "Completely wrong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「日本足球改革計劃」。",
+    "explanation_en": "The correct answer is 'Japan football reform plan'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《藍色監獄》嘅動畫製作公司係？",
+    "question_en": "Which studio produced 'Blue Lock' anime?",
+    "options_zh": [
+      "Toei",
+      "8bit",
+      "Sunrise",
+      "Bones"
+    ],
+    "options_en": [
+      "Toei",
+      "8bit",
+      "Sunrise",
+      "Bones"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「8bit」。",
+    "explanation_en": "The correct answer is '8bit'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《藍色監獄》係邊個國家嘅作品？",
+    "question_en": "Which country is 'Blue Lock' from?",
+    "options_zh": [
+      "中國/China",
+      "韓國/Korea",
+      "美國/USA",
+      "日本/Japan"
+    ],
+    "options_en": [
+      "China",
+      "Korea",
+      "USA",
+      "Japan"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「非常好」。",
-    "explanation_en": "The correct answer is 'Very good'.",
+    "explanation_zh": "正確答案係「日本/Japan」。",
+    "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《藍色監獄》嘅原作係漫畫定小說？",
+    "question_en": "Is 'Blue Lock' originally a manga or novel?",
+    "options_zh": [
+      "小說/Novel",
+      "遊戲/Game",
+      "漫畫/Manga",
+      "原創/Original"
+    ],
+    "options_en": [
+      "Novel",
+      "Game",
+      "Manga",
+      "Original"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「漫畫/Manga」。",
+    "explanation_en": "The correct answer is 'Manga'.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《藍色監獄》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Blue Lock' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《藍色監獄》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Blue Lock' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《藍色監獄》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Blue Lock' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《藍色監獄》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Blue Lock' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《藍色監獄》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Blue Lock' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《藍色監獄》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Blue Lock' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "《藍色監獄》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Blue Lock' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《藍色監獄》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Blue Lock' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《藍色監獄》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Blue Lock' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《藍色監獄》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Blue Lock' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_zh": "《藍色監獄》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Blue Lock' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《藍色監獄》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Blue Lock' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "《藍色監獄》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Blue Lock' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《藍色監獄》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Blue Lock' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question_zh": "《藍色監獄》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Blue Lock' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《藍色監獄》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Blue Lock' is indeed a popular work.",
+    "difficulty": 1
   }
 ]

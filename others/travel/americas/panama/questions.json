@@ -5,17 +5,17 @@
     "question_en": "Is 'Panama' popular?",
     "options_zh": [
       "只喺特定地區流行",
-      "係，非常受歡迎",
       "已經過氣",
+      "係，非常受歡迎",
       "唔係，好冷門"
     ],
     "options_en": [
       "Only popular locally",
-      "Yes, very popular",
       "Outdated",
+      "Yes, very popular",
       "No, very niche"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -44,18 +44,18 @@
     "question_zh": "「巴拿馬位於邊個洲？」有咩特色？",
     "question_en": "What is special about 'Panama'?",
     "options_zh": [
-      "冇特色",
       "獨特風格",
+      "冇特色",
       "好普通",
       "已經過時"
     ],
     "options_en": [
-      "No special features",
       "Unique style",
+      "No special features",
       "Very ordinary",
       "Outdated"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「獨特風格」。",
     "explanation_en": "The correct answer is 'Unique style'.",
     "difficulty": 3
@@ -66,17 +66,17 @@
     "question_en": "Would you recommend 'Panama'?",
     "options_zh": [
       "唔確定",
-      "會，非常推薦",
+      "唔會",
       "睇情況",
-      "唔會"
+      "會，非常推薦"
     ],
     "options_en": [
       "Not sure",
-      "Yes, highly recommended",
+      "No",
       "It depends",
-      "No"
+      "Yes, highly recommended"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「會，非常推薦」。",
     "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 3
@@ -87,17 +87,17 @@
     "question_en": "Who is 'Panama' suitable for?",
     "options_zh": [
       "只適合專業人士",
-      "只適合成人",
+      "所有人",
       "只適合兒童",
-      "所有人"
+      "只適合成人"
     ],
     "options_en": [
       "Only professionals",
-      "Only adults",
+      "Everyone",
       "Only children",
-      "Everyone"
+      "Only adults"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「所有人」。",
     "explanation_en": "The correct answer is 'Everyone'.",
     "difficulty": 3
@@ -109,16 +109,16 @@
     "options_zh": [
       "低質素",
       "參差",
-      "普通",
-      "高質素"
+      "高質素",
+      "普通"
     ],
     "options_en": [
       "Low quality",
       "Mixed",
-      "Average",
-      "High quality"
+      "High quality",
+      "Average"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「高質素」。",
     "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 3
@@ -128,18 +128,18 @@
     "question_zh": "你對「巴拿馬位於邊個洲？」嘅整體印象係？",
     "question_en": "What is your overall impression of 'Panama'?",
     "options_zh": [
-      "冇印象",
       "非常好",
+      "冇印象",
       "唔好",
       "一般"
     ],
     "options_en": [
-      "No impression",
       "Very good",
+      "No impression",
       "Not good",
       "Average"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「非常好」。",
     "explanation_en": "The correct answer is 'Very good'.",
     "difficulty": 2

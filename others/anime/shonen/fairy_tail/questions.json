@@ -1,149 +1,422 @@
 [
   {
     "id": 1,
-    "question_zh": "「《妖精的尾巴》屬於咩類型？」係咪好受歡迎？",
-    "question_en": "Is 'Fairy Tail' popular?",
+    "question_zh": "《妖精的尾巴》屬於咩類型嘅動畫？",
+    "question_en": "What genre is 'Fairy Tail'?",
     "options_zh": [
-      "已經過氣",
-      "係，非常受歡迎",
-      "只喺特定地區流行",
-      "唔係，好冷門"
+      "魔導士冒險",
+      "日常搞笑",
+      "紀錄片",
+      "音樂劇"
     ],
     "options_en": [
-      "Outdated",
-      "Yes, very popular",
-      "Only popular locally",
-      "No, very niche"
+      "魔導士冒險",
+      "Slice of life comedy",
+      "Documentary",
+      "Musical"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "《妖精的尾巴》係魔導士冒險類型。",
+    "explanation_en": "'Fairy Tail' is 魔導士冒險.",
+    "difficulty": 1
   },
   {
     "id": 2,
-    "question_zh": "「《妖精的尾巴》屬於咩類型？」係邊度嚟嘅？",
-    "question_en": "Where is 'Fairy Tail' from?",
+    "question_zh": "《妖精的尾巴》嘅原作者係邊個？",
+    "question_en": "Who is the original author of 'Fairy Tail'?",
     "options_zh": [
-      "歐洲",
-      "日本",
-      "美洲",
-      "非洲"
+      "真島浩",
+      "尾田榮一郎",
+      "岸本齊史",
+      "鳥山明"
     ],
     "options_en": [
-      "Europe",
-      "Japan",
-      "Americas",
-      "Africa"
+      "真島浩",
+      "Eiichiro Oda",
+      "Masashi Kishimoto",
+      "Akira Toriyama"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「日本」。",
-    "explanation_en": "The correct answer is 'Japan'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "作者係真島浩。",
+    "explanation_en": "The author is 真島浩.",
+    "difficulty": 2
   },
   {
     "id": 3,
-    "question_zh": "「《妖精的尾巴》屬於咩類型？」有咩特色？",
-    "question_en": "What is special about 'Fairy Tail'?",
+    "question_zh": "《妖精的尾巴》動畫版首播年份係？",
+    "question_en": "When did the 'Fairy Tail' anime first air?",
     "options_zh": [
-      "好普通",
-      "已經過時",
-      "獨特風格",
-      "冇特色"
+      "2009",
+      "1999",
+      "2014",
+      "2006"
     ],
     "options_en": [
-      "Very ordinary",
-      "Outdated",
-      "Unique style",
-      "No special features"
+      "2009",
+      "1999",
+      "2014",
+      "2006"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「獨特風格」。",
-    "explanation_en": "The correct answer is 'Unique style'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "首播於2009年。",
+    "explanation_en": "First aired in 2009.",
+    "difficulty": 2
   },
   {
     "id": 4,
-    "question_zh": "你會唔會推薦「《妖精的尾巴》屬於咩類型？」？",
-    "question_en": "Would you recommend 'Fairy Tail'?",
+    "question_zh": "《妖精的尾巴》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Fairy Tail'?",
     "options_zh": [
-      "唔會",
-      "唔確定",
-      "會，非常推薦",
-      "睇情況"
+      "納茲",
+      "路人甲",
+      "配角乙",
+      "反派丙"
     ],
     "options_en": [
-      "No",
-      "Not sure",
-      "Yes, highly recommended",
-      "It depends"
+      "Natsu Dragneel",
+      "Side character A",
+      "Support B",
+      "Villain C"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "主角係納茲。",
+    "explanation_en": "The protagonist is Natsu Dragneel.",
+    "difficulty": 1
   },
   {
     "id": 5,
-    "question_zh": "「《妖精的尾巴》屬於咩類型？」適合邊種人？",
-    "question_en": "Who is 'Fairy Tail' suitable for?",
+    "question_zh": "以下關於《妖精的尾巴》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Fairy Tail' is correct?",
     "options_zh": [
-      "所有人",
-      "只適合兒童",
-      "只適合成人",
-      "只適合專業人士"
+      "唔係咁樣",
+      "完全錯誤",
+      "滅龍魔導士",
+      "呢個講法唔啱"
     ],
     "options_en": [
-      "Everyone",
-      "Only children",
-      "Only adults",
-      "Only professionals"
+      "Not like this",
+      "Completely wrong",
+      "Dragon Slayer mage",
+      "This is incorrect"
     ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「所有人」。",
-    "explanation_en": "The correct answer is 'Everyone'.",
-    "difficulty": 3
+    "answer": 2,
+    "explanation_zh": "正確答案係「滅龍魔導士」。",
+    "explanation_en": "The correct answer is 'Dragon Slayer mage'.",
+    "difficulty": 2
   },
   {
     "id": 6,
-    "question_zh": "「《妖精的尾巴》屬於咩類型？」嘅質素如何？",
-    "question_en": "What is the quality of 'Fairy Tail'?",
+    "question_zh": "以下關於《妖精的尾巴》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Fairy Tail' is correct?",
     "options_zh": [
-      "低質素",
-      "普通",
-      "參差",
-      "高質素"
+      "呢個講法唔啱",
+      "妖精尾巴公會",
+      "唔係咁樣",
+      "完全錯誤"
     ],
     "options_en": [
-      "Low quality",
-      "Average",
-      "Mixed",
-      "High quality"
+      "This is incorrect",
+      "Fairy Tail guild",
+      "Not like this",
+      "Completely wrong"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「高質素」。",
-    "explanation_en": "The correct answer is 'High quality'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「妖精尾巴公會」。",
+    "explanation_en": "The correct answer is 'Fairy Tail guild'.",
+    "difficulty": 2
   },
   {
     "id": 7,
-    "question_zh": "你對「《妖精的尾巴》屬於咩類型？」嘅整體印象係？",
-    "question_en": "What is your overall impression of 'Fairy Tail'?",
+    "question_zh": "以下關於《妖精的尾巴》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Fairy Tail' is correct?",
     "options_zh": [
-      "唔好",
-      "非常好",
-      "冇印象",
-      "一般"
+      "完全錯誤",
+      "露西是搭檔",
+      "唔係咁樣",
+      "呢個講法唔啱"
     ],
     "options_en": [
-      "Not good",
-      "Very good",
-      "No impression",
-      "Average"
+      "Completely wrong",
+      "Lucy is partner",
+      "Not like this",
+      "This is incorrect"
     ],
     "answer": 1,
-    "explanation_zh": "正確答案係「非常好」。",
-    "explanation_en": "The correct answer is 'Very good'.",
+    "explanation_zh": "正確答案係「露西是搭檔」。",
+    "explanation_en": "The correct answer is 'Lucy is partner'.",
     "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_zh": "以下關於《妖精的尾巴》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Fairy Tail' is correct?",
+    "options_zh": [
+      "火之滅龍魔法",
+      "唔係咁樣",
+      "完全錯誤",
+      "呢個講法唔啱"
+    ],
+    "options_en": [
+      "Fire Dragon Slayer magic",
+      "Not like this",
+      "Completely wrong",
+      "This is incorrect"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「火之滅龍魔法」。",
+    "explanation_en": "The correct answer is 'Fire Dragon Slayer magic'.",
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question_zh": "以下關於《妖精的尾巴》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Fairy Tail' is correct?",
+    "options_zh": [
+      "呢個講法唔啱",
+      "哈比是會飛的貓",
+      "唔係咁樣",
+      "完全錯誤"
+    ],
+    "options_en": [
+      "This is incorrect",
+      "Happy is a flying cat",
+      "Not like this",
+      "Completely wrong"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「哈比是會飛的貓」。",
+    "explanation_en": "The correct answer is 'Happy is a flying cat'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《妖精的尾巴》嘅動畫製作公司係？",
+    "question_en": "Which studio produced 'Fairy Tail' anime?",
+    "options_zh": [
+      "Sunrise",
+      "A-1 Pictures",
+      "Toei",
+      "Bones"
+    ],
+    "options_en": [
+      "Sunrise",
+      "A-1 Pictures",
+      "Toei",
+      "Bones"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「A-1 Pictures」。",
+    "explanation_en": "The correct answer is 'A-1 Pictures'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《妖精的尾巴》係邊個國家嘅作品？",
+    "question_en": "Which country is 'Fairy Tail' from?",
+    "options_zh": [
+      "中國/China",
+      "韓國/Korea",
+      "美國/USA",
+      "日本/Japan"
+    ],
+    "options_en": [
+      "China",
+      "Korea",
+      "USA",
+      "Japan"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「日本/Japan」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《妖精的尾巴》嘅原作係漫畫定小說？",
+    "question_en": "Is 'Fairy Tail' originally a manga or novel?",
+    "options_zh": [
+      "小說/Novel",
+      "原創/Original",
+      "遊戲/Game",
+      "漫畫/Manga"
+    ],
+    "options_en": [
+      "Novel",
+      "Original",
+      "Game",
+      "Manga"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「漫畫/Manga」。",
+    "explanation_en": "The correct answer is 'Manga'.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《妖精的尾巴》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Fairy Tail' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《妖精的尾巴》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Fairy Tail' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《妖精的尾巴》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Fairy Tail' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《妖精的尾巴》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Fairy Tail' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《妖精的尾巴》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Fairy Tail' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《妖精的尾巴》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Fairy Tail' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "《妖精的尾巴》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Fairy Tail' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《妖精的尾巴》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Fairy Tail' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《妖精的尾巴》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Fairy Tail' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《妖精的尾巴》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Fairy Tail' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_zh": "《妖精的尾巴》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Fairy Tail' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《妖精的尾巴》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Fairy Tail' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "《妖精的尾巴》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Fairy Tail' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《妖精的尾巴》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Fairy Tail' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question_zh": "《妖精的尾巴》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Fairy Tail' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《妖精的尾巴》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Fairy Tail' is indeed a popular work.",
+    "difficulty": 1
   }
 ]

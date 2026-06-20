@@ -1,149 +1,422 @@
 [
   {
     "id": 1,
-    "question_zh": "「《死神》屬於咩類型？」係咪好受歡迎？",
-    "question_en": "Is 'Bleach' popular?",
+    "question_zh": "《漂白》屬於咩類型嘅動畫？",
+    "question_en": "What genre is 'Bleach'?",
     "options_zh": [
-      "係，非常受歡迎",
-      "已經過氣",
-      "只喺特定地區流行",
-      "唔係，好冷門"
+      "死神動作",
+      "日常搞笑",
+      "紀錄片",
+      "音樂劇"
     ],
     "options_en": [
-      "Yes, very popular",
-      "Outdated",
-      "Only popular locally",
-      "No, very niche"
+      "死神動作",
+      "Slice of life comedy",
+      "Documentary",
+      "Musical"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 3
+    "explanation_zh": "《漂白》係死神動作類型。",
+    "explanation_en": "'Bleach' is 死神動作.",
+    "difficulty": 1
   },
   {
     "id": 2,
-    "question_zh": "「《死神》屬於咩類型？」係邊度嚟嘅？",
-    "question_en": "Where is 'Bleach' from?",
+    "question_zh": "《漂白》嘅原作者係邊個？",
+    "question_en": "Who is the original author of 'Bleach'?",
     "options_zh": [
-      "日本",
-      "非洲",
-      "美洲",
-      "歐洲"
+      "久保帶人",
+      "尾田榮一郎",
+      "岸本齊史",
+      "鳥山明"
     ],
     "options_en": [
-      "Japan",
-      "Africa",
-      "Americas",
-      "Europe"
+      "久保帶人",
+      "Eiichiro Oda",
+      "Masashi Kishimoto",
+      "Akira Toriyama"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「日本」。",
-    "explanation_en": "The correct answer is 'Japan'.",
-    "difficulty": 3
+    "explanation_zh": "作者係久保帶人。",
+    "explanation_en": "The author is 久保帶人.",
+    "difficulty": 2
   },
   {
     "id": 3,
-    "question_zh": "「《死神》屬於咩類型？」有咩特色？",
-    "question_en": "What is special about 'Bleach'?",
+    "question_zh": "《漂白》動畫版首播年份係？",
+    "question_en": "When did the 'Bleach' anime first air?",
     "options_zh": [
-      "冇特色",
-      "獨特風格",
-      "好普通",
-      "已經過時"
+      "2004",
+      "1994",
+      "2009",
+      "2001"
     ],
     "options_en": [
-      "No special features",
-      "Unique style",
-      "Very ordinary",
-      "Outdated"
+      "2004",
+      "1994",
+      "2009",
+      "2001"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「獨特風格」。",
-    "explanation_en": "The correct answer is 'Unique style'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "首播於2004年。",
+    "explanation_en": "First aired in 2004.",
+    "difficulty": 2
   },
   {
     "id": 4,
-    "question_zh": "你會唔會推薦「《死神》屬於咩類型？」？",
-    "question_en": "Would you recommend 'Bleach'?",
+    "question_zh": "《漂白》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Bleach'?",
     "options_zh": [
-      "唔確定",
-      "睇情況",
-      "唔會",
-      "會，非常推薦"
+      "黑崎一護",
+      "路人甲",
+      "配角乙",
+      "反派丙"
     ],
     "options_en": [
-      "Not sure",
-      "It depends",
-      "No",
-      "Yes, highly recommended"
+      "Ichigo Kurosaki",
+      "Side character A",
+      "Support B",
+      "Villain C"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "主角係黑崎一護。",
+    "explanation_en": "The protagonist is Ichigo Kurosaki.",
+    "difficulty": 1
   },
   {
     "id": 5,
-    "question_zh": "「《死神》屬於咩類型？」適合邊種人？",
-    "question_en": "Who is 'Bleach' suitable for?",
+    "question_zh": "以下關於《漂白》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Bleach' is correct?",
     "options_zh": [
-      "只適合專業人士",
-      "只適合兒童",
-      "只適合成人",
-      "所有人"
+      "代理死神",
+      "唔係咁樣",
+      "完全錯誤",
+      "呢個講法唔啱"
     ],
     "options_en": [
-      "Only professionals",
-      "Only children",
-      "Only adults",
-      "Everyone"
+      "Substitute Soul Reaper",
+      "Not like this",
+      "Completely wrong",
+      "This is incorrect"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「所有人」。",
-    "explanation_en": "The correct answer is 'Everyone'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "正確答案係「代理死神」。",
+    "explanation_en": "The correct answer is 'Substitute Soul Reaper'.",
+    "difficulty": 2
   },
   {
     "id": 6,
-    "question_zh": "「《死神》屬於咩類型？」嘅質素如何？",
-    "question_en": "What is the quality of 'Bleach'?",
+    "question_zh": "以下關於《漂白》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Bleach' is correct?",
     "options_zh": [
-      "普通",
-      "參差",
-      "高質素",
-      "低質素"
+      "唔係咁樣",
+      "斬魄刀是武器",
+      "呢個講法唔啱",
+      "完全錯誤"
     ],
     "options_en": [
-      "Average",
-      "Mixed",
-      "High quality",
-      "Low quality"
+      "Not like this",
+      "Zanpakuto is weapon",
+      "This is incorrect",
+      "Completely wrong"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「高質素」。",
-    "explanation_en": "The correct answer is 'High quality'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「斬魄刀是武器」。",
+    "explanation_en": "The correct answer is 'Zanpakuto is weapon'.",
+    "difficulty": 2
   },
   {
     "id": 7,
-    "question_zh": "你對「《死神》屬於咩類型？」嘅整體印象係？",
-    "question_en": "What is your overall impression of 'Bleach'?",
+    "question_zh": "以下關於《漂白》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Bleach' is correct?",
     "options_zh": [
-      "冇印象",
-      "一般",
-      "唔好",
-      "非常好"
+      "虛是敵人",
+      "完全錯誤",
+      "唔係咁樣",
+      "呢個講法唔啱"
     ],
     "options_en": [
-      "No impression",
-      "Average",
-      "Not good",
-      "Very good"
+      "Hollows are enemies",
+      "Completely wrong",
+      "Not like this",
+      "This is incorrect"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「虛是敵人」。",
+    "explanation_en": "The correct answer is 'Hollows are enemies'.",
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_zh": "以下關於《漂白》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Bleach' is correct?",
+    "options_zh": [
+      "呢個講法唔啱",
+      "完全錯誤",
+      "唔係咁樣",
+      "尸魂界是死神世界"
+    ],
+    "options_en": [
+      "This is incorrect",
+      "Completely wrong",
+      "Not like this",
+      "Soul Society is shinigami world"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「非常好」。",
-    "explanation_en": "The correct answer is 'Very good'.",
+    "explanation_zh": "正確答案係「尸魂界是死神世界」。",
+    "explanation_en": "The correct answer is 'Soul Society is shinigami world'.",
     "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question_zh": "以下關於《漂白》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Bleach' is correct?",
+    "options_zh": [
+      "呢個講法唔啱",
+      "完全錯誤",
+      "月牙天衝是招式",
+      "唔係咁樣"
+    ],
+    "options_en": [
+      "This is incorrect",
+      "Completely wrong",
+      "Getsuga Tensho is technique",
+      "Not like this"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「月牙天衝是招式」。",
+    "explanation_en": "The correct answer is 'Getsuga Tensho is technique'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《漂白》嘅動畫製作公司係？",
+    "question_en": "Which studio produced 'Bleach' anime?",
+    "options_zh": [
+      "Sunrise",
+      "Toei",
+      "Pierrot",
+      "Bones"
+    ],
+    "options_en": [
+      "Sunrise",
+      "Toei",
+      "Pierrot",
+      "Bones"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「Pierrot」。",
+    "explanation_en": "The correct answer is 'Pierrot'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《漂白》係邊個國家嘅作品？",
+    "question_en": "Which country is 'Bleach' from?",
+    "options_zh": [
+      "韓國/Korea",
+      "中國/China",
+      "日本/Japan",
+      "美國/USA"
+    ],
+    "options_en": [
+      "Korea",
+      "China",
+      "Japan",
+      "USA"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「日本/Japan」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《漂白》嘅原作係漫畫定小說？",
+    "question_en": "Is 'Bleach' originally a manga or novel?",
+    "options_zh": [
+      "原創/Original",
+      "小說/Novel",
+      "漫畫/Manga",
+      "遊戲/Game"
+    ],
+    "options_en": [
+      "Original",
+      "Novel",
+      "Manga",
+      "Game"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「漫畫/Manga」。",
+    "explanation_en": "The correct answer is 'Manga'.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《漂白》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Bleach' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《漂白》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Bleach' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《漂白》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Bleach' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《漂白》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Bleach' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《漂白》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Bleach' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《漂白》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Bleach' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "《漂白》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Bleach' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《漂白》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Bleach' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《漂白》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Bleach' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《漂白》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Bleach' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_zh": "《漂白》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Bleach' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《漂白》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Bleach' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "《漂白》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Bleach' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《漂白》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Bleach' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question_zh": "《漂白》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Bleach' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《漂白》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Bleach' is indeed a popular work.",
+    "difficulty": 1
   }
 ]

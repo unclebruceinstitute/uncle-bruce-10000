@@ -1,149 +1,422 @@
 [
   {
     "id": 1,
-    "question_zh": "「《我的英雄學院》屬於咩類型？」係咪好受歡迎？",
-    "question_en": "Is 'My Hero' popular?",
+    "question_zh": "《我的英雄學院》屬於咩類型嘅動畫？",
+    "question_en": "What genre is 'My Hero Academia'?",
     "options_zh": [
-      "只喺特定地區流行",
-      "係，非常受歡迎",
-      "已經過氣",
-      "唔係，好冷門"
+      "超級英雄",
+      "日常搞笑",
+      "紀錄片",
+      "音樂劇"
     ],
     "options_en": [
-      "Only popular locally",
-      "Yes, very popular",
-      "Outdated",
-      "No, very niche"
+      "超級英雄",
+      "Slice of life comedy",
+      "Documentary",
+      "Musical"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "《我的英雄學院》係超級英雄類型。",
+    "explanation_en": "'My Hero Academia' is 超級英雄.",
+    "difficulty": 1
   },
   {
     "id": 2,
-    "question_zh": "「《我的英雄學院》屬於咩類型？」係邊度嚟嘅？",
-    "question_en": "Where is 'My Hero' from?",
+    "question_zh": "《我的英雄學院》嘅原作者係邊個？",
+    "question_en": "Who is the original author of 'My Hero Academia'?",
     "options_zh": [
-      "日本",
-      "美洲",
-      "非洲",
-      "歐洲"
+      "堀越耕平",
+      "尾田榮一郎",
+      "岸本齊史",
+      "鳥山明"
     ],
     "options_en": [
-      "Japan",
-      "Americas",
-      "Africa",
-      "Europe"
+      "堀越耕平",
+      "Eiichiro Oda",
+      "Masashi Kishimoto",
+      "Akira Toriyama"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「日本」。",
-    "explanation_en": "The correct answer is 'Japan'.",
-    "difficulty": 3
+    "explanation_zh": "作者係堀越耕平。",
+    "explanation_en": "The author is 堀越耕平.",
+    "difficulty": 2
   },
   {
     "id": 3,
-    "question_zh": "「《我的英雄學院》屬於咩類型？」有咩特色？",
-    "question_en": "What is special about 'My Hero'?",
+    "question_zh": "《我的英雄學院》動畫版首播年份係？",
+    "question_en": "When did the 'My Hero Academia' anime first air?",
     "options_zh": [
-      "獨特風格",
-      "冇特色",
-      "已經過時",
-      "好普通"
+      "2016",
+      "2006",
+      "2021",
+      "2013"
     ],
     "options_en": [
-      "Unique style",
-      "No special features",
-      "Outdated",
-      "Very ordinary"
+      "2016",
+      "2006",
+      "2021",
+      "2013"
     ],
     "answer": 0,
-    "explanation_zh": "正確答案係「獨特風格」。",
-    "explanation_en": "The correct answer is 'Unique style'.",
-    "difficulty": 3
+    "explanation_zh": "首播於2016年。",
+    "explanation_en": "First aired in 2016.",
+    "difficulty": 2
   },
   {
     "id": 4,
-    "question_zh": "你會唔會推薦「《我的英雄學院》屬於咩類型？」？",
-    "question_en": "Would you recommend 'My Hero'?",
+    "question_zh": "《我的英雄學院》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'My Hero Academia'?",
     "options_zh": [
-      "唔會",
-      "會，非常推薦",
-      "睇情況",
-      "唔確定"
+      "綠谷出久",
+      "路人甲",
+      "配角乙",
+      "反派丙"
     ],
     "options_en": [
-      "No",
-      "Yes, highly recommended",
-      "It depends",
-      "Not sure"
+      "Izuku Midoriya",
+      "Side character A",
+      "Support B",
+      "Villain C"
     ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "主角係綠谷出久。",
+    "explanation_en": "The protagonist is Izuku Midoriya.",
+    "difficulty": 1
   },
   {
     "id": 5,
-    "question_zh": "「《我的英雄學院》屬於咩類型？」適合邊種人？",
-    "question_en": "Who is 'My Hero' suitable for?",
+    "question_zh": "以下關於《我的英雄學院》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'My Hero Academia' is correct?",
     "options_zh": [
-      "只適合兒童",
-      "只適合成人",
-      "所有人",
-      "只適合專業人士"
+      "呢個講法唔啱",
+      "個性「One For All」繼承者",
+      "唔係咁樣",
+      "完全錯誤"
     ],
     "options_en": [
-      "Only children",
-      "Only adults",
-      "Everyone",
-      "Only professionals"
+      "This is incorrect",
+      "One For All successor",
+      "Not like this",
+      "Completely wrong"
     ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「所有人」。",
-    "explanation_en": "The correct answer is 'Everyone'.",
-    "difficulty": 3
+    "answer": 1,
+    "explanation_zh": "正確答案係「個性「One For All」繼承者」。",
+    "explanation_en": "The correct answer is 'One For All successor'.",
+    "difficulty": 2
   },
   {
     "id": 6,
-    "question_zh": "「《我的英雄學院》屬於咩類型？」嘅質素如何？",
-    "question_en": "What is the quality of 'My Hero'?",
+    "question_zh": "以下關於《我的英雄學院》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'My Hero Academia' is correct?",
     "options_zh": [
-      "低質素",
-      "普通",
-      "參差",
-      "高質素"
+      "無個性出身",
+      "唔係咁樣",
+      "呢個講法唔啱",
+      "完全錯誤"
     ],
     "options_en": [
-      "Low quality",
-      "Average",
-      "Mixed",
-      "High quality"
+      "Born Quirkless",
+      "Not like this",
+      "This is incorrect",
+      "Completely wrong"
     ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「高質素」。",
-    "explanation_en": "The correct answer is 'High quality'.",
-    "difficulty": 3
+    "answer": 0,
+    "explanation_zh": "正確答案係「無個性出身」。",
+    "explanation_en": "The correct answer is 'Born Quirkless'.",
+    "difficulty": 2
   },
   {
     "id": 7,
-    "question_zh": "你對「《我的英雄學院》屬於咩類型？」嘅整體印象係？",
-    "question_en": "What is your overall impression of 'My Hero'?",
+    "question_zh": "以下關於《我的英雄學院》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'My Hero Academia' is correct?",
     "options_zh": [
-      "唔好",
-      "一般",
-      "冇印象",
-      "非常好"
+      "完全錯誤",
+      "雄英高中學生",
+      "唔係咁樣",
+      "呢個講法唔啱"
     ],
     "options_en": [
-      "Not good",
-      "Average",
-      "No impression",
-      "Very good"
+      "Completely wrong",
+      "U.A. High student",
+      "Not like this",
+      "This is incorrect"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「雄英高中學生」。",
+    "explanation_en": "The correct answer is 'U.A. High student'.",
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_zh": "以下關於《我的英雄學院》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'My Hero Academia' is correct?",
+    "options_zh": [
+      "完全錯誤",
+      "呢個講法唔啱",
+      "歐爾麥特是偶像",
+      "唔係咁樣"
+    ],
+    "options_en": [
+      "Completely wrong",
+      "This is incorrect",
+      "All Might is his idol",
+      "Not like this"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「歐爾麥特是偶像」。",
+    "explanation_en": "The correct answer is 'All Might is his idol'.",
+    "difficulty": 2
+  },
+  {
+    "id": 9,
+    "question_zh": "以下關於《我的英雄學院》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'My Hero Academia' is correct?",
+    "options_zh": [
+      "呢個講法唔啱",
+      "完全錯誤",
+      "唔係咁樣",
+      "死柄木是主要反派"
+    ],
+    "options_en": [
+      "This is incorrect",
+      "Completely wrong",
+      "Not like this",
+      "Shigaraki is main villain"
     ],
     "answer": 3,
-    "explanation_zh": "正確答案係「非常好」。",
-    "explanation_en": "The correct answer is 'Very good'.",
+    "explanation_zh": "正確答案係「死柄木是主要反派」。",
+    "explanation_en": "The correct answer is 'Shigaraki is main villain'.",
     "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《我的英雄學院》嘅動畫製作公司係？",
+    "question_en": "Which studio produced 'My Hero Academia' anime?",
+    "options_zh": [
+      "Toei",
+      "Sunrise",
+      "Bones",
+      "Bones"
+    ],
+    "options_en": [
+      "Toei",
+      "Sunrise",
+      "Bones",
+      "Bones"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「Bones」。",
+    "explanation_en": "The correct answer is 'Bones'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《我的英雄學院》係邊個國家嘅作品？",
+    "question_en": "Which country is 'My Hero Academia' from?",
+    "options_zh": [
+      "美國/USA",
+      "韓國/Korea",
+      "日本/Japan",
+      "中國/China"
+    ],
+    "options_en": [
+      "USA",
+      "Korea",
+      "Japan",
+      "China"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「日本/Japan」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《我的英雄學院》嘅原作係漫畫定小說？",
+    "question_en": "Is 'My Hero Academia' originally a manga or novel?",
+    "options_zh": [
+      "小說/Novel",
+      "遊戲/Game",
+      "漫畫/Manga",
+      "原創/Original"
+    ],
+    "options_en": [
+      "Novel",
+      "Game",
+      "Manga",
+      "Original"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「漫畫/Manga」。",
+    "explanation_en": "The correct answer is 'Manga'.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《我的英雄學院》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'My Hero Academia' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《我的英雄學院》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'My Hero Academia' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_zh": "《我的英雄學院》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'My Hero Academia' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《我的英雄學院》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'My Hero Academia' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_zh": "《我的英雄學院》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'My Hero Academia' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《我的英雄學院》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'My Hero Academia' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_zh": "《我的英雄學院》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'My Hero Academia' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《我的英雄學院》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'My Hero Academia' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_zh": "《我的英雄學院》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'My Hero Academia' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《我的英雄學院》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'My Hero Academia' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_zh": "《我的英雄學院》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'My Hero Academia' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《我的英雄學院》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'My Hero Academia' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_zh": "《我的英雄學院》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'My Hero Academia' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《我的英雄學院》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'My Hero Academia' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question_zh": "《我的英雄學院》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'My Hero Academia' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "唔太同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《我的英雄學院》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'My Hero Academia' is indeed a popular work.",
+    "difficulty": 1
   }
 ]
