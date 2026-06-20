@@ -350,14 +350,12 @@
     "options_zh": [
       "0.09",
       "2.22",
-      "1.99",
-      "1.99 (備選)"
+      "1.99"
     ],
     "options_en": [
       "0.09",
       "2.22",
-      "1.99",
-      "1.99 (alt)"
+      "1.99"
     ],
     "answer": 1,
     "explanation_zh": "ΔP&L ≈ Δ·δx + ½·Γ·(δx)² = 2.22",
@@ -3109,17 +3107,15 @@
     "question_en": "Delta=0.37, Gamma=0.0367. If underlying rises 5 points, approximate option P&L?",
     "options_zh": [
       "0.18",
-      "2.32 (備選)",
       "2.32",
       "1.86"
     ],
     "options_en": [
       "0.18",
-      "2.32 (alt)",
       "2.32",
       "1.86"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "ΔP&L ≈ Δ·δx + ½·Γ·(δx)² = 2.32",
     "explanation_en": "ΔP&L ≈ Δ·δx + ½·Γ·(δx)² = 2.32",
     "topic_zh": "市場風險 (20%)",
@@ -11505,13 +11501,11 @@
     "options_zh": [
       "21.9%",
       "20.76%",
-      "20.76% (備選)",
       "21.88%"
     ],
     "options_en": [
       "21.9%",
       "20.76%",
-      "20.76% (alt)",
       "21.88%"
     ],
     "answer": 1,
@@ -11527,13 +11521,11 @@
     "question_en": "Previous day volatility 18.6%, today's return 0.82%, λ=0.97. EWMA volatility today?",
     "options_zh": [
       "18.31%",
-      "18.31% (備選)",
       "18.59%",
       "18.61%"
     ],
     "options_en": [
       "18.31%",
-      "18.31% (alt)",
       "18.59%",
       "18.61%"
     ],
@@ -11597,16 +11589,14 @@
     "options_zh": [
       "21.82%",
       "21.65%",
-      "21.33% (備選)",
       "21.33%"
     ],
     "options_en": [
       "21.82%",
       "21.65%",
-      "21.33% (alt)",
       "21.33%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 21.33%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 21.33%",
     "topic_zh": "市場風險 (20%)",
@@ -11619,17 +11609,15 @@
     "question_en": "Previous day volatility 15.7%, today's return -1.14%, λ=0.97. EWMA volatility today?",
     "options_zh": [
       "15.79%",
-      "15.51% (備選)",
       "15.51%",
       "15.75%"
     ],
     "options_en": [
       "15.79%",
-      "15.51% (alt)",
       "15.51%",
       "15.75%"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 15.51%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 15.51%",
     "topic_zh": "市場風險 (20%)",
@@ -11666,13 +11654,11 @@
     "options_zh": [
       "24.25%",
       "24.62%",
-      "24.25% (備選)",
       "24.63%"
     ],
     "options_en": [
       "24.25%",
       "24.62%",
-      "24.25% (alt)",
       "24.63%"
     ],
     "answer": 0,
@@ -11756,18 +11742,16 @@
     "question_zh": "前日波動率29.8%，今日回報2.02%，λ=0.97。EWMA今日波動率？",
     "question_en": "Previous day volatility 29.8%, today's return 2.02%, λ=0.97. EWMA volatility today?",
     "options_zh": [
-      "29.35% (備選)",
       "29.8%",
       "29.87%",
       "29.35%"
     ],
     "options_en": [
-      "29.35% (alt)",
       "29.8%",
       "29.87%",
       "29.35%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 29.35%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 29.35%",
     "topic_zh": "市場風險 (20%)",
@@ -11802,18 +11786,16 @@
     "question_zh": "前日波動率32.4%，今日回報-1.60%，λ=0.97。EWMA今日波動率？",
     "question_en": "Previous day volatility 32.4%, today's return -1.60%, λ=0.97. EWMA volatility today?",
     "options_zh": [
-      "31.95% (備選)",
       "32.48%",
       "31.95%",
       "32.44%"
     ],
     "options_en": [
-      "31.95% (alt)",
       "32.48%",
       "31.95%",
       "32.44%"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 31.95%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 31.95%",
     "topic_zh": "市場風險 (20%)",
@@ -11872,17 +11854,13 @@
     "question_en": "Previous day volatility 26.4%, today's return 0.39%, λ=0.97. EWMA volatility today?",
     "options_zh": [
       "26.39%",
-      "26.39% (備選)",
-      "25.99%",
-      "25.99% (備選)"
+      "25.99%"
     ],
     "options_en": [
       "26.39%",
-      "26.39% (alt)",
-      "25.99%",
-      "25.99% (alt)"
+      "25.99%"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 25.99%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 25.99%",
     "topic_zh": "市場風險 (20%)",
@@ -11896,16 +11874,14 @@
     "options_zh": [
       "18.83%",
       "18.82%",
-      "18.54% (備選)",
       "18.54%"
     ],
     "options_en": [
       "18.83%",
       "18.82%",
-      "18.54% (alt)",
       "18.54%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 18.54%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 18.54%",
     "topic_zh": "市場風險 (20%)",
@@ -11940,18 +11916,16 @@
     "question_zh": "前日波動率32.5%，今日回報-2.39%，λ=0.97。EWMA今日波動率？",
     "question_en": "Previous day volatility 32.5%, today's return -2.39%, λ=0.97. EWMA volatility today?",
     "options_zh": [
-      "32.05% (備選)",
       "32.62%",
       "32.54%",
       "32.05%"
     ],
     "options_en": [
-      "32.05% (alt)",
       "32.62%",
       "32.54%",
       "32.05%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 32.05%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 32.05%",
     "topic_zh": "市場風險 (20%)",
@@ -11987,17 +11961,13 @@
     "question_en": "Previous day volatility 28.6%, today's return 0.28%, λ=0.9. EWMA volatility today?",
     "options_zh": [
       "28.64%",
-      "27.17% (備選)",
-      "28.64% (備選)",
       "27.17%"
     ],
     "options_en": [
       "28.64%",
-      "27.17% (alt)",
-      "28.64% (alt)",
       "27.17%"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 27.17%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 27.17%",
     "topic_zh": "市場風險 (20%)",
@@ -12124,18 +12094,16 @@
     "question_zh": "前日波動率19.2%，今日回報1.72%，λ=0.94。EWMA今日波動率？",
     "question_en": "Previous day volatility 19.2%, today's return 1.72%, λ=0.94. EWMA volatility today?",
     "options_zh": [
-      "18.58% (備選)",
       "19.24%",
       "18.58%",
       "19.16%"
     ],
     "options_en": [
-      "18.58% (alt)",
       "19.24%",
       "18.58%",
       "19.16%"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 18.58%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 18.58%",
     "topic_zh": "市場風險 (20%)",
@@ -12170,18 +12138,16 @@
     "question_zh": "前日波動率22.8%，今日回報0.64%，λ=0.94。EWMA今日波動率？",
     "question_en": "Previous day volatility 22.8%, today's return 0.64%, λ=0.94. EWMA volatility today?",
     "options_zh": [
-      "22.12% (備選)",
       "22.83%",
       "22.82%",
       "22.12%"
     ],
     "options_en": [
-      "22.12% (alt)",
       "22.83%",
       "22.82%",
       "22.12%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 22.12%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 22.12%",
     "topic_zh": "市場風險 (20%)",
@@ -12425,14 +12391,12 @@
     "options_zh": [
       "23.33%",
       "23.34%",
-      "22.13%",
-      "22.13% (備選)"
+      "22.13%"
     ],
     "options_en": [
       "23.33%",
       "23.34%",
-      "22.13%",
-      "22.13% (alt)"
+      "22.13%"
     ],
     "answer": 2,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 22.13%",
@@ -12446,18 +12410,16 @@
     "question_zh": "前日波動率30.1%，今日回報1.22%，λ=0.9。EWMA今日波動率？",
     "question_en": "Previous day volatility 30.1%, today's return 1.22%, λ=0.9. EWMA volatility today?",
     "options_zh": [
-      "28.6% (備選)",
       "30.15%",
       "28.6%",
       "30.17%"
     ],
     "options_en": [
-      "28.6% (alt)",
       "30.15%",
       "28.6%",
       "30.17%"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 28.6%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 28.6%",
     "topic_zh": "市場風險 (20%)",
@@ -12470,13 +12432,11 @@
     "question_en": "Previous day volatility 31.0%, today's return 1.77%, λ=0.94. EWMA volatility today?",
     "options_zh": [
       "30.04%",
-      "30.04% (備選)",
       "31.03%",
       "30.98%"
     ],
     "options_en": [
       "30.04%",
-      "30.04% (alt)",
       "31.03%",
       "30.98%"
     ],
@@ -12492,18 +12452,16 @@
     "question_zh": "前日波動率27.0%，今日回報-1.46%，λ=0.94。EWMA今日波動率？",
     "question_en": "Previous day volatility 27.0%, today's return -1.46%, λ=0.94. EWMA volatility today?",
     "options_zh": [
-      "26.2% (備選)",
       "27.06%",
       "26.2%",
       "27.02%"
     ],
     "options_en": [
-      "26.2% (alt)",
       "27.06%",
       "26.2%",
       "27.02%"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 26.2%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 26.2%",
     "topic_zh": "市場風險 (20%)",
@@ -12632,14 +12590,12 @@
     "options_zh": [
       "32.7%",
       "33.2%",
-      "33.21%",
-      "32.7% (備選)"
+      "33.21%"
     ],
     "options_en": [
       "32.7%",
       "33.2%",
-      "33.21%",
-      "32.7% (alt)"
+      "33.21%"
     ],
     "answer": 0,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 32.7%",
@@ -12655,13 +12611,11 @@
     "options_zh": [
       "26.89%",
       "27.34%",
-      "26.89% (備選)",
       "27.3%"
     ],
     "options_en": [
       "26.89%",
       "27.34%",
-      "26.89% (alt)",
       "27.3%"
     ],
     "answer": 0,
@@ -12700,15 +12654,11 @@
     "question_en": "Previous day volatility 23.4%, today's return -0.27%, λ=0.9. EWMA volatility today?",
     "options_zh": [
       "23.37%",
-      "22.17%",
-      "23.37% (備選)",
-      "22.17% (備選)"
+      "22.17%"
     ],
     "options_en": [
       "23.37%",
-      "22.17%",
-      "23.37% (alt)",
-      "22.17% (alt)"
+      "22.17%"
     ],
     "answer": 1,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 22.17%",
@@ -12724,14 +12674,12 @@
     "options_zh": [
       "22.8%",
       "22.41%",
-      "22.75%",
-      "22.41% (備選)"
+      "22.75%"
     ],
     "options_en": [
       "22.8%",
       "22.41%",
-      "22.75%",
-      "22.41% (alt)"
+      "22.75%"
     ],
     "answer": 1,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 22.41%",
@@ -12746,15 +12694,11 @@
     "question_en": "Previous day volatility 19.7%, today's return 0.15%, λ=0.94. EWMA volatility today?",
     "options_zh": [
       "19.73%",
-      "19.13%",
-      "19.13% (備選)",
-      "19.73% (備選)"
+      "19.13%"
     ],
     "options_en": [
       "19.73%",
-      "19.13%",
-      "19.13% (alt)",
-      "19.73% (alt)"
+      "19.13%"
     ],
     "answer": 1,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 19.13%",
@@ -12768,18 +12712,16 @@
     "question_zh": "前日波動率25.0%，今日回報0.82%，λ=0.94。EWMA今日波動率？",
     "question_en": "Previous day volatility 25.0%, today's return 0.82%, λ=0.94. EWMA volatility today?",
     "options_zh": [
-      "24.21% (備選)",
       "24.21%",
       "24.97%",
       "24.98%"
     ],
     "options_en": [
-      "24.21% (alt)",
       "24.21%",
       "24.97%",
       "24.98%"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 24.21%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 24.21%",
     "topic_zh": "市場風險 (20%)",
@@ -12838,13 +12780,11 @@
     "question_en": "Previous day volatility 32.7%, today's return 0.86%, λ=0.94. EWMA volatility today?",
     "options_zh": [
       "31.73%",
-      "31.73% (備選)",
       "32.73%",
       "32.74%"
     ],
     "options_en": [
       "31.73%",
-      "31.73% (alt)",
       "32.73%",
       "32.74%"
     ],
@@ -12862,14 +12802,12 @@
     "options_zh": [
       "16.46%",
       "16.71%",
-      "16.78%",
-      "16.46% (備選)"
+      "16.78%"
     ],
     "options_en": [
       "16.46%",
       "16.71%",
-      "16.78%",
-      "16.46% (alt)"
+      "16.78%"
     ],
     "answer": 0,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 16.46%",
@@ -12884,15 +12822,11 @@
     "question_en": "Previous day volatility 30.7%, today's return -0.29%, λ=0.97. EWMA volatility today?",
     "options_zh": [
       "30.66%",
-      "30.19%",
-      "30.19% (備選)",
-      "30.66% (備選)"
+      "30.19%"
     ],
     "options_en": [
       "30.66%",
-      "30.19%",
-      "30.19% (alt)",
-      "30.66% (alt)"
+      "30.19%"
     ],
     "answer": 1,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 30.19%",
@@ -12976,17 +12910,13 @@
     "question_en": "Previous day volatility 29.7%, today's return 0.64%, λ=0.94. EWMA volatility today?",
     "options_zh": [
       "29.68%",
-      "29.68% (備選)",
-      "28.77%",
-      "28.77% (備選)"
+      "28.77%"
     ],
     "options_en": [
       "29.68%",
-      "29.68% (alt)",
-      "28.77%",
-      "28.77% (alt)"
+      "28.77%"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 28.77%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 28.77%",
     "topic_zh": "市場風險 (20%)",
@@ -13044,18 +12974,16 @@
     "question_zh": "前日波動率19.1%，今日回報2.24%，λ=0.97。EWMA今日波動率？",
     "question_en": "Previous day volatility 19.1%, today's return 2.24%, λ=0.97. EWMA volatility today?",
     "options_zh": [
-      "18.77% (備選)",
       "19.19%",
       "19.06%",
       "18.77%"
     ],
     "options_en": [
-      "18.77% (alt)",
       "19.19%",
       "19.06%",
       "18.77%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 18.77%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 18.77%",
     "topic_zh": "市場風險 (20%)",
@@ -13068,15 +12996,11 @@
     "question_en": "Previous day volatility 18.5%, today's return -0.06%, λ=0.94. EWMA volatility today?",
     "options_zh": [
       "17.97%",
-      "17.97% (備選)",
-      "18.54%",
-      "18.54% (備選)"
+      "18.54%"
     ],
     "options_en": [
       "17.97%",
-      "17.97% (alt)",
-      "18.54%",
-      "18.54% (alt)"
+      "18.54%"
     ],
     "answer": 0,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 17.97%",
@@ -13114,15 +13038,11 @@
     "question_en": "Previous day volatility 24.4%, today's return 0.47%, λ=0.9. EWMA volatility today?",
     "options_zh": [
       "23.13%",
-      "24.38%",
-      "23.13% (備選)",
-      "24.38% (備選)"
+      "24.38%"
     ],
     "options_en": [
       "23.13%",
-      "24.38%",
-      "23.13% (alt)",
-      "24.38% (alt)"
+      "24.38%"
     ],
     "answer": 0,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 23.13%",
@@ -13138,13 +13058,11 @@
     "options_zh": [
       "22.59%",
       "22.25%",
-      "22.25% (備選)",
       "22.66%"
     ],
     "options_en": [
       "22.59%",
       "22.25%",
-      "22.25% (alt)",
       "22.66%"
     ],
     "answer": 1,
@@ -13183,17 +13101,15 @@
     "question_en": "Previous day volatility 25.0%, today's return 2.61%, λ=0.97. EWMA volatility today?",
     "options_zh": [
       "25.14%",
-      "24.63% (備選)",
       "24.63%",
       "25.01%"
     ],
     "options_en": [
       "25.14%",
-      "24.63% (alt)",
       "24.63%",
       "25.01%"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 24.63%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 24.63%",
     "topic_zh": "市場風險 (20%)",
@@ -13253,14 +13169,12 @@
     "options_zh": [
       "31.24%",
       "31.72%",
-      "31.88%",
-      "31.24% (備選)"
+      "31.88%"
     ],
     "options_en": [
       "31.24%",
       "31.72%",
-      "31.88%",
-      "31.24% (alt)"
+      "31.88%"
     ],
     "answer": 0,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 31.24%",
@@ -13320,18 +13234,16 @@
     "question_zh": "前日波動率23.4%，今日回報2.83%，λ=0.97。EWMA今日波動率？",
     "question_en": "Previous day volatility 23.4%, today's return 2.83%, λ=0.97. EWMA volatility today?",
     "options_zh": [
-      "23.02% (備選)",
       "23.54%",
       "23.37%",
       "23.02%"
     ],
     "options_en": [
-      "23.02% (alt)",
       "23.54%",
       "23.37%",
       "23.02%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 23.02%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 23.02%",
     "topic_zh": "市場風險 (20%)",
@@ -13367,15 +13279,11 @@
     "question_en": "Previous day volatility 32.4%, today's return 0.10%, λ=0.9. EWMA volatility today?",
     "options_zh": [
       "32.36%",
-      "30.7%",
-      "30.7% (備選)",
-      "32.36% (備選)"
+      "30.7%"
     ],
     "options_en": [
       "32.36%",
-      "30.7%",
-      "30.7% (alt)",
-      "32.36% (alt)"
+      "30.7%"
     ],
     "answer": 1,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 30.7%",
@@ -13391,14 +13299,12 @@
     "options_zh": [
       "33.62%",
       "33.66%",
-      "33.11%",
-      "33.11% (備選)"
+      "33.11%"
     ],
     "options_en": [
       "33.62%",
       "33.66%",
-      "33.11%",
-      "33.11% (alt)"
+      "33.11%"
     ],
     "answer": 2,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 33.11%",
@@ -13483,13 +13389,11 @@
     "options_zh": [
       "29.26%",
       "29.76%",
-      "29.26% (備選)",
       "29.71%"
     ],
     "options_en": [
       "29.26%",
       "29.76%",
-      "29.26% (alt)",
       "29.71%"
     ],
     "answer": 0,
@@ -13529,13 +13433,11 @@
     "options_zh": [
       "17.15%",
       "16.6%",
-      "16.6% (備選)",
       "17.12%"
     ],
     "options_en": [
       "17.15%",
       "16.6%",
-      "16.6% (alt)",
       "17.12%"
     ],
     "answer": 1,
@@ -13597,15 +13499,11 @@
     "question_en": "Previous day volatility 34.3%, today's return 0.43%, λ=0.97. EWMA volatility today?",
     "options_zh": [
       "34.35%",
-      "33.83%",
-      "33.83% (備選)",
-      "34.35% (備選)"
+      "33.83%"
     ],
     "options_en": [
       "34.35%",
-      "33.83%",
-      "33.83% (alt)",
-      "34.35% (alt)"
+      "33.83%"
     ],
     "answer": 1,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 33.83%",
@@ -13644,14 +13542,12 @@
     "options_zh": [
       "29.01%",
       "28.09%",
-      "28.97%",
-      "28.09% (備選)"
+      "28.97%"
     ],
     "options_en": [
       "29.01%",
       "28.09%",
-      "28.97%",
-      "28.09% (alt)"
+      "28.97%"
     ],
     "answer": 1,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 28.09%",
@@ -13712,15 +13608,11 @@
     "question_en": "Previous day volatility 26.0%, today's return -0.18%, λ=0.97. EWMA volatility today?",
     "options_zh": [
       "25.57%",
-      "25.96%",
-      "25.96% (備選)",
-      "25.57% (備選)"
+      "25.96%"
     ],
     "options_en": [
       "25.57%",
-      "25.96%",
-      "25.96% (alt)",
-      "25.57% (alt)"
+      "25.96%"
     ],
     "answer": 0,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 25.57%",
@@ -13897,13 +13789,11 @@
     "options_zh": [
       "26.16%",
       "27.59%",
-      "26.16% (備選)",
       "27.57%"
     ],
     "options_en": [
       "26.16%",
       "27.59%",
-      "26.16% (alt)",
       "27.57%"
     ],
     "answer": 0,
@@ -13941,18 +13831,16 @@
     "question_zh": "前日波動率21.9%，今日回報-0.53%，λ=0.94。EWMA今日波動率？",
     "question_en": "Previous day volatility 21.9%, today's return -0.53%, λ=0.94. EWMA volatility today?",
     "options_zh": [
-      "21.22% (備選)",
       "21.22%",
       "21.89%",
       "21.9%"
     ],
     "options_en": [
-      "21.22% (alt)",
       "21.22%",
       "21.89%",
       "21.9%"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 21.22%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 21.22%",
     "topic_zh": "市場風險 (20%)",
@@ -14033,18 +13921,16 @@
     "question_zh": "前日波動率23.0%，今日回報-1.79%，λ=0.97。EWMA今日波動率？",
     "question_en": "Previous day volatility 23.0%, today's return -1.79%, λ=0.97. EWMA volatility today?",
     "options_zh": [
-      "22.61% (備選)",
       "22.61%",
       "23.03%",
       "22.96%"
     ],
     "options_en": [
-      "22.61% (alt)",
       "22.61%",
       "23.03%",
       "22.96%"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 22.61%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 22.61%",
     "topic_zh": "市場風險 (20%)",
@@ -14056,18 +13942,16 @@
     "question_zh": "前日波動率24.0%，今日回報1.95%，λ=0.94。EWMA今日波動率？",
     "question_en": "Previous day volatility 24.0%, today's return 1.95%, λ=0.94. EWMA volatility today?",
     "options_zh": [
-      "23.25% (備選)",
       "23.98%",
       "23.25%",
       "24.06%"
     ],
     "options_en": [
-      "23.25% (alt)",
       "23.98%",
       "23.25%",
       "24.06%"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 23.25%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 23.25%",
     "topic_zh": "市場風險 (20%)",
@@ -14104,14 +13988,12 @@
     "options_zh": [
       "31.76%",
       "30.13%",
-      "31.77%",
-      "30.13% (備選)"
+      "31.77%"
     ],
     "options_en": [
       "31.76%",
       "30.13%",
-      "31.77%",
-      "30.13% (alt)"
+      "31.77%"
     ],
     "answer": 1,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 30.13%",
@@ -14149,13 +14031,11 @@
     "question_en": "Previous day volatility 20.5%, today's return -1.72%, λ=0.94. EWMA volatility today?",
     "options_zh": [
       "19.88%",
-      "19.88% (備選)",
       "20.57%",
       "20.5%"
     ],
     "options_en": [
       "19.88%",
-      "19.88% (alt)",
       "20.57%",
       "20.5%"
     ],
@@ -14194,18 +14074,14 @@
     "question_zh": "前日波動率22.6%，今日回報-0.35%，λ=0.97。EWMA今日波動率？",
     "question_en": "Previous day volatility 22.6%, today's return -0.35%, λ=0.97. EWMA volatility today?",
     "options_zh": [
-      "22.29% (備選)",
       "22.29%",
-      "22.64%",
-      "22.64% (備選)"
+      "22.64%"
     ],
     "options_en": [
-      "22.29% (alt)",
       "22.29%",
-      "22.64%",
-      "22.64% (alt)"
+      "22.64%"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 22.29%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 22.29%",
     "topic_zh": "市場風險 (20%)",
@@ -14287,13 +14163,11 @@
     "question_en": "Previous day volatility 34.0%, today's return 1.13%, λ=0.97. EWMA volatility today?",
     "options_zh": [
       "33.52%",
-      "33.52% (備選)",
       "34.04%",
       "34.05%"
     ],
     "options_en": [
       "33.52%",
-      "33.52% (alt)",
       "34.04%",
       "34.05%"
     ],
@@ -14402,13 +14276,11 @@
     "question_en": "Previous day volatility 23.4%, today's return -0.93%, λ=0.94. EWMA volatility today?",
     "options_zh": [
       "22.68%",
-      "22.68% (備選)",
       "23.39%",
       "23.41%"
     ],
     "options_en": [
       "22.68%",
-      "22.68% (alt)",
       "23.39%",
       "23.41%"
     ],
@@ -14495,14 +14367,12 @@
     "options_zh": [
       "24.57%",
       "24.14%",
-      "24.51%",
-      "24.14% (備選)"
+      "24.51%"
     ],
     "options_en": [
       "24.57%",
       "24.14%",
-      "24.51%",
-      "24.14% (alt)"
+      "24.51%"
     ],
     "answer": 1,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 24.14%",
@@ -14516,18 +14386,14 @@
     "question_zh": "前日波動率26.0%，今日回報0.19%，λ=0.9。EWMA今日波動率？",
     "question_en": "Previous day volatility 26.0%, today's return 0.19%, λ=0.9. EWMA volatility today?",
     "options_zh": [
-      "24.68% (備選)",
       "26.01%",
-      "24.68%",
-      "26.01% (備選)"
+      "24.68%"
     ],
     "options_en": [
-      "24.68% (alt)",
       "26.01%",
-      "24.68%",
-      "26.01% (alt)"
+      "24.68%"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 24.68%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 24.68%",
     "topic_zh": "市場風險 (20%)",
@@ -14540,13 +14406,11 @@
     "question_en": "Previous day volatility 27.2%, today's return -1.40%, λ=0.9. EWMA volatility today?",
     "options_zh": [
       "25.83%",
-      "25.83% (備選)",
       "27.23%",
       "27.26%"
     ],
     "options_en": [
       "25.83%",
-      "25.83% (alt)",
       "27.23%",
       "27.26%"
     ],
@@ -14609,13 +14473,11 @@
     "question_en": "Previous day volatility 31.5%, today's return 1.10%, λ=0.97. EWMA volatility today?",
     "options_zh": [
       "31.0%",
-      "31.0% (備選)",
       "31.48%",
       "31.5%"
     ],
     "options_en": [
       "31.0%",
-      "31.0% (alt)",
       "31.48%",
       "31.5%"
     ],
@@ -14654,18 +14516,16 @@
     "question_zh": "前日波動率29.9%，今日回報1.67%，λ=0.9。EWMA今日波動率？",
     "question_en": "Previous day volatility 29.9%, today's return 1.67%, λ=0.9. EWMA volatility today?",
     "options_zh": [
-      "28.35% (備選)",
       "28.35%",
       "29.88%",
       "29.93%"
     ],
     "options_en": [
-      "28.35% (alt)",
       "28.35%",
       "29.88%",
       "29.93%"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 28.35%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 28.35%",
     "topic_zh": "市場風險 (20%)",
@@ -14725,14 +14585,12 @@
     "options_zh": [
       "23.74%",
       "24.11%",
-      "24.1%",
-      "23.74% (備選)"
+      "24.1%"
     ],
     "options_en": [
       "23.74%",
       "24.11%",
-      "24.1%",
-      "23.74% (alt)"
+      "24.1%"
     ],
     "answer": 0,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 23.74%",
@@ -14748,14 +14606,12 @@
     "options_zh": [
       "20.84%",
       "21.97%",
-      "21.98%",
-      "20.84% (備選)"
+      "21.98%"
     ],
     "options_en": [
       "20.84%",
       "21.97%",
-      "21.98%",
-      "20.84% (alt)"
+      "21.98%"
     ],
     "answer": 0,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 20.84%",
@@ -14769,18 +14625,14 @@
     "question_zh": "前日波動率34.8%，今日回報-0.74%，λ=0.9。EWMA今日波動率？",
     "question_en": "Previous day volatility 34.8%, today's return -0.74%, λ=0.9. EWMA volatility today?",
     "options_zh": [
-      "32.99% (備選)",
       "34.78%",
-      "32.99%",
-      "34.78% (備選)"
+      "32.99%"
     ],
     "options_en": [
-      "32.99% (alt)",
       "34.78%",
-      "32.99%",
-      "34.78% (alt)"
+      "32.99%"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 32.99%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 32.99%",
     "topic_zh": "市場風險 (20%)",
@@ -14840,14 +14692,12 @@
     "options_zh": [
       "22.13%",
       "21.77%",
-      "22.1%",
-      "21.77% (備選)"
+      "22.1%"
     ],
     "options_en": [
       "22.13%",
       "21.77%",
-      "22.1%",
-      "21.77% (alt)"
+      "22.1%"
     ],
     "answer": 1,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 21.77%",
@@ -14909,16 +14759,14 @@
     "options_zh": [
       "26.33%",
       "26.39%",
-      "24.98% (備選)",
       "24.98%"
     ],
     "options_en": [
       "26.33%",
       "26.39%",
-      "24.98% (alt)",
       "24.98%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 24.98%",
     "explanation_en": "σ²(t) = λ·σ²(t-1) + (1-λ)·r²(t) = 24.98%",
     "topic_zh": "市場風險 (20%)",
@@ -20796,17 +20644,15 @@
     "question_en": "If recovery rate is 32%, Loss Given Default (LGD) is:",
     "options_zh": [
       "32%",
-      "32% (備選)",
       "68%",
       "34%"
     ],
     "options_en": [
       "32%",
-      "32% (alt)",
       "68%",
       "34%"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "LGD = 1 - 回收率 = 68%",
     "explanation_en": "LGD = 1 - Recovery Rate = 68%",
     "topic_zh": "信用風險 (20%)",
@@ -20912,14 +20758,12 @@
     "options_zh": [
       "39%",
       "78%",
-      "22%",
-      "22% (備選)"
+      "22%"
     ],
     "options_en": [
       "39%",
       "78%",
-      "22%",
-      "22% (alt)"
+      "22%"
     ],
     "answer": 1,
     "explanation_zh": "LGD = 1 - 回收率 = 78%",
@@ -21027,14 +20871,12 @@
     "options_zh": [
       "28%",
       "36%",
-      "72%",
-      "28% (備選)"
+      "72%"
     ],
     "options_en": [
       "28%",
       "36%",
-      "72%",
-      "28% (alt)"
+      "72%"
     ],
     "answer": 2,
     "explanation_zh": "LGD = 1 - 回收率 = 72%",
@@ -21141,17 +20983,15 @@
     "question_en": "If recovery rate is 29%, Loss Given Default (LGD) is:",
     "options_zh": [
       "29%",
-      "29% (備選)",
       "36%",
       "71%"
     ],
     "options_en": [
       "29%",
-      "29% (alt)",
       "36%",
       "71%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LGD = 1 - 回收率 = 71%",
     "explanation_en": "LGD = 1 - Recovery Rate = 71%",
     "topic_zh": "信用風險 (20%)",
@@ -21257,16 +21097,14 @@
     "options_zh": [
       "39%",
       "30%",
-      "39% (備選)",
       "61%"
     ],
     "options_en": [
       "39%",
       "30%",
-      "39% (alt)",
       "61%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LGD = 1 - 回收率 = 61%",
     "explanation_en": "LGD = 1 - Recovery Rate = 61%",
     "topic_zh": "信用風險 (20%)",
@@ -21326,14 +21164,12 @@
     "options_zh": [
       "0.48M",
       "1.0M",
-      "4.78M",
-      "4.78M (備選)"
+      "4.78M"
     ],
     "options_en": [
       "$0.48M",
       "$1.0M",
-      "$4.78M",
-      "$4.78M (alt)"
+      "$4.78M"
     ],
     "answer": 0,
     "explanation_zh": "CVA ≈ LGD × EAD × PD = 0.48M",
@@ -21371,17 +21207,15 @@
     "question_en": "If recovery rate is 49%, Loss Given Default (LGD) is:",
     "options_zh": [
       "49%",
-      "49% (備選)",
       "51%",
       "26%"
     ],
     "options_en": [
       "49%",
-      "49% (alt)",
       "51%",
       "26%"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "LGD = 1 - 回收率 = 51%",
     "explanation_en": "LGD = 1 - Recovery Rate = 51%",
     "topic_zh": "信用風險 (20%)",
@@ -21439,18 +21273,16 @@
     "question_zh": "LGD=60%, EAD=100M, PD=2.2%。簡化CVA？",
     "question_en": "LGD=60%, EAD=$100M, PD=2.2%. Simplified CVA?",
     "options_zh": [
-      "1.3M (備選)",
       "60.28M",
       "1.3M",
       "2.16M"
     ],
     "options_en": [
-      "$1.3M (alt)",
       "$60.28M",
       "$1.3M",
       "$2.16M"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "CVA ≈ LGD × EAD × PD = 1.3M",
     "explanation_en": "CVA ≈ LGD × EAD × PD = $1.3M",
     "topic_zh": "信用風險 (20%)",
@@ -21487,13 +21319,11 @@
     "options_zh": [
       "34%",
       "66%",
-      "34% (備選)",
       "33%"
     ],
     "options_en": [
       "34%",
       "66%",
-      "34% (alt)",
       "33%"
     ],
     "answer": 1,
@@ -21556,14 +21386,12 @@
     "options_zh": [
       "69.52M",
       "1.76M",
-      "2.53M",
-      "1.76M (備選)"
+      "2.53M"
     ],
     "options_en": [
       "$69.52M",
       "$1.76M",
-      "$2.53M",
-      "$1.76M (alt)"
+      "$2.53M"
     ],
     "answer": 1,
     "explanation_zh": "CVA ≈ LGD × EAD × PD = 1.76M",
@@ -21602,14 +21430,12 @@
     "options_zh": [
       "26%",
       "53%",
-      "47%",
-      "47% (備選)"
+      "47%"
     ],
     "options_en": [
       "26%",
       "53%",
-      "47%",
-      "47% (alt)"
+      "47%"
     ],
     "answer": 1,
     "explanation_zh": "LGD = 1 - 回收率 = 53%",
@@ -21717,14 +21543,12 @@
     "options_zh": [
       "44%",
       "28%",
-      "56%",
-      "44% (備選)"
+      "56%"
     ],
     "options_en": [
       "44%",
       "28%",
-      "56%",
-      "44% (alt)"
+      "56%"
     ],
     "answer": 2,
     "explanation_zh": "LGD = 1 - 回收率 = 56%",
@@ -21785,17 +21609,15 @@
     "question_en": "LGD=37%, EAD=$100M, PD=8.8%. Simplified CVA?",
     "options_zh": [
       "8.77M",
-      "3.28M (備選)",
       "37.34M",
       "3.28M"
     ],
     "options_en": [
       "$8.77M",
-      "$3.28M (alt)",
       "$37.34M",
       "$3.28M"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "CVA ≈ LGD × EAD × PD = 3.28M",
     "explanation_en": "CVA ≈ LGD × EAD × PD = $3.28M",
     "topic_zh": "信用風險 (20%)",
@@ -21832,14 +21654,12 @@
     "options_zh": [
       "52%",
       "26%",
-      "48%",
-      "48% (備選)"
+      "48%"
     ],
     "options_en": [
       "52%",
       "26%",
-      "48%",
-      "48% (alt)"
+      "48%"
     ],
     "answer": 0,
     "explanation_zh": "LGD = 1 - 回收率 = 52%",
@@ -21947,14 +21767,12 @@
     "options_zh": [
       "28%",
       "43%",
-      "57%",
-      "43% (備選)"
+      "57%"
     ],
     "options_en": [
       "28%",
       "43%",
-      "57%",
-      "43% (alt)"
+      "57%"
     ],
     "answer": 2,
     "explanation_zh": "LGD = 1 - 回收率 = 57%",
@@ -22062,14 +21880,12 @@
     "options_zh": [
       "57%",
       "43%",
-      "22%",
-      "57% (備選)"
+      "22%"
     ],
     "options_en": [
       "57%",
       "43%",
-      "22%",
-      "57% (alt)"
+      "22%"
     ],
     "answer": 1,
     "explanation_zh": "LGD = 1 - 回收率 = 43%",
@@ -22176,17 +21992,15 @@
     "question_en": "If recovery rate is 49%, Loss Given Default (LGD) is: (v1)",
     "options_zh": [
       "49%",
-      "49% (備選)",
       "51%",
       "26%"
     ],
     "options_en": [
       "49%",
-      "49% (alt)",
       "51%",
       "26%"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "LGD = 1 - 回收率 = 51%",
     "explanation_en": "LGD = 1 - Recovery Rate = 51%",
     "topic_zh": "信用風險 (20%)",
@@ -22246,13 +22060,11 @@
     "options_zh": [
       "9.68M",
       "4.26M",
-      "4.26M (備選)",
       "44.04M"
     ],
     "options_en": [
       "$9.68M",
       "$4.26M",
-      "$4.26M (alt)",
       "$44.04M"
     ],
     "answer": 1,
@@ -22291,17 +22103,15 @@
     "question_en": "If recovery rate is 31%, Loss Given Default (LGD) is:",
     "options_zh": [
       "31%",
-      "31% (備選)",
       "34%",
       "69%"
     ],
     "options_en": [
       "31%",
-      "31% (alt)",
       "34%",
       "69%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LGD = 1 - 回收率 = 69%",
     "explanation_en": "LGD = 1 - Recovery Rate = 69%",
     "topic_zh": "信用風險 (20%)",
@@ -22361,13 +22171,11 @@
     "options_zh": [
       "3.18M",
       "1.28M",
-      "1.28M (備選)",
       "40.37M"
     ],
     "options_en": [
       "$3.18M",
       "$1.28M",
-      "$1.28M (alt)",
       "$40.37M"
     ],
     "answer": 1,
@@ -22407,13 +22215,11 @@
     "options_zh": [
       "46%",
       "54%",
-      "46% (備選)",
       "27%"
     ],
     "options_en": [
       "46%",
       "54%",
-      "46% (alt)",
       "27%"
     ],
     "answer": 1,
@@ -22522,16 +22328,14 @@
     "options_zh": [
       "39%",
       "22%",
-      "22% (備選)",
       "78%"
     ],
     "options_en": [
       "39%",
       "22%",
-      "22% (alt)",
       "78%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LGD = 1 - 回收率 = 78%",
     "explanation_en": "LGD = 1 - Recovery Rate = 78%",
     "topic_zh": "信用風險 (20%)",
@@ -22590,13 +22394,11 @@
     "question_en": "LGD=49%, EAD=$100M, PD=5.4%. Simplified CVA?",
     "options_zh": [
       "2.64M",
-      "2.64M (備選)",
       "5.41M",
       "48.79M"
     ],
     "options_en": [
       "$2.64M",
-      "$2.64M (alt)",
       "$5.41M",
       "$48.79M"
     ],
@@ -22637,14 +22439,12 @@
     "options_zh": [
       "26%",
       "51%",
-      "49%",
-      "49% (備選)"
+      "49%"
     ],
     "options_en": [
       "26%",
       "51%",
-      "49%",
-      "49% (alt)"
+      "49%"
     ],
     "answer": 1,
     "explanation_zh": "LGD = 1 - 回收率 = 51%",
@@ -22705,17 +22505,15 @@
     "question_en": "LGD=47%, EAD=$100M, PD=4.8%. Simplified CVA?",
     "options_zh": [
       "4.76M",
-      "2.25M (備選)",
       "2.25M",
       "47.2M"
     ],
     "options_en": [
       "$4.76M",
-      "$2.25M (alt)",
       "$2.25M",
       "$47.2M"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "CVA ≈ LGD × EAD × PD = 2.25M",
     "explanation_en": "CVA ≈ LGD × EAD × PD = $2.25M",
     "topic_zh": "信用風險 (20%)",
@@ -22751,17 +22549,15 @@
     "question_en": "If recovery rate is 39%, Loss Given Default (LGD) is: (v1)",
     "options_zh": [
       "39%",
-      "39% (備選)",
       "30%",
       "61%"
     ],
     "options_en": [
       "39%",
-      "39% (alt)",
       "30%",
       "61%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LGD = 1 - 回收率 = 61%",
     "explanation_en": "LGD = 1 - Recovery Rate = 61%",
     "topic_zh": "信用風險 (20%)",
@@ -22867,13 +22663,11 @@
     "options_zh": [
       "44%",
       "56%",
-      "44% (備選)",
       "28%"
     ],
     "options_en": [
       "44%",
       "56%",
-      "44% (alt)",
       "28%"
     ],
     "answer": 1,
@@ -22982,13 +22776,11 @@
     "options_zh": [
       "35%",
       "65%",
-      "35% (備選)",
       "32%"
     ],
     "options_en": [
       "35%",
       "65%",
-      "35% (alt)",
       "32%"
     ],
     "answer": 1,
@@ -23096,17 +22888,15 @@
     "question_en": "If recovery rate is 45%, Loss Given Default (LGD) is:",
     "options_zh": [
       "45%",
-      "45% (備選)",
       "55%",
       "28%"
     ],
     "options_en": [
       "45%",
-      "45% (alt)",
       "55%",
       "28%"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "LGD = 1 - 回收率 = 55%",
     "explanation_en": "LGD = 1 - Recovery Rate = 55%",
     "topic_zh": "信用風險 (20%)",
@@ -23212,16 +23002,14 @@
     "options_zh": [
       "49%",
       "26%",
-      "49% (備選)",
       "51%"
     ],
     "options_en": [
       "49%",
       "26%",
-      "49% (alt)",
       "51%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LGD = 1 - 回收率 = 51%",
     "explanation_en": "LGD = 1 - Recovery Rate = 51%",
     "topic_zh": "信用風險 (20%)",
@@ -23326,17 +23114,15 @@
     "question_en": "If recovery rate is 58%, Loss Given Default (LGD) is:",
     "options_zh": [
       "58%",
-      "58% (備選)",
       "21%",
       "42%"
     ],
     "options_en": [
       "58%",
-      "58% (alt)",
       "21%",
       "42%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LGD = 1 - 回收率 = 42%",
     "explanation_en": "LGD = 1 - Recovery Rate = 42%",
     "topic_zh": "信用風險 (20%)",
@@ -23442,14 +23228,12 @@
     "options_zh": [
       "37%",
       "26%",
-      "74%",
-      "26% (備選)"
+      "74%"
     ],
     "options_en": [
       "37%",
       "26%",
-      "74%",
-      "26% (alt)"
+      "74%"
     ],
     "answer": 2,
     "explanation_zh": "LGD = 1 - 回收率 = 74%",
@@ -23510,17 +23294,15 @@
     "question_en": "LGD=47%, EAD=$100M, PD=9.2%. Simplified CVA?",
     "options_zh": [
       "9.15M",
-      "4.32M (備選)",
       "4.32M",
       "47.23M"
     ],
     "options_en": [
       "$9.15M",
-      "$4.32M (alt)",
       "$4.32M",
       "$47.23M"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "CVA ≈ LGD × EAD × PD = 4.32M",
     "explanation_en": "CVA ≈ LGD × EAD × PD = $4.32M",
     "topic_zh": "信用風險 (20%)",
@@ -23556,15 +23338,11 @@
     "question_en": "If recovery rate is 50%, Loss Given Default (LGD) is:",
     "options_zh": [
       "25%",
-      "50%",
-      "50% (備選)",
-      "50% (備選) (備選)"
+      "50%"
     ],
     "options_en": [
       "25%",
-      "50%",
-      "50% (alt)",
-      "50% (alt) (alt)"
+      "50%"
     ],
     "answer": 1,
     "explanation_zh": "LGD = 1 - 回收率 = 50%",
@@ -23626,13 +23404,11 @@
     "options_zh": [
       "1.07M",
       "0.53M",
-      "0.53M (備選)",
       "49.33M"
     ],
     "options_en": [
       "$1.07M",
       "$0.53M",
-      "$0.53M (alt)",
       "$49.33M"
     ],
     "answer": 1,
@@ -23672,14 +23448,12 @@
     "options_zh": [
       "69%",
       "31%",
-      "34%",
-      "31% (備選)"
+      "34%"
     ],
     "options_en": [
       "69%",
       "31%",
-      "34%",
-      "31% (alt)"
+      "34%"
     ],
     "answer": 0,
     "explanation_zh": "LGD = 1 - 回收率 = 69%",
@@ -23739,18 +23513,16 @@
     "question_zh": "LGD=58%, EAD=100M, PD=6.7%。簡化CVA？",
     "question_en": "LGD=58%, EAD=$100M, PD=6.7%. Simplified CVA?",
     "options_zh": [
-      "3.92M (備選)",
       "3.92M",
       "58.4M",
       "6.7M"
     ],
     "options_en": [
-      "$3.92M (alt)",
       "$3.92M",
       "$58.4M",
       "$6.7M"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "CVA ≈ LGD × EAD × PD = 3.92M",
     "explanation_en": "CVA ≈ LGD × EAD × PD = $3.92M",
     "topic_zh": "信用風險 (20%)",
@@ -23787,13 +23559,11 @@
     "options_zh": [
       "27%",
       "73%",
-      "27% (備選)",
       "36%"
     ],
     "options_en": [
       "27%",
       "73%",
-      "27% (alt)",
       "36%"
     ],
     "answer": 1,
@@ -23902,14 +23672,12 @@
     "options_zh": [
       "47%",
       "53%",
-      "26%",
-      "47% (備選)"
+      "26%"
     ],
     "options_en": [
       "47%",
       "53%",
-      "26%",
-      "47% (alt)"
+      "26%"
     ],
     "answer": 1,
     "explanation_zh": "LGD = 1 - 回收率 = 53%",
@@ -24017,14 +23785,12 @@
     "options_zh": [
       "24%",
       "52%",
-      "48%",
-      "52% (備選)"
+      "48%"
     ],
     "options_en": [
       "24%",
       "52%",
-      "48%",
-      "52% (alt)"
+      "48%"
     ],
     "answer": 2,
     "explanation_zh": "LGD = 1 - 回收率 = 48%",
@@ -24132,14 +23898,12 @@
     "options_zh": [
       "23%",
       "46%",
-      "54%",
-      "54% (備選)"
+      "54%"
     ],
     "options_en": [
       "23%",
       "46%",
-      "54%",
-      "54% (alt)"
+      "54%"
     ],
     "answer": 1,
     "explanation_zh": "LGD = 1 - 回收率 = 46%",
@@ -24201,14 +23965,12 @@
     "options_zh": [
       "68.35M",
       "3.19M",
-      "2.18M",
-      "2.18M (備選)"
+      "2.18M"
     ],
     "options_en": [
       "$68.35M",
       "$3.19M",
-      "$2.18M",
-      "$2.18M (alt)"
+      "$2.18M"
     ],
     "answer": 2,
     "explanation_zh": "CVA ≈ LGD × EAD × PD = 2.18M",
@@ -24247,13 +24009,11 @@
     "options_zh": [
       "41%",
       "59%",
-      "59% (備選)",
       "20%"
     ],
     "options_en": [
       "41%",
       "59%",
-      "59% (alt)",
       "20%"
     ],
     "answer": 0,
@@ -24362,16 +24122,14 @@
     "options_zh": [
       "24%",
       "53%",
-      "53% (備選)",
       "47%"
     ],
     "options_en": [
       "24%",
       "53%",
-      "53% (alt)",
       "47%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LGD = 1 - 回收率 = 47%",
     "explanation_en": "LGD = 1 - Recovery Rate = 47%",
     "topic_zh": "信用風險 (20%)",
@@ -24477,13 +24235,11 @@
     "options_zh": [
       "39%",
       "61%",
-      "39% (備選)",
       "30%"
     ],
     "options_en": [
       "39%",
       "61%",
-      "39% (alt)",
       "30%"
     ],
     "answer": 1,
@@ -24592,14 +24348,12 @@
     "options_zh": [
       "41%",
       "30%",
-      "59%",
-      "41% (備選)"
+      "59%"
     ],
     "options_en": [
       "41%",
       "30%",
-      "59%",
-      "41% (alt)"
+      "59%"
     ],
     "answer": 2,
     "explanation_zh": "LGD = 1 - 回收率 = 59%",
@@ -24661,16 +24415,14 @@
     "options_zh": [
       "1.8M",
       "30.07M",
-      "0.54M (備選)",
       "0.54M"
     ],
     "options_en": [
       "$1.8M",
       "$30.07M",
-      "$0.54M (alt)",
       "$0.54M"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "CVA ≈ LGD × EAD × PD = 0.54M",
     "explanation_en": "CVA ≈ LGD × EAD × PD = $0.54M",
     "topic_zh": "信用風險 (20%)",
@@ -24707,16 +24459,14 @@
     "options_zh": [
       "40%",
       "21%",
-      "21% (備選)",
       "79%"
     ],
     "options_en": [
       "40%",
       "21%",
-      "21% (alt)",
       "79%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LGD = 1 - 回收率 = 79%",
     "explanation_en": "LGD = 1 - Recovery Rate = 79%",
     "topic_zh": "信用風險 (20%)",
@@ -24822,14 +24572,12 @@
     "options_zh": [
       "26%",
       "74%",
-      "37%",
-      "26% (備選)"
+      "37%"
     ],
     "options_en": [
       "26%",
       "74%",
-      "37%",
-      "26% (alt)"
+      "37%"
     ],
     "answer": 1,
     "explanation_zh": "LGD = 1 - 回收率 = 74%",
@@ -24937,14 +24685,12 @@
     "options_zh": [
       "55%",
       "22%",
-      "45%",
-      "55% (備選)"
+      "45%"
     ],
     "options_en": [
       "55%",
       "22%",
-      "45%",
-      "55% (alt)"
+      "45%"
     ],
     "answer": 2,
     "explanation_zh": "LGD = 1 - 回收率 = 45%",
@@ -25052,16 +24798,14 @@
     "options_zh": [
       "30%",
       "39%",
-      "39% (備選)",
       "61%"
     ],
     "options_en": [
       "30%",
       "39%",
-      "39% (alt)",
       "61%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LGD = 1 - 回收率 = 61%",
     "explanation_en": "LGD = 1 - Recovery Rate = 61%",
     "topic_zh": "信用風險 (20%)",
@@ -25167,16 +24911,14 @@
     "options_zh": [
       "37%",
       "32%",
-      "37% (備選)",
       "63%"
     ],
     "options_en": [
       "37%",
       "32%",
-      "37% (alt)",
       "63%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LGD = 1 - 回收率 = 63%",
     "explanation_en": "LGD = 1 - Recovery Rate = 63%",
     "topic_zh": "信用風險 (20%)",
@@ -25282,13 +25024,11 @@
     "options_zh": [
       "71%",
       "29%",
-      "29% (備選)",
       "36%"
     ],
     "options_en": [
       "71%",
       "29%",
-      "29% (alt)",
       "36%"
     ],
     "answer": 0,
@@ -66705,14 +66445,12 @@
     "options_zh": [
       "163.6%",
       "187.5%",
-      "136.4%",
-      "187.5% (備選)"
+      "136.4%"
     ],
     "options_en": [
       "163.6%",
       "187.5%",
-      "136.4%",
-      "187.5% (alt)"
+      "136.4%"
     ],
     "answer": 1,
     "explanation_zh": "LCR = HQLA / 淨流出 = 187.5%",
@@ -66772,18 +66510,14 @@
     "question_zh": "HQLA=80M，淨流出=80M。LCR？",
     "question_en": "HQLA=$80M, net outflows=$80M. LCR?",
     "options_zh": [
-      "100.0% (備選)",
       "100.0%",
-      "61.5%",
-      "100.0% (備選) (備選)"
+      "61.5%"
     ],
     "options_en": [
-      "100.0% (alt)",
       "100.0%",
-      "61.5%",
-      "100.0% (alt) (alt)"
+      "61.5%"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "LCR = HQLA / 淨流出 = 100.0%",
     "explanation_en": "LCR = HQLA / Net Outflows = 100.0%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -66842,13 +66576,11 @@
     "question_en": "HQLA=$100M, net outflows=$50M. LCR?",
     "options_zh": [
       "200.0%",
-      "200.0% (備選)",
       "100.0%",
       "150.0%"
     ],
     "options_en": [
       "200.0%",
-      "200.0% (alt)",
       "100.0%",
       "150.0%"
     ],
@@ -66981,13 +66713,11 @@
     "options_zh": [
       "250.0%",
       "142.9%",
-      "250.0% (備選)",
       "185.7%"
     ],
     "options_en": [
       "250.0%",
       "142.9%",
-      "250.0% (alt)",
       "185.7%"
     ],
     "answer": 0,
@@ -67048,18 +66778,16 @@
     "question_zh": "HQLA=200M，淨流出=50M。LCR？",
     "question_en": "HQLA=$200M, net outflows=$50M. LCR?",
     "options_zh": [
-      "400.0% (備選)",
       "200.0%",
       "400.0%",
       "250.0%"
     ],
     "options_en": [
-      "400.0% (alt)",
       "200.0%",
       "400.0%",
       "250.0%"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "LCR = HQLA / 淨流出 = 400.0%",
     "explanation_en": "LCR = HQLA / Net Outflows = 400.0%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -67119,13 +66847,11 @@
     "options_zh": [
       "166.7%",
       "375.0%",
-      "375.0% (備選)",
       "222.2%"
     ],
     "options_en": [
       "166.7%",
       "375.0%",
-      "375.0% (alt)",
       "222.2%"
     ],
     "answer": 1,
@@ -67186,18 +66912,16 @@
     "question_zh": "HQLA=120M，淨流出=90M。LCR？",
     "question_en": "HQLA=$120M, net outflows=$90M. LCR?",
     "options_zh": [
-      "133.3% (備選)",
       "133.3%",
       "92.3%",
       "123.1%"
     ],
     "options_en": [
-      "133.3% (alt)",
       "133.3%",
       "92.3%",
       "123.1%"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "LCR = HQLA / 淨流出 = 133.3%",
     "explanation_en": "LCR = HQLA / Net Outflows = 133.3%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -67257,16 +66981,14 @@
     "options_zh": [
       "118.2%",
       "90.9%",
-      "125.0% (備選)",
       "125.0%"
     ],
     "options_en": [
       "118.2%",
       "90.9%",
-      "125.0% (alt)",
       "125.0%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LCR = HQLA / 淨流出 = 125.0%",
     "explanation_en": "LCR = HQLA / Net Outflows = 125.0%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -67325,13 +67047,11 @@
     "question_en": "HQLA=$150M, net outflows=$100M. LCR?",
     "options_zh": [
       "150.0%",
-      "150.0% (備選)",
       "138.5%",
       "115.4%"
     ],
     "options_en": [
       "150.0%",
-      "150.0% (alt)",
       "138.5%",
       "115.4%"
     ],
@@ -67395,13 +67115,11 @@
     "options_zh": [
       "140.0%",
       "166.7%",
-      "166.7% (備選)",
       "100.0%"
     ],
     "options_en": [
       "140.0%",
       "166.7%",
-      "166.7% (alt)",
       "100.0%"
     ],
     "answer": 1,
@@ -67464,14 +67182,12 @@
     "options_zh": [
       "114.3%",
       "400.0%",
-      "185.7%",
-      "400.0% (備選)"
+      "185.7%"
     ],
     "options_en": [
       "114.3%",
       "400.0%",
-      "185.7%",
-      "400.0% (alt)"
+      "185.7%"
     ],
     "answer": 1,
     "explanation_zh": "LCR = HQLA / 淨流出 = 400.0%",
@@ -67531,18 +67247,16 @@
     "question_zh": "HQLA=120M，淨流出=80M。LCR？",
     "question_en": "HQLA=$120M, net outflows=$80M. LCR?",
     "options_zh": [
-      "150.0% (備選)",
       "150.0%",
       "130.8%",
       "92.3%"
     ],
     "options_en": [
-      "150.0% (alt)",
       "150.0%",
       "130.8%",
       "92.3%"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "LCR = HQLA / 淨流出 = 150.0%",
     "explanation_en": "LCR = HQLA / Net Outflows = 150.0%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -67601,17 +67315,15 @@
     "question_en": "HQLA=$80M, net outflows=$90M. LCR?",
     "options_zh": [
       "92.3%",
-      "88.9% (備選)",
       "61.5%",
       "88.9%"
     ],
     "options_en": [
       "92.3%",
-      "88.9% (alt)",
       "61.5%",
       "88.9%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LCR = HQLA / 淨流出 = 88.9%",
     "explanation_en": "LCR = HQLA / Net Outflows = 88.9%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -67671,13 +67383,11 @@
     "options_zh": [
       "161.5%",
       "214.3%",
-      "214.3% (備選)",
       "115.4%"
     ],
     "options_en": [
       "161.5%",
       "214.3%",
-      "214.3% (alt)",
       "115.4%"
     ],
     "answer": 1,
@@ -67740,14 +67450,12 @@
     "options_zh": [
       "127.3%",
       "160.0%",
-      "72.7%",
-      "160.0% (備選)"
+      "72.7%"
     ],
     "options_en": [
       "127.3%",
       "160.0%",
-      "72.7%",
-      "160.0% (alt)"
+      "72.7%"
     ],
     "answer": 1,
     "explanation_zh": "LCR = HQLA / 淨流出 = 160.0%",
@@ -67809,14 +67517,12 @@
     "options_zh": [
       "342.9%",
       "285.7%",
-      "666.7%",
-      "666.7% (備選)"
+      "666.7%"
     ],
     "options_en": [
       "342.9%",
       "285.7%",
-      "666.7%",
-      "666.7% (alt)"
+      "666.7%"
     ],
     "answer": 2,
     "explanation_zh": "LCR = HQLA / 淨流出 = 666.7%",
@@ -67878,13 +67584,11 @@
     "options_zh": [
       "375.0%",
       "257.1%",
-      "375.0% (備選)",
       "214.3%"
     ],
     "options_en": [
       "375.0%",
       "257.1%",
-      "375.0% (alt)",
       "214.3%"
     ],
     "answer": 0,
@@ -67947,14 +67651,12 @@
     "options_zh": [
       "138.5%",
       "92.3%",
-      "171.4%",
-      "171.4% (備選)"
+      "171.4%"
     ],
     "options_en": [
       "138.5%",
       "92.3%",
-      "171.4%",
-      "171.4% (alt)"
+      "171.4%"
     ],
     "answer": 2,
     "explanation_zh": "LCR = HQLA / 淨流出 = 171.4%",
@@ -68016,14 +67718,12 @@
     "options_zh": [
       "153.8%",
       "115.4%",
-      "187.5%",
-      "187.5% (備選)"
+      "187.5%"
     ],
     "options_en": [
       "153.8%",
       "115.4%",
-      "187.5%",
-      "187.5% (alt)"
+      "187.5%"
     ],
     "answer": 2,
     "explanation_zh": "LCR = HQLA / 淨流出 = 187.5%",
@@ -68085,13 +67785,11 @@
     "options_zh": [
       "214.3%",
       "500.0%",
-      "500.0% (備選)",
       "142.9%"
     ],
     "options_en": [
       "214.3%",
       "500.0%",
-      "500.0% (alt)",
       "142.9%"
     ],
     "answer": 1,
@@ -68152,18 +67850,16 @@
     "question_zh": "HQLA=80M，淨流出=70M。LCR？",
     "question_en": "HQLA=$80M, net outflows=$70M. LCR?",
     "options_zh": [
-      "114.3% (備選)",
       "109.1%",
       "114.3%",
       "72.7%"
     ],
     "options_en": [
-      "114.3% (alt)",
       "109.1%",
       "114.3%",
       "72.7%"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "LCR = HQLA / 淨流出 = 114.3%",
     "explanation_en": "LCR = HQLA / Net Outflows = 114.3%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -68223,14 +67919,12 @@
     "options_zh": [
       "111.1%",
       "76.9%",
-      "107.7%",
-      "111.1% (備選)"
+      "107.7%"
     ],
     "options_en": [
       "111.1%",
       "76.9%",
-      "107.7%",
-      "111.1% (alt)"
+      "107.7%"
     ],
     "answer": 0,
     "explanation_zh": "LCR = HQLA / 淨流出 = 111.1%",
@@ -68291,13 +67985,11 @@
     "question_en": "HQLA=$120M, net outflows=$70M. LCR? (v1)",
     "options_zh": [
       "171.4%",
-      "171.4% (備選)",
       "92.3%",
       "138.5%"
     ],
     "options_en": [
       "171.4%",
-      "171.4% (alt)",
       "92.3%",
       "138.5%"
     ],
@@ -68361,13 +68053,11 @@
     "options_zh": [
       "166.7%",
       "100.0%",
-      "166.7% (備選)",
       "140.0%"
     ],
     "options_en": [
       "166.7%",
       "100.0%",
-      "166.7% (alt)",
       "140.0%"
     ],
     "answer": 0,
@@ -68428,18 +68118,16 @@
     "question_zh": "HQLA=120M，淨流出=60M。LCR？",
     "question_en": "HQLA=$120M, net outflows=$60M. LCR?",
     "options_zh": [
-      "200.0% (備選)",
       "200.0%",
       "154.5%",
       "109.1%"
     ],
     "options_en": [
-      "200.0% (alt)",
       "200.0%",
       "154.5%",
       "109.1%"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "LCR = HQLA / 淨流出 = 200.0%",
     "explanation_en": "LCR = HQLA / Net Outflows = 200.0%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -68498,13 +68186,11 @@
     "question_en": "HQLA=$80M, net outflows=$60M. LCR?",
     "options_zh": [
       "133.3%",
-      "133.3% (備選)",
       "118.2%",
       "72.7%"
     ],
     "options_en": [
       "133.3%",
-      "133.3% (alt)",
       "118.2%",
       "72.7%"
     ],
@@ -68568,14 +68254,12 @@
     "options_zh": [
       "142.9%",
       "76.9%",
-      "123.1%",
-      "142.9% (備選)"
+      "123.1%"
     ],
     "options_en": [
       "142.9%",
       "76.9%",
-      "123.1%",
-      "142.9% (alt)"
+      "123.1%"
     ],
     "answer": 0,
     "explanation_zh": "LCR = HQLA / 淨流出 = 142.9%",
@@ -68637,16 +68321,14 @@
     "options_zh": [
       "160.0%",
       "100.0%",
-      "250.0% (備選)",
       "250.0%"
     ],
     "options_en": [
       "160.0%",
       "100.0%",
-      "250.0% (alt)",
       "250.0%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LCR = HQLA / 淨流出 = 250.0%",
     "explanation_en": "LCR = HQLA / Net Outflows = 250.0%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -68773,18 +68455,16 @@
     "question_zh": "HQLA=150M，淨流出=50M。LCR？",
     "question_en": "HQLA=$150M, net outflows=$50M. LCR?",
     "options_zh": [
-      "300.0% (備選)",
       "300.0%",
       "166.7%",
       "211.1%"
     ],
     "options_en": [
-      "300.0% (alt)",
       "300.0%",
       "166.7%",
       "211.1%"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "LCR = HQLA / 淨流出 = 300.0%",
     "explanation_en": "LCR = HQLA / Net Outflows = 300.0%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -68842,18 +68522,16 @@
     "question_zh": "HQLA=150M，淨流出=50M。LCR？ (變體1)",
     "question_en": "HQLA=$150M, net outflows=$50M. LCR? (v1)",
     "options_zh": [
-      "300.0% (備選)",
       "166.7%",
       "300.0%",
       "211.1%"
     ],
     "options_en": [
-      "300.0% (alt)",
       "166.7%",
       "300.0%",
       "211.1%"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "LCR = HQLA / 淨流出 = 300.0%",
     "explanation_en": "LCR = HQLA / Net Outflows = 300.0%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -68913,14 +68591,12 @@
     "options_zh": [
       "333.3%",
       "222.2%",
-      "255.6%",
-      "333.3% (備選)"
+      "255.6%"
     ],
     "options_en": [
       "333.3%",
       "222.2%",
-      "255.6%",
-      "333.3% (alt)"
+      "255.6%"
     ],
     "answer": 0,
     "explanation_zh": "LCR = HQLA / 淨流出 = 333.3%",
@@ -68981,13 +68657,11 @@
     "question_en": "HQLA=$200M, net outflows=$70M. LCR?",
     "options_zh": [
       "285.7%",
-      "285.7% (備選)",
       "230.0%",
       "200.0%"
     ],
     "options_en": [
       "285.7%",
-      "285.7% (alt)",
       "230.0%",
       "200.0%"
     ],
@@ -69049,18 +68723,16 @@
     "question_zh": "HQLA=150M，淨流出=40M。LCR？ (變體2)",
     "question_en": "HQLA=$150M, net outflows=$40M. LCR? (v2)",
     "options_zh": [
-      "375.0% (備選)",
       "214.3%",
       "375.0%",
       "257.1%"
     ],
     "options_en": [
-      "375.0% (alt)",
       "214.3%",
       "375.0%",
       "257.1%"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "LCR = HQLA / 淨流出 = 375.0%",
     "explanation_en": "LCR = HQLA / Net Outflows = 375.0%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -69120,16 +68792,14 @@
     "options_zh": [
       "188.9%",
       "133.3%",
-      "300.0% (備選)",
       "300.0%"
     ],
     "options_en": [
       "188.9%",
       "133.3%",
-      "300.0% (alt)",
       "300.0%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LCR = HQLA / 淨流出 = 300.0%",
     "explanation_en": "LCR = HQLA / Net Outflows = 300.0%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -69189,14 +68859,12 @@
     "options_zh": [
       "61.5%",
       "92.3%",
-      "88.9%",
-      "88.9% (備選)"
+      "88.9%"
     ],
     "options_en": [
       "61.5%",
       "92.3%",
-      "88.9%",
-      "88.9% (alt)"
+      "88.9%"
     ],
     "answer": 2,
     "explanation_zh": "LCR = HQLA / 淨流出 = 88.9%",
@@ -69256,18 +68924,16 @@
     "question_zh": "HQLA=80M，淨流出=30M。LCR？",
     "question_en": "HQLA=$80M, net outflows=$30M. LCR?",
     "options_zh": [
-      "266.7% (備選)",
       "171.4%",
       "114.3%",
       "266.7%"
     ],
     "options_en": [
-      "266.7% (alt)",
       "171.4%",
       "114.3%",
       "266.7%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LCR = HQLA / 淨流出 = 266.7%",
     "explanation_en": "LCR = HQLA / Net Outflows = 266.7%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -69327,14 +68993,12 @@
     "options_zh": [
       "375.0%",
       "222.2%",
-      "166.7%",
-      "375.0% (備選)"
+      "166.7%"
     ],
     "options_en": [
       "375.0%",
       "222.2%",
-      "166.7%",
-      "375.0% (alt)"
+      "166.7%"
     ],
     "answer": 0,
     "explanation_zh": "LCR = HQLA / 淨流出 = 375.0%",
@@ -69395,17 +69059,15 @@
     "question_en": "HQLA=$150M, net outflows=$60M. LCR?",
     "options_zh": [
       "150.0%",
-      "250.0% (備選)",
       "250.0%",
       "190.0%"
     ],
     "options_en": [
       "150.0%",
-      "250.0% (alt)",
       "250.0%",
       "190.0%"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "LCR = HQLA / 淨流出 = 250.0%",
     "explanation_en": "LCR = HQLA / Net Outflows = 250.0%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -69465,16 +69127,14 @@
     "options_zh": [
       "150.0%",
       "120.0%",
-      "171.4% (備選)",
       "171.4%"
     ],
     "options_en": [
       "150.0%",
       "120.0%",
-      "171.4% (alt)",
       "171.4%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LCR = HQLA / 淨流出 = 171.4%",
     "explanation_en": "LCR = HQLA / Net Outflows = 171.4%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -69533,17 +69193,15 @@
     "question_en": "HQLA=$120M, net outflows=$40M. LCR? (v1)",
     "options_zh": [
       "133.3%",
-      "300.0% (備選)",
       "188.9%",
       "300.0%"
     ],
     "options_en": [
       "133.3%",
-      "300.0% (alt)",
       "188.9%",
       "300.0%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LCR = HQLA / 淨流出 = 300.0%",
     "explanation_en": "LCR = HQLA / Net Outflows = 300.0%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -69603,13 +69261,11 @@
     "options_zh": [
       "92.3%",
       "150.0%",
-      "150.0% (備選)",
       "130.8%"
     ],
     "options_en": [
       "92.3%",
       "150.0%",
-      "150.0% (alt)",
       "130.8%"
     ],
     "answer": 1,
@@ -69739,18 +69395,16 @@
     "question_zh": "HQLA=150M，淨流出=100M。LCR？ (變體1)",
     "question_en": "HQLA=$150M, net outflows=$100M. LCR? (v1)",
     "options_zh": [
-      "150.0% (備選)",
       "150.0%",
       "138.5%",
       "115.4%"
     ],
     "options_en": [
-      "150.0% (alt)",
       "150.0%",
       "138.5%",
       "115.4%"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "LCR = HQLA / 淨流出 = 150.0%",
     "explanation_en": "LCR = HQLA / Net Outflows = 150.0%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -69810,14 +69464,12 @@
     "options_zh": [
       "72.7%",
       "133.3%",
-      "118.2%",
-      "133.3% (備選)"
+      "118.2%"
     ],
     "options_en": [
       "72.7%",
       "133.3%",
-      "118.2%",
-      "133.3% (alt)"
+      "118.2%"
     ],
     "answer": 1,
     "explanation_zh": "LCR = HQLA / 淨流出 = 133.3%",
@@ -69948,16 +69600,14 @@
     "options_zh": [
       "123.1%",
       "76.9%",
-      "142.9% (備選)",
       "142.9%"
     ],
     "options_en": [
       "123.1%",
       "76.9%",
-      "142.9% (alt)",
       "142.9%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LCR = HQLA / 淨流出 = 142.9%",
     "explanation_en": "LCR = HQLA / Net Outflows = 142.9%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -70015,18 +69665,16 @@
     "question_zh": "HQLA=80M，淨流出=60M。LCR？ (變體2)",
     "question_en": "HQLA=$80M, net outflows=$60M. LCR? (v2)",
     "options_zh": [
-      "133.3% (備選)",
       "88.9%",
       "122.2%",
       "133.3%"
     ],
     "options_en": [
-      "133.3% (alt)",
       "88.9%",
       "122.2%",
       "133.3%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LCR = HQLA / 淨流出 = 133.3%",
     "explanation_en": "LCR = HQLA / Net Outflows = 133.3%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -70084,18 +69732,16 @@
     "question_zh": "HQLA=150M，淨流出=90M。LCR？",
     "question_en": "HQLA=$150M, net outflows=$90M. LCR?",
     "options_zh": [
-      "166.7% (備選)",
       "146.2%",
       "115.4%",
       "166.7%"
     ],
     "options_en": [
-      "166.7% (alt)",
       "146.2%",
       "115.4%",
       "166.7%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LCR = HQLA / 淨流出 = 166.7%",
     "explanation_en": "LCR = HQLA / Net Outflows = 166.7%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -70155,14 +69801,12 @@
     "options_zh": [
       "111.1%",
       "166.7%",
-      "144.4%",
-      "166.7% (備選)"
+      "144.4%"
     ],
     "options_en": [
       "111.1%",
       "166.7%",
-      "144.4%",
-      "166.7% (alt)"
+      "144.4%"
     ],
     "answer": 1,
     "explanation_zh": "LCR = HQLA / 淨流出 = 166.7%",
@@ -70224,16 +69868,14 @@
     "options_zh": [
       "80.0%",
       "120.0%",
-      "133.3% (備選)",
       "133.3%"
     ],
     "options_en": [
       "80.0%",
       "120.0%",
-      "133.3% (alt)",
       "133.3%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LCR = HQLA / 淨流出 = 133.3%",
     "explanation_en": "LCR = HQLA / Net Outflows = 133.3%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -70293,14 +69935,12 @@
     "options_zh": [
       "155.6%",
       "111.1%",
-      "200.0%",
-      "200.0% (備選)"
+      "200.0%"
     ],
     "options_en": [
       "155.6%",
       "111.1%",
-      "200.0%",
-      "200.0% (alt)"
+      "200.0%"
     ],
     "answer": 2,
     "explanation_zh": "LCR = HQLA / 淨流出 = 200.0%",
@@ -70361,17 +70001,15 @@
     "question_en": "HQLA=$120M, net outflows=$40M. LCR? (v2)",
     "options_zh": [
       "171.4%",
-      "300.0% (備選)",
       "214.3%",
       "300.0%"
     ],
     "options_en": [
       "171.4%",
-      "300.0% (alt)",
       "214.3%",
       "300.0%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LCR = HQLA / 淨流出 = 300.0%",
     "explanation_en": "LCR = HQLA / Net Outflows = 300.0%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -70430,17 +70068,15 @@
     "question_en": "HQLA=$120M, net outflows=$80M. LCR? (v2)",
     "options_zh": [
       "109.1%",
-      "150.0% (備選)",
       "136.4%",
       "150.0%"
     ],
     "options_en": [
       "109.1%",
-      "150.0% (alt)",
       "136.4%",
       "150.0%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LCR = HQLA / 淨流出 = 150.0%",
     "explanation_en": "LCR = HQLA / Net Outflows = 150.0%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -70569,14 +70205,12 @@
     "options_zh": [
       "333.3%",
       "222.2%",
-      "255.6%",
-      "333.3% (備選)"
+      "255.6%"
     ],
     "options_en": [
       "333.3%",
       "222.2%",
-      "255.6%",
-      "333.3% (alt)"
+      "255.6%"
     ],
     "answer": 0,
     "explanation_zh": "LCR = HQLA / 淨流出 = 333.3%",
@@ -70636,18 +70270,16 @@
     "question_zh": "HQLA=120M，淨流出=30M。LCR？",
     "question_en": "HQLA=$120M, net outflows=$30M. LCR?",
     "options_zh": [
-      "400.0% (備選)",
       "228.6%",
       "171.4%",
       "400.0%"
     ],
     "options_en": [
-      "400.0% (alt)",
       "228.6%",
       "171.4%",
       "400.0%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LCR = HQLA / 淨流出 = 400.0%",
     "explanation_en": "LCR = HQLA / Net Outflows = 400.0%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -70705,18 +70337,16 @@
     "question_zh": "HQLA=80M，淨流出=60M。LCR？ (變體4)",
     "question_en": "HQLA=$80M, net outflows=$60M. LCR? (v4)",
     "options_zh": [
-      "133.3% (備選)",
       "88.9%",
       "133.3%",
       "122.2%"
     ],
     "options_en": [
-      "133.3% (alt)",
       "88.9%",
       "133.3%",
       "122.2%"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "LCR = HQLA / 淨流出 = 133.3%",
     "explanation_en": "LCR = HQLA / Net Outflows = 133.3%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -70775,13 +70405,11 @@
     "question_en": "HQLA=$80M, net outflows=$60M. LCR? (v5)",
     "options_zh": [
       "133.3%",
-      "133.3% (備選)",
       "122.2%",
       "88.9%"
     ],
     "options_en": [
       "133.3%",
-      "133.3% (alt)",
       "122.2%",
       "88.9%"
     ],
@@ -70844,17 +70472,15 @@
     "question_en": "HQLA=$200M, net outflows=$80M. LCR?",
     "options_zh": [
       "153.8%",
-      "250.0% (備選)",
       "250.0%",
       "192.3%"
     ],
     "options_en": [
       "153.8%",
-      "250.0% (alt)",
       "250.0%",
       "192.3%"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "LCR = HQLA / 淨流出 = 250.0%",
     "explanation_en": "LCR = HQLA / Net Outflows = 250.0%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -70913,17 +70539,15 @@
     "question_en": "HQLA=$150M, net outflows=$40M. LCR? (v4)",
     "options_zh": [
       "257.1%",
-      "375.0% (備選)",
       "375.0%",
       "214.3%"
     ],
     "options_en": [
       "257.1%",
-      "375.0% (alt)",
       "375.0%",
       "214.3%"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "LCR = HQLA / 淨流出 = 375.0%",
     "explanation_en": "LCR = HQLA / Net Outflows = 375.0%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -70981,18 +70605,16 @@
     "question_zh": "HQLA=100M，淨流出=80M。LCR？ (變體1)",
     "question_en": "HQLA=$100M, net outflows=$80M. LCR? (v1)",
     "options_zh": [
-      "125.0% (備選)",
       "76.9%",
       "115.4%",
       "125.0%"
     ],
     "options_en": [
-      "125.0% (alt)",
       "76.9%",
       "115.4%",
       "125.0%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LCR = HQLA / 淨流出 = 125.0%",
     "explanation_en": "LCR = HQLA / Net Outflows = 125.0%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -71052,16 +70674,14 @@
     "options_zh": [
       "177.8%",
       "133.3%",
-      "240.0% (備選)",
       "240.0%"
     ],
     "options_en": [
       "177.8%",
       "133.3%",
-      "240.0% (alt)",
       "240.0%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LCR = HQLA / 淨流出 = 240.0%",
     "explanation_en": "LCR = HQLA / Net Outflows = 240.0%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -71120,17 +70740,15 @@
     "question_en": "HQLA=$200M, net outflows=$60M. LCR? (v2)",
     "options_zh": [
       "227.3%",
-      "333.3% (備選)",
       "181.8%",
       "333.3%"
     ],
     "options_en": [
       "227.3%",
-      "333.3% (alt)",
       "181.8%",
       "333.3%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LCR = HQLA / 淨流出 = 333.3%",
     "explanation_en": "LCR = HQLA / Net Outflows = 333.3%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -71188,18 +70806,16 @@
     "question_zh": "HQLA=80M，淨流出=40M。LCR？",
     "question_en": "HQLA=$80M, net outflows=$40M. LCR?",
     "options_zh": [
-      "200.0% (備選)",
       "88.9%",
       "144.4%",
       "200.0%"
     ],
     "options_en": [
-      "200.0% (alt)",
       "88.9%",
       "144.4%",
       "200.0%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "LCR = HQLA / 淨流出 = 200.0%",
     "explanation_en": "LCR = HQLA / Net Outflows = 200.0%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -71257,18 +70873,14 @@
     "question_zh": "HQLA=100M，淨流出=100M。LCR？",
     "question_en": "HQLA=$100M, net outflows=$100M. LCR?",
     "options_zh": [
-      "100.0% (備選)",
       "100.0%",
-      "100.0% (備選) (備選)",
       "76.9%"
     ],
     "options_en": [
-      "100.0% (alt)",
       "100.0%",
-      "100.0% (alt) (alt)",
       "76.9%"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "LCR = HQLA / 淨流出 = 100.0%",
     "explanation_en": "LCR = HQLA / Net Outflows = 100.0%",
     "topic_zh": "流動性與財務風險 (15%)",
@@ -85243,14 +84855,12 @@
     "options_zh": [
       "3.59%",
       "7.18%",
-      "8.43%",
-      "3.59% (備選)"
+      "8.43%"
     ],
     "options_en": [
       "3.59%",
       "7.18%",
-      "8.43%",
-      "3.59% (alt)"
+      "8.43%"
     ],
     "answer": 1,
     "explanation_zh": "Rp = w1×R1 + w2×R2 = 7.18%",
@@ -87106,14 +86716,12 @@
     "options_zh": [
       "4.54%",
       "5.75%",
-      "10.28%",
-      "10.28% (備選)"
+      "10.28%"
     ],
     "options_en": [
       "4.54%",
       "5.75%",
-      "10.28%",
-      "10.28% (alt)"
+      "10.28%"
     ],
     "answer": 2,
     "explanation_zh": "Rp = w1×R1 + w2×R2 = 10.28%",

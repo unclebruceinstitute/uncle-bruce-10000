@@ -14580,16 +14580,14 @@
     "options_zh": [
       "5.51%",
       "5.05%",
-      "5.05% (備選)",
       "4.59%"
     ],
     "options_en": [
       "5.51%",
       "5.05%",
-      "5.05% (alt)",
       "4.59%"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "VaR = z×σ − μ = 2.326×2.17 − (0.46) = 4.59%",
     "explanation_en": "VaR = z×σ − μ = 2.326×2.17 − (0.46) = 4.59%",
     "topic_zh": "定量分析 (20%)",
@@ -15105,14 +15103,12 @@
     "options_zh": [
       "2.95%",
       "3.22%",
-      "2.68%",
-      "2.95% (備選)"
+      "2.68%"
     ],
     "options_en": [
       "2.95%",
       "3.22%",
-      "2.68%",
-      "2.95% (alt)"
+      "2.68%"
     ],
     "answer": 0,
     "explanation_zh": "VaR = z×σ − μ = 2.326×1.27 − (0.27) = 2.68%",
@@ -16180,14 +16176,12 @@
     "options_zh": [
       "5.7%",
       "5.43%",
-      "5.97%",
-      "5.97% (備選)"
+      "5.97%"
     ],
     "options_en": [
       "5.7%",
       "5.43%",
-      "5.97%",
-      "5.97% (alt)"
+      "5.97%"
     ],
     "answer": 1,
     "explanation_zh": "VaR = z×σ − μ = 2.326×2.45 − (0.27) = 5.43%",
@@ -16554,15 +16548,11 @@
     "question_en": "Portfolio daily return μ=-0.0%, σ=1.51%. Find 99% VaR (1-day).",
     "options_zh": [
       "3.51%",
-      "3.86%",
-      "3.51% (備選)",
-      "3.51% (備選) (備選)"
+      "3.86%"
     ],
     "options_en": [
       "3.51%",
-      "3.86%",
-      "3.51% (alt)",
-      "3.51% (alt) (alt)"
+      "3.86%"
     ],
     "answer": 0,
     "explanation_zh": "VaR = z×σ − μ = 2.326×1.51 − (-0.0) = 3.51%",
@@ -19298,203 +19288,6 @@
     "subtopic_en": "Quantitative Analysis (20%)",
     "difficulty": 2,
     "id": 1200
-  },
-  {
-    "question_zh": "Which is a correct description of Normal Distribution?",
-    "question_en": "Which is a correct description of Normal Distribution?",
-    "options_zh": [
-      "n",
-      "選項B",
-      "選項C",
-      "Symmetric bell-shaped distribution determined by mean and standard deviation"
-    ],
-    "options_en": [
-      "n",
-      "",
-      "",
-      "Symmetric bell-shaped distribution determined by mean and standard deviation"
-    ],
-    "answer": 2,
-    "explanation_zh": "Normal Distribution: Symmetric bell-shaped distribution determined by mean and standard deviation",
-    "explanation_en": "Normal Distribution: Symmetric bell-shaped distribution determined by mean and standard deviation",
-    "topic_zh": "定量分析 (20%)",
-    "topic_en": "Quantitative Analysis (20%)",
-    "subtopic_zh": "定量分析 (20%)",
-    "subtopic_en": "Quantitative Analysis (20%)",
-    "difficulty": 1,
-    "id": 1201
-  },
-  {
-    "question_zh": "Which is a correct description of Student's t-Distribution?",
-    "question_en": "Which is a correct description of Student's t-Distribution?",
-    "options_zh": [
-      "，",
-      "選項B",
-      "選項C",
-      "Heavier tails than normal, used for small samples"
-    ],
-    "options_en": [
-      "，",
-      "",
-      "",
-      "Heavier tails than normal, used for small samples"
-    ],
-    "answer": 3,
-    "explanation_zh": "Student's t-Distribution: Heavier tails than normal, used for small samples",
-    "explanation_en": "Student's t-Distribution: Heavier tails than normal, used for small samples",
-    "topic_zh": "定量分析 (20%)",
-    "topic_en": "Quantitative Analysis (20%)",
-    "subtopic_zh": "定量分析 (20%)",
-    "subtopic_en": "Quantitative Analysis (20%)",
-    "difficulty": 1,
-    "id": 1202
-  },
-  {
-    "question_zh": "Which is a correct description of Chi-squared Distribution?",
-    "question_en": "Which is a correct description of Chi-squared Distribution?",
-    "options_zh": [
-      "Used for variance tests and goodness-of-fit",
-      "選項B",
-      "，",
-      "， (alt)"
-    ],
-    "options_en": [
-      "Used for variance tests and goodness-of-fit",
-      "",
-      "，"
-    ],
-    "answer": 0,
-    "explanation_zh": "Chi-squared Distribution: Used for variance tests and goodness-of-fit",
-    "explanation_en": "Chi-squared Distribution: Used for variance tests and goodness-of-fit",
-    "topic_zh": "定量分析 (20%)",
-    "topic_en": "Quantitative Analysis (20%)",
-    "subtopic_zh": "定量分析 (20%)",
-    "subtopic_en": "Quantitative Analysis (20%)",
-    "difficulty": 1,
-    "id": 1203
-  },
-  {
-    "question_zh": "Which is a correct description of F-Distribution?",
-    "question_en": "Which is a correct description of F-Distribution?",
-    "options_zh": [
-      "Used for comparing two variances",
-      "，",
-      "選項C",
-      "n"
-    ],
-    "options_en": [
-      "Used for comparing two variances",
-      "，",
-      "",
-      "n"
-    ],
-    "answer": 1,
-    "explanation_zh": "F-Distribution: Used for comparing two variances",
-    "explanation_en": "F-Distribution: Used for comparing two variances",
-    "topic_zh": "定量分析 (20%)",
-    "topic_en": "Quantitative Analysis (20%)",
-    "subtopic_zh": "定量分析 (20%)",
-    "subtopic_en": "Quantitative Analysis (20%)",
-    "difficulty": 1,
-    "id": 1204
-  },
-  {
-    "question_zh": "Which is a correct description of Lognormal Distribution?",
-    "question_en": "Which is a correct description of Lognormal Distribution?",
-    "options_zh": [
-      "，",
-      "選項B",
-      "Log is normally distributed, used for asset prices",
-      "n"
-    ],
-    "options_en": [
-      "，",
-      "",
-      "Log is normally distributed, used for asset prices",
-      "n"
-    ],
-    "answer": 2,
-    "explanation_zh": "Lognormal Distribution: Log is normally distributed, used for asset prices",
-    "explanation_en": "Lognormal Distribution: Log is normally distributed, used for asset prices",
-    "topic_zh": "定量分析 (20%)",
-    "topic_en": "Quantitative Analysis (20%)",
-    "subtopic_zh": "定量分析 (20%)",
-    "subtopic_en": "Quantitative Analysis (20%)",
-    "difficulty": 1,
-    "id": 1205
-  },
-  {
-    "question_zh": "Which is a correct description of Exponential Distribution?",
-    "question_en": "Which is a correct description of Exponential Distribution?",
-    "options_zh": [
-      "選項A",
-      "選項B",
-      "Describes time between events, memoryless property",
-      "n"
-    ],
-    "options_en": [
-      "",
-      "",
-      "Describes time between events, memoryless property",
-      "n"
-    ],
-    "answer": 3,
-    "explanation_zh": "Exponential Distribution: Describes time between events, memoryless property",
-    "explanation_en": "Exponential Distribution: Describes time between events, memoryless property",
-    "topic_zh": "定量分析 (20%)",
-    "topic_en": "Quantitative Analysis (20%)",
-    "subtopic_zh": "定量分析 (20%)",
-    "subtopic_en": "Quantitative Analysis (20%)",
-    "difficulty": 1,
-    "id": 1206
-  },
-  {
-    "question_zh": "Which is a correct description of Poisson Distribution?",
-    "question_en": "Which is a correct description of Poisson Distribution?",
-    "options_zh": [
-      "，",
-      "Describes number of events in fixed interval",
-      "， (alt)",
-      "n"
-    ],
-    "options_en": [
-      "，",
-      "Describes number of events in fixed interval",
-      "n"
-    ],
-    "answer": 0,
-    "explanation_zh": "Poisson Distribution: Describes number of events in fixed interval",
-    "explanation_en": "Poisson Distribution: Describes number of events in fixed interval",
-    "topic_zh": "定量分析 (20%)",
-    "topic_en": "Quantitative Analysis (20%)",
-    "subtopic_zh": "定量分析 (20%)",
-    "subtopic_en": "Quantitative Analysis (20%)",
-    "difficulty": 1,
-    "id": 1207
-  },
-  {
-    "question_zh": "Which is a correct description of Binomial Distribution?",
-    "question_en": "Which is a correct description of Binomial Distribution?",
-    "options_zh": [
-      "選項A",
-      "，",
-      "， (alt)",
-      "Distribution of successes in n independent trials"
-    ],
-    "options_en": [
-      "",
-      "，",
-      "Distribution of successes in n independent trials"
-    ],
-    "answer": 1,
-    "explanation_zh": "Binomial Distribution: Distribution of successes in n independent trials",
-    "explanation_en": "Binomial Distribution: Distribution of successes in n independent trials",
-    "topic_zh": "定量分析 (20%)",
-    "topic_en": "Quantitative Analysis (20%)",
-    "subtopic_zh": "定量分析 (20%)",
-    "subtopic_en": "Quantitative Analysis (20%)",
-    "difficulty": 1,
-    "id": 1208
   },
   {
     "question_zh": "數據集 [33, 42, 45, 66, 85]，求標準差。",
@@ -30047,156 +29840,6 @@
     "id": 1900
   },
   {
-    "question_zh": "Regarding Forward Contract, which is correct?",
-    "question_en": "Regarding Forward Contract, which is correct?",
-    "options_zh": [
-      "，",
-      "選項B",
-      "選項C",
-      "OTC, customized, has counterparty risk"
-    ],
-    "options_en": [
-      "，",
-      "",
-      "",
-      "OTC, customized, has counterparty risk"
-    ],
-    "answer": 2,
-    "explanation_zh": "Forward Contract: OTC, customized, has counterparty risk",
-    "explanation_en": "Forward Contract: OTC, customized, has counterparty risk",
-    "topic_zh": "金融市場與產品 (30%)",
-    "topic_en": "Financial Markets and Products (30%)",
-    "subtopic_zh": "金融市場與產品 (30%)",
-    "subtopic_en": "Financial Markets and Products (30%)",
-    "difficulty": 1,
-    "id": 2001
-  },
-  {
-    "question_zh": "Regarding Futures Contract, which is correct?",
-    "question_en": "Regarding Futures Contract, which is correct?",
-    "options_zh": [
-      "Exchange-traded, standardized, daily settlement",
-      "選項B",
-      "選項C",
-      "選項D"
-    ],
-    "options_en": [
-      "Exchange-traded, standardized, daily settlement",
-      "",
-      "",
-      ""
-    ],
-    "answer": 3,
-    "explanation_zh": "Futures Contract: Exchange-traded, standardized, daily settlement",
-    "explanation_en": "Futures Contract: Exchange-traded, standardized, daily settlement",
-    "topic_zh": "金融市場與產品 (30%)",
-    "topic_en": "Financial Markets and Products (30%)",
-    "subtopic_zh": "金融市場與產品 (30%)",
-    "subtopic_en": "Financial Markets and Products (30%)",
-    "difficulty": 1,
-    "id": 2002
-  },
-  {
-    "question_zh": "Regarding Call Option, which is correct?",
-    "question_en": "Regarding Call Option, which is correct?",
-    "options_zh": [
-      "，",
-      "，，",
-      "Buyer has right to buy asset at strike before expiry",
-      "選項D"
-    ],
-    "options_en": [
-      "，",
-      "，，",
-      "Buyer has right to buy asset at strike before expiry",
-      ""
-    ],
-    "answer": 0,
-    "explanation_zh": "Call Option: Buyer has right to buy asset at strike before expiry",
-    "explanation_en": "Call Option: Buyer has right to buy asset at strike before expiry",
-    "topic_zh": "金融市場與產品 (30%)",
-    "topic_en": "Financial Markets and Products (30%)",
-    "subtopic_zh": "金融市場與產品 (30%)",
-    "subtopic_en": "Financial Markets and Products (30%)",
-    "difficulty": 1,
-    "id": 2003
-  },
-  {
-    "question_zh": "Regarding Put Option, which is correct?",
-    "question_en": "Regarding Put Option, which is correct?",
-    "options_zh": [
-      "Buyer has right to sell asset at strike before expiry",
-      "選項B",
-      "，，",
-      "選項D"
-    ],
-    "options_en": [
-      "Buyer has right to sell asset at strike before expiry",
-      "",
-      "，，",
-      ""
-    ],
-    "answer": 1,
-    "explanation_zh": "Put Option: Buyer has right to sell asset at strike before expiry",
-    "explanation_en": "Put Option: Buyer has right to sell asset at strike before expiry",
-    "topic_zh": "金融市場與產品 (30%)",
-    "topic_en": "Financial Markets and Products (30%)",
-    "subtopic_zh": "金融市場與產品 (30%)",
-    "subtopic_en": "Financial Markets and Products (30%)",
-    "difficulty": 1,
-    "id": 2004
-  },
-  {
-    "question_zh": "Regarding Swap Contract, which is correct?",
-    "question_en": "Regarding Swap Contract, which is correct?",
-    "options_zh": [
-      "選項A",
-      "Agreement to exchange future cash flows",
-      "選項C",
-      "，，"
-    ],
-    "options_en": [
-      "",
-      "Agreement to exchange future cash flows",
-      "",
-      "，，"
-    ],
-    "answer": 2,
-    "explanation_zh": "Swap Contract: Agreement to exchange future cash flows",
-    "explanation_en": "Swap Contract: Agreement to exchange future cash flows",
-    "topic_zh": "金融市場與產品 (30%)",
-    "topic_en": "Financial Markets and Products (30%)",
-    "subtopic_zh": "金融市場與產品 (30%)",
-    "subtopic_en": "Financial Markets and Products (30%)",
-    "difficulty": 1,
-    "id": 2005
-  },
-  {
-    "question_zh": "Regarding Credit Default Swap, which is correct?",
-    "question_en": "Regarding Credit Default Swap, which is correct?",
-    "options_zh": [
-      "選項A",
-      "，，",
-      "Buyer pays premium, seller compensates on credit event",
-      "選項D"
-    ],
-    "options_en": [
-      "",
-      "，，",
-      "Buyer pays premium, seller compensates on credit event",
-      ""
-    ],
-    "answer": 3,
-    "explanation_zh": "Credit Default Swap: Buyer pays premium, seller compensates on credit event",
-    "explanation_en": "Credit Default Swap: Buyer pays premium, seller compensates on credit event",
-    "topic_zh": "金融市場與產品 (30%)",
-    "topic_en": "Financial Markets and Products (30%)",
-    "subtopic_zh": "金融市場與產品 (30%)",
-    "subtopic_en": "Financial Markets and Products (30%)",
-    "difficulty": 1,
-    "id": 2006
-  },
-  {
     "question_zh": "股票價格 S=99，執行價 K=105，看漲期權內在價值？",
     "question_en": "Stock price S=99, strike K=105. Intrinsic value of call?",
     "options_zh": [
@@ -30501,15 +30144,11 @@
     "question_en": "Stock price S=99, strike K=99. Intrinsic value of call?",
     "options_zh": [
       "0",
-      "0 (備選)",
-      "99",
-      "99 (備選)"
+      "99"
     ],
     "options_en": [
       "0",
-      "0 (alt)",
-      "99",
-      "99 (alt)"
+      "99"
     ],
     "answer": 0,
     "explanation_zh": "看漲期權內在價值 = max(S-K, 0) = max(99-99, 0) = 0",
@@ -33551,17 +33190,13 @@
     "question_en": "Stock price S=110, strike K=110. Intrinsic value of call?",
     "options_zh": [
       "0",
-      "110 (備選)",
-      "110",
-      "0 (備選)"
+      "110"
     ],
     "options_en": [
       "0",
-      "110 (alt)",
-      "110",
-      "0 (alt)"
+      "110"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "看漲期權內在價值 = max(S-K, 0) = max(110-110, 0) = 0",
     "explanation_en": "Call intrinsic value = max(S-K, 0) = max(110-110, 0) = 0",
     "topic_zh": "金融市場與產品 (30%)",
@@ -44897,154 +44532,6 @@
     "id": 2900
   },
   {
-    "question_zh": "Regarding Market Maker, which is correct?",
-    "question_en": "Regarding Market Maker, which is correct?",
-    "options_zh": [
-      "選項A",
-      "選項B",
-      "，",
-      "Provides two-way quotes, earns bid-ask spread"
-    ],
-    "options_en": [
-      "",
-      "",
-      "，",
-      "Provides two-way quotes, earns bid-ask spread"
-    ],
-    "answer": 2,
-    "explanation_zh": "Market Maker: Provides two-way quotes, earns bid-ask spread",
-    "explanation_en": "Market Maker: Provides two-way quotes, earns bid-ask spread",
-    "topic_zh": "金融市場與產品 (30%)",
-    "topic_en": "Financial Markets and Products (30%)",
-    "subtopic_zh": "金融市場與產品 (30%)",
-    "subtopic_en": "Financial Markets and Products (30%)",
-    "difficulty": 1,
-    "id": 2901
-  },
-  {
-    "question_zh": "Regarding Dark Pool, which is correct?",
-    "question_en": "Regarding Dark Pool, which is correct?",
-    "options_zh": [
-      "，",
-      "選項B",
-      "， (alt)",
-      "Anonymous trading platform, reduces market impact"
-    ],
-    "options_en": [
-      "，",
-      "",
-      "Anonymous trading platform, reduces market impact"
-    ],
-    "answer": 3,
-    "explanation_zh": "Dark Pool: Anonymous trading platform, reduces market impact",
-    "explanation_en": "Dark Pool: Anonymous trading platform, reduces market impact",
-    "topic_zh": "金融市場與產品 (30%)",
-    "topic_en": "Financial Markets and Products (30%)",
-    "subtopic_zh": "金融市場與產品 (30%)",
-    "subtopic_en": "Financial Markets and Products (30%)",
-    "difficulty": 1,
-    "id": 2902
-  },
-  {
-    "question_zh": "Regarding Limit Order, which is correct?",
-    "question_en": "Regarding Limit Order, which is correct?",
-    "options_zh": [
-      "選項A",
-      "Buy/sell at specified price, no fill guarantee",
-      "，",
-      "選項D"
-    ],
-    "options_en": [
-      "",
-      "Buy/sell at specified price, no fill guarantee",
-      "，",
-      ""
-    ],
-    "answer": 0,
-    "explanation_zh": "Limit Order: Buy/sell at specified price, no fill guarantee",
-    "explanation_en": "Limit Order: Buy/sell at specified price, no fill guarantee",
-    "topic_zh": "金融市場與產品 (30%)",
-    "topic_en": "Financial Markets and Products (30%)",
-    "subtopic_zh": "金融市場與產品 (30%)",
-    "subtopic_en": "Financial Markets and Products (30%)",
-    "difficulty": 1,
-    "id": 2903
-  },
-  {
-    "question_zh": "Regarding Market Order, which is correct?",
-    "question_en": "Regarding Market Order, which is correct?",
-    "options_zh": [
-      "Execute immediately at best available price",
-      "，",
-      "， (alt)",
-      "選項D"
-    ],
-    "options_en": [
-      "Execute immediately at best available price",
-      "，",
-      ""
-    ],
-    "answer": 1,
-    "explanation_zh": "Market Order: Execute immediately at best available price",
-    "explanation_en": "Market Order: Execute immediately at best available price",
-    "topic_zh": "金融市場與產品 (30%)",
-    "topic_en": "Financial Markets and Products (30%)",
-    "subtopic_zh": "金融市場與產品 (30%)",
-    "subtopic_en": "Financial Markets and Products (30%)",
-    "difficulty": 1,
-    "id": 2904
-  },
-  {
-    "question_zh": "Regarding Stop-Loss Order, which is correct?",
-    "question_en": "Regarding Stop-Loss Order, which is correct?",
-    "options_zh": [
-      "，",
-      "選項B",
-      "選項C",
-      "Auto-sell when price drops to specified level"
-    ],
-    "options_en": [
-      "，",
-      "",
-      "",
-      "Auto-sell when price drops to specified level"
-    ],
-    "answer": 2,
-    "explanation_zh": "Stop-Loss Order: Auto-sell when price drops to specified level",
-    "explanation_en": "Stop-Loss Order: Auto-sell when price drops to specified level",
-    "topic_zh": "金融市場與產品 (30%)",
-    "topic_en": "Financial Markets and Products (30%)",
-    "subtopic_zh": "金融市場與產品 (30%)",
-    "subtopic_en": "Financial Markets and Products (30%)",
-    "difficulty": 1,
-    "id": 2905
-  },
-  {
-    "question_zh": "Regarding Iceberg Order, which is correct?",
-    "question_en": "Regarding Iceberg Order, which is correct?",
-    "options_zh": [
-      "選項A",
-      "，",
-      "Large order showing only partial quantity",
-      "選項D"
-    ],
-    "options_en": [
-      "",
-      "，",
-      "Large order showing only partial quantity",
-      ""
-    ],
-    "answer": 3,
-    "explanation_zh": "Iceberg Order: Large order showing only partial quantity",
-    "explanation_en": "Iceberg Order: Large order showing only partial quantity",
-    "topic_zh": "金融市場與產品 (30%)",
-    "topic_en": "Financial Markets and Products (30%)",
-    "subtopic_zh": "金融市場與產品 (30%)",
-    "subtopic_en": "Financial Markets and Products (30%)",
-    "difficulty": 1,
-    "id": 2906
-  },
-  {
     "question_zh": "In Black-Scholes assumptions, is 'Asset prices follow geometric Brownian motion' correct?",
     "question_en": "In Black-Scholes assumptions, is 'Asset prices follow geometric Brownian motion' correct?",
     "options_zh": [
@@ -46125,14 +45612,12 @@
     "options_zh": [
       "0.1%",
       "1.0%",
-      "0.01%",
-      "0.01% (備選)"
+      "0.01%"
     ],
     "options_en": [
       "0.1%",
       "1.0%",
-      "0.01%",
-      "0.01% (alt)"
+      "0.01%"
     ],
     "answer": 0,
     "explanation_zh": "ΔP/P ≈ −D × Δy = −1.0 × 0.0001 = −0.01%",
@@ -48350,14 +47835,12 @@
     "options_zh": [
       "$1,000,000",
       "$44,300.0",
-      "$88,600.0",
-      "$88,600.0 (備選)"
+      "$88,600.0"
     ],
     "options_en": [
       "$1,000,000",
       "$44,300.0",
-      "$88,600.0",
-      "$88,600.0 (alt)"
+      "$88,600.0"
     ],
     "answer": 2,
     "explanation_zh": "EL = PD × LGD × EAD = 0.0886 × 0.5 × $1,000,000 = $44,300.0",
@@ -48625,13 +48108,11 @@
     "options_zh": [
       "$7,300.0",
       "$3,650.0",
-      "$7,300.0 (備選)",
       "$1,000,000"
     ],
     "options_en": [
       "$7,300.0",
       "$3,650.0",
-      "$7,300.0 (alt)",
       "$1,000,000"
     ],
     "answer": 0,
@@ -49249,17 +48730,15 @@
     "question_en": "PD=0.0675, LGD=0.5, EAD=$5,000,000. Expected Loss (EL)?",
     "options_zh": [
       "$168,750.0",
-      "$337,500.0 (備選)",
       "$337,500.0",
       "$5,000,000"
     ],
     "options_en": [
       "$168,750.0",
-      "$337,500.0 (alt)",
       "$337,500.0",
       "$5,000,000"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "EL = PD × LGD × EAD = 0.0675 × 0.5 × $5,000,000 = $168,750.0",
     "explanation_en": "EL = PD × LGD × EAD = 0.0675 × 0.5 × $5,000,000 = $168,750.0",
     "topic_zh": "估值與風險模型 (30%)",
@@ -49568,148 +49047,5 @@
     "subtopic_en": "Valuation and Risk Models (30%)",
     "difficulty": 2,
     "id": 4099
-  },
-  {
-    "question_zh": "In stress testing, main risk factors of '2008 Financial Crisis' scenario?",
-    "question_en": "In stress testing, main risk factors of '2008 Financial Crisis' scenario?",
-    "options_zh": [
-      "，",
-      "Global credit crunch, stock crash, multiple bank failures",
-      "，，",
-      "， (alt)"
-    ],
-    "options_en": [
-      "，",
-      "Global credit crunch, stock crash, multiple bank failures",
-      "，，"
-    ],
-    "answer": 0,
-    "explanation_zh": "2008 Financial Crisis: Global credit crunch, stock crash, multiple bank failures",
-    "explanation_en": "2008 Financial Crisis: Global credit crunch, stock crash, multiple bank failures",
-    "topic_zh": "估值與風險模型 (30%)",
-    "topic_en": "Valuation and Risk Models (30%)",
-    "subtopic_zh": "估值與風險模型 (30%)",
-    "subtopic_en": "Valuation and Risk Models (30%)",
-    "difficulty": 2,
-    "id": 4101
-  },
-  {
-    "question_zh": "In stress testing, main risk factors of 'COVID-19 Pandemic' scenario?",
-    "question_en": "In stress testing, main risk factors of 'COVID-19 Pandemic' scenario?",
-    "options_zh": [
-      "，",
-      "， (alt)",
-      "Global economic shutdown, extreme market volatility",
-      "，，"
-    ],
-    "options_en": [
-      "，",
-      "Global economic shutdown, extreme market volatility",
-      "，，"
-    ],
-    "answer": 1,
-    "explanation_zh": "COVID-19 Pandemic: Global economic shutdown, extreme market volatility",
-    "explanation_en": "COVID-19 Pandemic: Global economic shutdown, extreme market volatility",
-    "topic_zh": "估值與風險模型 (30%)",
-    "topic_en": "Valuation and Risk Models (30%)",
-    "subtopic_zh": "估值與風險模型 (30%)",
-    "subtopic_en": "Valuation and Risk Models (30%)",
-    "difficulty": 2,
-    "id": 4102
-  },
-  {
-    "question_zh": "In stress testing, main risk factors of 'European Debt Crisis' scenario?",
-    "question_en": "In stress testing, main risk factors of 'European Debt Crisis' scenario?",
-    "options_zh": [
-      "，",
-      "，，",
-      "Sovereign default risk rising, eurozone banks under pressure",
-      "， (alt)"
-    ],
-    "options_en": [
-      "，",
-      "，，",
-      "Sovereign default risk rising, eurozone banks under pressure"
-    ],
-    "answer": 2,
-    "explanation_zh": "European Debt Crisis: Sovereign default risk rising, eurozone banks under pressure",
-    "explanation_en": "European Debt Crisis: Sovereign default risk rising, eurozone banks under pressure",
-    "topic_zh": "估值與風險模型 (30%)",
-    "topic_en": "Valuation and Risk Models (30%)",
-    "subtopic_zh": "估值與風險模型 (30%)",
-    "subtopic_en": "Valuation and Risk Models (30%)",
-    "difficulty": 2,
-    "id": 4103
-  },
-  {
-    "question_zh": "In stress testing, main risk factors of 'Rapid Rate Hike' scenario?",
-    "question_en": "In stress testing, main risk factors of 'Rapid Rate Hike' scenario?",
-    "options_zh": [
-      "，",
-      "，，",
-      "，， (alt)",
-      "Central bank rapid rate hikes, bond prices crash"
-    ],
-    "options_en": [
-      "，",
-      "，，",
-      "Central bank rapid rate hikes, bond prices crash"
-    ],
-    "answer": 3,
-    "explanation_zh": "Rapid Rate Hike: Central bank rapid rate hikes, bond prices crash",
-    "explanation_en": "Rapid Rate Hike: Central bank rapid rate hikes, bond prices crash",
-    "topic_zh": "估值與風險模型 (30%)",
-    "topic_en": "Valuation and Risk Models (30%)",
-    "subtopic_zh": "估值與風險模型 (30%)",
-    "subtopic_en": "Valuation and Risk Models (30%)",
-    "difficulty": 2,
-    "id": 4104
-  },
-  {
-    "question_zh": "In stress testing, main risk factors of 'Emerging Market Crisis' scenario?",
-    "question_en": "In stress testing, main risk factors of 'Emerging Market Crisis' scenario?",
-    "options_zh": [
-      "，",
-      "， (alt)",
-      "， (alt) (1)",
-      "Capital outflows, currency depreciation, rising default risk"
-    ],
-    "options_en": [
-      "，",
-      "Capital outflows, currency depreciation, rising default risk"
-    ],
-    "answer": 0,
-    "explanation_zh": "Emerging Market Crisis: Capital outflows, currency depreciation, rising default risk",
-    "explanation_en": "Emerging Market Crisis: Capital outflows, currency depreciation, rising default risk",
-    "topic_zh": "估值與風險模型 (30%)",
-    "topic_en": "Valuation and Risk Models (30%)",
-    "subtopic_zh": "估值與風險模型 (30%)",
-    "subtopic_en": "Valuation and Risk Models (30%)",
-    "difficulty": 2,
-    "id": 4105
-  },
-  {
-    "question_zh": "In stress testing, main risk factors of 'Liquidity Crisis' scenario?",
-    "question_en": "In stress testing, main risk factors of 'Liquidity Crisis' scenario?",
-    "options_zh": [
-      "，，",
-      "Market liquidity dries up, assets cannot be liquidated",
-      "，",
-      "， (alt)"
-    ],
-    "options_en": [
-      "，，",
-      "Market liquidity dries up, assets cannot be liquidated",
-      "，"
-    ],
-    "answer": 1,
-    "explanation_zh": "Liquidity Crisis: Market liquidity dries up, assets cannot be liquidated",
-    "explanation_en": "Liquidity Crisis: Market liquidity dries up, assets cannot be liquidated",
-    "topic_zh": "估值與風險模型 (30%)",
-    "topic_en": "Valuation and Risk Models (30%)",
-    "subtopic_zh": "估值與風險模型 (30%)",
-    "subtopic_en": "Valuation and Risk Models (30%)",
-    "difficulty": 2,
-    "id": 4106
   }
 ]
