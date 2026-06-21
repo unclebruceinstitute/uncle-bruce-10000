@@ -5,17 +5,17 @@
     "question_en": "Is 'Fortnite' popular?",
     "options_zh": [
       "唔係，好冷門",
-      "已經過氣",
       "係，非常受歡迎",
-      "只喺特定地區流行"
+      "只喺特定地區流行",
+      "已經過氣"
     ],
     "options_en": [
       "No, very niche",
-      "Outdated",
       "Yes, very popular",
-      "Only popular locally"
+      "Only popular locally",
+      "Outdated"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -26,17 +26,17 @@
     "question_en": "Where is 'Fortnite' from?",
     "options_zh": [
       "非洲",
-      "美洲",
+      "全球",
       "歐洲",
-      "全球"
+      "美洲"
     ],
     "options_en": [
       "Africa",
-      "Americas",
+      "Global",
       "Europe",
-      "Global"
+      "Americas"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「全球」。",
     "explanation_en": "The correct answer is 'Global'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "「《Fortnite》係邊間公司開發？」有咩特色？",
     "question_en": "What is special about 'Fortnite'?",
     "options_zh": [
-      "冇特色",
       "獨特風格",
+      "已經過時",
       "好普通",
-      "已經過時"
+      "冇特色"
     ],
     "options_en": [
-      "No special features",
       "Unique style",
+      "Outdated",
       "Very ordinary",
-      "Outdated"
+      "No special features"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation_zh": "正確答案係「獨特風格」。",
     "explanation_en": "The correct answer is 'Unique style'.",
     "difficulty": 3
@@ -67,18 +67,18 @@
     "question_zh": "你會唔會推薦「《Fortnite》係邊間公司開發？」？",
     "question_en": "Would you recommend 'Fortnite'?",
     "options_zh": [
-      "會，非常推薦",
-      "唔確定",
       "唔會",
-      "睇情況"
+      "睇情況",
+      "會，非常推薦",
+      "唔確定"
     ],
     "options_en": [
-      "Yes, highly recommended",
-      "Not sure",
       "No",
-      "It depends"
+      "It depends",
+      "Yes, highly recommended",
+      "Not sure"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「會，非常推薦」。",
     "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 3
@@ -88,18 +88,18 @@
     "question_zh": "「《Fortnite》係邊間公司開發？」適合邊種人？",
     "question_en": "Who is 'Fortnite' suitable for?",
     "options_zh": [
+      "只適合專業人士",
       "只適合成人",
       "所有人",
-      "只適合專業人士",
       "只適合兒童"
     ],
     "options_en": [
+      "Only professionals",
       "Only adults",
       "Everyone",
-      "Only professionals",
       "Only children"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「所有人」。",
     "explanation_en": "The correct answer is 'Everyone'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "「《Fortnite》係邊間公司開發？」嘅質素如何？",
     "question_en": "What is the quality of 'Fortnite'?",
     "options_zh": [
-      "高質素",
       "參差",
-      "普通",
-      "低質素"
+      "低質素",
+      "高質素",
+      "普通"
     ],
     "options_en": [
-      "High quality",
       "Mixed",
-      "Average",
-      "Low quality"
+      "Low quality",
+      "High quality",
+      "Average"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_zh": "正確答案係「高質素」。",
     "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 3
@@ -130,18 +130,18 @@
     "question_zh": "你對「《Fortnite》係邊間公司開發？」嘅整體印象係？",
     "question_en": "What is your overall impression of 'Fortnite'?",
     "options_zh": [
-      "非常好",
-      "唔好",
+      "一般",
       "冇印象",
-      "一般"
+      "唔好",
+      "非常好"
     ],
     "options_en": [
-      "Very good",
-      "Not good",
+      "Average",
       "No impression",
-      "Average"
+      "Not good",
+      "Very good"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_zh": "正確答案係「非常好」。",
     "explanation_en": "The correct answer is 'Very good'.",
     "difficulty": 2
@@ -151,18 +151,18 @@
     "question_en": "What company developed 'Fortnite'?",
     "question_zh": "邊間公司開發咗《Fortnite》？",
     "options_en": [
-      "Epic Games",
       "Activision",
-      "Ubisoft",
-      "Riot Games"
+      "Riot Games",
+      "Epic Games",
+      "Ubisoft"
     ],
     "options_zh": [
-      "Epic Games",
       "動視",
-      "育碧",
-      "Riot Games"
+      "Riot Games",
+      "Epic Games",
+      "育碧"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_en": "Epic Games developed Fortnite.",
     "explanation_zh": "Epic Games開發咗《Fortnite》。",
     "difficulty": 1
@@ -172,18 +172,18 @@
     "question_en": "What is the main game mode in Fortnite?",
     "question_zh": "《Fortnite》嘅主要遊戲模式係咩？",
     "options_en": [
-      "Battle Royale",
+      "Zero Build",
       "Save the World",
-      "Creative",
-      "Zero Build"
+      "Battle Royale",
+      "Creative"
     ],
     "options_zh": [
-      "大逃殺",
+      "零建造",
       "拯救世界",
-      "創造",
-      "零建造"
+      "大逃殺",
+      "創造"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_en": "Battle Royale is the most popular Fortnite mode.",
     "explanation_zh": "大逃殺係《Fortnite》最受歡迎嘅模式。",
     "difficulty": 1
@@ -193,18 +193,18 @@
     "question_en": "How many players drop into a standard Fortnite Battle Royale match?",
     "question_zh": "標準《Fortnite》大逃殺比賽有幾多個玩家降落？",
     "options_en": [
-      "100",
       "50",
+      "100",
       "64",
       "200"
     ],
     "options_zh": [
-      "100個",
       "50個",
+      "100個",
       "64個",
       "200個"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_en": "100 players drop into each Battle Royale match.",
     "explanation_zh": "每場大逃殺比賽有100個玩家降落。",
     "difficulty": 1
@@ -214,18 +214,18 @@
     "question_en": "What unique mechanic distinguishes Fortnite from other Battle Royale games?",
     "question_zh": "咩獨特機制令《Fortnite》同其他大逃殺遊戲唔同？",
     "options_en": [
-      "Building structures",
-      "Driving vehicles",
       "Flying gliders",
-      "Using magic"
+      "Building structures",
+      "Using magic",
+      "Driving vehicles"
     ],
     "options_zh": [
-      "建造建築物",
-      "駕駛載具",
       "使用滑翔翼",
-      "使用魔法"
+      "建造建築物",
+      "使用魔法",
+      "駕駛載具"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_en": "Building structures is Fortnite's signature mechanic.",
     "explanation_zh": "建造建築物係《Fortnite》嘅標誌性機制。",
     "difficulty": 1
@@ -236,15 +236,15 @@
     "question_zh": "縮小可玩區域嘅風暴叫咩名？",
     "options_en": [
       "The Storm",
-      "The Vortex",
+      "The Void",
       "The Circle",
-      "The Void"
+      "The Vortex"
     ],
     "options_zh": [
       "風暴",
-      "漩渦",
+      "虛空",
       "圓圈",
-      "虛空"
+      "漩渦"
     ],
     "answer": 0,
     "explanation_en": "The Storm is the closing circle in Fortnite.",
@@ -256,18 +256,18 @@
     "question_en": "What is a V-Buck in Fortnite?",
     "question_zh": "《Fortnite》中嘅V-Buck係咩？",
     "options_en": [
-      "Premium currency",
       "Weapon type",
+      "Premium currency",
       "Building material",
       "Character class"
     ],
     "options_zh": [
-      "高級貨幣",
       "武器類型",
+      "高級貨幣",
       "建材",
       "角色職業"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_en": "V-Bucks is Fortnite's premium in-game currency.",
     "explanation_zh": "V-Buck係《Fortnite》嘅高級遊戲貨幣。",
     "difficulty": 1
@@ -277,18 +277,18 @@
     "question_en": "What year was Fortnite Battle Royale first released?",
     "question_zh": "《Fortnite》大逃殺喺邊年首次發行？",
     "options_en": [
-      "2017",
       "2018",
-      "2016",
-      "2019"
+      "2019",
+      "2017",
+      "2016"
     ],
     "options_zh": [
-      "2017年",
       "2018年",
-      "2016年",
-      "2019年"
+      "2019年",
+      "2017年",
+      "2016年"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_en": "Fortnite Battle Royale was released in September 2017.",
     "explanation_zh": "《Fortnite》大逃殺喺2017年9月發行。",
     "difficulty": 1
@@ -298,18 +298,18 @@
     "question_en": "What material is the strongest for building in Fortnite?",
     "question_zh": "《Fortnite》中最強嘅建材係咩？",
     "options_en": [
-      "Metal",
       "Brick",
       "Wood",
+      "Metal",
       "Stone"
     ],
     "options_zh": [
-      "金屬",
       "磚",
       "木",
+      "金屬",
       "石"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_en": "Metal is the strongest building material in Fortnite.",
     "explanation_zh": "金屬係《Fortnite》中最強嘅建材。",
     "difficulty": 1
@@ -319,18 +319,18 @@
     "question_en": "What is the name of Fortnite's map-changing events?",
     "question_zh": "《Fortnite》改變地圖嘅事件叫咩名？",
     "options_en": [
-      "Live Events",
       "Seasonal Changes",
       "Map Updates",
-      "World Events"
+      "World Events",
+      "Live Events"
     ],
     "options_zh": [
-      "現場活動",
       "季節變化",
       "地圖更新",
-      "世界事件"
+      "世界事件",
+      "現場活動"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_en": "Live Events are special in-game events that change the map.",
     "explanation_zh": "現場活動係改變地圖嘅特別遊戲內事件。",
     "difficulty": 1
@@ -340,18 +340,18 @@
     "question_en": "What do you use to revive knocked teammates in Fortnite?",
     "question_zh": "喺《Fortnite》中用咩復活被擊倒嘅隊友？",
     "options_en": [
-      "Carry them to safety",
       "Use a medkit",
+      "Carry them to safety",
       "Shoot them",
       "Build around them"
     ],
     "options_zh": [
-      "將佢哋搬到安全地方",
       "用醫療包",
+      "將佢哋搬到安全地方",
       "射佢哋",
       "圍住佢哋"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_en": "You can carry knocked teammates to revive them.",
     "explanation_zh": "你可以搬被擊倒嘅隊友嚟復活佢哋。",
     "difficulty": 1
@@ -362,14 +362,14 @@
     "question_zh": "《Fortnite》中嘅空投補給係咩？",
     "options_en": [
       "A balloon-delivered loot crate",
-      "A weapon skin",
       "A building blueprint",
+      "A weapon skin",
       "A vehicle"
     ],
     "options_zh": [
       "氣球運送嘅寶箱",
-      "武器皮膚",
       "建築藍圖",
+      "武器皮膚",
       "載具"
     ],
     "answer": 0,
@@ -382,18 +382,18 @@
     "question_en": "What is the name of the bus that drops players at the start?",
     "question_zh": "開始時載玩家降落嘅巴士叫咩名？",
     "options_en": [
-      "Battle Bus",
       "Storm Bus",
-      "Drop Ship",
-      "Party Bus"
+      "Battle Bus",
+      "Party Bus",
+      "Drop Ship"
     ],
     "options_zh": [
-      "戰鬥巴士",
       "風暴巴士",
-      "降落船",
-      "派對巴士"
+      "戰鬥巴士",
+      "派對巴士",
+      "降落船"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_en": "The Battle Bus drops players onto the map.",
     "explanation_zh": "戰鬥巴士將玩家載到地圖上降落。",
     "difficulty": 1

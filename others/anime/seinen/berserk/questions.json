@@ -5,14 +5,14 @@
     "question_en": "Is 'Berserk' popular?",
     "options_zh": [
       "係，非常受歡迎",
-      "只喺特定地區流行",
       "唔係，好冷門",
+      "只喺特定地區流行",
       "已經過氣"
     ],
     "options_en": [
       "Yes, very popular",
-      "Only popular locally",
       "No, very niche",
+      "Only popular locally",
       "Outdated"
     ],
     "answer": 0,
@@ -25,15 +25,15 @@
     "question_zh": "「《劍風傳奇》屬於咩類型？」係邊度嚟嘅？",
     "question_en": "Where is 'Berserk' from?",
     "options_zh": [
-      "歐洲",
       "美洲",
       "非洲",
+      "歐洲",
       "日本"
     ],
     "options_en": [
-      "Europe",
       "Americas",
       "Africa",
+      "Europe",
       "Japan"
     ],
     "answer": 3,
@@ -46,18 +46,18 @@
     "question_zh": "「《劍風傳奇》屬於咩類型？」有咩特色？",
     "question_en": "What is special about 'Berserk'?",
     "options_zh": [
-      "獨特風格",
-      "好普通",
       "已經過時",
-      "冇特色"
+      "獨特風格",
+      "冇特色",
+      "好普通"
     ],
     "options_en": [
-      "Unique style",
-      "Very ordinary",
       "Outdated",
-      "No special features"
+      "Unique style",
+      "No special features",
+      "Very ordinary"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_zh": "正確答案係「獨特風格」。",
     "explanation_en": "The correct answer is 'Unique style'.",
     "difficulty": 3
@@ -67,18 +67,18 @@
     "question_zh": "你會唔會推薦「《劍風傳奇》屬於咩類型？」？",
     "question_en": "Would you recommend 'Berserk'?",
     "options_zh": [
+      "會，非常推薦",
       "唔確定",
       "睇情況",
-      "會，非常推薦",
       "唔會"
     ],
     "options_en": [
+      "Yes, highly recommended",
       "Not sure",
       "It depends",
-      "Yes, highly recommended",
       "No"
     ],
-    "answer": 2,
+    "answer": 0,
     "explanation_zh": "正確答案係「會，非常推薦」。",
     "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 3
@@ -88,18 +88,18 @@
     "question_zh": "「《劍風傳奇》屬於咩類型？」適合邊種人？",
     "question_en": "Who is 'Berserk' suitable for?",
     "options_zh": [
-      "只適合兒童",
-      "所有人",
       "只適合專業人士",
-      "只適合成人"
+      "只適合成人",
+      "所有人",
+      "只適合兒童"
     ],
     "options_en": [
-      "Only children",
-      "Everyone",
       "Only professionals",
-      "Only adults"
+      "Only adults",
+      "Everyone",
+      "Only children"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「所有人」。",
     "explanation_en": "The correct answer is 'Everyone'.",
     "difficulty": 3
@@ -110,15 +110,15 @@
     "question_en": "What is the quality of 'Berserk'?",
     "options_zh": [
       "高質素",
-      "低質素",
       "參差",
-      "普通"
+      "普通",
+      "低質素"
     ],
     "options_en": [
       "High quality",
-      "Low quality",
       "Mixed",
-      "Average"
+      "Average",
+      "Low quality"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「高質素」。",
@@ -130,18 +130,18 @@
     "question_zh": "你對「《劍風傳奇》屬於咩類型？」嘅整體印象係？",
     "question_en": "What is your overall impression of 'Berserk'?",
     "options_zh": [
-      "唔好",
-      "非常好",
       "一般",
-      "冇印象"
+      "唔好",
+      "冇印象",
+      "非常好"
     ],
     "options_en": [
-      "Not good",
-      "Very good",
       "Average",
-      "No impression"
+      "Not good",
+      "No impression",
+      "Very good"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「非常好」。",
     "explanation_en": "The correct answer is 'Very good'.",
     "difficulty": 2
@@ -152,15 +152,15 @@
     "question_zh": "邊個創作咗漫畫《劍風傳奇》？",
     "options_en": [
       "Kentaro Miura",
-      "Akira Toriyama",
       "Eiichiro Oda",
-      "Masashi Kishimoto"
+      "Masashi Kishimoto",
+      "Akira Toriyama"
     ],
     "options_zh": [
       "三浦建太郎",
-      "鳥山明",
       "尾田榮一郎",
-      "岸本齊史"
+      "岸本齊史",
+      "鳥山明"
     ],
     "answer": 0,
     "explanation_en": "Kentaro Miura created Berserk in 1989.",
@@ -172,18 +172,18 @@
     "question_en": "What is the name of the protagonist in 'Berserk'?",
     "question_zh": "《劍風傳奇》嘅主角叫咩名？",
     "options_en": [
-      "Guts",
-      "Griffith",
       "Casca",
-      "Judeau"
+      "Judeau",
+      "Griffith",
+      "Guts"
     ],
     "options_zh": [
-      "格斯",
-      "格里菲斯",
       "卡思嘉",
-      "捷度"
+      "捷度",
+      "格里菲斯",
+      "格斯"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_en": "Guts is the main protagonist of Berserk.",
     "explanation_zh": "格斯係《劍風傳奇》嘅主角。",
     "difficulty": 1
@@ -193,18 +193,18 @@
     "question_en": "What is the name of Guts' massive sword?",
     "question_zh": "格斯把巨劍叫咩名？",
     "options_en": [
-      "Dragon Slayer",
       "Demon Blade",
+      "Dragon Slayer",
       "God Hand",
       "Eclipse Sword"
     ],
     "options_zh": [
-      "屠龍劍",
       "魔刃",
+      "屠龍劍",
       "神之手",
       "蝕之劍"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_en": "The Dragon Slayer is Guts' iconic oversized sword.",
     "explanation_zh": "屠龍劍係格斯把標誌性嘅巨劍。",
     "difficulty": 1
@@ -214,18 +214,18 @@
     "question_en": "What is Griffith's group called in 'Berserk'?",
     "question_zh": "格里菲斯嘅團體叫咩名？",
     "options_en": [
-      "Band of the Hawk",
-      "Band of the Falcon",
       "Band of the Eagle",
-      "Band of the Lion"
+      "Band of the Hawk",
+      "Band of the Lion",
+      "Band of the Falcon"
     ],
     "options_zh": [
-      "鷹之團",
-      "隼之團",
       "鷹獅團",
-      "獅之團"
+      "鷹之團",
+      "獅之團",
+      "隼之團"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_en": "The Band of the Hawk is Griffith's mercenary group.",
     "explanation_zh": "鷹之團係格里菲斯嘅傭兵團體。",
     "difficulty": 1
@@ -235,18 +235,18 @@
     "question_en": "What supernatural event marks a turning point in 'Berserk'?",
     "question_zh": "咩超自然事件標誌住《劍風傳奇》嘅轉捩點？",
     "options_en": [
-      "The Eclipse",
       "The Apocalypse",
-      "The Rebirth",
-      "The Dark Age"
+      "The Dark Age",
+      "The Eclipse",
+      "The Rebirth"
     ],
     "options_zh": [
-      "蝕",
       "末日",
-      "重生",
-      "黑暗時代"
+      "黑暗時代",
+      "蝕",
+      "重生"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_en": "The Eclipse is the pivotal supernatural event in Berserk.",
     "explanation_zh": "蝕係《劍風傳奇》中關鍵嘅超自然事件。",
     "difficulty": 1
@@ -256,18 +256,18 @@
     "question_en": "What year did the 'Berserk' manga first begin serialization?",
     "question_zh": "《劍風傳奇》漫畫喺邊年開始連載？",
     "options_en": [
-      "1989",
+      "1985",
       "1995",
-      "1992",
-      "1985"
+      "1989",
+      "1992"
     ],
     "options_zh": [
-      "1989年",
+      "1985年",
       "1995年",
-      "1992年",
-      "1985年"
+      "1989年",
+      "1992年"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_en": "Berserk began serialization in 1989 in Young Animal magazine.",
     "explanation_zh": "《劍風傳奇》1989年喺《Young Animal》雜誌開始連載。",
     "difficulty": 1
@@ -277,18 +277,18 @@
     "question_en": "What is the God Hand in 'Berserk'?",
     "question_zh": "《劍風傳奇》中嘅神之手係咩？",
     "options_en": [
-      "Five powerful demon overlords",
-      "A military organization",
+      "A type of weapon",
       "A group of knights",
-      "A type of weapon"
+      "Five powerful demon overlords",
+      "A military organization"
     ],
     "options_zh": [
-      "五個強大嘅魔王",
-      "一個軍事組織",
+      "一種武器",
       "一隊騎士",
-      "一種武器"
+      "五個強大嘅魔王",
+      "一個軍事組織"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_en": "The God Hand are five powerful demon overlords in Berserk.",
     "explanation_zh": "神之手係《劍風傳奇》中五個強大嘅魔王。",
     "difficulty": 1
@@ -298,18 +298,18 @@
     "question_en": "What brand marks Guts as a sacrifice?",
     "question_zh": "咩印記標誌格斯為祭品？",
     "options_en": [
+      "Demon Seal",
       "Brand of Sacrifice",
       "Mark of the Beast",
-      "Curse Sign",
-      "Demon Seal"
+      "Curse Sign"
     ],
     "options_zh": [
+      "魔之封印",
       "犧牲之印",
       "獸之印記",
-      "詛咒印記",
-      "魔之封印"
+      "詛咒印記"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_en": "The Brand of Sacrifice marks Guts as an offering to the God Hand.",
     "explanation_zh": "犧牲之印標誌格斯作為神之手嘅祭品。",
     "difficulty": 1
@@ -319,18 +319,18 @@
     "question_en": "What is the Behelit used for in 'Berserk'?",
     "question_zh": "《劍風傳奇》中嘅霸王之卵有咩用途？",
     "options_en": [
+      "To summon allies",
       "To trigger the Eclipse ceremony",
       "To heal wounds",
-      "To summon allies",
       "To create weapons"
     ],
     "options_zh": [
+      "召喚盟友",
       "觸發蝕之儀式",
       "治療傷口",
-      "召喚盟友",
       "製造武器"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_en": "The Behelit triggers the Eclipse ceremony.",
     "explanation_zh": "霸王之卵用嚟觸發蝕之儀式。",
     "difficulty": 1
@@ -340,18 +340,18 @@
     "question_en": "What studio produced the 1997 'Berserk' anime?",
     "question_zh": "邊間工作室製作咗1997年嘅《劍風傳奇》動畫？",
     "options_en": [
-      "OLM",
-      "MAPPA",
       "Madhouse",
-      "Studio 4°C"
+      "MAPPA",
+      "Studio 4°C",
+      "OLM"
     ],
     "options_zh": [
-      "OLM",
-      "MAPPA",
       "Madhouse",
-      "Studio 4°C"
+      "MAPPA",
+      "Studio 4°C",
+      "OLM"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_en": "OLM produced the 1997 Berserk anime series.",
     "explanation_zh": "OLM製作咗1997年嘅《劍風傳奇》動畫系列。",
     "difficulty": 1
@@ -361,18 +361,18 @@
     "question_en": "What is the name of Guts' mechanical arm?",
     "question_zh": "格斯嘅機械臂叫咩名？",
     "options_en": [
-      "It has no specific name",
-      "Iron Fist",
       "Demon Arm",
-      "Dragon Arm"
+      "Dragon Arm",
+      "It has no specific name",
+      "Iron Fist"
     ],
     "options_zh": [
-      "冇特定名稱",
-      "鐵拳",
       "魔臂",
-      "龍臂"
+      "龍臂",
+      "冇特定名稱",
+      "鐵拳"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_en": "Guts' prosthetic arm doesn't have a specific name.",
     "explanation_zh": "格斯嘅義肢冇特定名稱。",
     "difficulty": 1
@@ -382,18 +382,18 @@
     "question_en": "Who is the female warrior in the Band of the Hawk?",
     "question_zh": "鷹之團入面嘅女戰士係邊個？",
     "options_en": [
-      "Casca",
-      "Farnese",
       "Schierke",
-      "Charlotte"
+      "Charlotte",
+      "Farnese",
+      "Casca"
     ],
     "options_zh": [
-      "卡思嘉",
-      "法爾納塞",
       "雪爾露克",
-      "夏洛特"
+      "夏洛特",
+      "法爾納塞",
+      "卡思嘉"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_en": "Casca is the female warrior and leader of the Band of the Hawk's infantry.",
     "explanation_zh": "卡思嘉係鷹之團嘅女戰士同步兵隊長。",
     "difficulty": 1
@@ -403,18 +403,18 @@
     "question_en": "What creature does Guts constantly fight in 'Berserk'?",
     "question_zh": "格斯喺《劍風傳奇》中不斷同咩生物戰鬥？",
     "options_en": [
-      "Apostles",
       "Titans",
-      "Hollows",
-      "Demons"
+      "Demons",
+      "Apostles",
+      "Hollows"
     ],
     "options_zh": [
-      "使徒",
       "巨人",
-      "虛",
-      "魔族"
+      "魔族",
+      "使徒",
+      "虛"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_en": "Apostles are the main enemies Guts fights in Berserk.",
     "explanation_zh": "使徒係格斯喺《劍風傳奇》中嘅主要敵人。",
     "difficulty": 1
@@ -425,15 +425,15 @@
     "question_zh": "格斯嘅戰鬥風格有咩特點？",
     "options_en": [
       "Brute strength with a massive sword",
-      "Speed and agility",
       "Magic and sorcery",
-      "Stealth and precision"
+      "Stealth and precision",
+      "Speed and agility"
     ],
     "options_zh": [
       "用巨劍嘅蠻力",
-      "速度同靈活",
       "魔法同巫術",
-      "隱密同精準"
+      "隱密同精準",
+      "速度同靈活"
     ],
     "answer": 0,
     "explanation_en": "Guts is known for his brute strength and wielding the massive Dragon Slayer.",
@@ -445,18 +445,18 @@
     "question_en": "What is the Dark Fantasy genre that 'Berserk' helped popularize?",
     "question_zh": "《劍風傳奇》幫助普及咗咩黑暗奇幻類型？",
     "options_en": [
-      "Grimdark",
-      "Sword and Sorcery",
       "High Fantasy",
-      "Urban Fantasy"
+      "Sword and Sorcery",
+      "Urban Fantasy",
+      "Grimdark"
     ],
     "options_zh": [
-      "殘酷黑暗",
-      "劍與魔法",
       "史詩奇幻",
-      "都市奇幻"
+      "劍與魔法",
+      "都市奇幻",
+      "殘酷黑暗"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_en": "Berserk helped popularize the grimdark subgenre of fantasy.",
     "explanation_zh": "《劍風傳奇》幫助普及咗殘酷黑暗奇幻嘅子類型。",
     "difficulty": 1

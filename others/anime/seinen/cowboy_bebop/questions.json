@@ -4,18 +4,18 @@
     "question_zh": "「《星際牛仔》屬於咩類型？」係咪好受歡迎？",
     "question_en": "Is 'Cowboy Bebop' popular?",
     "options_zh": [
-      "只喺特定地區流行",
-      "係，非常受歡迎",
       "已經過氣",
-      "唔係，好冷門"
+      "唔係，好冷門",
+      "係，非常受歡迎",
+      "只喺特定地區流行"
     ],
     "options_en": [
-      "Only popular locally",
-      "Yes, very popular",
       "Outdated",
-      "No, very niche"
+      "No, very niche",
+      "Yes, very popular",
+      "Only popular locally"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「係，非常受歡迎」。",
     "explanation_en": "The correct answer is 'Yes, very popular'.",
     "difficulty": 3
@@ -26,17 +26,17 @@
     "question_en": "Where is 'Cowboy Bebop' from?",
     "options_zh": [
       "美洲",
-      "日本",
       "非洲",
+      "日本",
       "歐洲"
     ],
     "options_en": [
       "Americas",
-      "Japan",
       "Africa",
+      "Japan",
       "Europe"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation_zh": "正確答案係「日本」。",
     "explanation_en": "The correct answer is 'Japan'.",
     "difficulty": 3
@@ -46,18 +46,18 @@
     "question_zh": "「《星際牛仔》屬於咩類型？」有咩特色？",
     "question_en": "What is special about 'Cowboy Bebop'?",
     "options_zh": [
-      "已經過時",
-      "獨特風格",
       "好普通",
-      "冇特色"
+      "已經過時",
+      "冇特色",
+      "獨特風格"
     ],
     "options_en": [
-      "Outdated",
-      "Unique style",
       "Very ordinary",
-      "No special features"
+      "Outdated",
+      "No special features",
+      "Unique style"
     ],
-    "answer": 1,
+    "answer": 3,
     "explanation_zh": "正確答案係「獨特風格」。",
     "explanation_en": "The correct answer is 'Unique style'.",
     "difficulty": 3
@@ -68,15 +68,15 @@
     "question_en": "Would you recommend 'Cowboy Bebop'?",
     "options_zh": [
       "會，非常推薦",
-      "唔確定",
       "睇情況",
-      "唔會"
+      "唔會",
+      "唔確定"
     ],
     "options_en": [
       "Yes, highly recommended",
-      "Not sure",
       "It depends",
-      "No"
+      "No",
+      "Not sure"
     ],
     "answer": 0,
     "explanation_zh": "正確答案係「會，非常推薦」。",
@@ -88,18 +88,18 @@
     "question_zh": "「《星際牛仔》屬於咩類型？」適合邊種人？",
     "question_en": "Who is 'Cowboy Bebop' suitable for?",
     "options_zh": [
-      "只適合兒童",
       "只適合成人",
       "所有人",
+      "只適合兒童",
       "只適合專業人士"
     ],
     "options_en": [
-      "Only children",
       "Only adults",
       "Everyone",
+      "Only children",
       "Only professionals"
     ],
-    "answer": 2,
+    "answer": 1,
     "explanation_zh": "正確答案係「所有人」。",
     "explanation_en": "The correct answer is 'Everyone'.",
     "difficulty": 3
@@ -111,16 +111,16 @@
     "options_zh": [
       "普通",
       "參差",
-      "低質素",
-      "高質素"
+      "高質素",
+      "低質素"
     ],
     "options_en": [
       "Average",
       "Mixed",
-      "Low quality",
-      "High quality"
+      "High quality",
+      "Low quality"
     ],
-    "answer": 3,
+    "answer": 2,
     "explanation_zh": "正確答案係「高質素」。",
     "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 3
@@ -130,18 +130,18 @@
     "question_zh": "你對「《星際牛仔》屬於咩類型？」嘅整體印象係？",
     "question_en": "What is your overall impression of 'Cowboy Bebop'?",
     "options_zh": [
-      "唔好",
       "冇印象",
-      "一般",
-      "非常好"
+      "非常好",
+      "唔好",
+      "一般"
     ],
     "options_en": [
-      "Not good",
       "No impression",
-      "Average",
-      "Very good"
+      "Very good",
+      "Not good",
+      "Average"
     ],
-    "answer": 3,
+    "answer": 1,
     "explanation_zh": "正確答案係「非常好」。",
     "explanation_en": "The correct answer is 'Very good'.",
     "difficulty": 2
@@ -151,18 +151,18 @@
     "question_en": "Who directed the anime 'Cowboy Bebop'?",
     "question_zh": "邊個導演咗動畫《星際牛仔》？",
     "options_en": [
-      "Shinichiro Watanabe",
       "Hayao Miyazaki",
+      "Shinichiro Watanabe",
       "Hideaki Anno",
       "Satoshi Kon"
     ],
     "options_zh": [
-      "渡邊信一郎",
       "宮崎駿",
+      "渡邊信一郎",
       "庵野秀明",
       "今敏"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_en": "Shinichiro Watanabe directed Cowboy Bebop.",
     "explanation_zh": "渡邊信一郎導演咗《星際牛仔》。",
     "difficulty": 1
@@ -172,18 +172,18 @@
     "question_en": "What is the name of the main character's ship in 'Cowboy Bebop'?",
     "question_zh": "《星際牛仔》主角嘅飛船叫咩名？",
     "options_en": [
-      "Bebop",
-      "Swordfish II",
+      "Hammer Head",
       "Red Tail",
-      "Hammer Head"
+      "Swordfish II",
+      "Bebop"
     ],
     "options_zh": [
-      "Bebop",
-      "劍魚II號",
+      "錘頭號",
       "紅尾號",
-      "錘頭號"
+      "劍魚II號",
+      "Bebop"
     ],
-    "answer": 0,
+    "answer": 3,
     "explanation_en": "The Bebop is the main ship of the series.",
     "explanation_zh": "Bebop係呢套動畫嘅主要飛船。",
     "difficulty": 1
@@ -193,18 +193,18 @@
     "question_en": "What is Spike Spiegel's bounty hunter alias?",
     "question_zh": "史派克·史碧嘅賞金獵人別名係咩？",
     "options_en": [
-      "He doesn't have one",
-      "The Dragon",
       "Cowboy",
-      "Space Wolf"
+      "Space Wolf",
+      "He doesn't have one",
+      "The Dragon"
     ],
     "options_zh": [
-      "冇別名",
-      "龍",
       "牛仔",
-      "太空狼"
+      "太空狼",
+      "冇別名",
+      "龍"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_en": "Spike doesn't use a specific alias as a bounty hunter.",
     "explanation_zh": "史派克做賞金獵人冇用特定別名。",
     "difficulty": 1
@@ -214,18 +214,18 @@
     "question_en": "What martial art does Spike Spiegel practice?",
     "question_zh": "史派克練咩武術？",
     "options_en": [
-      "Jeet Kune Do",
       "Karate",
       "Judo",
+      "Jeet Kune Do",
       "Kung Fu"
     ],
     "options_zh": [
-      "截拳道",
       "空手道",
       "柔道",
+      "截拳道",
       "功夫"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_en": "Spike's fighting style is based on Jeet Kune Do.",
     "explanation_zh": "史派克嘅格鬥風格基於截拳道。",
     "difficulty": 1
@@ -235,18 +235,18 @@
     "question_en": "What is Faye Valentine's role on the Bebop?",
     "question_zh": "菲·瓦倫丁喺Bebop上嘅角色係咩？",
     "options_en": [
-      "Bounty hunter",
-      "Mechanic",
+      "Doctor",
       "Pilot",
-      "Doctor"
+      "Bounty hunter",
+      "Mechanic"
     ],
     "options_zh": [
-      "賞金獵人",
-      "技師",
+      "醫生",
       "飛行員",
-      "醫生"
+      "賞金獵人",
+      "技師"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_en": "Faye Valentine is also a bounty hunter on the Bebop.",
     "explanation_zh": "菲·瓦倫丁都係Bebop上嘅賞金獵人。",
     "difficulty": 1
@@ -256,18 +256,18 @@
     "question_en": "What is the name of the data dog on the Bebop?",
     "question_zh": "Bebop上嘅數據狗叫咩名？",
     "options_en": [
-      "Ein",
       "Ed",
-      "Al",
-      "Ei"
+      "Ei",
+      "Ein",
+      "Al"
     ],
     "options_zh": [
-      "Ein",
       "Ed",
-      "Al",
-      "Ei"
+      "Ei",
+      "Ein",
+      "Al"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_en": "Ein is a data dog (Welsh Corgi) on the Bebop.",
     "explanation_zh": "Ein係Bebop上嘅數據狗（威爾斯柯基）。",
     "difficulty": 1
@@ -277,18 +277,18 @@
     "question_en": "What year is 'Cowboy Bebop' set in?",
     "question_zh": "《星際牛仔》設定喺邊一年？",
     "options_en": [
-      "2071",
       "2100",
-      "2050",
-      "2200"
+      "2071",
+      "2200",
+      "2050"
     ],
     "options_zh": [
-      "2071年",
       "2100年",
-      "2050年",
-      "2200年"
+      "2071年",
+      "2200年",
+      "2050年"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_en": "Cowboy Bebop is set in the year 2071.",
     "explanation_zh": "《星際牛仔》設定喺2071年。",
     "difficulty": 1
@@ -298,18 +298,18 @@
     "question_en": "What is Spike's catchphrase in 'Cowboy Bebop'?",
     "question_zh": "史派克喺《星際牛仔》中嘅口頭禪係咩？",
     "options_en": [
-      "Whatever happens, happens",
       "See you, Space Cowboy",
       "Bang!",
+      "Whatever happens, happens",
       "I'm not going to die"
     ],
     "options_zh": [
-      "順其自然",
       "再見啦，太空牛仔",
       "砰！",
+      "順其自然",
       "我唔會死"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_en": "Spike's catchphrase is 'Whatever happens, happens.'",
     "explanation_zh": "史派克嘅口頭禪係「順其自然」。",
     "difficulty": 1
@@ -319,18 +319,18 @@
     "question_en": "What genre best describes 'Cowboy Bebop'?",
     "question_zh": "咩類型最能描述《星際牛仔》？",
     "options_en": [
+      "Slice of Life",
       "Space Western/Neo-noir",
-      "Mecha",
       "Romance",
-      "Slice of Life"
+      "Mecha"
     ],
     "options_zh": [
+      "日常",
       "太空西部/新黑色",
-      "機械人",
       "愛情",
-      "日常"
+      "機械人"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_en": "Cowboy Bebop is a space western with neo-noir elements.",
     "explanation_zh": "《星際牛仔》係一部太空西部片，帶有新黑色元素。",
     "difficulty": 1
@@ -340,18 +340,18 @@
     "question_en": "Who composed the music for 'Cowboy Bebop'?",
     "question_zh": "邊個為《星際牛仔》作曲？",
     "options_en": [
-      "Yoko Kanno",
-      "Joe Hisaishi",
       "Hiroyuki Sawano",
+      "Joe Hisaishi",
+      "Yoko Kanno",
       "Yuki Kajiura"
     ],
     "options_zh": [
-      "菅野洋子",
-      "久石讓",
       "澤野弘之",
+      "久石讓",
+      "菅野洋子",
       "梶浦由記"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_en": "Yoko Kanno composed the iconic jazz/blues soundtrack.",
     "explanation_zh": "菅野洋子創作咗標誌性嘅爵士/藍調配樂。",
     "difficulty": 1
@@ -361,18 +361,18 @@
     "question_en": "What is Edward Wong's nickname on the Bebop?",
     "question_zh": "愛德華·黃喺Bebop上嘅暱稱係咩？",
     "options_en": [
-      "Ed",
       "Radical Edward",
-      "Eddie",
-      "Edwardo"
+      "Ed",
+      "Edwardo",
+      "Eddie"
     ],
     "options_zh": [
-      "Ed",
       "激進愛德華",
-      "Eddie",
-      "Edwardo"
+      "Ed",
+      "Edwardo",
+      "Eddie"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_en": "Edward is commonly called 'Ed' or 'Radical Edward.'",
     "explanation_zh": "愛德華通常叫「Ed」或「激進愛德華」。",
     "difficulty": 1
@@ -382,18 +382,18 @@
     "question_en": "What is Spike's relationship with Vicious?",
     "question_zh": "史派克同維夏斯嘅關係係咩？",
     "options_en": [
-      "Former partners turned enemies",
       "Brothers",
+      "Former partners turned enemies",
       "Rivals from school",
       "No relationship"
     ],
     "options_zh": [
-      "前拍檔變成敵人",
       "兄弟",
+      "前拍檔變成敵人",
       "學校對手",
       "冇關係"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_en": "Spike and Vicious were former partners in the Red Dragon Syndicate.",
     "explanation_zh": "史派克同維夏斯曾經係紅龍犯罪集團嘅拍檔。",
     "difficulty": 1
@@ -403,18 +403,18 @@
     "question_en": "What is the name of the syndicate Spike used to work for?",
     "question_zh": "史派克以前為邊個犯罪集團工作？",
     "options_en": [
-      "Red Dragon Syndicate",
       "White Tiger Syndicate",
       "Iron Fist",
+      "Red Dragon Syndicate",
       "Shadow Guild"
     ],
     "options_zh": [
-      "紅龍犯罪集團",
       "白虎集團",
       "鐵拳",
+      "紅龍犯罪集團",
       "暗影公會"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation_en": "Spike was a member of the Red Dragon Syndicate.",
     "explanation_zh": "史派克曾經係紅龍犯罪集團嘅成員。",
     "difficulty": 1
@@ -424,18 +424,18 @@
     "question_en": "How many episodes does the original 'Cowboy Bebop' anime have?",
     "question_zh": "原版《星際牛仔》動畫有幾多集？",
     "options_en": [
+      "13",
       "26",
       "24",
-      "50",
-      "13"
+      "50"
     ],
     "options_zh": [
+      "13集",
       "26集",
       "24集",
-      "50集",
-      "13集"
+      "50集"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation_en": "Cowboy Bebop has 26 episodes.",
     "explanation_zh": "《星際牛仔》有26集。",
     "difficulty": 1
@@ -447,14 +447,14 @@
     "options_en": [
       "See you, Space Cowboy",
       "The work never ends",
-      "Bang!",
-      "Whatever happens, happens"
+      "Whatever happens, happens",
+      "Bang!"
     ],
     "options_zh": [
       "再見啦，太空牛仔",
       "工作永無止境",
-      "砰！",
-      "順其自然"
+      "順其自然",
+      "砰！"
     ],
     "answer": 0,
     "explanation_en": "Each episode ends with 'See you, Space Cowboy.'",
