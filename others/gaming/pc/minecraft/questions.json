@@ -1,153 +1,6 @@
 [
   {
     "id": 1,
-    "question_zh": "「《Minecraft》係邊間公司開發？」係咪好受歡迎？",
-    "question_en": "Is 'Minecraft' popular?",
-    "options_zh": [
-      "只喺特定地區流行",
-      "唔係，好冷門",
-      "係，非常受歡迎",
-      "已經過氣"
-    ],
-    "options_en": [
-      "Only popular locally",
-      "No, very niche",
-      "Yes, very popular",
-      "Outdated"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 3
-  },
-  {
-    "id": 2,
-    "question_zh": "「《Minecraft》係邊間公司開發？」係邊度嚟嘅？",
-    "question_en": "Where is 'Minecraft' from?",
-    "options_zh": [
-      "歐洲",
-      "美洲",
-      "非洲",
-      "全球"
-    ],
-    "options_en": [
-      "Europe",
-      "Americas",
-      "Africa",
-      "Global"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「全球」。",
-    "explanation_en": "The correct answer is 'Global'.",
-    "difficulty": 3
-  },
-  {
-    "id": 3,
-    "question_zh": "「《Minecraft》係邊間公司開發？」有咩特色？",
-    "question_en": "What is special about 'Minecraft'?",
-    "options_zh": [
-      "冇特色",
-      "好普通",
-      "獨特風格",
-      "已經過時"
-    ],
-    "options_en": [
-      "No special features",
-      "Very ordinary",
-      "Unique style",
-      "Outdated"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「獨特風格」。",
-    "explanation_en": "The correct answer is 'Unique style'.",
-    "difficulty": 3
-  },
-  {
-    "id": 4,
-    "question_zh": "你會唔會推薦「《Minecraft》係邊間公司開發？」？",
-    "question_en": "Would you recommend 'Minecraft'?",
-    "options_zh": [
-      "唔確定",
-      "睇情況",
-      "會，非常推薦",
-      "唔會"
-    ],
-    "options_en": [
-      "Not sure",
-      "It depends",
-      "Yes, highly recommended",
-      "No"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 3
-  },
-  {
-    "id": 5,
-    "question_zh": "「《Minecraft》係邊間公司開發？」適合邊種人？",
-    "question_en": "Who is 'Minecraft' suitable for?",
-    "options_zh": [
-      "只適合成人",
-      "所有人",
-      "只適合專業人士",
-      "只適合兒童"
-    ],
-    "options_en": [
-      "Only adults",
-      "Everyone",
-      "Only professionals",
-      "Only children"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「所有人」。",
-    "explanation_en": "The correct answer is 'Everyone'.",
-    "difficulty": 3
-  },
-  {
-    "id": 6,
-    "question_zh": "「《Minecraft》係邊間公司開發？」嘅質素如何？",
-    "question_en": "What is the quality of 'Minecraft'?",
-    "options_zh": [
-      "高質素",
-      "低質素",
-      "普通",
-      "參差"
-    ],
-    "options_en": [
-      "High quality",
-      "Low quality",
-      "Average",
-      "Mixed"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「高質素」。",
-    "explanation_en": "The correct answer is 'High quality'.",
-    "difficulty": 3
-  },
-  {
-    "id": 7,
-    "question_zh": "你對「《Minecraft》係邊間公司開發？」嘅整體印象係？",
-    "question_en": "What is your overall impression of 'Minecraft'?",
-    "options_zh": [
-      "非常好",
-      "冇印象",
-      "一般",
-      "唔好"
-    ],
-    "options_en": [
-      "Very good",
-      "No impression",
-      "Average",
-      "Not good"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「非常好」。",
-    "explanation_en": "The correct answer is 'Very good'.",
-    "difficulty": 2
-  },
-  {
-    "id": 8,
     "question_en": "Who created 'Minecraft'?",
     "question_zh": "邊個創造咗《Minecraft》？",
     "options_en": [
@@ -168,7 +21,7 @@
     "difficulty": 1
   },
   {
-    "id": 10,
+    "id": 2,
     "question_en": "What company acquired Mojang (Minecraft's developer) in 2014?",
     "question_zh": "邊間公司喺2014年收購咗Mojang？",
     "options_en": [
@@ -189,7 +42,7 @@
     "difficulty": 1
   },
   {
-    "id": 12,
+    "id": 3,
     "question_en": "What is the main objective in Minecraft's Survival mode?",
     "question_zh": "Minecraft生存模式嘅主要目標係咩？",
     "options_en": [
@@ -210,7 +63,7 @@
     "difficulty": 1
   },
   {
-    "id": 14,
+    "id": 4,
     "question_en": "What material do you need to create a Nether Portal?",
     "question_zh": "做地獄門需要咩材料？",
     "options_en": [
@@ -231,7 +84,7 @@
     "difficulty": 1
   },
   {
-    "id": 16,
+    "id": 5,
     "question_en": "What is the name of the final boss in Minecraft?",
     "question_zh": "Minecraft嘅最終Boss叫咩名？",
     "options_en": [
@@ -252,7 +105,7 @@
     "difficulty": 1
   },
   {
-    "id": 18,
+    "id": 6,
     "question_en": "What game mode has no enemies and unlimited resources?",
     "question_zh": "咩遊戲模式冇敵人同無限資源？",
     "options_en": [
@@ -273,7 +126,7 @@
     "difficulty": 1
   },
   {
-    "id": 20,
+    "id": 7,
     "question_en": "What is the rarest ore in Minecraft?",
     "question_zh": "Minecraft中最稀有嘅礦石係咩？",
     "options_en": [
@@ -294,7 +147,7 @@
     "difficulty": 1
   },
   {
-    "id": 22,
+    "id": 8,
     "question_en": "What year was Minecraft first released?",
     "question_zh": "Minecraft喺邊年首次發行？",
     "options_en": [
@@ -315,7 +168,7 @@
     "difficulty": 1
   },
   {
-    "id": 24,
+    "id": 9,
     "question_en": "What creature explodes when near the player?",
     "question_zh": "咩生物靠近玩家會爆炸？",
     "options_en": [
@@ -336,7 +189,7 @@
     "difficulty": 1
   },
   {
-    "id": 26,
+    "id": 10,
     "question_en": "What dimension do you reach through the End Portal?",
     "question_zh": "透過末地門可以去到咩維度？",
     "options_en": [
@@ -357,7 +210,7 @@
     "difficulty": 1
   },
   {
-    "id": 28,
+    "id": 11,
     "question_en": "What tool is needed to mine diamonds efficiently?",
     "question_zh": "咩工具可以有效率咁挖鑽石？",
     "options_en": [
@@ -378,7 +231,7 @@
     "difficulty": 1
   },
   {
-    "id": 30,
+    "id": 12,
     "question_en": "What is the maximum stack size for most items?",
     "question_zh": "大部分物品嘅最大堆疊數量係幾多？",
     "options_en": [
@@ -399,7 +252,7 @@
     "difficulty": 1
   },
   {
-    "id": 32,
+    "id": 13,
     "question_en": "What is the name of the underground ancient city structure?",
     "question_zh": "地下古城建築叫咩名？",
     "options_en": [

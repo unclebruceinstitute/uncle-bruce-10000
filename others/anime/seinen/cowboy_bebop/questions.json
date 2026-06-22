@@ -1,153 +1,6 @@
 [
   {
     "id": 1,
-    "question_zh": "「《星際牛仔》屬於咩類型？」係咪好受歡迎？",
-    "question_en": "Is 'Cowboy Bebop' popular?",
-    "options_zh": [
-      "已經過氣",
-      "唔係，好冷門",
-      "係，非常受歡迎",
-      "只喺特定地區流行"
-    ],
-    "options_en": [
-      "Outdated",
-      "No, very niche",
-      "Yes, very popular",
-      "Only popular locally"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 3
-  },
-  {
-    "id": 2,
-    "question_zh": "「《星際牛仔》屬於咩類型？」係邊度嚟嘅？",
-    "question_en": "Where is 'Cowboy Bebop' from?",
-    "options_zh": [
-      "美洲",
-      "非洲",
-      "日本",
-      "歐洲"
-    ],
-    "options_en": [
-      "Americas",
-      "Africa",
-      "Japan",
-      "Europe"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「日本」。",
-    "explanation_en": "The correct answer is 'Japan'.",
-    "difficulty": 3
-  },
-  {
-    "id": 3,
-    "question_zh": "「《星際牛仔》屬於咩類型？」有咩特色？",
-    "question_en": "What is special about 'Cowboy Bebop'?",
-    "options_zh": [
-      "好普通",
-      "已經過時",
-      "冇特色",
-      "獨特風格"
-    ],
-    "options_en": [
-      "Very ordinary",
-      "Outdated",
-      "No special features",
-      "Unique style"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「獨特風格」。",
-    "explanation_en": "The correct answer is 'Unique style'.",
-    "difficulty": 3
-  },
-  {
-    "id": 4,
-    "question_zh": "你會唔會推薦「《星際牛仔》屬於咩類型？」？",
-    "question_en": "Would you recommend 'Cowboy Bebop'?",
-    "options_zh": [
-      "會，非常推薦",
-      "睇情況",
-      "唔會",
-      "唔確定"
-    ],
-    "options_en": [
-      "Yes, highly recommended",
-      "It depends",
-      "No",
-      "Not sure"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 3
-  },
-  {
-    "id": 5,
-    "question_zh": "「《星際牛仔》屬於咩類型？」適合邊種人？",
-    "question_en": "Who is 'Cowboy Bebop' suitable for?",
-    "options_zh": [
-      "只適合成人",
-      "所有人",
-      "只適合兒童",
-      "只適合專業人士"
-    ],
-    "options_en": [
-      "Only adults",
-      "Everyone",
-      "Only children",
-      "Only professionals"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「所有人」。",
-    "explanation_en": "The correct answer is 'Everyone'.",
-    "difficulty": 3
-  },
-  {
-    "id": 6,
-    "question_zh": "「《星際牛仔》屬於咩類型？」嘅質素如何？",
-    "question_en": "What is the quality of 'Cowboy Bebop'?",
-    "options_zh": [
-      "普通",
-      "參差",
-      "高質素",
-      "低質素"
-    ],
-    "options_en": [
-      "Average",
-      "Mixed",
-      "High quality",
-      "Low quality"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「高質素」。",
-    "explanation_en": "The correct answer is 'High quality'.",
-    "difficulty": 3
-  },
-  {
-    "id": 7,
-    "question_zh": "你對「《星際牛仔》屬於咩類型？」嘅整體印象係？",
-    "question_en": "What is your overall impression of 'Cowboy Bebop'?",
-    "options_zh": [
-      "冇印象",
-      "非常好",
-      "唔好",
-      "一般"
-    ],
-    "options_en": [
-      "No impression",
-      "Very good",
-      "Not good",
-      "Average"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「非常好」。",
-    "explanation_en": "The correct answer is 'Very good'.",
-    "difficulty": 2
-  },
-  {
-    "id": 8,
     "question_en": "Who directed the anime 'Cowboy Bebop'?",
     "question_zh": "邊個導演咗動畫《星際牛仔》？",
     "options_en": [
@@ -168,7 +21,7 @@
     "difficulty": 1
   },
   {
-    "id": 10,
+    "id": 2,
     "question_en": "What is the name of the main character's ship in 'Cowboy Bebop'?",
     "question_zh": "《星際牛仔》主角嘅飛船叫咩名？",
     "options_en": [
@@ -189,7 +42,7 @@
     "difficulty": 1
   },
   {
-    "id": 12,
+    "id": 3,
     "question_en": "What is Spike Spiegel's bounty hunter alias?",
     "question_zh": "史派克·史碧嘅賞金獵人別名係咩？",
     "options_en": [
@@ -210,7 +63,7 @@
     "difficulty": 1
   },
   {
-    "id": 14,
+    "id": 4,
     "question_en": "What martial art does Spike Spiegel practice?",
     "question_zh": "史派克練咩武術？",
     "options_en": [
@@ -231,7 +84,7 @@
     "difficulty": 1
   },
   {
-    "id": 16,
+    "id": 5,
     "question_en": "What is Faye Valentine's role on the Bebop?",
     "question_zh": "菲·瓦倫丁喺Bebop上嘅角色係咩？",
     "options_en": [
@@ -252,7 +105,7 @@
     "difficulty": 1
   },
   {
-    "id": 18,
+    "id": 6,
     "question_en": "What is the name of the data dog on the Bebop?",
     "question_zh": "Bebop上嘅數據狗叫咩名？",
     "options_en": [
@@ -273,7 +126,7 @@
     "difficulty": 1
   },
   {
-    "id": 20,
+    "id": 7,
     "question_en": "What year is 'Cowboy Bebop' set in?",
     "question_zh": "《星際牛仔》設定喺邊一年？",
     "options_en": [
@@ -294,7 +147,7 @@
     "difficulty": 1
   },
   {
-    "id": 22,
+    "id": 8,
     "question_en": "What is Spike's catchphrase in 'Cowboy Bebop'?",
     "question_zh": "史派克喺《星際牛仔》中嘅口頭禪係咩？",
     "options_en": [
@@ -315,7 +168,7 @@
     "difficulty": 1
   },
   {
-    "id": 24,
+    "id": 9,
     "question_en": "What genre best describes 'Cowboy Bebop'?",
     "question_zh": "咩類型最能描述《星際牛仔》？",
     "options_en": [
@@ -336,7 +189,7 @@
     "difficulty": 1
   },
   {
-    "id": 26,
+    "id": 10,
     "question_en": "Who composed the music for 'Cowboy Bebop'?",
     "question_zh": "邊個為《星際牛仔》作曲？",
     "options_en": [
@@ -357,7 +210,7 @@
     "difficulty": 1
   },
   {
-    "id": 28,
+    "id": 11,
     "question_en": "What is Edward Wong's nickname on the Bebop?",
     "question_zh": "愛德華·黃喺Bebop上嘅暱稱係咩？",
     "options_en": [
@@ -378,7 +231,7 @@
     "difficulty": 1
   },
   {
-    "id": 30,
+    "id": 12,
     "question_en": "What is Spike's relationship with Vicious?",
     "question_zh": "史派克同維夏斯嘅關係係咩？",
     "options_en": [
@@ -399,7 +252,7 @@
     "difficulty": 1
   },
   {
-    "id": 32,
+    "id": 13,
     "question_en": "What is the name of the syndicate Spike used to work for?",
     "question_zh": "史派克以前為邊個犯罪集團工作？",
     "options_en": [
@@ -420,7 +273,7 @@
     "difficulty": 1
   },
   {
-    "id": 34,
+    "id": 14,
     "question_en": "How many episodes does the original 'Cowboy Bebop' anime have?",
     "question_zh": "原版《星際牛仔》動畫有幾多集？",
     "options_en": [
@@ -441,7 +294,7 @@
     "difficulty": 1
   },
   {
-    "id": 36,
+    "id": 15,
     "question_en": "What is the recurring phrase said at the end of each episode?",
     "question_zh": "每集結尾講嘅重複句子係咩？",
     "options_en": [

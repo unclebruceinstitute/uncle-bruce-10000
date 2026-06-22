@@ -1,153 +1,6 @@
 [
   {
     "id": 1,
-    "question_zh": "「《Fortnite》係邊間公司開發？」係咪好受歡迎？",
-    "question_en": "Is 'Fortnite' popular?",
-    "options_zh": [
-      "唔係，好冷門",
-      "係，非常受歡迎",
-      "只喺特定地區流行",
-      "已經過氣"
-    ],
-    "options_en": [
-      "No, very niche",
-      "Yes, very popular",
-      "Only popular locally",
-      "Outdated"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「係，非常受歡迎」。",
-    "explanation_en": "The correct answer is 'Yes, very popular'.",
-    "difficulty": 3
-  },
-  {
-    "id": 2,
-    "question_zh": "「《Fortnite》係邊間公司開發？」係邊度嚟嘅？",
-    "question_en": "Where is 'Fortnite' from?",
-    "options_zh": [
-      "非洲",
-      "全球",
-      "歐洲",
-      "美洲"
-    ],
-    "options_en": [
-      "Africa",
-      "Global",
-      "Europe",
-      "Americas"
-    ],
-    "answer": 1,
-    "explanation_zh": "正確答案係「全球」。",
-    "explanation_en": "The correct answer is 'Global'.",
-    "difficulty": 3
-  },
-  {
-    "id": 3,
-    "question_zh": "「《Fortnite》係邊間公司開發？」有咩特色？",
-    "question_en": "What is special about 'Fortnite'?",
-    "options_zh": [
-      "獨特風格",
-      "已經過時",
-      "好普通",
-      "冇特色"
-    ],
-    "options_en": [
-      "Unique style",
-      "Outdated",
-      "Very ordinary",
-      "No special features"
-    ],
-    "answer": 0,
-    "explanation_zh": "正確答案係「獨特風格」。",
-    "explanation_en": "The correct answer is 'Unique style'.",
-    "difficulty": 3
-  },
-  {
-    "id": 4,
-    "question_zh": "你會唔會推薦「《Fortnite》係邊間公司開發？」？",
-    "question_en": "Would you recommend 'Fortnite'?",
-    "options_zh": [
-      "唔會",
-      "睇情況",
-      "會，非常推薦",
-      "唔確定"
-    ],
-    "options_en": [
-      "No",
-      "It depends",
-      "Yes, highly recommended",
-      "Not sure"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「會，非常推薦」。",
-    "explanation_en": "The correct answer is 'Yes, highly recommended'.",
-    "difficulty": 3
-  },
-  {
-    "id": 5,
-    "question_zh": "「《Fortnite》係邊間公司開發？」適合邊種人？",
-    "question_en": "Who is 'Fortnite' suitable for?",
-    "options_zh": [
-      "只適合專業人士",
-      "只適合成人",
-      "所有人",
-      "只適合兒童"
-    ],
-    "options_en": [
-      "Only professionals",
-      "Only adults",
-      "Everyone",
-      "Only children"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「所有人」。",
-    "explanation_en": "The correct answer is 'Everyone'.",
-    "difficulty": 3
-  },
-  {
-    "id": 6,
-    "question_zh": "「《Fortnite》係邊間公司開發？」嘅質素如何？",
-    "question_en": "What is the quality of 'Fortnite'?",
-    "options_zh": [
-      "參差",
-      "低質素",
-      "高質素",
-      "普通"
-    ],
-    "options_en": [
-      "Mixed",
-      "Low quality",
-      "High quality",
-      "Average"
-    ],
-    "answer": 2,
-    "explanation_zh": "正確答案係「高質素」。",
-    "explanation_en": "The correct answer is 'High quality'.",
-    "difficulty": 3
-  },
-  {
-    "id": 7,
-    "question_zh": "你對「《Fortnite》係邊間公司開發？」嘅整體印象係？",
-    "question_en": "What is your overall impression of 'Fortnite'?",
-    "options_zh": [
-      "一般",
-      "冇印象",
-      "唔好",
-      "非常好"
-    ],
-    "options_en": [
-      "Average",
-      "No impression",
-      "Not good",
-      "Very good"
-    ],
-    "answer": 3,
-    "explanation_zh": "正確答案係「非常好」。",
-    "explanation_en": "The correct answer is 'Very good'.",
-    "difficulty": 2
-  },
-  {
-    "id": 8,
     "question_en": "What company developed 'Fortnite'?",
     "question_zh": "邊間公司開發咗《Fortnite》？",
     "options_en": [
@@ -168,7 +21,7 @@
     "difficulty": 1
   },
   {
-    "id": 10,
+    "id": 2,
     "question_en": "What is the main game mode in Fortnite?",
     "question_zh": "《Fortnite》嘅主要遊戲模式係咩？",
     "options_en": [
@@ -189,7 +42,7 @@
     "difficulty": 1
   },
   {
-    "id": 12,
+    "id": 3,
     "question_en": "How many players drop into a standard Fortnite Battle Royale match?",
     "question_zh": "標準《Fortnite》大逃殺比賽有幾多個玩家降落？",
     "options_en": [
@@ -210,7 +63,7 @@
     "difficulty": 1
   },
   {
-    "id": 14,
+    "id": 4,
     "question_en": "What unique mechanic distinguishes Fortnite from other Battle Royale games?",
     "question_zh": "咩獨特機制令《Fortnite》同其他大逃殺遊戲唔同？",
     "options_en": [
@@ -231,7 +84,7 @@
     "difficulty": 1
   },
   {
-    "id": 16,
+    "id": 5,
     "question_en": "What is the name of the storm that shrinks the playable area?",
     "question_zh": "縮小可玩區域嘅風暴叫咩名？",
     "options_en": [
@@ -252,7 +105,7 @@
     "difficulty": 1
   },
   {
-    "id": 18,
+    "id": 6,
     "question_en": "What is a V-Buck in Fortnite?",
     "question_zh": "《Fortnite》中嘅V-Buck係咩？",
     "options_en": [
@@ -273,7 +126,7 @@
     "difficulty": 1
   },
   {
-    "id": 20,
+    "id": 7,
     "question_en": "What year was Fortnite Battle Royale first released?",
     "question_zh": "《Fortnite》大逃殺喺邊年首次發行？",
     "options_en": [
@@ -294,7 +147,7 @@
     "difficulty": 1
   },
   {
-    "id": 22,
+    "id": 8,
     "question_en": "What material is the strongest for building in Fortnite?",
     "question_zh": "《Fortnite》中最強嘅建材係咩？",
     "options_en": [
@@ -315,7 +168,7 @@
     "difficulty": 1
   },
   {
-    "id": 24,
+    "id": 9,
     "question_en": "What is the name of Fortnite's map-changing events?",
     "question_zh": "《Fortnite》改變地圖嘅事件叫咩名？",
     "options_en": [
@@ -336,7 +189,7 @@
     "difficulty": 1
   },
   {
-    "id": 26,
+    "id": 10,
     "question_en": "What do you use to revive knocked teammates in Fortnite?",
     "question_zh": "喺《Fortnite》中用咩復活被擊倒嘅隊友？",
     "options_en": [
@@ -357,7 +210,7 @@
     "difficulty": 1
   },
   {
-    "id": 28,
+    "id": 11,
     "question_en": "What is a Supply Drop in Fortnite?",
     "question_zh": "《Fortnite》中嘅空投補給係咩？",
     "options_en": [
@@ -378,7 +231,7 @@
     "difficulty": 1
   },
   {
-    "id": 30,
+    "id": 12,
     "question_en": "What is the name of the bus that drops players at the start?",
     "question_zh": "開始時載玩家降落嘅巴士叫咩名？",
     "options_en": [
