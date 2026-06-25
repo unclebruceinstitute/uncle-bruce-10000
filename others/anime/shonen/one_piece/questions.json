@@ -1,1 +1,191 @@
-[{"id": 1, "question_zh": "《海賊王》屬於咩類型嘅動畫？", "question_en": "What genre is 'One Piece'?", "options_zh": ["紀錄片", "日常搞笑", "音樂劇", "冒險海賊"], "options_en": ["Documentary", "Slice of life comedy", "Musical", "冒險海賊"], "answer": 3, "explanation_zh": "《海賊王》係冒險海賊類型。", "explanation_en": "'One Piece' is 冒險海賊.", "difficulty": 1}, {"id": 2, "question_zh": "《海賊王》嘅原作者係邊個？", "question_en": "Who is the original author of 'One Piece'?", "options_zh": ["鳥山明", "尾田榮一郎", "尾田榮一郎", "岸本齊史"], "options_en": ["Akira Toriyama", "Eiichiro Oda", "尾田榮一郎", "Masashi Kishimoto"], "answer": 2, "explanation_zh": "作者係尾田榮一郎。", "explanation_en": "The author is 尾田榮一郎.", "difficulty": 2}, {"id": 3, "question_zh": "《海賊王》動畫版首播年份係？", "question_en": "When did the 'One Piece' anime first air?", "options_zh": ["1989", "1999", "1996", "2004"], "options_en": ["1989", "1999", "1996", "2004"], "answer": 1, "explanation_zh": "首播於1999年。", "explanation_en": "First aired in 1999.", "difficulty": 2}, {"id": 4, "question_zh": "《海賊王》嘅主角係邊個？", "question_en": "Who is the protagonist of 'One Piece'?", "options_zh": ["路人甲", "路飛", "反派丙", "配角乙"], "options_en": ["Side character A", "Luffy", "Villain C", "Support B"], "answer": 1, "explanation_zh": "主角係路飛。", "explanation_en": "The protagonist is Luffy.", "difficulty": 1}, {"id": 5, "question_zh": "以下關於《海賊王》嘅描述，邊項係正確？", "question_en": "Which statement about 'One Piece' is correct?", "options_zh": ["唔係咁樣", "完全錯誤", "橡膠果實能力者", "呢個講法唔啱"], "options_en": ["Not like this", "Completely wrong", "Rubber Devil Fruit user", "This is incorrect"], "answer": 2, "explanation_zh": "正確答案係「橡膠果實能力者」。", "explanation_en": "The correct answer is 'Rubber Devil Fruit user'.", "difficulty": 2}, {"id": 10, "question_zh": "《海賊王》嘅動畫製作公司係？", "question_en": "Which studio produced 'One Piece' anime?", "options_zh": ["Bones", "Toei", "Toei Animation", "Sunrise"], "options_en": ["Bones", "Toei", "Toei Animation", "Sunrise"], "answer": 2, "explanation_zh": "正確答案係「Toei Animation」。", "explanation_en": "The correct answer is 'Toei Animation'.", "difficulty": 2}, {"id": 11, "question_zh": "《海賊王》係邊個國家嘅作品？", "question_en": "Which country is 'One Piece' from?", "options_zh": ["中國/China", "美國/USA", "韓國/Korea", "日本/Japan"], "options_en": ["China", "USA", "Korea", "Japan"], "answer": 3, "explanation_zh": "正確答案係「日本/Japan」。", "explanation_en": "The correct answer is 'Japan'.", "difficulty": 2}, {"id": 12, "question_zh": "《海賊王》嘅原作係漫畫定小說？", "question_en": "Is 'One Piece' originally a manga or novel?", "options_zh": ["原創/Original", "小說/Novel", "漫畫/Manga", "遊戲/Game"], "options_en": ["Original", "Novel", "Manga", "Game"], "answer": 2, "explanation_zh": "正確答案係「漫畫/Manga」。", "explanation_en": "The correct answer is 'Manga'.", "difficulty": 2}, {"id": 13, "question_zh": "《海賊王》係一部好睇嘅動畫，你同意嗎？", "question_en": "'One Piece' is a great anime, do you agree?", "options_zh": ["完全同意", "完全唔同意", "唔太同意", "部分同意"], "options_en": ["Strongly agree", "Strongly disagree", "Disagree", "Somewhat agree"], "answer": 0, "explanation_zh": "《海賊王》確實係一部受歡迎嘅作品。", "explanation_en": "'One Piece' is indeed a popular work.", "difficulty": 1}]
+[
+  {
+    "id": 1,
+    "question_zh": "《海賊王》屬於咩類型嘅動畫？",
+    "question_en": "What genre is 'One Piece'?",
+    "options_zh": [
+      "紀錄片",
+      "日常搞笑",
+      "音樂劇",
+      "冒險海賊"
+    ],
+    "options_en": [
+      "Documentary",
+      "Slice of life comedy",
+      "Musical",
+      "冒險海賊"
+    ],
+    "answer": 3,
+    "explanation_zh": "《海賊王》係冒險海賊類型。",
+    "explanation_en": "'One Piece' is 冒險海賊.",
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question_zh": "《海賊王》嘅原作者係邊個？",
+    "question_en": "Who is the original author of 'One Piece'?",
+    "options_zh": [
+      "鳥山明",
+      "尾田榮一郎",
+      "岸本齊史",
+      "久保帶人"
+    ],
+    "options_en": [
+      "Akira Toriyama",
+      "Eiichiro Oda",
+      "Masashi Kishimoto",
+      "Tite Kubo"
+    ],
+    "answer": 2,
+    "explanation_zh": "作者係尾田榮一郎。",
+    "explanation_en": "The author is 尾田榮一郎.",
+    "difficulty": 2
+  },
+  {
+    "id": 3,
+    "question_zh": "《海賊王》動畫版首播年份係？",
+    "question_en": "When did the 'One Piece' anime first air?",
+    "options_zh": [
+      "1989",
+      "1999",
+      "1996",
+      "2004"
+    ],
+    "options_en": [
+      "1989",
+      "1999",
+      "1996",
+      "2004"
+    ],
+    "answer": 1,
+    "explanation_zh": "首播於1999年。",
+    "explanation_en": "First aired in 1999.",
+    "difficulty": 2
+  },
+  {
+    "id": 4,
+    "question_zh": "《海賊王》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'One Piece'?",
+    "options_zh": [
+      "路人甲",
+      "路飛",
+      "反派丙",
+      "配角乙"
+    ],
+    "options_en": [
+      "Side character A",
+      "Luffy",
+      "Villain C",
+      "Support B"
+    ],
+    "answer": 1,
+    "explanation_zh": "主角係路飛。",
+    "explanation_en": "The protagonist is Luffy.",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question_zh": "以下關於《海賊王》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'One Piece' is correct?",
+    "options_zh": [
+      "唔係咁樣",
+      "完全錯誤",
+      "橡膠果實能力者",
+      "呢個講法唔啱"
+    ],
+    "options_en": [
+      "Not like this",
+      "Completely wrong",
+      "Rubber Devil Fruit user",
+      "This is incorrect"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「橡膠果實能力者」。",
+    "explanation_en": "The correct answer is 'Rubber Devil Fruit user'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《海賊王》嘅動畫製作公司係？",
+    "question_en": "Which studio produced 'One Piece' anime?",
+    "options_zh": [
+      "Bones",
+      "Toei",
+      "Toei Animation",
+      "Sunrise"
+    ],
+    "options_en": [
+      "Bones",
+      "Toei",
+      "Toei Animation",
+      "Sunrise"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「Toei Animation」。",
+    "explanation_en": "The correct answer is 'Toei Animation'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《海賊王》係邊個國家嘅作品？",
+    "question_en": "Which country is 'One Piece' from?",
+    "options_zh": [
+      "中國/China",
+      "美國/USA",
+      "韓國/Korea",
+      "日本/Japan"
+    ],
+    "options_en": [
+      "China",
+      "USA",
+      "Korea",
+      "Japan"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「日本/Japan」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《海賊王》嘅原作係漫畫定小說？",
+    "question_en": "Is 'One Piece' originally a manga or novel?",
+    "options_zh": [
+      "原創/Original",
+      "小說/Novel",
+      "漫畫/Manga",
+      "遊戲/Game"
+    ],
+    "options_en": [
+      "Original",
+      "Novel",
+      "Manga",
+      "Game"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「漫畫/Manga」。",
+    "explanation_en": "The correct answer is 'Manga'.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《海賊王》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'One Piece' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "完全唔同意",
+      "唔太同意",
+      "部分同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Strongly disagree",
+      "Disagree",
+      "Somewhat agree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《海賊王》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'One Piece' is indeed a popular work.",
+    "difficulty": 1
+  }
+]

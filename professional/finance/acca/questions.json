@@ -1,1 +1,2002 @@
-[{"topic_zh": "財務會計", "topic_en": "Financial Accounting", "subtopic_zh": "會計準則", "subtopic_en": "Accounting Standards", "question_zh": "IAS 16 固定資產準則要求固定資產以邊種方式計量？", "question_en": "IAS 16 Property, Plant and Equipment requires assets to be measured using which model?", "options_zh": ["公允價值模型", "僅成本模型", "成本模型或重估模型", "僅重估模型"], "options_en": ["Fair value model", "Cost model only", "Cost model or revaluation model", "Revaluation model only"], "answer": 2, "explanation_zh": "IAS 16允許企業選擇成本模型或重估模型計量固定資產。", "explanation_en": "IAS 16 allows entities to choose between the cost model and the revaluation model for measuring property, plant and equipment.", "difficulty": 2, "id": 1}, {"topic_zh": "財務會計", "topic_en": "Financial Accounting", "subtopic_zh": "租賃會計", "subtopic_en": "Lease Accounting", "question_zh": "根據IFRS 16，承租人需要喺資產負債表上確認邊啲資產？", "question_en": "Under IFRS 16, what assets must lessees recognize on the balance sheet?", "options_zh": ["僅經營租賃資產", "使用權資產", "唔需要確認任何資產", "僅融資租賃資產"], "options_en": ["Only operating lease assets", "Right-of-use assets", "No assets need to be recognized", "Only finance lease assets"], "answer": 1, "explanation_zh": "IFRS 16要求承租人確認使用權資產同租賃負債，取消咗經營租賃同融資租賃嘅區分。", "explanation_en": "IFRS 16 requires lessees to recognize right-of-use assets and lease liabilities, eliminating the distinction between operating and finance leases.", "difficulty": 2, "id": 2}, {"topic_zh": "管理會計", "topic_en": "Management Accounting", "subtopic_zh": "成本分析", "subtopic_en": "Cost Analysis", "question_zh": "邊際貢獻等於咩？", "question_en": "What does contribution margin equal?", "options_zh": ["總收入減總成本", "銷售收入減變動成本", "利潤減成本", "銷售收入減固定成本"], "options_en": ["Total revenue minus total costs", "Sales revenue minus variable costs", "Profit minus costs", "Sales revenue minus fixed costs"], "answer": 1, "explanation_zh": "邊際貢獻 = 銷售收入 - 變動成本，用於覆蓋固定成本同產生利潤。", "explanation_en": "Contribution margin = Sales revenue - Variable costs, used to cover fixed costs and generate profit.", "difficulty": 1, "id": 3}, {"topic_zh": "審計與鑑證", "topic_en": "Audit and Assurance", "subtopic_zh": "審計證據", "subtopic_en": "Audit Evidence", "question_zh": "以下邊種審計證據嘅可靠性最高？", "question_en": "Which type of audit evidence is most reliable?", "options_zh": ["口頭詢問結果", "審計師直接獲取嘅證據", "客戶提供嘅文件", "管理層聲明書"], "options_en": ["Oral inquiry results", "Evidence obtained directly by the auditor", "Documents provided by the client", "Management representation letter"], "answer": 1, "explanation_zh": "審計師直接獲取嘅證據（如親自觀察、計算）可靠性最高。", "explanation_en": "Evidence obtained directly by the auditor (such as personal observation, calculation) is most reliable.", "difficulty": 2, "id": 4}, {"topic_zh": "稅務", "topic_en": "Taxation", "subtopic_zh": "稅務計算", "subtopic_en": "Tax Calculation", "question_zh": "喺香港，物業稅嘅稅率係幾多？", "question_en": "What is the property tax rate in Hong Kong?", "options_zh": ["20%", "17%", "標準稅率15%", "10%"], "options_en": ["20%", "17%", "Standard rate of 15%", "10%"], "answer": 2, "explanation_zh": "香港物業稅按標準稅率15%計算，或按應評稅淨值嘅累進稅率計算。", "explanation_en": "Hong Kong property tax is calculated at the standard rate of 15%, or at progressive rates on the net assessable value.", "difficulty": 2, "id": 5}, {"topic_zh": "商業法", "topic_en": "Business Law", "subtopic_zh": "合約法", "subtopic_en": "Contract Law", "question_zh": "以下邊項唔係有效要約嘅要素？", "question_en": "Which is NOT an element of a valid offer?", "options_zh": ["傳達畀受要約人", "書面形式", "建立法律關係嘅意圖", "明確嘅條款"], "options_en": ["Communication to the offeree", "Written form", "Intention to create legal relations", "Clear terms"], "answer": 1, "explanation_zh": "有效要約需要明確條款、建立法律關係嘅意圖同傳達，但唔一定需要書面形式。", "explanation_en": "A valid offer requires clear terms, intention to create legal relations, and communication, but not necessarily written form.", "difficulty": 2, "id": 6}, {"topic_zh": "財務管理", "topic_en": "Financial Management", "subtopic_zh": "投資評估", "subtopic_en": "Investment Appraisal", "question_zh": "內部收益率（IRR）嘅定義係咩？", "question_en": "What is the definition of Internal Rate of Return (IRR)?", "options_zh": ["令淨現值等於零嘅折現率", "項目嘅平均回報率", "投資回收期", "會計收益率"], "options_en": ["The discount rate that makes NPV zero", "The average return of the project", "The payback period", "The accounting rate of return"], "answer": 0, "explanation_zh": "內部收益率（IRR）係令項目淨現值（NPV）等於零嘅折現率。", "explanation_en": "Internal Rate of Return (IRR) is the discount rate that makes the project's Net Present Value (NPV) equal to zero.", "difficulty": 2, "id": 7}, {"id": 8, "topic_zh": "審計與鑑證", "topic_en": "審計與鑑證", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4服務管理中，審計與鑑證嘅重要性體現喺邊度？", "question_en": "喺ITIL 4服務管理中，審計與鑑證嘅重要性體現喺邊度？", "options_zh": ["生產流程優化", "人力資源管理", "市場營銷策略", "審計與鑑證嘅核心原則同應用"], "options_en": ["Production process optimization", "Human resource management", "Marketing strategy", "Core principles and applications of 審計與鑑證"], "answer": 3, "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。", "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.", "difficulty": 1}, {"id": 9, "topic_zh": "商業法", "topic_en": "商業法", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4考試中，商業法通常會點樣考核？", "question_en": "ITIL 4考試中，商業法通常會點樣考核？", "options_zh": ["市場營銷策略", "商業法嘅核心原則同應用", "生產流程優化", "人力資源管理"], "options_en": ["Marketing strategy", "Core principles and applications of 商業法", "Production process optimization", "Human resource management"], "answer": 1, "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。", "explanation_en": "This question tests your understanding of ACCA 商業法.", "difficulty": 1}, {"id": 11, "topic_zh": "審計與鑑證", "topic_en": "審計與鑑證", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4考試中，審計與鑑證通常會點樣考核？", "question_en": "ITIL 4考試中，審計與鑑證通常會點樣考核？", "options_zh": ["市場營銷策略", "人力資源管理", "審計與鑑證嘅核心原則同應用", "生產流程優化"], "options_en": ["Marketing strategy", "Human resource management", "Core principles and applications of 審計與鑑證", "Production process optimization"], "answer": 2, "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。", "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.", "difficulty": 2}, {"id": 12, "topic_zh": "財務管理", "topic_en": "財務管理", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4服務管理中，財務管理嘅重要性體現喺邊度？", "question_en": "喺ITIL 4服務管理中，財務管理嘅重要性體現喺邊度？", "options_zh": ["人力資源管理", "財務管理嘅核心原則同應用", "市場營銷策略", "生產流程優化"], "options_en": ["Human resource management", "Core principles and applications of 財務管理", "Marketing strategy", "Production process optimization"], "answer": 1, "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。", "explanation_en": "This question tests your understanding of ACCA 財務管理.", "difficulty": 1}, {"id": 13, "topic_zh": "財務管理", "topic_en": "財務管理", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4 Foundation考試中，財務管理嘅核心概念包括邊啲？", "question_en": "ITIL 4 Foundation考試中，財務管理嘅核心概念包括邊啲？", "options_zh": ["財務管理嘅核心原則同應用", "生產流程優化", "人力資源管理", "市場營銷策略"], "options_en": ["Core principles and applications of 財務管理", "Production process optimization", "Human resource management", "Marketing strategy"], "answer": 0, "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。", "explanation_en": "This question tests your understanding of ACCA 財務管理.", "difficulty": 3}, {"id": 14, "topic_zh": "商業法", "topic_en": "商業法", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "關於ITIL 4嘅商業法，以下邊項描述最準確？", "question_en": "關於ITIL 4嘅商業法，以下邊項描述最準確？", "options_zh": ["生產流程優化", "市場營銷策略", "商業法嘅核心原則同應用", "人力資源管理"], "options_en": ["Production process optimization", "Marketing strategy", "Core principles and applications of 商業法", "Human resource management"], "answer": 2, "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。", "explanation_en": "This question tests your understanding of ACCA 商業法.", "difficulty": 2}, {"id": 15, "topic_zh": "稅務", "topic_en": "稅務", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4考試中，稅務通常會點樣考核？", "question_en": "ITIL 4考試中，稅務通常會點樣考核？", "options_zh": ["市場營銷策略", "生產流程優化", "稅務嘅核心原則同應用", "人力資源管理"], "options_en": ["Marketing strategy", "Production process optimization", "Core principles and applications of 稅務", "Human resource management"], "answer": 2, "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。", "explanation_en": "This question tests your understanding of ACCA 稅務.", "difficulty": 2}, {"id": 16, "topic_zh": "管理會計", "topic_en": "管理會計", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4考試中，管理會計通常會點樣考核？", "question_en": "ITIL 4考試中，管理會計通常會點樣考核？", "options_zh": ["人力資源管理", "市場營銷策略", "管理會計嘅核心原則同應用", "生產流程優化"], "options_en": ["Human resource management", "Marketing strategy", "Core principles and applications of 管理會計", "Production process optimization"], "answer": 2, "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。", "explanation_en": "This question tests your understanding of ACCA 管理會計.", "difficulty": 3}, {"id": 18, "topic_zh": "財務會計", "topic_en": "財務會計", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4 Foundation考試中，財務會計嘅核心概念包括邊啲？", "question_en": "ITIL 4 Foundation考試中，財務會計嘅核心概念包括邊啲？", "options_zh": ["人力資源管理", "財務會計嘅核心原則同應用", "市場營銷策略", "生產流程優化"], "options_en": ["Human resource management", "Core principles and applications of 財務會計", "Marketing strategy", "Production process optimization"], "answer": 1, "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。", "explanation_en": "This question tests your understanding of ACCA 財務會計.", "difficulty": 3}, {"id": 19, "topic_zh": "稅務", "topic_en": "稅務", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4服務管理中，稅務嘅重要性體現喺邊度？", "question_en": "喺ITIL 4服務管理中，稅務嘅重要性體現喺邊度？", "options_zh": ["市場營銷策略", "稅務嘅核心原則同應用", "生產流程優化", "人力資源管理"], "options_en": ["Marketing strategy", "Core principles and applications of 稅務", "Production process optimization", "Human resource management"], "answer": 1, "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。", "explanation_en": "This question tests your understanding of ACCA 稅務.", "difficulty": 3}, {"id": 24, "topic_zh": "財務會計", "topic_en": "財務會計", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "關於ITIL 4嘅財務會計，以下邊項描述最準確？", "question_en": "關於ITIL 4嘅財務會計，以下邊項描述最準確？", "options_zh": ["財務會計嘅核心原則同應用", "人力資源管理", "生產流程優化", "市場營銷策略"], "options_en": ["Core principles and applications of 財務會計", "Human resource management", "Production process optimization", "Marketing strategy"], "answer": 0, "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。", "explanation_en": "This question tests your understanding of ACCA 財務會計.", "difficulty": 2}, {"id": 26, "topic_zh": "財務會計", "topic_en": "財務會計", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4服務管理中，財務會計嘅重要性體現喺邊度？", "question_en": "喺ITIL 4服務管理中，財務會計嘅重要性體現喺邊度？", "options_zh": ["市場營銷策略", "人力資源管理", "生產流程優化", "財務會計嘅核心原則同應用"], "options_en": ["Marketing strategy", "Human resource management", "Production process optimization", "Core principles and applications of 財務會計"], "answer": 3, "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。", "explanation_en": "This question tests your understanding of ACCA 財務會計.", "difficulty": 3}, {"id": 27, "topic_zh": "商業法", "topic_en": "商業法", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4 Foundation考試中，商業法嘅核心概念包括邊啲？", "question_en": "ITIL 4 Foundation考試中，商業法嘅核心概念包括邊啲？", "options_zh": ["生產流程優化", "商業法嘅核心原則同應用", "人力資源管理", "市場營銷策略"], "options_en": ["Production process optimization", "Core principles and applications of 商業法", "Human resource management", "Marketing strategy"], "answer": 1, "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。", "explanation_en": "This question tests your understanding of ACCA 商業法.", "difficulty": 2}, {"id": 30, "topic_zh": "稅務", "topic_en": "稅務", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？", "question_en": "ITIL 4 Foundation考試中，稅務嘅核心概念包括邊啲？", "options_zh": ["人力資源管理", "稅務嘅核心原則同應用", "生產流程優化", "市場營銷策略"], "options_en": ["Human resource management", "Core principles and applications of 稅務", "Production process optimization", "Marketing strategy"], "answer": 1, "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。", "explanation_en": "This question tests your understanding of ACCA 稅務.", "difficulty": 1}, {"id": 32, "topic_zh": "審計與鑑證", "topic_en": "審計與鑑證", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？", "question_en": "ITIL 4 Foundation考試中，審計與鑑證嘅核心概念包括邊啲？", "options_zh": ["生產流程優化", "人力資源管理", "審計與鑑證嘅核心原則同應用", "市場營銷策略"], "options_en": ["Production process optimization", "Human resource management", "Core principles and applications of 審計與鑑證", "Marketing strategy"], "answer": 2, "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。", "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.", "difficulty": 3}, {"id": 33, "topic_zh": "財務管理", "topic_en": "財務管理", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4考試中，關於財務管理，以下邊項係正確嘅？", "question_en": "喺ITIL 4考試中，關於財務管理，以下邊項係正確嘅？", "options_zh": ["人力資源管理", "市場營銷策略", "財務管理嘅核心原則同應用", "生產流程優化"], "options_en": ["Human resource management", "Marketing strategy", "Core principles and applications of 財務管理", "Production process optimization"], "answer": 2, "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。", "explanation_en": "This question tests your understanding of ACCA 財務管理.", "difficulty": 1}, {"id": 34, "topic_zh": "財務管理", "topic_en": "財務管理", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "關於ITIL 4嘅財務管理，以下邊項描述最準確？", "question_en": "關於ITIL 4嘅財務管理，以下邊項描述最準確？", "options_zh": ["市場營銷策略", "財務管理嘅核心原則同應用", "生產流程優化", "人力資源管理"], "options_en": ["Marketing strategy", "Core principles and applications of 財務管理", "Production process optimization", "Human resource management"], "answer": 1, "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。", "explanation_en": "This question tests your understanding of ACCA 財務管理.", "difficulty": 1}, {"id": 39, "topic_zh": "商業法", "topic_en": "商業法", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4考試中，關於商業法，以下邊項係正確嘅？", "question_en": "喺ITIL 4考試中，關於商業法，以下邊項係正確嘅？", "options_zh": ["人力資源管理", "市場營銷策略", "生產流程優化", "商業法嘅核心原則同應用"], "options_en": ["Human resource management", "Marketing strategy", "Production process optimization", "Core principles and applications of 商業法"], "answer": 3, "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。", "explanation_en": "This question tests your understanding of ACCA 商業法.", "difficulty": 2}, {"id": 41, "topic_zh": "財務管理", "topic_en": "財務管理", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4考試中，財務管理通常會點樣考核？", "question_en": "ITIL 4考試中，財務管理通常會點樣考核？", "options_zh": ["財務管理嘅核心原則同應用", "人力資源管理", "市場營銷策略", "生產流程優化"], "options_en": ["Core principles and applications of 財務管理", "Human resource management", "Marketing strategy", "Production process optimization"], "answer": 0, "explanation_zh": "呢個問題測試你對ACCA 財務管理嘅理解。", "explanation_en": "This question tests your understanding of ACCA 財務管理.", "difficulty": 2}, {"id": 47, "topic_zh": "管理會計", "topic_en": "管理會計", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4考試中，關於管理會計，以下邊項係正確嘅？", "question_en": "喺ITIL 4考試中，關於管理會計，以下邊項係正確嘅？", "options_zh": ["市場營銷策略", "管理會計嘅核心原則同應用", "人力資源管理", "生產流程優化"], "options_en": ["Marketing strategy", "Core principles and applications of 管理會計", "Human resource management", "Production process optimization"], "answer": 1, "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。", "explanation_en": "This question tests your understanding of ACCA 管理會計.", "difficulty": 3}, {"id": 51, "topic_zh": "審計與鑑證", "topic_en": "審計與鑑證", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4考試中，關於審計與鑑證，以下邊項係正確嘅？", "question_en": "喺ITIL 4考試中，關於審計與鑑證，以下邊項係正確嘅？", "options_zh": ["市場營銷策略", "審計與鑑證嘅核心原則同應用", "生產流程優化", "人力資源管理"], "options_en": ["Marketing strategy", "Core principles and applications of 審計與鑑證", "Production process optimization", "Human resource management"], "answer": 1, "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。", "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.", "difficulty": 3}, {"id": 56, "topic_zh": "財務會計", "topic_en": "財務會計", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4考試中，財務會計通常會點樣考核？", "question_en": "ITIL 4考試中，財務會計通常會點樣考核？", "options_zh": ["人力資源管理", "財務會計嘅核心原則同應用", "市場營銷策略", "生產流程優化"], "options_en": ["Human resource management", "Core principles and applications of 財務會計", "Marketing strategy", "Production process optimization"], "answer": 1, "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。", "explanation_en": "This question tests your understanding of ACCA 財務會計.", "difficulty": 3}, {"id": 73, "topic_zh": "財務會計", "topic_en": "財務會計", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？", "question_en": "喺ITIL 4考試中，關於財務會計，以下邊項係正確嘅？", "options_zh": ["人力資源管理", "市場營銷策略", "生產流程優化", "財務會計嘅核心原則同應用"], "options_en": ["Human resource management", "Marketing strategy", "Production process optimization", "Core principles and applications of 財務會計"], "answer": 3, "explanation_zh": "呢個問題測試你對ACCA 財務會計嘅理解。", "explanation_en": "This question tests your understanding of ACCA 財務會計.", "difficulty": 1}, {"id": 76, "topic_zh": "稅務", "topic_en": "稅務", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4考試中，關於稅務，以下邊項係正確嘅？", "question_en": "喺ITIL 4考試中，關於稅務，以下邊項係正確嘅？", "options_zh": ["市場營銷策略", "人力資源管理", "稅務嘅核心原則同應用", "生產流程優化"], "options_en": ["Marketing strategy", "Human resource management", "Core principles and applications of 稅務", "Production process optimization"], "answer": 2, "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。", "explanation_en": "This question tests your understanding of ACCA 稅務.", "difficulty": 1}, {"id": 77, "topic_zh": "管理會計", "topic_en": "管理會計", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "關於ITIL 4嘅管理會計，以下邊項描述最準確？", "question_en": "關於ITIL 4嘅管理會計，以下邊項描述最準確？", "options_zh": ["生產流程優化", "管理會計嘅核心原則同應用", "市場營銷策略", "人力資源管理"], "options_en": ["Production process optimization", "Core principles and applications of 管理會計", "Marketing strategy", "Human resource management"], "answer": 1, "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。", "explanation_en": "This question tests your understanding of ACCA 管理會計.", "difficulty": 3}, {"id": 78, "topic_zh": "管理會計", "topic_en": "管理會計", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4 Foundation考試中，管理會計嘅核心概念包括邊啲？", "question_en": "ITIL 4 Foundation考試中，管理會計嘅核心概念包括邊啲？", "options_zh": ["生產流程優化", "人力資源管理", "管理會計嘅核心原則同應用", "市場營銷策略"], "options_en": ["Production process optimization", "Human resource management", "Core principles and applications of 管理會計", "Marketing strategy"], "answer": 2, "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。", "explanation_en": "This question tests your understanding of ACCA 管理會計.", "difficulty": 1}, {"id": 81, "topic_zh": "商業法", "topic_en": "商業法", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4服務管理中，商業法嘅重要性體現喺邊度？", "question_en": "喺ITIL 4服務管理中，商業法嘅重要性體現喺邊度？", "options_zh": ["商業法嘅核心原則同應用", "生產流程優化", "人力資源管理", "市場營銷策略"], "options_en": ["Core principles and applications of 商業法", "Production process optimization", "Human resource management", "Marketing strategy"], "answer": 0, "explanation_zh": "呢個問題測試你對ACCA 商業法嘅理解。", "explanation_en": "This question tests your understanding of ACCA 商業法.", "difficulty": 2}, {"id": 93, "topic_zh": "審計與鑑證", "topic_en": "審計與鑑證", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "關於ITIL 4嘅審計與鑑證，以下邊項描述最準確？", "question_en": "關於ITIL 4嘅審計與鑑證，以下邊項描述最準確？", "options_zh": ["審計與鑑證嘅核心原則同應用", "人力資源管理", "市場營銷策略", "生產流程優化"], "options_en": ["Core principles and applications of 審計與鑑證", "Human resource management", "Marketing strategy", "Production process optimization"], "answer": 0, "explanation_zh": "呢個問題測試你對ACCA 審計與鑑證嘅理解。", "explanation_en": "This question tests your understanding of ACCA 審計與鑑證.", "difficulty": 3}, {"id": 137, "topic_zh": "稅務", "topic_en": "稅務", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "關於ITIL 4嘅稅務，以下邊項描述最準確？", "question_en": "關於ITIL 4嘅稅務，以下邊項描述最準確？", "options_zh": ["市場營銷策略", "人力資源管理", "稅務嘅核心原則同應用", "生產流程優化"], "options_en": ["Marketing strategy", "Human resource management", "Core principles and applications of 稅務", "Production process optimization"], "answer": 2, "explanation_zh": "呢個問題測試你對ACCA 稅務嘅理解。", "explanation_en": "This question tests your understanding of ACCA 稅務.", "difficulty": 3}, {"id": 151, "topic_zh": "管理會計", "topic_en": "管理會計", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4服務管理中，管理會計嘅重要性體現喺邊度？", "question_en": "喺ITIL 4服務管理中，管理會計嘅重要性體現喺邊度？", "options_zh": ["市場營銷策略", "管理會計嘅核心原則同應用", "人力資源管理", "生產流程優化"], "options_en": ["Marketing strategy", "Core principles and applications of 管理會計", "Human resource management", "Production process optimization"], "answer": 1, "explanation_zh": "呢個問題測試你對ACCA 管理會計嘅理解。", "explanation_en": "This question tests your understanding of ACCA 管理會計.", "difficulty": 1}]
+[
+  {
+    "topic_zh": "財務會計",
+    "topic_en": "Financial Accounting",
+    "subtopic_zh": "IAS/IFRS 準則",
+    "subtopic_en": "IAS/IFRS Standards",
+    "question_zh": "IFRS 16租賃準則下，承租人需要確認咩資產？",
+    "question_en": "IFRS 16租賃準則下，承租人需要確認咩資產？",
+    "options_zh": [
+      "使用權資產",
+      "唔需要確認任何資產",
+      "僅融資租賃資產",
+      "經營租賃資產"
+    ],
+    "options_en": [
+      "使用權資產",
+      "唔需要確認任何資產",
+      "僅融資租賃資產",
+      "經營租賃資產"
+    ],
+    "answer": 0,
+    "explanation_zh": "IFRS 16取消咗承租人嘅融資/經營租賃區分，要求確認使用權資產同租賃負債。",
+    "explanation_en": "IFRS 16取消咗承租人嘅融資/經營租賃區分，要求確認使用權資產同租賃負債。",
+    "difficulty": 2,
+    "id": 1
+  },
+  {
+    "topic_zh": "審計與鑑證",
+    "topic_en": "Audit & Assurance",
+    "subtopic_zh": "審計計劃",
+    "subtopic_en": "Audit Planning",
+    "question_zh": "如果評估嘅重大錯報風險較高，審計師應該點做？",
+    "question_en": "如果評估嘅重大錯報風險較高，審計師應該點做？",
+    "options_zh": [
+      "增加審計程序嘅範圍同深度",
+      "減少審計程序",
+      "直接出具保留意見",
+      "唔需要調整"
+    ],
+    "options_en": [
+      "增加審計程序嘅範圍同深度",
+      "減少審計程序",
+      "直接出具保留意見",
+      "唔需要調整"
+    ],
+    "answer": 0,
+    "explanation_zh": "風險較高時，審計師應增加實質性程序嘅範圍、時間同深度。",
+    "explanation_en": "風險較高時，審計師應增加實質性程序嘅範圍、時間同深度。",
+    "difficulty": 2,
+    "id": 2
+  },
+  {
+    "topic_zh": "財務會計",
+    "topic_en": "Financial Accounting",
+    "subtopic_zh": "財務報表編制",
+    "subtopic_en": "Financial Statement Preparation",
+    "question_zh": "以下邊項係營運資金嘅組成部分？",
+    "question_en": "以下邊項係營運資金嘅組成部分？",
+    "options_zh": [
+      "長期借款",
+      "長期投資",
+      "應付賬款",
+      "股本"
+    ],
+    "options_en": [
+      "長期借款",
+      "長期投資",
+      "應付賬款",
+      "股本"
+    ],
+    "answer": 2,
+    "explanation_zh": "營運資金 = 流動資產 - 流動負債。應付賬款屬於流動負債。",
+    "explanation_en": "營運資金 = 流動資產 - 流動負債。應付賬款屬於流動負債。",
+    "difficulty": 2,
+    "id": 3
+  },
+  {
+    "topic_zh": "管理會計",
+    "topic_en": "Management Accounting",
+    "subtopic_zh": "成本分類",
+    "subtopic_en": "Cost Classification",
+    "question_zh": "機會成本係指咩？",
+    "question_en": "機會成本係指咩？",
+    "options_zh": [
+      "標準成本",
+      "放棄最佳替代方案嘅價值",
+      "預算成本",
+      "實際支付嘅成本"
+    ],
+    "options_en": [
+      "標準成本",
+      "放棄最佳替代方案嘅價值",
+      "預算成本",
+      "實際支付嘅成本"
+    ],
+    "answer": 1,
+    "explanation_zh": "機會成本係選擇某方案時放棄嘅最佳替代方案嘅價值。",
+    "explanation_en": "機會成本係選擇某方案時放棄嘅最佳替代方案嘅價值。",
+    "difficulty": 2,
+    "id": 4
+  },
+  {
+    "topic_zh": "管理會計",
+    "topic_en": "Management Accounting",
+    "subtopic_zh": "成本分類",
+    "subtopic_en": "Cost Classification",
+    "question_zh": "階梯式成本嘅特點係咩？",
+    "question_en": "階梯式成本嘅特點係咩？",
+    "options_zh": [
+      "隨產量連續變化",
+      "完全變動",
+      "喺一定範圍內固定，超過後跳升",
+      "完全固定"
+    ],
+    "options_en": [
+      "隨產量連續變化",
+      "完全變動",
+      "喺一定範圍內固定，超過後跳升",
+      "完全固定"
+    ],
+    "answer": 2,
+    "explanation_zh": "階梯式成本喺一定業務量範圍內保持固定，超過該範圍後跳升到新水平。",
+    "explanation_en": "階梯式成本喺一定業務量範圍內保持固定，超過該範圍後跳升到新水平。",
+    "difficulty": 2,
+    "id": 5
+  },
+  {
+    "topic_zh": "管理會計",
+    "topic_en": "Management Accounting",
+    "subtopic_zh": "本量利分析",
+    "subtopic_en": "CVP Analysis",
+    "question_zh": "邊際貢獻等於咩？",
+    "question_en": "邊際貢獻等於咩？",
+    "options_zh": [
+      "收入 - 所有成本",
+      "收入 - 變動成本",
+      "利潤 + 固定成本",
+      "收入 - 固定成本"
+    ],
+    "options_en": [
+      "收入 - 所有成本",
+      "收入 - 變動成本",
+      "利潤 + 固定成本",
+      "收入 - 固定成本"
+    ],
+    "answer": 1,
+    "explanation_zh": "邊際貢獻 = 銷售收入 - 變動成本。",
+    "explanation_en": "邊際貢獻 = 銷售收入 - 變動成本。",
+    "difficulty": 2,
+    "id": 6
+  },
+  {
+    "topic_zh": "財務會計",
+    "topic_en": "Financial Accounting",
+    "subtopic_zh": "財務報表編制",
+    "subtopic_en": "Financial Statement Preparation",
+    "question_zh": "會計政策變更應該點處理？",
+    "question_en": "會計政策變更應該點處理？",
+    "options_zh": [
+      "追溯調整",
+      "僅披露",
+      "僅調整當期",
+      "唔需要處理"
+    ],
+    "options_en": [
+      "追溯調整",
+      "僅披露",
+      "僅調整當期",
+      "唔需要處理"
+    ],
+    "answer": 0,
+    "explanation_zh": "根據IAS 8，會計政策變更一般需要追溯調整。",
+    "explanation_en": "根據IAS 8，會計政策變更一般需要追溯調整。",
+    "difficulty": 2,
+    "id": 7
+  },
+  {
+    "topic_zh": "管理會計",
+    "topic_en": "Management Accounting",
+    "subtopic_zh": "成本分類",
+    "subtopic_en": "Cost Classification",
+    "question_zh": "廠房租金屬於邊種成本類型？",
+    "question_en": "廠房租金屬於邊種成本類型？",
+    "options_zh": [
+      "固定成本",
+      "邊際成本",
+      "半變動成本",
+      "變動成本"
+    ],
+    "options_en": [
+      "固定成本",
+      "邊際成本",
+      "半變動成本",
+      "變動成本"
+    ],
+    "answer": 0,
+    "explanation_zh": "廠房租金一般係固定成本，唔隨產量變化。",
+    "explanation_en": "廠房租金一般係固定成本，唔隨產量變化。",
+    "difficulty": 2,
+    "id": 8
+  },
+  {
+    "topic_zh": "管理會計",
+    "topic_en": "Management Accounting",
+    "subtopic_zh": "成本分類",
+    "subtopic_en": "Cost Classification",
+    "question_zh": "以下邊項屬於間接成本？",
+    "question_en": "以下邊項屬於間接成本？",
+    "options_zh": [
+      "直接材料",
+      "銷售佣金",
+      "直接人工",
+      "工廠間接費用"
+    ],
+    "options_en": [
+      "直接材料",
+      "銷售佣金",
+      "直接人工",
+      "工廠間接費用"
+    ],
+    "answer": 3,
+    "explanation_zh": "工廠間接費用（如水電費、折舊）無法直接追溯到特定產品，屬於間接成本。",
+    "explanation_en": "工廠間接費用（如水電費、折舊）無法直接追溯到特定產品，屬於間接成本。",
+    "difficulty": 2,
+    "id": 9
+  },
+  {
+    "topic_zh": "商業法",
+    "topic_en": "Business Law",
+    "subtopic_zh": "合同法",
+    "subtopic_en": "Contract Law",
+    "question_zh": "違約嘅主要救濟方式包括邊啲？",
+    "question_en": "違約嘅主要救濟方式包括邊啲？",
+    "options_zh": [
+      "損害賠償、特定履行、禁制令",
+      "僅道歉",
+      "僅終止合同",
+      "僅損害賠償"
+    ],
+    "options_en": [
+      "損害賠償、特定履行、禁制令",
+      "僅道歉",
+      "僅終止合同",
+      "僅損害賠償"
+    ],
+    "answer": 0,
+    "explanation_zh": "違約救濟包括損害賠償、特定履行（specific performance）、禁制令等。",
+    "explanation_en": "違約救濟包括損害賠償、特定履行（specific performance）、禁制令等。",
+    "difficulty": 2,
+    "id": 10
+  },
+  {
+    "topic_zh": "管理會計",
+    "topic_en": "Management Accounting",
+    "subtopic_zh": "本量利分析",
+    "subtopic_en": "CVP Analysis",
+    "question_zh": "邊際貢獻率為60%，固定成本為$120,000，盈虧平衡收入係幾多？",
+    "question_en": "邊際貢獻率為60%，固定成本為$120,000，盈虧平衡收入係幾多？",
+    "options_zh": [
+      "$180,000",
+      "$200,000",
+      "$300,000",
+      "$72,000"
+    ],
+    "options_en": [
+      "$180,000",
+      "$200,000",
+      "$300,000",
+      "$72,000"
+    ],
+    "answer": 1,
+    "explanation_zh": "盈虧平衡收入 = 固定成本 / 邊際貢獻率 = $120,000 / 60% = $200,000。",
+    "explanation_en": "盈虧平衡收入 = 固定成本 / 邊際貢獻率 = $120,000 / 60% = $200,000。",
+    "difficulty": 2,
+    "id": 11
+  },
+  {
+    "topic_zh": "管理會計",
+    "topic_en": "Management Accounting",
+    "subtopic_zh": "成本分類",
+    "subtopic_en": "Cost Classification",
+    "question_zh": "作業成本法（ABC）嘅基本理念係咩？",
+    "question_en": "作業成本法（ABC）嘅基本理念係咩？",
+    "options_zh": [
+      "按人工小時分配間接費",
+      "按機器小時分配間接費",
+      "按產量分配間接費",
+      "產品消耗作業，作業消耗資源"
+    ],
+    "options_en": [
+      "按人工小時分配間接費",
+      "按機器小時分配間接費",
+      "按產量分配間接費",
+      "產品消耗作業，作業消耗資源"
+    ],
+    "answer": 3,
+    "explanation_zh": "ABC嘅核心理念：產品消耗作業（activities），作業消耗資源（resources）。",
+    "explanation_en": "ABC嘅核心理念：產品消耗作業（activities），作業消耗資源（resources）。",
+    "difficulty": 2,
+    "id": 12
+  },
+  {
+    "topic_zh": "財務會計",
+    "topic_en": "Financial Accounting",
+    "subtopic_zh": "財務報表編制",
+    "subtopic_en": "Financial Statement Preparation",
+    "question_zh": "以下邊項唔屬於所有者權益？",
+    "question_en": "以下邊項唔屬於所有者權益？",
+    "options_zh": [
+      "股本",
+      "資本公積",
+      "應付股利",
+      "留存收益"
+    ],
+    "options_en": [
+      "股本",
+      "資本公積",
+      "應付股利",
+      "留存收益"
+    ],
+    "answer": 2,
+    "explanation_zh": "應付股利係負債，唔係所有者權益。",
+    "explanation_en": "應付股利係負債，唔係所有者權益。",
+    "difficulty": 2,
+    "id": 13
+  },
+  {
+    "topic_zh": "財務會計",
+    "topic_en": "Financial Accounting",
+    "subtopic_zh": "IAS/IFRS 準則",
+    "subtopic_en": "IAS/IFRS Standards",
+    "question_zh": "IAS 40投資物業可以用邊兩種模式計量？",
+    "question_en": "IAS 40投資物業可以用邊兩種模式計量？",
+    "options_zh": [
+      "歷史成本同重置成本",
+      "賬面值同評估值",
+      "成本模式同公允價值模式",
+      "淨現值同市場價值"
+    ],
+    "options_en": [
+      "歷史成本同重置成本",
+      "賬面值同評估值",
+      "成本模式同公允價值模式",
+      "淨現值同市場價值"
+    ],
+    "answer": 2,
+    "explanation_zh": "IAS 40允許企業選擇成本模式或公允價值模式計量投資物業。",
+    "explanation_en": "IAS 40允許企業選擇成本模式或公允價值模式計量投資物業。",
+    "difficulty": 2,
+    "id": 14
+  },
+  {
+    "topic_zh": "財務管理",
+    "topic_en": "Financial Management",
+    "subtopic_zh": "投資評估",
+    "subtopic_en": "Investment Appraisal",
+    "question_zh": "淨現值法（NPV）嘅決策準則係咩？",
+    "question_en": "淨現值法（NPV）嘅決策準則係咩？",
+    "options_zh": [
+      "NPV 唔影響決策",
+      "NPV > 0 時接受",
+      "NPV = 0 時拒絕",
+      "NPV < 0 時接受"
+    ],
+    "options_en": [
+      "NPV 唔影響決策",
+      "NPV > 0 時接受",
+      "NPV = 0 時拒絕",
+      "NPV < 0 時接受"
+    ],
+    "answer": 1,
+    "explanation_zh": "NPV > 0 表示項目創造價值，應接受；NPV < 0 應拒絕。",
+    "explanation_en": "NPV > 0 表示項目創造價值，應接受；NPV < 0 應拒絕。",
+    "difficulty": 2,
+    "id": 15
+  },
+  {
+    "topic_zh": "管理會計",
+    "topic_en": "Management Accounting",
+    "subtopic_zh": "成本分類",
+    "subtopic_en": "Cost Classification",
+    "question_zh": "沉沒成本嘅定義係咩？",
+    "question_en": "沉沒成本嘅定義係咩？",
+    "options_zh": [
+      "已經發生無法收回嘅成本",
+      "可以避免嘅成本",
+      "未來會發生嘅成本",
+      "隨產量變化嘅成本"
+    ],
+    "options_en": [
+      "已經發生無法收回嘅成本",
+      "可以避免嘅成本",
+      "未來會發生嘅成本",
+      "隨產量變化嘅成本"
+    ],
+    "answer": 0,
+    "explanation_zh": "沉沒成本係已經發生、無法收回嘅成本，唔應該影響未來決策。",
+    "explanation_en": "沉沒成本係已經發生、無法收回嘅成本，唔應該影響未來決策。",
+    "difficulty": 2,
+    "id": 16
+  },
+  {
+    "topic_zh": "商業法",
+    "topic_en": "Business Law",
+    "subtopic_zh": "合同法",
+    "subtopic_en": "Contract Law",
+    "question_zh": "對價原則要求咩？",
+    "question_en": "對價原則要求咩？",
+    "options_zh": [
+      "只需要書面記錄",
+      "對價必須係金錢",
+      "雙方付出相等價值",
+      "每個承諾必須有對價支持"
+    ],
+    "options_en": [
+      "只需要書面記錄",
+      "對價必須係金錢",
+      "雙方付出相等價值",
+      "每個承諾必須有對價支持"
+    ],
+    "answer": 3,
+    "explanation_zh": "對價原則要求每個可執行嘅承諾必須有對價支持，但唔要求價值相等。",
+    "explanation_en": "對價原則要求每個可執行嘅承諾必須有對價支持，但唔要求價值相等。",
+    "difficulty": 2,
+    "id": 17
+  },
+  {
+    "topic_zh": "管理會計",
+    "topic_en": "Management Accounting",
+    "subtopic_zh": "本量利分析",
+    "subtopic_en": "CVP Analysis",
+    "question_zh": "盈虧平衡點嘅計算公式係咩？",
+    "question_en": "盈虧平衡點嘅計算公式係咩？",
+    "options_zh": [
+      "總收入 / 總成本",
+      "變動成本 / 單價",
+      "固定成本 / 單位邊際貢獻",
+      "利潤 / 邊際貢獻率"
+    ],
+    "options_en": [
+      "總收入 / 總成本",
+      "變動成本 / 單價",
+      "固定成本 / 單位邊際貢獻",
+      "利潤 / 邊際貢獻率"
+    ],
+    "answer": 2,
+    "explanation_zh": "盈虧平衡點（單位）= 固定成本 / 單位邊際貢獻。",
+    "explanation_en": "盈虧平衡點（單位）= 固定成本 / 單位邊際貢獻。",
+    "difficulty": 2,
+    "id": 18
+  },
+  {
+    "topic_zh": "管理會計",
+    "topic_en": "Management Accounting",
+    "subtopic_zh": "本量利分析",
+    "subtopic_en": "CVP Analysis",
+    "question_zh": "目標利潤分析中，實現目標利潤所需銷售量嘅公式係咩？",
+    "question_en": "目標利潤分析中，實現目標利潤所需銷售量嘅公式係咩？",
+    "options_zh": [
+      "目標利潤 / 邊際貢獻率",
+      "(固定成本 + 目標利潤) / 單位邊際貢獻",
+      "固定成本 / 單位邊際貢獻",
+      "目標利潤 / 單價"
+    ],
+    "options_en": [
+      "目標利潤 / 邊際貢獻率",
+      "(固定成本 + 目標利潤) / 單位邊際貢獻",
+      "固定成本 / 單位邊際貢獻",
+      "目標利潤 / 單價"
+    ],
+    "answer": 1,
+    "explanation_zh": "銷售量 = (固定成本 + 目標稅前利潤) / 單位邊際貢獻。",
+    "explanation_en": "銷售量 = (固定成本 + 目標稅前利潤) / 單位邊際貢獻。",
+    "difficulty": 2,
+    "id": 19
+  },
+  {
+    "topic_zh": "稅務",
+    "topic_en": "Taxation",
+    "subtopic_zh": "個人入息稅",
+    "subtopic_en": "Personal Income Tax",
+    "question_zh": "物業稅嘅稅率係幾多？",
+    "question_en": "物業稅嘅稅率係幾多？",
+    "options_zh": [
+      "16.5%",
+      "8.25%",
+      "15%",
+      "應評稅淨值嘅標準稅率"
+    ],
+    "options_en": [
+      "16.5%",
+      "8.25%",
+      "15%",
+      "應評稅淨值嘅標準稅率"
+    ],
+    "answer": 3,
+    "explanation_zh": "物業稅按應評稅淨值（租金收入減20%修葺免稅額）以標準稅率徵收。",
+    "explanation_en": "物業稅按應評稅淨值（租金收入減20%修葺免稅額）以標準稅率徵收。",
+    "difficulty": 2,
+    "id": 20
+  },
+  {
+    "topic_zh": "管理會計",
+    "topic_en": "Management Accounting",
+    "subtopic_zh": "本量利分析",
+    "subtopic_en": "CVP Analysis",
+    "question_zh": "以下邊項唔係CVP分析嘅假設？",
+    "question_en": "以下邊項唔係CVP分析嘅假設？",
+    "options_zh": [
+      "收入同成本呈線性關係",
+      "考慮時間價值",
+      "產品組合保持不變",
+      "成本分為固定同變動"
+    ],
+    "options_en": [
+      "收入同成本呈線性關係",
+      "考慮時間價值",
+      "產品組合保持不變",
+      "成本分為固定同變動"
+    ],
+    "answer": 1,
+    "explanation_zh": "CVP分析唔考慮貨幣時間價值，呢個係其局限之一。",
+    "explanation_en": "CVP分析唔考慮貨幣時間價值，呢個係其局限之一。",
+    "difficulty": 2,
+    "id": 21
+  },
+  {
+    "topic_zh": "審計與鑑證",
+    "topic_en": "Audit & Assurance",
+    "subtopic_zh": "審計計劃",
+    "subtopic_en": "Audit Planning",
+    "question_zh": "審計工作底稿嘅目的包括邊啲？",
+    "question_en": "審計工作底稿嘅目的包括邊啲？",
+    "options_zh": [
+      "僅記錄審計發現",
+      "取代審計報告",
+      "僅供稅務機關查閱",
+      "提供審計意見嘅基礎同質量控制"
+    ],
+    "options_en": [
+      "僅記錄審計發現",
+      "取代審計報告",
+      "僅供稅務機關查閱",
+      "提供審計意見嘅基礎同質量控制"
+    ],
+    "answer": 3,
+    "explanation_zh": "工作底稿提供審計意見嘅基礎、記錄已完成嘅工作、支持質量控制覆核。",
+    "explanation_en": "工作底稿提供審計意見嘅基礎、記錄已完成嘅工作、支持質量控制覆核。",
+    "difficulty": 2,
+    "id": 22
+  },
+  {
+    "topic_zh": "財務會計",
+    "topic_en": "Financial Accounting",
+    "subtopic_zh": "財務報表編制",
+    "subtopic_en": "Financial Statement Preparation",
+    "question_zh": "全面收益表包括邊兩部分？",
+    "question_en": "全面收益表包括邊兩部分？",
+    "options_zh": [
+      "營運同非營運",
+      "資產同負債",
+      "收入同支出",
+      "利潤同其他綜合收益"
+    ],
+    "options_en": [
+      "營運同非營運",
+      "資產同負債",
+      "收入同支出",
+      "利潤同其他綜合收益"
+    ],
+    "answer": 3,
+    "explanation_zh": "全面收益 = 淨利潤 + 其他綜合收益（OCI）。",
+    "explanation_en": "全面收益 = 淨利潤 + 其他綜合收益（OCI）。",
+    "difficulty": 2,
+    "id": 23
+  },
+  {
+    "topic_zh": "財務管理",
+    "topic_en": "Financial Management",
+    "subtopic_zh": "投資評估",
+    "subtopic_en": "Investment Appraisal",
+    "question_zh": "盈利指數（PI）等於咩？",
+    "question_en": "盈利指數（PI）等於咩？",
+    "options_zh": [
+      "現金流入現值 / 現金流出現值",
+      "IRR / 折現率",
+      "NPV / 初始投資",
+      "利潤 / 收入"
+    ],
+    "options_en": [
+      "現金流入現值 / 現金流出現值",
+      "IRR / 折現率",
+      "NPV / 初始投資",
+      "利潤 / 收入"
+    ],
+    "answer": 0,
+    "explanation_zh": "PI = 未來現金流嘅現值 / 初始投資。PI > 1 表示項目可行。",
+    "explanation_en": "PI = 未來現金流嘅現值 / 初始投資。PI > 1 表示項目可行。",
+    "difficulty": 2,
+    "id": 24
+  },
+  {
+    "topic_zh": "管理會計",
+    "topic_en": "Management Accounting",
+    "subtopic_zh": "成本分類",
+    "subtopic_en": "Cost Classification",
+    "question_zh": "邊際成本等於咩？",
+    "question_en": "邊際成本等於咩？",
+    "options_zh": [
+      "固定成本加變動成本",
+      "總成本除以產量",
+      "多生產一單位產品增加嘅總成本",
+      "平均成本"
+    ],
+    "options_en": [
+      "固定成本加變動成本",
+      "總成本除以產量",
+      "多生產一單位產品增加嘅總成本",
+      "平均成本"
+    ],
+    "answer": 2,
+    "explanation_zh": "邊際成本 = 多生產一單位產品所增加嘅總成本。",
+    "explanation_en": "邊際成本 = 多生產一單位產品所增加嘅總成本。",
+    "difficulty": 2,
+    "id": 25
+  },
+  {
+    "topic_zh": "稅務",
+    "topic_en": "Taxation",
+    "subtopic_zh": "個人入息稅",
+    "subtopic_en": "Personal Income Tax",
+    "question_zh": "以下邊項唔屬於薪俸稅嘅免稅額？",
+    "question_en": "以下邊項唔屬於薪俸稅嘅免稅額？",
+    "options_zh": [
+      "已婚人士免稅額",
+      "投資損失",
+      "基本免稅額",
+      "子女免稅額"
+    ],
+    "options_en": [
+      "已婚人士免稅額",
+      "投資損失",
+      "基本免稅額",
+      "子女免稅額"
+    ],
+    "answer": 1,
+    "explanation_zh": "投資損失唔係薪俸稅嘅免稅額，免稅額包括基本、已婚、子女、供養父母等。",
+    "explanation_en": "投資損失唔係薪俸稅嘅免稅額，免稅額包括基本、已婚、子女、供養父母等。",
+    "difficulty": 2,
+    "id": 26
+  },
+  {
+    "topic_zh": "財務會計",
+    "topic_en": "Financial Accounting",
+    "subtopic_zh": "IAS/IFRS 準則",
+    "subtopic_en": "IAS/IFRS Standards",
+    "question_zh": "根據IAS 1，以下邊項唔屬於財務報表嘅組成部分？",
+    "question_en": "根據IAS 1，以下邊項唔屬於財務報表嘅組成部分？",
+    "options_zh": [
+      "資產負債表",
+      "現金流量表",
+      "管理層討論與分析",
+      "權益變動表"
+    ],
+    "options_en": [
+      "資產負債表",
+      "現金流量表",
+      "管理層討論與分析",
+      "權益變動表"
+    ],
+    "answer": 2,
+    "explanation_zh": "IAS 1規定財務報表包括資產負債表、綜合收益表、權益變動表、現金流量表同附註。管理層討論與分析唔係財務報表嘅一部分。",
+    "explanation_en": "IAS 1規定財務報表包括資產負債表、綜合收益表、權益變動表、現金流量表同附註。管理層討論與分析唔係財務報表嘅一部分。",
+    "difficulty": 2,
+    "id": 27
+  },
+  {
+    "topic_zh": "商業法",
+    "topic_en": "Business Law",
+    "subtopic_zh": "合同法",
+    "subtopic_en": "Contract Law",
+    "question_zh": "不可抗力條款嘅作用係咩？",
+    "question_en": "不可抗力條款嘅作用係咩？",
+    "options_zh": [
+      "延長合同期限",
+      "增加賠償",
+      "增加對價",
+      "免除因不可控制事件導致嘅違約責任"
+    ],
+    "options_en": [
+      "延長合同期限",
+      "增加賠償",
+      "增加對價",
+      "免除因不可控制事件導致嘅違約責任"
+    ],
+    "answer": 3,
+    "explanation_zh": "不可抗力條款規定因自然災害、戰爭等不可控制事件導致嘅違約可免責。",
+    "explanation_en": "不可抗力條款規定因自然災害、戰爭等不可控制事件導致嘅違約可免責。",
+    "difficulty": 2,
+    "id": 28
+  },
+  {
+    "topic_zh": "稅務",
+    "topic_en": "Taxation",
+    "subtopic_zh": "個人入息稅",
+    "subtopic_en": "Personal Income Tax",
+    "question_zh": "薪俸稅嘅計算基礎係咩？",
+    "question_en": "薪俸稅嘅計算基礎係咩？",
+    "options_zh": [
+      "毛收入",
+      "總收入",
+      "淨收入",
+      "應評稅入息實額"
+    ],
+    "options_en": [
+      "毛收入",
+      "總收入",
+      "淨收入",
+      "應評稅入息實額"
+    ],
+    "answer": 3,
+    "explanation_zh": "薪俸稅按應評稅入息實額（扣除免稅額同扣除後）計稅。",
+    "explanation_en": "薪俸稅按應評稅入息實額（扣除免稅額同扣除後）計稅。",
+    "difficulty": 2,
+    "id": 29
+  },
+  {
+    "topic_zh": "商業法",
+    "topic_en": "Business Law",
+    "subtopic_zh": "合同法",
+    "subtopic_en": "Contract Law",
+    "question_zh": "限制貿易條款（restraint of trade）嘅法律地位係咩？",
+    "question_en": "限制貿易條款（restraint of trade）嘅法律地位係咩？",
+    "options_zh": [
+      "合理範圍內可執行",
+      "僅口頭有效",
+      "一律無效",
+      "一律有效"
+    ],
+    "options_en": [
+      "合理範圍內可執行",
+      "僅口頭有效",
+      "一律無效",
+      "一律有效"
+    ],
+    "answer": 0,
+    "explanation_zh": "限制貿易條款原則上無效，但如能證明係合理保護商業利益，可以執行。",
+    "explanation_en": "限制貿易條款原則上無效，但如能證明係合理保護商業利益，可以執行。",
+    "difficulty": 2,
+    "id": 30
+  },
+  {
+    "topic_zh": "商業法",
+    "topic_en": "Business Law",
+    "subtopic_zh": "合同法",
+    "subtopic_en": "Contract Law",
+    "question_zh": "電子合同嘅法律效力如何？",
+    "question_en": "電子合同嘅法律效力如何？",
+    "options_zh": [
+      "僅部分有效",
+      "需要公證",
+      "無法律效力",
+      "同書面合同具有同等法律效力"
+    ],
+    "options_en": [
+      "僅部分有效",
+      "需要公證",
+      "無法律效力",
+      "同書面合同具有同等法律效力"
+    ],
+    "answer": 3,
+    "explanation_zh": "根據電子交易條例，電子合同同書面合同具有同等法律效力。",
+    "explanation_en": "根據電子交易條例，電子合同同書面合同具有同等法律效力。",
+    "difficulty": 2,
+    "id": 31
+  },
+  {
+    "topic_zh": "稅務",
+    "topic_en": "Taxation",
+    "subtopic_zh": "個人入息稅",
+    "subtopic_en": "Personal Income Tax",
+    "question_zh": "以下邊種收入係免稅嘅？",
+    "question_en": "以下邊種收入係免稅嘅？",
+    "options_zh": [
+      "利息收入（個人）",
+      "股息收入（個人）",
+      "銀行存款利息",
+      "所有收入都要交稅"
+    ],
+    "options_en": [
+      "利息收入（個人）",
+      "股息收入（個人）",
+      "銀行存款利息",
+      "所有收入都要交稅"
+    ],
+    "answer": 2,
+    "explanation_zh": "香港個人銀行存款利息係免稅嘅（企業除外）。",
+    "explanation_en": "香港個人銀行存款利息係免稅嘅（企業除外）。",
+    "difficulty": 2,
+    "id": 32
+  },
+  {
+    "topic_zh": "商業法",
+    "topic_en": "Business Law",
+    "subtopic_zh": "合同法",
+    "subtopic_en": "Contract Law",
+    "question_zh": "有效合同嘅基本要素包括邊啲？",
+    "question_en": "有效合同嘅基本要素包括邊啲？",
+    "options_zh": [
+      "僅要約同承諾",
+      "僅需要雙方簽名",
+      "僅需要書面協議",
+      "要約、承諾、對價、意圖創建法律關係"
+    ],
+    "options_en": [
+      "僅要約同承諾",
+      "僅需要雙方簽名",
+      "僅需要書面協議",
+      "要約、承諾、對價、意圖創建法律關係"
+    ],
+    "answer": 3,
+    "explanation_zh": "有效合同需要：要約、承諾、對價、意圖創建法律關係、當事人行為能力。",
+    "explanation_en": "有效合同需要：要約、承諾、對價、意圖創建法律關係、當事人行為能力。",
+    "difficulty": 2,
+    "id": 33
+  },
+  {
+    "topic_zh": "商業法",
+    "topic_en": "Business Law",
+    "subtopic_zh": "合同法",
+    "subtopic_en": "Contract Law",
+    "question_zh": "合同中嘅條件（condition）同保證（warranty）嘅區別係咩？",
+    "question_en": "合同中嘅條件（condition）同保證（warranty）嘅區別係咩？",
+    "options_zh": [
+      "條件係重要條款，違反可終止合同；保證係次要條款",
+      "無區別",
+      "條件係口頭嘅",
+      "保證更重要"
+    ],
+    "options_en": [
+      "條件係重要條款，違反可終止合同；保證係次要條款",
+      "無區別",
+      "條件係口頭嘅",
+      "保證更重要"
+    ],
+    "answer": 0,
+    "explanation_zh": "條件係合同根本條款，違反可終止合同；保證係次要條款，違反僅可索賠。",
+    "explanation_en": "條件係合同根本條款，違反可終止合同；保證係次要條款，違反僅可索賠。",
+    "difficulty": 2,
+    "id": 34
+  },
+  {
+    "topic_zh": "管理會計",
+    "topic_en": "Management Accounting",
+    "subtopic_zh": "本量利分析",
+    "subtopic_en": "CVP Analysis",
+    "question_zh": "利潤對銷售量嘅敏感度可以用邊個指標衡量？",
+    "question_en": "利潤對銷售量嘅敏感度可以用邊個指標衡量？",
+    "options_zh": [
+      "盈虧平衡點",
+      "安全邊際率",
+      "經營槓桿系數",
+      "邊際貢獻率"
+    ],
+    "options_en": [
+      "盈虧平衡點",
+      "安全邊際率",
+      "經營槓桿系數",
+      "邊際貢獻率"
+    ],
+    "answer": 2,
+    "explanation_zh": "經營槓桿系數（DOL）= 邊際貢獻 / 利潤，衡量利潤對銷售變動嘅敏感度。",
+    "explanation_en": "經營槓桿系數（DOL）= 邊際貢獻 / 利潤，衡量利潤對銷售變動嘅敏感度。",
+    "difficulty": 2,
+    "id": 35
+  },
+  {
+    "topic_zh": "審計與鑑證",
+    "topic_en": "Audit & Assurance",
+    "subtopic_zh": "審計計劃",
+    "subtopic_en": "Audit Planning",
+    "question_zh": "分析性程序喺審計中嘅主要用途係咩？",
+    "question_en": "分析性程序喺審計中嘅主要用途係咩？",
+    "options_zh": [
+      "識別異常波動同潛在錯報",
+      "評估審計師勝任能力",
+      "確定審計費用",
+      "取代實質性測試"
+    ],
+    "options_en": [
+      "識別異常波動同潛在錯報",
+      "評估審計師勝任能力",
+      "確定審計費用",
+      "取代實質性測試"
+    ],
+    "answer": 0,
+    "explanation_zh": "分析性程序通過比較財務數據識別異常關係同波動，發現潛在錯報。",
+    "explanation_en": "分析性程序通過比較財務數據識別異常關係同波動，發現潛在錯報。",
+    "difficulty": 2,
+    "id": 36
+  },
+  {
+    "topic_zh": "審計與鑑證",
+    "topic_en": "Audit & Assurance",
+    "subtopic_zh": "審計計劃",
+    "subtopic_en": "Audit Planning",
+    "question_zh": "審計計劃中嘅物質錯報水平（PM）同實際執行重要性（TE）嘅關係係咩？",
+    "question_en": "審計計劃中嘅物質錯報水平（PM）同實際執行重要性（TE）嘅關係係咩？",
+    "options_zh": [
+      "PM < TE",
+      "PM = TE",
+      "無關",
+      "PM > TE"
+    ],
+    "options_en": [
+      "PM < TE",
+      "PM = TE",
+      "無關",
+      "PM > TE"
+    ],
+    "answer": 3,
+    "explanation_zh": "實際執行重要性（TE）通常低於計劃重要性（PM），提供安全邊際。",
+    "explanation_en": "實際執行重要性（TE）通常低於計劃重要性（PM），提供安全邊際。",
+    "difficulty": 2,
+    "id": 37
+  },
+  {
+    "topic_zh": "財務管理",
+    "topic_en": "Financial Management",
+    "subtopic_zh": "投資評估",
+    "subtopic_en": "Investment Appraisal",
+    "question_zh": "互斥項目中NPV同IRR矛盾時，應以邊個為準？",
+    "question_en": "互斥項目中NPV同IRR矛盾時，應以邊個為準？",
+    "options_zh": [
+      "NPV",
+      "PI",
+      "IRR",
+      "回收期"
+    ],
+    "options_en": [
+      "NPV",
+      "PI",
+      "IRR",
+      "回收期"
+    ],
+    "answer": 0,
+    "explanation_zh": "互斥項目應以NPV為準，因為NPV直接衡量價值創造。",
+    "explanation_en": "互斥項目應以NPV為準，因為NPV直接衡量價值創造。",
+    "difficulty": 2,
+    "id": 38
+  },
+  {
+    "topic_zh": "稅務",
+    "topic_en": "Taxation",
+    "subtopic_zh": "個人入息稅",
+    "subtopic_en": "Personal Income Tax",
+    "question_zh": "個人入息課稅嘅好處係咩？",
+    "question_en": "個人入息課稅嘅好處係咩？",
+    "options_zh": [
+      "減少稅率",
+      "增加免稅額",
+      "免除所有稅項",
+      "可以扣除業務虧損同慈善捐款"
+    ],
+    "options_en": [
+      "減少稅率",
+      "增加免稅額",
+      "免除所有稅項",
+      "可以扣除業務虧損同慈善捐款"
+    ],
+    "answer": 3,
+    "explanation_zh": "個人入息課稅允許將各類入息合併計算，可扣除業務虧損同慈善捐款。",
+    "explanation_en": "個人入息課稅允許將各類入息合併計算，可扣除業務虧損同慈善捐款。",
+    "difficulty": 2,
+    "id": 39
+  },
+  {
+    "topic_zh": "財務會計",
+    "topic_en": "Financial Accounting",
+    "subtopic_zh": "IAS/IFRS 準則",
+    "subtopic_en": "IAS/IFRS Standards",
+    "question_zh": "IFRS 9金融工具中，預期信用損失模型（ECL）要求企業做咩？",
+    "question_en": "IFRS 9金融工具中，預期信用損失模型（ECL）要求企業做咩？",
+    "options_zh": [
+      "僅確認公允價值變動",
+      "僅確認已發生嘅損失",
+      "唔需要計提減值",
+      "確認12個月或整個存續期預期損失"
+    ],
+    "options_en": [
+      "僅確認公允價值變動",
+      "僅確認已發生嘅損失",
+      "唔需要計提減值",
+      "確認12個月或整個存續期預期損失"
+    ],
+    "answer": 3,
+    "explanation_zh": "IFRS 9 ECL模型要求根據信用風險變化程度，確認12個月或整個存續期嘅預期信用損失。",
+    "explanation_en": "IFRS 9 ECL模型要求根據信用風險變化程度，確認12個月或整個存續期嘅預期信用損失。",
+    "difficulty": 2,
+    "id": 40
+  },
+  {
+    "topic_zh": "稅務",
+    "topic_en": "Taxation",
+    "subtopic_zh": "個人入息稅",
+    "subtopic_en": "Personal Income Tax",
+    "question_zh": "暫繳稅嘅目的係咩？",
+    "question_en": "暫繳稅嘅目的係咩？",
+    "options_zh": [
+      "免除稅項",
+      "預繳下一年度稅款",
+      "補繳上年度稅款",
+      "減少稅率"
+    ],
+    "options_en": [
+      "免除稅項",
+      "預繳下一年度稅款",
+      "補繳上年度稅款",
+      "減少稅率"
+    ],
+    "answer": 1,
+    "explanation_zh": "暫繳稅係預繳下一個課稅年度嘅入息稅/利得稅。",
+    "explanation_en": "暫繳稅係預繳下一個課稅年度嘅入息稅/利得稅。",
+    "difficulty": 2,
+    "id": 41
+  },
+  {
+    "topic_zh": "審計與鑑證",
+    "topic_en": "Audit & Assurance",
+    "subtopic_zh": "審計計劃",
+    "subtopic_en": "Audit Planning",
+    "question_zh": "審計計劃階段首先要做咩？",
+    "question_en": "審計計劃階段首先要做咩？",
+    "options_zh": [
+      "執行實質性測試",
+      "了解被審計單位及其環境",
+      "盤點存貨",
+      "出具審計報告"
+    ],
+    "options_en": [
+      "執行實質性測試",
+      "了解被審計單位及其環境",
+      "盤點存貨",
+      "出具審計報告"
+    ],
+    "answer": 1,
+    "explanation_zh": "審計計劃第一步係了解被審計單位及其環境，包括行業、監管、經營模式等。",
+    "explanation_en": "審計計劃第一步係了解被審計單位及其環境，包括行業、監管、經營模式等。",
+    "difficulty": 2,
+    "id": 42
+  },
+  {
+    "topic_zh": "財務會計",
+    "topic_en": "Financial Accounting",
+    "subtopic_zh": "IAS/IFRS 準則",
+    "subtopic_en": "IAS/IFRS Standards",
+    "question_zh": "IAS 36減值測試中，可收回金額係指以下兩者中嘅較高者？",
+    "question_en": "IAS 36減值測試中，可收回金額係指以下兩者中嘅較高者？",
+    "options_zh": [
+      "公允價值減出售成本同使用價值",
+      "公允價值同賬面值",
+      "淨現值同市場價值",
+      "歷史成本同市場價值"
+    ],
+    "options_en": [
+      "公允價值減出售成本同使用價值",
+      "公允價值同賬面值",
+      "淨現值同市場價值",
+      "歷史成本同市場價值"
+    ],
+    "answer": 0,
+    "explanation_zh": "可收回金額 = max(公允價值 - 出售成本, 使用價值)。",
+    "explanation_en": "可收回金額 = max(公允價值 - 出售成本, 使用價值)。",
+    "difficulty": 2,
+    "id": 43
+  },
+  {
+    "topic_zh": "財務會計",
+    "topic_en": "Financial Accounting",
+    "subtopic_zh": "財務報表編制",
+    "subtopic_en": "Financial Statement Preparation",
+    "question_zh": "根據配比原則，以下邊種做法係正確嘅？",
+    "question_en": "根據配比原則，以下邊種做法係正確嘅？",
+    "options_zh": [
+      "所有支出都計入當期",
+      "收到現金先確認收入",
+      "收入同費用分開處理",
+      "費用應該同相關收入喺同一期間確認"
+    ],
+    "options_en": [
+      "所有支出都計入當期",
+      "收到現金先確認收入",
+      "收入同費用分開處理",
+      "費用應該同相關收入喺同一期間確認"
+    ],
+    "answer": 3,
+    "explanation_zh": "配比原則要求費用同其所產生嘅收入喺同一會計期間確認。",
+    "explanation_en": "配比原則要求費用同其所產生嘅收入喺同一會計期間確認。",
+    "difficulty": 2,
+    "id": 44
+  },
+  {
+    "topic_zh": "管理會計",
+    "topic_en": "Management Accounting",
+    "subtopic_zh": "本量利分析",
+    "subtopic_en": "CVP Analysis",
+    "question_zh": "安全邊際等於咩？",
+    "question_en": "安全邊際等於咩？",
+    "options_zh": [
+      "收入 - 利潤",
+      "實際銷售量 - 盈虧平衡銷售量",
+      "固定成本 - 變動成本",
+      "目標利潤 / 邊際貢獻率"
+    ],
+    "options_en": [
+      "收入 - 利潤",
+      "實際銷售量 - 盈虧平衡銷售量",
+      "固定成本 - 變動成本",
+      "目標利潤 / 邊際貢獻率"
+    ],
+    "answer": 1,
+    "explanation_zh": "安全邊際 = 實際（或預計）銷售量 - 盈虧平衡銷售量。",
+    "explanation_en": "安全邊際 = 實際（或預計）銷售量 - 盈虧平衡銷售量。",
+    "difficulty": 2,
+    "id": 45
+  },
+  {
+    "topic_zh": "財務會計",
+    "topic_en": "Financial Accounting",
+    "subtopic_zh": "財務報表編制",
+    "subtopic_en": "Financial Statement Preparation",
+    "question_zh": "損益表中，毛利等於咩？",
+    "question_en": "損益表中，毛利等於咩？",
+    "options_zh": [
+      "收入 - 管理費用",
+      "收入 - 所有費用",
+      "淨利潤 + 稅項",
+      "收入 - 銷售成本"
+    ],
+    "options_en": [
+      "收入 - 管理費用",
+      "收入 - 所有費用",
+      "淨利潤 + 稅項",
+      "收入 - 銷售成本"
+    ],
+    "answer": 3,
+    "explanation_zh": "毛利 = 營業收入 - 銷售成本（COGS）。",
+    "explanation_en": "毛利 = 營業收入 - 銷售成本（COGS）。",
+    "difficulty": 2,
+    "id": 46
+  },
+  {
+    "topic_zh": "管理會計",
+    "topic_en": "Management Accounting",
+    "subtopic_zh": "本量利分析",
+    "subtopic_en": "CVP Analysis",
+    "question_zh": "變動成本率等於咩？",
+    "question_en": "變動成本率等於咩？",
+    "options_zh": [
+      "邊際貢獻率 × 2",
+      "固定成本 / 收入",
+      "1 - 邊際貢獻率",
+      "1 + 邊際貢獻率"
+    ],
+    "options_en": [
+      "邊際貢獻率 × 2",
+      "固定成本 / 收入",
+      "1 - 邊際貢獻率",
+      "1 + 邊際貢獻率"
+    ],
+    "answer": 2,
+    "explanation_zh": "變動成本率 = 1 - 邊際貢獻率。兩者之和等於1。",
+    "explanation_en": "變動成本率 = 1 - 邊際貢獻率。兩者之和等於1。",
+    "difficulty": 2,
+    "id": 47
+  },
+  {
+    "topic_zh": "財務管理",
+    "topic_en": "Financial Management",
+    "subtopic_zh": "投資評估",
+    "subtopic_en": "Investment Appraisal",
+    "question_zh": "內部收益率（IRR）嘅定義係咩？",
+    "question_en": "內部收益率（IRR）嘅定義係咩？",
+    "options_zh": [
+      "銀行貸款利率",
+      "令NPV等於零嘅折現率",
+      "項目嘅會計利潤率",
+      "股東要求嘅回報率"
+    ],
+    "options_en": [
+      "銀行貸款利率",
+      "令NPV等於零嘅折現率",
+      "項目嘅會計利潤率",
+      "股東要求嘅回報率"
+    ],
+    "answer": 1,
+    "explanation_zh": "IRR係令項目NPV等於零嘅折現率。",
+    "explanation_en": "IRR係令項目NPV等於零嘅折現率。",
+    "difficulty": 2,
+    "id": 48
+  },
+  {
+    "topic_zh": "審計與鑑證",
+    "topic_en": "Audit & Assurance",
+    "subtopic_zh": "審計計劃",
+    "subtopic_en": "Audit Planning",
+    "question_zh": "審計計劃包括邊兩大部分？",
+    "question_en": "審計計劃包括邊兩大部分？",
+    "options_zh": [
+      "風險評估同實質性測試",
+      "內部控制同實質性程序",
+      "期初同期末",
+      "總體策略同詳細審計計劃"
+    ],
+    "options_en": [
+      "風險評估同實質性測試",
+      "內部控制同實質性程序",
+      "期初同期末",
+      "總體策略同詳細審計計劃"
+    ],
+    "answer": 3,
+    "explanation_zh": "審計計劃包括總體審計策略（確定審計範圍、時間、方向）同詳細審計計劃。",
+    "explanation_en": "審計計劃包括總體審計策略（確定審計範圍、時間、方向）同詳細審計計劃。",
+    "difficulty": 2,
+    "id": 49
+  },
+  {
+    "topic_zh": "管理會計",
+    "topic_en": "Management Accounting",
+    "subtopic_zh": "成本分類",
+    "subtopic_en": "Cost Classification",
+    "question_zh": "邊際貢獻率等於咩？",
+    "question_en": "邊際貢獻率等於咩？",
+    "options_zh": [
+      "邊際貢獻除以變動成本",
+      "利潤除以銷售收入",
+      "固定成本除以銷售收入",
+      "邊際貢獻除以銷售收入"
+    ],
+    "options_en": [
+      "邊際貢獻除以變動成本",
+      "利潤除以銷售收入",
+      "固定成本除以銷售收入",
+      "邊際貢獻除以銷售收入"
+    ],
+    "answer": 3,
+    "explanation_zh": "邊際貢獻率 = 邊際貢獻 / 銷售收入 × 100%。",
+    "explanation_en": "邊際貢獻率 = 邊際貢獻 / 銷售收入 × 100%。",
+    "difficulty": 2,
+    "id": 50
+  },
+  {
+    "topic_zh": "財務會計",
+    "topic_en": "Financial Accounting",
+    "subtopic_zh": "IAS/IFRS 準則",
+    "subtopic_en": "IAS/IFRS Standards",
+    "question_zh": "IAS 2存貨準則要求存貨以邊種方式計量？",
+    "question_en": "IAS 2存貨準則要求存貨以邊種方式計量？",
+    "options_zh": [
+      "僅可變現淨值",
+      "僅重置成本",
+      "成本與可變現淨值孰低",
+      "僅公允價值"
+    ],
+    "options_en": [
+      "僅可變現淨值",
+      "僅重置成本",
+      "成本與可變現淨值孰低",
+      "僅公允價值"
+    ],
+    "answer": 2,
+    "explanation_zh": "IAS 2要求存貨以成本與可變現淨值（NRV）孰低計量。",
+    "explanation_en": "IAS 2要求存貨以成本與可變現淨值（NRV）孰低計量。",
+    "difficulty": 2,
+    "id": 51
+  },
+  {
+    "topic_zh": "財務管理",
+    "topic_en": "Financial Management",
+    "subtopic_zh": "投資評估",
+    "subtopic_en": "Investment Appraisal",
+    "question_zh": "敏感度分析喺投資評估中嘅作用係咩？",
+    "question_en": "敏感度分析喺投資評估中嘅作用係咩？",
+    "options_zh": [
+      "計算確切利潤",
+      "計算稅項",
+      "測試關鍵假設變化對結果嘅影響",
+      "確定折現率"
+    ],
+    "options_en": [
+      "計算確切利潤",
+      "計算稅項",
+      "測試關鍵假設變化對結果嘅影響",
+      "確定折現率"
+    ],
+    "answer": 2,
+    "explanation_zh": "敏感度分析測試單一變量變化對NPV/IRR嘅影響，識別關鍵風險因素。",
+    "explanation_en": "敏感度分析測試單一變量變化對NPV/IRR嘅影響，識別關鍵風險因素。",
+    "difficulty": 2,
+    "id": 52
+  },
+  {
+    "topic_zh": "財務管理",
+    "topic_en": "Financial Management",
+    "subtopic_zh": "投資評估",
+    "subtopic_en": "Investment Appraisal",
+    "question_zh": "折現回收期法比普通回收期法好喺邊度？",
+    "question_en": "折現回收期法比普通回收期法好喺邊度？",
+    "options_zh": [
+      "更保守",
+      "考慮咗貨幣時間價值",
+      "唔需要折現率",
+      "計算更簡單"
+    ],
+    "options_en": [
+      "更保守",
+      "考慮咗貨幣時間價值",
+      "唔需要折現率",
+      "計算更簡單"
+    ],
+    "answer": 1,
+    "explanation_zh": "折現回收期法使用折現現金流，考慮咗貨幣時間價值。",
+    "explanation_en": "折現回收期法使用折現現金流，考慮咗貨幣時間價值。",
+    "difficulty": 2,
+    "id": 53
+  },
+  {
+    "topic_zh": "審計與鑑證",
+    "topic_en": "Audit & Assurance",
+    "subtopic_zh": "審計計劃",
+    "subtopic_en": "Audit Planning",
+    "question_zh": "審計風險模型中，審計風險等於咩？",
+    "question_en": "審計風險模型中，審計風險等於咩？",
+    "options_zh": [
+      "固有風險 × 控制風險",
+      "固有風險 × 控制風險 × 檢查風險",
+      "檢查風險 / 控制風險",
+      "固有風險 + 控制風險 + 檢查風險"
+    ],
+    "options_en": [
+      "固有風險 × 控制風險",
+      "固有風險 × 控制風險 × 檢查風險",
+      "檢查風險 / 控制風險",
+      "固有風險 + 控制風險 + 檢查風險"
+    ],
+    "answer": 1,
+    "explanation_zh": "審計風險 = 固有風險 × 控制風險 × 檢查風險。",
+    "explanation_en": "審計風險 = 固有風險 × 控制風險 × 檢查風險。",
+    "difficulty": 2,
+    "id": 54
+  },
+  {
+    "topic_zh": "財務會計",
+    "topic_en": "Financial Accounting",
+    "subtopic_zh": "IAS/IFRS 準則",
+    "subtopic_en": "IAS/IFRS Standards",
+    "question_zh": "IAS 19員工福利中，設定受益計劃嘅精算損益應該點處理？",
+    "question_en": "IAS 19員工福利中，設定受益計劃嘅精算損益應該點處理？",
+    "options_zh": [
+      "遞延處理",
+      "立即計入損益",
+      "計入其他綜合收益",
+      "唔需要確認"
+    ],
+    "options_en": [
+      "遞延處理",
+      "立即計入損益",
+      "計入其他綜合收益",
+      "唔需要確認"
+    ],
+    "answer": 2,
+    "explanation_zh": "IAS 19允許設定受益計劃嘅精算損益計入其他綜合收益（OCI），唔計入當期損益。",
+    "explanation_en": "IAS 19允許設定受益計劃嘅精算損益計入其他綜合收益（OCI），唔計入當期損益。",
+    "difficulty": 2,
+    "id": 55
+  },
+  {
+    "topic_zh": "財務會計",
+    "topic_en": "Financial Accounting",
+    "subtopic_zh": "財務報表編制",
+    "subtopic_en": "Financial Statement Preparation",
+    "question_zh": "現金流量表分為邊三大類活動？",
+    "question_en": "現金流量表分為邊三大類活動？",
+    "options_zh": [
+      "營運、投資、融資",
+      "經營、非經營、特殊",
+      "收入、支出、利潤",
+      "資產、負債、權益"
+    ],
+    "options_en": [
+      "營運、投資、融資",
+      "經營、非經營、特殊",
+      "收入、支出、利潤",
+      "資產、負債、權益"
+    ],
+    "answer": 0,
+    "explanation_zh": "現金流量表分為經營活動、投資活動同融資活動三大類。",
+    "explanation_en": "現金流量表分為經營活動、投資活動同融資活動三大類。",
+    "difficulty": 2,
+    "id": 56
+  },
+  {
+    "topic_zh": "管理會計",
+    "topic_en": "Management Accounting",
+    "subtopic_zh": "本量利分析",
+    "subtopic_en": "CVP Analysis",
+    "question_zh": "經營槓桿係指咩？",
+    "question_en": "經營槓桿係指咩？",
+    "options_zh": [
+      "銷售增長率",
+      "固定成本對利潤敏感度嘅影響",
+      "負債比例",
+      "資產周轉率"
+    ],
+    "options_en": [
+      "銷售增長率",
+      "固定成本對利潤敏感度嘅影響",
+      "負債比例",
+      "資產周轉率"
+    ],
+    "answer": 1,
+    "explanation_zh": "經營槓桿衡量固定成本佔比對利潤隨銷售變動嘅放大效應。",
+    "explanation_en": "經營槓桿衡量固定成本佔比對利潤隨銷售變動嘅放大效應。",
+    "difficulty": 2,
+    "id": 57
+  },
+  {
+    "topic_zh": "財務會計",
+    "topic_en": "Financial Accounting",
+    "subtopic_zh": "IAS/IFRS 準則",
+    "subtopic_en": "IAS/IFRS Standards",
+    "question_zh": "根據IAS 38，無形資產嘅確認條件包括咩？",
+    "question_en": "根據IAS 38，無形資產嘅確認條件包括咩？",
+    "options_zh": [
+      "僅需要係可辨認",
+      "僅需要有法律保護",
+      "只需要有市場價值",
+      "可辨認、控制同預期帶嚟經濟利益"
+    ],
+    "options_en": [
+      "僅需要係可辨認",
+      "僅需要有法律保護",
+      "只需要有市場價值",
+      "可辨認、控制同預期帶嚟經濟利益"
+    ],
+    "answer": 3,
+    "explanation_zh": "IAS 38要求無形資產可辨認、由企業控制、預期帶嚟未來經濟利益。",
+    "explanation_en": "IAS 38要求無形資產可辨認、由企業控制、預期帶嚟未來經濟利益。",
+    "difficulty": 2,
+    "id": 58
+  },
+  {
+    "topic_zh": "審計與鑑證",
+    "topic_en": "Audit & Assurance",
+    "subtopic_zh": "審計計劃",
+    "subtopic_en": "Audit Planning",
+    "question_zh": "以下邊種情況下審計師應該唔接受委托？",
+    "question_en": "以下邊種情況下審計師應該唔接受委托？",
+    "options_zh": [
+      "客戶喺外地",
+      "審計師唔具備專業勝任能力",
+      "客戶規模太大",
+      "審計費用太低"
+    ],
+    "options_en": [
+      "客戶喺外地",
+      "審計師唔具備專業勝任能力",
+      "客戶規模太大",
+      "審計費用太低"
+    ],
+    "answer": 1,
+    "explanation_zh": "審計師唔具備所需嘅專業知識同技能時應拒絕接受委托。",
+    "explanation_en": "審計師唔具備所需嘅專業知識同技能時應拒絕接受委托。",
+    "difficulty": 2,
+    "id": 59
+  },
+  {
+    "topic_zh": "稅務",
+    "topic_en": "Taxation",
+    "subtopic_zh": "個人入息稅",
+    "subtopic_en": "Personal Income Tax",
+    "question_zh": "以下邊項收入唔需要繳納薪俸稅？",
+    "question_en": "以下邊項收入唔需要繳納薪俸稅？",
+    "options_zh": [
+      "繼承嘅遺產",
+      "工資",
+      "津貼",
+      "花紅"
+    ],
+    "options_en": [
+      "繼承嘅遺產",
+      "工資",
+      "津貼",
+      "花紅"
+    ],
+    "answer": 0,
+    "explanation_zh": "繼承嘅遺產唔屬於薪俸稅嘅應評稅入息。",
+    "explanation_en": "繼承嘅遺產唔屬於薪俸稅嘅應評稅入息。",
+    "difficulty": 2,
+    "id": 60
+  },
+  {
+    "topic_zh": "財務會計",
+    "topic_en": "Financial Accounting",
+    "subtopic_zh": "財務報表編制",
+    "subtopic_en": "Financial Statement Preparation",
+    "question_zh": "資產負債表嘅基本等式係咩？",
+    "question_en": "資產負債表嘅基本等式係咩？",
+    "options_zh": [
+      "資產 + 負債 = 權益",
+      "資產 = 負債 + 權益",
+      "資產 = 負債 - 權益",
+      "收入 = 費用 + 利潤"
+    ],
+    "options_en": [
+      "資產 + 負債 = 權益",
+      "資產 = 負債 + 權益",
+      "資產 = 負債 - 權益",
+      "收入 = 費用 + 利潤"
+    ],
+    "answer": 1,
+    "explanation_zh": "資產 = 負債 + 所有者權益，呢個係會計恆等式。",
+    "explanation_en": "資產 = 負債 + 所有者權益，呢個係會計恆等式。",
+    "difficulty": 2,
+    "id": 61
+  },
+  {
+    "topic_zh": "財務管理",
+    "topic_en": "Financial Management",
+    "subtopic_zh": "投資評估",
+    "subtopic_en": "Investment Appraisal",
+    "question_zh": "回收期法嘅缺點係咩？",
+    "question_en": "回收期法嘅缺點係咩？",
+    "options_zh": [
+      "唔考慮回收期後嘅現金流同時間價值",
+      "計算複雜",
+      "只適用於小項目",
+      "需要折現率"
+    ],
+    "options_en": [
+      "唔考慮回收期後嘅現金流同時間價值",
+      "計算複雜",
+      "只適用於小項目",
+      "需要折現率"
+    ],
+    "answer": 0,
+    "explanation_zh": "回收期法忽略回收期後嘅現金流同貨幣時間價值。",
+    "explanation_en": "回收期法忽略回收期後嘅現金流同貨幣時間價值。",
+    "difficulty": 2,
+    "id": 62
+  },
+  {
+    "topic_zh": "財務會計",
+    "topic_en": "Financial Accounting",
+    "subtopic_zh": "IAS/IFRS 準則",
+    "subtopic_en": "IAS/IFRS Standards",
+    "question_zh": "IFRS 15收入確認模型嘅五步法中，第一步係咩？",
+    "question_en": "IFRS 15收入確認模型嘅五步法中，第一步係咩？",
+    "options_zh": [
+      "計量交易價格",
+      "識別合同",
+      "識別履約義務",
+      "分攤交易價格"
+    ],
+    "options_en": [
+      "計量交易價格",
+      "識別合同",
+      "識別履約義務",
+      "分攤交易價格"
+    ],
+    "answer": 1,
+    "explanation_zh": "IFRS 15五步法：1.識別合同 2.識別履約義務 3.計量交易價格 4.分攤交易價格 5.確認收入。",
+    "explanation_en": "IFRS 15五步法：1.識別合同 2.識別履約義務 3.計量交易價格 4.分攤交易價格 5.確認收入。",
+    "difficulty": 2,
+    "id": 63
+  },
+  {
+    "topic_zh": "財務管理",
+    "topic_en": "Financial Management",
+    "subtopic_zh": "投資評估",
+    "subtopic_en": "Investment Appraisal",
+    "question_zh": "NPV同IRR喺獨立項目中嘅結論係咩？",
+    "question_en": "NPV同IRR喺獨立項目中嘅結論係咩？",
+    "options_zh": [
+      "永遠唔一致",
+      "永遠矛盾",
+      "無關",
+      "通常一致"
+    ],
+    "options_en": [
+      "永遠唔一致",
+      "永遠矛盾",
+      "無關",
+      "通常一致"
+    ],
+    "answer": 3,
+    "explanation_zh": "對於獨立項目，NPV同IRR通常得出相同嘅接受/拒絕結論。",
+    "explanation_en": "對於獨立項目，NPV同IRR通常得出相同嘅接受/拒絕結論。",
+    "difficulty": 2,
+    "id": 64
+  },
+  {
+    "topic_zh": "商業法",
+    "topic_en": "Business Law",
+    "subtopic_zh": "合同法",
+    "subtopic_en": "Contract Law",
+    "question_zh": "誤述（misrepresentation）可以分為邊幾類？",
+    "question_en": "誤述（misrepresentation）可以分為邊幾類？",
+    "options_zh": [
+      "唔分類",
+      "僅疏忽性",
+      "僅欺詐性",
+      "無辜、疏忽同欺詐性"
+    ],
+    "options_en": [
+      "唔分類",
+      "僅疏忽性",
+      "僅欺詐性",
+      "無辜、疏忽同欺詐性"
+    ],
+    "answer": 3,
+    "explanation_zh": "誤述分為無辜誤述、疏忽誤述同欺詐性誤述三類，救濟方式不同。",
+    "explanation_en": "誤述分為無辜誤述、疏忽誤述同欺詐性誤述三類，救濟方式不同。",
+    "difficulty": 2,
+    "id": 65
+  },
+  {
+    "topic_zh": "管理會計",
+    "topic_en": "Management Accounting",
+    "subtopic_zh": "本量利分析",
+    "subtopic_en": "CVP Analysis",
+    "question_zh": "多產品情況下，盈虧平衡分析通常使用邊種方法？",
+    "question_en": "多產品情況下，盈虧平衡分析通常使用邊種方法？",
+    "options_zh": [
+      "僅按品種計算",
+      "加權平均邊際貢獻率法",
+      "唔可以用",
+      "僅按銷量計算"
+    ],
+    "options_en": [
+      "僅按品種計算",
+      "加權平均邊際貢獻率法",
+      "唔可以用",
+      "僅按銷量計算"
+    ],
+    "answer": 1,
+    "explanation_zh": "多產品盈虧平衡分析使用加權平均邊際貢獻率，按銷售收入比例加權。",
+    "explanation_en": "多產品盈虧平衡分析使用加權平均邊際貢獻率，按銷售收入比例加權。",
+    "difficulty": 2,
+    "id": 66
+  },
+  {
+    "topic_zh": "稅務",
+    "topic_en": "Taxation",
+    "subtopic_zh": "個人入息稅",
+    "subtopic_en": "Personal Income Tax",
+    "question_zh": "稅務寬減通常喺邊個時候公布？",
+    "question_en": "稅務寬減通常喺邊個時候公布？",
+    "options_zh": [
+      "財政預算案",
+      "年尾",
+      "每月",
+      "年初"
+    ],
+    "options_en": [
+      "財政預算案",
+      "年尾",
+      "每月",
+      "年初"
+    ],
+    "answer": 0,
+    "explanation_zh": "稅務寬減措施通常喺年度財政預算案中公布。",
+    "explanation_en": "稅務寬減措施通常喺年度財政預算案中公布。",
+    "difficulty": 2,
+    "id": 67
+  },
+  {
+    "topic_zh": "管理會計",
+    "topic_en": "Management Accounting",
+    "subtopic_zh": "成本分類",
+    "subtopic_en": "Cost Classification",
+    "question_zh": "以下邊項係產品成本而非期間成本？",
+    "question_en": "以下邊項係產品成本而非期間成本？",
+    "options_zh": [
+      "管理費用",
+      "財務費用",
+      "直接人工",
+      "銷售費用"
+    ],
+    "options_en": [
+      "管理費用",
+      "財務費用",
+      "直接人工",
+      "銷售費用"
+    ],
+    "answer": 2,
+    "explanation_zh": "直接人工屬於產品成本（可存貨化），銷售/管理/財務費用係期間成本。",
+    "explanation_en": "直接人工屬於產品成本（可存貨化），銷售/管理/財務費用係期間成本。",
+    "difficulty": 2,
+    "id": 68
+  },
+  {
+    "topic_zh": "商業法",
+    "topic_en": "Business Law",
+    "subtopic_zh": "合同法",
+    "subtopic_en": "Contract Law",
+    "question_zh": "以下邊種情況構成要約嘅撤回？",
+    "question_en": "以下邊種情況構成要約嘅撤回？",
+    "options_zh": [
+      "所有以上情況",
+      "要約人喺要約到達前撤回",
+      "受要約人拒絕",
+      "要約期滿"
+    ],
+    "options_en": [
+      "所有以上情況",
+      "要約人喺要約到達前撤回",
+      "受要約人拒絕",
+      "要約期滿"
+    ],
+    "answer": 0,
+    "explanation_zh": "要約可以通過撤回（到達前）、拒絕、期滿、反要約等方式終止。",
+    "explanation_en": "要約可以通過撤回（到達前）、拒絕、期滿、反要約等方式終止。",
+    "difficulty": 2,
+    "id": 69
+  },
+  {
+    "topic_zh": "審計與鑑證",
+    "topic_en": "Audit & Assurance",
+    "subtopic_zh": "審計計劃",
+    "subtopic_en": "Audit Planning",
+    "question_zh": "以下邊項唔屬於審計證據？",
+    "question_en": "以下邊項唔屬於審計證據？",
+    "options_zh": [
+      "銀行詢證函",
+      "管理層聲明書",
+      "審計師個人意見",
+      "實地盤點記錄"
+    ],
+    "options_en": [
+      "銀行詢證函",
+      "管理層聲明書",
+      "審計師個人意見",
+      "實地盤點記錄"
+    ],
+    "answer": 2,
+    "explanation_zh": "審計證據必須客觀可靠，審計師個人意見唔係審計證據。",
+    "explanation_en": "審計證據必須客觀可靠，審計師個人意見唔係審計證據。",
+    "difficulty": 2,
+    "id": 70
+  },
+  {
+    "topic_zh": "財務會計",
+    "topic_en": "Financial Accounting",
+    "subtopic_zh": "IAS/IFRS 準則",
+    "subtopic_en": "IAS/IFRS Standards",
+    "question_zh": "IFRS 8經營分部報告要求企業披露邊啲資訊？",
+    "question_en": "IFRS 8經營分部報告要求企業披露邊啲資訊？",
+    "options_zh": [
+      "僅利潤資訊",
+      "僅收入資訊",
+      "按經營分部披露收入、利潤同資產",
+      "唔需要披露"
+    ],
+    "options_en": [
+      "僅利潤資訊",
+      "僅收入資訊",
+      "按經營分部披露收入、利潤同資產",
+      "唔需要披露"
+    ],
+    "answer": 2,
+    "explanation_zh": "IFRS 8要求按報告分部披露收入、利潤/虧損、資產同負債等資訊。",
+    "explanation_en": "IFRS 8要求按報告分部披露收入、利潤/虧損、資產同負債等資訊。",
+    "difficulty": 2,
+    "id": 71
+  },
+  {
+    "topic_zh": "財務管理",
+    "topic_en": "Financial Management",
+    "subtopic_zh": "投資評估",
+    "subtopic_en": "Investment Appraisal",
+    "question_zh": "以下邊個唔係投資評估嘅常用方法？",
+    "question_en": "以下邊個唔係投資評估嘅常用方法？",
+    "options_zh": [
+      "NPV",
+      "回收期",
+      "IRR",
+      "市盈率"
+    ],
+    "options_en": [
+      "NPV",
+      "回收期",
+      "IRR",
+      "市盈率"
+    ],
+    "answer": 3,
+    "explanation_zh": "市盈率（P/E ratio）係股票估值指標，唔係項目投資評估方法。",
+    "explanation_en": "市盈率（P/E ratio）係股票估值指標，唔係項目投資評估方法。",
+    "difficulty": 2,
+    "id": 72
+  },
+  {
+    "topic_zh": "稅務",
+    "topic_en": "Taxation",
+    "subtopic_zh": "個人入息稅",
+    "subtopic_en": "Personal Income Tax",
+    "question_zh": "供養父母免稅額嘅條件包括咩？",
+    "question_en": "供養父母免稅額嘅條件包括咩？",
+    "options_zh": [
+      "父母必須同住",
+      "父母年齡或永久傷殘",
+      "無收入限制",
+      "僅限父親"
+    ],
+    "options_en": [
+      "父母必須同住",
+      "父母年齡或永久傷殘",
+      "無收入限制",
+      "僅限父親"
+    ],
+    "answer": 1,
+    "explanation_zh": "供養父母免稅額要求父母/祖父母年滿55歲或係永久傷殘人士。",
+    "explanation_en": "供養父母免稅額要求父母/祖父母年滿55歲或係永久傷殘人士。",
+    "difficulty": 2,
+    "id": 73
+  },
+  {
+    "topic_zh": "審計與鑑證",
+    "topic_en": "Audit & Assurance",
+    "subtopic_zh": "審計計劃",
+    "subtopic_en": "Audit Planning",
+    "question_zh": "重要性水平嘅作用係咩？",
+    "question_en": "重要性水平嘅作用係咩？",
+    "options_zh": [
+      "決定審計費用",
+      "確定審計團隊規模",
+      "減少審計程序",
+      "判斷錯報是否影響使用者決策"
+    ],
+    "options_en": [
+      "決定審計費用",
+      "確定審計團隊規模",
+      "減少審計程序",
+      "判斷錯報是否影響使用者決策"
+    ],
+    "answer": 3,
+    "explanation_zh": "重要性水平用於判斷錯報（單獨或匯總）是否可能影響財務報表使用者嘅經濟決策。",
+    "explanation_en": "重要性水平用於判斷錯報（單獨或匯總）是否可能影響財務報表使用者嘅經濟決策。",
+    "difficulty": 2,
+    "id": 74
+  },
+  {
+    "topic_zh": "管理會計",
+    "topic_en": "Management Accounting",
+    "subtopic_zh": "成本分類",
+    "subtopic_en": "Cost Classification",
+    "question_zh": "直接材料屬於以下邊種成本分類？",
+    "question_en": "直接材料屬於以下邊種成本分類？",
+    "options_zh": [
+      "期間成本",
+      "變動成本",
+      "半變動成本",
+      "固定成本"
+    ],
+    "options_en": [
+      "期間成本",
+      "變動成本",
+      "半變動成本",
+      "固定成本"
+    ],
+    "answer": 1,
+    "explanation_zh": "直接材料通常隨產量成比例變化，屬於變動成本。",
+    "explanation_en": "直接材料通常隨產量成比例變化，屬於變動成本。",
+    "difficulty": 2,
+    "id": 75
+  },
+  {
+    "topic_zh": "稅務",
+    "topic_en": "Taxation",
+    "subtopic_zh": "個人入息稅",
+    "subtopic_en": "Personal Income Tax",
+    "question_zh": "累進稅率同標準稅率嘅關係係咩？",
+    "question_en": "累進稅率同標準稅率嘅關係係咩？",
+    "options_zh": [
+      "兩者取平均",
+      "永遠用累進稅率",
+      "按兩者較低者徵收",
+      "永遠用標準稅率"
+    ],
+    "options_en": [
+      "兩者取平均",
+      "永遠用累進稅率",
+      "按兩者較低者徵收",
+      "永遠用標準稅率"
+    ],
+    "answer": 2,
+    "explanation_zh": "香港薪俸稅按累進稅率同標準稅率中較低者徵收。",
+    "explanation_en": "香港薪俸稅按累進稅率同標準稅率中較低者徵收。",
+    "difficulty": 2,
+    "id": 76
+  },
+  {
+    "topic_zh": "財務會計",
+    "topic_en": "Financial Accounting",
+    "subtopic_zh": "財務報表編制",
+    "subtopic_en": "Financial Statement Preparation",
+    "question_zh": "以下邊項唔屬於流動資產？",
+    "question_en": "以下邊項唔屬於流動資產？",
+    "options_zh": [
+      "機器設備",
+      "存貨",
+      "應收賬款",
+      "銀行存款"
+    ],
+    "options_en": [
+      "機器設備",
+      "存貨",
+      "應收賬款",
+      "銀行存款"
+    ],
+    "answer": 0,
+    "explanation_zh": "機器設備屬於非流動資產（固定資產），唔係流動資產。",
+    "explanation_en": "機器設備屬於非流動資產（固定資產），唔係流動資產。",
+    "difficulty": 2,
+    "id": 77
+  },
+  {
+    "topic_zh": "財務管理",
+    "topic_en": "Financial Management",
+    "subtopic_zh": "投資評估",
+    "subtopic_en": "Investment Appraisal",
+    "question_zh": "蒙特卡洛模擬同敏感度分析嘅區別係咩？",
+    "question_en": "蒙特卡洛模擬同敏感度分析嘅區別係咩？",
+    "options_zh": [
+      "蒙特卡洛可同時改變多個變量",
+      "敏感度分析更準確",
+      "蒙特卡洛更簡單",
+      "無區別"
+    ],
+    "options_en": [
+      "蒙特卡洛可同時改變多個變量",
+      "敏感度分析更準確",
+      "蒙特卡洛更簡單",
+      "無區別"
+    ],
+    "answer": 0,
+    "explanation_zh": "蒙特卡洛模擬同時隨機改變多個變量，提供結果嘅概率分佈。",
+    "explanation_en": "蒙特卡洛模擬同時隨機改變多個變量，提供結果嘅概率分佈。",
+    "difficulty": 2,
+    "id": 78
+  },
+  {
+    "topic_zh": "財務會計",
+    "topic_en": "Financial Accounting",
+    "subtopic_zh": "財務報表編制",
+    "subtopic_en": "Financial Statement Preparation",
+    "question_zh": "調整分錄嘅目的係咩？",
+    "question_en": "調整分錄嘅目的係咩？",
+    "options_zh": [
+      "改正錯誤",
+      "增加利潤",
+      "減少稅項",
+      "確保收入同費用喺正確期間確認"
+    ],
+    "options_en": [
+      "改正錯誤",
+      "增加利潤",
+      "減少稅項",
+      "確保收入同費用喺正確期間確認"
+    ],
+    "answer": 3,
+    "explanation_zh": "調整分錄確保收入同費用按照權責發生制喺正確嘅會計期間確認。",
+    "explanation_en": "調整分錄確保收入同費用按照權責發生制喺正確嘅會計期間確認。",
+    "difficulty": 2,
+    "id": 79
+  },
+  {
+    "topic_zh": "商業法",
+    "topic_en": "Business Law",
+    "subtopic_zh": "合同法",
+    "subtopic_en": "Contract Law",
+    "question_zh": "以下邊種情況下合同無效（void）？",
+    "question_en": "以下邊種情況下合同無效（void）？",
+    "options_zh": [
+      "標的物價格太高",
+      "一方未成年",
+      "口頭協議",
+      "目的非法"
+    ],
+    "options_en": [
+      "標的物價格太高",
+      "一方未成年",
+      "口頭協議",
+      "目的非法"
+    ],
+    "answer": 3,
+    "explanation_zh": "以非法目的訂立嘅合同無效。",
+    "explanation_en": "以非法目的訂立嘅合同無效。",
+    "difficulty": 2,
+    "id": 80
+  }
+]

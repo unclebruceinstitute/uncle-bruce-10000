@@ -1,1 +1,1427 @@
-[{"topic_zh": "服務價值系統", "topic_en": "Service Value System", "subtopic_zh": "SVS概述", "subtopic_en": "SVS Overview", "question_zh": "ITIL 4 服務價值系統（SVS）描述咗組織點樣創建價值，以下邊項唔係SVS嘅核心組件？", "question_en": "ITIL 4 Service Value System (SVS) describes how organizations create value. Which is NOT a core component of SVS?", "options_zh": ["服務台", "服務價值鏈", "治理", "指導原則"], "options_en": ["Service desk", "Service value chain", "Governance", "Guiding principles"], "answer": 0, "explanation_zh": "SVS核心組件包括指導原則、治理、服務價值鏈、持續改進同實踐。服務台係一個實踐，唔係SVS核心組件。", "explanation_en": "SVS core components include guiding principles, governance, service value chain, continual improvement, and practices. Service desk is a practice, not an SVS core component.", "difficulty": 2, "id": 1}, {"topic_zh": "服務價值系統", "topic_en": "Service Value System", "subtopic_zh": "價值創造", "subtopic_en": "Value Creation", "question_zh": "喺ITIL 4中，價值係點樣定義嘅？", "question_en": "In ITIL 4, how is value defined?", "options_zh": ["客戶滿意度評分", "產品嘅銷售價格", "服務嘅總成本", "利益相關者嘅感知收益減去成本"], "options_en": ["Customer satisfaction score", "Selling price of a product", "Total cost of a service", "Perceived benefits minus costs to stakeholders"], "answer": 3, "explanation_zh": "ITIL 4定義價值為「利益相關者嘅感知收益、有用性同重要性減去成本」。", "explanation_en": "ITIL 4 defines value as 'the perceived benefits, usefulness, and importance of something to stakeholders minus costs'.", "difficulty": 2, "id": 2}, {"topic_zh": "服務價值鏈", "topic_en": "Service Value Chain", "subtopic_zh": "價值鏈活動", "subtopic_en": "Value Chain Activities", "question_zh": "服務價值鏈中，邊個活動負責確保服務符合利益相關者嘅期望？", "question_en": "In the Service Value Chain, which activity ensures services meet stakeholder expectations?", "options_zh": ["互動", "改進", "計劃", "設計與轉換"], "options_en": ["Engage", "Improve", "Plan", "Design & Transition"], "answer": 3, "explanation_zh": "設計與轉換活動確保產品同服務持續符合利益相關者嘅期望。", "explanation_en": "Design & Transition activity ensures that products and services continually meet stakeholder expectations.", "difficulty": 2, "id": 3}, {"topic_zh": "服務價值鏈", "topic_en": "Service Value Chain", "subtopic_zh": "需求捕獲", "subtopic_en": "Demand Capture", "question_zh": "邊個價值鏈活動負責捕獲同記錄需求？", "question_en": "Which value chain activity captures and records demand?", "options_zh": ["計劃", "獲取/建造", "改進", "互動"], "options_en": ["Plan", "Obtain/Build", "Improve", "Engage"], "answer": 3, "explanation_zh": "互動活動捕獲需求同機會，並確保透明度同良好嘅利益相關者關係。", "explanation_en": "Engage activity captures demand and opportunities, and ensures transparency and good stakeholder relationships.", "difficulty": 2, "id": 4}, {"topic_zh": "指導原則", "topic_en": "Guiding Principles", "subtopic_zh": "原則應用", "subtopic_en": "Principle Application", "question_zh": "邊個指導原則建議應該盡量利用現有服務同資源？", "question_en": "Which guiding principle suggests utilizing existing services and resources as much as possible?", "options_zh": ["從現狀開始", "專注於價值", "迭代推進並獲得反饋", "保持簡單實用"], "options_en": ["Start where you are", "Focus on value", "Progress iteratively with feedback", "Keep it simple and practical"], "answer": 0, "explanation_zh": "「從你所處嘅地方開始」原則建議考慮現有服務同資源，避免不必要嘅重複。", "explanation_en": "'Start where you are' principle suggests considering existing services and resources, avoiding unnecessary duplication.", "difficulty": 2, "id": 5}, {"topic_zh": "指導原則", "topic_en": "Guiding Principles", "subtopic_zh": "原則衝突", "subtopic_en": "Principle Conflicts", "question_zh": "當「專注價值」同「保持簡單實用」兩個原則出現衝突時，應該點處理？", "question_en": "When 'Focus on value' and 'Keep it simple and practical' conflict, how should it be handled?", "options_zh": ["根據具體情況權衡", "永遠優先專注價值", "忽略其中一個原則", "永遠優先保持簡單"], "options_en": ["Balance based on specific circumstances", "Always prioritize focus on value", "Ignore one principle", "Always prioritize keep it simple"], "answer": 0, "explanation_zh": "指導原則之間可能出現衝突，需要根據具體情況同組織目標進行權衡。", "explanation_en": "Guiding principles may conflict with each other, requiring balance based on specific circumstances and organizational goals.", "difficulty": 3, "id": 6}, {"topic_zh": "實踐", "topic_en": "Practices", "subtopic_zh": "事件管理", "subtopic_en": "Incident Management", "question_zh": "事件管理實踐嘅主要目標係咩？", "question_en": "What is the primary goal of the Incident Management practice?", "options_zh": ["預防事件發生", "管理問題記錄", "盡快恢復正常服務運作", "分析事件根本原因"], "options_en": ["Prevent incidents from occurring", "Manage problem records", "Restore normal service operation as quickly as possible", "Analyze root causes of incidents"], "answer": 2, "explanation_zh": "事件管理嘅主要目標係盡快恢復正常服務運作，盡量減少對業務嘅影響。", "explanation_en": "The primary goal of Incident Management is to restore normal service operation as quickly as possible, minimizing impact on the business.", "difficulty": 1, "id": 7}, {"topic_zh": "實踐", "topic_en": "Practices", "subtopic_zh": "問題管理", "subtopic_en": "Problem Management", "question_zh": "問題管理實踐嘅主要目標係咩？", "question_en": "What is the primary goal of the Problem Management practice?", "options_zh": ["管理服務台運作", "處理所有客戶投訴", "執行變更", "減少事件發生嘅可能性同影響"], "options_en": ["Manage service desk operations", "Handle all customer complaints", "Execute changes", "Reduce the likelihood and impact of incidents"], "answer": 3, "explanation_zh": "問題管理嘅主要目標係減少事件嘅可能性同影響，通過識別同解決根本原因。", "explanation_en": "Problem Management's primary goal is to reduce the likelihood and impact of incidents by identifying and resolving root causes.", "difficulty": 2, "id": 8}, {"topic_zh": "實踐", "topic_en": "Practices", "subtopic_zh": "變更管理", "subtopic_en": "Change Management", "question_zh": "邊類變更需要正式嘅變更諮詢委員會（CAB）審批？", "question_en": "Which type of changes require formal Change Advisory Board (CAB) approval?", "options_zh": ["重大變更", "緊急變更", "標準變更", "所有變更"], "options_en": ["Major changes", "Emergency changes", "Standard changes", "All changes"], "answer": 0, "explanation_zh": "重大變更需要CAB審批。標準變更已預先授權，緊急變更由緊急變更委員會處理。", "explanation_en": "Major changes require CAB approval. Standard changes are pre-authorized, and emergency changes are handled by the Emergency Change Committee.", "difficulty": 2, "id": 9}, {"topic_zh": "實踐", "topic_en": "Practices", "subtopic_zh": "服務台", "subtopic_en": "Service Desk", "question_zh": "服務台實踐嘅主要目標係咩？", "question_en": "What is the primary goal of the Service Desk practice?", "options_zh": ["修復所有技術問題", "管理服務器", "捕捉需求以減低問題發生", "執行審計"], "options_en": ["Fix all technical problems", "Manage servers", "Capture demand for incident resolution", "Perform audits"], "answer": 2, "explanation_zh": "服務台嘅主要目標係捕捉需求以減低問題發生，作為用戶同IT之間嘅單一聯絡點。", "explanation_en": "Service Desk's primary goal is to capture demand for incident resolution, serving as the single point of contact between users and IT.", "difficulty": 1, "id": 10}, {"topic_zh": "治理", "topic_en": "Governance", "subtopic_zh": "治理角色", "subtopic_en": "Governance Roles", "question_zh": "喺ITIL 4中，邊個負責確保組織嘅治理框架有效運作？", "question_en": "In ITIL 4, who is responsible for ensuring the organization's governance framework operates effectively?", "options_zh": ["客戶", "董事會/管理層", "技術支援團隊", "服務台經理"], "options_en": ["Customers", "Board/Management", "Technical support team", "Service desk manager"], "answer": 1, "explanation_zh": "董事會或最高管理層負責確保治理框架有效運作，指導組織活動。", "explanation_en": "The board or top management is responsible for ensuring the governance framework operates effectively, directing organizational activities.", "difficulty": 2, "id": 11}, {"topic_zh": "持續改進", "topic_en": "Continual Improvement", "subtopic_zh": "改進模型", "subtopic_en": "Improvement Model", "question_zh": "持續改進模型嘅第一步係咩？", "question_en": "What is the first step of the Continual Improvement Model?", "options_zh": ["現在喺邊", "點樣去到", "目標喺邊", "願景係咩"], "options_en": ["Where are we now", "How do we get there", "Where do we want to be", "What is the vision"], "answer": 3, "explanation_zh": "持續改進模型第一步係「願景係咩」，理解組織嘅戰略方向。", "explanation_en": "The first step of the Continual Improvement Model is 'What is the vision', understanding the organization's strategic direction.", "difficulty": 1, "id": 12}, {"topic_zh": "持續改進", "topic_en": "Continual Improvement", "subtopic_zh": "改進登記冊", "subtopic_en": "Improvement Register", "question_zh": "改進登記冊嘅主要用途係咩？", "question_en": "What is the primary purpose of the Improvement Register?", "options_zh": ["記錄所有變更", "記錄所有事件", "記錄所有問題", "記錄所有改進建議同進度"], "options_en": ["Record all changes", "Record all incidents", "Record all problems", "Record all improvement suggestions and progress"], "answer": 3, "explanation_zh": "改進登記冊記錄所有改進建議、優先級、負責人同進度，確保改進活動得到管理。", "explanation_en": "The Improvement Register records all improvement suggestions, priorities, owners, and progress, ensuring improvement activities are managed.", "difficulty": 2, "id": 13}, {"id": 14, "topic_zh": "服務價值鏈", "topic_en": "服務價值鏈", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4考試中，服務價值鏈通常會點樣考核？", "question_en": "ITIL 4考試中，服務價值鏈通常會點樣考核？", "options_zh": ["人力資源管理實踐", "服務價值鏈嘅核心原則同應用", "項目管理方法論", "市場營銷策略制定"], "options_en": ["Human resource management practices", "Core principles and applications of 服務價值鏈", "Project management methodology", "Marketing strategy development"], "answer": 1, "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.", "difficulty": 3}, {"id": 15, "topic_zh": "指導原則", "topic_en": "指導原則", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4服務管理中，指導原則嘅重要性體現喺邊度？", "question_en": "喺ITIL 4服務管理中，指導原則嘅重要性體現喺邊度？", "options_zh": ["人力資源管理實踐", "指導原則嘅核心原則同應用", "市場營銷策略制定", "項目管理方法論"], "options_en": ["Human resource management practices", "Core principles and applications of 指導原則", "Marketing strategy development", "Project management methodology"], "answer": 1, "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 指導原則.", "difficulty": 3}, {"id": 16, "topic_zh": "治理", "topic_en": "治理", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "關於ITIL 4嘅治理，以下邊項描述最準確？", "question_en": "關於ITIL 4嘅治理，以下邊項描述最準確？", "options_zh": ["人力資源管理實踐", "治理嘅核心原則同應用", "市場營銷策略制定", "項目管理方法論"], "options_en": ["Human resource management practices", "Core principles and applications of 治理", "Marketing strategy development", "Project management methodology"], "answer": 1, "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 治理.", "difficulty": 1}, {"id": 17, "topic_zh": "指導原則", "topic_en": "指導原則", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4 Foundation考試中，指導原則嘅核心概念包括邊啲？", "question_en": "ITIL 4 Foundation考試中，指導原則嘅核心概念包括邊啲？", "options_zh": ["市場營銷策略制定", "指導原則嘅核心原則同應用", "項目管理方法論", "人力資源管理實踐"], "options_en": ["Marketing strategy development", "Core principles and applications of 指導原則", "Project management methodology", "Human resource management practices"], "answer": 1, "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 指導原則.", "difficulty": 1}, {"id": 18, "topic_zh": "持續改進", "topic_en": "持續改進", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4服務管理中，持續改進嘅重要性體現喺邊度？", "question_en": "喺ITIL 4服務管理中，持續改進嘅重要性體現喺邊度？", "options_zh": ["人力資源管理實踐", "項目管理方法論", "市場營銷策略制定", "持續改進嘅核心原則同應用"], "options_en": ["Human resource management practices", "Project management methodology", "Marketing strategy development", "Core principles and applications of 持續改進"], "answer": 3, "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 持續改進.", "difficulty": 1}, {"id": 19, "topic_zh": "實踐", "topic_en": "實踐", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4服務管理中，實踐嘅重要性體現喺邊度？", "question_en": "喺ITIL 4服務管理中，實踐嘅重要性體現喺邊度？", "options_zh": ["市場營銷策略制定", "項目管理方法論", "實踐嘅核心原則同應用", "人力資源管理實踐"], "options_en": ["Marketing strategy development", "Project management methodology", "Core principles and applications of 實踐", "Human resource management practices"], "answer": 2, "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 實踐.", "difficulty": 3}, {"id": 20, "topic_zh": "服務價值系統", "topic_en": "服務價值系統", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4服務管理中，服務價值系統嘅重要性體現喺邊度？", "question_en": "喺ITIL 4服務管理中，服務價值系統嘅重要性體現喺邊度？", "options_zh": ["市場營銷策略制定", "服務價值系統嘅核心原則同應用", "項目管理方法論", "人力資源管理實踐"], "options_en": ["Marketing strategy development", "Core principles and applications of 服務價值系統", "Project management methodology", "Human resource management practices"], "answer": 1, "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.", "difficulty": 2}, {"id": 21, "topic_zh": "持續改進", "topic_en": "持續改進", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "關於ITIL 4嘅持續改進，以下邊項描述最準確？", "question_en": "關於ITIL 4嘅持續改進，以下邊項描述最準確？", "options_zh": ["人力資源管理實踐", "市場營銷策略制定", "項目管理方法論", "持續改進嘅核心原則同應用"], "options_en": ["Human resource management practices", "Marketing strategy development", "Project management methodology", "Core principles and applications of 持續改進"], "answer": 3, "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 持續改進.", "difficulty": 2}, {"id": 22, "topic_zh": "治理", "topic_en": "治理", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4考試中，關於治理，以下邊項係正確嘅？", "question_en": "喺ITIL 4考試中，關於治理，以下邊項係正確嘅？", "options_zh": ["人力資源管理實踐", "市場營銷策略制定", "治理嘅核心原則同應用", "項目管理方法論"], "options_en": ["Human resource management practices", "Marketing strategy development", "Core principles and applications of 治理", "Project management methodology"], "answer": 2, "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 治理.", "difficulty": 3}, {"id": 23, "topic_zh": "治理", "topic_en": "治理", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4 Foundation考試中，治理嘅核心概念包括邊啲？", "question_en": "ITIL 4 Foundation考試中，治理嘅核心概念包括邊啲？", "options_zh": ["項目管理方法論", "市場營銷策略制定", "人力資源管理實踐", "治理嘅核心原則同應用"], "options_en": ["Project management methodology", "Marketing strategy development", "Human resource management practices", "Core principles and applications of 治理"], "answer": 3, "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 治理.", "difficulty": 1}, {"id": 24, "topic_zh": "實踐", "topic_en": "實踐", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4考試中，關於實踐，以下邊項係正確嘅？", "question_en": "喺ITIL 4考試中，關於實踐，以下邊項係正確嘅？", "options_zh": ["項目管理方法論", "市場營銷策略制定", "實踐嘅核心原則同應用", "人力資源管理實踐"], "options_en": ["Project management methodology", "Marketing strategy development", "Core principles and applications of 實踐", "Human resource management practices"], "answer": 2, "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 實踐.", "difficulty": 1}, {"id": 25, "topic_zh": "服務價值系統", "topic_en": "服務價值系統", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "關於ITIL 4嘅服務價值系統，以下邊項描述最準確？", "question_en": "關於ITIL 4嘅服務價值系統，以下邊項描述最準確？", "options_zh": ["市場營銷策略制定", "人力資源管理實踐", "項目管理方法論", "服務價值系統嘅核心原則同應用"], "options_en": ["Marketing strategy development", "Human resource management practices", "Project management methodology", "Core principles and applications of 服務價值系統"], "answer": 3, "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.", "difficulty": 1}, {"id": 26, "topic_zh": "指導原則", "topic_en": "指導原則", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4考試中，指導原則通常會點樣考核？", "question_en": "ITIL 4考試中，指導原則通常會點樣考核？", "options_zh": ["項目管理方法論", "人力資源管理實踐", "指導原則嘅核心原則同應用", "市場營銷策略制定"], "options_en": ["Project management methodology", "Human resource management practices", "Core principles and applications of 指導原則", "Marketing strategy development"], "answer": 2, "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 指導原則.", "difficulty": 2}, {"id": 27, "topic_zh": "持續改進", "topic_en": "持續改進", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4 Foundation考試中，持續改進嘅核心概念包括邊啲？", "question_en": "ITIL 4 Foundation考試中，持續改進嘅核心概念包括邊啲？", "options_zh": ["人力資源管理實踐", "市場營銷策略制定", "項目管理方法論", "持續改進嘅核心原則同應用"], "options_en": ["Human resource management practices", "Marketing strategy development", "Project management methodology", "Core principles and applications of 持續改進"], "answer": 3, "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 持續改進.", "difficulty": 1}, {"id": 28, "topic_zh": "實踐", "topic_en": "實踐", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4考試中，實踐通常會點樣考核？", "question_en": "ITIL 4考試中，實踐通常會點樣考核？", "options_zh": ["實踐嘅核心原則同應用", "項目管理方法論", "人力資源管理實踐", "市場營銷策略制定"], "options_en": ["Core principles and applications of 實踐", "Project management methodology", "Human resource management practices", "Marketing strategy development"], "answer": 0, "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 實踐.", "difficulty": 2}, {"id": 30, "topic_zh": "指導原則", "topic_en": "指導原則", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "關於ITIL 4嘅指導原則，以下邊項描述最準確？", "question_en": "關於ITIL 4嘅指導原則，以下邊項描述最準確？", "options_zh": ["市場營銷策略制定", "人力資源管理實踐", "項目管理方法論", "指導原則嘅核心原則同應用"], "options_en": ["Marketing strategy development", "Human resource management practices", "Project management methodology", "Core principles and applications of 指導原則"], "answer": 3, "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 指導原則.", "difficulty": 1}, {"id": 32, "topic_zh": "治理", "topic_en": "治理", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4服務管理中，治理嘅重要性體現喺邊度？", "question_en": "喺ITIL 4服務管理中，治理嘅重要性體現喺邊度？", "options_zh": ["市場營銷策略制定", "人力資源管理實踐", "治理嘅核心原則同應用", "項目管理方法論"], "options_en": ["Marketing strategy development", "Human resource management practices", "Core principles and applications of 治理", "Project management methodology"], "answer": 2, "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 治理.", "difficulty": 1}, {"id": 34, "topic_zh": "持續改進", "topic_en": "持續改進", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4考試中，關於持續改進，以下邊項係正確嘅？", "question_en": "喺ITIL 4考試中，關於持續改進，以下邊項係正確嘅？", "options_zh": ["項目管理方法論", "人力資源管理實踐", "市場營銷策略制定", "持續改進嘅核心原則同應用"], "options_en": ["Project management methodology", "Human resource management practices", "Marketing strategy development", "Core principles and applications of 持續改進"], "answer": 3, "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 持續改進.", "difficulty": 2}, {"id": 35, "topic_zh": "實踐", "topic_en": "實踐", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4 Foundation考試中，實踐嘅核心概念包括邊啲？", "question_en": "ITIL 4 Foundation考試中，實踐嘅核心概念包括邊啲？", "options_zh": ["市場營銷策略制定", "實踐嘅核心原則同應用", "人力資源管理實踐", "項目管理方法論"], "options_en": ["Marketing strategy development", "Core principles and applications of 實踐", "Human resource management practices", "Project management methodology"], "answer": 1, "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 實踐.", "difficulty": 1}, {"id": 36, "topic_zh": "服務價值系統", "topic_en": "服務價值系統", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4考試中，服務價值系統通常會點樣考核？", "question_en": "ITIL 4考試中，服務價值系統通常會點樣考核？", "options_zh": ["市場營銷策略制定", "項目管理方法論", "人力資源管理實踐", "服務價值系統嘅核心原則同應用"], "options_en": ["Marketing strategy development", "Project management methodology", "Human resource management practices", "Core principles and applications of 服務價值系統"], "answer": 3, "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.", "difficulty": 1}, {"id": 38, "topic_zh": "服務價值系統", "topic_en": "服務價值系統", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4考試中，關於服務價值系統，以下邊項係正確嘅？", "question_en": "喺ITIL 4考試中，關於服務價值系統，以下邊項係正確嘅？", "options_zh": ["市場營銷策略制定", "服務價值系統嘅核心原則同應用", "項目管理方法論", "人力資源管理實踐"], "options_en": ["Marketing strategy development", "Core principles and applications of 服務價值系統", "Project management methodology", "Human resource management practices"], "answer": 1, "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.", "difficulty": 1}, {"id": 39, "topic_zh": "持續改進", "topic_en": "持續改進", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4考試中，持續改進通常會點樣考核？", "question_en": "ITIL 4考試中，持續改進通常會點樣考核？", "options_zh": ["人力資源管理實踐", "市場營銷策略制定", "持續改進嘅核心原則同應用", "項目管理方法論"], "options_en": ["Human resource management practices", "Marketing strategy development", "Core principles and applications of 持續改進", "Project management methodology"], "answer": 2, "explanation_zh": "呢個問題測試你對ITIL 4 持續改進嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 持續改進.", "difficulty": 3}, {"id": 43, "topic_zh": "指導原則", "topic_en": "指導原則", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4考試中，關於指導原則，以下邊項係正確嘅？", "question_en": "喺ITIL 4考試中，關於指導原則，以下邊項係正確嘅？", "options_zh": ["市場營銷策略制定", "人力資源管理實踐", "項目管理方法論", "指導原則嘅核心原則同應用"], "options_en": ["Marketing strategy development", "Human resource management practices", "Project management methodology", "Core principles and applications of 指導原則"], "answer": 3, "explanation_zh": "呢個問題測試你對ITIL 4 指導原則嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 指導原則.", "difficulty": 3}, {"id": 48, "topic_zh": "服務價值鏈", "topic_en": "服務價值鏈", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4考試中，關於服務價值鏈，以下邊項係正確嘅？", "question_en": "喺ITIL 4考試中，關於服務價值鏈，以下邊項係正確嘅？", "options_zh": ["人力資源管理實踐", "市場營銷策略制定", "項目管理方法論", "服務價值鏈嘅核心原則同應用"], "options_en": ["Human resource management practices", "Marketing strategy development", "Project management methodology", "Core principles and applications of 服務價值鏈"], "answer": 3, "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.", "difficulty": 1}, {"id": 52, "topic_zh": "實踐", "topic_en": "實踐", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "關於ITIL 4嘅實踐，以下邊項描述最準確？", "question_en": "關於ITIL 4嘅實踐，以下邊項描述最準確？", "options_zh": ["市場營銷策略制定", "項目管理方法論", "實踐嘅核心原則同應用", "人力資源管理實踐"], "options_en": ["Marketing strategy development", "Project management methodology", "Core principles and applications of 實踐", "Human resource management practices"], "answer": 2, "explanation_zh": "呢個問題測試你對ITIL 4 實踐嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 實踐.", "difficulty": 2}, {"id": 53, "topic_zh": "服務價值系統", "topic_en": "服務價值系統", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4 Foundation考試中，服務價值系統嘅核心概念包括邊啲？", "question_en": "ITIL 4 Foundation考試中，服務價值系統嘅核心概念包括邊啲？", "options_zh": ["人力資源管理實踐", "市場營銷策略制定", "項目管理方法論", "服務價值系統嘅核心原則同應用"], "options_en": ["Human resource management practices", "Marketing strategy development", "Project management methodology", "Core principles and applications of 服務價值系統"], "answer": 3, "explanation_zh": "呢個問題測試你對ITIL 4 服務價值系統嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 服務價值系統.", "difficulty": 1}, {"id": 60, "topic_zh": "服務價值鏈", "topic_en": "服務價值鏈", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "喺ITIL 4服務管理中，服務價值鏈嘅重要性體現喺邊度？", "question_en": "喺ITIL 4服務管理中，服務價值鏈嘅重要性體現喺邊度？", "options_zh": ["服務價值鏈嘅核心原則同應用", "市場營銷策略制定", "人力資源管理實踐", "項目管理方法論"], "options_en": ["Core principles and applications of 服務價值鏈", "Marketing strategy development", "Human resource management practices", "Project management methodology"], "answer": 0, "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.", "difficulty": 2}, {"id": 93, "topic_zh": "服務價值鏈", "topic_en": "服務價值鏈", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "關於ITIL 4嘅服務價值鏈，以下邊項描述最準確？", "question_en": "關於ITIL 4嘅服務價值鏈，以下邊項描述最準確？", "options_zh": ["服務價值鏈嘅核心原則同應用", "項目管理方法論", "人力資源管理實踐", "市場營銷策略制定"], "options_en": ["Core principles and applications of 服務價值鏈", "Project management methodology", "Human resource management practices", "Marketing strategy development"], "answer": 0, "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.", "difficulty": 3}, {"id": 103, "topic_zh": "治理", "topic_en": "治理", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4考試中，治理通常會點樣考核？", "question_en": "ITIL 4考試中，治理通常會點樣考核？", "options_zh": ["治理嘅核心原則同應用", "市場營銷策略制定", "人力資源管理實踐", "項目管理方法論"], "options_en": ["Core principles and applications of 治理", "Marketing strategy development", "Human resource management practices", "Project management methodology"], "answer": 0, "explanation_zh": "呢個問題測試你對ITIL 4 治理嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 治理.", "difficulty": 2}, {"id": 108, "topic_zh": "服務價值鏈", "topic_en": "服務價值鏈", "subtopic_zh": "概念理解", "subtopic_en": "Conceptual Understanding", "question_zh": "ITIL 4 Foundation考試中，服務價值鏈嘅核心概念包括邊啲？", "question_en": "ITIL 4 Foundation考試中，服務價值鏈嘅核心概念包括邊啲？", "options_zh": ["服務價值鏈嘅核心原則同應用", "市場營銷策略制定", "項目管理方法論", "人力資源管理實踐"], "options_en": ["Core principles and applications of 服務價值鏈", "Marketing strategy development", "Project management methodology", "Human resource management practices"], "answer": 0, "explanation_zh": "呢個問題測試你對ITIL 4 服務價值鏈嘅理解。", "explanation_en": "This question tests your understanding of ITIL 4 服務價值鏈.", "difficulty": 1}]
+[
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "事故管理實踐（Incident Management）嘅目標係咩？",
+    "question_en": "事故管理實踐（Incident Management）嘅目標係咩？",
+    "options_zh": [
+      "預防所有事故",
+      "盡快恢復正常服務運營",
+      "追究責任",
+      "更新CMDB"
+    ],
+    "options_en": [
+      "預防所有事故",
+      "盡快恢復正常服務運營",
+      "追究責任",
+      "更新CMDB"
+    ],
+    "answer": 1,
+    "explanation_zh": "事故管理嘅目標係盡快恢復正常服務運營，將對業務嘅影響降至最低。",
+    "explanation_en": "事故管理嘅目標係盡快恢復正常服務運營，將對業務嘅影響降至最低。",
+    "difficulty": 2,
+    "id": 1
+  },
+  {
+    "topic_zh": "持續改進",
+    "topic_en": "Continual Improvement",
+    "subtopic_zh": "持續改進",
+    "subtopic_en": "Continual Improvement",
+    "question_zh": "持續改進嘅第一步係咩？",
+    "question_en": "持續改進嘅第一步係咩？",
+    "options_zh": [
+      "執行改進",
+      "評估結果",
+      "理解組織嘅願景同戰略目標",
+      "收集數據"
+    ],
+    "options_en": [
+      "執行改進",
+      "評估結果",
+      "理解組織嘅願景同戰略目標",
+      "收集數據"
+    ],
+    "answer": 2,
+    "explanation_zh": "第一步係「我們嘅願景係咩？」——理解組織嘅願景同戰略目標。",
+    "explanation_en": "第一步係「我們嘅願景係咩？」——理解組織嘅願景同戰略目標。",
+    "difficulty": 2,
+    "id": 2
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "服務目錄管理實踐嘅產出係咩？",
+    "question_en": "服務目錄管理實踐嘅產出係咩？",
+    "options_zh": [
+      "僅IT資產清單",
+      "服務目錄——列出所有可用服務同相關資訊",
+      "僅價格表",
+      "僅SLA"
+    ],
+    "options_en": [
+      "僅IT資產清單",
+      "服務目錄——列出所有可用服務同相關資訊",
+      "僅價格表",
+      "僅SLA"
+    ],
+    "answer": 1,
+    "explanation_zh": "服務目錄列出所有可用服務、服務選項、價格同SLA資訊。",
+    "explanation_en": "服務目錄列出所有可用服務、服務選項、價格同SLA資訊。",
+    "difficulty": 2,
+    "id": 3
+  },
+  {
+    "topic_zh": "服務價值鏈",
+    "topic_en": "Service Value Chain",
+    "subtopic_zh": "服務價值鏈",
+    "subtopic_en": "Service Value Chain",
+    "question_zh": "「設計與轉換」活動嘅目標係咩？",
+    "question_en": "「設計與轉換」活動嘅目標係咩？",
+    "options_zh": [
+      "僅設計新服務",
+      "僅管理變更",
+      "確保產品服務滿足利益相關者期望",
+      "僅處理事故"
+    ],
+    "options_en": [
+      "僅設計新服務",
+      "僅管理變更",
+      "確保產品服務滿足利益相關者期望",
+      "僅處理事故"
+    ],
+    "answer": 2,
+    "explanation_zh": "設計與轉換確保產品同服務滿足利益相關者嘅質量、成本同上市時間期望。",
+    "explanation_en": "設計與轉換確保產品同服務滿足利益相關者嘅質量、成本同上市時間期望。",
+    "difficulty": 2,
+    "id": 4
+  },
+  {
+    "topic_zh": "指導原則",
+    "topic_en": "Guiding Principles",
+    "subtopic_zh": "指導原則",
+    "subtopic_en": "Guiding Principles",
+    "question_zh": "「從你現有嘅開始」原則嘅含義係咩？",
+    "question_en": "「從你現有嘅開始」原則嘅含義係咩？",
+    "options_zh": [
+      "重新開始",
+      "利用現有資源服務作為起點",
+      "唔需要改進",
+      "僅購買新技術"
+    ],
+    "options_en": [
+      "重新開始",
+      "利用現有資源服務作為起點",
+      "唔需要改進",
+      "僅購買新技術"
+    ],
+    "answer": 1,
+    "explanation_zh": "呢條原則建議組織利用現有資源同服務作為改進嘅起點，唔係推倒重來。",
+    "explanation_en": "呢條原則建議組織利用現有資源同服務作為改進嘅起點，唔係推倒重來。",
+    "difficulty": 2,
+    "id": 5
+  },
+  {
+    "topic_zh": "指導原則",
+    "topic_en": "Guiding Principles",
+    "subtopic_zh": "指導原則",
+    "subtopic_en": "Guiding Principles",
+    "question_zh": "「保持簡單實用」原則嘅含義係咩？",
+    "question_en": "「保持簡單實用」原則嘅含義係咩？",
+    "options_zh": [
+      "僅做簡單任務",
+      "唔需要改進",
+      "唔需要文檔",
+      "使用最少步驟實現目標"
+    ],
+    "options_en": [
+      "僅做簡單任務",
+      "唔需要改進",
+      "唔需要文檔",
+      "使用最少步驟實現目標"
+    ],
+    "answer": 3,
+    "explanation_zh": "保持簡單實用原則建議使用最少步驟、排除廢棄流程來實現目標。",
+    "explanation_en": "保持簡單實用原則建議使用最少步驟、排除廢棄流程來實現目標。",
+    "difficulty": 2,
+    "id": 6
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "業務分析實踐喺ITIL 4中嘅角色係咩？",
+    "question_en": "業務分析實踐喺ITIL 4中嘅角色係咩？",
+    "options_zh": [
+      "僅做需求文檔",
+      "分析業務問題同機會，提出改進方案",
+      "僅做數據分析",
+      "僅做市場調研"
+    ],
+    "options_en": [
+      "僅做需求文檔",
+      "分析業務問題同機會，提出改進方案",
+      "僅做數據分析",
+      "僅做市場調研"
+    ],
+    "answer": 1,
+    "explanation_zh": "業務分析實踐分析業務問題、需求同機會，為服務改進提供洞察。",
+    "explanation_en": "業務分析實踐分析業務問題、需求同機會，為服務改進提供洞察。",
+    "difficulty": 2,
+    "id": 7
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "測試同評估實踐（Verification & Validation）嘅區別係咩？",
+    "question_en": "測試同評估實踐（Verification & Validation）嘅區別係咩？",
+    "options_zh": [
+      "確認更早",
+      "無區別",
+      "驗證更重要",
+      "驗證確認產品正確，確認產品做正確嘅事"
+    ],
+    "options_en": [
+      "確認更早",
+      "無區別",
+      "驗證更重要",
+      "驗證確認產品正確，確認產品做正確嘅事"
+    ],
+    "answer": 3,
+    "explanation_zh": "驗證（Verification）確認產品按規格正確構建；確認（Validation）確認產品滿足用戶需求。",
+    "explanation_en": "驗證（Verification）確認產品按規格正確構建；確認（Validation）確認產品滿足用戶需求。",
+    "difficulty": 2,
+    "id": 8
+  },
+  {
+    "topic_zh": "治理",
+    "topic_en": "Governance",
+    "subtopic_zh": "治理",
+    "subtopic_en": "Governance",
+    "question_zh": "風險治理包括邊幾個步驟？",
+    "question_en": "風險治理包括邊幾個步驟？",
+    "options_zh": [
+      "僅處理風險",
+      "僅識別風險",
+      "識別、評估、處理同監控風險",
+      "僅報告風險"
+    ],
+    "options_en": [
+      "僅處理風險",
+      "僅識別風險",
+      "識別、評估、處理同監控風險",
+      "僅報告風險"
+    ],
+    "answer": 2,
+    "explanation_zh": "風險治理包括：風險識別→風險評估→風險處理→風險監控。",
+    "explanation_en": "風險治理包括：風險識別→風險評估→風險處理→風險監控。",
+    "difficulty": 2,
+    "id": 9
+  },
+  {
+    "topic_zh": "指導原則",
+    "topic_en": "Guiding Principles",
+    "subtopic_zh": "指導原則",
+    "subtopic_en": "Guiding Principles",
+    "question_zh": "「思考同運作整體化」原則要求咩？",
+    "question_en": "「思考同運作整體化」原則要求咩？",
+    "options_zh": [
+      "將組織視為一個整體系統",
+      "僅考慮人員",
+      "僅考慮技術",
+      "僅考慮流程"
+    ],
+    "options_en": [
+      "將組織視為一個整體系統",
+      "僅考慮人員",
+      "僅考慮技術",
+      "僅考慮流程"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢條原則要求將組織視為一個複雜系統，各部分相互關聯。",
+    "explanation_en": "呢條原則要求將組織視為一個複雜系統，各部分相互關聯。",
+    "difficulty": 2,
+    "id": 10
+  },
+  {
+    "topic_zh": "服務價值鏈",
+    "topic_en": "Service Value Chain",
+    "subtopic_zh": "服務價值鏈",
+    "subtopic_en": "Service Value Chain",
+    "question_zh": "「互動」活動負責處理邊方面？",
+    "question_en": "「互動」活動負責處理邊方面？",
+    "options_zh": [
+      "同利益相關者嘅所有關係同需求",
+      "僅內部溝通",
+      "僅技術問題",
+      "僅供應商管理"
+    ],
+    "options_en": [
+      "同利益相關者嘅所有關係同需求",
+      "僅內部溝通",
+      "僅技術問題",
+      "僅供應商管理"
+    ],
+    "answer": 0,
+    "explanation_zh": "互動活動處理同所有利益相關者（客戶、用戶、供應商等）嘅關係、需求同參與。",
+    "explanation_en": "互動活動處理同所有利益相關者（客戶、用戶、供應商等）嘅關係、需求同參與。",
+    "difficulty": 2,
+    "id": 11
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "發佈管理（Release Management）嘅職責包括邊啲？",
+    "question_en": "發佈管理（Release Management）嘅職責包括邊啲？",
+    "options_zh": [
+      "僅部署代碼",
+      "計劃、安排同控制發佈到測試同生產環境",
+      "僅文檔",
+      "僅測試"
+    ],
+    "options_en": [
+      "僅部署代碼",
+      "計劃、安排同控制發佈到測試同生產環境",
+      "僅文檔",
+      "僅測試"
+    ],
+    "answer": 1,
+    "explanation_zh": "發佈管理負責計劃、排程同控制軟件組件嘅發佈到各環境。",
+    "explanation_en": "發佈管理負責計劃、排程同控制軟件組件嘅發佈到各環境。",
+    "difficulty": 2,
+    "id": 12
+  },
+  {
+    "topic_zh": "治理",
+    "topic_en": "Governance",
+    "subtopic_zh": "治理",
+    "subtopic_en": "Governance",
+    "question_zh": "IT治理中董事會嘅角色係咩？",
+    "question_en": "IT治理中董事會嘅角色係咩？",
+    "options_zh": [
+      "僅管理預算",
+      "僅執行技術工作",
+      "確保IT投資同組織戰略一致",
+      "僅招聘人員"
+    ],
+    "options_en": [
+      "僅管理預算",
+      "僅執行技術工作",
+      "確保IT投資同組織戰略一致",
+      "僅招聘人員"
+    ],
+    "answer": 2,
+    "explanation_zh": "董事會/治理機構確保IT投資同活動同組織戰略目標一致。",
+    "explanation_en": "董事會/治理機構確保IT投資同活動同組織戰略目標一致。",
+    "difficulty": 2,
+    "id": 13
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "ITIL 4定義咗幾多個管理實踐？",
+    "question_en": "ITIL 4定義咗幾多個管理實踐？",
+    "options_zh": [
+      "40個",
+      "26個",
+      "15個",
+      "34個"
+    ],
+    "options_en": [
+      "40個",
+      "26個",
+      "15個",
+      "34個"
+    ],
+    "answer": 3,
+    "explanation_zh": "ITIL 4定義咗34個管理實踐，分為通用管理、服務管理同技術管理三大類。",
+    "explanation_en": "ITIL 4定義咗34個管理實踐，分為通用管理、服務管理同技術管理三大類。",
+    "difficulty": 2,
+    "id": 14
+  },
+  {
+    "topic_zh": "治理",
+    "topic_en": "Governance",
+    "subtopic_zh": "治理",
+    "subtopic_en": "Governance",
+    "question_zh": "治理體系嘅主要職責包括邊啲？",
+    "question_en": "治理體系嘅主要職責包括邊啲？",
+    "options_zh": [
+      "評估、指導同監控組織嘅活動",
+      "僅監控",
+      "僅計劃",
+      "僅執行"
+    ],
+    "options_en": [
+      "評估、指導同監控組織嘅活動",
+      "僅監控",
+      "僅計劃",
+      "僅執行"
+    ],
+    "answer": 0,
+    "explanation_zh": "治理體系通過評估（evaluate）、指導（direct）同監控（monitor）確保組織活動符合目標。",
+    "explanation_en": "治理體系通過評估（evaluate）、指導（direct）同監控（monitor）確保組織活動符合目標。",
+    "difficulty": 2,
+    "id": 15
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "配置管理實踐（CMDB）嘅作用係咩？",
+    "question_en": "配置管理實踐（CMDB）嘅作用係咩？",
+    "options_zh": [
+      "僅記錄軟件",
+      "僅記錄硬件",
+      "管理財務",
+      "記錄同管理IT基礎設施嘅配置項同關係"
+    ],
+    "options_en": [
+      "僅記錄軟件",
+      "僅記錄硬件",
+      "管理財務",
+      "記錄同管理IT基礎設施嘅配置項同關係"
+    ],
+    "answer": 3,
+    "explanation_zh": "配置管理通過CMDB記錄所有配置項（CI）及其關係，支持其他實踐。",
+    "explanation_en": "配置管理通過CMDB記錄所有配置項（CI）及其關係，支持其他實踐。",
+    "difficulty": 2,
+    "id": 16
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "ITIL 4嘅四維模型包括邊四個維度？",
+    "question_en": "ITIL 4嘅四維模型包括邊四個維度？",
+    "options_zh": [
+      "計劃、執行、檢查、行動",
+      "組織同人員、信息同技術、合作夥伴同供應商、價值流同流程",
+      "人、流程、技術、成本",
+      "設計、轉換、運營、改進"
+    ],
+    "options_en": [
+      "計劃、執行、檢查、行動",
+      "組織同人員、信息同技術、合作夥伴同供應商、價值流同流程",
+      "人、流程、技術、成本",
+      "設計、轉換、運營、改進"
+    ],
+    "answer": 1,
+    "explanation_zh": "四維模型：1.組織同人員 2.信息同技術 3.合作夥伴同供應商 4.價值流同流程。",
+    "explanation_en": "四維模型：1.組織同人員 2.信息同技術 3.合作夥伴同供應商 4.價值流同流程。",
+    "difficulty": 2,
+    "id": 17
+  },
+  {
+    "topic_zh": "指導原則",
+    "topic_en": "Guiding Principles",
+    "subtopic_zh": "指導原則",
+    "subtopic_en": "Guiding Principles",
+    "question_zh": "「自動化優化」原則嘅應用條件係咩？",
+    "question_en": "「自動化優化」原則嘅應用條件係咩？",
+    "options_zh": [
+      "僅手動操作",
+      "先優化流程再自動化",
+      "自動化取代人員",
+      "所有流程都應自動化"
+    ],
+    "options_en": [
+      "僅手動操作",
+      "先優化流程再自動化",
+      "自動化取代人員",
+      "所有流程都應自動化"
+    ],
+    "answer": 1,
+    "explanation_zh": "呢條原則建議先優化流程，確認自動化能帶來價值後再進行自動化。",
+    "explanation_en": "呢條原則建議先優化流程，確認自動化能帶來價值後再進行自動化。",
+    "difficulty": 2,
+    "id": 18
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "信息安全管理實踐嘅CIA三要素係咩？",
+    "question_en": "信息安全管理實踐嘅CIA三要素係咩？",
+    "options_zh": [
+      "客戶、IT、審計",
+      "成本、收入、資產",
+      "機密性、完整性、可用性",
+      "合規、內部、審計"
+    ],
+    "options_en": [
+      "客戶、IT、審計",
+      "成本、收入、資產",
+      "機密性、完整性、可用性",
+      "合規、內部、審計"
+    ],
+    "answer": 2,
+    "explanation_zh": "CIA = Confidentiality（機密性）、Integrity（完整性）、Availability（可用性）。",
+    "explanation_en": "CIA = Confidentiality（機密性）、Integrity（完整性）、Availability（可用性）。",
+    "difficulty": 2,
+    "id": 19
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "服務消費（Service Consumer）包括邊三個角色？",
+    "question_en": "服務消費（Service Consumer）包括邊三個角色？",
+    "options_zh": [
+      "買家、賣家、經紀",
+      "客戶、用戶、贊助者",
+      "設計者、運營者、改進者",
+      "管理層、員工、客戶"
+    ],
+    "options_en": [
+      "買家、賣家、經紀",
+      "客戶、用戶、贊助者",
+      "設計者、運營者、改進者",
+      "管理層、員工、客戶"
+    ],
+    "answer": 1,
+    "explanation_zh": "服務消費者包括：客戶（governs）、用戶（uses）、贊助者（authorizes/funds）。",
+    "explanation_en": "服務消費者包括：客戶（governs）、用戶（uses）、贊助者（authorizes/funds）。",
+    "difficulty": 2,
+    "id": 20
+  },
+  {
+    "topic_zh": "治理",
+    "topic_en": "Governance",
+    "subtopic_zh": "治理",
+    "subtopic_en": "Governance",
+    "question_zh": "治理同管理嘅區別係咩？",
+    "question_en": "治理同管理嘅區別係咩？",
+    "options_zh": [
+      "治理負責評估、指導同監控；管理負責計劃同執行",
+      "治理僅適用於大型組織",
+      "無區別",
+      "管理更重要"
+    ],
+    "options_en": [
+      "治理負責評估、指導同監控；管理負責計劃同執行",
+      "治理僅適用於大型組織",
+      "無區別",
+      "管理更重要"
+    ],
+    "answer": 0,
+    "explanation_zh": "治理（Governance）負責評估、指導同監控；管理（Management）負責計劃、建設、交付同支持。",
+    "explanation_en": "治理（Governance）負責評估、指導同監控；管理（Management）負責計劃、建設、交付同支持。",
+    "difficulty": 2,
+    "id": 21
+  },
+  {
+    "topic_zh": "服務價值鏈",
+    "topic_en": "Service Value Chain",
+    "subtopic_zh": "服務價值鏈",
+    "subtopic_en": "Service Value Chain",
+    "question_zh": "價值鏈活動之間嘅關係係咩？",
+    "question_en": "價值鏈活動之間嘅關係係咩？",
+    "options_zh": [
+      "固定順序",
+      "靈活組合，可以任何順序進行",
+      "無關",
+      "僅線性"
+    ],
+    "options_en": [
+      "固定順序",
+      "靈活組合，可以任何順序進行",
+      "無關",
+      "僅線性"
+    ],
+    "answer": 1,
+    "explanation_zh": "價值鏈活動係靈活組合嘅，可以根據需要以任何順序進行，唔係固定流程。",
+    "explanation_en": "價值鏈活動係靈活組合嘅，可以根據需要以任何順序進行，唔係固定流程。",
+    "difficulty": 2,
+    "id": 22
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "變更管理實踐（Change Enablement）嘅目的係咩？",
+    "question_en": "變更管理實踐（Change Enablement）嘅目的係咩？",
+    "options_zh": [
+      "僅批准變更",
+      "阻止所有變更",
+      "僅記錄變更",
+      "最大化變更成功次數同時管理風險"
+    ],
+    "options_en": [
+      "僅批准變更",
+      "阻止所有變更",
+      "僅記錄變更",
+      "最大化變更成功次數同時管理風險"
+    ],
+    "answer": 3,
+    "explanation_zh": "變更管理確保以受控方式評估、批准同管理變更，最大化成功次數。",
+    "explanation_en": "變更管理確保以受控方式評估、批准同管理變更，最大化成功次數。",
+    "difficulty": 2,
+    "id": 23
+  },
+  {
+    "topic_zh": "持續改進",
+    "topic_en": "Continual Improvement",
+    "subtopic_zh": "持續改進",
+    "subtopic_en": "Continual Improvement",
+    "question_zh": "持續改進模型（CIM）包括邊幾個步驟？",
+    "question_en": "持續改進模型（CIM）包括邊幾個步驟？",
+    "options_zh": [
+      "7步",
+      "5步",
+      "10步",
+      "3步"
+    ],
+    "options_en": [
+      "7步",
+      "5步",
+      "10步",
+      "3步"
+    ],
+    "answer": 0,
+    "explanation_zh": "持續改進模型包括7個步驟：願景→我們喺邊→我們想去邊→點做→做咗→好唔好→繼續。",
+    "explanation_en": "持續改進模型包括7個步驟：願景→我們喺邊→我們想去邊→點做→做咗→好唔好→繼續。",
+    "difficulty": 2,
+    "id": 24
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "服務請求管理（Service Request Management）處理邊類型嘅請求？",
+    "question_en": "服務請求管理（Service Request Management）處理邊類型嘅請求？",
+    "options_zh": [
+      "所有IT請求",
+      "僅緊急請求",
+      "僅故障報告",
+      "標準化嘅低風險服務請求"
+    ],
+    "options_en": [
+      "所有IT請求",
+      "僅緊急請求",
+      "僅故障報告",
+      "標準化嘅低風險服務請求"
+    ],
+    "answer": 3,
+    "explanation_zh": "服務請求管理處理標準化、預先批准嘅低風險請求，如密碼重置、軟件安裝等。",
+    "explanation_en": "服務請求管理處理標準化、預先批准嘅低風險請求，如密碼重置、軟件安裝等。",
+    "difficulty": 2,
+    "id": 25
+  },
+  {
+    "topic_zh": "持續改進",
+    "topic_en": "Continual Improvement",
+    "subtopic_zh": "持續改進",
+    "subtopic_en": "Continual Improvement",
+    "question_zh": "改進登記簿（Improvement Register）嘅作用係咩？",
+    "question_en": "改進登記簿（Improvement Register）嘅作用係咩？",
+    "options_zh": [
+      "記錄所有事故",
+      "記錄同追蹤所有改進想法同機會",
+      "記錄供應商",
+      "記錄資產"
+    ],
+    "options_en": [
+      "記錄所有事故",
+      "記錄同追蹤所有改進想法同機會",
+      "記錄供應商",
+      "記錄資產"
+    ],
+    "answer": 1,
+    "explanation_zh": "改進登記簿記錄所有已識別嘅改進想法、機會同佢哋嘅狀態。",
+    "explanation_en": "改進登記簿記錄所有已識別嘅改進想法、機會同佢哋嘅狀態。",
+    "difficulty": 2,
+    "id": 26
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "ITIL 4 嘅服務價值系統（SVS）包括邊啲核心組件？",
+    "question_en": "ITIL 4 嘅服務價值系統（SVS）包括邊啲核心組件？",
+    "options_zh": [
+      "僅治理同實踐",
+      "指導原則、治理、服務價值鏈、持續改進同實踐",
+      "僅指導原則同實踐",
+      "僅服務價值鏈"
+    ],
+    "options_en": [
+      "僅治理同實踐",
+      "指導原則、治理、服務價值鏈、持續改進同實踐",
+      "僅指導原則同實踐",
+      "僅服務價值鏈"
+    ],
+    "answer": 1,
+    "explanation_zh": "SVS包括五大核心組件：指導原則、治理、服務價值鏈、持續改進同實踐。",
+    "explanation_en": "SVS包括五大核心組件：指導原則、治理、服務價值鏈、持續改進同實踐。",
+    "difficulty": 2,
+    "id": 27
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "知識管理實踐嘅目標係咩？",
+    "question_en": "知識管理實踐嘅目標係咩？",
+    "options_zh": [
+      "確保組織知識被有效共享同使用",
+      "僅培訓",
+      "僅搜索",
+      "僅存儲文檔"
+    ],
+    "options_en": [
+      "確保組織知識被有效共享同使用",
+      "僅培訓",
+      "僅搜索",
+      "僅存儲文檔"
+    ],
+    "answer": 0,
+    "explanation_zh": "知識管理確保組織嘅知識（顯性同隱性）被有效創建、共享同使用。",
+    "explanation_en": "知識管理確保組織嘅知識（顯性同隱性）被有效創建、共享同使用。",
+    "difficulty": 2,
+    "id": 28
+  },
+  {
+    "topic_zh": "持續改進",
+    "topic_en": "Continual Improvement",
+    "subtopic_zh": "持續改進",
+    "subtopic_en": "Continual Improvement",
+    "question_zh": "PDSA循環（Deming Cycle）包括邊四個階段？",
+    "question_en": "PDSA循環（Deming Cycle）包括邊四個階段？",
+    "options_zh": [
+      "計劃、執行、檢查、行動",
+      "設計、建造、測試、部署",
+      "識別、分析、解決、驗證",
+      "預防、偵測、解決、分析"
+    ],
+    "options_en": [
+      "計劃、執行、檢查、行動",
+      "設計、建造、測試、部署",
+      "識別、分析、解決、驗證",
+      "預防、偵測、解決、分析"
+    ],
+    "answer": 0,
+    "explanation_zh": "PDSA = Plan（計劃）→ Do（執行）→ Study（檢查）→ Act（行動）。",
+    "explanation_en": "PDSA = Plan（計劃）→ Do（執行）→ Study（檢查）→ Act（行動）。",
+    "difficulty": 2,
+    "id": 29
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "IT資產管理實踐（ITAM）嘅重點係咩？",
+    "question_en": "IT資產管理實踐（ITAM）嘅重點係咩？",
+    "options_zh": [
+      "管理IT資產嘅全生命週期價值同風險",
+      "僅財務",
+      "僅追蹤硬件",
+      "僅軟件許可"
+    ],
+    "options_en": [
+      "管理IT資產嘅全生命週期價值同風險",
+      "僅財務",
+      "僅追蹤硬件",
+      "僅軟件許可"
+    ],
+    "answer": 0,
+    "explanation_zh": "ITAM管理IT資產從採購到退役嘅全生命週期，優化價值同管理風險。",
+    "explanation_en": "ITAM管理IT資產從採購到退役嘅全生命週期，優化價值同管理風險。",
+    "difficulty": 2,
+    "id": 30
+  },
+  {
+    "topic_zh": "指導原則",
+    "topic_en": "Guiding Principles",
+    "subtopic_zh": "指導原則",
+    "subtopic_en": "Guiding Principles",
+    "question_zh": "「協作同提升可見度」原則嘅重點係咩？",
+    "question_en": "「協作同提升可見度」原則嘅重點係咩？",
+    "options_zh": [
+      "跨部門合作同信息透明",
+      "僅IT部門工作",
+      "隱藏問題",
+      "減少溝通"
+    ],
+    "options_en": [
+      "跨部門合作同信息透明",
+      "僅IT部門工作",
+      "隱藏問題",
+      "減少溝通"
+    ],
+    "answer": 0,
+    "explanation_zh": "呢條原則強調跨部門協作、信息透明同可見度提升。",
+    "explanation_en": "呢條原則強調跨部門協作、信息透明同可見度提升。",
+    "difficulty": 2,
+    "id": 31
+  },
+  {
+    "topic_zh": "持續改進",
+    "topic_en": "Continual Improvement",
+    "subtopic_zh": "持續改進",
+    "subtopic_en": "Continual Improvement",
+    "question_zh": "持續改進應該由邊個負責推動？",
+    "question_en": "持續改進應該由邊個負責推動？",
+    "options_zh": [
+      "僅IT部門",
+      "僅外部顧問",
+      "僅管理層",
+      "組織中嘅每個人"
+    ],
+    "options_en": [
+      "僅IT部門",
+      "僅外部顧問",
+      "僅管理層",
+      "組織中嘅每個人"
+    ],
+    "answer": 3,
+    "explanation_zh": "持續改進係每個人嘅責任，唔僅限於特定部門或角色。",
+    "explanation_en": "持續改進係每個人嘅責任，唔僅限於特定部門或角色。",
+    "difficulty": 2,
+    "id": 32
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "部署管理（Deployment Management）同發佈管理嘅區別係咩？",
+    "question_en": "部署管理（Deployment Management）同發佈管理嘅區別係咩？",
+    "options_zh": [
+      "無區別",
+      "部署管理處理技術搬移，發佈管理處理業務授權",
+      "部署更重要",
+      "發佈更技術性"
+    ],
+    "options_en": [
+      "無區別",
+      "部署管理處理技術搬移，發佈管理處理業務授權",
+      "部署更重要",
+      "發佈更技術性"
+    ],
+    "answer": 1,
+    "explanation_zh": "部署管理處理軟件組件從一個環境到另一個環境嘅技術搬移；發佈管理處理業務授權同打包。",
+    "explanation_en": "部署管理處理軟件組件從一個環境到另一個環境嘅技術搬移；發佈管理處理業務授權同打包。",
+    "difficulty": 2,
+    "id": 33
+  },
+  {
+    "topic_zh": "持續改進",
+    "topic_en": "Continual Improvement",
+    "subtopic_zh": "持續改進",
+    "subtopic_en": "Continual Improvement",
+    "question_zh": "KPI喺持續改進中嘅角色係咩？",
+    "question_en": "KPI喺持續改進中嘅角色係咩？",
+    "options_zh": [
+      "取代審計",
+      "僅報告用",
+      "衡量改進進度同成功程度",
+      "決定獎金"
+    ],
+    "options_en": [
+      "取代審計",
+      "僅報告用",
+      "衡量改進進度同成功程度",
+      "決定獎金"
+    ],
+    "answer": 2,
+    "explanation_zh": "KPI（關鍵績效指標）用於衡量改進進度同目標達成程度。",
+    "explanation_en": "KPI（關鍵績效指標）用於衡量改進進度同目標達成程度。",
+    "difficulty": 2,
+    "id": 34
+  },
+  {
+    "topic_zh": "服務價值鏈",
+    "topic_en": "Service Value Chain",
+    "subtopic_zh": "服務價值鏈",
+    "subtopic_en": "Service Value Chain",
+    "question_zh": "「獲取/構建」活動涉及邊方面？",
+    "question_en": "「獲取/構建」活動涉及邊方面？",
+    "options_zh": [
+      "僅購買硬件",
+      "確保服務組件可用",
+      "僅招聘人員",
+      "僅軟件開發"
+    ],
+    "options_en": [
+      "僅購買硬件",
+      "確保服務組件可用",
+      "僅招聘人員",
+      "僅軟件開發"
+    ],
+    "answer": 1,
+    "explanation_zh": "獲取/構建確保服務組件（內部或外部）按需可用。",
+    "explanation_en": "獲取/構建確保服務組件（內部或外部）按需可用。",
+    "difficulty": 2,
+    "id": 35
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "ITIL 4中34個實踐分為邊三大類？",
+    "question_en": "ITIL 4中34個實踐分為邊三大類？",
+    "options_zh": [
+      "設計、運營、改進",
+      "計劃、執行、監控",
+      "通用管理、服務管理、技術管理",
+      "人員、流程、技術"
+    ],
+    "options_en": [
+      "設計、運營、改進",
+      "計劃、執行、監控",
+      "通用管理、服務管理、技術管理",
+      "人員、流程、技術"
+    ],
+    "answer": 2,
+    "explanation_zh": "34個實踐分為：通用管理實踐（14個）、服務管理實踐（17個）、技術管理實踐（3個）。",
+    "explanation_en": "34個實踐分為：通用管理實踐（14個）、服務管理實踐（17個）、技術管理實踐（3個）。",
+    "difficulty": 2,
+    "id": 36
+  },
+  {
+    "topic_zh": "治理",
+    "topic_en": "Governance",
+    "subtopic_zh": "治理",
+    "subtopic_en": "Governance",
+    "question_zh": "合規管理喺治理中嘅作用係咩？",
+    "question_en": "合規管理喺治理中嘅作用係咩？",
+    "options_zh": [
+      "僅財務報告",
+      "確保組織遵守法律法規同內部政策",
+      "僅審計用",
+      "僅法律要求"
+    ],
+    "options_en": [
+      "僅財務報告",
+      "確保組織遵守法律法規同內部政策",
+      "僅審計用",
+      "僅法律要求"
+    ],
+    "answer": 1,
+    "explanation_zh": "合規管理確保組織遵守適用嘅法律法規、行業標準同內部政策。",
+    "explanation_en": "合規管理確保組織遵守適用嘅法律法規、行業標準同內部政策。",
+    "difficulty": 2,
+    "id": 37
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "供應商管理實踐嘅目標係咩？",
+    "question_en": "供應商管理實踐嘅目標係咩？",
+    "options_zh": [
+      "僅監控SLA",
+      "僅簽合同",
+      "僅管理價格",
+      "確保供應商按協議交付價值"
+    ],
+    "options_en": [
+      "僅監控SLA",
+      "僅簽合同",
+      "僅管理價格",
+      "確保供應商按協議交付價值"
+    ],
+    "answer": 3,
+    "explanation_zh": "供應商管理確保供應商按合同協議交付價值、管理供應商關係同績效。",
+    "explanation_en": "供應商管理確保供應商按合同協議交付價值、管理供應商關係同績效。",
+    "difficulty": 2,
+    "id": 38
+  },
+  {
+    "topic_zh": "服務價值鏈",
+    "topic_en": "Service Value Chain",
+    "subtopic_zh": "服務價值鏈",
+    "subtopic_en": "Service Value Chain",
+    "question_zh": "「交付與支持」活動嘅重點係咩？",
+    "question_en": "「交付與支持」活動嘅重點係咩？",
+    "options_zh": [
+      "僅安全管理",
+      "僅監控",
+      "僅備份",
+      "確保服務按約定交付俾用戶"
+    ],
+    "options_en": [
+      "僅安全管理",
+      "僅監控",
+      "僅備份",
+      "確保服務按約定交付俾用戶"
+    ],
+    "answer": 3,
+    "explanation_zh": "交付與支持確保服務按約定規格交付俾用戶，處理日常運營。",
+    "explanation_en": "交付與支持確保服務按約定規格交付俾用戶，處理日常運營。",
+    "difficulty": 2,
+    "id": 39
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "事件管理（Event Management）喺ITIL 4中嘅定位係咩？",
+    "question_en": "事件管理（Event Management）喺ITIL 4中嘅定位係咩？",
+    "options_zh": [
+      "通過監控同事件響應支持服務交付",
+      "僅告警",
+      "僅記錄日誌",
+      "取代監控"
+    ],
+    "options_en": [
+      "通過監控同事件響應支持服務交付",
+      "僅告警",
+      "僅記錄日誌",
+      "取代監控"
+    ],
+    "answer": 0,
+    "explanation_zh": "事件管理通過監控服務同組件狀態，對有意義嘅事件進行篩選同分類。",
+    "explanation_en": "事件管理通過監控服務同組件狀態，對有意義嘅事件進行篩選同分類。",
+    "difficulty": 2,
+    "id": 40
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "服務財務管理實踐嘅目標係咩？",
+    "question_en": "服務財務管理實踐嘅目標係咩？",
+    "options_zh": [
+      "僅審計",
+      "僅預算",
+      "僅收費",
+      "確保IT服務嘅成本被有效管理同優化"
+    ],
+    "options_en": [
+      "僅審計",
+      "僅預算",
+      "僅收費",
+      "確保IT服務嘅成本被有效管理同優化"
+    ],
+    "answer": 3,
+    "explanation_zh": "服務財務管理確保IT服務嘅預算、核算同收費被有效管理。",
+    "explanation_en": "服務財務管理確保IT服務嘅預算、核算同收費被有效管理。",
+    "difficulty": 2,
+    "id": 41
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "ITIL 4同ITIL v3嘅最大區別係咩？",
+    "question_en": "ITIL 4同ITIL v3嘅最大區別係咩？",
+    "options_zh": [
+      "ITIL 4取消咗所有流程",
+      "ITIL 4引入咗服務價值系統同四維模型",
+      "無區別",
+      "ITIL 4僅適用於雲計算"
+    ],
+    "options_en": [
+      "ITIL 4取消咗所有流程",
+      "ITIL 4引入咗服務價值系統同四維模型",
+      "無區別",
+      "ITIL 4僅適用於雲計算"
+    ],
+    "answer": 1,
+    "explanation_zh": "ITIL 4最大變化係引入SVS同四維服務管理方法，從流程導向轉為價值導向。",
+    "explanation_en": "ITIL 4最大變化係引入SVS同四維服務管理方法，從流程導向轉為價值導向。",
+    "difficulty": 2,
+    "id": 42
+  },
+  {
+    "topic_zh": "持續改進",
+    "topic_en": "Continual Improvement",
+    "subtopic_zh": "持續改進",
+    "subtopic_en": "Continual Improvement",
+    "question_zh": "「我們想去邊」對應持續改進模型中嘅邊個步驟？",
+    "question_en": "「我們想去邊」對應持續改進模型中嘅邊個步驟？",
+    "options_zh": [
+      "評估結果",
+      "執行改進",
+      "設定目標同成功標準",
+      "評估現狀"
+    ],
+    "options_en": [
+      "評估結果",
+      "執行改進",
+      "設定目標同成功標準",
+      "評估現狀"
+    ],
+    "answer": 2,
+    "explanation_zh": "第三步「我們想去邊？」設定改進嘅目標、成功標準同KPI。",
+    "explanation_en": "第三步「我們想去邊？」設定改進嘅目標、成功標準同KPI。",
+    "difficulty": 2,
+    "id": 43
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "問題管理實踐（Problem Management）同事故管理嘅區別係咩？",
+    "question_en": "問題管理實踐（Problem Management）同事故管理嘅區別係咩？",
+    "options_zh": [
+      "問題管理更緊急",
+      "無區別",
+      "事故管理更長期",
+      "問題管理找出根本原因，事故管理恢復服務"
+    ],
+    "options_en": [
+      "問題管理更緊急",
+      "無區別",
+      "事故管理更長期",
+      "問題管理找出根本原因，事故管理恢復服務"
+    ],
+    "answer": 3,
+    "explanation_zh": "事故管理focus on快速恢復服務，問題管理focus on識別根本原因同預防再發生。",
+    "explanation_en": "事故管理focus on快速恢復服務，問題管理focus on識別根本原因同預防再發生。",
+    "difficulty": 2,
+    "id": 44
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "SVS中「需求」（Demand）同「價值」（Value）嘅關係係咩？",
+    "question_en": "SVS中「需求」（Demand）同「價值」（Value）嘅關係係咩？",
+    "options_zh": [
+      "無關",
+      "需求等於價值",
+      "需求進入SVS，通過價值鏈活動轉化為價值",
+      "價值產生需求"
+    ],
+    "options_en": [
+      "無關",
+      "需求等於價值",
+      "需求進入SVS，通過價值鏈活動轉化為價值",
+      "價值產生需求"
+    ],
+    "answer": 2,
+    "explanation_zh": "需求從外部進入SVS，通過服務價值鏈活動同資源轉化，產出價值。",
+    "explanation_en": "需求從外部進入SVS，通過服務價值鏈活動同資源轉化，產出價值。",
+    "difficulty": 2,
+    "id": 45
+  },
+  {
+    "topic_zh": "治理",
+    "topic_en": "Governance",
+    "subtopic_zh": "治理",
+    "subtopic_en": "Governance",
+    "question_zh": "透明度喺治理中嘅重要性係咩？",
+    "question_en": "透明度喺治理中嘅重要性係咩？",
+    "options_zh": [
+      "僅內部使用",
+      "唔重要",
+      "僅對外報告",
+      "確保決策過程同結果可被利益相關者理解同審查"
+    ],
+    "options_en": [
+      "僅內部使用",
+      "唔重要",
+      "僅對外報告",
+      "確保決策過程同結果可被利益相關者理解同審查"
+    ],
+    "answer": 3,
+    "explanation_zh": "透明度確保治理決策過程、依據同結果對利益相關者可見同可審查。",
+    "explanation_en": "透明度確保治理決策過程、依據同結果對利益相關者可見同可審查。",
+    "difficulty": 2,
+    "id": 46
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "服務台（Service Desk）喺ITIL 4中屬於邊類實踐？",
+    "question_en": "服務台（Service Desk）喺ITIL 4中屬於邊類實踐？",
+    "options_zh": [
+      "服務管理實踐",
+      "技術管理實踐",
+      "唔係一個實踐",
+      "通用管理實踐"
+    ],
+    "options_en": [
+      "服務管理實踐",
+      "技術管理實踐",
+      "唔係一個實踐",
+      "通用管理實踐"
+    ],
+    "answer": 0,
+    "explanation_zh": "服務台屬於34個管理實踐中嘅服務管理實踐，係用戶同IT之間嘅單一聯繫點。",
+    "explanation_en": "服務台屬於34個管理實踐中嘅服務管理實踐，係用戶同IT之間嘅單一聯繫點。",
+    "difficulty": 2,
+    "id": 47
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "ITIL 4中「結果」（Outcome）同「輸出」（Output）嘅區別係咩？？",
+    "question_en": "ITIL 4中「結果」（Outcome）同「輸出」（Output）嘅區別係咩？？",
+    "options_zh": [
+      "結果係利益相關者實現嘅價值，輸出係實際交付嘅產品",
+      "無區別",
+      "輸出更重要",
+      "結果係可計量嘅"
+    ],
+    "options_en": [
+      "結果係利益相關者實現嘅價值，輸出係實際交付嘅產品",
+      "無區別",
+      "輸出更重要",
+      "結果係可計量嘅"
+    ],
+    "answer": 0,
+    "explanation_zh": "輸出（output）係實際交付嘅產品/服務，結果（outcome）係實現嘅目標同價值。",
+    "explanation_en": "輸出（output）係實際交付嘅產品/服務，結果（outcome）係實現嘅目標同價值。",
+    "difficulty": 2,
+    "id": 48
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "軟件開發同管理實踐喺ITIL 4中嘅定位係咩？",
+    "question_en": "軟件開發同管理實踐喺ITIL 4中嘅定位係咩？",
+    "options_zh": [
+      "僅Waterfall",
+      "取代DevOps",
+      "僅Agile",
+      "同其他實踐協作支持軟件交付生命週期"
+    ],
+    "options_en": [
+      "僅Waterfall",
+      "取代DevOps",
+      "僅Agile",
+      "同其他實踐協作支持軟件交付生命週期"
+    ],
+    "answer": 3,
+    "explanation_zh": "呢個實踐支持軟件嘅設計、開發、測試同部署，同DevOps理念相容。",
+    "explanation_en": "呢個實踐支持軟件嘅設計、開發、測試同部署，同DevOps理念相容。",
+    "difficulty": 2,
+    "id": 49
+  },
+  {
+    "topic_zh": "服務價值鏈",
+    "topic_en": "Service Value Chain",
+    "subtopic_zh": "服務價值鏈",
+    "subtopic_en": "Service Value Chain",
+    "question_zh": "價值鏈中「改進」活動嘅主要目的係咩？",
+    "question_en": "價值鏈中「改進」活動嘅主要目的係咩？",
+    "options_zh": [
+      "處理客戶查詢",
+      "確保持續改進所有產品同服務",
+      "管理供應商",
+      "修復故障"
+    ],
+    "options_en": [
+      "處理客戶查詢",
+      "確保持續改進所有產品同服務",
+      "管理供應商",
+      "修復故障"
+    ],
+    "answer": 1,
+    "explanation_zh": "改進活動確保所有價值鏈活動同產品/服務持續改進。",
+    "explanation_en": "改進活動確保所有價值鏈活動同產品/服務持續改進。",
+    "difficulty": 2,
+    "id": 50
+  },
+  {
+    "topic_zh": "指導原則",
+    "topic_en": "Guiding Principles",
+    "subtopic_zh": "指導原則",
+    "subtopic_en": "Guiding Principles",
+    "question_zh": "ITIL 4有幾多條指導原則？",
+    "question_en": "ITIL 4有幾多條指導原則？",
+    "options_zh": [
+      "7條",
+      "10條",
+      "5條",
+      "4條"
+    ],
+    "options_en": [
+      "7條",
+      "10條",
+      "5條",
+      "4條"
+    ],
+    "answer": 0,
+    "explanation_zh": "ITIL 4有7條指導原則，係從ITIL Practitioner引入並擴展嘅。",
+    "explanation_en": "ITIL 4有7條指導原則，係從ITIL Practitioner引入並擴展嘅。",
+    "difficulty": 2,
+    "id": 51
+  },
+  {
+    "topic_zh": "指導原則",
+    "topic_en": "Guiding Principles",
+    "subtopic_zh": "指導原則",
+    "subtopic_en": "Guiding Principles",
+    "question_zh": "「聚焦價值」原則要求組織做咩？",
+    "question_en": "「聚焦價值」原則要求組織做咩？",
+    "options_zh": [
+      "僅考慮收入",
+      "僅考慮技術",
+      "確保所有活動都為利益相關者創造價值",
+      "僅考慮成本"
+    ],
+    "options_en": [
+      "僅考慮收入",
+      "僅考慮技術",
+      "確保所有活動都為利益相關者創造價值",
+      "僅考慮成本"
+    ],
+    "answer": 2,
+    "explanation_zh": "聚焦價值原則要求所有活動都應直接或間接為利益相關者創造價值。",
+    "explanation_en": "聚焦價值原則要求所有活動都應直接或間接為利益相關者創造價值。",
+    "difficulty": 2,
+    "id": 52
+  },
+  {
+    "topic_zh": "指導原則",
+    "topic_en": "Guiding Principles",
+    "subtopic_zh": "指導原則",
+    "subtopic_en": "Guiding Principles",
+    "question_zh": "「迭代推進」原則嘅理念係咩？",
+    "question_en": "「迭代推進」原則嘅理念係咩？",
+    "options_zh": [
+      "僅做小項目",
+      "將大目標拆分為小步驟持續改進",
+      "唔需要計劃",
+      "一次完成所有工作"
+    ],
+    "options_en": [
+      "僅做小項目",
+      "將大目標拆分為小步驟持續改進",
+      "唔需要計劃",
+      "一次完成所有工作"
+    ],
+    "answer": 1,
+    "explanation_zh": "迭代推進原則建議將大型變更拆分為小型、可管理嘅增量步驟。",
+    "explanation_en": "迭代推進原則建議將大型變更拆分為小型、可管理嘅增量步驟。",
+    "difficulty": 2,
+    "id": 53
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "容量同性能管理實踐嘅目標係咩？",
+    "question_en": "容量同性能管理實踐嘅目標係咩？",
+    "options_zh": [
+      "僅優化代碼",
+      "僅購買硬件",
+      "僅監控CPU",
+      "確保服務容量同性能滿足當前同未來需求"
+    ],
+    "options_en": [
+      "僅優化代碼",
+      "僅購買硬件",
+      "僅監控CPU",
+      "確保服務容量同性能滿足當前同未來需求"
+    ],
+    "answer": 3,
+    "explanation_zh": "容量同性能管理確保IT服務同組件嘅容量同性能滿足業務需求。",
+    "explanation_en": "容量同性能管理確保IT服務同組件嘅容量同性能滿足業務需求。",
+    "difficulty": 2,
+    "id": 54
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "ITIL 4 SVS嘅目的係咩？",
+    "question_en": "ITIL 4 SVS嘅目的係咩？",
+    "options_zh": [
+      "確保組織持續創造價值",
+      "僅管理服務台",
+      "取代所有IT流程",
+      "減少IT成本"
+    ],
+    "options_en": [
+      "確保組織持續創造價值",
+      "僅管理服務台",
+      "取代所有IT流程",
+      "減少IT成本"
+    ],
+    "answer": 0,
+    "explanation_zh": "SVS嘅目的係確保組織能夠持續為利益相關者創造價值。",
+    "explanation_en": "SVS嘅目的係確保組織能夠持續為利益相關者創造價值。",
+    "difficulty": 2,
+    "id": 55
+  },
+  {
+    "topic_zh": "服務價值鏈",
+    "topic_en": "Service Value Chain",
+    "subtopic_zh": "服務價值鏈",
+    "subtopic_en": "Service Value Chain",
+    "question_zh": "服務價值鏈包括邊六個活動？",
+    "question_en": "服務價值鏈包括邊六個活動？",
+    "options_zh": [
+      "計劃、改進、互動、設計與轉換、獲取/構建、交付與支持",
+      "僅計劃同交付",
+      "設計、開發、測試、部署、運營、監控",
+      "計劃、設計、建造、測試、部署、退役"
+    ],
+    "options_en": [
+      "計劃、改進、互動、設計與轉換、獲取/構建、交付與支持",
+      "僅計劃同交付",
+      "設計、開發、測試、部署、運營、監控",
+      "計劃、設計、建造、測試、部署、退役"
+    ],
+    "answer": 0,
+    "explanation_zh": "價值鏈六活動：計劃(Plan)、改進(Improve)、互動(Engage)、設計與轉換(Design & Transition)、獲取/構建(Obtain/Build)、交付與支持(Deliver & Support)。",
+    "explanation_en": "價值鏈六活動：計劃(Plan)、改進(Improve)、互動(Engage)、設計與轉換(Design & Transition)、獲取/構建(Obtain/Build)、交付與支持(Deliver & Support)。",
+    "difficulty": 2,
+    "id": 56
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "服務級別管理（SLM）嘅主要產出係咩？",
+    "question_en": "服務級別管理（SLM）嘅主要產出係咩？",
+    "options_zh": [
+      "僅KPI",
+      "服務級別協議（SLA）同服務績效報告",
+      "僅報告",
+      "僅SLA"
+    ],
+    "options_en": [
+      "僅KPI",
+      "服務級別協議（SLA）同服務績效報告",
+      "僅報告",
+      "僅SLA"
+    ],
+    "answer": 1,
+    "explanation_zh": "SLM嘅主要產出包括SLA、服務績效報告同改進計劃。",
+    "explanation_en": "SLM嘅主要產出包括SLA、服務績效報告同改進計劃。",
+    "difficulty": 2,
+    "id": 57
+  }
+]

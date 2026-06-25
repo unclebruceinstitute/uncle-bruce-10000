@@ -1,1 +1,191 @@
-[{"id": 1, "question_zh": "《火影忍者》屬於咩類型嘅動畫？", "question_en": "What genre is 'Naruto'?", "options_zh": ["音樂劇", "日常搞笑", "忍者格鬥", "紀錄片"], "options_en": ["Musical", "Slice of life comedy", "忍者格鬥", "Documentary"], "answer": 2, "explanation_zh": "《火影忍者》係忍者格鬥類型。", "explanation_en": "'Naruto' is 忍者格鬥.", "difficulty": 1}, {"id": 2, "question_zh": "《火影忍者》嘅原作者係邊個？", "question_en": "Who is the original author of 'Naruto'?", "options_zh": ["尾田榮一郎", "鳥山明", "岸本齊史", "岸本齊史"], "options_en": ["Eiichiro Oda", "Akira Toriyama", "岸本齊史", "Masashi Kishimoto"], "answer": 2, "explanation_zh": "作者係岸本齊史。", "explanation_en": "The author is 岸本齊史.", "difficulty": 2}, {"id": 3, "question_zh": "《火影忍者》動畫版首播年份係？", "question_en": "When did the 'Naruto' anime first air?", "options_zh": ["2007", "2002", "1992", "1999"], "options_en": ["2007", "2002", "1992", "1999"], "answer": 1, "explanation_zh": "首播於2002年。", "explanation_en": "First aired in 2002.", "difficulty": 2}, {"id": 4, "question_zh": "《火影忍者》嘅主角係邊個？", "question_en": "Who is the protagonist of 'Naruto'?", "options_zh": ["路人甲", "反派丙", "漩渦鳴人", "配角乙"], "options_en": ["Side character A", "Villain C", "Naruto Uzumaki", "Support B"], "answer": 2, "explanation_zh": "主角係漩渦鳴人。", "explanation_en": "The protagonist is Naruto Uzumaki.", "difficulty": 1}, {"id": 5, "question_zh": "以下關於《火影忍者》嘅描述，邊項係正確？", "question_en": "Which statement about 'Naruto' is correct?", "options_zh": ["體內封印九尾妖狐", "呢個講法唔啱", "唔係咁樣", "完全錯誤"], "options_en": ["Contains Nine-Tailed Fox", "This is incorrect", "Not like this", "Completely wrong"], "answer": 0, "explanation_zh": "正確答案係「體內封印九尾妖狐」。", "explanation_en": "The correct answer is 'Contains Nine-Tailed Fox'.", "difficulty": 2}, {"id": 10, "question_zh": "《火影忍者》嘅動畫製作公司係？", "question_en": "Which studio produced 'Naruto' anime?", "options_zh": ["Bones", "Pierrot", "Toei", "Sunrise"], "options_en": ["Bones", "Pierrot", "Toei", "Sunrise"], "answer": 1, "explanation_zh": "正確答案係「Pierrot」。", "explanation_en": "The correct answer is 'Pierrot'.", "difficulty": 2}, {"id": 11, "question_zh": "《火影忍者》係邊個國家嘅作品？", "question_en": "Which country is 'Naruto' from?", "options_zh": ["韓國/Korea", "美國/USA", "日本/Japan", "中國/China"], "options_en": ["Korea", "USA", "Japan", "China"], "answer": 2, "explanation_zh": "正確答案係「日本/Japan」。", "explanation_en": "The correct answer is 'Japan'.", "difficulty": 2}, {"id": 12, "question_zh": "《火影忍者》嘅原作係漫畫定小說？", "question_en": "Is 'Naruto' originally a manga or novel?", "options_zh": ["原創/Original", "漫畫/Manga", "小說/Novel", "遊戲/Game"], "options_en": ["Original", "Manga", "Novel", "Game"], "answer": 1, "explanation_zh": "正確答案係「漫畫/Manga」。", "explanation_en": "The correct answer is 'Manga'.", "difficulty": 2}, {"id": 13, "question_zh": "《火影忍者》係一部好睇嘅動畫，你同意嗎？", "question_en": "'Naruto' is a great anime, do you agree?", "options_zh": ["完全同意", "唔太同意", "部分同意", "完全唔同意"], "options_en": ["Strongly agree", "Disagree", "Somewhat agree", "Strongly disagree"], "answer": 0, "explanation_zh": "《火影忍者》確實係一部受歡迎嘅作品。", "explanation_en": "'Naruto' is indeed a popular work.", "difficulty": 1}]
+[
+  {
+    "id": 1,
+    "question_zh": "《火影忍者》屬於咩類型嘅動畫？",
+    "question_en": "What genre is 'Naruto'?",
+    "options_zh": [
+      "音樂劇",
+      "日常搞笑",
+      "忍者格鬥",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Musical",
+      "Slice of life comedy",
+      "忍者格鬥",
+      "Documentary"
+    ],
+    "answer": 2,
+    "explanation_zh": "《火影忍者》係忍者格鬥類型。",
+    "explanation_en": "'Naruto' is 忍者格鬥.",
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question_zh": "《火影忍者》嘅原作者係邊個？",
+    "question_en": "Who is the original author of 'Naruto'?",
+    "options_zh": [
+      "尾田榮一郎",
+      "鳥山明",
+      "岸本齊史",
+      "久保帶人"
+    ],
+    "options_en": [
+      "Eiichiro Oda",
+      "Akira Toriyama",
+      "Masashi Kishimoto",
+      "Tite Kubo"
+    ],
+    "answer": 2,
+    "explanation_zh": "作者係岸本齊史。",
+    "explanation_en": "The author is 岸本齊史.",
+    "difficulty": 2
+  },
+  {
+    "id": 3,
+    "question_zh": "《火影忍者》動畫版首播年份係？",
+    "question_en": "When did the 'Naruto' anime first air?",
+    "options_zh": [
+      "2007",
+      "2002",
+      "1992",
+      "1999"
+    ],
+    "options_en": [
+      "2007",
+      "2002",
+      "1992",
+      "1999"
+    ],
+    "answer": 1,
+    "explanation_zh": "首播於2002年。",
+    "explanation_en": "First aired in 2002.",
+    "difficulty": 2
+  },
+  {
+    "id": 4,
+    "question_zh": "《火影忍者》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Naruto'?",
+    "options_zh": [
+      "路人甲",
+      "反派丙",
+      "漩渦鳴人",
+      "配角乙"
+    ],
+    "options_en": [
+      "Side character A",
+      "Villain C",
+      "Naruto Uzumaki",
+      "Support B"
+    ],
+    "answer": 2,
+    "explanation_zh": "主角係漩渦鳴人。",
+    "explanation_en": "The protagonist is Naruto Uzumaki.",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question_zh": "以下關於《火影忍者》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Naruto' is correct?",
+    "options_zh": [
+      "體內封印九尾妖狐",
+      "呢個講法唔啱",
+      "唔係咁樣",
+      "完全錯誤"
+    ],
+    "options_en": [
+      "Contains Nine-Tailed Fox",
+      "This is incorrect",
+      "Not like this",
+      "Completely wrong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「體內封印九尾妖狐」。",
+    "explanation_en": "The correct answer is 'Contains Nine-Tailed Fox'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《火影忍者》嘅動畫製作公司係？",
+    "question_en": "Which studio produced 'Naruto' anime?",
+    "options_zh": [
+      "Bones",
+      "Pierrot",
+      "Toei",
+      "Sunrise"
+    ],
+    "options_en": [
+      "Bones",
+      "Pierrot",
+      "Toei",
+      "Sunrise"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「Pierrot」。",
+    "explanation_en": "The correct answer is 'Pierrot'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《火影忍者》係邊個國家嘅作品？",
+    "question_en": "Which country is 'Naruto' from?",
+    "options_zh": [
+      "韓國/Korea",
+      "美國/USA",
+      "日本/Japan",
+      "中國/China"
+    ],
+    "options_en": [
+      "Korea",
+      "USA",
+      "Japan",
+      "China"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「日本/Japan」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《火影忍者》嘅原作係漫畫定小說？",
+    "question_en": "Is 'Naruto' originally a manga or novel?",
+    "options_zh": [
+      "原創/Original",
+      "漫畫/Manga",
+      "小說/Novel",
+      "遊戲/Game"
+    ],
+    "options_en": [
+      "Original",
+      "Manga",
+      "Novel",
+      "Game"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「漫畫/Manga」。",
+    "explanation_en": "The correct answer is 'Manga'.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《火影忍者》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Naruto' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "唔太同意",
+      "部分同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Disagree",
+      "Somewhat agree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《火影忍者》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Naruto' is indeed a popular work.",
+    "difficulty": 1
+  }
+]
