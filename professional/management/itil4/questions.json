@@ -1423,5 +1423,3255 @@
     "explanation_en": "SLM嘅主要產出包括SLA、服務績效報告同改進計劃。",
     "difficulty": 2,
     "id": 57
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "ITIL 4 服務價值系統包含邊五個組件？",
+    "question_en": "What are the five components of the ITIL 4 Service Value System?",
+    "options_zh": [
+      "Guiding Principles, Governance, Service Value Chain, Practices, Continual Improvement",
+      "Planning, Implementation, Check, Act, Review",
+      "Strategy, Design, Transition, Operation, Improvement",
+      "People, Process, Technology, Data, Governance"
+    ],
+    "options_en": [
+      "Guiding Principles, Governance, Service Value Chain, Practices, Continual Improvement",
+      "Planning, Implementation, Check, Act, Review",
+      "Strategy, Design, Transition, Operation, Improvement",
+      "People, Process, Technology, Data, Governance"
+    ],
+    "answer": 0,
+    "explanation_zh": "The SVS consists of Guiding Principles, Governance, the Service Value Chain, Practices, and Continual Improvement.",
+    "explanation_en": "The SVS consists of Guiding Principles, Governance, the Service Value Chain, Practices, and Continual Improvement.",
+    "difficulty": "medium",
+    "id": "itil4_1000"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "SVS 邊個元素提供方向同指導？",
+    "question_en": "Which element of the SVS provides direction and guidance?",
+    "options_zh": [
+      "Guiding Principles",
+      "Governance",
+      "Service Value Chain",
+      "Practices"
+    ],
+    "options_en": [
+      "Guiding Principles",
+      "Governance",
+      "Service Value Chain",
+      "Practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "Guiding Principles provide direction and guidance for the organization.",
+    "explanation_en": "Guiding Principles provide direction and guidance for the organization.",
+    "difficulty": "hard",
+    "id": "itil4_1001"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "治理喺 SVS 入面嘅目的係咩？",
+    "question_en": "What is the purpose of Governance in the SVS?",
+    "options_zh": [
+      "To ensure policies are followed and goals are met",
+      "To manage daily operations",
+      "To handle incidents",
+      "To deploy changes"
+    ],
+    "options_en": [
+      "To ensure policies are followed and goals are met",
+      "To manage daily operations",
+      "To handle incidents",
+      "To deploy changes"
+    ],
+    "answer": 0,
+    "explanation_zh": "Governance ensures the organization's policies and strategy are implemented through practices.",
+    "explanation_en": "Governance ensures the organization's policies and strategy are implemented through practices.",
+    "difficulty": "medium",
+    "id": "itil4_1002"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "服務價值鏈代表咩？",
+    "question_en": "What does the Service Value Chain represent?",
+    "options_zh": [
+      "The activities needed to create value",
+      "The organizational structure",
+      "The IT infrastructure",
+      "The financial budget"
+    ],
+    "options_en": [
+      "The activities needed to create value",
+      "The organizational structure",
+      "The IT infrastructure",
+      "The financial budget"
+    ],
+    "answer": 0,
+    "explanation_zh": "The SVC represents the activities needed to create value from demand to value.",
+    "explanation_en": "The SVC represents the activities needed to create value from demand to value.",
+    "difficulty": "easy",
+    "id": "itil4_1003"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "服務價值鏈有幾多個活動？",
+    "question_en": "How many activities are in the Service Value Chain?",
+    "options_zh": [
+      "6",
+      "4",
+      "5",
+      "8"
+    ],
+    "options_en": [
+      "6",
+      "4",
+      "5",
+      "8"
+    ],
+    "answer": 0,
+    "explanation_zh": "The SVC has 6 activities: Plan, Improve, Engage, Design & Transition, Obtain/Build, Deliver & Support.",
+    "explanation_en": "The SVC has 6 activities: Plan, Improve, Engage, Design & Transition, Obtain/Build, Deliver & Support.",
+    "difficulty": "easy",
+    "id": "itil4_1004"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "邊個 SVC 活動確保持續同持份者需求對齊？",
+    "question_en": "Which SVC activity ensures continual alignment with stakeholder needs?",
+    "options_zh": [
+      "Plan",
+      "Engage",
+      "Improve",
+      "Deliver & Support"
+    ],
+    "options_en": [
+      "Plan",
+      "Engage",
+      "Improve",
+      "Deliver & Support"
+    ],
+    "answer": 0,
+    "explanation_zh": "The Plan activity ensures a shared understanding of the vision and current status.",
+    "explanation_en": "The Plan activity ensures a shared understanding of the vision and current status.",
+    "difficulty": "hard",
+    "id": "itil4_1005"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "Engage 活動嘅目的係咩？",
+    "question_en": "What is the purpose of the Engage activity?",
+    "options_zh": [
+      "To understand stakeholder needs",
+      "To deploy changes",
+      "To resolve incidents",
+      "To manage budgets"
+    ],
+    "options_en": [
+      "To understand stakeholder needs",
+      "To deploy changes",
+      "To resolve incidents",
+      "To manage budgets"
+    ],
+    "answer": 0,
+    "explanation_zh": "Engage provides understanding of stakeholder needs and fosters good relationships.",
+    "explanation_en": "Engage provides understanding of stakeholder needs and fosters good relationships.",
+    "difficulty": "easy",
+    "id": "itil4_1006"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "邊個活動將輸入轉化為輸出？",
+    "question_en": "Which activity transforms inputs into outputs?",
+    "options_zh": [
+      "All SVC activities",
+      "Only Design & Transition",
+      "Only Deliver & Support",
+      "Only Obtain/Build"
+    ],
+    "options_en": [
+      "All SVC activities",
+      "Only Design & Transition",
+      "Only Deliver & Support",
+      "Only Obtain/Build"
+    ],
+    "answer": 0,
+    "explanation_zh": "All SVC activities transform inputs into outputs to create value.",
+    "explanation_en": "All SVC activities transform inputs into outputs to create value.",
+    "difficulty": "easy",
+    "id": "itil4_1007"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "咩輸入到服務價值鏈？",
+    "question_en": "What feeds into the Service Value Chain?",
+    "options_zh": [
+      "Opportunity and demand",
+      "Only customer requests",
+      "Only incidents",
+      "Budget reports"
+    ],
+    "options_en": [
+      "Opportunity and demand",
+      "Only customer requests",
+      "Only incidents",
+      "Budget reports"
+    ],
+    "answer": 0,
+    "explanation_zh": "Opportunity and demand are the inputs that trigger the SVC activities.",
+    "explanation_en": "Opportunity and demand are the inputs that trigger the SVC activities.",
+    "difficulty": "hard",
+    "id": "itil4_1008"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "服務價值鏈嘅輸出係咩？",
+    "question_en": "What is the output of the Service Value Chain?",
+    "options_zh": [
+      "Value",
+      "Products",
+      "Services",
+      "Reports"
+    ],
+    "options_en": [
+      "Value",
+      "Products",
+      "Services",
+      "Reports"
+    ],
+    "answer": 0,
+    "explanation_zh": "The primary output of the SVC is value for the organization and its stakeholders.",
+    "explanation_en": "The primary output of the SVC is value for the organization and its stakeholders.",
+    "difficulty": "hard",
+    "id": "itil4_1009"
+  },
+  {
+    "topic_zh": "指導原則",
+    "topic_en": "Guiding Principles",
+    "subtopic_zh": "指導原則",
+    "subtopic_en": "Guiding Principles",
+    "question_zh": "ITIL 4 有幾多個指導原則？",
+    "question_en": "How many guiding principles does ITIL 4 have?",
+    "options_zh": [
+      "7",
+      "5",
+      "4",
+      "9"
+    ],
+    "options_en": [
+      "7",
+      "5",
+      "4",
+      "9"
+    ],
+    "answer": 0,
+    "explanation_zh": "ITIL 4 has 7 guiding principles.",
+    "explanation_en": "ITIL 4 has 7 guiding principles.",
+    "difficulty": "easy",
+    "id": "itil4_1010"
+  },
+  {
+    "topic_zh": "指導原則",
+    "topic_en": "Guiding Principles",
+    "subtopic_zh": "指導原則",
+    "subtopic_en": "Guiding Principles",
+    "question_zh": "邊個原則話做有意義嘅事？",
+    "question_en": "Which principle says to do what makes sense?",
+    "options_zh": [
+      "Start where you are",
+      "Keep it simple",
+      "Focus on value",
+      "Progress iteratively"
+    ],
+    "options_en": [
+      "Start where you are",
+      "Keep it simple",
+      "Focus on value",
+      "Progress iteratively"
+    ],
+    "answer": 0,
+    "explanation_zh": "Start where you are means to consider what is already available before starting something new.",
+    "explanation_en": "Start where you are means to consider what is already available before starting something new.",
+    "difficulty": "medium",
+    "id": "itil4_1011"
+  },
+  {
+    "topic_zh": "指導原則",
+    "topic_en": "Guiding Principles",
+    "subtopic_zh": "指導原則",
+    "subtopic_en": "Guiding Principles",
+    "question_zh": "「專注價值」係咩意思？",
+    "question_en": "What does 'Focus on value' mean?",
+    "options_zh": [
+      "Everything the organization does should link to value",
+      "Only do profitable work",
+      "Focus on cost reduction",
+      "Maximize revenue"
+    ],
+    "options_en": [
+      "Everything the organization does should link to value",
+      "Only do profitable work",
+      "Focus on cost reduction",
+      "Maximize revenue"
+    ],
+    "answer": 0,
+    "explanation_zh": "Every activity should be focused on delivering value to stakeholders.",
+    "explanation_en": "Every activity should be focused on delivering value to stakeholders.",
+    "difficulty": "medium",
+    "id": "itil4_1012"
+  },
+  {
+    "topic_zh": "指導原則",
+    "topic_en": "Guiding Principles",
+    "subtopic_zh": "指導原則",
+    "subtopic_en": "Guiding Principles",
+    "question_zh": "邊個原則提倡將工作分解為更小嘅部分？",
+    "question_en": "Which principle advocates for breaking work into smaller pieces?",
+    "options_zh": [
+      "Progress iteratively with feedback",
+      "Keep it simple and practical",
+      "Think and work holistically",
+      "Collaborate and promote visibility"
+    ],
+    "options_en": [
+      "Progress iteratively with feedback",
+      "Keep it simple and practical",
+      "Think and work holistically",
+      "Collaborate and promote visibility"
+    ],
+    "answer": 0,
+    "explanation_zh": "Progress iteratively with feedback encourages breaking work into smaller, manageable sections.",
+    "explanation_en": "Progress iteratively with feedback encourages breaking work into smaller, manageable sections.",
+    "difficulty": "hard",
+    "id": "itil4_1013"
+  },
+  {
+    "topic_zh": "指導原則",
+    "topic_en": "Guiding Principles",
+    "subtopic_zh": "指導原則",
+    "subtopic_en": "Guiding Principles",
+    "question_zh": "「保持簡單實用」係咩意思？",
+    "question_en": "What does 'Keep it simple and practical' mean?",
+    "options_zh": [
+      "Eliminate unnecessary steps",
+      "Use the cheapest solution",
+      "Avoid technology",
+      "Only follow the latest trends"
+    ],
+    "options_en": [
+      "Eliminate unnecessary steps",
+      "Use the cheapest solution",
+      "Avoid technology",
+      "Only follow the latest trends"
+    ],
+    "answer": 0,
+    "explanation_zh": "This principle means to eliminate anything that does not contribute to value.",
+    "explanation_en": "This principle means to eliminate anything that does not contribute to value.",
+    "difficulty": "medium",
+    "id": "itil4_1014"
+  },
+  {
+    "topic_zh": "指導原則",
+    "topic_en": "Guiding Principles",
+    "subtopic_zh": "指導原則",
+    "subtopic_en": "Guiding Principles",
+    "question_zh": "邊個原則鼓勵透明度？",
+    "question_en": "Which principle encourages transparency?",
+    "options_zh": [
+      "Collaborate and promote visibility",
+      "Focus on value",
+      "Start where you are",
+      "Think and work holistically"
+    ],
+    "options_en": [
+      "Collaborate and promote visibility",
+      "Focus on value",
+      "Start where you are",
+      "Think and work holistically"
+    ],
+    "answer": 0,
+    "explanation_zh": "Collaborate and promote visibility means to ensure transparency in all activities.",
+    "explanation_en": "Collaborate and promote visibility means to ensure transparency in all activities.",
+    "difficulty": "easy",
+    "id": "itil4_1015"
+  },
+  {
+    "topic_zh": "指導原則",
+    "topic_en": "Guiding Principles",
+    "subtopic_zh": "指導原則",
+    "subtopic_en": "Guiding Principles",
+    "question_zh": "「全面思考同工作」係咩意思？",
+    "question_en": "What does 'Think and work holistically' mean?",
+    "options_zh": [
+      "Consider the whole system, not just parts",
+      "Work alone",
+      "Focus on one area",
+      "Ignore dependencies"
+    ],
+    "options_en": [
+      "Consider the whole system, not just parts",
+      "Work alone",
+      "Focus on one area",
+      "Ignore dependencies"
+    ],
+    "answer": 0,
+    "explanation_zh": "This principle means to understand how all parts of the organization work together.",
+    "explanation_en": "This principle means to understand how all parts of the organization work together.",
+    "difficulty": "easy",
+    "id": "itil4_1016"
+  },
+  {
+    "topic_zh": "指導原則",
+    "topic_en": "Guiding Principles",
+    "subtopic_zh": "指導原則",
+    "subtopic_en": "Guiding Principles",
+    "question_zh": "邊個原則話要善用現有資源？",
+    "question_en": "Which principle says to leverage existing resources?",
+    "options_zh": [
+      "Start where you are",
+      "Focus on value",
+      "Keep it simple",
+      "Optimize and automate"
+    ],
+    "options_en": [
+      "Start where you are",
+      "Focus on value",
+      "Keep it simple",
+      "Optimize and automate"
+    ],
+    "answer": 0,
+    "explanation_zh": "Start where you are encourages organizations to observe and leverage what is already available.",
+    "explanation_en": "Start where you are encourages organizations to observe and leverage what is already available.",
+    "difficulty": "medium",
+    "id": "itil4_1017"
+  },
+  {
+    "topic_zh": "指導原則",
+    "topic_en": "Guiding Principles",
+    "subtopic_zh": "指導原則",
+    "subtopic_en": "Guiding Principles",
+    "question_zh": "「優化同自動化」係咩意思？",
+    "question_en": "What does 'Optimize and automate' mean?",
+    "options_zh": [
+      "Maximize efficiency through automation",
+      "Replace all humans with robots",
+      "Only use manual processes",
+      "Avoid technology"
+    ],
+    "options_en": [
+      "Maximize efficiency through automation",
+      "Replace all humans with robots",
+      "Only use manual processes",
+      "Avoid technology"
+    ],
+    "answer": 0,
+    "explanation_zh": "This principle means to optimize processes before automating them.",
+    "explanation_en": "This principle means to optimize processes before automating them.",
+    "difficulty": "medium",
+    "id": "itil4_1018"
+  },
+  {
+    "topic_zh": "指導原則",
+    "topic_en": "Guiding Principles",
+    "subtopic_zh": "指導原則",
+    "subtopic_en": "Guiding Principles",
+    "question_zh": "邊個原則關於早期獲得反饋？",
+    "question_en": "Which principle is about getting feedback early?",
+    "options_zh": [
+      "Progress iteratively with feedback",
+      "Focus on value",
+      "Keep it simple",
+      "Start where you are"
+    ],
+    "options_en": [
+      "Progress iteratively with feedback",
+      "Focus on value",
+      "Keep it simple",
+      "Start where you are"
+    ],
+    "answer": 0,
+    "explanation_zh": "Progress iteratively with feedback means to get feedback at each stage to improve.",
+    "explanation_en": "Progress iteratively with feedback means to get feedback at each stage to improve.",
+    "difficulty": "easy",
+    "id": "itil4_1019"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "ITIL 4 有幾多個實踐？",
+    "question_en": "How many practices does ITIL 4 have?",
+    "options_zh": [
+      "34",
+      "26",
+      "15",
+      "40"
+    ],
+    "options_en": [
+      "34",
+      "26",
+      "15",
+      "40"
+    ],
+    "answer": 0,
+    "explanation_zh": "ITIL 4 has 34 management practices.",
+    "explanation_en": "ITIL 4 has 34 management practices.",
+    "difficulty": "medium",
+    "id": "itil4_1020"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "實踐分為邊三大類？",
+    "question_en": "What are the three categories of practices?",
+    "options_zh": [
+      "General, Service, Technical",
+      "Planning, Execution, Review",
+      "People, Process, Technology",
+      "Strategy, Design, Operation"
+    ],
+    "options_en": [
+      "General, Service, Technical",
+      "Planning, Execution, Review",
+      "People, Process, Technology",
+      "Strategy, Design, Operation"
+    ],
+    "answer": 0,
+    "explanation_zh": "ITIL 4 practices are categorized as General Management, Service Management, and Technical Management.",
+    "explanation_en": "ITIL 4 practices are categorized as General Management, Service Management, and Technical Management.",
+    "difficulty": "hard",
+    "id": "itil4_1021"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "邊個實踐管理服務台？",
+    "question_en": "Which practice manages the service desk?",
+    "options_zh": [
+      "Service Desk",
+      "Incident Management",
+      "Problem Management",
+      "Change Enablement"
+    ],
+    "options_en": [
+      "Service Desk",
+      "Incident Management",
+      "Problem Management",
+      "Change Enablement"
+    ],
+    "answer": 0,
+    "explanation_zh": "The Service Desk practice is the entry point for all users.",
+    "explanation_en": "The Service Desk practice is the entry point for all users.",
+    "difficulty": "hard",
+    "id": "itil4_1022"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "事故管理嘅目的係咩？",
+    "question_en": "What is the purpose of Incident Management?",
+    "options_zh": [
+      "To restore normal service operation as quickly as possible",
+      "To prevent all incidents",
+      "To find root causes",
+      "To manage changes"
+    ],
+    "options_en": [
+      "To restore normal service operation as quickly as possible",
+      "To prevent all incidents",
+      "To find root causes",
+      "To manage changes"
+    ],
+    "answer": 0,
+    "explanation_zh": "Incident Management aims to minimize disruption by restoring normal service as quickly as possible.",
+    "explanation_en": "Incident Management aims to minimize disruption by restoring normal service as quickly as possible.",
+    "difficulty": "hard",
+    "id": "itil4_1023"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "問題管理嘅目的係咩？",
+    "question_en": "What is the purpose of Problem Management?",
+    "options_zh": [
+      "To reduce incidents by finding root causes",
+      "To handle all user requests",
+      "To manage configurations",
+      "To deploy releases"
+    ],
+    "options_en": [
+      "To reduce incidents by finding root causes",
+      "To handle all user requests",
+      "To manage configurations",
+      "To deploy releases"
+    ],
+    "answer": 0,
+    "explanation_zh": "Problem Management aims to reduce incidents by identifying and managing root causes.",
+    "explanation_en": "Problem Management aims to reduce incidents by identifying and managing root causes.",
+    "difficulty": "easy",
+    "id": "itil4_1024"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "邊個實踐管理授權嘅變更？",
+    "question_en": "Which practice manages authorized changes?",
+    "options_zh": [
+      "Change Enablement",
+      "Release Management",
+      "Configuration Management",
+      "Deployment Management"
+    ],
+    "options_en": [
+      "Change Enablement",
+      "Release Management",
+      "Configuration Management",
+      "Deployment Management"
+    ],
+    "answer": 0,
+    "explanation_zh": "Change Enablement maximizes successful IT changes by ensuring risks are properly assessed.",
+    "explanation_en": "Change Enablement maximizes successful IT changes by ensuring risks are properly assessed.",
+    "difficulty": "easy",
+    "id": "itil4_1025"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "持續改進實踐做咩？",
+    "question_en": "What does the Continual Improvement practice do?",
+    "options_zh": [
+      "Aligns practices with changing business needs",
+      "Handles incidents",
+      "Manages the service desk",
+      "Deploys releases"
+    ],
+    "options_en": [
+      "Aligns practices with changing business needs",
+      "Handles incidents",
+      "Manages the service desk",
+      "Deploys releases"
+    ],
+    "answer": 0,
+    "explanation_zh": "Continual Improvement ensures practices are aligned with changing business needs.",
+    "explanation_en": "Continual Improvement ensures practices are aligned with changing business needs.",
+    "difficulty": "medium",
+    "id": "itil4_1026"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "邊個實踐管理同持份者嘅關係？",
+    "question_en": "Which practice manages relationships with stakeholders?",
+    "options_zh": [
+      "Relationship Management",
+      "Supplier Management",
+      "Service Desk",
+      "Engagement"
+    ],
+    "options_en": [
+      "Relationship Management",
+      "Supplier Management",
+      "Service Desk",
+      "Engagement"
+    ],
+    "answer": 0,
+    "explanation_zh": "Relationship Management establishes and nurtures links between the organization and stakeholders.",
+    "explanation_en": "Relationship Management establishes and nurtures links between the organization and stakeholders.",
+    "difficulty": "medium",
+    "id": "itil4_1027"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "服務水平管理嘅目的係咩？",
+    "question_en": "What is the purpose of Service Level Management?",
+    "options_zh": [
+      "To set and manage service targets",
+      "To handle incidents",
+      "To manage costs",
+      "To deploy changes"
+    ],
+    "options_en": [
+      "To set and manage service targets",
+      "To handle incidents",
+      "To manage costs",
+      "To deploy changes"
+    ],
+    "answer": 0,
+    "explanation_zh": "Service Level Management sets clear business-based targets for service levels.",
+    "explanation_en": "Service Level Management sets clear business-based targets for service levels.",
+    "difficulty": "hard",
+    "id": "itil4_1028"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "邊個實踐確保服務按協議交付？",
+    "question_en": "Which practice ensures services are delivered as agreed?",
+    "options_zh": [
+      "Service Level Management",
+      "Service Desk",
+      "Incident Management",
+      "Operations Management"
+    ],
+    "options_en": [
+      "Service Level Management",
+      "Service Desk",
+      "Incident Management",
+      "Operations Management"
+    ],
+    "answer": 0,
+    "explanation_zh": "Service Level Management monitors and reports on service delivery against targets.",
+    "explanation_en": "Service Level Management monitors and reports on service delivery against targets.",
+    "difficulty": "medium",
+    "id": "itil4_1029"
+  },
+  {
+    "topic_zh": "服務價值鏈",
+    "topic_en": "Service Value Chain",
+    "subtopic_zh": "服務價值鏈",
+    "subtopic_en": "Service Value Chain",
+    "question_zh": "服務價值鏈第一個活動係咩？",
+    "question_en": "What is the first activity in the SVC?",
+    "options_zh": [
+      "Plan",
+      "Engage",
+      "Improve",
+      "Design"
+    ],
+    "options_en": [
+      "Plan",
+      "Engage",
+      "Improve",
+      "Design"
+    ],
+    "answer": 0,
+    "explanation_zh": "Plan is the first activity, ensuring shared understanding of vision and status.",
+    "explanation_en": "Plan is the first activity, ensuring shared understanding of vision and status.",
+    "difficulty": "medium",
+    "id": "itil4_1030"
+  },
+  {
+    "topic_zh": "服務價值鏈",
+    "topic_en": "Service Value Chain",
+    "subtopic_zh": "服務價值鏈",
+    "subtopic_en": "Service Value Chain",
+    "question_zh": "邊個 SVC 活動處理客戶互動？",
+    "question_en": "Which SVC activity handles customer interactions?",
+    "options_zh": [
+      "Engage",
+      "Deliver & Support",
+      "Obtain/Build",
+      "Design & Transition"
+    ],
+    "options_en": [
+      "Engage",
+      "Deliver & Support",
+      "Obtain/Build",
+      "Design & Transition"
+    ],
+    "answer": 0,
+    "explanation_zh": "Engage handles all interactions with stakeholders.",
+    "explanation_en": "Engage handles all interactions with stakeholders.",
+    "difficulty": "easy",
+    "id": "itil4_1031"
+  },
+  {
+    "topic_zh": "服務價值鏈",
+    "topic_en": "Service Value Chain",
+    "subtopic_zh": "服務價值鏈",
+    "subtopic_en": "Service Value Chain",
+    "question_zh": "設計同過渡做咩？",
+    "question_en": "What does Design & Transition do?",
+    "options_zh": [
+      "Ensures services meet stakeholder expectations",
+      "Handles incidents",
+      "Manages budgets",
+      "Recruits staff"
+    ],
+    "options_en": [
+      "Ensures services meet stakeholder expectations",
+      "Handles incidents",
+      "Manages budgets",
+      "Recruits staff"
+    ],
+    "answer": 0,
+    "explanation_zh": "Design & Transition ensures products and services meet stakeholder expectations.",
+    "explanation_en": "Design & Transition ensures products and services meet stakeholder expectations.",
+    "difficulty": "easy",
+    "id": "itil4_1032"
+  },
+  {
+    "topic_zh": "服務價值鏈",
+    "topic_en": "Service Value Chain",
+    "subtopic_zh": "服務價值鏈",
+    "subtopic_en": "Service Value Chain",
+    "question_zh": "邊個活動構建或獲取組件？",
+    "question_en": "Which activity builds or acquires components?",
+    "options_zh": [
+      "Obtain/Build",
+      "Plan",
+      "Engage",
+      "Improve"
+    ],
+    "options_en": [
+      "Obtain/Build",
+      "Plan",
+      "Engage",
+      "Improve"
+    ],
+    "answer": 0,
+    "explanation_zh": "Obtain/Build ensures service components are available when needed.",
+    "explanation_en": "Obtain/Build ensures service components are available when needed.",
+    "difficulty": "hard",
+    "id": "itil4_1033"
+  },
+  {
+    "topic_zh": "服務價值鏈",
+    "topic_en": "Service Value Chain",
+    "subtopic_zh": "服務價值鏈",
+    "subtopic_en": "Service Value Chain",
+    "question_zh": "交付同支援做咩？",
+    "question_en": "What does Deliver & Support do?",
+    "options_zh": [
+      "Ensures services are delivered to users",
+      "Plans strategy",
+      "Manages finances",
+      "Handles HR"
+    ],
+    "options_en": [
+      "Ensures services are delivered to users",
+      "Plans strategy",
+      "Manages finances",
+      "Handles HR"
+    ],
+    "answer": 0,
+    "explanation_zh": "Deliver & Support ensures services are delivered and supported according to specifications.",
+    "explanation_en": "Deliver & Support ensures services are delivered and supported according to specifications.",
+    "difficulty": "medium",
+    "id": "itil4_1034"
+  },
+  {
+    "topic_zh": "服務價值鏈",
+    "topic_en": "Service Value Chain",
+    "subtopic_zh": "服務價值鏈",
+    "subtopic_en": "Service Value Chain",
+    "question_zh": "邊個 SVC 活動專注學習同改進？",
+    "question_en": "Which SVC activity focuses on learning and improvement?",
+    "options_zh": [
+      "Improve",
+      "Plan",
+      "Engage",
+      "Deliver & Support"
+    ],
+    "options_en": [
+      "Improve",
+      "Plan",
+      "Engage",
+      "Deliver & Support"
+    ],
+    "answer": 0,
+    "explanation_zh": "The Improve activity ensures continual improvement across all value chain activities.",
+    "explanation_en": "The Improve activity ensures continual improvement across all value chain activities.",
+    "difficulty": "easy",
+    "id": "itil4_1035"
+  },
+  {
+    "topic_zh": "服務價值鏈",
+    "topic_en": "Service Value Chain",
+    "subtopic_zh": "服務價值鏈",
+    "subtopic_en": "Service Value Chain",
+    "question_zh": "SVC 活動點樣一齊運作？",
+    "question_en": "How do SVC activities work together?",
+    "options_zh": [
+      "They are flexible and interconnected",
+      "They work in strict sequence",
+      "They are independent",
+      "Only one at a time"
+    ],
+    "options_en": [
+      "They are flexible and interconnected",
+      "They work in strict sequence",
+      "They are independent",
+      "Only one at a time"
+    ],
+    "answer": 0,
+    "explanation_zh": "SVC activities are flexible and can be combined in different ways.",
+    "explanation_en": "SVC activities are flexible and can be combined in different ways.",
+    "difficulty": "easy",
+    "id": "itil4_1036"
+  },
+  {
+    "topic_zh": "服務價值鏈",
+    "topic_en": "Service Value Chain",
+    "subtopic_zh": "服務價值鏈",
+    "subtopic_en": "Service Value Chain",
+    "question_zh": "咩觸發 SVC 活動？",
+    "question_en": "What triggers SVC activities?",
+    "options_zh": [
+      "Demand and opportunity",
+      "Budget approval",
+      "Incident reports",
+      "Annual planning"
+    ],
+    "options_en": [
+      "Demand and opportunity",
+      "Budget approval",
+      "Incident reports",
+      "Annual planning"
+    ],
+    "answer": 0,
+    "explanation_zh": "The SVC is triggered by demand and opportunity.",
+    "explanation_en": "The SVC is triggered by demand and opportunity.",
+    "difficulty": "hard",
+    "id": "itil4_1037"
+  },
+  {
+    "topic_zh": "服務價值鏈",
+    "topic_en": "Service Value Chain",
+    "subtopic_zh": "服務價值鏈",
+    "subtopic_en": "Service Value Chain",
+    "question_zh": "邊個活動改進實踐同服務？",
+    "question_en": "Which activity improves practices and services?",
+    "options_zh": [
+      "Improve",
+      "Plan",
+      "Engage",
+      "Obtain/Build"
+    ],
+    "options_en": [
+      "Improve",
+      "Plan",
+      "Engage",
+      "Obtain/Build"
+    ],
+    "answer": 0,
+    "explanation_zh": "The Improve activity ensures continual improvement of products, services, and practices.",
+    "explanation_en": "The Improve activity ensures continual improvement of products, services, and practices.",
+    "difficulty": "easy",
+    "id": "itil4_1038"
+  },
+  {
+    "topic_zh": "服務價值鏈",
+    "topic_en": "Service Value Chain",
+    "subtopic_zh": "服務價值鏈",
+    "subtopic_en": "Service Value Chain",
+    "question_zh": "SVC 同實踐之間嘅關係係咩？",
+    "question_en": "What is the relationship between SVC and practices?",
+    "options_zh": [
+      "Practices are used within SVC activities",
+      "They are separate systems",
+      "Practices replace SVC",
+      "SVC replaces practices"
+    ],
+    "options_en": [
+      "Practices are used within SVC activities",
+      "They are separate systems",
+      "Practices replace SVC",
+      "SVC replaces practices"
+    ],
+    "answer": 0,
+    "explanation_zh": "Practices are used within SVC activities to create value.",
+    "explanation_en": "Practices are used within SVC activities to create value.",
+    "difficulty": "hard",
+    "id": "itil4_1039"
+  },
+  {
+    "topic_zh": "治理",
+    "topic_en": "Governance",
+    "subtopic_zh": "治理",
+    "subtopic_en": "Governance",
+    "question_zh": "治理嘅目的係咩？",
+    "question_en": "What is the purpose of governance?",
+    "options_zh": [
+      "To ensure policies and strategy are implemented",
+      "To handle incidents",
+      "To manage changes",
+      "To deploy releases"
+    ],
+    "options_en": [
+      "To ensure policies and strategy are implemented",
+      "To handle incidents",
+      "To manage changes",
+      "To deploy releases"
+    ],
+    "answer": 0,
+    "explanation_zh": "Governance ensures the organization's policies and strategy are implemented.",
+    "explanation_en": "Governance ensures the organization's policies and strategy are implemented.",
+    "difficulty": "medium",
+    "id": "itil4_1040"
+  },
+  {
+    "topic_zh": "治理",
+    "topic_en": "Governance",
+    "subtopic_zh": "治理",
+    "subtopic_en": "Governance",
+    "question_zh": "邊個負責治理？",
+    "question_en": "Who is responsible for governance?",
+    "options_zh": [
+      "The governing body",
+      "IT staff",
+      "Customers",
+      "Suppliers"
+    ],
+    "options_en": [
+      "The governing body",
+      "IT staff",
+      "Customers",
+      "Suppliers"
+    ],
+    "answer": 0,
+    "explanation_zh": "The governing body (board) is responsible for governance.",
+    "explanation_en": "The governing body (board) is responsible for governance.",
+    "difficulty": "easy",
+    "id": "itil4_1041"
+  },
+  {
+    "topic_zh": "治理",
+    "topic_en": "Governance",
+    "subtopic_zh": "治理",
+    "subtopic_en": "Governance",
+    "question_zh": "治理評估咩？",
+    "question_en": "What does governance evaluate?",
+    "options_zh": [
+      "Stakeholder needs and strategic direction",
+      "Daily operations",
+      "Incident reports",
+      "Budget spreadsheets"
+    ],
+    "options_en": [
+      "Stakeholder needs and strategic direction",
+      "Daily operations",
+      "Incident reports",
+      "Budget spreadsheets"
+    ],
+    "answer": 0,
+    "explanation_zh": "Governance evaluates stakeholder needs, options, and sets strategic direction.",
+    "explanation_en": "Governance evaluates stakeholder needs, options, and sets strategic direction.",
+    "difficulty": "easy",
+    "id": "itil4_1042"
+  },
+  {
+    "topic_zh": "治理",
+    "topic_en": "Governance",
+    "subtopic_zh": "治理",
+    "subtopic_en": "Governance",
+    "question_zh": "治理同管理有咩分別？",
+    "question_en": "How does governance differ from management?",
+    "options_zh": [
+      "Governance ensures; management does",
+      "They are the same",
+      "Management ensures; governance does",
+      "Governance is optional"
+    ],
+    "options_en": [
+      "Governance ensures; management does",
+      "They are the same",
+      "Management ensures; governance does",
+      "Governance is optional"
+    ],
+    "answer": 0,
+    "explanation_zh": "Governance ensures policies are followed; management plans and executes.",
+    "explanation_en": "Governance ensures policies are followed; management plans and executes.",
+    "difficulty": "easy",
+    "id": "itil4_1043"
+  },
+  {
+    "topic_zh": "治理",
+    "topic_en": "Governance",
+    "subtopic_zh": "治理",
+    "subtopic_en": "Governance",
+    "question_zh": "ITIL 4 嘅治理模式係咩？",
+    "question_en": "What is the governance model in ITIL 4?",
+    "options_zh": [
+      "Evaluate, Direct, Monitor",
+      "Plan, Do, Check, Act",
+      "Design, Build, Test, Deploy",
+      "Strategy, Design, Transition, Operation"
+    ],
+    "options_en": [
+      "Evaluate, Direct, Monitor",
+      "Plan, Do, Check, Act",
+      "Design, Build, Test, Deploy",
+      "Strategy, Design, Transition, Operation"
+    ],
+    "answer": 0,
+    "explanation_zh": "ITIL 4 governance follows the Evaluate, Direct, Monitor model.",
+    "explanation_en": "ITIL 4 governance follows the Evaluate, Direct, Monitor model.",
+    "difficulty": "easy",
+    "id": "itil4_1044"
+  },
+  {
+    "topic_zh": "治理",
+    "topic_en": "Governance",
+    "subtopic_zh": "治理",
+    "subtopic_en": "Governance",
+    "question_zh": "治理中「評估」係咩意思？",
+    "question_en": "What does 'Evaluate' mean in governance?",
+    "options_zh": [
+      "Assess current state and options",
+      "Make decisions",
+      "Monitor outcomes",
+      "Execute plans"
+    ],
+    "options_en": [
+      "Assess current state and options",
+      "Make decisions",
+      "Monitor outcomes",
+      "Execute plans"
+    ],
+    "answer": 0,
+    "explanation_zh": "Evaluate means to assess the current state, options, and make recommendations.",
+    "explanation_en": "Evaluate means to assess the current state, options, and make recommendations.",
+    "difficulty": "medium",
+    "id": "itil4_1045"
+  },
+  {
+    "topic_zh": "治理",
+    "topic_en": "Governance",
+    "subtopic_zh": "治理",
+    "subtopic_en": "Governance",
+    "question_zh": "治理中「指導」係咩意思？",
+    "question_en": "What does 'Direct' mean in governance?",
+    "options_zh": [
+      "Provide instructions and decisions",
+      "Monitor performance",
+      "Evaluate options",
+      "Execute changes"
+    ],
+    "options_en": [
+      "Provide instructions and decisions",
+      "Monitor performance",
+      "Evaluate options",
+      "Execute changes"
+    ],
+    "answer": 0,
+    "explanation_zh": "Direct means to issue instructions and decisions to management.",
+    "explanation_en": "Direct means to issue instructions and decisions to management.",
+    "difficulty": "medium",
+    "id": "itil4_1046"
+  },
+  {
+    "topic_zh": "治理",
+    "topic_en": "Governance",
+    "subtopic_zh": "治理",
+    "subtopic_en": "Governance",
+    "question_zh": "治理中「監控」係咩意思？",
+    "question_en": "What does 'Monitor' mean in governance?",
+    "options_zh": [
+      "Track performance against targets",
+      "Make decisions",
+      "Evaluate options",
+      "Execute plans"
+    ],
+    "options_en": [
+      "Track performance against targets",
+      "Make decisions",
+      "Evaluate options",
+      "Execute plans"
+    ],
+    "answer": 0,
+    "explanation_zh": "Monitor means to track performance and compliance with policies.",
+    "explanation_en": "Monitor means to track performance and compliance with policies.",
+    "difficulty": "hard",
+    "id": "itil4_1047"
+  },
+  {
+    "topic_zh": "治理",
+    "topic_en": "Governance",
+    "subtopic_zh": "治理",
+    "subtopic_en": "Governance",
+    "question_zh": "治理同風險管理有咩關係？",
+    "question_en": "How does governance relate to risk management?",
+    "options_zh": [
+      "Governance sets risk appetite and policies",
+      "They are unrelated",
+      "Risk management replaces governance",
+      "Governance replaces risk management"
+    ],
+    "options_en": [
+      "Governance sets risk appetite and policies",
+      "They are unrelated",
+      "Risk management replaces governance",
+      "Governance replaces risk management"
+    ],
+    "answer": 0,
+    "explanation_zh": "Governance establishes risk appetite and policies for risk management.",
+    "explanation_en": "Governance establishes risk appetite and policies for risk management.",
+    "difficulty": "easy",
+    "id": "itil4_1048"
+  },
+  {
+    "topic_zh": "治理",
+    "topic_en": "Governance",
+    "subtopic_zh": "治理",
+    "subtopic_en": "Governance",
+    "question_zh": "治理機構嘅角色係咩？",
+    "question_en": "What is the role of the governing body?",
+    "options_zh": [
+      "To provide oversight and strategic direction",
+      "To handle daily operations",
+      "To resolve incidents",
+      "To manage configurations"
+    ],
+    "options_en": [
+      "To provide oversight and strategic direction",
+      "To handle daily operations",
+      "To resolve incidents",
+      "To manage configurations"
+    ],
+    "answer": 0,
+    "explanation_zh": "The governing body provides oversight, strategic direction, and accountability.",
+    "explanation_en": "The governing body provides oversight, strategic direction, and accountability.",
+    "difficulty": "easy",
+    "id": "itil4_1049"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "ITIL 4 中咩係事故？",
+    "question_en": "What is an incident in ITIL 4?",
+    "options_zh": [
+      "An unplanned interruption to a service",
+      "A planned maintenance window",
+      "A change request",
+      "A service request"
+    ],
+    "options_en": [
+      "An unplanned interruption to a service",
+      "A planned maintenance window",
+      "A change request",
+      "A service request"
+    ],
+    "answer": 0,
+    "explanation_zh": "An incident is an unplanned interruption or reduction in quality of an IT service.",
+    "explanation_en": "An incident is an unplanned interruption or reduction in quality of an IT service.",
+    "difficulty": "medium",
+    "id": "itil4_2000"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "事故嘅優先級基於咩？",
+    "question_en": "What is the priority of an incident based on?",
+    "options_zh": [
+      "Impact and urgency",
+      "Cost only",
+      "Time of day",
+      "Who reported it"
+    ],
+    "options_en": [
+      "Impact and urgency",
+      "Cost only",
+      "Time of day",
+      "Who reported it"
+    ],
+    "answer": 0,
+    "explanation_zh": "Incident priority is determined by combining impact and urgency.",
+    "explanation_en": "Incident priority is determined by combining impact and urgency.",
+    "difficulty": "hard",
+    "id": "itil4_2001"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "咩係重大事故？",
+    "question_en": "What is a major incident?",
+    "options_zh": [
+      "An incident with significant business impact",
+      "Any incident",
+      "A planned outage",
+      "A service request"
+    ],
+    "options_en": [
+      "An incident with significant business impact",
+      "Any incident",
+      "A planned outage",
+      "A service request"
+    ],
+    "answer": 0,
+    "explanation_zh": "A major incident has significant impact on the business and requires special handling.",
+    "explanation_en": "A major incident has significant impact on the business and requires special handling.",
+    "difficulty": "easy",
+    "id": "itil4_2002"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "事故匹配嘅目標係咩？",
+    "question_en": "What is the goal of incident matching?",
+    "options_zh": [
+      "To identify existing workarounds",
+      "To close incidents",
+      "To escalate problems",
+      "To update the CMDB"
+    ],
+    "options_en": [
+      "To identify existing workarounds",
+      "To close incidents",
+      "To escalate problems",
+      "To update the CMDB"
+    ],
+    "answer": 0,
+    "explanation_zh": "Incident matching helps identify existing known errors or workarounds.",
+    "explanation_en": "Incident matching helps identify existing known errors or workarounds.",
+    "difficulty": "hard",
+    "id": "itil4_2003"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "幾時應該升級事故？",
+    "question_en": "When should an incident be escalated?",
+    "options_zh": [
+      "When it cannot be resolved within target time",
+      "Never",
+      "Only at end of day",
+      "When the customer asks"
+    ],
+    "options_en": [
+      "When it cannot be resolved within target time",
+      "Never",
+      "Only at end of day",
+      "When the customer asks"
+    ],
+    "answer": 0,
+    "explanation_zh": "Escalation occurs when an incident cannot be resolved within the agreed timeframe.",
+    "explanation_en": "Escalation occurs when an incident cannot be resolved within the agreed timeframe.",
+    "difficulty": "hard",
+    "id": "itil4_2004"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "ITIL 4 中咩係問題？",
+    "question_en": "What is a problem in ITIL 4?",
+    "options_zh": [
+      "The cause of one or more incidents",
+      "An incident",
+      "A change request",
+      "A service request"
+    ],
+    "options_en": [
+      "The cause of one or more incidents",
+      "An incident",
+      "A change request",
+      "A service request"
+    ],
+    "answer": 0,
+    "explanation_zh": "A problem is a cause, or potential cause, of one or more incidents.",
+    "explanation_en": "A problem is a cause, or potential cause, of one or more incidents.",
+    "difficulty": "medium",
+    "id": "itil4_2005"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "咩係已知錯誤？",
+    "question_en": "What is a known error?",
+    "options_zh": [
+      "A problem with a documented root cause and workaround",
+      "Any incident",
+      "A closed problem",
+      "A test result"
+    ],
+    "options_en": [
+      "A problem with a documented root cause and workaround",
+      "Any incident",
+      "A closed problem",
+      "A test result"
+    ],
+    "answer": 0,
+    "explanation_zh": "A known error has a documented root cause and a workaround.",
+    "explanation_en": "A known error has a documented root cause and a workaround.",
+    "difficulty": "hard",
+    "id": "itil4_2006"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "主動問題管理係咩？",
+    "question_en": "What is proactive problem management?",
+    "options_zh": [
+      "Identifying problems before incidents occur",
+      "Waiting for incidents",
+      "Closing problems",
+      "Updating documentation"
+    ],
+    "options_en": [
+      "Identifying problems before incidents occur",
+      "Waiting for incidents",
+      "Closing problems",
+      "Updating documentation"
+    ],
+    "answer": 0,
+    "explanation_zh": "Proactive problem management identifies and resolves problems before they cause incidents.",
+    "explanation_en": "Proactive problem management identifies and resolves problems before they cause incidents.",
+    "difficulty": "medium",
+    "id": "itil4_2007"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "被動問題管理係咩？",
+    "question_en": "What is reactive problem management?",
+    "options_zh": [
+      "Analyzing incidents to find root causes",
+      "Preventing incidents",
+      "Managing changes",
+      "Handling service requests"
+    ],
+    "options_en": [
+      "Analyzing incidents to find root causes",
+      "Preventing incidents",
+      "Managing changes",
+      "Handling service requests"
+    ],
+    "answer": 0,
+    "explanation_zh": "Reactive problem management analyzes incidents after they occur to find root causes.",
+    "explanation_en": "Reactive problem management analyzes incidents after they occur to find root causes.",
+    "difficulty": "medium",
+    "id": "itil4_2008"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "邊種技術識別問題根本原因？",
+    "question_en": "What technique identifies problem root cause?",
+    "options_zh": [
+      "Root cause analysis",
+      "Incident matching",
+      "Change management",
+      "Service mapping"
+    ],
+    "options_en": [
+      "Root cause analysis",
+      "Incident matching",
+      "Change management",
+      "Service mapping"
+    ],
+    "answer": 0,
+    "explanation_zh": "Root cause analysis (RCA) is used to identify the underlying cause of problems.",
+    "explanation_en": "Root cause analysis (RCA) is used to identify the underlying cause of problems.",
+    "difficulty": "easy",
+    "id": "itil4_2009"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "ITIL 4 中咩係變更？",
+    "question_en": "What is a change in ITIL 4?",
+    "options_zh": [
+      "Addition, modification, or removal of anything that could affect services",
+      "Only software updates",
+      "Only hardware changes",
+      "Only policy changes"
+    ],
+    "options_en": [
+      "Addition, modification, or removal of anything that could affect services",
+      "Only software updates",
+      "Only hardware changes",
+      "Only policy changes"
+    ],
+    "answer": 0,
+    "explanation_zh": "A change is any addition, modification, or removal that could affect IT services.",
+    "explanation_en": "A change is any addition, modification, or removal that could affect IT services.",
+    "difficulty": "easy",
+    "id": "itil4_2010"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "變更分為邊三種類型？",
+    "question_en": "What are the three types of changes?",
+    "options_zh": [
+      "Standard, Normal, Emergency",
+      "Small, Medium, Large",
+      "Planned, Unplanned, Emergency",
+      "Internal, External, Hybrid"
+    ],
+    "options_en": [
+      "Standard, Normal, Emergency",
+      "Small, Medium, Large",
+      "Planned, Unplanned, Emergency",
+      "Internal, External, Hybrid"
+    ],
+    "answer": 0,
+    "explanation_zh": "ITIL 4 classifies changes as Standard, Normal, or Emergency.",
+    "explanation_en": "ITIL 4 classifies changes as Standard, Normal, or Emergency.",
+    "difficulty": "hard",
+    "id": "itil4_2011"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "咩係標準變更？",
+    "question_en": "What is a standard change?",
+    "options_zh": [
+      "A pre-authorized, low-risk change",
+      "Any change",
+      "An emergency change",
+      "A high-risk change"
+    ],
+    "options_en": [
+      "A pre-authorized, low-risk change",
+      "Any change",
+      "An emergency change",
+      "A high-risk change"
+    ],
+    "answer": 0,
+    "explanation_zh": "Standard changes are pre-authorized, low-risk, and follow a established procedure.",
+    "explanation_en": "Standard changes are pre-authorized, low-risk, and follow a established procedure.",
+    "difficulty": "medium",
+    "id": "itil4_2012"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "咩係緊急變更？",
+    "question_en": "What is an emergency change?",
+    "options_zh": [
+      "A change that must be implemented ASAP",
+      "Any change",
+      "A standard change",
+      "A planned change"
+    ],
+    "options_en": [
+      "A change that must be implemented ASAP",
+      "Any change",
+      "A standard change",
+      "A planned change"
+    ],
+    "answer": 0,
+    "explanation_zh": "Emergency changes must be implemented as soon as possible to resolve an incident.",
+    "explanation_en": "Emergency changes must be implemented as soon as possible to resolve an incident.",
+    "difficulty": "medium",
+    "id": "itil4_2013"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "變更授權機構做咩？",
+    "question_en": "What does the Change Authority do?",
+    "options_zh": [
+      "Approves or rejects changes",
+      "Implements changes",
+      "Tests changes",
+      "Documents changes"
+    ],
+    "options_en": [
+      "Approves or rejects changes",
+      "Implements changes",
+      "Tests changes",
+      "Documents changes"
+    ],
+    "answer": 0,
+    "explanation_zh": "The Change Authority reviews and approves or rejects change requests.",
+    "explanation_en": "The Change Authority reviews and approves or rejects change requests.",
+    "difficulty": "hard",
+    "id": "itil4_2014"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "服務台嘅主要角色係咩？",
+    "question_en": "What is the service desk's primary role?",
+    "options_zh": [
+      "To be the single point of contact for users",
+      "To manage changes",
+      "To handle problems",
+      "To deploy releases"
+    ],
+    "options_en": [
+      "To be the single point of contact for users",
+      "To manage changes",
+      "To handle problems",
+      "To deploy releases"
+    ],
+    "answer": 0,
+    "explanation_zh": "The service desk is the single point of contact between users and IT.",
+    "explanation_en": "The service desk is the single point of contact between users and IT.",
+    "difficulty": "medium",
+    "id": "itil4_2015"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "咩係服務請求？",
+    "question_en": "What is a service request?",
+    "options_zh": [
+      "A request from a user for information or advice",
+      "An incident",
+      "A problem",
+      "A change"
+    ],
+    "options_en": [
+      "A request from a user for information or advice",
+      "An incident",
+      "A problem",
+      "A change"
+    ],
+    "answer": 0,
+    "explanation_zh": "A service request is a request from a user for something to be provided.",
+    "explanation_en": "A service request is a request from a user for something to be provided.",
+    "difficulty": "medium",
+    "id": "itil4_2016"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "服務台需要咩技能？",
+    "question_en": "What skills does a service desk need?",
+    "options_zh": [
+      "Communication, empathy, technical knowledge",
+      "Only technical skills",
+      "Only communication",
+      "Only empathy"
+    ],
+    "options_en": [
+      "Communication, empathy, technical knowledge",
+      "Only technical skills",
+      "Only communication",
+      "Only empathy"
+    ],
+    "answer": 0,
+    "explanation_zh": "Service desk staff need communication skills, empathy, and technical knowledge.",
+    "explanation_en": "Service desk staff need communication skills, empathy, and technical knowledge.",
+    "difficulty": "easy",
+    "id": "itil4_2017"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "咩係 SLA？",
+    "question_en": "What is an SLA?",
+    "options_zh": [
+      "Service Level Agreement",
+      "System License Agreement",
+      "Software Level Agreement",
+      "Security Level Agreement"
+    ],
+    "options_en": [
+      "Service Level Agreement",
+      "System License Agreement",
+      "Software Level Agreement",
+      "Security Level Agreement"
+    ],
+    "answer": 0,
+    "explanation_zh": "An SLA is a Service Level Agreement defining service targets.",
+    "explanation_en": "An SLA is a Service Level Agreement defining service targets.",
+    "difficulty": "medium",
+    "id": "itil4_2018"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "咩係 OLA？",
+    "question_en": "What is an OLA?",
+    "options_zh": [
+      "Operational Level Agreement",
+      "Online License Agreement",
+      "Operational License Agreement",
+      "Online Level Agreement"
+    ],
+    "options_en": [
+      "Operational Level Agreement",
+      "Online License Agreement",
+      "Operational License Agreement",
+      "Online Level Agreement"
+    ],
+    "answer": 0,
+    "explanation_zh": "An OLA is an Operational Level Agreement between internal teams.",
+    "explanation_en": "An OLA is an Operational Level Agreement between internal teams.",
+    "difficulty": "hard",
+    "id": "itil4_2019"
+  },
+  {
+    "topic_zh": "持續改進",
+    "topic_en": "Continual Improvement",
+    "subtopic_zh": "持續改進",
+    "subtopic_en": "Continual Improvement",
+    "question_zh": "持續改進模型係咩？",
+    "question_en": "What is the continual improvement model?",
+    "options_zh": [
+      "What is the vision? Where are we now? Where do we want to be? How do we get there? Did we get there? How do we keep the momentum going?",
+      "Plan, Do, Check, Act",
+      "Define, Measure, Analyze, Improve, Control",
+      "Identify, Analyze, Implement, Review"
+    ],
+    "options_en": [
+      "What is the vision? Where are we now? Where do we want to be? How do we get there? Did we get there? How do we keep the momentum going?",
+      "Plan, Do, Check, Act",
+      "Define, Measure, Analyze, Improve, Control",
+      "Identify, Analyze, Implement, Review"
+    ],
+    "answer": 0,
+    "explanation_zh": "The ITIL 4 continual improvement model has 7 questions guiding improvement.",
+    "explanation_en": "The ITIL 4 continual improvement model has 7 questions guiding improvement.",
+    "difficulty": "hard",
+    "id": "itil4_2020"
+  },
+  {
+    "topic_zh": "持續改進",
+    "topic_en": "Continual Improvement",
+    "subtopic_zh": "持續改進",
+    "subtopic_en": "Continual Improvement",
+    "question_zh": "持續改進嘅第一步係咩？",
+    "question_en": "What is the first step of continual improvement?",
+    "options_zh": [
+      "What is the vision?",
+      "Where are we now?",
+      "How do we get there?",
+      "Did we get there?"
+    ],
+    "options_en": [
+      "What is the vision?",
+      "Where are we now?",
+      "How do we get there?",
+      "Did we get there?"
+    ],
+    "answer": 0,
+    "explanation_zh": "The first step is understanding the vision and goals.",
+    "explanation_en": "The first step is understanding the vision and goals.",
+    "difficulty": "easy",
+    "id": "itil4_2021"
+  },
+  {
+    "topic_zh": "持續改進",
+    "topic_en": "Continual Improvement",
+    "subtopic_zh": "持續改進",
+    "subtopic_en": "Continual Improvement",
+    "question_zh": "邊個工具評估現狀？",
+    "question_en": "What tool assesses current state?",
+    "options_zh": [
+      "Maturity assessment",
+      "Incident log",
+      "Change register",
+      "CMDB"
+    ],
+    "options_en": [
+      "Maturity assessment",
+      "Incident log",
+      "Change register",
+      "CMDB"
+    ],
+    "answer": 0,
+    "explanation_zh": "Maturity assessment tools help evaluate the current state of practices.",
+    "explanation_en": "Maturity assessment tools help evaluate the current state of practices.",
+    "difficulty": "easy",
+    "id": "itil4_2022"
+  },
+  {
+    "topic_zh": "持續改進",
+    "topic_en": "Continual Improvement",
+    "subtopic_zh": "持續改進",
+    "subtopic_en": "Continual Improvement",
+    "question_zh": "咩係 CSI 登記冊？",
+    "question_en": "What is a CSI register?",
+    "options_zh": [
+      "A list of improvement opportunities",
+      "An incident log",
+      "A change register",
+      "A configuration database"
+    ],
+    "options_en": [
+      "A list of improvement opportunities",
+      "An incident log",
+      "A change register",
+      "A configuration database"
+    ],
+    "answer": 0,
+    "explanation_zh": "The CSI register captures and prioritizes improvement opportunities.",
+    "explanation_en": "The CSI register captures and prioritizes improvement opportunities.",
+    "difficulty": "easy",
+    "id": "itil4_2023"
+  },
+  {
+    "topic_zh": "持續改進",
+    "topic_en": "Continual Improvement",
+    "subtopic_zh": "持續改進",
+    "subtopic_en": "Continual Improvement",
+    "question_zh": "改進應該點樣排優先級？",
+    "question_en": "How should improvements be prioritized?",
+    "options_zh": [
+      "By value and effort required",
+      "By date reported",
+      "By who requested",
+      "Randomly"
+    ],
+    "options_en": [
+      "By value and effort required",
+      "By date reported",
+      "By who requested",
+      "Randomly"
+    ],
+    "answer": 0,
+    "explanation_zh": "Improvements should be prioritized based on value delivered and effort required.",
+    "explanation_en": "Improvements should be prioritized based on value delivered and effort required.",
+    "difficulty": "easy",
+    "id": "itil4_2024"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "ITIL 4 中咩係價值？",
+    "question_en": "What is value in ITIL 4?",
+    "options_zh": [
+      "The perceived benefits, usefulness, and importance",
+      "Money",
+      "Revenue",
+      "Cost savings"
+    ],
+    "options_en": [
+      "The perceived benefits, usefulness, and importance",
+      "Money",
+      "Revenue",
+      "Cost savings"
+    ],
+    "answer": 0,
+    "explanation_zh": "Value is the perceived benefits, usefulness, and importance of something.",
+    "explanation_en": "Value is the perceived benefits, usefulness, and importance of something.",
+    "difficulty": "hard",
+    "id": "itil4_2025"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "邊個定義價值？",
+    "question_en": "Who defines value?",
+    "options_zh": [
+      "The consumer",
+      "The provider",
+      "IT staff",
+      "Management"
+    ],
+    "options_en": [
+      "The consumer",
+      "The provider",
+      "IT staff",
+      "Management"
+    ],
+    "answer": 0,
+    "explanation_zh": "Value is defined by the consumer, not the provider.",
+    "explanation_en": "Value is defined by the consumer, not the provider.",
+    "difficulty": "medium",
+    "id": "itil4_2026"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "價值共創係咩？",
+    "question_en": "What is co-creation of value?",
+    "options_zh": [
+      "Provider and consumer working together to create value",
+      "Provider creating value alone",
+      "Consumer creating value alone",
+      "Management deciding value"
+    ],
+    "options_en": [
+      "Provider and consumer working together to create value",
+      "Provider creating value alone",
+      "Consumer creating value alone",
+      "Management deciding value"
+    ],
+    "answer": 0,
+    "explanation_zh": "Co-creation means provider and consumer collaborate to create value.",
+    "explanation_en": "Co-creation means provider and consumer collaborate to create value.",
+    "difficulty": "hard",
+    "id": "itil4_2027"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "ITIL 4 中咩係服務？",
+    "question_en": "What is a service in ITIL 4?",
+    "options_zh": [
+      "A means of enabling value co-creation",
+      "A product",
+      "Software",
+      "Hardware"
+    ],
+    "options_en": [
+      "A means of enabling value co-creation",
+      "A product",
+      "Software",
+      "Hardware"
+    ],
+    "answer": 0,
+    "explanation_zh": "A service is a means of enabling value co-creation by facilitating outcomes.",
+    "explanation_en": "A service is a means of enabling value co-creation by facilitating outcomes.",
+    "difficulty": "medium",
+    "id": "itil4_2028"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "輸出同結果有咩分別？",
+    "question_en": "What is the difference between output and outcome?",
+    "options_zh": [
+      "Output is what is delivered; outcome is the result achieved",
+      "They are the same",
+      "Output is the result; outcome is what is delivered",
+      "Neither matters"
+    ],
+    "options_en": [
+      "Output is what is delivered; outcome is the result achieved",
+      "They are the same",
+      "Output is the result; outcome is what is delivered",
+      "Neither matters"
+    ],
+    "answer": 0,
+    "explanation_zh": "Outputs are what is delivered; outcomes are the results achieved by using outputs.",
+    "explanation_en": "Outputs are what is delivered; outcomes are the results achieved by using outputs.",
+    "difficulty": "easy",
+    "id": "itil4_2029"
+  },
+  {
+    "topic_zh": "指導原則",
+    "topic_en": "Guiding Principles",
+    "subtopic_zh": "指導原則",
+    "subtopic_en": "Guiding Principles",
+    "question_zh": "「協作同促進可見性」點解重要？",
+    "question_en": "Why is 'Collaborate and promote visibility' important?",
+    "options_zh": [
+      "Better decisions come from shared information",
+      "It saves money",
+      "It reduces staff",
+      "It eliminates meetings"
+    ],
+    "options_en": [
+      "Better decisions come from shared information",
+      "It saves money",
+      "It reduces staff",
+      "It eliminates meetings"
+    ],
+    "answer": 0,
+    "explanation_zh": "When people understand the big picture, they make better decisions.",
+    "explanation_en": "When people understand the big picture, they make better decisions.",
+    "difficulty": "easy",
+    "id": "itil4_2030"
+  },
+  {
+    "topic_zh": "指導原則",
+    "topic_en": "Guiding Principles",
+    "subtopic_zh": "指導原則",
+    "subtopic_en": "Guiding Principles",
+    "question_zh": "「先優化後自動化」係咩意思？",
+    "question_en": "What does 'Optimize before automate' mean?",
+    "options_zh": [
+      "Improve processes before automating them",
+      "Never automate",
+      "Always automate first",
+      "Only automate"
+    ],
+    "options_en": [
+      "Improve processes before automating them",
+      "Never automate",
+      "Always automate first",
+      "Only automate"
+    ],
+    "answer": 0,
+    "explanation_zh": "Automating a bad process just makes bad things happen faster.",
+    "explanation_en": "Automating a bad process just makes bad things happen faster.",
+    "difficulty": "hard",
+    "id": "itil4_2031"
+  },
+  {
+    "topic_zh": "指導原則",
+    "topic_en": "Guiding Principles",
+    "subtopic_zh": "指導原則",
+    "subtopic_en": "Guiding Principles",
+    "question_zh": "「從現狀開始」點樣幫到手？",
+    "question_en": "How does 'Start where you are' help?",
+    "options_zh": [
+      "Saves time by using existing resources",
+      "Means never improving",
+      "Means ignoring current state",
+      "Means starting from scratch"
+    ],
+    "options_en": [
+      "Saves time by using existing resources",
+      "Means never improving",
+      "Means ignoring current state",
+      "Means starting from scratch"
+    ],
+    "answer": 0,
+    "explanation_zh": "This principle saves time and resources by leveraging what already exists.",
+    "explanation_en": "This principle saves time and resources by leveraging what already exists.",
+    "difficulty": "hard",
+    "id": "itil4_2032"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "部署管理做咩？",
+    "question_en": "What does Deployment Management do?",
+    "options_zh": [
+      "Moves components to live environments",
+      "Handles incidents",
+      "Manages problems",
+      "Controls changes"
+    ],
+    "options_en": [
+      "Moves components to live environments",
+      "Handles incidents",
+      "Manages problems",
+      "Controls changes"
+    ],
+    "answer": 0,
+    "explanation_zh": "Deployment Management moves new or changed hardware, software, and other components to live environments.",
+    "explanation_en": "Deployment Management moves new or changed hardware, software, and other components to live environments.",
+    "difficulty": "medium",
+    "id": "itil4_2033"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "基礎設施同平台管理做咩？",
+    "question_en": "What does Infrastructure and Platform Management do?",
+    "options_zh": [
+      "Monitors and manages IT infrastructure",
+      "Handles service requests",
+      "Manages incidents",
+      "Controls changes"
+    ],
+    "options_en": [
+      "Monitors and manages IT infrastructure",
+      "Handles service requests",
+      "Manages incidents",
+      "Controls changes"
+    ],
+    "answer": 0,
+    "explanation_zh": "This practice monitors and manages technology infrastructure and platforms.",
+    "explanation_en": "This practice monitors and manages technology infrastructure and platforms.",
+    "difficulty": "medium",
+    "id": "itil4_2034"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "軟件開發同管理做咩？",
+    "question_en": "What does Software Development and Management do?",
+    "options_zh": [
+      "Ensures applications meet stakeholder needs",
+      "Handles incidents",
+      "Manages problems",
+      "Controls changes"
+    ],
+    "options_en": [
+      "Ensures applications meet stakeholder needs",
+      "Handles incidents",
+      "Manages problems",
+      "Controls changes"
+    ],
+    "answer": 0,
+    "explanation_zh": "This practice ensures applications meet stakeholder needs.",
+    "explanation_en": "This practice ensures applications meet stakeholder needs.",
+    "difficulty": "hard",
+    "id": "itil4_2035"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "供應商管理嘅目的係咩？",
+    "question_en": "What is the purpose of Supplier Management?",
+    "options_zh": [
+      "To ensure suppliers deliver value",
+      "To reduce costs only",
+      "To eliminate suppliers",
+      "To manage incidents"
+    ],
+    "options_en": [
+      "To ensure suppliers deliver value",
+      "To reduce costs only",
+      "To eliminate suppliers",
+      "To manage incidents"
+    ],
+    "answer": 0,
+    "explanation_zh": "Supplier Management ensures suppliers deliver value and meet contractual obligations.",
+    "explanation_en": "Supplier Management ensures suppliers deliver value and meet contractual obligations.",
+    "difficulty": "medium",
+    "id": "itil4_2036"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "咩係支配合約？",
+    "question_en": "What is a underpinning contract?",
+    "options_zh": [
+      "A contract with an external supplier",
+      "An internal agreement",
+      "A service request",
+      "A change request"
+    ],
+    "options_en": [
+      "A contract with an external supplier",
+      "An internal agreement",
+      "A service request",
+      "A change request"
+    ],
+    "answer": 0,
+    "explanation_zh": "An underpinning contract is a contract between IT and an external supplier.",
+    "explanation_en": "An underpinning contract is a contract between IT and an external supplier.",
+    "difficulty": "easy",
+    "id": "itil4_2037"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "知識管理嘅目的係咩？",
+    "question_en": "What is the purpose of Knowledge Management?",
+    "options_zh": [
+      "To maintain and improve valuable knowledge",
+      "To delete old documents",
+      "To manage incidents",
+      "To handle changes"
+    ],
+    "options_en": [
+      "To maintain and improve valuable knowledge",
+      "To delete old documents",
+      "To manage incidents",
+      "To handle changes"
+    ],
+    "answer": 0,
+    "explanation_zh": "Knowledge Management maintains and improves the use of information and knowledge.",
+    "explanation_en": "Knowledge Management maintains and improves the use of information and knowledge.",
+    "difficulty": "easy",
+    "id": "itil4_2038"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "咩係已知錯誤數據庫？",
+    "question_en": "What is a known error database?",
+    "options_zh": [
+      "A database of known errors and workarounds",
+      "An incident log",
+      "A change register",
+      "A CMDB"
+    ],
+    "options_en": [
+      "A database of known errors and workarounds",
+      "An incident log",
+      "A change register",
+      "A CMDB"
+    ],
+    "answer": 0,
+    "explanation_zh": "The KEDB stores known errors and their workarounds for quick incident resolution.",
+    "explanation_en": "The KEDB stores known errors and their workarounds for quick incident resolution.",
+    "difficulty": "hard",
+    "id": "itil4_2039"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "服務管理嘅四個維度係咩？",
+    "question_en": "What are the four dimensions of service management?",
+    "options_zh": [
+      "Organizations and People, Information and Technology, Partners and Suppliers, Value Streams and Processes",
+      "Plan, Do, Check, Act",
+      "Strategy, Design, Transition, Operation",
+      "People, Process, Technology, Data"
+    ],
+    "options_en": [
+      "Organizations and People, Information and Technology, Partners and Suppliers, Value Streams and Processes",
+      "Plan, Do, Check, Act",
+      "Strategy, Design, Transition, Operation",
+      "People, Process, Technology, Data"
+    ],
+    "answer": 0,
+    "explanation_zh": "The four dimensions are Organizations and People, Information and Technology, Partners and Suppliers, Value Streams and Processes.",
+    "explanation_en": "The four dimensions are Organizations and People, Information and Technology, Partners and Suppliers, Value Streams and Processes.",
+    "difficulty": "hard",
+    "id": "itil4_2040"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "四個維度點解重要？",
+    "question_en": "Why are the four dimensions important?",
+    "options_zh": [
+      "They ensure a holistic approach to service management",
+      "They are optional",
+      "They only apply to large organizations",
+      "They replace the SVC"
+    ],
+    "options_en": [
+      "They ensure a holistic approach to service management",
+      "They are optional",
+      "They only apply to large organizations",
+      "They replace the SVC"
+    ],
+    "answer": 0,
+    "explanation_zh": "The four dimensions ensure a balanced, holistic approach to service management.",
+    "explanation_en": "The four dimensions ensure a balanced, holistic approach to service management.",
+    "difficulty": "easy",
+    "id": "itil4_2041"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "「組織同人員」涵蓋咩？",
+    "question_en": "What does 'Organizations and People' cover?",
+    "options_zh": [
+      "Roles, skills, culture, and organizational structure",
+      "Technology",
+      "Suppliers",
+      "Processes"
+    ],
+    "options_en": [
+      "Roles, skills, culture, and organizational structure",
+      "Technology",
+      "Suppliers",
+      "Processes"
+    ],
+    "answer": 0,
+    "explanation_zh": "This dimension covers the people aspects including roles, skills, and culture.",
+    "explanation_en": "This dimension covers the people aspects including roles, skills, and culture.",
+    "difficulty": "medium",
+    "id": "itil4_2042"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "「資訊同科技」涵蓋咩？",
+    "question_en": "What does 'Information and Technology' cover?",
+    "options_zh": [
+      "Tools, data, and technology used in service management",
+      "People",
+      "Suppliers",
+      "Processes"
+    ],
+    "options_en": [
+      "Tools, data, and technology used in service management",
+      "People",
+      "Suppliers",
+      "Processes"
+    ],
+    "answer": 0,
+    "explanation_zh": "This dimension covers the information and technologies needed for service management.",
+    "explanation_en": "This dimension covers the information and technologies needed for service management.",
+    "difficulty": "hard",
+    "id": "itil4_2043"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "「合作夥伴同供應商」涵蓋咩？",
+    "question_en": "What does 'Partners and Suppliers' cover?",
+    "options_zh": [
+      "Relationships with external organizations",
+      "Internal staff",
+      "Technology",
+      "Processes"
+    ],
+    "options_en": [
+      "Relationships with external organizations",
+      "Internal staff",
+      "Technology",
+      "Processes"
+    ],
+    "answer": 0,
+    "explanation_zh": "This dimension covers the organization's relationships with partners and suppliers.",
+    "explanation_en": "This dimension covers the organization's relationships with partners and suppliers.",
+    "difficulty": "medium",
+    "id": "itil4_2044"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "「價值流同流程」涵蓋咩？",
+    "question_en": "What does 'Value Streams and Processes' cover?",
+    "options_zh": [
+      "How activities are organized and delivered",
+      "People",
+      "Technology",
+      "Suppliers"
+    ],
+    "options_en": [
+      "How activities are organized and delivered",
+      "People",
+      "Technology",
+      "Suppliers"
+    ],
+    "answer": 0,
+    "explanation_zh": "This dimension covers how activities are organized to create value.",
+    "explanation_en": "This dimension covers how activities are organized to create value.",
+    "difficulty": "easy",
+    "id": "itil4_2045"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "服務台同幫助台有咩分別？",
+    "question_en": "What is the difference between a service desk and a help desk?",
+    "options_zh": [
+      "Service desk is broader, managing all service requests and incidents",
+      "They are the same",
+      "Help desk is broader",
+      "Service desk only handles calls"
+    ],
+    "options_en": [
+      "Service desk is broader, managing all service requests and incidents",
+      "They are the same",
+      "Help desk is broader",
+      "Service desk only handles calls"
+    ],
+    "answer": 0,
+    "explanation_zh": "A service desk is broader than a help desk, managing all service interactions.",
+    "explanation_en": "A service desk is broader than a help desk, managing all service interactions.",
+    "difficulty": "hard",
+    "id": "itil4_4000"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "服務台中嘅左移係咩？",
+    "question_en": "What is shift-left in service desk?",
+    "options_zh": [
+      "Moving resolution to front-line or self-service",
+      "Moving to night shift",
+      "Reducing staff",
+      "Closing the desk"
+    ],
+    "options_en": [
+      "Moving resolution to front-line or self-service",
+      "Moving to night shift",
+      "Reducing staff",
+      "Closing the desk"
+    ],
+    "answer": 0,
+    "explanation_zh": "Shift-left means moving resolution closer to the user (front-line or self-service).",
+    "explanation_en": "Shift-left means moving resolution closer to the user (front-line or self-service).",
+    "difficulty": "medium",
+    "id": "itil4_4001"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "服務台中嘅自助服務係咩？",
+    "question_en": "What is self-service in the service desk?",
+    "options_zh": [
+      "Users resolve issues themselves using tools",
+      "Users call the desk",
+      "Users email the desk",
+      "Users visit in person"
+    ],
+    "options_en": [
+      "Users resolve issues themselves using tools",
+      "Users call the desk",
+      "Users email the desk",
+      "Users visit in person"
+    ],
+    "answer": 0,
+    "explanation_zh": "Self-service allows users to resolve common issues using knowledge bases and tools.",
+    "explanation_en": "Self-service allows users to resolve common issues using knowledge bases and tools.",
+    "difficulty": "easy",
+    "id": "itil4_4002"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "咩係 CI？",
+    "question_en": "What is a CI?",
+    "options_zh": [
+      "Configuration Item - any component that needs to be managed",
+      "A change request",
+      "An incident",
+      "A problem"
+    ],
+    "options_en": [
+      "Configuration Item - any component that needs to be managed",
+      "A change request",
+      "An incident",
+      "A problem"
+    ],
+    "answer": 0,
+    "explanation_zh": "A Configuration Item is any component that needs to be managed to deliver an IT service.",
+    "explanation_en": "A Configuration Item is any component that needs to be managed to deliver an IT service.",
+    "difficulty": "easy",
+    "id": "itil4_4003"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "CMDB 係咩？",
+    "question_en": "What is the CMDB?",
+    "options_zh": [
+      "Configuration Management Database",
+      "Change Management Database",
+      "Customer Management Database",
+      "Cost Management Database"
+    ],
+    "options_en": [
+      "Configuration Management Database",
+      "Change Management Database",
+      "Customer Management Database",
+      "Cost Management Database"
+    ],
+    "answer": 0,
+    "explanation_zh": "The CMDB stores information about CIs and their relationships.",
+    "explanation_en": "The CMDB stores information about CIs and their relationships.",
+    "difficulty": "medium",
+    "id": "itil4_4004"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "配置基線係咩？",
+    "question_en": "What is a configuration baseline?",
+    "options_zh": [
+      "A snapshot of CIs at a point in time",
+      "A budget",
+      "A plan",
+      "A report"
+    ],
+    "options_en": [
+      "A snapshot of CIs at a point in time",
+      "A budget",
+      "A plan",
+      "A report"
+    ],
+    "answer": 0,
+    "explanation_zh": "A configuration baseline is a snapshot of the state of CIs at a specific point in time.",
+    "explanation_en": "A configuration baseline is a snapshot of the state of CIs at a specific point in time.",
+    "difficulty": "medium",
+    "id": "itil4_4005"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "咩係發佈？",
+    "question_en": "What is a release?",
+    "options_zh": [
+      "A set of new or changed components deployed together",
+      "An incident",
+      "A problem",
+      "A change"
+    ],
+    "options_en": [
+      "A set of new or changed components deployed together",
+      "An incident",
+      "A problem",
+      "A change"
+    ],
+    "answer": 0,
+    "explanation_zh": "A release is a set of new or changed service components deployed together.",
+    "explanation_en": "A release is a set of new or changed service components deployed together.",
+    "difficulty": "medium",
+    "id": "itil4_4006"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "發佈同部署有咩分別？",
+    "question_en": "What is the difference between release and deployment?",
+    "options_zh": [
+      "Release is the set of components; deployment is the act of moving them",
+      "They are the same",
+      "Deployment is the set; release is the act",
+      "Neither matters"
+    ],
+    "options_en": [
+      "Release is the set of components; deployment is the act of moving them",
+      "They are the same",
+      "Deployment is the set; release is the act",
+      "Neither matters"
+    ],
+    "answer": 0,
+    "explanation_zh": "A release is the bundle; deployment is the activity of moving it to environments.",
+    "explanation_en": "A release is the bundle; deployment is the activity of moving it to environments.",
+    "difficulty": "hard",
+    "id": "itil4_4007"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "可用性係咩？",
+    "question_en": "What is availability?",
+    "options_zh": [
+      "The ability of a service to perform when required",
+      "The number of users",
+      "The speed of service",
+      "The cost of service"
+    ],
+    "options_en": [
+      "The ability of a service to perform when required",
+      "The number of users",
+      "The speed of service",
+      "The cost of service"
+    ],
+    "answer": 0,
+    "explanation_zh": "Availability is the ability of a service or component to perform its required function.",
+    "explanation_en": "Availability is the ability of a service or component to perform its required function.",
+    "difficulty": "hard",
+    "id": "itil4_4008"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "MTBF 係咩？",
+    "question_en": "What is MTBF?",
+    "options_zh": [
+      "Mean Time Between Failures",
+      "Maximum Time Before Fix",
+      "Minimum Time Between Functions",
+      "Mean Time Before Failure"
+    ],
+    "options_en": [
+      "Mean Time Between Failures",
+      "Maximum Time Before Fix",
+      "Minimum Time Between Functions",
+      "Mean Time Before Failure"
+    ],
+    "answer": 0,
+    "explanation_zh": "MTBF is the average time between failures - higher is better.",
+    "explanation_en": "MTBF is the average time between failures - higher is better.",
+    "difficulty": "medium",
+    "id": "itil4_4009"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "MTTR 係咩？",
+    "question_en": "What is MTTR?",
+    "options_zh": [
+      "Mean Time To Restore/Repair",
+      "Maximum Time To Report",
+      "Minimum Time To Respond",
+      "Mean Time To Review"
+    ],
+    "options_en": [
+      "Mean Time To Restore/Repair",
+      "Maximum Time To Report",
+      "Minimum Time To Respond",
+      "Mean Time To Review"
+    ],
+    "answer": 0,
+    "explanation_zh": "MTTR is the average time to restore service after a failure - lower is better.",
+    "explanation_en": "MTTR is the average time to restore service after a failure - lower is better.",
+    "difficulty": "easy",
+    "id": "itil4_4010"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "容量管理係咩？",
+    "question_en": "What is capacity management?",
+    "options_zh": [
+      "Ensuring IT capacity meets current and future demand",
+      "Reducing capacity",
+      "Maximizing capacity",
+      "Ignoring capacity"
+    ],
+    "options_en": [
+      "Ensuring IT capacity meets current and future demand",
+      "Reducing capacity",
+      "Maximizing capacity",
+      "Ignoring capacity"
+    ],
+    "answer": 0,
+    "explanation_zh": "Capacity management ensures IT resources meet current and future business demands.",
+    "explanation_en": "Capacity management ensures IT resources meet current and future business demands.",
+    "difficulty": "medium",
+    "id": "itil4_4011"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "IT 資產管理係咩？",
+    "question_en": "What is IT asset management?",
+    "options_zh": [
+      "Planning and managing the lifecycle of IT assets",
+      "Buying new hardware",
+      "Selling old equipment",
+      "Tracking inventory only"
+    ],
+    "options_en": [
+      "Planning and managing the lifecycle of IT assets",
+      "Buying new hardware",
+      "Selling old equipment",
+      "Tracking inventory only"
+    ],
+    "answer": 0,
+    "explanation_zh": "IT asset management plans and manages the full lifecycle of IT assets.",
+    "explanation_en": "IT asset management plans and manages the full lifecycle of IT assets.",
+    "difficulty": "medium",
+    "id": "itil4_4012"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "資訊安全嘅三個方面係咩？",
+    "question_en": "What are the three aspects of information security?",
+    "options_zh": [
+      "Confidentiality, Integrity, Availability",
+      "People, Process, Technology",
+      "Plan, Do, Check",
+      "Prevent, Detect, Respond"
+    ],
+    "options_en": [
+      "Confidentiality, Integrity, Availability",
+      "People, Process, Technology",
+      "Plan, Do, Check",
+      "Prevent, Detect, Respond"
+    ],
+    "answer": 0,
+    "explanation_zh": "The CIA triad: Confidentiality, Integrity, and Availability.",
+    "explanation_en": "The CIA triad: Confidentiality, Integrity, and Availability.",
+    "difficulty": "easy",
+    "id": "itil4_4013"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "保密性係咩？",
+    "question_en": "What is confidentiality?",
+    "options_zh": [
+      "Information is accessible only to authorized people",
+      "Information is accurate",
+      "Information is available",
+      "Information is backed up"
+    ],
+    "options_en": [
+      "Information is accessible only to authorized people",
+      "Information is accurate",
+      "Information is available",
+      "Information is backed up"
+    ],
+    "answer": 0,
+    "explanation_zh": "Confidentiality ensures information is only accessible to those authorized to see it.",
+    "explanation_en": "Confidentiality ensures information is only accessible to those authorized to see it.",
+    "difficulty": "hard",
+    "id": "itil4_4014"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "完整性係咩？",
+    "question_en": "What is integrity?",
+    "options_zh": [
+      "Information is accurate and complete",
+      "Information is confidential",
+      "Information is available",
+      "Information is backed up"
+    ],
+    "options_en": [
+      "Information is accurate and complete",
+      "Information is confidential",
+      "Information is available",
+      "Information is backed up"
+    ],
+    "answer": 0,
+    "explanation_zh": "Integrity ensures information is accurate, complete, and protected from unauthorized modification.",
+    "explanation_en": "Integrity ensures information is accurate, complete, and protected from unauthorized modification.",
+    "difficulty": "medium",
+    "id": "itil4_4015"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "安全中嘅可用性係咩？",
+    "question_en": "What is availability in security?",
+    "options_zh": [
+      "Information is accessible when needed",
+      "Information is confidential",
+      "Information is accurate",
+      "Information is backed up"
+    ],
+    "options_en": [
+      "Information is accessible when needed",
+      "Information is confidential",
+      "Information is accurate",
+      "Information is backed up"
+    ],
+    "answer": 0,
+    "explanation_zh": "Availability ensures information is accessible to authorized users when needed.",
+    "explanation_en": "Availability ensures information is accessible to authorized users when needed.",
+    "difficulty": "medium",
+    "id": "itil4_4016"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "ITIL 4 中咩係風險？",
+    "question_en": "What is risk in ITIL 4?",
+    "options_zh": [
+      "A possible event that could affect outcomes",
+      "Only negative events",
+      "Only positive events",
+      "A certain event"
+    ],
+    "options_en": [
+      "A possible event that could affect outcomes",
+      "Only negative events",
+      "Only positive events",
+      "A certain event"
+    ],
+    "answer": 0,
+    "explanation_zh": "Risk is a possible event that could cause harm or benefit, or a deviation from expected.",
+    "explanation_en": "Risk is a possible event that could cause harm or benefit, or a deviation from expected.",
+    "difficulty": "easy",
+    "id": "itil4_4017"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "風險應該點樣管理？",
+    "question_en": "How should risks be managed?",
+    "options_zh": [
+      "Identify, analyze, evaluate, treat, monitor",
+      "Ignore them",
+      "Transfer all risks",
+      "Accept all risks"
+    ],
+    "options_en": [
+      "Identify, analyze, evaluate, treat, monitor",
+      "Ignore them",
+      "Transfer all risks",
+      "Accept all risks"
+    ],
+    "answer": 0,
+    "explanation_zh": "Risk management involves identification, analysis, evaluation, treatment, and monitoring.",
+    "explanation_en": "Risk management involves identification, analysis, evaluation, treatment, and monitoring.",
+    "difficulty": "medium",
+    "id": "itil4_4018"
+  },
+  {
+    "topic_zh": "持續改進",
+    "topic_en": "Continual Improvement",
+    "subtopic_zh": "持續改進",
+    "subtopic_en": "Continual Improvement",
+    "question_zh": "度量喺改進中嘅角色係咩？",
+    "question_en": "What is the role of measurement in improvement?",
+    "options_zh": [
+      "To provide data for decision making",
+      "To punish staff",
+      "To fill reports",
+      "To impress management"
+    ],
+    "options_en": [
+      "To provide data for decision making",
+      "To punish staff",
+      "To fill reports",
+      "To impress management"
+    ],
+    "answer": 0,
+    "explanation_zh": "Measurement provides data to understand current state and track improvement progress.",
+    "explanation_en": "Measurement provides data to understand current state and track improvement progress.",
+    "difficulty": "easy",
+    "id": "itil4_4019"
+  },
+  {
+    "topic_zh": "持續改進",
+    "topic_en": "Continual Improvement",
+    "subtopic_zh": "持續改進",
+    "subtopic_en": "Continual Improvement",
+    "question_zh": "KPI 係咩？",
+    "question_en": "What are KPIs?",
+    "options_zh": [
+      "Key Performance Indicators",
+      "Key Process Inputs",
+      "Known Problem Issues",
+      "Knowledge Performance Index"
+    ],
+    "options_en": [
+      "Key Performance Indicators",
+      "Key Process Inputs",
+      "Known Problem Issues",
+      "Knowledge Performance Index"
+    ],
+    "answer": 0,
+    "explanation_zh": "KPIs are Key Performance Indicators that measure achievement of objectives.",
+    "explanation_en": "KPIs are Key Performance Indicators that measure achievement of objectives.",
+    "difficulty": "hard",
+    "id": "itil4_4020"
+  },
+  {
+    "topic_zh": "持續改進",
+    "topic_en": "Continual Improvement",
+    "subtopic_zh": "持續改進",
+    "subtopic_en": "Continual Improvement",
+    "question_zh": "持續改進同服務價值鏈嘅關係係咩？",
+    "question_en": "What is the relationship between CSI and the SVC?",
+    "options_zh": [
+      "CSI is one of the SVC activities",
+      "They are separate",
+      "CSI replaces SVC",
+      "SVC replaces CSI"
+    ],
+    "options_en": [
+      "CSI is one of the SVC activities",
+      "They are separate",
+      "CSI replaces SVC",
+      "SVC replaces CSI"
+    ],
+    "answer": 0,
+    "explanation_zh": "Continual Improvement is one of the six activities in the Service Value Chain.",
+    "explanation_en": "Continual Improvement is one of the six activities in the Service Value Chain.",
+    "difficulty": "easy",
+    "id": "itil4_4021"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "服務關係係咩？",
+    "question_en": "What is a service relationship?",
+    "options_zh": [
+      "The cooperation between provider and consumer",
+      "A contract",
+      "An SLA",
+      "A warranty"
+    ],
+    "options_en": [
+      "The cooperation between provider and consumer",
+      "A contract",
+      "An SLA",
+      "A warranty"
+    ],
+    "answer": 0,
+    "explanation_zh": "A service relationship is the cooperation between a service provider and service consumer.",
+    "explanation_en": "A service relationship is the cooperation between a service provider and service consumer.",
+    "difficulty": "easy",
+    "id": "itil4_4022"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "服務提供係咩？",
+    "question_en": "What is service provision?",
+    "options_zh": [
+      "Activities performed by the provider to deliver services",
+      "Activities by consumer",
+      "Activities by supplier",
+      "Activities by government"
+    ],
+    "options_en": [
+      "Activities performed by the provider to deliver services",
+      "Activities by consumer",
+      "Activities by supplier",
+      "Activities by government"
+    ],
+    "answer": 0,
+    "explanation_zh": "Service provision includes activities performed by the service provider.",
+    "explanation_en": "Service provision includes activities performed by the service provider.",
+    "difficulty": "easy",
+    "id": "itil4_4023"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "服務消費係咩？",
+    "question_en": "What is service consumption?",
+    "options_zh": [
+      "Activities performed by the consumer to use services",
+      "Activities by provider",
+      "Activities by supplier",
+      "Activities by government"
+    ],
+    "options_en": [
+      "Activities performed by the consumer to use services",
+      "Activities by provider",
+      "Activities by supplier",
+      "Activities by government"
+    ],
+    "answer": 0,
+    "explanation_zh": "Service consumption includes activities performed by the service consumer.",
+    "explanation_en": "Service consumption includes activities performed by the service consumer.",
+    "difficulty": "easy",
+    "id": "itil4_4024"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "組合管理嘅目的係咩？",
+    "question_en": "What is the purpose of Portfolio Management?",
+    "options_zh": [
+      "To ensure the right mix of services",
+      "To manage finances",
+      "To handle incidents",
+      "To manage staff"
+    ],
+    "options_en": [
+      "To ensure the right mix of services",
+      "To manage finances",
+      "To handle incidents",
+      "To manage staff"
+    ],
+    "answer": 0,
+    "explanation_zh": "Portfolio Management ensures the organization has the right mix of services.",
+    "explanation_en": "Portfolio Management ensures the organization has the right mix of services.",
+    "difficulty": "hard",
+    "id": "itil4_4025"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "項目係咩？",
+    "question_en": "What is a project?",
+    "options_zh": [
+      "A temporary endeavor to create a unique result",
+      "Ongoing operations",
+      "A service",
+      "A process"
+    ],
+    "options_en": [
+      "A temporary endeavor to create a unique result",
+      "Ongoing operations",
+      "A service",
+      "A process"
+    ],
+    "answer": 0,
+    "explanation_zh": "A project is temporary and creates a unique product, service, or result.",
+    "explanation_en": "A project is temporary and creates a unique product, service, or result.",
+    "difficulty": "easy",
+    "id": "itil4_4026"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "項目管理嘅目的係咩？",
+    "question_en": "What is the purpose of Project Management?",
+    "options_zh": [
+      "To ensure projects achieve their objectives",
+      "To manage BAU",
+      "To handle incidents",
+      "To manage changes"
+    ],
+    "options_en": [
+      "To ensure projects achieve their objectives",
+      "To manage BAU",
+      "To handle incidents",
+      "To manage changes"
+    ],
+    "answer": 0,
+    "explanation_zh": "Project Management ensures projects are delivered on time, within budget, and to scope.",
+    "explanation_en": "Project Management ensures projects are delivered on time, within budget, and to scope.",
+    "difficulty": "hard",
+    "id": "itil4_4027"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "組織變更管理係咩？",
+    "question_en": "What is organizational change management?",
+    "options_zh": [
+      "Managing the people side of change",
+      "Managing IT changes",
+      "Managing financial changes",
+      "Managing legal changes"
+    ],
+    "options_en": [
+      "Managing the people side of change",
+      "Managing IT changes",
+      "Managing financial changes",
+      "Managing legal changes"
+    ],
+    "answer": 0,
+    "explanation_zh": "OCM ensures changes are smoothly and successfully implemented by managing people aspects.",
+    "explanation_en": "OCM ensures changes are smoothly and successfully implemented by managing people aspects.",
+    "difficulty": "hard",
+    "id": "itil4_4028"
+  },
+  {
+    "topic_zh": "實踐",
+    "topic_en": "Practices",
+    "subtopic_zh": "實踐",
+    "subtopic_en": "Practices",
+    "question_zh": "人力同人才管理嘅目的係咩？",
+    "question_en": "What is the purpose of Workforce and Talent Management?",
+    "options_zh": [
+      "To ensure the right people with the right skills",
+      "To reduce headcount",
+      "To increase salaries",
+      "To manage budgets"
+    ],
+    "options_en": [
+      "To ensure the right people with the right skills",
+      "To reduce headcount",
+      "To increase salaries",
+      "To manage budgets"
+    ],
+    "answer": 0,
+    "explanation_zh": "This practice ensures the organization has the right people with the right skills.",
+    "explanation_en": "This practice ensures the organization has the right people with the right skills.",
+    "difficulty": "medium",
+    "id": "itil4_4029"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "ITIL 4 中三種類型嘅指標係咩？",
+    "question_en": "What are the three types of metrics in ITIL 4?",
+    "options_zh": [
+      "Technology, Process, Service",
+      "Financial, Operational, Strategic",
+      "Input, Output, Outcome",
+      "Past, Present, Future"
+    ],
+    "options_en": [
+      "Technology, Process, Service",
+      "Financial, Operational, Strategic",
+      "Input, Output, Outcome",
+      "Past, Present, Future"
+    ],
+    "answer": 0,
+    "explanation_zh": "ITIL 4 identifies technology metrics, process metrics, and service metrics.",
+    "explanation_en": "ITIL 4 identifies technology metrics, process metrics, and service metrics.",
+    "difficulty": "medium",
+    "id": "itil4_4030"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "技術指標係咩？",
+    "question_en": "What is a technology metric?",
+    "options_zh": [
+      "Performance of a technology component",
+      "Business performance",
+      "Process performance",
+      "Service performance"
+    ],
+    "options_en": [
+      "Performance of a technology component",
+      "Business performance",
+      "Process performance",
+      "Service performance"
+    ],
+    "answer": 0,
+    "explanation_zh": "Technology metrics measure the performance of technology components.",
+    "explanation_en": "Technology metrics measure the performance of technology components.",
+    "difficulty": "medium",
+    "id": "itil4_4031"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "流程指標係咩？",
+    "question_en": "What is a process metric?",
+    "options_zh": [
+      "Performance of a process",
+      "Business performance",
+      "Technology performance",
+      "Service performance"
+    ],
+    "options_en": [
+      "Performance of a process",
+      "Business performance",
+      "Technology performance",
+      "Service performance"
+    ],
+    "answer": 0,
+    "explanation_zh": "Process metrics measure the performance and health of a process.",
+    "explanation_en": "Process metrics measure the performance and health of a process.",
+    "difficulty": "medium",
+    "id": "itil4_4032"
+  },
+  {
+    "topic_zh": "服務價值系統",
+    "topic_en": "Service Value System",
+    "subtopic_zh": "服務價值系統",
+    "subtopic_en": "Service Value System",
+    "question_zh": "服務指標係咩？",
+    "question_en": "What is a service metric?",
+    "options_zh": [
+      "End-to-end service performance",
+      "Technology performance",
+      "Process performance",
+      "Business performance"
+    ],
+    "options_en": [
+      "End-to-end service performance",
+      "Technology performance",
+      "Process performance",
+      "Business performance"
+    ],
+    "answer": 0,
+    "explanation_zh": "Service metrics measure the end-to-end performance of a service.",
+    "explanation_en": "Service metrics measure the end-to-end performance of a service.",
+    "difficulty": "medium",
+    "id": "itil4_4033"
   }
 ]
