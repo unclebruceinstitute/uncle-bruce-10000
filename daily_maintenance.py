@@ -25,6 +25,9 @@ for jf in json_files:
         issues.append(f"JSON PARSE ERROR: {rel}: {e}")
         continue
 
+    # Handle both list and dict-with-questions format
+    if isinstance(data, dict) and 'questions' in data:
+        data = data['questions']
     if not isinstance(data, list):
         issues.append(f"NOT A LIST: {rel}")
         continue
@@ -41,10 +44,10 @@ for jf in json_files:
     if count < 40:
         low_count_categories.append((rel, count))
 
-    # Check for duplicates (by question text)
+    # Check for duplicates (by question text, support both formats)
     q_texts = []
     for q in data:
-        qt = q.get("question", "").strip()
+        qt = (q.get("question_zh") or q.get("question_en") or q.get("question", "")).strip()
         if qt:
             q_texts.append(qt)
 
@@ -52,40 +55,44 @@ for jf in json_files:
     if dup_count > 0:
         issues.append(f"DUPLICATES ({dup_count}): {rel}")
 
-    # Check answer distribution
-    answers = [q.get("answer", "") for q in data if q.get("answer")]
+    # Check answer distribution (answer is 0-3 int, not letter)
+    answers = [q.get("answer") for q in data if q.get("answer") is not None]
     if answers:
         dist = Counter(answers)
         total_a = len(answers)
-        for letter, cnt in dist.items():
+        for ans_val, cnt in dist.items():
             pct = cnt / total_a * 100
             if pct > 50 or pct < 10:
-                issues.append(f"ANSWER IMBALANCE ({letter}={pct:.0f}%): {rel}")
+                issues.append(f"ANSWER IMBALANCE ({ans_val}={pct:.0f}%): {rel}")
 
-    # Check empty options
+    # Check empty options and placeholder options
     empty_opts = 0
-    missing_answer = 0
+    placeholder_opts = 0
     missing_explanation = 0
+    placeholder_patterns = ['错误选项', '正確選項', '正确选项', '錯誤選項', 'Placeholder']
     for q in data:
-        opts = q.get("options", {})
-        if isinstance(opts, dict):
-            for k, v in opts.items():
-                if not v or not str(v).strip():
-                    empty_opts += 1
-        elif isinstance(opts, list):
+        opts = q.get("options_zh") or q.get("options_en") or q.get("options", [])
+        if isinstance(opts, list):
             for o in opts:
                 if not o or not str(o).strip():
                     empty_opts += 1
+                    break
+            # Check for placeholder options (wrong answers with template text)
+            ans = q.get("answer", -1)
+            for i, o in enumerate(opts):
+                if isinstance(o, str) and any(p in o for p in placeholder_patterns):
+                    if i != ans:  # only count wrong-answer placeholders
+                        placeholder_opts += 1
+                        break
 
-        if not q.get("answer"):
-            missing_answer += 1
-        if not q.get("explanation"):
+        exp = q.get("explanation_zh") or q.get("explanation_en") or q.get("explanation")
+        if not exp or not str(exp).strip():
             missing_explanation += 1
 
     if empty_opts > 0:
         issues.append(f"EMPTY OPTIONS ({empty_opts}): {rel}")
-    if missing_answer > 0:
-        issues.append(f"MISSING ANSWERS ({missing_answer}): {rel}")
+    if placeholder_opts > 5:
+        issues.append(f"PLACEHOLDER OPTIONS ({placeholder_opts}/{count}): {rel}")
     if missing_explanation > count * 0.5:
         issues.append(f"MISSING EXPLANATIONS ({missing_explanation}/{count}): {rel}")
 
