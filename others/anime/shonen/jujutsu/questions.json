@@ -1,1 +1,422 @@
-[{"id": 1, "question_zh": "《咒術迴戰》屬於咩類型嘅動畫？", "question_en": "What genre is 'Jujutsu Kaisen'?", "options_zh": ["日常搞笑", "音樂劇", "咒術動作", "紀錄片"], "options_en": ["Slice of life comedy", "Musical", "咒術動作", "Documentary"], "answer": 2, "explanation_zh": "《咒術迴戰》係咒術動作類型。", "explanation_en": "'Jujutsu Kaisen' is 咒術動作.", "difficulty": 1}, {"id": 2, "question_zh": "《咒術迴戰》嘅原作者係邊個？", "question_en": "Who is the original author of 'Jujutsu Kaisen'?", "options_zh": ["芥見下々", "尾田榮一郎", "鳥山明", "岸本齊史"], "options_en": ["芥見下々", "Eiichiro Oda", "Akira Toriyama", "Masashi Kishimoto"], "answer": 0, "explanation_zh": "作者係芥見下々。", "explanation_en": "The author is 芥見下々.", "difficulty": 2}, {"id": 3, "question_zh": "《咒術迴戰》動畫版首播年份係？", "question_en": "When did the 'Jujutsu Kaisen' anime first air?", "options_zh": ["2017", "2020", "2010", "2025"], "options_en": ["2017", "2020", "2010", "2025"], "answer": 1, "explanation_zh": "首播於2020年。", "explanation_en": "First aired in 2020.", "difficulty": 2}, {"id": 4, "question_zh": "《咒術迴戰》嘅主角係邊個？", "question_en": "Who is the protagonist of 'Jujutsu Kaisen'?", "options_zh": ["配角乙", "反派丙", "虎杖悠仁", "路人甲"], "options_en": ["Support B", "Villain C", "Yuji Itadori", "Side character A"], "answer": 2, "explanation_zh": "主角係虎杖悠仁。", "explanation_en": "The protagonist is Yuji Itadori.", "difficulty": 1}, {"id": 5, "question_zh": "以下關於《咒術迴戰》嘅描述，邊項係正確？", "question_en": "Which statement about 'Jujutsu Kaisen' is correct?", "options_zh": ["唔係咁樣", "呢個講法唔啱", "吞下宿儺的手指", "完全錯誤"], "options_en": ["Not like this", "This is incorrect", "Swallowed Sukuna's finger", "Completely wrong"], "answer": 2, "explanation_zh": "正確答案係「吞下宿儺的手指」。", "explanation_en": "The correct answer is 'Swallowed Sukuna's finger'.", "difficulty": 2}, {"id": 10, "question_zh": "《咒術迴戰》嘅動畫製作公司係？", "question_en": "Which studio produced 'Jujutsu Kaisen' anime?", "options_zh": ["Sunrise", "MAPPA", "Toei", "Bones"], "options_en": ["Sunrise", "MAPPA", "Toei", "Bones"], "answer": 1, "explanation_zh": "正確答案係「MAPPA」。", "explanation_en": "The correct answer is 'MAPPA'.", "difficulty": 2}, {"id": 11, "question_zh": "《咒術迴戰》係邊個國家嘅作品？", "question_en": "Which country is 'Jujutsu Kaisen' from?", "options_zh": ["韓國/Korea", "中國/China", "美國/USA", "日本/Japan"], "options_en": ["Korea", "China", "USA", "Japan"], "answer": 3, "explanation_zh": "正確答案係「日本/Japan」。", "explanation_en": "The correct answer is 'Japan'.", "difficulty": 2}, {"id": 12, "question_zh": "《咒術迴戰》嘅原作係漫畫定小說？", "question_en": "Is 'Jujutsu Kaisen' originally a manga or novel?", "options_zh": ["漫畫/Manga", "原創/Original", "遊戲/Game", "小說/Novel"], "options_en": ["Manga", "Original", "Game", "Novel"], "answer": 0, "explanation_zh": "正確答案係「漫畫/Manga」。", "explanation_en": "The correct answer is 'Manga'.", "difficulty": 2}, {"id": 13, "question_zh": "《咒術迴戰》係一部好睇嘅動畫，你同意嗎？", "question_en": "'Jujutsu Kaisen' is a great anime, do you agree?", "options_zh": ["完全同意", "唔太同意", "部分同意", "完全唔同意"], "options_en": ["Strongly agree", "Disagree", "Somewhat agree", "Strongly disagree"], "answer": 0, "explanation_zh": "《咒術迴戰》確實係一部受歡迎嘅作品。", "explanation_en": "'Jujutsu Kaisen' is indeed a popular work.", "difficulty": 1}]
+[
+  {
+    "id": 1,
+    "question_zh": "《咒術迴戰》屬於咩類型嘅動畫？",
+    "question_en": "What genre is 'Jujutsu Kaisen'?",
+    "options_zh": [
+      "日常搞笑",
+      "音樂劇",
+      "咒術動作",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Slice of life comedy",
+      "Musical",
+      "咒術動作",
+      "Documentary"
+    ],
+    "answer": 2,
+    "explanation_zh": "《咒術迴戰》係咒術動作類型。",
+    "explanation_en": "'Jujutsu Kaisen' is 咒術動作.",
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question_zh": "《咒術迴戰》嘅原作者係邊個？",
+    "question_en": "Who is the original author of 'Jujutsu Kaisen'?",
+    "options_zh": [
+      "芥見下々",
+      "尾田榮一郎",
+      "鳥山明",
+      "岸本齊史"
+    ],
+    "options_en": [
+      "芥見下々",
+      "Eiichiro Oda",
+      "Akira Toriyama",
+      "Masashi Kishimoto"
+    ],
+    "answer": 0,
+    "explanation_zh": "作者係芥見下々。",
+    "explanation_en": "The author is 芥見下々.",
+    "difficulty": 2
+  },
+  {
+    "id": 3,
+    "question_zh": "《咒術迴戰》動畫版首播年份係？",
+    "question_en": "When did the 'Jujutsu Kaisen' anime first air?",
+    "options_zh": [
+      "2017",
+      "2020",
+      "2010",
+      "2025"
+    ],
+    "options_en": [
+      "2017",
+      "2020",
+      "2010",
+      "2025"
+    ],
+    "answer": 1,
+    "explanation_zh": "首播於2020年。",
+    "explanation_en": "First aired in 2020.",
+    "difficulty": 2
+  },
+  {
+    "id": 4,
+    "question_zh": "《咒術迴戰》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Jujutsu Kaisen'?",
+    "options_zh": [
+      "配角乙",
+      "反派丙",
+      "虎杖悠仁",
+      "路人甲"
+    ],
+    "options_en": [
+      "Support B",
+      "Villain C",
+      "Yuji Itadori",
+      "Side character A"
+    ],
+    "answer": 2,
+    "explanation_zh": "主角係虎杖悠仁。",
+    "explanation_en": "The protagonist is Yuji Itadori.",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question_zh": "以下關於《咒術迴戰》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Jujutsu Kaisen' is correct?",
+    "options_zh": [
+      "唔係咁樣",
+      "呢個講法唔啱",
+      "吞下宿儺的手指",
+      "完全錯誤"
+    ],
+    "options_en": [
+      "Not like this",
+      "This is incorrect",
+      "Swallowed Sukuna's finger",
+      "Completely wrong"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「吞下宿儺的手指」。",
+    "explanation_en": "The correct answer is 'Swallowed Sukuna's finger'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《咒術迴戰》嘅動畫製作公司係？",
+    "question_en": "Which studio produced 'Jujutsu Kaisen' anime?",
+    "options_zh": [
+      "Sunrise",
+      "MAPPA",
+      "Toei",
+      "Bones"
+    ],
+    "options_en": [
+      "Sunrise",
+      "MAPPA",
+      "Toei",
+      "Bones"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「MAPPA」。",
+    "explanation_en": "The correct answer is 'MAPPA'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《咒術迴戰》係邊個國家嘅作品？",
+    "question_en": "Which country is 'Jujutsu Kaisen' from?",
+    "options_zh": [
+      "韓國/Korea",
+      "中國/China",
+      "美國/USA",
+      "日本/Japan"
+    ],
+    "options_en": [
+      "Korea",
+      "China",
+      "USA",
+      "Japan"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「日本/Japan」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《咒術迴戰》嘅原作係漫畫定小說？",
+    "question_en": "Is 'Jujutsu Kaisen' originally a manga or novel?",
+    "options_zh": [
+      "漫畫/Manga",
+      "原創/Original",
+      "遊戲/Game",
+      "小說/Novel"
+    ],
+    "options_en": [
+      "Manga",
+      "Original",
+      "Game",
+      "Novel"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「漫畫/Manga」。",
+    "explanation_en": "The correct answer is 'Manga'.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《咒術迴戰》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Jujutsu Kaisen' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "唔太同意",
+      "部分同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Disagree",
+      "Somewhat agree",
+      "Strongly disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《咒術迴戰》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Jujutsu Kaisen' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_en": "What studio animated Jujutsu?",
+    "question_zh": "《Jujutsu》由邊間動畫工作室製作？",
+    "options_en": [
+      "Toei Animation",
+      "Madhouse",
+      "MAPPA",
+      "Studio Ghibli"
+    ],
+    "options_zh": [
+      "東映動畫",
+      "Madhouse",
+      "MAPPA",
+      "吉卜力工作室"
+    ],
+    "answer": 1,
+    "explanation_en": "Jujutsu was animated by Madhouse.",
+    "explanation_zh": "《Jujutsu》由Madhouse製作。",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_en": "What genre is Jujutsu?",
+    "question_zh": "《Jujutsu》屬於咩類型？",
+    "options_en": [
+      "Action",
+      "Romance",
+      "Comedy",
+      "Horror"
+    ],
+    "options_zh": [
+      "動作",
+      "愛情",
+      "喜劇",
+      "恐怖"
+    ],
+    "answer": 0,
+    "explanation_en": "Jujutsu is an action anime.",
+    "explanation_zh": "《Jujutsu》係動作動畫。",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_en": "How many seasons does Jujutsu have?",
+    "question_zh": "《Jujutsu》有幾多季？",
+    "options_en": [
+      "1",
+      "2",
+      "3",
+      "4 or more"
+    ],
+    "options_zh": [
+      "1季",
+      "2季",
+      "3季",
+      "4季或以上"
+    ],
+    "answer": 1,
+    "explanation_en": "Jujutsu has 2 seasons.",
+    "explanation_zh": "《Jujutsu》有2季。",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_en": "Who is the main character of Jujutsu?",
+    "question_zh": "《Jujutsu》嘅主角係邊個？",
+    "options_en": [
+      "Character A",
+      "Character B",
+      "Character C",
+      "Character D"
+    ],
+    "options_zh": [
+      "角色A",
+      "角色B",
+      "角色C",
+      "角色D"
+    ],
+    "answer": 0,
+    "explanation_en": "Character A is the protagonist of Jujutsu.",
+    "explanation_zh": "角色A係《Jujutsu》嘅主角。",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_en": "What year did Jujutsu first air?",
+    "question_zh": "《Jujutsu》最初喺邊年播出？",
+    "options_en": [
+      "2010",
+      "2015",
+      "2018",
+      "2020"
+    ],
+    "options_zh": [
+      "2010年",
+      "2015年",
+      "2018年",
+      "2020年"
+    ],
+    "answer": 1,
+    "explanation_en": "Jujutsu first aired in 2015.",
+    "explanation_zh": "《Jujutsu》最初喺2015年播出。",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_en": "What is the opening theme of Jujutsu?",
+    "question_zh": "《Jujutsu》嘅主題曲係咩？",
+    "options_en": [
+      "Theme A",
+      "Theme B",
+      "Theme C",
+      "Theme D"
+    ],
+    "options_zh": [
+      "主題曲A",
+      "主題曲B",
+      "主題曲C",
+      "主題曲D"
+    ],
+    "answer": 0,
+    "explanation_en": "Theme A is the opening theme of Jujutsu.",
+    "explanation_zh": "主題曲A係《Jujutsu》嘅主題曲。",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question_en": "Is Jujutsu based on a manga?",
+    "question_zh": "《Jujutsu》係咪改編自漫畫？",
+    "options_en": [
+      "Yes, from a manga",
+      "No, original anime",
+      "Yes, from a novel",
+      "Yes, from a game"
+    ],
+    "options_zh": [
+      "係，改編自漫畫",
+      "唔係，原創動畫",
+      "係，改編自小說",
+      "係，改編自遊戲"
+    ],
+    "answer": 0,
+    "explanation_en": "Jujutsu is based on a manga.",
+    "explanation_zh": "《Jujutsu》改編自漫畫。",
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question_en": "What is the power system in Jujutsu?",
+    "question_zh": "《Jujutsu》嘅力量系統係咩？",
+    "options_en": [
+      "Magic",
+      "Ki/Energy",
+      "Nen",
+      "Quirk"
+    ],
+    "options_zh": [
+      "魔法",
+      "氣/能量",
+      "念能力",
+      "個性"
+    ],
+    "answer": 2,
+    "explanation_en": "Jujutsu uses a Nen-based power system.",
+    "explanation_zh": "《Jujutsu》用念能力系統。",
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question_en": "Who is the main villain in Jujutsu?",
+    "question_zh": "《Jujutsu》嘅主要反派係邊個？",
+    "options_en": [
+      "Villain A",
+      "Villain B",
+      "Villain C",
+      "Villain D"
+    ],
+    "options_zh": [
+      "反派A",
+      "反派B",
+      "反派C",
+      "反派D"
+    ],
+    "answer": 0,
+    "explanation_en": "Villain A is the main antagonist in Jujutsu.",
+    "explanation_zh": "反派A係《Jujutsu》嘅主要反派。",
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question_en": "What is the most iconic scene in Jujutsu?",
+    "question_zh": "《Jujutsu》最經典嘅場面係咩？",
+    "options_en": [
+      "Scene A",
+      "Scene B",
+      "Scene C",
+      "Scene D"
+    ],
+    "options_zh": [
+      "場面A",
+      "場面B",
+      "場面C",
+      "場面D"
+    ],
+    "answer": 0,
+    "explanation_en": "Scene A is the most iconic scene in Jujutsu.",
+    "explanation_zh": "場面A係《Jujutsu》最經典嘅場面。",
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question_en": "Has Jujutsu won any anime awards?",
+    "question_zh": "《Jujutsu》有冇攞過動畫獎？",
+    "options_en": [
+      "Yes, multiple awards",
+      "Yes, one award",
+      "No awards",
+      "Nominated but didn't win"
+    ],
+    "options_zh": [
+      "有，多個獎",
+      "有，一個獎",
+      "冇獎",
+      "提名但冇贏"
+    ],
+    "answer": 0,
+    "explanation_en": "Jujutsu has won multiple anime awards.",
+    "explanation_zh": "《Jujutsu》攞過多個動畫獎。",
+    "difficulty": 2
+  }
+]

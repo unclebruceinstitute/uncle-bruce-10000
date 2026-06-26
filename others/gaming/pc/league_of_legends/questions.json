@@ -145,5 +145,278 @@
     "explanation_zh": "正確答案係「非常好」。",
     "explanation_en": "The correct answer is 'Very good'.",
     "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_en": "How many players are on each team in League of Legends?",
+    "question_zh": "英雄聯盟每隊有幾多個玩家？",
+    "options_en": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "options_zh": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 1,
+    "explanation_en": "Each team has 5 players.",
+    "explanation_zh": "每隊有5個玩家。",
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question_en": "What is the main objective in Summoner's Rift?",
+    "question_zh": "召喚師峽谷嘅主要目標係咩？",
+    "options_en": [
+      "Kill the most enemies",
+      "Destroy the enemy Nexus",
+      "Capture all towers",
+      "Slay Baron Nashor"
+    ],
+    "options_zh": [
+      "殺最多敵人",
+      "摧毀敵方主水晶",
+      "佔領所有塔",
+      "殺 Baron Nashor"
+    ],
+    "answer": 1,
+    "explanation_en": "The main objective is to destroy the enemy Nexus.",
+    "explanation_zh": "主要目標係摧毀敵方嘅主水晶。",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question_en": "What are the five roles in League of Legends?",
+    "question_zh": "英雄聯盟嘅五個位置係咩？",
+    "options_en": [
+      "Top, Jungle, Mid, ADC, Support",
+      "Tank, Mage, Assassin, Fighter, Support",
+      "Attack, Defense, Magic, Speed, Heal",
+      "Baron, Dragon, Mid, Bot, Top"
+    ],
+    "options_zh": [
+      "上路、打野、中路、ADC、輔助",
+      "坦克、法師、刺客、戰士、輔助",
+      "攻擊、防禦、魔法、速度、回血",
+      "Baron、龍、中路、下路、上路"
+    ],
+    "answer": 0,
+    "explanation_en": "The five roles are Top, Jungle, Mid, ADC, and Support.",
+    "explanation_zh": "五個位置係上路、打野、中路、ADC同輔助。",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_en": "What does 'CS' stand for in League of Legends?",
+    "question_zh": "英雄聯盟入面「CS」係咩意思？",
+    "options_en": [
+      "Critical Strike",
+      "Creep Score",
+      "Cooldown Speed",
+      "Champion Select"
+    ],
+    "options_zh": [
+      "暴擊",
+      "補兵數",
+      "冷卻速度",
+      "英雄選擇"
+    ],
+    "answer": 1,
+    "explanation_en": "CS stands for Creep Score, the number of minions killed.",
+    "explanation_zh": "CS代表補兵數，即係殺死嘅小兵數量。",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question_en": "What monster gives a team-wide gold and buff bonus?",
+    "question_zh": "邊隻怪物會畀全隊金錢同增益效果？",
+    "options_en": [
+      "Dragon",
+      "Baron Nashor",
+      "Rift Herald",
+      "Blue Buff"
+    ],
+    "options_zh": [
+      "龍",
+      "Baron Nashor",
+      "峽谷先鋒",
+      "藍Buff"
+    ],
+    "answer": 1,
+    "explanation_en": "Baron Nashor gives team-wide gold and a buff to nearby minions.",
+    "explanation_zh": "Baron Nashor畀全隊金錢同附近小兵增益。",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_en": "How many towers does each team have in Summoner's Rift?",
+    "question_zh": "召喚師峽谷每隊有幾多座防禦塔？",
+    "options_en": [
+      "9",
+      "11",
+      "13",
+      "15"
+    ],
+    "options_zh": [
+      "9",
+      "11",
+      "13",
+      "15"
+    ],
+    "answer": 1,
+    "explanation_en": "Each team has 11 towers in Summoner's Rift.",
+    "explanation_zh": "每隊喺召喚師峽谷有11座防禦塔。",
+    "difficulty": 2
+  },
+  {
+    "id": 14,
+    "question_en": "What is the name of the river monster that gives vision?",
+    "question_zh": "河入面邊隻怪物會畀視野？",
+    "options_en": [
+      "Scuttle Crab",
+      "Dragon",
+      "Rift Herald",
+      "Baron Nashor"
+    ],
+    "options_zh": [
+      "河蟹",
+      "龍",
+      "峽谷先鋒",
+      "Baron Nashor"
+    ],
+    "answer": 0,
+    "explanation_en": "The Rift Scuttler in the river provides vision when killed.",
+    "explanation_zh": "河入面嘅河蟹被殺後會提供視野。",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_en": "What is the highest rank in League of Legends?",
+    "question_zh": "英雄聯盟最高嘅段位係咩？",
+    "options_en": [
+      "Diamond",
+      "Master",
+      "Grandmaster",
+      "Challenger"
+    ],
+    "options_zh": [
+      "鑽石",
+      "大師",
+      "宗師",
+      "挑戰者"
+    ],
+    "answer": 3,
+    "explanation_en": "Challenger is the highest rank in League of Legends.",
+    "explanation_zh": "挑戰者係英雄聯盟最高嘅段位。",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_en": "What does 'ganking' mean?",
+    "question_zh": "「Gank」係咩意思？",
+    "options_en": [
+      "Farming minions",
+      "Surprising an enemy lane",
+      "Taking Dragon",
+      "Pushing towers"
+    ],
+    "options_zh": [
+      "打小兵",
+      "偷襲敵方路線",
+      "打龍",
+      "推塔"
+    ],
+    "answer": 1,
+    "explanation_en": "Ganking means surprising an enemy by coming from another lane or jungle.",
+    "explanation_zh": "Gank係指從其他路線或打野區偷襲敵人。",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_en": "Which element does the Infernal Drake give?",
+    "question_zh": "火龍會畀咩元素加成？",
+    "options_en": [
+      "Attack Damage and Ability Power",
+      "Health",
+      "Movement Speed",
+      "Armor"
+    ],
+    "options_zh": [
+      "攻擊力同法術強度",
+      "血量",
+      "移動速度",
+      "護甲"
+    ],
+    "answer": 0,
+    "explanation_en": "Infernal Drake gives bonus Attack Damage and Ability Power.",
+    "explanation_zh": "火龍會畀額外攻擊力同法術強度。",
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question_en": "What is the name of the item that wards provide?",
+    "question_zh": "守衛提供嘅物品叫咩名？",
+    "options_en": [
+      "Vision",
+      "Stealth Ward",
+      "Control Ward",
+      "Both B and C"
+    ],
+    "options_zh": [
+      "視野",
+      "隱形守衛",
+      "控制守衛",
+      "B同C都有"
+    ],
+    "answer": 3,
+    "explanation_en": "There are Stealth Wards and Control Wards.",
+    "explanation_zh": "有隱形守衛同控制守衛兩種。",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_en": "How many bans does each team get in ranked?",
+    "question_zh": "排位賽每隊可以ban幾多個英雄？",
+    "options_en": [
+      "3",
+      "5",
+      "7",
+      "10"
+    ],
+    "options_zh": [
+      "3",
+      "5",
+      "7",
+      "10"
+    ],
+    "answer": 1,
+    "explanation_en": "Each team gets 5 bans in ranked play.",
+    "explanation_zh": "排位賽每隊可以ban 5個英雄。",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question_en": "What does 'FF' mean in League of Legends?",
+    "question_zh": "英雄聯盟入面「FF」係咩意思？",
+    "options_en": [
+      "First Fight",
+      "Forfeit/Surrender",
+      "Final Form",
+      "Friendly Fire"
+    ],
+    "options_zh": [
+      "第一戰",
+      "投降",
+      "最終形態",
+      "友軍傷害"
+    ],
+    "answer": 1,
+    "explanation_en": "FF means forfeit or surrender the game.",
+    "explanation_zh": "FF即係投降。",
+    "difficulty": 1
   }
 ]

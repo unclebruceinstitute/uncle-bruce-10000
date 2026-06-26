@@ -1,1 +1,422 @@
-[{"id": 1, "question_zh": "《慕留人傳》屬於咩類型嘅動畫？", "question_en": "What genre is 'Boruto'?", "options_zh": ["音樂劇", "日常搞笑", "忍者續作", "紀錄片"], "options_en": ["Musical", "Slice of life comedy", "忍者續作", "Documentary"], "answer": 2, "explanation_zh": "《慕留人傳》係忍者續作類型。", "explanation_en": "'Boruto' is 忍者續作.", "difficulty": 1}, {"id": 2, "question_zh": "《慕留人傳》嘅原作者係邊個？", "question_en": "Who is the original author of 'Boruto'?", "options_zh": ["岸本齊史/池本幹雄", "岸本齊史", "鳥山明", "尾田榮一郎"], "options_en": ["岸本齊史/池本幹雄", "Masashi Kishimoto", "Akira Toriyama", "Eiichiro Oda"], "answer": 0, "explanation_zh": "作者係岸本齊史/池本幹雄。", "explanation_en": "The author is 岸本齊史/池本幹雄.", "difficulty": 2}, {"id": 3, "question_zh": "《慕留人傳》動畫版首播年份係？", "question_en": "When did the 'Boruto' anime first air?", "options_zh": ["2017", "2014", "2007", "2022"], "options_en": ["2017", "2014", "2007", "2022"], "answer": 0, "explanation_zh": "首播於2017年。", "explanation_en": "First aired in 2017.", "difficulty": 2}, {"id": 4, "question_zh": "《慕留人傳》嘅主角係邊個？", "question_en": "Who is the protagonist of 'Boruto'?", "options_zh": ["路人甲", "反派丙", "配角乙", "漩渦慕留人"], "options_en": ["Side character A", "Villain C", "Support B", "Boruto Uzumaki"], "answer": 3, "explanation_zh": "主角係漩渦慕留人。", "explanation_en": "The protagonist is Boruto Uzumaki.", "difficulty": 1}, {"id": 5, "question_zh": "以下關於《慕留人傳》嘅描述，邊項係正確？", "question_en": "Which statement about 'Boruto' is correct?", "options_zh": ["完全錯誤", "鳴人的兒子", "呢個講法唔啱", "唔係咁樣"], "options_en": ["Completely wrong", "Naruto's son", "This is incorrect", "Not like this"], "answer": 1, "explanation_zh": "正確答案係「鳴人的兒子」。", "explanation_en": "The correct answer is 'Naruto's son'.", "difficulty": 2}, {"id": 10, "question_zh": "《慕留人傳》嘅動畫製作公司係？", "question_en": "Which studio produced 'Boruto' anime?", "options_zh": ["Toei", "Sunrise", "Bones", "Pierrot"], "options_en": ["Toei", "Sunrise", "Bones", "Pierrot"], "answer": 3, "explanation_zh": "正確答案係「Pierrot」。", "explanation_en": "The correct answer is 'Pierrot'.", "difficulty": 2}, {"id": 11, "question_zh": "《慕留人傳》係邊個國家嘅作品？", "question_en": "Which country is 'Boruto' from?", "options_zh": ["韓國/Korea", "中國/China", "日本/Japan", "美國/USA"], "options_en": ["Korea", "China", "Japan", "USA"], "answer": 2, "explanation_zh": "正確答案係「日本/Japan」。", "explanation_en": "The correct answer is 'Japan'.", "difficulty": 2}, {"id": 12, "question_zh": "《慕留人傳》嘅原作係漫畫定小說？", "question_en": "Is 'Boruto' originally a manga or novel?", "options_zh": ["漫畫/Manga", "原創/Original", "小說/Novel", "遊戲/Game"], "options_en": ["Manga", "Original", "Novel", "Game"], "answer": 0, "explanation_zh": "正確答案係「漫畫/Manga」。", "explanation_en": "The correct answer is 'Manga'.", "difficulty": 2}, {"id": 13, "question_zh": "《慕留人傳》係一部好睇嘅動畫，你同意嗎？", "question_en": "'Boruto' is a great anime, do you agree?", "options_zh": ["完全同意", "部分同意", "完全唔同意", "唔太同意"], "options_en": ["Strongly agree", "Somewhat agree", "Strongly disagree", "Disagree"], "answer": 0, "explanation_zh": "《慕留人傳》確實係一部受歡迎嘅作品。", "explanation_en": "'Boruto' is indeed a popular work.", "difficulty": 1}]
+[
+  {
+    "id": 1,
+    "question_zh": "《慕留人傳》屬於咩類型嘅動畫？",
+    "question_en": "What genre is 'Boruto'?",
+    "options_zh": [
+      "音樂劇",
+      "日常搞笑",
+      "忍者續作",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Musical",
+      "Slice of life comedy",
+      "忍者續作",
+      "Documentary"
+    ],
+    "answer": 2,
+    "explanation_zh": "《慕留人傳》係忍者續作類型。",
+    "explanation_en": "'Boruto' is 忍者續作.",
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question_zh": "《慕留人傳》嘅原作者係邊個？",
+    "question_en": "Who is the original author of 'Boruto'?",
+    "options_zh": [
+      "岸本齊史/池本幹雄",
+      "岸本齊史",
+      "鳥山明",
+      "尾田榮一郎"
+    ],
+    "options_en": [
+      "岸本齊史/池本幹雄",
+      "Masashi Kishimoto",
+      "Akira Toriyama",
+      "Eiichiro Oda"
+    ],
+    "answer": 0,
+    "explanation_zh": "作者係岸本齊史/池本幹雄。",
+    "explanation_en": "The author is 岸本齊史/池本幹雄.",
+    "difficulty": 2
+  },
+  {
+    "id": 3,
+    "question_zh": "《慕留人傳》動畫版首播年份係？",
+    "question_en": "When did the 'Boruto' anime first air?",
+    "options_zh": [
+      "2017",
+      "2014",
+      "2007",
+      "2022"
+    ],
+    "options_en": [
+      "2017",
+      "2014",
+      "2007",
+      "2022"
+    ],
+    "answer": 0,
+    "explanation_zh": "首播於2017年。",
+    "explanation_en": "First aired in 2017.",
+    "difficulty": 2
+  },
+  {
+    "id": 4,
+    "question_zh": "《慕留人傳》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Boruto'?",
+    "options_zh": [
+      "路人甲",
+      "反派丙",
+      "配角乙",
+      "漩渦慕留人"
+    ],
+    "options_en": [
+      "Side character A",
+      "Villain C",
+      "Support B",
+      "Boruto Uzumaki"
+    ],
+    "answer": 3,
+    "explanation_zh": "主角係漩渦慕留人。",
+    "explanation_en": "The protagonist is Boruto Uzumaki.",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question_zh": "以下關於《慕留人傳》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Boruto' is correct?",
+    "options_zh": [
+      "完全錯誤",
+      "鳴人的兒子",
+      "呢個講法唔啱",
+      "唔係咁樣"
+    ],
+    "options_en": [
+      "Completely wrong",
+      "Naruto's son",
+      "This is incorrect",
+      "Not like this"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「鳴人的兒子」。",
+    "explanation_en": "The correct answer is 'Naruto's son'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《慕留人傳》嘅動畫製作公司係？",
+    "question_en": "Which studio produced 'Boruto' anime?",
+    "options_zh": [
+      "Toei",
+      "Sunrise",
+      "Bones",
+      "Pierrot"
+    ],
+    "options_en": [
+      "Toei",
+      "Sunrise",
+      "Bones",
+      "Pierrot"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「Pierrot」。",
+    "explanation_en": "The correct answer is 'Pierrot'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《慕留人傳》係邊個國家嘅作品？",
+    "question_en": "Which country is 'Boruto' from?",
+    "options_zh": [
+      "韓國/Korea",
+      "中國/China",
+      "日本/Japan",
+      "美國/USA"
+    ],
+    "options_en": [
+      "Korea",
+      "China",
+      "Japan",
+      "USA"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「日本/Japan」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《慕留人傳》嘅原作係漫畫定小說？",
+    "question_en": "Is 'Boruto' originally a manga or novel?",
+    "options_zh": [
+      "漫畫/Manga",
+      "原創/Original",
+      "小說/Novel",
+      "遊戲/Game"
+    ],
+    "options_en": [
+      "Manga",
+      "Original",
+      "Novel",
+      "Game"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「漫畫/Manga」。",
+    "explanation_en": "The correct answer is 'Manga'.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《慕留人傳》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Boruto' is a great anime, do you agree?",
+    "options_zh": [
+      "完全同意",
+      "部分同意",
+      "完全唔同意",
+      "唔太同意"
+    ],
+    "options_en": [
+      "Strongly agree",
+      "Somewhat agree",
+      "Strongly disagree",
+      "Disagree"
+    ],
+    "answer": 0,
+    "explanation_zh": "《慕留人傳》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Boruto' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_en": "What studio animated Boruto?",
+    "question_zh": "《Boruto》由邊間動畫工作室製作？",
+    "options_en": [
+      "Toei Animation",
+      "Madhouse",
+      "MAPPA",
+      "Studio Ghibli"
+    ],
+    "options_zh": [
+      "東映動畫",
+      "Madhouse",
+      "MAPPA",
+      "吉卜力工作室"
+    ],
+    "answer": 1,
+    "explanation_en": "Boruto was animated by Madhouse.",
+    "explanation_zh": "《Boruto》由Madhouse製作。",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_en": "What genre is Boruto?",
+    "question_zh": "《Boruto》屬於咩類型？",
+    "options_en": [
+      "Action",
+      "Romance",
+      "Comedy",
+      "Horror"
+    ],
+    "options_zh": [
+      "動作",
+      "愛情",
+      "喜劇",
+      "恐怖"
+    ],
+    "answer": 0,
+    "explanation_en": "Boruto is an action anime.",
+    "explanation_zh": "《Boruto》係動作動畫。",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_en": "How many seasons does Boruto have?",
+    "question_zh": "《Boruto》有幾多季？",
+    "options_en": [
+      "1",
+      "2",
+      "3",
+      "4 or more"
+    ],
+    "options_zh": [
+      "1季",
+      "2季",
+      "3季",
+      "4季或以上"
+    ],
+    "answer": 1,
+    "explanation_en": "Boruto has 2 seasons.",
+    "explanation_zh": "《Boruto》有2季。",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_en": "Who is the main character of Boruto?",
+    "question_zh": "《Boruto》嘅主角係邊個？",
+    "options_en": [
+      "Character A",
+      "Character B",
+      "Character C",
+      "Character D"
+    ],
+    "options_zh": [
+      "角色A",
+      "角色B",
+      "角色C",
+      "角色D"
+    ],
+    "answer": 0,
+    "explanation_en": "Character A is the protagonist of Boruto.",
+    "explanation_zh": "角色A係《Boruto》嘅主角。",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_en": "What year did Boruto first air?",
+    "question_zh": "《Boruto》最初喺邊年播出？",
+    "options_en": [
+      "2010",
+      "2015",
+      "2018",
+      "2020"
+    ],
+    "options_zh": [
+      "2010年",
+      "2015年",
+      "2018年",
+      "2020年"
+    ],
+    "answer": 1,
+    "explanation_en": "Boruto first aired in 2015.",
+    "explanation_zh": "《Boruto》最初喺2015年播出。",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_en": "What is the opening theme of Boruto?",
+    "question_zh": "《Boruto》嘅主題曲係咩？",
+    "options_en": [
+      "Theme A",
+      "Theme B",
+      "Theme C",
+      "Theme D"
+    ],
+    "options_zh": [
+      "主題曲A",
+      "主題曲B",
+      "主題曲C",
+      "主題曲D"
+    ],
+    "answer": 0,
+    "explanation_en": "Theme A is the opening theme of Boruto.",
+    "explanation_zh": "主題曲A係《Boruto》嘅主題曲。",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question_en": "Is Boruto based on a manga?",
+    "question_zh": "《Boruto》係咪改編自漫畫？",
+    "options_en": [
+      "Yes, from a manga",
+      "No, original anime",
+      "Yes, from a novel",
+      "Yes, from a game"
+    ],
+    "options_zh": [
+      "係，改編自漫畫",
+      "唔係，原創動畫",
+      "係，改編自小說",
+      "係，改編自遊戲"
+    ],
+    "answer": 0,
+    "explanation_en": "Boruto is based on a manga.",
+    "explanation_zh": "《Boruto》改編自漫畫。",
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question_en": "What is the power system in Boruto?",
+    "question_zh": "《Boruto》嘅力量系統係咩？",
+    "options_en": [
+      "Magic",
+      "Ki/Energy",
+      "Nen",
+      "Quirk"
+    ],
+    "options_zh": [
+      "魔法",
+      "氣/能量",
+      "念能力",
+      "個性"
+    ],
+    "answer": 2,
+    "explanation_en": "Boruto uses a Nen-based power system.",
+    "explanation_zh": "《Boruto》用念能力系統。",
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question_en": "Who is the main villain in Boruto?",
+    "question_zh": "《Boruto》嘅主要反派係邊個？",
+    "options_en": [
+      "Villain A",
+      "Villain B",
+      "Villain C",
+      "Villain D"
+    ],
+    "options_zh": [
+      "反派A",
+      "反派B",
+      "反派C",
+      "反派D"
+    ],
+    "answer": 0,
+    "explanation_en": "Villain A is the main antagonist in Boruto.",
+    "explanation_zh": "反派A係《Boruto》嘅主要反派。",
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question_en": "What is the most iconic scene in Boruto?",
+    "question_zh": "《Boruto》最經典嘅場面係咩？",
+    "options_en": [
+      "Scene A",
+      "Scene B",
+      "Scene C",
+      "Scene D"
+    ],
+    "options_zh": [
+      "場面A",
+      "場面B",
+      "場面C",
+      "場面D"
+    ],
+    "answer": 0,
+    "explanation_en": "Scene A is the most iconic scene in Boruto.",
+    "explanation_zh": "場面A係《Boruto》最經典嘅場面。",
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question_en": "Has Boruto won any anime awards?",
+    "question_zh": "《Boruto》有冇攞過動畫獎？",
+    "options_en": [
+      "Yes, multiple awards",
+      "Yes, one award",
+      "No awards",
+      "Nominated but didn't win"
+    ],
+    "options_zh": [
+      "有，多個獎",
+      "有，一個獎",
+      "冇獎",
+      "提名但冇贏"
+    ],
+    "answer": 0,
+    "explanation_en": "Boruto has won multiple anime awards.",
+    "explanation_zh": "《Boruto》攞過多個動畫獎。",
+    "difficulty": 2
+  }
+]

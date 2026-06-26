@@ -1,1 +1,422 @@
-[{"id": 1, "question_zh": "《漂白》屬於咩類型嘅動畫？", "question_en": "What genre is 'Bleach'?", "options_zh": ["音樂劇", "死神動作", "日常搞笑", "紀錄片"], "options_en": ["Musical", "死神動作", "Slice of life comedy", "Documentary"], "answer": 1, "explanation_zh": "《漂白》係死神動作類型。", "explanation_en": "'Bleach' is 死神動作.", "difficulty": 1}, {"id": 2, "question_zh": "《漂白》嘅原作者係邊個？", "question_en": "Who is the original author of 'Bleach'?", "options_zh": ["久保帶人", "尾田榮一郎", "鳥山明", "岸本齊史"], "options_en": ["久保帶人", "Eiichiro Oda", "Akira Toriyama", "Masashi Kishimoto"], "answer": 0, "explanation_zh": "作者係久保帶人。", "explanation_en": "The author is 久保帶人.", "difficulty": 2}, {"id": 3, "question_zh": "《漂白》動畫版首播年份係？", "question_en": "When did the 'Bleach' anime first air?", "options_zh": ["2001", "1994", "2009", "2004"], "options_en": ["2001", "1994", "2009", "2004"], "answer": 3, "explanation_zh": "首播於2004年。", "explanation_en": "First aired in 2004.", "difficulty": 2}, {"id": 4, "question_zh": "《漂白》嘅主角係邊個？", "question_en": "Who is the protagonist of 'Bleach'?", "options_zh": ["黑崎一護", "路人甲", "反派丙", "配角乙"], "options_en": ["Ichigo Kurosaki", "Side character A", "Villain C", "Support B"], "answer": 0, "explanation_zh": "主角係黑崎一護。", "explanation_en": "The protagonist is Ichigo Kurosaki.", "difficulty": 1}, {"id": 5, "question_zh": "以下關於《漂白》嘅描述，邊項係正確？", "question_en": "Which statement about 'Bleach' is correct?", "options_zh": ["代理死神", "呢個講法唔啱", "唔係咁樣", "完全錯誤"], "options_en": ["Substitute Soul Reaper", "This is incorrect", "Not like this", "Completely wrong"], "answer": 0, "explanation_zh": "正確答案係「代理死神」。", "explanation_en": "The correct answer is 'Substitute Soul Reaper'.", "difficulty": 2}, {"id": 10, "question_zh": "《漂白》嘅動畫製作公司係？", "question_en": "Which studio produced 'Bleach' anime?", "options_zh": ["Toei", "Sunrise", "Pierrot", "Bones"], "options_en": ["Toei", "Sunrise", "Pierrot", "Bones"], "answer": 2, "explanation_zh": "正確答案係「Pierrot」。", "explanation_en": "The correct answer is 'Pierrot'.", "difficulty": 2}, {"id": 11, "question_zh": "《漂白》係邊個國家嘅作品？", "question_en": "Which country is 'Bleach' from?", "options_zh": ["韓國/Korea", "日本/Japan", "中國/China", "美國/USA"], "options_en": ["Korea", "Japan", "China", "USA"], "answer": 1, "explanation_zh": "正確答案係「日本/Japan」。", "explanation_en": "The correct answer is 'Japan'.", "difficulty": 2}, {"id": 12, "question_zh": "《漂白》嘅原作係漫畫定小說？", "question_en": "Is 'Bleach' originally a manga or novel?", "options_zh": ["原創/Original", "遊戲/Game", "漫畫/Manga", "小說/Novel"], "options_en": ["Original", "Game", "Manga", "Novel"], "answer": 2, "explanation_zh": "正確答案係「漫畫/Manga」。", "explanation_en": "The correct answer is 'Manga'.", "difficulty": 2}, {"id": 13, "question_zh": "《漂白》係一部好睇嘅動畫，你同意嗎？", "question_en": "'Bleach' is a great anime, do you agree?", "options_zh": ["完全唔同意", "完全同意", "唔太同意", "部分同意"], "options_en": ["Strongly disagree", "Strongly agree", "Disagree", "Somewhat agree"], "answer": 1, "explanation_zh": "《漂白》確實係一部受歡迎嘅作品。", "explanation_en": "'Bleach' is indeed a popular work.", "difficulty": 1}]
+[
+  {
+    "id": 1,
+    "question_zh": "《漂白》屬於咩類型嘅動畫？",
+    "question_en": "What genre is 'Bleach'?",
+    "options_zh": [
+      "音樂劇",
+      "死神動作",
+      "日常搞笑",
+      "紀錄片"
+    ],
+    "options_en": [
+      "Musical",
+      "死神動作",
+      "Slice of life comedy",
+      "Documentary"
+    ],
+    "answer": 1,
+    "explanation_zh": "《漂白》係死神動作類型。",
+    "explanation_en": "'Bleach' is 死神動作.",
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question_zh": "《漂白》嘅原作者係邊個？",
+    "question_en": "Who is the original author of 'Bleach'?",
+    "options_zh": [
+      "久保帶人",
+      "尾田榮一郎",
+      "鳥山明",
+      "岸本齊史"
+    ],
+    "options_en": [
+      "久保帶人",
+      "Eiichiro Oda",
+      "Akira Toriyama",
+      "Masashi Kishimoto"
+    ],
+    "answer": 0,
+    "explanation_zh": "作者係久保帶人。",
+    "explanation_en": "The author is 久保帶人.",
+    "difficulty": 2
+  },
+  {
+    "id": 3,
+    "question_zh": "《漂白》動畫版首播年份係？",
+    "question_en": "When did the 'Bleach' anime first air?",
+    "options_zh": [
+      "2001",
+      "1994",
+      "2009",
+      "2004"
+    ],
+    "options_en": [
+      "2001",
+      "1994",
+      "2009",
+      "2004"
+    ],
+    "answer": 3,
+    "explanation_zh": "首播於2004年。",
+    "explanation_en": "First aired in 2004.",
+    "difficulty": 2
+  },
+  {
+    "id": 4,
+    "question_zh": "《漂白》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Bleach'?",
+    "options_zh": [
+      "黑崎一護",
+      "路人甲",
+      "反派丙",
+      "配角乙"
+    ],
+    "options_en": [
+      "Ichigo Kurosaki",
+      "Side character A",
+      "Villain C",
+      "Support B"
+    ],
+    "answer": 0,
+    "explanation_zh": "主角係黑崎一護。",
+    "explanation_en": "The protagonist is Ichigo Kurosaki.",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question_zh": "以下關於《漂白》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Bleach' is correct?",
+    "options_zh": [
+      "代理死神",
+      "呢個講法唔啱",
+      "唔係咁樣",
+      "完全錯誤"
+    ],
+    "options_en": [
+      "Substitute Soul Reaper",
+      "This is incorrect",
+      "Not like this",
+      "Completely wrong"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「代理死神」。",
+    "explanation_en": "The correct answer is 'Substitute Soul Reaper'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《漂白》嘅動畫製作公司係？",
+    "question_en": "Which studio produced 'Bleach' anime?",
+    "options_zh": [
+      "Toei",
+      "Sunrise",
+      "Pierrot",
+      "Bones"
+    ],
+    "options_en": [
+      "Toei",
+      "Sunrise",
+      "Pierrot",
+      "Bones"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「Pierrot」。",
+    "explanation_en": "The correct answer is 'Pierrot'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《漂白》係邊個國家嘅作品？",
+    "question_en": "Which country is 'Bleach' from?",
+    "options_zh": [
+      "韓國/Korea",
+      "日本/Japan",
+      "中國/China",
+      "美國/USA"
+    ],
+    "options_en": [
+      "Korea",
+      "Japan",
+      "China",
+      "USA"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「日本/Japan」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《漂白》嘅原作係漫畫定小說？",
+    "question_en": "Is 'Bleach' originally a manga or novel?",
+    "options_zh": [
+      "原創/Original",
+      "遊戲/Game",
+      "漫畫/Manga",
+      "小說/Novel"
+    ],
+    "options_en": [
+      "Original",
+      "Game",
+      "Manga",
+      "Novel"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「漫畫/Manga」。",
+    "explanation_en": "The correct answer is 'Manga'.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《漂白》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Bleach' is a great anime, do you agree?",
+    "options_zh": [
+      "完全唔同意",
+      "完全同意",
+      "唔太同意",
+      "部分同意"
+    ],
+    "options_en": [
+      "Strongly disagree",
+      "Strongly agree",
+      "Disagree",
+      "Somewhat agree"
+    ],
+    "answer": 1,
+    "explanation_zh": "《漂白》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Bleach' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_en": "What studio animated Bleach?",
+    "question_zh": "《Bleach》由邊間動畫工作室製作？",
+    "options_en": [
+      "Toei Animation",
+      "Madhouse",
+      "MAPPA",
+      "Studio Ghibli"
+    ],
+    "options_zh": [
+      "東映動畫",
+      "Madhouse",
+      "MAPPA",
+      "吉卜力工作室"
+    ],
+    "answer": 1,
+    "explanation_en": "Bleach was animated by Madhouse.",
+    "explanation_zh": "《Bleach》由Madhouse製作。",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_en": "What genre is Bleach?",
+    "question_zh": "《Bleach》屬於咩類型？",
+    "options_en": [
+      "Action",
+      "Romance",
+      "Comedy",
+      "Horror"
+    ],
+    "options_zh": [
+      "動作",
+      "愛情",
+      "喜劇",
+      "恐怖"
+    ],
+    "answer": 0,
+    "explanation_en": "Bleach is an action anime.",
+    "explanation_zh": "《Bleach》係動作動畫。",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_en": "How many seasons does Bleach have?",
+    "question_zh": "《Bleach》有幾多季？",
+    "options_en": [
+      "1",
+      "2",
+      "3",
+      "4 or more"
+    ],
+    "options_zh": [
+      "1季",
+      "2季",
+      "3季",
+      "4季或以上"
+    ],
+    "answer": 1,
+    "explanation_en": "Bleach has 2 seasons.",
+    "explanation_zh": "《Bleach》有2季。",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_en": "Who is the main character of Bleach?",
+    "question_zh": "《Bleach》嘅主角係邊個？",
+    "options_en": [
+      "Character A",
+      "Character B",
+      "Character C",
+      "Character D"
+    ],
+    "options_zh": [
+      "角色A",
+      "角色B",
+      "角色C",
+      "角色D"
+    ],
+    "answer": 0,
+    "explanation_en": "Character A is the protagonist of Bleach.",
+    "explanation_zh": "角色A係《Bleach》嘅主角。",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_en": "What year did Bleach first air?",
+    "question_zh": "《Bleach》最初喺邊年播出？",
+    "options_en": [
+      "2010",
+      "2015",
+      "2018",
+      "2020"
+    ],
+    "options_zh": [
+      "2010年",
+      "2015年",
+      "2018年",
+      "2020年"
+    ],
+    "answer": 1,
+    "explanation_en": "Bleach first aired in 2015.",
+    "explanation_zh": "《Bleach》最初喺2015年播出。",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_en": "What is the opening theme of Bleach?",
+    "question_zh": "《Bleach》嘅主題曲係咩？",
+    "options_en": [
+      "Theme A",
+      "Theme B",
+      "Theme C",
+      "Theme D"
+    ],
+    "options_zh": [
+      "主題曲A",
+      "主題曲B",
+      "主題曲C",
+      "主題曲D"
+    ],
+    "answer": 0,
+    "explanation_en": "Theme A is the opening theme of Bleach.",
+    "explanation_zh": "主題曲A係《Bleach》嘅主題曲。",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question_en": "Is Bleach based on a manga?",
+    "question_zh": "《Bleach》係咪改編自漫畫？",
+    "options_en": [
+      "Yes, from a manga",
+      "No, original anime",
+      "Yes, from a novel",
+      "Yes, from a game"
+    ],
+    "options_zh": [
+      "係，改編自漫畫",
+      "唔係，原創動畫",
+      "係，改編自小說",
+      "係，改編自遊戲"
+    ],
+    "answer": 0,
+    "explanation_en": "Bleach is based on a manga.",
+    "explanation_zh": "《Bleach》改編自漫畫。",
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question_en": "What is the power system in Bleach?",
+    "question_zh": "《Bleach》嘅力量系統係咩？",
+    "options_en": [
+      "Magic",
+      "Ki/Energy",
+      "Nen",
+      "Quirk"
+    ],
+    "options_zh": [
+      "魔法",
+      "氣/能量",
+      "念能力",
+      "個性"
+    ],
+    "answer": 2,
+    "explanation_en": "Bleach uses a Nen-based power system.",
+    "explanation_zh": "《Bleach》用念能力系統。",
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question_en": "Who is the main villain in Bleach?",
+    "question_zh": "《Bleach》嘅主要反派係邊個？",
+    "options_en": [
+      "Villain A",
+      "Villain B",
+      "Villain C",
+      "Villain D"
+    ],
+    "options_zh": [
+      "反派A",
+      "反派B",
+      "反派C",
+      "反派D"
+    ],
+    "answer": 0,
+    "explanation_en": "Villain A is the main antagonist in Bleach.",
+    "explanation_zh": "反派A係《Bleach》嘅主要反派。",
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question_en": "What is the most iconic scene in Bleach?",
+    "question_zh": "《Bleach》最經典嘅場面係咩？",
+    "options_en": [
+      "Scene A",
+      "Scene B",
+      "Scene C",
+      "Scene D"
+    ],
+    "options_zh": [
+      "場面A",
+      "場面B",
+      "場面C",
+      "場面D"
+    ],
+    "answer": 0,
+    "explanation_en": "Scene A is the most iconic scene in Bleach.",
+    "explanation_zh": "場面A係《Bleach》最經典嘅場面。",
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question_en": "Has Bleach won any anime awards?",
+    "question_zh": "《Bleach》有冇攞過動畫獎？",
+    "options_en": [
+      "Yes, multiple awards",
+      "Yes, one award",
+      "No awards",
+      "Nominated but didn't win"
+    ],
+    "options_zh": [
+      "有，多個獎",
+      "有，一個獎",
+      "冇獎",
+      "提名但冇贏"
+    ],
+    "answer": 0,
+    "explanation_en": "Bleach has won multiple anime awards.",
+    "explanation_zh": "《Bleach》攞過多個動畫獎。",
+    "difficulty": 2
+  }
+]

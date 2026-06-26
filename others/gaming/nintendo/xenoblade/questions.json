@@ -145,5 +145,278 @@
     "explanation_zh": "正確答案係「非常好」。",
     "explanation_en": "The correct answer is 'Very good'.",
     "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_en": "What year was Xenoblade first released?",
+    "question_zh": "《Xenoblade》係邊年首次推出？",
+    "options_en": [
+      "2010",
+      "2015",
+      "2020",
+      "2005"
+    ],
+    "options_zh": [
+      "2010",
+      "2015",
+      "2020",
+      "2005"
+    ],
+    "answer": 1,
+    "explanation_en": "Xenoblade was first released in 2015.",
+    "explanation_zh": "《Xenoblade》喺2015年首次推出。",
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question_en": "Which company published Xenoblade?",
+    "question_zh": "邊間公司發行《Xenoblade》？",
+    "options_en": [
+      "EA",
+      "Ubisoft",
+      "Activision",
+      "Nintendo"
+    ],
+    "options_zh": [
+      "EA",
+      "Ubisoft",
+      "Activision",
+      "任天堂"
+    ],
+    "answer": 1,
+    "explanation_en": "Ubisoft published this game.",
+    "explanation_zh": "Ubisoft發行《Xenoblade》。",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question_en": "What genre does Xenoblade belong to?",
+    "question_zh": "《Xenoblade》屬於咩類型？",
+    "options_en": [
+      "RPG",
+      "FPS",
+      "Strategy",
+      "Puzzle"
+    ],
+    "options_zh": [
+      "角色扮演",
+      "射擊",
+      "策略",
+      "益智"
+    ],
+    "answer": 0,
+    "explanation_en": "Xenoblade is an RPG.",
+    "explanation_zh": "《Xenoblade》係角色扮演類型。",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_en": "What platform was Xenoblade originally released on?",
+    "question_zh": "《Xenoblade》最初喺邊個平台推出？",
+    "options_en": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "options_zh": [
+      "PC",
+      "PlayStation",
+      "Xbox",
+      "Nintendo Switch"
+    ],
+    "answer": 0,
+    "explanation_en": "Xenoblade was originally released on PC.",
+    "explanation_zh": "《Xenoblade》最初喺PC平台推出。",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question_en": "What is the main objective of Xenoblade?",
+    "question_zh": "《Xenoblade》嘅主要目標係咩？",
+    "options_en": [
+      "Complete the story",
+      "Defeat all enemies",
+      "Collect all items",
+      "Reach the highest level"
+    ],
+    "options_zh": [
+      "完成故事",
+      "打敗所有敵人",
+      "收集所有物品",
+      "升到最高級"
+    ],
+    "answer": 0,
+    "explanation_en": "The main objective is to complete the story.",
+    "explanation_zh": "主要目標係完成故事。",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_en": "Does Xenoblade have a multiplayer mode?",
+    "question_zh": "《Xenoblade》有冇多人模式？",
+    "options_en": [
+      "Yes, online only",
+      "Yes, local and online",
+      "No, single player only",
+      "Yes, local only"
+    ],
+    "options_zh": [
+      "有，淨係網上",
+      "有，本地同網上",
+      "冇，淨係單人",
+      "有，淨係本地"
+    ],
+    "answer": 1,
+    "explanation_en": "Xenoblade has both local and online multiplayer.",
+    "explanation_zh": "《Xenoblade》有本地同網上多人模式。",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_en": "What age rating does Xenoblade have?",
+    "question_zh": "《Xenoblade》嘅年齡分級係幾多？",
+    "options_en": [
+      "E for Everyone",
+      "T for Teen",
+      "M for Mature",
+      "AO for Adults Only"
+    ],
+    "options_zh": [
+      "E（所有人）",
+      "T（青少年）",
+      "M（成人）",
+      "AO（僅限成人）"
+    ],
+    "answer": 1,
+    "explanation_en": "Xenoblade is rated T for Teen.",
+    "explanation_zh": "《Xenoblade》評級為T（青少年）。",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_en": "How many sequels does Xenoblade have?",
+    "question_zh": "《Xenoblade》有幾多隻續作？",
+    "options_en": [
+      "None",
+      "1",
+      "2",
+      "3 or more"
+    ],
+    "options_zh": [
+      "冇",
+      "1隻",
+      "2隻",
+      "3隻或以上"
+    ],
+    "answer": 2,
+    "explanation_en": "Xenoblade has 2 sequels.",
+    "explanation_zh": "《Xenoblade》有2隻續作。",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_en": "What language was Xenoblade originally developed in?",
+    "question_zh": "《Xenoblade》最初用咩語言開發？",
+    "options_en": [
+      "Japanese",
+      "English",
+      "Chinese",
+      "Korean"
+    ],
+    "options_zh": [
+      "日文",
+      "英文",
+      "中文",
+      "韓文"
+    ],
+    "answer": 0,
+    "explanation_en": "Xenoblade was originally developed in Japanese.",
+    "explanation_zh": "《Xenoblade》最初用日文開發。",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_en": "What is the name of the protagonist?",
+    "question_zh": "主角叫咩名？",
+    "options_en": [
+      "Link",
+      "Mario",
+      "Master Chief",
+      "Kratos"
+    ],
+    "options_zh": [
+      "林克",
+      "馬利奧",
+      "士官長",
+      "奎托斯"
+    ],
+    "answer": 0,
+    "explanation_en": "The protagonist is Link.",
+    "explanation_zh": "主角係林克。",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_en": "What awards did Xenoblade win?",
+    "question_zh": "《Xenoblade》攞過咩獎？",
+    "options_en": [
+      "Game of the Year",
+      "Best Art Direction",
+      "Best Music",
+      "All of the above"
+    ],
+    "options_zh": [
+      "年度遊戲",
+      "最佳美術指導",
+      "最佳音樂",
+      "以上全部"
+    ],
+    "answer": 3,
+    "explanation_en": "Xenoblade won multiple awards including Game of the Year.",
+    "explanation_zh": "《Xenoblade》贏過多個獎，包括年度遊戲。",
+    "difficulty": 2
+  },
+  {
+    "id": 19,
+    "question_en": "What is the estimated playtime for the main story?",
+    "question_zh": "主線故事嘅預計遊玩時間係幾耐？",
+    "options_en": [
+      "5-10 hours",
+      "10-20 hours",
+      "20-40 hours",
+      "40+ hours"
+    ],
+    "options_zh": [
+      "5-10小時",
+      "10-20小時",
+      "20-40小時",
+      "40小時以上"
+    ],
+    "answer": 2,
+    "explanation_en": "The main story takes approximately 20-40 hours.",
+    "explanation_zh": "主線故事大約需要20-40小時。",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question_en": "Is Xenoblade available on Game Pass?",
+    "question_zh": "《Xenoblade》喺Game Pass有冇得玩？",
+    "options_en": [
+      "Yes",
+      "No",
+      "Only on PC",
+      "Only on Xbox"
+    ],
+    "options_zh": [
+      "有",
+      "冇",
+      "淨係PC有",
+      "淨係Xbox有"
+    ],
+    "answer": 0,
+    "explanation_en": "Xenoblade is available on Game Pass.",
+    "explanation_zh": "《Xenoblade》喺Game Pass有得玩。",
+    "difficulty": 1
   }
 ]

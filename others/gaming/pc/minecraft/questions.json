@@ -271,5 +271,152 @@
     "explanation_en": "Ancient Cities are found in the Deep Dark biome.",
     "explanation_zh": "遠古城市喺深暗生態域入面搵到。",
     "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_en": "What is the maximum stack size for most items in Minecraft?",
+    "question_zh": "Minecraft入面大部分物品嘅最大堆疊數量係幾多？",
+    "options_en": [
+      "32",
+      "64",
+      "99",
+      "128"
+    ],
+    "options_zh": [
+      "32",
+      "64",
+      "99",
+      "128"
+    ],
+    "answer": 1,
+    "explanation_en": "Most items stack up to 64.",
+    "explanation_zh": "大部分物品可以堆疊到64個。",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_en": "What block do you need to craft a Nether Portal?",
+    "question_zh": "整地獄傳送門需要咩方塊？",
+    "options_en": [
+      "Cobblestone",
+      "Obsidian",
+      "Bedrock",
+      "Netherrack"
+    ],
+    "options_zh": [
+      "鵝卵石",
+      "黑曜石",
+      "基岩",
+      "地獄岩"
+    ],
+    "answer": 1,
+    "explanation_en": "You need 10 obsidian blocks to build a Nether Portal frame.",
+    "explanation_zh": "你需要10個黑曜石嚟砌地獄傳送門框架。",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_en": "What is the name of the final boss in Minecraft?",
+    "question_zh": "Minecraft嘅最終Boss叫咩名？",
+    "options_en": [
+      "Wither",
+      "Ender Dragon",
+      "Elder Guardian",
+      "Warden"
+    ],
+    "options_zh": [
+      "凋靈",
+      "末影龍",
+      "遠古守衛者",
+      "監守者"
+    ],
+    "answer": 1,
+    "explanation_en": "The Ender Dragon is the final boss found in The End dimension.",
+    "explanation_zh": "末影龍係末地維度嘅最終Boss。",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_en": "How many eyes of Ender are needed to activate the End Portal?",
+    "question_zh": "啟動末地傳送門需要幾多隻末影之眼？",
+    "options_en": [
+      "8",
+      "10",
+      "12",
+      "16"
+    ],
+    "options_zh": [
+      "8",
+      "10",
+      "12",
+      "16"
+    ],
+    "answer": 2,
+    "explanation_en": "The End Portal requires 12 Eyes of Ender to activate.",
+    "explanation_zh": "末地傳送門需要12隻末影之眼嚟啟動。",
+    "difficulty": 2
+  },
+  {
+    "id": 18,
+    "question_en": "What material do you need to mine diamonds?",
+    "question_zh": "挖鑽石需要用咩工具？",
+    "options_en": [
+      "Stone pickaxe",
+      "Iron pickaxe",
+      "Diamond pickaxe",
+      "Gold pickaxe"
+    ],
+    "options_zh": [
+      "石鎬",
+      "鐵鎬",
+      "鑽石鎬",
+      "金鎬"
+    ],
+    "answer": 1,
+    "explanation_en": "You need at least an iron pickaxe to mine diamonds.",
+    "explanation_zh": "你至少需要鐵鎬先可以挖鑽石。",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_en": "What is the crafting recipe for a crafting table?",
+    "question_zh": "工作台嘅合成配方係咩？",
+    "options_en": [
+      "4 wooden planks in a square",
+      "2 wooden planks",
+      "4 cobblestone in a square",
+      "8 wooden planks"
+    ],
+    "options_zh": [
+      "4塊木板擺正方形",
+      "2塊木板",
+      "4塊鵝卵石擺正方形",
+      "8塊木板"
+    ],
+    "answer": 0,
+    "explanation_en": "A crafting table is made from 4 wooden planks arranged in a 2x2 square.",
+    "explanation_zh": "工作台用4塊木板擺成2x2正方形合成。",
+    "difficulty": 1
+  },
+  {
+    "id": 20,
+    "question_en": "What mob drops Ender Pearls?",
+    "question_zh": "邊隻怪物會跌末影珍珠？",
+    "options_en": [
+      "Enderman",
+      "Ender Dragon",
+      "Shulker",
+      "Phantom"
+    ],
+    "options_zh": [
+      "末影人",
+      "末影龍",
+      "潛影貝",
+      "幻翼"
+    ],
+    "answer": 0,
+    "explanation_en": "Endermen drop Ender Pearls when killed.",
+    "explanation_zh": "末影人死亡後會跌末影珍珠。",
+    "difficulty": 1
   }
 ]

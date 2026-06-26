@@ -145,5 +145,278 @@
     "explanation_zh": "正確答案係「非常好」。",
     "explanation_en": "The correct answer is 'Very good'.",
     "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_en": "What is the capital city of Macau?",
+    "question_zh": "澳門嘅首都係咩？",
+    "options_en": [
+      "Capital A",
+      "Capital B",
+      "Capital C",
+      "Capital D"
+    ],
+    "options_zh": [
+      "首都A",
+      "首都B",
+      "首都C",
+      "首都D"
+    ],
+    "answer": 0,
+    "explanation_en": "The capital of Macau is Capital A.",
+    "explanation_zh": "澳門嘅首都係首都A。",
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question_en": "What is the official language of Macau?",
+    "question_zh": "澳門嘅官方語言係咩？",
+    "options_en": [
+      "Language A",
+      "Language B",
+      "Language C",
+      "Language D"
+    ],
+    "options_zh": [
+      "語言A",
+      "語言B",
+      "語言C",
+      "語言D"
+    ],
+    "answer": 0,
+    "explanation_en": "The official language of Macau is Language A.",
+    "explanation_zh": "澳門嘅官方語言係語言A。",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question_en": "What currency is used in Macau?",
+    "question_zh": "澳門用咩貨幣？",
+    "options_en": [
+      "Currency A",
+      "Currency B",
+      "Currency C",
+      "Currency D"
+    ],
+    "options_zh": [
+      "貨幣A",
+      "貨幣B",
+      "貨幣C",
+      "貨幣D"
+    ],
+    "answer": 0,
+    "explanation_en": "Macau uses Currency A.",
+    "explanation_zh": "澳門用貨幣A。",
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question_en": "What is the best time to visit Macau?",
+    "question_zh": "去澳門旅行最好嘅季節係幾時？",
+    "options_en": [
+      "Spring",
+      "Summer",
+      "Autumn",
+      "Winter"
+    ],
+    "options_zh": [
+      "春天",
+      "夏天",
+      "秋天",
+      "冬天"
+    ],
+    "answer": 1,
+    "explanation_en": "Summer is the best time to visit Macau.",
+    "explanation_zh": "夏天係去澳門旅行最好嘅季節。",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question_en": "What is a famous landmark in Macau?",
+    "question_zh": "澳門有咩著名地標？",
+    "options_en": [
+      "Landmark A",
+      "Landmark B",
+      "Landmark C",
+      "Landmark D"
+    ],
+    "options_zh": [
+      "地標A",
+      "地標B",
+      "地標C",
+      "地標D"
+    ],
+    "answer": 0,
+    "explanation_en": "Landmark A is a famous landmark in Macau.",
+    "explanation_zh": "地標A係澳門嘅著名地標。",
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question_en": "What is a traditional dish from Macau?",
+    "question_zh": "澳門有咩傳統美食？",
+    "options_en": [
+      "Dish A",
+      "Dish B",
+      "Dish C",
+      "Dish D"
+    ],
+    "options_zh": [
+      "美食A",
+      "美食B",
+      "美食C",
+      "美食D"
+    ],
+    "answer": 0,
+    "explanation_en": "Dish A is a traditional dish from Macau.",
+    "explanation_zh": "美食A係澳門嘅傳統美食。",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_en": "What is the population of Macau approximately?",
+    "question_zh": "澳門嘅人口大約係幾多？",
+    "options_en": [
+      "10 million",
+      "50 million",
+      "100 million",
+      "200 million"
+    ],
+    "options_zh": [
+      "1千萬",
+      "5千萬",
+      "1億",
+      "2億"
+    ],
+    "answer": 1,
+    "explanation_en": "Macau has approximately 50 million people.",
+    "explanation_zh": "澳門大約有5千萬人口。",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_en": "What continent is Macau located in?",
+    "question_zh": "澳門位於邊個洲？",
+    "options_en": [
+      "Asia",
+      "Europe",
+      "Africa",
+      "Americas"
+    ],
+    "options_zh": [
+      "亞洲",
+      "歐洲",
+      "非洲",
+      "美洲"
+    ],
+    "answer": 0,
+    "explanation_en": "Macau is located in 亞洲.",
+    "explanation_zh": "澳門位於亞洲。",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_en": "What is the emergency number in Macau?",
+    "question_zh": "澳門嘅緊急電話號碼係幾多？",
+    "options_en": [
+      "911",
+      "112",
+      "999",
+      "It varies"
+    ],
+    "options_zh": [
+      "911",
+      "112",
+      "999",
+      "唔同地方唔同"
+    ],
+    "answer": 3,
+    "explanation_en": "The emergency number varies by country.",
+    "explanation_zh": "緊急電話號碼因國家而異。",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_en": "Is Macau a popular tourist destination?",
+    "question_zh": "澳門係唔係熱門旅遊目的地？",
+    "options_en": [
+      "Yes, very popular",
+      "Somewhat popular",
+      "Less known",
+      "Off the beaten path"
+    ],
+    "options_zh": [
+      "非常熱門",
+      "幾熱門",
+      "較少人知",
+      "冷門目的地"
+    ],
+    "answer": 0,
+    "explanation_en": "Macau is a very popular tourist destination.",
+    "explanation_zh": "澳門係非常熱門嘅旅遊目的地。",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_en": "What type of visa do Hong Kong citizens need for Macau?",
+    "question_zh": "香港人去澳門需要咩簽證？",
+    "options_en": [
+      "No visa needed",
+      "Visa on arrival",
+      "E-visa",
+      "Apply in advance"
+    ],
+    "options_zh": [
+      "免簽",
+      "落地簽",
+      "電子簽證",
+      "要預先申請"
+    ],
+    "answer": 0,
+    "explanation_en": "Hong Kong citizens can visit Macau without a visa.",
+    "explanation_zh": "香港人去澳門免簽證。",
+    "difficulty": 2
+  },
+  {
+    "id": 19,
+    "question_en": "What is the time zone of Macau?",
+    "question_zh": "澳門用咩時區？",
+    "options_en": [
+      "UTC+0",
+      "UTC+8",
+      "UTC-5",
+      "UTC+9"
+    ],
+    "options_zh": [
+      "UTC+0",
+      "UTC+8",
+      "UTC-5",
+      "UTC+9"
+    ],
+    "answer": 1,
+    "explanation_en": "Macau is in the UTC+8 time zone.",
+    "explanation_zh": "澳門用UTC+8時區。",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question_en": "What is the most popular transport in Macau?",
+    "question_zh": "澳門最受歡迎嘅交通工具係咩？",
+    "options_en": [
+      "Train",
+      "Bus",
+      "Car",
+      "Bicycle"
+    ],
+    "options_zh": [
+      "火車",
+      "巴士",
+      "私家車",
+      "單車"
+    ],
+    "answer": 0,
+    "explanation_en": "Trains are the most popular transport in Macau.",
+    "explanation_zh": "火車係澳門最受歡迎嘅交通工具。",
+    "difficulty": 1
   }
 ]

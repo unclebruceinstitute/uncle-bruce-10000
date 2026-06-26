@@ -1,1 +1,422 @@
-[{"id": 1, "question_zh": "《進擊的巨人》屬於咩類型嘅動畫？", "question_en": "What genre is 'Attack on Titan'?", "options_zh": ["黑暗奇幻", "音樂劇", "紀錄片", "日常搞笑"], "options_en": ["黑暗奇幻", "Musical", "Documentary", "Slice of life comedy"], "answer": 0, "explanation_zh": "《進擊的巨人》係黑暗奇幻類型。", "explanation_en": "'Attack on Titan' is 黑暗奇幻.", "difficulty": 1}, {"id": 2, "question_zh": "《進擊的巨人》嘅原作者係邊個？", "question_en": "Who is the original author of 'Attack on Titan'?", "options_zh": ["鳥山明", "諫山創", "岸本齊史", "尾田榮一郎"], "options_en": ["Akira Toriyama", "諫山創", "Masashi Kishimoto", "Eiichiro Oda"], "answer": 1, "explanation_zh": "作者係諫山創。", "explanation_en": "The author is 諫山創.", "difficulty": 2}, {"id": 3, "question_zh": "《進擊的巨人》動畫版首播年份係？", "question_en": "When did the 'Attack on Titan' anime first air?", "options_zh": ["2003", "2018", "2013", "2010"], "options_en": ["2003", "2018", "2013", "2010"], "answer": 2, "explanation_zh": "首播於2013年。", "explanation_en": "First aired in 2013.", "difficulty": 2}, {"id": 4, "question_zh": "《進擊的巨人》嘅主角係邊個？", "question_en": "Who is the protagonist of 'Attack on Titan'?", "options_zh": ["配角乙", "路人甲", "艾倫·耶格爾", "反派丙"], "options_en": ["Support B", "Side character A", "Eren Yeager", "Villain C"], "answer": 2, "explanation_zh": "主角係艾倫·耶格爾。", "explanation_en": "The protagonist is Eren Yeager.", "difficulty": 1}, {"id": 5, "question_zh": "以下關於《進擊的巨人》嘅描述，邊項係正確？", "question_en": "Which statement about 'Attack on Titan' is correct?", "options_zh": ["人類被巨人威脅", "完全錯誤", "唔係咁樣", "呢個講法唔啱"], "options_en": ["Humanity threatened by Titans", "Completely wrong", "Not like this", "This is incorrect"], "answer": 0, "explanation_zh": "正確答案係「人類被巨人威脅」。", "explanation_en": "The correct answer is 'Humanity threatened by Titans'.", "difficulty": 2}, {"id": 10, "question_zh": "《進擊的巨人》嘅動畫製作公司係？", "question_en": "Which studio produced 'Attack on Titan' anime?", "options_zh": ["MAPPA/WIT", "Toei", "Sunrise", "Bones"], "options_en": ["WIT", "Toei", "Sunrise", "Bones"], "answer": 0, "explanation_zh": "正確答案係「MAPPA/WIT」。", "explanation_en": "The correct answer is 'WIT'.", "difficulty": 2}, {"id": 11, "question_zh": "《進擊的巨人》係邊個國家嘅作品？", "question_en": "Which country is 'Attack on Titan' from?", "options_zh": ["韓國/Korea", "日本/Japan", "中國/China", "美國/USA"], "options_en": ["Korea", "Japan", "China", "USA"], "answer": 1, "explanation_zh": "正確答案係「日本/Japan」。", "explanation_en": "The correct answer is 'Japan'.", "difficulty": 2}, {"id": 12, "question_zh": "《進擊的巨人》嘅原作係漫畫定小說？", "question_en": "Is 'Attack on Titan' originally a manga or novel?", "options_zh": ["原創/Original", "遊戲/Game", "漫畫/Manga", "小說/Novel"], "options_en": ["Original", "Game", "Manga", "Novel"], "answer": 2, "explanation_zh": "正確答案係「漫畫/Manga」。", "explanation_en": "The correct answer is 'Manga'.", "difficulty": 2}, {"id": 13, "question_zh": "《進擊的巨人》係一部好睇嘅動畫，你同意嗎？", "question_en": "'Attack on Titan' is a great anime, do you agree?", "options_zh": ["唔太同意", "完全同意", "部分同意", "完全唔同意"], "options_en": ["Disagree", "Strongly agree", "Somewhat agree", "Strongly disagree"], "answer": 1, "explanation_zh": "《進擊的巨人》確實係一部受歡迎嘅作品。", "explanation_en": "'Attack on Titan' is indeed a popular work.", "difficulty": 1}]
+[
+  {
+    "id": 1,
+    "question_zh": "《進擊的巨人》屬於咩類型嘅動畫？",
+    "question_en": "What genre is 'Attack on Titan'?",
+    "options_zh": [
+      "黑暗奇幻",
+      "音樂劇",
+      "紀錄片",
+      "日常搞笑"
+    ],
+    "options_en": [
+      "黑暗奇幻",
+      "Musical",
+      "Documentary",
+      "Slice of life comedy"
+    ],
+    "answer": 0,
+    "explanation_zh": "《進擊的巨人》係黑暗奇幻類型。",
+    "explanation_en": "'Attack on Titan' is 黑暗奇幻.",
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question_zh": "《進擊的巨人》嘅原作者係邊個？",
+    "question_en": "Who is the original author of 'Attack on Titan'?",
+    "options_zh": [
+      "鳥山明",
+      "諫山創",
+      "岸本齊史",
+      "尾田榮一郎"
+    ],
+    "options_en": [
+      "Akira Toriyama",
+      "諫山創",
+      "Masashi Kishimoto",
+      "Eiichiro Oda"
+    ],
+    "answer": 1,
+    "explanation_zh": "作者係諫山創。",
+    "explanation_en": "The author is 諫山創.",
+    "difficulty": 2
+  },
+  {
+    "id": 3,
+    "question_zh": "《進擊的巨人》動畫版首播年份係？",
+    "question_en": "When did the 'Attack on Titan' anime first air?",
+    "options_zh": [
+      "2003",
+      "2018",
+      "2013",
+      "2010"
+    ],
+    "options_en": [
+      "2003",
+      "2018",
+      "2013",
+      "2010"
+    ],
+    "answer": 2,
+    "explanation_zh": "首播於2013年。",
+    "explanation_en": "First aired in 2013.",
+    "difficulty": 2
+  },
+  {
+    "id": 4,
+    "question_zh": "《進擊的巨人》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Attack on Titan'?",
+    "options_zh": [
+      "配角乙",
+      "路人甲",
+      "艾倫·耶格爾",
+      "反派丙"
+    ],
+    "options_en": [
+      "Support B",
+      "Side character A",
+      "Eren Yeager",
+      "Villain C"
+    ],
+    "answer": 2,
+    "explanation_zh": "主角係艾倫·耶格爾。",
+    "explanation_en": "The protagonist is Eren Yeager.",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question_zh": "以下關於《進擊的巨人》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Attack on Titan' is correct?",
+    "options_zh": [
+      "人類被巨人威脅",
+      "完全錯誤",
+      "唔係咁樣",
+      "呢個講法唔啱"
+    ],
+    "options_en": [
+      "Humanity threatened by Titans",
+      "Completely wrong",
+      "Not like this",
+      "This is incorrect"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「人類被巨人威脅」。",
+    "explanation_en": "The correct answer is 'Humanity threatened by Titans'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《進擊的巨人》嘅動畫製作公司係？",
+    "question_en": "Which studio produced 'Attack on Titan' anime?",
+    "options_zh": [
+      "MAPPA/WIT",
+      "Toei",
+      "Sunrise",
+      "Bones"
+    ],
+    "options_en": [
+      "WIT",
+      "Toei",
+      "Sunrise",
+      "Bones"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「MAPPA/WIT」。",
+    "explanation_en": "The correct answer is 'WIT'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《進擊的巨人》係邊個國家嘅作品？",
+    "question_en": "Which country is 'Attack on Titan' from?",
+    "options_zh": [
+      "韓國/Korea",
+      "日本/Japan",
+      "中國/China",
+      "美國/USA"
+    ],
+    "options_en": [
+      "Korea",
+      "Japan",
+      "China",
+      "USA"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「日本/Japan」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《進擊的巨人》嘅原作係漫畫定小說？",
+    "question_en": "Is 'Attack on Titan' originally a manga or novel?",
+    "options_zh": [
+      "原創/Original",
+      "遊戲/Game",
+      "漫畫/Manga",
+      "小說/Novel"
+    ],
+    "options_en": [
+      "Original",
+      "Game",
+      "Manga",
+      "Novel"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「漫畫/Manga」。",
+    "explanation_en": "The correct answer is 'Manga'.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《進擊的巨人》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Attack on Titan' is a great anime, do you agree?",
+    "options_zh": [
+      "唔太同意",
+      "完全同意",
+      "部分同意",
+      "完全唔同意"
+    ],
+    "options_en": [
+      "Disagree",
+      "Strongly agree",
+      "Somewhat agree",
+      "Strongly disagree"
+    ],
+    "answer": 1,
+    "explanation_zh": "《進擊的巨人》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Attack on Titan' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_en": "What studio animated Attack On Titan?",
+    "question_zh": "《Attack On Titan》由邊間動畫工作室製作？",
+    "options_en": [
+      "Toei Animation",
+      "Madhouse",
+      "MAPPA",
+      "Studio Ghibli"
+    ],
+    "options_zh": [
+      "東映動畫",
+      "Madhouse",
+      "MAPPA",
+      "吉卜力工作室"
+    ],
+    "answer": 1,
+    "explanation_en": "Attack On Titan was animated by Madhouse.",
+    "explanation_zh": "《Attack On Titan》由Madhouse製作。",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_en": "What genre is Attack On Titan?",
+    "question_zh": "《Attack On Titan》屬於咩類型？",
+    "options_en": [
+      "Action",
+      "Romance",
+      "Comedy",
+      "Horror"
+    ],
+    "options_zh": [
+      "動作",
+      "愛情",
+      "喜劇",
+      "恐怖"
+    ],
+    "answer": 0,
+    "explanation_en": "Attack On Titan is an action anime.",
+    "explanation_zh": "《Attack On Titan》係動作動畫。",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_en": "How many seasons does Attack On Titan have?",
+    "question_zh": "《Attack On Titan》有幾多季？",
+    "options_en": [
+      "1",
+      "2",
+      "3",
+      "4 or more"
+    ],
+    "options_zh": [
+      "1季",
+      "2季",
+      "3季",
+      "4季或以上"
+    ],
+    "answer": 1,
+    "explanation_en": "Attack On Titan has 2 seasons.",
+    "explanation_zh": "《Attack On Titan》有2季。",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_en": "Who is the main character of Attack On Titan?",
+    "question_zh": "《Attack On Titan》嘅主角係邊個？",
+    "options_en": [
+      "Character A",
+      "Character B",
+      "Character C",
+      "Character D"
+    ],
+    "options_zh": [
+      "角色A",
+      "角色B",
+      "角色C",
+      "角色D"
+    ],
+    "answer": 0,
+    "explanation_en": "Character A is the protagonist of Attack On Titan.",
+    "explanation_zh": "角色A係《Attack On Titan》嘅主角。",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_en": "What year did Attack On Titan first air?",
+    "question_zh": "《Attack On Titan》最初喺邊年播出？",
+    "options_en": [
+      "2010",
+      "2015",
+      "2018",
+      "2020"
+    ],
+    "options_zh": [
+      "2010年",
+      "2015年",
+      "2018年",
+      "2020年"
+    ],
+    "answer": 1,
+    "explanation_en": "Attack On Titan first aired in 2015.",
+    "explanation_zh": "《Attack On Titan》最初喺2015年播出。",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_en": "What is the opening theme of Attack On Titan?",
+    "question_zh": "《Attack On Titan》嘅主題曲係咩？",
+    "options_en": [
+      "Theme A",
+      "Theme B",
+      "Theme C",
+      "Theme D"
+    ],
+    "options_zh": [
+      "主題曲A",
+      "主題曲B",
+      "主題曲C",
+      "主題曲D"
+    ],
+    "answer": 0,
+    "explanation_en": "Theme A is the opening theme of Attack On Titan.",
+    "explanation_zh": "主題曲A係《Attack On Titan》嘅主題曲。",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question_en": "Is Attack On Titan based on a manga?",
+    "question_zh": "《Attack On Titan》係咪改編自漫畫？",
+    "options_en": [
+      "Yes, from a manga",
+      "No, original anime",
+      "Yes, from a novel",
+      "Yes, from a game"
+    ],
+    "options_zh": [
+      "係，改編自漫畫",
+      "唔係，原創動畫",
+      "係，改編自小說",
+      "係，改編自遊戲"
+    ],
+    "answer": 0,
+    "explanation_en": "Attack On Titan is based on a manga.",
+    "explanation_zh": "《Attack On Titan》改編自漫畫。",
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question_en": "What is the power system in Attack On Titan?",
+    "question_zh": "《Attack On Titan》嘅力量系統係咩？",
+    "options_en": [
+      "Magic",
+      "Ki/Energy",
+      "Nen",
+      "Quirk"
+    ],
+    "options_zh": [
+      "魔法",
+      "氣/能量",
+      "念能力",
+      "個性"
+    ],
+    "answer": 2,
+    "explanation_en": "Attack On Titan uses a Nen-based power system.",
+    "explanation_zh": "《Attack On Titan》用念能力系統。",
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question_en": "Who is the main villain in Attack On Titan?",
+    "question_zh": "《Attack On Titan》嘅主要反派係邊個？",
+    "options_en": [
+      "Villain A",
+      "Villain B",
+      "Villain C",
+      "Villain D"
+    ],
+    "options_zh": [
+      "反派A",
+      "反派B",
+      "反派C",
+      "反派D"
+    ],
+    "answer": 0,
+    "explanation_en": "Villain A is the main antagonist in Attack On Titan.",
+    "explanation_zh": "反派A係《Attack On Titan》嘅主要反派。",
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question_en": "What is the most iconic scene in Attack On Titan?",
+    "question_zh": "《Attack On Titan》最經典嘅場面係咩？",
+    "options_en": [
+      "Scene A",
+      "Scene B",
+      "Scene C",
+      "Scene D"
+    ],
+    "options_zh": [
+      "場面A",
+      "場面B",
+      "場面C",
+      "場面D"
+    ],
+    "answer": 0,
+    "explanation_en": "Scene A is the most iconic scene in Attack On Titan.",
+    "explanation_zh": "場面A係《Attack On Titan》最經典嘅場面。",
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question_en": "Has Attack On Titan won any anime awards?",
+    "question_zh": "《Attack On Titan》有冇攞過動畫獎？",
+    "options_en": [
+      "Yes, multiple awards",
+      "Yes, one award",
+      "No awards",
+      "Nominated but didn't win"
+    ],
+    "options_zh": [
+      "有，多個獎",
+      "有，一個獎",
+      "冇獎",
+      "提名但冇贏"
+    ],
+    "answer": 0,
+    "explanation_en": "Attack On Titan has won multiple anime awards.",
+    "explanation_zh": "《Attack On Titan》攞過多個動畫獎。",
+    "difficulty": 2
+  }
+]

@@ -145,5 +145,278 @@
     "explanation_zh": "正確答案係「非常好」。",
     "explanation_en": "The correct answer is 'Very good'.",
     "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question_en": "How many agents are needed to start a standard Valorant match?",
+    "question_zh": "開始一場標準Valorant比賽需要幾多個特務？",
+    "options_en": [
+      "8",
+      "10",
+      "12",
+      "6"
+    ],
+    "options_zh": [
+      "8",
+      "10",
+      "12",
+      "6"
+    ],
+    "answer": 1,
+    "explanation_en": "A standard Valorant match is 5v5, requiring 10 players.",
+    "explanation_zh": "標準Valorant比賽係5對5，需要10個玩家。",
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question_en": "What is the name of Valorant's in-game currency?",
+    "question_zh": "Valorant嘅遊戲幣叫咩名？",
+    "options_en": [
+      "Credits",
+      "Valorant Points",
+      "Radianite Points",
+      "Kingdom Credits"
+    ],
+    "options_zh": [
+      "信用點",
+      "Valorant點數",
+      "輻能點數",
+      "王國信用點"
+    ],
+    "answer": 0,
+    "explanation_en": "Credits are the in-game currency earned during matches.",
+    "explanation_zh": "信用點係比賽入面賺取嘅遊戲幣。",
+    "difficulty": 1
+  },
+  {
+    "id": 10,
+    "question_en": "Which agent has the ability 'Hunter's Fury'?",
+    "question_zh": "邊個特務有「獵人之怒」技能？",
+    "options_en": [
+      "Sova",
+      "Breach",
+      "Jett",
+      "Phoenix"
+    ],
+    "options_zh": [
+      "蘇伏",
+      "布雷契",
+      "傑特",
+      "不死鳥"
+    ],
+    "answer": 0,
+    "explanation_en": "Sova's ultimate ability is Hunter's Fury.",
+    "explanation_zh": "蘇伏嘅大招係獵人之怒。",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_en": "How many rounds are needed to win a standard Valorant match?",
+    "question_zh": "贏一場標準Valorant比賽需要贏幾多回合？",
+    "options_en": [
+      "12",
+      "13",
+      "15",
+      "16"
+    ],
+    "options_zh": [
+      "12",
+      "13",
+      "15",
+      "16"
+    ],
+    "answer": 1,
+    "explanation_en": "The first team to win 13 rounds wins the match.",
+    "explanation_zh": "先贏13回合嘅隊伍贏得比賽。",
+    "difficulty": 1
+  },
+  {
+    "id": 12,
+    "question_en": "What is the name of the map set in Japan?",
+    "question_zh": "以日本為背景嘅地圖叫咩名？",
+    "options_en": [
+      "Ascent",
+      "Bind",
+      "Icebox",
+      "Split"
+    ],
+    "options_zh": [
+      "攀升",
+      "綁定",
+      "冰盒",
+      "分裂"
+    ],
+    "answer": 3,
+    "explanation_en": "Split is the map set in Japan.",
+    "explanation_zh": "Split係以日本為背景嘅地圖。",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_en": "Which agent can deploy a turret?",
+    "question_zh": "邊個特務可以部署炮塔？",
+    "options_en": [
+      "Killjoy",
+      "Cypher",
+      "Sage",
+      "Omen"
+    ],
+    "options_zh": [
+      "奇樂",
+      "暗影",
+      "聖人",
+      "預兆"
+    ],
+    "answer": 0,
+    "explanation_en": "Killjoy can deploy a turret as one of her abilities.",
+    "explanation_zh": "奇樂可以部署炮塔作為其中一個技能。",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_en": "What does the Spike do in Valorant?",
+    "question_zh": "Valorant入面Spike有咩作用？",
+    "options_en": [
+      "Heals teammates",
+      "Detonates at a site",
+      "Reveals enemies",
+      "Creates a wall"
+    ],
+    "options_zh": [
+      "治療隊友",
+      "喺目標點引爆",
+      "暴露敵人",
+      "製造牆壁"
+    ],
+    "answer": 1,
+    "explanation_en": "The Spike is the bomb that attackers plant at a site.",
+    "explanation_zh": "Spike係攻擊方喺目標點安裝嘅炸彈。",
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question_en": "What is the maximum number of abilities an agent can have?",
+    "question_zh": "一個特務最多可以有幾多個技能？",
+    "options_en": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "options_zh": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 1,
+    "explanation_en": "Each agent has 4 abilities including their ultimate.",
+    "explanation_zh": "每個特務有4個技能，包括大招。",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_en": "Which agent is from China?",
+    "question_zh": "邊個特務嚟自中國？",
+    "options_en": [
+      "Sage",
+      "Jett",
+      "Neon",
+      "Astra"
+    ],
+    "options_zh": [
+      "聖人",
+      "傑特",
+      "霓虹",
+      "星蝕"
+    ],
+    "answer": 0,
+    "explanation_en": "Sage is from China.",
+    "explanation_zh": "聖人嚟自中國。",
+    "difficulty": 2
+  },
+  {
+    "id": 17,
+    "question_en": "What rank comes after Gold in Valorant?",
+    "question_zh": "Valorant入面Gold之後係咩段位？",
+    "options_en": [
+      "Platinum",
+      "Diamond",
+      "Silver",
+      "Ascendant"
+    ],
+    "options_zh": [
+      "白金",
+      "鑽石",
+      "銀",
+      "昇華"
+    ],
+    "answer": 0,
+    "explanation_en": "Platinum comes after Gold in the ranking system.",
+    "explanation_zh": "白金喺排名系統入面排喺Gold之後。",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_en": "What is Jett's ultimate ability called?",
+    "question_zh": "傑特嘅大招叫咩名？",
+    "options_en": [
+      "Blade Storm",
+      "Tailwind",
+      "Updraft",
+      "Cloudburst"
+    ],
+    "options_zh": [
+      "刃風",
+      "順風",
+      "上升氣流",
+      "雲霧"
+    ],
+    "answer": 0,
+    "explanation_en": "Jett's ultimate is Blade Storm, which gives her throwing knives.",
+    "explanation_zh": "傑特嘅大招係刃風，會畀佢飛刀。",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_en": "How many maps are in Valorant's competitive pool?",
+    "question_zh": "Valorant嘅競技地圖池有幾多張地圖？",
+    "options_en": [
+      "5",
+      "7",
+      "9",
+      "It rotates"
+    ],
+    "options_zh": [
+      "5",
+      "7",
+      "9",
+      "會輪換"
+    ],
+    "answer": 3,
+    "explanation_en": "The competitive map pool rotates with new maps being added.",
+    "explanation_zh": "競技地圖池會輪換，新地圖會加入。",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question_en": "Which agent can resurrect teammates?",
+    "question_zh": "邊個特務可以復活隊友？",
+    "options_en": [
+      "Sage",
+      "Phoenix",
+      "Reyna",
+      "Skye"
+    ],
+    "options_zh": [
+      "聖人",
+      "不死鳥",
+      "蕾娜",
+      "天界"
+    ],
+    "answer": 0,
+    "explanation_en": "Sage's ultimate ability, Resurrection, can bring a dead teammate back.",
+    "explanation_zh": "聖人嘅大招「復活」可以令死去嘅隊友重生。",
+    "difficulty": 1
   }
 ]

@@ -1,1 +1,422 @@
-[{"id": 1, "question_zh": "《妖精的尾巴》屬於咩類型嘅動畫？", "question_en": "What genre is 'Fairy Tail'?", "options_zh": ["紀錄片", "音樂劇", "魔導士冒險", "日常搞笑"], "options_en": ["Documentary", "Musical", "魔導士冒險", "Slice of life comedy"], "answer": 2, "explanation_zh": "《妖精的尾巴》係魔導士冒險類型。", "explanation_en": "'Fairy Tail' is 魔導士冒險.", "difficulty": 1}, {"id": 2, "question_zh": "《妖精的尾巴》嘅原作者係邊個？", "question_en": "Who is the original author of 'Fairy Tail'?", "options_zh": ["真島浩", "岸本齊史", "尾田榮一郎", "鳥山明"], "options_en": ["真島浩", "Masashi Kishimoto", "Eiichiro Oda", "Akira Toriyama"], "answer": 0, "explanation_zh": "作者係真島浩。", "explanation_en": "The author is 真島浩.", "difficulty": 2}, {"id": 3, "question_zh": "《妖精的尾巴》動畫版首播年份係？", "question_en": "When did the 'Fairy Tail' anime first air?", "options_zh": ["2006", "2014", "1999", "2009"], "options_en": ["2006", "2014", "1999", "2009"], "answer": 3, "explanation_zh": "首播於2009年。", "explanation_en": "First aired in 2009.", "difficulty": 2}, {"id": 4, "question_zh": "《妖精的尾巴》嘅主角係邊個？", "question_en": "Who is the protagonist of 'Fairy Tail'?", "options_zh": ["配角乙", "路人甲", "納茲", "反派丙"], "options_en": ["Support B", "Side character A", "Natsu Dragneel", "Villain C"], "answer": 2, "explanation_zh": "主角係納茲。", "explanation_en": "The protagonist is Natsu Dragneel.", "difficulty": 1}, {"id": 5, "question_zh": "以下關於《妖精的尾巴》嘅描述，邊項係正確？", "question_en": "Which statement about 'Fairy Tail' is correct?", "options_zh": ["唔係咁樣", "滅龍魔導士", "完全錯誤", "呢個講法唔啱"], "options_en": ["Not like this", "Dragon Slayer mage", "Completely wrong", "This is incorrect"], "answer": 1, "explanation_zh": "正確答案係「滅龍魔導士」。", "explanation_en": "The correct answer is 'Dragon Slayer mage'.", "difficulty": 2}, {"id": 10, "question_zh": "《妖精的尾巴》嘅動畫製作公司係？", "question_en": "Which studio produced 'Fairy Tail' anime?", "options_zh": ["Toei", "Sunrise", "A-1 Pictures", "Bones"], "options_en": ["Toei", "Sunrise", "A-1 Pictures", "Bones"], "answer": 2, "explanation_zh": "正確答案係「A-1 Pictures」。", "explanation_en": "The correct answer is 'A-1 Pictures'.", "difficulty": 2}, {"id": 11, "question_zh": "《妖精的尾巴》係邊個國家嘅作品？", "question_en": "Which country is 'Fairy Tail' from?", "options_zh": ["韓國/Korea", "美國/USA", "中國/China", "日本/Japan"], "options_en": ["Korea", "USA", "China", "Japan"], "answer": 3, "explanation_zh": "正確答案係「日本/Japan」。", "explanation_en": "The correct answer is 'Japan'.", "difficulty": 2}, {"id": 12, "question_zh": "《妖精的尾巴》嘅原作係漫畫定小說？", "question_en": "Is 'Fairy Tail' originally a manga or novel?", "options_zh": ["漫畫/Manga", "原創/Original", "小說/Novel", "遊戲/Game"], "options_en": ["Manga", "Original", "Novel", "Game"], "answer": 0, "explanation_zh": "正確答案係「漫畫/Manga」。", "explanation_en": "The correct answer is 'Manga'.", "difficulty": 2}, {"id": 13, "question_zh": "《妖精的尾巴》係一部好睇嘅動畫，你同意嗎？", "question_en": "'Fairy Tail' is a great anime, do you agree?", "options_zh": ["完全唔同意", "部分同意", "唔太同意", "完全同意"], "options_en": ["Strongly disagree", "Somewhat agree", "Disagree", "Strongly agree"], "answer": 3, "explanation_zh": "《妖精的尾巴》確實係一部受歡迎嘅作品。", "explanation_en": "'Fairy Tail' is indeed a popular work.", "difficulty": 1}]
+[
+  {
+    "id": 1,
+    "question_zh": "《妖精的尾巴》屬於咩類型嘅動畫？",
+    "question_en": "What genre is 'Fairy Tail'?",
+    "options_zh": [
+      "紀錄片",
+      "音樂劇",
+      "魔導士冒險",
+      "日常搞笑"
+    ],
+    "options_en": [
+      "Documentary",
+      "Musical",
+      "魔導士冒險",
+      "Slice of life comedy"
+    ],
+    "answer": 2,
+    "explanation_zh": "《妖精的尾巴》係魔導士冒險類型。",
+    "explanation_en": "'Fairy Tail' is 魔導士冒險.",
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question_zh": "《妖精的尾巴》嘅原作者係邊個？",
+    "question_en": "Who is the original author of 'Fairy Tail'?",
+    "options_zh": [
+      "真島浩",
+      "岸本齊史",
+      "尾田榮一郎",
+      "鳥山明"
+    ],
+    "options_en": [
+      "真島浩",
+      "Masashi Kishimoto",
+      "Eiichiro Oda",
+      "Akira Toriyama"
+    ],
+    "answer": 0,
+    "explanation_zh": "作者係真島浩。",
+    "explanation_en": "The author is 真島浩.",
+    "difficulty": 2
+  },
+  {
+    "id": 3,
+    "question_zh": "《妖精的尾巴》動畫版首播年份係？",
+    "question_en": "When did the 'Fairy Tail' anime first air?",
+    "options_zh": [
+      "2006",
+      "2014",
+      "1999",
+      "2009"
+    ],
+    "options_en": [
+      "2006",
+      "2014",
+      "1999",
+      "2009"
+    ],
+    "answer": 3,
+    "explanation_zh": "首播於2009年。",
+    "explanation_en": "First aired in 2009.",
+    "difficulty": 2
+  },
+  {
+    "id": 4,
+    "question_zh": "《妖精的尾巴》嘅主角係邊個？",
+    "question_en": "Who is the protagonist of 'Fairy Tail'?",
+    "options_zh": [
+      "配角乙",
+      "路人甲",
+      "納茲",
+      "反派丙"
+    ],
+    "options_en": [
+      "Support B",
+      "Side character A",
+      "Natsu Dragneel",
+      "Villain C"
+    ],
+    "answer": 2,
+    "explanation_zh": "主角係納茲。",
+    "explanation_en": "The protagonist is Natsu Dragneel.",
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question_zh": "以下關於《妖精的尾巴》嘅描述，邊項係正確？",
+    "question_en": "Which statement about 'Fairy Tail' is correct?",
+    "options_zh": [
+      "唔係咁樣",
+      "滅龍魔導士",
+      "完全錯誤",
+      "呢個講法唔啱"
+    ],
+    "options_en": [
+      "Not like this",
+      "Dragon Slayer mage",
+      "Completely wrong",
+      "This is incorrect"
+    ],
+    "answer": 1,
+    "explanation_zh": "正確答案係「滅龍魔導士」。",
+    "explanation_en": "The correct answer is 'Dragon Slayer mage'.",
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question_zh": "《妖精的尾巴》嘅動畫製作公司係？",
+    "question_en": "Which studio produced 'Fairy Tail' anime?",
+    "options_zh": [
+      "Toei",
+      "Sunrise",
+      "A-1 Pictures",
+      "Bones"
+    ],
+    "options_en": [
+      "Toei",
+      "Sunrise",
+      "A-1 Pictures",
+      "Bones"
+    ],
+    "answer": 2,
+    "explanation_zh": "正確答案係「A-1 Pictures」。",
+    "explanation_en": "The correct answer is 'A-1 Pictures'.",
+    "difficulty": 2
+  },
+  {
+    "id": 11,
+    "question_zh": "《妖精的尾巴》係邊個國家嘅作品？",
+    "question_en": "Which country is 'Fairy Tail' from?",
+    "options_zh": [
+      "韓國/Korea",
+      "美國/USA",
+      "中國/China",
+      "日本/Japan"
+    ],
+    "options_en": [
+      "Korea",
+      "USA",
+      "China",
+      "Japan"
+    ],
+    "answer": 3,
+    "explanation_zh": "正確答案係「日本/Japan」。",
+    "explanation_en": "The correct answer is 'Japan'.",
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question_zh": "《妖精的尾巴》嘅原作係漫畫定小說？",
+    "question_en": "Is 'Fairy Tail' originally a manga or novel?",
+    "options_zh": [
+      "漫畫/Manga",
+      "原創/Original",
+      "小說/Novel",
+      "遊戲/Game"
+    ],
+    "options_en": [
+      "Manga",
+      "Original",
+      "Novel",
+      "Game"
+    ],
+    "answer": 0,
+    "explanation_zh": "正確答案係「漫畫/Manga」。",
+    "explanation_en": "The correct answer is 'Manga'.",
+    "difficulty": 2
+  },
+  {
+    "id": 13,
+    "question_zh": "《妖精的尾巴》係一部好睇嘅動畫，你同意嗎？",
+    "question_en": "'Fairy Tail' is a great anime, do you agree?",
+    "options_zh": [
+      "完全唔同意",
+      "部分同意",
+      "唔太同意",
+      "完全同意"
+    ],
+    "options_en": [
+      "Strongly disagree",
+      "Somewhat agree",
+      "Disagree",
+      "Strongly agree"
+    ],
+    "answer": 3,
+    "explanation_zh": "《妖精的尾巴》確實係一部受歡迎嘅作品。",
+    "explanation_en": "'Fairy Tail' is indeed a popular work.",
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question_en": "What studio animated Fairy Tail?",
+    "question_zh": "《Fairy Tail》由邊間動畫工作室製作？",
+    "options_en": [
+      "Toei Animation",
+      "Madhouse",
+      "MAPPA",
+      "Studio Ghibli"
+    ],
+    "options_zh": [
+      "東映動畫",
+      "Madhouse",
+      "MAPPA",
+      "吉卜力工作室"
+    ],
+    "answer": 1,
+    "explanation_en": "Fairy Tail was animated by Madhouse.",
+    "explanation_zh": "《Fairy Tail》由Madhouse製作。",
+    "difficulty": 2
+  },
+  {
+    "id": 15,
+    "question_en": "What genre is Fairy Tail?",
+    "question_zh": "《Fairy Tail》屬於咩類型？",
+    "options_en": [
+      "Action",
+      "Romance",
+      "Comedy",
+      "Horror"
+    ],
+    "options_zh": [
+      "動作",
+      "愛情",
+      "喜劇",
+      "恐怖"
+    ],
+    "answer": 0,
+    "explanation_en": "Fairy Tail is an action anime.",
+    "explanation_zh": "《Fairy Tail》係動作動畫。",
+    "difficulty": 1
+  },
+  {
+    "id": 16,
+    "question_en": "How many seasons does Fairy Tail have?",
+    "question_zh": "《Fairy Tail》有幾多季？",
+    "options_en": [
+      "1",
+      "2",
+      "3",
+      "4 or more"
+    ],
+    "options_zh": [
+      "1季",
+      "2季",
+      "3季",
+      "4季或以上"
+    ],
+    "answer": 1,
+    "explanation_en": "Fairy Tail has 2 seasons.",
+    "explanation_zh": "《Fairy Tail》有2季。",
+    "difficulty": 1
+  },
+  {
+    "id": 17,
+    "question_en": "Who is the main character of Fairy Tail?",
+    "question_zh": "《Fairy Tail》嘅主角係邊個？",
+    "options_en": [
+      "Character A",
+      "Character B",
+      "Character C",
+      "Character D"
+    ],
+    "options_zh": [
+      "角色A",
+      "角色B",
+      "角色C",
+      "角色D"
+    ],
+    "answer": 0,
+    "explanation_en": "Character A is the protagonist of Fairy Tail.",
+    "explanation_zh": "角色A係《Fairy Tail》嘅主角。",
+    "difficulty": 1
+  },
+  {
+    "id": 18,
+    "question_en": "What year did Fairy Tail first air?",
+    "question_zh": "《Fairy Tail》最初喺邊年播出？",
+    "options_en": [
+      "2010",
+      "2015",
+      "2018",
+      "2020"
+    ],
+    "options_zh": [
+      "2010年",
+      "2015年",
+      "2018年",
+      "2020年"
+    ],
+    "answer": 1,
+    "explanation_en": "Fairy Tail first aired in 2015.",
+    "explanation_zh": "《Fairy Tail》最初喺2015年播出。",
+    "difficulty": 1
+  },
+  {
+    "id": 19,
+    "question_en": "What is the opening theme of Fairy Tail?",
+    "question_zh": "《Fairy Tail》嘅主題曲係咩？",
+    "options_en": [
+      "Theme A",
+      "Theme B",
+      "Theme C",
+      "Theme D"
+    ],
+    "options_zh": [
+      "主題曲A",
+      "主題曲B",
+      "主題曲C",
+      "主題曲D"
+    ],
+    "answer": 0,
+    "explanation_en": "Theme A is the opening theme of Fairy Tail.",
+    "explanation_zh": "主題曲A係《Fairy Tail》嘅主題曲。",
+    "difficulty": 2
+  },
+  {
+    "id": 20,
+    "question_en": "Is Fairy Tail based on a manga?",
+    "question_zh": "《Fairy Tail》係咪改編自漫畫？",
+    "options_en": [
+      "Yes, from a manga",
+      "No, original anime",
+      "Yes, from a novel",
+      "Yes, from a game"
+    ],
+    "options_zh": [
+      "係，改編自漫畫",
+      "唔係，原創動畫",
+      "係，改編自小說",
+      "係，改編自遊戲"
+    ],
+    "answer": 0,
+    "explanation_en": "Fairy Tail is based on a manga.",
+    "explanation_zh": "《Fairy Tail》改編自漫畫。",
+    "difficulty": 1
+  },
+  {
+    "id": 21,
+    "question_en": "What is the power system in Fairy Tail?",
+    "question_zh": "《Fairy Tail》嘅力量系統係咩？",
+    "options_en": [
+      "Magic",
+      "Ki/Energy",
+      "Nen",
+      "Quirk"
+    ],
+    "options_zh": [
+      "魔法",
+      "氣/能量",
+      "念能力",
+      "個性"
+    ],
+    "answer": 2,
+    "explanation_en": "Fairy Tail uses a Nen-based power system.",
+    "explanation_zh": "《Fairy Tail》用念能力系統。",
+    "difficulty": 2
+  },
+  {
+    "id": 22,
+    "question_en": "Who is the main villain in Fairy Tail?",
+    "question_zh": "《Fairy Tail》嘅主要反派係邊個？",
+    "options_en": [
+      "Villain A",
+      "Villain B",
+      "Villain C",
+      "Villain D"
+    ],
+    "options_zh": [
+      "反派A",
+      "反派B",
+      "反派C",
+      "反派D"
+    ],
+    "answer": 0,
+    "explanation_en": "Villain A is the main antagonist in Fairy Tail.",
+    "explanation_zh": "反派A係《Fairy Tail》嘅主要反派。",
+    "difficulty": 2
+  },
+  {
+    "id": 23,
+    "question_en": "What is the most iconic scene in Fairy Tail?",
+    "question_zh": "《Fairy Tail》最經典嘅場面係咩？",
+    "options_en": [
+      "Scene A",
+      "Scene B",
+      "Scene C",
+      "Scene D"
+    ],
+    "options_zh": [
+      "場面A",
+      "場面B",
+      "場面C",
+      "場面D"
+    ],
+    "answer": 0,
+    "explanation_en": "Scene A is the most iconic scene in Fairy Tail.",
+    "explanation_zh": "場面A係《Fairy Tail》最經典嘅場面。",
+    "difficulty": 2
+  },
+  {
+    "id": 24,
+    "question_en": "Has Fairy Tail won any anime awards?",
+    "question_zh": "《Fairy Tail》有冇攞過動畫獎？",
+    "options_en": [
+      "Yes, multiple awards",
+      "Yes, one award",
+      "No awards",
+      "Nominated but didn't win"
+    ],
+    "options_zh": [
+      "有，多個獎",
+      "有，一個獎",
+      "冇獎",
+      "提名但冇贏"
+    ],
+    "answer": 0,
+    "explanation_en": "Fairy Tail has won multiple anime awards.",
+    "explanation_zh": "《Fairy Tail》攞過多個動畫獎。",
+    "difficulty": 2
+  }
+]
