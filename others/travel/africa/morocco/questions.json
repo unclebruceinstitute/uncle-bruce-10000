@@ -25,16 +25,16 @@
     "question_zh": "「摩洛哥位於邊個洲？」係邊度嚟嘅？",
     "question_en": "Where is 'Morocco' from?",
     "options_zh": [
-      "非洲",
+      "歐洲",
       "美洲",
-      "歐洲"
+      "非洲"
     ],
     "options_en": [
-      "Africa",
+      "Europe",
       "Americas",
-      "Europe"
+      "Africa"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "正確答案係「非洲」。",
     "explanation_en": "The correct answer is 'Africa'.",
     "difficulty": 3
@@ -65,18 +65,18 @@
     "question_zh": "你會唔會推薦「摩洛哥位於邊個洲？」？",
     "question_en": "Would you recommend 'Morocco'?",
     "options_zh": [
-      "會，非常推薦",
-      "睇情況",
       "唔會",
+      "睇情況",
+      "會，非常推薦",
       "唔確定"
     ],
     "options_en": [
-      "Yes, highly recommended",
-      "It depends",
       "No",
+      "It depends",
+      "Yes, highly recommended",
       "Not sure"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "正確答案係「會，非常推薦」。",
     "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 3
@@ -149,18 +149,18 @@
     "question_en": "What is the capital city of Morocco?",
     "question_zh": "摩洛哥嘅首都係咩？",
     "options_en": [
-      "Capital A",
-      "Capital B",
       "Capital C",
+      "Capital B",
+      "Capital A",
       "Capital D"
     ],
     "options_zh": [
-      "首都A",
-      "首都B",
       "首都C",
+      "首都B",
+      "首都A",
       "首都D"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_en": "The capital of Morocco is Capital A.",
     "explanation_zh": "摩洛哥嘅首都係首都A。",
     "difficulty": 1
@@ -170,18 +170,18 @@
     "question_en": "What is the official language of Morocco?",
     "question_zh": "摩洛哥嘅官方語言係咩？",
     "options_en": [
-      "Language A",
       "Language B",
+      "Language A",
       "Language C",
       "Language D"
     ],
     "options_zh": [
-      "語言A",
       "語言B",
+      "語言A",
       "語言C",
       "語言D"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_en": "The official language of Morocco is Language A.",
     "explanation_zh": "摩洛哥嘅官方語言係語言A。",
     "difficulty": 1
@@ -191,18 +191,18 @@
     "question_en": "What currency is used in Morocco?",
     "question_zh": "摩洛哥用咩貨幣？",
     "options_en": [
-      "Currency A",
-      "Currency B",
       "Currency C",
+      "Currency B",
+      "Currency A",
       "Currency D"
     ],
     "options_zh": [
-      "貨幣A",
-      "貨幣B",
       "貨幣C",
+      "貨幣B",
+      "貨幣A",
       "貨幣D"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_en": "Morocco uses Currency A.",
     "explanation_zh": "摩洛哥用貨幣A。",
     "difficulty": 1

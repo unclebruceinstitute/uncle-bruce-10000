@@ -7,18 +7,18 @@
     "question_zh": "IFRS 16租賃準則下，承租人需要確認咩資產？",
     "question_en": "IFRS 16租賃準則下，承租人需要確認咩資產？",
     "options_zh": [
-      "使用權資產",
-      "唔需要確認任何資產",
       "僅融資租賃資產",
+      "唔需要確認任何資產",
+      "使用權資產",
       "經營租賃資產"
     ],
     "options_en": [
-      "使用權資產",
-      "唔需要確認任何資產",
       "僅融資租賃資產",
+      "唔需要確認任何資產",
+      "使用權資產",
       "經營租賃資產"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "IFRS 16取消咗承租人嘅融資/經營租賃區分，要求確認使用權資產同租賃負債。",
     "explanation_en": "IFRS 16取消咗承租人嘅融資/經營租賃區分，要求確認使用權資產同租賃負債。",
     "difficulty": 2,
@@ -32,18 +32,18 @@
     "question_zh": "如果評估嘅重大錯報風險較高，審計師應該點做？",
     "question_en": "如果評估嘅重大錯報風險較高，審計師應該點做？",
     "options_zh": [
-      "增加審計程序嘅範圍同深度",
-      "減少審計程序",
       "直接出具保留意見",
+      "減少審計程序",
+      "增加審計程序嘅範圍同深度",
       "唔需要調整"
     ],
     "options_en": [
-      "增加審計程序嘅範圍同深度",
-      "減少審計程序",
       "直接出具保留意見",
+      "減少審計程序",
+      "增加審計程序嘅範圍同深度",
       "唔需要調整"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "風險較高時，審計師應增加實質性程序嘅範圍、時間同深度。",
     "explanation_en": "風險較高時，審計師應增加實質性程序嘅範圍、時間同深度。",
     "difficulty": 2,
@@ -157,18 +157,18 @@
     "question_zh": "會計政策變更應該點處理？",
     "question_en": "會計政策變更應該點處理？",
     "options_zh": [
-      "追溯調整",
-      "僅披露",
       "僅調整當期",
+      "僅披露",
+      "追溯調整",
       "唔需要處理"
     ],
     "options_en": [
-      "追溯調整",
-      "僅披露",
       "僅調整當期",
+      "僅披露",
+      "追溯調整",
       "唔需要處理"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "根據IAS 8，會計政策變更一般需要追溯調整。",
     "explanation_en": "根據IAS 8，會計政策變更一般需要追溯調整。",
     "difficulty": 2,
@@ -182,18 +182,18 @@
     "question_zh": "廠房租金屬於邊種成本類型？",
     "question_en": "廠房租金屬於邊種成本類型？",
     "options_zh": [
-      "固定成本",
-      "邊際成本",
       "半變動成本",
+      "邊際成本",
+      "固定成本",
       "變動成本"
     ],
     "options_en": [
-      "固定成本",
-      "邊際成本",
       "半變動成本",
+      "邊際成本",
+      "固定成本",
       "變動成本"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "廠房租金一般係固定成本，唔隨產量變化。",
     "explanation_en": "廠房租金一般係固定成本，唔隨產量變化。",
     "difficulty": 2,
@@ -232,18 +232,18 @@
     "question_zh": "違約嘅主要救濟方式包括邊啲？",
     "question_en": "違約嘅主要救濟方式包括邊啲？",
     "options_zh": [
-      "損害賠償、特定履行、禁制令",
       "僅道歉",
+      "損害賠償、特定履行、禁制令",
       "僅終止合同",
       "僅損害賠償"
     ],
     "options_en": [
-      "損害賠償、特定履行、禁制令",
       "僅道歉",
+      "損害賠償、特定履行、禁制令",
       "僅終止合同",
       "僅損害賠償"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_zh": "違約救濟包括損害賠償、特定履行（specific performance）、禁制令等。",
     "explanation_en": "違約救濟包括損害賠償、特定履行（specific performance）、禁制令等。",
     "difficulty": 2,
@@ -382,18 +382,18 @@
     "question_zh": "沉沒成本嘅定義係咩？",
     "question_en": "沉沒成本嘅定義係咩？",
     "options_zh": [
-      "已經發生無法收回嘅成本",
-      "可以避免嘅成本",
       "未來會發生嘅成本",
+      "可以避免嘅成本",
+      "已經發生無法收回嘅成本",
       "隨產量變化嘅成本"
     ],
     "options_en": [
-      "已經發生無法收回嘅成本",
-      "可以避免嘅成本",
       "未來會發生嘅成本",
+      "可以避免嘅成本",
+      "已經發生無法收回嘅成本",
       "隨產量變化嘅成本"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "沉沒成本係已經發生、無法收回嘅成本，唔應該影響未來決策。",
     "explanation_en": "沉沒成本係已經發生、無法收回嘅成本，唔應該影響未來決策。",
     "difficulty": 2,
@@ -582,18 +582,18 @@
     "question_zh": "盈利指數（PI）等於咩？",
     "question_en": "盈利指數（PI）等於咩？",
     "options_zh": [
-      "現金流入現值 / 現金流出現值",
       "IRR / 折現率",
+      "現金流入現值 / 現金流出現值",
       "NPV / 初始投資",
       "利潤 / 收入"
     ],
     "options_en": [
-      "現金流入現值 / 現金流出現值",
       "IRR / 折現率",
+      "現金流入現值 / 現金流出現值",
       "NPV / 初始投資",
       "利潤 / 收入"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_zh": "PI = 未來現金流嘅現值 / 初始投資。PI > 1 表示項目可行。",
     "explanation_en": "PI = 未來現金流嘅現值 / 初始投資。PI > 1 表示項目可行。",
     "difficulty": 2,
@@ -732,18 +732,18 @@
     "question_zh": "限制貿易條款（restraint of trade）嘅法律地位係咩？",
     "question_en": "限制貿易條款（restraint of trade）嘅法律地位係咩？",
     "options_zh": [
-      "合理範圍內可執行",
-      "僅口頭有效",
       "一律無效",
+      "僅口頭有效",
+      "合理範圍內可執行",
       "一律有效"
     ],
     "options_en": [
-      "合理範圍內可執行",
-      "僅口頭有效",
       "一律無效",
+      "僅口頭有效",
+      "合理範圍內可執行",
       "一律有效"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "限制貿易條款原則上無效，但如能證明係合理保護商業利益，可以執行。",
     "explanation_en": "限制貿易條款原則上無效，但如能證明係合理保護商業利益，可以執行。",
     "difficulty": 2,
@@ -832,18 +832,18 @@
     "question_zh": "合同中嘅條件（condition）同保證（warranty）嘅區別係咩？",
     "question_en": "合同中嘅條件（condition）同保證（warranty）嘅區別係咩？",
     "options_zh": [
-      "條件係重要條款，違反可終止合同；保證係次要條款",
       "無區別",
+      "條件係重要條款，違反可終止合同；保證係次要條款",
       "條件係口頭嘅",
       "保證更重要"
     ],
     "options_en": [
-      "條件係重要條款，違反可終止合同；保證係次要條款",
       "無區別",
+      "條件係重要條款，違反可終止合同；保證係次要條款",
       "條件係口頭嘅",
       "保證更重要"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_zh": "條件係合同根本條款，違反可終止合同；保證係次要條款，違反僅可索賠。",
     "explanation_en": "條件係合同根本條款，違反可終止合同；保證係次要條款，違反僅可索賠。",
     "difficulty": 2,
@@ -882,18 +882,18 @@
     "question_zh": "分析性程序喺審計中嘅主要用途係咩？",
     "question_en": "分析性程序喺審計中嘅主要用途係咩？",
     "options_zh": [
-      "識別異常波動同潛在錯報",
-      "評估審計師勝任能力",
       "確定審計費用",
+      "評估審計師勝任能力",
+      "識別異常波動同潛在錯報",
       "取代實質性測試"
     ],
     "options_en": [
-      "識別異常波動同潛在錯報",
-      "評估審計師勝任能力",
       "確定審計費用",
+      "評估審計師勝任能力",
+      "識別異常波動同潛在錯報",
       "取代實質性測試"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "分析性程序通過比較財務數據識別異常關係同波動，發現潛在錯報。",
     "explanation_en": "分析性程序通過比較財務數據識別異常關係同波動，發現潛在錯報。",
     "difficulty": 2,
@@ -932,18 +932,18 @@
     "question_zh": "互斥項目中NPV同IRR矛盾時，應以邊個為準？",
     "question_en": "互斥項目中NPV同IRR矛盾時，應以邊個為準？",
     "options_zh": [
-      "NPV",
       "PI",
+      "NPV",
       "IRR",
       "回收期"
     ],
     "options_en": [
-      "NPV",
       "PI",
+      "NPV",
       "IRR",
       "回收期"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_zh": "互斥項目應以NPV為準，因為NPV直接衡量價值創造。",
     "explanation_en": "互斥項目應以NPV為準，因為NPV直接衡量價值創造。",
     "difficulty": 2,
@@ -1057,18 +1057,18 @@
     "question_zh": "IAS 36減值測試中，可收回金額係指以下兩者中嘅較高者？",
     "question_en": "IAS 36減值測試中，可收回金額係指以下兩者中嘅較高者？",
     "options_zh": [
-      "公允價值減出售成本同使用價值",
-      "公允價值同賬面值",
       "淨現值同市場價值",
+      "公允價值同賬面值",
+      "公允價值減出售成本同使用價值",
       "歷史成本同市場價值"
     ],
     "options_en": [
-      "公允價值減出售成本同使用價值",
-      "公允價值同賬面值",
       "淨現值同市場價值",
+      "公允價值同賬面值",
+      "公允價值減出售成本同使用價值",
       "歷史成本同市場價值"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "可收回金額 = max(公允價值 - 出售成本, 使用價值)。",
     "explanation_en": "可收回金額 = max(公允價值 - 出售成本, 使用價值)。",
     "difficulty": 2,
@@ -1382,18 +1382,18 @@
     "question_zh": "現金流量表分為邊三大類活動？",
     "question_en": "現金流量表分為邊三大類活動？",
     "options_zh": [
-      "營運、投資、融資",
       "經營、非經營、特殊",
+      "營運、投資、融資",
       "收入、支出、利潤",
       "資產、負債、權益"
     ],
     "options_en": [
-      "營運、投資、融資",
       "經營、非經營、特殊",
+      "營運、投資、融資",
       "收入、支出、利潤",
       "資產、負債、權益"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_zh": "現金流量表分為經營活動、投資活動同融資活動三大類。",
     "explanation_en": "現金流量表分為經營活動、投資活動同融資活動三大類。",
     "difficulty": 2,
@@ -1482,18 +1482,18 @@
     "question_zh": "以下邊項收入唔需要繳納薪俸稅？",
     "question_en": "以下邊項收入唔需要繳納薪俸稅？",
     "options_zh": [
-      "繼承嘅遺產",
+      "花紅",
       "工資",
       "津貼",
-      "花紅"
+      "繼承嘅遺產"
     ],
     "options_en": [
-      "繼承嘅遺產",
+      "花紅",
       "工資",
       "津貼",
-      "花紅"
+      "繼承嘅遺產"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "繼承嘅遺產唔屬於薪俸稅嘅應評稅入息。",
     "explanation_en": "繼承嘅遺產唔屬於薪俸稅嘅應評稅入息。",
     "difficulty": 2,
@@ -1532,18 +1532,18 @@
     "question_zh": "回收期法嘅缺點係咩？",
     "question_en": "回收期法嘅缺點係咩？",
     "options_zh": [
-      "唔考慮回收期後嘅現金流同時間價值",
-      "計算複雜",
       "只適用於小項目",
+      "計算複雜",
+      "唔考慮回收期後嘅現金流同時間價值",
       "需要折現率"
     ],
     "options_en": [
-      "唔考慮回收期後嘅現金流同時間價值",
-      "計算複雜",
       "只適用於小項目",
+      "計算複雜",
+      "唔考慮回收期後嘅現金流同時間價值",
       "需要折現率"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "回收期法忽略回收期後嘅現金流同貨幣時間價值。",
     "explanation_en": "回收期法忽略回收期後嘅現金流同貨幣時間價值。",
     "difficulty": 2,
@@ -1657,18 +1657,18 @@
     "question_zh": "稅務寬減通常喺邊個時候公布？",
     "question_en": "稅務寬減通常喺邊個時候公布？",
     "options_zh": [
-      "財政預算案",
       "年尾",
+      "財政預算案",
       "每月",
       "年初"
     ],
     "options_en": [
-      "財政預算案",
       "年尾",
+      "財政預算案",
       "每月",
       "年初"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_zh": "稅務寬減措施通常喺年度財政預算案中公布。",
     "explanation_en": "稅務寬減措施通常喺年度財政預算案中公布。",
     "difficulty": 2,
@@ -1707,18 +1707,18 @@
     "question_zh": "以下邊種情況構成要約嘅撤回？",
     "question_en": "以下邊種情況構成要約嘅撤回？",
     "options_zh": [
-      "所有以上情況",
+      "要約期滿",
       "要約人喺要約到達前撤回",
       "受要約人拒絕",
-      "要約期滿"
+      "所有以上情況"
     ],
     "options_en": [
-      "所有以上情況",
+      "要約期滿",
       "要約人喺要約到達前撤回",
       "受要約人拒絕",
-      "要約期滿"
+      "所有以上情況"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "要約可以通過撤回（到達前）、拒絕、期滿、反要約等方式終止。",
     "explanation_en": "要約可以通過撤回（到達前）、拒絕、期滿、反要約等方式終止。",
     "difficulty": 2,
@@ -1907,18 +1907,18 @@
     "question_zh": "以下邊項唔屬於流動資產？",
     "question_en": "以下邊項唔屬於流動資產？",
     "options_zh": [
-      "機器設備",
-      "存貨",
       "應收賬款",
+      "存貨",
+      "機器設備",
       "銀行存款"
     ],
     "options_en": [
-      "機器設備",
-      "存貨",
       "應收賬款",
+      "存貨",
+      "機器設備",
       "銀行存款"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "機器設備屬於非流動資產（固定資產），唔係流動資產。",
     "explanation_en": "機器設備屬於非流動資產（固定資產），唔係流動資產。",
     "difficulty": 2,
@@ -1932,18 +1932,18 @@
     "question_zh": "蒙特卡洛模擬同敏感度分析嘅區別係咩？",
     "question_en": "蒙特卡洛模擬同敏感度分析嘅區別係咩？",
     "options_zh": [
-      "蒙特卡洛可同時改變多個變量",
       "敏感度分析更準確",
+      "蒙特卡洛可同時改變多個變量",
       "蒙特卡洛更簡單",
       "無區別"
     ],
     "options_en": [
-      "蒙特卡洛可同時改變多個變量",
       "敏感度分析更準確",
+      "蒙特卡洛可同時改變多個變量",
       "蒙特卡洛更簡單",
       "無區別"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_zh": "蒙特卡洛模擬同時隨機改變多個變量，提供結果嘅概率分佈。",
     "explanation_en": "蒙特卡洛模擬同時隨機改變多個變量，提供結果嘅概率分佈。",
     "difficulty": 2,
@@ -2007,18 +2007,18 @@
     "question_zh": "IAS 1 處理咩？",
     "question_en": "What does IAS 1 deal with?",
     "options_zh": [
-      "Presentation of Financial Statements",
+      "Inventories",
       "Revenue Recognition",
       "Leases",
-      "Inventories"
+      "Presentation of Financial Statements"
     ],
     "options_en": [
-      "Presentation of Financial Statements",
+      "Inventories",
       "Revenue Recognition",
       "Leases",
-      "Inventories"
+      "Presentation of Financial Statements"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "IAS 1 sets out the overall requirements for financial statement presentation.",
     "explanation_en": "IAS 1 sets out the overall requirements for financial statement presentation.",
     "difficulty": "hard",
@@ -2032,18 +2032,18 @@
     "question_zh": "IFRS 15 嘅目的係咩？",
     "question_en": "What is the purpose of IFRS 15?",
     "options_zh": [
-      "Revenue from Contracts with Customers",
-      "Leases",
       "Financial Instruments",
+      "Leases",
+      "Revenue from Contracts with Customers",
       "Employee Benefits"
     ],
     "options_en": [
-      "Revenue from Contracts with Customers",
-      "Leases",
       "Financial Instruments",
+      "Leases",
+      "Revenue from Contracts with Customers",
       "Employee Benefits"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "IFRS 15 provides a framework for revenue recognition from contracts with customers.",
     "explanation_en": "IFRS 15 provides a framework for revenue recognition from contracts with customers.",
     "difficulty": "easy",
@@ -2057,18 +2057,18 @@
     "question_zh": "IFRS 15 下幾時確認收入？",
     "question_en": "When should revenue be recognized under IFRS 15?",
     "options_zh": [
-      "When control of goods/services transfers to customer",
       "When cash is received",
+      "When control of goods/services transfers to customer",
       "When invoice is sent",
       "When contract is signed"
     ],
     "options_en": [
-      "When control of goods/services transfers to customer",
       "When cash is received",
+      "When control of goods/services transfers to customer",
       "When invoice is sent",
       "When contract is signed"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_zh": "Revenue is recognized when control of goods or services transfers to the customer.",
     "explanation_en": "Revenue is recognized when control of goods or services transfers to the customer.",
     "difficulty": "medium",
@@ -2082,18 +2082,18 @@
     "question_zh": "IFRS 15 嘅五個步驟係咩？",
     "question_en": "What are the five steps of IFRS 15?",
     "options_zh": [
-      "Identify contract, identify obligations, determine price, allocate, recognize",
+      "Budget, forecast, actual, variance, report",
       "Sign, deliver, invoice, collect, report",
       "Plan, execute, check, act, review",
-      "Budget, forecast, actual, variance, report"
+      "Identify contract, identify obligations, determine price, allocate, recognize"
     ],
     "options_en": [
-      "Identify contract, identify obligations, determine price, allocate, recognize",
+      "Budget, forecast, actual, variance, report",
       "Sign, deliver, invoice, collect, report",
       "Plan, execute, check, act, review",
-      "Budget, forecast, actual, variance, report"
+      "Identify contract, identify obligations, determine price, allocate, recognize"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "The five steps are: identify contract, identify performance obligations, determine transaction price, allocate, recognize revenue.",
     "explanation_en": "The five steps are: identify contract, identify performance obligations, determine transaction price, allocate, recognize revenue.",
     "difficulty": "easy",
@@ -2107,18 +2107,18 @@
     "question_zh": "IAS 2 處理咩？",
     "question_en": "What does IAS 2 deal with?",
     "options_zh": [
-      "Inventories",
-      "Revenue",
       "Leases",
+      "Revenue",
+      "Inventories",
       "Tax"
     ],
     "options_en": [
-      "Inventories",
-      "Revenue",
       "Leases",
+      "Revenue",
+      "Inventories",
       "Tax"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "IAS 2 prescribes the accounting treatment for inventories.",
     "explanation_en": "IAS 2 prescribes the accounting treatment for inventories.",
     "difficulty": "hard",
@@ -2132,18 +2132,18 @@
     "question_zh": "IAS 2 下存貨應該點樣計價？",
     "question_en": "How should inventories be valued under IAS 2?",
     "options_zh": [
-      "Lower of cost and net realizable value",
       "Market value",
+      "Lower of cost and net realizable value",
       "Replacement cost",
       "Historical cost only"
     ],
     "options_en": [
-      "Lower of cost and net realizable value",
       "Market value",
+      "Lower of cost and net realizable value",
       "Replacement cost",
       "Historical cost only"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_zh": "Inventories should be valued at the lower of cost and net realizable value.",
     "explanation_en": "Inventories should be valued at the lower of cost and net realizable value.",
     "difficulty": "hard",
@@ -2157,18 +2157,18 @@
     "question_zh": "IAS 16 處理咩？",
     "question_en": "What does IAS 16 deal with?",
     "options_zh": [
-      "Property, Plant and Equipment",
+      "Tax",
       "Inventories",
       "Revenue",
-      "Tax"
+      "Property, Plant and Equipment"
     ],
     "options_en": [
-      "Property, Plant and Equipment",
+      "Tax",
       "Inventories",
       "Revenue",
-      "Tax"
+      "Property, Plant and Equipment"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "IAS 16 prescribes the accounting treatment for property, plant and equipment.",
     "explanation_en": "IAS 16 prescribes the accounting treatment for property, plant and equipment.",
     "difficulty": "easy",
@@ -2182,18 +2182,18 @@
     "question_zh": "IAS 16 下資產成本係咩？",
     "question_en": "What is the cost of an asset under IAS 16?",
     "options_zh": [
-      "Purchase price plus directly attributable costs",
-      "Purchase price only",
       "Market value",
+      "Purchase price only",
+      "Purchase price plus directly attributable costs",
       "Replacement cost"
     ],
     "options_en": [
-      "Purchase price plus directly attributable costs",
-      "Purchase price only",
       "Market value",
+      "Purchase price only",
+      "Purchase price plus directly attributable costs",
       "Replacement cost"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "Cost includes purchase price and any directly attributable costs of bringing the asset to working condition.",
     "explanation_en": "Cost includes purchase price and any directly attributable costs of bringing the asset to working condition.",
     "difficulty": "hard",
@@ -2207,18 +2207,18 @@
     "question_zh": "IAS 16 允許邊折舊方法？",
     "question_en": "What depreciation methods are allowed under IAS 16?",
     "options_zh": [
-      "Straight-line, diminishing balance, units of production",
       "Only straight-line",
+      "Straight-line, diminishing balance, units of production",
       "Only diminishing balance",
       "Any method"
     ],
     "options_en": [
-      "Straight-line, diminishing balance, units of production",
       "Only straight-line",
+      "Straight-line, diminishing balance, units of production",
       "Only diminishing balance",
       "Any method"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_zh": "IAS 16 allows straight-line, diminishing balance, and units of production methods.",
     "explanation_en": "IAS 16 allows straight-line, diminishing balance, and units of production methods.",
     "difficulty": "hard",
@@ -2232,18 +2232,18 @@
     "question_zh": "IFRS 16 處理咩？",
     "question_en": "What does IFRS 16 deal with?",
     "options_zh": [
-      "Leases",
+      "Tax",
       "Revenue",
       "Inventories",
-      "Tax"
+      "Leases"
     ],
     "options_en": [
-      "Leases",
+      "Tax",
       "Revenue",
       "Inventories",
-      "Tax"
+      "Leases"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "IFRS 16 sets out the principles for recognition, measurement, and disclosure of leases.",
     "explanation_en": "IFRS 16 sets out the principles for recognition, measurement, and disclosure of leases.",
     "difficulty": "medium",
@@ -2257,18 +2257,18 @@
     "question_zh": "IFRS 16 下承租人確認咩？",
     "question_en": "Under IFRS 16, what does the lessee recognize?",
     "options_zh": [
-      "Right-of-use asset and lease liability",
-      "Only lease expense",
       "Nothing",
+      "Only lease expense",
+      "Right-of-use asset and lease liability",
       "Only liability"
     ],
     "options_en": [
-      "Right-of-use asset and lease liability",
-      "Only lease expense",
       "Nothing",
+      "Only lease expense",
+      "Right-of-use asset and lease liability",
       "Only liability"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "The lessee recognizes a right-of-use asset and a lease liability.",
     "explanation_en": "The lessee recognizes a right-of-use asset and a lease liability.",
     "difficulty": "hard",
@@ -2282,18 +2282,18 @@
     "question_zh": "IAS 36 處理咩？",
     "question_en": "What does IAS 36 deal with?",
     "options_zh": [
-      "Impairment of Assets",
       "Revenue",
+      "Impairment of Assets",
       "Leases",
       "Inventories"
     ],
     "options_en": [
-      "Impairment of Assets",
       "Revenue",
+      "Impairment of Assets",
       "Leases",
       "Inventories"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_zh": "IAS 36 ensures assets are carried at no more than their recoverable amount.",
     "explanation_en": "IAS 36 ensures assets are carried at no more than their recoverable amount.",
     "difficulty": "hard",
@@ -2307,18 +2307,18 @@
     "question_zh": "幾時應該減值資產？",
     "question_en": "When should an asset be impaired?",
     "options_zh": [
-      "When carrying amount exceeds recoverable amount",
+      "Never",
       "Every year",
       "When management decides",
-      "Never"
+      "When carrying amount exceeds recoverable amount"
     ],
     "options_en": [
-      "When carrying amount exceeds recoverable amount",
+      "Never",
       "Every year",
       "When management decides",
-      "Never"
+      "When carrying amount exceeds recoverable amount"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "An asset is impaired when its carrying amount exceeds its recoverable amount.",
     "explanation_en": "An asset is impaired when its carrying amount exceeds its recoverable amount.",
     "difficulty": "hard",
@@ -2332,18 +2332,18 @@
     "question_zh": "可收回金額係咩？",
     "question_en": "What is recoverable amount?",
     "options_zh": [
-      "Higher of fair value less costs of disposal and value in use",
-      "Fair value only",
       "Cost only",
+      "Fair value only",
+      "Higher of fair value less costs of disposal and value in use",
       "Market value"
     ],
     "options_en": [
-      "Higher of fair value less costs of disposal and value in use",
-      "Fair value only",
       "Cost only",
+      "Fair value only",
+      "Higher of fair value less costs of disposal and value in use",
       "Market value"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "Recoverable amount is the higher of fair value less costs of disposal and value in use.",
     "explanation_en": "Recoverable amount is the higher of fair value less costs of disposal and value in use.",
     "difficulty": "medium",
@@ -2357,18 +2357,18 @@
     "question_zh": "IAS 37 處理咩？",
     "question_en": "What does IAS 37 deal with?",
     "options_zh": [
-      "Provisions, Contingent Liabilities and Contingent Assets",
       "Revenue",
+      "Provisions, Contingent Liabilities and Contingent Assets",
       "Leases",
       "Tax"
     ],
     "options_en": [
-      "Provisions, Contingent Liabilities and Contingent Assets",
       "Revenue",
+      "Provisions, Contingent Liabilities and Contingent Assets",
       "Leases",
       "Tax"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_zh": "IAS 37 prescribes the accounting for provisions and contingencies.",
     "explanation_en": "IAS 37 prescribes the accounting for provisions and contingencies.",
     "difficulty": "hard",
@@ -2382,18 +2382,18 @@
     "question_zh": "幾時應該確認撥備？",
     "question_en": "When should a provision be recognized?",
     "options_zh": [
-      "When there is a present obligation from past events",
+      "When cash is paid",
       "Never",
       "Every year",
-      "When cash is paid"
+      "When there is a present obligation from past events"
     ],
     "options_en": [
-      "When there is a present obligation from past events",
+      "When cash is paid",
       "Never",
       "Every year",
-      "When cash is paid"
+      "When there is a present obligation from past events"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "A provision is recognized when there is a present obligation from past events, probable outflow, and reliable estimate.",
     "explanation_en": "A provision is recognized when there is a present obligation from past events, probable outflow, and reliable estimate.",
     "difficulty": "hard",
@@ -2407,18 +2407,18 @@
     "question_zh": "咩係或然負債？",
     "question_en": "What is a contingent liability?",
     "options_zh": [
-      "A possible obligation from past events",
-      "A certain obligation",
       "A provision",
+      "A certain obligation",
+      "A possible obligation from past events",
       "An asset"
     ],
     "options_en": [
-      "A possible obligation from past events",
-      "A certain obligation",
       "A provision",
+      "A certain obligation",
+      "A possible obligation from past events",
       "An asset"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "A contingent liability is a possible obligation that will be confirmed by future events.",
     "explanation_en": "A contingent liability is a possible obligation that will be confirmed by future events.",
     "difficulty": "hard",
@@ -2432,18 +2432,18 @@
     "question_zh": "IAS 19 處理咩？",
     "question_en": "What does IAS 19 deal with?",
     "options_zh": [
-      "Employee Benefits",
       "Revenue",
+      "Employee Benefits",
       "Leases",
       "Tax"
     ],
     "options_en": [
-      "Employee Benefits",
       "Revenue",
+      "Employee Benefits",
       "Leases",
       "Tax"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_zh": "IAS 19 prescribes the accounting for employee benefits.",
     "explanation_en": "IAS 19 prescribes the accounting for employee benefits.",
     "difficulty": "easy",
@@ -2457,18 +2457,18 @@
     "question_zh": "短期員工福利係咩？",
     "question_en": "What are short-term employee benefits?",
     "options_zh": [
-      "Benefits expected to be settled within 12 months",
+      "Only bonuses",
       "All benefits",
       "Only salary",
-      "Only bonuses"
+      "Benefits expected to be settled within 12 months"
     ],
     "options_en": [
-      "Benefits expected to be settled within 12 months",
+      "Only bonuses",
       "All benefits",
       "Only salary",
-      "Only bonuses"
+      "Benefits expected to be settled within 12 months"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "Short-term employee benefits are expected to be settled within 12 months of the reporting period.",
     "explanation_en": "Short-term employee benefits are expected to be settled within 12 months of the reporting period.",
     "difficulty": "easy",
@@ -2482,18 +2482,18 @@
     "question_zh": "IFRS 9 處理咩？",
     "question_en": "What does IFRS 9 deal with?",
     "options_zh": [
-      "Financial Instruments",
-      "Revenue",
       "Leases",
+      "Revenue",
+      "Financial Instruments",
       "Tax"
     ],
     "options_en": [
-      "Financial Instruments",
-      "Revenue",
       "Leases",
+      "Revenue",
+      "Financial Instruments",
       "Tax"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "IFRS 9 deals with the classification, measurement, and impairment of financial instruments.",
     "explanation_en": "IFRS 9 deals with the classification, measurement, and impairment of financial instruments.",
     "difficulty": "medium",
@@ -2507,18 +2507,18 @@
     "question_zh": "邊際成本法係咩？",
     "question_en": "What is marginal costing?",
     "options_zh": [
-      "Only variable costs are included in product cost",
       "All costs included",
+      "Only variable costs are included in product cost",
       "Only fixed costs",
       "No costs included"
     ],
     "options_en": [
-      "Only variable costs are included in product cost",
       "All costs included",
+      "Only variable costs are included in product cost",
       "Only fixed costs",
       "No costs included"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_zh": "Marginal costing includes only variable costs in product cost; fixed costs are period costs.",
     "explanation_en": "Marginal costing includes only variable costs in product cost; fixed costs are period costs.",
     "difficulty": "easy",
@@ -2532,18 +2532,18 @@
     "question_zh": "完全成本法係咩？",
     "question_en": "What is absorption costing?",
     "options_zh": [
-      "All manufacturing costs are included in product cost",
+      "No costs included",
       "Only variable costs",
       "Only fixed costs",
-      "No costs included"
+      "All manufacturing costs are included in product cost"
     ],
     "options_en": [
-      "All manufacturing costs are included in product cost",
+      "No costs included",
       "Only variable costs",
       "Only fixed costs",
-      "No costs included"
+      "All manufacturing costs are included in product cost"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "Absorption costing includes both fixed and variable manufacturing costs in product cost.",
     "explanation_en": "Absorption costing includes both fixed and variable manufacturing costs in product cost.",
     "difficulty": "easy",
@@ -2557,18 +2557,18 @@
     "question_zh": "邊際貢獻係咩？",
     "question_en": "What is a contribution margin?",
     "options_zh": [
-      "Sales revenue minus variable costs",
-      "Sales revenue minus all costs",
       "Profit",
+      "Sales revenue minus all costs",
+      "Sales revenue minus variable costs",
       "Revenue"
     ],
     "options_en": [
-      "Sales revenue minus variable costs",
-      "Sales revenue minus all costs",
       "Profit",
+      "Sales revenue minus all costs",
+      "Sales revenue minus variable costs",
       "Revenue"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "Contribution margin = Sales revenue - Variable costs.",
     "explanation_en": "Contribution margin = Sales revenue - Variable costs.",
     "difficulty": "hard",
@@ -2582,18 +2582,18 @@
     "question_zh": "損益平衡分析係咩？",
     "question_en": "What is break-even analysis?",
     "options_zh": [
-      "Finding the point where total revenue equals total costs",
       "Finding the maximum profit",
+      "Finding the point where total revenue equals total costs",
       "Finding the minimum cost",
       "Finding the best price"
     ],
     "options_en": [
-      "Finding the point where total revenue equals total costs",
       "Finding the maximum profit",
+      "Finding the point where total revenue equals total costs",
       "Finding the minimum cost",
       "Finding the best price"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_zh": "Break-even analysis finds the point where total revenue equals total costs (zero profit).",
     "explanation_en": "Break-even analysis finds the point where total revenue equals total costs (zero profit).",
     "difficulty": "easy",
@@ -2607,18 +2607,18 @@
     "question_zh": "損益平衡點點計？",
     "question_en": "How is break-even point calculated?",
     "options_zh": [
-      "Fixed costs / Contribution per unit",
+      "Revenue / Costs",
       "Variable costs / Selling price",
       "Total costs / Units",
-      "Revenue / Costs"
+      "Fixed costs / Contribution per unit"
     ],
     "options_en": [
-      "Fixed costs / Contribution per unit",
+      "Revenue / Costs",
       "Variable costs / Selling price",
       "Total costs / Units",
-      "Revenue / Costs"
+      "Fixed costs / Contribution per unit"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "BEP (units) = Fixed costs / Contribution per unit.",
     "explanation_en": "BEP (units) = Fixed costs / Contribution per unit.",
     "difficulty": "medium",
@@ -2632,18 +2632,18 @@
     "question_zh": "預算係咩？",
     "question_en": "What is a budget?",
     "options_zh": [
-      "A financial plan for a future period",
-      "A historical report",
       "A tax return",
+      "A historical report",
+      "A financial plan for a future period",
       "An audit report"
     ],
     "options_en": [
-      "A financial plan for a future period",
-      "A historical report",
       "A tax return",
+      "A historical report",
+      "A financial plan for a future period",
       "An audit report"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "A budget is a quantitative plan for a future period.",
     "explanation_en": "A budget is a quantitative plan for a future period.",
     "difficulty": "hard",
@@ -2657,18 +2657,18 @@
     "question_zh": "彈性預算係咩？",
     "question_en": "What is a flexible budget?",
     "options_zh": [
-      "A budget adjusted for actual activity level",
       "A fixed budget",
+      "A budget adjusted for actual activity level",
       "A cash budget",
       "A capital budget"
     ],
     "options_en": [
-      "A budget adjusted for actual activity level",
       "A fixed budget",
+      "A budget adjusted for actual activity level",
       "A cash budget",
       "A capital budget"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_zh": "A flexed budget adjusts the original budget for the actual level of activity.",
     "explanation_en": "A flexed budget adjusts the original budget for the actual level of activity.",
     "difficulty": "medium",
@@ -2682,18 +2682,18 @@
     "question_zh": "標準成本法係咩？",
     "question_en": "What is standard costing?",
     "options_zh": [
-      "Using predetermined costs for comparison",
+      "Using market costs",
       "Using actual costs only",
       "Using historical costs",
-      "Using market costs"
+      "Using predetermined costs for comparison"
     ],
     "options_en": [
-      "Using predetermined costs for comparison",
+      "Using market costs",
       "Using actual costs only",
       "Using historical costs",
-      "Using market costs"
+      "Using predetermined costs for comparison"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "Standard costing uses predetermined (standard) costs to compare with actual costs.",
     "explanation_en": "Standard costing uses predetermined (standard) costs to compare with actual costs.",
     "difficulty": "easy",
@@ -2707,18 +2707,18 @@
     "question_zh": "差異係咩？",
     "question_en": "What is a variance?",
     "options_zh": [
-      "The difference between standard and actual",
-      "The profit",
       "The revenue",
+      "The profit",
+      "The difference between standard and actual",
       "The cost"
     ],
     "options_en": [
-      "The difference between standard and actual",
-      "The profit",
       "The revenue",
+      "The profit",
+      "The difference between standard and actual",
       "The cost"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "A variance is the difference between a standard (budgeted) amount and the actual amount.",
     "explanation_en": "A variance is the difference between a standard (budgeted) amount and the actual amount.",
     "difficulty": "hard",
@@ -2732,18 +2732,18 @@
     "question_zh": "有利差異係咩？",
     "question_en": "What is a favorable variance?",
     "options_zh": [
-      "When actual is better than budget",
       "When actual is worse than budget",
+      "When actual is better than budget",
       "When actual equals budget",
       "Any variance"
     ],
     "options_en": [
-      "When actual is better than budget",
       "When actual is worse than budget",
+      "When actual is better than budget",
       "When actual equals budget",
       "Any variance"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_zh": "A favorable variance means actual performance is better than budgeted.",
     "explanation_en": "A favorable variance means actual performance is better than budgeted.",
     "difficulty": "medium",
@@ -2757,18 +2757,18 @@
     "question_zh": "不利差異係咩？",
     "question_en": "What is an adverse variance?",
     "options_zh": [
-      "When actual is worse than budget",
+      "No variance",
       "When actual is better than budget",
       "When actual equals budget",
-      "No variance"
+      "When actual is worse than budget"
     ],
     "options_en": [
-      "When actual is worse than budget",
+      "No variance",
       "When actual is better than budget",
       "When actual equals budget",
-      "No variance"
+      "When actual is worse than budget"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "An adverse variance means actual performance is worse than budgeted.",
     "explanation_en": "An adverse variance means actual performance is worse than budgeted.",
     "difficulty": "easy",
@@ -2782,18 +2782,18 @@
     "question_zh": "作業成本法係咩？",
     "question_en": "What is activity-based costing?",
     "options_zh": [
-      "Allocating costs based on activities that drive them",
-      "Allocating costs evenly",
       "Using only direct costs",
+      "Allocating costs evenly",
+      "Allocating costs based on activities that drive them",
       "Using only fixed costs"
     ],
     "options_en": [
-      "Allocating costs based on activities that drive them",
-      "Allocating costs evenly",
       "Using only direct costs",
+      "Allocating costs evenly",
+      "Allocating costs based on activities that drive them",
       "Using only fixed costs"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "ABC allocates costs based on the activities that drive those costs.",
     "explanation_en": "ABC allocates costs based on the activities that drive those costs.",
     "difficulty": "easy",
@@ -2807,18 +2807,18 @@
     "question_zh": "成本動因係咩？",
     "question_en": "What is a cost driver?",
     "options_zh": [
-      "An activity that causes costs to change",
       "A fixed cost",
+      "An activity that causes costs to change",
       "A variable cost",
       "A product"
     ],
     "options_en": [
-      "An activity that causes costs to change",
       "A fixed cost",
+      "An activity that causes costs to change",
       "A variable cost",
       "A product"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_zh": "A cost driver is an activity or factor that causes costs to change.",
     "explanation_en": "A cost driver is an activity or factor that causes costs to change.",
     "difficulty": "hard",
@@ -2832,18 +2832,18 @@
     "question_zh": "相關成本法係咩？",
     "question_en": "What is relevant costing?",
     "options_zh": [
-      "Considering only future costs that differ between options",
+      "Fixed costs only",
       "All costs",
       "Historical costs only",
-      "Fixed costs only"
+      "Considering only future costs that differ between options"
     ],
     "options_en": [
-      "Considering only future costs that differ between options",
+      "Fixed costs only",
       "All costs",
       "Historical costs only",
-      "Fixed costs only"
+      "Considering only future costs that differ between options"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "Relevant costing considers only future costs and revenues that differ between alternatives.",
     "explanation_en": "Relevant costing considers only future costs and revenues that differ between alternatives.",
     "difficulty": "medium",
@@ -2857,18 +2857,18 @@
     "question_zh": "沉沒成本係咩？",
     "question_en": "What is a sunk cost?",
     "options_zh": [
-      "A cost already incurred that cannot be changed",
-      "A future cost",
       "A variable cost",
+      "A future cost",
+      "A cost already incurred that cannot be changed",
       "A relevant cost"
     ],
     "options_en": [
-      "A cost already incurred that cannot be changed",
-      "A future cost",
       "A variable cost",
+      "A future cost",
+      "A cost already incurred that cannot be changed",
       "A relevant cost"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "A sunk cost has already been incurred and cannot be changed by any decision.",
     "explanation_en": "A sunk cost has already been incurred and cannot be changed by any decision.",
     "difficulty": "medium",
@@ -2882,18 +2882,18 @@
     "question_zh": "機會成本係咩？",
     "question_en": "What is an opportunity cost?",
     "options_zh": [
-      "The value of the next best alternative foregone",
       "A sunk cost",
+      "The value of the next best alternative foregone",
       "A fixed cost",
       "A direct cost"
     ],
     "options_en": [
-      "The value of the next best alternative foregone",
       "A sunk cost",
+      "The value of the next best alternative foregone",
       "A fixed cost",
       "A direct cost"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_zh": "Opportunity cost is the benefit foregone by choosing one alternative over another.",
     "explanation_en": "Opportunity cost is the benefit foregone by choosing one alternative over another.",
     "difficulty": "medium",
@@ -2907,18 +2907,18 @@
     "question_zh": "轉讓定價係咩？",
     "question_en": "What is transfer pricing?",
     "options_zh": [
-      "The price charged between divisions of the same organization",
+      "Cost pricing",
       "External pricing",
       "Market pricing",
-      "Cost pricing"
+      "The price charged between divisions of the same organization"
     ],
     "options_en": [
-      "The price charged between divisions of the same organization",
+      "Cost pricing",
       "External pricing",
       "Market pricing",
-      "Cost pricing"
+      "The price charged between divisions of the same organization"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "Transfer pricing is the price at which goods/services are transferred between divisions.",
     "explanation_en": "Transfer pricing is the price at which goods/services are transferred between divisions.",
     "difficulty": "easy",
@@ -2932,18 +2932,18 @@
     "question_zh": "產出會計係咩？",
     "question_en": "What is throughput accounting?",
     "options_zh": [
-      "Focusing on maximizing throughput (sales minus material costs)",
-      "Traditional costing",
       "Absorption costing",
+      "Traditional costing",
+      "Focusing on maximizing throughput (sales minus material costs)",
       "Marginal costing"
     ],
     "options_en": [
-      "Focusing on maximizing throughput (sales minus material costs)",
-      "Traditional costing",
       "Absorption costing",
+      "Traditional costing",
+      "Focusing on maximizing throughput (sales minus material costs)",
       "Marginal costing"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "Throughput accounting focuses on maximizing throughput = Sales - Material costs.",
     "explanation_en": "Throughput accounting focuses on maximizing throughput = Sales - Material costs.",
     "difficulty": "medium",
@@ -2957,18 +2957,18 @@
     "question_zh": "目標成本法係咩？",
     "question_en": "What is target costing?",
     "options_zh": [
-      "Setting a target cost based on market price minus required profit",
       "Using actual costs",
+      "Setting a target cost based on market price minus required profit",
       "Using historical costs",
       "Using standard costs"
     ],
     "options_en": [
-      "Setting a target cost based on market price minus required profit",
       "Using actual costs",
+      "Setting a target cost based on market price minus required profit",
       "Using historical costs",
       "Using standard costs"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_zh": "Target cost = Target selling price - Target profit margin.",
     "explanation_en": "Target cost = Target selling price - Target profit margin.",
     "difficulty": "easy",
@@ -2982,18 +2982,18 @@
     "question_zh": "生命週期成本法係咩？",
     "question_en": "What is life cycle costing?",
     "options_zh": [
-      "Considering all costs from design to disposal",
+      "Only maintenance costs",
       "Only production costs",
       "Only operating costs",
-      "Only maintenance costs"
+      "Considering all costs from design to disposal"
     ],
     "options_en": [
-      "Considering all costs from design to disposal",
+      "Only maintenance costs",
       "Only production costs",
       "Only operating costs",
-      "Only maintenance costs"
+      "Considering all costs from design to disposal"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "Life cycle costing considers all costs from product design through to disposal.",
     "explanation_en": "Life cycle costing considers all costs from product design through to disposal.",
     "difficulty": "hard",
@@ -3007,18 +3007,18 @@
     "question_zh": "審計嘅目的係咩？",
     "question_en": "What is the purpose of an audit?",
     "options_zh": [
-      "To express an opinion on financial statements",
-      "To prepare financial statements",
       "To manage the company",
+      "To prepare financial statements",
+      "To express an opinion on financial statements",
       "To make business decisions"
     ],
     "options_en": [
-      "To express an opinion on financial statements",
-      "To prepare financial statements",
       "To manage the company",
+      "To prepare financial statements",
+      "To express an opinion on financial statements",
       "To make business decisions"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "The auditor's purpose is to express an opinion on whether financial statements are fairly presented.",
     "explanation_en": "The auditor's purpose is to express an opinion on whether financial statements are fairly presented.",
     "difficulty": "hard",
@@ -3032,18 +3032,18 @@
     "question_zh": "審計風險係咩？",
     "question_en": "What is audit risk?",
     "options_zh": [
-      "Risk of expressing wrong opinion",
       "Risk of fraud",
+      "Risk of expressing wrong opinion",
       "Risk of error",
       "Risk of loss"
     ],
     "options_en": [
-      "Risk of expressing wrong opinion",
       "Risk of fraud",
+      "Risk of expressing wrong opinion",
       "Risk of error",
       "Risk of loss"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_zh": "Audit risk is the risk that the auditor expresses an inappropriate opinion.",
     "explanation_en": "Audit risk is the risk that the auditor expresses an inappropriate opinion.",
     "difficulty": "medium",
@@ -3057,18 +3057,18 @@
     "question_zh": "審計風險嘅組件係咩？",
     "question_en": "What are the components of audit risk?",
     "options_zh": [
-      "Inherent risk, control risk, detection risk",
+      "Strategic risk, compliance risk, operational risk",
       "Business risk, financial risk, operational risk",
       "Credit risk, market risk, liquidity risk",
-      "Strategic risk, compliance risk, operational risk"
+      "Inherent risk, control risk, detection risk"
     ],
     "options_en": [
-      "Inherent risk, control risk, detection risk",
+      "Strategic risk, compliance risk, operational risk",
       "Business risk, financial risk, operational risk",
       "Credit risk, market risk, liquidity risk",
-      "Strategic risk, compliance risk, operational risk"
+      "Inherent risk, control risk, detection risk"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "Audit risk = Inherent risk × Control risk × Detection risk.",
     "explanation_en": "Audit risk = Inherent risk × Control risk × Detection risk.",
     "difficulty": "easy",
@@ -3082,18 +3082,18 @@
     "question_zh": "固有風險係咩？",
     "question_en": "What is inherent risk?",
     "options_zh": [
-      "Risk of misstatement without considering controls",
-      "Risk of fraud",
       "Risk of detection",
+      "Risk of fraud",
+      "Risk of misstatement without considering controls",
       "Risk of loss"
     ],
     "options_en": [
-      "Risk of misstatement without considering controls",
-      "Risk of fraud",
       "Risk of detection",
+      "Risk of fraud",
+      "Risk of misstatement without considering controls",
       "Risk of loss"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "Inherent risk is the susceptibility of an assertion to misstatement, ignoring internal controls.",
     "explanation_en": "Inherent risk is the susceptibility of an assertion to misstatement, ignoring internal controls.",
     "difficulty": "medium",
@@ -3107,18 +3107,18 @@
     "question_zh": "控制風險係咩？",
     "question_en": "What is control risk?",
     "options_zh": [
-      "Risk that controls fail to prevent/detect misstatement",
       "Risk of fraud",
+      "Risk that controls fail to prevent/detect misstatement",
       "Risk of error",
       "Risk of loss"
     ],
     "options_en": [
-      "Risk that controls fail to prevent/detect misstatement",
       "Risk of fraud",
+      "Risk that controls fail to prevent/detect misstatement",
       "Risk of error",
       "Risk of loss"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_zh": "Control risk is the risk that internal controls fail to prevent or detect material misstatement.",
     "explanation_en": "Control risk is the risk that internal controls fail to prevent or detect material misstatement.",
     "difficulty": "medium",
@@ -3132,18 +3132,18 @@
     "question_zh": "偵測風險係咩？",
     "question_en": "What is detection risk?",
     "options_zh": [
-      "Risk that audit procedures fail to detect misstatement",
+      "Risk of loss",
       "Risk of fraud",
       "Risk of error",
-      "Risk of loss"
+      "Risk that audit procedures fail to detect misstatement"
     ],
     "options_en": [
-      "Risk that audit procedures fail to detect misstatement",
+      "Risk of loss",
       "Risk of fraud",
       "Risk of error",
-      "Risk of loss"
+      "Risk that audit procedures fail to detect misstatement"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "Detection risk is the risk that audit procedures will not detect a material misstatement.",
     "explanation_en": "Detection risk is the risk that audit procedures will not detect a material misstatement.",
     "difficulty": "easy",
@@ -3157,18 +3157,18 @@
     "question_zh": "重要性係咩？",
     "question_en": "What is materiality?",
     "options_zh": [
-      "The threshold above which misstatements could influence decisions",
-      "The total amount of errors",
       "The audit fee",
+      "The total amount of errors",
+      "The threshold above which misstatements could influence decisions",
       "The profit"
     ],
     "options_en": [
-      "The threshold above which misstatements could influence decisions",
-      "The total amount of errors",
       "The audit fee",
+      "The total amount of errors",
+      "The threshold above which misstatements could influence decisions",
       "The profit"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "Materiality is the threshold above which missing or incorrect information could influence decisions.",
     "explanation_en": "Materiality is the threshold above which missing or incorrect information could influence decisions.",
     "difficulty": "easy",
@@ -3182,18 +3182,18 @@
     "question_zh": "專業懷疑主義係咩？",
     "question_en": "What is professional skepticism?",
     "options_zh": [
-      "An attitude of questioning and critical assessment",
       "Being negative",
+      "An attitude of questioning and critical assessment",
       "Not trusting anyone",
       "Being difficult"
     ],
     "options_en": [
-      "An attitude of questioning and critical assessment",
       "Being negative",
+      "An attitude of questioning and critical assessment",
       "Not trusting anyone",
       "Being difficult"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_zh": "Professional skepticism means maintaining a questioning mind and critical assessment of evidence.",
     "explanation_en": "Professional skepticism means maintaining a questioning mind and critical assessment of evidence.",
     "difficulty": "medium",

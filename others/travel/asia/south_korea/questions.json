@@ -88,18 +88,18 @@
     "question_zh": "「南韓位於邊個洲？」適合邊種人？",
     "question_en": "Who is 'South Korea' suitable for?",
     "options_zh": [
-      "所有人",
+      "只適合成人",
       "只適合專業人士",
       "只適合兒童",
-      "只適合成人"
+      "所有人"
     ],
     "options_en": [
-      "Everyone",
+      "Only adults",
       "Only professionals",
       "Only children",
-      "Only adults"
+      "Everyone"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "正確答案係「所有人」。",
     "explanation_en": "The correct answer is 'Everyone'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "「南韓位於邊個洲？」嘅質素如何？",
     "question_en": "What is the quality of 'South Korea'?",
     "options_zh": [
-      "高質素",
-      "低質素",
       "參差",
+      "低質素",
+      "高質素",
       "普通"
     ],
     "options_en": [
-      "High quality",
-      "Low quality",
       "Mixed",
+      "Low quality",
+      "High quality",
       "Average"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "正確答案係「高質素」。",
     "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 3
@@ -151,18 +151,18 @@
     "question_en": "What is the capital city of South Korea?",
     "question_zh": "韓國嘅首都係咩？",
     "options_en": [
-      "Capital A",
+      "Capital D",
       "Capital B",
       "Capital C",
-      "Capital D"
+      "Capital A"
     ],
     "options_zh": [
-      "首都A",
+      "首都D",
       "首都B",
       "首都C",
-      "首都D"
+      "首都A"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_en": "The capital of South Korea is Capital A.",
     "explanation_zh": "韓國嘅首都係首都A。",
     "difficulty": 1
@@ -172,18 +172,18 @@
     "question_en": "What is the official language of South Korea?",
     "question_zh": "韓國嘅官方語言係咩？",
     "options_en": [
-      "Language A",
       "Language B",
+      "Language A",
       "Language C",
       "Language D"
     ],
     "options_zh": [
-      "語言A",
       "語言B",
+      "語言A",
       "語言C",
       "語言D"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_en": "The official language of South Korea is Language A.",
     "explanation_zh": "韓國嘅官方語言係語言A。",
     "difficulty": 1
@@ -193,18 +193,18 @@
     "question_en": "What currency is used in South Korea?",
     "question_zh": "韓國用咩貨幣？",
     "options_en": [
-      "Currency A",
-      "Currency B",
       "Currency C",
+      "Currency B",
+      "Currency A",
       "Currency D"
     ],
     "options_zh": [
-      "貨幣A",
-      "貨幣B",
       "貨幣C",
+      "貨幣B",
+      "貨幣A",
       "貨幣D"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_en": "South Korea uses Currency A.",
     "explanation_zh": "韓國用貨幣A。",
     "difficulty": 1

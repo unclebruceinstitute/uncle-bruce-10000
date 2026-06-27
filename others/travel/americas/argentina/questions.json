@@ -65,18 +65,18 @@
     "question_zh": "你會唔會推薦「阿根廷位於邊個洲？」？",
     "question_en": "Would you recommend 'Argentina'?",
     "options_zh": [
-      "會，非常推薦",
+      "睇情況",
       "唔會",
       "唔確定",
-      "睇情況"
+      "會，非常推薦"
     ],
     "options_en": [
-      "Yes, highly recommended",
+      "It depends",
       "No",
       "Not sure",
-      "It depends"
+      "Yes, highly recommended"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "正確答案係「會，非常推薦」。",
     "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 3
@@ -86,18 +86,18 @@
     "question_zh": "「阿根廷位於邊個洲？」適合邊種人？",
     "question_en": "Who is 'Argentina' suitable for?",
     "options_zh": [
-      "所有人",
+      "只適合專業人士",
       "只適合兒童",
       "只適合成人",
-      "只適合專業人士"
+      "所有人"
     ],
     "options_en": [
-      "Everyone",
+      "Only professionals",
       "Only children",
       "Only adults",
-      "Only professionals"
+      "Everyone"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "正確答案係「所有人」。",
     "explanation_en": "The correct answer is 'Everyone'.",
     "difficulty": 3
@@ -128,18 +128,18 @@
     "question_zh": "你對「阿根廷位於邊個洲？」嘅整體印象係？",
     "question_en": "What is your overall impression of 'Argentina'?",
     "options_zh": [
-      "非常好",
+      "冇印象",
       "唔好",
       "一般",
-      "冇印象"
+      "非常好"
     ],
     "options_en": [
-      "Very good",
+      "No impression",
       "Not good",
       "Average",
-      "No impression"
+      "Very good"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "正確答案係「非常好」。",
     "explanation_en": "The correct answer is 'Very good'.",
     "difficulty": 2
@@ -149,18 +149,18 @@
     "question_en": "What is the capital city of Argentina?",
     "question_zh": "阿根廷嘅首都係咩？",
     "options_en": [
-      "Capital A",
       "Capital B",
+      "Capital A",
       "Capital C",
       "Capital D"
     ],
     "options_zh": [
-      "首都A",
       "首都B",
+      "首都A",
       "首都C",
       "首都D"
     ],
-    "answer": 0,
+    "answer": "1",
     "explanation_en": "The capital of Argentina is Capital A.",
     "explanation_zh": "阿根廷嘅首都係首都A。",
     "difficulty": 1
@@ -170,18 +170,18 @@
     "question_en": "What is the official language of Argentina?",
     "question_zh": "阿根廷嘅官方語言係咩？",
     "options_en": [
-      "Language A",
+      "Language D",
       "Language B",
       "Language C",
-      "Language D"
+      "Language A"
     ],
     "options_zh": [
-      "語言A",
+      "語言D",
       "語言B",
       "語言C",
-      "語言D"
+      "語言A"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_en": "The official language of Argentina is Language A.",
     "explanation_zh": "阿根廷嘅官方語言係語言A。",
     "difficulty": 1

@@ -67,18 +67,18 @@
     "question_zh": "你會唔會推薦「《銀魂》屬於咩類型？」？",
     "question_en": "Would you recommend 'Gintama'?",
     "options_zh": [
-      "會，非常推薦",
+      "唔會",
       "睇情況",
       "唔確定",
-      "唔會"
+      "會，非常推薦"
     ],
     "options_en": [
-      "Yes, highly recommended",
+      "No",
       "It depends",
       "Not sure",
-      "No"
+      "Yes, highly recommended"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "正確答案係「會，非常推薦」。",
     "explanation_en": "The correct answer is 'Yes, highly recommended'.",
     "difficulty": 3
@@ -109,18 +109,18 @@
     "question_zh": "「《銀魂》屬於咩類型？」嘅質素如何？",
     "question_en": "What is the quality of 'Gintama'?",
     "options_zh": [
-      "高質素",
-      "參差",
       "普通",
+      "參差",
+      "高質素",
       "低質素"
     ],
     "options_en": [
-      "High quality",
-      "Mixed",
       "Average",
+      "Mixed",
+      "High quality",
       "Low quality"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_zh": "正確答案係「高質素」。",
     "explanation_en": "The correct answer is 'High quality'.",
     "difficulty": 3
@@ -130,18 +130,18 @@
     "question_zh": "你對「《銀魂》屬於咩類型？」嘅整體印象係？",
     "question_en": "What is your overall impression of 'Gintama'?",
     "options_zh": [
-      "非常好",
+      "唔好",
       "一般",
       "冇印象",
-      "唔好"
+      "非常好"
     ],
     "options_en": [
-      "Very good",
+      "Not good",
       "Average",
       "No impression",
-      "Not good"
+      "Very good"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_zh": "正確答案係「非常好」。",
     "explanation_en": "The correct answer is 'Very good'.",
     "difficulty": 2
@@ -172,18 +172,18 @@
     "question_en": "What genre is Gintama?",
     "question_zh": "《Gintama》屬於咩類型？",
     "options_en": [
-      "Action",
-      "Romance",
       "Comedy",
+      "Romance",
+      "Action",
       "Horror"
     ],
     "options_zh": [
-      "動作",
-      "愛情",
       "喜劇",
+      "愛情",
+      "動作",
       "恐怖"
     ],
-    "answer": 0,
+    "answer": "2",
     "explanation_en": "Gintama is an action anime.",
     "explanation_zh": "《Gintama》係動作動畫。",
     "difficulty": 1
@@ -214,18 +214,18 @@
     "question_en": "Who is the main character of Gintama?",
     "question_zh": "《Gintama》嘅主角係邊個？",
     "options_en": [
-      "Character A",
+      "Character D",
       "Character B",
       "Character C",
-      "Character D"
+      "Character A"
     ],
     "options_zh": [
-      "角色A",
+      "角色D",
       "角色B",
       "角色C",
-      "角色D"
+      "角色A"
     ],
-    "answer": 0,
+    "answer": "3",
     "explanation_en": "Character A is the protagonist of Gintama.",
     "explanation_zh": "角色A係《Gintama》嘅主角。",
     "difficulty": 1
